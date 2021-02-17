@@ -3,7 +3,7 @@ name: GitHub Cronjobs
 on:
   push:
     paths:
-      - "scripts/**"
+      - "functions/**"
       - ".github/workflows/gh-jobs.yml"
     branches:
       - master
@@ -23,5 +23,5 @@ jobs:
         with:
           node-version: "14"
       - name: Build Script
-        working-directory: scripts
+        working-directory: functions
         run: yarn install && yarn build
