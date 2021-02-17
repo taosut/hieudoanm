@@ -11,7 +11,7 @@
   - [Sports Clubs](docs/cst/sports/clubs.csv)
 - [Ethnic Minorities](docs/ethnic-minorities/ethnic-minorities.csv)
 - Information
-  - [Mobile Providers](docs/mobile-providers.csv)
+  - [Mobile Providers](docs/information/mobile-providers.csv)
 - [License Plates](docs/license-plates/license-plates.csv)
 - [Music](docs/music/artists.csv)
 - [Open APIs](docs/open-apis/open-apis.csv)
