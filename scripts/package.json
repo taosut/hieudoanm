@@ -1,0 +1,21 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "automation scripts",
+  "main": "main.ts",
+  "author": "NAM <vietnamdb29@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "repository": "https://github.com/vietnamdb/vietnamdb.git",
+  "scripts": {
+    "start": "node main.ts",
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.28"
+  },
+  "dependencies": {
+    "json2csv": "^5.0.6",
+    "node-fetch": "^2.6.1"
+  }
+}

@@ -1,0 +1,13 @@
+name,type,type_id,url,npm
+fpt,A.I.,ai,https://docs.fpt.ai/en,
+viettel,A.I.,ai,https://viettelgroup.ai/,
+vietcetera,Blog,blog,https://vietcetera.com/,vietcetera
+giaohangnhanh,Delivery,delivery,https://api.ghn.vn/,giaohangnhanh
+giaohangtietkiem,Delivery,delivery,https://docs.giaohangtietkiem.vn/,
+tiki,E-commerce,ecommerce,https://open.tiki.vn/,
+zalo,Messaging,messaging,https://developers.zalo.me/,
+momo,Payment,payment,https://developers.momo.vn/#/,
+onepay,Payment,payment,https://mtf.onepay.vn/developer/,onepay
+vnpay,Payment,payment,https://sandbox.vnpayment.vn/apis/,vnpay
+vtcpay,Payment,payment,https://vtcpay.vn/tai-lieu-tich-hop-website?l=en,vtcpay
+zalopay,Payment,payment,https://docs.zalopay.vn/,zalopay

@@ -1,0 +1,27 @@
+name: GitHub Cronjobs
+
+on:
+  push:
+    paths:
+      - "scripts/**"
+      - ".github/workflows/gh-jobs.yml"
+    branches:
+      - master
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "14"
+      - name: Build Script
+        working-directory: scripts
+        run: yarn install && yarn build

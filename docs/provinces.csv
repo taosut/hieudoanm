@@ -1,0 +1,64 @@
+province_id,name,capital,level,level_en,macro_region,macro_region_en,region,region_en
+an-giang,An Giang,Long Xuyên,tỉnh,province,nam bộ,southern,đồng bằng sông cửu long,mekong delta
+ba-ria-vung-tau,Bà Rịa-Vũng Tàu,Bà Rịa,tỉnh,province,nam bộ,southern,đông nam bộ,southeast
+binh-duong,Bình Dương,Thủ Dầu Một,tỉnh,province,nam bộ,southern,đông nam bộ,southeast
+binh-phuoc,Bình Phước,Đồng Xoài,tỉnh,province,nam bộ,southern,đông nam bộ,southeast
+binh-thuan,Bình Thuận,Phan Thiết,tỉnh,province,trung bộ,central,duyên hải nam trung bộ,south central coast
+binh-dinh,Bình Định,Qui Nhơn,tỉnh,province,trung bộ,central,duyên hải nam trung bộ,south central coast
+bac-lieu,Bạc Liêu,Bạc Liêu,tỉnh,province,nam bộ,southern,đồng bằng sông cửu long,mekong delta
+bac-giang,Bắc Giang,Bắc Giang,tỉnh,province,bắc bộ,northern,đông bắc bộ,northeast
+bac-kan,Bắc Kạn,Bắc Kạn,tỉnh,province,bắc bộ,northern,đông bắc bộ,northeast
+bac-ninh,Bắc Ninh,Bắc Ninh,tỉnh,province,bắc bộ,northern,đồng bằng sông hồng,red river delta
+ben-tre,Bến Tre,Bến Tre,tỉnh,province,nam bộ,southern,đồng bằng sông cửu long,mekong delta
+cao-bang,Cao Bằng,Cao Bằng,tỉnh,province,bắc bộ,northern,đông bắc bộ,northeast
+ca-mau,Cà Mau,Cà Mau,tỉnh,province,nam bộ,southern,đồng bằng sông cửu long,mekong delta
+can-tho,Cần Thơ,Quận Ninh Kiều,thành phố trực thuộc trung ương,municipality,nam bộ,southern,đồng bằng sông cửu long,mekong delta
+gia-lai,Gia Lai,Pleiku,tỉnh,province,trung bộ,central,tây nguyên,central highlands
+ha-giang,Hà Giang,Hà Giang,tỉnh,province,bắc bộ,northern,đông bắc bộ,northeast
+ha-nam,Hà Nam,Phủ Lý,tỉnh,province,bắc bộ,northern,đồng bằng sông hồng,red river delta
+ha-noi,Hà Nội,Quận Hoàn Kiếm,thành phố trực thuộc trung ương,municipality,bắc bộ,northern,đồng bằng sông hồng,red river delta
+ha-tinh,Hà Tĩnh,Hà Tĩnh,tỉnh,province,trung bộ,central,bắc trung bộ,north central coast
+hoa-binh,Hòa Bình,Hòa Bình,tỉnh,province,bắc bộ,northern,tây bắc bộ,northwest
+hung-yen,Hưng Yên,Hưng Yên,tỉnh,province,bắc bộ,northern,đồng bằng sông hồng,red river delta
+hai-duong,Hải Dương,Hải Dương,tỉnh,province,bắc bộ,northern,đồng bằng sông hồng,red river delta
+hai-phong,Hải Phòng,Quận Hồng Bàng,thành phố trực thuộc trung ương,municipality,bắc bộ,northern,đồng bằng sông hồng,red river delta
+hau-giang,Hậu Giang,Vị Thanh,tỉnh,province,nam bộ,southern,đồng bằng sông cửu long,mekong delta
+ho-chi-minh,Hồ Chí Minh,Quận 1,thành phố trực thuộc trung ương,municipality,nam bộ,southern,đông nam bộ,southeast
+khanh-hoa,Khánh Hòa,Nha Trang,tỉnh,province,trung bộ,central,duyên hải nam trung bộ,south central coast
+kien-giang,Kiên Giang,Rạch Giá,tỉnh,province,nam bộ,southern,đồng bằng sông cửu long,mekong delta
+kon-tum,Kon Tum,Kon Tum,tỉnh,province,trung bộ,central,tây nguyên,central highlands
+lai-chau,Lai Châu,Lai Châu,tỉnh,province,bắc bộ,northern,tây bắc bộ,northwest
+long-an,Long An,Tân An,tỉnh,province,nam bộ,southern,đồng bằng sông cửu long,mekong delta
+lao-cai,Lào Cai,Lào Cai,tỉnh,province,bắc bộ,northern,tây bắc bộ,northwest
+lam-dong,Lâm Đồng,Đà Lạt,tỉnh,province,trung bộ,central,tây nguyên,central highlands
+lang-son,Lạng Sơn,Lạng Sơn,tỉnh,province,bắc bộ,northern,đông bắc bộ,northeast
+nam-dinh,Nam Định,Nam Định,tỉnh,province,bắc bộ,northern,đồng bằng sông hồng,red river delta
+nghe-an,Nghệ An,Vinh,tỉnh,province,trung bộ,central,bắc trung bộ,north central coast
+ninh-binh,Ninh Bình,Ninh Bình,tỉnh,province,bắc bộ,northern,đồng bằng sông hồng,red river delta
+ninh-thuan,Ninh Thuận,Phan Rang–Tháp Chàm,tỉnh,province,trung bộ,central,duyên hải nam trung bộ,south central coast
+phu-tho,Phú Thọ,Việt Trì,tỉnh,province,bắc bộ,northern,đông bắc bộ,northeast
+phu-yen,Phú Yên,Tuy Hòa,tỉnh,province,trung bộ,central,duyên hải nam trung bộ,south central coast
+quang-binh,Quảng Bình,Đồng Hới,tỉnh,province,trung bộ,central,bắc trung bộ,north central coast
+quang-nam,Quảng Nam,Tam Kỳ,tỉnh,province,trung bộ,central,duyên hải nam trung bộ,south central coast
+quang-ngai,Quảng Ngãi,Quảng Ngãi,tỉnh,province,trung bộ,central,duyên hải nam trung bộ,south central coast
+quang-ninh,Quảng Ninh,Hạ Long,tỉnh,province,bắc bộ,northern,đông bắc bộ,northeast
+quang-tri,Quảng Trị,Đông Hà,tỉnh,province,trung bộ,central,bắc trung bộ,north central coast
+soc-trang,Sóc Trăng,Sóc Trăng,tỉnh,province,nam bộ,southern,đồng bằng sông cửu long,mekong delta
+son-la,Sơn La,Sơn La,tỉnh,province,bắc bộ,northern,tây bắc bộ,northwest
+thanh-hoa,Thanh Hóa,Thanh Hóa,tỉnh,province,trung bộ,central,bắc trung bộ,north central coast
+thai-binh,Thái Bình,Thái Bình,tỉnh,province,bắc bộ,northern,đồng bằng sông hồng,red river delta
+thai-nguyen,Thái Nguyên,Thái Nguyên,tỉnh,province,bắc bộ,northern,đông bắc bộ,northeast
+thua-thien-hue,Thừa Thiên-Huế,Huế,tỉnh,province,trung bộ,central,bắc trung bộ,north central coast
+tien-giang,Tiền Giang,Mỹ Tho,tỉnh,province,nam bộ,southern,đồng bằng sông cửu long,mekong delta
+tra-vinh,Trà Vinh,Trà Vinh,tỉnh,province,nam bộ,southern,đồng bằng sông cửu long,mekong delta
+tuyen-quang,Tuyên Quang,Tuyên Quang,tỉnh,province,bắc bộ,northern,đông bắc bộ,northeast
+tay-ninh,Tây Ninh,Tây Ninh,tỉnh,province,nam bộ,southern,đông nam bộ,southeast
+vinh-long,Vĩnh Long,Vĩnh Long,tỉnh,province,nam bộ,southern,đồng bằng sông cửu long,mekong delta
+vinh-phuc,Vĩnh Phúc,Vĩnh Yên,tỉnh,province,bắc bộ,northern,đồng bằng sông hồng,red river delta
+yen-bai,Yên Bái,Yên Bái,tỉnh,province,bắc bộ,northern,tây bắc bộ,northwest
+dien-bien,Điện Biên,Điện Biên Phủ,tỉnh,province,bắc bộ,northern,tây bắc bộ,northwest
+da-nang,Đà Nẵng,Quận Hải Châu,thành phố trực thuộc trung ương,municipality,trung bộ,central,duyên hải nam trung bộ,south central coast
+dak-lak,Đắk Lắk,Buôn Ma Thuột,tỉnh,province,trung bộ,central,tây nguyên,central highlands
+dak-nong,Đắk Nông,Gia Nghĩa,tỉnh,province,trung bộ,central,tây nguyên,central highlands
+dong-nai,Đồng Nai,Biên Hòa,tỉnh,province,nam bộ,southern,đông nam bộ,southeast
+dong-thap,Đồng Tháp,Cao Lãnh,tỉnh,province,nam bộ,southern,đồng bằng sông cửu long,mekong delta

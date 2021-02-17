@@ -1,0 +1,20 @@
+# node
+node_modules
+yarn-error.log
+
+# compile
+build
+dist
+
+# test
+coverage
+
+.DS_Store
+
+# lock file
+package-lock.json
+
+# environment
+.env
+dev.env
+prod.env
