@@ -27,7 +27,7 @@ jobs:
         run: yarn install && yarn build
       - name: Update Docs
         working-directory: functions
-        run: node main.js
+        run: yarn start
         env:
           API_KEY_GIAO_HANG_NHANH: ${{ secrets.API_KEY_GIAO_HANG_NHANH }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
