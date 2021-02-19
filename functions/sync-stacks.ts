@@ -211,9 +211,9 @@ export const writeToMD = async (list: Array<Record<string, any>>, filename: stri
 
 export const syncStacks = async () => {
   // Write to README.md
-  console.log('Write to README.md');
+  console.log('Sync Stacks - README.md');
   await writeToMD(openPersonal, 'README', 'VIETNAM DB');
   // Write to ALL.md
-  console.log('Write to ALL.md');
+  console.log('Sync Stacks - ALL.md');
   await writeToMD(open, 'ALL', 'ALL');
 };
