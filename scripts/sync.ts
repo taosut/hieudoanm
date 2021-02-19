@@ -1,11 +1,14 @@
 'use strict';
 
+import { buildREADME } from './build-readme';
 import { syncForexRates } from './sync-forex-rates';
 import { syncGHN } from './sync-ghn';
 import { syncStacks } from './sync-stacks';
 import { syncStockHistory } from './sync-stock-history';
 
 const main = async () => {
+  console.log('Build README');
+  await buildREADME();
   console.log('Sync Forex Rates');
   await syncForexRates();
   console.log('Sync Giao Hang Nhanh');

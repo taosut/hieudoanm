@@ -17,7 +17,7 @@ export const convertJSONtoCSV = async (json: Record<string, any>, fields: Array<
   return csv;
 };
 
-export const request = (url: string, method = 'GET') => {
+export const request = (url: string, method = 'GET'): Promise<any> => {
   return new Promise(resolve => {
     fetch(url, { method })
       .then((res: any) => res.json())
