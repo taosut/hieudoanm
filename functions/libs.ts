@@ -4,11 +4,7 @@ import fs from 'fs';
 import fetch from 'node-fetch';
 import { Parser } from 'json2csv';
 
-export const convertJSONtoCSV = async (
-  json: Record<string, any>,
-  fields: Array<string>,
-  path: string
-) => {
+export const convertJSONtoCSV = async (json: Record<string, any>, fields: Array<string>, path: string) => {
   const parser = new Parser({ fields, delimiter: ';' });
   const csv = parser.parse(json);
   if (path) {
@@ -17,9 +13,9 @@ export const convertJSONtoCSV = async (
   return csv;
 };
 
-export const fetch = (url: string) => {
+export const request = (url: string, method = 'GET') => {
   return new Promise(resolve => {
-    fetch(url)
+    fetch(url, { method })
       .then((res: any) => res.json())
       .then((res: any) => {
         resolve(res);
