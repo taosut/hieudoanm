@@ -90,6 +90,4 @@ export const syncGHN = async (): Promise<void> => {
   console.log('Sync Giao Hang Nhanh - Wards', wards.length);
   const stations: Array<any> = await syncStations(wards);
   console.log('Sync Giao Hang Nhanh - Stations', stations.length);
-
-  process.exit(0);
 };
