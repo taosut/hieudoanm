@@ -7,13 +7,13 @@ import { request } from './libs';
 const api: string = 'https://vietnamdb.herokuapp.com/api';
 const city: string = 'Hanoi';
 
-export const getWeather = async (): Promise<string> => {
+export const getWeather = async (): Promise<Record<string, any>> => {
   const url: string = `${api}/weather?city=${city}`;
   const { main = {}, weather = [] } = await request(url);
   const [first = {}] = weather;
   const { description = 'undefined' } = first;
-  const { temp = 0, feels_like = 0, temp_min = 0, temp_max = 0 } = main;
-  return `The current weather is **${description}**. Temperature is ${temp}°C (feels Like ${feels_like}°C) (${temp_min}°C - ${temp_max}°C)`;
+  const { temp = 0, feels_like: feelsLike = 0 } = main;
+  return { description, temp, feelsLike };
 };
 
 export const getAirVisual = async (): Promise<number> => {
@@ -41,15 +41,19 @@ export const buildREADME = async () => {
   const npm: string = fs.readFileSync('../markdown/npm.md', 'utf-8');
   const googleTrends: string = await buildGoogleTrends();
   const airVisual = await getAirVisual();
-  const weather = await getWeather();
+  const { description, temp, feelsLike } = await getWeather();
 
   const md: string = `# VIETNAMDB
 
-${weather}. Air Visual is ${airVisual}
+\`\`\`txt
+The current weather is ${description}.
+Temperature is ${temp}°C (feels like ${feelsLike}°C).
+Air Visual is ${airVisual}.
+\`\`\`
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
-## google trends
+**GOOGLE TRENDS**
 
 ${googleTrends}
 

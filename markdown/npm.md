@@ -1,4 +1,4 @@
-## npm
+**NPM**
 
 [![download](https://img.shields.io/npm/dm/giaohangnhanh.svg?style=flat&label=giaohangnhanh+%28download%29)](https://www.npmjs.com/package/giaohangnhanh)
 
