@@ -8,10 +8,13 @@
   "private": true,
   "repository": "https://github.com/vietnamdb/vietnamdb.git",
   "scripts": {
-    "start": "node main.ts",
+    "start": "node main.js",
+    "dev": "ts-node main.ts",
     "build": "tsc"
   },
   "dependencies": {
+    "dotenv": "^8.2.0",
+    "giaohangnhanh": "^1.0.2",
     "json2csv": "^5.0.6",
     "node-fetch": "^2.6.1"
   },

@@ -12,6 +12,18 @@ commander@^6.1.0:
   resolved "https://registry.yarnpkg.com/commander/-/commander-6.2.1.tgz#0792eb682dfbc325999bb2b84fddddba110ac73c"
   integrity sha512-U7VdrJFnJgo4xjrHpTzu0yrHPGImdsmD95ZlgYSEajAn2JKzDhDTPG9kBTefmObL2w/ngeZnilk+OV9CG3d7UA==
 
+dotenv@^8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
+  integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
+
+giaohangnhanh@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/giaohangnhanh/-/giaohangnhanh-1.0.2.tgz#33f41ee9c81e890185a015211c3b5236a11a3087"
+  integrity sha512-dhDn53GokYIXJSrzQNBmsVxetdEDwu9o5w9oNolpSzWk0kS1HVC20rm1DH2I1AwsQtz5WI6aMVFobvTXsksWGA==
+  dependencies:
+    node-fetch "^2.6.1"
+
 json2csv@^5.0.6:
   version "5.0.6"
   resolved "https://registry.yarnpkg.com/json2csv/-/json2csv-5.0.6.tgz#590e0e1b9579e59baa53bda0c0d840f4d8009687"
