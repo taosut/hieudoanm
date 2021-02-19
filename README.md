@@ -1,8 +1,8 @@
 # VIETNAMDB
 
-<table style="width:100%"><tr><td valign="top" width="50%">
+<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="50%">
 
-## Docs
+## csv
 
 - Administrative Divisions
   - [Postal Codes](docs/administrative-divisions/postal-codes.csv)
@@ -23,7 +23,7 @@
 
 </td><td valign="top" width="50%">
 
-## npm packages
+## npm
 
 - [giaohangnhanh](https://www.npmjs.com/package/giaohangnhanh) ![download](https://img.shields.io/npm/dm/giaohangnhanh.svg?style=flat)
 - [onepay](https://www.npmjs.com/package/onepay) ![download](https://img.shields.io/npm/dm/onepay.svg?style=flat)
@@ -36,4 +36,4 @@
 - [vtcpay](https://www.npmjs.com/package/vtcpay) ![download](https://img.shields.io/npm/dm/vtcpay.svg?style=flat)
 - [zalopay](https://www.npmjs.com/package/zalopay) ![download](https://img.shields.io/npm/dm/zalopay.svg?style=flat)
 
-</td></tr></table>
+</td></tr></tbody></table>
