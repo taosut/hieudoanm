@@ -209,11 +209,11 @@ export const writeToMD = async (list: Array<Record<string, any>>, filename: stri
   await fs.writeFileSync(mdPath, mdData + '\n');
 };
 
-export const syncStacks = async () => {
+export const syncStacks = async (): Promise<void> => {
   // Write to README.md
-  console.log('Sync Stacks - README.md');
   await writeToMD(openPersonal, 'README', 'VIETNAM DB');
+  console.log('Sync Stacks - README.md');
   // Write to ALL.md
-  console.log('Sync Stacks - ALL.md');
   await writeToMD(open, 'ALL', 'ALL');
+  console.log('Sync Stacks - ALL.md');
 };

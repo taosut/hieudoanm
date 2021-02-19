@@ -49,7 +49,7 @@ export const syncWards = async (districts: Array<any>): Promise<Array<any>> => {
   return wards;
 };
 
-export const syncStations = async (wards: Array<any>): Promise<void> => {
+export const syncStations = async (wards: Array<any>): Promise<Array<any>> => {
   const options = { district_id: 0, ward_code: '', offset: 0, limit: 10000 };
   let stations = await ghn.address.getStations(options);
   stations = stations.map((station: Record<string, any>) => {
@@ -78,17 +78,18 @@ export const syncStations = async (wards: Array<any>): Promise<void> => {
   const ghnStationsFields: Array<string> = ['province', 'district', 'ward', 'id', 'code', 'name', 'address', 'email', 'latitude', 'longitude'];
   const ghnStationsPath: string = `../docs/open-apis/ghn/stations.csv`;
   await convertJSONtoCSV(stations, ghnStationsFields, ghnStationsPath);
+  return stations;
 };
 
 export const syncGHN = async (): Promise<void> => {
-  console.log('Sync Giao Hang Nhanh - Provinces');
-  const provinces = await syncProvinces();
-  console.log('Sync Giao Hang Nhanh - Districts');
-  const districts = await syncDistricts(provinces);
-  console.log('Sync Giao Hang Nhanh - Wards');
-  const wards = await syncWards(districts);
-  console.log('Sync Giao Hang Nhanh - Stations');
-  await syncStations(wards);
+  const provinces: Array<any> = await syncProvinces();
+  console.log('Sync Giao Hang Nhanh - Provinces', provinces.length);
+  const districts: Array<any> = await syncDistricts(provinces);
+  console.log('Sync Giao Hang Nhanh - Districts', districts.length);
+  const wards: Array<any> = await syncWards(districts);
+  console.log('Sync Giao Hang Nhanh - Wards', wards.length);
+  const stations: Array<any> = await syncStations(wards);
+  console.log('Sync Giao Hang Nhanh - Stations', stations.length);
 
   process.exit(0);
 };
