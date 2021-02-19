@@ -1,5 +1,10 @@
 # VIETNAMDB
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+### Docs
+
 - Administrative Divisions
   - [Postal Codes](docs/administrative-divisions/postal-codes.csv)
   - [Provinces](docs/administrative-divisions/provinces.csv)
@@ -16,8 +21,9 @@
 - [Music](docs/music/artists.csv)
 - [Open APIs](docs/open-apis/open-apis.csv)
   - [Giao Hang Nhanh (GHN)](docs/open-apis/ghn)
-
-## npm packages
+    </td>
+    <td valign="top" width="50%">
+### npm packages
 
 - [giaohangnhanh](https://www.npmjs.com/package/giaohangnhanh) ![download](https://img.shields.io/npm/dm/giaohangnhanh.svg?style=flat)
 - [onepay](https://www.npmjs.com/package/onepay) ![download](https://img.shields.io/npm/dm/onepay.svg?style=flat)
@@ -29,3 +35,7 @@
 - [vnpay](https://www.npmjs.com/package/vnpay) ![download](https://img.shields.io/npm/dm/vnpay.svg?style=flat)
 - [vtcpay](https://www.npmjs.com/package/vtcpay) ![download](https://img.shields.io/npm/dm/vtcpay.svg?style=flat)
 - [zalopay](https://www.npmjs.com/package/zalopay) ![download](https://img.shields.io/npm/dm/zalopay.svg?style=flat)
+    </td>
+  </tr>
+</table>
+
