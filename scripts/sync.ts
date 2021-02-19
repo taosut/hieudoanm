@@ -5,6 +5,7 @@ import { syncForexRates } from './sync-forex-rates';
 import { syncGHN } from './sync-ghn';
 import { syncStacks } from './sync-stacks';
 import { syncStockHistory } from './sync-stock-history';
+import { syncYouTubeVideoCategories } from './sync-youtube-video-categories';
 
 const main = async () => {
   console.log('Build README');
@@ -17,6 +18,8 @@ const main = async () => {
   await syncStacks();
   console.log('Sync Stock History');
   await syncStockHistory();
+  console.log('Sync YouTube Video Categories');
+  await syncYouTubeVideoCategories();
 
   process.exit(0);
 };

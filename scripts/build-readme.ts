@@ -7,6 +7,20 @@ import { request } from './libs';
 const api: string = 'https://vietnamdb.herokuapp.com/api';
 const city: string = 'Hanoi';
 
+export const getYouTubeTrending = async (categoryId: number = 0): Promise<string> => {
+  const link: string = `${api}/youtube/trending`;
+  const url: string = categoryId ? `${link}?categoryId=${categoryId}` : link;
+  const videos = await request(url);
+  const top10 = videos.slice(0, 10);
+  return top10
+    .map((video: Record<string, any>, index: number) => {
+      const { title, url, channelId, channelTitle } = video;
+      const channelUrl: string = `https://www.youtube.com/channel/${channelId}`;
+      return `${index + 1}. [${title}](${url}) - [${channelTitle}](${channelUrl})`;
+    })
+    .join('\n');
+};
+
 export const getWeather = async (): Promise<Record<string, any>> => {
   const url: string = `${api}/weather?city=${city}`;
   const { main = {}, weather = [] } = await request(url);
@@ -42,6 +56,7 @@ export const buildREADME = async () => {
   const googleTrends: string = await buildGoogleTrends();
   const airVisual = await getAirVisual();
   const { description, temp, feelsLike } = await getWeather();
+  const youTubeTrending = await getYouTubeTrending();
 
   const md: string = `# VIETNAMDB
 
@@ -63,6 +78,12 @@ ${csv}
 </td><td valign="top" width="33%">
 
 ${npm}
+</td></tr><tr><td valign="top" width="33%">
+
+**YOUTUBE TRENDS**
+
+${youTubeTrending}
+
 </td></tr></tbody></table>
 `;
 
