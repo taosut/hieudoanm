@@ -3,7 +3,7 @@ name: GitHub Cronjobs
 on:
   push:
     paths:
-      - "functions/**"
+      - "scripts/**"
       - ".github/workflows/gh-jobs.yml"
     branches:
       - master
@@ -23,10 +23,10 @@ jobs:
         with:
           node-version: "14"
       - name: Build Script
-        working-directory: functions
+        working-directory: scripts
         run: yarn install && yarn build
       - name: Update Docs
-        working-directory: functions
+        working-directory: scripts
         run: yarn start
         env:
           API_KEY_GIAO_HANG_NHANH: ${{ secrets.API_KEY_GIAO_HANG_NHANH }}
