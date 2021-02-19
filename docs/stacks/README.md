@@ -1,4 +1,4 @@
-# VIETNAM DB
+# TECHSTACKS
 
 (Top) Languages: `JavaScript (12)`, `C (5)`, `TypeScript (5)`, `C++ (1)`, `Go (1)`, `Java (1)`, `Python (1)`, `Ruby (1)`, `Shell (1)`
 
@@ -8,7 +8,11 @@
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
 |1|[<img src="https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript" alt="javascript" />](https://github.com/airbnb/javascript) | javascript | 104,785 | 3,801 | 20,364 | 128,950|
 |2|[<img src="https://img.shields.io/badge/-go-000?style=flat&logo=go" alt="go" />](https://github.com/golang/go) | go | 82,133 | 3,526 | 11,939 | 97,598|
+<<<<<<< HEAD
 |3|[<img src="https://img.shields.io/badge/-typescript-000?style=flat&logo=typescript" alt="typescript" />](https://github.com/microsoft/TypeScript) | typescript | 68,674 | 2,159 | 9,112 | 79,945|
+=======
+|3|[<img src="https://img.shields.io/badge/-typescript-000?style=flat&logo=typescript" alt="typescript" />](https://github.com/microsoft/TypeScript) | typescript | 68,673 | 2,159 | 9,112 | 79,944|
+>>>>>>> 59bd5a7 (add-weather)
 
 ## PACKAGE MANAGERS
 
