@@ -7,9 +7,8 @@ on:
       - ".github/workflows/gh-jobs.yml"
     branches:
       - master
-  workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 8-23 * * 1-5"
 
 jobs:
   build:
