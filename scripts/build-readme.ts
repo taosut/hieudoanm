@@ -2,7 +2,7 @@
 
 import fs from 'fs';
 
-import { request } from './libs';
+import { addZero, request } from './libs';
 
 const api: string = 'https://vietnamdb.herokuapp.com/api';
 const city: string = 'Hanoi';
@@ -16,7 +16,7 @@ export const getYouTubeTrending = async (categoryId: number = 0): Promise<string
     .map((video: Record<string, any>, index: number) => {
       const { title, url, channelId, channelTitle } = video;
       const channelUrl: string = `https://www.youtube.com/channel/${channelId}`;
-      return `${index + 1}. [${title}](${url}) - [${channelTitle}](${channelUrl})`;
+      return `${addZero(index + 1)}. [${title}](${url}) - [${channelTitle}](${channelUrl})`;
     })
     .join('\n');
 };
@@ -57,6 +57,7 @@ export const buildREADME = async () => {
   const airVisual = await getAirVisual();
   const { description, temp, feelsLike } = await getWeather();
   const youTubeTrending = await getYouTubeTrending();
+  const musicTrending = await getYouTubeTrending(10);
 
   const md: string = `# VIETNAMDB
 
@@ -83,6 +84,12 @@ ${npm}
 **YOUTUBE TRENDS**
 
 ${youTubeTrending}
+
+</td><td valign="top" width="33%">
+
+** MUSIC TRENDS**
+
+${musicTrending}
 
 </td></tr></tbody></table>
 `;

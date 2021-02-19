@@ -96,4 +96,19 @@ Air Visual is 158.
 9. [🔴[Trực Tiếp] Tin COVID 19 CẬP NHẬT 5 Phút 1 Lần | THỜI SỰ VTV1 ngày 18.2 | Tin tức 24h mới nhất](https://www.youtube.com/watch?v=fIxXA0I_UI8) - [VTVcab Tin tức](https://www.youtube.com/channel/UCnLu_gk-FZF7Jt5KoVQU52Q)
 10. [VỀ NHÀ ĂN TẾT - TẬP 2 | HỒ BÍCH TRÂM, KHƯƠNG DỪA, QUÁCH NGỌC TUYÊN, LIÊU HÀ TRINH, BẢO CHUNG](https://www.youtube.com/watch?v=FyR_KGkVKqI) - [HỒ BÍCH TRÂM OFFICIAL](https://www.youtube.com/channel/UC6nDGvumjOoV-_Kh8XRWoCw)
 
+</td><td valign="top" width="33%">
+
+** MUSIC TRENDS**
+
+1. [Xuân Này Con Không Về Karaoke Tone Nam Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=eDhD--v4QNw) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
+2. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+3. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
+4. [Free Fire x Sơn Tùng M-TP | 'Skyler' Theme Song |  Official](https://www.youtube.com/watch?v=kKL3x0W2GiQ) - [Sơn Tùng M-TP Official](https://www.youtube.com/channel/UClyA28-01x4z60eWQ2kiNbA)
+5. [Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]](https://www.youtube.com/watch?v=aXzVF3XeS8M) - [TaylorSwiftVEVO](https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg)
+6. [Ariana Grande - 34+35 Remix (feat. Doja Cat and Megan Thee Stallion) (Official Video)](https://www.youtube.com/watch?v=ssq6X6alZ3w) - [ArianaGrandeVevo](https://www.youtube.com/channel/UC0VOyT2OCBKdQhF3BAbZ-1g)
+7. [HIT TẾT 2021 | LK Không Đủ Để Ở Lại - Trấn Thành, Ali Hoàng Dương | Gala Nhạc Việt 15 (Official)](https://www.youtube.com/watch?v=hOOh92Ixc4U) - [Gala Nhạc Việt](https://www.youtube.com/channel/UC8MC0KhiRcvBsMkcjmDf4mg)
+8. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
+9. [Cardi B - Up [Official Music Video]](https://www.youtube.com/watch?v=rCiBgLOcuKU) - [Cardi B](https://www.youtube.com/channel/UCxMAbVFmxKUVGAll0WVGpFw)
+10. [현아 (HyunA) - 'I'm Not Cool' Dance Practice](https://www.youtube.com/watch?v=sbu_4j_wfsQ) - [HyunA](https://www.youtube.com/channel/UC0uTcuuOtUFwtn9aKUVGjXg)
+
 </td></tr></tbody></table>
