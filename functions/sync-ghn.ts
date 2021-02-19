@@ -81,9 +81,13 @@ export const syncStations = async (wards: Array<any>): Promise<void> => {
 };
 
 export const syncGHN = async (): Promise<void> => {
+  console.log('Sync Giao Hang Nhanh - Provinces');
   const provinces = await syncProvinces();
+  console.log('Sync Giao Hang Nhanh - Districts');
   const districts = await syncDistricts(provinces);
+  console.log('Sync Giao Hang Nhanh - Wards');
   const wards = await syncWards(districts);
+  console.log('Sync Giao Hang Nhanh - Stations');
   await syncStations(wards);
 
   process.exit(0);

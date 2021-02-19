@@ -26,3 +26,15 @@ export const request = (url: string, method = 'GET') => {
       });
   });
 };
+
+export const numberFormatter = (x: number = 0): string => {
+  return x
+    .toString()
+    .replace(/,/g, '')
+    .replace(/\B(?=(\d{3})+(?!\d))/g, ',');
+};
+
+export const capitalize = (s: string = ''): string => {
+  if (typeof s !== 'string') return '';
+  return s.charAt(0).toUpperCase() + s.slice(1);
+};
