@@ -3,6 +3,7 @@
 import { syncForexRates } from './sync-forex-rates';
 import { syncGHN } from './sync-ghn';
 import { syncStacks } from './sync-stacks';
+import { syncStockHistory } from './sync-stock-history';
 
 const main = async () => {
   console.log('Sync Forex Rates');
@@ -11,6 +12,8 @@ const main = async () => {
   await syncGHN();
   console.log('Sync Stacks');
   await syncStacks();
+  console.log('Sync Stock History');
+  await syncStockHistory();
 
   process.exit(0);
 };
