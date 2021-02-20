@@ -54,7 +54,7 @@ export const getAirVisual = async (): Promise<number> => {
   return aqius;
 };
 
-export const buildGoogleTrends = async (): Promise<string> => {
+export const getGoogleTrends = async (): Promise<string> => {
   const url: string = `${api}/news/trends`;
   const { trends = [] } = await request(url);
   const md: string = trends
@@ -66,25 +66,38 @@ export const buildGoogleTrends = async (): Promise<string> => {
   return md;
 };
 
+export const buildNPM = (): string => {
+  const packages: Array<string> = ['giaohangnhanh', 'onepay', 'vietcetera', 'vietnambanks', 'vietnamgovernment', 'vietnamnews', 'vnapis', 'vnpay', 'vtcpay', 'zalopay'].sort();
+  return packages
+    .map((_package: string) => {
+      return `[![download](https://img.shields.io/npm/dm/${_package}.svg?style=flat&label=${_package}+%28download%29)](https://www.npmjs.com/package/${_package})`;
+    })
+    .join('\n\n');
+};
+
 export const buildREADME = async () => {
   const csv: string = fs.readFileSync('../markdown/csv.md', 'utf-8');
-  const npm: string = fs.readFileSync('../markdown/npm.md', 'utf-8');
-  const googleTrends: string = await buildGoogleTrends();
+  const googleTrends: string = await getGoogleTrends();
   const airVisual: number = await getAirVisual();
   const { description, temp, feelsLike } = await getWeather();
   const youTubeTrending: string = await getYouTubeTrending();
   const musicTrending: string = await getYouTubeTrending(10);
   const vietceteraArticles: string = await getVietcetera();
+  const npm: string = buildNPM();
 
   const md: string = `# VIETNAMDB
 
 [Stacks](docs/stacks)
+
+## Weather
 
 \`\`\`txt
 The current weather is ${description}.
 Temperature is ${temp}°C (feels like ${feelsLike}°C).
 Air Visual is ${airVisual}.
 \`\`\`
+
+## Feed
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
@@ -112,10 +125,13 @@ ${vietceteraArticles}
 
 </td><td valign="top" width="33%">
 
-${csv}
-</td><td valign="top" width="33%">
+**NPM**
 
 ${npm}
+
+</td><td valign="top" width="33%">
+
+${csv}
 </td></tr></tbody></table>
 `;
 
