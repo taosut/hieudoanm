@@ -9,7 +9,7 @@ export const addZero = (i: number = 0): string => {
 };
 
 export const convertJSONtoCSV = async (json: Record<string, any>, fields: Array<string>, path: string) => {
-  const parser = new Parser({ fields, delimiter: ';' });
+  const parser = new Parser({ fields, delimiter: ',' });
   const csv = parser.parse(json);
   if (path) {
     await fs.writeFileSync(path, csv);
