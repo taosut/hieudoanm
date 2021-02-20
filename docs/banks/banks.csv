@@ -1,36 +1,37 @@
-code,name,name_en,name_short,url,type,type_en
-ABB,Ngân hàng An Bình,An Binh Bank,,https://abbank.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-ACB,Ngân hàng Á Châu,Asia Commercial Joint Stock Bank,,https://acb.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-AGRIBANK,Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam,Vietnam Bank for Agriculture and Rural Development,Agribank,https://agribank.com.vn,Ngân Hàng Thương Mại Nhà Nước,State-owned Bank
-BAB,Ngân hàng Bắc Á,Bac A Bank,BacABank,https://baca-bank.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-BAOVIETBANK,Ngân hàng Bảo Việt,Bao Viet Bank,BaoVietBank,https://baovietbank.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-BID,Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam,JSC Bank for Investment and Development of Vietnam,BIDV,https://bidv.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-BVB,Ngân hàng Bản Việt,Viet Capital Bank,VietCapitalBank,https://vietcapitalbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-CB,Ngân hàng Xây dựng,Construction Bank,,https://cbbank.vn,Ngân Hàng Thương Mại Nhà Nước,State-owned Bank
-CTG,Ngân hàng Công thương Việt Nam,Vietnam Bank for Industry and Trade,Vietinbank,https://vietinbank.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-DAB,Ngân hàng thương mại cổ phần Đông Á,DongA Bank,Đông Á Bank,https://dongabank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-EIB,Ngân hàng Xuất Nhập khẩu Việt Nam,Vietnam Export Import Commercial Joint Stock Bank,Eximbank,https://eximbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-GPBANK,Ngân hàng Dầu Khí Toàn Cầu,Global Petro Bank,GPBank,https://gpbank.com.vn,Ngân Hàng Thương Mại Nhà Nước,State-owned Bank
-HDB,Ngân hàng thương mại cổ phần Phát triển Nhà Thành phố Hồ Chí Minh,Ho Chi Minh City Development Bank,HDBank,https://hdbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-KLB,Ngân Hàng Kiên Long,Kien Long Commercial Joint Stock Bank,KienLongBank,https://kienlongbank.com,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-LPB,Ngân hàng Bưu điện Liên Việt,Lien Viet Postal Commercial Joint Stock Bank,,https://lienvietpostbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-MB,Ngân hàng Quân đội,Military Commercial Joint Stock Bank,,https://mbbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-MSB,Ngân hàng Hàng Hải Việt Nam,Vietnam Maritime Joint - Stock Commercial Bank,,https://msb.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-NAB,Ngân hàng thương mại cổ phần Nam Á,Nam A Bank,Nam A Bank,https://namabank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-NCB,Ngân hàng Quốc Dân,National Citizen Bank,,https://ncb-bank.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-OCB,Ngân hàng Phương Đông,Orient Commercial Joint Stock Bank,,https://ocb.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-OCEANBANK,Ngân hàng Đại Dương,Ocean Bank,Oceanbank,https://oceanbank.vn,Ngân Hàng Thương Mại Nhà Nước,State-owned Bank
-PGB,Ngân hàng Xăng dầu Petrolimex,Petrolimex Commercial Joint Stock Bank,PG Bank,https://pgbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-PVCOMBANK,Ngân hàng Đại chúng Việt Nam,Vietnam Public Joint Stock Commercial Bank,PVcombank,https://pvcombank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-SCB,Ngân hàng TMCP Sài Gòn,Sai Gon Commercial Bank,,https://scb.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-SGB,Ngân hàng Sài Gòn Công Thương,Saigon Bank for Industry and Trade,Saigonbank,https://saigonbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-SHB,Ngân hàng Sài Gòn - Hà Nội,Saigon - Hanoi Commercial Joint Stock Bank,,https://shb.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-SSB,Ngân hàng Đông Nam Á,South East Asia Bank,,https://seabank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-STB,Ngân hàng Sài Gòn Thương Tín,Sai Gon Thuong Tin Commercial Joint Stock Bank,Sacombank,https://sacombank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-TCB,Ngân hàng Kỹ Thương Việt Nam,VietNam Technological and Commercial Joint Stock Bank,,https://techcombank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-TPB,Ngân hàng Tiên Phong,Tien Phong Bank,TPBank,https://tpb.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-VBB,Ngân hàng Việt Nam Thương Tín,Vietnam Thuong Tin Commercial Joint Stock Bank,VietBank,https://vietbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-VCB,Ngân hàng Ngoại thương Việt Nam,Joint Stock Commercial Bank for Foreign Trade of Vietnam,Vietcombank,https://vietcombank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-VIB,Ngân hàng Quốc tế,Vietnam International and Commercial Joint Stock Bank,,https://vib.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-VIETABANK,Ngân hàng Việt Á,Viet A Bank,VietABank,https://vietabank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
-VPB,Ngân hàng Việt Nam Thịnh Vượng,Vietnam Prosperity Bank,VPBank,https://vpbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"no",id,code,name,name_en,name_short,url,type,type_en
+"1",abbank,ABB,Ngân hàng An Bình,An Binh Bank,,https://abbank.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"2",acb,ACB,Ngân hàng Á Châu,Asia Commercial Joint Stock Bank,,https://acb.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"3",agribank,AGRIBANK,Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam,Vietnam Bank for Agriculture and Rural Development,Agribank,https://agribank.com.vn,Ngân Hàng Thương Mại Nhà Nước,State-owned Bank
+"4",,BAB,Ngân hàng Bắc Á,Bac A Bank,BacABank,https://baca-bank.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"5",baovietbank,BAOVIETBANK,Ngân hàng Bảo Việt,Bao Viet Bank,BaoVietBank,https://baovietbank.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"6",bidv,BID,Ngân hàng Thương mại Cổ phần Đầu tư và Phát triển Việt Nam,JSC Bank for Investment and Development of Vietnam,BIDV,https://bidv.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"7",vietcapitalbank,BVB,Ngân hàng Bản Việt,Viet Capital Bank,VietCapitalBank,https://vietcapitalbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"8",cbbank,CB,Ngân hàng Xây dựng,Construction Bank,,https://cbbank.vn,Ngân Hàng Thương Mại Nhà Nước,State-owned Bank
+"9",vietinbank,CTG,Ngân hàng Công thương Việt Nam,Vietnam Bank for Industry and Trade,Vietinbank,https://vietinbank.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"10",dongabank,DAB,Ngân hàng thương mại cổ phần Đông Á,DongA Bank,Đông Á Bank,https://dongabank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"11",eximbank,EIB,Ngân hàng Xuất Nhập khẩu Việt Nam,Vietnam Export Import Commercial Joint Stock Bank,Eximbank,https://eximbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"12",gpbank,GPBANK,Ngân hàng Dầu Khí Toàn Cầu,Global Petro Bank,GPBank,https://gpbank.com.vn,Ngân Hàng Thương Mại Nhà Nước,State-owned Bank
+"13",hdbank,HDB,Ngân hàng thương mại cổ phần Phát triển Nhà Thành phố Hồ Chí Minh,Ho Chi Minh City Development Bank,HDBank,https://hdbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"14",kienlongbank,KLB,Ngân Hàng Kiên Long,Kien Long Commercial Joint Stock Bank,KienLongBank,https://kienlongbank.com,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"15",lienvietpostbank,LPB,Ngân hàng Bưu điện Liên Việt,Lien Viet Postal Commercial Joint Stock Bank,,https://lienvietpostbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"16",mbbank,MB,Ngân hàng Quân đội,Military Commercial Joint Stock Bank,,https://mbbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"17",msb,MSB,Ngân hàng Hàng Hải Việt Nam,Vietnam Maritime Joint - Stock Commercial Bank,,https://msb.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"18",namabank,NAB,Ngân hàng thương mại cổ phần Nam Á,Nam A Bank,Nam A Bank,https://namabank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"19",ncb,NCB,Ngân hàng Quốc Dân,National Citizen Bank,,https://ncb-bank.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"20",ocb,OCB,Ngân hàng Phương Đông,Orient Commercial Joint Stock Bank,,https://ocb.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"21",oceanbank,OCEANBANK,Ngân hàng Đại Dương,Ocean Bank,Oceanbank,https://oceanbank.vn,Ngân Hàng Thương Mại Nhà Nước,State-owned Bank
+"22",pgbank,PGB,Ngân hàng Xăng dầu Petrolimex,Petrolimex Commercial Joint Stock Bank,PG Bank,https://pgbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"23",pvcombank,PVCOMBANK,Ngân hàng Đại chúng Việt Nam,Vietnam Public Joint Stock Commercial Bank,PVcombank,https://pvcombank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"24",scb,SCB,Ngân hàng TMCP Sài Gòn,Sai Gon Commercial Bank,,https://scb.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"25",saigonbank,SGB,Ngân hàng Sài Gòn Công Thương,Saigon Bank for Industry and Trade,Saigonbank,https://saigonbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"26",shb,SHB,Ngân hàng Sài Gòn - Hà Nội,Saigon - Hanoi Commercial Joint Stock Bank,,https://shb.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"27",seabank,SSB,Ngân hàng Đông Nam Á,South East Asia Bank,,https://seabank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"28",sacombank,STB,Ngân hàng Sài Gòn Thương Tín,Sai Gon Thuong Tin Commercial Joint Stock Bank,Sacombank,https://sacombank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"29",techcombank,TCB,Ngân hàng Kỹ Thương Việt Nam,VietNam Technological and Commercial Joint Stock Bank,,https://techcombank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"30",tpbank,TPB,Ngân hàng Tiên Phong,Tien Phong Bank,TPBank,https://tpb.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"31",uob,UOB,Ngân hàng UOB,United Overseas Bank,UOB,https://www.uob.com.vn,Ngân Hàng Nước Ngoài,Foreign Bank
+"32",vietbank,VBB,Ngân hàng Việt Nam Thương Tín,Vietnam Thuong Tin Commercial Joint Stock Bank,VietBank,https://vietbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"33",vietcombank,VCB,Ngân hàng Ngoại thương Việt Nam,Joint Stock Commercial Bank for Foreign Trade of Vietnam,Vietcombank,https://vietcombank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"34",vib,VIB,Ngân hàng Quốc tế,Vietnam International and Commercial Joint Stock Bank,,https://vib.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"35",,VIETABANK,Ngân hàng Việt Á,Viet A Bank,VietABank,https://vietabank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
+"36",vpbank,VPB,Ngân hàng Việt Nam Thịnh Vượng,Vietnam Prosperity Bank,VPBank,https://vpbank.com.vn,Ngân Hàng Thương Mại Cổ Phần,Private Joint-Stock Commercial Bank
