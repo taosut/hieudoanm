@@ -16,7 +16,8 @@
     "dotenv": "^8.2.0",
     "giaohangnhanh": "^1.0.2",
     "json2csv": "^5.0.6",
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "vietcetera": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.28",

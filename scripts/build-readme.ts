@@ -1,11 +1,27 @@
 'use strict';
 
 import fs from 'fs';
+import Vietcetera from 'vietcetera';
 
 import { addZero, request } from './libs';
 
+const vietcetera: Vietcetera = new Vietcetera();
+
 const api: string = 'https://vietnamdb.herokuapp.com/api';
 const city: string = 'Hanoi';
+
+export const getVietcetera = async () => {
+  const type: any = 'latest';
+  const basicArticles: Array<Record<string, any>> = await vietcetera.getArticles({ type });
+  const articles = basicArticles
+    .map((article: Record<string, any> = {}) => {
+      const { title = '', slug = '', language = '' } = article;
+      const url = language && slug ? `https://vietcetera.com/${language.toLowerCase()}/${slug}` : '';
+      return `- [${title}](${url})`;
+    })
+    .join('\n');
+  return articles;
+};
 
 export const getYouTubeTrending = async (categoryId: number = 0): Promise<string> => {
   const link: string = `${api}/youtube/trending`;
@@ -54,12 +70,15 @@ export const buildREADME = async () => {
   const csv: string = fs.readFileSync('../markdown/csv.md', 'utf-8');
   const npm: string = fs.readFileSync('../markdown/npm.md', 'utf-8');
   const googleTrends: string = await buildGoogleTrends();
-  const airVisual = await getAirVisual();
+  const airVisual: number = await getAirVisual();
   const { description, temp, feelsLike } = await getWeather();
-  const youTubeTrending = await getYouTubeTrending();
-  const musicTrending = await getYouTubeTrending(10);
+  const youTubeTrending: string = await getYouTubeTrending();
+  const musicTrending: string = await getYouTubeTrending(10);
+  const vietceteraArticles: string = await getVietcetera();
 
   const md: string = `# VIETNAMDB
+
+[Stacks](docs/stacks)
 
 \`\`\`txt
 The current weather is ${description}.
@@ -75,22 +94,28 @@ ${googleTrends}
 
 </td><td valign="top" width="33%">
 
-${csv}
-</td><td valign="top" width="33%">
+**MUSIC TRENDS**
 
-${npm}
-</td></tr><tr><td valign="top" width="33%">
+${musicTrending}
+
+</td><td valign="top" width="33%">
 
 **YOUTUBE TRENDS**
 
 ${youTubeTrending}
 
+</td></tr><tr><td valign="top" width="33%">
+
+**VIETCETERA**
+
+${vietceteraArticles}
+
 </td><td valign="top" width="33%">
 
-** MUSIC TRENDS**
+${csv}
+</td><td valign="top" width="33%">
 
-${musicTrending}
-
+${npm}
 </td></tr></tbody></table>
 `;
 
