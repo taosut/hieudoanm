@@ -8,6 +8,7 @@
 - [Banks](docs/banks/banks.csv)
 - Culture, Sports and Tourism
   - [Dynasties](docs/cst/culture/dynasties.csv)
+  - [Movies](docs/cst/culture/movies.md)
   - [Sports Clubs](docs/cst/sports/clubs.csv)
 - [Ethnic Minorities](docs/ethnic-minorities/ethnic-minorities.csv)
 - Information
