@@ -1,6 +1,5 @@
 # News
 
-- [Chưa lấy được lời khai của kẻ đâm chết 3 người ở quán karaoke Hòa Bình](http://vietnamnet.vn/vn/thoi-su/chua-lay-duoc-loi-khai-cua-ke-dam-chet-3-nguoi-o-quan-karaoke-hoa-binh-714593.html) ([VietNamNet](https://vietnamnet.vn))
 - [Quận Ngũ Hành Sơn chỉ đạo &quot;nóng&quot; vụ phố du lịch nhếch nhác](https://laodong.vn/ban-doc/quan-ngu-hanh-son-chi-dao-nong-vu-pho-du-lich-nhech-nhac-882419.ldo) ([Lao Động](https://laodong.vn))
 - [Hàng hóa từ Hải Dương vẫn vướng mắc ở 'cửa ngõ' Hải Phòng](https://vnexpress.net/hang-hoa-tu-hai-duong-van-vuong-mac-o-cua-ngo-hai-phong-4238301.html) ([VNExpress](https://vnexpress.net))
 - [Khuyến khích và bảo vệ cán bộ “6 dám”: Thúc đẩy khát vọng phát triển đất nước hùng cường](https://laodong.vn/thoi-su/khuyen-khich-va-bao-ve-can-bo-6-dam-thuc-day-khat-vong-phat-trien-dat-nuoc-hung-cuong-882301.ldo) ([Lao Động](https://laodong.vn))
@@ -93,10 +92,11 @@
 - [Gần 1 nửa dân số Israel tiêm vắc-xin Pfizer-BioNTech: Ngăn ngừa tử vong do COVID-19 hiệu quả tới 99%](https://cafebiz.vn/gan-1-nua-dan-so-israel-tiem-vac-xin-pfizer-biontech-ngan-ngua-tu-vong-do-covid-19-hieu-qua-toi-99-2021022207462972.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sáng 22.2: Chưa ghi nhận ca mắc COVID-19 mới, hơn 120 nghìn người cách ly](https://laodong.vn/y-te/sang-222-chua-ghi-nhan-ca-mac-covid-19-moi-hon-120-nghin-nguoi-cach-ly-882345.ldo) ([Lao Động](https://laodong.vn))
 - [Sáng 22-2 Việt Nam chưa có ca mắc COVID-19 mới, chỉ còn Hải Dương đang có dịch](https://tuoitre.vn/sang-22-2-viet-nam-chua-co-ca-mac-covid-19-moi-chi-con-hai-duong-dang-co-dich-20210222061607766.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Mũ Robot Của Daft Punk Chế Tạo Như Thế Nào?](https://tinhte.vn/thread/mu-robot-cua-daft-punk-che-tao-nhu-the-nao.3280383/) ([Tinh Tế](https://tinhte.vn))
 - [#Trongbalocogi: Ba lô thanhtung6868](https://tinhte.vn/thread/trongbalocogi-ba-lo-thanhtung6868.3273271/) ([Tinh Tế](https://tinhte.vn))
+- [#Tet21: Cùng khoe ảnh đi chơi tết, biển Nha Trang mùa này đẹp quá](https://tinhte.vn/thread/tet21-cung-khoe-anh-di-choi-tet-bien-nha-trang-mua-nay-dep-qua.3280283/) ([Tinh Tế](https://tinhte.vn))
+- [Nghe thử âm thanh của Yamaha's YDS-150, saxophone điện tử có giá hơn 1000$](https://tinhte.vn/thread/nghe-thu-am-thanh-cua-yamahas-yds-150-saxophone-dien-tu-co-gia-hon-1000.3280234/) ([Tinh Tế](https://tinhte.vn))
+- [Đã có Windows 10 21H1 Insider Preview build 19043, mời anh em tải về](https://tinhte.vn/thread/da-co-windows-10-21h1-insider-preview-build-19043-moi-anh-em-tai-ve.3280518/) ([Tinh Tế](https://tinhte.vn))
 - [MacBook: Có USB-C rồi, liệu có cần thêm MagSafe?](https://tinhte.vn/thread/macbook-co-usb-c-roi-lieu-co-can-them-magsafe.3280373/) ([Tinh Tế](https://tinhte.vn))
 - [[Video] Máy bay của United Airlines nổ động cơ trên không](https://tinhte.vn/thread/video-may-bay-cua-united-airlines-no-dong-co-tren-khong.3280370/) ([Tinh Tế](https://tinhte.vn))
-- [Nghe thử âm thanh của Yamaha's YDS-150, saxophone điện tử có giá hơn 1000$](https://tinhte.vn/thread/nghe-thu-am-thanh-cua-yamahas-yds-150-saxophone-dien-tu-co-gia-hon-1000.3280234/) ([Tinh Tế](https://tinhte.vn))
 - [Anh em đang dùng nước gì cho uống/ nấu ăn hàng ngày tại gia đình ?](https://tinhte.vn/thread/anh-em-dang-dung-nuoc-gi-cho-uong-nau-an-hang-ngay-tai-gia-dinh.3280374/) ([Tinh Tế](https://tinhte.vn))
-- [Review Dịch vụ Microsoft Sway để giảng dạy online](https://tinhte.vn/thread/review-dich-vu-microsoft-sway-de-giang-day-online.3279946/) ([Tinh Tế](https://tinhte.vn))
-- [Sau nửa thiên niên kỷ, các nhà khoa học đã hiểu được bí ẩn trong phác thảo tim của Leonardo da Vinci](https://tinhte.vn/thread/sau-nua-thien-nien-ky-cac-nha-khoa-hoc-da-hieu-duoc-bi-an-trong-phac-thao-tim-cua-leonardo-da-vinci.3280407/) ([Tinh Tế](https://tinhte.vn))
