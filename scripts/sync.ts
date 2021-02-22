@@ -7,6 +7,7 @@ import { syncMovies } from './sync-movies';
 import { syncStacks } from './sync-stacks';
 import { syncStockHistory } from './sync-stock-history';
 import { syncVisas } from './sync-visas';
+import { syncVLeague } from './sync-vleague';
 import { syncYouTubeVideoCategories } from './sync-youtube-video-categories';
 
 const main = async () => {
@@ -24,6 +25,8 @@ const main = async () => {
   await syncStockHistory();
   console.log('Sync Visas');
   await syncVisas();
+  console.log('Sync VLeague');
+  await syncVLeague();
   console.log('Sync YouTube Video Categories');
   await syncYouTubeVideoCategories();
 

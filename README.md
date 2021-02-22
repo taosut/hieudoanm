@@ -5,9 +5,9 @@
 ## Weather
 
 ```txt
-The current weather is clear sky.
-Temperature is 25°C (feels like 24.46°C).
-Air Visual is 154.
+The current weather is mist.
+Temperature is 20°C (feels like 20.59°C).
+Air Visual is 120.
 ```
 
 ## Feed
@@ -16,26 +16,26 @@ Air Visual is 154.
 
 **GOOGLE TRENDS**
 
-- [Bayern](https://www.google.com/search?q=Bayern)
+- [Arsenal vs Man City](https://www.google.com/search?q=Arsenal%20vs%20Man%20City)
+- [Barca vs Cadiz](https://www.google.com/search?q=Barca%20vs%20Cadiz)
 - [Campuchia](https://www.google.com/search?q=Campuchia)
-- [Chelsea](https://www.google.com/search?q=Chelsea)
-- [Chùa Ngọc Hoàng](https://www.google.com/search?q=Ch%C3%B9a%20Ng%E1%BB%8Dc%20Ho%C3%A0ng)
-- [Chùa Viên Giác](https://www.google.com/search?q=Ch%C3%B9a%20Vi%C3%AAn%20Gi%C3%A1c)
 - [Cuôc chiến thượng lưu](https://www.google.com/search?q=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u)
-- [Cách cúng thần tài](https://www.google.com/search?q=C%C3%A1ch%20c%C3%BAng%20th%E1%BA%A7n%20t%C3%A0i)
-- [Cúng Thần Tài](https://www.google.com/search?q=C%C3%BAng%20Th%E1%BA%A7n%20T%C3%A0i)
-- [Liverpool vs Everton](https://www.google.com/search?q=Liverpool%20vs%20Everton)
-- [Lệ Quyên](https://www.google.com/search?q=L%E1%BB%87%20Quy%C3%AAn)
-- [M.a](https://www.google.com/search?q=M.a)
-- [MU](https://www.google.com/search?q=MU)
-- [Mai Tài Phến](https://www.google.com/search?q=Mai%20T%C3%A0i%20Ph%E1%BA%BFn)
-- [NSND Hoàng Dũng](https://www.google.com/search?q=NSND%20Ho%C3%A0ng%20D%C5%A9ng)
-- [Ngô Thanh Vân](https://www.google.com/search?q=Ng%C3%B4%20Thanh%20V%C3%A2n)
-- [Penthouses Cuộc chiến thượng lưu](https://www.google.com/search?q=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u)
+- [Djokovic](https://www.google.com/search?q=Djokovic)
+- [Dortmund](https://www.google.com/search?q=Dortmund)
+- [Giá vàng hôm nay](https://www.google.com/search?q=Gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay)
+- [Inter](https://www.google.com/search?q=Inter)
+- [Leicester](https://www.google.com/search?q=Leicester)
+- [Liverpool](https://www.google.com/search?q=Liverpool)
+- [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
+- [Nhẫn vàng](https://www.google.com/search?q=Nh%E1%BA%ABn%20v%C3%A0ng)
 - [Real Madrid](https://www.google.com/search?q=Real%20Madrid)
-- [Tam Đảo](https://www.google.com/search?q=Tam%20%C4%90%E1%BA%A3o)
-- [Trương Vĩnh Trọng](https://www.google.com/search?q=Tr%C6%B0%C6%A1ng%20V%C4%A9nh%20Tr%E1%BB%8Dng)
-- [Tình hình dịch COVID ngày 19 tháng 2 năm 2021](https://www.google.com/search?q=T%C3%ACnh%20h%C3%ACnh%20d%E1%BB%8Bch%20COVID%20ng%C3%A0y%2019%20th%C3%A1ng%202%20n%C4%83m%202021)
+- [Song Joong Ki](https://www.google.com/search?q=Song%20Joong%20Ki)
+- [Sáng tạo doanh 2021](https://www.google.com/search?q=S%C3%A1ng%20t%E1%BA%A1o%20doanh%202021)
+- [Tenor](https://www.google.com/search?q=Tenor)
+- [Tottenham](https://www.google.com/search?q=Tottenham)
+- [Vincenzo](https://www.google.com/search?q=Vincenzo)
+- [Virus H5N8](https://www.google.com/search?q=Virus%20H5N8)
+- [Warren Buffett](https://www.google.com/search?q=Warren%20Buffett)
 
 </td><td valign="top" width="33%">
 
@@ -43,13 +43,13 @@ Air Visual is 154.
 
 01. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 02. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
-03. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-04. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - SUGA](https://www.youtube.com/watch?v=tHJLvOiROxI) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-05. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
+03. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
+04. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+05. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - SUGA](https://www.youtube.com/watch?v=tHJLvOiROxI) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 06. [Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]](https://www.youtube.com/watch?v=aXzVF3XeS8M) - [TaylorSwiftVEVO](https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg)
-07. [Free Fire x Sơn Tùng M-TP | 'Skyler' Theme Song |  Official](https://www.youtube.com/watch?v=kKL3x0W2GiQ) - [Sơn Tùng M-TP Official](https://www.youtube.com/channel/UClyA28-01x4z60eWQ2kiNbA)
-08. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
-09. [Ariana Grande - 34+35 Remix (feat. Doja Cat and Megan Thee Stallion) (Official Video)](https://www.youtube.com/watch?v=ssq6X6alZ3w) - [ArianaGrandeVevo](https://www.youtube.com/channel/UC0VOyT2OCBKdQhF3BAbZ-1g)
+07. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
+08. [Ariana Grande - 34+35 Remix (feat. Doja Cat and Megan Thee Stallion) (Official Video)](https://www.youtube.com/watch?v=ssq6X6alZ3w) - [ArianaGrandeVevo](https://www.youtube.com/channel/UC0VOyT2OCBKdQhF3BAbZ-1g)
+09. [Free Fire x Sơn Tùng M-TP | 'Skyler' Theme Song |  Official](https://www.youtube.com/watch?v=kKL3x0W2GiQ) - [Sơn Tùng M-TP Official](https://www.youtube.com/channel/UClyA28-01x4z60eWQ2kiNbA)
 10. [HIT TẾT 2021 | LK Không Đủ Để Ở Lại - Trấn Thành, Ali Hoàng Dương | Gala Nhạc Việt 15 (Official)](https://www.youtube.com/watch?v=hOOh92Ixc4U) - [Gala Nhạc Việt](https://www.youtube.com/channel/UC8MC0KhiRcvBsMkcjmDf4mg)
 
 </td><td valign="top" width="33%">
@@ -57,20 +57,21 @@ Air Visual is 154.
 **YOUTUBE TRENDS**
 
 01. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
-02. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2 [ Xuân Tân Sửu Tết 2021 ]](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
-03. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
+02. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
+03. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2 [ Xuân Tân Sửu Tết 2021 ]](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 04. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
-05. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
-06. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
-07. [Jack hát live "Đom Đóm" trên sân khấu kỳ ảo cùng màn đu dây ấn tượng tại SÓNG 21](https://www.youtube.com/watch?v=mSXNodTt6bw) - [VieTalents](https://www.youtube.com/channel/UCBVSuk_f8ZCPIQ_KwXEGWFw)
-08. [VỀ NHÀ ĂN TẾT - TẬP 3 | HỒ BÍCH TRÂM, KHƯƠNG DỪA, QUÁCH NGỌC TUYÊN, LIÊU HÀ TRINH, BẢO CHUNG ...](https://www.youtube.com/watch?v=fVEVV6tW1Uo) - [HỒ BÍCH TRÂM OFFICIAL](https://www.youtube.com/channel/UC6nDGvumjOoV-_Kh8XRWoCw)
-09. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+05. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
+06. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+07. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+08. [Jack hát live "Đom Đóm" trên sân khấu kỳ ảo cùng màn đu dây ấn tượng tại SÓNG 21](https://www.youtube.com/watch?v=mSXNodTt6bw) - [VieTalents](https://www.youtube.com/channel/UCBVSuk_f8ZCPIQ_KwXEGWFw)
+09. [VỀ NHÀ ĂN TẾT - TẬP 3 | HỒ BÍCH TRÂM, KHƯƠNG DỪA, QUÁCH NGỌC TUYÊN, LIÊU HÀ TRINH, BẢO CHUNG ...](https://www.youtube.com/watch?v=fVEVV6tW1Uo) - [HỒ BÍCH TRÂM OFFICIAL](https://www.youtube.com/channel/UC6nDGvumjOoV-_Kh8XRWoCw)
 10. [TÌNH BẠN DIỆU KỲ - AMEE x Ricky Star x Lăng LD ( Masew Remix )](https://www.youtube.com/watch?v=yFqzSq6T-Iw) - [Masew](https://www.youtube.com/channel/UCpm6kKrf5OdNRZ9hMgk3gsA)
 
 </td></tr><tr><td valign="top" width="33%">
 
 **VIETCETERA**
 
+- ["Năm đó, lần đầu tiên trong đời cô biết nhớ một người con trai..."](https://vietcetera.com/vn/nhan-quyet-dinh-day-o-dao-ngay-len-tau-chua-kip-buon-co-da-oi)
 - [Podcast "Vietnam Innovators": Cùng Hảo Trần và Ruby Nguyễn đối thoại về chiến lược lãnh đạo](https://vietcetera.com/vn/podcast-vietnam-innovators-cung-hao-tran-va-ruby-nguyen-doi-thoai-voi-nhung-lanh-dao-tai-ba)
 - [Tóm Lại Là: Chủ nghĩa dân tộc vaccine, tại sao “khó trị”?](https://vietcetera.com/vn/tom-lai-la-chu-nghia-dan-toc-vaccine-tai-sao-kho-tri)
 - [5 Tiệm cà phê thủ công giao tận nhà ở Hà Nội cho hội "coffeholic"](https://vietcetera.com/vn/5-tiem-ca-phe-thu-cong-giao-tan-nha-o-ha-noi-cho-hoi-coffeholic)
@@ -80,7 +81,6 @@ Air Visual is 154.
 - [A Working Woman: Kristine Nguyễn, “Đỉnh vinh quang không nhất thiết phải hiu quạnh” ](https://vietcetera.com/vn/a-working-woman-kristine-nguyen-dinh-vinh-quang-khong-nhat-thiet-phai-hiu-quanh)
 - [Tóm Lại Là: Đùa vô tư về nữ quyền, liệu có vô duyên?](https://vietcetera.com/vn/tom-lai-la-dua-vo-tu-hoa-vo-duyen)
 - [Lý Xuân Lợi và những khuôn hình biết chuyển động](https://vietcetera.com/vn/ly-xuan-loi-va-nhung-khuon-hinh-biet-chuyen-dong)
-- [“Nếu đồng ý thì tớ sẽ bỏ hết, vì cậu.”](https://vietcetera.com/vn/neu-dong-y-thi-to-se-bo-het-vi-cau)
 
 </td><td valign="top" width="33%">
 
@@ -119,7 +119,11 @@ Air Visual is 154.
 - Culture, Sports and Tourism
   - [Dynasties](docs/cst/culture/dynasties.csv)
   - [Movies](docs/cst/culture/movies.md)
-  - [Sports Clubs](docs/cst/sports/clubs.csv)
+  - Sports
+    - [Clubs](docs/cst/sports/clubs.csv)
+    - VLeague
+      - [Matches](docs/cst/sports/vleague/matches.csv)
+      - [Tables](docs/cst/sports/vleague/tables.csv)
 - [Ethnic Minorities](docs/ethnic-minorities/ethnic-minorities.csv)
 - Information
   - [Mobile Providers](docs/information/mobile-providers.csv)
