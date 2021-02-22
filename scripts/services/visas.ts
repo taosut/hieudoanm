@@ -1,7 +1,7 @@
 'use strict';
 
-import { api } from './constant';
-import { request, convertJSONtoCSV } from './libs';
+import { api } from '../constant';
+import { request, convertJSONtoCSV } from '../libs';
 
 export const syncVisas = async (): Promise<void> => {
   const url: string = `${api}/visas`;

@@ -2,8 +2,8 @@
 
 import fs from 'fs';
 
-import { api } from './constant';
-import { request } from './libs';
+import { api } from '../constant';
+import { request } from '../libs';
 
 export const syncMovies = async (): Promise<void> => {
   const url: string = `${api}/culture/movies`;

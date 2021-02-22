@@ -1,7 +1,7 @@
 'use strict';
 
-import { api } from './constant';
-import { request } from './libs';
+import { api } from '../constant';
+import { request } from '../libs';
 
 export const syncForexRates = async (): Promise<void> => {
   const url: string = `${api}/banks/forex/sync`;

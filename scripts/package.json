@@ -9,7 +9,8 @@
   "repository": "https://github.com/vietnamdb/vietnamdb.git",
   "scripts": {
     "start": "node sync.js",
-    "dev": "ts-node sync.ts",
+    "sync": "ts-node sync.ts",
+    "sync:stock": "ts-node sync-stock.ts",
     "build": "tsc"
   },
   "dependencies": {

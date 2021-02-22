@@ -6,8 +6,8 @@ dotenv.config();
 import fs from 'fs';
 import fetch from 'node-fetch';
 
-import { numberFormatter, capitalize } from './libs';
-import { open, openPersonal, operatingSystems, cloudProviders, cicd } from './constant';
+import { numberFormatter, capitalize } from '../libs';
+import { open, openPersonal, operatingSystems, cloudProviders, cicd } from '../constant';
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN || '';
 

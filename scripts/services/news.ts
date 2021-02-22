@@ -2,8 +2,8 @@
 
 import fs from 'fs';
 
-import { api } from './constant';
-import { request } from './libs';
+import { api } from '../constant';
+import { request } from '../libs';
 
 export const syncNews = async (max: number, writeFlag: boolean = false): Promise<Array<any>> => {
   const url: string = `${api}/news/articles?max=${max}`;

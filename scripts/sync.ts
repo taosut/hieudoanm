@@ -1,15 +1,15 @@
 'use strict';
 
 import { buildREADME } from './build-readme';
-import { syncForexRates } from './sync-forex-rates';
-import { syncGHN } from './sync-ghn';
-import { syncMovies } from './sync-movies';
-import { syncNews } from './sync-news';
-import { syncStacks } from './sync-stacks';
-import { syncStock } from './sync-stock';
-import { syncVisas } from './sync-visas';
-import { syncVLeague } from './sync-vleague';
-import { syncYouTubeVideoCategories } from './sync-youtube-video-categories';
+import { syncForexRates } from './services/forex-rates';
+import { syncGHN } from './services/ghn';
+import { syncMovies } from './services/movies';
+import { syncNews } from './services/news';
+import { syncStacks } from './services/stacks';
+import { syncStock } from './services/stock';
+import { syncVisas } from './services/visas';
+import { syncVLeague } from './services/vleague';
+import { syncYouTubeVideoCategories } from './services/youtube-video-categories';
 
 const main = async () => {
   console.log('Build README');

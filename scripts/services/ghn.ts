@@ -7,7 +7,7 @@ import GHN from 'giaohangnhanh';
 const API_KEY_GIAO_HANG_NHANH: string = process.env.API_KEY_GIAO_HANG_NHANH || '';
 const ghn: GHN = new GHN(API_KEY_GIAO_HANG_NHANH, { test: true });
 
-import { convertJSONtoCSV } from './libs';
+import { convertJSONtoCSV } from '../libs';
 
 export const syncProvinces = async (): Promise<Array<any>> => {
   const provinces: Array<any> = await ghn.address.getProvinces();
