@@ -1,15 +1,13 @@
-<link href="https://raw.github.com/vietnamdb/vietnamdb/master/markdown.css" rel="stylesheet"></link>
-  
-  # VIETNAMDB ([Stacks](docs/stacks))
+# VIETNAMDB ([Stacks](docs/stacks))
 
 ## Today
 
-<div class="twoColumns"><div class="column">
+<div><div style="width: 50%; display: inline-block;">
 - Current weather is mist.
 - Temperature is 21°C.
 - Feels Like 21.22°C.
 - Air Visual is 119.
-</div><div class="column">
+</div><div style="width: 50%; display: inline-block;">
 - Date: 2021/02/22
 - Lunar: 2021/01/11
 - Can Chi: năm tân sửu tháng canh dần ngày tân sửu

@@ -131,18 +131,16 @@ export const buildREADME = async () => {
 
   const css: string = 'https://raw.github.com/vietnamdb/vietnamdb/master/markdown.css';
 
-  const md: string = `<link href="${css}" rel="stylesheet"></link>
-  
-  # VIETNAMDB ([Stacks](docs/stacks))
+  const md: string = `# VIETNAMDB ([Stacks](docs/stacks))
 
 ## Today
 
-<div class="twoColumns"><div class="column">
+<div><div style="width: 50%; display: inline-block;">
 - Current weather is ${description}.
 - Temperature is ${temp}°C.
 - Feels Like ${feelsLike}°C.
 - Air Visual is ${airVisual}.
-</div><div class="column">
+</div><div style="width: 50%; display: inline-block;">
 - Date: ${solarYear}/${addZero(solarMonth)}/${addZero(solarDate)}
 - Lunar: ${lunarYear}/${addZero(lunarMonth)}/${addZero(lunarDate)}
 - Can Chi: ${canChi}
