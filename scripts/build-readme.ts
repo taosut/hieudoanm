@@ -4,7 +4,7 @@ import fs from 'fs';
 import Vietcetera from 'vietcetera';
 
 import { api } from './constant';
-import { syncNews } from './sync-news';
+import { syncNews } from './services/news';
 import { addZero, request, getTime } from './libs';
 
 const vietcetera: Vietcetera = new Vietcetera();
