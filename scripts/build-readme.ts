@@ -117,7 +117,7 @@ export const buildNPM = (): string => {
     .map((_package: string) => {
       return `[![download](https://img.shields.io/npm/dm/${_package}.svg?style=flat&label=${_package}+%28download%29)](https://www.npmjs.com/package/${_package})`;
     })
-    .join('\n\n');
+    .join('\n');
 };
 
 export const buildREADME = async () => {
