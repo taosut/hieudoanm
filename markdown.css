@@ -1,0 +1,8 @@
+.twoColumns {
+  width: 100%;
+}
+
+.twoColumns .column {
+  width: 50%;
+  display: inline-block;
+}

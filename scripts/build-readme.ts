@@ -129,18 +129,20 @@ export const buildREADME = async () => {
     tietKhi
   } = await getLunarDate();
 
-  const twoColumesStyle: string = '-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;';
+  const css: string = 'https://raw.github.com/vietnamdb/vietnamdb/master/markdown.css';
 
-  const md: string = `# VIETNAMDB ([Stacks](docs/stacks))
+  const md: string = `<link href="${css}" rel="stylesheet"></link>
+  
+  # VIETNAMDB ([Stacks](docs/stacks))
 
 ## Today
 
-<div style="${twoColumesStyle}"><div>
+<div class="twoColumns"><div class="column">
 - Current weather is ${description}.
 - Temperature is ${temp}°C.
 - Feels Like ${feelsLike}°C.
 - Air Visual is ${airVisual}.
-</div><div>
+</div><div class="column">
 - Date: ${solarYear}/${addZero(solarMonth)}/${addZero(solarDate)}
 - Lunar: ${lunarYear}/${addZero(lunarMonth)}/${addZero(lunarDate)}
 - Can Chi: ${canChi}
