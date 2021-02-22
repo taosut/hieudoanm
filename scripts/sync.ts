@@ -9,6 +9,7 @@ import { syncStacks } from './services/stacks';
 import { syncStock } from './services/stock';
 import { syncVisas } from './services/visas';
 import { syncVLeague } from './services/vleague';
+import { syncUSA } from './services/usa';
 import { syncYouTubeVideoCategories } from './services/youtube-video-categories';
 
 const main = async () => {
@@ -26,6 +27,8 @@ const main = async () => {
   await syncStacks();
   console.log('Sync Stock');
   await syncStock();
+  console.log('Sync USA');
+  await syncUSA();
   console.log('Sync Visas');
   await syncVisas();
   console.log('Sync VLeague');

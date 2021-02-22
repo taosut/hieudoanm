@@ -8,8 +8,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 21.79°C.
-- Air Visual is 105.
+- Feels Like 22.03°C.
+- Air Visual is 125.
 
 **WEATHER**
 
@@ -23,14 +23,14 @@
 **GOOGLE TRENDS**
 
 - [ACB](https://www.google.com/search?q=ACB)
-- [AMEE](https://www.google.com/search?q=AMEE)
 - [Agribank](https://www.google.com/search?q=Agribank)
+- [Amee](https://www.google.com/search?q=Amee)
 - [BIDV](https://www.google.com/search?q=BIDV)
-- [Bệnh viện Giao thông Vận tải Hải Phòng](https://www.google.com/search?q=B%E1%BB%87nh%20vi%E1%BB%87n%20Giao%20th%C3%B4ng%20V%E1%BA%ADn%20t%E1%BA%A3i%20H%E1%BA%A3i%20Ph%C3%B2ng)
+- [Báo Hải Phòng](https://www.google.com/search?q=B%C3%A1o%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [COVID Hải Phòng](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [Chung khoan](https://www.google.com/search?q=Chung%20khoan)
-- [Giá vàng hôm nay](https://www.google.com/search?q=Gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay)
 - [Hồ Chí Minh](https://www.google.com/search?q=H%E1%BB%93%20Ch%C3%AD%20Minh)
+- [Liverpool](https://www.google.com/search?q=Liverpool)
 - [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
 - [Man City](https://www.google.com/search?q=Man%20City)
 - [Ngân hàng Vietcombank](https://www.google.com/search?q=Ng%C3%A2n%20h%C3%A0ng%20Vietcombank)
@@ -47,16 +47,16 @@
 
 **NEWS**
 
-- [Tổng xét nghiệm diện rộng với ổ dịch mới ở Kim Thành](https://vnexpress.net/tong-xet-nghiem-dien-rong-voi-o-dich-moi-o-kim-thanh-4238675.html) ([VNExpress](https://vnexpress.net))
-- [Kinh tế 24h: Nên đầu tư vào vàng, USD hay chứng khoán trong năm 2021?](https://laodong.vn/thi-truong/kinh-te-24h-nen-dau-tu-vao-vang-usd-hay-chung-khoan-trong-nam-2021-882394.ldo) ([Lao Động](https://laodong.vn))
-- [Đề nghị phạt 10 triệu đồng người đăng văn bản giả cho học sinh nghỉ học](https://laodong.vn/phap-luat/de-nghi-phat-10-trieu-dong-nguoi-dang-van-ban-gia-cho-hoc-sinh-nghi-hoc-882594.ldo) ([Lao Động](https://laodong.vn))
-- [Trưởng phòng Cảnh sát kinh tế Công an Hà Nội bị đình chỉ công tác](https://laodong.vn/phap-luat/truong-phong-canh-sat-kinh-te-cong-an-ha-noi-bi-dinh-chi-cong-tac-882650.ldo) ([Lao Động](https://laodong.vn))
-- [8 loại dầu ăn tốt nhất dành cho sức khỏe được khuyên dùng](https://laodong.vn/suc-khoe/8-loai-dau-an-tot-nhat-danh-cho-suc-khoe-duoc-khuyen-dung-882048.ldo) ([Lao Động](https://laodong.vn))
-- [Bí thư Hải Dương: ‘Còn 8,5 ngày để tổng phản công dịch bệnh’](https://vnexpress.net/bi-thu-hai-duong-con-8-5-ngay-de-tong-phan-cong-dich-benh-4238648.html) ([VNExpress](https://vnexpress.net))
-- [Quảng Ninh: 2 vợ chồng văng xuống biển khi đánh bắt hải sản](https://laodong.vn/xa-hoi/quang-ninh-2-vo-chong-vang-xuong-bien-khi-danh-bat-hai-san-882627.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội đề xuất mua 15 triệu liều vắc xin phòng COVID-19 tiêm cho người dân](https://tuoitre.vn/ha-noi-de-xuat-mua-15-trieu-lieu-vac-xin-phong-covid-19-tiem-cho-nguoi-dan-20210222175118144.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [TP Thủ Đức giải quyết từ phản ánh Tuổi Trẻ về việc 'Chủ đóng cửa khu công nghiệp...'](https://tuoitre.vn/tp-thu-duc-giai-quyet-tu-phan-anh-tuoi-tre-ve-viec-chu-dong-cua-khu-cong-nghiep-20210222173243801.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cung nữ cuối cùng của triều Nguyễn mất ở tuổi 102: Dòng tộc chủ trì tang lễ](https://laodong.vn/xa-hoi/cung-nu-cuoi-cung-cua-trieu-nguyen-mat-o-tuoi-102-dong-toc-chu-tri-tang-le-882558.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Lan: Sốc với Boeing rơi động cơ khi đang bay, cắm thủng xe ôtô bên dưới](https://laodong.vn/the-gioi/ha-lan-soc-voi-boeing-roi-dong-co-khi-dang-bay-cam-thung-xe-oto-ben-duoi-882640.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng bất ngờ tăng vọt trái ngược dự báo của chuyên gia](https://laodong.vn/kinh-te/gia-vang-bat-ngo-tang-vot-trai-nguoc-du-bao-cua-chuyen-gia-882659.ldo) ([Lao Động](https://laodong.vn))
+- [Thể thao 7 ngày: Anh Đức và hi vọng đưa Long An trở lại V League](https://laodong.vn/video/the-thao-7-ngay-anh-duc-va-hi-vong-dua-long-an-tro-lai-v-league-882569.ldo) ([Lao Động](https://laodong.vn))
+- [Trường hợp hy hữu: Tử vong do ghép phải phổi hiến nhiễm nCoV](https://cafebiz.vn/truong-hop-hy-huu-tu-vong-do-ghep-phai-phoi-hien-nhiem-ncov-20210222192509844.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đôi vợ chồng tử vong trên biển](https://vnexpress.net/doi-vo-chong-tu-vong-tren-bien-4238680.html) ([VNExpress](https://vnexpress.net))
+- [Đầu tư xây dựng hạ tầng Khu công nghiệp Yên Phong II-A hơn 1.830 tỉ đồng](https://laodong.vn/thoi-su/dau-tu-xay-dung-ha-tang-khu-cong-nghiep-yen-phong-ii-a-hon-1830-ti-dong-882660.ldo) ([Lao Động](https://laodong.vn))
+- [ACB, VPB, VCB, TCB thuộc top cổ phiếu được JP Morgan đánh giá cao tại Asean](https://laodong.vn/kinh-te/acb-vpb-vcb-tcb-thuoc-top-co-phieu-duoc-jp-morgan-danh-gia-cao-tai-asean-882646.ldo) ([Lao Động](https://laodong.vn))
+- [Quyết đấu giới siêu giàu: Jeff Bezos chặn thương vụ 3,4 tỷ USD của tỉ phú Ấn Ambani](https://cafebiz.vn/quyet-dau-gioi-sieu-giau-jeff-bezos-chan-thuong-vu-34-ty-usd-cua-ti-phu-an-ambani-20210222192125289.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thêm 9 ca mắc COVID-19 mới ở Hải Phòng và Hải Dương](https://cafebiz.vn/them-9-ca-mac-covid-19-moi-o-hai-phong-va-hai-duong-20210222191640898.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xuất hiện ca dương tính, Hải Phòng phong tỏa nhiều địa điểm từ sáng 22.2](https://laodong.vn/video/xuat-hien-ca-duong-tinh-hai-phong-phong-toa-nhieu-dia-diem-tu-sang-222-882458.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -151,6 +151,7 @@
     - [Districts](docs/open-apis/ghn/districts.csv)
     - [Wards](docs/open-apis/ghn/wards.csv)
     - [Stations](docs/open-apis/ghn/stations.csv)
+- [USA](docs/usa/README.md)
 - [Visas](docs/visas/visas.csv)
 
 </td><td valign="top" width="33%">
