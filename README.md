@@ -47,16 +47,16 @@
 
 **NEWS**
 
+- [Quận Ngũ Hành Sơn chỉ đạo &quot;nóng&quot; vụ phố du lịch nhếch nhác](https://laodong.vn/ban-doc/quan-ngu-hanh-son-chi-dao-nong-vu-pho-du-lich-nhech-nhac-882419.ldo) ([Lao Động](https://laodong.vn))
+- [Hàng hóa từ Hải Dương vẫn vướng mắc ở 'cửa ngõ' Hải Phòng](https://vnexpress.net/hang-hoa-tu-hai-duong-van-vuong-mac-o-cua-ngo-hai-phong-4238301.html) ([VNExpress](https://vnexpress.net))
+- [Khuyến khích và bảo vệ cán bộ “6 dám”: Thúc đẩy khát vọng phát triển đất nước hùng cường](https://laodong.vn/thoi-su/khuyen-khich-va-bao-ve-can-bo-6-dam-thuc-day-khat-vong-phat-trien-dat-nuoc-hung-cuong-882301.ldo) ([Lao Động](https://laodong.vn))
 - [Dàn sao &quot;Về nhà đi con&quot;: Người qua đời, người hạnh phúc sau tan vỡ](https://laodong.vn/van-hoa/dan-sao-ve-nha-di-con-nguoi-qua-doi-nguoi-hanh-phuc-sau-tan-vo-882413.ldo) ([Lao Động](https://laodong.vn))
 - [Tiêu thụ nông sản vùng dịch ách tắc: Do nhiều quy định chưa hợp lý](https://laodong.vn/kinh-te/tieu-thu-nong-san-vung-dich-ach-tac-do-nhieu-quy-dinh-chua-hop-ly-882444.ldo) ([Lao Động](https://laodong.vn))
 - [Trung tướng Nguyễn Việt Thành nhớ về “Anh Hai Nghĩa”](https://laodong.vn/thoi-su/trung-tuong-nguyen-viet-thanh-nho-ve-anh-hai-nghia-882443.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Biden tiết lộ quá khứ từng xâm nhập Điện Capitol năm 21 tuổi](https://laodong.vn/the-gioi/ong-biden-tiet-lo-qua-khu-tung-xam-nhap-dien-capitol-nam-21-tuoi-882435.ldo) ([Lao Động](https://laodong.vn))
-- [Liên tục gặp vận xui, Jack Ma tụt sâu trong top tỉ phú Trung Quốc](https://laodong.vn/doanh-nghiep-doanh-nhan/lien-tuc-gap-van-xui-jack-ma-tut-sau-trong-top-ti-phu-trung-quoc-882406.ldo) ([Lao Động](https://laodong.vn))
+- [Tàu container tông gãy đôi cần cẩu thi công cầu Phước Khánh ở TP.HCM](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/tau-container-tong-gay-doi-can-cau-thi-cong-cau-phuoc-khanh-o-tp-hcm-714572.html) ([VietNamNet](https://vietnamnet.vn))
 - [Người cách ly tập trung tự trả tiền ăn](https://vnexpress.net/nguoi-cach-ly-tap-trung-tu-tra-tien-an-4238465.html) ([VNExpress](https://vnexpress.net))
 - [Doanh nhân Thuỷ Tiên - vợ đại gia kém 10 tuổi của ca sĩ Đan Trường là ai mà khiến anh từng thú nhận: "Tôi nhẫn nại để giữ gìn hôn nhân"](https://cafebiz.vn/doanh-nhan-thuy-tien-vo-dai-gia-kem-10-tuoi-cua-ca-si-dan-truong-la-ai-ma-khien-anh-tung-thu-nhan-toi-nhan-nai-de-giu-gin-hon-nhan-20210222113055205.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sẽ giám định trụ cầu Phước Khánh sau vụ tàu container va vào cần cẩu](https://tuoitre.vn/se-giam-dinh-tru-cau-phuoc-khanh-sau-vu-tau-container-va-vao-can-cau-20210222112250708.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thừa điện nguy hiểm thế nào?](https://laodong.vn/kinh-te/thua-dien-nguy-hiem-the-nao-882330.ldo) ([Lao Động](https://laodong.vn))
-- [Lễ Truy điệu và An táng nguyên Phó Thủ tướng Trương Vĩnh Trọng](https://laodong.vn/thoi-su/le-truy-dieu-va-an-tang-nguyen-pho-thu-tuong-truong-vinh-trong-882416.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -132,6 +132,8 @@
       - [Matches](docs/cst/sports/vleague/matches.csv)
       - [Tables](docs/cst/sports/vleague/tables.csv)
 - [Ethnic Minorities](docs/ethnic-minorities/ethnic-minorities.csv)
+- Finance
+  - [Companies](docs/finance/companies.csv)
 - Information
   - [Mobile Providers](docs/information/mobile-providers.csv)
 - [Jobs](docs/jobs/README.md)

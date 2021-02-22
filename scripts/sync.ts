@@ -1,6 +1,7 @@
 'use strict';
 
 import { buildREADME } from './build-readme';
+import { syncCompanies } from './sync-companies';
 import { syncForexRates } from './sync-forex-rates';
 import { syncGHN } from './sync-ghn';
 import { syncMovies } from './sync-movies';
@@ -14,6 +15,8 @@ import { syncYouTubeVideoCategories } from './sync-youtube-video-categories';
 const main = async () => {
   console.log('Build README');
   await buildREADME();
+  console.log('Sync Companies');
+  await syncCompanies();
   console.log('Sync Forex Rates');
   await syncForexRates();
   console.log('Sync Giao Hang Nhanh');

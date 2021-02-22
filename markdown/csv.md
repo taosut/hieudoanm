@@ -13,6 +13,8 @@
       - [Matches](docs/cst/sports/vleague/matches.csv)
       - [Tables](docs/cst/sports/vleague/tables.csv)
 - [Ethnic Minorities](docs/ethnic-minorities/ethnic-minorities.csv)
+- Finance
+  - [Companies](docs/finance/companies.csv)
 - Information
   - [Mobile Providers](docs/information/mobile-providers.csv)
 - [Jobs](docs/jobs/README.md)
