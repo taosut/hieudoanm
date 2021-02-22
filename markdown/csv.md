@@ -18,6 +18,7 @@
 - [Jobs](docs/jobs/README.md)
 - [License Plates](docs/license-plates/license-plates.csv)
 - [Music](docs/music/artists.csv)
+- [News](docs/news/README.md)
 - [Open APIs](docs/open-apis/open-apis.csv)
   - Giao Hang Nhanh (GHN)
     - [Provinces](docs/open-apis/ghn/provinces.csv)

@@ -4,10 +4,21 @@ import fs from 'fs';
 import Vietcetera from 'vietcetera';
 
 import { api } from './constant';
+import { syncNews } from './sync-news';
 import { addZero, request, getTime } from './libs';
 
 const vietcetera: Vietcetera = new Vietcetera();
 const city: string = 'Hanoi';
+
+export const syncArticles = async () => {
+  const articles = await syncNews(10, false);
+  return articles
+    .map((article: any) => {
+      const { title, url, source, sourceURL } = article;
+      return `- [${title}](${url}) ([${source}](${sourceURL}))`;
+    })
+    .join('\n');
+};
 
 export const getLunarDate = async (): Promise<Record<string, any>> => {
   const url: string = `${api}/culture/calendar/solar2lunar`;
@@ -128,8 +139,9 @@ export const buildREADME = async () => {
     canChi,
     tietKhi
   } = await getLunarDate();
+  const articles = await syncArticles();
 
-  const twoColumesStyle: string = '-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;';
+  // const twoColumesStyle: string = '-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;';
 
   const md: string = `# VIETNAMDB ([Stacks](docs/stacks))
 
@@ -159,9 +171,11 @@ ${vietceteraArticles}
 
 </td><td valign="top" width="33%">
 
-**NPM**
+**NEWS**
 
-${npm}
+${articles}
+
+[Read More](docs/news/README.md)
 
 </td></tr></tbody></table>
 
@@ -189,7 +203,19 @@ ${youTubeTrending}
 
 ## Data
 
+<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
+
+** CSV
+
 ${csv}
+
+</td><td valign="top" width="33%">
+
+**NPM**
+
+${npm}
+
+</td></tr></tbody></table>
 `;
 
   await fs.writeFileSync('../README.md', md);
