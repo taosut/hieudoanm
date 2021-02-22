@@ -155,7 +155,7 @@ export const buildREADME = async () => {
 
 </td></tr></tbody></table>
 
-## Feed
+## Google
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
@@ -175,7 +175,11 @@ ${musicTrending}
 
 ${youTubeTrending}
 
-</td></tr><tr><td valign="top" width="33%">
+</td></tr></tbody></table>
+
+## Data
+
+<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
 **VIETCETERA**
 
