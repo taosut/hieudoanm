@@ -136,6 +136,8 @@ export const buildREADME = async () => {
 ## Today
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
+<b>Calendar</b>
+
 <ul>
 <li>Current weather is ${description}.</li>
 <li>Temperature is ${temp}°C.</li>
@@ -143,6 +145,8 @@ export const buildREADME = async () => {
 <li>Air Visual is ${airVisual}.</li>
 </ul>
 </td><td valign="top" width="33%">
+<b>Weather</b>
+
 <ul>
 <li>Date: ${solarYear}/${addZero(solarMonth)}/${addZero(solarDate)}</li>
 <li>Lunar: ${lunarYear}/${addZero(lunarMonth)}/${addZero(lunarDate)}</li>

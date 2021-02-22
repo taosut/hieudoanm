@@ -3,13 +3,17 @@
 ## Today
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
+<b>Calendar</b>
+
 <ul>
 <li>Current weather is mist.</li>
 <li>Temperature is 21°C.</li>
 <li>Feels Like 21.22°C.</li>
-<li>Air Visual is 119.</li>
+<li>Air Visual is 160.</li>
 </ul>
 </td><td valign="top" width="33%">
+<b>Weather</b>
+
 <ul>
 <li>Date: 2021/02/22</li>
 <li>Lunar: 2021/01/11</li>
