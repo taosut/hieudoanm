@@ -145,7 +145,7 @@ export const buildREADME = async () => {
 
   const md: string = `# VIETNAMDB ([Stacks](docs/stacks))
 
-## Today
+## NOW
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
@@ -165,9 +165,9 @@ export const buildREADME = async () => {
 
 </td><td valign="top" width="33%">
 
-**VIETCETERA**
+**GOOGLE TRENDS**
 
-${vietceteraArticles}
+${googleTrends}
 
 </td><td valign="top" width="33%">
 
@@ -179,13 +179,13 @@ ${articles}
 
 </td></tr></tbody></table>
 
-## Google
+## TODAY
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
-**GOOGLE TRENDS**
+**VIETCETERA**
 
-${googleTrends}
+${vietceteraArticles}
 
 </td><td valign="top" width="33%">
 
@@ -205,7 +205,7 @@ ${youTubeTrending}
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
-** CSV
+**CSV**
 
 ${csv}
 

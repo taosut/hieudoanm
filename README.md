@@ -1,6 +1,6 @@
 # VIETNAMDB ([Stacks](docs/stacks))
 
-## Today
+## NOW
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
@@ -19,42 +19,6 @@
 - năm tân sửu tháng canh dần ngày tân sửu.
 
 </td><td valign="top" width="33%">
-
-**VIETCETERA**
-
-- [7 Kỹ thuật giao tiếp bằng mắt cho cuộc đối thoại hiệu quả](https://vietcetera.com/vn/7-cach-duy-tri-giao-tiep-bang-mat-hieu-qua)
-- ["Năm đó, lần đầu tiên trong đời cô biết nhớ một người con trai..."](https://vietcetera.com/vn/nhan-quyet-dinh-day-o-dao-ngay-len-tau-chua-kip-buon-co-da-oi)
-- [Podcast "Vietnam Innovators": Cùng Hảo Trần và Ruby Nguyễn đối thoại về chiến lược lãnh đạo](https://vietcetera.com/vn/podcast-vietnam-innovators-cung-hao-tran-va-ruby-nguyen-doi-thoai-voi-nhung-lanh-dao-tai-ba)
-- [Tóm Lại Là: Chủ nghĩa dân tộc vaccine, tại sao “khó trị”?](https://vietcetera.com/vn/tom-lai-la-chu-nghia-dan-toc-vaccine-tai-sao-kho-tri)
-- [5 Tiệm cà phê thủ công giao tận nhà ở Hà Nội cho hội "coffeholic"](https://vietcetera.com/vn/5-tiem-ca-phe-thu-cong-giao-tan-nha-o-ha-noi-cho-hoi-coffeholic)
-- [Tóm Lại Là: Toàn cảnh cuộc chiến giữa Úc và Facebook](https://vietcetera.com/vn/tom-lai-la-toan-canh-cuoc-chien-giua-uc-va-facebook)
-- [5 Ứng dụng "nằm vùng" thị trường chứng khoán](https://vietcetera.com/vn/5-ung-dung-nam-vung-thi-truong-chung-khoan)
-- [Chống buồn mùa chống dịch](https://vietcetera.com/vn/chong-buon-mua-chong-dich)
-- [A Working Woman: Kristine Nguyễn, “Đỉnh vinh quang không nhất thiết phải hiu quạnh” ](https://vietcetera.com/vn/a-working-woman-kristine-nguyen-dinh-vinh-quang-khong-nhat-thiet-phai-hiu-quanh)
-- [Tóm Lại Là: Đùa vô tư về nữ quyền, liệu có vô duyên?](https://vietcetera.com/vn/tom-lai-la-dua-vo-tu-hoa-vo-duyen)
-
-</td><td valign="top" width="33%">
-
-**NEWS**
-
-- [Liên tục gặp vận xui, Jack Ma tụt sâu trong top tỉ phú Trung Quốc](https://laodong.vn/doanh-nghiep-doanh-nhan/lien-tuc-gap-van-xui-jack-ma-tut-sau-trong-top-ti-phu-trung-quoc-882406.ldo) ([Lao Động](https://laodong.vn))
-- [Người cách ly tập trung tự trả tiền ăn](https://vnexpress.net/nguoi-cach-ly-tap-trung-tu-tra-tien-an-4238465.html) ([VNExpress](https://vnexpress.net))
-- [Doanh nhân Thuỷ Tiên - vợ đại gia kém 10 tuổi của ca sĩ Đan Trường là ai mà khiến anh từng thú nhận: "Tôi nhẫn nại để giữ gìn hôn nhân"](https://cafebiz.vn/doanh-nhan-thuy-tien-vo-dai-gia-kem-10-tuoi-cua-ca-si-dan-truong-la-ai-ma-khien-anh-tung-thu-nhan-toi-nhan-nai-de-giu-gin-hon-nhan-20210222113055205.chn) ([CafeBiz](https://cafebiz.vn))
-- [IAEA đạt được thỏa thuận tạm thời với Iran về giám sát hạt nhân](https://laodong.vn/the-gioi/iaea-dat-duoc-thoa-thuan-tam-thoi-voi-iran-ve-giam-sat-hat-nhan-882432.ldo) ([Lao Động](https://laodong.vn))
-- [Sẽ giám định trụ cầu Phước Khánh sau vụ tàu container va vào cần cẩu](https://tuoitre.vn/se-giam-dinh-tru-cau-phuoc-khanh-sau-vu-tau-container-va-vao-can-cau-20210222112250708.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [LĐLĐ tỉnh Nghệ An: Giám sát thực hiện chính sách hỗ trợ đoàn viên, NLĐ](https://laodong.vn/cong-doan/ldld-tinh-nghe-an-giam-sat-thuc-hien-chinh-sach-ho-tro-doan-vien-nld-882447.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Biden đánh dấu cột mốc nghiệt ngã 500.000 ca tử vong do COVID-19](https://laodong.vn/the-gioi/ong-biden-danh-dau-cot-moc-nghiet-nga-500000-ca-tu-vong-do-covid-19-882440.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng truy vết, khử khuẩn các địa điểm liên quan ca nhiễm COVID-19](https://laodong.vn/xa-hoi/hai-phong-truy-vet-khu-khuan-cac-dia-diem-lien-quan-ca-nhiem-covid-19-882438.ldo) ([Lao Động](https://laodong.vn))
-- [Thừa điện nguy hiểm thế nào?](https://laodong.vn/kinh-te/thua-dien-nguy-hiem-the-nao-882330.ldo) ([Lao Động](https://laodong.vn))
-- [Lễ Truy điệu và An táng nguyên Phó Thủ tướng Trương Vĩnh Trọng](https://laodong.vn/thoi-su/le-truy-dieu-va-an-tang-nguyen-pho-thu-tuong-truong-vinh-trong-882416.ldo) ([Lao Động](https://laodong.vn))
-
-[Read More](docs/news/README.md)
-
-</td></tr></tbody></table>
-
-## Google
-
-<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
 **GOOGLE TRENDS**
 
@@ -78,6 +42,42 @@
 - [Vincenzo](https://www.google.com/search?q=Vincenzo)
 - [Warren Buffett](https://www.google.com/search?q=Warren%20Buffett)
 - [Xổ số miền Bắc chủ nhật](https://www.google.com/search?q=X%E1%BB%95%20s%E1%BB%91%20mi%E1%BB%81n%20B%E1%BA%AFc%20ch%E1%BB%A7%20nh%E1%BA%ADt)
+
+</td><td valign="top" width="33%">
+
+**NEWS**
+
+- [Dàn sao &quot;Về nhà đi con&quot;: Người qua đời, người hạnh phúc sau tan vỡ](https://laodong.vn/van-hoa/dan-sao-ve-nha-di-con-nguoi-qua-doi-nguoi-hanh-phuc-sau-tan-vo-882413.ldo) ([Lao Động](https://laodong.vn))
+- [Tiêu thụ nông sản vùng dịch ách tắc: Do nhiều quy định chưa hợp lý](https://laodong.vn/kinh-te/tieu-thu-nong-san-vung-dich-ach-tac-do-nhieu-quy-dinh-chua-hop-ly-882444.ldo) ([Lao Động](https://laodong.vn))
+- [Trung tướng Nguyễn Việt Thành nhớ về “Anh Hai Nghĩa”](https://laodong.vn/thoi-su/trung-tuong-nguyen-viet-thanh-nho-ve-anh-hai-nghia-882443.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Biden tiết lộ quá khứ từng xâm nhập Điện Capitol năm 21 tuổi](https://laodong.vn/the-gioi/ong-biden-tiet-lo-qua-khu-tung-xam-nhap-dien-capitol-nam-21-tuoi-882435.ldo) ([Lao Động](https://laodong.vn))
+- [Liên tục gặp vận xui, Jack Ma tụt sâu trong top tỉ phú Trung Quốc](https://laodong.vn/doanh-nghiep-doanh-nhan/lien-tuc-gap-van-xui-jack-ma-tut-sau-trong-top-ti-phu-trung-quoc-882406.ldo) ([Lao Động](https://laodong.vn))
+- [Người cách ly tập trung tự trả tiền ăn](https://vnexpress.net/nguoi-cach-ly-tap-trung-tu-tra-tien-an-4238465.html) ([VNExpress](https://vnexpress.net))
+- [Doanh nhân Thuỷ Tiên - vợ đại gia kém 10 tuổi của ca sĩ Đan Trường là ai mà khiến anh từng thú nhận: "Tôi nhẫn nại để giữ gìn hôn nhân"](https://cafebiz.vn/doanh-nhan-thuy-tien-vo-dai-gia-kem-10-tuoi-cua-ca-si-dan-truong-la-ai-ma-khien-anh-tung-thu-nhan-toi-nhan-nai-de-giu-gin-hon-nhan-20210222113055205.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sẽ giám định trụ cầu Phước Khánh sau vụ tàu container va vào cần cẩu](https://tuoitre.vn/se-giam-dinh-tru-cau-phuoc-khanh-sau-vu-tau-container-va-vao-can-cau-20210222112250708.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thừa điện nguy hiểm thế nào?](https://laodong.vn/kinh-te/thua-dien-nguy-hiem-the-nao-882330.ldo) ([Lao Động](https://laodong.vn))
+- [Lễ Truy điệu và An táng nguyên Phó Thủ tướng Trương Vĩnh Trọng](https://laodong.vn/thoi-su/le-truy-dieu-va-an-tang-nguyen-pho-thu-tuong-truong-vinh-trong-882416.ldo) ([Lao Động](https://laodong.vn))
+
+[Read More](docs/news/README.md)
+
+</td></tr></tbody></table>
+
+## TODAY
+
+<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
+
+**VIETCETERA**
+
+- [7 Kỹ thuật giao tiếp bằng mắt cho cuộc đối thoại hiệu quả](https://vietcetera.com/vn/7-cach-duy-tri-giao-tiep-bang-mat-hieu-qua)
+- ["Năm đó, lần đầu tiên trong đời cô biết nhớ một người con trai..."](https://vietcetera.com/vn/nhan-quyet-dinh-day-o-dao-ngay-len-tau-chua-kip-buon-co-da-oi)
+- [Podcast "Vietnam Innovators": Cùng Hảo Trần và Ruby Nguyễn đối thoại về chiến lược lãnh đạo](https://vietcetera.com/vn/podcast-vietnam-innovators-cung-hao-tran-va-ruby-nguyen-doi-thoai-voi-nhung-lanh-dao-tai-ba)
+- [Tóm Lại Là: Chủ nghĩa dân tộc vaccine, tại sao “khó trị”?](https://vietcetera.com/vn/tom-lai-la-chu-nghia-dan-toc-vaccine-tai-sao-kho-tri)
+- [5 Tiệm cà phê thủ công giao tận nhà ở Hà Nội cho hội "coffeholic"](https://vietcetera.com/vn/5-tiem-ca-phe-thu-cong-giao-tan-nha-o-ha-noi-cho-hoi-coffeholic)
+- [Tóm Lại Là: Toàn cảnh cuộc chiến giữa Úc và Facebook](https://vietcetera.com/vn/tom-lai-la-toan-canh-cuoc-chien-giua-uc-va-facebook)
+- [5 Ứng dụng "nằm vùng" thị trường chứng khoán](https://vietcetera.com/vn/5-ung-dung-nam-vung-thi-truong-chung-khoan)
+- [Chống buồn mùa chống dịch](https://vietcetera.com/vn/chong-buon-mua-chong-dich)
+- [A Working Woman: Kristine Nguyễn, “Đỉnh vinh quang không nhất thiết phải hiu quạnh” ](https://vietcetera.com/vn/a-working-woman-kristine-nguyen-dinh-vinh-quang-khong-nhat-thiet-phai-hiu-quanh)
+- [Tóm Lại Là: Đùa vô tư về nữ quyền, liệu có vô duyên?](https://vietcetera.com/vn/tom-lai-la-dua-vo-tu-hoa-vo-duyen)
 
 </td><td valign="top" width="33%">
 
@@ -115,7 +115,7 @@
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
-** CSV
+**CSV**
 
 - Administrative Divisions
   - [Postal Codes](docs/administrative-divisions/postal-codes.csv)
