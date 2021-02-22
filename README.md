@@ -2,16 +2,20 @@
 
 ## Today
 
-<div><div style="width: 50%; display: inline-block;">
-- Current weather is mist.
-- Temperature is 21°C.
-- Feels Like 21.22°C.
-- Air Visual is 119.
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;"><div style="width: 50%; display: inline-block;">
+<ul>
+<li>Current weather is mist.</li>
+<li>Temperature is 21°C.</li>
+<li>Feels Like 21.22°C.</li>
+<li>Air Visual is 119.</li>
+</ul>
 </div><div style="width: 50%; display: inline-block;">
-- Date: 2021/02/22
-- Lunar: 2021/01/11
-- Can Chi: năm tân sửu tháng canh dần ngày tân sửu
-- Tiet Khi: Tiểu hàn
+<ul>
+<li>Date: 2021/02/22</li>
+<li>Lunar: 2021/01/11</li>
+<li>Can Chi: năm tân sửu tháng canh dần ngày tân sửu</li>
+<li>Tiet Khi: Tiểu hàn</li>
+</ul>
 </div></div>
 
 ## Feed
@@ -22,19 +26,19 @@
 
 - [Arsenal vs Man City](https://www.google.com/search?q=Arsenal%20vs%20Man%20City)
 - [Barca vs Cadiz](https://www.google.com/search?q=Barca%20vs%20Cadiz)
+- [Bayern](https://www.google.com/search?q=Bayern)
+- [COVID Hải Phòng](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [Campuchia](https://www.google.com/search?q=Campuchia)
 - [Chelsea](https://www.google.com/search?q=Chelsea)
-- [Cuôc chiến thượng lưu](https://www.google.com/search?q=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u)
 - [Djokovic](https://www.google.com/search?q=Djokovic)
-- [Dortmund](https://www.google.com/search?q=Dortmund)
 - [Giá vàng hôm nay](https://www.google.com/search?q=Gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay)
 - [Hồ Chí Minh](https://www.google.com/search?q=H%E1%BB%93%20Ch%C3%AD%20Minh)
 - [Inter](https://www.google.com/search?q=Inter)
 - [Leicester](https://www.google.com/search?q=Leicester)
 - [Liverpool](https://www.google.com/search?q=Liverpool)
 - [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
+- [NSND Hoàng Dũng](https://www.google.com/search?q=NSND%20Ho%C3%A0ng%20D%C5%A9ng)
 - [Real Madrid](https://www.google.com/search?q=Real%20Madrid)
-- [Song Joong Ki](https://www.google.com/search?q=Song%20Joong%20Ki)
 - [Sáng tạo doanh 2021](https://www.google.com/search?q=S%C3%A1ng%20t%E1%BA%A1o%20doanh%202021)
 - [Tenor](https://www.google.com/search?q=Tenor)
 - [Tottenham](https://www.google.com/search?q=Tottenham)

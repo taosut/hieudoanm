@@ -129,22 +129,26 @@ export const buildREADME = async () => {
     tietKhi
   } = await getLunarDate();
 
-  const css: string = 'https://raw.github.com/vietnamdb/vietnamdb/master/markdown.css';
+  const twoColumesStyle: string = '-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;';
 
   const md: string = `# VIETNAMDB ([Stacks](docs/stacks))
 
 ## Today
 
-<div><div style="width: 50%; display: inline-block;">
-- Current weather is ${description}.
-- Temperature is ${temp}°C.
-- Feels Like ${feelsLike}°C.
-- Air Visual is ${airVisual}.
+<div style="${twoColumesStyle}"><div style="width: 50%; display: inline-block;">
+<ul>
+<li>Current weather is ${description}.</li>
+<li>Temperature is ${temp}°C.</li>
+<li>Feels Like ${feelsLike}°C.</li>
+<li>Air Visual is ${airVisual}.</li>
+</ul>
 </div><div style="width: 50%; display: inline-block;">
-- Date: ${solarYear}/${addZero(solarMonth)}/${addZero(solarDate)}
-- Lunar: ${lunarYear}/${addZero(lunarMonth)}/${addZero(lunarDate)}
-- Can Chi: ${canChi}
-- Tiet Khi: ${tietKhi}
+<ul>
+<li>Date: ${solarYear}/${addZero(solarMonth)}/${addZero(solarDate)}</li>
+<li>Lunar: ${lunarYear}/${addZero(lunarMonth)}/${addZero(lunarDate)}</li>
+<li>Can Chi: ${canChi}</li>
+<li>Tiet Khi: ${tietKhi}</li>
+</ul>
 </div></div>
 
 ## Feed
