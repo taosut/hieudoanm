@@ -1,13 +1,15 @@
 # News
 
+- [Nóng nhất 24h: Mức phạt với người về Hải Dương ăn tết nhưng trốn khai báo](https://laodong.vn/video/nong-nhat-24h-muc-phat-voi-nguoi-ve-hai-duong-an-tet-nhung-tron-khai-bao-882633.ldo) ([Lao Động](https://laodong.vn))
+- [Thông điệp của Phó Thủ  tướng Phạm Bình Minh gửi Hội đồng Nhân quyền LHQ](https://laodong.vn/video/thong-diep-cua-pho-thu-tuong-pham-binh-minh-gui-hoi-dong-nhan-quyen-lhq-882648.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam ứng cử vào Hội đồng Nhân quyền Liên Hợp Quốc nhiệm kỳ 2023-2025](https://tuoitre.vn/viet-nam-ung-cu-vao-hoi-dong-nhan-quyen-lien-hop-quoc-nhiem-ky-2023-2025-20210222193715477.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hà Lan: Sốc với Boeing rơi động cơ khi đang bay, cắm thủng xe ôtô bên dưới](https://laodong.vn/the-gioi/ha-lan-soc-voi-boeing-roi-dong-co-khi-dang-bay-cam-thung-xe-oto-ben-duoi-882640.ldo) ([Lao Động](https://laodong.vn))
 - [Giá vàng bất ngờ tăng vọt trái ngược dự báo của chuyên gia](https://laodong.vn/kinh-te/gia-vang-bat-ngo-tang-vot-trai-nguoc-du-bao-cua-chuyen-gia-882659.ldo) ([Lao Động](https://laodong.vn))
 - [Thể thao 7 ngày: Anh Đức và hi vọng đưa Long An trở lại V League](https://laodong.vn/video/the-thao-7-ngay-anh-duc-va-hi-vong-dua-long-an-tro-lai-v-league-882569.ldo) ([Lao Động](https://laodong.vn))
 - [Trường hợp hy hữu: Tử vong do ghép phải phổi hiến nhiễm nCoV](https://cafebiz.vn/truong-hop-hy-huu-tu-vong-do-ghep-phai-phoi-hien-nhiem-ncov-20210222192509844.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đôi vợ chồng tử vong trên biển](https://vnexpress.net/doi-vo-chong-tu-vong-tren-bien-4238680.html) ([VNExpress](https://vnexpress.net))
-- [Đầu tư xây dựng hạ tầng Khu công nghiệp Yên Phong II-A hơn 1.830 tỉ đồng](https://laodong.vn/thoi-su/dau-tu-xay-dung-ha-tang-khu-cong-nghiep-yen-phong-ii-a-hon-1830-ti-dong-882660.ldo) ([Lao Động](https://laodong.vn))
+- [Bão Dujuan đã suy yếu thành áp thấp nhiệt đới](https://tuoitre.vn/bao-dujuan-da-suy-yeu-thanh-ap-thap-nhiet-doi-2021022218540133.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Quận Tân Bình thông tin chùa Viên Giác chưa hoạt động trở lại](http://vietnamnet.vn/vn/thoi-su/quan-tan-binh-thong-tin-chua-vien-giac-chua-hoat-dong-tro-lai-714704.html) ([VietNamNet](https://vietnamnet.vn))
-- [ACB, VPB, VCB, TCB thuộc top cổ phiếu được JP Morgan đánh giá cao tại Asean](https://laodong.vn/kinh-te/acb-vpb-vcb-tcb-thuoc-top-co-phieu-duoc-jp-morgan-danh-gia-cao-tai-asean-882646.ldo) ([Lao Động](https://laodong.vn))
 - [Quyết đấu giới siêu giàu: Jeff Bezos chặn thương vụ 3,4 tỷ USD của tỉ phú Ấn Ambani](https://cafebiz.vn/quyet-dau-gioi-sieu-giau-jeff-bezos-chan-thuong-vu-34-ty-usd-cua-ti-phu-an-ambani-20210222192125289.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thêm 9 ca mắc COVID-19 mới ở Hải Phòng và Hải Dương](https://cafebiz.vn/them-9-ca-mac-covid-19-moi-o-hai-phong-va-hai-duong-20210222191640898.chn) ([CafeBiz](https://cafebiz.vn))
 - [Có một Hà Nội nghĩa tình, Hà Nội kết nối trong đại dịch](http://vietnamnet.vn/vn/thoi-su/chinh-tri/co-mot-ha-noi-nghia-tinh-ha-noi-ket-noi-trong-dai-dich-714703.html) ([VietNamNet](https://vietnamnet.vn))
@@ -98,5 +100,3 @@
 - [Kido lãi bộn trong tháng 1 nhờ Tết, LNTT tăng gấp 4,4 lần cùng kỳ, đặt mục tiêu tăng trưởng năm 2021 đến 91,5%](https://cafebiz.vn/kido-lai-bon-trong-thang-1-nho-tet-lntt-tang-gap-44-lan-cung-ky-dat-muc-tieu-tang-truong-nam-2021-den-915-20210222111831361.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tiễn đưa nguyên Phó Thủ tướng Trương Vĩnh Trọng về nơi an nghỉ cuối cùng](https://soha.vn/tien-dua-nguyen-pho-thu-tuong-truong-vinh-trong-ve-noi-an-nghi-cuoi-cung-20210222140952242.htm) ([Soha](https://soha.vn))
 - [Bill Gates phản đối việc Twitter khóa tài khoản của Cựu Tổng thống Trump, đặt câu hỏi về quyền lực quá lớn của các mạng xã hội](https://cafebiz.vn/bill-gates-phan-doi-viec-twitter-khoa-tai-khoan-cua-cuu-tong-thong-trump-dat-cau-hoi-ve-quyen-luc-qua-lon-cua-cac-mang-xa-hoi-20210222084017871.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mẫu xe của Ford bất ngờ nổi tiếng toàn cầu sau thảm họa mất điện tại Texas](https://cafebiz.vn/mau-xe-cua-ford-bat-ngo-noi-tieng-toan-cau-sau-tham-hoa-mat-dien-tai-texas-20210222135551713.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lễ an táng nguyên Phó thủ tướng Trương Vĩnh Trọng](https://vnexpress.net/le-an-tang-nguyen-pho-thu-tuong-truong-vinh-trong-4238478.html) ([VNExpress](https://vnexpress.net))
