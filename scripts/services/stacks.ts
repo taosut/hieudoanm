@@ -4,9 +4,10 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 import fs from 'fs';
+import yaml from 'js-yaml';
 import fetch from 'node-fetch';
 
-import { numberFormatter, capitalize } from '../libs';
+import { numberFormatter, capitalize, convertJSONtoCSV } from '../libs';
 import { open, openPersonal, operatingSystems, cloudProviders, cicd } from '../constant';
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN || '';
@@ -240,4 +241,25 @@ export const syncStacks = async (): Promise<void> => {
   // Write to ALL.md
   await writeToMD(open, 'ALL', 'TECHNOLOGIES');
   console.log('Sync Stacks - ALL.md');
+};
+
+export const syncLanguages = async (): Promise<void> => {
+  const url: string =
+    'https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml';
+  const yml = await fetch(url).then(res => res.text());
+  const doc = yaml.load(yml);
+  const languages = Object.keys(doc)
+    .map(language => {
+      const obj = doc[language];
+      return Object.assign(obj, { language });
+    })
+    .filter(language => language.type === 'programming' && language.color)
+    .map(item => {
+      const { language = '', color = '', extensions = [] } = item;
+      return { language, color, extensions: extensions.join(',') };
+    })
+    .sort((a, b) => (a.language > b.language ? 1 : -1));
+  const fields: Array<string> = ['language', 'color', 'extensions'];
+  const path: string = '../docs/stacks/languages.csv';
+  await convertJSONtoCSV(languages, fields, path);
 };
