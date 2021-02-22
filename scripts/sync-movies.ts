@@ -5,10 +5,11 @@ import fs from 'fs';
 import { api } from './constant';
 import { request } from './libs';
 
-export const syncMovies = async () => {
+export const syncMovies = async (): Promise<void> => {
   const url: string = `${api}/culture/movies`;
   const nowShowingURL: string = `${url}?type=now-showing`;
   const movies = await request(nowShowingURL, 'GET');
+  if (!movies.length) return;
   const list: string = movies
     .map((movie: any) => {
       const { name, url } = movie;

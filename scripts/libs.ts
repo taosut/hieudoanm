@@ -21,12 +21,21 @@ export const convertJSONtoCSV = async (
   return csv;
 };
 
-export const request = (url: string, method = 'GET', body = {}): Promise<any> => {
+export const request = (
+  url: string,
+  method: string = 'GET',
+  body: Record<string, any> = {}
+): Promise<any> => {
   return new Promise(resolve => {
     const options =
       method === 'GET'
-        ? { method, 'Content-Type': 'application/json' }
-        : { method, 'Content-Type': 'application/json', body: JSON.stringify(body) };
+        ? { method, headers: { 'Content-Type': 'application/json' }, timeout: 600000 }
+        : {
+            method,
+            headers: { 'Content-Type': 'application/json' },
+            timeout: 600000,
+            body: JSON.stringify(body)
+          };
     fetch(url, options)
       .then((res: any) => res.json())
       .then((res: any) => {
