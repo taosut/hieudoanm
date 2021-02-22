@@ -8,8 +8,8 @@
 
 - Current weather is mist.
 - Temperature is 21°C.
-- Feels Like 22.66°C.
-- Air Visual is 160.
+- Feels Like 22.31°C.
+- Air Visual is 150.
 
 </td><td valign="top" width="33%">
 
@@ -28,20 +28,20 @@
 
 **GOOGLE TRENDS**
 
-- [Arsenal vs Man City](https://www.google.com/search?q=Arsenal%20vs%20Man%20City)
-- [Barca vs Cadiz](https://www.google.com/search?q=Barca%20vs%20Cadiz)
-- [Bayern](https://www.google.com/search?q=Bayern)
+- [Barca](https://www.google.com/search?q=Barca)
 - [COVID Hải Phòng](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [Campuchia](https://www.google.com/search?q=Campuchia)
-- [Chelsea](https://www.google.com/search?q=Chelsea)
+- [Cuôc chiến thượng lưu](https://www.google.com/search?q=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u)
+- [Cúng Thần Tài](https://www.google.com/search?q=C%C3%BAng%20Th%E1%BA%A7n%20T%C3%A0i)
 - [Djokovic](https://www.google.com/search?q=Djokovic)
+- [Dortmund](https://www.google.com/search?q=Dortmund)
 - [Giá vàng hôm nay](https://www.google.com/search?q=Gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay)
 - [Hồ Chí Minh](https://www.google.com/search?q=H%E1%BB%93%20Ch%C3%AD%20Minh)
 - [Inter](https://www.google.com/search?q=Inter)
 - [Leicester](https://www.google.com/search?q=Leicester)
 - [Liverpool](https://www.google.com/search?q=Liverpool)
 - [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
-- [NSND Hoàng Dũng](https://www.google.com/search?q=NSND%20Ho%C3%A0ng%20D%C5%A9ng)
+- [Man City](https://www.google.com/search?q=Man%20City)
 - [Real Madrid](https://www.google.com/search?q=Real%20Madrid)
 - [Sáng tạo doanh 2021](https://www.google.com/search?q=S%C3%A1ng%20t%E1%BA%A1o%20doanh%202021)
 - [Tenor](https://www.google.com/search?q=Tenor)
@@ -87,6 +87,7 @@
 
 **VIETCETERA**
 
+- [7 Kỹ thuật giao tiếp bằng mắt cho cuộc đối thoại hiệu quả](https://vietcetera.com/vn/7-cach-duy-tri-giao-tiep-bang-mat-hieu-qua)
 - ["Năm đó, lần đầu tiên trong đời cô biết nhớ một người con trai..."](https://vietcetera.com/vn/nhan-quyet-dinh-day-o-dao-ngay-len-tau-chua-kip-buon-co-da-oi)
 - [Podcast "Vietnam Innovators": Cùng Hảo Trần và Ruby Nguyễn đối thoại về chiến lược lãnh đạo](https://vietcetera.com/vn/podcast-vietnam-innovators-cung-hao-tran-va-ruby-nguyen-doi-thoai-voi-nhung-lanh-dao-tai-ba)
 - [Tóm Lại Là: Chủ nghĩa dân tộc vaccine, tại sao “khó trị”?](https://vietcetera.com/vn/tom-lai-la-chu-nghia-dan-toc-vaccine-tai-sao-kho-tri)
@@ -96,7 +97,6 @@
 - [Chống buồn mùa chống dịch](https://vietcetera.com/vn/chong-buon-mua-chong-dich)
 - [A Working Woman: Kristine Nguyễn, “Đỉnh vinh quang không nhất thiết phải hiu quạnh” ](https://vietcetera.com/vn/a-working-woman-kristine-nguyen-dinh-vinh-quang-khong-nhat-thiet-phai-hiu-quanh)
 - [Tóm Lại Là: Đùa vô tư về nữ quyền, liệu có vô duyên?](https://vietcetera.com/vn/tom-lai-la-dua-vo-tu-hoa-vo-duyen)
-- [Lý Xuân Lợi và những khuôn hình biết chuyển động](https://vietcetera.com/vn/ly-xuan-loi-va-nhung-khuon-hinh-biet-chuyen-dong)
 
 </td><td valign="top" width="33%">
 
@@ -143,6 +143,7 @@
 - [Ethnic Minorities](docs/ethnic-minorities/ethnic-minorities.csv)
 - Information
   - [Mobile Providers](docs/information/mobile-providers.csv)
+- [Jobs](docs/jobs/README.md)
 - [License Plates](docs/license-plates/license-plates.csv)
 - [Music](docs/music/artists.csv)
 - [Open APIs](docs/open-apis/open-apis.csv)
