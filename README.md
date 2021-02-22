@@ -2,21 +2,21 @@
 
 ## Today
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;"><div style="width: 50%; display: inline-block;">
+<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 <ul>
 <li>Current weather is mist.</li>
 <li>Temperature is 21°C.</li>
 <li>Feels Like 21.22°C.</li>
 <li>Air Visual is 119.</li>
 </ul>
-</div><div style="width: 50%; display: inline-block;">
+</td><td valign="top" width="33%">
 <ul>
 <li>Date: 2021/02/22</li>
 <li>Lunar: 2021/01/11</li>
 <li>Can Chi: năm tân sửu tháng canh dần ngày tân sửu</li>
 <li>Tiet Khi: Tiểu hàn</li>
 </ul>
-</div></div>
+</td></tr></tbody></table>
 
 ## Feed
 
