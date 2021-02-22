@@ -7,9 +7,9 @@
 **CALENDAR**
 
 - Current weather is haze.
-- Temperature is 23°C.
-- Feels Like 24.21°C.
-- Air Visual is 153.
+- Temperature is 24°C.
+- Feels Like 24.09°C.
+- Air Visual is 158.
 
 **WEATHER**
 
@@ -22,41 +22,41 @@
 
 **GOOGLE TRENDS**
 
+- [ACB](https://www.google.com/search?q=ACB)
+- [BIDV](https://www.google.com/search?q=BIDV)
 - [Barca](https://www.google.com/search?q=Barca)
-- [COVID Hải Phòng](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
-- [Campuchia](https://www.google.com/search?q=Campuchia)
-- [Cúng Thần Tài](https://www.google.com/search?q=C%C3%BAng%20Th%E1%BA%A7n%20T%C3%A0i)
+- [Báo Hải Phòng](https://www.google.com/search?q=B%C3%A1o%20H%E1%BA%A3i%20Ph%C3%B2ng)
+- [Chung khoan](https://www.google.com/search?q=Chung%20khoan)
+- [Covid Hải Phòng](https://www.google.com/search?q=Covid%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [Djokovic](https://www.google.com/search?q=Djokovic)
 - [Giá vàng hôm nay](https://www.google.com/search?q=Gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay)
 - [Hồ Chí Minh](https://www.google.com/search?q=H%E1%BB%93%20Ch%C3%AD%20Minh)
-- [Inter](https://www.google.com/search?q=Inter)
 - [Liverpool](https://www.google.com/search?q=Liverpool)
 - [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
 - [Man City](https://www.google.com/search?q=Man%20City)
+- [PSG](https://www.google.com/search?q=PSG)
 - [Real Madrid](https://www.google.com/search?q=Real%20Madrid)
 - [Soojin](https://www.google.com/search?q=Soojin)
-- [Sáng tạo doanh 2021](https://www.google.com/search?q=S%C3%A1ng%20t%E1%BA%A1o%20doanh%202021)
 - [Team](https://www.google.com/search?q=Team)
 - [Tenor](https://www.google.com/search?q=Tenor)
 - [Tottenham](https://www.google.com/search?q=Tottenham)
 - [Vincenzo](https://www.google.com/search?q=Vincenzo)
-- [Warren Buffett](https://www.google.com/search?q=Warren%20Buffett)
-- [Xổ số miền Bắc chủ nhật](https://www.google.com/search?q=X%E1%BB%95%20s%E1%BB%91%20mi%E1%BB%81n%20B%E1%BA%AFc%20ch%E1%BB%A7%20nh%E1%BA%ADt)
+- [WhatsApp](https://www.google.com/search?q=WhatsApp)
 
 </td><td valign="top" width="33%">
 
 **NEWS**
 
-- [Quận Ngũ Hành Sơn chỉ đạo &quot;nóng&quot; vụ phố du lịch nhếch nhác](https://laodong.vn/ban-doc/quan-ngu-hanh-son-chi-dao-nong-vu-pho-du-lich-nhech-nhac-882419.ldo) ([Lao Động](https://laodong.vn))
-- [Hàng hóa từ Hải Dương vẫn vướng mắc ở 'cửa ngõ' Hải Phòng](https://vnexpress.net/hang-hoa-tu-hai-duong-van-vuong-mac-o-cua-ngo-hai-phong-4238301.html) ([VNExpress](https://vnexpress.net))
-- [Khuyến khích và bảo vệ cán bộ “6 dám”: Thúc đẩy khát vọng phát triển đất nước hùng cường](https://laodong.vn/thoi-su/khuyen-khich-va-bao-ve-can-bo-6-dam-thuc-day-khat-vong-phat-trien-dat-nuoc-hung-cuong-882301.ldo) ([Lao Động](https://laodong.vn))
-- [Dàn sao &quot;Về nhà đi con&quot;: Người qua đời, người hạnh phúc sau tan vỡ](https://laodong.vn/van-hoa/dan-sao-ve-nha-di-con-nguoi-qua-doi-nguoi-hanh-phuc-sau-tan-vo-882413.ldo) ([Lao Động](https://laodong.vn))
-- [Tiêu thụ nông sản vùng dịch ách tắc: Do nhiều quy định chưa hợp lý](https://laodong.vn/kinh-te/tieu-thu-nong-san-vung-dich-ach-tac-do-nhieu-quy-dinh-chua-hop-ly-882444.ldo) ([Lao Động](https://laodong.vn))
-- [Trung tướng Nguyễn Việt Thành nhớ về “Anh Hai Nghĩa”](https://laodong.vn/thoi-su/trung-tuong-nguyen-viet-thanh-nho-ve-anh-hai-nghia-882443.ldo) ([Lao Động](https://laodong.vn))
-- [Tàu container tông gãy đôi cần cẩu thi công cầu Phước Khánh ở TP.HCM](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/tau-container-tong-gay-doi-can-cau-thi-cong-cau-phuoc-khanh-o-tp-hcm-714572.html) ([VietNamNet](https://vietnamnet.vn))
-- [Người cách ly tập trung tự trả tiền ăn](https://vnexpress.net/nguoi-cach-ly-tap-trung-tu-tra-tien-an-4238465.html) ([VNExpress](https://vnexpress.net))
-- [Doanh nhân Thuỷ Tiên - vợ đại gia kém 10 tuổi của ca sĩ Đan Trường là ai mà khiến anh từng thú nhận: "Tôi nhẫn nại để giữ gìn hôn nhân"](https://cafebiz.vn/doanh-nhan-thuy-tien-vo-dai-gia-kem-10-tuoi-cua-ca-si-dan-truong-la-ai-ma-khien-anh-tung-thu-nhan-toi-nhan-nai-de-giu-gin-hon-nhan-20210222113055205.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sẽ giám định trụ cầu Phước Khánh sau vụ tàu container va vào cần cẩu](https://tuoitre.vn/se-giam-dinh-tru-cau-phuoc-khanh-sau-vu-tau-container-va-vao-can-cau-20210222112250708.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Từ vực sâu tưởng chừng mất tất cả, Masayoshi Son dần lấy lại hào quang: Lời 15 tỷ USD nhờ đầu tư vào 'Amazon của Hàn Quốc'](https://cafebiz.vn/tu-vuc-sau-tuong-chung-mat-tat-ca-masayoshi-son-dan-lay-lai-hao-quang-loi-15-ty-usd-nho-dau-tu-vao-amazon-cua-han-quoc-20210222151440838.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thị trường bất động sản ra sao khi NHNN lùi thời hạn &quot;siết&quot; tín dụng?](https://laodong.vn/kinh-te/thi-truong-bat-dong-san-ra-sao-khi-nhnn-lui-thoi-han-siet-tin-dung-882468.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng giãn cách xã hội các địa phương có ca dương tính](https://vnexpress.net/hai-phong-gian-cach-xa-hoi-cac-dia-phuong-co-ca-duong-tinh-4238518.html) ([VNExpress](https://vnexpress.net))
+- [Phát hiện xác chết cháy trong trường học ở Điện Biên](https://laodong.vn/xa-hoi/phat-hien-xac-chet-chay-trong-truong-hoc-o-dien-bien-882499.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương: Những khu vực nào được dỡ bỏ cách ly ở Kinh Môn, Ninh Giang](https://laodong.vn/xa-hoi/hai-duong-nhung-khu-vuc-nao-duoc-do-bo-cach-ly-o-kinh-mon-ninh-giang-882500.ldo) ([Lao Động](https://laodong.vn))
+- [Công nhân vệ sinh môi trường &quot;vật lộn&quot; với đào, quất sau Tết](https://laodong.vn/cong-doan/cong-nhan-ve-sinh-moi-truong-vat-lon-voi-dao-quat-sau-tet-882420.ldo) ([Lao Động](https://laodong.vn))
+- [Lao động tự do điêu đứng bởi ảnh hưởng của dịch COVID-19](https://laodong.vn/xa-hoi/lao-dong-tu-do-dieu-dung-boi-anh-huong-cua-dich-covid-19-882283.ldo) ([Lao Động](https://laodong.vn))
+- [Xu hướng du lịch nào cho năm 2021?](https://cafebiz.vn/xu-huong-du-lich-nao-cho-nam-2021-20210222145816723.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những điều "thâm cung bí sử" chốn hậu cung triều Nguyễn qua lời kể của vị cung nữ cuối cùng còn sống trước khi bà vừa qua đời](https://cafebiz.vn/nhung-dieu-tham-cung-bi-su-chon-hau-cung-trieu-nguyen-qua-loi-ke-cua-vi-cung-nu-cuoi-cung-con-song-truoc-khi-ba-vua-qua-doi-20210222145039535.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng: Cô giáo về vùng dịch Hải Dương nhưng khai báo đi Hà Nội bị phạt 10 triệu đồng](https://cafebiz.vn/hai-phong-co-giao-ve-vung-dich-hai-duong-nhung-khai-bao-di-ha-noi-bi-phat-10-trieu-dong-20210222144715641.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -68,6 +68,7 @@
 
 **VIETCETERA**
 
+- [SCALE và nguyên lý “Cái rổ thủng”: Đừng vội khi Startup chưa đủ "chín"! ](https://vietcetera.com/vn/scale-va-nguyen-ly-cai-ro-thung-dung-voi-khi-startup-chua-du-chin)
 - [7 Kỹ thuật giao tiếp bằng mắt cho cuộc đối thoại hiệu quả](https://vietcetera.com/vn/7-cach-duy-tri-giao-tiep-bang-mat-hieu-qua)
 - ["Năm đó, lần đầu tiên trong đời cô biết nhớ một người con trai..."](https://vietcetera.com/vn/nhan-quyet-dinh-day-o-dao-ngay-len-tau-chua-kip-buon-co-da-oi)
 - [Podcast "Vietnam Innovators": Cùng Hảo Trần và Ruby Nguyễn đối thoại về chiến lược lãnh đạo](https://vietcetera.com/vn/podcast-vietnam-innovators-cung-hao-tran-va-ruby-nguyen-doi-thoai-voi-nhung-lanh-dao-tai-ba)
@@ -77,22 +78,21 @@
 - [5 Ứng dụng "nằm vùng" thị trường chứng khoán](https://vietcetera.com/vn/5-ung-dung-nam-vung-thi-truong-chung-khoan)
 - [Chống buồn mùa chống dịch](https://vietcetera.com/vn/chong-buon-mua-chong-dich)
 - [A Working Woman: Kristine Nguyễn, “Đỉnh vinh quang không nhất thiết phải hiu quạnh” ](https://vietcetera.com/vn/a-working-woman-kristine-nguyen-dinh-vinh-quang-khong-nhat-thiet-phai-hiu-quanh)
-- [Tóm Lại Là: Đùa vô tư về nữ quyền, liệu có vô duyên?](https://vietcetera.com/vn/tom-lai-la-dua-vo-tu-hoa-vo-duyen)
 
 </td><td valign="top" width="33%">
 
 **MUSIC TRENDS**
 
-01. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
-02. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
-03. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
-04. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-05. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - SUGA](https://www.youtube.com/watch?v=tHJLvOiROxI) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-06. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
-07. [Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]](https://www.youtube.com/watch?v=aXzVF3XeS8M) - [TaylorSwiftVEVO](https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg)
-08. [Ariana Grande - 34+35 Remix (feat. Doja Cat and Megan Thee Stallion) (Official Video)](https://www.youtube.com/watch?v=ssq6X6alZ3w) - [ArianaGrandeVevo](https://www.youtube.com/channel/UC0VOyT2OCBKdQhF3BAbZ-1g)
-09. [Free Fire x Sơn Tùng M-TP | 'Skyler' Theme Song |  Official](https://www.youtube.com/watch?v=kKL3x0W2GiQ) - [Sơn Tùng M-TP Official](https://www.youtube.com/channel/UClyA28-01x4z60eWQ2kiNbA)
-10. [HIT TẾT 2021 | LK Không Đủ Để Ở Lại - Trấn Thành, Ali Hoàng Dương | Gala Nhạc Việt 15 (Official)](https://www.youtube.com/watch?v=hOOh92Ixc4U) - [Gala Nhạc Việt](https://www.youtube.com/channel/UC8MC0KhiRcvBsMkcjmDf4mg)
+01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
+02. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
+03. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
+04. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
+05. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+06. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - SUGA](https://www.youtube.com/watch?v=tHJLvOiROxI) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+07. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
+08. [Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]](https://www.youtube.com/watch?v=aXzVF3XeS8M) - [TaylorSwiftVEVO](https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg)
+09. [Ariana Grande - 34+35 Remix (feat. Doja Cat and Megan Thee Stallion) (Official Video)](https://www.youtube.com/watch?v=ssq6X6alZ3w) - [ArianaGrandeVevo](https://www.youtube.com/channel/UC0VOyT2OCBKdQhF3BAbZ-1g)
+10. [Free Fire x Sơn Tùng M-TP | 'Skyler' Theme Song |  Official](https://www.youtube.com/watch?v=kKL3x0W2GiQ) - [Sơn Tùng M-TP Official](https://www.youtube.com/channel/UClyA28-01x4z60eWQ2kiNbA)
 
 </td><td valign="top" width="33%">
 
