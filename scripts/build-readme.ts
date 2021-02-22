@@ -135,12 +135,12 @@ export const buildREADME = async () => {
 
 ## Today
 
-<div style="${twoColumesStyle}"><div style="display: inline-block; width: 50%">
+<div style="${twoColumesStyle}"><div>
 - Current weather is ${description}.
 - Temperature is ${temp}°C.
 - Feels Like ${feelsLike}°C.
 - Air Visual is ${airVisual}.
-</div><div style="display: inline-block; width: 50%">
+</div><div>
 - Date: ${solarYear}/${addZero(solarMonth)}/${addZero(solarDate)}
 - Lunar: ${lunarYear}/${addZero(lunarMonth)}/${addZero(lunarDate)}
 - Can Chi: ${canChi}

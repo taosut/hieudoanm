@@ -2,16 +2,12 @@
 
 ## Today
 
-<div><div style="display: inline-block; width: 50%">
-<b>Weather</b>
-
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;"><div>
 - Current weather is mist.
 - Temperature is 21°C.
 - Feels Like 21.94°C.
 - Air Visual is 128.
-</div><div style="display: inline-block; width: 50%">
-<b>Calendar</b>
-
+</div><div>
 - Date: 2021/02/22
 - Lunar: 2021/01/11
 - Can Chi: năm tân sửu tháng canh dần ngày tân sửu
