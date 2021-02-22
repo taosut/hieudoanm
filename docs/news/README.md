@@ -1,12 +1,12 @@
 # News
 
+- [Trưởng phòng Cảnh sát kinh tế Công an Hà Nội bị đình chỉ công tác](https://laodong.vn/phap-luat/truong-phong-canh-sat-kinh-te-cong-an-ha-noi-bi-dinh-chi-cong-tac-882650.ldo) ([Lao Động](https://laodong.vn))
 - [8 loại dầu ăn tốt nhất dành cho sức khỏe được khuyên dùng](https://laodong.vn/suc-khoe/8-loai-dau-an-tot-nhat-danh-cho-suc-khoe-duoc-khuyen-dung-882048.ldo) ([Lao Động](https://laodong.vn))
 - [Bí thư Hải Dương: ‘Còn 8,5 ngày để tổng phản công dịch bệnh’](https://vnexpress.net/bi-thu-hai-duong-con-8-5-ngay-de-tong-phan-cong-dich-benh-4238648.html) ([VNExpress](https://vnexpress.net))
 - [Quảng Ninh: 2 vợ chồng văng xuống biển khi đánh bắt hải sản](https://laodong.vn/xa-hoi/quang-ninh-2-vo-chong-vang-xuong-bien-khi-danh-bat-hai-san-882627.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội đề xuất mua 15 triệu liều vắc xin phòng COVID-19 tiêm cho người dân](https://tuoitre.vn/ha-noi-de-xuat-mua-15-trieu-lieu-vac-xin-phong-covid-19-tiem-cho-nguoi-dan-20210222175118144.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [3 sai lầm nghiêm trọng trong chăm sóc da khiến da xấu đi hàng ngày](https://laodong.vn/lam-dep/3-sai-lam-nghiem-trong-trong-cham-soc-da-khien-da-xau-di-hang-ngay-882643.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương khởi tố vụ án làm lây lan dịch bệnh COVID-19](https://laodong.vn/phap-luat/hai-duong-khoi-to-vu-an-lam-lay-lan-dich-benh-covid-19-882617.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang: Nam công nhân bị đâm tử vong sau chạm giao thông](https://laodong.vn/phap-luat/bac-giang-nam-cong-nhan-bi-dam-tu-vong-sau-cham-giao-thong-882626.ldo) ([Lao Động](https://laodong.vn))
 - [TP Thủ Đức giải quyết từ phản ánh Tuổi Trẻ về việc 'Chủ đóng cửa khu công nghiệp...'](https://tuoitre.vn/tp-thu-duc-giai-quyet-tu-phan-anh-tuoi-tre-ve-viec-chu-dong-cua-khu-cong-nghiep-20210222173243801.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Cung nữ cuối cùng của triều Nguyễn mất ở tuổi 102: Dòng tộc chủ trì tang lễ](https://laodong.vn/xa-hoi/cung-nu-cuoi-cung-cua-trieu-nguyen-mat-o-tuoi-102-dong-toc-chu-tri-tang-le-882558.ldo) ([Lao Động](https://laodong.vn))
 - [Sẽ xét nghiệm COVID-19 cho 4.000 thanh niên thủ đô trước khi nhập ngũ](https://tuoitre.vn/se-xet-nghiem-covid-19-cho-4-000-thanh-nien-thu-do-truoc-khi-nhap-ngu-20210222173735366.htm) ([Tuổi Trẻ](https://tuoitre.vn))
