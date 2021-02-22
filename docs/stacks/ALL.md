@@ -7,12 +7,12 @@
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
 |1|[<img src="https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript" alt="javascript" />](https://github.com/airbnb/javascript) | javascript | 104,909 | 3,797 | 20,376 | 129,082|
-|2|[<img src="https://img.shields.io/badge/-go-000?style=flat&logo=go" alt="go" />](https://github.com/golang/go) | go | 82,304 | 3,522 | 11,959 | 97,785|
+|2|[<img src="https://img.shields.io/badge/-go-000?style=flat&logo=go" alt="go" />](https://github.com/golang/go) | go | 82,305 | 3,522 | 11,959 | 97,786|
 |3|[<img src="https://img.shields.io/badge/-typescript-000?style=flat&logo=typescript" alt="typescript" />](https://github.com/microsoft/TypeScript) | typescript | 68,752 | 2,157 | 9,118 | 80,027|
 |4|[<img src="https://img.shields.io/badge/-swift-000?style=flat&logo=swift" alt="swift" />](https://github.com/apple/swift) | c++ | 55,126 | 2,591 | 8,849 | 66,566|
 |5|[<img src="https://img.shields.io/badge/-python-000?style=flat&logo=python" alt="python" />](https://github.com/python/cpython) | python | 36,327 | 1,398 | 17,848 | 55,573|
 |6|[<img src="https://img.shields.io/badge/-kotlin-000?style=flat&logo=kotlin" alt="kotlin" />](https://github.com/JetBrains/kotlin) |  | 35,339 | 1,357 | 4,384 | 41,080|
-|7|[<img src="https://img.shields.io/badge/-ruby-000?style=flat&logo=ruby" alt="ruby" />](https://github.com/ruby/ruby) | ruby | 17,914 | 1,192 | 4,749 | 23,855|
+|7|[<img src="https://img.shields.io/badge/-ruby-000?style=flat&logo=ruby" alt="ruby" />](https://github.com/ruby/ruby) | ruby | 17,914 | 1,192 | 4,750 | 23,856|
 
 ## PACKAGE MANAGERS
 
@@ -39,18 +39,18 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-bootstrap-000?style=flat&logo=bootstrap" alt="bootstrap" />](https://github.com/twbs/bootstrap) | javascript | 148,400 | 7,129 | 72,354 | 227,883|
+|1|[<img src="https://img.shields.io/badge/-bootstrap-000?style=flat&logo=bootstrap" alt="bootstrap" />](https://github.com/twbs/bootstrap) | javascript | 148,401 | 7,129 | 72,354 | 227,884|
 |2|[<img src="https://img.shields.io/badge/-bulma-000?style=flat&logo=bulma" alt="bulma" />](https://github.com/jgthms/bulma) | css | 42,736 | 653 | 3,666 | 47,055|
 |3|[<img src="https://img.shields.io/badge/-materialize-000?style=flat&logo=materialize" alt="materialize" />](https://github.com/Dogfalo/materialize) | javascript | 38,367 | 1,057 | 4,901 | 44,325|
 |4|[<img src="https://img.shields.io/badge/-tailwind-000?style=flat&logo=tailwind" alt="tailwind" />](https://github.com/tailwindlabs/tailwindcss) | css | 37,159 | 514 | 1,699 | 39,372|
-|5|[<img src="https://img.shields.io/badge/-pure-000?style=flat&logo=pure" alt="pure" />](https://github.com/pure-css/pure) | javascript | 21,531 | 780 | 2,291 | 24,602|
+|5|[<img src="https://img.shields.io/badge/-pure-000?style=flat&logo=pure" alt="pure" />](https://github.com/pure-css/pure) | javascript | 21,532 | 780 | 2,291 | 24,603|
 
 ## FRONT-END FRAMEWORKS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-vue.js-000?style=flat&logo=vue.js" alt="vue.js" />](https://github.com/vuejs/vue) | javascript | 179,701 | 6,346 | 28,205 | 214,252|
-|2|[<img src="https://img.shields.io/badge/-react-000?style=flat&logo=react" alt="react" />](https://github.com/facebook/react) | javascript | 164,073 | 6,737 | 32,871 | 203,681|
+|1|[<img src="https://img.shields.io/badge/-vue.js-000?style=flat&logo=vue.js" alt="vue.js" />](https://github.com/vuejs/vue) | javascript | 179,703 | 6,346 | 28,205 | 214,254|
+|2|[<img src="https://img.shields.io/badge/-react-000?style=flat&logo=react" alt="react" />](https://github.com/facebook/react) | javascript | 164,072 | 6,736 | 32,871 | 203,679|
 |3|[<img src="https://img.shields.io/badge/-angular-000?style=flat&logo=angular" alt="angular" />](https://github.com/angular/angular) | typescript | 70,865 | 3,209 | 18,622 | 92,696|
 |4|[<img src="https://img.shields.io/badge/-jquery-000?style=flat&logo=jquery" alt="jquery" />](https://github.com/jquery/jquery) | javascript | 54,569 | 3,363 | 19,755 | 77,687|
 |5|[<img src="https://img.shields.io/badge/-gatsby-000?style=flat&logo=gatsby" alt="gatsby" />](https://github.com/gatsbyjs/gatsby) | javascript | 49,122 | 923 | 9,305 | 59,350|
@@ -61,7 +61,7 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-flutter-000?style=flat&logo=flutter" alt="flutter" />](https://github.com/flutter/flutter) | dart | 113,659 | 3,469 | 16,213 | 133,341|
+|1|[<img src="https://img.shields.io/badge/-flutter-000?style=flat&logo=flutter" alt="flutter" />](https://github.com/flutter/flutter) | dart | 113,659 | 3,469 | 16,214 | 133,342|
 |2|[<img src="https://img.shields.io/badge/-reactnative-000?style=flat&logo=react-native" alt="react-native" />](https://github.com/facebook/react-native) | javascript | 93,498 | 3,725 | 20,528 | 117,751|
 |3|[<img src="https://img.shields.io/badge/-ionic-000?style=flat&logo=ionic" alt="ionic" />](https://github.com/ionic-team/ionic-framework) | typescript | 43,081 | 1,750 | 13,357 | 58,188|
 
@@ -69,7 +69,7 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-django-000?style=flat&logo=django" alt="django" />](https://github.com/django/django) | python | 55,746 | 2,339 | 23,942 | 82,027|
+|1|[<img src="https://img.shields.io/badge/-django-000?style=flat&logo=django" alt="django" />](https://github.com/django/django) | python | 55,748 | 2,340 | 23,943 | 82,031|
 |2|[<img src="https://img.shields.io/badge/-flask-000?style=flat&logo=flask" alt="flask" />](https://github.com/pallets/flask) | python | 53,970 | 2,267 | 14,134 | 70,371|
 |3|[<img src="https://img.shields.io/badge/-express-000?style=flat&logo=express" alt="express" />](https://github.com/expressjs/express) | javascript | 52,021 | 1,799 | 8,722 | 62,542|
 |4|[<img src="https://img.shields.io/badge/-symfony-000?style=flat&logo=symfony" alt="symfony" />](https://github.com/symfony/symfony) | php | 24,693 | 1,228 | 8,012 | 33,933|
@@ -79,7 +79,7 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-elasticsearch-000?style=flat&logo=elasticsearch" alt="elasticsearch" />](https://github.com/elastic/elasticsearch) | java | 53,787 | 2,783 | 19,260 | 75,830|
+|1|[<img src="https://img.shields.io/badge/-elasticsearch-000?style=flat&logo=elasticsearch" alt="elasticsearch" />](https://github.com/elastic/elasticsearch) | java | 53,788 | 2,784 | 19,260 | 75,832|
 |2|[<img src="https://img.shields.io/badge/-redis-000?style=flat&logo=redis" alt="redis" />](https://github.com/redis/redis) | c | 47,534 | 2,709 | 18,814 | 69,057|
 |3|[<img src="https://img.shields.io/badge/-mongodb-000?style=flat&logo=mongodb" alt="mongodb" />](https://github.com/mongodb/mongo) | c++ | 19,327 | 1,240 | 4,725 | 25,292|
 |4|[<img src="https://img.shields.io/badge/-postgresql-000?style=flat&logo=postgresql" alt="postgresql" />](https://github.com/postgres/postgres) | c | 7,946 | 477 | 2,606 | 11,029|
@@ -105,13 +105,13 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-tensorflow-000?style=flat&logo=tensorflow" alt="tensorflow" />](https://github.com/tensorflow/tensorflow) | c++ | 153,443 | 8,225 | 84,055 | 245,723|
+|1|[<img src="https://img.shields.io/badge/-tensorflow-000?style=flat&logo=tensorflow" alt="tensorflow" />](https://github.com/tensorflow/tensorflow) | c++ | 153,442 | 8,225 | 84,056 | 245,723|
 
 ## JAVASCRIPT
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-redux-000?style=flat&logo=redux" alt="redux" />](https://github.com/reduxjs/redux) | typescript | 55,366 | 1,409 | 14,551 | 71,326|
+|1|[<img src="https://img.shields.io/badge/-redux-000?style=flat&logo=redux" alt="redux" />](https://github.com/reduxjs/redux) | typescript | 55,365 | 1,408 | 14,551 | 71,324|
 |2|[<img src="https://img.shields.io/badge/-lodash-000?style=flat&logo=lodash" alt="lodash" />](https://github.com/lodash/lodash) | javascript | 48,344 | 884 | 5,556 | 54,784|
 |3|[<img src="https://img.shields.io/badge/-prettier-000?style=flat&logo=prettier" alt="prettier" />](https://github.com/prettier/prettier) | javascript | 38,985 | 407 | 2,653 | 42,045|
 |4|[<img src="https://img.shields.io/badge/-eslint-000?style=flat&logo=eslint" alt="eslint" />](https://github.com/eslint/eslint) | javascript | 17,907 | 302 | 3,188 | 21,397|
