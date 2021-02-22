@@ -144,14 +144,24 @@ export const buildREADME = async () => {
 - Feels Like ${feelsLike}°C.
 - Air Visual is ${airVisual}.
 
-</td><td valign="top" width="33%">
-
 **WEATHER**
 
 - Date: ${solarYear}/${addZero(solarMonth)}/${addZero(solarDate)}
 - Lunar: ${lunarYear}/${addZero(lunarMonth)}/${addZero(lunarDate)}
 - Tiet Khi: ${tietKhi}.
 - ${canChi}.
+
+</td><td valign="top" width="33%">
+
+**VIETCETERA**
+
+${vietceteraArticles}
+
+</td><td valign="top" width="33%">
+
+**NPM**
+
+${npm}
 
 </td></tr></tbody></table>
 
@@ -179,22 +189,7 @@ ${youTubeTrending}
 
 ## Data
 
-<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
-
-**VIETCETERA**
-
-${vietceteraArticles}
-
-</td><td valign="top" width="33%">
-
-**NPM**
-
-${npm}
-
-</td><td valign="top" width="33%">
-
 ${csv}
-</td></tr></tbody></table>
 `;
 
   await fs.writeFileSync('../README.md', md);

@@ -9,9 +9,7 @@
 - Current weather is mist.
 - Temperature is 21°C.
 - Feels Like 22.31°C.
-- Air Visual is 150.
-
-</td><td valign="top" width="33%">
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -19,6 +17,45 @@
 - Lunar: 2021/01/11
 - Tiet Khi: Tiểu hàn.
 - năm tân sửu tháng canh dần ngày tân sửu.
+
+</td><td valign="top" width="33%">
+
+**VIETCETERA**
+
+- [7 Kỹ thuật giao tiếp bằng mắt cho cuộc đối thoại hiệu quả](https://vietcetera.com/vn/7-cach-duy-tri-giao-tiep-bang-mat-hieu-qua)
+- ["Năm đó, lần đầu tiên trong đời cô biết nhớ một người con trai..."](https://vietcetera.com/vn/nhan-quyet-dinh-day-o-dao-ngay-len-tau-chua-kip-buon-co-da-oi)
+- [Podcast "Vietnam Innovators": Cùng Hảo Trần và Ruby Nguyễn đối thoại về chiến lược lãnh đạo](https://vietcetera.com/vn/podcast-vietnam-innovators-cung-hao-tran-va-ruby-nguyen-doi-thoai-voi-nhung-lanh-dao-tai-ba)
+- [Tóm Lại Là: Chủ nghĩa dân tộc vaccine, tại sao “khó trị”?](https://vietcetera.com/vn/tom-lai-la-chu-nghia-dan-toc-vaccine-tai-sao-kho-tri)
+- [5 Tiệm cà phê thủ công giao tận nhà ở Hà Nội cho hội "coffeholic"](https://vietcetera.com/vn/5-tiem-ca-phe-thu-cong-giao-tan-nha-o-ha-noi-cho-hoi-coffeholic)
+- [Tóm Lại Là: Toàn cảnh cuộc chiến giữa Úc và Facebook](https://vietcetera.com/vn/tom-lai-la-toan-canh-cuoc-chien-giua-uc-va-facebook)
+- [5 Ứng dụng "nằm vùng" thị trường chứng khoán](https://vietcetera.com/vn/5-ung-dung-nam-vung-thi-truong-chung-khoan)
+- [Chống buồn mùa chống dịch](https://vietcetera.com/vn/chong-buon-mua-chong-dich)
+- [A Working Woman: Kristine Nguyễn, “Đỉnh vinh quang không nhất thiết phải hiu quạnh” ](https://vietcetera.com/vn/a-working-woman-kristine-nguyen-dinh-vinh-quang-khong-nhat-thiet-phai-hiu-quanh)
+- [Tóm Lại Là: Đùa vô tư về nữ quyền, liệu có vô duyên?](https://vietcetera.com/vn/tom-lai-la-dua-vo-tu-hoa-vo-duyen)
+
+</td><td valign="top" width="33%">
+
+**NPM**
+
+[![download](https://img.shields.io/npm/dm/giaohangnhanh.svg?style=flat&label=giaohangnhanh+%28download%29)](https://www.npmjs.com/package/giaohangnhanh)
+
+[![download](https://img.shields.io/npm/dm/onepay.svg?style=flat&label=onepay+%28download%29)](https://www.npmjs.com/package/onepay)
+
+[![download](https://img.shields.io/npm/dm/vietcetera.svg?style=flat&label=vietcetera+%28download%29)](https://www.npmjs.com/package/vietcetera)
+
+[![download](https://img.shields.io/npm/dm/vietnambanks.svg?style=flat&label=vietnambanks+%28download%29)](https://www.npmjs.com/package/vietnambanks)
+
+[![download](https://img.shields.io/npm/dm/vietnamgovernment.svg?style=flat&label=vietnamgovernment+%28download%29)](https://www.npmjs.com/package/vietnamgovernment)
+
+[![download](https://img.shields.io/npm/dm/vietnamnews.svg?style=flat&label=vietnamnews+%28download%29)](https://www.npmjs.com/package/vietnamnews)
+
+[![download](https://img.shields.io/npm/dm/vnapis.svg?style=flat&label=vnapis+%28download%29)](https://www.npmjs.com/package/vnapis)
+
+[![download](https://img.shields.io/npm/dm/vnpay.svg?style=flat&label=vnpay+%28download%29)](https://www.npmjs.com/package/vnpay)
+
+[![download](https://img.shields.io/npm/dm/vtcpay.svg?style=flat&label=vtcpay+%28download%29)](https://www.npmjs.com/package/vtcpay)
+
+[![download](https://img.shields.io/npm/dm/zalopay.svg?style=flat&label=zalopay+%28download%29)](https://www.npmjs.com/package/zalopay)
 
 </td></tr></tbody></table>
 
@@ -83,49 +120,6 @@
 
 ## Data
 
-<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
-
-**VIETCETERA**
-
-- [7 Kỹ thuật giao tiếp bằng mắt cho cuộc đối thoại hiệu quả](https://vietcetera.com/vn/7-cach-duy-tri-giao-tiep-bang-mat-hieu-qua)
-- ["Năm đó, lần đầu tiên trong đời cô biết nhớ một người con trai..."](https://vietcetera.com/vn/nhan-quyet-dinh-day-o-dao-ngay-len-tau-chua-kip-buon-co-da-oi)
-- [Podcast "Vietnam Innovators": Cùng Hảo Trần và Ruby Nguyễn đối thoại về chiến lược lãnh đạo](https://vietcetera.com/vn/podcast-vietnam-innovators-cung-hao-tran-va-ruby-nguyen-doi-thoai-voi-nhung-lanh-dao-tai-ba)
-- [Tóm Lại Là: Chủ nghĩa dân tộc vaccine, tại sao “khó trị”?](https://vietcetera.com/vn/tom-lai-la-chu-nghia-dan-toc-vaccine-tai-sao-kho-tri)
-- [5 Tiệm cà phê thủ công giao tận nhà ở Hà Nội cho hội "coffeholic"](https://vietcetera.com/vn/5-tiem-ca-phe-thu-cong-giao-tan-nha-o-ha-noi-cho-hoi-coffeholic)
-- [Tóm Lại Là: Toàn cảnh cuộc chiến giữa Úc và Facebook](https://vietcetera.com/vn/tom-lai-la-toan-canh-cuoc-chien-giua-uc-va-facebook)
-- [5 Ứng dụng "nằm vùng" thị trường chứng khoán](https://vietcetera.com/vn/5-ung-dung-nam-vung-thi-truong-chung-khoan)
-- [Chống buồn mùa chống dịch](https://vietcetera.com/vn/chong-buon-mua-chong-dich)
-- [A Working Woman: Kristine Nguyễn, “Đỉnh vinh quang không nhất thiết phải hiu quạnh” ](https://vietcetera.com/vn/a-working-woman-kristine-nguyen-dinh-vinh-quang-khong-nhat-thiet-phai-hiu-quanh)
-- [Tóm Lại Là: Đùa vô tư về nữ quyền, liệu có vô duyên?](https://vietcetera.com/vn/tom-lai-la-dua-vo-tu-hoa-vo-duyen)
-
-</td><td valign="top" width="33%">
-
-**NPM**
-
-[![download](https://img.shields.io/npm/dm/giaohangnhanh.svg?style=flat&label=giaohangnhanh+%28download%29)](https://www.npmjs.com/package/giaohangnhanh)
-
-[![download](https://img.shields.io/npm/dm/onepay.svg?style=flat&label=onepay+%28download%29)](https://www.npmjs.com/package/onepay)
-
-[![download](https://img.shields.io/npm/dm/vietcetera.svg?style=flat&label=vietcetera+%28download%29)](https://www.npmjs.com/package/vietcetera)
-
-[![download](https://img.shields.io/npm/dm/vietnambanks.svg?style=flat&label=vietnambanks+%28download%29)](https://www.npmjs.com/package/vietnambanks)
-
-[![download](https://img.shields.io/npm/dm/vietnamgovernment.svg?style=flat&label=vietnamgovernment+%28download%29)](https://www.npmjs.com/package/vietnamgovernment)
-
-[![download](https://img.shields.io/npm/dm/vietnamnews.svg?style=flat&label=vietnamnews+%28download%29)](https://www.npmjs.com/package/vietnamnews)
-
-[![download](https://img.shields.io/npm/dm/vnapis.svg?style=flat&label=vnapis+%28download%29)](https://www.npmjs.com/package/vnapis)
-
-[![download](https://img.shields.io/npm/dm/vnpay.svg?style=flat&label=vnpay+%28download%29)](https://www.npmjs.com/package/vnpay)
-
-[![download](https://img.shields.io/npm/dm/vtcpay.svg?style=flat&label=vtcpay+%28download%29)](https://www.npmjs.com/package/vtcpay)
-
-[![download](https://img.shields.io/npm/dm/zalopay.svg?style=flat&label=zalopay+%28download%29)](https://www.npmjs.com/package/zalopay)
-
-</td><td valign="top" width="33%">
-
-**CSV**
-
 - Administrative Divisions
   - [Postal Codes](docs/administrative-divisions/postal-codes.csv)
   - [Provinces](docs/administrative-divisions/provinces.csv)
@@ -154,4 +148,3 @@
     - [Stations](docs/open-apis/ghn/stations.csv)
 - [Visas](docs/visas/visas.csv)
 
-</td></tr></tbody></table>

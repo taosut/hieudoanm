@@ -1,5 +1,3 @@
-**CSV**
-
 - Administrative Divisions
   - [Postal Codes](docs/administrative-divisions/postal-codes.csv)
   - [Provinces](docs/administrative-divisions/provinces.csv)
