@@ -8,7 +8,11 @@ export const addZero = (i: number = 0): string => {
   return i > 9 ? `${i}` : `0${i}`;
 };
 
-export const convertJSONtoCSV = async (json: Record<string, any>, fields: Array<string>, path: string) => {
+export const convertJSONtoCSV = async (
+  json: Record<string, any>,
+  fields: Array<string>,
+  path: string
+) => {
   const parser = new Parser({ fields, delimiter: ',' });
   const csv = parser.parse(json);
   if (path) {
@@ -17,9 +21,13 @@ export const convertJSONtoCSV = async (json: Record<string, any>, fields: Array<
   return csv;
 };
 
-export const request = (url: string, method = 'GET'): Promise<any> => {
+export const request = (url: string, method = 'GET', body = {}): Promise<any> => {
   return new Promise(resolve => {
-    fetch(url, { method })
+    const options =
+      method === 'GET'
+        ? { method, 'Content-Type': 'application/json' }
+        : { method, 'Content-Type': 'application/json', body: JSON.stringify(body) };
+    fetch(url, options)
       .then((res: any) => res.json())
       .then((res: any) => {
         resolve(res);

@@ -27,7 +27,15 @@ export const syncDistricts = async (provinces: Array<any>): Promise<Array<any>> 
     return district;
   });
 
-  const ghnDistrictsFields: Array<string> = ['province_id', 'province', 'district_id', 'name', 'code', 'type', 'support_type'];
+  const ghnDistrictsFields: Array<string> = [
+    'province_id',
+    'province',
+    'district_id',
+    'name',
+    'code',
+    'type',
+    'support_type'
+  ];
   const ghnDistrictsPath: string = `../docs/open-apis/ghn/districts.csv`;
   await convertJSONtoCSV(districts, ghnDistrictsFields, ghnDistrictsPath);
   return districts;
@@ -43,7 +51,14 @@ export const syncWards = async (districts: Array<any>): Promise<Array<any>> => {
     return ward;
   });
 
-  const ghnWardsFields: Array<string> = ['province_id', 'province', 'district_id', 'district', 'name', 'code'];
+  const ghnWardsFields: Array<string> = [
+    'province_id',
+    'province',
+    'district_id',
+    'district',
+    'name',
+    'code'
+  ];
   const ghnWardsPath: string = `../docs/open-apis/ghn/wards.csv`;
   await convertJSONtoCSV(wards, ghnWardsFields, ghnWardsPath);
   return wards;
@@ -75,7 +90,18 @@ export const syncStations = async (wards: Array<any>): Promise<Array<any>> => {
     return station;
   });
 
-  const ghnStationsFields: Array<string> = ['province', 'district', 'ward', 'id', 'code', 'name', 'address', 'email', 'latitude', 'longitude'];
+  const ghnStationsFields: Array<string> = [
+    'province',
+    'district',
+    'ward',
+    'id',
+    'code',
+    'name',
+    'address',
+    'email',
+    'latitude',
+    'longitude'
+  ];
   const ghnStationsPath: string = `../docs/open-apis/ghn/stations.csv`;
   await convertJSONtoCSV(stations, ghnStationsFields, ghnStationsPath);
   return stations;

@@ -3,12 +3,34 @@
 import fs from 'fs';
 import Vietcetera from 'vietcetera';
 
-import { addZero, request } from './libs';
+import { api } from './constant';
+import { addZero, request, getTime } from './libs';
 
 const vietcetera: Vietcetera = new Vietcetera();
-
-const api: string = 'https://vietnamdb.herokuapp.com/api';
 const city: string = 'Hanoi';
+
+export const getLunarDate = async (): Promise<Record<string, any>> => {
+  const url: string = `${api}/culture/calendar/solar2lunar`;
+  const { year: solarYear, month: solarMonth, date: solarDate } = getTime();
+  const { year: lunarYear, month: lunarMonth, date: lunarDate } = await request(url, 'POST', {
+    year: solarYear,
+    month: solarMonth,
+    date: solarDate
+  });
+  const canChiURL: string = `${api}/culture/calendar/lunar/can-chi`;
+  const { canChi } = await await request(canChiURL, 'POST', {
+    year: lunarYear,
+    month: lunarMonth,
+    date: lunarDate
+  });
+  const tietKhiURL: string = `${api}/culture/calendar/lunar/tiet-khi`;
+  const { tietKhi } = await await request(tietKhiURL, 'POST', {
+    year: lunarYear,
+    month: lunarMonth,
+    date: lunarDate
+  });
+  return { solarYear, solarMonth, solarDate, lunarYear, lunarMonth, lunarDate, canChi, tietKhi };
+};
 
 export const getVietcetera = async () => {
   const type: any = 'latest';
@@ -16,7 +38,8 @@ export const getVietcetera = async () => {
   const articles = basicArticles
     .map((article: Record<string, any> = {}) => {
       const { title = '', slug = '', language = '' } = article;
-      const url = language && slug ? `https://vietcetera.com/${language.toLowerCase()}/${slug}` : '';
+      const url =
+        language && slug ? `https://vietcetera.com/${language.toLowerCase()}/${slug}` : '';
       return `- [${title}](${url})`;
     })
     .join('\n');
@@ -67,7 +90,18 @@ export const getGoogleTrends = async (): Promise<string> => {
 };
 
 export const buildNPM = (): string => {
-  const packages: Array<string> = ['giaohangnhanh', 'onepay', 'vietcetera', 'vietnambanks', 'vietnamgovernment', 'vietnamnews', 'vnapis', 'vnpay', 'vtcpay', 'zalopay'].sort();
+  const packages: Array<string> = [
+    'giaohangnhanh',
+    'onepay',
+    'vietcetera',
+    'vietnambanks',
+    'vietnamgovernment',
+    'vietnamnews',
+    'vnapis',
+    'vnpay',
+    'vtcpay',
+    'zalopay'
+  ].sort();
   return packages
     .map((_package: string) => {
       return `[![download](https://img.shields.io/npm/dm/${_package}.svg?style=flat&label=${_package}+%28download%29)](https://www.npmjs.com/package/${_package})`;
@@ -84,18 +118,36 @@ export const buildREADME = async () => {
   const musicTrending: string = await getYouTubeTrending(10);
   const vietceteraArticles: string = await getVietcetera();
   const npm: string = buildNPM();
+  const {
+    solarYear,
+    solarMonth,
+    solarDate,
+    lunarYear,
+    lunarMonth,
+    lunarDate,
+    canChi,
+    tietKhi
+  } = await getLunarDate();
 
-  const md: string = `# VIETNAMDB
+  const md: string = `# VIETNAMDB ([Stacks](docs/stacks))
 
-[Stacks](docs/stacks)
+## Today
 
-## Weather
+<div><div style="display: inline-block; width: 50%">
+<b>Weather</b>
 
-\`\`\`txt
-The current weather is ${description}.
-Temperature is ${temp}°C (feels like ${feelsLike}°C).
-Air Visual is ${airVisual}.
-\`\`\`
+- Current weather is ${description}.
+- Temperature is ${temp}°C.
+- Feels Like ${feelsLike}°C.
+- Air Visual is ${airVisual}.
+</div><div style="display: inline-block; width: 50%">
+<b>Calendar</b>
+
+- Date: ${solarYear}/${addZero(solarMonth)}/${addZero(solarDate)}
+- Lunar: ${lunarYear}/${addZero(lunarMonth)}/${addZero(lunarDate)}
+- Can Chi: ${canChi}
+- Tiet Khi: ${tietKhi}
+</div></div>
 
 ## Feed
 

@@ -33,7 +33,13 @@ export const getRepositories = async (list: Array<Record<string, any>>) => {
   for (const item of list) {
     const { name = '', repo = '', group = '', step = 0 } = item;
     const repository: Record<string, any> = await getRepository(repo);
-    const { full_name = '', language = '', forks = 0, subscribers_count: subscribers = 0, stargazers_count: stars = 0 } = repository;
+    const {
+      full_name = '',
+      language = '',
+      forks = 0,
+      subscribers_count: subscribers = 0,
+      stargazers_count: stars = 0
+    } = repository;
     const points: number = forks + subscribers + stars;
     const url: string = `https://github.com/${full_name}`;
     console.log(step, group, name, url, language, stars, subscribers, forks, points);
@@ -55,7 +61,10 @@ export const getGroups = (repositories: Array<Record<string, any>>) => {
   return groups;
 };
 
-export const getRepositoriesByGroups = (repositories: Array<Record<string, any>>, groups: Array<Record<string, any>>) => {
+export const getRepositoriesByGroups = (
+  repositories: Array<Record<string, any>>,
+  groups: Array<Record<string, any>>
+) => {
   const repositoriesByGroups = groups.map((item: Record<string, any>) => {
     const { group } = item;
     const filterRepositories = repositories
@@ -85,7 +94,9 @@ export const convertArrayToTableMD = (array: Array<Record<string, any>>) => {
           const value: any = repository[key] || '';
           if (key === 'name') {
             const { url = '' } = repository;
-            const label: string = encodeURI(value.toLowerCase().split('-').join('').split(' ').join(''));
+            const label: string = encodeURI(
+              value.toLowerCase().split('-').join('').split(' ').join('')
+            );
             const logo: string = encodeURI(value);
             const src: string = `https://img.shields.io/badge/-${label}-000?style=flat&logo=${logo}`;
             const img: string = `<img src="${src}" alt="${logo}" />`;
@@ -108,7 +119,9 @@ export const convertArrayToTableMD = (array: Array<Record<string, any>>) => {
 };
 
 export const buildLanguagesSection = (repositories: Array<Record<string, any>>): string => {
-  const allLanguages: Array<string> = repositories.map((repository: Record<string, any>) => repository.language).filter((language: string) => language);
+  const allLanguages: Array<string> = repositories
+    .map((repository: Record<string, any>) => repository.language)
+    .filter((language: string) => language);
 
   const languages: string = allLanguages
     .filter((value: string, index: number, array: Array<string>) => array.indexOf(value) === index)
@@ -185,7 +198,11 @@ export const buildCICD = (personalFlag: boolean = false): string => {
   return section;
 };
 
-export const writeToMD = async (list: Array<Record<string, any>>, filename: string, h1: string): Promise<void> => {
+export const writeToMD = async (
+  list: Array<Record<string, any>>,
+  filename: string,
+  h1: string
+): Promise<void> => {
   const repositories = await getRepositories(list);
   const groups = getGroups(repositories);
   const repositoriesByGroups = getRepositoriesByGroups(repositories, groups);
@@ -205,7 +222,14 @@ export const writeToMD = async (list: Array<Record<string, any>>, filename: stri
   const cicdSection: string = buildCICD(filename === 'README');
 
   const mdPath: string = `../docs/stacks/${filename}.md`;
-  const mdData: string = [`# ${h1}\n`, `${languagesSection}\n`, `${tableSections}`, `${operatingSystemsSection}\n`, `${cicdSection}\n`, cloudProvidersSection].join('\n');
+  const mdData: string = [
+    `# ${h1}\n`,
+    `${languagesSection}\n`,
+    `${tableSections}`,
+    `${operatingSystemsSection}\n`,
+    `${cicdSection}\n`,
+    cloudProvidersSection
+  ].join('\n');
   await fs.writeFileSync(mdPath, mdData + '\n');
 };
 

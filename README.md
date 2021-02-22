@@ -1,14 +1,22 @@
-# VIETNAMDB
+# VIETNAMDB ([Stacks](docs/stacks))
 
-[Stacks](docs/stacks)
+## Today
 
-## Weather
+<div><div style="display: inline-block; width: 50%">
+<b>Weather</b>
 
-```txt
-The current weather is mist.
-Temperature is 20°C (feels like 20.59°C).
-Air Visual is 120.
-```
+- Current weather is mist.
+- Temperature is 21°C.
+- Feels Like 21.94°C.
+- Air Visual is 128.
+</div><div style="display: inline-block; width: 50%">
+<b>Calendar</b>
+
+- Date: 2021/02/22
+- Lunar: 2021/01/11
+- Can Chi: năm tân sửu tháng canh dần ngày tân sửu
+- Tiet Khi: Tiểu hàn
+</div></div>
 
 ## Feed
 
@@ -19,22 +27,22 @@ Air Visual is 120.
 - [Arsenal vs Man City](https://www.google.com/search?q=Arsenal%20vs%20Man%20City)
 - [Barca vs Cadiz](https://www.google.com/search?q=Barca%20vs%20Cadiz)
 - [Campuchia](https://www.google.com/search?q=Campuchia)
+- [Chelsea](https://www.google.com/search?q=Chelsea)
 - [Cuôc chiến thượng lưu](https://www.google.com/search?q=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u)
 - [Djokovic](https://www.google.com/search?q=Djokovic)
 - [Dortmund](https://www.google.com/search?q=Dortmund)
 - [Giá vàng hôm nay](https://www.google.com/search?q=Gi%C3%A1%20v%C3%A0ng%20h%C3%B4m%20nay)
+- [Hồ Chí Minh](https://www.google.com/search?q=H%E1%BB%93%20Ch%C3%AD%20Minh)
 - [Inter](https://www.google.com/search?q=Inter)
 - [Leicester](https://www.google.com/search?q=Leicester)
 - [Liverpool](https://www.google.com/search?q=Liverpool)
 - [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
-- [Nhẫn vàng](https://www.google.com/search?q=Nh%E1%BA%ABn%20v%C3%A0ng)
 - [Real Madrid](https://www.google.com/search?q=Real%20Madrid)
 - [Song Joong Ki](https://www.google.com/search?q=Song%20Joong%20Ki)
 - [Sáng tạo doanh 2021](https://www.google.com/search?q=S%C3%A1ng%20t%E1%BA%A1o%20doanh%202021)
 - [Tenor](https://www.google.com/search?q=Tenor)
 - [Tottenham](https://www.google.com/search?q=Tottenham)
 - [Vincenzo](https://www.google.com/search?q=Vincenzo)
-- [Virus H5N8](https://www.google.com/search?q=Virus%20H5N8)
 - [Warren Buffett](https://www.google.com/search?q=Warren%20Buffett)
 
 </td><td valign="top" width="33%">

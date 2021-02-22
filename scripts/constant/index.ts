@@ -19,3 +19,5 @@ export {
   open,
   openPersonal
 } from './open';
+
+export const api: string = 'https://vietnamdb.herokuapp.com/api';

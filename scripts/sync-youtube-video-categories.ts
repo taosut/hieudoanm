@@ -1,9 +1,10 @@
 'use strict';
 
+import { api } from './constant';
 import { request, convertJSONtoCSV } from './libs';
 
 export const syncYouTubeVideoCategories = async () => {
-  const url: string = 'https://vietnamdb.herokuapp.com/api/youtube/video-categories';
+  const url: string = `${api}/youtube/video-categories`;
   const categories = await request(url);
   const fields: Array<string> = ['id', 'title'];
   const path: string = `../docs/youtube/video-categories.csv`;

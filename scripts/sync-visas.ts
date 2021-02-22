@@ -1,9 +1,10 @@
 'use strict';
 
+import { api } from './constant';
 import { request, convertJSONtoCSV } from './libs';
 
 export const syncVisas = async () => {
-  const url: string = 'https://vietnamdb.herokuapp.com/api/visas';
+  const url: string = `${api}/visas`;
   const requirements = await request(url);
   const fields: Array<string> = ['country', 'requirement'];
   const path: string = `../docs/visas/visas.csv`;

@@ -2,10 +2,11 @@
 
 import fs from 'fs';
 
+import { api } from './constant';
 import { request } from './libs';
 
 export const syncMovies = async () => {
-  const url: string = 'https://vietnamdb.herokuapp.com/api/culture/movies';
+  const url: string = `${api}/culture/movies`;
   const nowShowingURL: string = `${url}?type=now-showing`;
   const movies = await request(nowShowingURL, 'GET');
   const list: string = movies
