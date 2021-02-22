@@ -136,6 +136,7 @@ export const buildREADME = async () => {
 ## Today
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
+
 **Calendar**
 
 - Current weather is ${description}.
@@ -144,6 +145,7 @@ export const buildREADME = async () => {
 - Air Visual is ${airVisual}.
 
 </td><td valign="top" width="33%">
+
 **Weather**
 
 - Date: ${solarYear}/${addZero(solarMonth)}/${addZero(solarDate)}
@@ -156,31 +158,37 @@ export const buildREADME = async () => {
 ## Feed
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
+
 **GOOGLE TRENDS**
 
 ${googleTrends}
 
 </td><td valign="top" width="33%">
+
 **MUSIC TRENDS**
 
 ${musicTrending}
 
 </td><td valign="top" width="33%">
+
 **YOUTUBE TRENDS**
 
 ${youTubeTrending}
 
 </td></tr><tr><td valign="top" width="33%">
+
 **VIETCETERA**
 
 ${vietceteraArticles}
 
 </td><td valign="top" width="33%">
+
 **NPM**
 
 ${npm}
 
 </td><td valign="top" width="33%">
+
 ${csv}
 </td></tr></tbody></table>
 `;

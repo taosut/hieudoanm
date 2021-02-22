@@ -3,6 +3,7 @@
 ## Today
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
+
 **Calendar**
 
 - Current weather is mist.
@@ -11,6 +12,7 @@
 - Air Visual is 160.
 
 </td><td valign="top" width="33%">
+
 **Weather**
 
 - Date: 2021/02/22
@@ -23,6 +25,7 @@
 ## Feed
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
+
 **GOOGLE TRENDS**
 
 - [Arsenal vs Man City](https://www.google.com/search?q=Arsenal%20vs%20Man%20City)
@@ -47,6 +50,7 @@
 - [Warren Buffett](https://www.google.com/search?q=Warren%20Buffett)
 
 </td><td valign="top" width="33%">
+
 **MUSIC TRENDS**
 
 01. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
@@ -61,6 +65,7 @@
 10. [HIT TẾT 2021 | LK Không Đủ Để Ở Lại - Trấn Thành, Ali Hoàng Dương | Gala Nhạc Việt 15 (Official)](https://www.youtube.com/watch?v=hOOh92Ixc4U) - [Gala Nhạc Việt](https://www.youtube.com/channel/UC8MC0KhiRcvBsMkcjmDf4mg)
 
 </td><td valign="top" width="33%">
+
 **YOUTUBE TRENDS**
 
 01. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
@@ -75,6 +80,7 @@
 10. [TÌNH BẠN DIỆU KỲ - AMEE x Ricky Star x Lăng LD ( Masew Remix )](https://www.youtube.com/watch?v=yFqzSq6T-Iw) - [Masew](https://www.youtube.com/channel/UCpm6kKrf5OdNRZ9hMgk3gsA)
 
 </td></tr><tr><td valign="top" width="33%">
+
 **VIETCETERA**
 
 - ["Năm đó, lần đầu tiên trong đời cô biết nhớ một người con trai..."](https://vietcetera.com/vn/nhan-quyet-dinh-day-o-dao-ngay-len-tau-chua-kip-buon-co-da-oi)
@@ -89,6 +95,7 @@
 - [Lý Xuân Lợi và những khuôn hình biết chuyển động](https://vietcetera.com/vn/ly-xuan-loi-va-nhung-khuon-hinh-biet-chuyen-dong)
 
 </td><td valign="top" width="33%">
+
 **NPM**
 
 [![download](https://img.shields.io/npm/dm/giaohangnhanh.svg?style=flat&label=giaohangnhanh+%28download%29)](https://www.npmjs.com/package/giaohangnhanh)
@@ -112,6 +119,7 @@
 [![download](https://img.shields.io/npm/dm/zalopay.svg?style=flat&label=zalopay+%28download%29)](https://www.npmjs.com/package/zalopay)
 
 </td><td valign="top" width="33%">
+
 **CSV**
 
 - Administrative Divisions
