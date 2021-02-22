@@ -136,59 +136,51 @@ export const buildREADME = async () => {
 ## Today
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
-<b>Calendar</b>
+**Calendar**
 
-<ul>
-<li>Current weather is ${description}.</li>
-<li>Temperature is ${temp}°C.</li>
-<li>Feels Like ${feelsLike}°C.</li>
-<li>Air Visual is ${airVisual}.</li>
-</ul>
+- Current weather is ${description}.
+- Temperature is ${temp}°C.
+- Feels Like ${feelsLike}°C.
+- Air Visual is ${airVisual}.
+
 </td><td valign="top" width="33%">
-<b>Weather</b>
+**Weather**
 
-<ul>
-<li>Date: ${solarYear}/${addZero(solarMonth)}/${addZero(solarDate)}</li>
-<li>Lunar: ${lunarYear}/${addZero(lunarMonth)}/${addZero(lunarDate)}</li>
-<li>Can Chi: ${canChi}</li>
-<li>Tiet Khi: ${tietKhi}</li>
-</ul>
+- Date: ${solarYear}/${addZero(solarMonth)}/${addZero(solarDate)}
+- Lunar: ${lunarYear}/${addZero(lunarMonth)}/${addZero(lunarDate)}
+- Tiet Khi: ${tietKhi}.
+- ${canChi}.
+
 </td></tr></tbody></table>
 
 ## Feed
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
-
 **GOOGLE TRENDS**
 
 ${googleTrends}
 
 </td><td valign="top" width="33%">
-
 **MUSIC TRENDS**
 
 ${musicTrending}
 
 </td><td valign="top" width="33%">
-
 **YOUTUBE TRENDS**
 
 ${youTubeTrending}
 
 </td></tr><tr><td valign="top" width="33%">
-
 **VIETCETERA**
 
 ${vietceteraArticles}
 
 </td><td valign="top" width="33%">
-
 **NPM**
 
 ${npm}
 
 </td><td valign="top" width="33%">
-
 ${csv}
 </td></tr></tbody></table>
 `;
