@@ -15,18 +15,18 @@
 2,"COMPLETED","2021/01/24 13:15:00","Ho Chi Minh City","Hong Linh Ha Tinh",2,0,2021,1,24,13,15,0
 3,"COMPLETED","2021/01/30 11:00:00","Thanh Hoa","Nam Dinh",3,0,2021,1,30,11,0,0
 3,"COMPLETED","2021/01/30 13:15:00","Saigon","Song Lam Nghe An",1,0,2021,1,30,13,15,0
-3,"LIVE","2021/02/02 11:00:00","Da Nang","Hong Linh Ha Tinh",0,0,2021,2,2,11,0,0
-3,"LIVE","2021/02/02 11:00:00","Hoang Anh Gia Lai","Binh Dinh",0,0,2021,2,2,11,0,0
-3,"LIVE","2021/02/02 12:00:00","Hai Phong","Ha Noi",0,0,2021,2,2,12,0,0
-3,"LIVE","2021/02/02 12:00:00","Than Quang Ninh","Ho Chi Minh City",0,0,2021,2,2,12,0,0
-3,"LIVE","2021/02/02 13:15:00","Viettel","Binh Duong",0,0,2021,2,2,13,15,0
-4,"LIVE","2021/02/05 11:00:00","Binh Dinh","Da Nang",0,0,2021,2,5,11,0,0
-4,"LIVE","2021/02/05 11:00:00","Binh Duong","Hai Phong",0,0,2021,2,5,11,0,0
-4,"LIVE","2021/02/05 12:00:00","Hong Linh Ha Tinh","Hoang Anh Gia Lai",0,0,2021,2,5,12,0,0
-4,"LIVE","2021/02/06 11:00:00","Song Lam Nghe An","Than Quang Ninh",0,0,2021,2,6,11,0,0
-4,"LIVE","2021/02/06 12:00:00","Nam Dinh","Viettel",0,0,2021,2,6,12,0,0
-4,"LIVE","2021/02/06 13:15:00","Ha Noi","Thanh Hoa",0,0,2021,2,6,13,15,0
-4,"LIVE","2021/02/07 13:15:00","Ho Chi Minh City","Saigon",0,0,2021,2,7,13,15,0
+3,"POSTPONED","2021/02/02 11:00:00","Da Nang","Hong Linh Ha Tinh",0,0,2021,2,2,11,0,0
+3,"POSTPONED","2021/02/02 11:00:00","Hoang Anh Gia Lai","Binh Dinh",0,0,2021,2,2,11,0,0
+3,"POSTPONED","2021/02/02 12:00:00","Hai Phong","Ha Noi",0,0,2021,2,2,12,0,0
+3,"POSTPONED","2021/02/02 12:00:00","Than Quang Ninh","Ho Chi Minh City",0,0,2021,2,2,12,0,0
+3,"POSTPONED","2021/02/02 13:15:00","Viettel","Binh Duong",0,0,2021,2,2,13,15,0
+4,"POSTPONED","2021/02/05 11:00:00","Binh Dinh","Da Nang",0,0,2021,2,5,11,0,0
+4,"POSTPONED","2021/02/05 11:00:00","Binh Duong","Hai Phong",0,0,2021,2,5,11,0,0
+4,"POSTPONED","2021/02/05 12:00:00","Hong Linh Ha Tinh","Hoang Anh Gia Lai",0,0,2021,2,5,12,0,0
+4,"POSTPONED","2021/02/06 11:00:00","Song Lam Nghe An","Than Quang Ninh",0,0,2021,2,6,11,0,0
+4,"POSTPONED","2021/02/06 12:00:00","Nam Dinh","Viettel",0,0,2021,2,6,12,0,0
+4,"POSTPONED","2021/02/06 13:15:00","Ha Noi","Thanh Hoa",0,0,2021,2,6,13,15,0
+4,"POSTPONED","2021/02/07 13:15:00","Ho Chi Minh City","Saigon",0,0,2021,2,7,13,15,0
 5,"SCHEDULED","2021/02/27 11:00:00","Da Nang","Song Lam Nghe An",0,0,2021,2,27,11,0,0
 5,"SCHEDULED","2021/02/27 12:00:00","Nam Dinh","Binh Dinh",0,0,2021,2,27,12,0,0
 5,"SCHEDULED","2021/02/27 12:00:00","Than Quang Ninh","Thanh Hoa",0,0,2021,2,27,12,0,0
