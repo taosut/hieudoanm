@@ -15,9 +15,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 22°C.
-- Feels Like 22.62°C.
-- Air Visual is 82.
+- Temperature is 21°C.
+- Feels Like 21.27°C.
+- Air Visual is 98.
 
 **WEATHER**
 
@@ -56,10 +56,10 @@
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
-- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Map](https://img.shields.io/static/v1?label=Map&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Map)
 - [![Minh Nhựa](https://img.shields.io/static/v1?label=Minh%20Nh%E1%BB%B1a&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
 - [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
+- [![Phùng Anh Lê](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Anh%20L%C3%AA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [![Vietcombank](https://img.shields.io/static/v1?label=Vietcombank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietcombank)
