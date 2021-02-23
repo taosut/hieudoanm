@@ -97,7 +97,7 @@ export const getGoogleTrends = async (): Promise<string> => {
     .map((trend: string) => {
       const encode: string = encodeURI(trend);
       const url: string = `https://www.google.com/search?q=${encode}`;
-      const src: string = `https://img.shields.io/badge/${encode}-dc3545?style=flat-square`;
+      const src: string = `https://img.shields.io/static/v1?label=${encode}&message=google&color=red&style=flat-square`;
       const img = `![${trend}](${src})`;
       return `- [${img}](${url})`;
     })

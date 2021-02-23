@@ -17,7 +17,7 @@
 - Current weather is broken clouds.
 - Temperature is 23°C.
 - Feels Like 23.84°C.
-- Air Visual is 160.
+- Air Visual is 159.
 
 **WEATHER**
 
@@ -43,31 +43,32 @@
 
 **GOOGLE TRENDS**
 
-- [![Anh Đức](https://img.shields.io/badge/Anh%20%C4%90%E1%BB%A9c-dc3545?style=flat-square)](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
-- [![Barca](https://img.shields.io/badge/Barca-dc3545?style=flat-square)](https://www.google.com/search?q=Barca)
-- [![COVID Hải Phòng](https://img.shields.io/badge/COVID%20H%E1%BA%A3i%20Ph%C3%B2ng-dc3545?style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
-- [![Cúng Rằm tháng Giêng](https://img.shields.io/badge/C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng-dc3545?style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
-- [![Daft Punk](https://img.shields.io/badge/Daft%20Punk-dc3545?style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
-- [![Giá Bitcoin](https://img.shields.io/badge/Gi%C3%A1%20Bitcoin-dc3545?style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
-- [![Hướng dương ngược nắng tập 31](https://img.shields.io/badge/H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031-dc3545?style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
-- [![Juventus](https://img.shields.io/badge/Juventus-dc3545?style=flat-square)](https://www.google.com/search?q=Juventus)
-- [![Kim So Hyun](https://img.shields.io/badge/Kim%20So%20Hyun-dc3545?style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
-- [![LMHT](https://img.shields.io/badge/LMHT-dc3545?style=flat-square)](https://www.google.com/search?q=LMHT)
-- [![Lien minh](https://img.shields.io/badge/Lien%20minh-dc3545?style=flat-square)](https://www.google.com/search?q=Lien%20minh)
-- [![Man City](https://img.shields.io/badge/Man%20City-dc3545?style=flat-square)](https://www.google.com/search?q=Man%20City)
-- [![Map](https://img.shields.io/badge/Map-dc3545?style=flat-square)](https://www.google.com/search?q=Map)
-- [![Minh Nhựa](https://img.shields.io/badge/Minh%20Nh%E1%BB%B1a-dc3545?style=flat-square)](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
-- [![PS5](https://img.shields.io/badge/PS5-dc3545?style=flat-square)](https://www.google.com/search?q=PS5)
-- [![Phùng Anh Lê](https://img.shields.io/badge/Ph%C3%B9ng%20Anh%20L%C3%AA-dc3545?style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
-- [![Phạm Băng Băng](https://img.shields.io/badge/Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng-dc3545?style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
-- [![Sơn Tùng](https://img.shields.io/badge/S%C6%A1n%20T%C3%B9ng-dc3545?style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
-- [![Vietcombank](https://img.shields.io/badge/Vietcombank-dc3545?style=flat-square)](https://www.google.com/search?q=Vietcombank)
-- [![VietinBank](https://img.shields.io/badge/VietinBank-dc3545?style=flat-square)](https://www.google.com/search?q=VietinBank)
+- [![Anh Đức](https://img.shields.io/static/v1?label=Anh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
+- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
+- [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
+- [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
+- [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
+- [![Hướng dương ngược nắng tập 31](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
+- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
+- [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
+- [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
+- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Map](https://img.shields.io/static/v1?label=Map&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Map)
+- [![Minh Nhựa](https://img.shields.io/static/v1?label=Minh%20Nh%E1%BB%B1a&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
+- [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
+- [![Phùng Anh Lê](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Anh%20L%C3%AA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
+- [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
+- [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
+- [![Vietcombank](https://img.shields.io/static/v1?label=Vietcombank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietcombank)
+- [![VietinBank](https://img.shields.io/static/v1?label=VietinBank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VietinBank)
 
 </td><td valign="top" width="33%">
 
 **NEWS**
 
+- [Hải Phòng giãn cách xã hội một thôn giáp ranh ổ dịch mới ở Hải Dương](https://laodong.vn/xa-hoi/hai-phong-gian-cach-xa-hoi-mot-thon-giap-ranh-o-dich-moi-o-hai-duong-883013.ldo) ([Lao Động](https://laodong.vn))
 - [Giới thiệu hơn 1.000 người ứng cử Quốc hội khóa mới](https://vnexpress.net/gioi-thieu-hon-1-000-nguoi-ung-cu-quoc-hoi-khoa-moi-4239196.html) ([VNExpress](https://vnexpress.net))
 - [Sau "bão" đạo nhạc, MV Chúng Ta Của Hiện Tại của Sơn Tùng chính thức quay trở lại trên YouTube, lượt view có còn nguyên vẹn?](https://cafebiz.vn/sau-bao-dao-nhac-mv-chung-ta-cua-hien-tai-cua-son-tung-chinh-thuc-quay-tro-lai-tren-youtube-luot-view-co-con-nguyen-ven-2021022320063699.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Dương sẽ dừng hoạt động nhà máy ở Kim Thành không bảo đảm phòng dịch](https://laodong.vn/cong-doan/hai-duong-se-dung-hoat-dong-nha-may-o-kim-thanh-khong-bao-dam-phong-dich-883009.ldo) ([Lao Động](https://laodong.vn))
@@ -77,7 +78,6 @@
 - [Nóng nhất 24h: Người dân Việt Nam sẽ được tiêm vaccine COVID-19 miễn phí](https://laodong.vn/video-thoi-su/nong-nhat-24h-nguoi-dan-viet-nam-se-duoc-tiem-vaccine-covid-19-mien-phi-882963.ldo) ([Lao Động](https://laodong.vn))
 - [Bất ngờ công dụng nhụy hoa nghệ tây ngâm mật ong](https://laodong.vn/suc-khoe/bat-ngo-cong-dung-nhuy-hoa-nghe-tay-ngam-mat-ong-882371.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 24.2](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-242-882931.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng phun hóa chất khử khuẩn trên diện rộng](https://vnexpress.net/hai-phong-phun-hoa-chat-khu-khuan-tren-dien-rong-4239208.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
