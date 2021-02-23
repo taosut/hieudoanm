@@ -8,8 +8,8 @@
 
 - Current weather is mist.
 - Temperature is 21°C.
-- Feels Like 21.94°C.
-- Air Visual is 151.
+- Feels Like 22.31°C.
+- Air Visual is 152.
 
 **WEATHER**
 
@@ -23,10 +23,9 @@
 **GOOGLE TRENDS**
 
 - [ACB](https://www.google.com/search?q=ACB)
+- [Agribank](https://www.google.com/search?q=Agribank)
 - [Amee](https://www.google.com/search?q=Amee)
 - [BIDV](https://www.google.com/search?q=BIDV)
-- [Báo Hải Phòng](https://www.google.com/search?q=B%C3%A1o%20H%E1%BA%A3i%20Ph%C3%B2ng)
-- [Bệnh viện Giao thông Vận tải Hải Phòng](https://www.google.com/search?q=B%E1%BB%87nh%20vi%E1%BB%87n%20Giao%20th%C3%B4ng%20V%E1%BA%ADn%20t%E1%BA%A3i%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [COVID Hải Phòng](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [Daft Punk](https://www.google.com/search?q=Daft%20Punk)
 - [Hướng dương ngược nắng tập 31](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
@@ -41,22 +40,23 @@
 - [VCB](https://www.google.com/search?q=VCB)
 - [Vietcombank](https://www.google.com/search?q=Vietcombank)
 - [VietinBank](https://www.google.com/search?q=VietinBank)
+- [WhatsApp](https://www.google.com/search?q=WhatsApp)
 - [iPhone 13](https://www.google.com/search?q=iPhone%2013)
 
 </td><td valign="top" width="33%">
 
 **NEWS**
 
-- [Bình Dương lo lắng thiếu hụt lượng lớn lao động sau Tết](https://laodong.vn/cong-doan/binh-duong-lo-lang-thieu-hut-luong-lon-lao-dong-sau-tet-882642.ldo) ([Lao Động](https://laodong.vn))
-- [“Thần bịp Jack Chột” ăn khách nhưng chưa đã!](https://laodong.vn/van-hoa-giai-tri/than-bip-jack-chot-an-khach-nhung-chua-da-882667.ldo) ([Lao Động](https://laodong.vn))
-- [Thực hiện “mục tiêu kép”: Muôn kiểu kích cầu, giải phóng sức mua](https://laodong.vn/thi-truong/thuc-hien-muc-tieu-kep-muon-kieu-kich-cau-giai-phong-suc-mua-882672.ldo) ([Lao Động](https://laodong.vn))
-- [JPMorgan: Đây là yếu tố khiến đà tăng của Bitcoin đang cận kề rủi ro](https://cafebiz.vn/jpmorgan-day-la-yeu-to-khien-da-tang-cua-bitcoin-dang-can-ke-rui-ro-20210223083843754.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khẩn trương phối hợp gỡ ách tắc nông sản cho vùng dịch Hải Dương](https://laodong.vn/xa-hoi/khan-truong-phoi-hop-go-ach-tac-nong-san-cho-vung-dich-hai-duong-882662.ldo) ([Lao Động](https://laodong.vn))
-- [Nghịch lý... thừa điện](https://laodong.vn/kinh-te/nghich-ly-thua-dien-882664.ldo) ([Lao Động](https://laodong.vn))
-- [Lo ngại chất lượng nếu học trực tuyến kéo dài](https://cafebiz.vn/lo-ngai-chat-luong-neu-hoc-truc-tuyen-keo-dai-20210223083612849.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trước khi Trung Nguyên lấn sân ngành địa ốc, Đặng Lê Nguyên Vũ đã là đại gia BĐS “máu mặt”: Sở hữu hàng loạt mảnh đất, căn nhà, trị giá hàng nghìn tỷ đồng](https://cafebiz.vn/truoc-khi-trung-nguyen-lan-san-nganh-dia-oc-dang-le-nguyen-vu-da-la-dai-gia-bds-mau-mat-so-huu-hang-loat-manh-dat-can-nha-tri-gia-hang-nghin-ty-dong-20210222174912518.chn) ([CafeBiz](https://cafebiz.vn))
-- [Doanh nhân Phạm Trần Nhật Minh: 'Tôi từng nhận lương 3 triệu/tháng, nhưng xe 10 tỷ đối với tôi giờ quá dễ dàng'](https://cafebiz.vn/doanh-nhan-pham-tran-nhat-minh-toi-tung-nhan-luong-3-trieu-thang-nhung-xe-10-ty-doi-voi-toi-gio-qua-de-dang-20210223083401154.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá Bitcoin đột ngột lao dốc mạnh nhất 1 tháng, tuột mốc 50.000 USD](https://cafebiz.vn/gia-bitcoin-dot-ngot-lao-doc-manh-nhat-1-thang-tuot-moc-50000-usd-20210223082422323.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người dân Texas vẫn chưa hết rắc rối sau đợt băng giá kỷ lục](https://laodong.vn/the-gioi/nguoi-dan-texas-van-chua-het-rac-roi-sau-dot-bang-gia-ky-luc-882726.ldo) ([Lao Động](https://laodong.vn))
+- [Bảo vệ trước hết lực lượng tuyến đầu chống dịch](https://laodong.vn/xa-hoi/bao-ve-truoc-het-luc-luong-tuyen-dau-chong-dich-882641.ldo) ([Lao Động](https://laodong.vn))
+- [Anh Đức tiết lộ lý do gia nhập câu lạc bộ Long An](https://laodong.vn/video-the-thao/anh-duc-tiet-lo-ly-do-gia-nhap-cau-lac-bo-long-an-882706.ldo) ([Lao Động](https://laodong.vn))
+- [TP.Hồ Chí Minh: Cần khoảng 70.000-75.000 việc làm trong quý I/2021](https://laodong.vn/cong-doan/tpho-chi-minh-can-khoang-70000-75000-viec-lam-trong-quy-i2021-882644.ldo) ([Lao Động](https://laodong.vn))
+- [Nhóm ứng viên nào có mức lương chịu ảnh hưởng nhiều nhất từ COVID-19?](https://laodong.vn/cong-doan/nhom-ung-vien-nao-co-muc-luong-chiu-anh-huong-nhieu-nhat-tu-covid-19-882730.ldo) ([Lao Động](https://laodong.vn))
+- [Những nơi nên trải nghiệm ở miền nắng gió](https://cafebiz.vn/nhung-noi-nen-trai-nghiem-o-mien-nang-gio-20210222171838035.chn) ([CafeBiz](https://cafebiz.vn))
+- [“Lỡ tay” bình luận giá Bitcoin đang quá cao, Elon Musk mất 15 tỷ USD, rơi khỏi vị trí người giàu nhất thế giới](https://cafebiz.vn/lo-tay-binh-luan-gia-bitcoin-dang-qua-cao-elon-musk-mat-15-ty-usd-roi-khoi-vi-tri-nguoi-giau-nhat-the-gioi-202102230822127.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng quyết liệt, Hải Dương lao đao](https://tuoitre.vn/hai-phong-quyet-liet-hai-duong-lao-dao-20210223083314803.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nữ bác sĩ tự đánh thuốc mê mình rồi đăng lên MXH để cảnh báo nạn xâm hại tình dục, chưa kịp cảnh báo đã bị cảnh sát "sờ gáy"](https://cafebiz.vn/nu-bac-si-tu-danh-thuoc-me-minh-roi-dang-len-mxh-de-canh-bao-nan-xam-hai-tinh-duc-chua-kip-canh-bao-da-bi-canh-sat-so-gay-20210223091320437.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chui trên cabin xe tải trốn cách ly khi nhập cảnh vào Việt Nam](https://tuoitre.vn/chui-tren-cabin-xe-tai-tron-cach-ly-khi-nhap-canh-vao-viet-nam-20210223082620466.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
