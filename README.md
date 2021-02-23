@@ -8,8 +8,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 24.81°C.
-- Air Visual is 8.
+- Feels Like 24.52°C.
+- Air Visual is 139.
 
 **WEATHER**
 
@@ -47,16 +47,16 @@
 
 **NEWS**
 
+- [Tín hiệu mừng của nền kinh tế: 2/3 doanh nghiệp Việt được khảo sát có nhu cầu tuyển thêm nhân sự trong quý tới](https://cafebiz.vn/tin-hieu-mung-cua-nen-kinh-te-2-3-doanh-nghiep-viet-duoc-khao-sat-co-nhu-cau-tuyen-them-nhan-su-trong-quy-toi-20210223141707963.chn) ([CafeBiz](https://cafebiz.vn))
+- [Gương mặt trẻ Việt Nam tiêu biểu: Văn Quyết và cảm hứng cho người trẻ](https://laodong.vn/bong-da/guong-mat-tre-viet-nam-tieu-bieu-van-quyet-va-cam-hung-cho-nguoi-tre-882817.ldo) ([Lao Động](https://laodong.vn))
+- [P&amp;G tuyên bố kế hoạch hành động vì bình đẳng giới](https://laodong.vn/thong-tin-doanh-nghiep/pg-tuyen-bo-ke-hoach-hanh-dong-vi-binh-dang-gioi-882797.ldo) ([Lao Động](https://laodong.vn))
+- [Kiên Giang: Gặp cô gái 9X duy nhất xung phong lên đường nhập ngũ](https://laodong.vn/video/kien-giang-gap-co-gai-9x-duy-nhat-xung-phong-len-duong-nhap-ngu-882849.ldo) ([Lao Động](https://laodong.vn))
+- [Facebook 'xuống nước', khôi phục chia sẻ tin tức tại Úc sau chưa đầy 1 tuần ‘làm căng’](https://cafebiz.vn/facebook-xuong-nuoc-khoi-phuc-chia-se-tin-tuc-tai-uc-sau-chua-day-1-tuan-lam-cang-20210223143034055.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ảnh ấn tượng: Ngỡ ngành cảnh băng tuyết phủ trắng nhiều nơi trên thế giới](https://laodong.vn/photo/anh-an-tuong-ngo-nganh-canh-bang-tuyet-phu-trang-nhieu-noi-tren-the-gioi-882753.ldo) ([Lao Động](https://laodong.vn))
+- [Người thân ngóng tin hai thuyền viên Hà Tĩnh mất tích trên biển Hàn Quốc](https://tuoitre.vn/nguoi-than-ngong-tin-hai-thuyen-vien-ha-tinh-mat-tich-tren-bien-han-quoc-20210223131823422.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Gỡ phong toả điểm liên quan COVID-19 cuối cùng tại TPHCM](https://laodong.vn/photo/go-phong-toa-diem-lien-quan-covid-19-cuoi-cung-tai-tphcm-882827.ldo) ([Lao Động](https://laodong.vn))
+- [Tham mưu trái quy định, hai sở ở Hà Tĩnh phải kiểm điểm](https://tuoitre.vn/tham-muu-trai-quy-dinh-hai-so-o-ha-tinh-phai-kiem-diem-20210223133108822.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bàn chuyện thu nhập của giới YouTuber, anh em 1977 Vlog thẳng thắn: "Người ta mỗi tháng có vài trăm triệu, còn chúng tôi bỏ vốn vài ba trăm nghìn thì thử tính xem bài toán có cân!?"](https://cafebiz.vn/ban-chuyen-thu-nhap-cua-gioi-youtuber-anh-em-1977-vlog-thang-than-nguoi-ta-moi-thang-co-vai-tram-trieu-con-chung-toi-bo-von-vai-ba-tram-nghin-thi-thu-tinh-xem-bai-toan-co-can-2021022314303841.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội: Người từ Hải Dương xét nghiệm âm tính SARS-CoV-2 có phải cách ly y tế?](https://cafebiz.vn/ha-noi-nguoi-tu-hai-duong-xet-nghiem-am-tinh-sars-cov-2-co-phai-cach-ly-y-te-20210223140256262.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuyên gia hé lộ nguyên nhân Mỹ vượt 500.000 ca tử vong do COVID-19](https://laodong.vn/the-gioi/chuyen-gia-he-lo-nguyen-nhan-my-vuot-500000-ca-tu-vong-do-covid-19-882806.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng: 20 đối tượng tụ tập trong quán bi-a, dương tính ma túy](https://laodong.vn/phap-luat/hai-phong-20-doi-tuong-tu-tap-trong-quan-bi-a-duong-tinh-ma-tuy-882843.ldo) ([Lao Động](https://laodong.vn))
-- [Cận cảnh 'nghề gieo nước biển' đầu năm ở phương Nam](https://cafebiz.vn/can-canh-nghe-gieo-nuoc-bien-dau-nam-o-phuong-nam-202102231423437.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đầu tư 20 tỷ vào chuỗi cầm đồ T99, Cao Thái Sơn là đại gia BĐS tiếng tăm của showbiz: Hỏi có bao nhiêu căn nhà như hỏi mình có bao nhiêu bài hát](https://cafebiz.vn/dau-tu-20-ty-vao-chuoi-cam-do-t99-cao-thai-son-la-dai-gia-bds-tieng-tam-cua-showbiz-hoi-co-bao-nhieu-can-nha-nhu-hoi-minh-co-bao-nhieu-bai-hat-20210223140147868.chn) ([CafeBiz](https://cafebiz.vn))
-- [Founder GoStream và FoodMap lọt vào danh sách 20 Gương mặt trẻ Việt Nam tiêu biểu năm 2020](https://cafebiz.vn/founder-gostream-va-foodmap-lot-vao-danh-sach-20-guong-mat-tre-viet-nam-tieu-bieu-nam-2020-20210223123817923.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lào Cai: Xe &quot;kẹp 3&quot; trốn cảnh sát cơ động, gây tai nạn giao thông](https://laodong.vn/phap-luat/lao-cai-xe-kep-3-tron-canh-sat-co-dong-gay-tai-nan-giao-thong-882798.ldo) ([Lao Động](https://laodong.vn))
-- [Vòng loại World Cup 2022: Tuyển Việt Nam ổn định, đối thủ nhiều thay đổi](https://laodong.vn/bong-da/vong-loai-world-cup-2022-tuyen-viet-nam-on-dinh-doi-thu-nhieu-thay-doi-882836.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
