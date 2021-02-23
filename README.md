@@ -47,16 +47,16 @@
 
 **NEWS**
 
-- [Đà Nẵng sẽ truy tố trách nhiệm hình sự trường hợp khai báo y tế gian dối](http://vietnamnet.vn/vn/thoi-su/da-nang-se-truy-to-trach-nhiem-hinh-su-truong-hop-khai-bao-y-te-gian-doi-714858.html) ([VietNamNet](https://vietnamnet.vn))
+- [Hà Nội: Vợ chồng chủ khách sạn bị khởi tố vì liên quan đến ma tuý](https://laodong.vn/phap-luat/ha-noi-vo-chong-chu-khach-san-bi-khoi-to-vi-lien-quan-den-ma-tuy-882829.ldo) ([Lao Động](https://laodong.vn))
+- [Cách tính lệ phí trước bạ với ô tô năm 2021](https://laodong.vn/giao-thong/cach-tinh-le-phi-truoc-ba-voi-o-to-nam-2021-882780.ldo) ([Lao Động](https://laodong.vn))
+- [Trước các nghi án “đạo nhái” sản phẩm âm nhạc, Sơn Tùng M-TP thường im lặng](https://laodong.vn/giai-tri/truoc-cac-nghi-an-dao-nhai-san-pham-am-nhac-son-tung-m-tp-thuong-im-lang-882776.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiệm kỳ 2016-2021 của Chính phủ là một nhiệm kỳ rất thành công](https://laodong.vn/thoi-su/nhiem-ky-2016-2021-cua-chinh-phu-la-mot-nhiem-ky-rat-thanh-cong-882796.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM liên tục se lạnh về đêm và sáng sớm, có phải bất thường?](https://laodong.vn/moi-truong/tphcm-lien-tuc-se-lanh-ve-dem-va-sang-som-co-phai-bat-thuong-882821.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút 23.2: Công việc mới của ông Obama](https://laodong.vn/video-thoi-su/ban-tin-1-phut-232-cong-viec-moi-cua-ong-obama-882792.ldo) ([Lao Động](https://laodong.vn))
+- [Kiện toàn bộ máy Nhà nước vào cuối tháng 3](https://vnexpress.net/kien-toan-bo-may-nha-nuoc-vao-cuoi-thang-3-4238969.html) ([VNExpress](https://vnexpress.net))
 - [Doanh nghiệp san lấp trái phép 16.000 m2 ở vịnh Bái Tử Long](https://vnexpress.net/doanh-nghiep-san-lap-trai-phep-16-000-m2-o-vinh-bai-tu-long-4238973.html) ([VNExpress](https://vnexpress.net))
 - [Nâng lên tận mây xanh, bỏ ra cả tỷ USD đầu tư rồi sau đó lại đăng tweet dìm Bitcoin khiến tài sản bốc hơi 15 tỷ USD: Elon Musk đang toan tính gì?](https://cafebiz.vn/nang-len-tan-may-xanh-bo-ra-ca-ty-usd-dau-tu-roi-sau-do-lai-dang-tweet-dim-bitcoin-khien-tai-san-boc-hoi-15-ty-usd-elon-musk-dang-toan-tinh-gi-20210223120444075.chn) ([CafeBiz](https://cafebiz.vn))
 - [9 ngân hàng Việt lọt Top 500 ngân hàng đắt giá nhất hành tinh, Agribank đứng đầu bảng thị trường Việt Nam, bỏ xa VietinBank, VPBank, BIDV](https://cafebiz.vn/9-ngan-hang-viet-lot-top-500-ngan-hang-dat-gia-nhat-hanh-tinh-agribank-dung-dau-bang-thi-truong-viet-nam-bo-xa-vietinbank-vpbank-bidv-20210223114522569.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hai sở phải kiểm điểm vì tham mưu trái quy định](https://vnexpress.net/hai-so-phai-kiem-diem-vi-tham-muu-trai-quy-dinh-4238930.html) ([VNExpress](https://vnexpress.net))
-- [TP Hải Dương ghi nhận thêm 2 trường hợp nghi nhiễm COVID-19](https://tuoitre.vn/tp-hai-duong-ghi-nhan-them-2-truong-hop-nghi-nhiem-covid-19-20210223112134243.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [11 nhóm đối tượng được ưu tiên tiêm vắc xin COVID-19 tại Việt Nam](https://tuoitre.vn/11-nhom-doi-tuong-duoc-uu-tien-tiem-vac-xin-covid-19-tai-viet-nam-20210223111717216.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Real Madrid: Zidane không thể mang “hàng nóng” sang Italia](https://laodong.vn/bong-da-quoc-te/real-madrid-zidane-khong-the-mang-hang-nong-sang-italia-882782.ldo) ([Lao Động](https://laodong.vn))
-- [Nhóm đối tượng nào được ưu tiên tiêm vaccine COVID-19 ở Việt Nam?](https://laodong.vn/infographic/nhom-doi-tuong-nao-duoc-uu-tien-tiem-vaccine-covid-19-o-viet-nam-882775.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng phát thông báo khẩn tìm người đến 19 điểm liên quan ca COVID-19](https://laodong.vn/xa-hoi/hai-phong-phat-thong-bao-khan-tim-nguoi-den-19-diem-lien-quan-ca-covid-19-882808.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
