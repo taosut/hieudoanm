@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://vietnamdb.herokuapp.com/api">APIs</a> -
   <a href="https://vietnamdb.github.io/#/">Docs</a> -
+  <a href="https://github.com/vietnamdb/vietnamdb/tree/master/docs">CSV</a> -
   <a href="https://github.com/vietnamdb/vietnamdb/tree/master/docs/stacks">Stacks</a>
 </p>
 
@@ -15,7 +16,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 24.21°C.
+- Feels Like 23.84°C.
 - Air Visual is 156.
 
 **WEATHER**
@@ -67,16 +68,16 @@
 
 **NEWS**
 
+- [Afghanistan bắt đầu tiêm chủng vaccine trong bối cảnh bạo lực gia tăng](https://laodong.vn/the-gioi/afghanistan-bat-dau-tiem-chung-vaccine-trong-boi-canh-bao-luc-gia-tang-882935.ldo) ([Lao Động](https://laodong.vn))
+- [Kiến nghị sớm ký phụ lục hợp đồng 19 để tiếp tục đào tạo lái tàu metro số 1](https://tuoitre.vn/kien-nghi-som-ky-phu-luc-hop-dong-19-de-tiep-tuc-dao-tao-lai-tau-metro-so-1-20210223183853256.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Cần Thơ: Khởi tố nguyên Phó đội trưởng kiểm tra thuế quận Ninh Kiều](https://laodong.vn/phap-luat/can-tho-khoi-to-nguyen-pho-doi-truong-kiem-tra-thue-quan-ninh-kieu-883005.ldo) ([Lao Động](https://laodong.vn))
 - [Không phải Lưu Bị, mưu sĩ từng bị Tào Tháo lừa này mới là quý nhân của cuộc đời Gia Cát Lượng](https://cafebiz.vn/khong-phai-luu-bi-muu-si-tung-bi-tao-thao-lua-nay-moi-la-quy-nhan-cua-cuoc-doi-gia-cat-luong-20210223143600879.chn) ([CafeBiz](https://cafebiz.vn))
 - [Australia kiên quyết không thay đổi dự luật về Facebook, Google](https://cafebiz.vn/australia-kien-quyet-khong-thay-doi-du-luat-ve-facebook-google-20210223184146026.chn) ([CafeBiz](https://cafebiz.vn))
 - [Dành quỹ đất gần 20.000 m2 bảo tồn di tích Chăm](https://vnexpress.net/danh-quy-dat-gan-20-000-m2-bao-ton-di-tich-cham-4239111.html) ([VNExpress](https://vnexpress.net))
+- [Giáo dục 24/7: Lịch tuyển sinh trực tuyến lớp 1 và lớp 6 tại Hà Nội](https://laodong.vn/video-thoi-su/giao-duc-247-lich-tuyen-sinh-truc-tuyen-lop-1-va-lop-6-tai-ha-noi-882960.ldo) ([Lao Động](https://laodong.vn))
 - [Đề nghị Hải Dương tập trung xét nghiệm khu vực nguy cơ cao](https://vnexpress.net/de-nghi-hai-duong-tap-trung-xet-nghiem-khu-vuc-nguy-co-cao-4239143.html) ([VNExpress](https://vnexpress.net))
 - [Producer beat Lucky tung video so sánh Có Chắc Yêu Là Đây, Sơn Tùng chối đạo nhạc kiểu gì bây giờ?](https://cafebiz.vn/producer-beat-lucky-tung-video-so-sanh-co-chac-yeu-la-day-son-tung-choi-dao-nhac-kieu-gi-bay-gio-20210223191600076.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giáo hội Phật giáo VN thử nghiệm cầu an trực tuyến](https://vnexpress.net/giao-hoi-phat-giao-vn-thu-nghiem-cau-an-truc-tuyen-4239166.html) ([VNExpress](https://vnexpress.net))
-- [Thái Bình: &quot;Bà hỏa&quot; thiêu rụi nhà xưởng rộng hơn 300m2](https://laodong.vn/xa-hoi/thai-binh-ba-hoa-thieu-rui-nha-xuong-rong-hon-300m2-882980.ldo) ([Lao Động](https://laodong.vn))
-- [Chuẩn bị hội thảo kỷ niệm 50 năm Chiến thắng Đường 9 - Nam Lào](https://laodong.vn/xa-hoi/chuan-bi-hoi-thao-ky-niem-50-nam-chien-thang-duong-9-nam-lao-882981.ldo) ([Lao Động](https://laodong.vn))
-- [Một ngày, một xã tại Cẩm Giàng xử phạt 15 trường hợp vi phạm phòng chống dịch](http://vietnamnet.vn/vn/thoi-su/mot-ngay-mot-xa-tai-cam-giang-xu-phat-15-truong-hop-vi-pham-phong-chong-dich-714966.html) ([VietNamNet](https://vietnamnet.vn))
-- [Tránh lợi dụng "giải cứu" ép giá nông dân, Hải Dương công bố giá bán nông sản](https://cafebiz.vn/tranh-loi-dung-giai-cuu-ep-gia-nong-dan-hai-duong-cong-bo-gia-ban-nong-san-20210223183504504.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -136,22 +137,3 @@
 [Read More](https://www.youtube.com/feed/trending)
 
 </td></tr></tbody></table>
-
-## Data
-
-- [Administrative Divisions](docs/administrative-divisions)
-- [Banks](docs/banks/banks.csv)
-- [Culture, Sports and Tourism](docs/cst)
-- [Ethnic Minorities](docs/ethnic-minorities/ethnic-minorities.csv)
-- Finance
-  - [Companies](docs/finance/companies.csv)
-- Information
-  - [Mobile Providers](docs/information/mobile-providers.csv)
-- [Jobs](docs/jobs/README.md)
-- [License Plates](docs/license-plates/license-plates.csv)
-- [Music](docs/music/artists.csv)
-- [News](docs/news/README.md)
-- [Open APIs](docs/open-apis/open-apis.csv)
-  - [Giao Hang Nhanh (GHN)](docs/open-apis/ghn)
-- [USA](docs/usa/README.md)
-- [Visas](docs/visas/visas.csv)

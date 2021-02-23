@@ -169,8 +169,6 @@ const getAll = (): Promise<Record<string, any>> => {
 };
 
 export const buildREADME = async () => {
-  const csv: string = fs.readFileSync('../markdown/csv.md', 'utf-8');
-
   console.time('GET ALL');
   const {
     googleTrends = '',
@@ -202,6 +200,7 @@ export const buildREADME = async () => {
 <p align="center">
   <a href="https://vietnamdb.herokuapp.com/api">APIs</a> -
   <a href="https://vietnamdb.github.io/#/">Docs</a> -
+  <a href="${masterRepo}/docs">CSV</a> -
   <a href="${masterRepo}/docs/stacks">Stacks</a>
 </p>
 
@@ -270,10 +269,6 @@ ${youTubeTrending}
 [Read More](https://www.youtube.com/feed/trending)
 
 </td></tr></tbody></table>
-
-## Data
-
-${csv}
 `;
 
   await fs.writeFileSync('../README.md', md);
