@@ -15,7 +15,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 24.52°C.
+- Feels Like 24.88°C.
 - Air Visual is 144.
 
 **WEATHER**
