@@ -62,8 +62,8 @@
 - [Những trang nhất gây choáng của New York Times về COVID-19](https://cafebiz.vn/nhung-trang-nhat-gay-choang-cua-new-york-times-ve-covid-19-20210223171236234.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hủy nhiều tàu do vắng khách](https://vnexpress.net/huy-nhieu-tau-do-vang-khach-4239156.html) ([VNExpress](https://vnexpress.net))
 - [CEO Hải Trà Tân Cương: &quot;Mang Chè Thái Nguyên hữu cơ sạch đến với mọi người&quot;](https://laodong.vn/thong-tin-doanh-nghiep/ceo-hai-tra-tan-cuong-mang-che-thai-nguyen-huu-co-sach-den-voi-moi-nguoi-882811.ldo) ([Lao Động](https://laodong.vn))
-- [Không thể tuyệt đối không có mầm bệnh trong cộng đồng](http://vietnamnet.vn/vn/thoi-su/chinh-tri/khong-the-tuyet-doi-khong-co-mam-benh-trong-cong-dong-714954.html) ([VietNamNet](https://vietnamnet.vn))
 - [Tỉ phú Elon Musk và Bill Gates đã nói gì khiến Bitcoin lao dốc không phanh?](https://laodong.vn/kinh-te/ti-phu-elon-musk-va-bill-gates-da-noi-gi-khien-bitcoin-lao-doc-khong-phanh-882883.ldo) ([Lao Động](https://laodong.vn))
+- [Lời khai mới nhất của người yêu nữ điều dưỡng mắc Covid-19 về quê ở Cẩm Giàng, Hải Dương](https://cafebiz.vn/loi-khai-moi-nhat-cua-nguoi-yeu-nu-dieu-duong-mac-covid-19-ve-que-o-cam-giang-hai-duong-20210223173018152.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
