@@ -239,6 +239,8 @@ ${npm}
 
 ${googleTrends}
 
+[Read More](https://trends.google.com/trends/?geo=VN)
+
 </td><td valign="top" width="33%">
 
 **NEWS**

@@ -64,6 +64,8 @@
 - [![Vietcombank](https://img.shields.io/static/v1?label=Vietcombank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietcombank)
 - [![VietinBank](https://img.shields.io/static/v1?label=VietinBank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VietinBank)
 
+[Read More](https://trends.google.com/trends/?geo=VN)
+
 </td><td valign="top" width="33%">
 
 **NEWS**
