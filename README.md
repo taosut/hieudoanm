@@ -8,8 +8,8 @@
 
 - Current weather is haze.
 - Temperature is 23°C.
-- Feels Like 23.84°C.
-- Air Visual is 161.
+- Feels Like 23.12°C.
+- Air Visual is 158.
 
 **WEATHER**
 
@@ -47,16 +47,16 @@
 
 **NEWS**
 
-- [Bắt đầu xét nghiệm COVID-19 cho tân binh thủ đô](https://tuoitre.vn/bat-dau-xet-nghiem-covid-19-cho-tan-binh-thu-do-20210223103108473.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tính năng 'Tải xuống cho bạn' của Netflix sắp có trên thiết bị iOS](https://laodong.vn/cong-nghe/tinh-nang-tai-xuong-cho-ban-cua-netflix-sap-co-tren-thiet-bi-ios-882799.ldo) ([Lao Động](https://laodong.vn))
-- [Hàn Quốc đối mặt cuộc khủng hoảng lao động tồi tệ nhất từ năm 1997 đến nay do giới trẻ phải nhường người già việc làm](https://cafebiz.vn/han-quoc-doi-mat-cuoc-khung-hoang-lao-dong-toi-te-nhat-tu-nam-1997-den-nay-do-gioi-tre-phai-nhuong-nguoi-gia-viec-lam-20210223093213751.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: 12 ngày không phát hiện trường hợp mắc COVID-19 trong cộng đồng](https://laodong.vn/y-te/tphcm-12-ngay-khong-phat-hien-truong-hop-mac-covid-19-trong-cong-dong-882790.ldo) ([Lao Động](https://laodong.vn))
-- [Sau Hưng Yên, ông Đặng Thành Tâm lại muốn đầu tư dự án nghìn tỷ tại Long An](https://cafebiz.vn/sau-hung-yen-ong-dang-thanh-tam-lai-muon-dau-tu-du-an-nghin-ty-tai-long-an-2021022311090035.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Phòng đề xuất bỏ môn thi tổ hợp kỳ thi tuyển sinh vào lớp 10 THPT](https://laodong.vn/giao-duc/hai-phong-de-xuat-bo-mon-thi-to-hop-ky-thi-tuyen-sinh-vao-lop-10-thpt-882794.ldo) ([Lao Động](https://laodong.vn))
-- [LĐLĐ huyện Sơn Động (Bắc Giang): Thăm và tặng quà Trung tâm y tế huyện](https://laodong.vn/ldld-bac-giang/ldld-huyen-son-dong-bac-giang-tham-va-tang-qua-trung-tam-y-te-huyen-882793.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Ninh: 2 bệnh nhân COVID-19 được công bố khỏi bệnh](https://laodong.vn/y-te/bac-ninh-2-benh-nhan-covid-19-duoc-cong-bo-khoi-benh-882757.ldo) ([Lao Động](https://laodong.vn))
-- [Quy hoạch sân bay Hà Giang, Ninh Bình 'khó khả thi'](https://vnexpress.net/quy-hoach-san-bay-ha-giang-ninh-binh-kho-kha-thi-4238572.html) ([VNExpress](https://vnexpress.net))
-- [Quốc hội sẽ kiện toàn chức danh lãnh đạo bộ máy Nhà nước tại kỳ họp cuối cùng](https://tuoitre.vn/quoc-hoi-se-kien-toan-chuc-danh-lanh-dao-bo-may-nha-nuoc-tai-ky-hop-cuoi-cung-20210223105542241.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Real Madrid: Zidane không thể mang “hàng nóng” sang Italia](https://laodong.vn/bong-da-quoc-te/real-madrid-zidane-khong-the-mang-hang-nong-sang-italia-882782.ldo) ([Lao Động](https://laodong.vn))
+- [Nhóm đối tượng nào được ưu tiên tiêm vaccine COVID-19 ở Việt Nam?](https://laodong.vn/infographic/nhom-doi-tuong-nao-duoc-uu-tien-tiem-vaccine-covid-19-o-viet-nam-882775.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng phát thông báo khẩn tìm người đến 19 điểm liên quan ca COVID-19](https://laodong.vn/xa-hoi/hai-phong-phat-thong-bao-khan-tim-nguoi-den-19-diem-lien-quan-ca-covid-19-882808.ldo) ([Lao Động](https://laodong.vn))
+- [Top vua phá lưới Serie A 2020/21: Lukaku soán ngôi Ronaldo bất thành](https://laodong.vn/photo/top-vua-pha-luoi-serie-a-202021-lukaku-soan-ngoi-ronaldo-bat-thanh-882809.ldo) ([Lao Động](https://laodong.vn))
+- [Xét nghiệm COVID-19 cho thanh niên Thủ đô trước khi nhập ngũ](https://laodong.vn/photo/xet-nghiem-covid-19-cho-thanh-nien-thu-do-truoc-khi-nhap-ngu-882788.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội xét nghiệm SARS-CoV-2 cho tân binh nhập ngũ](https://laodong.vn/xa-hoi/ha-noi-xet-nghiem-sars-cov-2-cho-tan-binh-nhap-ngu-882791.ldo) ([Lao Động](https://laodong.vn))
+- [SoftBank muốn mua lại 25% cổ phần của nhà sáng lập WeWork](https://cafebiz.vn/softbank-muon-mua-lai-25-co-phan-cua-nha-sang-lap-wework-2021022310261277.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tự nhận "mù công nghệ, chậm chạp", Hoài Linh đạt nửa triệu "súp" sau 2 tuần chơi YouTube, thu về toàn clip triệu view trên Tiktok sau 1 tuần](https://cafebiz.vn/tu-nhan-mu-cong-nghe-cham-chap-hoai-linh-dat-nua-trieu-sup-sau-2-tuan-choi-youtube-thu-ve-toan-clip-trieu-view-tren-tiktok-sau-1-tuan-20210223112221858.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đề xuất xây đường hầm cao tốc dưới sông Tô Lịch: Táo bạo nhưng có khả thi?](https://laodong.vn/xa-hoi/de-xuat-xay-duong-ham-cao-toc-duoi-song-to-lich-tao-bao-nhung-co-kha-thi-882657.ldo) ([Lao Động](https://laodong.vn))
+- [Elon Musk: Tốc độ internet của Starlink sẽ tăng gấp đôi trong năm nay](https://cafebiz.vn/elon-musk-toc-do-internet-cua-starlink-se-tang-gap-doi-trong-nam-nay-20210223102856464.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -68,6 +68,7 @@
 
 **VIETCETERA**
 
+- [Du thuyền Oceania Cruises: 180 ngày, 96 địa danh và 33 quốc gia](https://vietcetera.com/vn/du-thuyen-oceania-cruises-co-hoi-kham-pha-cac-dia-danh-noi-tieng-tai-viet-nam-va-tren-the-gioi)
 - ["Anh diễn hài độc thoại nhiều rồi, nhưng set diễn khiến anh run nhất..."](https://vietcetera.com/vn/anh-dien-hai-doc-thoai-nhieu-roi-nhung-set-dien-khien-anh-run-nhat)
 - [Tóm Lại Là: Chúng ta có đang "bỏ quên" giáo viên?](https://vietcetera.com/vn/tom-lai-la-chung-ta-co-dang-bo-quen-giao-vien)
 - [Podcast “Vietnam Innovators” tập 8: Phillip An, Đồng sáng lập & CEO Homebase - Giải pháp mua nhà dễ dàng cho Millennials ](https://vietcetera.com/vn/podcast-vietnam-innovators-tap-8-phillip-an-dong-sang-lap-ceo-homebase-giai-phap-mua-nha-de-dang-cho-millennials)
@@ -77,7 +78,6 @@
 - [7 Kỹ thuật giao tiếp bằng mắt cho cuộc đối thoại hiệu quả](https://vietcetera.com/vn/7-cach-duy-tri-giao-tiep-bang-mat-hieu-qua)
 - ["Năm đó, lần đầu tiên trong đời cô biết nhớ một người con trai..."](https://vietcetera.com/vn/nhan-quyet-dinh-day-o-dao-ngay-len-tau-chua-kip-buon-co-da-oi)
 - [Podcast "Vietnam Innovators": Cùng Hảo Trần và Ruby Nguyễn đối thoại về chiến lược lãnh đạo](https://vietcetera.com/vn/podcast-vietnam-innovators-cung-hao-tran-va-ruby-nguyen-doi-thoai-voi-nhung-lanh-dao-tai-ba)
-- [Tóm Lại Là: Chủ nghĩa dân tộc vaccine, tại sao “khó trị”?](https://vietcetera.com/vn/tom-lai-la-chu-nghia-dan-toc-vaccine-tai-sao-kho-tri)
 
 </td><td valign="top" width="33%">
 
