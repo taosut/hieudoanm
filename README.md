@@ -9,7 +9,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 23.73°C.
-- Air Visual is 152.
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -47,16 +47,16 @@
 
 **NEWS**
 
+- [Bảng xếp hạng vòng 25 Ngoại hạng Anh: Liverpool đứng thứ 6](https://laodong.vn/infographic/bang-xep-hang-vong-25-ngoai-hang-anh-liverpool-dung-thu-6-882539.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương sẽ xét nghiệm COVID-19 ở 12/12 huyện, thị xã, thành phố](https://laodong.vn/xa-hoi/hai-duong-se-xet-nghiem-covid-19-o-1212-huyen-thi-xa-thanh-pho-882822.ldo) ([Lao Động](https://laodong.vn))
+- [Phong tỏa một nhà nghỉ ở Hạ Long](https://vnexpress.net/phong-toa-mot-nha-nghi-o-ha-long-4238922.html) ([VNExpress](https://vnexpress.net))
 - [Hà Nội: Vợ chồng chủ khách sạn bị khởi tố vì liên quan đến ma tuý](https://laodong.vn/phap-luat/ha-noi-vo-chong-chu-khach-san-bi-khoi-to-vi-lien-quan-den-ma-tuy-882829.ldo) ([Lao Động](https://laodong.vn))
 - [Cách tính lệ phí trước bạ với ô tô năm 2021](https://laodong.vn/giao-thong/cach-tinh-le-phi-truoc-ba-voi-o-to-nam-2021-882780.ldo) ([Lao Động](https://laodong.vn))
 - [Trước các nghi án “đạo nhái” sản phẩm âm nhạc, Sơn Tùng M-TP thường im lặng](https://laodong.vn/giai-tri/truoc-cac-nghi-an-dao-nhai-san-pham-am-nhac-son-tung-m-tp-thuong-im-lang-882776.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiệm kỳ 2016-2021 của Chính phủ là một nhiệm kỳ rất thành công](https://laodong.vn/thoi-su/nhiem-ky-2016-2021-cua-chinh-phu-la-mot-nhiem-ky-rat-thanh-cong-882796.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM liên tục se lạnh về đêm và sáng sớm, có phải bất thường?](https://laodong.vn/moi-truong/tphcm-lien-tuc-se-lanh-ve-dem-va-sang-som-co-phai-bat-thuong-882821.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút 23.2: Công việc mới của ông Obama](https://laodong.vn/video-thoi-su/ban-tin-1-phut-232-cong-viec-moi-cua-ong-obama-882792.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương nói dân không hoảng sợ, nhưng phải 'biết sợ' nguy cơ dịch bệnh](http://vietnamnet.vn/vn/thoi-su/hai-duong-noi-dan-khong-hoang-so-nhung-phai-biet-so-nguy-co-dich-benh-714867.html) ([VietNamNet](https://vietnamnet.vn))
 - [Kiện toàn bộ máy Nhà nước vào cuối tháng 3](https://vnexpress.net/kien-toan-bo-may-nha-nuoc-vao-cuoi-thang-3-4238969.html) ([VNExpress](https://vnexpress.net))
-- [Doanh nghiệp san lấp trái phép 16.000 m2 ở vịnh Bái Tử Long](https://vnexpress.net/doanh-nghiep-san-lap-trai-phep-16-000-m2-o-vinh-bai-tu-long-4238973.html) ([VNExpress](https://vnexpress.net))
-- [Nâng lên tận mây xanh, bỏ ra cả tỷ USD đầu tư rồi sau đó lại đăng tweet dìm Bitcoin khiến tài sản bốc hơi 15 tỷ USD: Elon Musk đang toan tính gì?](https://cafebiz.vn/nang-len-tan-may-xanh-bo-ra-ca-ty-usd-dau-tu-roi-sau-do-lai-dang-tweet-dim-bitcoin-khien-tai-san-boc-hoi-15-ty-usd-elon-musk-dang-toan-tinh-gi-20210223120444075.chn) ([CafeBiz](https://cafebiz.vn))
-- [9 ngân hàng Việt lọt Top 500 ngân hàng đắt giá nhất hành tinh, Agribank đứng đầu bảng thị trường Việt Nam, bỏ xa VietinBank, VPBank, BIDV](https://cafebiz.vn/9-ngan-hang-viet-lot-top-500-ngan-hang-dat-gia-nhat-hanh-tinh-agribank-dung-dau-bang-thi-truong-viet-nam-bo-xa-vietinbank-vpbank-bidv-20210223114522569.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quốc hội kiện toàn một số chức danh lãnh đạo nhà nước vào cuối tháng 3](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/quoc-hoi-kien-toan-mot-so-chuc-danh-lanh-dao-nha-nuoc-vao-cuoi-thang-3-713549.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
