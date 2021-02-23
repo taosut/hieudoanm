@@ -9,7 +9,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 25.08°C.
-- Air Visual is 131.
+- Air Visual is 139.
 
 **WEATHER**
 
@@ -31,32 +31,32 @@
 - [Hướng dương ngược nắng tập 31](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
 - [Juventus](https://www.google.com/search?q=Juventus)
 - [Kim So Hyun](https://www.google.com/search?q=Kim%20So%20Hyun)
-- [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
 - [Man City](https://www.google.com/search?q=Man%20City)
 - [Map](https://www.google.com/search?q=Map)
 - [Minh Nhựa](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
 - [PS5](https://www.google.com/search?q=PS5)
+- [Phùng Anh Lê](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
 - [Phạm Băng Băng](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
+- [Sevilla](https://www.google.com/search?q=Sevilla)
 - [Sơn Tùng](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [Vietcombank](https://www.google.com/search?q=Vietcombank)
 - [VietinBank](https://www.google.com/search?q=VietinBank)
 - [iPhone 13](https://www.google.com/search?q=iPhone%2013)
-- [Đại tá Phùng Anh Lê](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20Ph%C3%B9ng%20Anh%20L%C3%AA)
 
 </td><td valign="top" width="33%">
 
 **NEWS**
 
-- [Hình bóng doanh nhân Kiều Xuân Nam tại dự án 800 tỷ ở Đồng Hới](https://cafebiz.vn/hinh-bong-doanh-nhan-kieu-xuan-nam-tai-du-an-800-ty-o-dong-hoi-20210223162005746.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vắc-xin Covid-19: "Đơn vị tiền tệ mới"](https://cafebiz.vn/vac-xin-covid-19-don-vi-tien-te-moi-20210223161950046.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vì sao xe không lưu thông trên cao tốc Trung Lương – Mỹ Thuận dịp Tết?](https://laodong.vn/xa-hoi/vi-sao-xe-khong-luu-thong-tren-cao-toc-trung-luong--my-thuan-dip-tet-882903.ldo) ([Lao Động](https://laodong.vn))
-- [Trẻ sinh ra trong hoàn cảnh gia đình không trọn vẹn dễ bị xâm hại](https://laodong.vn/phap-luat/tre-sinh-ra-trong-hoan-canh-gia-dinh-khong-tron-ven-de-bi-xam-hai-882858.ldo) ([Lao Động](https://laodong.vn))
-- [TP Hải Phòng tiếp tế gần 8 tấn gạo, thịt cho người dân khu phong tỏa](https://cafebiz.vn/tp-hai-phong-tiep-te-gan-8-tan-gao-thit-cho-nguoi-dan-khu-phong-toa-202102231610225.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: Hàng hoá sôi động sau Tết, sức mua tăng](https://laodong.vn/thi-truong/tphcm-hang-hoa-soi-dong-sau-tet-suc-mua-tang-882891.ldo) ([Lao Động](https://laodong.vn))
-- [Thêm 2 ca dương tính SARS-CoV-2 đều làm nghề bán cá ở chợ, TP. Hải Dương phát thông báo khẩn](https://cafebiz.vn/them-2-ca-duong-tinh-sars-cov-2-deu-lam-nghe-ban-ca-o-cho-tp-hai-duong-phat-thong-bao-khan-20210223160641541.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Phòng:  Chuẩn bị sẵn sàng kinh phí để mua vắc xin cho người dân](https://laodong.vn/xa-hoi/hai-phong-chuan-bi-san-sang-kinh-phi-de-mua-vac-xin-cho-nguoi-dan-882900.ldo) ([Lao Động](https://laodong.vn))
-- [Chỉnh sửa ảnh trên Facebook để lừa đảo mua iPhone 11](https://laodong.vn/phap-luat/chinh-sua-anh-tren-facebook-de-lua-dao-mua-iphone-11-882886.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ đại gia Minh Nhựa đơn phương ly hôn, yêu cầu tòa tuyên bố “vợ mất tích”: Ông Minh có thể bị phạt vì chưa ly hôn đã sống như vợ chồng với người khác](https://cafebiz.vn/vu-dai-gia-minh-nhua-don-phuong-ly-hon-yeu-cau-toa-tuyen-bo-vo-mat-tich-ong-minh-co-the-bi-phat-vi-chua-ly-hon-da-song-nhu-vo-chong-voi-nguoi-khac-20210223160127183.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ca mắc COVID-19 ở Hải Phòng thừa nhận về Cẩm Giàng nhưng chưa khai báo](https://laodong.vn/xa-hoi/ca-mac-covid-19-o-hai-phong-thua-nhan-ve-cam-giang-nhung-chua-khai-bao-882929.ldo) ([Lao Động](https://laodong.vn))
+- [Vượt trở ngại COVID-19, Bạc Liêu phấn đấu đưa du lịch tăng 50%](https://laodong.vn/xa-hoi/vuot-tro-ngai-covid-19-bac-lieu-phan-dau-dua-du-lich-tang-50-882928.ldo) ([Lao Động](https://laodong.vn))
+- [Phí bản quyền tin tức – Điểm nóng mới giữa giới chức toàn cầu và các tập đoàn công nghệ](https://cafebiz.vn/phi-ban-quyen-tin-tuc-diem-nong-moi-giua-gioi-chuc-toan-cau-va-cac-tap-doan-cong-nghe-20210223171042193.chn) ([CafeBiz](https://cafebiz.vn))
+- [Việt Nam tiến tới tiêm miễn phí vaccine phòng Covid-19 cho người dân](https://cafebiz.vn/viet-nam-tien-toi-tiem-mien-phi-vaccine-phong-covid-19-cho-nguoi-dan-20210223171035684.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắt đối tượng buôn ma túy dùng liềm chống đối khi bị đột kích](https://laodong.vn/phap-luat/bat-doi-tuong-buon-ma-tuy-dung-liem-chong-doi-khi-bi-dot-kich-882919.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất đưa phóng viên vào diện được xét nghiệm COVID-19 miễn phí](https://laodong.vn/xa-hoi/de-xuat-dua-phong-vien-vao-dien-duoc-xet-nghiem-covid-19-mien-phi-882896.ldo) ([Lao Động](https://laodong.vn))
+- [Tạm dừng chạy một số đoàn tàu Thống nhất từ hôm nay](https://laodong.vn/giao-thong/tam-dung-chay-mot-so-doan-tau-thong-nhat-tu-hom-nay-882923.ldo) ([Lao Động](https://laodong.vn))
+- [Điều chỉnh quy hoạch chi tiết sân bay Tân Sơn Nhất](https://tuoitre.vn/dieu-chinh-quy-hoach-chi-tiet-san-bay-tan-son-nhat-20210223164559169.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Choáng váng khi nghe tin đội bóng chuyền nam Đắk Lắk 'đường ai nấy đi'](https://tuoitre.vn/choang-vang-khi-nghe-tin-doi-bong-chuyen-nam-dak-lak-duong-ai-nay-di-2021022316010738.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [MV “Chúng ta của hiện tại” bị gỡ khỏi Youtube, Sơn Tùng M-TP có thể mất bao nhiêu tiền?](https://cafebiz.vn/mv-chung-ta-cua-hien-tai-bi-go-khoi-youtube-son-tung-m-tp-co-the-mat-bao-nhieu-tien-202102231647458.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -68,6 +68,7 @@
 
 **VIETCETERA**
 
+- [Chai thuỷ tinh La Vie: Nuôi dưỡng vòng tuần hoàn của sự sống](https://vietcetera.com/vn/chai-thuy-tinh-la-vie-nuoi-duong-vong-tuan-hoan-cua-su-song)
 - [Văn hóa Tiki có gì mà thế giới thích mê? ](https://vietcetera.com/vn/van-hoa-tiki-co-gi-ma-the-gioi-thich-me)
 - [Du thuyền Oceania Cruises: 180 ngày, 96 địa danh và 33 quốc gia](https://vietcetera.com/vn/du-thuyen-oceania-cruises-co-hoi-kham-pha-cac-dia-danh-noi-tieng-tai-viet-nam-va-tren-the-gioi)
 - ["Anh diễn hài độc thoại nhiều rồi, nhưng set diễn khiến anh run nhất..."](https://vietcetera.com/vn/anh-dien-hai-doc-thoai-nhieu-roi-nhung-set-dien-khien-anh-run-nhat)
@@ -77,7 +78,6 @@
 - [Bóc Term: Pickup line - Khi thả thính trở thành một bộ môn nghệ thuật](https://vietcetera.com/vn/boc-term-pick-up-line-tha-thinh-tro-thanh-mon-nghe-thuat)
 - [SCALE và nguyên lý “Cái rổ thủng”: Đừng vội khi Startup chưa đủ "chín"! ](https://vietcetera.com/vn/scale-va-nguyen-ly-cai-ro-thung-dung-voi-khi-startup-chua-du-chin)
 - [7 Kỹ thuật giao tiếp bằng mắt cho cuộc đối thoại hiệu quả](https://vietcetera.com/vn/7-cach-duy-tri-giao-tiep-bang-mat-hieu-qua)
-- ["Năm đó, lần đầu tiên trong đời cô biết nhớ một người con trai..."](https://vietcetera.com/vn/nhan-quyet-dinh-day-o-dao-ngay-len-tau-chua-kip-buon-co-da-oi)
 
 </td><td valign="top" width="33%">
 
