@@ -9,7 +9,7 @@
 - Current weather is haze.
 - Temperature is 23°C.
 - Feels Like 23.84°C.
-- Air Visual is 156.
+- Air Visual is 161.
 
 **WEATHER**
 
@@ -23,22 +23,22 @@
 **GOOGLE TRENDS**
 
 - [ACB](https://www.google.com/search?q=ACB)
-- [Amee](https://www.google.com/search?q=Amee)
 - [BIDV](https://www.google.com/search?q=BIDV)
+- [Btc](https://www.google.com/search?q=Btc)
 - [COVID Hải Phòng](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [Daft Punk](https://www.google.com/search?q=Daft%20Punk)
 - [Hướng dương ngược nắng tập 31](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
-- [Hải Phòng COVID](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng%20COVID)
 - [Juventus](https://www.google.com/search?q=Juventus)
+- [Kim So Hyun](https://www.google.com/search?q=Kim%20So%20Hyun)
 - [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
 - [Man City](https://www.google.com/search?q=Man%20City)
 - [Minh Nhựa](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
 - [PS5](https://www.google.com/search?q=PS5)
 - [PSG](https://www.google.com/search?q=PSG)
 - [Phùng Anh Lê](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
+- [Phương Ly](https://www.google.com/search?q=Ph%C6%B0%C6%A1ng%20Ly)
 - [Sevilla](https://www.google.com/search?q=Sevilla)
 - [Sơn Tùng](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
-- [VCB](https://www.google.com/search?q=VCB)
 - [Vietcombank](https://www.google.com/search?q=Vietcombank)
 - [VietinBank](https://www.google.com/search?q=VietinBank)
 - [iPhone 13](https://www.google.com/search?q=iPhone%2013)
@@ -47,16 +47,16 @@
 
 **NEWS**
 
-- [3 bóng hồng "va" vào đời đại gia Minh Nhựa: Vợ cả chưa chính thức ly hôn, vợ hai từng khiến chồng đòi tự tử và nhan sắc không tầm thường của "người thứ ba"](https://cafebiz.vn/3-bong-hong-va-vao-doi-dai-gia-minh-nhua-vo-ca-chua-chinh-thuc-ly-hon-vo-hai-tung-khien-chong-doi-tu-tu-va-nhan-sac-khong-tam-thuong-cua-nguoi-thu-ba-20210223104704501.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bảng xếp hạng vòng 24 La Liga: Barca tụt xuống vị trí thứ 4](https://laodong.vn/infographic/bang-xep-hang-vong-24-la-liga-barca-tut-xuong-vi-tri-thu-4-882544.ldo) ([Lao Động](https://laodong.vn))
-- [NASA công bố video đầu tiên về cú hạ cánh xuống sao Hỏa](https://laodong.vn/the-gioi/nasa-cong-bo-video-dau-tien-ve-cu-ha-canh-xuong-sao-hoa-882760.ldo) ([Lao Động](https://laodong.vn))
-- [Tiền của nhà đầu tư đang đổ vào đâu?](https://cafebiz.vn/tien-cua-nha-dau-tu-dang-do-vao-dau-20210223104008439.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thanh Hóa: Xét nghiệm COVID-19 cho hàng nghìn thanh niên trước khi nhập ngũ](https://laodong.vn/xa-hoi/thanh-hoa-xet-nghiem-covid-19-cho-hang-nghin-thanh-nien-truoc-khi-nhap-ngu-882763.ldo) ([Lao Động](https://laodong.vn))
-- [Chi cúng nghĩa trang đầu năm thành chi cho... COVID-19: Lỗi đánh máy?](https://tuoitre.vn/chi-cung-nghia-trang-dau-nam-thanh-chi-cho-covid-19-loi-danh-may-20210223092510149.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [WandaVision: Nước cờ lột xác của Marvel, sáng tạo vô biên đúng chuẩn bom tấn truyền hình nổi nhất thế giới!](https://cafebiz.vn/wandavision-nuoc-co-lot-xac-cua-marvel-sang-tao-vo-bien-dung-chuan-bom-tan-truyen-hinh-noi-nhat-the-gioi-20210223103522605.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chính phủ chủ động tháo gỡ &quot;điểm nghẽn&quot;, khơi thông, thúc đẩy tăng trưởng](https://laodong.vn/thoi-su/chinh-phu-chu-dong-thao-go-diem-nghen-khoi-thong-thuc-day-tang-truong-882759.ldo) ([Lao Động](https://laodong.vn))
-- [Lớp học trực tuyến của 1 học sinh F0 và các học sinh F1](https://laodong.vn/photo/lop-hoc-truc-tuyen-cua-1-hoc-sinh-f0-va-cac-hoc-sinh-f1-882589.ldo) ([Lao Động](https://laodong.vn))
-- [Sau 5 năm, Apple cuối cùng đã giành lại được vị trí ‘vua di động’ từ tay Samsung](https://cafebiz.vn/sau-5-nam-apple-cuoi-cung-da-gianh-lai-duoc-vi-tri-vua-di-dong-tu-tay-samsung-20210223103344259.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắt đầu xét nghiệm COVID-19 cho tân binh thủ đô](https://tuoitre.vn/bat-dau-xet-nghiem-covid-19-cho-tan-binh-thu-do-20210223103108473.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tính năng 'Tải xuống cho bạn' của Netflix sắp có trên thiết bị iOS](https://laodong.vn/cong-nghe/tinh-nang-tai-xuong-cho-ban-cua-netflix-sap-co-tren-thiet-bi-ios-882799.ldo) ([Lao Động](https://laodong.vn))
+- [Hàn Quốc đối mặt cuộc khủng hoảng lao động tồi tệ nhất từ năm 1997 đến nay do giới trẻ phải nhường người già việc làm](https://cafebiz.vn/han-quoc-doi-mat-cuoc-khung-hoang-lao-dong-toi-te-nhat-tu-nam-1997-den-nay-do-gioi-tre-phai-nhuong-nguoi-gia-viec-lam-20210223093213751.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: 12 ngày không phát hiện trường hợp mắc COVID-19 trong cộng đồng](https://laodong.vn/y-te/tphcm-12-ngay-khong-phat-hien-truong-hop-mac-covid-19-trong-cong-dong-882790.ldo) ([Lao Động](https://laodong.vn))
+- [Sau Hưng Yên, ông Đặng Thành Tâm lại muốn đầu tư dự án nghìn tỷ tại Long An](https://cafebiz.vn/sau-hung-yen-ong-dang-thanh-tam-lai-muon-dau-tu-du-an-nghin-ty-tai-long-an-2021022311090035.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng đề xuất bỏ môn thi tổ hợp kỳ thi tuyển sinh vào lớp 10 THPT](https://laodong.vn/giao-duc/hai-phong-de-xuat-bo-mon-thi-to-hop-ky-thi-tuyen-sinh-vao-lop-10-thpt-882794.ldo) ([Lao Động](https://laodong.vn))
+- [LĐLĐ huyện Sơn Động (Bắc Giang): Thăm và tặng quà Trung tâm y tế huyện](https://laodong.vn/ldld-bac-giang/ldld-huyen-son-dong-bac-giang-tham-va-tang-qua-trung-tam-y-te-huyen-882793.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Ninh: 2 bệnh nhân COVID-19 được công bố khỏi bệnh](https://laodong.vn/y-te/bac-ninh-2-benh-nhan-covid-19-duoc-cong-bo-khoi-benh-882757.ldo) ([Lao Động](https://laodong.vn))
+- [Quy hoạch sân bay Hà Giang, Ninh Bình 'khó khả thi'](https://vnexpress.net/quy-hoach-san-bay-ha-giang-ninh-binh-kho-kha-thi-4238572.html) ([VNExpress](https://vnexpress.net))
+- [Quốc hội sẽ kiện toàn chức danh lãnh đạo bộ máy Nhà nước tại kỳ họp cuối cùng](https://tuoitre.vn/quoc-hoi-se-kien-toan-chuc-danh-lanh-dao-bo-may-nha-nuoc-tai-ky-hop-cuoi-cung-20210223105542241.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
