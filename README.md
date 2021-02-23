@@ -14,10 +14,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is mist.
 - Temperature is 21°C.
-- Feels Like 21.27°C.
-- Air Visual is 86.
+- Feels Like 21.68°C.
+- Air Visual is 106.
 
 **WEATHER**
 
@@ -45,7 +45,6 @@
 
 - [![Anh Đức](https://img.shields.io/static/v1?label=Anh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
-- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
@@ -56,6 +55,7 @@
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
+- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Map](https://img.shields.io/static/v1?label=Map&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Map)
 - [![Minh Nhựa](https://img.shields.io/static/v1?label=Minh%20Nh%E1%BB%B1a&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
@@ -74,12 +74,12 @@
 - [Thủ tướng lần đầu dự, phát biểu tại khuôn khổ Hội đồng Bảo an Liên Hợp Quốc](https://laodong.vn/thoi-su/thu-tuong-lan-dau-du-phat-bieu-tai-khuon-kho-hoi-dong-bao-an-lien-hop-quoc-883026.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương yêu cầu xử lý nghiêm F1 không khai báo trong vòng 24h](https://laodong.vn/xa-hoi/hai-duong-yeu-cau-xu-ly-nghiem-f1-khong-khai-bao-trong-vong-24h-883025.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương yêu cầu F1 phải khai báo y tế trong 24 giờ kể từ khi thông báo F0](https://tuoitre.vn/hai-duong-yeu-cau-f1-phai-khai-bao-y-te-trong-24-gio-ke-tu-khi-thong-bao-f0-20210223214556038.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [MacBook Pro năm nay có thiết kế mới, thêm khe thẻ SD, HDMI](https://tinhte.vn/thread/macbook-pro-nam-nay-co-thiet-ke-moi-them-khe-the-sd-hdmi.3281475/) ([Tinh Tế](https://tinhte.vn))
 - [Hà Nội vận động cán bộ, bếp ăn trường học đặt mua nông thủy sản Hải Dương, Quảng Ninh](https://tuoitre.vn/ha-noi-van-dong-can-bo-bep-an-truong-hoc-dat-mua-nong-thuy-san-hai-duong-quang-ninh-20210223202004779.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Review chuột Microsoft Modern Mobile Mouse: Công nghệ Blue Track đáng tiền](https://tinhte.vn/thread/review-chuot-microsoft-modern-mobile-mouse-cong-nghe-blue-track-dang-tien.3279887/) ([Tinh Tế](https://tinhte.vn))
+- [Facebook bỏ chặn người dùng Úc và đồng ý trả tiền cho các hãng tin.](https://tinhte.vn/thread/facebook-bo-chan-nguoi-dung-uc-va-dong-y-tra-tien-cho-cac-hang-tin.3281859/) ([Tinh Tế](https://tinhte.vn))
 - [Hải Dương: Động viên lực lượng tuyến đầu chống dịch và công nhân nhà trọ](https://laodong.vn/cong-doan/hai-duong-dong-vien-luc-luong-tuyen-dau-chong-dich-va-cong-nhan-nha-tro-883018.ldo) ([Lao Động](https://laodong.vn))
 - [Gần 24.600 phương tiện phải quay đầu khi vào Hải Phòng](https://laodong.vn/xa-hoi/gan-24600-phuong-tien-phai-quay-dau-khi-vao-hai-phong-883023.ldo) ([Lao Động](https://laodong.vn))
-- [Thái tử phi "vạn người mê" của Malaysia: Nhan sắc khiến ai cũng xao xuyến cùng câu chuyện cổ tích "yêu em từ cái nhìn đầu tiên"](https://cafebiz.vn/thai-tu-phi-van-nguoi-me-cua-malaysia-nhan-sac-khien-ai-cung-xao-xuyen-cung-cau-chuyen-co-tich-yeu-em-tu-cai-nhin-dau-tien-20210223215340216.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người đàn ông tử vong khi đang điều trị cách ly](https://vnexpress.net/nguoi-dan-ong-tu-vong-khi-dang-dieu-tri-cach-ly-4239236.html) ([VNExpress](https://vnexpress.net))
-- [Xác định nguồn lây chùm ca bệnh tại Hải Phòng](https://laodong.vn/xa-hoi/xac-dinh-nguon-lay-chum-ca-benh-tai-hai-phong-883020.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
