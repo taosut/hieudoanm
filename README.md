@@ -7,9 +7,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 24.72°C.
-- Air Visual is 151.
+- Temperature is 24°C.
+- Feels Like 24.88°C.
+- Air Visual is 146.
 
 **WEATHER**
 
@@ -47,16 +47,16 @@
 
 **NEWS**
 
-- [Trao quà tới người lao động bị cách ly do COVID-19](https://laodong.vn/cd-xay-dung/trao-qua-toi-nguoi-lao-dong-bi-cach-ly-do-covid-19-882825.ldo) ([Lao Động](https://laodong.vn))
-- [Chùa Phúc Khánh sẽ tổ chức lễ cầu an trực tuyến như thế nào?](https://laodong.vn/xa-hoi/chua-phuc-khanh-se-to-chuc-le-cau-an-truc-tuyen-nhu-the-nao-882778.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều diện tích rừng tái sinh ở Khánh Hòa bị tàn phá](https://laodong.vn/xa-hoi/nhieu-dien-tich-rung-tai-sinh-o-khanh-hoa-bi-tan-pha-882367.ldo) ([Lao Động](https://laodong.vn))
-- [Quốc hội kiện toàn một số chức danh Nhà nước tại Kỳ họp 11 vào cuối tháng 3](https://laodong.vn/thoi-su/quoc-hoi-kien-toan-mot-so-chuc-danh-nha-nuoc-tai-ky-hop-11-vao-cuoi-thang-3-882812.ldo) ([Lao Động](https://laodong.vn))
-- [Boeing 777-200 cháy động cơ tại Mỹ: Việt Nam không còn khai thác loại máy bay này](https://laodong.vn/kinh-te/boeing-777-200-chay-dong-co-tai-my-viet-nam-khong-con-khai-thac-loai-may-bay-nay-882834.ldo) ([Lao Động](https://laodong.vn))
-- [Khoe Rolex hay khoa trương Richard Mille giờ là "quê mùa", đây mới là 5 biểu tượng mới mà tầng lớp siêu giàu dùng để định vị bản thân](https://cafebiz.vn/khoe-rolex-hay-khoa-truong-richard-mille-gio-la-que-mua-day-moi-la-5-bieu-tuong-moi-ma-tang-lop-sieu-giau-dung-de-dinh-vi-ban-than-20210223115414992.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bảng xếp hạng vòng 23 Serie A: Inter Milan tạo cách biệt với nhóm bám đuổi](https://laodong.vn/infographic/bang-xep-hang-vong-23-serie-a-inter-milan-tao-cach-biet-voi-nhom-bam-duoi-882542.ldo) ([Lao Động](https://laodong.vn))
-- [Tuổi 30 của Hoa hậu Việt Nam Đặng Thu Thảo: Mẹ 2 con, nhan sắc không tuổi](https://laodong.vn/photo/tuoi-30-cua-hoa-hau-viet-nam-dang-thu-thao-me-2-con-nhan-sac-khong-tuoi-882786.ldo) ([Lao Động](https://laodong.vn))
-- [Đề nghị đánh giá tác động 24 công trình chậm tiến độ](https://vnexpress.net/de-nghi-danh-gia-tac-dong-24-cong-trinh-cham-tien-do-4238902.html) ([VNExpress](https://vnexpress.net))
-- [Thanh niên trước ngày nhập ngũ: Xét nghiệm COVID-19 để chống dịch](https://laodong.vn/video-thoi-su/thanh-nien-truoc-ngay-nhap-ngu-xet-nghiem-covid-19-de-chong-dich-882820.ldo) ([Lao Động](https://laodong.vn))
+- [Những “bar, karaoke...” trong một mặc định xấu](https://laodong.vn/su-kien-binh-luan/nhung-bar-karaoke-trong-mot-mac-dinh-xau-882765.ldo) ([Lao Động](https://laodong.vn))
+- [Báo Thái Lan tiết lộ mục tiêu lấy 6 điểm của ông Park Hang-seo](https://laodong.vn/the-thao/bao-thai-lan-tiet-lo-muc-tieu-lay-6-diem-cua-ong-park-hang-seo-882837.ldo) ([Lao Động](https://laodong.vn))
+- [H'hen Niê, Quốc Trường và loạt sao Việt xây nhà tiền tỉ báo hiếu bố mẹ](https://laodong.vn/bat-dong-san/hhen-nie-quoc-truong-va-loat-sao-viet-xay-nha-tien-ti-bao-hieu-bo-me-882832.ldo) ([Lao Động](https://laodong.vn))
+- [Nữ công nhân dương tính SARS-CoV-2 đi lại nhiều nơi, hơn 6.000 người bị phong tỏa](https://cafebiz.vn/nu-cong-nhan-duong-tinh-sars-cov-2-di-lai-nhieu-noi-hon-6000-nguoi-bi-phong-toa-20210223134541247.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ca nghi nhiễm Covid-19 mới ở TP.Hải Dương: Mỗi ngày đi bán cá ở 2 chợ khác nhau](https://cafebiz.vn/ca-nghi-nhiem-covid-19-moi-o-tphai-duong-moi-ngay-di-ban-ca-o-2-cho-khac-nhau-2021022313423895.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá đất tăng cao, đôi vợ chồng trẻ vật lộn tìm mua nhà vùng ven Sài Gòn dù có tiền tỷ trong tay](https://cafebiz.vn/gia-dat-tang-cao-doi-vo-chong-tre-vat-lon-tim-mua-nha-vung-ven-sai-gon-du-co-tien-ty-trong-tay-2021022313412304.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khách giảm vì COVID-19, đường sắt tiếp tục tạm dừng nhiều đoàn tàu](https://tuoitre.vn/khach-giam-vi-covid-19-duong-sat-tiep-tuc-tam-dung-nhieu-doan-tau-20210223124628328.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bắc Ninh: Gần 6 tấn nông sản Hải Dương được &quot;giải cứu&quot; trong 30 phút](https://laodong.vn/xa-hoi/bac-ninh-gan-6-tan-nong-san-hai-duong-duoc-giai-cuu-trong-30-phut-882801.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiều doanh nghiệp điêu đứng, nhưng một ngân hàng vẫn báo lãi hơn 200 triệu USD nhờ thảm họa năng lượng ở Texas](https://cafebiz.vn/nhieu-doanh-nghiep-dieu-dung-nhung-mot-ngan-hang-van-bao-lai-hon-200-trieu-usd-nho-tham-hoa-nang-luong-o-texas-20210223133432318.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nghiên cứu đầu tiên về tiêm chủng đại trà vaccine ở Anh cho kết quả bất ngờ](https://laodong.vn/the-gioi/nghien-cuu-dau-tien-ve-tiem-chung-dai-tra-vaccine-o-anh-cho-ket-qua-bat-ngo-882814.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
