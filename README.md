@@ -6,10 +6,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 22°C.
-- Feels Like 23.27°C.
-- Air Visual is 158.
+- Current weather is haze.
+- Temperature is 23°C.
+- Feels Like 23.84°C.
+- Air Visual is 156.
 
 **WEATHER**
 
@@ -47,16 +47,16 @@
 
 **NEWS**
 
-- [Ngành thép Việt Nam tăng trưởng hơn 100% trong năm 2020 nhờ những yếu tố nào?](https://cafebiz.vn/nganh-thep-viet-nam-tang-truong-hon-100-trong-nam-2020-nho-nhung-yeu-to-nao-20210223102004094.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những loại hoa hay dùng để cúng trong ngày Rằm tháng Giêng](https://laodong.vn/chuyen-nha-minh/nhung-loai-hoa-hay-dung-de-cung-trong-ngay-ram-thang-gieng-882554.ldo) ([Lao Động](https://laodong.vn))
-- [Sau năm 2021, CSGT không sang tên chính chủ cho xe cũ, mất giấy tờ](https://laodong.vn/giao-thong/sau-nam-2021-csgt-khong-sang-ten-chinh-chu-cho-xe-cu-mat-giay-to-882737.ldo) ([Lao Động](https://laodong.vn))
-- [Núp trong cabin xe tải để trốn cách ly](https://vnexpress.net/nup-trong-cabin-xe-tai-de-tron-cach-ly-4238810.html) ([VNExpress](https://vnexpress.net))
-- [Đề nghị Chính phủ đánh giá đúng 'sức khỏe' của doanh nghiệp, người lao động](https://tuoitre.vn/de-nghi-chinh-phu-danh-gia-dung-suc-khoe-cua-doanh-nghiep-nguoi-lao-dong-2021022309393177.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Những công dụng tuyệt vời của nghệ đối với sức khỏe không nên bỏ qua](https://laodong.vn/suc-khoe/nhung-cong-dung-tuyet-voi-cua-nghe-doi-voi-suc-khoe-khong-nen-bo-qua-882331.ldo) ([Lao Động](https://laodong.vn))
-- [MV của Sơn Tùng MTP bị gỡ khỏi Youtube chưa chắc do “đạo nhái”](https://laodong.vn/giai-tri/mv-cua-son-tung-mtp-bi-go-khoi-youtube-chua-chac-do-dao-nhai-882747.ldo) ([Lao Động](https://laodong.vn))
-- [Chân dung người con nuôi được thừa kế toàn bộ đế chế LG trị giá hàng trăm tỷ USD: Đẹp trai, tài giỏi, nhiều tiền nhưng bất chấp lấy vợ ‘thường dân’ và cái kết đầy bất ngờ](https://cafebiz.vn/chan-dung-nguoi-con-nuoi-duoc-thua-ke-toan-bo-de-che-lg-tri-gia-hang-tram-ty-usd-dep-trai-tai-gioi-nhieu-tien-nhung-bat-chap-lay-vo-thuong-dan-va-cai-ket-day-bat-ngo-20210223100258665.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhìn lại thành tích 2 MV ra cùng thời điểm của BTS, Blackpink sau nửa năm](https://laodong.vn/giai-tri/nhin-lai-thanh-tich-2-mv-ra-cung-thoi-diem-cua-bts-blackpink-sau-nua-nam-882742.ldo) ([Lao Động](https://laodong.vn))
-- [Những quyết định khiến Warren Buffett và các nhà đầu tư khác hối tiếc](https://cafebiz.vn/nhung-quyet-dinh-khien-warren-buffett-va-cac-nha-dau-tu-khac-hoi-tiec-20210223084342325.chn) ([CafeBiz](https://cafebiz.vn))
+- [3 bóng hồng "va" vào đời đại gia Minh Nhựa: Vợ cả chưa chính thức ly hôn, vợ hai từng khiến chồng đòi tự tử và nhan sắc không tầm thường của "người thứ ba"](https://cafebiz.vn/3-bong-hong-va-vao-doi-dai-gia-minh-nhua-vo-ca-chua-chinh-thuc-ly-hon-vo-hai-tung-khien-chong-doi-tu-tu-va-nhan-sac-khong-tam-thuong-cua-nguoi-thu-ba-20210223104704501.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bảng xếp hạng vòng 24 La Liga: Barca tụt xuống vị trí thứ 4](https://laodong.vn/infographic/bang-xep-hang-vong-24-la-liga-barca-tut-xuong-vi-tri-thu-4-882544.ldo) ([Lao Động](https://laodong.vn))
+- [NASA công bố video đầu tiên về cú hạ cánh xuống sao Hỏa](https://laodong.vn/the-gioi/nasa-cong-bo-video-dau-tien-ve-cu-ha-canh-xuong-sao-hoa-882760.ldo) ([Lao Động](https://laodong.vn))
+- [Tiền của nhà đầu tư đang đổ vào đâu?](https://cafebiz.vn/tien-cua-nha-dau-tu-dang-do-vao-dau-20210223104008439.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thanh Hóa: Xét nghiệm COVID-19 cho hàng nghìn thanh niên trước khi nhập ngũ](https://laodong.vn/xa-hoi/thanh-hoa-xet-nghiem-covid-19-cho-hang-nghin-thanh-nien-truoc-khi-nhap-ngu-882763.ldo) ([Lao Động](https://laodong.vn))
+- [Chi cúng nghĩa trang đầu năm thành chi cho... COVID-19: Lỗi đánh máy?](https://tuoitre.vn/chi-cung-nghia-trang-dau-nam-thanh-chi-cho-covid-19-loi-danh-may-20210223092510149.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [WandaVision: Nước cờ lột xác của Marvel, sáng tạo vô biên đúng chuẩn bom tấn truyền hình nổi nhất thế giới!](https://cafebiz.vn/wandavision-nuoc-co-lot-xac-cua-marvel-sang-tao-vo-bien-dung-chuan-bom-tan-truyen-hinh-noi-nhat-the-gioi-20210223103522605.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chính phủ chủ động tháo gỡ &quot;điểm nghẽn&quot;, khơi thông, thúc đẩy tăng trưởng](https://laodong.vn/thoi-su/chinh-phu-chu-dong-thao-go-diem-nghen-khoi-thong-thuc-day-tang-truong-882759.ldo) ([Lao Động](https://laodong.vn))
+- [Lớp học trực tuyến của 1 học sinh F0 và các học sinh F1](https://laodong.vn/photo/lop-hoc-truc-tuyen-cua-1-hoc-sinh-f0-va-cac-hoc-sinh-f1-882589.ldo) ([Lao Động](https://laodong.vn))
+- [Sau 5 năm, Apple cuối cùng đã giành lại được vị trí ‘vua di động’ từ tay Samsung](https://cafebiz.vn/sau-5-nam-apple-cuoi-cung-da-gianh-lai-duoc-vi-tri-vua-di-dong-tu-tay-samsung-20210223103344259.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -87,10 +87,10 @@
 02. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 03. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 04. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
-05. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-06. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-07. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
-08. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
+05. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+06. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+07. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
+08. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
 09. [Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]](https://www.youtube.com/watch?v=aXzVF3XeS8M) - [TaylorSwiftVEVO](https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg)
 10. [Ariana Grande - 34+35 Remix (feat. Doja Cat and Megan Thee Stallion) (Official Video)](https://www.youtube.com/watch?v=ssq6X6alZ3w) - [ArianaGrandeVevo](https://www.youtube.com/channel/UC0VOyT2OCBKdQhF3BAbZ-1g)
 
