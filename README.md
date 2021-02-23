@@ -16,8 +16,8 @@
 
 - Current weather is mist.
 - Temperature is 21°C.
-- Feels Like 21.32°C.
-- Air Visual is 151.
+- Feels Like 21.68°C.
+- Air Visual is 121.
 
 **WEATHER**
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
+- [Huyền thoại golf Tiger Woods bị tai nạn xe hơi nghiêm trọng](https://laodong.vn/the-thao/huyen-thoai-golf-tiger-woods-bi-tai-nan-xe-hoi-nghiem-trong-883039.ldo) ([Lao Động](https://laodong.vn))
+- [Khu đô thị lấn biển Cần Giờ có 5 phân khu chức năng](https://vnexpress.net/khu-do-thi-lan-bien-can-gio-co-5-phan-khu-chuc-nang-4239225.html) ([VNExpress](https://vnexpress.net))
 - [Dự báo thời tiết 24/2: Miền Bắc tăng nhiệt, nóng đến 31 độ C](http://vietnamnet.vn/vn/thoi-su/du-bao-thoi-tiet-24-2-mien-bac-tang-nhiet-nong-den-31-do-c-714955.html) ([VietNamNet](https://vietnamnet.vn))
 - [Covid-19 ngày 24/2](https://vnexpress.net/covid-19-ngay-24-2-4239251.html) ([VNExpress](https://vnexpress.net))
-- [Anh em mê PC và console giờ đã có kẻ thù chung: Đám đầu cơ trữ hàng để trục lợi](https://tinhte.vn/thread/anh-em-me-pc-va-console-gio-da-co-ke-thu-chung-dam-dau-co-tru-hang-de-truc-loi.3281619/) ([Tinh Tế](https://tinhte.vn))
-- [Xem các chi tiết hệ thống gầm xe VinFast Lux A2.0](https://tinhte.vn/thread/xem-cac-chi-tiet-he-thong-gam-xe-vinfast-lux-a2-0.3028301/) ([Tinh Tế](https://tinhte.vn))
-- [Mở thử chiếc hộp bí ẩn Mi-stery Box của Xiaomi](https://tinhte.vn/thread/mo-thu-chiec-hop-bi-an-mi-stery-box-cua-xiaomi.3279884/) ([Tinh Tế](https://tinhte.vn))
-- [Người dùng Windows 10 đã có thể bật tắt bluetooth, volume… của điện thoại Android ngay trên máy tính](https://tinhte.vn/thread/nguoi-dung-windows-10-da-co-the-bat-tat-bluetooth-volume-cua-dien-thoai-android-ngay-tren-may-tinh.3281082/) ([Tinh Tế](https://tinhte.vn))
-- [Nâng mức phạt hơn nữa nếu tiết lộ dữ liệu cá nhân trái phép](https://thanhnien.vn/thoi-su/nang-muc-phat-hon-nua-neu-tiet-lo-du-lieu-ca-nhan-trai-phep-1345504.html) ([Thanh Niên](https://thanhnien.vn))
-- [Mercedes-Benz C-class hoàn toàn mới, nội thất như S-Class, đèn Digital Light, đánh lái bánh sau](https://tinhte.vn/thread/mercedes-benz-c-class-hoan-toan-moi-noi-that-nhu-s-class-den-digital-light-danh-lai-banh-sau.3281740/) ([Tinh Tế](https://tinhte.vn))
-- [Hết tết rồi!](https://thanhnien.vn/blog-phong-vien/het-tet-roi-1345539.html) ([Thanh Niên](https://thanhnien.vn))
-- [Thuốc lá điện tử độc hại bán như 'rau': Cần chế tài mạnh tay](https://thanhnien.vn/thoi-su/thuoc-la-dien-tu-doc-hai-ban-nhu-rau-can-che-tai-manh-tay-1345274.html) ([Thanh Niên](https://thanhnien.vn))
+- [[QC] Đã có xe Vinfast rồi thì ngại gì không mua thêm cái bao da SEN cho chìa khoá...](https://tinhte.vn/thread/qc-da-co-xe-vinfast-roi-thi-ngai-gi-khong-mua-them-cai-bao-da-sen-cho-chia-khoa.3280076/) ([Tinh Tế](https://tinhte.vn))
+- [Hàng hóa Hải Dương 'ách tắc': Nguy cơ đứt gãy nguồn nguyên liệu](https://thanhnien.vn/thoi-su/hang-hoa-hai-duong-ach-tac-nguy-co-dut-gay-nguon-nguyen-lieu-1345523.html) ([Thanh Niên](https://thanhnien.vn))
+- [Facebook bỏ chặn người dùng Úc và đồng ý trả tiền cho các hãng tin.](https://tinhte.vn/thread/facebook-bo-chan-nguoi-dung-uc-va-dong-y-tra-tien-cho-cac-hang-tin.3281859/) ([Tinh Tế](https://tinhte.vn))
+- [Đánh giá Blackberry 9900 sau 8 năm sử dụng](https://tinhte.vn/thread/danh-gia-blackberry-9900-sau-8-nam-su-dung.3281391/) ([Tinh Tế](https://tinhte.vn))
+- [Hiện tượng tâm lý mà ai cũng từng gặp phải - Hội chứng vịt con](https://tinhte.vn/thread/hien-tuong-tam-ly-ma-ai-cung-tung-gap-phai-hoi-chung-vit-con.3279977/) ([Tinh Tế](https://tinhte.vn))
+- [Vụ khiếu nại kéo dài 32 năm: Xử lý trách nhiệm 2 bộ và 1 địa phương](https://thanhnien.vn/thoi-su/vu-khieu-nai-keo-dai-32-nam-xu-ly-trach-nhiem-2-bo-va-1-dia-phuong-1345270.html) ([Thanh Niên](https://thanhnien.vn))
 
 [Read More](docs/news/README.md)
 
