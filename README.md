@@ -8,8 +8,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 24.88°C.
-- Air Visual is 146.
+- Feels Like 24.81°C.
+- Air Visual is 8.
 
 **WEATHER**
 
@@ -22,9 +22,9 @@
 
 **GOOGLE TRENDS**
 
-- [ACB](https://www.google.com/search?q=ACB)
+- [Anh Đức](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
 - [BIDV](https://www.google.com/search?q=BIDV)
-- [Btc](https://www.google.com/search?q=Btc)
+- [BTC](https://www.google.com/search?q=BTC)
 - [COVID Hải Phòng](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [Daft Punk](https://www.google.com/search?q=Daft%20Punk)
 - [Hướng dương ngược nắng tập 31](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
@@ -34,29 +34,29 @@
 - [Man City](https://www.google.com/search?q=Man%20City)
 - [Minh Nhựa](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
 - [PS5](https://www.google.com/search?q=PS5)
-- [PSG](https://www.google.com/search?q=PSG)
+- [Phùng Anh Lê](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
 - [Phạm Băng Băng](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
+- [Sacombank](https://www.google.com/search?q=Sacombank)
 - [Sevilla](https://www.google.com/search?q=Sevilla)
 - [Sơn Tùng](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [Vietcombank](https://www.google.com/search?q=Vietcombank)
 - [VietinBank](https://www.google.com/search?q=VietinBank)
 - [iPhone 13](https://www.google.com/search?q=iPhone%2013)
-- [Đại tá Phùng Anh Lê](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20Ph%C3%B9ng%20Anh%20L%C3%AA)
 
 </td><td valign="top" width="33%">
 
 **NEWS**
 
-- [Những “bar, karaoke...” trong một mặc định xấu](https://laodong.vn/su-kien-binh-luan/nhung-bar-karaoke-trong-mot-mac-dinh-xau-882765.ldo) ([Lao Động](https://laodong.vn))
-- [Báo Thái Lan tiết lộ mục tiêu lấy 6 điểm của ông Park Hang-seo](https://laodong.vn/the-thao/bao-thai-lan-tiet-lo-muc-tieu-lay-6-diem-cua-ong-park-hang-seo-882837.ldo) ([Lao Động](https://laodong.vn))
-- [H'hen Niê, Quốc Trường và loạt sao Việt xây nhà tiền tỉ báo hiếu bố mẹ](https://laodong.vn/bat-dong-san/hhen-nie-quoc-truong-va-loat-sao-viet-xay-nha-tien-ti-bao-hieu-bo-me-882832.ldo) ([Lao Động](https://laodong.vn))
-- [Nữ công nhân dương tính SARS-CoV-2 đi lại nhiều nơi, hơn 6.000 người bị phong tỏa](https://cafebiz.vn/nu-cong-nhan-duong-tinh-sars-cov-2-di-lai-nhieu-noi-hon-6000-nguoi-bi-phong-toa-20210223134541247.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ca nghi nhiễm Covid-19 mới ở TP.Hải Dương: Mỗi ngày đi bán cá ở 2 chợ khác nhau](https://cafebiz.vn/ca-nghi-nhiem-covid-19-moi-o-tphai-duong-moi-ngay-di-ban-ca-o-2-cho-khac-nhau-2021022313423895.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá đất tăng cao, đôi vợ chồng trẻ vật lộn tìm mua nhà vùng ven Sài Gòn dù có tiền tỷ trong tay](https://cafebiz.vn/gia-dat-tang-cao-doi-vo-chong-tre-vat-lon-tim-mua-nha-vung-ven-sai-gon-du-co-tien-ty-trong-tay-2021022313412304.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khách giảm vì COVID-19, đường sắt tiếp tục tạm dừng nhiều đoàn tàu](https://tuoitre.vn/khach-giam-vi-covid-19-duong-sat-tiep-tuc-tam-dung-nhieu-doan-tau-20210223124628328.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bắc Ninh: Gần 6 tấn nông sản Hải Dương được &quot;giải cứu&quot; trong 30 phút](https://laodong.vn/xa-hoi/bac-ninh-gan-6-tan-nong-san-hai-duong-duoc-giai-cuu-trong-30-phut-882801.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều doanh nghiệp điêu đứng, nhưng một ngân hàng vẫn báo lãi hơn 200 triệu USD nhờ thảm họa năng lượng ở Texas](https://cafebiz.vn/nhieu-doanh-nghiep-dieu-dung-nhung-mot-ngan-hang-van-bao-lai-hon-200-trieu-usd-nho-tham-hoa-nang-luong-o-texas-20210223133432318.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nghiên cứu đầu tiên về tiêm chủng đại trà vaccine ở Anh cho kết quả bất ngờ](https://laodong.vn/the-gioi/nghien-cuu-dau-tien-ve-tiem-chung-dai-tra-vaccine-o-anh-cho-ket-qua-bat-ngo-882814.ldo) ([Lao Động](https://laodong.vn))
+- [Vòng loại World Cup 2022: Tuyển Việt Nam ổn định, đối thủ nhiều thay đổi](https://laodong.vn/bong-da/vong-loai-world-cup-2022-tuyen-viet-nam-on-dinh-doi-thu-nhieu-thay-doi-882836.ldo) ([Lao Động](https://laodong.vn))
+- [Sơn Tùng lại thêm "đau đầu": Sau Chúng Ta Của Hiện Tại, đến lượt Có Chắc Yêu Là Đây cũng dính nghi vấn đạo nhạc?](https://cafebiz.vn/son-tung-lai-them-dau-dau-sau-chung-ta-cua-hien-tai-den-luot-co-chac-yeu-la-day-cung-dinh-nghi-van-dao-nhac-20210223141242895.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đội tuyển Việt Nam có phải cách ly khi dự Vòng loại World Cup 2022?](https://laodong.vn/bong-da/doi-tuyen-viet-nam-co-phai-cach-ly-khi-du-vong-loai-world-cup-2022-882710.ldo) ([Lao Động](https://laodong.vn))
+- [Chi tiết 4 bước cơ bản để sống mà không cần dùng tiền: Không dễ nhưng biết cách vẫn thực hiện được!](https://cafebiz.vn/chi-tiet-4-buoc-co-ban-de-song-ma-khong-can-dung-tien-khong-de-nhung-biet-cach-van-thuc-hien-duoc-20210222190343395.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chính phủ đã hạn chế được tình trạng “tiền trảm hậu tấu”](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/chinh-phu-da-han-che-duoc-tinh-trang-tien-tram-hau-tau-714878.html) ([VietNamNet](https://vietnamnet.vn))
+- [Hải Phòng phạt cô giáo về nhà chồng Tết mà không khai báo 10 triệu đồng](http://vietnamnet.vn/vn/thoi-su/hai-phong-phat-co-giao-ve-nha-chong-tet-ma-khong-khai-bao-10-trieu-dong-714882.html) ([VietNamNet](https://vietnamnet.vn))
+- [Kiên Giang: Nữ tân binh 9X duy nhất xung phong lên đường nhập ngũ](https://laodong.vn/xa-hoi/kien-giang-nu-tan-binh-9x-duy-nhat-xung-phong-len-duong-nhap-ngu-882767.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng: &quot;Mắt thần&quot; giao thông bắt gọn 50.000 trường hợp vi phạm](https://laodong.vn/xa-hoi/da-nang-mat-than-giao-thong-bat-gon-50000-truong-hop-vi-pham-882805.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao "thủ đô dầu mỏ" và năng lượng Texas thất thủ vì bão tuyết?](https://cafebiz.vn/vi-sao-thu-do-dau-mo-va-nang-luong-texas-that-thu-vi-bao-tuyet-20210223140056607.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đà Nẵng: Sẽ xử lý hình sự các trường hợp khai báo y tế gian dối](https://laodong.vn/xa-hoi/da-nang-se-xu-ly-hinh-su-cac-truong-hop-khai-bao-y-te-gian-doi-882839.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
