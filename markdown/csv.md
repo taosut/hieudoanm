@@ -1,3 +1,7 @@
+- [Administrative Divisions](docs/administrative-divisions)
+- [Banks](docs/banks/banks.csv)
+- [Culture, Sports and Tourism](docs/cst)
+- [Ethnic Minorities](docs/ethnic-minorities/ethnic-minorities.csv)
 - Finance
   - [Companies](docs/finance/companies.csv)
 - Information
@@ -7,10 +11,6 @@
 - [Music](docs/music/artists.csv)
 - [News](docs/news/README.md)
 - [Open APIs](docs/open-apis/open-apis.csv)
-  - Giao Hang Nhanh (GHN)
-    - [Provinces](docs/open-apis/ghn/provinces.csv)
-    - [Districts](docs/open-apis/ghn/districts.csv)
-    - [Wards](docs/open-apis/ghn/wards.csv)
-    - [Stations](docs/open-apis/ghn/stations.csv)
+  - [Giao Hang Nhanh (GHN)](docs/open-apis/ghn)
 - [USA](docs/usa/README.md)
 - [Visas](docs/visas/visas.csv)

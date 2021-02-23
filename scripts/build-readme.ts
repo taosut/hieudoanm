@@ -164,8 +164,8 @@ const getAll = (): Promise<Record<string, any>> => {
 };
 
 export const buildREADME = async () => {
-  const csv1: string = fs.readFileSync('../markdown/csv1.md', 'utf-8');
-  const csv2: string = fs.readFileSync('../markdown/csv2.md', 'utf-8');
+  const csv: string = fs.readFileSync('../markdown/csv.md', 'utf-8');
+
   console.time('GET ALL');
   const {
     googleTrends = '',
@@ -260,21 +260,17 @@ ${youTubeTrending}
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
-**CSV 1**
+**CSV**
 
-${csv1}
-
-</td><td valign="top" width="33%">
-
-**CSV 2**
-
-${csv2}
+${csv}
 
 </td><td valign="top" width="33%">
 
 **NPM**
 
 ${npm}
+
+</td><td valign="top" width="33%">
 
 </td></tr></tbody></table>
 `;

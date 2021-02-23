@@ -16,7 +16,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 24.48°C.
-- Air Visual is 156.
+- Air Visual is 154.
 
 **WEATHER**
 
@@ -30,40 +30,40 @@
 **GOOGLE TRENDS**
 
 - [Anh Đức](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
-- [BTC](https://www.google.com/search?q=BTC)
 - [Barca](https://www.google.com/search?q=Barca)
 - [COVID Hải Phòng](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [Cúng Rằm tháng Giêng](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [Daft Punk](https://www.google.com/search?q=Daft%20Punk)
+- [Giá Bitcoin](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
 - [Hướng dương ngược nắng tập 31](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
 - [Juventus](https://www.google.com/search?q=Juventus)
 - [Kim So Hyun](https://www.google.com/search?q=Kim%20So%20Hyun)
-- [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
+- [Lien minh](https://www.google.com/search?q=Lien%20minh)
 - [Man City](https://www.google.com/search?q=Man%20City)
 - [Map](https://www.google.com/search?q=Map)
 - [Minh Nhựa](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
 - [PS5](https://www.google.com/search?q=PS5)
+- [Phùng Anh Lê](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
 - [Phạm Băng Băng](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [Sơn Tùng](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [Vietcombank](https://www.google.com/search?q=Vietcombank)
 - [VietinBank](https://www.google.com/search?q=VietinBank)
 - [iPhone 13](https://www.google.com/search?q=iPhone%2013)
-- [Đại tá Phùng Anh Lê](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20Ph%C3%B9ng%20Anh%20L%C3%AA)
 
 </td><td valign="top" width="33%">
 
 **NEWS**
 
-- [Phạt một nhân viên y tế ở Lai Châu khai báo y tế gian dối](https://laodong.vn/xa-hoi/phat-mot-nhan-vien-y-te-o-lai-chau-khai-bao-y-te-gian-doi-882970.ldo) ([Lao Động](https://laodong.vn))
+- [Tránh lợi dụng "giải cứu" ép giá nông dân, Hải Dương công bố giá bán nông sản](https://cafebiz.vn/tranh-loi-dung-giai-cuu-ep-gia-nong-dan-hai-duong-cong-bo-gia-ban-nong-san-20210223183504504.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ai từng đến 19 địa điểm này xin liên hệ y tế](https://tuoitre.vn/ai-tung-den-19-dia-diem-nay-xin-lien-he-y-te-20210223182144247.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tin bóng đá tối 23.2: Tottenham chốt thời điểm &quot;thanh lý” Mourinho](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-232-tottenham-chot-thoi-diem-thanh-ly-mourinho-882934.ldo) ([Lao Động](https://laodong.vn))
+- [2 phương án chuẩn bị cho V.League 2021 trở lại](https://laodong.vn/bong-da/2-phuong-an-chuan-bi-cho-vleague-2021-tro-lai-882939.ldo) ([Lao Động](https://laodong.vn))
+- [MV của Sơn Tùng MTP có giữ được view &quot;khủng&quot; nếu khôi phục lại?](https://laodong.vn/giai-tri/mv-cua-son-tung-mtp-co-giu-duoc-view-khung-neu-khoi-phuc-lai-882943.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt đối tượng chém người trọng thương rồi bỏ trốn](https://laodong.vn/phap-luat/bat-doi-tuong-chem-nguoi-trong-thuong-roi-bo-tron-882942.ldo) ([Lao Động](https://laodong.vn))
+- [Chủ trương đầu tư xây dựng và kinh doanh kết cấu hạ tầng KCN Việt Hàn](https://laodong.vn/thoi-su/chu-truong-dau-tu-xay-dung-va-kinh-doanh-ket-cau-ha-tang-kcn-viet-han-882974.ldo) ([Lao Động](https://laodong.vn))
 - [Nhà Trắng đáp lời Bắc Kinh về quan hệ Mỹ-Trung](https://laodong.vn/the-gioi/nha-trang-dap-loi-bac-kinh-ve-quan-he-my-trung-882969.ldo) ([Lao Động](https://laodong.vn))
 - [Phó Thủ tướng Vũ Đức Đam: 'Không thể tuyệt đối không có mầm bệnh trong cộng đồng'](https://tuoitre.vn/pho-thu-tuong-vu-duc-dam-khong-the-tuyet-doi-khong-co-mam-benh-trong-cong-dong-20210223171412725.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chiều 23-2, thêm 6 ca COVID-19 mới ở Quảng Ninh và Hải Dương](https://tuoitre.vn/chieu-23-2-them-6-ca-covid-19-moi-o-quang-ninh-va-hai-duong-20210223181120742.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chiều 23/2, có thêm 6 ca mắc COVID-19 tại Quảng Ninh và Hải Dương](https://cafebiz.vn/chieu-23-2-co-them-6-ca-mac-covid-19-tai-quang-ninh-va-hai-duong-20210223180554772.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tìm được thi thể bác sĩ trẻ mất tích khi đi câu cá](https://laodong.vn/xa-hoi/tim-duoc-thi-the-bac-si-tre-mat-tich-khi-di-cau-ca-882965.ldo) ([Lao Động](https://laodong.vn))
-- [Tia cực tím đạt cực đại nhiều ngày ở TPHCM: Chuyên gia nói gì?](https://laodong.vn/video/tia-cuc-tim-dat-cuc-dai-nhieu-ngay-o-tphcm-chuyen-gia-noi-gi-882895.ldo) ([Lao Động](https://laodong.vn))
-- [Đoàn tàu thứ ba tuyến metro Nhổn - ga Hà Nội đã được đưa lên đường ray](https://laodong.vn/giao-thong/doan-tau-thu-ba-tuyen-metro-nhon-ga-ha-noi-da-duoc-dua-len-duong-ray-882961.ldo) ([Lao Động](https://laodong.vn))
-- ['Đề nghị Hải Phòng tháo gỡ cho xe chở hàng từ Hải Dương'](https://vnexpress.net/de-nghi-hai-phong-thao-go-cho-xe-cho-hang-tu-hai-duong-4239041.html) ([VNExpress](https://vnexpress.net))
-- [HĐND TP HCM giảm 10 đại biểu so với nhiệm kỳ trước](https://vnexpress.net/hdnd-tp-hcm-giam-10-dai-bieu-so-voi-nhiem-ky-truoc-4239197.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
@@ -122,28 +122,12 @@
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
-**CSV 1**
+**CSV**
 
-- Administrative Divisions
-  - [Postal Codes](docs/administrative-divisions/postal-codes.csv)
-  - [Provinces](docs/administrative-divisions/provinces.csv)
-  - [Districts](docs/administrative-divisions/districts.csv)
-  - [Wards](docs/administrative-divisions/wards.csv)
+- [Administrative Divisions](docs/administrative-divisions)
 - [Banks](docs/banks/banks.csv)
-- Culture, Sports and Tourism
-  - [Dynasties](docs/cst/culture/dynasties.csv)
-  - [Movies](docs/cst/culture/movies.md)
-  - Sports
-    - [Clubs](docs/cst/sports/clubs.csv)
-    - VLeague
-      - [Matches](docs/cst/sports/vleague/matches.csv)
-      - [Tables](docs/cst/sports/vleague/tables.csv)
+- [Culture, Sports and Tourism](docs/cst)
 - [Ethnic Minorities](docs/ethnic-minorities/ethnic-minorities.csv)
-
-</td><td valign="top" width="33%">
-
-**CSV 2**
-
 - Finance
   - [Companies](docs/finance/companies.csv)
 - Information
@@ -153,11 +137,7 @@
 - [Music](docs/music/artists.csv)
 - [News](docs/news/README.md)
 - [Open APIs](docs/open-apis/open-apis.csv)
-  - Giao Hang Nhanh (GHN)
-    - [Provinces](docs/open-apis/ghn/provinces.csv)
-    - [Districts](docs/open-apis/ghn/districts.csv)
-    - [Wards](docs/open-apis/ghn/wards.csv)
-    - [Stations](docs/open-apis/ghn/stations.csv)
+  - [Giao Hang Nhanh (GHN)](docs/open-apis/ghn)
 - [USA](docs/usa/README.md)
 - [Visas](docs/visas/visas.csv)
 
@@ -175,5 +155,7 @@
 [![download](https://img.shields.io/npm/dm/vnpay.svg?style=flat&label=vnpay+%28download%29)](https://www.npmjs.com/package/vnpay)
 [![download](https://img.shields.io/npm/dm/vtcpay.svg?style=flat&label=vtcpay+%28download%29)](https://www.npmjs.com/package/vtcpay)
 [![download](https://img.shields.io/npm/dm/zalopay.svg?style=flat&label=zalopay+%28download%29)](https://www.npmjs.com/package/zalopay)
+
+</td><td valign="top" width="33%">
 
 </td></tr></tbody></table>
