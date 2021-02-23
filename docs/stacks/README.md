@@ -6,15 +6,15 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript" alt="javascript" />](https://github.com/airbnb/javascript) | javascript | 104,922 | 3,797 | 20,377 | 129,096|
-|2|[<img src="https://img.shields.io/badge/-go-000?style=flat&logo=go" alt="go" />](https://github.com/golang/go) | go | 82,324 | 3,522 | 11,959 | 97,805|
-|3|[<img src="https://img.shields.io/badge/-typescript-000?style=flat&logo=typescript" alt="typescript" />](https://github.com/microsoft/TypeScript) | typescript | 68,758 | 2,159 | 9,118 | 80,035|
+|1|[<img src="https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript" alt="javascript" />](https://github.com/airbnb/javascript) | javascript | 104,929 | 3,797 | 20,379 | 129,105|
+|2|[<img src="https://img.shields.io/badge/-go-000?style=flat&logo=go" alt="go" />](https://github.com/golang/go) | go | 82,323 | 3,522 | 11,959 | 97,804|
+|3|[<img src="https://img.shields.io/badge/-typescript-000?style=flat&logo=typescript" alt="typescript" />](https://github.com/microsoft/TypeScript) | typescript | 68,758 | 2,159 | 9,117 | 80,034|
 
 ## PACKAGE MANAGERS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-homebrew-000?style=flat&logo=homebrew" alt="homebrew" />](https://github.com/Homebrew/homebrew-core) | ruby | 8,881 | 265 | 8,981 | 18,127|
+|1|[<img src="https://img.shields.io/badge/-homebrew-000?style=flat&logo=homebrew" alt="homebrew" />](https://github.com/Homebrew/homebrew-core) | ruby | 8,882 | 265 | 8,981 | 18,128|
 |2|[<img src="https://img.shields.io/badge/-npm-000?style=flat&logo=npm" alt="npm" />](https://github.com/npm/cli) | javascript | 4,103 | 156 | 1,106 | 5,365|
 |3|[<img src="https://img.shields.io/badge/-yarn-000?style=flat&logo=yarn" alt="yarn" />](https://github.com/yarnpkg/berry) | typescript | 2,924 | 43 | 378 | 3,345|
 
@@ -22,7 +22,7 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-node.js-000?style=flat&logo=node.js" alt="node.js" />](https://github.com/nodejs/node) | javascript | 77,142 | 2,982 | 19,404 | 99,528|
+|1|[<img src="https://img.shields.io/badge/-node.js-000?style=flat&logo=node.js" alt="node.js" />](https://github.com/nodejs/node) | javascript | 77,143 | 2,982 | 19,405 | 99,530|
 
 ## CSS PREPROCESSORS
 
@@ -34,7 +34,7 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-bootstrap-000?style=flat&logo=bootstrap" alt="bootstrap" />](https://github.com/twbs/bootstrap) | javascript | 148,407 | 7,129 | 72,358 | 227,894|
+|1|[<img src="https://img.shields.io/badge/-bootstrap-000?style=flat&logo=bootstrap" alt="bootstrap" />](https://github.com/twbs/bootstrap) | javascript | 148,408 | 7,129 | 72,358 | 227,895|
 
 ## FRONT-END FRAMEWORKS
 
@@ -59,17 +59,17 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-elasticsearch-000?style=flat&logo=elasticsearch" alt="elasticsearch" />](https://github.com/elastic/elasticsearch) | java | 53,795 | 2,783 | 19,263 | 75,841|
+|1|[<img src="https://img.shields.io/badge/-elasticsearch-000?style=flat&logo=elasticsearch" alt="elasticsearch" />](https://github.com/elastic/elasticsearch) | java | 53,797 | 2,783 | 19,263 | 75,843|
 |2|[<img src="https://img.shields.io/badge/-redis-000?style=flat&logo=redis" alt="redis" />](https://github.com/redis/redis) | c | 47,538 | 2,709 | 18,815 | 69,062|
-|3|[<img src="https://img.shields.io/badge/-mongodb-000?style=flat&logo=mongodb" alt="mongodb" />](https://github.com/mongodb/mongo) | c++ | 19,328 | 1,240 | 4,725 | 25,293|
+|3|[<img src="https://img.shields.io/badge/-mongodb-000?style=flat&logo=mongodb" alt="mongodb" />](https://github.com/mongodb/mongo) | c++ | 19,329 | 1,240 | 4,725 | 25,294|
 |4|[<img src="https://img.shields.io/badge/-postgresql-000?style=flat&logo=postgresql" alt="postgresql" />](https://github.com/postgres/postgres) | c | 7,948 | 477 | 2,606 | 11,031|
 
 ## DEVOPS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-visualstudiocode-000?style=flat&logo=visual-studio-code" alt="visual-studio-code" />](https://github.com/microsoft/vscode) | typescript | 111,445 | 3,080 | 18,102 | 132,627|
-|2|[<img src="https://img.shields.io/badge/-git-000?style=flat&logo=git" alt="git" />](https://github.com/git/git) | c | 36,025 | 2,275 | 20,922 | 59,222|
+|1|[<img src="https://img.shields.io/badge/-visualstudiocode-000?style=flat&logo=visual-studio-code" alt="visual-studio-code" />](https://github.com/microsoft/vscode) | typescript | 111,445 | 3,079 | 18,102 | 132,626|
+|2|[<img src="https://img.shields.io/badge/-git-000?style=flat&logo=git" alt="git" />](https://github.com/git/git) | c | 36,025 | 2,275 | 20,923 | 59,223|
 |3|[<img src="https://img.shields.io/badge/-dockercompose-000?style=flat&logo=docker-compose" alt="docker-compose" />](https://github.com/docker/compose) | python | 21,910 | 691 | 3,643 | 26,244|
 |4|[<img src="https://img.shields.io/badge/-docker-000?style=flat&logo=docker" alt="docker" />](https://github.com/jenkinsci/docker) | shell | 4,177 | 302 | 3,113 | 7,592|
 

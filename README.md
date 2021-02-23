@@ -6,10 +6,10 @@
 
 **CALENDAR**
 
-- Current weather is haze.
-- Temperature is 23°C.
-- Feels Like 23.12°C.
-- Air Visual is 158.
+- Current weather is broken clouds.
+- Temperature is 24°C.
+- Feels Like 23.73°C.
+- Air Visual is 152.
 
 **WEATHER**
 
@@ -30,33 +30,33 @@
 - [Hướng dương ngược nắng tập 31](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
 - [Juventus](https://www.google.com/search?q=Juventus)
 - [Kim So Hyun](https://www.google.com/search?q=Kim%20So%20Hyun)
+- [Liverpool](https://www.google.com/search?q=Liverpool)
 - [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
 - [Man City](https://www.google.com/search?q=Man%20City)
 - [Minh Nhựa](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
 - [PS5](https://www.google.com/search?q=PS5)
 - [PSG](https://www.google.com/search?q=PSG)
-- [Phùng Anh Lê](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
-- [Phương Ly](https://www.google.com/search?q=Ph%C6%B0%C6%A1ng%20Ly)
 - [Sevilla](https://www.google.com/search?q=Sevilla)
 - [Sơn Tùng](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [Vietcombank](https://www.google.com/search?q=Vietcombank)
 - [VietinBank](https://www.google.com/search?q=VietinBank)
 - [iPhone 13](https://www.google.com/search?q=iPhone%2013)
+- [Đại tá Phùng Anh Lê](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20Ph%C3%B9ng%20Anh%20L%C3%AA)
 
 </td><td valign="top" width="33%">
 
 **NEWS**
 
+- [Đà Nẵng sẽ truy tố trách nhiệm hình sự trường hợp khai báo y tế gian dối](http://vietnamnet.vn/vn/thoi-su/da-nang-se-truy-to-trach-nhiem-hinh-su-truong-hop-khai-bao-y-te-gian-doi-714858.html) ([VietNamNet](https://vietnamnet.vn))
+- [Doanh nghiệp san lấp trái phép 16.000 m2 ở vịnh Bái Tử Long](https://vnexpress.net/doanh-nghiep-san-lap-trai-phep-16-000-m2-o-vinh-bai-tu-long-4238973.html) ([VNExpress](https://vnexpress.net))
+- [Nâng lên tận mây xanh, bỏ ra cả tỷ USD đầu tư rồi sau đó lại đăng tweet dìm Bitcoin khiến tài sản bốc hơi 15 tỷ USD: Elon Musk đang toan tính gì?](https://cafebiz.vn/nang-len-tan-may-xanh-bo-ra-ca-ty-usd-dau-tu-roi-sau-do-lai-dang-tweet-dim-bitcoin-khien-tai-san-boc-hoi-15-ty-usd-elon-musk-dang-toan-tinh-gi-20210223120444075.chn) ([CafeBiz](https://cafebiz.vn))
+- [9 ngân hàng Việt lọt Top 500 ngân hàng đắt giá nhất hành tinh, Agribank đứng đầu bảng thị trường Việt Nam, bỏ xa VietinBank, VPBank, BIDV](https://cafebiz.vn/9-ngan-hang-viet-lot-top-500-ngan-hang-dat-gia-nhat-hanh-tinh-agribank-dung-dau-bang-thi-truong-viet-nam-bo-xa-vietinbank-vpbank-bidv-20210223114522569.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hai sở phải kiểm điểm vì tham mưu trái quy định](https://vnexpress.net/hai-so-phai-kiem-diem-vi-tham-muu-trai-quy-dinh-4238930.html) ([VNExpress](https://vnexpress.net))
+- [TP Hải Dương ghi nhận thêm 2 trường hợp nghi nhiễm COVID-19](https://tuoitre.vn/tp-hai-duong-ghi-nhan-them-2-truong-hop-nghi-nhiem-covid-19-20210223112134243.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [11 nhóm đối tượng được ưu tiên tiêm vắc xin COVID-19 tại Việt Nam](https://tuoitre.vn/11-nhom-doi-tuong-duoc-uu-tien-tiem-vac-xin-covid-19-tai-viet-nam-20210223111717216.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Real Madrid: Zidane không thể mang “hàng nóng” sang Italia](https://laodong.vn/bong-da-quoc-te/real-madrid-zidane-khong-the-mang-hang-nong-sang-italia-882782.ldo) ([Lao Động](https://laodong.vn))
 - [Nhóm đối tượng nào được ưu tiên tiêm vaccine COVID-19 ở Việt Nam?](https://laodong.vn/infographic/nhom-doi-tuong-nao-duoc-uu-tien-tiem-vaccine-covid-19-o-viet-nam-882775.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng phát thông báo khẩn tìm người đến 19 điểm liên quan ca COVID-19](https://laodong.vn/xa-hoi/hai-phong-phat-thong-bao-khan-tim-nguoi-den-19-diem-lien-quan-ca-covid-19-882808.ldo) ([Lao Động](https://laodong.vn))
-- [Top vua phá lưới Serie A 2020/21: Lukaku soán ngôi Ronaldo bất thành](https://laodong.vn/photo/top-vua-pha-luoi-serie-a-202021-lukaku-soan-ngoi-ronaldo-bat-thanh-882809.ldo) ([Lao Động](https://laodong.vn))
-- [Xét nghiệm COVID-19 cho thanh niên Thủ đô trước khi nhập ngũ](https://laodong.vn/photo/xet-nghiem-covid-19-cho-thanh-nien-thu-do-truoc-khi-nhap-ngu-882788.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội xét nghiệm SARS-CoV-2 cho tân binh nhập ngũ](https://laodong.vn/xa-hoi/ha-noi-xet-nghiem-sars-cov-2-cho-tan-binh-nhap-ngu-882791.ldo) ([Lao Động](https://laodong.vn))
-- [SoftBank muốn mua lại 25% cổ phần của nhà sáng lập WeWork](https://cafebiz.vn/softbank-muon-mua-lai-25-co-phan-cua-nha-sang-lap-wework-2021022310261277.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tự nhận "mù công nghệ, chậm chạp", Hoài Linh đạt nửa triệu "súp" sau 2 tuần chơi YouTube, thu về toàn clip triệu view trên Tiktok sau 1 tuần](https://cafebiz.vn/tu-nhan-mu-cong-nghe-cham-chap-hoai-linh-dat-nua-trieu-sup-sau-2-tuan-choi-youtube-thu-ve-toan-clip-trieu-view-tren-tiktok-sau-1-tuan-20210223112221858.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đề xuất xây đường hầm cao tốc dưới sông Tô Lịch: Táo bạo nhưng có khả thi?](https://laodong.vn/xa-hoi/de-xuat-xay-duong-ham-cao-toc-duoi-song-to-lich-tao-bao-nhung-co-kha-thi-882657.ldo) ([Lao Động](https://laodong.vn))
-- [Elon Musk: Tốc độ internet của Starlink sẽ tăng gấp đôi trong năm nay](https://cafebiz.vn/elon-musk-toc-do-internet-cua-starlink-se-tang-gap-doi-trong-nam-nay-20210223102856464.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
