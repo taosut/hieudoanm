@@ -16,8 +16,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 24.21°C.
-- Air Visual is 167.
+- Feels Like 23.84°C.
+- Air Visual is 157.
 
 **WEATHER**
 
@@ -52,6 +52,7 @@
 - [![Hướng dương ngược nắng tập 31](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
+- [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Map](https://img.shields.io/static/v1?label=Map&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Map)
@@ -62,22 +63,21 @@
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [![Vietcombank](https://img.shields.io/static/v1?label=Vietcombank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietcombank)
 - [![VietinBank](https://img.shields.io/static/v1?label=VietinBank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VietinBank)
-- [![iPhone 13](https://img.shields.io/static/v1?label=iPhone%2013&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iPhone%2013)
 
 </td><td valign="top" width="33%">
 
 **NEWS**
 
+- [Hải Phòng phun hóa chất khử khuẩn trên diện rộng](https://vnexpress.net/hai-phong-phun-hoa-chat-khu-khuan-tren-dien-rong-4239208.html) ([VNExpress](https://vnexpress.net))
+- [Người Mỹ nghĩ gì về chiến lược của ông Biden đối với Trung Quốc?](https://laodong.vn/the-gioi/nguoi-my-nghi-gi-ve-chien-luoc-cua-ong-biden-doi-voi-trung-quoc-882905.ldo) ([Lao Động](https://laodong.vn))
+- [Tâm điểm cổ phiếu 23.2: GVR “cứu” VN-Index](https://laodong.vn/kinh-te/tam-diem-co-phieu-232-gvr-cuu-vn-index-883004.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ trưởng Bộ Y tế: Thời gian ngắn nữa Việt Nam sẽ chiến thắng đợt dịch Covid-19 thứ 3](https://cafebiz.vn/bo-truong-bo-y-te-thoi-gian-ngan-nua-viet-nam-se-chien-thang-dot-dich-covid-19-thu-3-20210223193910318.chn) ([CafeBiz](https://cafebiz.vn))
 - [Afghanistan bắt đầu tiêm chủng vaccine trong bối cảnh bạo lực gia tăng](https://laodong.vn/the-gioi/afghanistan-bat-dau-tiem-chung-vaccine-trong-boi-canh-bao-luc-gia-tang-882935.ldo) ([Lao Động](https://laodong.vn))
 - [Kiến nghị sớm ký phụ lục hợp đồng 19 để tiếp tục đào tạo lái tàu metro số 1](https://tuoitre.vn/kien-nghi-som-ky-phu-luc-hop-dong-19-de-tiep-tuc-dao-tao-lai-tau-metro-so-1-20210223183853256.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Cần Thơ: Khởi tố nguyên Phó đội trưởng kiểm tra thuế quận Ninh Kiều](https://laodong.vn/phap-luat/can-tho-khoi-to-nguyen-pho-doi-truong-kiem-tra-thue-quan-ninh-kieu-883005.ldo) ([Lao Động](https://laodong.vn))
 - [Không phải Lưu Bị, mưu sĩ từng bị Tào Tháo lừa này mới là quý nhân của cuộc đời Gia Cát Lượng](https://cafebiz.vn/khong-phai-luu-bi-muu-si-tung-bi-tao-thao-lua-nay-moi-la-quy-nhan-cua-cuoc-doi-gia-cat-luong-20210223143600879.chn) ([CafeBiz](https://cafebiz.vn))
 - [Australia kiên quyết không thay đổi dự luật về Facebook, Google](https://cafebiz.vn/australia-kien-quyet-khong-thay-doi-du-luat-ve-facebook-google-20210223184146026.chn) ([CafeBiz](https://cafebiz.vn))
 - [Dành quỹ đất gần 20.000 m2 bảo tồn di tích Chăm](https://vnexpress.net/danh-quy-dat-gan-20-000-m2-bao-ton-di-tich-cham-4239111.html) ([VNExpress](https://vnexpress.net))
-- [Giáo dục 24/7: Lịch tuyển sinh trực tuyến lớp 1 và lớp 6 tại Hà Nội](https://laodong.vn/video-thoi-su/giao-duc-247-lich-tuyen-sinh-truc-tuyen-lop-1-va-lop-6-tai-ha-noi-882960.ldo) ([Lao Động](https://laodong.vn))
-- [Đề nghị Hải Dương tập trung xét nghiệm khu vực nguy cơ cao](https://vnexpress.net/de-nghi-hai-duong-tap-trung-xet-nghiem-khu-vuc-nguy-co-cao-4239143.html) ([VNExpress](https://vnexpress.net))
-- [Producer beat Lucky tung video so sánh Có Chắc Yêu Là Đây, Sơn Tùng chối đạo nhạc kiểu gì bây giờ?](https://cafebiz.vn/producer-beat-lucky-tung-video-so-sanh-co-chac-yeu-la-day-son-tung-choi-dao-nhac-kieu-gi-bay-gio-20210223191600076.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo hội Phật giáo VN thử nghiệm cầu an trực tuyến](https://vnexpress.net/giao-hoi-phat-giao-vn-thu-nghiem-cau-an-truc-tuyen-4239166.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
