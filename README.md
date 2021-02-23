@@ -54,6 +54,7 @@
 
 **NEWS**
 
+- [Giáo hội Phật giáo VN thử nghiệm cầu an trực tuyến](https://vnexpress.net/giao-hoi-phat-giao-vn-thu-nghiem-cau-an-truc-tuyen-4239166.html) ([VNExpress](https://vnexpress.net))
 - [Thái Bình: &quot;Bà hỏa&quot; thiêu rụi nhà xưởng rộng hơn 300m2](https://laodong.vn/xa-hoi/thai-binh-ba-hoa-thieu-rui-nha-xuong-rong-hon-300m2-882980.ldo) ([Lao Động](https://laodong.vn))
 - [Chuẩn bị hội thảo kỷ niệm 50 năm Chiến thắng Đường 9 - Nam Lào](https://laodong.vn/xa-hoi/chuan-bi-hoi-thao-ky-niem-50-nam-chien-thang-duong-9-nam-lao-882981.ldo) ([Lao Động](https://laodong.vn))
 - [Tránh lợi dụng "giải cứu" ép giá nông dân, Hải Dương công bố giá bán nông sản](https://cafebiz.vn/tranh-loi-dung-giai-cuu-ep-gia-nong-dan-hai-duong-cong-bo-gia-ban-nong-san-20210223183504504.chn) ([CafeBiz](https://cafebiz.vn))
@@ -63,7 +64,6 @@
 - [Ai từng đến 19 địa điểm này xin liên hệ y tế](https://tuoitre.vn/ai-tung-den-19-dia-diem-nay-xin-lien-he-y-te-20210223182144247.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tin bóng đá tối 23.2: Tottenham chốt thời điểm &quot;thanh lý” Mourinho](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-232-tottenham-chot-thoi-diem-thanh-ly-mourinho-882934.ldo) ([Lao Động](https://laodong.vn))
 - [2 phương án chuẩn bị cho V.League 2021 trở lại](https://laodong.vn/bong-da/2-phuong-an-chuan-bi-cho-vleague-2021-tro-lai-882939.ldo) ([Lao Động](https://laodong.vn))
-- [Nhà Trắng đáp lời Bắc Kinh về quan hệ Mỹ-Trung](https://laodong.vn/the-gioi/nha-trang-dap-loi-bac-kinh-ve-quan-he-my-trung-882969.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
