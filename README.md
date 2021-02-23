@@ -8,8 +8,8 @@
 
 - Current weather is mist.
 - Temperature is 21°C.
-- Feels Like 22.31°C.
-- Air Visual is 152.
+- Feels Like 21.94°C.
+- Air Visual is 97.
 
 **WEATHER**
 
@@ -47,16 +47,16 @@
 
 **NEWS**
 
+- [Chim sẻ cũng có thể đẻ trứng phượng hoàng: Bí kíp kinh doanh kiếm bộn tiền  từ việc phá dỡ chung cư cũ của một chủ thầu xây dựng nhỏ](https://cafebiz.vn/chim-se-cung-co-the-de-trung-phuong-hoang-bi-kip-kinh-doanh-kiem-bon-tien-tu-viec-pha-do-chung-cu-cu-cua-mot-chu-thau-xay-dung-nho-20210223094957385.chn) ([CafeBiz](https://cafebiz.vn))
+- [Động thái đầu tiên từ người khiếu nại bản quyền MV của Sơn Tùng MTP](https://laodong.vn/giai-tri/dong-thai-dau-tien-tu-nguoi-khieu-nai-ban-quyen-mv-cua-son-tung-mtp-882748.ldo) ([Lao Động](https://laodong.vn))
+- [Nhân vật bí ẩn GC thẳng tay &quot;đánh&quot; bản quyền MV của Sơn Tùng M-TP là ai?](https://laodong.vn/giai-tri/nhan-vat-bi-an-gc-thang-tay-danh-ban-quyen-mv-cua-son-tung-m-tp-la-ai-882732.ldo) ([Lao Động](https://laodong.vn))
+- [Người dân Tây Tựu xót xa nhìn hoa rằm tháng Giêng vứt đầy đường](https://tuoitre.vn/nguoi-dan-tay-tuu-xot-xa-nhin-hoa-ram-thang-gieng-vut-day-duong-20210222220241612.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tòa án tối cao Mỹ có động thái về hồ sơ thuế của ông Trump](https://laodong.vn/the-gioi/toa-an-toi-cao-my-co-dong-thai-ve-ho-so-thue-cua-ong-trump-882741.ldo) ([Lao Động](https://laodong.vn))
+- [Congo chỉ đích danh thủ phạm tấn công đoàn xe làm Đại sứ Italia thiệt mạng](https://laodong.vn/the-gioi/congo-chi-dich-danh-thu-pham-tan-cong-doan-xe-lam-dai-su-italia-thiet-mang-882743.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiều doanh nghiệp “khát” lao động ngay từ những ngày đầu năm](https://laodong.vn/cong-doan/nhieu-doanh-nghiep-khat-lao-dong-ngay-tu-nhung-ngay-dau-nam-882649.ldo) ([Lao Động](https://laodong.vn))
 - [Người dân Texas vẫn chưa hết rắc rối sau đợt băng giá kỷ lục](https://laodong.vn/the-gioi/nguoi-dan-texas-van-chua-het-rac-roi-sau-dot-bang-gia-ky-luc-882726.ldo) ([Lao Động](https://laodong.vn))
-- [Bảo vệ trước hết lực lượng tuyến đầu chống dịch](https://laodong.vn/xa-hoi/bao-ve-truoc-het-luc-luong-tuyen-dau-chong-dich-882641.ldo) ([Lao Động](https://laodong.vn))
 - [Anh Đức tiết lộ lý do gia nhập câu lạc bộ Long An](https://laodong.vn/video-the-thao/anh-duc-tiet-lo-ly-do-gia-nhap-cau-lac-bo-long-an-882706.ldo) ([Lao Động](https://laodong.vn))
-- [TP.Hồ Chí Minh: Cần khoảng 70.000-75.000 việc làm trong quý I/2021](https://laodong.vn/cong-doan/tpho-chi-minh-can-khoang-70000-75000-viec-lam-trong-quy-i2021-882644.ldo) ([Lao Động](https://laodong.vn))
-- [Nhóm ứng viên nào có mức lương chịu ảnh hưởng nhiều nhất từ COVID-19?](https://laodong.vn/cong-doan/nhom-ung-vien-nao-co-muc-luong-chiu-anh-huong-nhieu-nhat-tu-covid-19-882730.ldo) ([Lao Động](https://laodong.vn))
 - [Những nơi nên trải nghiệm ở miền nắng gió](https://cafebiz.vn/nhung-noi-nen-trai-nghiem-o-mien-nang-gio-20210222171838035.chn) ([CafeBiz](https://cafebiz.vn))
-- [“Lỡ tay” bình luận giá Bitcoin đang quá cao, Elon Musk mất 15 tỷ USD, rơi khỏi vị trí người giàu nhất thế giới](https://cafebiz.vn/lo-tay-binh-luan-gia-bitcoin-dang-qua-cao-elon-musk-mat-15-ty-usd-roi-khoi-vi-tri-nguoi-giau-nhat-the-gioi-202102230822127.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Phòng quyết liệt, Hải Dương lao đao](https://tuoitre.vn/hai-phong-quyet-liet-hai-duong-lao-dao-20210223083314803.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nữ bác sĩ tự đánh thuốc mê mình rồi đăng lên MXH để cảnh báo nạn xâm hại tình dục, chưa kịp cảnh báo đã bị cảnh sát "sờ gáy"](https://cafebiz.vn/nu-bac-si-tu-danh-thuoc-me-minh-roi-dang-len-mxh-de-canh-bao-nan-xam-hai-tinh-duc-chua-kip-canh-bao-da-bi-canh-sat-so-gay-20210223091320437.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chui trên cabin xe tải trốn cách ly khi nhập cảnh vào Việt Nam](https://tuoitre.vn/chui-tren-cabin-xe-tai-tron-cach-ly-khi-nhap-canh-vao-viet-nam-20210223082620466.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
