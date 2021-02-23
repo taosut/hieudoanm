@@ -15,8 +15,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 24.88°C.
-- Air Visual is 144.
+- Feels Like 24.48°C.
+- Air Visual is 156.
 
 **WEATHER**
 
@@ -54,16 +54,16 @@
 
 **NEWS**
 
+- [Phạt một nhân viên y tế ở Lai Châu khai báo y tế gian dối](https://laodong.vn/xa-hoi/phat-mot-nhan-vien-y-te-o-lai-chau-khai-bao-y-te-gian-doi-882970.ldo) ([Lao Động](https://laodong.vn))
+- [Nhà Trắng đáp lời Bắc Kinh về quan hệ Mỹ-Trung](https://laodong.vn/the-gioi/nha-trang-dap-loi-bac-kinh-ve-quan-he-my-trung-882969.ldo) ([Lao Động](https://laodong.vn))
+- [Phó Thủ tướng Vũ Đức Đam: 'Không thể tuyệt đối không có mầm bệnh trong cộng đồng'](https://tuoitre.vn/pho-thu-tuong-vu-duc-dam-khong-the-tuyet-doi-khong-co-mam-benh-trong-cong-dong-20210223171412725.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chiều 23-2, thêm 6 ca COVID-19 mới ở Quảng Ninh và Hải Dương](https://tuoitre.vn/chieu-23-2-them-6-ca-covid-19-moi-o-quang-ninh-va-hai-duong-20210223181120742.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chiều 23/2, có thêm 6 ca mắc COVID-19 tại Quảng Ninh và Hải Dương](https://cafebiz.vn/chieu-23-2-co-them-6-ca-mac-covid-19-tai-quang-ninh-va-hai-duong-20210223180554772.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tìm được thi thể bác sĩ trẻ mất tích khi đi câu cá](https://laodong.vn/xa-hoi/tim-duoc-thi-the-bac-si-tre-mat-tich-khi-di-cau-ca-882965.ldo) ([Lao Động](https://laodong.vn))
 - [Tia cực tím đạt cực đại nhiều ngày ở TPHCM: Chuyên gia nói gì?](https://laodong.vn/video/tia-cuc-tim-dat-cuc-dai-nhieu-ngay-o-tphcm-chuyen-gia-noi-gi-882895.ldo) ([Lao Động](https://laodong.vn))
 - [Đoàn tàu thứ ba tuyến metro Nhổn - ga Hà Nội đã được đưa lên đường ray](https://laodong.vn/giao-thong/doan-tau-thu-ba-tuyen-metro-nhon-ga-ha-noi-da-duoc-dua-len-duong-ray-882961.ldo) ([Lao Động](https://laodong.vn))
-- [Phim của Đặng Luân, Tiêu Chiến hậu công chiếu: Thành tích đi kèm ồn ào](https://laodong.vn/giai-tri/phim-cua-dang-luan-tieu-chien-hau-cong-chieu-thanh-tich-di-kem-on-ao-882947.ldo) ([Lao Động](https://laodong.vn))
-- [Đức góp thêm 1,8 tỉ USD cho cuộc chiến chống COVID-19](https://laodong.vn/the-gioi/duc-gop-them-18-ti-usd-cho-cuoc-chien-chong-covid-19-882949.ldo) ([Lao Động](https://laodong.vn))
 - ['Đề nghị Hải Phòng tháo gỡ cho xe chở hàng từ Hải Dương'](https://vnexpress.net/de-nghi-hai-phong-thao-go-cho-xe-cho-hang-tu-hai-duong-4239041.html) ([VNExpress](https://vnexpress.net))
 - [HĐND TP HCM giảm 10 đại biểu so với nhiệm kỳ trước](https://vnexpress.net/hdnd-tp-hcm-giam-10-dai-bieu-so-voi-nhiem-ky-truoc-4239197.html) ([VNExpress](https://vnexpress.net))
-- [Cơn đau đầu của các nhà tuyển dụng: 52% người lao động sẽ đi tìm việc trong 3 – 6 tháng tới, lương thưởng là mối quan tâm hàng đầu!](https://cafebiz.vn/con-dau-dau-cua-cac-nha-tuyen-dung-52-nguoi-lao-dong-se-di-tim-viec-trong-3-6-thang-toi-luong-thuong-la-moi-quan-tam-hang-dau-20210223155905379.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những trang nhất gây choáng của New York Times về COVID-19](https://cafebiz.vn/nhung-trang-nhat-gay-choang-cua-new-york-times-ve-covid-19-20210223171236234.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hủy nhiều tàu do vắng khách](https://vnexpress.net/huy-nhieu-tau-do-vang-khach-4239156.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
