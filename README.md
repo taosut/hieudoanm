@@ -8,8 +8,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 25.5°C.
-- Air Visual is 121.
+- Feels Like 25.08°C.
+- Air Visual is 131.
 
 **WEATHER**
 
@@ -23,9 +23,10 @@
 **GOOGLE TRENDS**
 
 - [Anh Đức](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
-- [BIDV](https://www.google.com/search?q=BIDV)
-- [Btc](https://www.google.com/search?q=Btc)
+- [BTC](https://www.google.com/search?q=BTC)
+- [Barca](https://www.google.com/search?q=Barca)
 - [COVID Hải Phòng](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
+- [Cúng Rằm tháng Giêng](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [Daft Punk](https://www.google.com/search?q=Daft%20Punk)
 - [Hướng dương ngược nắng tập 31](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
 - [Juventus](https://www.google.com/search?q=Juventus)
@@ -36,7 +37,6 @@
 - [Minh Nhựa](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
 - [PS5](https://www.google.com/search?q=PS5)
 - [Phạm Băng Băng](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
-- [Sevilla](https://www.google.com/search?q=Sevilla)
 - [Sơn Tùng](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [Vietcombank](https://www.google.com/search?q=Vietcombank)
 - [VietinBank](https://www.google.com/search?q=VietinBank)
@@ -47,16 +47,16 @@
 
 **NEWS**
 
-- [Tiền điện phải “gánh” chi phí bù giá cho năng lượng tái tạo?](https://laodong.vn/kinh-te/tien-dien-phai-ganh-chi-phi-bu-gia-cho-nang-luong-tai-tao-882860.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ tòa án tìm vợ "đại gia Minh Nhựa", pháp luật giải quyết thế nào?](https://cafebiz.vn/vu-toa-an-tim-vo-dai-gia-minh-nhua-phap-luat-giai-quyet-the-nao-20210223154211138.chn) ([CafeBiz](https://cafebiz.vn))
-- [Các nhà máy của LG tại Việt Nam đạt doanh thu gần 5 tỷ USD sau 9 tháng, vượt cả năm 2019](https://cafebiz.vn/cac-nha-may-cua-lg-tai-viet-nam-dat-doanh-thu-gan-5-ty-usd-sau-9-thang-vuot-ca-nam-2019-20210223154156653.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giải K.League Hàn Quốc không bán được bản quyền tại Việt Nam](https://laodong.vn/bong-da/giai-kleague-han-quoc-khong-ban-duoc-ban-quyen-tai-viet-nam-882879.ldo) ([Lao Động](https://laodong.vn))
-- [Cầu cho không bùng phát dịch COVID-19 cũng là cầu an](https://laodong.vn/su-kien-binh-luan/cau-cho-khong-bung-phat-dich-covid-19-cung-la-cau-an-882861.ldo) ([Lao Động](https://laodong.vn))
-- [Cái kết bất ngờ cuộc chiến Facebook - Australia](https://laodong.vn/the-gioi/cai-ket-bat-ngo-cuoc-chien-facebook-australia-882882.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam tiến tới tiêm miễn phí vaccine Covid-19](https://vnexpress.net/viet-nam-tien-toi-tiem-mien-phi-vaccine-covid-19-4239114.html) ([VNExpress](https://vnexpress.net))
-- [Bắc Ninh: Tạm thời khống chế được dịch bệnh, song không được chủ quan](https://laodong.vn/y-te/bac-ninh-tam-thoi-khong-che-duoc-dich-benh-song-khong-duoc-chu-quan-882868.ldo) ([Lao Động](https://laodong.vn))
-- [Sang trọng - sành điệu cùng bộ sưu tập váy hè mẹ và bé của tiệm váy 137 KIDS](https://cafebiz.vn/sang-trong-sanh-dieu-cung-bo-suu-tap-vay-he-me-va-be-cua-tiem-vay-137-kids-20210223121135466.chn) ([CafeBiz](https://cafebiz.vn))
-- [“Mẹ ơi, Tết này con sẽ về!”: Tết thực sự đến khi ta được về nhà](https://cafebiz.vn/me-oi-tet-nay-con-se-ve-tet-thuc-su-den-khi-ta-duoc-ve-nha-20210223104859529.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hình bóng doanh nhân Kiều Xuân Nam tại dự án 800 tỷ ở Đồng Hới](https://cafebiz.vn/hinh-bong-doanh-nhan-kieu-xuan-nam-tai-du-an-800-ty-o-dong-hoi-20210223162005746.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vắc-xin Covid-19: "Đơn vị tiền tệ mới"](https://cafebiz.vn/vac-xin-covid-19-don-vi-tien-te-moi-20210223161950046.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vì sao xe không lưu thông trên cao tốc Trung Lương – Mỹ Thuận dịp Tết?](https://laodong.vn/xa-hoi/vi-sao-xe-khong-luu-thong-tren-cao-toc-trung-luong--my-thuan-dip-tet-882903.ldo) ([Lao Động](https://laodong.vn))
+- [Trẻ sinh ra trong hoàn cảnh gia đình không trọn vẹn dễ bị xâm hại](https://laodong.vn/phap-luat/tre-sinh-ra-trong-hoan-canh-gia-dinh-khong-tron-ven-de-bi-xam-hai-882858.ldo) ([Lao Động](https://laodong.vn))
+- [TP Hải Phòng tiếp tế gần 8 tấn gạo, thịt cho người dân khu phong tỏa](https://cafebiz.vn/tp-hai-phong-tiep-te-gan-8-tan-gao-thit-cho-nguoi-dan-khu-phong-toa-202102231610225.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: Hàng hoá sôi động sau Tết, sức mua tăng](https://laodong.vn/thi-truong/tphcm-hang-hoa-soi-dong-sau-tet-suc-mua-tang-882891.ldo) ([Lao Động](https://laodong.vn))
+- [Thêm 2 ca dương tính SARS-CoV-2 đều làm nghề bán cá ở chợ, TP. Hải Dương phát thông báo khẩn](https://cafebiz.vn/them-2-ca-duong-tinh-sars-cov-2-deu-lam-nghe-ban-ca-o-cho-tp-hai-duong-phat-thong-bao-khan-20210223160641541.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng:  Chuẩn bị sẵn sàng kinh phí để mua vắc xin cho người dân](https://laodong.vn/xa-hoi/hai-phong-chuan-bi-san-sang-kinh-phi-de-mua-vac-xin-cho-nguoi-dan-882900.ldo) ([Lao Động](https://laodong.vn))
+- [Chỉnh sửa ảnh trên Facebook để lừa đảo mua iPhone 11](https://laodong.vn/phap-luat/chinh-sua-anh-tren-facebook-de-lua-dao-mua-iphone-11-882886.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ đại gia Minh Nhựa đơn phương ly hôn, yêu cầu tòa tuyên bố “vợ mất tích”: Ông Minh có thể bị phạt vì chưa ly hôn đã sống như vợ chồng với người khác](https://cafebiz.vn/vu-dai-gia-minh-nhua-don-phuong-ly-hon-yeu-cau-toa-tuyen-bo-vo-mat-tich-ong-minh-co-the-bi-phat-vi-chua-ly-hon-da-song-nhu-vo-chong-voi-nguoi-khac-20210223160127183.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
