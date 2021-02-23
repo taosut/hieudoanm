@@ -8,16 +8,16 @@
   <a href="https://github.com/vietnamdb/vietnamdb/tree/master/docs/stacks">Stacks</a>
 </p>
 
-## NOW
+<h2 align="center">NOW</h2>
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is haze.
 - Temperature is 23°C.
-- Feels Like 23.84°C.
-- Air Visual is 159.
+- Feels Like 24.31°C.
+- Air Visual is 170.
 
 **WEATHER**
 
@@ -68,22 +68,22 @@
 
 **NEWS**
 
+- [Kinh tế 24h: Chợ dân sinh sau Tết, nơi ế ẩm nơi đắt hàng](https://laodong.vn/kinh-te/kinh-te-24h-cho-dan-sinh-sau-tet-noi-e-am-noi-dat-hang-883012.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương đề xuất Ấn Độ viện trợ vaccine phòng Covid-19](https://cafebiz.vn/hai-duong-de-xuat-an-do-vien-tro-vaccine-phong-covid-19-20210223183715843.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phó Thủ tướng Vũ Đức Đam: Tránh tình trạng xét nghiệm COVID-19 ồ ạt](https://laodong.vn/y-te/pho-thu-tuong-vu-duc-dam-tranh-tinh-trang-xet-nghiem-covid-19-o-at-882962.ldo) ([Lao Động](https://laodong.vn))
+- [Sà lan ‘khủng’ hiện đại công khai hút cát sát bờ](https://tuoitre.vn/sa-lan-khung-hien-dai-cong-khai-hut-cat-sat-bo-20210223183333658.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chuyên gia Trung Quốc đề xuất &quot;gái ế&quot; thành thị lấy trai quê](https://laodong.vn/the-gioi/chuyen-gia-trung-quoc-de-xuat-gai-e-thanh-thi-lay-trai-que-882844.ldo) ([Lao Động](https://laodong.vn))
+- [5 sai lầm mà các sếp mới "nhậm chức" cần tránh: Tin tôi đi, nhân viên họ biết hết đấy!](https://cafebiz.vn/5-sai-lam-ma-cac-sep-moi-nham-chuc-can-tranh-tin-toi-di-nhan-vien-ho-biet-het-day-2021022316003995.chn) ([CafeBiz](https://cafebiz.vn))
+- [WHO bồi thường cho người gặp phản ứng phụ sau tiêm vaccine COVID-19](https://cafebiz.vn/who-boi-thuong-cho-nguoi-gap-phan-ung-phu-sau-tiem-vaccine-covid-19-20210223184441532.chn) ([CafeBiz](https://cafebiz.vn))
+- [8 năm đẻ sòn sòn 5 đứa, mẹ bỉm Nhật vẫn tốt nghiệp Thạc sĩ Harvard: "Vũ khí bí mật" của phụ nữ hoá ra nằm ở điều này!](https://cafebiz.vn/8-nam-de-son-son-5-dua-me-bim-nhat-van-tot-nghiep-thac-si-harvard-vu-khi-bi-mat-cua-phu-nu-hoa-ra-nam-o-dieu-nay-20210223193008312.chn) ([CafeBiz](https://cafebiz.vn))
 - [Trưởng ban Tuyên giáo Trung ương chúc mừng ngành Y tế nhân ngày 27.2](https://laodong.vn/thoi-su/truong-ban-tuyen-giao-trung-uong-chuc-mung-nganh-y-te-nhan-ngay-272-882971.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng giãn cách xã hội một thôn giáp ranh ổ dịch mới ở Hải Dương](https://laodong.vn/xa-hoi/hai-phong-gian-cach-xa-hoi-mot-thon-giap-ranh-o-dich-moi-o-hai-duong-883013.ldo) ([Lao Động](https://laodong.vn))
-- [Giới thiệu hơn 1.000 người ứng cử Quốc hội khóa mới](https://vnexpress.net/gioi-thieu-hon-1-000-nguoi-ung-cu-quoc-hoi-khoa-moi-4239196.html) ([VNExpress](https://vnexpress.net))
-- [Sau "bão" đạo nhạc, MV Chúng Ta Của Hiện Tại của Sơn Tùng chính thức quay trở lại trên YouTube, lượt view có còn nguyên vẹn?](https://cafebiz.vn/sau-bao-dao-nhac-mv-chung-ta-cua-hien-tai-cua-son-tung-chinh-thuc-quay-tro-lai-tren-youtube-luot-view-co-con-nguyen-ven-2021022320063699.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Dương sẽ dừng hoạt động nhà máy ở Kim Thành không bảo đảm phòng dịch](https://laodong.vn/cong-doan/hai-duong-se-dung-hoat-dong-nha-may-o-kim-thanh-khong-bao-dam-phong-dich-883009.ldo) ([Lao Động](https://laodong.vn))
-- [Doanh nhân Mỹ 32 tuổi: 'Đây là 3 chiến lược xây dựng sự giàu có sau khi Covid-19 'bòn rút' những khoản chi tiêu của tôi!'](https://cafebiz.vn/doanh-nhan-my-32-tuoi-day-la-3-chien-luoc-xay-dung-su-giau-co-sau-khi-covid-19-bon-rut-nhung-khoan-chi-tieu-cua-toi-20210223193029096.chn) ([CafeBiz](https://cafebiz.vn))
-- [7 thói quen tuy nhỏ nhưng lại có thể làm tiêu hao ngân sách của bạn một cách đáng ngạc nhiên](https://cafebiz.vn/7-thoi-quen-tuy-nho-nhung-lai-co-the-lam-tieu-hao-ngan-sach-cua-ban-mot-cach-dang-ngac-nhien-20210223155811575.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cận cảnh nhan sắc đạt &quot;tỉ lệ vàng&quot; của Suzy](https://laodong.vn/photo/can-canh-nhan-sac-dat-ti-le-vang-cua-suzy-882771.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: Người dân Việt Nam sẽ được tiêm vaccine COVID-19 miễn phí](https://laodong.vn/video-thoi-su/nong-nhat-24h-nguoi-dan-viet-nam-se-duoc-tiem-vaccine-covid-19-mien-phi-882963.ldo) ([Lao Động](https://laodong.vn))
-- [Bất ngờ công dụng nhụy hoa nghệ tây ngâm mật ong](https://laodong.vn/suc-khoe/bat-ngo-cong-dung-nhuy-hoa-nghe-tay-ngam-mat-ong-882371.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng hỏa tốc về việc phương tiện, hàng hóa từ Hải Dương được xuống cảng](http://vietnamnet.vn/vn/thoi-su/hai-phong-hoa-toc-ve-viec-phuong-tien-hang-hoa-tu-hai-duong-duoc-xuong-cang-714973.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
 </td></tr></tbody></table>
 
-## TODAY
+<h2 align="center">TODAY</h2>
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
@@ -110,12 +110,12 @@
 02. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 03. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 04. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
-05. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-06. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-07. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
-08. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
-09. [Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]](https://www.youtube.com/watch?v=aXzVF3XeS8M) - [TaylorSwiftVEVO](https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg)
-10. [Ariana Grande - 34+35 Remix (feat. Doja Cat and Megan Thee Stallion) (Official Video)](https://www.youtube.com/watch?v=ssq6X6alZ3w) - [ArianaGrandeVevo](https://www.youtube.com/channel/UC0VOyT2OCBKdQhF3BAbZ-1g)
+05. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
+06. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+07. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+08. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
+09. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
+10. [Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]](https://www.youtube.com/watch?v=aXzVF3XeS8M) - [TaylorSwiftVEVO](https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -125,8 +125,8 @@
 
 01. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
 02. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-03. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2 [ Xuân Tân Sửu Tết 2021 ]](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
-04. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
+03. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
+04. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2 [ Xuân Tân Sửu Tết 2021 ]](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 05. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 06. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 07. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)

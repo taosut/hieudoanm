@@ -12,7 +12,8 @@ const city: string = 'Hanoi';
 
 const masterRepo: string = `https://github.com/vietnamdb/vietnamdb/tree/master`;
 
-export const syncArticles = async (): Promise<string> => {
+export const getNewsArticles = async (): Promise<string> => {
+  console.log('Build README - getNewsArticles()');
   const articles = await syncNews(10, false);
   return articles
     .map((article: any) => {
@@ -22,7 +23,8 @@ export const syncArticles = async (): Promise<string> => {
     .join('\n');
 };
 
-export const getLunarDate = async (): Promise<Record<string, any>> => {
+export const getLunarCalendar = async (): Promise<Record<string, any>> => {
+  console.log('Build README - getLunarCalendar()');
   const url: string = `${api}/culture/calendar/solar2lunar`;
   const { year: solarYear, month: solarMonth, date: solarDate } = getTime();
   const { year: lunarYear, month: lunarMonth, date: lunarDate } = await request(url, 'POST', {
@@ -46,6 +48,7 @@ export const getLunarDate = async (): Promise<Record<string, any>> => {
 };
 
 export const getVietcetera = async (): Promise<string> => {
+  console.log('Build README - getVietcetera()');
   const type: any = 'latest';
   const basicArticles: Array<Record<string, any>> = await vietcetera.getArticles({ type });
   const articles = basicArticles
@@ -60,6 +63,7 @@ export const getVietcetera = async (): Promise<string> => {
 };
 
 export const getYouTubeTrending = async (categoryId: number = 0): Promise<string> => {
+  console.log(`Build README - getYouTubeTrending(${categoryId})`);
   const link: string = `${api}/youtube/trending`;
   const url: string = categoryId ? `${link}?categoryId=${categoryId}` : link;
   const videos = await request(url);
@@ -74,6 +78,7 @@ export const getYouTubeTrending = async (categoryId: number = 0): Promise<string
 };
 
 export const getWeather = async (): Promise<Record<string, any>> => {
+  console.log('Build README - getWeather()');
   const url: string = `${api}/weather?city=${city}`;
   const { main = {}, weather = [] } = await request(url);
   const [first = {}] = weather;
@@ -83,6 +88,7 @@ export const getWeather = async (): Promise<Record<string, any>> => {
 };
 
 export const getAirVisual = async (): Promise<number> => {
+  console.log('Build README - getAirVisual()');
   const url: string = `${api}/weather/air-visual?city=${city}`;
   const { current = [] } = await request(url);
   const { pollution = {} } = current;
@@ -91,6 +97,7 @@ export const getAirVisual = async (): Promise<number> => {
 };
 
 export const getGoogleTrends = async (): Promise<string> => {
+  console.log('Build README - getGoogleTrends()');
   const url: string = `${api}/news/trends`;
   const { trends = [] } = await request(url);
   const md: string = trends
@@ -135,8 +142,8 @@ const getAll = (): Promise<Record<string, any>> => {
       getYouTubeTrending(),
       getYouTubeTrending(10),
       getVietcetera(),
-      getLunarDate(),
-      syncArticles(),
+      getLunarCalendar(),
+      getNewsArticles(),
       getWeather()
     ])
       .then(res => {
@@ -162,7 +169,7 @@ const getAll = (): Promise<Record<string, any>> => {
         });
       })
       .catch(error => {
-        console.log(error);
+        console.error('error', error);
         resolve({});
       });
   });
@@ -204,7 +211,7 @@ export const buildREADME = async () => {
   <a href="${masterRepo}/docs/stacks">Stacks</a>
 </p>
 
-## NOW
+<h2 align="center">NOW</h2>
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
@@ -242,7 +249,7 @@ ${articles}
 
 </td></tr></tbody></table>
 
-## TODAY
+<h2 align="center">TODAY</h2>
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
