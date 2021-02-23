@@ -47,16 +47,16 @@
 
 **NEWS**
 
+- [Gỡ phong toả điểm liên quan COVID-19 cuối cùng tại TPHCM](https://laodong.vn/photo/go-phong-toa-diem-lien-quan-covid-19-cuoi-cung-tai-tphcm-882827.ldo) ([Lao Động](https://laodong.vn))
+- [Bàn chuyện thu nhập của giới YouTuber, anh em 1977 Vlog thẳng thắn: "Người ta mỗi tháng có vài trăm triệu, còn chúng tôi bỏ vốn vài ba trăm nghìn thì thử tính xem bài toán có cân!?"](https://cafebiz.vn/ban-chuyen-thu-nhap-cua-gioi-youtuber-anh-em-1977-vlog-thang-than-nguoi-ta-moi-thang-co-vai-tram-trieu-con-chung-toi-bo-von-vai-ba-tram-nghin-thi-thu-tinh-xem-bai-toan-co-can-2021022314303841.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội: Người từ Hải Dương xét nghiệm âm tính SARS-CoV-2 có phải cách ly y tế?](https://cafebiz.vn/ha-noi-nguoi-tu-hai-duong-xet-nghiem-am-tinh-sars-cov-2-co-phai-cach-ly-y-te-20210223140256262.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuyên gia hé lộ nguyên nhân Mỹ vượt 500.000 ca tử vong do COVID-19](https://laodong.vn/the-gioi/chuyen-gia-he-lo-nguyen-nhan-my-vuot-500000-ca-tu-vong-do-covid-19-882806.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng: 20 đối tượng tụ tập trong quán bi-a, dương tính ma túy](https://laodong.vn/phap-luat/hai-phong-20-doi-tuong-tu-tap-trong-quan-bi-a-duong-tinh-ma-tuy-882843.ldo) ([Lao Động](https://laodong.vn))
+- [Cận cảnh 'nghề gieo nước biển' đầu năm ở phương Nam](https://cafebiz.vn/can-canh-nghe-gieo-nuoc-bien-dau-nam-o-phuong-nam-202102231423437.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đầu tư 20 tỷ vào chuỗi cầm đồ T99, Cao Thái Sơn là đại gia BĐS tiếng tăm của showbiz: Hỏi có bao nhiêu căn nhà như hỏi mình có bao nhiêu bài hát](https://cafebiz.vn/dau-tu-20-ty-vao-chuoi-cam-do-t99-cao-thai-son-la-dai-gia-bds-tieng-tam-cua-showbiz-hoi-co-bao-nhieu-can-nha-nhu-hoi-minh-co-bao-nhieu-bai-hat-20210223140147868.chn) ([CafeBiz](https://cafebiz.vn))
+- [Founder GoStream và FoodMap lọt vào danh sách 20 Gương mặt trẻ Việt Nam tiêu biểu năm 2020](https://cafebiz.vn/founder-gostream-va-foodmap-lot-vao-danh-sach-20-guong-mat-tre-viet-nam-tieu-bieu-nam-2020-20210223123817923.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lào Cai: Xe &quot;kẹp 3&quot; trốn cảnh sát cơ động, gây tai nạn giao thông](https://laodong.vn/phap-luat/lao-cai-xe-kep-3-tron-canh-sat-co-dong-gay-tai-nan-giao-thong-882798.ldo) ([Lao Động](https://laodong.vn))
 - [Vòng loại World Cup 2022: Tuyển Việt Nam ổn định, đối thủ nhiều thay đổi](https://laodong.vn/bong-da/vong-loai-world-cup-2022-tuyen-viet-nam-on-dinh-doi-thu-nhieu-thay-doi-882836.ldo) ([Lao Động](https://laodong.vn))
-- [Sơn Tùng lại thêm "đau đầu": Sau Chúng Ta Của Hiện Tại, đến lượt Có Chắc Yêu Là Đây cũng dính nghi vấn đạo nhạc?](https://cafebiz.vn/son-tung-lai-them-dau-dau-sau-chung-ta-cua-hien-tai-den-luot-co-chac-yeu-la-day-cung-dinh-nghi-van-dao-nhac-20210223141242895.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đội tuyển Việt Nam có phải cách ly khi dự Vòng loại World Cup 2022?](https://laodong.vn/bong-da/doi-tuyen-viet-nam-co-phai-cach-ly-khi-du-vong-loai-world-cup-2022-882710.ldo) ([Lao Động](https://laodong.vn))
-- [Chi tiết 4 bước cơ bản để sống mà không cần dùng tiền: Không dễ nhưng biết cách vẫn thực hiện được!](https://cafebiz.vn/chi-tiet-4-buoc-co-ban-de-song-ma-khong-can-dung-tien-khong-de-nhung-biet-cach-van-thuc-hien-duoc-20210222190343395.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chính phủ đã hạn chế được tình trạng “tiền trảm hậu tấu”](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/chinh-phu-da-han-che-duoc-tinh-trang-tien-tram-hau-tau-714878.html) ([VietNamNet](https://vietnamnet.vn))
-- [Hải Phòng phạt cô giáo về nhà chồng Tết mà không khai báo 10 triệu đồng](http://vietnamnet.vn/vn/thoi-su/hai-phong-phat-co-giao-ve-nha-chong-tet-ma-khong-khai-bao-10-trieu-dong-714882.html) ([VietNamNet](https://vietnamnet.vn))
-- [Kiên Giang: Nữ tân binh 9X duy nhất xung phong lên đường nhập ngũ](https://laodong.vn/xa-hoi/kien-giang-nu-tan-binh-9x-duy-nhat-xung-phong-len-duong-nhap-ngu-882767.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng: &quot;Mắt thần&quot; giao thông bắt gọn 50.000 trường hợp vi phạm](https://laodong.vn/xa-hoi/da-nang-mat-than-giao-thong-bat-gon-50000-truong-hop-vi-pham-882805.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao "thủ đô dầu mỏ" và năng lượng Texas thất thủ vì bão tuyết?](https://cafebiz.vn/vi-sao-thu-do-dau-mo-va-nang-luong-texas-that-thu-vi-bao-tuyet-20210223140056607.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đà Nẵng: Sẽ xử lý hình sự các trường hợp khai báo y tế gian dối](https://laodong.vn/xa-hoi/da-nang-se-xu-ly-hinh-su-cac-truong-hop-khai-bao-y-te-gian-doi-882839.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -87,8 +87,8 @@
 02. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 03. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 04. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
-05. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-06. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+05. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+06. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 07. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 08. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
 09. [Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]](https://www.youtube.com/watch?v=aXzVF3XeS8M) - [TaylorSwiftVEVO](https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg)
@@ -106,8 +106,8 @@
 06. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 07. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 08. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
-09. [Phim Hành Động Võ Thuật 2021 - SÁT THỦ ẨN DANH | Phim Chiếu Rạp Thuyết Minh Mới Nhất](https://www.youtube.com/watch?v=qSqv22xvfVU) - [Like Movies](https://www.youtube.com/channel/UCWDfO46yvUbLudW99_rVTBg)
-10. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
+09. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
+10. [Phim Hành Động Võ Thuật 2021 - SÁT THỦ ẨN DANH | Phim Chiếu Rạp Thuyết Minh Mới Nhất](https://www.youtube.com/watch?v=qSqv22xvfVU) - [Like Movies](https://www.youtube.com/channel/UCWDfO46yvUbLudW99_rVTBg)
 
 </td></tr></tbody></table>
 
