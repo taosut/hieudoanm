@@ -17,7 +17,7 @@
 - Current weather is mist.
 - Temperature is 21°C.
 - Feels Like 21.68°C.
-- Air Visual is 106.
+- Air Visual is 84.
 
 **WEATHER**
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
+- [Dự báo thời tiết 24/2: Miền Bắc tăng nhiệt, nóng đến 31 độ C](http://vietnamnet.vn/vn/thoi-su/du-bao-thoi-tiet-24-2-mien-bac-tang-nhiet-nong-den-31-do-c-714955.html) ([VietNamNet](https://vietnamnet.vn))
 - [Covid-19 ngày 24/2](https://vnexpress.net/covid-19-ngay-24-2-4239251.html) ([VNExpress](https://vnexpress.net))
 - [Thủ tướng lần đầu dự, phát biểu tại khuôn khổ Hội đồng Bảo an Liên Hợp Quốc](https://laodong.vn/thoi-su/thu-tuong-lan-dau-du-phat-bieu-tai-khuon-kho-hoi-dong-bao-an-lien-hop-quoc-883026.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương yêu cầu xử lý nghiêm F1 không khai báo trong vòng 24h](https://laodong.vn/xa-hoi/hai-duong-yeu-cau-xu-ly-nghiem-f1-khong-khai-bao-trong-vong-24h-883025.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương yêu cầu F1 phải khai báo y tế trong 24 giờ kể từ khi thông báo F0](https://tuoitre.vn/hai-duong-yeu-cau-f1-phai-khai-bao-y-te-trong-24-gio-ke-tu-khi-thong-bao-f0-20210223214556038.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [MacBook Pro năm nay có thiết kế mới, thêm khe thẻ SD, HDMI](https://tinhte.vn/thread/macbook-pro-nam-nay-co-thiet-ke-moi-them-khe-the-sd-hdmi.3281475/) ([Tinh Tế](https://tinhte.vn))
-- [Hà Nội vận động cán bộ, bếp ăn trường học đặt mua nông thủy sản Hải Dương, Quảng Ninh](https://tuoitre.vn/ha-noi-van-dong-can-bo-bep-an-truong-hoc-dat-mua-nong-thuy-san-hai-duong-quang-ninh-20210223202004779.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Người dùng Windows 10 đã có thể bật tắt bluetooth, volume… của điện thoại Android ngay trên máy tính](https://tinhte.vn/thread/nguoi-dung-windows-10-da-co-the-bat-tat-bluetooth-volume-cua-dien-thoai-android-ngay-tren-may-tinh.3281082/) ([Tinh Tế](https://tinhte.vn))
+- [Xem các chi tiết hệ thống gầm xe VinFast Lux A2.0](https://tinhte.vn/thread/xem-cac-chi-tiet-he-thong-gam-xe-vinfast-lux-a2-0.3028301/) ([Tinh Tế](https://tinhte.vn))
+- [Elon Musk nói rằng tốc độ Internet của Starlink sẽ được tăng gấp đôi và đạt 300Mbp trong năm nay](https://tinhte.vn/thread/elon-musk-noi-rang-toc-do-internet-cua-starlink-se-duoc-tang-gap-doi-va-dat-300mbp-trong-nam-nay.3281502/) ([Tinh Tế](https://tinhte.vn))
 - [Review chuột Microsoft Modern Mobile Mouse: Công nghệ Blue Track đáng tiền](https://tinhte.vn/thread/review-chuot-microsoft-modern-mobile-mouse-cong-nghe-blue-track-dang-tien.3279887/) ([Tinh Tế](https://tinhte.vn))
+- [Hải Dương yêu cầu xử lý nghiêm F1 không khai báo trong vòng 24h](https://laodong.vn/xa-hoi/hai-duong-yeu-cau-xu-ly-nghiem-f1-khong-khai-bao-trong-vong-24h-883025.ldo) ([Lao Động](https://laodong.vn))
 - [Facebook bỏ chặn người dùng Úc và đồng ý trả tiền cho các hãng tin.](https://tinhte.vn/thread/facebook-bo-chan-nguoi-dung-uc-va-dong-y-tra-tien-cho-cac-hang-tin.3281859/) ([Tinh Tế](https://tinhte.vn))
-- [Hải Dương: Động viên lực lượng tuyến đầu chống dịch và công nhân nhà trọ](https://laodong.vn/cong-doan/hai-duong-dong-vien-luc-luong-tuyen-dau-chong-dich-va-cong-nhan-nha-tro-883018.ldo) ([Lao Động](https://laodong.vn))
-- [Gần 24.600 phương tiện phải quay đầu khi vào Hải Phòng](https://laodong.vn/xa-hoi/gan-24600-phuong-tien-phai-quay-dau-khi-vao-hai-phong-883023.ldo) ([Lao Động](https://laodong.vn))
+- [Hiện tượng tâm lý mà ai cũng từng gặp phải - Hội chứng vịt con](https://tinhte.vn/thread/hien-tuong-tam-ly-ma-ai-cung-tung-gap-phai-hoi-chung-vit-con.3279977/) ([Tinh Tế](https://tinhte.vn))
 
 [Read More](docs/news/README.md)
 
