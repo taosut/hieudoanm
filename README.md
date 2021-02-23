@@ -8,8 +8,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 24.52°C.
-- Air Visual is 139.
+- Feels Like 24.81°C.
+- Air Visual is 120.
 
 **WEATHER**
 
@@ -24,7 +24,7 @@
 
 - [Anh Đức](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
 - [BIDV](https://www.google.com/search?q=BIDV)
-- [BTC](https://www.google.com/search?q=BTC)
+- [Btc](https://www.google.com/search?q=Btc)
 - [COVID Hải Phòng](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [Daft Punk](https://www.google.com/search?q=Daft%20Punk)
 - [Hướng dương ngược nắng tập 31](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
@@ -32,31 +32,31 @@
 - [Kim So Hyun](https://www.google.com/search?q=Kim%20So%20Hyun)
 - [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
 - [Man City](https://www.google.com/search?q=Man%20City)
+- [Map](https://www.google.com/search?q=Map)
 - [Minh Nhựa](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
 - [PS5](https://www.google.com/search?q=PS5)
-- [Phùng Anh Lê](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
 - [Phạm Băng Băng](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
-- [Sacombank](https://www.google.com/search?q=Sacombank)
 - [Sevilla](https://www.google.com/search?q=Sevilla)
 - [Sơn Tùng](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [Vietcombank](https://www.google.com/search?q=Vietcombank)
 - [VietinBank](https://www.google.com/search?q=VietinBank)
 - [iPhone 13](https://www.google.com/search?q=iPhone%2013)
+- [Đại tá Phùng Anh Lê](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20Ph%C3%B9ng%20Anh%20L%C3%AA)
 
 </td><td valign="top" width="33%">
 
 **NEWS**
 
-- [Tín hiệu mừng của nền kinh tế: 2/3 doanh nghiệp Việt được khảo sát có nhu cầu tuyển thêm nhân sự trong quý tới](https://cafebiz.vn/tin-hieu-mung-cua-nen-kinh-te-2-3-doanh-nghiep-viet-duoc-khao-sat-co-nhu-cau-tuyen-them-nhan-su-trong-quy-toi-20210223141707963.chn) ([CafeBiz](https://cafebiz.vn))
-- [Gương mặt trẻ Việt Nam tiêu biểu: Văn Quyết và cảm hứng cho người trẻ](https://laodong.vn/bong-da/guong-mat-tre-viet-nam-tieu-bieu-van-quyet-va-cam-hung-cho-nguoi-tre-882817.ldo) ([Lao Động](https://laodong.vn))
-- [P&amp;G tuyên bố kế hoạch hành động vì bình đẳng giới](https://laodong.vn/thong-tin-doanh-nghiep/pg-tuyen-bo-ke-hoach-hanh-dong-vi-binh-dang-gioi-882797.ldo) ([Lao Động](https://laodong.vn))
-- [Kiên Giang: Gặp cô gái 9X duy nhất xung phong lên đường nhập ngũ](https://laodong.vn/video/kien-giang-gap-co-gai-9x-duy-nhat-xung-phong-len-duong-nhap-ngu-882849.ldo) ([Lao Động](https://laodong.vn))
-- [Facebook 'xuống nước', khôi phục chia sẻ tin tức tại Úc sau chưa đầy 1 tuần ‘làm căng’](https://cafebiz.vn/facebook-xuong-nuoc-khoi-phuc-chia-se-tin-tuc-tai-uc-sau-chua-day-1-tuan-lam-cang-20210223143034055.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ảnh ấn tượng: Ngỡ ngành cảnh băng tuyết phủ trắng nhiều nơi trên thế giới](https://laodong.vn/photo/anh-an-tuong-ngo-nganh-canh-bang-tuyet-phu-trang-nhieu-noi-tren-the-gioi-882753.ldo) ([Lao Động](https://laodong.vn))
-- [Người thân ngóng tin hai thuyền viên Hà Tĩnh mất tích trên biển Hàn Quốc](https://tuoitre.vn/nguoi-than-ngong-tin-hai-thuyen-vien-ha-tinh-mat-tich-tren-bien-han-quoc-20210223131823422.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Gỡ phong toả điểm liên quan COVID-19 cuối cùng tại TPHCM](https://laodong.vn/photo/go-phong-toa-diem-lien-quan-covid-19-cuoi-cung-tai-tphcm-882827.ldo) ([Lao Động](https://laodong.vn))
-- [Tham mưu trái quy định, hai sở ở Hà Tĩnh phải kiểm điểm](https://tuoitre.vn/tham-muu-trai-quy-dinh-hai-so-o-ha-tinh-phai-kiem-diem-20210223133108822.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bàn chuyện thu nhập của giới YouTuber, anh em 1977 Vlog thẳng thắn: "Người ta mỗi tháng có vài trăm triệu, còn chúng tôi bỏ vốn vài ba trăm nghìn thì thử tính xem bài toán có cân!?"](https://cafebiz.vn/ban-chuyen-thu-nhap-cua-gioi-youtuber-anh-em-1977-vlog-thang-than-nguoi-ta-moi-thang-co-vai-tram-trieu-con-chung-toi-bo-von-vai-ba-tram-nghin-thi-thu-tinh-xem-bai-toan-co-can-2021022314303841.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cấu kết bạn học tham ô tiền công ty, trưởng chi nhánh lãnh 20 năm tù](https://tuoitre.vn/cau-ket-ban-hoc-tham-o-tien-cong-ty-truong-chi-nhanh-lanh-20-nam-tu-20210223145130782.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Gia đình tỉ phú giàu nhất Ấn Độ xúc tiến dự án mới lớn nhất thế giới](https://laodong.vn/the-gioi/gia-dinh-ti-phu-giau-nhat-an-do-xuc-tien-du-an-moi-lon-nhat-the-gioi-882874.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Gái già lắm chiêu V&quot; trở lại, ra rạp ngày 12.3](https://laodong.vn/giai-tri/gai-gia-lam-chieu-v-tro-lai-ra-rap-ngay-123-882872.ldo) ([Lao Động](https://laodong.vn))
+- [Cổ phiếu hot nào sẽ chia cổ tức bằng tiền mặt 25% trong tuần này?](https://laodong.vn/kinh-te/co-phieu-hot-nao-se-chia-co-tuc-bang-tien-mat-25-trong-tuan-nay-882863.ldo) ([Lao Động](https://laodong.vn))
+- [Chưa sản xuất được chiếc xe nào nhưng đối thủ của Tesla đã được định giá 24 tỷ USD](https://cafebiz.vn/chua-san-xuat-duoc-chiec-xe-nao-nhung-doi-thu-cua-tesla-da-duoc-dinh-gia-24-ty-usd-20210223143251246.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vietbank thay Chủ tịch Hội đồng quản trị](https://cafebiz.vn/vietbank-thay-chu-tich-hoi-dong-quan-tri-20210223151114716.chn) ([CafeBiz](https://cafebiz.vn))
+- [5 địa phương dự kiến có người tự ứng cử đại biểu Quốc hội](https://tuoitre.vn/5-dia-phuong-du-kien-co-nguoi-tu-ung-cu-dai-bieu-quoc-hoi-20210223143536057.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Giá rau củ, thực phẩm rẻ &quot;giật mình&quot;, sức mua vẫn giảm](https://laodong.vn/kinh-te/gia-rau-cu-thuc-pham-re-giat-minh-suc-mua-van-giam-882830.ldo) ([Lao Động](https://laodong.vn))
+- [Ngồi nhà vẫn kiếm tiền tỷ từ công việc streamer cờ vua chuyên nghiệp](https://cafebiz.vn/ngoi-nha-van-kiem-tien-ty-tu-cong-viec-streamer-co-vua-chuyen-nghiep-2021022314430968.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mất giọng, bằng cách nào, Cẩm Ly, Như Quỳnh, Khánh Ngọc tìm  lại giọng?](https://laodong.vn/van-hoa/mat-giong-bang-cach-nao-cam-ly-nhu-quynh-khanh-ngoc-tim-lai-giong-882751.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -68,6 +68,7 @@
 
 **VIETCETERA**
 
+- [Văn hóa Tiki có gì mà thế giới thích mê? ](https://vietcetera.com/vn/van-hoa-tiki-co-gi-ma-the-gioi-thich-me)
 - [Du thuyền Oceania Cruises: 180 ngày, 96 địa danh và 33 quốc gia](https://vietcetera.com/vn/du-thuyen-oceania-cruises-co-hoi-kham-pha-cac-dia-danh-noi-tieng-tai-viet-nam-va-tren-the-gioi)
 - ["Anh diễn hài độc thoại nhiều rồi, nhưng set diễn khiến anh run nhất..."](https://vietcetera.com/vn/anh-dien-hai-doc-thoai-nhieu-roi-nhung-set-dien-khien-anh-run-nhat)
 - [Tóm Lại Là: Chúng ta có đang "bỏ quên" giáo viên?](https://vietcetera.com/vn/tom-lai-la-chung-ta-co-dang-bo-quen-giao-vien)
@@ -77,7 +78,6 @@
 - [SCALE và nguyên lý “Cái rổ thủng”: Đừng vội khi Startup chưa đủ "chín"! ](https://vietcetera.com/vn/scale-va-nguyen-ly-cai-ro-thung-dung-voi-khi-startup-chua-du-chin)
 - [7 Kỹ thuật giao tiếp bằng mắt cho cuộc đối thoại hiệu quả](https://vietcetera.com/vn/7-cach-duy-tri-giao-tiep-bang-mat-hieu-qua)
 - ["Năm đó, lần đầu tiên trong đời cô biết nhớ một người con trai..."](https://vietcetera.com/vn/nhan-quyet-dinh-day-o-dao-ngay-len-tau-chua-kip-buon-co-da-oi)
-- [Podcast "Vietnam Innovators": Cùng Hảo Trần và Ruby Nguyễn đối thoại về chiến lược lãnh đạo](https://vietcetera.com/vn/podcast-vietnam-innovators-cung-hao-tran-va-ruby-nguyen-doi-thoai-voi-nhung-lanh-dao-tai-ba)
 
 </td><td valign="top" width="33%">
 
