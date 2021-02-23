@@ -17,7 +17,7 @@
 - Current weather is haze.
 - Temperature is 23°C.
 - Feels Like 24.31°C.
-- Air Visual is 170.
+- Air Visual is 163.
 
 **WEATHER**
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
+- [Chân dung người đàn ông từng khiến Mỹ lao đao bằng cấm vận, thị trường dầu mỏ chao đảo và đẩy kinh tế toàn cầu vào suy thoái](https://cafebiz.vn/chan-dung-nguoi-dan-ong-tung-khien-my-lao-dao-bang-cam-van-thi-truong-dau-mo-chao-dao-va-day-kinh-te-toan-cau-vao-suy-thoai-20210223193537118.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nóng nhất hôm nay: Bất ngờ thu nhập của ông Trump khi làm tổng thống](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bat-ngo-thu-nhap-cua-ong-trump-khi-lam-tong-thong-882946.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyện tình như phim của vợ chồng trùm ma tuý khét tiếng Mexico El Chapo](https://laodong.vn/the-gioi/chuyen-tinh-nhu-phim-cua-vo-chong-trum-ma-tuy-khet-tieng-mexico-el-chapo-882902.ldo) ([Lao Động](https://laodong.vn))
+- [Một người đàn ông tử vong khi đang điều trị cách ly phòng chống COVID-19](https://tuoitre.vn/mot-nguoi-dan-ong-tu-vong-khi-dang-dieu-tri-cach-ly-phong-chong-covid-19-20210223204243806.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Vụ tàu hàng va cầu Phước Khánh: Chưa phát hiện hư hỏng trên kết cấu chính](https://laodong.vn/xa-hoi/vu-tau-hang-va-cau-phuoc-khanh-chua-phat-hien-hu-hong-tren-ket-cau-chinh-883017.ldo) ([Lao Động](https://laodong.vn))
+- [Vị Hoàng đế tiết kiệm nhất nhà Thanh: Không cho phép người trong cung ăn thịt, buộc phi tần phải nuôi gà và thích mặc long bào chắp vá](https://cafebiz.vn/vi-hoang-de-tiet-kiem-nhat-nha-thanh-khong-cho-phep-nguoi-trong-cung-an-thit-buoc-phi-tan-phai-nuoi-ga-va-thich-mac-long-bao-chap-va-20210223193253436.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xây dựng phương án cho xe chở hàng hóa giữa Hải Dương với Hải Phòng](https://laodong.vn/xa-hoi/xay-dung-phuong-an-cho-xe-cho-hang-hoa-giua-hai-duong-voi-hai-phong-883015.ldo) ([Lao Động](https://laodong.vn))
 - [Kinh tế 24h: Chợ dân sinh sau Tết, nơi ế ẩm nơi đắt hàng](https://laodong.vn/kinh-te/kinh-te-24h-cho-dan-sinh-sau-tet-noi-e-am-noi-dat-hang-883012.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương đề xuất Ấn Độ viện trợ vaccine phòng Covid-19](https://cafebiz.vn/hai-duong-de-xuat-an-do-vien-tro-vaccine-phong-covid-19-20210223183715843.chn) ([CafeBiz](https://cafebiz.vn))
 - [Phó Thủ tướng Vũ Đức Đam: Tránh tình trạng xét nghiệm COVID-19 ồ ạt](https://laodong.vn/y-te/pho-thu-tuong-vu-duc-dam-tranh-tinh-trang-xet-nghiem-covid-19-o-at-882962.ldo) ([Lao Động](https://laodong.vn))
-- [Sà lan ‘khủng’ hiện đại công khai hút cát sát bờ](https://tuoitre.vn/sa-lan-khung-hien-dai-cong-khai-hut-cat-sat-bo-20210223183333658.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chuyên gia Trung Quốc đề xuất &quot;gái ế&quot; thành thị lấy trai quê](https://laodong.vn/the-gioi/chuyen-gia-trung-quoc-de-xuat-gai-e-thanh-thi-lay-trai-que-882844.ldo) ([Lao Động](https://laodong.vn))
-- [5 sai lầm mà các sếp mới "nhậm chức" cần tránh: Tin tôi đi, nhân viên họ biết hết đấy!](https://cafebiz.vn/5-sai-lam-ma-cac-sep-moi-nham-chuc-can-tranh-tin-toi-di-nhan-vien-ho-biet-het-day-2021022316003995.chn) ([CafeBiz](https://cafebiz.vn))
-- [WHO bồi thường cho người gặp phản ứng phụ sau tiêm vaccine COVID-19](https://cafebiz.vn/who-boi-thuong-cho-nguoi-gap-phan-ung-phu-sau-tiem-vaccine-covid-19-20210223184441532.chn) ([CafeBiz](https://cafebiz.vn))
-- [8 năm đẻ sòn sòn 5 đứa, mẹ bỉm Nhật vẫn tốt nghiệp Thạc sĩ Harvard: "Vũ khí bí mật" của phụ nữ hoá ra nằm ở điều này!](https://cafebiz.vn/8-nam-de-son-son-5-dua-me-bim-nhat-van-tot-nghiep-thac-si-harvard-vu-khi-bi-mat-cua-phu-nu-hoa-ra-nam-o-dieu-nay-20210223193008312.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trưởng ban Tuyên giáo Trung ương chúc mừng ngành Y tế nhân ngày 27.2](https://laodong.vn/thoi-su/truong-ban-tuyen-giao-trung-uong-chuc-mung-nganh-y-te-nhan-ngay-272-882971.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng hỏa tốc về việc phương tiện, hàng hóa từ Hải Dương được xuống cảng](http://vietnamnet.vn/vn/thoi-su/hai-phong-hoa-toc-ve-viec-phuong-tien-hang-hoa-tu-hai-duong-duoc-xuong-cang-714973.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
