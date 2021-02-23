@@ -16,8 +16,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 22°C.
-- Feels Like 22.99°C.
-- Air Visual is 98.
+- Feels Like 22.62°C.
+- Air Visual is 82.
 
 **WEATHER**
 
@@ -71,15 +71,15 @@
 **NEWS**
 
 - [Covid-19 ngày 24/2](https://vnexpress.net/covid-19-ngay-24-2-4239251.html) ([VNExpress](https://vnexpress.net))
+- [Thủ tướng lần đầu dự, phát biểu tại khuôn khổ Hội đồng Bảo an Liên Hợp Quốc](https://laodong.vn/thoi-su/thu-tuong-lan-dau-du-phat-bieu-tai-khuon-kho-hoi-dong-bao-an-lien-hop-quoc-883026.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương yêu cầu xử lý nghiêm F1 không khai báo trong vòng 24h](https://laodong.vn/xa-hoi/hai-duong-yeu-cau-xu-ly-nghiem-f1-khong-khai-bao-trong-vong-24h-883025.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương yêu cầu F1 phải khai báo y tế trong 24 giờ kể từ khi thông báo F0](https://tuoitre.vn/hai-duong-yeu-cau-f1-phai-khai-bao-y-te-trong-24-gio-ke-tu-khi-thong-bao-f0-20210223214556038.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hà Nội vận động cán bộ, bếp ăn trường học đặt mua nông thủy sản Hải Dương, Quảng Ninh](https://tuoitre.vn/ha-noi-van-dong-can-bo-bep-an-truong-hoc-dat-mua-nong-thuy-san-hai-duong-quang-ninh-20210223202004779.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hải Dương: Động viên lực lượng tuyến đầu chống dịch và công nhân nhà trọ](https://laodong.vn/cong-doan/hai-duong-dong-vien-luc-luong-tuyen-dau-chong-dich-va-cong-nhan-nha-tro-883018.ldo) ([Lao Động](https://laodong.vn))
+- [Gần 24.600 phương tiện phải quay đầu khi vào Hải Phòng](https://laodong.vn/xa-hoi/gan-24600-phuong-tien-phai-quay-dau-khi-vao-hai-phong-883023.ldo) ([Lao Động](https://laodong.vn))
 - [Thái tử phi "vạn người mê" của Malaysia: Nhan sắc khiến ai cũng xao xuyến cùng câu chuyện cổ tích "yêu em từ cái nhìn đầu tiên"](https://cafebiz.vn/thai-tu-phi-van-nguoi-me-cua-malaysia-nhan-sac-khien-ai-cung-xao-xuyen-cung-cau-chuyen-co-tich-yeu-em-tu-cai-nhin-dau-tien-20210223215340216.chn) ([CafeBiz](https://cafebiz.vn))
 - [Người đàn ông tử vong khi đang điều trị cách ly](https://vnexpress.net/nguoi-dan-ong-tu-vong-khi-dang-dieu-tri-cach-ly-4239236.html) ([VNExpress](https://vnexpress.net))
-- [Đã đến lúc thực hiện "Hộ chiếu vaccine" trên toàn thế giới?](https://cafebiz.vn/da-den-luc-thuc-hien-ho-chieu-vaccine-tren-toan-the-gioi-20210223194530115.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Phòng không cho xe qua QL5, Tổng cục Đường bộ yêu cầu thông đường](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/hai-phong-khong-cho-xe-qua-ql5-tong-cuc-duong-bo-yeu-cau-thong-duong-714989.html) ([VietNamNet](https://vietnamnet.vn))
-- [Hạng ghế máy bay nào sẽ hot nhất năm 2021?](https://cafebiz.vn/hang-ghe-may-bay-nao-se-hot-nhat-nam-2021-20210223194156853.chn) ([CafeBiz](https://cafebiz.vn))
-- [3 vị hoàng đế qua đời kỳ quặc nhất lịch sử Trung Hoa: Người chết vì khoe khoang thể lực hơn người, kẻ qua đời vì dọa giết đầu bếp](https://cafebiz.vn/3-vi-hoang-de-qua-doi-ky-quac-nhat-lich-su-trung-hoa-nguoi-chet-vi-khoe-khoang-the-luc-hon-nguoi-ke-qua-doi-vi-doa-giet-dau-bep-20210223143805038.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội kêu gọi giải cứu hàng trăm nghìn tấn nông sản, thủy sản hai tỉnh](http://vietnamnet.vn/vn/thoi-su/ha-noi-keu-goi-giai-cuu-hang-tram-nghin-tan-nong-san-thuy-san-hai-tinh-714988.html) ([VietNamNet](https://vietnamnet.vn))
+- [Xác định nguồn lây chùm ca bệnh tại Hải Phòng](https://laodong.vn/xa-hoi/xac-dinh-nguon-lay-chum-ca-benh-tai-hai-phong-883020.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
