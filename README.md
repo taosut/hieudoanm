@@ -68,6 +68,7 @@
 
 **NEWS**
 
+- [Trưởng ban Tuyên giáo Trung ương chúc mừng ngành Y tế nhân ngày 27.2](https://laodong.vn/thoi-su/truong-ban-tuyen-giao-trung-uong-chuc-mung-nganh-y-te-nhan-ngay-272-882971.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng giãn cách xã hội một thôn giáp ranh ổ dịch mới ở Hải Dương](https://laodong.vn/xa-hoi/hai-phong-gian-cach-xa-hoi-mot-thon-giap-ranh-o-dich-moi-o-hai-duong-883013.ldo) ([Lao Động](https://laodong.vn))
 - [Giới thiệu hơn 1.000 người ứng cử Quốc hội khóa mới](https://vnexpress.net/gioi-thieu-hon-1-000-nguoi-ung-cu-quoc-hoi-khoa-moi-4239196.html) ([VNExpress](https://vnexpress.net))
 - [Sau "bão" đạo nhạc, MV Chúng Ta Của Hiện Tại của Sơn Tùng chính thức quay trở lại trên YouTube, lượt view có còn nguyên vẹn?](https://cafebiz.vn/sau-bao-dao-nhac-mv-chung-ta-cua-hien-tai-cua-son-tung-chinh-thuc-quay-tro-lai-tren-youtube-luot-view-co-con-nguyen-ven-2021022320063699.chn) ([CafeBiz](https://cafebiz.vn))
@@ -77,7 +78,6 @@
 - [Cận cảnh nhan sắc đạt &quot;tỉ lệ vàng&quot; của Suzy](https://laodong.vn/photo/can-canh-nhan-sac-dat-ti-le-vang-cua-suzy-882771.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất 24h: Người dân Việt Nam sẽ được tiêm vaccine COVID-19 miễn phí](https://laodong.vn/video-thoi-su/nong-nhat-24h-nguoi-dan-viet-nam-se-duoc-tiem-vaccine-covid-19-mien-phi-882963.ldo) ([Lao Động](https://laodong.vn))
 - [Bất ngờ công dụng nhụy hoa nghệ tây ngâm mật ong](https://laodong.vn/suc-khoe/bat-ngo-cong-dung-nhuy-hoa-nghe-tay-ngam-mat-ong-882371.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 24.2](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-242-882931.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
