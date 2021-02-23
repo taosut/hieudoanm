@@ -25,6 +25,19 @@
 - Tiet Khi: Tiểu tuyết.
 - năm canh tý tháng mậu tý ngày canh thân.
 
+**NPM**
+
+- [![download](https://img.shields.io/npm/dm/giaohangnhanh.svg?style=flat-square&label=giaohangnhanh&color=red)](https://www.npmjs.com/package/giaohangnhanh)
+- [![download](https://img.shields.io/npm/dm/onepay.svg?style=flat-square&label=onepay&color=red)](https://www.npmjs.com/package/onepay)
+- [![download](https://img.shields.io/npm/dm/vietcetera.svg?style=flat-square&label=vietcetera&color=red)](https://www.npmjs.com/package/vietcetera)
+- [![download](https://img.shields.io/npm/dm/vietnambanks.svg?style=flat-square&label=vietnambanks&color=red)](https://www.npmjs.com/package/vietnambanks)
+- [![download](https://img.shields.io/npm/dm/vietnamgovernment.svg?style=flat-square&label=vietnamgovernment&color=red)](https://www.npmjs.com/package/vietnamgovernment)
+- [![download](https://img.shields.io/npm/dm/vietnamnews.svg?style=flat-square&label=vietnamnews&color=red)](https://www.npmjs.com/package/vietnamnews)
+- [![download](https://img.shields.io/npm/dm/vnapis.svg?style=flat-square&label=vnapis&color=red)](https://www.npmjs.com/package/vnapis)
+- [![download](https://img.shields.io/npm/dm/vnpay.svg?style=flat-square&label=vnpay&color=red)](https://www.npmjs.com/package/vnpay)
+- [![download](https://img.shields.io/npm/dm/vtcpay.svg?style=flat-square&label=vtcpay&color=red)](https://www.npmjs.com/package/vtcpay)
+- [![download](https://img.shields.io/npm/dm/zalopay.svg?style=flat-square&label=zalopay&color=red)](https://www.npmjs.com/package/zalopay)
+
 </td><td valign="top" width="33%">
 
 **GOOGLE TRENDS**
@@ -54,6 +67,9 @@
 
 **NEWS**
 
+- [Không phải Lưu Bị, mưu sĩ từng bị Tào Tháo lừa này mới là quý nhân của cuộc đời Gia Cát Lượng](https://cafebiz.vn/khong-phai-luu-bi-muu-si-tung-bi-tao-thao-lua-nay-moi-la-quy-nhan-cua-cuoc-doi-gia-cat-luong-20210223143600879.chn) ([CafeBiz](https://cafebiz.vn))
+- [Australia kiên quyết không thay đổi dự luật về Facebook, Google](https://cafebiz.vn/australia-kien-quyet-khong-thay-doi-du-luat-ve-facebook-google-20210223184146026.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dành quỹ đất gần 20.000 m2 bảo tồn di tích Chăm](https://vnexpress.net/danh-quy-dat-gan-20-000-m2-bao-ton-di-tich-cham-4239111.html) ([VNExpress](https://vnexpress.net))
 - [Đề nghị Hải Dương tập trung xét nghiệm khu vực nguy cơ cao](https://vnexpress.net/de-nghi-hai-duong-tap-trung-xet-nghiem-khu-vuc-nguy-co-cao-4239143.html) ([VNExpress](https://vnexpress.net))
 - [Producer beat Lucky tung video so sánh Có Chắc Yêu Là Đây, Sơn Tùng chối đạo nhạc kiểu gì bây giờ?](https://cafebiz.vn/producer-beat-lucky-tung-video-so-sanh-co-chac-yeu-la-day-son-tung-choi-dao-nhac-kieu-gi-bay-gio-20210223191600076.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giáo hội Phật giáo VN thử nghiệm cầu an trực tuyến](https://vnexpress.net/giao-hoi-phat-giao-vn-thu-nghiem-cau-an-truc-tuyen-4239166.html) ([VNExpress](https://vnexpress.net))
@@ -61,9 +77,6 @@
 - [Chuẩn bị hội thảo kỷ niệm 50 năm Chiến thắng Đường 9 - Nam Lào](https://laodong.vn/xa-hoi/chuan-bi-hoi-thao-ky-niem-50-nam-chien-thang-duong-9-nam-lao-882981.ldo) ([Lao Động](https://laodong.vn))
 - [Tránh lợi dụng "giải cứu" ép giá nông dân, Hải Dương công bố giá bán nông sản](https://cafebiz.vn/tranh-loi-dung-giai-cuu-ep-gia-nong-dan-hai-duong-cong-bo-gia-ban-nong-san-20210223183504504.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ngoại binh cũ của Sài Gòn khẳng định Công Phượng xuất sắc nhất V.League](https://laodong.vn/bong-da/ngoai-binh-cu-cua-sai-gon-khang-dinh-cong-phuong-xuat-sac-nhat-vleague-882910.ldo) ([Lao Động](https://laodong.vn))
-- [Bác sĩ bị sóng cuốn trôi khi câu  cá](https://tuoitre.vn/bac-si-bi-song-cuon-troi-khi-cau-ca-20210223182008213.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Điểm cuối cùng liên quan đến COVID-19 ở TP.HCM đã gỡ phong tỏa](https://tuoitre.vn/diem-cuoi-cung-lien-quan-den-covid-19-o-tp-hcm-da-go-phong-toa-20210223181404948.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Ai từng đến 19 địa điểm này xin liên hệ y tế](https://tuoitre.vn/ai-tung-den-19-dia-diem-nay-xin-lien-he-y-te-20210223182144247.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -86,6 +99,8 @@
 - [Bóc Term: Pickup line - Khi thả thính trở thành một bộ môn nghệ thuật](https://vietcetera.com/vn/boc-term-pick-up-line-tha-thinh-tro-thanh-mon-nghe-thuat)
 - [SCALE và nguyên lý “Cái rổ thủng”: Đừng vội khi Startup chưa đủ "chín"! ](https://vietcetera.com/vn/scale-va-nguyen-ly-cai-ro-thung-dung-voi-khi-startup-chua-du-chin)
 
+[Read More](https://vietcetera.com/)
+
 </td><td valign="top" width="33%">
 
 **MUSIC TRENDS**
@@ -101,6 +116,8 @@
 09. [Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]](https://www.youtube.com/watch?v=aXzVF3XeS8M) - [TaylorSwiftVEVO](https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg)
 10. [Ariana Grande - 34+35 Remix (feat. Doja Cat and Megan Thee Stallion) (Official Video)](https://www.youtube.com/watch?v=ssq6X6alZ3w) - [ArianaGrandeVevo](https://www.youtube.com/channel/UC0VOyT2OCBKdQhF3BAbZ-1g)
 
+[Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
+
 </td><td valign="top" width="33%">
 
 **YOUTUBE TRENDS**
@@ -115,6 +132,8 @@
 08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 09. [Phim Hành Động Võ Thuật 2021 - SÁT THỦ ẨN DANH | Phim Chiếu Rạp Thuyết Minh Mới Nhất](https://www.youtube.com/watch?v=qSqv22xvfVU) - [Like Movies](https://www.youtube.com/channel/UCWDfO46yvUbLudW99_rVTBg)
 10. [TÌNH BẠN DIỆU KỲ - AMEE x Ricky Star x Lăng LD ( Masew Remix )](https://www.youtube.com/watch?v=yFqzSq6T-Iw) - [Masew](https://www.youtube.com/channel/UCpm6kKrf5OdNRZ9hMgk3gsA)
+
+[Read More](https://www.youtube.com/feed/trending)
 
 </td></tr></tbody></table>
 
@@ -142,19 +161,6 @@
 - [Visas](docs/visas/visas.csv)
 
 </td><td valign="top" width="33%">
-
-**NPM**
-
-[![download](https://img.shields.io/npm/dm/giaohangnhanh.svg?style=flat&label=giaohangnhanh+%28download%29)](https://www.npmjs.com/package/giaohangnhanh)
-[![download](https://img.shields.io/npm/dm/onepay.svg?style=flat&label=onepay+%28download%29)](https://www.npmjs.com/package/onepay)
-[![download](https://img.shields.io/npm/dm/vietcetera.svg?style=flat&label=vietcetera+%28download%29)](https://www.npmjs.com/package/vietcetera)
-[![download](https://img.shields.io/npm/dm/vietnambanks.svg?style=flat&label=vietnambanks+%28download%29)](https://www.npmjs.com/package/vietnambanks)
-[![download](https://img.shields.io/npm/dm/vietnamgovernment.svg?style=flat&label=vietnamgovernment+%28download%29)](https://www.npmjs.com/package/vietnamgovernment)
-[![download](https://img.shields.io/npm/dm/vietnamnews.svg?style=flat&label=vietnamnews+%28download%29)](https://www.npmjs.com/package/vietnamnews)
-[![download](https://img.shields.io/npm/dm/vnapis.svg?style=flat&label=vnapis+%28download%29)](https://www.npmjs.com/package/vnapis)
-[![download](https://img.shields.io/npm/dm/vnpay.svg?style=flat&label=vnpay+%28download%29)](https://www.npmjs.com/package/vnpay)
-[![download](https://img.shields.io/npm/dm/vtcpay.svg?style=flat&label=vtcpay+%28download%29)](https://www.npmjs.com/package/vtcpay)
-[![download](https://img.shields.io/npm/dm/zalopay.svg?style=flat&label=zalopay+%28download%29)](https://www.npmjs.com/package/zalopay)
 
 </td><td valign="top" width="33%">
 

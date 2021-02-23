@@ -120,7 +120,9 @@ export const buildNPM = (): string => {
   ].sort();
   return packages
     .map((_package: string) => {
-      return `[![download](https://img.shields.io/npm/dm/${_package}.svg?style=flat&label=${_package}+%28download%29)](https://www.npmjs.com/package/${_package})`;
+      const src: string = `https://img.shields.io/npm/dm/${_package}.svg?style=flat-square&label=${_package}&color=red`;
+      const url: string = `https://www.npmjs.com/package/${_package}`;
+      return `- [![download](${src})](${url})`;
     })
     .join('\n');
 };
@@ -221,6 +223,10 @@ export const buildREADME = async () => {
 - Tiet Khi: ${tietKhi}.
 - ${canChi}.
 
+**NPM**
+
+${npm}
+
 </td><td valign="top" width="33%">
 
 **GOOGLE TRENDS**
@@ -245,17 +251,23 @@ ${articles}
 
 ${vietceteraArticles}
 
+[Read More](https://vietcetera.com/)
+
 </td><td valign="top" width="33%">
 
 **MUSIC TRENDS**
 
 ${musicTrending}
 
+[Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
+
 </td><td valign="top" width="33%">
 
 **YOUTUBE TRENDS**
 
 ${youTubeTrending}
+
+[Read More](https://www.youtube.com/feed/trending)
 
 </td></tr></tbody></table>
 
@@ -268,10 +280,6 @@ ${youTubeTrending}
 ${csv}
 
 </td><td valign="top" width="33%">
-
-**NPM**
-
-${npm}
 
 </td><td valign="top" width="33%">
 
