@@ -46,9 +46,10 @@
 - [![Anh Đức](https://img.shields.io/static/v1?label=Anh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
-- [![Classroom](https://img.shields.io/static/v1?label=Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Classroom)
 - [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
+- [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
+- [![Google Classroom](https://img.shields.io/static/v1?label=Google%20Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Google%20Classroom)
 - [![Hướng dương ngược nắng tập 31](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
@@ -62,7 +63,6 @@
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [![Vietcombank](https://img.shields.io/static/v1?label=Vietcombank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietcombank)
-- [![VietinBank](https://img.shields.io/static/v1?label=VietinBank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VietinBank)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
+- [Hải Dương yêu cầu F1 phải khai báo y tế trong 24 giờ kể từ khi thông báo F0](https://tuoitre.vn/hai-duong-yeu-cau-f1-phai-khai-bao-y-te-trong-24-gio-ke-tu-khi-thong-bao-f0-20210223214556038.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hà Nội vận động cán bộ, bếp ăn trường học đặt mua nông thủy sản Hải Dương, Quảng Ninh](https://tuoitre.vn/ha-noi-van-dong-can-bo-bep-an-truong-hoc-dat-mua-nong-thuy-san-hai-duong-quang-ninh-20210223202004779.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hải Dương: Động viên lực lượng tuyến đầu chống dịch và công nhân nhà trọ](https://laodong.vn/cong-doan/hai-duong-dong-vien-luc-luong-tuyen-dau-chong-dich-va-cong-nhan-nha-tro-883018.ldo) ([Lao Động](https://laodong.vn))
 - [Gần 24.600 phương tiện phải quay đầu khi vào Hải Phòng](https://laodong.vn/xa-hoi/gan-24600-phuong-tien-phai-quay-dau-khi-vao-hai-phong-883023.ldo) ([Lao Động](https://laodong.vn))
 - [Thái tử phi "vạn người mê" của Malaysia: Nhan sắc khiến ai cũng xao xuyến cùng câu chuyện cổ tích "yêu em từ cái nhìn đầu tiên"](https://cafebiz.vn/thai-tu-phi-van-nguoi-me-cua-malaysia-nhan-sac-khien-ai-cung-xao-xuyen-cung-cau-chuyen-co-tich-yeu-em-tu-cai-nhin-dau-tien-20210223215340216.chn) ([CafeBiz](https://cafebiz.vn))
 - [Người đàn ông tử vong khi đang điều trị cách ly](https://vnexpress.net/nguoi-dan-ong-tu-vong-khi-dang-dieu-tri-cach-ly-4239236.html) ([VNExpress](https://vnexpress.net))
 - [Xác định nguồn lây chùm ca bệnh tại Hải Phòng](https://laodong.vn/xa-hoi/xac-dinh-nguon-lay-chum-ca-benh-tai-hai-phong-883020.ldo) ([Lao Động](https://laodong.vn))
 - [Đã đến lúc thực hiện "Hộ chiếu vaccine" trên toàn thế giới?](https://cafebiz.vn/da-den-luc-thuc-hien-ho-chieu-vaccine-tren-toan-the-gioi-20210223194530115.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng không cho xe qua QL5, Tổng cục Đường bộ yêu cầu thông đường](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/hai-phong-khong-cho-xe-qua-ql5-tong-cuc-duong-bo-yeu-cau-thong-duong-714989.html) ([VietNamNet](https://vietnamnet.vn))
 - [Bộ Xây dựng chung tay “giải cứu” nông sản Hải Dương](https://laodong.vn/xa-hoi/bo-xay-dung-chung-tay-giai-cuu-nong-san-hai-duong-883022.ldo) ([Lao Động](https://laodong.vn))
-- [Hạng ghế máy bay nào sẽ hot nhất năm 2021?](https://cafebiz.vn/hang-ghe-may-bay-nao-se-hot-nhat-nam-2021-20210223194156853.chn) ([CafeBiz](https://cafebiz.vn))
-- [3 vị hoàng đế qua đời kỳ quặc nhất lịch sử Trung Hoa: Người chết vì khoe khoang thể lực hơn người, kẻ qua đời vì dọa giết đầu bếp](https://cafebiz.vn/3-vi-hoang-de-qua-doi-ky-quac-nhat-lich-su-trung-hoa-nguoi-chet-vi-khoe-khoang-the-luc-hon-nguoi-ke-qua-doi-vi-doa-giet-dau-bep-20210223143805038.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tổng LĐLĐVN vận động đoàn viên, NLĐ tích cực tham gia hiến máu](https://laodong.vn/cong-doan/tong-ldldvn-van-dong-doan-vien-nld-tich-cuc-tham-gia-hien-mau-883010.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
