@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/top.png" alt="VIETNAM" height="60"/></p>
 <h1 align="center">VIETNAMDB</h1>
-<p align="center">VIETNAM RESTful APIs.</p>
+<p align="center">VIETNAM 🇻🇳 RESTful APIs.</p>
 <p align="center">
   <a href="https://vietnamdb.herokuapp.com/api">APIs</a> -
   <a href="https://vietnamdb.github.io/#/">Docs</a> -
@@ -16,7 +16,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 24.52°C.
-- Air Visual is 140.
+- Air Visual is 144.
 
 **WEATHER**
 
@@ -54,16 +54,16 @@
 
 **NEWS**
 
-- [Bộ Y tế đang xây dựng kế hoạch tổng thể tiêm vaccine COVID-19](https://laodong.vn/y-te/bo-y-te-dang-xay-dung-ke-hoach-tong-the-tiem-vaccine-covid-19-882913.ldo) ([Lao Động](https://laodong.vn))
-- [Phụ nữ đi ôtô nên lắp những tính năng thông minh này](https://laodong.vn/xe/phu-nu-di-oto-nen-lap-nhung-tinh-nang-thong-minh-nay-882893.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ lợn nhập khẩu trốn cách ly: Quảng Bình xử lý kỷ luật một cán bộ](https://laodong.vn/ban-doc/vu-lon-nhap-khau-tron-cach-ly-quang-binh-xu-ly-ky-luat-mot-can-bo-882885.ldo) ([Lao Động](https://laodong.vn))
-- [Những sao Việt kết hôn &quot;bí mật&quot; năm 2020 vì không muốn ồn ào](https://laodong.vn/chuyen-nha-minh/nhung-sao-viet-ket-hon-bi-mat-nam-2020-vi-khong-muon-on-ao-882920.ldo) ([Lao Động](https://laodong.vn))
-- [Ổn định sản xuất nông nghiệp trong bối cảnh COVID diễn biến phức tạp](https://laodong.vn/kinh-te/on-dinh-san-xuat-nong-nghiep-trong-boi-canh-covid-dien-bien-phuc-tap-882944.ldo) ([Lao Động](https://laodong.vn))
+- [Phim của Đặng Luân, Tiêu Chiến hậu công chiếu: Thành tích đi kèm ồn ào](https://laodong.vn/giai-tri/phim-cua-dang-luan-tieu-chien-hau-cong-chieu-thanh-tich-di-kem-on-ao-882947.ldo) ([Lao Động](https://laodong.vn))
+- [Đức góp thêm 1,8 tỉ USD cho cuộc chiến chống COVID-19](https://laodong.vn/the-gioi/duc-gop-them-18-ti-usd-cho-cuoc-chien-chong-covid-19-882949.ldo) ([Lao Động](https://laodong.vn))
+- [Ninh Bình: Một người bị phạt 2 triệu đồng vì khai báo y tế không trung thực](https://laodong.vn/xa-hoi/ninh-binh-mot-nguoi-bi-phat-2-trieu-dong-vi-khai-bao-y-te-khong-trung-thuc-882954.ldo) ([Lao Động](https://laodong.vn))
+- [6 ca mới mắc COVID-19 ở Hải Dương và Quảng Ninh](https://laodong.vn/y-te/6-ca-moi-mac-covid-19-o-hai-duong-va-quang-ninh-882966.ldo) ([Lao Động](https://laodong.vn))
+- ['Đề nghị Hải Phòng tháo gỡ cho xe chở hàng từ Hải Dương'](https://vnexpress.net/de-nghi-hai-phong-thao-go-cho-xe-cho-hang-tu-hai-duong-4239041.html) ([VNExpress](https://vnexpress.net))
+- [Huyện đảo Lý Sơn có Bí thư Huyện ủy mới](https://laodong.vn/xa-hoi/huyen-dao-ly-son-co-bi-thu-huyen-uy-moi-882945.ldo) ([Lao Động](https://laodong.vn))
+- [HĐND TP HCM giảm 10 đại biểu so với nhiệm kỳ trước](https://vnexpress.net/hdnd-tp-hcm-giam-10-dai-bieu-so-voi-nhiem-ky-truoc-4239197.html) ([VNExpress](https://vnexpress.net))
+- [Cơn đau đầu của các nhà tuyển dụng: 52% người lao động sẽ đi tìm việc trong 3 – 6 tháng tới, lương thưởng là mối quan tâm hàng đầu!](https://cafebiz.vn/con-dau-dau-cua-cac-nha-tuyen-dung-52-nguoi-lao-dong-se-di-tim-viec-trong-3-6-thang-toi-luong-thuong-la-moi-quan-tam-hang-dau-20210223155905379.chn) ([CafeBiz](https://cafebiz.vn))
 - [Những trang nhất gây choáng của New York Times về COVID-19](https://cafebiz.vn/nhung-trang-nhat-gay-choang-cua-new-york-times-ve-covid-19-20210223171236234.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hủy nhiều tàu do vắng khách](https://vnexpress.net/huy-nhieu-tau-do-vang-khach-4239156.html) ([VNExpress](https://vnexpress.net))
-- [CEO Hải Trà Tân Cương: &quot;Mang Chè Thái Nguyên hữu cơ sạch đến với mọi người&quot;](https://laodong.vn/thong-tin-doanh-nghiep/ceo-hai-tra-tan-cuong-mang-che-thai-nguyen-huu-co-sach-den-voi-moi-nguoi-882811.ldo) ([Lao Động](https://laodong.vn))
-- [Tỉ phú Elon Musk và Bill Gates đã nói gì khiến Bitcoin lao dốc không phanh?](https://laodong.vn/kinh-te/ti-phu-elon-musk-va-bill-gates-da-noi-gi-khien-bitcoin-lao-doc-khong-phanh-882883.ldo) ([Lao Động](https://laodong.vn))
-- [Lời khai mới nhất của người yêu nữ điều dưỡng mắc Covid-19 về quê ở Cẩm Giàng, Hải Dương](https://cafebiz.vn/loi-khai-moi-nhat-cua-nguoi-yeu-nu-dieu-duong-mac-covid-19-ve-que-o-cam-giang-hai-duong-20210223173018152.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -94,8 +94,8 @@
 02. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 03. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 04. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
-05. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-06. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+05. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+06. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 07. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 08. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
 09. [Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]](https://www.youtube.com/watch?v=aXzVF3XeS8M) - [TaylorSwiftVEVO](https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg)
