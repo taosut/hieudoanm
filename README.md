@@ -14,10 +14,10 @@
 
 **CALENDAR**
 
-- Current weather is haze.
+- Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 24.67°C.
-- Air Visual is 163.
+- Feels Like 24.31°C.
+- Air Visual is 165.
 
 **WEATHER**
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
+- [Hạng ghế máy bay nào sẽ hot nhất năm 2021?](https://cafebiz.vn/hang-ghe-may-bay-nao-se-hot-nhat-nam-2021-20210223194156853.chn) ([CafeBiz](https://cafebiz.vn))
 - [3 vị hoàng đế qua đời kỳ quặc nhất lịch sử Trung Hoa: Người chết vì khoe khoang thể lực hơn người, kẻ qua đời vì dọa giết đầu bếp](https://cafebiz.vn/3-vi-hoang-de-qua-doi-ky-quac-nhat-lich-su-trung-hoa-nguoi-chet-vi-khoe-khoang-the-luc-hon-nguoi-ke-qua-doi-vi-doa-giet-dau-bep-20210223143805038.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tổng LĐLĐVN vận động đoàn viên, NLĐ tích cực tham gia hiến máu](https://laodong.vn/cong-doan/tong-ldldvn-van-dong-doan-vien-nld-tich-cuc-tham-gia-hien-mau-883010.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội kêu gọi giải cứu hàng trăm nghìn tấn nông sản, thủy sản hai tỉnh](http://vietnamnet.vn/vn/thoi-su/ha-noi-keu-goi-giai-cuu-hang-tram-nghin-tan-nong-san-thuy-san-hai-tinh-714988.html) ([VietNamNet](https://vietnamnet.vn))
+- [Quảng Ninh hỗ trợ Hải Dương 4 tỷ đồng để chống dịch Covid-19](http://vietnamnet.vn/vn/thoi-su/quang-ninh-ho-tro-hai-duong-4-ty-dong-de-chong-dich-covid-19-714990.html) ([VietNamNet](https://vietnamnet.vn))
 - [Tổng thống Mỹ Joe Biden dự lễ tưởng niệm nạn nhân COVID-19](https://cafebiz.vn/tong-thong-my-joe-biden-du-le-tuong-niem-nan-nhan-covid-19-20210223184321293.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khu di tích Hoàng thành Thăng Long cần trở thành công viên di sản đẹp nhất Hà Nội](http://vietnamnet.vn/vn/thoi-su/chinh-tri/khu-di-tich-hoang-thanh-thang-long-can-tro-thanh-cong-vien-di-san-dep-nhat-ha-noi-714975.html) ([VietNamNet](https://vietnamnet.vn))
+- [Tài xế xe khách bị hành hung ở Quảng Nam: Triệu tập 5 người liên quan](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/tai-xe-xe-khach-bi-hanh-hung-o-quang-nam-trieu-tap-5-nguoi-lien-quan-714982.html) ([VietNamNet](https://vietnamnet.vn))
+- [Dịch Covid-19, Giáo hội Phật giáo triển khai 'cúng dường online'](http://vietnamnet.vn/vn/thoi-su/dich-covid-19-giao-hoi-phat-giao-trien-khai-cung-duong-online-714961.html) ([VietNamNet](https://vietnamnet.vn))
 - [Chân dung người đàn ông từng khiến Mỹ lao đao bằng cấm vận, thị trường dầu mỏ chao đảo và đẩy kinh tế toàn cầu vào suy thoái](https://cafebiz.vn/chan-dung-nguoi-dan-ong-tung-khien-my-lao-dao-bang-cam-van-thi-truong-dau-mo-chao-dao-va-day-kinh-te-toan-cau-vao-suy-thoai-20210223193537118.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nóng nhất hôm nay: Bất ngờ thu nhập của ông Trump khi làm tổng thống](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bat-ngo-thu-nhap-cua-ong-trump-khi-lam-tong-thong-882946.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyện tình như phim của vợ chồng trùm ma tuý khét tiếng Mexico El Chapo](https://laodong.vn/the-gioi/chuyen-tinh-nhu-phim-cua-vo-chong-trum-ma-tuy-khet-tieng-mexico-el-chapo-882902.ldo) ([Lao Động](https://laodong.vn))
-- [Một người đàn ông tử vong khi đang điều trị cách ly phòng chống COVID-19](https://tuoitre.vn/mot-nguoi-dan-ong-tu-vong-khi-dang-dieu-tri-cach-ly-phong-chong-covid-19-20210223204243806.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Vụ tàu hàng va cầu Phước Khánh: Chưa phát hiện hư hỏng trên kết cấu chính](https://laodong.vn/xa-hoi/vu-tau-hang-va-cau-phuoc-khanh-chua-phat-hien-hu-hong-tren-ket-cau-chinh-883017.ldo) ([Lao Động](https://laodong.vn))
-- [Vị Hoàng đế tiết kiệm nhất nhà Thanh: Không cho phép người trong cung ăn thịt, buộc phi tần phải nuôi gà và thích mặc long bào chắp vá](https://cafebiz.vn/vi-hoang-de-tiet-kiem-nhat-nha-thanh-khong-cho-phep-nguoi-trong-cung-an-thit-buoc-phi-tan-phai-nuoi-ga-va-thich-mac-long-bao-chap-va-20210223193253436.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xây dựng phương án cho xe chở hàng hóa giữa Hải Dương với Hải Phòng](https://laodong.vn/xa-hoi/xay-dung-phuong-an-cho-xe-cho-hang-hoa-giua-hai-duong-voi-hai-phong-883015.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 

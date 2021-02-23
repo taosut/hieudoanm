@@ -1,5 +1,6 @@
 # News
 
+- [Hạng ghế máy bay nào sẽ hot nhất năm 2021?](https://cafebiz.vn/hang-ghe-may-bay-nao-se-hot-nhat-nam-2021-20210223194156853.chn) ([CafeBiz](https://cafebiz.vn))
 - [3 vị hoàng đế qua đời kỳ quặc nhất lịch sử Trung Hoa: Người chết vì khoe khoang thể lực hơn người, kẻ qua đời vì dọa giết đầu bếp](https://cafebiz.vn/3-vi-hoang-de-qua-doi-ky-quac-nhat-lich-su-trung-hoa-nguoi-chet-vi-khoe-khoang-the-luc-hon-nguoi-ke-qua-doi-vi-doa-giet-dau-bep-20210223143805038.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tổng LĐLĐVN vận động đoàn viên, NLĐ tích cực tham gia hiến máu](https://laodong.vn/cong-doan/tong-ldldvn-van-dong-doan-vien-nld-tich-cuc-tham-gia-hien-mau-883010.ldo) ([Lao Động](https://laodong.vn))
 - [Tổng thống Mỹ Joe Biden dự lễ tưởng niệm nạn nhân COVID-19](https://cafebiz.vn/tong-thong-my-joe-biden-du-le-tuong-niem-nan-nhan-covid-19-20210223184321293.chn) ([CafeBiz](https://cafebiz.vn))
@@ -42,7 +43,7 @@
 - [Tránh lợi dụng "giải cứu" ép giá nông dân, Hải Dương công bố giá bán nông sản](https://cafebiz.vn/tranh-loi-dung-giai-cuu-ep-gia-nong-dan-hai-duong-cong-bo-gia-ban-nong-san-20210223183504504.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bác sĩ bị sóng cuốn trôi khi câu  cá](https://tuoitre.vn/bac-si-bi-song-cuon-troi-khi-cau-ca-20210223182008213.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Điểm cuối cùng liên quan đến COVID-19 ở TP.HCM đã gỡ phong tỏa](https://tuoitre.vn/diem-cuoi-cung-lien-quan-den-covid-19-o-tp-hcm-da-go-phong-toa-20210223181404948.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Ai từng đến 19 địa điểm này xin liên hệ y tế](https://tuoitre.vn/ai-tung-den-19-dia-diem-nay-xin-lien-he-y-te-20210223182144247.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ai từng đến 19 địa điểm này cần liên hệ ngay y tế](https://tuoitre.vn/ai-tung-den-19-dia-diem-nay-can-lien-he-ngay-y-te-20210223182144247.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nhà Trắng đáp lời Bắc Kinh về quan hệ Mỹ-Trung](https://laodong.vn/the-gioi/nha-trang-dap-loi-bac-kinh-ve-quan-he-my-trung-882969.ldo) ([Lao Động](https://laodong.vn))
 - [Phó thủ tướng Vũ Đức Đam: 'Không thể tuyệt đối không có mầm bệnh trong cộng đồng'](https://tuoitre.vn/pho-thu-tuong-vu-duc-dam-khong-the-tuyet-doi-khong-co-mam-benh-trong-cong-dong-20210223171412725.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chiều 23-2, thêm 6 ca COVID-19 mới ở Quảng Ninh và Hải Dương](https://tuoitre.vn/chieu-23-2-them-6-ca-covid-19-moi-o-quang-ninh-va-hai-duong-20210223181120742.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -97,6 +98,5 @@
 - [Xe đầu kéo lật đè chết 2 thanh niên ở Quảng Bình](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/xe-dau-keo-lat-de-chet-2-thanh-nien-o-quang-binh-714899.html) ([VietNamNet](https://vietnamnet.vn))
 - [Ngồi nhà vẫn kiếm tiền tỷ từ công việc streamer cờ vua chuyên nghiệp](https://cafebiz.vn/ngoi-nha-van-kiem-tien-ty-tu-cong-viec-streamer-co-vua-chuyen-nghiep-2021022314430968.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ông Đoàn Ngọc Hải phục vụ quán cơm 5.000 đồng](https://vnexpress.net/ong-doan-ngoc-hai-phuc-vu-quan-com-5-000-dong-4238999.html) ([VNExpress](https://vnexpress.net))
-- [Đại gia bí ẩn thuê ông Đoàn Ngọc Hải phục vụ người nghèo 30 phút, trả công 60 triệu đồng](https://cafebiz.vn/dai-gia-bi-an-thue-ong-doan-ngoc-hai-phuc-vu-nguoi-ngheo-30-phut-tra-cong-60-trieu-dong-20210223144645737.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sơn Tùng M-TP lại bị tố "đạo nhạc", công ty sẽ tổn thất bao nhiêu khi MV 50 triệu lượt xem Chúng ta của hiện tại "bay màu"?](https://cafebiz.vn/son-tung-m-tp-lai-bi-to-dao-nhac-cong-ty-se-ton-that-bao-nhieu-khi-mv-50-trieu-luot-xem-chung-ta-cua-hien-tai-bay-mau-20210223144612871.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tín hiệu mừng của nền kinh tế: 2/3 doanh nghiệp Việt được khảo sát có nhu cầu tuyển thêm nhân sự trong quý tới](https://cafebiz.vn/tin-hieu-mung-cua-nen-kinh-te-2-3-doanh-nghiep-viet-duoc-khao-sat-co-nhu-cau-tuyen-them-nhan-su-trong-quy-toi-20210223141707963.chn) ([CafeBiz](https://cafebiz.vn))
+- [Review Máy cạo râu mini Mijia S100 - MSX201](https://tinhte.vn/thread/review-may-cao-rau-mini-mijia-s100-msx201.3281404/) ([Tinh Tế](https://tinhte.vn))
+- [MacBook Pro năm nay có thiết kế mới, thêm khe thẻ SD, HDMI](https://tinhte.vn/thread/macbook-pro-nam-nay-co-thiet-ke-moi-them-khe-the-sd-hdmi.3281475/) ([Tinh Tế](https://tinhte.vn))
