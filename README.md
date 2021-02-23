@@ -7,9 +7,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 20°C.
-- Feels Like 20.23°C.
-- Air Visual is 95.
+- Temperature is 21°C.
+- Feels Like 21.94°C.
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -23,40 +23,40 @@
 **GOOGLE TRENDS**
 
 - [ACB](https://www.google.com/search?q=ACB)
-- [Agribank](https://www.google.com/search?q=Agribank)
 - [Amee](https://www.google.com/search?q=Amee)
 - [BIDV](https://www.google.com/search?q=BIDV)
 - [Báo Hải Phòng](https://www.google.com/search?q=B%C3%A1o%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [Bệnh viện Giao thông Vận tải Hải Phòng](https://www.google.com/search?q=B%E1%BB%87nh%20vi%E1%BB%87n%20Giao%20th%C3%B4ng%20V%E1%BA%ADn%20t%E1%BA%A3i%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [COVID Hải Phòng](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
-- [Hồ Chí Minh](https://www.google.com/search?q=H%E1%BB%93%20Ch%C3%AD%20Minh)
+- [Daft Punk](https://www.google.com/search?q=Daft%20Punk)
+- [Hướng dương ngược nắng tập 31](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
+- [Juventus](https://www.google.com/search?q=Juventus)
 - [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
 - [Man City](https://www.google.com/search?q=Man%20City)
 - [PSG](https://www.google.com/search?q=PSG)
 - [Phùng Anh Lê](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
-- [Soojin](https://www.google.com/search?q=Soojin)
+- [Sevilla](https://www.google.com/search?q=Sevilla)
 - [Sơn Tùng](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
+- [Tỷ giá USD](https://www.google.com/search?q=T%E1%BB%B7%20gi%C3%A1%20USD)
 - [VCB](https://www.google.com/search?q=VCB)
 - [Vietcombank](https://www.google.com/search?q=Vietcombank)
 - [VietinBank](https://www.google.com/search?q=VietinBank)
-- [Warren Buffett](https://www.google.com/search?q=Warren%20Buffett)
-- [WhatsApp](https://www.google.com/search?q=WhatsApp)
 - [iPhone 13](https://www.google.com/search?q=iPhone%2013)
 
 </td><td valign="top" width="33%">
 
 **NEWS**
 
-- [Lai Châu xử phạt hai giáo viên khai báo y tế gian dối](https://laodong.vn/xa-hoi/lai-chau-xu-phat-hai-giao-vien-khai-bao-y-te-gian-doi-882698.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Phạt 200 tỉ đồng các vi phạm lái xe sau khi uống rượu bia](https://laodong.vn/infographic/ha-noi-phat-200-ti-dong-cac-vi-pham-lai-xe-sau-khi-uong-ruou-bia-882512.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt đối tượng dùng dụng cụ chọc tiết gà gây thương tích nhiều người](https://laodong.vn/phap-luat/bat-doi-tuong-dung-dung-cu-choc-tiet-ga-gay-thuong-tich-nhieu-nguoi-882692.ldo) ([Lao Động](https://laodong.vn))
-- [Chữa khỏi Covid-19 trên 95% trong 3-5 ngày: "Thuốc đặc trị" của Israel thực hư ra sao?](https://cafebiz.vn/chua-khoi-covid-19-tren-95-trong-3-5-ngay-thuoc-dac-tri-cua-israel-thuc-hu-ra-sao-20210223074204996.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ảnh: Hàng trăm người dân Hà Nội đổ xô đi mua hoa lê về chơi Rằm tháng Giêng](https://cafebiz.vn/anh-hang-tram-nguoi-dan-ha-noi-do-xo-di-mua-hoa-le-ve-choi-ram-thang-gieng-20210223073822339.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dân bất ngờ khi được lấy mẫu xét nghiệm COVID-19 tại quán nhậu đêm](https://laodong.vn/video-thoi-su/nguoi-dan-bat-ngo-khi-duoc-lay-mau-xet-nghiem-covid-19-tai-quan-nhau-dem-882712.ldo) ([Lao Động](https://laodong.vn))
-- [Sáng 23/2 có thêm 3 ca mắc Covid-19 ở Hải Dương, đều là F1 liên quan đến "ổ dịch" huyện Kim Thành](https://cafebiz.vn/sang-23-2-co-them-3-ca-mac-covid-19-o-hai-duong-deu-la-f1-lien-quan-den-o-dich-huyen-kim-thanh-2021022307352901.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: Lấy mẫu xét nghệm COVID-19 ngẫu nhiên thực khách tại quán nhậu](https://laodong.vn/photo/tphcm-lay-mau-xet-nghem-covid-19-ngau-nhien-thuc-khach-tai-quan-nhau-882693.ldo) ([Lao Động](https://laodong.vn))
-- [Coi Việt Nam là "miền đất hứa", Uniqlo tiếp tục mở thêm cửa hàng, tốc độ mở rộng nhanh hơn tất thảy đàn anh H&M, Zara](https://cafebiz.vn/coi-viet-nam-la-mien-dat-hua-uniqlo-tiep-tuc-mo-them-cua-hang-toc-do-mo-rong-nhanh-hon-tat-thay-dan-anh-hm-zara-20210222181242005.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tỷ phú khiêm tốn hơn Jack Ma, tài sản trăm nghìn tỷ, nhưng lý tưởng suốt đời chỉ là nuôi lợn: Lựa chọn sững sờ bắt nguồn từ 6 chữ](https://cafebiz.vn/ty-phu-khiem-ton-hon-jack-ma-tai-san-tram-nghin-ty-nhung-ly-tuong-suot-doi-chi-la-nuoi-lon-lua-chon-sung-so-bat-nguon-tu-6-chu-20210222185231204.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bình Dương lo lắng thiếu hụt lượng lớn lao động sau Tết](https://laodong.vn/cong-doan/binh-duong-lo-lang-thieu-hut-luong-lon-lao-dong-sau-tet-882642.ldo) ([Lao Động](https://laodong.vn))
+- [“Thần bịp Jack Chột” ăn khách nhưng chưa đã!](https://laodong.vn/van-hoa-giai-tri/than-bip-jack-chot-an-khach-nhung-chua-da-882667.ldo) ([Lao Động](https://laodong.vn))
+- [Thực hiện “mục tiêu kép”: Muôn kiểu kích cầu, giải phóng sức mua](https://laodong.vn/thi-truong/thuc-hien-muc-tieu-kep-muon-kieu-kich-cau-giai-phong-suc-mua-882672.ldo) ([Lao Động](https://laodong.vn))
+- [JPMorgan: Đây là yếu tố khiến đà tăng của Bitcoin đang cận kề rủi ro](https://cafebiz.vn/jpmorgan-day-la-yeu-to-khien-da-tang-cua-bitcoin-dang-can-ke-rui-ro-20210223083843754.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khẩn trương phối hợp gỡ ách tắc nông sản cho vùng dịch Hải Dương](https://laodong.vn/xa-hoi/khan-truong-phoi-hop-go-ach-tac-nong-san-cho-vung-dich-hai-duong-882662.ldo) ([Lao Động](https://laodong.vn))
+- [Nghịch lý... thừa điện](https://laodong.vn/kinh-te/nghich-ly-thua-dien-882664.ldo) ([Lao Động](https://laodong.vn))
+- [Lo ngại chất lượng nếu học trực tuyến kéo dài](https://cafebiz.vn/lo-ngai-chat-luong-neu-hoc-truc-tuyen-keo-dai-20210223083612849.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trước khi Trung Nguyên lấn sân ngành địa ốc, Đặng Lê Nguyên Vũ đã là đại gia BĐS “máu mặt”: Sở hữu hàng loạt mảnh đất, căn nhà, trị giá hàng nghìn tỷ đồng](https://cafebiz.vn/truoc-khi-trung-nguyen-lan-san-nganh-dia-oc-dang-le-nguyen-vu-da-la-dai-gia-bds-mau-mat-so-huu-hang-loat-manh-dat-can-nha-tri-gia-hang-nghin-ty-dong-20210222174912518.chn) ([CafeBiz](https://cafebiz.vn))
+- [Doanh nhân Phạm Trần Nhật Minh: 'Tôi từng nhận lương 3 triệu/tháng, nhưng xe 10 tỷ đối với tôi giờ quá dễ dàng'](https://cafebiz.vn/doanh-nhan-pham-tran-nhat-minh-toi-tung-nhan-luong-3-trieu-thang-nhung-xe-10-ty-doi-voi-toi-gio-qua-de-dang-20210223083401154.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá Bitcoin đột ngột lao dốc mạnh nhất 1 tháng, tuột mốc 50.000 USD](https://cafebiz.vn/gia-bitcoin-dot-ngot-lao-doc-manh-nhat-1-thang-tuot-moc-50000-usd-20210223082422323.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
