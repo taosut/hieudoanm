@@ -16,8 +16,8 @@
 
 - Current weather is mist.
 - Temperature is 21°C.
-- Feels Like 21.68°C.
-- Air Visual is 84.
+- Feels Like 21.32°C.
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -46,7 +46,7 @@
 - [![Anh Đức](https://img.shields.io/static/v1?label=Anh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
-- [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
+- [![Cúng rằm tháng giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
 - [![Google Classroom](https://img.shields.io/static/v1?label=Google%20Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Google%20Classroom)
@@ -72,14 +72,14 @@
 
 - [Dự báo thời tiết 24/2: Miền Bắc tăng nhiệt, nóng đến 31 độ C](http://vietnamnet.vn/vn/thoi-su/du-bao-thoi-tiet-24-2-mien-bac-tang-nhiet-nong-den-31-do-c-714955.html) ([VietNamNet](https://vietnamnet.vn))
 - [Covid-19 ngày 24/2](https://vnexpress.net/covid-19-ngay-24-2-4239251.html) ([VNExpress](https://vnexpress.net))
-- [Thủ tướng lần đầu dự, phát biểu tại khuôn khổ Hội đồng Bảo an Liên Hợp Quốc](https://laodong.vn/thoi-su/thu-tuong-lan-dau-du-phat-bieu-tai-khuon-kho-hoi-dong-bao-an-lien-hop-quoc-883026.ldo) ([Lao Động](https://laodong.vn))
-- [Người dùng Windows 10 đã có thể bật tắt bluetooth, volume… của điện thoại Android ngay trên máy tính](https://tinhte.vn/thread/nguoi-dung-windows-10-da-co-the-bat-tat-bluetooth-volume-cua-dien-thoai-android-ngay-tren-may-tinh.3281082/) ([Tinh Tế](https://tinhte.vn))
+- [Anh em mê PC và console giờ đã có kẻ thù chung: Đám đầu cơ trữ hàng để trục lợi](https://tinhte.vn/thread/anh-em-me-pc-va-console-gio-da-co-ke-thu-chung-dam-dau-co-tru-hang-de-truc-loi.3281619/) ([Tinh Tế](https://tinhte.vn))
 - [Xem các chi tiết hệ thống gầm xe VinFast Lux A2.0](https://tinhte.vn/thread/xem-cac-chi-tiet-he-thong-gam-xe-vinfast-lux-a2-0.3028301/) ([Tinh Tế](https://tinhte.vn))
-- [Elon Musk nói rằng tốc độ Internet của Starlink sẽ được tăng gấp đôi và đạt 300Mbp trong năm nay](https://tinhte.vn/thread/elon-musk-noi-rang-toc-do-internet-cua-starlink-se-duoc-tang-gap-doi-va-dat-300mbp-trong-nam-nay.3281502/) ([Tinh Tế](https://tinhte.vn))
-- [Review chuột Microsoft Modern Mobile Mouse: Công nghệ Blue Track đáng tiền](https://tinhte.vn/thread/review-chuot-microsoft-modern-mobile-mouse-cong-nghe-blue-track-dang-tien.3279887/) ([Tinh Tế](https://tinhte.vn))
-- [Hải Dương yêu cầu xử lý nghiêm F1 không khai báo trong vòng 24h](https://laodong.vn/xa-hoi/hai-duong-yeu-cau-xu-ly-nghiem-f1-khong-khai-bao-trong-vong-24h-883025.ldo) ([Lao Động](https://laodong.vn))
-- [Facebook bỏ chặn người dùng Úc và đồng ý trả tiền cho các hãng tin.](https://tinhte.vn/thread/facebook-bo-chan-nguoi-dung-uc-va-dong-y-tra-tien-cho-cac-hang-tin.3281859/) ([Tinh Tế](https://tinhte.vn))
-- [Hiện tượng tâm lý mà ai cũng từng gặp phải - Hội chứng vịt con](https://tinhte.vn/thread/hien-tuong-tam-ly-ma-ai-cung-tung-gap-phai-hoi-chung-vit-con.3279977/) ([Tinh Tế](https://tinhte.vn))
+- [Mở thử chiếc hộp bí ẩn Mi-stery Box của Xiaomi](https://tinhte.vn/thread/mo-thu-chiec-hop-bi-an-mi-stery-box-cua-xiaomi.3279884/) ([Tinh Tế](https://tinhte.vn))
+- [Người dùng Windows 10 đã có thể bật tắt bluetooth, volume… của điện thoại Android ngay trên máy tính](https://tinhte.vn/thread/nguoi-dung-windows-10-da-co-the-bat-tat-bluetooth-volume-cua-dien-thoai-android-ngay-tren-may-tinh.3281082/) ([Tinh Tế](https://tinhte.vn))
+- [Nâng mức phạt hơn nữa nếu tiết lộ dữ liệu cá nhân trái phép](https://thanhnien.vn/thoi-su/nang-muc-phat-hon-nua-neu-tiet-lo-du-lieu-ca-nhan-trai-phep-1345504.html) ([Thanh Niên](https://thanhnien.vn))
+- [Mercedes-Benz C-class hoàn toàn mới, nội thất như S-Class, đèn Digital Light, đánh lái bánh sau](https://tinhte.vn/thread/mercedes-benz-c-class-hoan-toan-moi-noi-that-nhu-s-class-den-digital-light-danh-lai-banh-sau.3281740/) ([Tinh Tế](https://tinhte.vn))
+- [Hết tết rồi!](https://thanhnien.vn/blog-phong-vien/het-tet-roi-1345539.html) ([Thanh Niên](https://thanhnien.vn))
+- [Thuốc lá điện tử độc hại bán như 'rau': Cần chế tài mạnh tay](https://thanhnien.vn/thoi-su/thuoc-la-dien-tu-doc-hai-ban-nhu-rau-can-che-tai-manh-tay-1345274.html) ([Thanh Niên](https://thanhnien.vn))
 
 [Read More](docs/news/README.md)
 
@@ -91,6 +91,7 @@
 
 **VIETCETERA**
 
+- ["Đâu là khoảnh khắc anh nhận ra mình rất hạnh phúc?"](https://vietcetera.com/vn/dau-la-khoanh-khac-anh-nhan-ra-minh-rat-hanh-phuc)
 - [Bóc Term: Cougar - Khi chuyện tình “chị đẹp và trai trẻ” vượt qua định kiến xã hội](https://vietcetera.com/vn/boc-term-cougar-khi-chi-dep-va-trai-tre-vuot-qua-dinh-kien-xa-hoi)
 - [Chai thuỷ tinh La Vie: Nuôi dưỡng vòng tuần hoàn của sự sống](https://vietcetera.com/vn/chai-thuy-tinh-la-vie-nuoi-duong-vong-tuan-hoan-cua-su-song)
 - [Văn hóa Tiki có gì mà thế giới thích mê? ](https://vietcetera.com/vn/van-hoa-tiki-co-gi-ma-the-gioi-thich-me)
@@ -100,7 +101,6 @@
 - [Podcast “Vietnam Innovators” tập 8: Phillip An, Đồng sáng lập & CEO Homebase - Giải pháp mua nhà dễ dàng cho Millennials ](https://vietcetera.com/vn/podcast-vietnam-innovators-tap-8-phillip-an-dong-sang-lap-ceo-homebase-giai-phap-mua-nha-de-dang-cho-millennials)
 - [Meme học: Đất lành "cheems" đậu](https://vietcetera.com/vn/meme-hoc-cheems)
 - [Bóc Term: Pickup line - Khi thả thính trở thành một bộ môn nghệ thuật](https://vietcetera.com/vn/boc-term-pick-up-line-tha-thinh-tro-thanh-mon-nghe-thuat)
-- [SCALE và nguyên lý “Cái rổ thủng”: Đừng vội khi Startup chưa đủ "chín"! ](https://vietcetera.com/vn/scale-va-nguyen-ly-cai-ro-thung-dung-voi-khi-startup-chua-du-chin)
 
 [Read More](https://vietcetera.com/)
 
