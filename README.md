@@ -7,8 +7,8 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 23.73°C.
+- Temperature is 25°C.
+- Feels Like 24.72°C.
 - Air Visual is 151.
 
 **WEATHER**
@@ -30,12 +30,12 @@
 - [Hướng dương ngược nắng tập 31](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
 - [Juventus](https://www.google.com/search?q=Juventus)
 - [Kim So Hyun](https://www.google.com/search?q=Kim%20So%20Hyun)
-- [Liverpool](https://www.google.com/search?q=Liverpool)
 - [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
 - [Man City](https://www.google.com/search?q=Man%20City)
 - [Minh Nhựa](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
 - [PS5](https://www.google.com/search?q=PS5)
 - [PSG](https://www.google.com/search?q=PSG)
+- [Phạm Băng Băng](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [Sevilla](https://www.google.com/search?q=Sevilla)
 - [Sơn Tùng](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [Vietcombank](https://www.google.com/search?q=Vietcombank)
@@ -47,16 +47,16 @@
 
 **NEWS**
 
-- [Bảng xếp hạng vòng 25 Ngoại hạng Anh: Liverpool đứng thứ 6](https://laodong.vn/infographic/bang-xep-hang-vong-25-ngoai-hang-anh-liverpool-dung-thu-6-882539.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương sẽ xét nghiệm COVID-19 ở 12/12 huyện, thị xã, thành phố](https://laodong.vn/xa-hoi/hai-duong-se-xet-nghiem-covid-19-o-1212-huyen-thi-xa-thanh-pho-882822.ldo) ([Lao Động](https://laodong.vn))
-- [Phong tỏa một nhà nghỉ ở Hạ Long](https://vnexpress.net/phong-toa-mot-nha-nghi-o-ha-long-4238922.html) ([VNExpress](https://vnexpress.net))
-- [Hà Nội: Vợ chồng chủ khách sạn bị khởi tố vì liên quan đến ma tuý](https://laodong.vn/phap-luat/ha-noi-vo-chong-chu-khach-san-bi-khoi-to-vi-lien-quan-den-ma-tuy-882829.ldo) ([Lao Động](https://laodong.vn))
-- [Cách tính lệ phí trước bạ với ô tô năm 2021](https://laodong.vn/giao-thong/cach-tinh-le-phi-truoc-ba-voi-o-to-nam-2021-882780.ldo) ([Lao Động](https://laodong.vn))
-- [Trước các nghi án “đạo nhái” sản phẩm âm nhạc, Sơn Tùng M-TP thường im lặng](https://laodong.vn/giai-tri/truoc-cac-nghi-an-dao-nhai-san-pham-am-nhac-son-tung-m-tp-thuong-im-lang-882776.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút 23.2: Công việc mới của ông Obama](https://laodong.vn/video-thoi-su/ban-tin-1-phut-232-cong-viec-moi-cua-ong-obama-882792.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương nói dân không hoảng sợ, nhưng phải 'biết sợ' nguy cơ dịch bệnh](http://vietnamnet.vn/vn/thoi-su/hai-duong-noi-dan-khong-hoang-so-nhung-phai-biet-so-nguy-co-dich-benh-714867.html) ([VietNamNet](https://vietnamnet.vn))
-- [Kiện toàn bộ máy Nhà nước vào cuối tháng 3](https://vnexpress.net/kien-toan-bo-may-nha-nuoc-vao-cuoi-thang-3-4238969.html) ([VNExpress](https://vnexpress.net))
-- [Quốc hội kiện toàn một số chức danh lãnh đạo nhà nước vào cuối tháng 3](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/quoc-hoi-kien-toan-mot-so-chuc-danh-lanh-dao-nha-nuoc-vao-cuoi-thang-3-713549.html) ([VietNamNet](https://vietnamnet.vn))
+- [Trao quà tới người lao động bị cách ly do COVID-19](https://laodong.vn/cd-xay-dung/trao-qua-toi-nguoi-lao-dong-bi-cach-ly-do-covid-19-882825.ldo) ([Lao Động](https://laodong.vn))
+- [Chùa Phúc Khánh sẽ tổ chức lễ cầu an trực tuyến như thế nào?](https://laodong.vn/xa-hoi/chua-phuc-khanh-se-to-chuc-le-cau-an-truc-tuyen-nhu-the-nao-882778.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiều diện tích rừng tái sinh ở Khánh Hòa bị tàn phá](https://laodong.vn/xa-hoi/nhieu-dien-tich-rung-tai-sinh-o-khanh-hoa-bi-tan-pha-882367.ldo) ([Lao Động](https://laodong.vn))
+- [Quốc hội kiện toàn một số chức danh Nhà nước tại Kỳ họp 11 vào cuối tháng 3](https://laodong.vn/thoi-su/quoc-hoi-kien-toan-mot-so-chuc-danh-nha-nuoc-tai-ky-hop-11-vao-cuoi-thang-3-882812.ldo) ([Lao Động](https://laodong.vn))
+- [Boeing 777-200 cháy động cơ tại Mỹ: Việt Nam không còn khai thác loại máy bay này](https://laodong.vn/kinh-te/boeing-777-200-chay-dong-co-tai-my-viet-nam-khong-con-khai-thac-loai-may-bay-nay-882834.ldo) ([Lao Động](https://laodong.vn))
+- [Khoe Rolex hay khoa trương Richard Mille giờ là "quê mùa", đây mới là 5 biểu tượng mới mà tầng lớp siêu giàu dùng để định vị bản thân](https://cafebiz.vn/khoe-rolex-hay-khoa-truong-richard-mille-gio-la-que-mua-day-moi-la-5-bieu-tuong-moi-ma-tang-lop-sieu-giau-dung-de-dinh-vi-ban-than-20210223115414992.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bảng xếp hạng vòng 23 Serie A: Inter Milan tạo cách biệt với nhóm bám đuổi](https://laodong.vn/infographic/bang-xep-hang-vong-23-serie-a-inter-milan-tao-cach-biet-voi-nhom-bam-duoi-882542.ldo) ([Lao Động](https://laodong.vn))
+- [Tuổi 30 của Hoa hậu Việt Nam Đặng Thu Thảo: Mẹ 2 con, nhan sắc không tuổi](https://laodong.vn/photo/tuoi-30-cua-hoa-hau-viet-nam-dang-thu-thao-me-2-con-nhan-sac-khong-tuoi-882786.ldo) ([Lao Động](https://laodong.vn))
+- [Đề nghị đánh giá tác động 24 công trình chậm tiến độ](https://vnexpress.net/de-nghi-danh-gia-tac-dong-24-cong-trinh-cham-tien-do-4238902.html) ([VNExpress](https://vnexpress.net))
+- [Thanh niên trước ngày nhập ngũ: Xét nghiệm COVID-19 để chống dịch](https://laodong.vn/video-thoi-su/thanh-nien-truoc-ngay-nhap-ngu-xet-nghiem-covid-19-de-chong-dich-882820.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -103,11 +103,11 @@
 03. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 04. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2 [ Xuân Tân Sửu Tết 2021 ]](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 05. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
-06. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
-07. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+06. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+07. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 08. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 09. [Phim Hành Động Võ Thuật 2021 - SÁT THỦ ẨN DANH | Phim Chiếu Rạp Thuyết Minh Mới Nhất](https://www.youtube.com/watch?v=qSqv22xvfVU) - [Like Movies](https://www.youtube.com/channel/UCWDfO46yvUbLudW99_rVTBg)
-10. [TÌNH BẠN DIỆU KỲ - AMEE x Ricky Star x Lăng LD ( Masew Remix )](https://www.youtube.com/watch?v=yFqzSq6T-Iw) - [Masew](https://www.youtube.com/channel/UCpm6kKrf5OdNRZ9hMgk3gsA)
+10. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 
 </td></tr></tbody></table>
 
