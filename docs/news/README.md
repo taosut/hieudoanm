@@ -1,5 +1,8 @@
 # News
 
+- [3 vị hoàng đế qua đời kỳ quặc nhất lịch sử Trung Hoa: Người chết vì khoe khoang thể lực hơn người, kẻ qua đời vì dọa giết đầu bếp](https://cafebiz.vn/3-vi-hoang-de-qua-doi-ky-quac-nhat-lich-su-trung-hoa-nguoi-chet-vi-khoe-khoang-the-luc-hon-nguoi-ke-qua-doi-vi-doa-giet-dau-bep-20210223143805038.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tổng LĐLĐVN vận động đoàn viên, NLĐ tích cực tham gia hiến máu](https://laodong.vn/cong-doan/tong-ldldvn-van-dong-doan-vien-nld-tich-cuc-tham-gia-hien-mau-883010.ldo) ([Lao Động](https://laodong.vn))
+- [Tổng thống Mỹ Joe Biden dự lễ tưởng niệm nạn nhân COVID-19](https://cafebiz.vn/tong-thong-my-joe-biden-du-le-tuong-niem-nan-nhan-covid-19-20210223184321293.chn) ([CafeBiz](https://cafebiz.vn))
 - [Khu di tích Hoàng thành Thăng Long cần trở thành công viên di sản đẹp nhất Hà Nội](http://vietnamnet.vn/vn/thoi-su/chinh-tri/khu-di-tich-hoang-thanh-thang-long-can-tro-thanh-cong-vien-di-san-dep-nhat-ha-noi-714975.html) ([VietNamNet](https://vietnamnet.vn))
 - [Tài xế xe khách bị hành hung ở Quảng Nam: Triệu tập 5 người liên quan](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/tai-xe-xe-khach-bi-hanh-hung-o-quang-nam-trieu-tap-5-nguoi-lien-quan-714982.html) ([VietNamNet](https://vietnamnet.vn))
 - [Dịch Covid-19, Giáo hội Phật giáo triển khai 'cúng dường online'](http://vietnamnet.vn/vn/thoi-su/dich-covid-19-giao-hoi-phat-giao-trien-khai-cung-duong-online-714961.html) ([VietNamNet](https://vietnamnet.vn))
@@ -10,7 +13,6 @@
 - [Vụ tàu hàng va cầu Phước Khánh: Chưa phát hiện hư hỏng trên kết cấu chính](https://laodong.vn/xa-hoi/vu-tau-hang-va-cau-phuoc-khanh-chua-phat-hien-hu-hong-tren-ket-cau-chinh-883017.ldo) ([Lao Động](https://laodong.vn))
 - [Vị Hoàng đế tiết kiệm nhất nhà Thanh: Không cho phép người trong cung ăn thịt, buộc phi tần phải nuôi gà và thích mặc long bào chắp vá](https://cafebiz.vn/vi-hoang-de-tiet-kiem-nhat-nha-thanh-khong-cho-phep-nguoi-trong-cung-an-thit-buoc-phi-tan-phai-nuoi-ga-va-thich-mac-long-bao-chap-va-20210223193253436.chn) ([CafeBiz](https://cafebiz.vn))
 - [Xây dựng phương án cho xe chở hàng hóa giữa Hải Dương với Hải Phòng](https://laodong.vn/xa-hoi/xay-dung-phuong-an-cho-xe-cho-hang-hoa-giua-hai-duong-voi-hai-phong-883015.ldo) ([Lao Động](https://laodong.vn))
-- [Kinh tế 24h: Chợ dân sinh sau Tết, nơi ế ẩm nơi đắt hàng](https://laodong.vn/kinh-te/kinh-te-24h-cho-dan-sinh-sau-tet-noi-e-am-noi-dat-hang-883012.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương đề xuất Ấn Độ viện trợ vaccine phòng Covid-19](https://cafebiz.vn/hai-duong-de-xuat-an-do-vien-tro-vaccine-phong-covid-19-20210223183715843.chn) ([CafeBiz](https://cafebiz.vn))
 - [Phó Thủ tướng Vũ Đức Đam: Tránh tình trạng xét nghiệm COVID-19 ồ ạt](https://laodong.vn/y-te/pho-thu-tuong-vu-duc-dam-tranh-tinh-trang-xet-nghiem-covid-19-o-at-882962.ldo) ([Lao Động](https://laodong.vn))
 - [Sà lan ‘khủng’ hiện đại công khai hút cát sát bờ](https://tuoitre.vn/sa-lan-khung-hien-dai-cong-khai-hut-cat-sat-bo-20210223183333658.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -98,5 +100,3 @@
 - [Đại gia bí ẩn thuê ông Đoàn Ngọc Hải phục vụ người nghèo 30 phút, trả công 60 triệu đồng](https://cafebiz.vn/dai-gia-bi-an-thue-ong-doan-ngoc-hai-phuc-vu-nguoi-ngheo-30-phut-tra-cong-60-trieu-dong-20210223144645737.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sơn Tùng M-TP lại bị tố "đạo nhạc", công ty sẽ tổn thất bao nhiêu khi MV 50 triệu lượt xem Chúng ta của hiện tại "bay màu"?](https://cafebiz.vn/son-tung-m-tp-lai-bi-to-dao-nhac-cong-ty-se-ton-that-bao-nhieu-khi-mv-50-trieu-luot-xem-chung-ta-cua-hien-tai-bay-mau-20210223144612871.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tín hiệu mừng của nền kinh tế: 2/3 doanh nghiệp Việt được khảo sát có nhu cầu tuyển thêm nhân sự trong quý tới](https://cafebiz.vn/tin-hieu-mung-cua-nen-kinh-te-2-3-doanh-nghiep-viet-duoc-khao-sat-co-nhu-cau-tuyen-them-nhan-su-trong-quy-toi-20210223141707963.chn) ([CafeBiz](https://cafebiz.vn))
-- [P&amp;G tuyên bố kế hoạch hành động vì bình đẳng giới](https://laodong.vn/thong-tin-doanh-nghiep/pg-tuyen-bo-ke-hoach-hanh-dong-vi-binh-dang-gioi-882797.ldo) ([Lao Động](https://laodong.vn))
-- [Facebook 'xuống nước', khôi phục chia sẻ tin tức tại Úc sau chưa đầy 1 tuần ‘làm căng’](https://cafebiz.vn/facebook-xuong-nuoc-khoi-phuc-chia-se-tin-tuc-tai-uc-sau-chua-day-1-tuan-lam-cang-20210223143034055.chn) ([CafeBiz](https://cafebiz.vn))

@@ -16,7 +16,7 @@
 
 - Current weather is haze.
 - Temperature is 23°C.
-- Feels Like 24.31°C.
+- Feels Like 24.67°C.
 - Air Visual is 163.
 
 **WEATHER**
@@ -70,6 +70,9 @@
 
 **NEWS**
 
+- [3 vị hoàng đế qua đời kỳ quặc nhất lịch sử Trung Hoa: Người chết vì khoe khoang thể lực hơn người, kẻ qua đời vì dọa giết đầu bếp](https://cafebiz.vn/3-vi-hoang-de-qua-doi-ky-quac-nhat-lich-su-trung-hoa-nguoi-chet-vi-khoe-khoang-the-luc-hon-nguoi-ke-qua-doi-vi-doa-giet-dau-bep-20210223143805038.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tổng LĐLĐVN vận động đoàn viên, NLĐ tích cực tham gia hiến máu](https://laodong.vn/cong-doan/tong-ldldvn-van-dong-doan-vien-nld-tich-cuc-tham-gia-hien-mau-883010.ldo) ([Lao Động](https://laodong.vn))
+- [Tổng thống Mỹ Joe Biden dự lễ tưởng niệm nạn nhân COVID-19](https://cafebiz.vn/tong-thong-my-joe-biden-du-le-tuong-niem-nan-nhan-covid-19-20210223184321293.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chân dung người đàn ông từng khiến Mỹ lao đao bằng cấm vận, thị trường dầu mỏ chao đảo và đẩy kinh tế toàn cầu vào suy thoái](https://cafebiz.vn/chan-dung-nguoi-dan-ong-tung-khien-my-lao-dao-bang-cam-van-thi-truong-dau-mo-chao-dao-va-day-kinh-te-toan-cau-vao-suy-thoai-20210223193537118.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nóng nhất hôm nay: Bất ngờ thu nhập của ông Trump khi làm tổng thống](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bat-ngo-thu-nhap-cua-ong-trump-khi-lam-tong-thong-882946.ldo) ([Lao Động](https://laodong.vn))
 - [Chuyện tình như phim của vợ chồng trùm ma tuý khét tiếng Mexico El Chapo](https://laodong.vn/the-gioi/chuyen-tinh-nhu-phim-cua-vo-chong-trum-ma-tuy-khet-tieng-mexico-el-chapo-882902.ldo) ([Lao Động](https://laodong.vn))
@@ -77,9 +80,6 @@
 - [Vụ tàu hàng va cầu Phước Khánh: Chưa phát hiện hư hỏng trên kết cấu chính](https://laodong.vn/xa-hoi/vu-tau-hang-va-cau-phuoc-khanh-chua-phat-hien-hu-hong-tren-ket-cau-chinh-883017.ldo) ([Lao Động](https://laodong.vn))
 - [Vị Hoàng đế tiết kiệm nhất nhà Thanh: Không cho phép người trong cung ăn thịt, buộc phi tần phải nuôi gà và thích mặc long bào chắp vá](https://cafebiz.vn/vi-hoang-de-tiet-kiem-nhat-nha-thanh-khong-cho-phep-nguoi-trong-cung-an-thit-buoc-phi-tan-phai-nuoi-ga-va-thich-mac-long-bao-chap-va-20210223193253436.chn) ([CafeBiz](https://cafebiz.vn))
 - [Xây dựng phương án cho xe chở hàng hóa giữa Hải Dương với Hải Phòng](https://laodong.vn/xa-hoi/xay-dung-phuong-an-cho-xe-cho-hang-hoa-giua-hai-duong-voi-hai-phong-883015.ldo) ([Lao Động](https://laodong.vn))
-- [Kinh tế 24h: Chợ dân sinh sau Tết, nơi ế ẩm nơi đắt hàng](https://laodong.vn/kinh-te/kinh-te-24h-cho-dan-sinh-sau-tet-noi-e-am-noi-dat-hang-883012.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương đề xuất Ấn Độ viện trợ vaccine phòng Covid-19](https://cafebiz.vn/hai-duong-de-xuat-an-do-vien-tro-vaccine-phong-covid-19-20210223183715843.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phó Thủ tướng Vũ Đức Đam: Tránh tình trạng xét nghiệm COVID-19 ồ ạt](https://laodong.vn/y-te/pho-thu-tuong-vu-duc-dam-tranh-tinh-trang-xet-nghiem-covid-19-o-at-882962.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
