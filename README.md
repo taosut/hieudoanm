@@ -16,7 +16,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 24.48°C.
-- Air Visual is 154.
+- Air Visual is 156.
 
 **WEATHER**
 
@@ -29,41 +29,41 @@
 
 **GOOGLE TRENDS**
 
-- [Anh Đức](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
-- [Barca](https://www.google.com/search?q=Barca)
-- [COVID Hải Phòng](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
-- [Cúng Rằm tháng Giêng](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
-- [Daft Punk](https://www.google.com/search?q=Daft%20Punk)
-- [Giá Bitcoin](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
-- [Hướng dương ngược nắng tập 31](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
-- [Juventus](https://www.google.com/search?q=Juventus)
-- [Kim So Hyun](https://www.google.com/search?q=Kim%20So%20Hyun)
-- [Lien minh](https://www.google.com/search?q=Lien%20minh)
-- [Man City](https://www.google.com/search?q=Man%20City)
-- [Map](https://www.google.com/search?q=Map)
-- [Minh Nhựa](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
-- [PS5](https://www.google.com/search?q=PS5)
-- [Phùng Anh Lê](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
-- [Phạm Băng Băng](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
-- [Sơn Tùng](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
-- [Vietcombank](https://www.google.com/search?q=Vietcombank)
-- [VietinBank](https://www.google.com/search?q=VietinBank)
-- [iPhone 13](https://www.google.com/search?q=iPhone%2013)
+- [![Anh Đức](https://img.shields.io/static/v1?label=Anh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
+- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
+- [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
+- [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
+- [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
+- [![Hướng dương ngược nắng tập 31](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
+- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
+- [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
+- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Map](https://img.shields.io/static/v1?label=Map&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Map)
+- [![Minh Nhựa](https://img.shields.io/static/v1?label=Minh%20Nh%E1%BB%B1a&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
+- [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
+- [![Phùng Anh Lê](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Anh%20L%C3%AA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
+- [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
+- [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
+- [![Vietcombank](https://img.shields.io/static/v1?label=Vietcombank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietcombank)
+- [![VietinBank](https://img.shields.io/static/v1?label=VietinBank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VietinBank)
+- [![iPhone 13](https://img.shields.io/static/v1?label=iPhone%2013&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iPhone%2013)
 
 </td><td valign="top" width="33%">
 
 **NEWS**
 
+- [Thái Bình: &quot;Bà hỏa&quot; thiêu rụi nhà xưởng rộng hơn 300m2](https://laodong.vn/xa-hoi/thai-binh-ba-hoa-thieu-rui-nha-xuong-rong-hon-300m2-882980.ldo) ([Lao Động](https://laodong.vn))
+- [Chuẩn bị hội thảo kỷ niệm 50 năm Chiến thắng Đường 9 - Nam Lào](https://laodong.vn/xa-hoi/chuan-bi-hoi-thao-ky-niem-50-nam-chien-thang-duong-9-nam-lao-882981.ldo) ([Lao Động](https://laodong.vn))
 - [Tránh lợi dụng "giải cứu" ép giá nông dân, Hải Dương công bố giá bán nông sản](https://cafebiz.vn/tranh-loi-dung-giai-cuu-ep-gia-nong-dan-hai-duong-cong-bo-gia-ban-nong-san-20210223183504504.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ngoại binh cũ của Sài Gòn khẳng định Công Phượng xuất sắc nhất V.League](https://laodong.vn/bong-da/ngoai-binh-cu-cua-sai-gon-khang-dinh-cong-phuong-xuat-sac-nhat-vleague-882910.ldo) ([Lao Động](https://laodong.vn))
+- [Bác sĩ bị sóng cuốn trôi khi câu  cá](https://tuoitre.vn/bac-si-bi-song-cuon-troi-khi-cau-ca-20210223182008213.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Điểm cuối cùng liên quan đến COVID-19 ở TP.HCM đã gỡ phong tỏa](https://tuoitre.vn/diem-cuoi-cung-lien-quan-den-covid-19-o-tp-hcm-da-go-phong-toa-20210223181404948.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Ai từng đến 19 địa điểm này xin liên hệ y tế](https://tuoitre.vn/ai-tung-den-19-dia-diem-nay-xin-lien-he-y-te-20210223182144247.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tin bóng đá tối 23.2: Tottenham chốt thời điểm &quot;thanh lý” Mourinho](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-232-tottenham-chot-thoi-diem-thanh-ly-mourinho-882934.ldo) ([Lao Động](https://laodong.vn))
 - [2 phương án chuẩn bị cho V.League 2021 trở lại](https://laodong.vn/bong-da/2-phuong-an-chuan-bi-cho-vleague-2021-tro-lai-882939.ldo) ([Lao Động](https://laodong.vn))
-- [MV của Sơn Tùng MTP có giữ được view &quot;khủng&quot; nếu khôi phục lại?](https://laodong.vn/giai-tri/mv-cua-son-tung-mtp-co-giu-duoc-view-khung-neu-khoi-phuc-lai-882943.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt đối tượng chém người trọng thương rồi bỏ trốn](https://laodong.vn/phap-luat/bat-doi-tuong-chem-nguoi-trong-thuong-roi-bo-tron-882942.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ trương đầu tư xây dựng và kinh doanh kết cấu hạ tầng KCN Việt Hàn](https://laodong.vn/thoi-su/chu-truong-dau-tu-xay-dung-va-kinh-doanh-ket-cau-ha-tang-kcn-viet-han-882974.ldo) ([Lao Động](https://laodong.vn))
 - [Nhà Trắng đáp lời Bắc Kinh về quan hệ Mỹ-Trung](https://laodong.vn/the-gioi/nha-trang-dap-loi-bac-kinh-ve-quan-he-my-trung-882969.ldo) ([Lao Động](https://laodong.vn))
-- [Phó Thủ tướng Vũ Đức Đam: 'Không thể tuyệt đối không có mầm bệnh trong cộng đồng'](https://tuoitre.vn/pho-thu-tuong-vu-duc-dam-khong-the-tuyet-doi-khong-co-mam-benh-trong-cong-dong-20210223171412725.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chiều 23-2, thêm 6 ca COVID-19 mới ở Quảng Ninh và Hải Dương](https://tuoitre.vn/chieu-23-2-them-6-ca-covid-19-moi-o-quang-ninh-va-hai-duong-20210223181120742.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
