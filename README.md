@@ -75,8 +75,8 @@
 - [Giáo hội Phật giáo VN thử nghiệm cầu an trực tuyến](https://vnexpress.net/giao-hoi-phat-giao-vn-thu-nghiem-cau-an-truc-tuyen-4239166.html) ([VNExpress](https://vnexpress.net))
 - [Thái Bình: &quot;Bà hỏa&quot; thiêu rụi nhà xưởng rộng hơn 300m2](https://laodong.vn/xa-hoi/thai-binh-ba-hoa-thieu-rui-nha-xuong-rong-hon-300m2-882980.ldo) ([Lao Động](https://laodong.vn))
 - [Chuẩn bị hội thảo kỷ niệm 50 năm Chiến thắng Đường 9 - Nam Lào](https://laodong.vn/xa-hoi/chuan-bi-hoi-thao-ky-niem-50-nam-chien-thang-duong-9-nam-lao-882981.ldo) ([Lao Động](https://laodong.vn))
+- [Một ngày, một xã tại Cẩm Giàng xử phạt 15 trường hợp vi phạm phòng chống dịch](http://vietnamnet.vn/vn/thoi-su/mot-ngay-mot-xa-tai-cam-giang-xu-phat-15-truong-hop-vi-pham-phong-chong-dich-714966.html) ([VietNamNet](https://vietnamnet.vn))
 - [Tránh lợi dụng "giải cứu" ép giá nông dân, Hải Dương công bố giá bán nông sản](https://cafebiz.vn/tranh-loi-dung-giai-cuu-ep-gia-nong-dan-hai-duong-cong-bo-gia-ban-nong-san-20210223183504504.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ngoại binh cũ của Sài Gòn khẳng định Công Phượng xuất sắc nhất V.League](https://laodong.vn/bong-da/ngoai-binh-cu-cua-sai-gon-khang-dinh-cong-phuong-xuat-sac-nhat-vleague-882910.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -139,10 +139,6 @@
 
 ## Data
 
-<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
-
-**CSV**
-
 - [Administrative Divisions](docs/administrative-divisions)
 - [Banks](docs/banks/banks.csv)
 - [Culture, Sports and Tourism](docs/cst)
@@ -159,9 +155,3 @@
   - [Giao Hang Nhanh (GHN)](docs/open-apis/ghn)
 - [USA](docs/usa/README.md)
 - [Visas](docs/visas/visas.csv)
-
-</td><td valign="top" width="33%">
-
-</td><td valign="top" width="33%">
-
-</td></tr></tbody></table>

@@ -273,17 +273,7 @@ ${youTubeTrending}
 
 ## Data
 
-<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
-
-**CSV**
-
 ${csv}
-
-</td><td valign="top" width="33%">
-
-</td><td valign="top" width="33%">
-
-</td></tr></tbody></table>
 `;
 
   await fs.writeFileSync('../README.md', md);
