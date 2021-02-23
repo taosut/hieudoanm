@@ -17,7 +17,7 @@
 - Current weather is broken clouds.
 - Temperature is 21°C.
 - Feels Like 21.27°C.
-- Air Visual is 98.
+- Air Visual is 82.
 
 **WEATHER**
 
