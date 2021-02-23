@@ -191,7 +191,7 @@ export const buildREADME = async () => {
   const { description, temp, feelsLike } = weather;
   const npm: string = buildNPM();
 
-  const md: string = `<p align="center"><img src="http://randojs.com/images/shapeShifterGray.gif" alt="VIETNAM" height="60"/></p>
+  const md: string = `<p align="center"><img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/top.png" alt="VIETNAM" height="60"/></p>
 <h1 align="center">VIETNAMDB</h1>
 <p align="center">VIETNAM RESTful APIs.</p>
 <p align="center">
