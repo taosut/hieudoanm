@@ -16,15 +16,15 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 23.95°C.
-- Air Visual is 133.
+- Feels Like 22.86°C.
+- Air Visual is 119.
 
 **WEATHER**
 
-- Date: 2021/02/23
-- Lunar: 2021/01/12
+- Date: 2021/02/24
+- Lunar: 2021/01/13
 - Tiet Khi: Tiểu tuyết.
-- năm canh tý tháng mậu tý ngày canh thân.
+- năm canh tý tháng kỷ sửu ngày tân dậu.
 
 **NPM**
 
@@ -49,7 +49,6 @@
 - [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
-- [![Google Classroom](https://img.shields.io/static/v1?label=Google%20Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Google%20Classroom)
 - [![Hướng dương ngược nắng tập 31](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
@@ -58,11 +57,12 @@
 - [![Map](https://img.shields.io/static/v1?label=Map&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Map)
 - [![Minh Nhựa](https://img.shields.io/static/v1?label=Minh%20Nh%E1%BB%B1a&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
 - [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
+- [![Phùng Anh Lê](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Anh%20L%C3%AA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [![Vietcombank](https://img.shields.io/static/v1?label=Vietcombank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietcombank)
 - [![VietinBank](https://img.shields.io/static/v1?label=VietinBank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VietinBank)
-- [![Đại tá Phùng Anh Lê](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20t%C3%A1%20Ph%C3%B9ng%20Anh%20L%C3%AA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20Ph%C3%B9ng%20Anh%20L%C3%AA)
+- [![iPhone 13](https://img.shields.io/static/v1?label=iPhone%2013&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iPhone%2013)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -70,6 +70,7 @@
 
 **NEWS**
 
+- [Covid-19 ngày 24/2](https://vnexpress.net/covid-19-ngay-24-2-4239251.html) ([VNExpress](https://vnexpress.net))
 - [Thủ tướng lần đầu dự, phát biểu tại khuôn khổ Hội đồng Bảo an Liên Hợp Quốc](https://laodong.vn/thoi-su/thu-tuong-lan-dau-du-phat-bieu-tai-khuon-kho-hoi-dong-bao-an-lien-hop-quoc-883026.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương yêu cầu xử lý nghiêm F1 không khai báo trong vòng 24h](https://laodong.vn/xa-hoi/hai-duong-yeu-cau-xu-ly-nghiem-f1-khong-khai-bao-trong-vong-24h-883025.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương yêu cầu F1 phải khai báo y tế trong 24 giờ kể từ khi thông báo F0](https://tuoitre.vn/hai-duong-yeu-cau-f1-phai-khai-bao-y-te-trong-24-gio-ke-tu-khi-thong-bao-f0-20210223214556038.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -79,7 +80,6 @@
 - [Thái tử phi "vạn người mê" của Malaysia: Nhan sắc khiến ai cũng xao xuyến cùng câu chuyện cổ tích "yêu em từ cái nhìn đầu tiên"](https://cafebiz.vn/thai-tu-phi-van-nguoi-me-cua-malaysia-nhan-sac-khien-ai-cung-xao-xuyen-cung-cau-chuyen-co-tich-yeu-em-tu-cai-nhin-dau-tien-20210223215340216.chn) ([CafeBiz](https://cafebiz.vn))
 - [Người đàn ông tử vong khi đang điều trị cách ly](https://vnexpress.net/nguoi-dan-ong-tu-vong-khi-dang-dieu-tri-cach-ly-4239236.html) ([VNExpress](https://vnexpress.net))
 - [Xác định nguồn lây chùm ca bệnh tại Hải Phòng](https://laodong.vn/xa-hoi/xac-dinh-nguon-lay-chum-ca-benh-tai-hai-phong-883020.ldo) ([Lao Động](https://laodong.vn))
-- [Đã đến lúc thực hiện "Hộ chiếu vaccine" trên toàn thế giới?](https://cafebiz.vn/da-den-luc-thuc-hien-ho-chieu-vaccine-tren-toan-the-gioi-20210223194530115.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -113,8 +113,8 @@
 03. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 04. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 05. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
-06. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-07. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+06. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+07. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 08. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
 09. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
 10. [Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]](https://www.youtube.com/watch?v=aXzVF3XeS8M) - [TaylorSwiftVEVO](https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg)
