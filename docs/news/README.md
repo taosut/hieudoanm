@@ -1,8 +1,11 @@
 # News
 
+- [Đề nghị Hải Dương tập trung xét nghiệm khu vực nguy cơ cao](https://vnexpress.net/de-nghi-hai-duong-tap-trung-xet-nghiem-khu-vuc-nguy-co-cao-4239143.html) ([VNExpress](https://vnexpress.net))
+- [Producer beat Lucky tung video so sánh Có Chắc Yêu Là Đây, Sơn Tùng chối đạo nhạc kiểu gì bây giờ?](https://cafebiz.vn/producer-beat-lucky-tung-video-so-sanh-co-chac-yeu-la-day-son-tung-choi-dao-nhac-kieu-gi-bay-gio-20210223191600076.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giáo hội Phật giáo VN thử nghiệm cầu an trực tuyến](https://vnexpress.net/giao-hoi-phat-giao-vn-thu-nghiem-cau-an-truc-tuyen-4239166.html) ([VNExpress](https://vnexpress.net))
 - [Thái Bình: &quot;Bà hỏa&quot; thiêu rụi nhà xưởng rộng hơn 300m2](https://laodong.vn/xa-hoi/thai-binh-ba-hoa-thieu-rui-nha-xuong-rong-hon-300m2-882980.ldo) ([Lao Động](https://laodong.vn))
 - [Chuẩn bị hội thảo kỷ niệm 50 năm Chiến thắng Đường 9 - Nam Lào](https://laodong.vn/xa-hoi/chuan-bi-hoi-thao-ky-niem-50-nam-chien-thang-duong-9-nam-lao-882981.ldo) ([Lao Động](https://laodong.vn))
+- [Một ngày, một xã tại Cẩm Giàng xử phạt 15 trường hợp vi phạm phòng chống dịch](http://vietnamnet.vn/vn/thoi-su/mot-ngay-mot-xa-tai-cam-giang-xu-phat-15-truong-hop-vi-pham-phong-chong-dich-714966.html) ([VietNamNet](https://vietnamnet.vn))
 - [Tránh lợi dụng "giải cứu" ép giá nông dân, Hải Dương công bố giá bán nông sản](https://cafebiz.vn/tranh-loi-dung-giai-cuu-ep-gia-nong-dan-hai-duong-cong-bo-gia-ban-nong-san-20210223183504504.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ngoại binh cũ của Sài Gòn khẳng định Công Phượng xuất sắc nhất V.League](https://laodong.vn/bong-da/ngoai-binh-cu-cua-sai-gon-khang-dinh-cong-phuong-xuat-sac-nhat-vleague-882910.ldo) ([Lao Động](https://laodong.vn))
 - [Bác sĩ bị sóng cuốn trôi khi câu  cá](https://tuoitre.vn/bac-si-bi-song-cuon-troi-khi-cau-ca-20210223182008213.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -76,7 +79,6 @@
 - [Tín hiệu mừng của nền kinh tế: 2/3 doanh nghiệp Việt được khảo sát có nhu cầu tuyển thêm nhân sự trong quý tới](https://cafebiz.vn/tin-hieu-mung-cua-nen-kinh-te-2-3-doanh-nghiep-viet-duoc-khao-sat-co-nhu-cau-tuyen-them-nhan-su-trong-quy-toi-20210223141707963.chn) ([CafeBiz](https://cafebiz.vn))
 - [P&amp;G tuyên bố kế hoạch hành động vì bình đẳng giới](https://laodong.vn/thong-tin-doanh-nghiep/pg-tuyen-bo-ke-hoach-hanh-dong-vi-binh-dang-gioi-882797.ldo) ([Lao Động](https://laodong.vn))
 - [Facebook 'xuống nước', khôi phục chia sẻ tin tức tại Úc sau chưa đầy 1 tuần ‘làm căng’](https://cafebiz.vn/facebook-xuong-nuoc-khoi-phuc-chia-se-tin-tuc-tai-uc-sau-chua-day-1-tuan-lam-cang-20210223143034055.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phạt một cá nhân 12,5 triệu đồng do quảng cáo thực phẩm chức năng không phù hợp](http://vietnamnet.vn/vn/thoi-su/phat-mot-ca-nhan-12-5-trieu-dong-do-quang-cao-thuc-pham-chuc-nang-khong-phu-hop-714893.html) ([VietNamNet](https://vietnamnet.vn))
 - [Ảnh ấn tượng: Ngỡ ngành cảnh băng tuyết phủ trắng nhiều nơi trên thế giới](https://laodong.vn/photo/anh-an-tuong-ngo-nganh-canh-bang-tuyet-phu-trang-nhieu-noi-tren-the-gioi-882753.ldo) ([Lao Động](https://laodong.vn))
 - [Người thân ngóng tin hai thuyền viên Hà Tĩnh mất tích trên biển Hàn Quốc](https://tuoitre.vn/nguoi-than-ngong-tin-hai-thuyen-vien-ha-tinh-mat-tich-tren-bien-han-quoc-20210223131823422.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Gỡ phong toả điểm liên quan COVID-19 cuối cùng tại TPHCM](https://laodong.vn/photo/go-phong-toa-diem-lien-quan-covid-19-cuoi-cung-tai-tphcm-882827.ldo) ([Lao Động](https://laodong.vn))
@@ -98,5 +100,3 @@
 - [Nữ công nhân dương tính SARS-CoV-2 đi lại nhiều nơi, hơn 6.000 người bị phong tỏa](https://cafebiz.vn/nu-cong-nhan-duong-tinh-sars-cov-2-di-lai-nhieu-noi-hon-6000-nguoi-bi-phong-toa-20210223134541247.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ca nghi nhiễm Covid-19 mới ở TP.Hải Dương: Mỗi ngày đi bán cá ở 2 chợ khác nhau](https://cafebiz.vn/ca-nghi-nhiem-covid-19-moi-o-tphai-duong-moi-ngay-di-ban-ca-o-2-cho-khac-nhau-2021022313423895.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giá đất tăng cao, đôi vợ chồng trẻ vật lộn tìm mua nhà vùng ven Sài Gòn dù có tiền tỷ trong tay](https://cafebiz.vn/gia-dat-tang-cao-doi-vo-chong-tre-vat-lon-tim-mua-nha-vung-ven-sai-gon-du-co-tien-ty-trong-tay-2021022313412304.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khách giảm vì COVID-19, đường sắt tiếp tục tạm dừng nhiều đoàn tàu](https://tuoitre.vn/khach-giam-vi-covid-19-duong-sat-tiep-tuc-tam-dung-nhieu-doan-tau-20210223124628328.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nhiều doanh nghiệp điêu đứng, nhưng một ngân hàng vẫn báo lãi hơn 200 triệu USD nhờ thảm họa năng lượng ở Texas](https://cafebiz.vn/nhieu-doanh-nghiep-dieu-dung-nhung-mot-ngan-hang-van-bao-lai-hon-200-trieu-usd-nho-tham-hoa-nang-luong-o-texas-20210223133432318.chn) ([CafeBiz](https://cafebiz.vn))

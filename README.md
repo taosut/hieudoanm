@@ -14,8 +14,8 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 24.48°C.
+- Temperature is 23°C.
+- Feels Like 24.21°C.
 - Air Visual is 156.
 
 **WEATHER**
@@ -54,6 +54,8 @@
 
 **NEWS**
 
+- [Đề nghị Hải Dương tập trung xét nghiệm khu vực nguy cơ cao](https://vnexpress.net/de-nghi-hai-duong-tap-trung-xet-nghiem-khu-vuc-nguy-co-cao-4239143.html) ([VNExpress](https://vnexpress.net))
+- [Producer beat Lucky tung video so sánh Có Chắc Yêu Là Đây, Sơn Tùng chối đạo nhạc kiểu gì bây giờ?](https://cafebiz.vn/producer-beat-lucky-tung-video-so-sanh-co-chac-yeu-la-day-son-tung-choi-dao-nhac-kieu-gi-bay-gio-20210223191600076.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giáo hội Phật giáo VN thử nghiệm cầu an trực tuyến](https://vnexpress.net/giao-hoi-phat-giao-vn-thu-nghiem-cau-an-truc-tuyen-4239166.html) ([VNExpress](https://vnexpress.net))
 - [Thái Bình: &quot;Bà hỏa&quot; thiêu rụi nhà xưởng rộng hơn 300m2](https://laodong.vn/xa-hoi/thai-binh-ba-hoa-thieu-rui-nha-xuong-rong-hon-300m2-882980.ldo) ([Lao Động](https://laodong.vn))
 - [Chuẩn bị hội thảo kỷ niệm 50 năm Chiến thắng Đường 9 - Nam Lào](https://laodong.vn/xa-hoi/chuan-bi-hoi-thao-ky-niem-50-nam-chien-thang-duong-9-nam-lao-882981.ldo) ([Lao Động](https://laodong.vn))
@@ -62,8 +64,6 @@
 - [Bác sĩ bị sóng cuốn trôi khi câu  cá](https://tuoitre.vn/bac-si-bi-song-cuon-troi-khi-cau-ca-20210223182008213.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Điểm cuối cùng liên quan đến COVID-19 ở TP.HCM đã gỡ phong tỏa](https://tuoitre.vn/diem-cuoi-cung-lien-quan-den-covid-19-o-tp-hcm-da-go-phong-toa-20210223181404948.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Ai từng đến 19 địa điểm này xin liên hệ y tế](https://tuoitre.vn/ai-tung-den-19-dia-diem-nay-xin-lien-he-y-te-20210223182144247.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tin bóng đá tối 23.2: Tottenham chốt thời điểm &quot;thanh lý” Mourinho](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-232-tottenham-chot-thoi-diem-thanh-ly-mourinho-882934.ldo) ([Lao Động](https://laodong.vn))
-- [2 phương án chuẩn bị cho V.League 2021 trở lại](https://laodong.vn/bong-da/2-phuong-an-chuan-bi-cho-vleague-2021-tro-lai-882939.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
