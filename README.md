@@ -7,9 +7,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 21°C.
-- Feels Like 21.94°C.
-- Air Visual is 97.
+- Temperature is 22°C.
+- Feels Like 23.27°C.
+- Air Visual is 158.
 
 **WEATHER**
 
@@ -23,40 +23,40 @@
 **GOOGLE TRENDS**
 
 - [ACB](https://www.google.com/search?q=ACB)
-- [Agribank](https://www.google.com/search?q=Agribank)
 - [Amee](https://www.google.com/search?q=Amee)
 - [BIDV](https://www.google.com/search?q=BIDV)
 - [COVID Hải Phòng](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [Daft Punk](https://www.google.com/search?q=Daft%20Punk)
 - [Hướng dương ngược nắng tập 31](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
+- [Hải Phòng COVID](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng%20COVID)
 - [Juventus](https://www.google.com/search?q=Juventus)
 - [MU vs Newcastle](https://www.google.com/search?q=MU%20vs%20Newcastle)
 - [Man City](https://www.google.com/search?q=Man%20City)
+- [Minh Nhựa](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
+- [PS5](https://www.google.com/search?q=PS5)
 - [PSG](https://www.google.com/search?q=PSG)
 - [Phùng Anh Lê](https://www.google.com/search?q=Ph%C3%B9ng%20Anh%20L%C3%AA)
 - [Sevilla](https://www.google.com/search?q=Sevilla)
 - [Sơn Tùng](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
-- [Tỷ giá USD](https://www.google.com/search?q=T%E1%BB%B7%20gi%C3%A1%20USD)
 - [VCB](https://www.google.com/search?q=VCB)
 - [Vietcombank](https://www.google.com/search?q=Vietcombank)
 - [VietinBank](https://www.google.com/search?q=VietinBank)
-- [WhatsApp](https://www.google.com/search?q=WhatsApp)
 - [iPhone 13](https://www.google.com/search?q=iPhone%2013)
 
 </td><td valign="top" width="33%">
 
 **NEWS**
 
-- [Chim sẻ cũng có thể đẻ trứng phượng hoàng: Bí kíp kinh doanh kiếm bộn tiền  từ việc phá dỡ chung cư cũ của một chủ thầu xây dựng nhỏ](https://cafebiz.vn/chim-se-cung-co-the-de-trung-phuong-hoang-bi-kip-kinh-doanh-kiem-bon-tien-tu-viec-pha-do-chung-cu-cu-cua-mot-chu-thau-xay-dung-nho-20210223094957385.chn) ([CafeBiz](https://cafebiz.vn))
-- [Động thái đầu tiên từ người khiếu nại bản quyền MV của Sơn Tùng MTP](https://laodong.vn/giai-tri/dong-thai-dau-tien-tu-nguoi-khieu-nai-ban-quyen-mv-cua-son-tung-mtp-882748.ldo) ([Lao Động](https://laodong.vn))
-- [Nhân vật bí ẩn GC thẳng tay &quot;đánh&quot; bản quyền MV của Sơn Tùng M-TP là ai?](https://laodong.vn/giai-tri/nhan-vat-bi-an-gc-thang-tay-danh-ban-quyen-mv-cua-son-tung-m-tp-la-ai-882732.ldo) ([Lao Động](https://laodong.vn))
-- [Người dân Tây Tựu xót xa nhìn hoa rằm tháng Giêng vứt đầy đường](https://tuoitre.vn/nguoi-dan-tay-tuu-xot-xa-nhin-hoa-ram-thang-gieng-vut-day-duong-20210222220241612.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tòa án tối cao Mỹ có động thái về hồ sơ thuế của ông Trump](https://laodong.vn/the-gioi/toa-an-toi-cao-my-co-dong-thai-ve-ho-so-thue-cua-ong-trump-882741.ldo) ([Lao Động](https://laodong.vn))
-- [Congo chỉ đích danh thủ phạm tấn công đoàn xe làm Đại sứ Italia thiệt mạng](https://laodong.vn/the-gioi/congo-chi-dich-danh-thu-pham-tan-cong-doan-xe-lam-dai-su-italia-thiet-mang-882743.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều doanh nghiệp “khát” lao động ngay từ những ngày đầu năm](https://laodong.vn/cong-doan/nhieu-doanh-nghiep-khat-lao-dong-ngay-tu-nhung-ngay-dau-nam-882649.ldo) ([Lao Động](https://laodong.vn))
-- [Người dân Texas vẫn chưa hết rắc rối sau đợt băng giá kỷ lục](https://laodong.vn/the-gioi/nguoi-dan-texas-van-chua-het-rac-roi-sau-dot-bang-gia-ky-luc-882726.ldo) ([Lao Động](https://laodong.vn))
-- [Anh Đức tiết lộ lý do gia nhập câu lạc bộ Long An](https://laodong.vn/video-the-thao/anh-duc-tiet-lo-ly-do-gia-nhap-cau-lac-bo-long-an-882706.ldo) ([Lao Động](https://laodong.vn))
-- [Những nơi nên trải nghiệm ở miền nắng gió](https://cafebiz.vn/nhung-noi-nen-trai-nghiem-o-mien-nang-gio-20210222171838035.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ngành thép Việt Nam tăng trưởng hơn 100% trong năm 2020 nhờ những yếu tố nào?](https://cafebiz.vn/nganh-thep-viet-nam-tang-truong-hon-100-trong-nam-2020-nho-nhung-yeu-to-nao-20210223102004094.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những loại hoa hay dùng để cúng trong ngày Rằm tháng Giêng](https://laodong.vn/chuyen-nha-minh/nhung-loai-hoa-hay-dung-de-cung-trong-ngay-ram-thang-gieng-882554.ldo) ([Lao Động](https://laodong.vn))
+- [Sau năm 2021, CSGT không sang tên chính chủ cho xe cũ, mất giấy tờ](https://laodong.vn/giao-thong/sau-nam-2021-csgt-khong-sang-ten-chinh-chu-cho-xe-cu-mat-giay-to-882737.ldo) ([Lao Động](https://laodong.vn))
+- [Núp trong cabin xe tải để trốn cách ly](https://vnexpress.net/nup-trong-cabin-xe-tai-de-tron-cach-ly-4238810.html) ([VNExpress](https://vnexpress.net))
+- [Đề nghị Chính phủ đánh giá đúng 'sức khỏe' của doanh nghiệp, người lao động](https://tuoitre.vn/de-nghi-chinh-phu-danh-gia-dung-suc-khoe-cua-doanh-nghiep-nguoi-lao-dong-2021022309393177.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Những công dụng tuyệt vời của nghệ đối với sức khỏe không nên bỏ qua](https://laodong.vn/suc-khoe/nhung-cong-dung-tuyet-voi-cua-nghe-doi-voi-suc-khoe-khong-nen-bo-qua-882331.ldo) ([Lao Động](https://laodong.vn))
+- [MV của Sơn Tùng MTP bị gỡ khỏi Youtube chưa chắc do “đạo nhái”](https://laodong.vn/giai-tri/mv-cua-son-tung-mtp-bi-go-khoi-youtube-chua-chac-do-dao-nhai-882747.ldo) ([Lao Động](https://laodong.vn))
+- [Chân dung người con nuôi được thừa kế toàn bộ đế chế LG trị giá hàng trăm tỷ USD: Đẹp trai, tài giỏi, nhiều tiền nhưng bất chấp lấy vợ ‘thường dân’ và cái kết đầy bất ngờ](https://cafebiz.vn/chan-dung-nguoi-con-nuoi-duoc-thua-ke-toan-bo-de-che-lg-tri-gia-hang-tram-ty-usd-dep-trai-tai-gioi-nhieu-tien-nhung-bat-chap-lay-vo-thuong-dan-va-cai-ket-day-bat-ngo-20210223100258665.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhìn lại thành tích 2 MV ra cùng thời điểm của BTS, Blackpink sau nửa năm](https://laodong.vn/giai-tri/nhin-lai-thanh-tich-2-mv-ra-cung-thoi-diem-cua-bts-blackpink-sau-nua-nam-882742.ldo) ([Lao Động](https://laodong.vn))
+- [Những quyết định khiến Warren Buffett và các nhà đầu tư khác hối tiếc](https://cafebiz.vn/nhung-quyet-dinh-khien-warren-buffett-va-cac-nha-dau-tu-khac-hoi-tiec-20210223084342325.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
