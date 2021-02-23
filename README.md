@@ -54,12 +54,12 @@
 
 **NEWS**
 
+- [Tìm được thi thể bác sĩ trẻ mất tích khi đi câu cá](https://laodong.vn/xa-hoi/tim-duoc-thi-the-bac-si-tre-mat-tich-khi-di-cau-ca-882965.ldo) ([Lao Động](https://laodong.vn))
+- [Tia cực tím đạt cực đại nhiều ngày ở TPHCM: Chuyên gia nói gì?](https://laodong.vn/video/tia-cuc-tim-dat-cuc-dai-nhieu-ngay-o-tphcm-chuyen-gia-noi-gi-882895.ldo) ([Lao Động](https://laodong.vn))
+- [Đoàn tàu thứ ba tuyến metro Nhổn - ga Hà Nội đã được đưa lên đường ray](https://laodong.vn/giao-thong/doan-tau-thu-ba-tuyen-metro-nhon-ga-ha-noi-da-duoc-dua-len-duong-ray-882961.ldo) ([Lao Động](https://laodong.vn))
 - [Phim của Đặng Luân, Tiêu Chiến hậu công chiếu: Thành tích đi kèm ồn ào](https://laodong.vn/giai-tri/phim-cua-dang-luan-tieu-chien-hau-cong-chieu-thanh-tich-di-kem-on-ao-882947.ldo) ([Lao Động](https://laodong.vn))
 - [Đức góp thêm 1,8 tỉ USD cho cuộc chiến chống COVID-19](https://laodong.vn/the-gioi/duc-gop-them-18-ti-usd-cho-cuoc-chien-chong-covid-19-882949.ldo) ([Lao Động](https://laodong.vn))
-- [Ninh Bình: Một người bị phạt 2 triệu đồng vì khai báo y tế không trung thực](https://laodong.vn/xa-hoi/ninh-binh-mot-nguoi-bi-phat-2-trieu-dong-vi-khai-bao-y-te-khong-trung-thuc-882954.ldo) ([Lao Động](https://laodong.vn))
-- [6 ca mới mắc COVID-19 ở Hải Dương và Quảng Ninh](https://laodong.vn/y-te/6-ca-moi-mac-covid-19-o-hai-duong-va-quang-ninh-882966.ldo) ([Lao Động](https://laodong.vn))
 - ['Đề nghị Hải Phòng tháo gỡ cho xe chở hàng từ Hải Dương'](https://vnexpress.net/de-nghi-hai-phong-thao-go-cho-xe-cho-hang-tu-hai-duong-4239041.html) ([VNExpress](https://vnexpress.net))
-- [Huyện đảo Lý Sơn có Bí thư Huyện ủy mới](https://laodong.vn/xa-hoi/huyen-dao-ly-son-co-bi-thu-huyen-uy-moi-882945.ldo) ([Lao Động](https://laodong.vn))
 - [HĐND TP HCM giảm 10 đại biểu so với nhiệm kỳ trước](https://vnexpress.net/hdnd-tp-hcm-giam-10-dai-bieu-so-voi-nhiem-ky-truoc-4239197.html) ([VNExpress](https://vnexpress.net))
 - [Cơn đau đầu của các nhà tuyển dụng: 52% người lao động sẽ đi tìm việc trong 3 – 6 tháng tới, lương thưởng là mối quan tâm hàng đầu!](https://cafebiz.vn/con-dau-dau-cua-cac-nha-tuyen-dung-52-nguoi-lao-dong-se-di-tim-viec-trong-3-6-thang-toi-luong-thuong-la-moi-quan-tam-hang-dau-20210223155905379.chn) ([CafeBiz](https://cafebiz.vn))
 - [Những trang nhất gây choáng của New York Times về COVID-19](https://cafebiz.vn/nhung-trang-nhat-gay-choang-cua-new-york-times-ve-covid-19-20210223171236234.chn) ([CafeBiz](https://cafebiz.vn))
