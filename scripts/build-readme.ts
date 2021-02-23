@@ -10,7 +10,9 @@ import { addZero, request, getTime } from './libs';
 const vietcetera: Vietcetera = new Vietcetera();
 const city: string = 'Hanoi';
 
-export const syncArticles = async () => {
+const masterRepo: string = `https://github.com/vietnamdb/vietnamdb/tree/master`;
+
+export const syncArticles = async (): Promise<string> => {
   const articles = await syncNews(10, false);
   return articles
     .map((article: any) => {
@@ -43,7 +45,7 @@ export const getLunarDate = async (): Promise<Record<string, any>> => {
   return { solarYear, solarMonth, solarDate, lunarYear, lunarMonth, lunarDate, canChi, tietKhi };
 };
 
-export const getVietcetera = async () => {
+export const getVietcetera = async (): Promise<string> => {
   const type: any = 'latest';
   const basicArticles: Array<Record<string, any>> = await vietcetera.getArticles({ type });
   const articles = basicArticles
@@ -120,31 +122,83 @@ export const buildNPM = (): string => {
     .join('\n');
 };
 
+const getAll = (): Promise<Record<string, any>> => {
+  return new Promise(resolve => {
+    Promise.all([
+      getGoogleTrends(),
+      getAirVisual(),
+      getYouTubeTrending(),
+      getYouTubeTrending(10),
+      getVietcetera(),
+      getLunarDate(),
+      syncArticles(),
+      getWeather()
+    ])
+      .then(res => {
+        const [
+          googleTrends = '',
+          airVisual = 0,
+          youTubeTrending = '',
+          musicTrending = '',
+          vietceteraArticles = '',
+          lunarCalendar = {},
+          articles = '',
+          weather = {}
+        ] = res;
+        resolve({
+          googleTrends,
+          airVisual,
+          youTubeTrending,
+          musicTrending,
+          vietceteraArticles,
+          lunarCalendar,
+          articles,
+          weather
+        });
+      })
+      .catch(error => {
+        console.log(error);
+        resolve({});
+      });
+  });
+};
+
 export const buildREADME = async () => {
   const csv1: string = fs.readFileSync('../markdown/csv1.md', 'utf-8');
   const csv2: string = fs.readFileSync('../markdown/csv2.md', 'utf-8');
-  const googleTrends: string = await getGoogleTrends();
-  const airVisual: number = await getAirVisual();
-  const { description, temp, feelsLike } = await getWeather();
-  const youTubeTrending: string = await getYouTubeTrending();
-  const musicTrending: string = await getYouTubeTrending(10);
-  const vietceteraArticles: string = await getVietcetera();
-  const npm: string = buildNPM();
+  console.time('GET ALL');
   const {
-    solarYear,
-    solarMonth,
-    solarDate,
-    lunarYear,
-    lunarMonth,
-    lunarDate,
-    canChi,
-    tietKhi
-  } = await getLunarDate();
-  const articles = await syncArticles();
+    googleTrends = '',
+    airVisual = 0,
+    youTubeTrending = '',
+    musicTrending = '',
+    vietceteraArticles = '',
+    lunarCalendar = {},
+    articles = '',
+    weather = {}
+  } = await getAll();
+  console.timeEnd('GET ALL');
+  const {
+    solarYear = 0,
+    solarMonth = 0,
+    solarDate = 0,
+    lunarYear = 0,
+    lunarMonth = 0,
+    lunarDate = 0,
+    canChi = '',
+    tietKhi = ''
+  } = lunarCalendar;
+  const { description, temp, feelsLike } = weather;
+  const npm: string = buildNPM();
 
-  // const twoColumesStyle: string = '-webkit-column-count: 2; -moz-column-count: 2; column-count: 2;';
-
-  const md: string = `# VIETNAMDB ([Stacks](docs/stacks))
+  const md: string = `<p align="center"><img src="http://randojs.com/images/shapeShifterGray.gif" alt="VIETNAM" height="60"/></p>
+<h1 align="center">VIETNAMDB</h1>
+<p align="center">VIETNAM RESTful APIs.</p>
+<p align="center">
+  <a href="https://vietnamdb.herokuapp.com/api">APIs</a> -
+  <a href="https://vietnamdb.github.io/#/">Docs</a> -
+  <a href="${masterRepo}/docs/stacks">Stacks</a>
+</p>
 
 ## NOW
 

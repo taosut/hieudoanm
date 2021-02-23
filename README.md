@@ -1,4 +1,11 @@
-# VIETNAMDB ([Stacks](docs/stacks))
+<p align="center"><img src="http://randojs.com/images/shapeShifterGray.gif" alt="VIETNAM" height="60"/></p>
+<h1 align="center">VIETNAMDB</h1>
+<p align="center">VIETNAM RESTful APIs.</p>
+<p align="center">
+  <a href="https://vietnamdb.herokuapp.com/api">APIs</a> -
+  <a href="https://vietnamdb.github.io/#/">Docs</a> -
+  <a href="https://github.com/vietnamdb/vietnamdb/tree/master/docs/stacks">Stacks</a>
+</p>
 
 ## NOW
 
@@ -7,9 +14,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 25.08°C.
-- Air Visual is 139.
+- Temperature is 24°C.
+- Feels Like 24.52°C.
+- Air Visual is 140.
 
 **WEATHER**
 
@@ -47,16 +54,16 @@
 
 **NEWS**
 
-- [Ca mắc COVID-19 ở Hải Phòng thừa nhận về Cẩm Giàng nhưng chưa khai báo](https://laodong.vn/xa-hoi/ca-mac-covid-19-o-hai-phong-thua-nhan-ve-cam-giang-nhung-chua-khai-bao-882929.ldo) ([Lao Động](https://laodong.vn))
-- [Vượt trở ngại COVID-19, Bạc Liêu phấn đấu đưa du lịch tăng 50%](https://laodong.vn/xa-hoi/vuot-tro-ngai-covid-19-bac-lieu-phan-dau-dua-du-lich-tang-50-882928.ldo) ([Lao Động](https://laodong.vn))
-- [Phí bản quyền tin tức – Điểm nóng mới giữa giới chức toàn cầu và các tập đoàn công nghệ](https://cafebiz.vn/phi-ban-quyen-tin-tuc-diem-nong-moi-giua-gioi-chuc-toan-cau-va-cac-tap-doan-cong-nghe-20210223171042193.chn) ([CafeBiz](https://cafebiz.vn))
-- [Việt Nam tiến tới tiêm miễn phí vaccine phòng Covid-19 cho người dân](https://cafebiz.vn/viet-nam-tien-toi-tiem-mien-phi-vaccine-phong-covid-19-cho-nguoi-dan-20210223171035684.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt đối tượng buôn ma túy dùng liềm chống đối khi bị đột kích](https://laodong.vn/phap-luat/bat-doi-tuong-buon-ma-tuy-dung-liem-chong-doi-khi-bi-dot-kich-882919.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất đưa phóng viên vào diện được xét nghiệm COVID-19 miễn phí](https://laodong.vn/xa-hoi/de-xuat-dua-phong-vien-vao-dien-duoc-xet-nghiem-covid-19-mien-phi-882896.ldo) ([Lao Động](https://laodong.vn))
-- [Tạm dừng chạy một số đoàn tàu Thống nhất từ hôm nay](https://laodong.vn/giao-thong/tam-dung-chay-mot-so-doan-tau-thong-nhat-tu-hom-nay-882923.ldo) ([Lao Động](https://laodong.vn))
-- [Điều chỉnh quy hoạch chi tiết sân bay Tân Sơn Nhất](https://tuoitre.vn/dieu-chinh-quy-hoach-chi-tiet-san-bay-tan-son-nhat-20210223164559169.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Choáng váng khi nghe tin đội bóng chuyền nam Đắk Lắk 'đường ai nấy đi'](https://tuoitre.vn/choang-vang-khi-nghe-tin-doi-bong-chuyen-nam-dak-lak-duong-ai-nay-di-2021022316010738.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [MV “Chúng ta của hiện tại” bị gỡ khỏi Youtube, Sơn Tùng M-TP có thể mất bao nhiêu tiền?](https://cafebiz.vn/mv-chung-ta-cua-hien-tai-bi-go-khoi-youtube-son-tung-m-tp-co-the-mat-bao-nhieu-tien-202102231647458.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phụ nữ đi ôtô nên lắp những tính năng thông minh này](https://laodong.vn/xe/phu-nu-di-oto-nen-lap-nhung-tinh-nang-thong-minh-nay-882893.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ lợn nhập khẩu trốn cách ly: Quảng Bình xử lý kỷ luật một cán bộ](https://laodong.vn/ban-doc/vu-lon-nhap-khau-tron-cach-ly-quang-binh-xu-ly-ky-luat-mot-can-bo-882885.ldo) ([Lao Động](https://laodong.vn))
+- [Những sao Việt kết hôn &quot;bí mật&quot; năm 2020 vì không muốn ồn ào](https://laodong.vn/chuyen-nha-minh/nhung-sao-viet-ket-hon-bi-mat-nam-2020-vi-khong-muon-on-ao-882920.ldo) ([Lao Động](https://laodong.vn))
+- [Ổn định sản xuất nông nghiệp trong bối cảnh COVID diễn biến phức tạp](https://laodong.vn/kinh-te/on-dinh-san-xuat-nong-nghiep-trong-boi-canh-covid-dien-bien-phuc-tap-882944.ldo) ([Lao Động](https://laodong.vn))
+- [Gặp Atletico Madrid, nếu lỡ Chelsea “chết” bởi thủ môn…](https://laodong.vn/bong-da-quoc-te/gap-atletico-madrid-neu-lo-chelsea-chet-boi-thu-mon-882925.ldo) ([Lao Động](https://laodong.vn))
+- [Những trang nhất gây choáng của New York Times về COVID-19](https://cafebiz.vn/nhung-trang-nhat-gay-choang-cua-new-york-times-ve-covid-19-20210223171236234.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hủy nhiều tàu do vắng khách](https://vnexpress.net/huy-nhieu-tau-do-vang-khach-4239156.html) ([VNExpress](https://vnexpress.net))
+- [CEO Hải Trà Tân Cương: &quot;Mang Chè Thái Nguyên hữu cơ sạch đến với mọi người&quot;](https://laodong.vn/thong-tin-doanh-nghiep/ceo-hai-tra-tan-cuong-mang-che-thai-nguyen-huu-co-sach-den-voi-moi-nguoi-882811.ldo) ([Lao Động](https://laodong.vn))
+- [Không thể tuyệt đối không có mầm bệnh trong cộng đồng](http://vietnamnet.vn/vn/thoi-su/chinh-tri/khong-the-tuyet-doi-khong-co-mam-benh-trong-cong-dong-714954.html) ([VietNamNet](https://vietnamnet.vn))
+- [Tỉ phú Elon Musk và Bill Gates đã nói gì khiến Bitcoin lao dốc không phanh?](https://laodong.vn/kinh-te/ti-phu-elon-musk-va-bill-gates-da-noi-gi-khien-bitcoin-lao-doc-khong-phanh-882883.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -68,6 +75,7 @@
 
 **VIETCETERA**
 
+- [Bóc Term: Cougar - Khi chuyện tình “chị đẹp và trai trẻ” vượt qua định kiến xã hội](https://vietcetera.com/vn/boc-term-cougar-khi-chi-dep-va-trai-tre-vuot-qua-dinh-kien-xa-hoi)
 - [Chai thuỷ tinh La Vie: Nuôi dưỡng vòng tuần hoàn của sự sống](https://vietcetera.com/vn/chai-thuy-tinh-la-vie-nuoi-duong-vong-tuan-hoan-cua-su-song)
 - [Văn hóa Tiki có gì mà thế giới thích mê? ](https://vietcetera.com/vn/van-hoa-tiki-co-gi-ma-the-gioi-thich-me)
 - [Du thuyền Oceania Cruises: 180 ngày, 96 địa danh và 33 quốc gia](https://vietcetera.com/vn/du-thuyen-oceania-cruises-co-hoi-kham-pha-cac-dia-danh-noi-tieng-tai-viet-nam-va-tren-the-gioi)
@@ -77,7 +85,6 @@
 - [Meme học: Đất lành "cheems" đậu](https://vietcetera.com/vn/meme-hoc-cheems)
 - [Bóc Term: Pickup line - Khi thả thính trở thành một bộ môn nghệ thuật](https://vietcetera.com/vn/boc-term-pick-up-line-tha-thinh-tro-thanh-mon-nghe-thuat)
 - [SCALE và nguyên lý “Cái rổ thủng”: Đừng vội khi Startup chưa đủ "chín"! ](https://vietcetera.com/vn/scale-va-nguyen-ly-cai-ro-thung-dung-voi-khi-startup-chua-du-chin)
-- [7 Kỹ thuật giao tiếp bằng mắt cho cuộc đối thoại hiệu quả](https://vietcetera.com/vn/7-cach-duy-tri-giao-tiep-bang-mat-hieu-qua)
 
 </td><td valign="top" width="33%">
 
