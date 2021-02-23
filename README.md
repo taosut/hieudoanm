@@ -15,9 +15,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 24.25°C.
-- Air Visual is 156.
+- Temperature is 23°C.
+- Feels Like 23.59°C.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -70,6 +70,7 @@
 
 **NEWS**
 
+- [Hải Dương yêu cầu xử lý nghiêm F1 không khai báo trong vòng 24h](https://laodong.vn/xa-hoi/hai-duong-yeu-cau-xu-ly-nghiem-f1-khong-khai-bao-trong-vong-24h-883025.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương yêu cầu F1 phải khai báo y tế trong 24 giờ kể từ khi thông báo F0](https://tuoitre.vn/hai-duong-yeu-cau-f1-phai-khai-bao-y-te-trong-24-gio-ke-tu-khi-thong-bao-f0-20210223214556038.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hà Nội vận động cán bộ, bếp ăn trường học đặt mua nông thủy sản Hải Dương, Quảng Ninh](https://tuoitre.vn/ha-noi-van-dong-can-bo-bep-an-truong-hoc-dat-mua-nong-thuy-san-hai-duong-quang-ninh-20210223202004779.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hải Dương: Động viên lực lượng tuyến đầu chống dịch và công nhân nhà trọ](https://laodong.vn/cong-doan/hai-duong-dong-vien-luc-luong-tuyen-dau-chong-dich-va-cong-nhan-nha-tro-883018.ldo) ([Lao Động](https://laodong.vn))
@@ -79,7 +80,6 @@
 - [Xác định nguồn lây chùm ca bệnh tại Hải Phòng](https://laodong.vn/xa-hoi/xac-dinh-nguon-lay-chum-ca-benh-tai-hai-phong-883020.ldo) ([Lao Động](https://laodong.vn))
 - [Đã đến lúc thực hiện "Hộ chiếu vaccine" trên toàn thế giới?](https://cafebiz.vn/da-den-luc-thuc-hien-ho-chieu-vaccine-tren-toan-the-gioi-20210223194530115.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Phòng không cho xe qua QL5, Tổng cục Đường bộ yêu cầu thông đường](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/hai-phong-khong-cho-xe-qua-ql5-tong-cuc-duong-bo-yeu-cau-thong-duong-714989.html) ([VietNamNet](https://vietnamnet.vn))
-- [Bộ Xây dựng chung tay “giải cứu” nông sản Hải Dương](https://laodong.vn/xa-hoi/bo-xay-dung-chung-tay-giai-cuu-nong-san-hai-duong-883022.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -111,8 +111,8 @@
 01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 02. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 03. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
-04. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
-05. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
+04. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
+05. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
 06. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 07. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 08. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
