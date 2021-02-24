@@ -16,8 +16,8 @@
 
 - Current weather is few clouds.
 - Temperature is 24°C.
-- Feels Like 21.28°C.
-- Air Visual is 90.
+- Feels Like 22.29°C.
+- Air Visual is 77.
 
 **WEATHER**
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
+- [Dàn ô tô địa hình chở nông sản Hải Dương đến điểm tiêu thụ](https://laodong.vn/nguoi-viet-tu-te/dan-o-to-dia-hinh-cho-nong-san-hai-duong-den-diem-tieu-thu-883303.ldo) ([Lao Động](https://laodong.vn))
+- [Thêm 9 ca mắc COVID-19 mới tại Hải Dương, 1 ca phát hiện trong cộng đồng](https://tuoitre.vn/them-9-ca-mac-covid-19-moi-tai-hai-duong-1-ca-phat-hien-trong-cong-dong-2021022418090176.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Toàn cảnh quá trình đưa lô Vaccine COVID-19 nhập kho lạnh tại TPHCM](https://laodong.vn/video/toan-canh-qua-trinh-dua-lo-vaccine-covid-19-nhap-kho-lanh-tai-tphcm-883296.ldo) ([Lao Động](https://laodong.vn))
 - [[NÓNG] Vũng Tàu phát hiện thêm 2 thuyền viên tàu Indonesia dương tính SARS-CoV-2: 20 người và thi thể vẫn trên tàu neo ngoài biển](https://cafebiz.vn/nong-vung-tau-phat-hien-them-2-thuyen-vien-tau-indonesia-duong-tinh-sars-cov-2-20-nguoi-va-thi-the-van-tren-tau-neo-ngoai-bien-20210224183621325.chn) ([CafeBiz](https://cafebiz.vn))
 - [Khám phá khu vườn rộng 100m2 trong biệt thự của Thủy Tiên - Công Vinh](https://laodong.vn/bat-dong-san/kham-pha-khu-vuon-rong-100m2-trong-biet-thu-cua-thuy-tien-cong-vinh-883284.ldo) ([Lao Động](https://laodong.vn))
 - [Chiều nay, Hải Dương ghi nhận thêm 9 ca mắc COVID-19 mới](https://cafebiz.vn/chieu-nay-hai-duong-ghi-nhan-them-9-ca-mac-covid-19-moi-20210224183133963.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ca nghi nhiễm COVID-19 ở Hòa Bình âm tính lần 1](https://laodong.vn/xa-hoi/ca-nghi-nhiem-covid-19-o-hoa-binh-am-tinh-lan-1-883297.ldo) ([Lao Động](https://laodong.vn))
 - [Đầu tư nước ngoài phục hồi trong 2  tháng đầu năm 2021](https://laodong.vn/kinh-te/dau-tu-nuoc-ngoai-phuc-hoi-trong-2-thang-dau-nam-2021-883295.ldo) ([Lao Động](https://laodong.vn))
-- [Giả mạo trang web Công an Hà Nội, chiếm đoạt 4 tỉ đồng](https://laodong.vn/phap-luat/gia-mao-trang-web-cong-an-ha-noi-chiem-doat-4-ti-dong-883293.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Hai lúa&quot; Đồng Tháp tung ra thị trường cơm cẩm hạt sen đóng hộp ăn liền](https://laodong.vn/kinh-te/hai-lua-dong-thap-tung-ra-thi-truong-com-cam-hat-sen-dong-hop-an-lien-883279.ldo) ([Lao Động](https://laodong.vn))
 - [&quot;Văn Triền và Danh Trung sẽ được thi đấu thường xuyên ở Nhật Bản!&quot;](https://laodong.vn/video-the-thao/van-trien-va-danh-trung-se-duoc-thi-dau-thuong-xuyen-o-nhat-ban-883258.ldo) ([Lao Động](https://laodong.vn))
 - [Chi tiết 7 đợt cung ứng vaccine COVID-19 ở Việt Nam và đối tượng tiêm](https://laodong.vn/xa-hoi/chi-tiet-7-dot-cung-ung-vaccine-covid-19-o-viet-nam-va-doi-tuong-tiem-883286.ldo) ([Lao Động](https://laodong.vn))
-- [Thêm 9 ca mắc COVID-19 mới ở Hải Dương, có 1 ca phát hiện qua sàng lọc](https://laodong.vn/y-te/them-9-ca-mac-covid-19-moi-o-hai-duong-co-1-ca-phat-hien-qua-sang-loc-883291.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
