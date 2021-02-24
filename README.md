@@ -14,10 +14,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 22.62°C.
-- Air Visual is 89.
+- Feels Like 22.2°C.
+- Air Visual is 93.
 
 **WEATHER**
 
@@ -48,7 +48,7 @@
 - [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
-- [![G-D](https://img.shields.io/static/v1?label=G-D&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G-D)
+- [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
 - [![Google Classroom](https://img.shields.io/static/v1?label=Google%20Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Google%20Classroom)
 - [![Hướng dương ngược nắng tập 31](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Bảo vệ rừng không thể trông chờ &quot;vận động&quot; lâm tặc nương tay cho rừng](https://laodong.vn/ban-doc/bao-ve-rung-khong-the-trong-cho-van-dong-lam-tac-nuong-tay-cho-rung-883196.ldo) ([Lao Động](https://laodong.vn))
-- [Khiếu nại 32 năm mới được giải quyết: Ai sai phải bỏ tiền túi ra đền](https://laodong.vn/su-kien-binh-luan/khieu-nai-32-nam-moi-duoc-giai-quyet-ai-sai-phai-bo-tien-tui-ra-den-883093.ldo) ([Lao Động](https://laodong.vn))
-- [Cách tiếp cận của Việt Nam trong phòng chống COVID-19 đáng được ghi nhận](https://laodong.vn/the-gioi/cach-tiep-can-cua-viet-nam-trong-phong-chong-covid-19-dang-duoc-ghi-nhan-882986.ldo) ([Lao Động](https://laodong.vn))
-- [Chứng khoán khó lường, cao thủ hành động như thế nào?](https://laodong.vn/kinh-te/chung-khoan-kho-luong-cao-thu-hanh-dong-nhu-the-nao-883227.ldo) ([Lao Động](https://laodong.vn))
-- [Giám đốc Trung tâm Y tế ở 'ổ dịch Kim Thành' bị phê bình vì thiếu trách nhiệm](https://tuoitre.vn/giam-doc-trung-tam-y-te-o-o-dich-kim-thanh-bi-phe-binh-vi-thieu-trach-nhiem-20210224154117559.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Lô vaccine COVID-19 đầu tiên về kho lạnh, hé lộ quy trình bảo quản đặc biệt](https://laodong.vn/y-te/lo-vaccine-covid-19-dau-tien-ve-kho-lanh-he-lo-quy-trinh-bao-quan-dac-biet-883204.ldo) ([Lao Động](https://laodong.vn))
-- [Phát hiện biến thể COVID-19 thứ 5 ở Việt Nam](https://tuoitre.vn/phat-hien-bien-the-covid-19-thu-5-o-viet-nam-20210224154346461.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Quyền lực chốn công sở chỉ gói gọn trong 2 bí mật](https://cafebiz.vn/quyen-luc-chon-cong-so-chi-goi-gon-trong-2-bi-mat-20210224160246996.chn) ([CafeBiz](https://cafebiz.vn))
-- [Campuchia ghi nhận số ca nhiễm cao nhất trong ngày, có người Việt](https://tuoitre.vn/campuchia-ghi-nhan-so-ca-nhiem-cao-nhat-trong-ngay-co-nguoi-viet-20210224150734225.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Vì sao mọi sự trên đời đều chỉ nên khôn thôi, đừng "khôn quá"?](https://cafebiz.vn/vi-sao-moi-su-tren-doi-deu-chi-nen-khon-thoi-dung-khon-qua-20210224154205531.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhận định Atalanta - Real Madrid: Kền kền trắng gặp khó ở Italia](https://laodong.vn/the-thao/nhan-dinh-atalanta-real-madrid-ken-ken-trang-gap-kho-o-italia-883220.ldo) ([Lao Động](https://laodong.vn))
+- [Tiến trình cung ứng Vaccine Covid-19 và vai trò của nó trong phục hồi kinh tế](https://cafebiz.vn/tien-trinh-cung-ung-vaccine-covid-19-va-vai-tro-cua-no-trong-phuc-hoi-kinh-te-20210224171340361.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bầu Bình: “Ông Shimoda, ông Thành thực hiện 2 sứ mệnh khác nhau”](https://laodong.vn/the-thao/bau-binh-ong-shimoda-ong-thanh-thuc-hien-2-su-menh-khac-nhau-883245.ldo) ([Lao Động](https://laodong.vn))
+- [Phá vụ khai thác than trái phép đến 200 tỉ đồng tại Quảng Ninh](https://tuoitre.vn/pha-vu-khai-thac-than-trai-phep-den-200-ti-dong-tai-quang-ninh-20210224161455254.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Sở Y tế Bình Dương sẽ đề xuất mua vaccine COVID-19 tiêm cho người dân](https://laodong.vn/xa-hoi/so-y-te-binh-duong-se-de-xuat-mua-vaccine-covid-19-tiem-cho-nguoi-dan-883249.ldo) ([Lao Động](https://laodong.vn))
+- [Bí quyết luộc rau củ tươi ngon và đẹp mắt không phải ai cũng biết](https://laodong.vn/gia-dinh-hon-nhan/bi-quyet-luoc-rau-cu-tuoi-ngon-va-dep-mat-khong-phai-ai-cung-biet-883194.ldo) ([Lao Động](https://laodong.vn))
+- [5 vị trí sau không nên đặt Router Wifi](https://laodong.vn/cong-nghe/5-vi-tri-sau-khong-nen-dat-router-wifi-883255.ldo) ([Lao Động](https://laodong.vn))
+- [FPT thành lập công ty dịch vụ tư vấn chuyển đổi số FPT Digital](https://cafebiz.vn/fpt-thanh-lap-cong-ty-dich-vu-tu-van-chuyen-doi-so-fpt-digital-20210224170414541.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắt 3 vụ với 217 kg ma túy ở TPHCM: Hành trình phá án gian khó, hiểm nguy](https://laodong.vn/phap-luat/bat-3-vu-voi-217-kg-ma-tuy-o-tphcm-hanh-trinh-pha-an-gian-kho-hiem-nguy-882731.ldo) ([Lao Động](https://laodong.vn))
+- [Lấy chồng tỷ phú từng khiến Donald Trump "nóng mặt", trở thành "người Việt giàu nhất thế giới", cuộc sống của Hà Phương - em gái Cẩm Ly, bây giờ ra sao?](https://cafebiz.vn/lay-chong-ty-phu-tung-khien-donald-trump-nong-mat-tro-thanh-nguoi-viet-giau-nhat-the-gioi-cuoc-song-cua-ha-phuong-em-gai-cam-ly-bay-gio-ra-sao-20210224170012477.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -128,13 +128,13 @@
 01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 02. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
 03. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
-04. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
-05. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+04. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+05. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 06. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 07. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 09. [Phim Hành Động Võ Thuật 2021 - SÁT THỦ ẨN DANH | Phim Chiếu Rạp Thuyết Minh Mới Nhất](https://www.youtube.com/watch?v=qSqv22xvfVU) - [Like Movies](https://www.youtube.com/channel/UCWDfO46yvUbLudW99_rVTBg)
-10. [TÌNH BẠN DIỆU KỲ - AMEE x Ricky Star x Lăng LD ( Masew Remix )](https://www.youtube.com/watch?v=yFqzSq6T-Iw) - [Masew](https://www.youtube.com/channel/UCpm6kKrf5OdNRZ9hMgk3gsA)
+10. [Hiền Hồ - Quân AP khiến khán giả ngất lịm với Bông Hoa Đẹp Nhất và Gặp Nhưng Không Ở Lại | SÓNG 21](https://www.youtube.com/watch?v=5MzfUwXwY2Y) - [Vie GIẢITRÍ](https://www.youtube.com/channel/UC2Lgi2uPsOcCVF3imz7l2mg)
 
 [Read More](https://www.youtube.com/feed/trending)
 
