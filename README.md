@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 21°C.
 - Feels Like 22.04°C.
-- Air Visual is 61.
+- Air Visual is 108.
 
 **WEATHER**
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Cùng Tuổi Trẻ góp vắcxin COVID-19](https://tuoitre.vn/cung-tuoi-tre-gop-vacxin-covid-19-20210225000837825.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Dự báo thời tiết 25/2: Miền Bắc nắng ấm, Tây Nguyên lạnh nhất cả nước](http://vietnamnet.vn/vn/thoi-su/du-bao-thoi-tiet-25-2-mien-bac-nang-am-tay-nguyen-lanh-nhat-ca-nuoc-715271.html) ([VietNamNet](https://vietnamnet.vn))
 - [Quy trình bầu cử 500 đại biểu Quốc hội khóa mới](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/quy-trinh-bau-cu-500-dai-bieu-quoc-hoi-khoa-moi-715268.html) ([VietNamNet](https://vietnamnet.vn))
 - [Hải Dương lắp đặt cây ATM gạo tiếp sức người dân chống dịch](http://vietnamnet.vn/vn/thoi-su/hai-duong-lap-dat-cay-atm-gao-tiep-suc-nguoi-dan-chong-dich-715252.html) ([VietNamNet](https://vietnamnet.vn))
 - [Ươm trồng thành công cúc họa mi trái mùa](https://vnexpress.net/uom-trong-thanh-cong-cuc-hoa-mi-trai-mua-4239830.html) ([VNExpress](https://vnexpress.net))
@@ -83,8 +85,6 @@
 - [Đàn voọc ngũ sắc ở Vườn quốc gia Bạch Mã](https://vnexpress.net/dan-vooc-ngu-sac-o-vuon-quoc-gia-bach-ma-4239083.html) ([VNExpress](https://vnexpress.net))
 - [Phó Thủ tướng chỉ đạo các biện pháp lưu thông nông sản vùng dịch Covid-19](http://vietnamnet.vn/vn/thoi-su/pho-thu-tuong-chi-dao-cac-bien-phap-luu-thong-nong-san-vung-dich-covid-19-715293.html) ([VietNamNet](https://vietnamnet.vn))
 - [Cháy lớn vựa phế liệu trong đêm, người dân xung quanh hoảng hốt](https://tuoitre.vn/chay-lon-vua-phe-lieu-trong-dem-nguoi-dan-xung-quanh-hoang-hot-20210224230201686.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sơn Tùng M-TP chỉ mất khoảng 700 nghìn đến gần 5 triệu đồng để giải quyết vụ bản quyền với producer GC?](https://cafebiz.vn/son-tung-m-tp-chi-mat-khoang-700-nghin-den-gan-5-trieu-dong-de-giai-quyet-vu-ban-quyen-voi-producer-gc-20210224231536854.chn) ([CafeBiz](https://cafebiz.vn))
-- [QL 5 thông tuyến, Hải Phòng gia hạn xét nghiệm Covid-19 cho lái xe Hải Dương](http://vietnamnet.vn/vn/thoi-su/ql-5-thong-tuyen-hai-phong-gia-han-xet-nghiem-covid-19-cho-lai-xe-hai-duong-715289.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
