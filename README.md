@@ -15,9 +15,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 21°C.
-- Feels Like 21.68°C.
-- Air Visual is 140.
+- Temperature is 22°C.
+- Feels Like 22.7°C.
+- Air Visual is 136.
 
 **WEATHER**
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Facebook nhận phản đối từ người dùng vụ đình chỉ tài khoản Trump](https://laodong.vn/the-gioi/facebook-nhan-phan-doi-tu-nguoi-dung-vu-dinh-chi-tai-khoan-trump-883046.ldo) ([Lao Động](https://laodong.vn))
-- [Cần xử lý hình sự các đường dây, ổ nhóm buôn bán “hàng xách tay” lậu](https://laodong.vn/xa-hoi/can-xu-ly-hinh-su-cac-duong-day-o-nhom-buon-ban-hang-xach-tay-lau-882979.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Xe buýt bốc cháy dữ dội trong hầm chui An Sương](https://laodong.vn/giao-thong/tphcm-xe-buyt-boc-chay-du-doi-trong-ham-chui-an-suong-883072.ldo) ([Lao Động](https://laodong.vn))
-- [Đường đi của “hàng ngoại xách tay” được rao bán livestream](https://laodong.vn/phap-luat/duong-di-cua-hang-ngoai-xach-tay-duoc-rao-ban-livestream-882975.ldo) ([Lao Động](https://laodong.vn))
-- [Mất sổ đỏ có lo bị người khác mang đi cầm cố?](https://laodong.vn/bat-dong-san/mat-so-do-co-lo-bi-nguoi-khac-mang-di-cam-co-882867.ldo) ([Lao Động](https://laodong.vn))
-- [Tuyệt chiêu giúp chàng trai 29 tuổi sở hữu 29 căn nhà: Tiết kiệm!](https://cafebiz.vn/tuyet-chieu-giup-chang-trai-29-tuoi-so-huu-29-can-nha-tiet-kiem-20210223102031622.chn) ([CafeBiz](https://cafebiz.vn))
-- ["45 tuổi vẫn chẳng làm được trò trống gì": Cuộc sống bình dị đến tầm thường ở tuổi trung niên có thực sự đáng hổ thẹn?](https://cafebiz.vn/45-tuoi-van-chang-lam-duoc-tro-trong-gi-cuoc-song-binh-di-den-tam-thuong-o-tuoi-trung-nien-co-thuc-su-dang-ho-then-20210223170508933.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuyên gia lên tiếng trước lo ngại virus SARS-CoV-2 lây qua thực phẩm](https://cafebiz.vn/chuyen-gia-len-tieng-truoc-lo-ngai-virus-sars-cov-2-lay-qua-thuc-pham-20210224091215119.chn) ([CafeBiz](https://cafebiz.vn))
-- [Năm 2020, Huawei tăng trưởng nhẹ bất chấp thách thức](https://cafebiz.vn/nam-2020-huawei-tang-truong-nhe-bat-chap-thach-thuc-20210224085813572.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đề nghị có phương án cho xe hàng từ Hải Dương đi Hải Phòng](https://cafebiz.vn/de-nghi-co-phuong-an-cho-xe-hang-tu-hai-duong-di-hai-phong-20210224090757134.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Biden tổ chức cuộc gặp song phương đầu tiên với lãnh đạo thế giới](https://laodong.vn/the-gioi/ong-biden-to-chuc-cuoc-gap-song-phuong-dau-tien-voi-lanh-dao-the-gioi-883058.ldo) ([Lao Động](https://laodong.vn))
+- [Lễ giỗ vua Mai Hắc Đế](https://vnexpress.net/le-gio-vua-mai-hac-de-4239254.html) ([VNExpress](https://vnexpress.net))
+- [Lộ diện đại gia chi 60 triệu đồng “thuê” ông Đoàn Ngọc Hải phục vụ người nghèo 30 phút](https://cafebiz.vn/lo-dien-dai-gia-chi-60-trieu-dong-thue-ong-doan-ngoc-hai-phuc-vu-nguoi-ngheo-30-phut-20210224094343588.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuỗi scandal trải dài sự nghiệp 8 năm của Sơn Tùng: Bị tố đạo nhái, bồi thường 600 triệu vì tự huỷ show, căng nhất là drama "trà xanh"](https://cafebiz.vn/chuoi-scandal-trai-dai-su-nghiep-8-nam-cua-son-tung-bi-to-dao-nhai-boi-thuong-600-trieu-vi-tu-huy-show-cang-nhat-la-drama-tra-xanh-20210224094300485.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hoãn vòng loại World Cup 2022, Qatar và Australia rút khỏi Copa America](https://laodong.vn/the-thao/hoan-vong-loai-world-cup-2022-qatar-va-australia-rut-khoi-copa-america-883059.ldo) ([Lao Động](https://laodong.vn))
+- [3 đặc điểm tính cách này ảnh hưởng đến số tiền bạn kiếm được sau 40 tuổi, đọc ngay kẻo trễ](https://cafebiz.vn/3-dac-diem-tinh-cach-nay-anh-huong-den-so-tien-ban-kiem-duoc-sau-40-tuoi-doc-ngay-keo-tre-20210216013212894.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kết quả - Lịch thi đấu bóng đá ngày 24.2: Tâm điểm M'gladbach - Man City](https://laodong.vn/the-thao/ket-qua-lich-thi-dau-bong-da-ngay-242-tam-diem-mgladbach-man-city-883034.ldo) ([Lao Động](https://laodong.vn))
+- [Sau Tết nguyên đán, dân Hà Thành chi tiền triệu &quot;chơi&quot; cây bưởi Diễn](https://laodong.vn/kinh-te/sau-tet-nguyen-dan-dan-ha-thanh-chi-tien-trieu-choi-cay-buoi-dien-882828.ldo) ([Lao Động](https://laodong.vn))
+- [Tin bóng đá sáng 24.2: &quot;Ngả bàn đèn&quot; hạ gục Atletico Madrid, Giroud nói gì?](https://laodong.vn/the-thao/tin-bong-da-sang-242-nga-ban-den-ha-guc-atletico-madrid-giroud-noi-gi-883071.ldo) ([Lao Động](https://laodong.vn))
+- [Vẫn còn F0, nhiều người Điện Biên đã lơ là phòng chống COVID-19](https://laodong.vn/video/van-con-f0-nhieu-nguoi-dien-bien-da-lo-la-phong-chong-covid-19-882866.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
