@@ -15,9 +15,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 22°C.
-- Feels Like 23.42°C.
-- Air Visual is 151.
+- Temperature is 23°C.
+- Feels Like 23.59°C.
+- Air Visual is 140.
 
 **WEATHER**
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Vẫn còn 7.500 người có nhu cầu quay trở lại Quảng Ninh làm việc](https://laodong.vn/xa-hoi/van-con-7500-nguoi-co-nhu-cau-quay-tro-lai-quang-ninh-lam-viec-883083.ldo) ([Lao Động](https://laodong.vn))
-- [MC Thanh liêm: Hành trình dùng thanh sắc để gieo thiện duyên](https://laodong.vn/kinh-te/mc-thanh-liem-hanh-trinh-dung-thanh-sac-de-gieo-thien-duyen-882807.ldo) ([Lao Động](https://laodong.vn))
-- [Chính sách nhập cư Mỹ của ông Biden đối mặt phép thử gay gắt](https://laodong.vn/the-gioi/chinh-sach-nhap-cu-my-cua-ong-biden-doi-mat-phep-thu-gay-gat-883074.ldo) ([Lao Động](https://laodong.vn))
+- [Tottenham lao dốc: Thói đổ lỗi đã hại Pochettino, chuẩn bị là Mourinho](https://laodong.vn/bong-da-quoc-te/tottenham-lao-doc-thoi-do-loi-da-hai-pochettino-chuan-bi-la-mourinho-883019.ldo) ([Lao Động](https://laodong.vn))
+- [Công ty YG chính thức phản hồi về tin Jennie (Blackpink) hẹn hò G-Dragon](https://laodong.vn/giai-tri/cong-ty-yg-chinh-thuc-phan-hoi-ve-tin-jennie-blackpink-hen-ho-g-dragon-883106.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất làm cao tốc ngầm dọc sông Tô Lịch có khả thi?](https://cafebiz.vn/de-xuat-lam-cao-toc-ngam-doc-song-to-lich-co-kha-thi-20210224104445128.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thêm một phụ nữ làm nông nghi nhiễm COVID-19](https://tuoitre.vn/them-mot-phu-nu-lam-nong-nghi-nhiem-covid-19-20210224090951529.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Phóng viên trên tuyến đầu phòng chống dịch cần được bảo vệ an toàn](https://laodong.vn/su-kien-binh-luan/phong-vien-tren-tuyen-dau-phong-chong-dich-can-duoc-bao-ve-an-toan-883078.ldo) ([Lao Động](https://laodong.vn))
+- [Bạn cần bao nhiêu tiền để trở thành top 1% người giàu nhất thế giới ?](https://cafebiz.vn/ban-can-bao-nhieu-tien-de-tro-thanh-top-1-nguoi-giau-nhat-the-gioi--20210224095406254.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vĩnh Phúc xử lý hàng loạt cơ sở kinh doanh mở cửa bất chấp lệnh cấm](https://laodong.vn/phap-luat/vinh-phuc-xu-ly-hang-loat-co-so-kinh-doanh-mo-cua-bat-chap-lenh-cam-883102.ldo) ([Lao Động](https://laodong.vn))
+- [Kiên Giang: Nông dân trúng đậm vụ tôm càng xanh](https://laodong.vn/kinh-te/kien-giang-nong-dan-trung-dam-vu-tom-cang-xanh-883100.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng: Không thể chỉ lo chống dịch bệnh mà đóng cửa nền kinh tế](https://laodong.vn/thoi-su/thu-tuong-khong-the-chi-lo-chong-dich-benh-ma-dong-cua-nen-kinh-te-883096.ldo) ([Lao Động](https://laodong.vn))
 - [Thiếu tiền, thiếu thời gian, thiếu kiến thức - 3 lý do biện hộ phổ biến khiến cuộc đời bạn mãi bế tắc: Đừng lo, chúng tôi đã có giải pháp ở đây!](https://cafebiz.vn/thieu-tien-thieu-thoi-gian-thieu-kien-thuc-3-ly-do-bien-ho-pho-bien-khien-cuoc-doi-ban-mai-be-tac-dung-lo-chung-toi-da-co-giai-phap-o-day-20210224101838717.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dispatch tung tin chấn động: G-Dragon và Jennie (Blackpink) hẹn hò](https://laodong.vn/giai-tri/dispatch-tung-tin-chan-dong-g-dragon-va-jennie-blackpink-hen-ho-883076.ldo) ([Lao Động](https://laodong.vn))
-- [Nhật Bản bổ nhiệm Bộ trưởng Cô đơn nhằm tuyên chiến với vấn nạn tự tử](https://laodong.vn/the-gioi/nhat-ban-bo-nhiem-bo-truong-co-don-nham-tuyen-chien-voi-van-nan-tu-tu-883085.ldo) ([Lao Động](https://laodong.vn))
-- [Nước sông Hồng chuyển màu trong xanh](https://vnexpress.net/nuoc-song-hong-chuyen-mau-trong-xanh-4239350.html) ([VNExpress](https://vnexpress.net))
-- [TP.HCM: Đã có kết quả xét nghiệm Covid-19 của khách tại quán nhậu](https://cafebiz.vn/tphcm-da-co-ket-qua-xet-nghiem-covid-19-cua-khach-tai-quan-nhau-20210224101329863.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cổ phiếu Tesla lao dốc suốt 3 tuần liên tiếp](https://cafebiz.vn/co-phieu-tesla-lao-doc-suot-3-tuan-lien-tiep-20210224100621081.chn) ([CafeBiz](https://cafebiz.vn))
-- [Điểm lại những tỷ phú 'không bao giờ động đến' Bitcoin](https://cafebiz.vn/diem-lai-nhung-ty-phu-khong-bao-gio-dong-den-bitcoin-20210224090329538.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -91,6 +91,7 @@
 
 **VIETCETERA**
 
+- [Bóc Term: Zombie-box — Bạn dùng công nghệ hay công nghệ dùng bạn?](https://vietcetera.com/vn/boc-term-zombie-box-ban-co-dang-bi-an-nao)
 - [Điện ảnh, công nghệ và y tế: Việt Nam đang đứng ở đâu?](https://vietcetera.com/vn/khong-chi-chong-dich-tot-viet-nam-dang-dat-nhieu-cot-moc-hon-the)
 - ["Đâu là khoảnh khắc anh nhận ra mình rất hạnh phúc?"](https://vietcetera.com/vn/dau-la-khoanh-khac-anh-nhan-ra-minh-rat-hanh-phuc)
 - [Bóc Term: Cougar - Khi chuyện tình “chị đẹp và trai trẻ” vượt qua định kiến xã hội](https://vietcetera.com/vn/boc-term-cougar-khi-chi-dep-va-trai-tre-vuot-qua-dinh-kien-xa-hoi)
@@ -100,7 +101,6 @@
 - ["Anh diễn hài độc thoại nhiều rồi, nhưng set diễn khiến anh run nhất..."](https://vietcetera.com/vn/anh-dien-hai-doc-thoai-nhieu-roi-nhung-set-dien-khien-anh-run-nhat)
 - [Tóm Lại Là: Chúng ta có đang "bỏ quên" giáo viên?](https://vietcetera.com/vn/tom-lai-la-chung-ta-co-dang-bo-quen-giao-vien)
 - [Podcast “Vietnam Innovators” tập 8: Phillip An, Đồng sáng lập & CEO Homebase - Giải pháp mua nhà dễ dàng cho Millennials ](https://vietcetera.com/vn/podcast-vietnam-innovators-tap-8-phillip-an-dong-sang-lap-ceo-homebase-giai-phap-mua-nha-de-dang-cho-millennials)
-- [Meme học: Đất lành "cheems" đậu](https://vietcetera.com/vn/meme-hoc-cheems)
 
 [Read More](https://vietcetera.com/)
 
