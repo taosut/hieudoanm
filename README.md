@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Hôn nhân viên mãn của hai Hoa hậu Việt Nam có chiều cao khiêm tốn nhất](https://laodong.vn/gia-dinh-hon-nhan/hon-nhan-vien-man-cua-hai-hoa-hau-viet-nam-co-chieu-cao-khiem-ton-nhat-883147.ldo) ([Lao Động](https://laodong.vn))
-- [Dự kiến, Việt Nam sẽ có khoảng 90 triệu liều vaccine COVID-19 trong năm nay](https://laodong.vn/thoi-su/du-kien-viet-nam-se-co-khoang-90-trieu-lieu-vaccine-covid-19-trong-nam-nay-883136.ldo) ([Lao Động](https://laodong.vn))
-- [Đồng Nai đề xuất mua 6,2 triệu liều vaccine COVID-19 tiêm miễn phí toàn dân](https://laodong.vn/xa-hoi/dong-nai-de-xuat-mua-62-trieu-lieu-vaccine-covid-19-tiem-mien-phi-toan-dan-883144.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút: Tìm ra nguồn lây chùm ca bệnh tại Hải Phòng](https://laodong.vn/video-thoi-su/ban-tin-1-phut-tim-ra-nguon-lay-chum-ca-benh-tai-hai-phong-883097.ldo) ([Lao Động](https://laodong.vn))
+- [Xử lý phù nề, vết bầm do chấn thương phần mềm khi va chạm giao thông](https://laodong.vn/suc-khoe/xu-ly-phu-ne-vet-bam-do-chan-thuong-phan-mem-khi-va-cham-giao-thong-882395.ldo) ([Lao Động](https://laodong.vn))
+- [Tỷ giá ngoại tệ 24.2: USD tụt sâu chạm đáy 3 năm, nhà đầu tư thận trọng](https://laodong.vn/kinh-te/ty-gia-ngoai-te-242-usd-tut-sau-cham-day-3-nam-nha-dau-tu-than-trong-883113.ldo) ([Lao Động](https://laodong.vn))
+- [Học sinh toàn TPHCM đi học lại từ ngày 1.3](https://laodong.vn/giao-duc/hoc-sinh-toan-tphcm-di-hoc-lai-tu-ngay-13-883156.ldo) ([Lao Động](https://laodong.vn))
+- [2 trong 3 bệnh nhân COVID-19 ở Điện Biên dương tính trở lại](https://laodong.vn/xa-hoi/2-trong-3-benh-nhan-covid-19-o-dien-bien-duong-tinh-tro-lai-883148.ldo) ([Lao Động](https://laodong.vn))
+- [Lô vaccine COVID-19 đầu tiên đã về tới Việt Nam](https://laodong.vn/y-te/lo-vaccine-covid-19-dau-tien-da-ve-toi-viet-nam-883146.ldo) ([Lao Động](https://laodong.vn))
+- [Ngư dân được mùa cá hố](https://vnexpress.net/ngu-dan-duoc-mua-ca-ho-4239439.html) ([VNExpress](https://vnexpress.net))
 - [Bắc Giang xin chuyển sân bay quân sự Kép thành sân bay lưỡng dụng](https://tuoitre.vn/bac-giang-xin-chuyen-san-bay-quan-su-kep-thanh-san-bay-luong-dung-20210224113703805.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chuyên gia blockchain chỉ ra nhiều dấu hiệu lừa đảo của Pi Network](https://cafebiz.vn/chuyen-gia-blockchain-chi-ra-nhieu-dau-hieu-lua-dao-cua-pi-network-20210224120641409.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ 20.3, giáo viên chưa đạt chuẩn được xếp lương theo quy định mới](https://laodong.vn/giao-duc/tu-203-giao-vien-chua-dat-chuan-duoc-xep-luong-theo-quy-dinh-moi-883134.ldo) ([Lao Động](https://laodong.vn))
-- [Bình Dương: Xử phạt công ty xây dựng móng chung cư khi chưa có giấy phép](https://laodong.vn/bat-dong-san/binh-duong-xu-phat-cong-ty-xay-dung-mong-chung-cu-khi-chua-co-giay-phep-883120.ldo) ([Lao Động](https://laodong.vn))
 - [19 địa điểm liên quan đến hai điều dưỡng mắc COVID-19 tại Hải Phòng](https://laodong.vn/infographic/19-dia-diem-lien-quan-den-hai-dieu-duong-mac-covid-19-tai-hai-phong-883033.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Joe Biden có cuộc gặp song phương đầu tiên với tư cách Tổng thống Mỹ](https://laodong.vn/photo/ong-joe-biden-co-cuoc-gap-song-phuong-dau-tien-voi-tu-cach-tong-thong-my-883109.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang xử tăng nặng cán bộ đi chùa, la cà quán xá trong giờ làm việc](http://vietnamnet.vn/vn/thoi-su/chinh-tri/bac-giang-xu-tang-nang-can-bo-di-chua-la-ca-quan-xa-trong-gio-lam-viec-715116.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -125,8 +125,8 @@
 
 **YOUTUBE TRENDS**
 
-01. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
-02. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
+01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
+02. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
 03. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 04. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2 [ Xuân Tân Sửu Tết 2021 ]](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 05. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
