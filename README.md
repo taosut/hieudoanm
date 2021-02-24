@@ -15,9 +15,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 23.37°C.
-- Air Visual is 124.
+- Temperature is 25°C.
+- Feels Like 24.42°C.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -48,6 +48,7 @@
 - [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
+- [![G-D](https://img.shields.io/static/v1?label=G-D&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G-D)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
 - [![Google Classroom](https://img.shields.io/static/v1?label=Google%20Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Google%20Classroom)
 - [![Hướng dương ngược nắng tập 31](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
@@ -60,7 +61,6 @@
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
-- [![Vietcombank](https://img.shields.io/static/v1?label=Vietcombank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietcombank)
 - [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
 - [![Đường lên đỉnh Olympia](https://img.shields.io/static/v1?label=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia)
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Tiết lộ đầu tiên về chất lượng lô vaccine COVID-19 vừa nhập về Việt Nam](https://laodong.vn/y-te/tiet-lo-dau-tien-ve-chat-luong-lo-vaccine-covid-19-vua-nhap-ve-viet-nam-883162.ldo) ([Lao Động](https://laodong.vn))
-- [117,600 liều vắc-xin COVID-19 AstraZeneca đầu tiên đã về đến Việt Nam](https://laodong.vn/suc-khoe/117600-lieu-vac-xin-covid-19-astrazeneca-dau-tien-da-ve-den-viet-nam-883187.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt giữ người chồng say rượu đánh đập, đổ xăng đốt vợ](https://laodong.vn/phap-luat/bat-giu-nguoi-chong-say-ruou-danh-dap-do-xang-dot-vo-883175.ldo) ([Lao Động](https://laodong.vn))
-- [Hàng hóa phục vụ sản xuất, xuất nhập khẩu Hải Dương được phép vào Hải Phòng](https://laodong.vn/kinh-te/hang-hoa-phuc-vu-san-xuat-xuat-nhap-khau-hai-duong-duoc-phep-vao-hai-phong-883140.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng: Nhanh chóng tiêm chủng, gỡ ngay ách tắc lưu thông hàng hoá](https://laodong.vn/thoi-su/thu-tuong-nhanh-chong-tiem-chung-go-ngay-ach-tac-luu-thong-hang-hoa-883176.ldo) ([Lao Động](https://laodong.vn))
-- [Người dân trong vùng dịch ở Hải Dương mong chờ điều gì?](http://vietnamnet.vn/vn/thoi-su/nguoi-dan-trong-vung-dich-o-hai-duong-mong-cho-dieu-gi-715138.html) ([VietNamNet](https://vietnamnet.vn))
+- [Cận cảnh lô vaccine Covid-19 đầu tiên về Việt Nam được bảo quản trong kho siêu lạnh](https://cafebiz.vn/can-canh-lo-vaccine-covid-19-dau-tien-ve-viet-nam-duoc-bao-quan-trong-kho-sieu-lanh-20210224144705218.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chi trả lương hưu, trợ cấp BHXH tháng 3-4.2021 vào cùng một kỳ](https://laodong.vn/xa-hoi/chi-tra-luong-huu-tro-cap-bhxh-thang-3-42021-vao-cung-mot-ky-883195.ldo) ([Lao Động](https://laodong.vn))
+- [Giá xăng tăng mạnh vào ngày mai?](https://laodong.vn/thi-truong/gia-xang-tang-manh-vao-ngay-mai-883191.ldo) ([Lao Động](https://laodong.vn))
+- [LĐLĐ TP.Hải Phòng tặng 25.500 suất nông sản cho công nhân lao động](https://laodong.vn/cong-doan/ldld-tphai-phong-tang-25500-suat-nong-san-cho-cong-nhan-lao-dong-883189.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Dương: Các cấp công đoàn chăm lo tốt cho NLĐ khó khăn dịp Tết](https://laodong.vn/cong-doan/binh-duong-cac-cap-cong-doan-cham-lo-tot-cho-nld-kho-khan-dip-tet-883179.ldo) ([Lao Động](https://laodong.vn))
+- [Bị từ chối công chứng di chúc nhà đất khi nào?](https://laodong.vn/bat-dong-san/bi-tu-choi-cong-chung-di-chuc-nha-dat-khi-nao-882921.ldo) ([Lao Động](https://laodong.vn))
+- [Người nhập cảnh vào An Giang phải trả phí xét nghiệm, người nghèo được miễn giảm](https://tuoitre.vn/nguoi-nhap-canh-vao-an-giang-phai-tra-phi-xet-nghiem-nguoi-ngheo-duoc-mien-giam-20210224120542338.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Cận cảnh lô vaccine COVID-19 đầu tiên về sân bay Tân Sơn Nhất](https://laodong.vn/photo/can-canh-lo-vaccine-covid-19-dau-tien-ve-san-bay-tan-son-nhat-883171.ldo) ([Lao Động](https://laodong.vn))
 - [Tuyển sinh vào lớp 10: Cả nhà áp lực khi con phải thi thêm môn thứ 4](https://laodong.vn/video/tuyen-sinh-vao-lop-10-ca-nha-ap-luc-khi-con-phai-thi-them-mon-thu-4-883173.ldo) ([Lao Động](https://laodong.vn))
 - [Cảnh báo mô hình đầu tư forex Lion Group: Tuyên bố ngồi không cũng lãi 20-24%/tháng, hơn 40.000 nhà đầu tư chưa ai bị lỗ đồng nào?](https://cafebiz.vn/canh-bao-mo-hinh-dau-tu-forex-lion-group-tuyen-bo-ngoi-khong-cung-lai-20-24-thang-hon-40000-nha-dau-tu-chua-ai-bi-lo-dong-nao-20210224111900412.chn) ([CafeBiz](https://cafebiz.vn))
-- [Biến thể SARS-CoV-2 tại California lây nhiễm nhanh hơn 40% và sinh sản gấp đôi trong cơ thể người](https://cafebiz.vn/bien-the-sars-cov-2-tai-california-lay-nhiem-nhanh-hon-40-va-sinh-san-gap-doi-trong-co-the-nguoi-20210224135950402.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
