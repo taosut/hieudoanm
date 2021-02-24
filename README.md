@@ -17,7 +17,7 @@
 - Current weather is mist.
 - Temperature is 21°C.
 - Feels Like 21.32°C.
-- Air Visual is 114.
+- Air Visual is 122.
 
 **WEATHER**
 
@@ -45,9 +45,9 @@
 
 - [![Anh Đức](https://img.shields.io/static/v1?label=Anh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
-- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
+- [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
 - [![Google Classroom](https://img.shields.io/static/v1?label=Google%20Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Google%20Classroom)
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Những loại thực phẩm tuyệt đối không nên bảo quản trong tủ lạnh](https://laodong.vn/suc-khoe/nhung-loai-thuc-pham-tuyet-doi-khong-nen-bao-quan-trong-tu-lanh-882460.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Joe Biden có chuyến đi đầu tiên đến vùng thiên tai](https://laodong.vn/the-gioi/ong-joe-biden-co-chuyen-di-dau-tien-den-vung-thien-tai-883042.ldo) ([Lao Động](https://laodong.vn))
-- [Bệnh nhân tử vong sau nhiều ngày ho sốt, kết quả âm tính với COVID-19](https://laodong.vn/xa-hoi/benh-nhan-tu-vong-sau-nhieu-ngay-ho-sot-ket-qua-am-tinh-voi-covid-19-883028.ldo) ([Lao Động](https://laodong.vn))
-- [3 nhân vật đình đám khiến bitcoin lao dốc](https://laodong.vn/the-gioi/3-nhan-vat-dinh-dam-khien-bitcoin-lao-doc-883044.ldo) ([Lao Động](https://laodong.vn))
-- [FDA phê duyệt thay đổi quan trọng liên quan đến vaccine Pfizer-BioNTech](https://laodong.vn/the-gioi/fda-phe-duyet-thay-doi-quan-trong-lien-quan-den-vaccine-pfizer-biontech-883043.ldo) ([Lao Động](https://laodong.vn))
-- [Ngư dân ra quân vươn khơi bám biển Hoàng Sa, Trường Sa](https://laodong.vn/xa-hoi/ngu-dan-ra-quan-vuon-khoi-bam-bien-hoang-sa-truong-sa-882978.ldo) ([Lao Động](https://laodong.vn))
-- [Đọc báo cùng bạn 24-2: Người Việt sẽ được tiêm vắcxin COVID-19 miễn phí](https://tuoitre.vn/doc-bao-cung-ban-24-2-nguoi-viet-se-duoc-tiem-vacxin-covid-19-mien-phi-20210224033823492.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Trở thành triệu phú tự thân ở tuổi 26: Khi không có tiền, không có chống lưng, cũng chẳng phải thiên tài, muốn thành công chỉ có thể dùng cách NGỐC nhất](https://cafebiz.vn/tro-thanh-trieu-phu-tu-than-o-tuoi-26-khi-khong-co-tien-khong-co-chong-lung-cung-chang-phai-thien-tai-muon-thanh-cong-chi-co-the-dung-cach-ngoc-nhat-20210222190626459.chn) ([CafeBiz](https://cafebiz.vn))
-- [3 người thừa kế sáng giá của Tập đoàn Tân Hoàng Minh: Trai tài, gái sắc, du học trời Tây về nối nghiệp cha](https://cafebiz.vn/3-nguoi-thua-ke-sang-gia-cua-tap-doan-tan-hoang-minh-trai-tai-gai-sac-20210222114421416.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tổng thống Joe Biden nói về dấu mốc 500.000 người tử vong vì COVID-19](https://laodong.vn/photo/tong-thong-joe-biden-noi-ve-dau-moc-500000-nguoi-tu-vong-vi-covid-19-882952.ldo) ([Lao Động](https://laodong.vn))
+- [Chung cư Hà Nội bán cắt lỗ hàng trăm triệu, nên mua luôn hay chờ giảm tiếp?](https://cafebiz.vn/chung-cu-ha-noi-ban-cat-lo-hang-tram-trieu-nen-mua-luon-hay-cho-giam-tiep-20210224084642615.chn) ([CafeBiz](https://cafebiz.vn))
+- [1000, 100.000, rồi nửa triệu: 2 trang nhất gây ám ảnh cả thế giới của New York Times về hiện thực đau đớn Covid-19 mang lại](https://cafebiz.vn/1000-100000-roi-nua-trieu-2-trang-nhat-gay-am-anh-ca-the-gioi-cua-new-york-times-ve-hien-thuc-dau-don-covid-19-mang-lai-20210224084636081.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xe buýt cháy ngùn ngụt ở Sài Gòn](https://vnexpress.net/xe-buyt-chay-ngun-ngut-o-sai-gon-4239332.html) ([VNExpress](https://vnexpress.net))
+- [CEO SGICapital: "Chọn thời điểm tốt mang lại lợi thế, chọn cổ phiếu tốt mang lại gia tài"](https://cafebiz.vn/ceo-sgicapital-chon-thoi-diem-tot-mang-lai-loi-the-chon-co-phieu-tot-mang-lai-gia-tai-20210224084239259.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đề xuất xây dựng đường hầm cao tốc dọc sông Tô Lịch: Kinh nghiệm từ hầm Thủ Thiêm](https://laodong.vn/xa-hoi/de-xuat-xay-dung-duong-ham-cao-toc-doc-song-to-lich-kinh-nghiem-tu-ham-thu-thiem-882994.ldo) ([Lao Động](https://laodong.vn))
+- [Đã có kết quả xét nghiệm Covid-19 lần 3 của người đàn ông ở Thanh Hóa tử vong sau nhiều ngày sốt cao](https://cafebiz.vn/da-co-ket-qua-xet-nghiem-covid-19-lan-3-cua-nguoi-dan-ong-o-thanh-hoa-tu-vong-sau-nhieu-ngay-sot-cao-20210224084127028.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xác định nguồn lây Covid-19 từ Cẩm Giàng, công an Hải Phòng xét căn cứ xử lý hình sự nam điều dưỡng](https://cafebiz.vn/xac-dinh-nguon-lay-covid-19-tu-cam-giang-cong-an-hai-phong-xet-can-cu-xu-ly-hinh-su-nam-dieu-duong-20210224083854634.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cụ bà 62 tuổi, qua 3 đời chồng, nuôi 4 đứa con: Chẳng bao giờ quá muộn để trở thành triệu phú!](https://cafebiz.vn/cu-ba-62-tuoi-qua-3-doi-chong-nuoi-4-dua-con-chang-bao-gio-qua-muon-de-tro-thanh-trieu-phu-2021022317045021.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Nối gót' Tesla, một công ty dịch vụ tài chính mạnh tay đầu tư 170 triệu USD cho Bitcoin](https://cafebiz.vn/noi-got-tesla-mot-cong-ty-dich-vu-tai-chinh-manh-tay-dau-tu-170-trieu-usd-cho-bitcoin-20210224083621018.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lãi và phí phải thu nhiều ngân hàng tăng cao, lợi nhuận có đang bị “thổi phồng”?](https://cafebiz.vn/lai-va-phi-phai-thu-nhieu-ngan-hang-tang-cao-loi-nhuan-co-dang-bi-thoi-phong-20210224083715224.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -91,6 +91,7 @@
 
 **VIETCETERA**
 
+- [Điện ảnh, công nghệ và y tế: Việt Nam đang đứng ở đâu?](https://vietcetera.com/vn/khong-chi-chong-dich-tot-viet-nam-dang-dat-nhieu-cot-moc-hon-the)
 - ["Đâu là khoảnh khắc anh nhận ra mình rất hạnh phúc?"](https://vietcetera.com/vn/dau-la-khoanh-khac-anh-nhan-ra-minh-rat-hanh-phuc)
 - [Bóc Term: Cougar - Khi chuyện tình “chị đẹp và trai trẻ” vượt qua định kiến xã hội](https://vietcetera.com/vn/boc-term-cougar-khi-chi-dep-va-trai-tre-vuot-qua-dinh-kien-xa-hoi)
 - [Chai thuỷ tinh La Vie: Nuôi dưỡng vòng tuần hoàn của sự sống](https://vietcetera.com/vn/chai-thuy-tinh-la-vie-nuoi-duong-vong-tuan-hoan-cua-su-song)
@@ -100,7 +101,6 @@
 - [Tóm Lại Là: Chúng ta có đang "bỏ quên" giáo viên?](https://vietcetera.com/vn/tom-lai-la-chung-ta-co-dang-bo-quen-giao-vien)
 - [Podcast “Vietnam Innovators” tập 8: Phillip An, Đồng sáng lập & CEO Homebase - Giải pháp mua nhà dễ dàng cho Millennials ](https://vietcetera.com/vn/podcast-vietnam-innovators-tap-8-phillip-an-dong-sang-lap-ceo-homebase-giai-phap-mua-nha-de-dang-cho-millennials)
 - [Meme học: Đất lành "cheems" đậu](https://vietcetera.com/vn/meme-hoc-cheems)
-- [Bóc Term: Pickup line - Khi thả thính trở thành một bộ môn nghệ thuật](https://vietcetera.com/vn/boc-term-pick-up-line-tha-thinh-tro-thanh-mon-nghe-thuat)
 
 [Read More](https://vietcetera.com/)
 
