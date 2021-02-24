@@ -16,8 +16,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 22.65°C.
-- Air Visual is 119.
+- Feels Like 23.37°C.
+- Air Visual is 124.
 
 **WEATHER**
 
@@ -45,9 +45,9 @@
 
 - [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
+- [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
-- [![G-D](https://img.shields.io/static/v1?label=G-D&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G-D)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
 - [![Google Classroom](https://img.shields.io/static/v1?label=Google%20Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Google%20Classroom)
 - [![Hướng dương ngược nắng tập 31](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
@@ -60,7 +60,7 @@
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
-- [![Trưởng Phòng Cảnh sát kinh tế Hà Nội](https://img.shields.io/static/v1?label=Tr%C6%B0%E1%BB%9Fng%20Ph%C3%B2ng%20C%E1%BA%A3nh%20s%C3%A1t%20kinh%20t%E1%BA%BF%20H%C3%A0%20N%E1%BB%99i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0%E1%BB%9Fng%20Ph%C3%B2ng%20C%E1%BA%A3nh%20s%C3%A1t%20kinh%20t%E1%BA%BF%20H%C3%A0%20N%E1%BB%99i)
+- [![Vietcombank](https://img.shields.io/static/v1?label=Vietcombank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietcombank)
 - [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
 - [![Đường lên đỉnh Olympia](https://img.shields.io/static/v1?label=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia)
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Tuyến buýt số 69 Bác Cổ - Dương Quang (Gia Lâm) nên có thêm điểm dừng](https://laodong.vn/ban-doc/tuyen-buyt-so-69-bac-co-duong-quang-gia-lam-nen-co-them-diem-dung-883163.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao giá USD chợ đen liên tục tăng nóng?](https://laodong.vn/kinh-te/vi-sao-gia-usd-cho-den-lien-tuc-tang-nong-883170.ldo) ([Lao Động](https://laodong.vn))
-- [Hơn 117.000 liều vaccine phòng Covid-19 đầu tiên đã về đến Việt Nam](https://cafebiz.vn/hon-117000-lieu-vaccine-phong-covid-19-dau-tien-da-ve-den-viet-nam-20210224135142995.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vietnam Airlines muốn rót gần 10.000 tỷ đồng vào sân bay Long Thành](https://cafebiz.vn/vietnam-airlines-muon-rot-gan-10000-ty-dong-vao-san-bay-long-thanh-20210224134944679.chn) ([CafeBiz](https://cafebiz.vn))
-- [Còn 2 khu vực ở Gia Lai bị cách ly phong tỏa vì COVID-19](https://laodong.vn/xa-hoi/con-2-khu-vuc-o-gia-lai-bi-cach-ly-phong-toa-vi-covid-19-883167.ldo) ([Lao Động](https://laodong.vn))
-- [Lịch trở lại trường của học sinh 63 tỉnh, thành](https://laodong.vn/giao-duc/lich-tro-lai-truong-cua-hoc-sinh-63-tinh-thanh-883165.ldo) ([Lao Động](https://laodong.vn))
-- [6 điều nên mang theo suốt cuộc đời để không bao giờ phải chịu thua thiệt](https://cafebiz.vn/6-dieu-nen-mang-theo-suot-cuoc-doi-de-khong-bao-gio-phai-chiu-thua-thiet-20210223083718394.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội tính giải pháp đưa các hoạt động trở lại trạng thái bình thường mới](https://laodong.vn/xa-hoi/ha-noi-tinh-giai-phap-dua-cac-hoat-dong-tro-lai-trang-thai-binh-thuong-moi-883168.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng: 'Không vì có vaccine mà chủ quan chống dịch'](https://vnexpress.net/thu-tuong-khong-vi-co-vaccine-ma-chu-quan-chong-dich-4239524.html) ([VNExpress](https://vnexpress.net))
-- [Một lập trình viên viết phần mềm phát hiện học sinh mất tập trung học online](https://cafebiz.vn/mot-lap-trinh-vien-viet-phan-mem-phat-hien-hoc-sinh-mat-tap-trung-hoc-online-202102241131403.chn) ([CafeBiz](https://cafebiz.vn))
+- [Biến thể SARS-CoV-2 tại California lây nhiễm nhanh hơn 40% và sinh sản gấp đôi trong cơ thể người](https://cafebiz.vn/bien-the-sars-cov-2-tai-california-lay-nhiem-nhanh-hon-40-va-sinh-san-gap-doi-trong-co-the-nguoi-20210224135950402.chn) ([CafeBiz](https://cafebiz.vn))
+- [LĐLĐ Hải Dương: Hỗ trợ gạo 3.700 công nhân các khu nhà trọ huyện Cẩm Giàng](https://laodong.vn/cong-doan/ldld-hai-duong-ho-tro-gao-3700-cong-nhan-cac-khu-nha-tro-huyen-cam-giang-883178.ldo) ([Lao Động](https://laodong.vn))
+- [Đút túi ngon ơ gần 4 tỷ/năm với công việc đơn giản từ sáng đến chiều chỉ "đi trực thăng và ôm cừu"](https://cafebiz.vn/dut-tui-ngon-o-gan-4-ty-nam-voi-cong-viec-don-gian-tu-sang-den-chieu-chi-di-truc-thang-va-om-cuu-2021022414051548.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bitcoin nhảy múa chóng mặt, tái lập mốc 51.000 USD](https://cafebiz.vn/bitcoin-nhay-mua-chong-mat-tai-lap-moc-51000-usd-2021022413490014.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những mẫu SUV cỡ nhỏ được ưa chuộng nhất tại Việt Nam](https://laodong.vn/xe/nhung-mau-suv-co-nho-duoc-ua-chuong-nhat-tai-viet-nam-883099.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ trưởng Nguyễn Thanh Long: 'Năm 2021 đảm bảo không thiếu vắc xin'](https://tuoitre.vn/bo-truong-nguyen-thanh-long-nam-2021-dam-bao-khong-thieu-vac-xin-20210224134151222.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Cơn đau đầu của Hàn Quốc: Xuất khẩu tăng trưởng nhưng nền kinh tế lại đối mặt khủng hoảng lớn nhất trong hơn 20 năm qua](https://cafebiz.vn/con-dau-dau-cua-han-quoc-xuat-khau-tang-truong-nhung-nen-kinh-te-lai-doi-mat-khung-hoang-lon-nhat-trong-hon-20-nam-qua-20210224112826253.chn) ([CafeBiz](https://cafebiz.vn))
+- [Philippines muốn đổi nhân lực y tế lấy vaccine COVID-19](https://laodong.vn/the-gioi/philippines-muon-doi-nhan-luc-y-te-lay-vaccine-covid-19-883082.ldo) ([Lao Động](https://laodong.vn))
+- [Xe không lắp gương chiếu hậu, bị xử phạt thế nào?](https://laodong.vn/tu-van-phap-luat/xe-khong-lap-guong-chieu-hau-bi-xu-phat-the-nao-882585.ldo) ([Lao Động](https://laodong.vn))
+- [3h sáng "đột nhập" lò heo quay lớn nhất Cần Thơ, xem quá trình chế biến cực NGUY HIỂM từ lúc heo còn sống đến khi phồng giòn trong chiếc "lu khổng lồ"!](https://cafebiz.vn/3h-sang-dot-nhap-lo-heo-quay-lon-nhat-can-tho-xem-qua-trinh-che-bien-cuc-nguy-hiem-tu-luc-heo-con-song-den-khi-phong-gion-trong-chiec-lu-khong-lo-20210224135959834.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
