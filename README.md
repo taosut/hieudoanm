@@ -17,7 +17,7 @@
 - Current weather is broken clouds.
 - Temperature is 22°C.
 - Feels Like 21.55°C.
-- Air Visual is 96.
+- Air Visual is 72.
 
 **WEATHER**
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
+- [Cháy lớn vựa phế liệu trong đêm, người dân xung quanh hoảng hốt](https://tuoitre.vn/chay-lon-vua-phe-lieu-trong-dem-nguoi-dan-xung-quanh-hoang-hot-20210224230201686.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Sơn Tùng M-TP chỉ mất khoảng 700 nghìn đến gần 5 triệu đồng để giải quyết vụ bản quyền với producer GC?](https://cafebiz.vn/son-tung-m-tp-chi-mat-khoang-700-nghin-den-gan-5-trieu-dong-de-giai-quyet-vu-ban-quyen-voi-producer-gc-20210224231536854.chn) ([CafeBiz](https://cafebiz.vn))
+- [QL 5 thông tuyến, Hải Phòng gia hạn xét nghiệm Covid-19 cho lái xe Hải Dương](http://vietnamnet.vn/vn/thoi-su/ql-5-thong-tuyen-hai-phong-gia-han-xet-nghiem-covid-19-cho-lai-xe-hai-duong-715289.html) ([VietNamNet](https://vietnamnet.vn))
 - [Cuộc sống dễ thở, sự nghiệp thăng tiến dù chỉ phải làm việc bằng 1/3 thời gian trước, blogger với hơn 100 triệu lượt theo dõi chia sẻ 5 quyết định tài chính giúp anh đổi đời](https://cafebiz.vn/cuoc-song-de-tho-su-nghiep-thang-tien-du-chi-phai-lam-viec-bang-1-3-thoi-gian-truoc-blogger-voi-hon-100-trieu-luot-theo-doi-chia-se-5-quyet-dinh-tai-chinh-giup-anh-doi-doi-20210224230025751.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mưu sĩ có năng lực kém cỏi nhất thời Tam Quốc, cũng may Tôn Quyền không trọng dụng, nếu không Đông Ngô đã sớm bị xóa sổ](https://cafebiz.vn/muu-si-co-nang-luc-kem-coi-nhat-thoi-tam-quoc-cung-may-ton-quyen-khong-trong-dung-neu-khong-dong-ngo-da-som-bi-xoa-so-20210224225753904.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nữ sinh lớp 10 nghi bị bạn trai sát hại trong vườn chuối ở Hà Nam](http://vietnamnet.vn/vn/thoi-su/nu-sinh-lop-10-nghi-bi-ban-trai-sat-hai-trong-vuon-chuoi-o-ha-nam-715291.html) ([VietNamNet](https://vietnamnet.vn))
 - [Hải Phòng tìm người đến hiệu thuốc gần bệnh viện liên quan BN COVID-19](https://laodong.vn/xa-hoi/hai-phong-tim-nguoi-den-hieu-thuoc-gan-benh-vien-lien-quan-bn-covid-19-883354.ldo) ([Lao Động](https://laodong.vn))
 - [Chứng khoán: Rủi ro ngắn hạn thấp, thị trường có thể phản ứng hồi phục](https://laodong.vn/kinh-te/chung-khoan-rui-ro-ngan-han-thap-thi-truong-co-the-phan-ung-hoi-phuc-883351.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng thông báo khẩn người dân đến 4 địa điểm](https://tuoitre.vn/hai-phong-thong-bao-khan-nguoi-dan-den-4-dia-diem-20210224214808294.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bắt giữ đối tượng trốn truy nã 16 năm thông qua công tác truy vết](https://laodong.vn/phap-luat/bat-giu-doi-tuong-tron-truy-na-16-nam-thong-qua-cong-tac-truy-vet-883353.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương xử phạt đối tượng đăng sai sự thật về công tác phòng dịch](https://laodong.vn/phap-luat/hai-duong-xu-phat-doi-tuong-dang-sai-su-that-ve-cong-tac-phong-dich-883352.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều tiền mà "gặp khó", Nữ hoàng cá tra Việt Nam bán phồng tôm và nước ép rau quả](https://cafebiz.vn/nhieu-tien-ma-gap-kho-nu-hoang-ca-tra-viet-nam-ban-phong-tom-va-nuoc-ep-rau-qua-20210224213718327.chn) ([CafeBiz](https://cafebiz.vn))
-- [Triệt xóa 2 đường dây đưa người vượt biên trái phép trong mùa dịch Covid-19 ở Nghệ An](https://cafebiz.vn/triet-xoa-2-duong-day-dua-nguoi-vuot-bien-trai-phep-trong-mua-dich-covid-19-o-nghe-an-20210224212819097.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lý do dân chơi xế lựa chọn ePass](https://cafebiz.vn/ly-do-dan-choi-xe-lua-chon-epass-20210224181320221.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -127,12 +127,12 @@
 
 01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 02. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
-03. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
-04. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+03. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+04. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 05. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 06. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
-07. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
-08. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+07. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 09. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 10. [Phim Hành Động Võ Thuật 2021 - SÁT THỦ ẨN DANH | Phim Chiếu Rạp Thuyết Minh Mới Nhất](https://www.youtube.com/watch?v=qSqv22xvfVU) - [Like Movies](https://www.youtube.com/channel/UCWDfO46yvUbLudW99_rVTBg)
 
