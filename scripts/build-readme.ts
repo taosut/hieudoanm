@@ -211,7 +211,7 @@ export const buildREADME = async () => {
   <a href="${masterRepo}/docs/stacks">Stacks</a>
 </p>
 <p align="center"> 
-  Visitor count<br>
+  Visitor count<br><br>
   <img src="https://profile-counter.glitch.me/vietnamdb/count.svg" />
 </p>
 
