@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 22°C.
 - Feels Like 21.9°C.
-- Air Visual is 97.
+- Air Visual is 74.
 
 **WEATHER**
 
@@ -115,8 +115,8 @@
 
 01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 02. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
-03. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
-04. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
+03. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
+04. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 05. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
 06. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 07. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
