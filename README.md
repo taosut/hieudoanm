@@ -14,10 +14,10 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
+- Current weather is scattered clouds.
 - Temperature is 23°C.
-- Feels Like 22.05°C.
-- Air Visual is 87.
+- Feels Like 22.4°C.
+- Air Visual is 83.
 
 **WEATHER**
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Chính phủ yêu cầu tháo gỡ khó khăn cho lưu thông hàng hóa, nông sản](https://laodong.vn/kinh-te/chinh-phu-yeu-cau-thao-go-kho-khan-cho-luu-thong-hang-hoa-nong-san-883336.ldo) ([Lao Động](https://laodong.vn))
-- [Lĩnh 15 tháng tù vì vượt chốt kiểm dịch, hành hung phó công an xã](https://laodong.vn/phap-luat/linh-15-thang-tu-vi-vuot-chot-kiem-dich-hanh-hung-pho-cong-an-xa-883341.ldo) ([Lao Động](https://laodong.vn))
-- [Sở Y tế Bình Dương sẽ đề xuất trích ngân sách mua vaccine Covid-19 tiêm cho người dân](https://cafebiz.vn/so-y-te-binh-duong-se-de-xuat-trich-ngan-sach-mua-vaccine-covid-19-tiem-cho-nguoi-dan-2021022419011581.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dù lương cao đến mấy cũng đừng làm 3 thể loại công việc này: Đốt sức khỏe nhanh hơn đốt tiền](https://cafebiz.vn/du-luong-cao-den-may-cung-dung-lam-3-the-loai-cong-viec-nay-dot-suc-khoe-nhanh-hon-dot-tien-20210224172708903.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nữ chính  xinh đẹp &quot;Trở về yêu thương&quot; từng được cố NSND Hoàng Dũng kì vọng](https://laodong.vn/photo/nu-chinh-xinh-dep-tro-ve-yeu-thuong-tung-duoc-co-nsnd-hoang-dung-ki-vong-883166.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 25.2](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-252-883235.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: Bao giờ lô vaccine COVID-19 đợt 2 về Việt Nam?](https://laodong.vn/video/nong-nhat-24h-bao-gio-lo-vaccine-covid-19-dot-2-ve-viet-nam-883288.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Ninh cắt giảm nhiều chi phí, dành ít nhất 500 tỉ mua vắc xin COVID-19](https://tuoitre.vn/quang-ninh-cat-giam-nhieu-chi-phi-danh-it-nhat-500-ti-mua-vac-xin-covid-19-20210224185604324.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tiêm vaccine Covid-19 quá liều, hai người Australia phải nhập viện](https://cafebiz.vn/tiem-vaccine-covid-19-qua-lieu-hai-nguoi-australia-phai-nhap-vien-20210224184749137.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hình ảnh đoàn tàu metro thứ 3 về Hà Nội](https://cafebiz.vn/hinh-anh-doan-tau-metro-thu-3-ve-ha-noi-20210224184333206.chn) ([CafeBiz](https://cafebiz.vn))
+- [TP HCM truy tìm thiết bị X-quang nghi gây bức xạ](https://vnexpress.net/tp-hcm-truy-tim-thiet-bi-x-quang-nghi-gay-buc-xa-4239799.html) ([VNExpress](https://vnexpress.net))
+- [Hải Dương ưu tiên xét nghiệm COVID-19 cho nông dân, người thu mua nông sản](https://laodong.vn/xa-hoi/hai-duong-uu-tien-xet-nghiem-covid-19-cho-nong-dan-nguoi-thu-mua-nong-san-883348.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng: Xét nghiệm mở rộng, gần 6.000 CNLĐ âm tính SARS-CoV-2](https://laodong.vn/cong-doan/hai-phong-xet-nghiem-mo-rong-gan-6000-cnld-am-tinh-sars-cov-2-883347.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Ninh nới lỏng giãn cách, các dịch vụ kinh doanh mở cửa trở lại](https://tuoitre.vn/bac-ninh-noi-long-gian-cach-cac-dich-vu-kinh-doanh-mo-cua-tro-lai-20210224194949698.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Quốc gia đầu tiên thế giới nhận được vaccine từ chương trình COVAX](https://laodong.vn/the-gioi/quoc-gia-dau-tien-the-gioi-nhan-duoc-vaccine-tu-chuong-trinh-covax-883283.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng trả lời chất vấn về xây dựng Khu đô thị khoa học Quy Hoà](https://laodong.vn/thoi-su/thu-tuong-tra-loi-chat-van-ve-xay-dung-khu-do-thi-khoa-hoc-quy-hoa-883342.ldo) ([Lao Động](https://laodong.vn))
+- [Ca Covid-19 có lượng virus gấp 51.148 lần bình thường làm đau đầu các nhà khoa học](https://cafebiz.vn/ca-covid-19-co-luong-virus-gap-51148-lan-binh-thuong-lam-dau-dau-cac-nha-khoa-hoc-2021022419065334.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sắc vóc Jennie (BlackPink) và các sao nữ bị đồn hẹn hò G-Dragon (Big Bang)](https://laodong.vn/photo/sac-voc-jennie-blackpink-va-cac-sao-nu-bi-don-hen-ho-g-dragon-big-bang-883254.ldo) ([Lao Động](https://laodong.vn))
+- [Bất chấp bị Nga không kích dữ dội, IS tiếp tục tàn sát ở Syria](https://laodong.vn/the-gioi/bat-chap-bi-nga-khong-kich-du-doi-is-tiep-tuc-tan-sat-o-syria-883272.ldo) ([Lao Động](https://laodong.vn))
+- [Người sáng lập ra ứng dụng tài chính nổi tiếng đúc kết ngay 3 sai lầm cố hữu về tiền bạc ai cũng mắc, không sửa sớm thì khó mà giàu](https://cafebiz.vn/nguoi-sang-lap-ra-ung-dung-tai-chinh-noi-tieng-duc-ket-ngay-3-sai-lam-co-huu-ve-tien-bac-ai-cung-mac-khong-sua-som-thi-kho-ma-giau-20210224172921746.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -93,6 +93,7 @@
 
 - [Không Quan Tâm: G-Dragon và Jennie hẹn hò](https://vietcetera.com/vn/khongquantam-jennie-va-g-dragon-hen-ho)
 - [Phá thai, cấm hay không?](https://vietcetera.com/vn/pha-thai-cam-hay-khong)
+- [Tóm Lại Là: Coca Cola và câu chuyện về “da trắng thượng đẳng”](https://vietcetera.com/vn/tom-lai-la-coca-cola-va-cau-chuyen-ve-da-trang-thuong-dang)
 - [Vì sao chúng ta không thể ngừng chạm tay lên mặt?](https://vietcetera.com/vn/vi-sao-chung-ta-khong-the-ngung-cham-tay-len-mat)
 - [Hà Huy Hoàng: "Hồi ký cuộc đời mình sẽ mang tên 'Xin cho tôi vẽ!'"](https://vietcetera.com/vn/ha-huy-hoang-hoi-ky-cuoc-doi-minh-se-mang-ten-xin-cho-toi-ve)
 - [Bóc Term: Zombie-box — Bạn dùng công nghệ hay công nghệ dùng bạn?](https://vietcetera.com/vn/boc-term-zombie-box-ban-co-dang-bi-an-nao)
@@ -100,7 +101,6 @@
 - ["Đâu là khoảnh khắc anh nhận ra mình rất hạnh phúc?"](https://vietcetera.com/vn/dau-la-khoanh-khac-anh-nhan-ra-minh-rat-hanh-phuc)
 - [Bóc Term: Cougar - Khi chuyện tình “chị đẹp và trai trẻ” vượt qua định kiến xã hội](https://vietcetera.com/vn/boc-term-cougar-khi-chi-dep-va-trai-tre-vuot-qua-dinh-kien-xa-hoi)
 - [Văn hóa Tiki có gì mà thế giới thích mê? ](https://vietcetera.com/vn/van-hoa-tiki-co-gi-ma-the-gioi-thich-me)
-- [Du thuyền Oceania Cruises: 180 ngày, 96 địa danh và 33 quốc gia](https://vietcetera.com/vn/du-thuyen-oceania-cruises-co-hoi-kham-pha-cac-dia-danh-noi-tieng-tai-viet-nam-va-tren-the-gioi)
 
 [Read More](https://vietcetera.com/)
 
