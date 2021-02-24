@@ -15,8 +15,8 @@
 **CALENDAR**
 
 - Current weather is few clouds.
-- Temperature is 25°C.
-- Feels Like 22.2°C.
+- Temperature is 24°C.
+- Feels Like 21.28°C.
 - Air Visual is 90.
 
 **WEATHER**
@@ -70,16 +70,7 @@
 
 **NEWS**
 
-- [Sau bữa ăn trưa tại trường, nhiều học sinh tiểu học ở Quảng Trị nhập viện](https://laodong.vn/xa-hoi/sau-bua-an-trua-tai-truong-nhieu-hoc-sinh-tieu-hoc-o-quang-tri-nhap-vien-883273.ldo) ([Lao Động](https://laodong.vn))
-- [Người lập văn bản giả cho học sinh nghỉ học là nam sinh cấp 2](https://laodong.vn/phap-luat/nguoi-lap-van-ban-gia-cho-hoc-sinh-nghi-hoc-la-nam-sinh-cap-2-883268.ldo) ([Lao Động](https://laodong.vn))
-- [Khai lễ Mẫu Đền Đông Cuông, chỉ tổ chức phần &quot;lễ&quot; bỏ phần &quot;hội&quot;](https://laodong.vn/xa-hoi/khai-le-mau-den-dong-cuong-chi-to-chuc-phan-le-bo-phan-hoi-883234.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng bác đề xuất xin vận chuyển hàng hóa trên sông Hàn](https://laodong.vn/xa-hoi/da-nang-bac-de-xuat-xin-van-chuyen-hang-hoa-tren-song-han-883252.ldo) ([Lao Động](https://laodong.vn))
-- [Giải phóng mặt bằng các dự án trọng điểm ở Cần Thơ còn chậm](https://tuoitre.vn/giai-phong-mat-bang-cac-du-an-trong-diem-o-can-tho-con-cham-20210224165513856.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Miễn lãi trọn đời với thẻ trả góp VietinBank i-Zero](https://cafebiz.vn/mien-lai-tron-doi-voi-the-tra-gop-vietinbank-i-zero-20210224152644634.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sơn La cho phép nhà hàng, quán ăn hoạt động trở lại](https://laodong.vn/xa-hoi/son-la-cho-phep-nha-hang-quan-an-hoat-dong-tro-lai-883270.ldo) ([Lao Động](https://laodong.vn))
-- [Thanh Hóa: Đã rõ nguyên nhân người đàn ông tử vong sau nhiều ngày ho sốt](https://laodong.vn/xa-hoi/thanh-hoa-da-ro-nguyen-nhan-nguoi-dan-ong-tu-vong-sau-nhieu-ngay-ho-sot-883265.ldo) ([Lao Động](https://laodong.vn))
-- [An Giang chi 230 tỉ đồng nạo vét kênh Vĩnh Tế](https://tuoitre.vn/an-giang-chi-230-ti-dong-nao-vet-kenh-vinh-te-202102241637589.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đề nghị cấp bằng 'Tổ quốc ghi công' cho người hi sinh cứu người dưới cống thoát nước](https://tuoitre.vn/de-nghi-cap-bang-to-quoc-ghi-cong-cho-nguoi-hi-sinh-cuu-nguoi-duoi-cong-thoat-nuoc-20210224164326064.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+
 
 [Read More](docs/news/README.md)
 
