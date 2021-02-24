@@ -84,7 +84,7 @@
 - [Phụ cấp chống dịch cao nhất là 300.000 đồng mỗi ngày](https://vnexpress.net/phu-cap-chong-dich-cao-nhat-la-300-000-dong-moi-ngay-4239738.html) ([VNExpress](https://vnexpress.net))
 - [Đàn voọc ngũ sắc ở Vườn quốc gia Bạch Mã](https://vnexpress.net/dan-vooc-ngu-sac-o-vuon-quoc-gia-bach-ma-4239083.html) ([VNExpress](https://vnexpress.net))
 - [Phó Thủ tướng chỉ đạo các biện pháp lưu thông nông sản vùng dịch Covid-19](http://vietnamnet.vn/vn/thoi-su/pho-thu-tuong-chi-dao-cac-bien-phap-luu-thong-nong-san-vung-dich-covid-19-715293.html) ([VietNamNet](https://vietnamnet.vn))
-- [Cháy lớn vựa phế liệu trong đêm, người dân xung quanh hoảng hốt](https://tuoitre.vn/chay-lon-vua-phe-lieu-trong-dem-nguoi-dan-xung-quanh-hoang-hot-20210224230201686.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Vì sao máy bay vẫn có thể bay khi một động cơ bị hỏng?](https://tinhte.vn/thread/vi-sao-may-bay-van-co-the-bay-khi-mot-dong-co-bi-hong.3282270/) ([Tinh Tế](https://tinhte.vn))
 
 [Read More](docs/news/README.md)
 
