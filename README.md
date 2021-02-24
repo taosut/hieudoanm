@@ -14,10 +14,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is few clouds.
 - Temperature is 25°C.
 - Feels Like 22.2°C.
-- Air Visual is 93.
+- Air Visual is 90.
 
 **WEATHER**
 
@@ -57,7 +57,7 @@
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
-- [![Minh Nhựa](https://img.shields.io/static/v1?label=Minh%20Nh%E1%BB%B1a&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
+- [![Minh nhựa](https://img.shields.io/static/v1?label=Minh%20nh%E1%BB%B1a&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20nh%E1%BB%B1a)
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Nhận định Atalanta - Real Madrid: Kền kền trắng gặp khó ở Italia](https://laodong.vn/the-thao/nhan-dinh-atalanta-real-madrid-ken-ken-trang-gap-kho-o-italia-883220.ldo) ([Lao Động](https://laodong.vn))
-- [Tiến trình cung ứng Vaccine Covid-19 và vai trò của nó trong phục hồi kinh tế](https://cafebiz.vn/tien-trinh-cung-ung-vaccine-covid-19-va-vai-tro-cua-no-trong-phuc-hoi-kinh-te-20210224171340361.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bầu Bình: “Ông Shimoda, ông Thành thực hiện 2 sứ mệnh khác nhau”](https://laodong.vn/the-thao/bau-binh-ong-shimoda-ong-thanh-thuc-hien-2-su-menh-khac-nhau-883245.ldo) ([Lao Động](https://laodong.vn))
-- [Phá vụ khai thác than trái phép đến 200 tỉ đồng tại Quảng Ninh](https://tuoitre.vn/pha-vu-khai-thac-than-trai-phep-den-200-ti-dong-tai-quang-ninh-20210224161455254.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sở Y tế Bình Dương sẽ đề xuất mua vaccine COVID-19 tiêm cho người dân](https://laodong.vn/xa-hoi/so-y-te-binh-duong-se-de-xuat-mua-vaccine-covid-19-tiem-cho-nguoi-dan-883249.ldo) ([Lao Động](https://laodong.vn))
-- [Bí quyết luộc rau củ tươi ngon và đẹp mắt không phải ai cũng biết](https://laodong.vn/gia-dinh-hon-nhan/bi-quyet-luoc-rau-cu-tuoi-ngon-va-dep-mat-khong-phai-ai-cung-biet-883194.ldo) ([Lao Động](https://laodong.vn))
-- [5 vị trí sau không nên đặt Router Wifi](https://laodong.vn/cong-nghe/5-vi-tri-sau-khong-nen-dat-router-wifi-883255.ldo) ([Lao Động](https://laodong.vn))
-- [FPT thành lập công ty dịch vụ tư vấn chuyển đổi số FPT Digital](https://cafebiz.vn/fpt-thanh-lap-cong-ty-dich-vu-tu-van-chuyen-doi-so-fpt-digital-20210224170414541.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt 3 vụ với 217 kg ma túy ở TPHCM: Hành trình phá án gian khó, hiểm nguy](https://laodong.vn/phap-luat/bat-3-vu-voi-217-kg-ma-tuy-o-tphcm-hanh-trinh-pha-an-gian-kho-hiem-nguy-882731.ldo) ([Lao Động](https://laodong.vn))
-- [Lấy chồng tỷ phú từng khiến Donald Trump "nóng mặt", trở thành "người Việt giàu nhất thế giới", cuộc sống của Hà Phương - em gái Cẩm Ly, bây giờ ra sao?](https://cafebiz.vn/lay-chong-ty-phu-tung-khien-donald-trump-nong-mat-tro-thanh-nguoi-viet-giau-nhat-the-gioi-cuoc-song-cua-ha-phuong-em-gai-cam-ly-bay-gio-ra-sao-20210224170012477.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sau bữa ăn trưa tại trường, nhiều học sinh tiểu học ở Quảng Trị nhập viện](https://laodong.vn/xa-hoi/sau-bua-an-trua-tai-truong-nhieu-hoc-sinh-tieu-hoc-o-quang-tri-nhap-vien-883273.ldo) ([Lao Động](https://laodong.vn))
+- [Người lập văn bản giả cho học sinh nghỉ học là nam sinh cấp 2](https://laodong.vn/phap-luat/nguoi-lap-van-ban-gia-cho-hoc-sinh-nghi-hoc-la-nam-sinh-cap-2-883268.ldo) ([Lao Động](https://laodong.vn))
+- [Khai lễ Mẫu Đền Đông Cuông, chỉ tổ chức phần &quot;lễ&quot; bỏ phần &quot;hội&quot;](https://laodong.vn/xa-hoi/khai-le-mau-den-dong-cuong-chi-to-chuc-phan-le-bo-phan-hoi-883234.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng bác đề xuất xin vận chuyển hàng hóa trên sông Hàn](https://laodong.vn/xa-hoi/da-nang-bac-de-xuat-xin-van-chuyen-hang-hoa-tren-song-han-883252.ldo) ([Lao Động](https://laodong.vn))
+- [Giải phóng mặt bằng các dự án trọng điểm ở Cần Thơ còn chậm](https://tuoitre.vn/giai-phong-mat-bang-cac-du-an-trong-diem-o-can-tho-con-cham-20210224165513856.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Miễn lãi trọn đời với thẻ trả góp VietinBank i-Zero](https://cafebiz.vn/mien-lai-tron-doi-voi-the-tra-gop-vietinbank-i-zero-20210224152644634.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sơn La cho phép nhà hàng, quán ăn hoạt động trở lại](https://laodong.vn/xa-hoi/son-la-cho-phep-nha-hang-quan-an-hoat-dong-tro-lai-883270.ldo) ([Lao Động](https://laodong.vn))
+- [Thanh Hóa: Đã rõ nguyên nhân người đàn ông tử vong sau nhiều ngày ho sốt](https://laodong.vn/xa-hoi/thanh-hoa-da-ro-nguyen-nhan-nguoi-dan-ong-tu-vong-sau-nhieu-ngay-ho-sot-883265.ldo) ([Lao Động](https://laodong.vn))
+- [An Giang chi 230 tỉ đồng nạo vét kênh Vĩnh Tế](https://tuoitre.vn/an-giang-chi-230-ti-dong-nao-vet-kenh-vinh-te-202102241637589.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Đề nghị cấp bằng 'Tổ quốc ghi công' cho người hi sinh cứu người dưới cống thoát nước](https://tuoitre.vn/de-nghi-cap-bang-to-quoc-ghi-cong-cho-nguoi-hi-sinh-cuu-nguoi-duoi-cong-thoat-nuoc-20210224164326064.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -91,6 +91,8 @@
 
 **VIETCETERA**
 
+- [Không quan tâm: G-Dragon và Jennie hẹn hò](https://vietcetera.com/vn/khongquantam-jennie-va-g-dragon-hen-ho)
+- [Phá thai, cấm hay không?](https://vietcetera.com/vn/pha-thai-cam-hay-khong)
 - [Vì sao chúng ta không thể ngừng chạm tay lên mặt?](https://vietcetera.com/vn/vi-sao-chung-ta-khong-the-ngung-cham-tay-len-mat)
 - [Hà Huy Hoàng: "Hồi ký cuộc đời mình sẽ mang tên 'Xin cho tôi vẽ!'"](https://vietcetera.com/vn/ha-huy-hoang-hoi-ky-cuoc-doi-minh-se-mang-ten-xin-cho-toi-ve)
 - [Bóc Term: Zombie-box — Bạn dùng công nghệ hay công nghệ dùng bạn?](https://vietcetera.com/vn/boc-term-zombie-box-ban-co-dang-bi-an-nao)
@@ -99,8 +101,6 @@
 - [Bóc Term: Cougar - Khi chuyện tình “chị đẹp và trai trẻ” vượt qua định kiến xã hội](https://vietcetera.com/vn/boc-term-cougar-khi-chi-dep-va-trai-tre-vuot-qua-dinh-kien-xa-hoi)
 - [Văn hóa Tiki có gì mà thế giới thích mê? ](https://vietcetera.com/vn/van-hoa-tiki-co-gi-ma-the-gioi-thich-me)
 - [Du thuyền Oceania Cruises: 180 ngày, 96 địa danh và 33 quốc gia](https://vietcetera.com/vn/du-thuyen-oceania-cruises-co-hoi-kham-pha-cac-dia-danh-noi-tieng-tai-viet-nam-va-tren-the-gioi)
-- ["Anh diễn hài độc thoại nhiều rồi, nhưng set diễn khiến anh run nhất..."](https://vietcetera.com/vn/anh-dien-hai-doc-thoai-nhieu-roi-nhung-set-dien-khien-anh-run-nhat)
-- [Tóm Lại Là: Chúng ta có đang "bỏ quên" giáo viên?](https://vietcetera.com/vn/tom-lai-la-chung-ta-co-dang-bo-quen-giao-vien)
 
 [Read More](https://vietcetera.com/)
 
