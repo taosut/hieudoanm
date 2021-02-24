@@ -14,9 +14,9 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
-- Temperature is 23°C.
-- Feels Like 22.4°C.
+- Current weather is broken clouds.
+- Temperature is 22°C.
+- Feels Like 21.47°C.
 - Air Visual is 83.
 
 **WEATHER**
@@ -70,6 +70,9 @@
 
 **NEWS**
 
+- [Học sinh Hà Nội dự kiến đi học trở lại từ 2-3](https://cafebiz.vn/hoc-sinh-ha-noi-du-kien-di-hoc-tro-lai-tu-2-3-20210224204918172.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chủ tịch 91 tuổi của Suzuki Motor chính thức từ chức, kết thúc 'triều đại' gần nửa thế kỷ, lâu nhất lịch sử ngành ô tô](https://cafebiz.vn/chu-tich-91-tuoi-cua-suzuki-motor-chinh-thuc-tu-chuc-ket-thuc-trieu-dai-gan-nua-the-ky-lau-nhat-lich-su-nganh-o-to-2021022420455433.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tướng đồng ý chủ trương đầu tư 3 khu công nghiệp lớn](https://cafebiz.vn/thu-tuong-dong-y-chu-truong-dau-tu-3-khu-cong-nghiep-lon-20210224204518484.chn) ([CafeBiz](https://cafebiz.vn))
 - [TP HCM truy tìm thiết bị X-quang nghi gây bức xạ](https://vnexpress.net/tp-hcm-truy-tim-thiet-bi-x-quang-nghi-gay-buc-xa-4239799.html) ([VNExpress](https://vnexpress.net))
 - [Hải Dương ưu tiên xét nghiệm COVID-19 cho nông dân, người thu mua nông sản](https://laodong.vn/xa-hoi/hai-duong-uu-tien-xet-nghiem-covid-19-cho-nong-dan-nguoi-thu-mua-nong-san-883348.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng: Xét nghiệm mở rộng, gần 6.000 CNLĐ âm tính SARS-CoV-2](https://laodong.vn/cong-doan/hai-phong-xet-nghiem-mo-rong-gan-6000-cnld-am-tinh-sars-cov-2-883347.ldo) ([Lao Động](https://laodong.vn))
@@ -77,9 +80,6 @@
 - [Quốc gia đầu tiên thế giới nhận được vaccine từ chương trình COVAX](https://laodong.vn/the-gioi/quoc-gia-dau-tien-the-gioi-nhan-duoc-vaccine-tu-chuong-trinh-covax-883283.ldo) ([Lao Động](https://laodong.vn))
 - [Thủ tướng trả lời chất vấn về xây dựng Khu đô thị khoa học Quy Hoà](https://laodong.vn/thoi-su/thu-tuong-tra-loi-chat-van-ve-xay-dung-khu-do-thi-khoa-hoc-quy-hoa-883342.ldo) ([Lao Động](https://laodong.vn))
 - [Ca Covid-19 có lượng virus gấp 51.148 lần bình thường làm đau đầu các nhà khoa học](https://cafebiz.vn/ca-covid-19-co-luong-virus-gap-51148-lan-binh-thuong-lam-dau-dau-cac-nha-khoa-hoc-2021022419065334.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sắc vóc Jennie (BlackPink) và các sao nữ bị đồn hẹn hò G-Dragon (Big Bang)](https://laodong.vn/photo/sac-voc-jennie-blackpink-va-cac-sao-nu-bi-don-hen-ho-g-dragon-big-bang-883254.ldo) ([Lao Động](https://laodong.vn))
-- [Bất chấp bị Nga không kích dữ dội, IS tiếp tục tàn sát ở Syria](https://laodong.vn/the-gioi/bat-chap-bi-nga-khong-kich-du-doi-is-tiep-tuc-tan-sat-o-syria-883272.ldo) ([Lao Động](https://laodong.vn))
-- [Người sáng lập ra ứng dụng tài chính nổi tiếng đúc kết ngay 3 sai lầm cố hữu về tiền bạc ai cũng mắc, không sửa sớm thì khó mà giàu](https://cafebiz.vn/nguoi-sang-lap-ra-ung-dung-tai-chinh-noi-tieng-duc-ket-ngay-3-sai-lam-co-huu-ve-tien-bac-ai-cung-mac-khong-sua-som-thi-kho-ma-giau-20210224172921746.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 

@@ -1,5 +1,8 @@
 # News
 
+- [Học sinh Hà Nội dự kiến đi học trở lại từ 2-3](https://cafebiz.vn/hoc-sinh-ha-noi-du-kien-di-hoc-tro-lai-tu-2-3-20210224204918172.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chủ tịch 91 tuổi của Suzuki Motor chính thức từ chức, kết thúc 'triều đại' gần nửa thế kỷ, lâu nhất lịch sử ngành ô tô](https://cafebiz.vn/chu-tich-91-tuoi-cua-suzuki-motor-chinh-thuc-tu-chuc-ket-thuc-trieu-dai-gan-nua-the-ky-lau-nhat-lich-su-nganh-o-to-2021022420455433.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tướng đồng ý chủ trương đầu tư 3 khu công nghiệp lớn](https://cafebiz.vn/thu-tuong-dong-y-chu-truong-dau-tu-3-khu-cong-nghiep-lon-20210224204518484.chn) ([CafeBiz](https://cafebiz.vn))
 - [TP HCM truy tìm thiết bị X-quang nghi gây bức xạ](https://vnexpress.net/tp-hcm-truy-tim-thiet-bi-x-quang-nghi-gay-buc-xa-4239799.html) ([VNExpress](https://vnexpress.net))
 - [Hải Dương ưu tiên xét nghiệm COVID-19 cho nông dân, người thu mua nông sản](https://laodong.vn/xa-hoi/hai-duong-uu-tien-xet-nghiem-covid-19-cho-nong-dan-nguoi-thu-mua-nong-san-883348.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng: Xét nghiệm mở rộng, gần 6.000 CNLĐ âm tính SARS-CoV-2](https://laodong.vn/cong-doan/hai-phong-xet-nghiem-mo-rong-gan-6000-cnld-am-tinh-sars-cov-2-883347.ldo) ([Lao Động](https://laodong.vn))
@@ -13,7 +16,6 @@
 - [18 học sinh tiểu học nhập viện sau bữa trưa ở trường](https://tuoitre.vn/18-hoc-sinh-tieu-hoc-nhap-vien-sau-bua-trua-o-truong-2021022417442668.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hải Phòng: Nới lỏng quy định lái xe có giấy xét nghiệm PCR sau 5 ngày](https://laodong.vn/giao-thong/hai-phong-noi-long-quy-dinh-lai-xe-co-giay-xet-nghiem-pcr-sau-5-ngay-883344.ldo) ([Lao Động](https://laodong.vn))
 - [Bộ GTVT chỉ đạo gỡ “nút thắt” lưu thông hàng hóa giữa Hải Dương và Hải Phòng](https://cafebiz.vn/bo-gtvt-chi-dao-go-nut-that-luu-thong-hang-hoa-giua-hai-duong-va-hai-phong-20210224190515053.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lý do TP.HCM muốn ‘khai tử’ xe thô sơ sau năm 2025](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/ly-do-tp-hcm-muon-khai-tu-xe-tho-so-sau-nam-2025-715260.html) ([VietNamNet](https://vietnamnet.vn))
 - [Sở Y tế Bình Dương sẽ đề xuất trích ngân sách mua vaccine Covid-19 tiêm cho người dân](https://cafebiz.vn/so-y-te-binh-duong-se-de-xuat-trich-ngan-sach-mua-vaccine-covid-19-tiem-cho-nguoi-dan-2021022419011581.chn) ([CafeBiz](https://cafebiz.vn))
 - [Dù lương cao đến mấy cũng đừng làm 3 thể loại công việc này: Đốt sức khỏe nhanh hơn đốt tiền](https://cafebiz.vn/du-luong-cao-den-may-cung-dung-lam-3-the-loai-cong-viec-nay-dot-suc-khoe-nhanh-hon-dot-tien-20210224172708903.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nóng nhất 24h: Bao giờ lô vaccine COVID-19 đợt 2 về Việt Nam?](https://laodong.vn/video/nong-nhat-24h-bao-gio-lo-vaccine-covid-19-dot-2-ve-viet-nam-883288.ldo) ([Lao Động](https://laodong.vn))
@@ -98,5 +100,3 @@
 - [Đút túi ngon ơ gần 4 tỷ/năm với công việc đơn giản từ sáng đến chiều chỉ "đi trực thăng và ôm cừu"](https://cafebiz.vn/dut-tui-ngon-o-gan-4-ty-nam-voi-cong-viec-don-gian-tu-sang-den-chieu-chi-di-truc-thang-va-om-cuu-2021022414051548.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bitcoin nhảy múa chóng mặt, tái lập mốc 51.000 USD](https://cafebiz.vn/bitcoin-nhay-mua-chong-mat-tai-lap-moc-51000-usd-2021022413490014.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Phòng cấm ô tô đi QL5 gây ùn tắc, mất an toàn giao thông](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/hai-phong-cam-o-to-di-ql5-gay-un-tac-mat-an-toan-giao-thong-715134.html) ([VietNamNet](https://vietnamnet.vn))
-- [Bộ trưởng Nguyễn Thanh Long: 'Năm 2021 đảm bảo không thiếu vắc xin'](https://tuoitre.vn/bo-truong-nguyen-thanh-long-nam-2021-dam-bao-khong-thieu-vac-xin-20210224134151222.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cơn đau đầu của Hàn Quốc: Xuất khẩu tăng trưởng nhưng nền kinh tế lại đối mặt khủng hoảng lớn nhất trong hơn 20 năm qua](https://cafebiz.vn/con-dau-dau-cua-han-quoc-xuat-khau-tang-truong-nhung-nen-kinh-te-lai-doi-mat-khung-hoang-lon-nhat-trong-hon-20-nam-qua-20210224112826253.chn) ([CafeBiz](https://cafebiz.vn))
