@@ -16,7 +16,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 22°C.
-- Feels Like 21.47°C.
+- Feels Like 21.19°C.
 - Air Visual is 88.
 
 **WEATHER**
@@ -70,16 +70,16 @@
 
 **NEWS**
 
+- [Triệt xóa 2 đường dây đưa người vượt biên trái phép trong mùa dịch Covid-19 ở Nghệ An](https://cafebiz.vn/triet-xoa-2-duong-day-dua-nguoi-vuot-bien-trai-phep-trong-mua-dich-covid-19-o-nghe-an-20210224212819097.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lý do dân chơi xế lựa chọn ePass](https://cafebiz.vn/ly-do-dan-choi-xe-lua-chon-epass-20210224181320221.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nam: Nghi án nữ sinh lớp 10 bị bạn trai sát hại](https://laodong.vn/phap-luat/ha-nam-nghi-an-nu-sinh-lop-10-bi-ban-trai-sat-hai-883350.ldo) ([Lao Động](https://laodong.vn))
 - [Từng được coi là "em chã nặng nhất thế giới", cậu bé béo đến không đi học nổi giờ đã có ngoại hình thay đổi đáng kinh ngạc sau 5 năm](https://cafebiz.vn/tung-duoc-coi-la-em-cha-nang-nhat-the-gioi-cau-be-beo-den-khong-di-hoc-noi-gio-da-co-ngoai-hinh-thay-doi-dang-kinh-ngac-sau-5-nam-20210224211855678.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Dương sẽ xét nghiệm COVID-19 cho nông dân, người vận chuyển nông sản](https://tuoitre.vn/hai-duong-se-xet-nghiem-covid-19-cho-nong-dan-nguoi-van-chuyen-nong-san-20210224203033817.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nữ hoàng Anh công bố hoạt động được coi là để "dạy dỗ" nhà Meghan Markle, đủ khiến cặp đôi phải muối mặt](https://cafebiz.vn/nu-hoang-anh-cong-bo-hoat-dong-duoc-coi-la-de-day-do-nha-meghan-markle-du-khien-cap-doi-phai-muoi-mat-20210224173358459.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sốc toàn tập với du thuyền 13,6 nghìn tỷ của ông chủ giàu có bậc nhất làng bóng đá](https://cafebiz.vn/soc-toan-tap-voi-du-thuyen-136-nghin-ty-cua-ong-chu-giau-co-bac-nhat-lang-bong-da-20210224173150624.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nóng nhất hôm nay: Bức ảnh và dòng trạng thái “gây bão like” của ông Biden](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-buc-anh-va-dong-trang-thai-gay-bao-like-cua-ong-biden-883324.ldo) ([Lao Động](https://laodong.vn))
 - [Học sinh Hà Nội dự kiến đi học trở lại từ 2-3](https://cafebiz.vn/hoc-sinh-ha-noi-du-kien-di-hoc-tro-lai-tu-2-3-20210224204918172.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chủ tịch 91 tuổi của Suzuki Motor chính thức từ chức, kết thúc 'triều đại' gần nửa thế kỷ, lâu nhất lịch sử ngành ô tô](https://cafebiz.vn/chu-tich-91-tuoi-cua-suzuki-motor-chinh-thuc-tu-chuc-ket-thuc-trieu-dai-gan-nua-the-ky-lau-nhat-lich-su-nganh-o-to-2021022420455433.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tướng đồng ý chủ trương đầu tư 3 khu công nghiệp lớn](https://cafebiz.vn/thu-tuong-dong-y-chu-truong-dau-tu-3-khu-cong-nghiep-lon-20210224204518484.chn) ([CafeBiz](https://cafebiz.vn))
-- [Doanh nghiệp Hải Phòng chỉ rõ “ Tường rào kỹ thuật” khiến hàng Hải Dương bị tắc](http://vietnamnet.vn/vn/thoi-su/doanh-nghiep-hai-phong-chi-ro-tuong-rao-ky-thuat-khien-hang-hai-duong-bi-tac-715230.html) ([VietNamNet](https://vietnamnet.vn))
-- [TP HCM truy tìm thiết bị X-quang nghi gây bức xạ](https://vnexpress.net/tp-hcm-truy-tim-thiet-bi-x-quang-nghi-gay-buc-xa-4239799.html) ([VNExpress](https://vnexpress.net))
-- [Hải Dương ưu tiên xét nghiệm COVID-19 cho nông dân, người thu mua nông sản](https://laodong.vn/xa-hoi/hai-duong-uu-tien-xet-nghiem-covid-19-cho-nong-dan-nguoi-thu-mua-nong-san-883348.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
