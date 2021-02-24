@@ -14,10 +14,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 23.59°C.
-- Air Visual is 140.
+- Feels Like 22.86°C.
+- Air Visual is 135.
 
 **WEATHER**
 
@@ -44,15 +44,15 @@
 **GOOGLE TRENDS**
 
 - [![Anh Đức](https://img.shields.io/static/v1?label=Anh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
+- [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
-- [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
-- [![G-Dragon](https://img.shields.io/static/v1?label=G-Dragon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G-Dragon)
+- [![GD](https://img.shields.io/static/v1?label=GD&message=google&color=red&style=flat-square)](https://www.google.com/search?q=GD)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
-- [![Google Classroom](https://img.shields.io/static/v1?label=Google%20Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Google%20Classroom)
 - [![Hướng dương ngược nắng tập 31](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
+- [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
@@ -61,8 +61,8 @@
 - [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
-- [![Vietcombank](https://img.shields.io/static/v1?label=Vietcombank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietcombank)
 - [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
+- [![Đường lên đỉnh Olympia](https://img.shields.io/static/v1?label=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Tottenham lao dốc: Thói đổ lỗi đã hại Pochettino, chuẩn bị là Mourinho](https://laodong.vn/bong-da-quoc-te/tottenham-lao-doc-thoi-do-loi-da-hai-pochettino-chuan-bi-la-mourinho-883019.ldo) ([Lao Động](https://laodong.vn))
-- [Công ty YG chính thức phản hồi về tin Jennie (Blackpink) hẹn hò G-Dragon](https://laodong.vn/giai-tri/cong-ty-yg-chinh-thuc-phan-hoi-ve-tin-jennie-blackpink-hen-ho-g-dragon-883106.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất làm cao tốc ngầm dọc sông Tô Lịch có khả thi?](https://cafebiz.vn/de-xuat-lam-cao-toc-ngam-doc-song-to-lich-co-kha-thi-20210224104445128.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thêm một phụ nữ làm nông nghi nhiễm COVID-19](https://tuoitre.vn/them-mot-phu-nu-lam-nong-nghi-nhiem-covid-19-20210224090951529.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Phóng viên trên tuyến đầu phòng chống dịch cần được bảo vệ an toàn](https://laodong.vn/su-kien-binh-luan/phong-vien-tren-tuyen-dau-phong-chong-dich-can-duoc-bao-ve-an-toan-883078.ldo) ([Lao Động](https://laodong.vn))
-- [Bạn cần bao nhiêu tiền để trở thành top 1% người giàu nhất thế giới ?](https://cafebiz.vn/ban-can-bao-nhieu-tien-de-tro-thanh-top-1-nguoi-giau-nhat-the-gioi--20210224095406254.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vĩnh Phúc xử lý hàng loạt cơ sở kinh doanh mở cửa bất chấp lệnh cấm](https://laodong.vn/phap-luat/vinh-phuc-xu-ly-hang-loat-co-so-kinh-doanh-mo-cua-bat-chap-lenh-cam-883102.ldo) ([Lao Động](https://laodong.vn))
-- [Kiên Giang: Nông dân trúng đậm vụ tôm càng xanh](https://laodong.vn/kinh-te/kien-giang-nong-dan-trung-dam-vu-tom-cang-xanh-883100.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng: Không thể chỉ lo chống dịch bệnh mà đóng cửa nền kinh tế](https://laodong.vn/thoi-su/thu-tuong-khong-the-chi-lo-chong-dich-benh-ma-dong-cua-nen-kinh-te-883096.ldo) ([Lao Động](https://laodong.vn))
-- [Thiếu tiền, thiếu thời gian, thiếu kiến thức - 3 lý do biện hộ phổ biến khiến cuộc đời bạn mãi bế tắc: Đừng lo, chúng tôi đã có giải pháp ở đây!](https://cafebiz.vn/thieu-tien-thieu-thoi-gian-thieu-kien-thuc-3-ly-do-bien-ho-pho-bien-khien-cuoc-doi-ban-mai-be-tac-dung-lo-chung-toi-da-co-giai-phap-o-day-20210224101838717.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng sẽ xử lý hình sự nam điều dưỡng nếu vi phạm nghiêm trọng các quy định về phòng chống dịch bệnh](https://cafebiz.vn/hai-phong-se-xu-ly-hinh-su-nam-dieu-duong-neu-vi-pham-nghiem-trong-cac-quy-dinh-ve-phong-chong-dich-benh-20210224111303855.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trường đại học đầu tiên tuyển sinh theo bài thi của ĐH Bách khoa Hà Nội](https://laodong.vn/giao-duc/truong-dai-hoc-dau-tien-tuyen-sinh-theo-bai-thi-cua-dh-bach-khoa-ha-noi-883103.ldo) ([Lao Động](https://laodong.vn))
+- [Ở tuổi 34, Minh Hằng giàu có cỡ nào?](https://cafebiz.vn/o-tuoi-34-minh-hang-giau-co-co-nao-20210224110731028.chn) ([CafeBiz](https://cafebiz.vn))
+- [Album tiếng Nhật của TXT đạt thành tích “khủng”](https://laodong.vn/van-hoa-giai-tri/album-tieng-nhat-cua-txt-dat-thanh-tich-khung-883112.ldo) ([Lao Động](https://laodong.vn))
+- [Bán hàng đa kênh - Chìa khóa giúp doanh nghiệp không bỏ lỡ khách hàng](https://cafebiz.vn/ban-hang-da-kenh-chia-khoa-giup-doanh-nghiep-khong-bo-lo-khach-hang-20210224101856933.chn) ([CafeBiz](https://cafebiz.vn))
+- [Năm 2020 Agribank trả lại trên 104 tỷ đồng tiền thừa cho khách hàng](https://laodong.vn/nguoi-viet-tu-te/nam-2020-agribank-tra-lai-tren-104-ty-dong-tien-thua-cho-khach-hang-883077.ldo) ([Lao Động](https://laodong.vn))
+- [Tháng Tết, Vietjet Air bất ngờ vượt qua Vietnam Airlines, trở thành hãng bay nhiều nhất ngành hàng không](https://cafebiz.vn/thang-tet-vietjet-air-bat-ngo-vuot-qua-vietnam-airlines-tro-thanh-hang-bay-nhieu-nhat-nganh-hang-khong-20210224105754475.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sở NNPTNT tỉnh Khánh Hòa xác nhận có tình trạng phá rừng ở xã Suối Tân](https://laodong.vn/xa-hoi/so-nnptnt-tinh-khanh-hoa-xac-nhan-co-tinh-trang-pha-rung-o-xa-suoi-tan-883114.ldo) ([Lao Động](https://laodong.vn))
+- [Bitcoin tiếp tục lao dốc, có lúc giá chỉ hơn 45.000 USD](https://cafebiz.vn/bitcoin-tiep-tuc-lao-doc-co-luc-gia-chi-hon-45000-usd-20210224105049276.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Nửa đêm lại muốn chửi bậy' về chống dịch ở Hải Dương, cô gái bị xử phạt](https://tuoitre.vn/nua-dem-lai-muon-chui-bay-ve-chong-dich-o-hai-duong-co-gai-bi-xu-phat-20210224090519184.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -91,6 +91,7 @@
 
 **VIETCETERA**
 
+- [Hà Huy Hoàng: "Hồi ký cuộc đời mình sẽ mang tên 'Xin cho tôi vẽ!'"](https://vietcetera.com/vn/ha-huy-hoang-hoi-ky-cuoc-doi-minh-se-mang-ten-xin-cho-toi-ve)
 - [Bóc Term: Zombie-box — Bạn dùng công nghệ hay công nghệ dùng bạn?](https://vietcetera.com/vn/boc-term-zombie-box-ban-co-dang-bi-an-nao)
 - [Điện ảnh, công nghệ và y tế: Việt Nam đang đứng ở đâu?](https://vietcetera.com/vn/khong-chi-chong-dich-tot-viet-nam-dang-dat-nhieu-cot-moc-hon-the)
 - ["Đâu là khoảnh khắc anh nhận ra mình rất hạnh phúc?"](https://vietcetera.com/vn/dau-la-khoanh-khac-anh-nhan-ra-minh-rat-hanh-phuc)
@@ -100,7 +101,6 @@
 - [Du thuyền Oceania Cruises: 180 ngày, 96 địa danh và 33 quốc gia](https://vietcetera.com/vn/du-thuyen-oceania-cruises-co-hoi-kham-pha-cac-dia-danh-noi-tieng-tai-viet-nam-va-tren-the-gioi)
 - ["Anh diễn hài độc thoại nhiều rồi, nhưng set diễn khiến anh run nhất..."](https://vietcetera.com/vn/anh-dien-hai-doc-thoai-nhieu-roi-nhung-set-dien-khien-anh-run-nhat)
 - [Tóm Lại Là: Chúng ta có đang "bỏ quên" giáo viên?](https://vietcetera.com/vn/tom-lai-la-chung-ta-co-dang-bo-quen-giao-vien)
-- [Podcast “Vietnam Innovators” tập 8: Phillip An, Đồng sáng lập & CEO Homebase - Giải pháp mua nhà dễ dàng cho Millennials ](https://vietcetera.com/vn/podcast-vietnam-innovators-tap-8-phillip-an-dong-sang-lap-ceo-homebase-giai-phap-mua-nha-de-dang-cho-millennials)
 
 [Read More](https://vietcetera.com/)
 
@@ -113,8 +113,8 @@
 03. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 04. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 05. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
-06. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-07. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+06. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+07. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 08. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
 09. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
 10. [Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]](https://www.youtube.com/watch?v=aXzVF3XeS8M) - [TaylorSwiftVEVO](https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg)
