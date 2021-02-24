@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 21°C.
-- Feels Like 20.55°C.
-- Air Visual is 74.
+- Feels Like 21.27°C.
+- Air Visual is 106.
 
 **WEATHER**
 
@@ -137,8 +137,8 @@
 05. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 06. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 07. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
-08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
-09. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+08. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+09. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 10. [Phim Hành Động Võ Thuật 2021 - SÁT THỦ ẨN DANH | Phim Chiếu Rạp Thuyết Minh Mới Nhất](https://www.youtube.com/watch?v=qSqv22xvfVU) - [Like Movies](https://www.youtube.com/channel/UCWDfO46yvUbLudW99_rVTBg)
 
 [Read More](https://www.youtube.com/feed/trending)
