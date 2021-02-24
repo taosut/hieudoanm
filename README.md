@@ -17,7 +17,7 @@
 - Current weather is broken clouds.
 - Temperature is 22°C.
 - Feels Like 21.19°C.
-- Air Visual is 88.
+- Air Visual is 93.
 
 **WEATHER**
 
@@ -47,7 +47,6 @@
 - [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
-- [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
@@ -58,6 +57,7 @@
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
+- [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
@@ -70,6 +70,7 @@
 
 **NEWS**
 
+- [Nhiều tiền mà "gặp khó", Nữ hoàng cá tra Việt Nam bán phồng tôm và nước ép rau quả](https://cafebiz.vn/nhieu-tien-ma-gap-kho-nu-hoang-ca-tra-viet-nam-ban-phong-tom-va-nuoc-ep-rau-qua-20210224213718327.chn) ([CafeBiz](https://cafebiz.vn))
 - [Triệt xóa 2 đường dây đưa người vượt biên trái phép trong mùa dịch Covid-19 ở Nghệ An](https://cafebiz.vn/triet-xoa-2-duong-day-dua-nguoi-vuot-bien-trai-phep-trong-mua-dich-covid-19-o-nghe-an-20210224212819097.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lý do dân chơi xế lựa chọn ePass](https://cafebiz.vn/ly-do-dan-choi-xe-lua-chon-epass-20210224181320221.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nam: Nghi án nữ sinh lớp 10 bị bạn trai sát hại](https://laodong.vn/phap-luat/ha-nam-nghi-an-nu-sinh-lop-10-bi-ban-trai-sat-hai-883350.ldo) ([Lao Động](https://laodong.vn))
@@ -79,7 +80,6 @@
 - [Sốc toàn tập với du thuyền 13,6 nghìn tỷ của ông chủ giàu có bậc nhất làng bóng đá](https://cafebiz.vn/soc-toan-tap-voi-du-thuyen-136-nghin-ty-cua-ong-chu-giau-co-bac-nhat-lang-bong-da-20210224173150624.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nóng nhất hôm nay: Bức ảnh và dòng trạng thái “gây bão like” của ông Biden](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-buc-anh-va-dong-trang-thai-gay-bao-like-cua-ong-biden-883324.ldo) ([Lao Động](https://laodong.vn))
 - [Học sinh Hà Nội dự kiến đi học trở lại từ 2-3](https://cafebiz.vn/hoc-sinh-ha-noi-du-kien-di-hoc-tro-lai-tu-2-3-20210224204918172.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chủ tịch 91 tuổi của Suzuki Motor chính thức từ chức, kết thúc 'triều đại' gần nửa thế kỷ, lâu nhất lịch sử ngành ô tô](https://cafebiz.vn/chu-tich-91-tuoi-cua-suzuki-motor-chinh-thuc-tu-chuc-ket-thuc-trieu-dai-gan-nua-the-ky-lau-nhat-lich-su-nganh-o-to-2021022420455433.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 

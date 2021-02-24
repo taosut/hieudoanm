@@ -1,5 +1,6 @@
 # News
 
+- [Nhiều tiền mà "gặp khó", Nữ hoàng cá tra Việt Nam bán phồng tôm và nước ép rau quả](https://cafebiz.vn/nhieu-tien-ma-gap-kho-nu-hoang-ca-tra-viet-nam-ban-phong-tom-va-nuoc-ep-rau-qua-20210224213718327.chn) ([CafeBiz](https://cafebiz.vn))
 - [Triệt xóa 2 đường dây đưa người vượt biên trái phép trong mùa dịch Covid-19 ở Nghệ An](https://cafebiz.vn/triet-xoa-2-duong-day-dua-nguoi-vuot-bien-trai-phep-trong-mua-dich-covid-19-o-nghe-an-20210224212819097.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lý do dân chơi xế lựa chọn ePass](https://cafebiz.vn/ly-do-dan-choi-xe-lua-chon-epass-20210224181320221.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nam: Nghi án nữ sinh lớp 10 bị bạn trai sát hại](https://laodong.vn/phap-luat/ha-nam-nghi-an-nu-sinh-lop-10-bi-ban-trai-sat-hai-883350.ldo) ([Lao Động](https://laodong.vn))
@@ -97,6 +98,5 @@
 - [Chuyện lạ ở Amazon: Vốn hóa thị trường lên đến 1,69 nghìn tỷ USD nhưng không lãnh đạo nào ngoài gia đình Jeff Bezos trở thành tỷ phú](https://cafebiz.vn/chuyen-la-o-amazon-von-hoa-thi-truong-len-den-169-nghin-ty-usd-nhung-khong-lanh-dao-nao-ngoai-gia-dinh-jeff-bezos-tro-thanh-ty-phu-20210224142912891.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hãng xe ô tô nào được ưa thích nhất tại Mỹ?](https://cafebiz.vn/hang-xe-o-to-nao-duoc-ua-thich-nhat-tai-my-20210224140403451.chn) ([CafeBiz](https://cafebiz.vn))
 - [Phía Sơn Tùng M-TP chính thức lên tiếng về ồn ào đạo nhạc, drama "Chúng ta của hiện tại" đã hạ màn?](https://cafebiz.vn/phia-son-tung-m-tp-chinh-thuc-len-tieng-ve-on-ao-dao-nhac-drama-chung-ta-cua-hien-tai-da-ha-man-20210224150253791.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vắc xin COVID-19 vừa về đến Tân Sơn Nhất: Tiêm liều đầu tiên hiệu lực bảo vệ 76%, liều thứ hai 81%](https://cafebiz.vn/vac-xin-covid-19-vua-ve-den-tan-son-nhat-tiem-lieu-dau-tien-hieu-luc-bao-ve-76-lieu-thu-hai-81-2021022414544235.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quảng Ninh xin góp 530 tỷ đồng với Chính phủ để mua vaccine COVID-19](https://cafebiz.vn/quang-ninh-xin-gop-530-ty-dong-voi-chinh-phu-de-mua-vaccine-covid-19-20210224145256655.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cận cảnh lô vaccine Covid-19 đầu tiên về Việt Nam được bảo quản trong kho siêu lạnh](https://cafebiz.vn/can-canh-lo-vaccine-covid-19-dau-tien-ve-viet-nam-duoc-bao-quan-trong-kho-sieu-lanh-20210224144705218.chn) ([CafeBiz](https://cafebiz.vn))
+- [Học / Làm IT mà không biết cài Windows thì có sao không?](https://tinhte.vn/thread/hoc-lam-it-ma-khong-biet-cai-windows-thi-co-sao-khong.3281896/) ([Tinh Tế](https://tinhte.vn))
+- [Đại dịch đến 24/2: Lô 117.600 liều vaccine AstraZeneca đã về Tân Sơn Nhất!](https://tinhte.vn/thread/dai-dich-den-24-2-lo-117-600-lieu-vaccine-astrazeneca-da-ve-tan-son-nhat.3282245/) ([Tinh Tế](https://tinhte.vn))
