@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Hải Phòng sẽ xử lý hình sự nam điều dưỡng nếu vi phạm nghiêm trọng các quy định về phòng chống dịch bệnh](https://cafebiz.vn/hai-phong-se-xu-ly-hinh-su-nam-dieu-duong-neu-vi-pham-nghiem-trong-cac-quy-dinh-ve-phong-chong-dich-benh-20210224111303855.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trường đại học đầu tiên tuyển sinh theo bài thi của ĐH Bách khoa Hà Nội](https://laodong.vn/giao-duc/truong-dai-hoc-dau-tien-tuyen-sinh-theo-bai-thi-cua-dh-bach-khoa-ha-noi-883103.ldo) ([Lao Động](https://laodong.vn))
-- [Ở tuổi 34, Minh Hằng giàu có cỡ nào?](https://cafebiz.vn/o-tuoi-34-minh-hang-giau-co-co-nao-20210224110731028.chn) ([CafeBiz](https://cafebiz.vn))
-- [Album tiếng Nhật của TXT đạt thành tích “khủng”](https://laodong.vn/van-hoa-giai-tri/album-tieng-nhat-cua-txt-dat-thanh-tich-khung-883112.ldo) ([Lao Động](https://laodong.vn))
-- [Bán hàng đa kênh - Chìa khóa giúp doanh nghiệp không bỏ lỡ khách hàng](https://cafebiz.vn/ban-hang-da-kenh-chia-khoa-giup-doanh-nghiep-khong-bo-lo-khach-hang-20210224101856933.chn) ([CafeBiz](https://cafebiz.vn))
-- [Năm 2020 Agribank trả lại trên 104 tỷ đồng tiền thừa cho khách hàng](https://laodong.vn/nguoi-viet-tu-te/nam-2020-agribank-tra-lai-tren-104-ty-dong-tien-thua-cho-khach-hang-883077.ldo) ([Lao Động](https://laodong.vn))
-- [Tháng Tết, Vietjet Air bất ngờ vượt qua Vietnam Airlines, trở thành hãng bay nhiều nhất ngành hàng không](https://cafebiz.vn/thang-tet-vietjet-air-bat-ngo-vuot-qua-vietnam-airlines-tro-thanh-hang-bay-nhieu-nhat-nganh-hang-khong-20210224105754475.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sở NNPTNT tỉnh Khánh Hòa xác nhận có tình trạng phá rừng ở xã Suối Tân](https://laodong.vn/xa-hoi/so-nnptnt-tinh-khanh-hoa-xac-nhan-co-tinh-trang-pha-rung-o-xa-suoi-tan-883114.ldo) ([Lao Động](https://laodong.vn))
-- [Bitcoin tiếp tục lao dốc, có lúc giá chỉ hơn 45.000 USD](https://cafebiz.vn/bitcoin-tiep-tuc-lao-doc-co-luc-gia-chi-hon-45000-usd-20210224105049276.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Nửa đêm lại muốn chửi bậy' về chống dịch ở Hải Dương, cô gái bị xử phạt](https://tuoitre.vn/nua-dem-lai-muon-chui-bay-ve-chong-dich-o-hai-duong-co-gai-bi-xu-phat-20210224090519184.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Kẻ đâm chết 3 người tại quán karaoke ở Hoà Bình dương tính với ma tuý](https://laodong.vn/phap-luat/ke-dam-chet-3-nguoi-tai-quan-karaoke-o-hoa-binh-duong-tinh-voi-ma-tuy-883132.ldo) ([Lao Động](https://laodong.vn))
+- [Quỹ lớn nhất do Dragon Capital quản lý có quy mô vượt 2 tỷ USD](https://cafebiz.vn/quy-lon-nhat-do-dragon-capital-quan-ly-co-quy-mo-vuot-2-ty-usd-20210224113204645.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khó khăn nào đang chờ hệ điều hành di động của Huawei?](https://cafebiz.vn/kho-khan-nao-dang-cho-he-dieu-hanh-di-dong-cua-huawei-20210224110841756.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cô phục vụ bàn thành CEO của đế chế tỷ đô: Từng phải trốn vào ô tô khóc òa như đứa trẻ khi nhà đầu tư bodyshaming, chỉ còn vài trăm USD trong túi](https://cafebiz.vn/co-phuc-vu-ban-thanh-ceo-cua-de-che-ty-do-tung-phai-tron-vao-o-to-khoc-oa-nhu-dua-tre-khi-nha-dau-tu-bodyshaming-chi-con-vai-tram-usd-trong-tui-20210224104813922.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khối &quot;tài sản&quot; đặc biệt của cựu tuyển thủ Nguyễn Hồng Sơn](https://laodong.vn/bong-da/khoi-tai-san-dac-biet-cua-cuu-tuyen-thu-nguyen-hong-son-883098.ldo) ([Lao Động](https://laodong.vn))
+- [Toàn văn phát biểu của Thủ tướng tại phiên thảo luận của Hội đồng Bảo an](https://laodong.vn/thoi-su/toan-van-phat-bieu-cua-thu-tuong-tai-phien-thao-luan-cua-hoi-dong-bao-an-883111.ldo) ([Lao Động](https://laodong.vn))
+- [Lâm tặc phá rừng Đắk Lắk dịp Tết:  Phải xử lý  nghiêm chủ rừng để làm gương](https://laodong.vn/xa-hoi/lam-tac-pha-rung-dak-lak-dip-tet-phai-xu-ly-nghiem-chu-rung-de-lam-guong-883094.ldo) ([Lao Động](https://laodong.vn))
+- [Kaity Nguyễn nói về những cảnh quay nóng trong &quot;Gái gài lắm chiêu V&quot;?](https://laodong.vn/giai-tri/kaity-nguyen-noi-ve-nhung-canh-quay-nong-trong-gai-gai-lam-chieu-v-883118.ldo) ([Lao Động](https://laodong.vn))
+- [Tàu container tông sập cẩu thi công cầu Phước Khánh, thiệt hại 20 tỉ đồng](https://tuoitre.vn/tau-container-tong-sap-cau-thi-cong-cau-phuoc-khanh-thiet-hai-20-ti-dong-20210224103807098.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hàng loạt khách sạn, cửa hàng Hà Nội treo biển cho thuê sau Tết](https://cafebiz.vn/hang-loat-khach-san-cua-hang-ha-noi-treo-bien-cho-thue-sau-tet-20210224112048648.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
