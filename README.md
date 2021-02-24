@@ -16,7 +16,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 22°C.
-- Feels Like 21.19°C.
+- Feels Like 21.55°C.
 - Air Visual is 93.
 
 **WEATHER**
@@ -70,16 +70,16 @@
 
 **NEWS**
 
+- [Hải Phòng tìm người đến hiệu thuốc gần bệnh viện liên quan BN COVID-19](https://laodong.vn/xa-hoi/hai-phong-tim-nguoi-den-hieu-thuoc-gan-benh-vien-lien-quan-bn-covid-19-883354.ldo) ([Lao Động](https://laodong.vn))
+- [Chứng khoán: Rủi ro ngắn hạn thấp, thị trường có thể phản ứng hồi phục](https://laodong.vn/kinh-te/chung-khoan-rui-ro-ngan-han-thap-thi-truong-co-the-phan-ung-hoi-phuc-883351.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng thông báo khẩn người dân đến 4 địa điểm](https://tuoitre.vn/hai-phong-thong-bao-khan-nguoi-dan-den-4-dia-diem-20210224214808294.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bắt giữ đối tượng trốn truy nã 16 năm thông qua công tác truy vết](https://laodong.vn/phap-luat/bat-giu-doi-tuong-tron-truy-na-16-nam-thong-qua-cong-tac-truy-vet-883353.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương xử phạt đối tượng đăng sai sự thật về công tác phòng dịch](https://laodong.vn/phap-luat/hai-duong-xu-phat-doi-tuong-dang-sai-su-that-ve-cong-tac-phong-dich-883352.ldo) ([Lao Động](https://laodong.vn))
 - [Nhiều tiền mà "gặp khó", Nữ hoàng cá tra Việt Nam bán phồng tôm và nước ép rau quả](https://cafebiz.vn/nhieu-tien-ma-gap-kho-nu-hoang-ca-tra-viet-nam-ban-phong-tom-va-nuoc-ep-rau-qua-20210224213718327.chn) ([CafeBiz](https://cafebiz.vn))
 - [Triệt xóa 2 đường dây đưa người vượt biên trái phép trong mùa dịch Covid-19 ở Nghệ An](https://cafebiz.vn/triet-xoa-2-duong-day-dua-nguoi-vuot-bien-trai-phep-trong-mua-dich-covid-19-o-nghe-an-20210224212819097.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lý do dân chơi xế lựa chọn ePass](https://cafebiz.vn/ly-do-dan-choi-xe-lua-chon-epass-20210224181320221.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nam: Nghi án nữ sinh lớp 10 bị bạn trai sát hại](https://laodong.vn/phap-luat/ha-nam-nghi-an-nu-sinh-lop-10-bi-ban-trai-sat-hai-883350.ldo) ([Lao Động](https://laodong.vn))
 - [Từng được coi là "em chã nặng nhất thế giới", cậu bé béo đến không đi học nổi giờ đã có ngoại hình thay đổi đáng kinh ngạc sau 5 năm](https://cafebiz.vn/tung-duoc-coi-la-em-cha-nang-nhat-the-gioi-cau-be-beo-den-khong-di-hoc-noi-gio-da-co-ngoai-hinh-thay-doi-dang-kinh-ngac-sau-5-nam-20210224211855678.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Dương sẽ xét nghiệm COVID-19 cho nông dân, người vận chuyển nông sản](https://tuoitre.vn/hai-duong-se-xet-nghiem-covid-19-cho-nong-dan-nguoi-van-chuyen-nong-san-20210224203033817.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nữ hoàng Anh công bố hoạt động được coi là để "dạy dỗ" nhà Meghan Markle, đủ khiến cặp đôi phải muối mặt](https://cafebiz.vn/nu-hoang-anh-cong-bo-hoat-dong-duoc-coi-la-de-day-do-nha-meghan-markle-du-khien-cap-doi-phai-muoi-mat-20210224173358459.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sốc toàn tập với du thuyền 13,6 nghìn tỷ của ông chủ giàu có bậc nhất làng bóng đá](https://cafebiz.vn/soc-toan-tap-voi-du-thuyen-136-nghin-ty-cua-ong-chu-giau-co-bac-nhat-lang-bong-da-20210224173150624.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nóng nhất hôm nay: Bức ảnh và dòng trạng thái “gây bão like” của ông Biden](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-buc-anh-va-dong-trang-thai-gay-bao-like-cua-ong-biden-883324.ldo) ([Lao Động](https://laodong.vn))
-- [Học sinh Hà Nội dự kiến đi học trở lại từ 2-3](https://cafebiz.vn/hoc-sinh-ha-noi-du-kien-di-hoc-tro-lai-tu-2-3-20210224204918172.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -114,8 +114,8 @@
 04. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 05. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
 06. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-07. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-08. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
+07. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
+08. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 09. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
 10. [Ariana Grande - 34+35 Remix (feat. Doja Cat and Megan Thee Stallion) (Official Video)](https://www.youtube.com/watch?v=ssq6X6alZ3w) - [ArianaGrandeVevo](https://www.youtube.com/channel/UC0VOyT2OCBKdQhF3BAbZ-1g)
 
@@ -131,8 +131,8 @@
 04. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 05. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 06. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
-07. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
-08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
+07. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
+08. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 09. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 10. [Phim Hành Động Võ Thuật 2021 - SÁT THỦ ẨN DANH | Phim Chiếu Rạp Thuyết Minh Mới Nhất](https://www.youtube.com/watch?v=qSqv22xvfVU) - [Like Movies](https://www.youtube.com/channel/UCWDfO46yvUbLudW99_rVTBg)
 
