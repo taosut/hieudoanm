@@ -20,8 +20,8 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 22°C.
-- Feels Like 21.9°C.
+- Temperature is 21°C.
+- Feels Like 20.55°C.
 - Air Visual is 107.
 
 **WEATHER**
