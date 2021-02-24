@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 21°C.
-- Feels Like 22.04°C.
-- Air Visual is 63.
+- Feels Like 21.68°C.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Ươm trồng thành công cúc họa mi trái mùa](https://vnexpress.net/uom-trong-thanh-cong-cuc-hoa-mi-trai-mua-4239830.html) ([VNExpress](https://vnexpress.net))
 - [Covid-19 ngày 25/2](https://vnexpress.net/covid-19-ngay-25-2-4239824.html) ([VNExpress](https://vnexpress.net))
 - [Phụ cấp chống dịch cao nhất là 300.000 đồng mỗi ngày](https://vnexpress.net/phu-cap-chong-dich-cao-nhat-la-300-000-dong-moi-ngay-4239738.html) ([VNExpress](https://vnexpress.net))
 - [Đàn voọc ngũ sắc ở Vườn quốc gia Bạch Mã](https://vnexpress.net/dan-vooc-ngu-sac-o-vuon-quoc-gia-bach-ma-4239083.html) ([VNExpress](https://vnexpress.net))
@@ -84,7 +85,6 @@
 - [QL 5 thông tuyến, Hải Phòng gia hạn xét nghiệm Covid-19 cho lái xe Hải Dương](http://vietnamnet.vn/vn/thoi-su/ql-5-thong-tuyen-hai-phong-gia-han-xet-nghiem-covid-19-cho-lai-xe-hai-duong-715289.html) ([VietNamNet](https://vietnamnet.vn))
 - [Cuộc sống dễ thở, sự nghiệp thăng tiến dù chỉ phải làm việc bằng 1/3 thời gian trước, blogger với hơn 100 triệu lượt theo dõi chia sẻ 5 quyết định tài chính giúp anh đổi đời](https://cafebiz.vn/cuoc-song-de-tho-su-nghiep-thang-tien-du-chi-phai-lam-viec-bang-1-3-thoi-gian-truoc-blogger-voi-hon-100-trieu-luot-theo-doi-chia-se-5-quyet-dinh-tai-chinh-giup-anh-doi-doi-20210224230025751.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mưu sĩ có năng lực kém cỏi nhất thời Tam Quốc, cũng may Tôn Quyền không trọng dụng, nếu không Đông Ngô đã sớm bị xóa sổ](https://cafebiz.vn/muu-si-co-nang-luc-kem-coi-nhat-thoi-tam-quoc-cung-may-ton-quyen-khong-trong-dung-neu-khong-dong-ngo-da-som-bi-xoa-so-20210224225753904.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nữ sinh lớp 10 nghi bị bạn trai sát hại trong vườn chuối ở Hà Nam](http://vietnamnet.vn/vn/thoi-su/nu-sinh-lop-10-nghi-bi-ban-trai-sat-hai-trong-vuon-chuoi-o-ha-nam-715291.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
