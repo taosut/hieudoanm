@@ -16,8 +16,8 @@
 
 - Current weather is few clouds.
 - Temperature is 23°C.
-- Feels Like 21.32°C.
-- Air Visual is 101.
+- Feels Like 22.05°C.
+- Air Visual is 87.
 
 **WEATHER**
 
@@ -43,10 +43,10 @@
 
 **GOOGLE TRENDS**
 
+- [![Anh Đức](https://img.shields.io/static/v1?label=Anh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
 - [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
-- [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
@@ -70,16 +70,16 @@
 
 **NEWS**
 
+- [Chính phủ yêu cầu tháo gỡ khó khăn cho lưu thông hàng hóa, nông sản](https://laodong.vn/kinh-te/chinh-phu-yeu-cau-thao-go-kho-khan-cho-luu-thong-hang-hoa-nong-san-883336.ldo) ([Lao Động](https://laodong.vn))
+- [Lĩnh 15 tháng tù vì vượt chốt kiểm dịch, hành hung phó công an xã](https://laodong.vn/phap-luat/linh-15-thang-tu-vi-vuot-chot-kiem-dich-hanh-hung-pho-cong-an-xa-883341.ldo) ([Lao Động](https://laodong.vn))
+- [Sở Y tế Bình Dương sẽ đề xuất trích ngân sách mua vaccine Covid-19 tiêm cho người dân](https://cafebiz.vn/so-y-te-binh-duong-se-de-xuat-trich-ngan-sach-mua-vaccine-covid-19-tiem-cho-nguoi-dan-2021022419011581.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dù lương cao đến mấy cũng đừng làm 3 thể loại công việc này: Đốt sức khỏe nhanh hơn đốt tiền](https://cafebiz.vn/du-luong-cao-den-may-cung-dung-lam-3-the-loai-cong-viec-nay-dot-suc-khoe-nhanh-hon-dot-tien-20210224172708903.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nữ chính  xinh đẹp &quot;Trở về yêu thương&quot; từng được cố NSND Hoàng Dũng kì vọng](https://laodong.vn/photo/nu-chinh-xinh-dep-tro-ve-yeu-thuong-tung-duoc-co-nsnd-hoang-dung-ki-vong-883166.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 25.2](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-252-883235.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất 24h: Bao giờ lô vaccine COVID-19 đợt 2 về Việt Nam?](https://laodong.vn/video/nong-nhat-24h-bao-gio-lo-vaccine-covid-19-dot-2-ve-viet-nam-883288.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Ninh cắt giảm nhiều chi phí, dành ít nhất 500 tỉ mua vắc xin COVID-19](https://tuoitre.vn/quang-ninh-cat-giam-nhieu-chi-phi-danh-it-nhat-500-ti-mua-vac-xin-covid-19-20210224185604324.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tiêm vaccine Covid-19 quá liều, hai người Australia phải nhập viện](https://cafebiz.vn/tiem-vaccine-covid-19-qua-lieu-hai-nguoi-australia-phai-nhap-vien-20210224184749137.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hình ảnh đoàn tàu metro thứ 3 về Hà Nội](https://cafebiz.vn/hinh-anh-doan-tau-metro-thu-3-ve-ha-noi-20210224184333206.chn) ([CafeBiz](https://cafebiz.vn))
-- [TopCV ra mắt báo cáo thị trường tuyển dụng 2020-2021: Doanh nghiệp Việt vẫn tuyển dụng mạnh mẽ bất chấp ảnh hưởng của đại dịch Covid-19](https://cafebiz.vn/topcv-ra-mat-bao-cao-thi-truong-tuyen-dung-2020-2021-doanh-nghiep-viet-van-tuyen-dung-manh-me-bat-chap-anh-huong-cua-dai-dich-covid-19-20210224152624868.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thiếu nữ dương tính SARS-CoV-2 ở Hải Phòng có nhiều F1 tại quán bar, cà phê](https://cafebiz.vn/thieu-nu-duong-tinh-sars-cov-2-o-hai-phong-co-nhieu-f1-tai-quan-bar-ca-phe-20210224185158801.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tâm điểm cổ phiếu 24.2: TDC lội ngược dòng tăng 6,9%](https://laodong.vn/kinh-te/tam-diem-co-phieu-242-tdc-loi-nguoc-dong-tang-69-883315.ldo) ([Lao Động](https://laodong.vn))
-- [Cuộc sống hào nhoáng của "tam đại tiểu thư" đứng đầu hội phú bà quyền lực Hong Kong: Kinh doanh giỏi lại biết chơi tới bến, đến giới thượng lưu cũng nể vài phần](https://cafebiz.vn/cuoc-song-hao-nhoang-cua-tam-dai-tieu-thu-dung-dau-hoi-phu-ba-quyen-luc-hong-kong-kinh-doanh-gioi-lai-biet-choi-toi-ben-den-gioi-thuong-luu-cung-ne-vai-phan-2021022417251209.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cảnh sát biển vùng I bắt giữ tàu chở 20 ngàn lít dầu không rõ nguồn gốc](https://laodong.vn/phap-luat/canh-sat-bien-vung-i-bat-giu-tau-cho-20-ngan-lit-dau-khong-ro-nguon-goc-883277.ldo) ([Lao Động](https://laodong.vn))
-- [Cập nhật tình trạng sức khỏe của Tiger Woods sau tai nạn kinh hoàng](https://laodong.vn/the-thao/cap-nhat-tinh-trang-suc-khoe-cua-tiger-woods-sau-tai-nan-kinh-hoang-883330.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương ghi nhận cùng lúc 2 biến chủng virus SARS-CoV-2 có tốc độ lây lan nhanh](https://cafebiz.vn/hai-duong-ghi-nhan-cung-luc-2-bien-chung-virus-sars-cov-2-co-toc-do-lay-lan-nhanh-20210224184910567.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kinh tế 24h: Lãi suất giảm; Giá xăng sắp tăng mạnh?](https://laodong.vn/thi-truong/kinh-te-24h-lai-suat-giam-gia-xang-sap-tang-manh-883317.ldo) ([Lao Động](https://laodong.vn))
-- [Biến chủng SARS-CoV-2 khiến bệnh nhân người Nhật tử vong ở Việt Nam có nguy hiểm?](https://cafebiz.vn/bien-chung-sars-cov-2-khien-benh-nhan-nguoi-nhat-tu-vong-o-viet-nam-co-nguy-hiem-20210224183752898.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -133,8 +133,8 @@
 06. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 07. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
-09. [Phim Hành Động Võ Thuật 2021 - SÁT THỦ ẨN DANH | Phim Chiếu Rạp Thuyết Minh Mới Nhất](https://www.youtube.com/watch?v=qSqv22xvfVU) - [Like Movies](https://www.youtube.com/channel/UCWDfO46yvUbLudW99_rVTBg)
-10. [Hiền Hồ - Quân AP khiến khán giả ngất lịm với Bông Hoa Đẹp Nhất và Gặp Nhưng Không Ở Lại | SÓNG 21](https://www.youtube.com/watch?v=5MzfUwXwY2Y) - [Vie GIẢITRÍ](https://www.youtube.com/channel/UC2Lgi2uPsOcCVF3imz7l2mg)
+09. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+10. [Phim Hành Động Võ Thuật 2021 - SÁT THỦ ẨN DANH | Phim Chiếu Rạp Thuyết Minh Mới Nhất](https://www.youtube.com/watch?v=qSqv22xvfVU) - [Like Movies](https://www.youtube.com/channel/UCWDfO46yvUbLudW99_rVTBg)
 
 [Read More](https://www.youtube.com/feed/trending)
 
