@@ -15,9 +15,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 23°C.
-- Feels Like 22.4°C.
-- Air Visual is 139.
+- Temperature is 24°C.
+- Feels Like 23.01°C.
+- Air Visual is 116.
 
 **WEATHER**
 
@@ -43,14 +43,14 @@
 
 **GOOGLE TRENDS**
 
-- [![Anh Đức](https://img.shields.io/static/v1?label=Anh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
 - [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
-- [![GD](https://img.shields.io/static/v1?label=GD&message=google&color=red&style=flat-square)](https://www.google.com/search?q=GD)
+- [![G-D](https://img.shields.io/static/v1?label=G-D&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G-D)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
+- [![Google Classroom](https://img.shields.io/static/v1?label=Google%20Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Google%20Classroom)
 - [![Hướng dương ngược nắng tập 31](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
@@ -70,7 +70,16 @@
 
 **NEWS**
 
-
+- [Hôn nhân viên mãn của hai Hoa hậu Việt Nam có chiều cao khiêm tốn nhất](https://laodong.vn/gia-dinh-hon-nhan/hon-nhan-vien-man-cua-hai-hoa-hau-viet-nam-co-chieu-cao-khiem-ton-nhat-883147.ldo) ([Lao Động](https://laodong.vn))
+- [Dự kiến, Việt Nam sẽ có khoảng 90 triệu liều vaccine COVID-19 trong năm nay](https://laodong.vn/thoi-su/du-kien-viet-nam-se-co-khoang-90-trieu-lieu-vaccine-covid-19-trong-nam-nay-883136.ldo) ([Lao Động](https://laodong.vn))
+- [Đồng Nai đề xuất mua 6,2 triệu liều vaccine COVID-19 tiêm miễn phí toàn dân](https://laodong.vn/xa-hoi/dong-nai-de-xuat-mua-62-trieu-lieu-vaccine-covid-19-tiem-mien-phi-toan-dan-883144.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang xin chuyển sân bay quân sự Kép thành sân bay lưỡng dụng](https://tuoitre.vn/bac-giang-xin-chuyen-san-bay-quan-su-kep-thanh-san-bay-luong-dung-20210224113703805.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chuyên gia blockchain chỉ ra nhiều dấu hiệu lừa đảo của Pi Network](https://cafebiz.vn/chuyen-gia-blockchain-chi-ra-nhieu-dau-hieu-lua-dao-cua-pi-network-20210224120641409.chn) ([CafeBiz](https://cafebiz.vn))
+- [Từ 20.3, giáo viên chưa đạt chuẩn được xếp lương theo quy định mới](https://laodong.vn/giao-duc/tu-203-giao-vien-chua-dat-chuan-duoc-xep-luong-theo-quy-dinh-moi-883134.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Dương: Xử phạt công ty xây dựng móng chung cư khi chưa có giấy phép](https://laodong.vn/bat-dong-san/binh-duong-xu-phat-cong-ty-xay-dung-mong-chung-cu-khi-chua-co-giay-phep-883120.ldo) ([Lao Động](https://laodong.vn))
+- [19 địa điểm liên quan đến hai điều dưỡng mắc COVID-19 tại Hải Phòng](https://laodong.vn/infographic/19-dia-diem-lien-quan-den-hai-dieu-duong-mac-covid-19-tai-hai-phong-883033.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Joe Biden có cuộc gặp song phương đầu tiên với tư cách Tổng thống Mỹ](https://laodong.vn/photo/ong-joe-biden-co-cuoc-gap-song-phuong-dau-tien-voi-tu-cach-tong-thong-my-883109.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang xử tăng nặng cán bộ đi chùa, la cà quán xá trong giờ làm việc](http://vietnamnet.vn/vn/thoi-su/chinh-tri/bac-giang-xu-tang-nang-can-bo-di-chua-la-ca-quan-xa-trong-gio-lam-viec-715116.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
