@@ -1,5 +1,6 @@
 # News
 
+- [BIDV sẽ mua vaccine COVID-19 cho nhân viên và người nhà](https://cafebiz.vn/bidv-se-mua-vaccine-covid-19-cho-nhan-vien-va-nguoi-nha-20210224124537957.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bản tin 1 phút: Tìm ra nguồn lây chùm ca bệnh tại Hải Phòng](https://laodong.vn/video-thoi-su/ban-tin-1-phut-tim-ra-nguon-lay-chum-ca-benh-tai-hai-phong-883097.ldo) ([Lao Động](https://laodong.vn))
 - [Xử lý phù nề, vết bầm do chấn thương phần mềm khi va chạm giao thông](https://laodong.vn/suc-khoe/xu-ly-phu-ne-vet-bam-do-chan-thuong-phan-mem-khi-va-cham-giao-thong-882395.ldo) ([Lao Động](https://laodong.vn))
 - [Tỷ giá ngoại tệ 24.2: USD tụt sâu chạm đáy 3 năm, nhà đầu tư thận trọng](https://laodong.vn/kinh-te/ty-gia-ngoai-te-242-usd-tut-sau-cham-day-3-nam-nha-dau-tu-than-trong-883113.ldo) ([Lao Động](https://laodong.vn))
@@ -99,4 +100,3 @@
 - [3 người thừa kế sáng giá của Tập đoàn Tân Hoàng Minh: Trai tài, gái sắc, du học trời Tây về nối nghiệp cha](https://cafebiz.vn/3-nguoi-thua-ke-sang-gia-cua-tap-doan-tan-hoang-minh-trai-tai-gai-sac-20210222114421416.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thủy thủ tàu đi từ Trung Quốc tử vong, Vũng Tàu xét nghiệm thấy 5 người dương tính COVID-19](https://tuoitre.vn/thuy-thu-tau-di-tu-trung-quoc-tu-vong-ba-ria-vung-tau-xet-nghiem-thay-5-nguoi-duong-tinh-covid-19-20210224064512001.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Sáng nay, lô vắc xin đầu tiên về Việt Nam qua sân bay Tân Sơn Nhất](https://tuoitre.vn/sang-nay-lo-vac-xin-dau-tien-ve-viet-nam-qua-san-bay-tan-son-nhat-20210224061407998.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Khu đô thị lấn biển Cần Giờ có 5 phân khu chức năng](https://vnexpress.net/khu-do-thi-lan-bien-can-gio-co-5-phan-khu-chuc-nang-4239225.html) ([VNExpress](https://vnexpress.net))

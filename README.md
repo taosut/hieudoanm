@@ -14,9 +14,9 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is overcast clouds.
 - Temperature is 24°C.
-- Feels Like 23.01°C.
+- Feels Like 23.37°C.
 - Air Visual is 116.
 
 **WEATHER**
@@ -70,6 +70,7 @@
 
 **NEWS**
 
+- [BIDV sẽ mua vaccine COVID-19 cho nhân viên và người nhà](https://cafebiz.vn/bidv-se-mua-vaccine-covid-19-cho-nhan-vien-va-nguoi-nha-20210224124537957.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bản tin 1 phút: Tìm ra nguồn lây chùm ca bệnh tại Hải Phòng](https://laodong.vn/video-thoi-su/ban-tin-1-phut-tim-ra-nguon-lay-chum-ca-benh-tai-hai-phong-883097.ldo) ([Lao Động](https://laodong.vn))
 - [Xử lý phù nề, vết bầm do chấn thương phần mềm khi va chạm giao thông](https://laodong.vn/suc-khoe/xu-ly-phu-ne-vet-bam-do-chan-thuong-phan-mem-khi-va-cham-giao-thong-882395.ldo) ([Lao Động](https://laodong.vn))
 - [Tỷ giá ngoại tệ 24.2: USD tụt sâu chạm đáy 3 năm, nhà đầu tư thận trọng](https://laodong.vn/kinh-te/ty-gia-ngoai-te-242-usd-tut-sau-cham-day-3-nam-nha-dau-tu-than-trong-883113.ldo) ([Lao Động](https://laodong.vn))
@@ -79,7 +80,6 @@
 - [Ngư dân được mùa cá hố](https://vnexpress.net/ngu-dan-duoc-mua-ca-ho-4239439.html) ([VNExpress](https://vnexpress.net))
 - [Bắc Giang xin chuyển sân bay quân sự Kép thành sân bay lưỡng dụng](https://tuoitre.vn/bac-giang-xin-chuyen-san-bay-quan-su-kep-thanh-san-bay-luong-dung-20210224113703805.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chuyên gia blockchain chỉ ra nhiều dấu hiệu lừa đảo của Pi Network](https://cafebiz.vn/chuyen-gia-blockchain-chi-ra-nhieu-dau-hieu-lua-dao-cua-pi-network-20210224120641409.chn) ([CafeBiz](https://cafebiz.vn))
-- [19 địa điểm liên quan đến hai điều dưỡng mắc COVID-19 tại Hải Phòng](https://laodong.vn/infographic/19-dia-diem-lien-quan-den-hai-dieu-duong-mac-covid-19-tai-hai-phong-883033.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
