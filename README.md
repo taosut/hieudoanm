@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is mist.
 - Temperature is 21°C.
-- Feels Like 22.04°C.
-- Air Visual is 108.
+- Feels Like 22.17°C.
+- Air Visual is 72.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Cùng Tuổi Trẻ góp vắcxin COVID-19](https://tuoitre.vn/cung-tuoi-tre-gop-vacxin-covid-19-20210225000837825.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Dự báo thời tiết 25/2: Miền Bắc nắng ấm, Tây Nguyên lạnh nhất cả nước](http://vietnamnet.vn/vn/thoi-su/du-bao-thoi-tiet-25-2-mien-bac-nang-am-tay-nguyen-lanh-nhat-ca-nuoc-715271.html) ([VietNamNet](https://vietnamnet.vn))
-- [Quy trình bầu cử 500 đại biểu Quốc hội khóa mới](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/quy-trinh-bau-cu-500-dai-bieu-quoc-hoi-khoa-moi-715268.html) ([VietNamNet](https://vietnamnet.vn))
-- [Hải Dương lắp đặt cây ATM gạo tiếp sức người dân chống dịch](http://vietnamnet.vn/vn/thoi-su/hai-duong-lap-dat-cay-atm-gao-tiep-suc-nguoi-dan-chong-dich-715252.html) ([VietNamNet](https://vietnamnet.vn))
-- [Ươm trồng thành công cúc họa mi trái mùa](https://vnexpress.net/uom-trong-thanh-cong-cuc-hoa-mi-trai-mua-4239830.html) ([VNExpress](https://vnexpress.net))
-- [Covid-19 ngày 25/2](https://vnexpress.net/covid-19-ngay-25-2-4239824.html) ([VNExpress](https://vnexpress.net))
-- [Phụ cấp chống dịch cao nhất là 300.000 đồng mỗi ngày](https://vnexpress.net/phu-cap-chong-dich-cao-nhat-la-300-000-dong-moi-ngay-4239738.html) ([VNExpress](https://vnexpress.net))
-- [Đàn voọc ngũ sắc ở Vườn quốc gia Bạch Mã](https://vnexpress.net/dan-vooc-ngu-sac-o-vuon-quoc-gia-bach-ma-4239083.html) ([VNExpress](https://vnexpress.net))
-- [Phó Thủ tướng chỉ đạo các biện pháp lưu thông nông sản vùng dịch Covid-19](http://vietnamnet.vn/vn/thoi-su/pho-thu-tuong-chi-dao-cac-bien-phap-luu-thong-nong-san-vung-dich-covid-19-715293.html) ([VietNamNet](https://vietnamnet.vn))
-- [Vì sao máy bay vẫn có thể bay khi một động cơ bị hỏng?](https://tinhte.vn/thread/vi-sao-may-bay-van-co-the-bay-khi-mot-dong-co-bi-hong.3282270/) ([Tinh Tế](https://tinhte.vn))
+
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +87,7 @@
 
 **VIETCETERA**
 
+- ["Crush của chị đứng giữa lớp hô, 'Ai chơi vật tay với tao không?'"](https://vietcetera.com/vn/crush-cua-chi-dung-giua-lop-ho-ai-choi-vat-tay-voi-tao-khong)
 - [Không Quan Tâm: G-Dragon và Jennie hẹn hò](https://vietcetera.com/vn/khongquantam-jennie-va-g-dragon-hen-ho)
 - [Phá thai, cấm hay không?](https://vietcetera.com/vn/pha-thai-cam-hay-khong)
 - [Tóm Lại Là: Coca Cola và câu chuyện về “da trắng thượng đẳng”](https://vietcetera.com/vn/tom-lai-la-coca-cola-va-cau-chuyen-ve-da-trang-thuong-dang)
@@ -105,7 +97,6 @@
 - [Điện ảnh, công nghệ và y tế: Việt Nam đang đứng ở đâu?](https://vietcetera.com/vn/khong-chi-chong-dich-tot-viet-nam-dang-dat-nhieu-cot-moc-hon-the)
 - ["Đâu là khoảnh khắc anh nhận ra mình rất hạnh phúc?"](https://vietcetera.com/vn/dau-la-khoanh-khac-anh-nhan-ra-minh-rat-hanh-phuc)
 - [Bóc Term: Cougar - Khi chuyện tình “chị đẹp và trai trẻ” vượt qua định kiến xã hội](https://vietcetera.com/vn/boc-term-cougar-khi-chi-dep-va-trai-tre-vuot-qua-dinh-kien-xa-hoi)
-- [Văn hóa Tiki có gì mà thế giới thích mê? ](https://vietcetera.com/vn/van-hoa-tiki-co-gi-ma-the-gioi-thich-me)
 
 [Read More](https://vietcetera.com/)
 
