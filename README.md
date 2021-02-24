@@ -16,8 +16,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 23.73°C.
-- Air Visual is 126.
+- Feels Like 22.65°C.
+- Air Visual is 119.
 
 **WEATHER**
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [CDC Điện Biên hơn 150 giờ căng mình chạy đua với COVID-19](https://laodong.vn/video/cdc-dien-bien-hon-150-gio-cang-minh-chay-dua-voi-covid-19-883157.ldo) ([Lao Động](https://laodong.vn))
-- [Nông sản huyện Mê Linh tắc đầu ra do dịch COVID-19](https://laodong.vn/xa-hoi/nong-san-huyen-me-linh-tac-dau-ra-do-dich-covid-19-883155.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Mắt thần&quot; phát huy, CSGT Đà Nẵng không phải ra đường chặn xe](https://laodong.vn/video/mat-than-phat-huy-csgt-da-nang-khong-phai-ra-duong-chan-xe-883060.ldo) ([Lao Động](https://laodong.vn))
-- [Bí thư Thành ủy TP.HCM Nguyễn Văn Nên thăm cán bộ y tế tiêu biểu](https://tuoitre.vn/bi-thu-thanh-uy-tphcm-nguyen-van-nen-tham-can-bo-y-te-tieu-bieu-20210224121324785.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thủ tướng: Lập 'vùng đệm giao dịch' để lưu thông hàng hóa bình thường](https://tuoitre.vn/thu-tuong-lap-vung-dem-giao-dich-de-luu-thong-hang-hoa-binh-thuong-20210224124850903.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sau Hải Dương, Hải Phòng, rau củ Đà Lạt được người dân TPHCM &quot;giải cứu&quot;](https://laodong.vn/kinh-te/sau-hai-duong-hai-phong-rau-cu-da-lat-duoc-nguoi-dan-tphcm-giai-cuu-883116.ldo) ([Lao Động](https://laodong.vn))
-- [Mỹ công bố dữ liệu về tác dụng phụ &quot;tốt&quot; khi tiêm vaccine COVID-19](https://laodong.vn/the-gioi/my-cong-bo-du-lieu-ve-tac-dung-phu-tot-khi-tiem-vaccine-covid-19-883145.ldo) ([Lao Động](https://laodong.vn))
-- [BIDV sẽ mua vaccine COVID-19 cho nhân viên và người nhà](https://cafebiz.vn/bidv-se-mua-vaccine-covid-19-cho-nhan-vien-va-nguoi-nha-20210224124537957.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bản tin 1 phút: Tìm ra nguồn lây chùm ca bệnh tại Hải Phòng](https://laodong.vn/video-thoi-su/ban-tin-1-phut-tim-ra-nguon-lay-chum-ca-benh-tai-hai-phong-883097.ldo) ([Lao Động](https://laodong.vn))
-- [Lô vaccine COVID-19 đầu tiên đã về tới Việt Nam](https://laodong.vn/y-te/lo-vaccine-covid-19-dau-tien-da-ve-toi-viet-nam-883146.ldo) ([Lao Động](https://laodong.vn))
+- [Tuyến buýt số 69 Bác Cổ - Dương Quang (Gia Lâm) nên có thêm điểm dừng](https://laodong.vn/ban-doc/tuyen-buyt-so-69-bac-co-duong-quang-gia-lam-nen-co-them-diem-dung-883163.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao giá USD chợ đen liên tục tăng nóng?](https://laodong.vn/kinh-te/vi-sao-gia-usd-cho-den-lien-tuc-tang-nong-883170.ldo) ([Lao Động](https://laodong.vn))
+- [Hơn 117.000 liều vaccine phòng Covid-19 đầu tiên đã về đến Việt Nam](https://cafebiz.vn/hon-117000-lieu-vaccine-phong-covid-19-dau-tien-da-ve-den-viet-nam-20210224135142995.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vietnam Airlines muốn rót gần 10.000 tỷ đồng vào sân bay Long Thành](https://cafebiz.vn/vietnam-airlines-muon-rot-gan-10000-ty-dong-vao-san-bay-long-thanh-20210224134944679.chn) ([CafeBiz](https://cafebiz.vn))
+- [Còn 2 khu vực ở Gia Lai bị cách ly phong tỏa vì COVID-19](https://laodong.vn/xa-hoi/con-2-khu-vuc-o-gia-lai-bi-cach-ly-phong-toa-vi-covid-19-883167.ldo) ([Lao Động](https://laodong.vn))
+- [Lịch trở lại trường của học sinh 63 tỉnh, thành](https://laodong.vn/giao-duc/lich-tro-lai-truong-cua-hoc-sinh-63-tinh-thanh-883165.ldo) ([Lao Động](https://laodong.vn))
+- [6 điều nên mang theo suốt cuộc đời để không bao giờ phải chịu thua thiệt](https://cafebiz.vn/6-dieu-nen-mang-theo-suot-cuoc-doi-de-khong-bao-gio-phai-chiu-thua-thiet-20210223083718394.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội tính giải pháp đưa các hoạt động trở lại trạng thái bình thường mới](https://laodong.vn/xa-hoi/ha-noi-tinh-giai-phap-dua-cac-hoat-dong-tro-lai-trang-thai-binh-thuong-moi-883168.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng: 'Không vì có vaccine mà chủ quan chống dịch'](https://vnexpress.net/thu-tuong-khong-vi-co-vaccine-ma-chu-quan-chong-dich-4239524.html) ([VNExpress](https://vnexpress.net))
+- [Một lập trình viên viết phần mềm phát hiện học sinh mất tập trung học online](https://cafebiz.vn/mot-lap-trinh-vien-viet-phan-mem-phat-hien-hoc-sinh-mat-tap-trung-hoc-online-202102241131403.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -117,7 +117,7 @@
 07. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 08. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
 09. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
-10. [Taylor Swift - Love Story (Taylor’s Version) [Official Lyric Video]](https://www.youtube.com/watch?v=aXzVF3XeS8M) - [TaylorSwiftVEVO](https://www.youtube.com/channel/UCANLZYMidaCbLQFWXBC95Jg)
+10. [Ariana Grande - 34+35 Remix (feat. Doja Cat and Megan Thee Stallion) (Official Video)](https://www.youtube.com/watch?v=ssq6X6alZ3w) - [ArianaGrandeVevo](https://www.youtube.com/channel/UC0VOyT2OCBKdQhF3BAbZ-1g)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
