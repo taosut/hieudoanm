@@ -16,7 +16,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 24.42°C.
+- Feels Like 23.34°C.
 - Air Visual is 105.
 
 **WEATHER**
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Cận cảnh lô vaccine Covid-19 đầu tiên về Việt Nam được bảo quản trong kho siêu lạnh](https://cafebiz.vn/can-canh-lo-vaccine-covid-19-dau-tien-ve-viet-nam-duoc-bao-quan-trong-kho-sieu-lanh-20210224144705218.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chi trả lương hưu, trợ cấp BHXH tháng 3-4.2021 vào cùng một kỳ](https://laodong.vn/xa-hoi/chi-tra-luong-huu-tro-cap-bhxh-thang-3-42021-vao-cung-mot-ky-883195.ldo) ([Lao Động](https://laodong.vn))
-- [Giá xăng tăng mạnh vào ngày mai?](https://laodong.vn/thi-truong/gia-xang-tang-manh-vao-ngay-mai-883191.ldo) ([Lao Động](https://laodong.vn))
-- [LĐLĐ TP.Hải Phòng tặng 25.500 suất nông sản cho công nhân lao động](https://laodong.vn/cong-doan/ldld-tphai-phong-tang-25500-suat-nong-san-cho-cong-nhan-lao-dong-883189.ldo) ([Lao Động](https://laodong.vn))
-- [Bình Dương: Các cấp công đoàn chăm lo tốt cho NLĐ khó khăn dịp Tết](https://laodong.vn/cong-doan/binh-duong-cac-cap-cong-doan-cham-lo-tot-cho-nld-kho-khan-dip-tet-883179.ldo) ([Lao Động](https://laodong.vn))
-- [Bị từ chối công chứng di chúc nhà đất khi nào?](https://laodong.vn/bat-dong-san/bi-tu-choi-cong-chung-di-chuc-nha-dat-khi-nao-882921.ldo) ([Lao Động](https://laodong.vn))
-- [Người nhập cảnh vào An Giang phải trả phí xét nghiệm, người nghèo được miễn giảm](https://tuoitre.vn/nguoi-nhap-canh-vao-an-giang-phai-tra-phi-xet-nghiem-nguoi-ngheo-duoc-mien-giam-20210224120542338.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cận cảnh lô vaccine COVID-19 đầu tiên về sân bay Tân Sơn Nhất](https://laodong.vn/photo/can-canh-lo-vaccine-covid-19-dau-tien-ve-san-bay-tan-son-nhat-883171.ldo) ([Lao Động](https://laodong.vn))
-- [Tuyển sinh vào lớp 10: Cả nhà áp lực khi con phải thi thêm môn thứ 4](https://laodong.vn/video/tuyen-sinh-vao-lop-10-ca-nha-ap-luc-khi-con-phai-thi-them-mon-thu-4-883173.ldo) ([Lao Động](https://laodong.vn))
-- [Cảnh báo mô hình đầu tư forex Lion Group: Tuyên bố ngồi không cũng lãi 20-24%/tháng, hơn 40.000 nhà đầu tư chưa ai bị lỗ đồng nào?](https://cafebiz.vn/canh-bao-mo-hinh-dau-tu-forex-lion-group-tuyen-bo-ngoi-khong-cung-lai-20-24-thang-hon-40000-nha-dau-tu-chua-ai-bi-lo-dong-nao-20210224111900412.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đột phá phát triển du lịch sinh thái Cồn Sơn](https://laodong.vn/kinh-te/dot-pha-phat-trien-du-lich-sinh-thai-con-son-883188.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất cấm xe thô sơ ở TP HCM sau năm 2025](https://vnexpress.net/de-xuat-cam-xe-tho-so-o-tp-hcm-sau-nam-2025-4239501.html) ([VNExpress](https://vnexpress.net))
+- [Chuyện lạ ở Amazon: Vốn hóa thị trường lên đến 1,69 nghìn tỷ USD nhưng không lãnh đạo nào ngoài gia đình Jeff Bezos trở thành tỷ phú](https://cafebiz.vn/chuyen-la-o-amazon-von-hoa-thi-truong-len-den-169-nghin-ty-usd-nhung-khong-lanh-dao-nao-ngoai-gia-dinh-jeff-bezos-tro-thanh-ty-phu-20210224142912891.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những cách chế biến món ngon và lạ miệng từ su hào &quot;giải cứu&quot;](https://laodong.vn/gia-dinh-hon-nhan/nhung-cach-che-bien-mon-ngon-va-la-mieng-tu-su-hao-giai-cuu-883117.ldo) ([Lao Động](https://laodong.vn))
+- [Hơn 3 tỉ đồng hỗ trợ người lao động khó khăn trong dịp Tết Tân Sửu 2021](https://laodong.vn/cd-cong-thuong/hon-3-ti-dong-ho-tro-nguoi-lao-dong-kho-khan-trong-dip-tet-tan-suu-2021-883199.ldo) ([Lao Động](https://laodong.vn))
+- [Serie A xứng danh “đối thủ truyền kiếp” của Real Madrid](https://laodong.vn/the-thao/serie-a-xung-danh-doi-thu-truyen-kiep-cua-real-madrid-883037.ldo) ([Lao Động](https://laodong.vn))
+- [Hãng xe ô tô nào được ưa thích nhất tại Mỹ?](https://cafebiz.vn/hang-xe-o-to-nao-duoc-ua-thich-nhat-tai-my-20210224140403451.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phía Sơn Tùng M-TP chính thức lên tiếng về ồn ào đạo nhạc, drama "Chúng ta của hiện tại" đã hạ màn?](https://cafebiz.vn/phia-son-tung-m-tp-chinh-thuc-len-tieng-ve-on-ao-dao-nhac-drama-chung-ta-cua-hien-tai-da-ha-man-20210224150253791.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhận định Gladbach - Man City: Đi tìm điểm yếu của gã khổng lồ](https://laodong.vn/bong-da-quoc-te/nhan-dinh-gladbach-man-city-di-tim-diem-yeu-cua-ga-khong-lo-883183.ldo) ([Lao Động](https://laodong.vn))
+- [Quán ăn, nhà hàng &quot;gồng mình&quot; trước dịch COVID-19](https://laodong.vn/kinh-te/quan-an-nha-hang-gong-minh-truoc-dich-covid-19-883164.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -128,7 +128,7 @@
 01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 02. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
 03. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
-04. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2 [ Xuân Tân Sửu Tết 2021 ]](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
+04. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 05. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 06. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 07. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
