@@ -16,8 +16,8 @@
 
 - Current weather is mist.
 - Temperature is 21°C.
-- Feels Like 21.68°C.
-- Air Visual is 121.
+- Feels Like 21.32°C.
+- Air Visual is 114.
 
 **WEATHER**
 
@@ -45,8 +45,9 @@
 
 - [![Anh Đức](https://img.shields.io/static/v1?label=Anh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
+- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
-- [![Cúng rằm tháng giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
 - [![Google Classroom](https://img.shields.io/static/v1?label=Google%20Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Google%20Classroom)
@@ -55,7 +56,6 @@
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
-- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Map](https://img.shields.io/static/v1?label=Map&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Map)
 - [![Minh Nhựa](https://img.shields.io/static/v1?label=Minh%20Nh%E1%BB%B1a&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Huyền thoại golf Tiger Woods bị tai nạn xe hơi nghiêm trọng](https://laodong.vn/the-thao/huyen-thoai-golf-tiger-woods-bi-tai-nan-xe-hoi-nghiem-trong-883039.ldo) ([Lao Động](https://laodong.vn))
-- [Khu đô thị lấn biển Cần Giờ có 5 phân khu chức năng](https://vnexpress.net/khu-do-thi-lan-bien-can-gio-co-5-phan-khu-chuc-nang-4239225.html) ([VNExpress](https://vnexpress.net))
-- [Dự báo thời tiết 24/2: Miền Bắc tăng nhiệt, nóng đến 31 độ C](http://vietnamnet.vn/vn/thoi-su/du-bao-thoi-tiet-24-2-mien-bac-tang-nhiet-nong-den-31-do-c-714955.html) ([VietNamNet](https://vietnamnet.vn))
-- [Covid-19 ngày 24/2](https://vnexpress.net/covid-19-ngay-24-2-4239251.html) ([VNExpress](https://vnexpress.net))
-- [[QC] Đã có xe Vinfast rồi thì ngại gì không mua thêm cái bao da SEN cho chìa khoá...](https://tinhte.vn/thread/qc-da-co-xe-vinfast-roi-thi-ngai-gi-khong-mua-them-cai-bao-da-sen-cho-chia-khoa.3280076/) ([Tinh Tế](https://tinhte.vn))
-- [Hàng hóa Hải Dương 'ách tắc': Nguy cơ đứt gãy nguồn nguyên liệu](https://thanhnien.vn/thoi-su/hang-hoa-hai-duong-ach-tac-nguy-co-dut-gay-nguon-nguyen-lieu-1345523.html) ([Thanh Niên](https://thanhnien.vn))
-- [Facebook bỏ chặn người dùng Úc và đồng ý trả tiền cho các hãng tin.](https://tinhte.vn/thread/facebook-bo-chan-nguoi-dung-uc-va-dong-y-tra-tien-cho-cac-hang-tin.3281859/) ([Tinh Tế](https://tinhte.vn))
-- [Đánh giá Blackberry 9900 sau 8 năm sử dụng](https://tinhte.vn/thread/danh-gia-blackberry-9900-sau-8-nam-su-dung.3281391/) ([Tinh Tế](https://tinhte.vn))
-- [Hiện tượng tâm lý mà ai cũng từng gặp phải - Hội chứng vịt con](https://tinhte.vn/thread/hien-tuong-tam-ly-ma-ai-cung-tung-gap-phai-hoi-chung-vit-con.3279977/) ([Tinh Tế](https://tinhte.vn))
-- [Vụ khiếu nại kéo dài 32 năm: Xử lý trách nhiệm 2 bộ và 1 địa phương](https://thanhnien.vn/thoi-su/vu-khieu-nai-keo-dai-32-nam-xu-ly-trach-nhiem-2-bo-va-1-dia-phuong-1345270.html) ([Thanh Niên](https://thanhnien.vn))
+- [Những loại thực phẩm tuyệt đối không nên bảo quản trong tủ lạnh](https://laodong.vn/suc-khoe/nhung-loai-thuc-pham-tuyet-doi-khong-nen-bao-quan-trong-tu-lanh-882460.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Joe Biden có chuyến đi đầu tiên đến vùng thiên tai](https://laodong.vn/the-gioi/ong-joe-biden-co-chuyen-di-dau-tien-den-vung-thien-tai-883042.ldo) ([Lao Động](https://laodong.vn))
+- [Bệnh nhân tử vong sau nhiều ngày ho sốt, kết quả âm tính với COVID-19](https://laodong.vn/xa-hoi/benh-nhan-tu-vong-sau-nhieu-ngay-ho-sot-ket-qua-am-tinh-voi-covid-19-883028.ldo) ([Lao Động](https://laodong.vn))
+- [3 nhân vật đình đám khiến bitcoin lao dốc](https://laodong.vn/the-gioi/3-nhan-vat-dinh-dam-khien-bitcoin-lao-doc-883044.ldo) ([Lao Động](https://laodong.vn))
+- [FDA phê duyệt thay đổi quan trọng liên quan đến vaccine Pfizer-BioNTech](https://laodong.vn/the-gioi/fda-phe-duyet-thay-doi-quan-trong-lien-quan-den-vaccine-pfizer-biontech-883043.ldo) ([Lao Động](https://laodong.vn))
+- [Ngư dân ra quân vươn khơi bám biển Hoàng Sa, Trường Sa](https://laodong.vn/xa-hoi/ngu-dan-ra-quan-vuon-khoi-bam-bien-hoang-sa-truong-sa-882978.ldo) ([Lao Động](https://laodong.vn))
+- [Đọc báo cùng bạn 24-2: Người Việt sẽ được tiêm vắcxin COVID-19 miễn phí](https://tuoitre.vn/doc-bao-cung-ban-24-2-nguoi-viet-se-duoc-tiem-vacxin-covid-19-mien-phi-20210224033823492.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Trở thành triệu phú tự thân ở tuổi 26: Khi không có tiền, không có chống lưng, cũng chẳng phải thiên tài, muốn thành công chỉ có thể dùng cách NGỐC nhất](https://cafebiz.vn/tro-thanh-trieu-phu-tu-than-o-tuoi-26-khi-khong-co-tien-khong-co-chong-lung-cung-chang-phai-thien-tai-muon-thanh-cong-chi-co-the-dung-cach-ngoc-nhat-20210222190626459.chn) ([CafeBiz](https://cafebiz.vn))
+- [3 người thừa kế sáng giá của Tập đoàn Tân Hoàng Minh: Trai tài, gái sắc, du học trời Tây về nối nghiệp cha](https://cafebiz.vn/3-nguoi-thua-ke-sang-gia-cua-tap-doan-tan-hoang-minh-trai-tai-gai-sac-20210222114421416.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tổng thống Joe Biden nói về dấu mốc 500.000 người tử vong vì COVID-19](https://laodong.vn/photo/tong-thong-joe-biden-noi-ve-dau-moc-500000-nguoi-tu-vong-vi-covid-19-882952.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
