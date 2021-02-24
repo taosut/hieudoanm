@@ -6,8 +6,8 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript" alt="javascript" />](https://github.com/airbnb/javascript) | javascript | 105,101 | 3,806 | 20,403 | 129,310|
-|2|[<img src="https://img.shields.io/badge/-go-000?style=flat&logo=go" alt="go" />](https://github.com/golang/go) | go | 82,398 | 3,521 | 11,972 | 97,891|
+|1|[<img src="https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript" alt="javascript" />](https://github.com/airbnb/javascript) | javascript | 105,102 | 3,806 | 20,403 | 129,311|
+|2|[<img src="https://img.shields.io/badge/-go-000?style=flat&logo=go" alt="go" />](https://github.com/golang/go) | go | 82,397 | 3,521 | 11,972 | 97,890|
 |3|[<img src="https://img.shields.io/badge/-typescript-000?style=flat&logo=typescript" alt="typescript" />](https://github.com/microsoft/TypeScript) | typescript | 68,782 | 2,157 | 9,120 | 80,059|
 
 ## PACKAGE MANAGERS
@@ -40,8 +40,8 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-react-000?style=flat&logo=react" alt="react" />](https://github.com/facebook/react) | javascript | 164,147 | 6,739 | 32,888 | 203,774|
-|2|[<img src="https://img.shields.io/badge/-angular-000?style=flat&logo=angular" alt="angular" />](https://github.com/angular/angular) | typescript | 70,890 | 3,205 | 18,630 | 92,725|
+|1|[<img src="https://img.shields.io/badge/-react-000?style=flat&logo=react" alt="react" />](https://github.com/facebook/react) | javascript | 164,148 | 6,739 | 32,889 | 203,776|
+|2|[<img src="https://img.shields.io/badge/-angular-000?style=flat&logo=angular" alt="angular" />](https://github.com/angular/angular) | typescript | 70,891 | 3,205 | 18,631 | 92,727|
 
 ## MOBILE FRAMEWORKS
 
@@ -60,7 +60,7 @@
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
 |1|[<img src="https://img.shields.io/badge/-elasticsearch-000?style=flat&logo=elasticsearch" alt="elasticsearch" />](https://github.com/elastic/elasticsearch) | java | 53,811 | 2,782 | 19,274 | 75,867|
-|2|[<img src="https://img.shields.io/badge/-redis-000?style=flat&logo=redis" alt="redis" />](https://github.com/redis/redis) | c | 47,557 | 2,709 | 18,829 | 69,095|
+|2|[<img src="https://img.shields.io/badge/-redis-000?style=flat&logo=redis" alt="redis" />](https://github.com/redis/redis) | c | 47,557 | 2,709 | 18,830 | 69,096|
 |3|[<img src="https://img.shields.io/badge/-mongodb-000?style=flat&logo=mongodb" alt="mongodb" />](https://github.com/mongodb/mongo) | c++ | 19,338 | 1,239 | 4,728 | 25,305|
 |4|[<img src="https://img.shields.io/badge/-postgresql-000?style=flat&logo=postgresql" alt="postgresql" />](https://github.com/postgres/postgres) | c | 7,954 | 477 | 2,607 | 11,038|
 
@@ -68,7 +68,7 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-visualstudiocode-000?style=flat&logo=visual-studio-code" alt="visual-studio-code" />](https://github.com/microsoft/vscode) | typescript | 111,507 | 3,077 | 18,113 | 132,697|
+|1|[<img src="https://img.shields.io/badge/-visualstudiocode-000?style=flat&logo=visual-studio-code" alt="visual-studio-code" />](https://github.com/microsoft/vscode) | typescript | 111,508 | 3,077 | 18,113 | 132,698|
 |2|[<img src="https://img.shields.io/badge/-git-000?style=flat&logo=git" alt="git" />](https://github.com/git/git) | c | 36,037 | 2,275 | 20,932 | 59,244|
 |3|[<img src="https://img.shields.io/badge/-dockercompose-000?style=flat&logo=docker-compose" alt="docker-compose" />](https://github.com/docker/compose) | python | 21,922 | 691 | 3,646 | 26,259|
 |4|[<img src="https://img.shields.io/badge/-docker-000?style=flat&logo=docker" alt="docker" />](https://github.com/jenkinsci/docker) | shell | 4,180 | 303 | 3,121 | 7,604|

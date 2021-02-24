@@ -70,16 +70,16 @@
 
 **NEWS**
 
+- [Tiết lộ đầu tiên về chất lượng lô vaccine COVID-19 vừa nhập về Việt Nam](https://laodong.vn/y-te/tiet-lo-dau-tien-ve-chat-luong-lo-vaccine-covid-19-vua-nhap-ve-viet-nam-883162.ldo) ([Lao Động](https://laodong.vn))
+- [117,600 liều vắc-xin COVID-19 AstraZeneca đầu tiên đã về đến Việt Nam](https://laodong.vn/suc-khoe/117600-lieu-vac-xin-covid-19-astrazeneca-dau-tien-da-ve-den-viet-nam-883187.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt giữ người chồng say rượu đánh đập, đổ xăng đốt vợ](https://laodong.vn/phap-luat/bat-giu-nguoi-chong-say-ruou-danh-dap-do-xang-dot-vo-883175.ldo) ([Lao Động](https://laodong.vn))
+- [Hàng hóa phục vụ sản xuất, xuất nhập khẩu Hải Dương được phép vào Hải Phòng](https://laodong.vn/kinh-te/hang-hoa-phuc-vu-san-xuat-xuat-nhap-khau-hai-duong-duoc-phep-vao-hai-phong-883140.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng: Nhanh chóng tiêm chủng, gỡ ngay ách tắc lưu thông hàng hoá](https://laodong.vn/thoi-su/thu-tuong-nhanh-chong-tiem-chung-go-ngay-ach-tac-luu-thong-hang-hoa-883176.ldo) ([Lao Động](https://laodong.vn))
+- [Người dân trong vùng dịch ở Hải Dương mong chờ điều gì?](http://vietnamnet.vn/vn/thoi-su/nguoi-dan-trong-vung-dich-o-hai-duong-mong-cho-dieu-gi-715138.html) ([VietNamNet](https://vietnamnet.vn))
+- [Cận cảnh lô vaccine COVID-19 đầu tiên về sân bay Tân Sơn Nhất](https://laodong.vn/photo/can-canh-lo-vaccine-covid-19-dau-tien-ve-san-bay-tan-son-nhat-883171.ldo) ([Lao Động](https://laodong.vn))
+- [Tuyển sinh vào lớp 10: Cả nhà áp lực khi con phải thi thêm môn thứ 4](https://laodong.vn/video/tuyen-sinh-vao-lop-10-ca-nha-ap-luc-khi-con-phai-thi-them-mon-thu-4-883173.ldo) ([Lao Động](https://laodong.vn))
+- [Cảnh báo mô hình đầu tư forex Lion Group: Tuyên bố ngồi không cũng lãi 20-24%/tháng, hơn 40.000 nhà đầu tư chưa ai bị lỗ đồng nào?](https://cafebiz.vn/canh-bao-mo-hinh-dau-tu-forex-lion-group-tuyen-bo-ngoi-khong-cung-lai-20-24-thang-hon-40000-nha-dau-tu-chua-ai-bi-lo-dong-nao-20210224111900412.chn) ([CafeBiz](https://cafebiz.vn))
 - [Biến thể SARS-CoV-2 tại California lây nhiễm nhanh hơn 40% và sinh sản gấp đôi trong cơ thể người](https://cafebiz.vn/bien-the-sars-cov-2-tai-california-lay-nhiem-nhanh-hon-40-va-sinh-san-gap-doi-trong-co-the-nguoi-20210224135950402.chn) ([CafeBiz](https://cafebiz.vn))
-- [LĐLĐ Hải Dương: Hỗ trợ gạo 3.700 công nhân các khu nhà trọ huyện Cẩm Giàng](https://laodong.vn/cong-doan/ldld-hai-duong-ho-tro-gao-3700-cong-nhan-cac-khu-nha-tro-huyen-cam-giang-883178.ldo) ([Lao Động](https://laodong.vn))
-- [Đút túi ngon ơ gần 4 tỷ/năm với công việc đơn giản từ sáng đến chiều chỉ "đi trực thăng và ôm cừu"](https://cafebiz.vn/dut-tui-ngon-o-gan-4-ty-nam-voi-cong-viec-don-gian-tu-sang-den-chieu-chi-di-truc-thang-va-om-cuu-2021022414051548.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bitcoin nhảy múa chóng mặt, tái lập mốc 51.000 USD](https://cafebiz.vn/bitcoin-nhay-mua-chong-mat-tai-lap-moc-51000-usd-2021022413490014.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những mẫu SUV cỡ nhỏ được ưa chuộng nhất tại Việt Nam](https://laodong.vn/xe/nhung-mau-suv-co-nho-duoc-ua-chuong-nhat-tai-viet-nam-883099.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ trưởng Nguyễn Thanh Long: 'Năm 2021 đảm bảo không thiếu vắc xin'](https://tuoitre.vn/bo-truong-nguyen-thanh-long-nam-2021-dam-bao-khong-thieu-vac-xin-20210224134151222.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cơn đau đầu của Hàn Quốc: Xuất khẩu tăng trưởng nhưng nền kinh tế lại đối mặt khủng hoảng lớn nhất trong hơn 20 năm qua](https://cafebiz.vn/con-dau-dau-cua-han-quoc-xuat-khau-tang-truong-nhung-nen-kinh-te-lai-doi-mat-khung-hoang-lon-nhat-trong-hon-20-nam-qua-20210224112826253.chn) ([CafeBiz](https://cafebiz.vn))
-- [Philippines muốn đổi nhân lực y tế lấy vaccine COVID-19](https://laodong.vn/the-gioi/philippines-muon-doi-nhan-luc-y-te-lay-vaccine-covid-19-883082.ldo) ([Lao Động](https://laodong.vn))
-- [Xe không lắp gương chiếu hậu, bị xử phạt thế nào?](https://laodong.vn/tu-van-phap-luat/xe-khong-lap-guong-chieu-hau-bi-xu-phat-the-nao-882585.ldo) ([Lao Động](https://laodong.vn))
-- [3h sáng "đột nhập" lò heo quay lớn nhất Cần Thơ, xem quá trình chế biến cực NGUY HIỂM từ lúc heo còn sống đến khi phồng giòn trong chiếc "lu khổng lồ"!](https://cafebiz.vn/3h-sang-dot-nhap-lo-heo-quay-lon-nhat-can-tho-xem-qua-trinh-che-bien-cuc-nguy-hiem-tu-luc-heo-con-song-den-khi-phong-gion-trong-chiec-lu-khong-lo-20210224135959834.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
