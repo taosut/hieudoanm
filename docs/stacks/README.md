@@ -6,15 +6,15 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript" alt="javascript" />](https://github.com/airbnb/javascript) | javascript | 105,135 | 3,807 | 20,410 | 129,352|
-|2|[<img src="https://img.shields.io/badge/-go-000?style=flat&logo=go" alt="go" />](https://github.com/golang/go) | go | 82,421 | 3,521 | 11,977 | 97,919|
-|3|[<img src="https://img.shields.io/badge/-typescript-000?style=flat&logo=typescript" alt="typescript" />](https://github.com/microsoft/TypeScript) | typescript | 68,786 | 2,158 | 9,122 | 80,066|
+|1|[<img src="https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript" alt="javascript" />](https://github.com/airbnb/javascript) | javascript | 105,144 | 3,807 | 20,410 | 129,361|
+|2|[<img src="https://img.shields.io/badge/-go-000?style=flat&logo=go" alt="go" />](https://github.com/golang/go) | go | 82,432 | 3,521 | 11,977 | 97,930|
+|3|[<img src="https://img.shields.io/badge/-typescript-000?style=flat&logo=typescript" alt="typescript" />](https://github.com/microsoft/TypeScript) | typescript | 68,788 | 2,158 | 9,122 | 80,068|
 
 ## PACKAGE MANAGERS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-homebrew-000?style=flat&logo=homebrew" alt="homebrew" />](https://github.com/Homebrew/homebrew-core) | ruby | 8,891 | 266 | 8,986 | 18,143|
+|1|[<img src="https://img.shields.io/badge/-homebrew-000?style=flat&logo=homebrew" alt="homebrew" />](https://github.com/Homebrew/homebrew-core) | ruby | 8,892 | 266 | 8,986 | 18,144|
 |2|[<img src="https://img.shields.io/badge/-npm-000?style=flat&logo=npm" alt="npm" />](https://github.com/npm/cli) | javascript | 4,118 | 157 | 1,109 | 5,384|
 |3|[<img src="https://img.shields.io/badge/-yarn-000?style=flat&logo=yarn" alt="yarn" />](https://github.com/yarnpkg/berry) | typescript | 2,935 | 43 | 378 | 3,356|
 
@@ -22,7 +22,7 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-node.js-000?style=flat&logo=node.js" alt="node.js" />](https://github.com/nodejs/node) | javascript | 77,179 | 2,981 | 19,423 | 99,583|
+|1|[<img src="https://img.shields.io/badge/-node.js-000?style=flat&logo=node.js" alt="node.js" />](https://github.com/nodejs/node) | javascript | 77,181 | 2,981 | 19,424 | 99,586|
 
 ## CSS PREPROCESSORS
 
@@ -34,26 +34,26 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-bootstrap-000?style=flat&logo=bootstrap" alt="bootstrap" />](https://github.com/twbs/bootstrap) | javascript | 148,428 | 7,128 | 72,368 | 227,924|
+|1|[<img src="https://img.shields.io/badge/-bootstrap-000?style=flat&logo=bootstrap" alt="bootstrap" />](https://github.com/twbs/bootstrap) | javascript | 148,428 | 7,128 | 72,369 | 227,925|
 
 ## FRONT-END FRAMEWORKS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-react-000?style=flat&logo=react" alt="react" />](https://github.com/facebook/react) | javascript | 164,159 | 6,741 | 32,895 | 203,795|
-|2|[<img src="https://img.shields.io/badge/-angular-000?style=flat&logo=angular" alt="angular" />](https://github.com/angular/angular) | typescript | 70,901 | 3,204 | 18,631 | 92,736|
+|1|[<img src="https://img.shields.io/badge/-react-000?style=flat&logo=react" alt="react" />](https://github.com/facebook/react) | javascript | 164,163 | 6,740 | 32,897 | 203,800|
+|2|[<img src="https://img.shields.io/badge/-angular-000?style=flat&logo=angular" alt="angular" />](https://github.com/angular/angular) | typescript | 70,903 | 3,203 | 18,630 | 92,736|
 
 ## MOBILE FRAMEWORKS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-reactnative-000?style=flat&logo=react-native" alt="react-native" />](https://github.com/facebook/react-native) | javascript | 93,524 | 3,725 | 20,536 | 117,785|
+|1|[<img src="https://img.shields.io/badge/-reactnative-000?style=flat&logo=react-native" alt="react-native" />](https://github.com/facebook/react-native) | javascript | 93,527 | 3,725 | 20,537 | 117,789|
 
 ## BACK-END FRAMEWORKS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-express-000?style=flat&logo=express" alt="express" />](https://github.com/expressjs/express) | javascript | 52,031 | 1,798 | 8,729 | 62,558|
+|1|[<img src="https://img.shields.io/badge/-express-000?style=flat&logo=express" alt="express" />](https://github.com/expressjs/express) | javascript | 52,033 | 1,798 | 8,729 | 62,560|
 
 ## DATABASES
 
@@ -61,23 +61,23 @@
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
 |1|[<img src="https://img.shields.io/badge/-elasticsearch-000?style=flat&logo=elasticsearch" alt="elasticsearch" />](https://github.com/elastic/elasticsearch) | java | 53,816 | 2,782 | 19,276 | 75,874|
 |2|[<img src="https://img.shields.io/badge/-redis-000?style=flat&logo=redis" alt="redis" />](https://github.com/redis/redis) | c | 47,565 | 2,709 | 18,831 | 69,105|
-|3|[<img src="https://img.shields.io/badge/-mongodb-000?style=flat&logo=mongodb" alt="mongodb" />](https://github.com/mongodb/mongo) | c++ | 19,340 | 1,239 | 4,728 | 25,307|
+|3|[<img src="https://img.shields.io/badge/-mongodb-000?style=flat&logo=mongodb" alt="mongodb" />](https://github.com/mongodb/mongo) | c++ | 19,341 | 1,239 | 4,728 | 25,308|
 |4|[<img src="https://img.shields.io/badge/-postgresql-000?style=flat&logo=postgresql" alt="postgresql" />](https://github.com/postgres/postgres) | c | 7,955 | 477 | 2,607 | 11,039|
 
 ## DEVOPS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-visualstudiocode-000?style=flat&logo=visual-studio-code" alt="visual-studio-code" />](https://github.com/microsoft/vscode) | typescript | 111,521 | 3,077 | 18,117 | 132,715|
+|1|[<img src="https://img.shields.io/badge/-visualstudiocode-000?style=flat&logo=visual-studio-code" alt="visual-studio-code" />](https://github.com/microsoft/vscode) | typescript | 111,526 | 3,077 | 18,117 | 132,720|
 |2|[<img src="https://img.shields.io/badge/-git-000?style=flat&logo=git" alt="git" />](https://github.com/git/git) | c | 36,038 | 2,275 | 20,937 | 59,250|
-|3|[<img src="https://img.shields.io/badge/-dockercompose-000?style=flat&logo=docker-compose" alt="docker-compose" />](https://github.com/docker/compose) | python | 21,924 | 691 | 3,645 | 26,260|
+|3|[<img src="https://img.shields.io/badge/-dockercompose-000?style=flat&logo=docker-compose" alt="docker-compose" />](https://github.com/docker/compose) | python | 21,925 | 691 | 3,645 | 26,261|
 |4|[<img src="https://img.shields.io/badge/-docker-000?style=flat&logo=docker" alt="docker" />](https://github.com/jenkinsci/docker) | shell | 4,181 | 303 | 3,122 | 7,606|
 
 ## SERVERS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-nginx-000?style=flat&logo=nginx" alt="nginx" />](https://github.com/nginx/nginx) | c | 13,557 | 954 | 4,967 | 19,478|
+|1|[<img src="https://img.shields.io/badge/-nginx-000?style=flat&logo=nginx" alt="nginx" />](https://github.com/nginx/nginx) | c | 13,557 | 954 | 4,968 | 19,479|
 |2|[<img src="https://img.shields.io/badge/-apache-000?style=flat&logo=apache" alt="apache" />](https://github.com/apache/httpd) | c | 2,627 | 246 | 840 | 3,713|
 
 ## JAVASCRIPT
@@ -87,8 +87,8 @@
 |1|[<img src="https://img.shields.io/badge/-redux-000?style=flat&logo=redux" alt="redux" />](https://github.com/reduxjs/redux) | typescript | 55,379 | 1,408 | 14,561 | 71,348|
 |2|[<img src="https://img.shields.io/badge/-lodash-000?style=flat&logo=lodash" alt="lodash" />](https://github.com/lodash/lodash) | javascript | 48,369 | 883 | 5,562 | 54,814|
 |3|[<img src="https://img.shields.io/badge/-prettier-000?style=flat&logo=prettier" alt="prettier" />](https://github.com/prettier/prettier) | javascript | 38,998 | 408 | 2,658 | 42,064|
-|4|[<img src="https://img.shields.io/badge/-eslint-000?style=flat&logo=eslint" alt="eslint" />](https://github.com/eslint/eslint) | javascript | 17,921 | 302 | 3,187 | 21,410|
-|5|[<img src="https://img.shields.io/badge/-graphql-000?style=flat&logo=graphql" alt="graphql" />](https://github.com/graphql/graphql-js) | javascript | 17,292 | 413 | 1,757 | 19,462|
+|4|[<img src="https://img.shields.io/badge/-eslint-000?style=flat&logo=eslint" alt="eslint" />](https://github.com/eslint/eslint) | javascript | 17,920 | 302 | 3,187 | 21,409|
+|5|[<img src="https://img.shields.io/badge/-graphql-000?style=flat&logo=graphql" alt="graphql" />](https://github.com/graphql/graphql-js) | javascript | 17,293 | 413 | 1,757 | 19,463|
 
 ## Operating Systems
 

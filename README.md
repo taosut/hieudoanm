@@ -15,9 +15,9 @@
 **CALENDAR**
 
 - Current weather is few clouds.
-- Temperature is 24°C.
-- Feels Like 22.29°C.
-- Air Visual is 77.
+- Temperature is 23°C.
+- Feels Like 21.32°C.
+- Air Visual is 101.
 
 **WEATHER**
 
@@ -45,6 +45,7 @@
 
 - [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
+- [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
@@ -57,7 +58,6 @@
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
-- [![Minh nhựa](https://img.shields.io/static/v1?label=Minh%20nh%E1%BB%B1a&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20nh%E1%BB%B1a)
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Dàn ô tô địa hình chở nông sản Hải Dương đến điểm tiêu thụ](https://laodong.vn/nguoi-viet-tu-te/dan-o-to-dia-hinh-cho-nong-san-hai-duong-den-diem-tieu-thu-883303.ldo) ([Lao Động](https://laodong.vn))
-- [Thêm 9 ca mắc COVID-19 mới tại Hải Dương, 1 ca phát hiện trong cộng đồng](https://tuoitre.vn/them-9-ca-mac-covid-19-moi-tai-hai-duong-1-ca-phat-hien-trong-cong-dong-2021022418090176.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Toàn cảnh quá trình đưa lô Vaccine COVID-19 nhập kho lạnh tại TPHCM](https://laodong.vn/video/toan-canh-qua-trinh-dua-lo-vaccine-covid-19-nhap-kho-lanh-tai-tphcm-883296.ldo) ([Lao Động](https://laodong.vn))
-- [[NÓNG] Vũng Tàu phát hiện thêm 2 thuyền viên tàu Indonesia dương tính SARS-CoV-2: 20 người và thi thể vẫn trên tàu neo ngoài biển](https://cafebiz.vn/nong-vung-tau-phat-hien-them-2-thuyen-vien-tau-indonesia-duong-tinh-sars-cov-2-20-nguoi-va-thi-the-van-tren-tau-neo-ngoai-bien-20210224183621325.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khám phá khu vườn rộng 100m2 trong biệt thự của Thủy Tiên - Công Vinh](https://laodong.vn/bat-dong-san/kham-pha-khu-vuon-rong-100m2-trong-biet-thu-cua-thuy-tien-cong-vinh-883284.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều nay, Hải Dương ghi nhận thêm 9 ca mắc COVID-19 mới](https://cafebiz.vn/chieu-nay-hai-duong-ghi-nhan-them-9-ca-mac-covid-19-moi-20210224183133963.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ca nghi nhiễm COVID-19 ở Hòa Bình âm tính lần 1](https://laodong.vn/xa-hoi/ca-nghi-nhiem-covid-19-o-hoa-binh-am-tinh-lan-1-883297.ldo) ([Lao Động](https://laodong.vn))
-- [Đầu tư nước ngoài phục hồi trong 2  tháng đầu năm 2021](https://laodong.vn/kinh-te/dau-tu-nuoc-ngoai-phuc-hoi-trong-2-thang-dau-nam-2021-883295.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Văn Triền và Danh Trung sẽ được thi đấu thường xuyên ở Nhật Bản!&quot;](https://laodong.vn/video-the-thao/van-trien-va-danh-trung-se-duoc-thi-dau-thuong-xuyen-o-nhat-ban-883258.ldo) ([Lao Động](https://laodong.vn))
-- [Chi tiết 7 đợt cung ứng vaccine COVID-19 ở Việt Nam và đối tượng tiêm](https://laodong.vn/xa-hoi/chi-tiet-7-dot-cung-ung-vaccine-covid-19-o-viet-nam-va-doi-tuong-tiem-883286.ldo) ([Lao Động](https://laodong.vn))
+- [Hình ảnh đoàn tàu metro thứ 3 về Hà Nội](https://cafebiz.vn/hinh-anh-doan-tau-metro-thu-3-ve-ha-noi-20210224184333206.chn) ([CafeBiz](https://cafebiz.vn))
+- [TopCV ra mắt báo cáo thị trường tuyển dụng 2020-2021: Doanh nghiệp Việt vẫn tuyển dụng mạnh mẽ bất chấp ảnh hưởng của đại dịch Covid-19](https://cafebiz.vn/topcv-ra-mat-bao-cao-thi-truong-tuyen-dung-2020-2021-doanh-nghiep-viet-van-tuyen-dung-manh-me-bat-chap-anh-huong-cua-dai-dich-covid-19-20210224152624868.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thiếu nữ dương tính SARS-CoV-2 ở Hải Phòng có nhiều F1 tại quán bar, cà phê](https://cafebiz.vn/thieu-nu-duong-tinh-sars-cov-2-o-hai-phong-co-nhieu-f1-tai-quan-bar-ca-phe-20210224185158801.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tâm điểm cổ phiếu 24.2: TDC lội ngược dòng tăng 6,9%](https://laodong.vn/kinh-te/tam-diem-co-phieu-242-tdc-loi-nguoc-dong-tang-69-883315.ldo) ([Lao Động](https://laodong.vn))
+- [Cuộc sống hào nhoáng của "tam đại tiểu thư" đứng đầu hội phú bà quyền lực Hong Kong: Kinh doanh giỏi lại biết chơi tới bến, đến giới thượng lưu cũng nể vài phần](https://cafebiz.vn/cuoc-song-hao-nhoang-cua-tam-dai-tieu-thu-dung-dau-hoi-phu-ba-quyen-luc-hong-kong-kinh-doanh-gioi-lai-biet-choi-toi-ben-den-gioi-thuong-luu-cung-ne-vai-phan-2021022417251209.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cảnh sát biển vùng I bắt giữ tàu chở 20 ngàn lít dầu không rõ nguồn gốc](https://laodong.vn/phap-luat/canh-sat-bien-vung-i-bat-giu-tau-cho-20-ngan-lit-dau-khong-ro-nguon-goc-883277.ldo) ([Lao Động](https://laodong.vn))
+- [Cập nhật tình trạng sức khỏe của Tiger Woods sau tai nạn kinh hoàng](https://laodong.vn/the-thao/cap-nhat-tinh-trang-suc-khoe-cua-tiger-woods-sau-tai-nan-kinh-hoang-883330.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương ghi nhận cùng lúc 2 biến chủng virus SARS-CoV-2 có tốc độ lây lan nhanh](https://cafebiz.vn/hai-duong-ghi-nhan-cung-luc-2-bien-chung-virus-sars-cov-2-co-toc-do-lay-lan-nhanh-20210224184910567.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kinh tế 24h: Lãi suất giảm; Giá xăng sắp tăng mạnh?](https://laodong.vn/thi-truong/kinh-te-24h-lai-suat-giam-gia-xang-sap-tang-manh-883317.ldo) ([Lao Động](https://laodong.vn))
+- [Biến chủng SARS-CoV-2 khiến bệnh nhân người Nhật tử vong ở Việt Nam có nguy hiểm?](https://cafebiz.vn/bien-chung-sars-cov-2-khien-benh-nhan-nguoi-nhat-tu-vong-o-viet-nam-co-nguy-hiem-20210224183752898.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
