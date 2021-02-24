@@ -16,8 +16,8 @@
 
 - Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 22.7°C.
-- Air Visual is 136.
+- Feels Like 23.42°C.
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -44,11 +44,12 @@
 **GOOGLE TRENDS**
 
 - [![Anh Đức](https://img.shields.io/static/v1?label=Anh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
-- [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
+- [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
+- [![G-Dragon](https://img.shields.io/static/v1?label=G-Dragon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G-Dragon)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
 - [![Google Classroom](https://img.shields.io/static/v1?label=Google%20Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Google%20Classroom)
 - [![Hướng dương ngược nắng tập 31](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
@@ -56,7 +57,6 @@
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
-- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Minh Nhựa](https://img.shields.io/static/v1?label=Minh%20Nh%E1%BB%B1a&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
 - [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Ông Biden tổ chức cuộc gặp song phương đầu tiên với lãnh đạo thế giới](https://laodong.vn/the-gioi/ong-biden-to-chuc-cuoc-gap-song-phuong-dau-tien-voi-lanh-dao-the-gioi-883058.ldo) ([Lao Động](https://laodong.vn))
-- [Lễ giỗ vua Mai Hắc Đế](https://vnexpress.net/le-gio-vua-mai-hac-de-4239254.html) ([VNExpress](https://vnexpress.net))
-- [Lộ diện đại gia chi 60 triệu đồng “thuê” ông Đoàn Ngọc Hải phục vụ người nghèo 30 phút](https://cafebiz.vn/lo-dien-dai-gia-chi-60-trieu-dong-thue-ong-doan-ngoc-hai-phuc-vu-nguoi-ngheo-30-phut-20210224094343588.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuỗi scandal trải dài sự nghiệp 8 năm của Sơn Tùng: Bị tố đạo nhái, bồi thường 600 triệu vì tự huỷ show, căng nhất là drama "trà xanh"](https://cafebiz.vn/chuoi-scandal-trai-dai-su-nghiep-8-nam-cua-son-tung-bi-to-dao-nhai-boi-thuong-600-trieu-vi-tu-huy-show-cang-nhat-la-drama-tra-xanh-20210224094300485.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hoãn vòng loại World Cup 2022, Qatar và Australia rút khỏi Copa America](https://laodong.vn/the-thao/hoan-vong-loai-world-cup-2022-qatar-va-australia-rut-khoi-copa-america-883059.ldo) ([Lao Động](https://laodong.vn))
-- [3 đặc điểm tính cách này ảnh hưởng đến số tiền bạn kiếm được sau 40 tuổi, đọc ngay kẻo trễ](https://cafebiz.vn/3-dac-diem-tinh-cach-nay-anh-huong-den-so-tien-ban-kiem-duoc-sau-40-tuoi-doc-ngay-keo-tre-20210216013212894.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kết quả - Lịch thi đấu bóng đá ngày 24.2: Tâm điểm M'gladbach - Man City](https://laodong.vn/the-thao/ket-qua-lich-thi-dau-bong-da-ngay-242-tam-diem-mgladbach-man-city-883034.ldo) ([Lao Động](https://laodong.vn))
-- [Sau Tết nguyên đán, dân Hà Thành chi tiền triệu &quot;chơi&quot; cây bưởi Diễn](https://laodong.vn/kinh-te/sau-tet-nguyen-dan-dan-ha-thanh-chi-tien-trieu-choi-cay-buoi-dien-882828.ldo) ([Lao Động](https://laodong.vn))
-- [Tin bóng đá sáng 24.2: &quot;Ngả bàn đèn&quot; hạ gục Atletico Madrid, Giroud nói gì?](https://laodong.vn/the-thao/tin-bong-da-sang-242-nga-ban-den-ha-guc-atletico-madrid-giroud-noi-gi-883071.ldo) ([Lao Động](https://laodong.vn))
-- [Vẫn còn F0, nhiều người Điện Biên đã lơ là phòng chống COVID-19](https://laodong.vn/video/van-con-f0-nhieu-nguoi-dien-bien-da-lo-la-phong-chong-covid-19-882866.ldo) ([Lao Động](https://laodong.vn))
+- [Vẫn còn 7.500 người có nhu cầu quay trở lại Quảng Ninh làm việc](https://laodong.vn/xa-hoi/van-con-7500-nguoi-co-nhu-cau-quay-tro-lai-quang-ninh-lam-viec-883083.ldo) ([Lao Động](https://laodong.vn))
+- [MC Thanh liêm: Hành trình dùng thanh sắc để gieo thiện duyên](https://laodong.vn/kinh-te/mc-thanh-liem-hanh-trinh-dung-thanh-sac-de-gieo-thien-duyen-882807.ldo) ([Lao Động](https://laodong.vn))
+- [Chính sách nhập cư Mỹ của ông Biden đối mặt phép thử gay gắt](https://laodong.vn/the-gioi/chinh-sach-nhap-cu-my-cua-ong-biden-doi-mat-phep-thu-gay-gat-883074.ldo) ([Lao Động](https://laodong.vn))
+- [Thiếu tiền, thiếu thời gian, thiếu kiến thức - 3 lý do biện hộ phổ biến khiến cuộc đời bạn mãi bế tắc: Đừng lo, chúng tôi đã có giải pháp ở đây!](https://cafebiz.vn/thieu-tien-thieu-thoi-gian-thieu-kien-thuc-3-ly-do-bien-ho-pho-bien-khien-cuoc-doi-ban-mai-be-tac-dung-lo-chung-toi-da-co-giai-phap-o-day-20210224101838717.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dispatch tung tin chấn động: G-Dragon và Jennie (Blackpink) hẹn hò](https://laodong.vn/giai-tri/dispatch-tung-tin-chan-dong-g-dragon-va-jennie-blackpink-hen-ho-883076.ldo) ([Lao Động](https://laodong.vn))
+- [Nhật Bản bổ nhiệm Bộ trưởng Cô đơn nhằm tuyên chiến với vấn nạn tự tử](https://laodong.vn/the-gioi/nhat-ban-bo-nhiem-bo-truong-co-don-nham-tuyen-chien-voi-van-nan-tu-tu-883085.ldo) ([Lao Động](https://laodong.vn))
+- [Nước sông Hồng chuyển màu trong xanh](https://vnexpress.net/nuoc-song-hong-chuyen-mau-trong-xanh-4239350.html) ([VNExpress](https://vnexpress.net))
+- [TP.HCM: Đã có kết quả xét nghiệm Covid-19 của khách tại quán nhậu](https://cafebiz.vn/tphcm-da-co-ket-qua-xet-nghiem-covid-19-cua-khach-tai-quan-nhau-20210224101329863.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cổ phiếu Tesla lao dốc suốt 3 tuần liên tiếp](https://cafebiz.vn/co-phieu-tesla-lao-doc-suot-3-tuan-lien-tiep-20210224100621081.chn) ([CafeBiz](https://cafebiz.vn))
+- [Điểm lại những tỷ phú 'không bao giờ động đến' Bitcoin](https://cafebiz.vn/diem-lai-nhung-ty-phu-khong-bao-gio-dong-den-bitcoin-20210224090329538.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
