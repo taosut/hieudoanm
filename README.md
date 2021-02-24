@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is light intensity drizzle.
+- Current weather is broken clouds.
 - Temperature is 21°C.
-- Feels Like 20.96°C.
-- Air Visual is 99.
+- Feels Like 22.04°C.
+- Air Visual is 61.
 
 **WEATHER**
 
@@ -52,9 +52,9 @@
 - [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
-- [![Hướng dương ngược nắng tập 31](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
 - [![Hướng dương ngược nắng tập 33](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033)
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Quy trình bầu cử 500 đại biểu Quốc hội khóa mới](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/quy-trinh-bau-cu-500-dai-bieu-quoc-hoi-khoa-moi-715268.html) ([VietNamNet](https://vietnamnet.vn))
 - [Hải Dương lắp đặt cây ATM gạo tiếp sức người dân chống dịch](http://vietnamnet.vn/vn/thoi-su/hai-duong-lap-dat-cay-atm-gao-tiep-suc-nguoi-dan-chong-dich-715252.html) ([VietNamNet](https://vietnamnet.vn))
 - [Ươm trồng thành công cúc họa mi trái mùa](https://vnexpress.net/uom-trong-thanh-cong-cuc-hoa-mi-trai-mua-4239830.html) ([VNExpress](https://vnexpress.net))
 - [Covid-19 ngày 25/2](https://vnexpress.net/covid-19-ngay-25-2-4239824.html) ([VNExpress](https://vnexpress.net))
@@ -84,7 +85,6 @@
 - [Cháy lớn vựa phế liệu trong đêm, người dân xung quanh hoảng hốt](https://tuoitre.vn/chay-lon-vua-phe-lieu-trong-dem-nguoi-dan-xung-quanh-hoang-hot-20210224230201686.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Sơn Tùng M-TP chỉ mất khoảng 700 nghìn đến gần 5 triệu đồng để giải quyết vụ bản quyền với producer GC?](https://cafebiz.vn/son-tung-m-tp-chi-mat-khoang-700-nghin-den-gan-5-trieu-dong-de-giai-quyet-vu-ban-quyen-voi-producer-gc-20210224231536854.chn) ([CafeBiz](https://cafebiz.vn))
 - [QL 5 thông tuyến, Hải Phòng gia hạn xét nghiệm Covid-19 cho lái xe Hải Dương](http://vietnamnet.vn/vn/thoi-su/ql-5-thong-tuyen-hai-phong-gia-han-xet-nghiem-covid-19-cho-lai-xe-hai-duong-715289.html) ([VietNamNet](https://vietnamnet.vn))
-- [Cuộc sống dễ thở, sự nghiệp thăng tiến dù chỉ phải làm việc bằng 1/3 thời gian trước, blogger với hơn 100 triệu lượt theo dõi chia sẻ 5 quyết định tài chính giúp anh đổi đời](https://cafebiz.vn/cuoc-song-de-tho-su-nghiep-thang-tien-du-chi-phai-lam-viec-bang-1-3-thoi-gian-truoc-blogger-voi-hon-100-trieu-luot-theo-doi-chia-se-5-quyet-dinh-tai-chinh-giup-anh-doi-doi-20210224230025751.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
