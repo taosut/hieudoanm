@@ -7,6 +7,11 @@
   <a href="https://github.com/vietnamdb/vietnamdb/tree/master/docs">CSV</a> -
   <a href="https://github.com/vietnamdb/vietnamdb/tree/master/docs/stacks">Stacks</a>
 </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vietnamdb/count.svg" />
+</p>
+
 
 <h2 align="center">NOW</h2>
 
@@ -16,15 +21,15 @@
 
 - Current weather is broken clouds.
 - Temperature is 22°C.
-- Feels Like 21.55°C.
+- Feels Like 21.9°C.
 - Air Visual is 72.
 
 **WEATHER**
 
-- Date: 2021/02/24
-- Lunar: 2021/01/13
+- Date: 2021/02/25
+- Lunar: 2021/01/14
 - Tiet Khi: Tiểu tuyết.
-- năm canh tý tháng kỷ sửu ngày tân dậu.
+- năm canh tý tháng kỷ sửu ngày nhâm tuất.
 
 **NPM**
 
@@ -46,19 +51,19 @@
 - [![Anh Đức](https://img.shields.io/static/v1?label=Anh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anh%20%C4%90%E1%BB%A9c)
 - [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
-- [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
 - [![Google Classroom](https://img.shields.io/static/v1?label=Google%20Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Google%20Classroom)
 - [![Hướng dương ngược nắng tập 31](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2031)
+- [![Hướng dương ngược nắng tập 33](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033)
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
+- [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
-- [![Ronaldo Juventus](https://img.shields.io/static/v1?label=Ronaldo%20Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ronaldo%20Juventus)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
 - [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
@@ -70,6 +75,9 @@
 
 **NEWS**
 
+- [Covid-19 ngày 25/2](https://vnexpress.net/covid-19-ngay-25-2-4239824.html) ([VNExpress](https://vnexpress.net))
+- [Phụ cấp chống dịch cao nhất là 300.000 đồng mỗi ngày](https://vnexpress.net/phu-cap-chong-dich-cao-nhat-la-300-000-dong-moi-ngay-4239738.html) ([VNExpress](https://vnexpress.net))
+- [Đàn voọc ngũ sắc ở Vườn quốc gia Bạch Mã](https://vnexpress.net/dan-vooc-ngu-sac-o-vuon-quoc-gia-bach-ma-4239083.html) ([VNExpress](https://vnexpress.net))
 - [Cháy lớn vựa phế liệu trong đêm, người dân xung quanh hoảng hốt](https://tuoitre.vn/chay-lon-vua-phe-lieu-trong-dem-nguoi-dan-xung-quanh-hoang-hot-20210224230201686.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Sơn Tùng M-TP chỉ mất khoảng 700 nghìn đến gần 5 triệu đồng để giải quyết vụ bản quyền với producer GC?](https://cafebiz.vn/son-tung-m-tp-chi-mat-khoang-700-nghin-den-gan-5-trieu-dong-de-giai-quyet-vu-ban-quyen-voi-producer-gc-20210224231536854.chn) ([CafeBiz](https://cafebiz.vn))
 - [QL 5 thông tuyến, Hải Phòng gia hạn xét nghiệm Covid-19 cho lái xe Hải Dương](http://vietnamnet.vn/vn/thoi-su/ql-5-thong-tuyen-hai-phong-gia-han-xet-nghiem-covid-19-cho-lai-xe-hai-duong-715289.html) ([VietNamNet](https://vietnamnet.vn))
@@ -77,9 +85,6 @@
 - [Mưu sĩ có năng lực kém cỏi nhất thời Tam Quốc, cũng may Tôn Quyền không trọng dụng, nếu không Đông Ngô đã sớm bị xóa sổ](https://cafebiz.vn/muu-si-co-nang-luc-kem-coi-nhat-thoi-tam-quoc-cung-may-ton-quyen-khong-trong-dung-neu-khong-dong-ngo-da-som-bi-xoa-so-20210224225753904.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nữ sinh lớp 10 nghi bị bạn trai sát hại trong vườn chuối ở Hà Nam](http://vietnamnet.vn/vn/thoi-su/nu-sinh-lop-10-nghi-bi-ban-trai-sat-hai-trong-vuon-chuoi-o-ha-nam-715291.html) ([VietNamNet](https://vietnamnet.vn))
 - [Hải Phòng tìm người đến hiệu thuốc gần bệnh viện liên quan BN COVID-19](https://laodong.vn/xa-hoi/hai-phong-tim-nguoi-den-hieu-thuoc-gan-benh-vien-lien-quan-bn-covid-19-883354.ldo) ([Lao Động](https://laodong.vn))
-- [Chứng khoán: Rủi ro ngắn hạn thấp, thị trường có thể phản ứng hồi phục](https://laodong.vn/kinh-te/chung-khoan-rui-ro-ngan-han-thap-thi-truong-co-the-phan-ung-hoi-phuc-883351.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng thông báo khẩn người dân đến 4 địa điểm](https://tuoitre.vn/hai-phong-thong-bao-khan-nguoi-dan-den-4-dia-diem-20210224214808294.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bắt giữ đối tượng trốn truy nã 16 năm thông qua công tác truy vết](https://laodong.vn/phap-luat/bat-giu-doi-tuong-tron-truy-na-16-nam-thong-qua-cong-tac-truy-vet-883353.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 

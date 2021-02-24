@@ -210,6 +210,11 @@ export const buildREADME = async () => {
   <a href="${masterRepo}/docs">CSV</a> -
   <a href="${masterRepo}/docs/stacks">Stacks</a>
 </p>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/vietnamdb/count.svg" />
+</p>
+
 
 <h2 align="center">NOW</h2>
 
