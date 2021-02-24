@@ -17,7 +17,7 @@
 - Current weather is broken clouds.
 - Temperature is 22°C.
 - Feels Like 21.47°C.
-- Air Visual is 83.
+- Air Visual is 88.
 
 **WEATHER**
 
@@ -47,6 +47,7 @@
 - [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
+- [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
@@ -57,7 +58,6 @@
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
-- [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
@@ -70,16 +70,16 @@
 
 **NEWS**
 
+- [Từng được coi là "em chã nặng nhất thế giới", cậu bé béo đến không đi học nổi giờ đã có ngoại hình thay đổi đáng kinh ngạc sau 5 năm](https://cafebiz.vn/tung-duoc-coi-la-em-cha-nang-nhat-the-gioi-cau-be-beo-den-khong-di-hoc-noi-gio-da-co-ngoai-hinh-thay-doi-dang-kinh-ngac-sau-5-nam-20210224211855678.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Dương sẽ xét nghiệm COVID-19 cho nông dân, người vận chuyển nông sản](https://tuoitre.vn/hai-duong-se-xet-nghiem-covid-19-cho-nong-dan-nguoi-van-chuyen-nong-san-20210224203033817.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nữ hoàng Anh công bố hoạt động được coi là để "dạy dỗ" nhà Meghan Markle, đủ khiến cặp đôi phải muối mặt](https://cafebiz.vn/nu-hoang-anh-cong-bo-hoat-dong-duoc-coi-la-de-day-do-nha-meghan-markle-du-khien-cap-doi-phai-muoi-mat-20210224173358459.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sốc toàn tập với du thuyền 13,6 nghìn tỷ của ông chủ giàu có bậc nhất làng bóng đá](https://cafebiz.vn/soc-toan-tap-voi-du-thuyen-136-nghin-ty-cua-ong-chu-giau-co-bac-nhat-lang-bong-da-20210224173150624.chn) ([CafeBiz](https://cafebiz.vn))
 - [Học sinh Hà Nội dự kiến đi học trở lại từ 2-3](https://cafebiz.vn/hoc-sinh-ha-noi-du-kien-di-hoc-tro-lai-tu-2-3-20210224204918172.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chủ tịch 91 tuổi của Suzuki Motor chính thức từ chức, kết thúc 'triều đại' gần nửa thế kỷ, lâu nhất lịch sử ngành ô tô](https://cafebiz.vn/chu-tich-91-tuoi-cua-suzuki-motor-chinh-thuc-tu-chuc-ket-thuc-trieu-dai-gan-nua-the-ky-lau-nhat-lich-su-nganh-o-to-2021022420455433.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thủ tướng đồng ý chủ trương đầu tư 3 khu công nghiệp lớn](https://cafebiz.vn/thu-tuong-dong-y-chu-truong-dau-tu-3-khu-cong-nghiep-lon-20210224204518484.chn) ([CafeBiz](https://cafebiz.vn))
+- [Doanh nghiệp Hải Phòng chỉ rõ “ Tường rào kỹ thuật” khiến hàng Hải Dương bị tắc](http://vietnamnet.vn/vn/thoi-su/doanh-nghiep-hai-phong-chi-ro-tuong-rao-ky-thuat-khien-hang-hai-duong-bi-tac-715230.html) ([VietNamNet](https://vietnamnet.vn))
 - [TP HCM truy tìm thiết bị X-quang nghi gây bức xạ](https://vnexpress.net/tp-hcm-truy-tim-thiet-bi-x-quang-nghi-gay-buc-xa-4239799.html) ([VNExpress](https://vnexpress.net))
 - [Hải Dương ưu tiên xét nghiệm COVID-19 cho nông dân, người thu mua nông sản](https://laodong.vn/xa-hoi/hai-duong-uu-tien-xet-nghiem-covid-19-cho-nong-dan-nguoi-thu-mua-nong-san-883348.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng: Xét nghiệm mở rộng, gần 6.000 CNLĐ âm tính SARS-CoV-2](https://laodong.vn/cong-doan/hai-phong-xet-nghiem-mo-rong-gan-6000-cnld-am-tinh-sars-cov-2-883347.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Ninh nới lỏng giãn cách, các dịch vụ kinh doanh mở cửa trở lại](https://tuoitre.vn/bac-ninh-noi-long-gian-cach-cac-dich-vu-kinh-doanh-mo-cua-tro-lai-20210224194949698.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Quốc gia đầu tiên thế giới nhận được vaccine từ chương trình COVAX](https://laodong.vn/the-gioi/quoc-gia-dau-tien-the-gioi-nhan-duoc-vaccine-tu-chuong-trinh-covax-883283.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng trả lời chất vấn về xây dựng Khu đô thị khoa học Quy Hoà](https://laodong.vn/thoi-su/thu-tuong-tra-loi-chat-van-ve-xay-dung-khu-do-thi-khoa-hoc-quy-hoa-883342.ldo) ([Lao Động](https://laodong.vn))
-- [Ca Covid-19 có lượng virus gấp 51.148 lần bình thường làm đau đầu các nhà khoa học](https://cafebiz.vn/ca-covid-19-co-luong-virus-gap-51148-lan-binh-thuong-lam-dau-dau-cac-nha-khoa-hoc-2021022419065334.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
