@@ -14,10 +14,10 @@
 
 **CALENDAR**
 
-- Current weather is overcast clouds.
+- Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 23.37°C.
-- Air Visual is 116.
+- Feels Like 23.73°C.
+- Air Visual is 126.
 
 **WEATHER**
 
@@ -46,8 +46,7 @@
 - [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
-- [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
+- [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![G-D](https://img.shields.io/static/v1?label=G-D&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G-D)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
 - [![Google Classroom](https://img.shields.io/static/v1?label=Google%20Classroom&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Google%20Classroom)
@@ -55,12 +54,13 @@
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
-- [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
 - [![Minh Nhựa](https://img.shields.io/static/v1?label=Minh%20Nh%E1%BB%B1a&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
 - [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
+- [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
+- [![Trưởng Phòng Cảnh sát kinh tế Hà Nội](https://img.shields.io/static/v1?label=Tr%C6%B0%E1%BB%9Fng%20Ph%C3%B2ng%20C%E1%BA%A3nh%20s%C3%A1t%20kinh%20t%E1%BA%BF%20H%C3%A0%20N%E1%BB%99i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0%E1%BB%9Fng%20Ph%C3%B2ng%20C%E1%BA%A3nh%20s%C3%A1t%20kinh%20t%E1%BA%BF%20H%C3%A0%20N%E1%BB%99i)
 - [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
 - [![Đường lên đỉnh Olympia](https://img.shields.io/static/v1?label=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia)
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
+- [CDC Điện Biên hơn 150 giờ căng mình chạy đua với COVID-19](https://laodong.vn/video/cdc-dien-bien-hon-150-gio-cang-minh-chay-dua-voi-covid-19-883157.ldo) ([Lao Động](https://laodong.vn))
+- [Nông sản huyện Mê Linh tắc đầu ra do dịch COVID-19](https://laodong.vn/xa-hoi/nong-san-huyen-me-linh-tac-dau-ra-do-dich-covid-19-883155.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Mắt thần&quot; phát huy, CSGT Đà Nẵng không phải ra đường chặn xe](https://laodong.vn/video/mat-than-phat-huy-csgt-da-nang-khong-phai-ra-duong-chan-xe-883060.ldo) ([Lao Động](https://laodong.vn))
+- [Bí thư Thành ủy TP.HCM Nguyễn Văn Nên thăm cán bộ y tế tiêu biểu](https://tuoitre.vn/bi-thu-thanh-uy-tphcm-nguyen-van-nen-tham-can-bo-y-te-tieu-bieu-20210224121324785.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thủ tướng: Lập 'vùng đệm giao dịch' để lưu thông hàng hóa bình thường](https://tuoitre.vn/thu-tuong-lap-vung-dem-giao-dich-de-luu-thong-hang-hoa-binh-thuong-20210224124850903.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Sau Hải Dương, Hải Phòng, rau củ Đà Lạt được người dân TPHCM &quot;giải cứu&quot;](https://laodong.vn/kinh-te/sau-hai-duong-hai-phong-rau-cu-da-lat-duoc-nguoi-dan-tphcm-giai-cuu-883116.ldo) ([Lao Động](https://laodong.vn))
+- [Mỹ công bố dữ liệu về tác dụng phụ &quot;tốt&quot; khi tiêm vaccine COVID-19](https://laodong.vn/the-gioi/my-cong-bo-du-lieu-ve-tac-dung-phu-tot-khi-tiem-vaccine-covid-19-883145.ldo) ([Lao Động](https://laodong.vn))
 - [BIDV sẽ mua vaccine COVID-19 cho nhân viên và người nhà](https://cafebiz.vn/bidv-se-mua-vaccine-covid-19-cho-nhan-vien-va-nguoi-nha-20210224124537957.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bản tin 1 phút: Tìm ra nguồn lây chùm ca bệnh tại Hải Phòng](https://laodong.vn/video-thoi-su/ban-tin-1-phut-tim-ra-nguon-lay-chum-ca-benh-tai-hai-phong-883097.ldo) ([Lao Động](https://laodong.vn))
-- [Xử lý phù nề, vết bầm do chấn thương phần mềm khi va chạm giao thông](https://laodong.vn/suc-khoe/xu-ly-phu-ne-vet-bam-do-chan-thuong-phan-mem-khi-va-cham-giao-thong-882395.ldo) ([Lao Động](https://laodong.vn))
-- [Tỷ giá ngoại tệ 24.2: USD tụt sâu chạm đáy 3 năm, nhà đầu tư thận trọng](https://laodong.vn/kinh-te/ty-gia-ngoai-te-242-usd-tut-sau-cham-day-3-nam-nha-dau-tu-than-trong-883113.ldo) ([Lao Động](https://laodong.vn))
-- [Học sinh toàn TPHCM đi học lại từ ngày 1.3](https://laodong.vn/giao-duc/hoc-sinh-toan-tphcm-di-hoc-lai-tu-ngay-13-883156.ldo) ([Lao Động](https://laodong.vn))
-- [2 trong 3 bệnh nhân COVID-19 ở Điện Biên dương tính trở lại](https://laodong.vn/xa-hoi/2-trong-3-benh-nhan-covid-19-o-dien-bien-duong-tinh-tro-lai-883148.ldo) ([Lao Động](https://laodong.vn))
 - [Lô vaccine COVID-19 đầu tiên đã về tới Việt Nam](https://laodong.vn/y-te/lo-vaccine-covid-19-dau-tien-da-ve-toi-viet-nam-883146.ldo) ([Lao Động](https://laodong.vn))
-- [Ngư dân được mùa cá hố](https://vnexpress.net/ngu-dan-duoc-mua-ca-ho-4239439.html) ([VNExpress](https://vnexpress.net))
-- [Bắc Giang xin chuyển sân bay quân sự Kép thành sân bay lưỡng dụng](https://tuoitre.vn/bac-giang-xin-chuyen-san-bay-quan-su-kep-thanh-san-bay-luong-dung-20210224113703805.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chuyên gia blockchain chỉ ra nhiều dấu hiệu lừa đảo của Pi Network](https://cafebiz.vn/chuyen-gia-blockchain-chi-ra-nhieu-dau-hieu-lua-dao-cua-pi-network-20210224120641409.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
