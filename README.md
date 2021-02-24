@@ -16,8 +16,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 23.34°C.
-- Air Visual is 105.
+- Feels Like 22.98°C.
+- Air Visual is 82.
 
 **WEATHER**
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Đột phá phát triển du lịch sinh thái Cồn Sơn](https://laodong.vn/kinh-te/dot-pha-phat-trien-du-lich-sinh-thai-con-son-883188.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất cấm xe thô sơ ở TP HCM sau năm 2025](https://vnexpress.net/de-xuat-cam-xe-tho-so-o-tp-hcm-sau-nam-2025-4239501.html) ([VNExpress](https://vnexpress.net))
-- [Chuyện lạ ở Amazon: Vốn hóa thị trường lên đến 1,69 nghìn tỷ USD nhưng không lãnh đạo nào ngoài gia đình Jeff Bezos trở thành tỷ phú](https://cafebiz.vn/chuyen-la-o-amazon-von-hoa-thi-truong-len-den-169-nghin-ty-usd-nhung-khong-lanh-dao-nao-ngoai-gia-dinh-jeff-bezos-tro-thanh-ty-phu-20210224142912891.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những cách chế biến món ngon và lạ miệng từ su hào &quot;giải cứu&quot;](https://laodong.vn/gia-dinh-hon-nhan/nhung-cach-che-bien-mon-ngon-va-la-mieng-tu-su-hao-giai-cuu-883117.ldo) ([Lao Động](https://laodong.vn))
-- [Hơn 3 tỉ đồng hỗ trợ người lao động khó khăn trong dịp Tết Tân Sửu 2021](https://laodong.vn/cd-cong-thuong/hon-3-ti-dong-ho-tro-nguoi-lao-dong-kho-khan-trong-dip-tet-tan-suu-2021-883199.ldo) ([Lao Động](https://laodong.vn))
-- [Serie A xứng danh “đối thủ truyền kiếp” của Real Madrid](https://laodong.vn/the-thao/serie-a-xung-danh-doi-thu-truyen-kiep-cua-real-madrid-883037.ldo) ([Lao Động](https://laodong.vn))
-- [Hãng xe ô tô nào được ưa thích nhất tại Mỹ?](https://cafebiz.vn/hang-xe-o-to-nao-duoc-ua-thich-nhat-tai-my-20210224140403451.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phía Sơn Tùng M-TP chính thức lên tiếng về ồn ào đạo nhạc, drama "Chúng ta của hiện tại" đã hạ màn?](https://cafebiz.vn/phia-son-tung-m-tp-chinh-thuc-len-tieng-ve-on-ao-dao-nhac-drama-chung-ta-cua-hien-tai-da-ha-man-20210224150253791.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhận định Gladbach - Man City: Đi tìm điểm yếu của gã khổng lồ](https://laodong.vn/bong-da-quoc-te/nhan-dinh-gladbach-man-city-di-tim-diem-yeu-cua-ga-khong-lo-883183.ldo) ([Lao Động](https://laodong.vn))
-- [Quán ăn, nhà hàng &quot;gồng mình&quot; trước dịch COVID-19](https://laodong.vn/kinh-te/quan-an-nha-hang-gong-minh-truoc-dich-covid-19-883164.ldo) ([Lao Động](https://laodong.vn))
+- [Lãi suất giảm, ngân hàng tung thêm gói hỗ trợ người vay](https://laodong.vn/kinh-te/lai-suat-giam-ngan-hang-tung-them-goi-ho-tro-nguoi-vay-883216.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Tĩnh: Khởi tố nhóm cán bộ đánh bạc](https://laodong.vn/phap-luat/ha-tinh-khoi-to-nhom-can-bo-danh-bac-883203.ldo) ([Lao Động](https://laodong.vn))
+- [Những con giáp phát tài, tiền vào như nước ngay sau Rằm tháng Giêng](https://cafebiz.vn/nhung-con-giap-phat-tai-tien-vao-nhu-nuoc-ngay-sau-ram-thang-gieng-20210224153414555.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người tử vong khi đang điều trị cách ly âm tính lần 2 với corona](https://tuoitre.vn/nguoi-tu-vong-khi-dang-dieu-tri-cach-ly-am-tinh-lan-2-voi-corona-20210224152524015.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Lời kể của thiếu nữ thoát chết trong vụ giết người ở quán karaoke Hoà Bình](https://laodong.vn/phap-luat/loi-ke-cua-thieu-nu-thoat-chet-trong-vu-giet-nguoi-o-quan-karaoke-hoa-binh-883205.ldo) ([Lao Động](https://laodong.vn))
+- [Tại sao nên cân nhắc khi mua nhà, đất bằng giấy viết tay?](https://laodong.vn/ban-doc/tai-sao-nen-can-nhac-khi-mua-nha-dat-bang-giay-viet-tay-883209.ldo) ([Lao Động](https://laodong.vn))
+- [Toàn bộ chính sách về tiền lương sẽ có hiệu lực từ tháng 3.2021](https://laodong.vn/cong-doan/toan-bo-chinh-sach-ve-tien-luong-se-co-hieu-luc-tu-thang-32021-883152.ldo) ([Lao Động](https://laodong.vn))
+- [Bill Gates: Nếu không giàu như Elon Musk đừng đổ tiền vào Bitcoin!](https://cafebiz.vn/bill-gates-neu-khong-giau-nhu-elon-musk-dung-do-tien-vao-bitcoin-20210224152658901.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trung Quốc viện trợ và xuất khẩu vaccine Covid-19 cho 80 quốc gia trên thế giới](https://cafebiz.vn/trung-quoc-vien-tro-va-xuat-khau-vaccine-covid-19-cho-80-quoc-gia-tren-the-gioi-20210224140906083.chn) ([CafeBiz](https://cafebiz.vn))
+- [8/3 tặng thứ gì cho tinh tế: Thử ngay loại nước hoa đang “được lòng” loạt KOLs đình đám này!](https://cafebiz.vn/8-3-tang-thu-gi-cho-tinh-te-thu-ngay-loai-nuoc-hoa-dang-duoc-long-loat-kols-dinh-dam-nay-20210224113115902.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
