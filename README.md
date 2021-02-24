@@ -16,8 +16,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 22.86°C.
-- Air Visual is 135.
+- Feels Like 22.4°C.
+- Air Visual is 139.
 
 **WEATHER**
 
@@ -70,16 +70,7 @@
 
 **NEWS**
 
-- [Kẻ đâm chết 3 người tại quán karaoke ở Hoà Bình dương tính với ma tuý](https://laodong.vn/phap-luat/ke-dam-chet-3-nguoi-tai-quan-karaoke-o-hoa-binh-duong-tinh-voi-ma-tuy-883132.ldo) ([Lao Động](https://laodong.vn))
-- [Quỹ lớn nhất do Dragon Capital quản lý có quy mô vượt 2 tỷ USD](https://cafebiz.vn/quy-lon-nhat-do-dragon-capital-quan-ly-co-quy-mo-vuot-2-ty-usd-20210224113204645.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khó khăn nào đang chờ hệ điều hành di động của Huawei?](https://cafebiz.vn/kho-khan-nao-dang-cho-he-dieu-hanh-di-dong-cua-huawei-20210224110841756.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cô phục vụ bàn thành CEO của đế chế tỷ đô: Từng phải trốn vào ô tô khóc òa như đứa trẻ khi nhà đầu tư bodyshaming, chỉ còn vài trăm USD trong túi](https://cafebiz.vn/co-phuc-vu-ban-thanh-ceo-cua-de-che-ty-do-tung-phai-tron-vao-o-to-khoc-oa-nhu-dua-tre-khi-nha-dau-tu-bodyshaming-chi-con-vai-tram-usd-trong-tui-20210224104813922.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khối &quot;tài sản&quot; đặc biệt của cựu tuyển thủ Nguyễn Hồng Sơn](https://laodong.vn/bong-da/khoi-tai-san-dac-biet-cua-cuu-tuyen-thu-nguyen-hong-son-883098.ldo) ([Lao Động](https://laodong.vn))
-- [Toàn văn phát biểu của Thủ tướng tại phiên thảo luận của Hội đồng Bảo an](https://laodong.vn/thoi-su/toan-van-phat-bieu-cua-thu-tuong-tai-phien-thao-luan-cua-hoi-dong-bao-an-883111.ldo) ([Lao Động](https://laodong.vn))
-- [Lâm tặc phá rừng Đắk Lắk dịp Tết:  Phải xử lý  nghiêm chủ rừng để làm gương](https://laodong.vn/xa-hoi/lam-tac-pha-rung-dak-lak-dip-tet-phai-xu-ly-nghiem-chu-rung-de-lam-guong-883094.ldo) ([Lao Động](https://laodong.vn))
-- [Kaity Nguyễn nói về những cảnh quay nóng trong &quot;Gái gài lắm chiêu V&quot;?](https://laodong.vn/giai-tri/kaity-nguyen-noi-ve-nhung-canh-quay-nong-trong-gai-gai-lam-chieu-v-883118.ldo) ([Lao Động](https://laodong.vn))
-- [Tàu container tông sập cẩu thi công cầu Phước Khánh, thiệt hại 20 tỉ đồng](https://tuoitre.vn/tau-container-tong-sap-cau-thi-cong-cau-phuoc-khanh-thiet-hai-20-ti-dong-20210224103807098.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hàng loạt khách sạn, cửa hàng Hà Nội treo biển cho thuê sau Tết](https://cafebiz.vn/hang-loat-khach-san-cua-hang-ha-noi-treo-bien-cho-thue-sau-tet-20210224112048648.chn) ([CafeBiz](https://cafebiz.vn))
+
 
 [Read More](docs/news/README.md)
 
@@ -91,12 +82,12 @@
 
 **VIETCETERA**
 
+- [Vì sao chúng ta không thể ngừng chạm tay lên mặt?](https://vietcetera.com/vn/vi-sao-chung-ta-khong-the-ngung-cham-tay-len-mat)
 - [Hà Huy Hoàng: "Hồi ký cuộc đời mình sẽ mang tên 'Xin cho tôi vẽ!'"](https://vietcetera.com/vn/ha-huy-hoang-hoi-ky-cuoc-doi-minh-se-mang-ten-xin-cho-toi-ve)
 - [Bóc Term: Zombie-box — Bạn dùng công nghệ hay công nghệ dùng bạn?](https://vietcetera.com/vn/boc-term-zombie-box-ban-co-dang-bi-an-nao)
 - [Điện ảnh, công nghệ và y tế: Việt Nam đang đứng ở đâu?](https://vietcetera.com/vn/khong-chi-chong-dich-tot-viet-nam-dang-dat-nhieu-cot-moc-hon-the)
 - ["Đâu là khoảnh khắc anh nhận ra mình rất hạnh phúc?"](https://vietcetera.com/vn/dau-la-khoanh-khac-anh-nhan-ra-minh-rat-hanh-phuc)
 - [Bóc Term: Cougar - Khi chuyện tình “chị đẹp và trai trẻ” vượt qua định kiến xã hội](https://vietcetera.com/vn/boc-term-cougar-khi-chi-dep-va-trai-tre-vuot-qua-dinh-kien-xa-hoi)
-- [Chai thuỷ tinh La Vie: Nuôi dưỡng vòng tuần hoàn của sự sống](https://vietcetera.com/vn/chai-thuy-tinh-la-vie-nuoi-duong-vong-tuan-hoan-cua-su-song)
 - [Văn hóa Tiki có gì mà thế giới thích mê? ](https://vietcetera.com/vn/van-hoa-tiki-co-gi-ma-the-gioi-thich-me)
 - [Du thuyền Oceania Cruises: 180 ngày, 96 địa danh và 33 quốc gia](https://vietcetera.com/vn/du-thuyen-oceania-cruises-co-hoi-kham-pha-cac-dia-danh-noi-tieng-tai-viet-nam-va-tren-the-gioi)
 - ["Anh diễn hài độc thoại nhiều rồi, nhưng set diễn khiến anh run nhất..."](https://vietcetera.com/vn/anh-dien-hai-doc-thoai-nhieu-roi-nhung-set-dien-khien-anh-run-nhat)
