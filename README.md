@@ -16,8 +16,8 @@
 
 - Current weather is mist.
 - Temperature is 21°C.
-- Feels Like 21.32°C.
-- Air Visual is 122.
+- Feels Like 21.68°C.
+- Air Visual is 140.
 
 **WEATHER**
 
@@ -57,12 +57,12 @@
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
-- [![Map](https://img.shields.io/static/v1?label=Map&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Map)
 - [![Minh Nhựa](https://img.shields.io/static/v1?label=Minh%20Nh%E1%BB%B1a&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
 - [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [![Vietcombank](https://img.shields.io/static/v1?label=Vietcombank&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietcombank)
+- [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Chung cư Hà Nội bán cắt lỗ hàng trăm triệu, nên mua luôn hay chờ giảm tiếp?](https://cafebiz.vn/chung-cu-ha-noi-ban-cat-lo-hang-tram-trieu-nen-mua-luon-hay-cho-giam-tiep-20210224084642615.chn) ([CafeBiz](https://cafebiz.vn))
-- [1000, 100.000, rồi nửa triệu: 2 trang nhất gây ám ảnh cả thế giới của New York Times về hiện thực đau đớn Covid-19 mang lại](https://cafebiz.vn/1000-100000-roi-nua-trieu-2-trang-nhat-gay-am-anh-ca-the-gioi-cua-new-york-times-ve-hien-thuc-dau-don-covid-19-mang-lai-20210224084636081.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xe buýt cháy ngùn ngụt ở Sài Gòn](https://vnexpress.net/xe-buyt-chay-ngun-ngut-o-sai-gon-4239332.html) ([VNExpress](https://vnexpress.net))
-- [CEO SGICapital: "Chọn thời điểm tốt mang lại lợi thế, chọn cổ phiếu tốt mang lại gia tài"](https://cafebiz.vn/ceo-sgicapital-chon-thoi-diem-tot-mang-lai-loi-the-chon-co-phieu-tot-mang-lai-gia-tai-20210224084239259.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đề xuất xây dựng đường hầm cao tốc dọc sông Tô Lịch: Kinh nghiệm từ hầm Thủ Thiêm](https://laodong.vn/xa-hoi/de-xuat-xay-dung-duong-ham-cao-toc-doc-song-to-lich-kinh-nghiem-tu-ham-thu-thiem-882994.ldo) ([Lao Động](https://laodong.vn))
-- [Đã có kết quả xét nghiệm Covid-19 lần 3 của người đàn ông ở Thanh Hóa tử vong sau nhiều ngày sốt cao](https://cafebiz.vn/da-co-ket-qua-xet-nghiem-covid-19-lan-3-cua-nguoi-dan-ong-o-thanh-hoa-tu-vong-sau-nhieu-ngay-sot-cao-20210224084127028.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xác định nguồn lây Covid-19 từ Cẩm Giàng, công an Hải Phòng xét căn cứ xử lý hình sự nam điều dưỡng](https://cafebiz.vn/xac-dinh-nguon-lay-covid-19-tu-cam-giang-cong-an-hai-phong-xet-can-cu-xu-ly-hinh-su-nam-dieu-duong-20210224083854634.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cụ bà 62 tuổi, qua 3 đời chồng, nuôi 4 đứa con: Chẳng bao giờ quá muộn để trở thành triệu phú!](https://cafebiz.vn/cu-ba-62-tuoi-qua-3-doi-chong-nuoi-4-dua-con-chang-bao-gio-qua-muon-de-tro-thanh-trieu-phu-2021022317045021.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Nối gót' Tesla, một công ty dịch vụ tài chính mạnh tay đầu tư 170 triệu USD cho Bitcoin](https://cafebiz.vn/noi-got-tesla-mot-cong-ty-dich-vu-tai-chinh-manh-tay-dau-tu-170-trieu-usd-cho-bitcoin-20210224083621018.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lãi và phí phải thu nhiều ngân hàng tăng cao, lợi nhuận có đang bị “thổi phồng”?](https://cafebiz.vn/lai-va-phi-phai-thu-nhieu-ngan-hang-tang-cao-loi-nhuan-co-dang-bi-thoi-phong-20210224083715224.chn) ([CafeBiz](https://cafebiz.vn))
+- [Facebook nhận phản đối từ người dùng vụ đình chỉ tài khoản Trump](https://laodong.vn/the-gioi/facebook-nhan-phan-doi-tu-nguoi-dung-vu-dinh-chi-tai-khoan-trump-883046.ldo) ([Lao Động](https://laodong.vn))
+- [Cần xử lý hình sự các đường dây, ổ nhóm buôn bán “hàng xách tay” lậu](https://laodong.vn/xa-hoi/can-xu-ly-hinh-su-cac-duong-day-o-nhom-buon-ban-hang-xach-tay-lau-882979.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Xe buýt bốc cháy dữ dội trong hầm chui An Sương](https://laodong.vn/giao-thong/tphcm-xe-buyt-boc-chay-du-doi-trong-ham-chui-an-suong-883072.ldo) ([Lao Động](https://laodong.vn))
+- [Đường đi của “hàng ngoại xách tay” được rao bán livestream](https://laodong.vn/phap-luat/duong-di-cua-hang-ngoai-xach-tay-duoc-rao-ban-livestream-882975.ldo) ([Lao Động](https://laodong.vn))
+- [Mất sổ đỏ có lo bị người khác mang đi cầm cố?](https://laodong.vn/bat-dong-san/mat-so-do-co-lo-bi-nguoi-khac-mang-di-cam-co-882867.ldo) ([Lao Động](https://laodong.vn))
+- [Tuyệt chiêu giúp chàng trai 29 tuổi sở hữu 29 căn nhà: Tiết kiệm!](https://cafebiz.vn/tuyet-chieu-giup-chang-trai-29-tuoi-so-huu-29-can-nha-tiet-kiem-20210223102031622.chn) ([CafeBiz](https://cafebiz.vn))
+- ["45 tuổi vẫn chẳng làm được trò trống gì": Cuộc sống bình dị đến tầm thường ở tuổi trung niên có thực sự đáng hổ thẹn?](https://cafebiz.vn/45-tuoi-van-chang-lam-duoc-tro-trong-gi-cuoc-song-binh-di-den-tam-thuong-o-tuoi-trung-nien-co-thuc-su-dang-ho-then-20210223170508933.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuyên gia lên tiếng trước lo ngại virus SARS-CoV-2 lây qua thực phẩm](https://cafebiz.vn/chuyen-gia-len-tieng-truoc-lo-ngai-virus-sars-cov-2-lay-qua-thuc-pham-20210224091215119.chn) ([CafeBiz](https://cafebiz.vn))
+- [Năm 2020, Huawei tăng trưởng nhẹ bất chấp thách thức](https://cafebiz.vn/nam-2020-huawei-tang-truong-nhe-bat-chap-thach-thuc-20210224085813572.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đề nghị có phương án cho xe hàng từ Hải Dương đi Hải Phòng](https://cafebiz.vn/de-nghi-co-phuong-an-cho-xe-hang-tu-hai-duong-di-hai-phong-20210224090757134.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
