@@ -17,7 +17,7 @@
 - Current weather is broken clouds.
 - Temperature is 22°C.
 - Feels Like 21.55°C.
-- Air Visual is 97.
+- Air Visual is 96.
 
 **WEATHER**
 
@@ -70,6 +70,8 @@
 
 **NEWS**
 
+- [Cuộc sống dễ thở, sự nghiệp thăng tiến dù chỉ phải làm việc bằng 1/3 thời gian trước, blogger với hơn 100 triệu lượt theo dõi chia sẻ 5 quyết định tài chính giúp anh đổi đời](https://cafebiz.vn/cuoc-song-de-tho-su-nghiep-thang-tien-du-chi-phai-lam-viec-bang-1-3-thoi-gian-truoc-blogger-voi-hon-100-trieu-luot-theo-doi-chia-se-5-quyet-dinh-tai-chinh-giup-anh-doi-doi-20210224230025751.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mưu sĩ có năng lực kém cỏi nhất thời Tam Quốc, cũng may Tôn Quyền không trọng dụng, nếu không Đông Ngô đã sớm bị xóa sổ](https://cafebiz.vn/muu-si-co-nang-luc-kem-coi-nhat-thoi-tam-quoc-cung-may-ton-quyen-khong-trong-dung-neu-khong-dong-ngo-da-som-bi-xoa-so-20210224225753904.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Phòng tìm người đến hiệu thuốc gần bệnh viện liên quan BN COVID-19](https://laodong.vn/xa-hoi/hai-phong-tim-nguoi-den-hieu-thuoc-gan-benh-vien-lien-quan-bn-covid-19-883354.ldo) ([Lao Động](https://laodong.vn))
 - [Chứng khoán: Rủi ro ngắn hạn thấp, thị trường có thể phản ứng hồi phục](https://laodong.vn/kinh-te/chung-khoan-rui-ro-ngan-han-thap-thi-truong-co-the-phan-ung-hoi-phuc-883351.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng thông báo khẩn người dân đến 4 địa điểm](https://tuoitre.vn/hai-phong-thong-bao-khan-nguoi-dan-den-4-dia-diem-20210224214808294.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -78,8 +80,6 @@
 - [Nhiều tiền mà "gặp khó", Nữ hoàng cá tra Việt Nam bán phồng tôm và nước ép rau quả](https://cafebiz.vn/nhieu-tien-ma-gap-kho-nu-hoang-ca-tra-viet-nam-ban-phong-tom-va-nuoc-ep-rau-qua-20210224213718327.chn) ([CafeBiz](https://cafebiz.vn))
 - [Triệt xóa 2 đường dây đưa người vượt biên trái phép trong mùa dịch Covid-19 ở Nghệ An](https://cafebiz.vn/triet-xoa-2-duong-day-dua-nguoi-vuot-bien-trai-phep-trong-mua-dich-covid-19-o-nghe-an-20210224212819097.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lý do dân chơi xế lựa chọn ePass](https://cafebiz.vn/ly-do-dan-choi-xe-lua-chon-epass-20210224181320221.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nam: Nghi án nữ sinh lớp 10 bị bạn trai sát hại](https://laodong.vn/phap-luat/ha-nam-nghi-an-nu-sinh-lop-10-bi-ban-trai-sat-hai-883350.ldo) ([Lao Động](https://laodong.vn))
-- [Từng được coi là "em chã nặng nhất thế giới", cậu bé béo đến không đi học nổi giờ đã có ngoại hình thay đổi đáng kinh ngạc sau 5 năm](https://cafebiz.vn/tung-duoc-coi-la-em-cha-nang-nhat-the-gioi-cau-be-beo-den-khong-di-hoc-noi-gio-da-co-ngoai-hinh-thay-doi-dang-kinh-ngac-sau-5-nam-20210224211855678.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
