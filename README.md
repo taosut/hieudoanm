@@ -14,10 +14,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is scattered clouds.
 - Temperature is 25°C.
-- Feels Like 22.98°C.
-- Air Visual is 82.
+- Feels Like 22.62°C.
+- Air Visual is 89.
 
 **WEATHER**
 
@@ -45,7 +45,7 @@
 
 - [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
-- [![COVID Hải Phòng](https://img.shields.io/static/v1?label=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=COVID%20H%E1%BA%A3i%20Ph%C3%B2ng)
+- [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![G-D](https://img.shields.io/static/v1?label=G-D&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G-D)
@@ -55,9 +55,9 @@
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kim So Hyun](https://img.shields.io/static/v1?label=Kim%20So%20Hyun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kim%20So%20Hyun)
+- [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
 - [![Minh Nhựa](https://img.shields.io/static/v1?label=Minh%20Nh%E1%BB%B1a&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20Nh%E1%BB%B1a)
-- [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
 - [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Sơn Tùng](https://img.shields.io/static/v1?label=S%C6%A1n%20T%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C6%A1n%20T%C3%B9ng)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
@@ -70,16 +70,16 @@
 
 **NEWS**
 
-- [Lãi suất giảm, ngân hàng tung thêm gói hỗ trợ người vay](https://laodong.vn/kinh-te/lai-suat-giam-ngan-hang-tung-them-goi-ho-tro-nguoi-vay-883216.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Tĩnh: Khởi tố nhóm cán bộ đánh bạc](https://laodong.vn/phap-luat/ha-tinh-khoi-to-nhom-can-bo-danh-bac-883203.ldo) ([Lao Động](https://laodong.vn))
-- [Những con giáp phát tài, tiền vào như nước ngay sau Rằm tháng Giêng](https://cafebiz.vn/nhung-con-giap-phat-tai-tien-vao-nhu-nuoc-ngay-sau-ram-thang-gieng-20210224153414555.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người tử vong khi đang điều trị cách ly âm tính lần 2 với corona](https://tuoitre.vn/nguoi-tu-vong-khi-dang-dieu-tri-cach-ly-am-tinh-lan-2-voi-corona-20210224152524015.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Lời kể của thiếu nữ thoát chết trong vụ giết người ở quán karaoke Hoà Bình](https://laodong.vn/phap-luat/loi-ke-cua-thieu-nu-thoat-chet-trong-vu-giet-nguoi-o-quan-karaoke-hoa-binh-883205.ldo) ([Lao Động](https://laodong.vn))
-- [Tại sao nên cân nhắc khi mua nhà, đất bằng giấy viết tay?](https://laodong.vn/ban-doc/tai-sao-nen-can-nhac-khi-mua-nha-dat-bang-giay-viet-tay-883209.ldo) ([Lao Động](https://laodong.vn))
-- [Toàn bộ chính sách về tiền lương sẽ có hiệu lực từ tháng 3.2021](https://laodong.vn/cong-doan/toan-bo-chinh-sach-ve-tien-luong-se-co-hieu-luc-tu-thang-32021-883152.ldo) ([Lao Động](https://laodong.vn))
-- [Bill Gates: Nếu không giàu như Elon Musk đừng đổ tiền vào Bitcoin!](https://cafebiz.vn/bill-gates-neu-khong-giau-nhu-elon-musk-dung-do-tien-vao-bitcoin-20210224152658901.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trung Quốc viện trợ và xuất khẩu vaccine Covid-19 cho 80 quốc gia trên thế giới](https://cafebiz.vn/trung-quoc-vien-tro-va-xuat-khau-vaccine-covid-19-cho-80-quoc-gia-tren-the-gioi-20210224140906083.chn) ([CafeBiz](https://cafebiz.vn))
-- [8/3 tặng thứ gì cho tinh tế: Thử ngay loại nước hoa đang “được lòng” loạt KOLs đình đám này!](https://cafebiz.vn/8-3-tang-thu-gi-cho-tinh-te-thu-ngay-loai-nuoc-hoa-dang-duoc-long-loat-kols-dinh-dam-nay-20210224113115902.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bảo vệ rừng không thể trông chờ &quot;vận động&quot; lâm tặc nương tay cho rừng](https://laodong.vn/ban-doc/bao-ve-rung-khong-the-trong-cho-van-dong-lam-tac-nuong-tay-cho-rung-883196.ldo) ([Lao Động](https://laodong.vn))
+- [Khiếu nại 32 năm mới được giải quyết: Ai sai phải bỏ tiền túi ra đền](https://laodong.vn/su-kien-binh-luan/khieu-nai-32-nam-moi-duoc-giai-quyet-ai-sai-phai-bo-tien-tui-ra-den-883093.ldo) ([Lao Động](https://laodong.vn))
+- [Cách tiếp cận của Việt Nam trong phòng chống COVID-19 đáng được ghi nhận](https://laodong.vn/the-gioi/cach-tiep-can-cua-viet-nam-trong-phong-chong-covid-19-dang-duoc-ghi-nhan-882986.ldo) ([Lao Động](https://laodong.vn))
+- [Chứng khoán khó lường, cao thủ hành động như thế nào?](https://laodong.vn/kinh-te/chung-khoan-kho-luong-cao-thu-hanh-dong-nhu-the-nao-883227.ldo) ([Lao Động](https://laodong.vn))
+- [Giám đốc Trung tâm Y tế ở 'ổ dịch Kim Thành' bị phê bình vì thiếu trách nhiệm](https://tuoitre.vn/giam-doc-trung-tam-y-te-o-o-dich-kim-thanh-bi-phe-binh-vi-thieu-trach-nhiem-20210224154117559.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Lô vaccine COVID-19 đầu tiên về kho lạnh, hé lộ quy trình bảo quản đặc biệt](https://laodong.vn/y-te/lo-vaccine-covid-19-dau-tien-ve-kho-lanh-he-lo-quy-trinh-bao-quan-dac-biet-883204.ldo) ([Lao Động](https://laodong.vn))
+- [Phát hiện biến thể COVID-19 thứ 5 ở Việt Nam](https://tuoitre.vn/phat-hien-bien-the-covid-19-thu-5-o-viet-nam-20210224154346461.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Quyền lực chốn công sở chỉ gói gọn trong 2 bí mật](https://cafebiz.vn/quyen-luc-chon-cong-so-chi-goi-gon-trong-2-bi-mat-20210224160246996.chn) ([CafeBiz](https://cafebiz.vn))
+- [Campuchia ghi nhận số ca nhiễm cao nhất trong ngày, có người Việt](https://tuoitre.vn/campuchia-ghi-nhan-so-ca-nhiem-cao-nhat-trong-ngay-co-nguoi-viet-20210224150734225.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Vì sao mọi sự trên đời đều chỉ nên khôn thôi, đừng "khôn quá"?](https://cafebiz.vn/vi-sao-moi-su-tren-doi-deu-chi-nen-khon-thoi-dung-khon-qua-20210224154205531.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
