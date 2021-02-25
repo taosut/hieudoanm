@@ -83,8 +83,8 @@
 - [Bill Gates chỉ ra 4 thói quen tạo ra sự khác biệt giữa  người hành động và kẻ mộng mơ: Bạn tự kiểm tra lại mình nhé!](https://cafebiz.vn/bill-gates-chi-ra-4-thoi-quen-tao-ra-su-khac-biet-giua-nguoi-hanh-dong-va-ke-mong-mo-ban-tu-kiem-tra-lai-minh-nhe-20210222183439579.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chuyên gia phong thủy tiết lộ vào Rằm tháng Giêng 3 con giáp không chỉ may mắn phần mình mà còn đem vận may cho người thân, cả năm vượng tài vượng tình](https://cafebiz.vn/chuyen-gia-phong-thuy-tiet-lo-vao-ram-thang-gieng-3-con-giap-khong-chi-may-man-phan-minh-ma-con-dem-van-may-cho-nguoi-than-ca-nam-vuong-tai-vuong-tinh-20210225221418257.chn) ([CafeBiz](https://cafebiz.vn))
 - [HLV Shimoda: &quot;CLB Sài Gòn sẽ chơi tấn công mạnh hơn nữa!&quot;](https://laodong.vn/video/hlv-shimoda-clb-sai-gon-se-choi-tan-cong-manh-hon-nua-883654.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội, Hải Phòng được mua vaccine Covid-19](https://vnexpress.net/ha-noi-hai-phong-duoc-mua-vaccine-covid-19-4240361.html) ([VNExpress](https://vnexpress.net))
-- [Đại tá Trần Minh Tiến giữ chức vụ Giám đốc Công an tỉnh Lâm Đồng](http://vietnamnet.vn/vn/thoi-su/chinh-tri/dai-ta-tran-minh-tien-giu-chuc-vu-giam-doc-cong-an-tinh-lam-dong-715558.html) ([VietNamNet](https://vietnamnet.vn))
+- [Hình ảnh chưa từng có ở chùa Phúc Khánh trong lễ cầu an trực tuyến đầu tiên](http://vietnamnet.vn/vn/thoi-su/hinh-anh-chua-tung-co-o-chua-phuc-khanh-trong-le-cau-an-truc-tuyen-dau-tien-715551.html) ([VietNamNet](https://vietnamnet.vn))
+- [Thượng tá Lê Phú Thạnh làm Phó Giám đốc Công an An Giang](http://vietnamnet.vn/vn/thoi-su/chinh-tri/thuong-ta-le-phu-thanh-lam-pho-giam-doc-cong-an-an-giang-715561.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
