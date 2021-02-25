@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 24.18°C.
-- Air Visual is 151.
+- Temperature is 24°C.
+- Feels Like 23.53°C.
+- Air Visual is 125.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Ông Shimoda muốn Cao Văn Triền thích nghi J.League như cầu thủ Thái Lan](https://laodong.vn/bong-da/ong-shimoda-muon-cao-van-trien-thich-nghi-jleague-nhu-cau-thu-thai-lan-883493.ldo) ([Lao Động](https://laodong.vn))
+- [Hơn 1,3 triệu dân Texas tiếp tục vật lộn với tình trạng thiếu nước](https://laodong.vn/the-gioi/hon-13-trieu-dan-texas-tiep-tuc-vat-lon-voi-tinh-trang-thieu-nuoc-883576.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt bằng được những kẻ tấn công tình dục ngay tại Hồ Tây](https://laodong.vn/su-kien-binh-luan/bat-bang-duoc-nhung-ke-tan-cong-tinh-duc-ngay-tai-ho-tay-883580.ldo) ([Lao Động](https://laodong.vn))
+- [Một quán ốc ở TPHCM bị phạt 4 triệu đồng vì phục vụ cùng lúc 60 khách](https://laodong.vn/xa-hoi/mot-quan-oc-o-tphcm-bi-phat-4-trieu-dong-vi-phuc-vu-cung-luc-60-khach-883610.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Tĩnh: Khởi tố 10 đối tượng đánh bạc với tang vật gần 8 triệu đồng](https://laodong.vn/phap-luat/ha-tinh-khoi-to-10-doi-tuong-danh-bac-voi-tang-vat-gan-8-trieu-dong-883596.ldo) ([Lao Động](https://laodong.vn))
 - [Thai Airways thua lỗ chưa từng có](https://cafebiz.vn/thai-airways-thua-lo-chua-tung-co-20210225173700983.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thanh niên hành động vì khí hậu, vì một tương lai xanh và sạch hơn](https://laodong.vn/xa-hoi/thanh-nien-hanh-dong-vi-khi-hau-vi-mot-tuong-lai-xanh-va-sach-hon-883592.ldo) ([Lao Động](https://laodong.vn))
-- [LĐLĐ Nghệ An: Phấn đấu thành lập mới 30 công đoàn cơ sở](https://laodong.vn/cong-doan/ldld-nghe-an-phan-dau-thanh-lap-moi-30-cong-doan-co-so-883614.ldo) ([Lao Động](https://laodong.vn))
-- [LĐLĐ huyện Hoằng Hoá: Ấm áp từ những &quot;Mái ấm công đoàn&quot;](https://laodong.vn/cong-doan/ldld-huyen-hoang-hoa-am-ap-tu-nhung-mai-am-cong-doan-883609.ldo) ([Lao Động](https://laodong.vn))
 - [DOMAC – Thương hiệu thời trang thiết kế nổi bật được nhiều người ưa chuộng](https://cafebiz.vn/domac-thuong-hieu-thoi-trang-thiet-ke-noi-bat-duoc-nhieu-nguoi-ua-chuong-20210225165317698.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Dương thông báo khẩn tìm người đến nhiều cửa hàng, phòng khám](https://laodong.vn/xa-hoi/hai-duong-thong-bao-khan-tim-nguoi-den-nhieu-cua-hang-phong-kham-883598.ldo) ([Lao Động](https://laodong.vn))
 - [Xe khách chở công nhân ‘thông chốt’ kiểm tra y tế ở Đà Nẵng](https://tuoitre.vn/xe-khach-cho-cong-nhan-thong-chot-kiem-tra-y-te-o-da-nang-20210225165301083.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Lãnh đạo TP.HCM thăm, chúc mừng thầy thuốc, cán bộ y tế tiêu biểu](https://tuoitre.vn/lanh-dao-tphcm-tham-chuc-mung-thay-thuoc-can-bo-y-te-tieu-bieu-20210225171007767.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hải Phòng: Lượng máu dự trữ chỉ đủ dùng một ngày do dịch COVID-19](https://laodong.vn/y-te/hai-phong-luong-mau-du-tru-chi-du-dung-mot-ngay-do-dich-covid-19-883588.ldo) ([Lao Động](https://laodong.vn))
-- [Máy bay móp cánh vì đụng xe thang tại Tân Sơn Nhất](https://tuoitre.vn/may-bay-mop-canh-vi-dung-xe-thang-tai-tan-son-nhat-20210225163626812.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
