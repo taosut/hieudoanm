@@ -75,11 +75,11 @@
 
 **NEWS**
 
+- [Nhiều công nhân lao động mừng rỡ khi học sinh đi học lại từ ngày 1.3](https://laodong.vn/cong-doan/nhieu-cong-nhan-lao-dong-mung-ro-khi-hoc-sinh-di-hoc-lai-tu-ngay-13-883467.ldo) ([Lao Động](https://laodong.vn))
+- [Đồng Nai, Bà Rịa – Vũng Tàu cho học sinh đi học lại từ đầu tháng 3](https://laodong.vn/xa-hoi/dong-nai-ba-ria--vung-tau-cho-hoc-sinh-di-hoc-lai-tu-dau-thang-3-883468.ldo) ([Lao Động](https://laodong.vn))
+- [Bất ngờ với 5 tác dụng chữa bệnh tuyệt vời của dứa](https://laodong.vn/suc-khoe/bat-ngo-voi-5-tac-dung-chua-benh-tuyet-voi-cua-dua-883360.ldo) ([Lao Động](https://laodong.vn))
 - [Bộ đội biên phòng Bà Rịa – Vũng Tàu liên tiếp bắt 2 vụ tàng trữ ma tuý đá](https://laodong.vn/phap-luat/bo-doi-bien-phong-ba-ria--vung-tau-lien-tiep-bat-2-vu-tang-tru-ma-tuy-da-883461.ldo) ([Lao Động](https://laodong.vn))
 - [Giải đáp khúc mắc về sử dụng vaccine AstraZeneca cho người trên 65 tuổi](https://laodong.vn/the-gioi/giai-dap-khuc-mac-ve-su-dung-vaccine-astrazeneca-cho-nguoi-tren-65-tuoi-883451.ldo) ([Lao Động](https://laodong.vn))
-- [Trung Quốc đón Rằm tháng Giêng thế nào?](https://laodong.vn/the-gioi/trung-quoc-don-ram-thang-gieng-the-nao-883458.ldo) ([Lao Động](https://laodong.vn))
-- [Chính sách tiền lương của quân đội, giáo viên có hiệu lực từ tháng 3.2021](https://laodong.vn/thoi-su/chinh-sach-tien-luong-cua-quan-doi-giao-vien-co-hieu-luc-tu-thang-32021-883453.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao “cúng cả năm không bằng Rằm tháng Giêng”?](https://laodong.vn/chuyen-nha-minh/vi-sao-cung-ca-nam-khong-bang-ram-thang-gieng-883452.ldo) ([Lao Động](https://laodong.vn))
 - [Chanh, bưởi Việt Nam sắp bay lên kệ các siêu thị New Zealand](https://cafebiz.vn/chanh-buoi-viet-nam-sap-bay-len-ke-cac-sieu-thi-new-zealand-20210225101655809.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hạn mặn miền Tây tăng dần, khá gay gắt trong cuối tháng 2](https://tuoitre.vn/han-man-mien-tay-tang-dan-kha-gay-gat-trong-cuoi-thang-2-20210225111815479.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thay thế nhân vật cấp cao trong ban lãnh đạo, cổ phiếu GameStop vừa tăng gấp đôi](https://cafebiz.vn/thay-the-nhan-vat-cap-cao-trong-ban-lanh-dao-co-phieu-gamestop-vua-tang-gap-doi-20210225105833313.chn) ([CafeBiz](https://cafebiz.vn))
