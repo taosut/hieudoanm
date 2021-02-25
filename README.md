@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 22°C.
 - Feels Like 23.14°C.
-- Air Visual is 50.
+- Air Visual is 97.
 
 **WEATHER**
 
