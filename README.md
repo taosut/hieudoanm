@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is overcast clouds.
+- Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 22.35°C.
-- Air Visual is 107.
+- Feels Like 22.25°C.
+- Air Visual is 115.
 
 **WEATHER**
 
@@ -51,17 +51,17 @@
 - [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
+- [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
-- [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
-- [![Giá vang-hom-nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20vang-hom-nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20vang-hom-nay)
+- [![Giá vang hom nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20vang%20hom%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20vang%20hom%20nay)
+- [![Hà Nam](https://img.shields.io/static/v1?label=H%C3%A0%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%A0%20Nam)
 - [![Hướng dương ngược nắng tập 33](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033)
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
-- [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Ronaldo Juventus](https://img.shields.io/static/v1?label=Ronaldo%20Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ronaldo%20Juventus)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Gộp chi trả lương hưu và trợ cấp BHXH tháng 3-4 tại 13 tỉnh, thành phố](https://laodong.vn/xa-hoi/gop-chi-tra-luong-huu-va-tro-cap-bhxh-thang-3-4-tai-13-tinh-thanh-pho-883307.ldo) ([Lao Động](https://laodong.vn))
-- [Điểm sáng thực hiện BHXH: Hành trình vận động, chia sẻ bằng cả trái tim](https://laodong.vn/xa-hoi/diem-sang-thuc-hien-bhxh-hanh-trinh-van-dong-chia-se-bang-ca-trai-tim-883311.ldo) ([Lao Động](https://laodong.vn))
-- [Tiêm vaccine COVID-19- chiến dịch tiêm chủng lớn nhất từ trước đến nay](https://laodong.vn/y-te/tiem-vaccine-covid-19-chien-dich-tiem-chung-lon-nhat-tu-truoc-den-nay-883391.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng và ngoại tệ 25.2: Vàng &quot;dậm chân tại chỗ&quot;, USD tăng mạnh](https://laodong.vn/video/gia-vang-va-ngoai-te-252-vang-dam-chan-tai-cho-usd-tang-manh-883394.ldo) ([Lao Động](https://laodong.vn))
-- [BHXH tỉnh Quảng Nam: Hoàn thành nhiệm vụ dù thiên tai, dịch bệnh](https://laodong.vn/xa-hoi/bhxh-tinh-quang-nam-hoan-thanh-nhiem-vu-du-thien-tai-dich-benh-883312.ldo) ([Lao Động](https://laodong.vn))
-- [Cập nhật: 60/63 tỉnh thành quyết định thời gian đi học trở lại của học sinh, sinh viên](https://cafebiz.vn/cap-nhat-60-63-tinh-thanh-quyet-dinh-thoi-gian-di-hoc-tro-lai-cua-hoc-sinh-sinh-vien-20210225093354956.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tướng chỉ đạo phải có quy trình lưu thông hàng hóa ở vùng dịch](https://tuoitre.vn/thu-tuong-chi-dao-phai-co-quy-trinh-luu-thong-hang-hoa-o-vung-dich-20210225074820106.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Việt Nam có 117.600 liều vắcxin đầu tiên: Ưu tiên trước cho lực lượng tuyến đầu](https://tuoitre.vn/viet-nam-co-117-600-lieu-vacxin-dau-tien-uu-tien-truoc-cho-luc-luong-tuyen-dau-2021022509183323.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Vợ chủ tịch Taobao khoe dự án nghệ thuật rộng 1500m2, phải chăng là đòn phản công trực diện với nhân tình của chồng trong tương lai?](https://cafebiz.vn/vo-chu-tich-taobao-khoe-du-an-nghe-thuat-rong-1500m2-phai-chang-la-don-phan-cong-truc-dien-voi-nhan-tinh-cua-chong-trong-tuong-lai-20210225091006245.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cận cảnh lắp đặt hệ thống cống thu gom nước thải dọc sông Tô Lịch](https://cafebiz.vn/can-canh-lap-dat-he-thong-cong-thu-gom-nuoc-thai-doc-song-to-lich-202102250914489.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hưng Yên: Khối trường học có mức thưởng Tết trung bình 500.000 đồng/người](https://laodong.vn/cd-dien-luc/hung-yen-khoi-truong-hoc-co-muc-thuong-tet-trung-binh-500000-dongnguoi-883419.ldo) ([Lao Động](https://laodong.vn))
+- [Cô gái 2k1 người Mỹ bị mắc chứng trầm cảm, sở hữu tài khoản hơn 56 triệu follow TikTok và gần 10 triệu theo dõi trên Instagram](https://cafebiz.vn/co-gai-2k1-nguoi-my-bi-mac-chung-tram-cam-so-huu-tai-khoan-hon-56-trieu-follow-tiktok-va-gan-10-trieu-theo-doi-tren-instagram-20210225101523276.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sự im lặng của Sơn Tùng và Chủ tịch M-TP](https://cafebiz.vn/su-im-lang-cua-son-tung-va-chu-tich-m-tp-20210225101217055.chn) ([CafeBiz](https://cafebiz.vn))
+- [Từ 1/3, nợ tiền sử dụng đất sẽ phải nộp theo giá mới cao hơn](https://cafebiz.vn/tu-1-3-no-tien-su-dung-dat-se-phai-nop-theo-gia-moi-cao-hon-20210224134449328.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nạo vét đập, đảm bảo đủ nước phòng cháy rừng tại Bán đảo Sơn Trà](https://laodong.vn/moi-truong/nao-vet-dap-dam-bao-du-nuoc-phong-chay-rung-tai-ban-dao-son-tra-883408.ldo) ([Lao Động](https://laodong.vn))
+- [Gỡ 'nút thắt' xây mới chung cư cũ](https://tuoitre.vn/go-nut-that-xay-moi-chung-cu-cu-20210225093402867.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hé lộ công ty "khởi nghiệp" mới của ông Nguyễn Bá Dương: Kế hoạch doanh thu 2.000 tỷ năm 2021, tham vọng trở thành tổng thầu hàng đầu Việt Nam](https://cafebiz.vn/he-lo-cong-ty-khoi-nghiep-moi-cua-ong-nguyen-ba-duong-ke-hoach-doanh-thu-2000-ty-nam-2021-tham-vong-tro-thanh-tong-thau-hang-dau-viet-nam-20210225094539016.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vincom Retail sẽ mở thêm 5 trung tâm thương mại năm 2021](https://cafebiz.vn/vincom-retail-se-mo-them-5-trung-tam-thuong-mai-nam-2021-20210225091202617.chn) ([CafeBiz](https://cafebiz.vn))
+- [''Mổ xẻ'' vaccine COVID-19 của AstraZeneca](https://laodong.vn/the-gioi/mo-xe-vaccine-covid-19-cua-astrazeneca-883403.ldo) ([Lao Động](https://laodong.vn))
+- [Chuỗi cung ứng công nghệ "không Trung Quốc" của Mỹ và đồng minh sẽ như thế nào?](https://cafebiz.vn/chuoi-cung-ung-cong-nghe-khong-trung-quoc-cua-my-va-dong-minh-se-nhu-the-nao-20210225085520829.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
