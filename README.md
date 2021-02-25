@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 22.97°C.
-- Air Visual is 103.
+- Feels Like 23.33°C.
+- Air Visual is 80.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [“Làm việc vì lương cao thay vì đam mê”, ứng viên được thăng chức Giám đốc vùng của Elise chỉ sau 3 tháng lên sóng “Cơ hội cho ai”](https://cafebiz.vn/lam-viec-vi-luong-cao-thay-vi-dam-me-ung-vien-duoc-thang-chuc-giam-doc-vung-cua-elise-chi-sau-3-thang-len-song-co-hoi-cho-ai-20210225170351026.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ra mắt cuốn sách ảnh &quot;Yên Bái - Đất và người&quot;](https://laodong.vn/van-hoa/ra-mat-cuon-sach-anh-yen-bai-dat-va-nguoi-883709.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất Bộ Y tế phê duyệt thêm vaccine phòng Covid-19 của Mỹ và Nga](https://cafebiz.vn/de-xuat-bo-y-te-phe-duyet-them-vaccine-phong-covid-19-cua-my-va-nga-20210225194852326.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đảo Phú Quý có tân bí thư Huyện ủy](https://tuoitre.vn/dao-phu-quy-co-tan-bi-thu-huyen-uy-20210225205837597.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nhiều doanh nghiệp và địa phương nô nức muốn mua vắc xin Covid-19, nhưng liệu có phải cứ có tiền sẽ mua được?](https://cafebiz.vn/nhieu-doanh-nghiep-va-dia-phuong-no-nuc-muon-mua-vac-xin-covid-19-nhung-lieu-co-phai-cu-co-tien-se-mua-duoc-20210225135121803.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nóng nhất hôm nay: Đảng Cộng hòa bất đồng về bài phát biểu của ông Trump](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-dang-cong-hoa-bat-dong-ve-bai-phat-bieu-cua-ong-trump-883658.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt đối tượng gây ra vụ án 8 người thương vong ở quán karaoke tại Hòa Bình](https://laodong.vn/phap-luat/bat-doi-tuong-gay-ra-vu-an-8-nguoi-thuong-vong-o-quan-karaoke-tai-hoa-binh-883706.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam nói về thông tin hải cảnh Trung Quốc áp sát giàn khoan Hải Thạch](https://laodong.vn/the-gioi/viet-nam-noi-ve-thong-tin-hai-canh-trung-quoc-ap-sat-gian-khoan-hai-thach-883705.ldo) ([Lao Động](https://laodong.vn))
-- [Eximbank &quot;lục tục&quot; tổ chức ĐHCĐ sau 5 lần hoãn, nợ xấu vọt lên 2534 tỉ đồng](https://laodong.vn/kinh-te/eximbank-luc-tuc-to-chuc-dhcd-sau-5-lan-hoan-no-xau-vot-len-2534-ti-dong-883675.ldo) ([Lao Động](https://laodong.vn))
-- [Doanh nghiệp vận tải lo không được xét nghiệm Covid-19](https://vnexpress.net/doanh-nghiep-van-tai-lo-khong-duoc-xet-nghiem-covid-19-4240330.html) ([VNExpress](https://vnexpress.net))
+
 
 [Read More](docs/news/README.md)
 

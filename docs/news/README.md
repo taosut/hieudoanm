@@ -1,5 +1,9 @@
 # News
 
+- [Hà Nội, Hải Phòng được mua vaccine Covid-19](https://vnexpress.net/ha-noi-hai-phong-duoc-mua-vaccine-covid-19-4240361.html) ([VNExpress](https://vnexpress.net))
+- [Giáp ngày Rằm tháng Giêng, người buôn hoa vẫn buồn vì ảm đạm](https://laodong.vn/kinh-te/giap-ngay-ram-thang-gieng-nguoi-buon-hoa-van-buon-vi-am-dam-883517.ldo) ([Lao Động](https://laodong.vn))
+- [Tuyển sinh lớp 10: Trường THPT Chuyên ĐH Sư phạm tuyển 305 chỉ tiêu](https://laodong.vn/giao-duc/tuyen-sinh-lop-10-truong-thpt-chuyen-dh-su-pham-tuyen-305-chi-tieu-883707.ldo) ([Lao Động](https://laodong.vn))
+- [Kinh tế 24h: Giá xăng dầu tăng; Gấp rút giải cứu nông sản Hải Dương](https://laodong.vn/kinh-te/kinh-te-24h-gia-xang-dau-tang-gap-rut-giai-cuu-nong-san-hai-duong-883703.ldo) ([Lao Động](https://laodong.vn))
 - [“Làm việc vì lương cao thay vì đam mê”, ứng viên được thăng chức Giám đốc vùng của Elise chỉ sau 3 tháng lên sóng “Cơ hội cho ai”](https://cafebiz.vn/lam-viec-vi-luong-cao-thay-vi-dam-me-ung-vien-duoc-thang-chuc-giam-doc-vung-cua-elise-chi-sau-3-thang-len-song-co-hoi-cho-ai-20210225170351026.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ra mắt cuốn sách ảnh &quot;Yên Bái - Đất và người&quot;](https://laodong.vn/van-hoa/ra-mat-cuon-sach-anh-yen-bai-dat-va-nguoi-883709.ldo) ([Lao Động](https://laodong.vn))
 - [Đề xuất Bộ Y tế phê duyệt thêm vaccine phòng Covid-19 của Mỹ và Nga](https://cafebiz.vn/de-xuat-bo-y-te-phe-duyet-them-vaccine-phong-covid-19-cua-my-va-nga-20210225194852326.chn) ([CafeBiz](https://cafebiz.vn))
@@ -7,7 +11,6 @@
 - [Nhiều doanh nghiệp và địa phương nô nức muốn mua vắc xin Covid-19, nhưng liệu có phải cứ có tiền sẽ mua được?](https://cafebiz.vn/nhieu-doanh-nghiep-va-dia-phuong-no-nuc-muon-mua-vac-xin-covid-19-nhung-lieu-co-phai-cu-co-tien-se-mua-duoc-20210225135121803.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nóng nhất hôm nay: Đảng Cộng hòa bất đồng về bài phát biểu của ông Trump](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-dang-cong-hoa-bat-dong-ve-bai-phat-bieu-cua-ong-trump-883658.ldo) ([Lao Động](https://laodong.vn))
 - [Bắt đối tượng gây ra vụ án 8 người thương vong ở quán karaoke tại Hòa Bình](https://laodong.vn/phap-luat/bat-doi-tuong-gay-ra-vu-an-8-nguoi-thuong-vong-o-quan-karaoke-tai-hoa-binh-883706.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam nói về thông tin hải cảnh Trung Quốc áp sát giàn khoan Hải Thạch](https://laodong.vn/the-gioi/viet-nam-noi-ve-thong-tin-hai-canh-trung-quoc-ap-sat-gian-khoan-hai-thach-883705.ldo) ([Lao Động](https://laodong.vn))
 - [Eximbank &quot;lục tục&quot; tổ chức ĐHCĐ sau 5 lần hoãn, nợ xấu vọt lên 2534 tỉ đồng](https://laodong.vn/kinh-te/eximbank-luc-tuc-to-chuc-dhcd-sau-5-lan-hoan-no-xau-vot-len-2534-ti-dong-883675.ldo) ([Lao Động](https://laodong.vn))
 - [Doanh nghiệp vận tải lo không được xét nghiệm Covid-19](https://vnexpress.net/doanh-nghiep-van-tai-lo-khong-duoc-xet-nghiem-covid-19-4240330.html) ([VNExpress](https://vnexpress.net))
 - [Từng được Tôn Sách đích thân trao quyền, vì sao Tôn Quyền đến lúc chết vẫn không truy phong anh ruột làm Hoàng đế?](https://cafebiz.vn/tung-duoc-ton-sach-dich-than-trao-quyen-vi-sao-ton-quyen-den-luc-chet-van-khong-truy-phong-anh-ruot-lam-hoang-de-202102251953256.chn) ([CafeBiz](https://cafebiz.vn))
@@ -35,7 +38,7 @@
 - [Chiều 25/2, thêm 8 ca mắc COVID-19, trong đó Hải Dương có 7 ca](https://cafebiz.vn/chieu-25-2-them-8-ca-mac-covid-19-trong-do-hai-duong-co-7-ca-20210225194648661.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nóng nhất 24h: Miền Bắc chuẩn bị đón đợt không khí lạnh, mưa rét](https://laodong.vn/video/nong-nhat-24h-mien-bac-chuan-bi-don-dot-khong-khi-lanh-mua-ret-883608.ldo) ([Lao Động](https://laodong.vn))
 - [Giáo dục 24/7: Danh sách các tỉnh/thành cho học sinh đi học từ tháng 3](https://laodong.vn/video/giao-duc-247-danh-sach-cac-tinhthanh-cho-hoc-sinh-di-hoc-tu-thang-3-883567.ldo) ([Lao Động](https://laodong.vn))
-- [Khai trương dự án căn cước công dân gắn chip](https://vnexpress.net/khai-truong-du-an-can-cuoc-cong-dan-gan-chip-4239980.html) ([VNExpress](https://vnexpress.net))
+- [Khai trương hệ thống cơ sở dữ liệu quốc gia về dân cư](https://vnexpress.net/khai-truong-he-thong-co-so-du-lieu-quoc-gia-ve-dan-cu-4239980.html) ([VNExpress](https://vnexpress.net))
 - [Tiếp tục đề nghị cho phép thêm 2 vắc xin phòng COVID-19](https://tuoitre.vn/tiep-tuc-de-nghi-cho-phep-them-2-vac-xin-phong-covid-19-20210225192446446.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - ['Có vắc xin nhập khẩu, vắc xin sản xuất trong nước vẫn là ưu tiên số 1'](https://tuoitre.vn/co-vac-xin-nhap-khau-vac-xin-san-xuat-trong-nuoc-van-la-uu-tien-so-1-20210225182548199.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [TGĐ Phan Thành công khai toàn bộ lễ ăn hỏi bí mật: Dàn siêu xe trăm tỷ làm nên đẳng cấp, sính lễ xịn xò "chuẩn" hào môn!](https://cafebiz.vn/tgd-phan-thanh-cong-khai-toan-bo-le-an-hoi-bi-mat-dan-sieu-xe-tram-ty-lam-nen-dang-cap-sinh-le-xin-xo-chuan-hao-mon-20210225181522806.chn) ([CafeBiz](https://cafebiz.vn))
@@ -97,6 +100,3 @@
 - ['Khẩu vị' lạ của nhà đầu tư Trung Quốc: Thờ ơ với Facebook, Apple, Amazon, chỉ thích rót tiền vào cổ phiếu các công ty bán... thịt lợn](https://cafebiz.vn/khau-vi-la-cua-nha-dau-tu-trung-quoc-tho-o-voi-facebook-apple-amazon-chi-thich-rot-tien-vao-co-phieu-cac-cong-ty-ban-thit-lon-20210225151300908.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bạn đọc Tuổi Trẻ đóng góp mua vắc xin, mong mỗi người cùng góp sức](https://tuoitre.vn/ban-doc-tuoi-tre-dong-gop-mua-vacxin-mong-moi-nguoi-cung-gop-suc-20210225144342577.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Israel đã tìm ra cách chấm dứt đại dịch Covid-19](https://cafebiz.vn/israel-da-tim-ra-cach-cham-dut-dai-dich-covid-19-20210225151645904.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tỷ phú công nghệ Thụy Điển: Nên phạt tiền, bỏ tù những người kích động, lôi kéo mua Bitcoin](https://cafebiz.vn/ty-phu-cong-nghe-my-nen-phat-tien-bo-tu-nhung-nguoi-kich-dong-loi-keo-mua-bitcoin-20210225150556149.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bạn có đang làm công việc vô nghĩa?](https://cafebiz.vn/ban-co-dang-lam-cong-viec-vo-nghia-20210225150041335.chn) ([CafeBiz](https://cafebiz.vn))
-- [Huawei muốn sản xuất sản phẩm ‘hạng nhất’ từ linh kiện ‘hạng ba’](https://cafebiz.vn/huawei-muon-san-xuat-san-pham-hang-nhat-tu-linh-kien-hang-ba-20210225135814791.chn) ([CafeBiz](https://cafebiz.vn))
