@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 23.93°C.
-- Air Visual is 91.
+- Feels Like 23.57°C.
+- Air Visual is 109.
 
 **WEATHER**
 
@@ -55,18 +55,18 @@
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
-- [![G-D](https://img.shields.io/static/v1?label=G-D&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G-D)
-- [![Giá vang hom nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20vang%20hom%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20vang%20hom%20nay)
-- [![Hà Nam](https://img.shields.io/static/v1?label=H%C3%A0%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%A0%20Nam)
+- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Hướng dương ngược nắng tập 33](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033)
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
 - [![Lion Group](https://img.shields.io/static/v1?label=Lion%20Group&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lion%20Group)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
+- [![Shola Shoretire](https://img.shields.io/static/v1?label=Shola%20Shoretire&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Shola%20Shoretire)
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
-- [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
+- [![Trương Thế Vinh](https://img.shields.io/static/v1?label=Tr%C6%B0%C6%A1ng%20Th%E1%BA%BF%20Vinh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0%C6%A1ng%20Th%E1%BA%BF%20Vinh)
+- [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
 - [![Đại học Thương mại](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Th%C6%B0%C6%A1ng%20m%E1%BA%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Th%C6%B0%C6%A1ng%20m%E1%BA%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Từng là &quot;huynh đệ&quot;, Tiêu Chiến và Vương Nhất Bác giờ lại đối đầu nhau?](https://laodong.vn/giai-tri/tung-la-huynh-de-tieu-chien-va-vuong-nhat-bac-gio-lai-doi-dau-nhau-883643.ldo) ([Lao Động](https://laodong.vn))
+- [Sở Y tế Hải Phòng đề nghị tạm dừng xét nghiệm SARS-CoV-2 dịch vụ](https://laodong.vn/xa-hoi/so-y-te-hai-phong-de-nghi-tam-dung-xet-nghiem-sars-cov-2-dich-vu-883622.ldo) ([Lao Động](https://laodong.vn))
+- [Cả tin đưa mã OTP ngân hàng cho phụ huynh “dỏm”, nữ gia sư bị rút sạch tiền trong ngân hàng](https://cafebiz.vn/ca-tin-dua-ma-otp-ngan-hang-cho-phu-huynh-dom-nu-gia-su-bi-rut-sach-tien-trong-ngan-hang-20210225181319051.chn) ([CafeBiz](https://cafebiz.vn))
+- [HLV Park Hang-seo chỉ ra điểm tương đồng bóng đá Việt Nam và Hàn Quốc](https://laodong.vn/bong-da/hlv-park-hang-seo-chi-ra-diem-tuong-dong-bong-da-viet-nam-va-han-quoc-883521.ldo) ([Lao Động](https://laodong.vn))
+- [5 loại dung dịch quan trọng được sử dụng cho xe ôtô](https://laodong.vn/xe/5-loai-dung-dich-quan-trong-duoc-su-dung-cho-xe-oto-883641.ldo) ([Lao Động](https://laodong.vn))
+- [Ninh Bình: Xử lý quán karaoke mở cửa cho khách bất chấp lệnh cấm](https://laodong.vn/phap-luat/ninh-binh-xu-ly-quan-karaoke-mo-cua-cho-khach-bat-chap-lenh-cam-883626.ldo) ([Lao Động](https://laodong.vn))
+- [Từ chiều và tối mai, gió mùa Đông Bắc tràn về, Hà Nội chuyển rét, nhiệt độ thấp nhất 16 độ C](https://cafebiz.vn/tu-chieu-va-toi-mai-gio-mua-dong-bac-tran-ve-ha-noi-chuyen-ret-nhiet-do-thap-nhat-16-do-c-20210225181056227.chn) ([CafeBiz](https://cafebiz.vn))
+- [Các nhà sản xuất vaccine thích ứng với biến thể COVID-19 thế nào?](https://laodong.vn/the-gioi/cac-nha-san-xuat-vaccine-thich-ung-voi-bien-the-covid-19-the-nao-883602.ldo) ([Lao Động](https://laodong.vn))
 - [Ảnh: Nông dân Mê Linh nuốt nước mắt, nhổ bỏ hàng trăm tấn củ cải vì không tiêu thụ được](https://cafebiz.vn/anh-nong-dan-me-linh-nuot-nuoc-mat-nho-bo-hang-tram-tan-cu-cai-vi-khong-tieu-thu-duoc-20210225180756182.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lô vắc-xin COVID-19 đầu tiên đã tới Thái Lan](https://laodong.vn/kinh-te/lo-vac-xin-covid-19-dau-tien-da-toi-thai-lan-883616.ldo) ([Lao Động](https://laodong.vn))
 - [Tổng LĐLĐVN: Tổng kết 3 chiến dịch truyền thông dịp Tết Tân Sửu 2021](https://laodong.vn/cong-doan/tong-ldldvn-tong-ket-3-chien-dich-truyen-thong-dip-tet-tan-suu-2021-883496.ldo) ([Lao Động](https://laodong.vn))
-- [Thêm 8 ca COVID-19 mới, 7 người tại Hải Dương](https://tuoitre.vn/them-8-ca-covid-19-moi-7-nguoi-tai-hai-duong-20210225183114989.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [TPHCM: Nhiều lĩnh vực hoạt động lại từ 1.3](https://laodong.vn/xa-hoi/tphcm-nhieu-linh-vuc-hoat-dong-lai-tu-13-883642.ldo) ([Lao Động](https://laodong.vn))
-- [Cập nhật về tình hình doanh nghiệp Việt Nam tại Myanmar](https://laodong.vn/the-gioi/cap-nhat-ve-tinh-hinh-doanh-nghiep-viet-nam-tai-myanmar-883633.ldo) ([Lao Động](https://laodong.vn))
-- [Ba cô gái tình nguyện nhập ngũ](https://vnexpress.net/ba-co-gai-tinh-nguyen-nhap-ngu-4240212.html) ([VNExpress](https://vnexpress.net))
-- [Công đoàn thăm, khen thưởng đoàn viên tuyến đầu chống dịch COVID-19](https://laodong.vn/ldld-khanh-hoa/cong-doan-tham-khen-thuong-doan-vien-tuyen-dau-chong-dich-covid-19-883571.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao lô vaccine đầu tiên về Việt Nam bằng máy bay của Hàn Quốc?](https://laodong.vn/the-gioi/vi-sao-lo-vaccine-dau-tien-ve-viet-nam-bang-may-bay-cua-han-quoc-883612.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam, Anh xác minh vụ cảnh báo người nước ngoài bị quấy rối ở Hà Nội](https://tuoitre.vn/viet-nam-anh-xac-minh-vu-canh-bao-nguoi-nuoc-ngoai-bi-quay-roi-o-ha-noi-2021022518074808.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -117,8 +117,8 @@
 02. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 03. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 04. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
-05. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-06. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
+05. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
+06. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 07. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
 08. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 09. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
