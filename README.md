@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 22.7°C.
-- Air Visual is 115.
+- Feels Like 23.06°C.
+- Air Visual is 63.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Một ca bệnh COVID-19 nhập cảnh tại Tây Ninh, Việt Nam thử nghiệm giai đoạn 2 vắc xin](https://tuoitre.vn/mot-ca-benh-covid-19-nhap-canh-tai-tay-ninh-viet-nam-thu-nghiem-giai-doan-2-vac-xin-20210226062046949.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [3 Hoa hậu Việt Nam sinh năm 1976: Tình duyên lận đận, mạnh mẽ sau &quot;biến cố&quot;](https://laodong.vn/van-hoa-giai-tri/3-hoa-hau-viet-nam-sinh-nam-1976-tinh-duyen-lan-dan-manh-me-sau-bien-co-883721.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao fan lại tranh luận về 2 thành viên Rosé và Jisoo nhóm Blackpink?](https://laodong.vn/van-hoa-giai-tri/vi-sao-fan-lai-tranh-luan-ve-2-thanh-vien-rose-va-jisoo-nhom-blackpink-883719.ldo) ([Lao Động](https://laodong.vn))
+- [Dự báo thời tiết 26.2: Bắc Bộ ngày nắng trước khi đón không khí lạnh](https://laodong.vn/moi-truong/du-bao-thoi-tiet-262-bac-bo-ngay-nang-truoc-khi-don-khong-khi-lanh-883615.ldo) ([Lao Động](https://laodong.vn))
+- [Gõ cửa từng phòng trọ tặng gạo, trứng... cho 4.500 công nhân bị cách ly vì Covid-19](http://vietnamnet.vn/vn/thoi-su/tin-anh/go-cua-tung-phong-tro-tang-gao-trung-cho-4-500-cong-nhan-bi-cach-ly-vi-covid-19-715540.html) ([VietNamNet](https://vietnamnet.vn))
 - [Tuổi cán bộ, công chức, viên chức được ứng cử Đại biểu Quốc hội](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/tuoi-can-bo-cong-chuc-vien-chuc-duoc-ung-cu-dai-bieu-quoc-hoi-715550.html) ([VietNamNet](https://vietnamnet.vn))
 - [Dự báo thời tiết 26/2: Đón không khí lạnh, Bắc Bộ mưa toàn vùng](http://vietnamnet.vn/vn/thoi-su/du-bao-thoi-tiet-26-2-don-khong-khi-lanh-bac-bo-mua-toan-vung-715546.html) ([VietNamNet](https://vietnamnet.vn))
 - [Ba xã cuối cùng ở Quảng Ninh được dỡ phong tỏa](https://vnexpress.net/ba-xa-cuoi-cung-o-quang-ninh-duoc-do-phong-toa-4240383.html) ([VNExpress](https://vnexpress.net))
 - [Ô tô đâm loạt xe đạp điện trên cầu, học sinh ở Quảng Trị rơi xuống sông tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/o-to-dam-loat-xe-dap-dien-tren-cau-hoc-sinh-o-quang-tri-roi-xuong-song-tu-vong-715573.html) ([VietNamNet](https://vietnamnet.vn))
 - [Covid-19 ngày 26/2](https://vnexpress.net/covid-19-ngay-26-2-4240385.html) ([VNExpress](https://vnexpress.net))
-- [VnExpress tròn 20 tuổi](https://vnexpress.net/vnexpress-tron-20-tuoi-4237882.html) ([VNExpress](https://vnexpress.net))
-- [Nhiều người dùng báo máy Mac chạy chip M1 đang "mòn" SSD quá nhanh](https://tinhte.vn/thread/nhieu-nguoi-dung-bao-may-mac-chay-chip-m1-dang-mon-ssd-qua-nhanh.3282275/) ([Tinh Tế](https://tinhte.vn))
-- [Chùa Phúc Khánh tổ chức cầu an trực tuyến](https://vnexpress.net/chua-phuc-khanh-to-chuc-cau-an-truc-tuyen-4240377.html) ([VNExpress](https://vnexpress.net))
-- [Review cục sạc AUKEY PA-Y11 sau 2 năm: vẫn xài tốt, ổn định](https://tinhte.vn/thread/review-cuc-sac-aukey-pa-y11-sau-2-nam-van-xai-tot-on-dinh.3281515/) ([Tinh Tế](https://tinhte.vn))
-- [Viện KSND tối cao xác minh vụ giết người thân cướp tiền để 'chạy án'](https://thanhnien.vn/thoi-su/vien-ksnd-toi-cao-xac-minh-vu-giet-nguoi-than-cuop-tien-de-chay-an-1346506.html) ([Thanh Niên](https://thanhnien.vn))
 
 [Read More](docs/news/README.md)
 
