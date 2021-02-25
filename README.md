@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 24.89°C.
-- Air Visual is 144.
+- Feels Like 24.18°C.
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -52,21 +52,21 @@
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
+- [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá vang hom nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20vang%20hom%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20vang%20hom%20nay)
-- [![Huong duong nguoc nang tap 33](https://img.shields.io/static/v1?label=Huong%20duong%20nguoc%20nang%20tap%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Huong%20duong%20nguoc%20nang%20tap%2033)
+- [![Hà Nam](https://img.shields.io/static/v1?label=H%C3%A0%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%A0%20Nam)
 - [![Hướng dương ngược nắng tập 33](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033)
 - [![Jamal Musiala](https://img.shields.io/static/v1?label=Jamal%20Musiala&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jamal%20Musiala)
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
 - [![Lion Group](https://img.shields.io/static/v1?label=Lion%20Group&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lion%20Group)
-- [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
-- [![Ronaldo Juventus](https://img.shields.io/static/v1?label=Ronaldo%20Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ronaldo%20Juventus)
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
+- [![Trương Thế Vinh](https://img.shields.io/static/v1?label=Tr%C6%B0%C6%A1ng%20Th%E1%BA%BF%20Vinh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0%C6%A1ng%20Th%E1%BA%BF%20Vinh)
+- [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Đường lên đỉnh Olympia](https://img.shields.io/static/v1?label=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Giá vàng thế giới bị thổi bay 15 USD sau ít giờ giao dịch](https://laodong.vn/kinh-te/gia-vang-the-gioi-bi-thoi-bay-15-usd-sau-it-gio-giao-dich-883553.ldo) ([Lao Động](https://laodong.vn))
-- [Cận cảnh vườn rau tự trồng của học sinh Trường THPT Chuyên Long An](https://laodong.vn/giao-duc/can-canh-vuon-rau-tu-trong-cua-hoc-sinh-truong-thpt-chuyen-long-an-883550.ldo) ([Lao Động](https://laodong.vn))
-- [Người dân ở Quảng Trị được hỗ trợ xây dựng nhà phòng chống thiên tai](https://laodong.vn/xa-hoi/nguoi-dan-o-quang-tri-duoc-ho-tro-xay-dung-nha-phong-chong-thien-tai-883545.ldo) ([Lao Động](https://laodong.vn))
-- [Không khí lạnh sắp tràn về miền Bắc gây mưa rét](https://laodong.vn/moi-truong/khong-khi-lanh-sap-tran-ve-mien-bac-gay-mua-ret-883560.ldo) ([Lao Động](https://laodong.vn))
-- [Bình Định chiêu mộ cựu binh Đinh Hoàng Max](https://laodong.vn/bong-da/binh-dinh-chieu-mo-cuu-binh-dinh-hoang-max-883527.ldo) ([Lao Động](https://laodong.vn))
-- [Một quán cafe có tiếng ở Hà Nội tố bị "anh em sinh đôi" ở Thanh Hoá đạo từ tên quán, thiết kế cánh cửa đến nội dung trên fanpage](https://cafebiz.vn/mot-quan-cafe-co-tieng-o-ha-noi-to-bi-anh-em-sinh-doi-o-thanh-hoa-dao-tu-ten-quan-thiet-ke-canh-cua-den-noi-dung-tren-fanpage-20210225154408202.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắc Giang muốn có sân bay dân sự](https://vnexpress.net/bac-giang-muon-co-san-bay-dan-su-4240195.html) ([VNExpress](https://vnexpress.net))
-- [Nữ blogger 27 tuổi trở thành Tổng biên tập trẻ nhất trong lịch sử Vogue](https://cafebiz.vn/nu-blogger-27-tuoi-tro-thanh-tong-bien-tap-tre-nhat-trong-lich-su-vogue-20210225160026665.chn) ([CafeBiz](https://cafebiz.vn))
-- [&quot;Không đặt hàng, không bắt động vật chính là phóng sinh&quot;](https://laodong.vn/video/khong-dat-hang-khong-bat-dong-vat-chinh-la-phong-sinh-883149.ldo) ([Lao Động](https://laodong.vn))
-- [Khai trương hệ thống cơ sở dữ liệu quốc gia về dân cư và hệ thống quản lý căn cước công dân](https://tuoitre.vn/khai-truong-he-thong-co-so-du-lieu-quoc-gia-ve-dan-cu-va-he-thong-quan-ly-can-cuoc-cong-dan-20210225155259145.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thai Airways thua lỗ chưa từng có](https://cafebiz.vn/thai-airways-thua-lo-chua-tung-co-20210225173700983.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thanh niên hành động vì khí hậu, vì một tương lai xanh và sạch hơn](https://laodong.vn/xa-hoi/thanh-nien-hanh-dong-vi-khi-hau-vi-mot-tuong-lai-xanh-va-sach-hon-883592.ldo) ([Lao Động](https://laodong.vn))
+- [LĐLĐ Nghệ An: Phấn đấu thành lập mới 30 công đoàn cơ sở](https://laodong.vn/cong-doan/ldld-nghe-an-phan-dau-thanh-lap-moi-30-cong-doan-co-so-883614.ldo) ([Lao Động](https://laodong.vn))
+- [LĐLĐ huyện Hoằng Hoá: Ấm áp từ những &quot;Mái ấm công đoàn&quot;](https://laodong.vn/cong-doan/ldld-huyen-hoang-hoa-am-ap-tu-nhung-mai-am-cong-doan-883609.ldo) ([Lao Động](https://laodong.vn))
+- [DOMAC – Thương hiệu thời trang thiết kế nổi bật được nhiều người ưa chuộng](https://cafebiz.vn/domac-thuong-hieu-thoi-trang-thiet-ke-noi-bat-duoc-nhieu-nguoi-ua-chuong-20210225165317698.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Dương thông báo khẩn tìm người đến nhiều cửa hàng, phòng khám](https://laodong.vn/xa-hoi/hai-duong-thong-bao-khan-tim-nguoi-den-nhieu-cua-hang-phong-kham-883598.ldo) ([Lao Động](https://laodong.vn))
+- [Xe khách chở công nhân ‘thông chốt’ kiểm tra y tế ở Đà Nẵng](https://tuoitre.vn/xe-khach-cho-cong-nhan-thong-chot-kiem-tra-y-te-o-da-nang-20210225165301083.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Lãnh đạo TP.HCM thăm, chúc mừng thầy thuốc, cán bộ y tế tiêu biểu](https://tuoitre.vn/lanh-dao-tphcm-tham-chuc-mung-thay-thuoc-can-bo-y-te-tieu-bieu-20210225171007767.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hải Phòng: Lượng máu dự trữ chỉ đủ dùng một ngày do dịch COVID-19](https://laodong.vn/y-te/hai-phong-luong-mau-du-tru-chi-du-dung-mot-ngay-do-dich-covid-19-883588.ldo) ([Lao Động](https://laodong.vn))
+- [Máy bay móp cánh vì đụng xe thang tại Tân Sơn Nhất](https://tuoitre.vn/may-bay-mop-canh-vi-dung-xe-thang-tai-tan-son-nhat-20210225163626812.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,7 +96,16 @@
 
 **VIETCETERA**
 
-
+- [Bóc Term: Dogecoin là gì mà Elon Musk quan tâm thế?](https://vietcetera.com/vn/boc-term-dogecoin-la-gi-ma-elon-musk-quan-tam-the)
+- [Du học châu Phi có gì lạ?](https://vietcetera.com/vn/du-hoc-chau-phi-co-gi-la)
+- [Tạ Quốc Kỳ Nam: Được gì sau khi bỏ... sáu múi?](https://vietcetera.com/vn/ta-quoc-ky-nam)
+- [Ủa lương ơi, lương đã đi đâu?](https://vietcetera.com/vn/ua-luong-oi-luong-da-di-dau)
+- [2 Robot Daft Punk và 28 năm kiến tạo nền âm nhạc](https://vietcetera.com/vn/2-robot-daft-punk-va-28-nam-kien-tao-nen-am-nhac)
+- ["Crush của chị đứng giữa lớp hô, 'Ai chơi vật tay với tao không?'"](https://vietcetera.com/vn/crush-cua-chi-dung-giua-lop-ho-ai-choi-vat-tay-voi-tao-khong)
+- [Không Quan Tâm: G-Dragon và Jennie hẹn hò](https://vietcetera.com/vn/khongquantam-jennie-va-g-dragon-hen-ho)
+- [Phá thai, cấm hay không?](https://vietcetera.com/vn/pha-thai-cam-hay-khong)
+- [Tóm Lại Là: Coca Cola và câu chuyện về “da trắng thượng đẳng”](https://vietcetera.com/vn/tom-lai-la-coca-cola-va-cau-chuyen-ve-da-trang-thuong-dang)
+- [Vì sao chúng ta không thể ngừng chạm tay lên mặt?](https://vietcetera.com/vn/vi-sao-chung-ta-khong-the-ngung-cham-tay-len-mat)
 
 [Read More](https://vietcetera.com/)
 
