@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 24.28°C.
-- Air Visual is 99.
+- Feels Like 23.57°C.
+- Air Visual is 80.
 
 **WEATHER**
 
@@ -48,15 +48,14 @@
 
 **GOOGLE TRENDS**
 
-- [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
+- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
 - [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
-- [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
 - [![Giá vang hom nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20vang%20hom%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20vang%20hom%20nay)
+- [![Hà Nam](https://img.shields.io/static/v1?label=H%C3%A0%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%A0%20Nam)
 - [![Hướng dương ngược nắng tập 33](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033)
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
@@ -65,6 +64,7 @@
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Ronaldo Juventus](https://img.shields.io/static/v1?label=Ronaldo%20Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ronaldo%20Juventus)
+- [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Đường lên đỉnh Olympia](https://img.shields.io/static/v1?label=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bốn hầm chui chống ùn tắc ở Đồng Nai](https://vnexpress.net/bon-ham-chui-chong-un-tac-o-dong-nai-4239018.html) ([VNExpress](https://vnexpress.net))
-- [Shopee bị phía Mỹ cáo buộc bán hàng giả với “mức độ rất cao”, không điều tra bên bán hàng và vi phạm bản quyền toàn cầu](https://cafebiz.vn/shopee-bi-phia-my-cao-buoc-ban-hang-gia-voi-muc-do-rat-cao-khong-dieu-tra-ben-ban-hang-va-vi-pham-ban-quyen-toan-cau-20210225111428149.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nam diễn viên xấu nhất phim Châu Tinh Trì: Đóng phim vì đam mê, giàu có, nhiều nhà nhiều xe nhưng đường tình duyên lận đận](https://cafebiz.vn/nam-dien-vien-xau-nhat-phim-chau-tinh-tri-dong-phim-vi-dam-me-giau-co-nhieu-nha-nhieu-xe-nhung-duong-tinh-duyen-lan-dan-20210225111431051.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đại diện thương mại Mỹ tố phimmoi, phimmoizz đăng tải trái phép hàng nghìn bộ phim và chương trình truyền hình](https://cafebiz.vn/dai-dien-thuong-mai-my-to-phimmoi-phimmoizz-dang-tai-trai-phep-hang-nghin-bo-phim-va-chuong-trinh-truyen-hinh-20210225110522001.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chọn người có kinh nghiệm, tín nhiệm tham gia tổ chức phụ trách bầu cử](https://laodong.vn/thoi-su/chon-nguoi-co-kinh-nghiem-tin-nhiem-tham-gia-to-chuc-phu-trach-bau-cu-883423.ldo) ([Lao Động](https://laodong.vn))
-- [Học theo Bill Gates, tôi sử dụng Quy tắc của Warren Buffett để đạt được các mục tiêu của mình nhanh hơn 10 lần](https://cafebiz.vn/hoc-theo-bill-gates-toi-su-dung-quy-tac-cua-warren-buffett-de-dat-duoc-cac-muc-tieu-cua-minh-nhanh-hon-10-lan-20210205140414855.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tuyển sinh 2021: Trường Đại học Thương mại tăng chỉ tiêu tuyển sinh](https://laodong.vn/giao-duc/tuyen-sinh-2021-truong-dai-hoc-thuong-mai-tang-chi-tieu-tuyen-sinh-883421.ldo) ([Lao Động](https://laodong.vn))
-- [Bi Rain làm “ông bầu”, ra mắt nhóm nhạc Ciipher](https://laodong.vn/giai-tri/bi-rain-lam-ong-bau-ra-mat-nhom-nhac-ciipher-883424.ldo) ([Lao Động](https://laodong.vn))
-- [Giáo sư Harvard: "Có thể người ngoài hành tinh chưa ghé thăm Trái Đất vì không thấy con người thú vị, hấp dẫn"](https://cafebiz.vn/giao-su-harvard-co-the-nguoi-ngoai-hanh-tinh-chua-ghe-tham-trai-dat-vi-khong-thay-con-nguoi-thu-vi-hap-dan-20210225091323543.chn) ([CafeBiz](https://cafebiz.vn))
-- [Biến nội thất căn phòng trở nên xanh mát với phong cách Địa Trung Hải](https://laodong.vn/bat-dong-san/bien-noi-that-can-phong-tro-nen-xanh-mat-voi-phong-cach-dia-trung-hai-882553.ldo) ([Lao Động](https://laodong.vn))
+- [Tỉ lệ ủng hộ ông Biden về gói &quot;giải cứu nước Mỹ&quot; trị giá 1,9 nghìn tỉ USD](https://laodong.vn/the-gioi/ti-le-ung-ho-ong-biden-ve-goi-giai-cuu-nuoc-my-tri-gia-19-nghin-ti-usd-883420.ldo) ([Lao Động](https://laodong.vn))
+- [Những mốc thời gian về bầu cử đại biểu Quốc hội khoá XV và HĐND các cấp](https://laodong.vn/thoi-su/nhung-moc-thoi-gian-ve-bau-cu-dai-bieu-quoc-hoi-khoa-xv-va-hdnd-cac-cap-883444.ldo) ([Lao Động](https://laodong.vn))
+- [Tỷ giá ngoại tệ 25.2: Sau cú rơi sốc chạm đáy 3 năm, giá USD nhích nhẹ](https://laodong.vn/kinh-te/ty-gia-ngoai-te-252-sau-cu-roi-soc-cham-day-3-nam-gia-usd-nhich-nhe-883410.ldo) ([Lao Động](https://laodong.vn))
+- [Thay thế nhân vật cấp cao trong ban lãnh đạo, cổ phiếu GameStop vừa tăng gấp đôi](https://cafebiz.vn/thay-the-nhan-vat-cap-cao-trong-ban-lanh-dao-co-phieu-gamestop-vua-tang-gap-doi-20210225105833313.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tiện ích khi lắp camera giám sát trên toàn quốc](https://vnexpress.net/tien-ich-khi-lap-camera-giam-sat-tren-toan-quoc-4239996.html) ([VNExpress](https://vnexpress.net))
+- [Lịch trở lại trường: Nhiều địa phương cho  của học sinh đi học từ 1.3](https://laodong.vn/giao-duc/lich-tro-lai-truong-nhieu-dia-phuong-cho-cua-hoc-sinh-di-hoc-tu-13-883433.ldo) ([Lao Động](https://laodong.vn))
+- [Kiên Giang: Bàn giao Mái ấm Công đoàn đầu tiên năm Tân Sửu](https://laodong.vn/cong-doan/kien-giang-ban-giao-mai-am-cong-doan-dau-tien-nam-tan-suu-883457.ldo) ([Lao Động](https://laodong.vn))
+- [Huyền thoại Nguyễn Hồng Sơn nhận là "tỷ phú" với gia tài có 1-0-2 của bóng đá Việt](https://cafebiz.vn/huyen-thoai-nguyen-hong-son-nhan-la-ty-phu-voi-gia-tai-co-1-0-2-cua-bong-da-viet-20210225113530216.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cùng với Shopee và phimmoi, 2 chợ lớn của Việt Nam là Đồng Xuân và Bến Thành cũng bị Mỹ cáo buộc bán hàng giả quy mô lớn](https://cafebiz.vn/cung-voi-shopee-va-phimmoi-2-cho-lon-cua-viet-nam-la-dong-xuan-va-ben-thanh-cung-bi-my-cao-buoc-ban-hang-gia-quy-mo-lon-20210225111322119.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bốn hầm chui chống kẹt xe ở Đồng Nai](https://vnexpress.net/bon-ham-chui-chong-ket-xe-o-dong-nai-4239018.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
