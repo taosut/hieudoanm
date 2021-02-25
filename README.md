@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 24.95°C.
-- Air Visual is 93.
+- Air Visual is 99.
 
 **WEATHER**
 
@@ -53,13 +53,12 @@
 - [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
 - [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
-- [![Giá vang hom nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20vang%20hom%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20vang%20hom%20nay)
-- [![Hà Nam](https://img.shields.io/static/v1?label=H%C3%A0%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%A0%20Nam)
+- [![Giá vang-hom-nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20vang-hom-nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20vang-hom-nay)
 - [![Hướng dương ngược nắng tập 33](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033)
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
-- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Lion Group](https://img.shields.io/static/v1?label=Lion%20Group&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lion%20Group)
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
@@ -67,6 +66,7 @@
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
+- [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
 - [![Đường lên đỉnh Olympia](https://img.shields.io/static/v1?label=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nhiều công nhân lao động mừng rỡ khi học sinh đi học lại từ ngày 1.3](https://laodong.vn/cong-doan/nhieu-cong-nhan-lao-dong-mung-ro-khi-hoc-sinh-di-hoc-lai-tu-ngay-13-883467.ldo) ([Lao Động](https://laodong.vn))
-- [Đồng Nai, Bà Rịa – Vũng Tàu cho học sinh đi học lại từ đầu tháng 3](https://laodong.vn/xa-hoi/dong-nai-ba-ria--vung-tau-cho-hoc-sinh-di-hoc-lai-tu-dau-thang-3-883468.ldo) ([Lao Động](https://laodong.vn))
-- [Bất ngờ với 5 tác dụng chữa bệnh tuyệt vời của dứa](https://laodong.vn/suc-khoe/bat-ngo-voi-5-tac-dung-chua-benh-tuyet-voi-cua-dua-883360.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ đội biên phòng Bà Rịa – Vũng Tàu liên tiếp bắt 2 vụ tàng trữ ma tuý đá](https://laodong.vn/phap-luat/bo-doi-bien-phong-ba-ria--vung-tau-lien-tiep-bat-2-vu-tang-tru-ma-tuy-da-883461.ldo) ([Lao Động](https://laodong.vn))
-- [Giải đáp khúc mắc về sử dụng vaccine AstraZeneca cho người trên 65 tuổi](https://laodong.vn/the-gioi/giai-dap-khuc-mac-ve-su-dung-vaccine-astrazeneca-cho-nguoi-tren-65-tuoi-883451.ldo) ([Lao Động](https://laodong.vn))
-- [Chanh, bưởi Việt Nam sắp bay lên kệ các siêu thị New Zealand](https://cafebiz.vn/chanh-buoi-viet-nam-sap-bay-len-ke-cac-sieu-thi-new-zealand-20210225101655809.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hạn mặn miền Tây tăng dần, khá gay gắt trong cuối tháng 2](https://tuoitre.vn/han-man-mien-tay-tang-dan-kha-gay-gat-trong-cuoi-thang-2-20210225111815479.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thay thế nhân vật cấp cao trong ban lãnh đạo, cổ phiếu GameStop vừa tăng gấp đôi](https://cafebiz.vn/thay-the-nhan-vat-cap-cao-trong-ban-lanh-dao-co-phieu-gamestop-vua-tang-gap-doi-20210225105833313.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tiện ích khi lắp camera giám sát trên toàn quốc](https://vnexpress.net/tien-ich-khi-lap-camera-giam-sat-tren-toan-quoc-4239996.html) ([VNExpress](https://vnexpress.net))
-- [Huyền thoại Nguyễn Hồng Sơn nhận là "tỷ phú" với gia tài có 1-0-2 của bóng đá Việt](https://cafebiz.vn/huyen-thoai-nguyen-hong-son-nhan-la-ty-phu-voi-gia-tai-co-1-0-2-cua-bong-da-viet-20210225113530216.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đang nằm nghỉ, nam thanh niên đột ngột ngừng tim](https://laodong.vn/suc-khoe/dang-nam-nghi-nam-thanh-nien-dot-ngot-ngung-tim-883477.ldo) ([Lao Động](https://laodong.vn))
+- [Người dân tranh nhau trả tiền khi mua nông sản Hải Dương có giá 0 đồng](https://laodong.vn/nguoi-viet-tu-te/nguoi-dan-tranh-nhau-tra-tien-khi-mua-nong-san-hai-duong-co-gia-0-dong-883475.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng: Du lịch ế ẩm, nhiều khách sạn bán tháo để trả nợ](https://laodong.vn/kinh-te/da-nang-du-lich-e-am-nhieu-khach-san-ban-thao-de-tra-no-883069.ldo) ([Lao Động](https://laodong.vn))
+- [Nông sản Hải Dương dồn ứ, người Đà Nẵng điều xe ra &quot;giải cứu&quot;](https://laodong.vn/photo/nong-san-hai-duong-don-u-nguoi-da-nang-dieu-xe-ra-giai-cuu-883445.ldo) ([Lao Động](https://laodong.vn))
+- [Hàng nghìn phương tiện đổ về Quốc lộ 5 sau lệnh &quot;mở&quot; của Hải Phòng](https://laodong.vn/photo/hang-nghin-phuong-tien-do-ve-quoc-lo-5-sau-lenh-mo-cua-hai-phong-883437.ldo) ([Lao Động](https://laodong.vn))
+- [Làn sóng dịch thứ 3: Một số ca mắc COVID-19 không có bất kỳ triệu chứng nào](https://laodong.vn/y-te/lan-song-dich-thu-3-mot-so-ca-mac-covid-19-khong-co-bat-ky-trieu-chung-nao-883425.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút: Vaccine COVID-19 vừa về Việt Nam sẽ được tiêm thế nào?](https://laodong.vn/video/ban-tin-1-phut-vaccine-covid-19-vua-ve-viet-nam-se-duoc-tiem-the-nao-883454.ldo) ([Lao Động](https://laodong.vn))
+- [Pi Network thực chất là gì, Bitcoin thứ hai hay trò lừa đảo?](https://cafebiz.vn/chuyen-gia-canh-bao-lua-dao-khi-dao-pi-coin-loai-tien-so-duoc-cho-la-se-thanh-cong-hon-ca-bitcoin-20210224173616956.chn) ([CafeBiz](https://cafebiz.vn))
+- [Doanh nghiệp vận tải điêu đứng vì Covid-19](https://vnexpress.net/doanh-nghiep-van-tai-dieu-dung-vi-covid-19-4239990.html) ([VNExpress](https://vnexpress.net))
+- [Không chịu xét nghiệm COVID-19, thanh niên Hải Dương bị Đà Nẵng phạt 7,5 triệu](https://tuoitre.vn/khong-chiu-xet-nghiem-covid-19-thanh-nien-hai-duong-bi-da-nang-phat-7-5-trieu-20210225120714215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
