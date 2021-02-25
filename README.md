@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 23°C.
-- Feels Like 22.25°C.
-- Air Visual is 103.
+- Temperature is 24°C.
+- Feels Like 24.28°C.
+- Air Visual is 99.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Các nước xung quanh Việt Nam đang ráo riết tiêm chủng vắc xin Covid-19 như thế nào?](https://cafebiz.vn/cac-nuoc-xung-quanh-viet-nam-dang-rao-riet-tiem-chung-vac-xin-covid-19-nhu-the-nao-20210225104641689.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cả nhà gặp nạn khi ôtô đâm lan can đèo Bảo Lộc](https://vnexpress.net/ca-nha-gap-nan-khi-oto-dam-lan-can-deo-bao-loc-4239974.html) ([VNExpress](https://vnexpress.net))
-- [Cứu sống bệnh nhân vỡ gan nặng mà không cần phẫu thuật](https://laodong.vn/suc-khoe/cuu-song-benh-nhan-vo-gan-nang-ma-khong-can-phau-thuat-883395.ldo) ([Lao Động](https://laodong.vn))
-- [Người phụ nữ bị lừa gần 4 tỉ đồng sau cú điện thoại xưng là đại diện cơ quan pháp luật](https://cafebiz.vn/nguoi-phu-nu-bi-lua-gan-4-ti-dong-sau-cu-dien-thoai-xung-la-dai-dien-co-quan-phap-luat-20210225103840276.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trẻ em, học sinh Đồng Nai trở lại trường từ 1-3](https://tuoitre.vn/tre-em-hoc-sinh-dong-nai-tro-lai-truong-tu-1-3-20210225100959171.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Những đối tượng giáo viên phải có chứng chỉ chức danh hạng III](https://laodong.vn/giao-duc/nhung-doi-tuong-giao-vien-phai-co-chung-chi-chuc-danh-hang-iii-883411.ldo) ([Lao Động](https://laodong.vn))
-- [Mê mẩn với &quot;con đường tình yêu&quot; tuyệt đẹp giữa lòng Hà Nội](https://laodong.vn/photo/me-man-voi-con-duong-tinh-yeu-tuyet-dep-giua-long-ha-noi-883263.ldo) ([Lao Động](https://laodong.vn))
-- [Đã giới thiệu 1.076 người ứng cử đại biểu Quốc hội khoá XV](https://laodong.vn/thoi-su/da-gioi-thieu-1076-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xv-883413.ldo) ([Lao Động](https://laodong.vn))
-- [Phản ứng của lãnh đạo Đảng Cộng hòa về lần đầu phát biểu của ông Trump](https://laodong.vn/the-gioi/phan-ung-cua-lanh-dao-dang-cong-hoa-ve-lan-dau-phat-bieu-cua-ong-trump-883382.ldo) ([Lao Động](https://laodong.vn))
-- [Bỏ xó cả chục ô tô bạc tỷ, ông chủ showroom đi bán ngô và trứng gà, giải cứu nông sản Hải Dương](https://cafebiz.vn/bo-xo-ca-chuc-o-to-bac-ty-ong-chu-showroom-di-ban-ngo-va-trung-ga-giai-cuu-nong-san-hai-duong-20210225102244113.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bốn hầm chui chống ùn tắc ở Đồng Nai](https://vnexpress.net/bon-ham-chui-chong-un-tac-o-dong-nai-4239018.html) ([VNExpress](https://vnexpress.net))
+- [Shopee bị phía Mỹ cáo buộc bán hàng giả với “mức độ rất cao”, không điều tra bên bán hàng và vi phạm bản quyền toàn cầu](https://cafebiz.vn/shopee-bi-phia-my-cao-buoc-ban-hang-gia-voi-muc-do-rat-cao-khong-dieu-tra-ben-ban-hang-va-vi-pham-ban-quyen-toan-cau-20210225111428149.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nam diễn viên xấu nhất phim Châu Tinh Trì: Đóng phim vì đam mê, giàu có, nhiều nhà nhiều xe nhưng đường tình duyên lận đận](https://cafebiz.vn/nam-dien-vien-xau-nhat-phim-chau-tinh-tri-dong-phim-vi-dam-me-giau-co-nhieu-nha-nhieu-xe-nhung-duong-tinh-duyen-lan-dan-20210225111431051.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đại diện thương mại Mỹ tố phimmoi, phimmoizz đăng tải trái phép hàng nghìn bộ phim và chương trình truyền hình](https://cafebiz.vn/dai-dien-thuong-mai-my-to-phimmoi-phimmoizz-dang-tai-trai-phep-hang-nghin-bo-phim-va-chuong-trinh-truyen-hinh-20210225110522001.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chọn người có kinh nghiệm, tín nhiệm tham gia tổ chức phụ trách bầu cử](https://laodong.vn/thoi-su/chon-nguoi-co-kinh-nghiem-tin-nhiem-tham-gia-to-chuc-phu-trach-bau-cu-883423.ldo) ([Lao Động](https://laodong.vn))
+- [Học theo Bill Gates, tôi sử dụng Quy tắc của Warren Buffett để đạt được các mục tiêu của mình nhanh hơn 10 lần](https://cafebiz.vn/hoc-theo-bill-gates-toi-su-dung-quy-tac-cua-warren-buffett-de-dat-duoc-cac-muc-tieu-cua-minh-nhanh-hon-10-lan-20210205140414855.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tuyển sinh 2021: Trường Đại học Thương mại tăng chỉ tiêu tuyển sinh](https://laodong.vn/giao-duc/tuyen-sinh-2021-truong-dai-hoc-thuong-mai-tang-chi-tieu-tuyen-sinh-883421.ldo) ([Lao Động](https://laodong.vn))
+- [Bi Rain làm “ông bầu”, ra mắt nhóm nhạc Ciipher](https://laodong.vn/giai-tri/bi-rain-lam-ong-bau-ra-mat-nhom-nhac-ciipher-883424.ldo) ([Lao Động](https://laodong.vn))
+- [Giáo sư Harvard: "Có thể người ngoài hành tinh chưa ghé thăm Trái Đất vì không thấy con người thú vị, hấp dẫn"](https://cafebiz.vn/giao-su-harvard-co-the-nguoi-ngoai-hanh-tinh-chua-ghe-tham-trai-dat-vi-khong-thay-con-nguoi-thu-vi-hap-dan-20210225091323543.chn) ([CafeBiz](https://cafebiz.vn))
+- [Biến nội thất căn phòng trở nên xanh mát với phong cách Địa Trung Hải](https://laodong.vn/bat-dong-san/bien-noi-that-can-phong-tro-nen-xanh-mat-voi-phong-cach-dia-trung-hai-882553.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
