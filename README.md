@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 22°C.
 - Feels Like 23.06°C.
-- Air Visual is 109.
+- Air Visual is 59.
 
 **WEATHER**
 
@@ -80,11 +80,11 @@
 - [Covid-19 ngày 26/2](https://vnexpress.net/covid-19-ngay-26-2-4240385.html) ([VNExpress](https://vnexpress.net))
 - [VnExpress tròn 20 tuổi](https://vnexpress.net/vnexpress-tron-20-tuoi-4237882.html) ([VNExpress](https://vnexpress.net))
 - [Chùa Phúc Khánh tổ chức cầu an trực tuyến](https://vnexpress.net/chua-phuc-khanh-to-chuc-cau-an-truc-tuyen-4240377.html) ([VNExpress](https://vnexpress.net))
-- [Không để công nhân nhà trọ &quot;cô đơn&quot; giữa tâm dịch Cẩm Giàng](https://laodong.vn/cong-doan/khong-de-cong-nhan-nha-tro-co-don-giua-tam-dich-cam-giang-883710.ldo) ([Lao Động](https://laodong.vn))
-- [Bước tiến của Hà Nội về quy hoạch phân khu nội đô lịch sử và sông Hồng](https://laodong.vn/thoi-su/buoc-tien-cua-ha-noi-ve-quy-hoach-phan-khu-noi-do-lich-su-va-song-hong-883713.ldo) ([Lao Động](https://laodong.vn))
-- [Chứng khoán: Quán tính tăng điểm sẽ tiếp tục trong phiên cuối tuần?](https://laodong.vn/kinh-te/chung-khoan-quan-tinh-tang-diem-se-tiep-tuc-trong-phien-cuoi-tuan-883711.ldo) ([Lao Động](https://laodong.vn))
-- [Điện Biên dỡ bỏ phong tỏa 2 bản liên quan đến bệnh nhân số 1972](https://laodong.vn/xa-hoi/dien-bien-do-bo-phong-toa-2-ban-lien-quan-den-benh-nhan-so-1972-883712.ldo) ([Lao Động](https://laodong.vn))
-- [Căn hộ 12m² với cách bố trí nội thất thông minh "vừa vặn" cho gia đình trẻ](https://cafebiz.vn/can-ho-12m-voi-cach-bo-tri-noi-that-thong-minh-vua-van-cho-gia-dinh-tre-20210225221820784.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đây là cách mà người ta phục vụ 30.000 suất ăn/ngày trên con tàu du lịch lớn nhất thế giới](https://tinhte.vn/thread/day-la-cach-ma-nguoi-ta-phuc-vu-30-000-suat-an-ngay-tren-con-tau-du-lich-lon-nhat-the-gioi.3282778/) ([Tinh Tế](https://tinhte.vn))
+- [Hôm nay thử nghiệm lâm sàng giai đoạn 2 vắc xin Nano Covax](https://thanhnien.vn/thoi-su/hom-nay-thu-nghiem-lam-sang-giai-doan-2-vac-xin-nano-covax-1346522.html) ([Thanh Niên](https://thanhnien.vn))
+- [Nhiều người dùng báo máy Mac chạy chip M1 đang "mòn" SSD quá nhanh](https://tinhte.vn/thread/nhieu-nguoi-dung-bao-may-mac-chay-chip-m1-dang-mon-ssd-qua-nhanh.3282275/) ([Tinh Tế](https://tinhte.vn))
+- [[QC] Thời điểm tốt nhất để đặt mua Mi 11 | 5G tại CellphoneS](https://tinhte.vn/thread/qc-thoi-diem-tot-nhat-de-dat-mua-mi-11-5g-tai-cellphones.3283057/) ([Tinh Tế](https://tinhte.vn))
+- [Ủng hộ thu hồi bãi biển để phục vụ cộng đồng](https://thanhnien.vn/thoi-su/ung-ho-thu-hoi-bai-bien-de-phuc-vu-cong-dong-1346455.html) ([Thanh Niên](https://thanhnien.vn))
 
 [Read More](docs/news/README.md)
 
