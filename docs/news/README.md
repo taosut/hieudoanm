@@ -1,5 +1,6 @@
 # News
 
+- [“Làm việc vì lương cao thay vì đam mê”, ứng viên được thăng chức Giám đốc vùng của Elise chỉ sau 3 tháng lên sóng “Cơ hội cho ai”](https://cafebiz.vn/lam-viec-vi-luong-cao-thay-vi-dam-me-ung-vien-duoc-thang-chuc-giam-doc-vung-cua-elise-chi-sau-3-thang-len-song-co-hoi-cho-ai-20210225170351026.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ra mắt cuốn sách ảnh &quot;Yên Bái - Đất và người&quot;](https://laodong.vn/van-hoa/ra-mat-cuon-sach-anh-yen-bai-dat-va-nguoi-883709.ldo) ([Lao Động](https://laodong.vn))
 - [Đề xuất Bộ Y tế phê duyệt thêm vaccine phòng Covid-19 của Mỹ và Nga](https://cafebiz.vn/de-xuat-bo-y-te-phe-duyet-them-vaccine-phong-covid-19-cua-my-va-nga-20210225194852326.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đảo Phú Quý có tân bí thư Huyện ủy](https://tuoitre.vn/dao-phu-quy-co-tan-bi-thu-huyen-uy-20210225205837597.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -99,4 +100,3 @@
 - [Tỷ phú công nghệ Thụy Điển: Nên phạt tiền, bỏ tù những người kích động, lôi kéo mua Bitcoin](https://cafebiz.vn/ty-phu-cong-nghe-my-nen-phat-tien-bo-tu-nhung-nguoi-kich-dong-loi-keo-mua-bitcoin-20210225150556149.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bạn có đang làm công việc vô nghĩa?](https://cafebiz.vn/ban-co-dang-lam-cong-viec-vo-nghia-20210225150041335.chn) ([CafeBiz](https://cafebiz.vn))
 - [Huawei muốn sản xuất sản phẩm ‘hạng nhất’ từ linh kiện ‘hạng ba’](https://cafebiz.vn/huawei-muon-san-xuat-san-pham-hang-nhat-tu-linh-kien-hang-ba-20210225135814791.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dân cả nước đóng góp tiền mua vắc-xin Covid-19](https://cafebiz.vn/nguoi-dan-ca-nuoc-dong-gop-tien-mua-vac-xin-covid-19-20210225145815241.chn) ([CafeBiz](https://cafebiz.vn))

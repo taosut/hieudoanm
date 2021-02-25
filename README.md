@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [“Làm việc vì lương cao thay vì đam mê”, ứng viên được thăng chức Giám đốc vùng của Elise chỉ sau 3 tháng lên sóng “Cơ hội cho ai”](https://cafebiz.vn/lam-viec-vi-luong-cao-thay-vi-dam-me-ung-vien-duoc-thang-chuc-giam-doc-vung-cua-elise-chi-sau-3-thang-len-song-co-hoi-cho-ai-20210225170351026.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ra mắt cuốn sách ảnh &quot;Yên Bái - Đất và người&quot;](https://laodong.vn/van-hoa/ra-mat-cuon-sach-anh-yen-bai-dat-va-nguoi-883709.ldo) ([Lao Động](https://laodong.vn))
 - [Đề xuất Bộ Y tế phê duyệt thêm vaccine phòng Covid-19 của Mỹ và Nga](https://cafebiz.vn/de-xuat-bo-y-te-phe-duyet-them-vaccine-phong-covid-19-cua-my-va-nga-20210225194852326.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đảo Phú Quý có tân bí thư Huyện ủy](https://tuoitre.vn/dao-phu-quy-co-tan-bi-thu-huyen-uy-20210225205837597.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -84,7 +85,6 @@
 - [Việt Nam nói về thông tin hải cảnh Trung Quốc áp sát giàn khoan Hải Thạch](https://laodong.vn/the-gioi/viet-nam-noi-ve-thong-tin-hai-canh-trung-quoc-ap-sat-gian-khoan-hai-thach-883705.ldo) ([Lao Động](https://laodong.vn))
 - [Eximbank &quot;lục tục&quot; tổ chức ĐHCĐ sau 5 lần hoãn, nợ xấu vọt lên 2534 tỉ đồng](https://laodong.vn/kinh-te/eximbank-luc-tuc-to-chuc-dhcd-sau-5-lan-hoan-no-xau-vot-len-2534-ti-dong-883675.ldo) ([Lao Động](https://laodong.vn))
 - [Doanh nghiệp vận tải lo không được xét nghiệm Covid-19](https://vnexpress.net/doanh-nghiep-van-tai-lo-khong-duoc-xet-nghiem-covid-19-4240330.html) ([VNExpress](https://vnexpress.net))
-- [Từng được Tôn Sách đích thân trao quyền, vì sao Tôn Quyền đến lúc chết vẫn không truy phong anh ruột làm Hoàng đế?](https://cafebiz.vn/tung-duoc-ton-sach-dich-than-trao-quyen-vi-sao-ton-quyen-den-luc-chet-van-khong-truy-phong-anh-ruot-lam-hoang-de-202102251953256.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
