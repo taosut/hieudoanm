@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is drizzle.
+- Current weather is light intensity drizzle.
 - Temperature is 22°C.
-- Feels Like 24.02°C.
-- Air Visual is 106.
+- Feels Like 24.38°C.
+- Air Visual is 72.
 
 **WEATHER**
 
@@ -51,21 +51,21 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
-- [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
-- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
+- [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
 - [![Hướng dương ngược nắng tập 33](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033)
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
 - [![Lion Group](https://img.shields.io/static/v1?label=Lion%20Group&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lion%20Group)
+- [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
+- [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
-- [![Shola Shoretire](https://img.shields.io/static/v1?label=Shola%20Shoretire&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Shola%20Shoretire)
+- [![Redmi K40](https://img.shields.io/static/v1?label=Redmi%20K40&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20K40)
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
-- [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
+- [![Sân bay Bình Phước](https://img.shields.io/static/v1?label=S%C3%A2n%20bay%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C3%A2n%20bay%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
-- [![Trương Thế Vinh](https://img.shields.io/static/v1?label=Tr%C6%B0%C6%A1ng%20Th%E1%BA%BF%20Vinh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0%C6%A1ng%20Th%E1%BA%BF%20Vinh)
 - [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
 - [![Đại học Thương mại](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Th%C6%B0%C6%A1ng%20m%E1%BA%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Th%C6%B0%C6%A1ng%20m%E1%BA%A1i)
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Ô tô đâm loạt xe đạp điện trên cầu, học sinh ở Quảng Trị rơi xuống sông tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/o-to-dam-loat-xe-dap-dien-tren-cau-hoc-sinh-o-quang-tri-roi-xuong-song-tu-vong-715573.html) ([VietNamNet](https://vietnamnet.vn))
 - [Covid-19 ngày 26/2](https://vnexpress.net/covid-19-ngay-26-2-4240385.html) ([VNExpress](https://vnexpress.net))
 - [VnExpress tròn 20 tuổi](https://vnexpress.net/vnexpress-tron-20-tuoi-4237882.html) ([VNExpress](https://vnexpress.net))
 - [Chùa Phúc Khánh tổ chức cầu an trực tuyến](https://vnexpress.net/chua-phuc-khanh-to-chuc-cau-an-truc-tuyen-4240377.html) ([VNExpress](https://vnexpress.net))
@@ -84,7 +85,6 @@
 - [Điện Biên dỡ bỏ phong tỏa 2 bản liên quan đến bệnh nhân số 1972](https://laodong.vn/xa-hoi/dien-bien-do-bo-phong-toa-2-ban-lien-quan-den-benh-nhan-so-1972-883712.ldo) ([Lao Động](https://laodong.vn))
 - [Căn hộ 12m² với cách bố trí nội thất thông minh "vừa vặn" cho gia đình trẻ](https://cafebiz.vn/can-ho-12m-voi-cach-bo-tri-noi-that-thong-minh-vua-van-cho-gia-dinh-tre-20210225221820784.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bill Gates chỉ ra 4 thói quen tạo ra sự khác biệt giữa  người hành động và kẻ mộng mơ: Bạn tự kiểm tra lại mình nhé!](https://cafebiz.vn/bill-gates-chi-ra-4-thoi-quen-tao-ra-su-khac-biet-giua-nguoi-hanh-dong-va-ke-mong-mo-ban-tu-kiem-tra-lai-minh-nhe-20210222183439579.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuyên gia phong thủy tiết lộ vào Rằm tháng Giêng 3 con giáp không chỉ may mắn phần mình mà còn đem vận may cho người thân, cả năm vượng tài vượng tình](https://cafebiz.vn/chuyen-gia-phong-thuy-tiet-lo-vao-ram-thang-gieng-3-con-giap-khong-chi-may-man-phan-minh-ma-con-dem-van-may-cho-nguoi-than-ca-nam-vuong-tai-vuong-tinh-20210225221418257.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
