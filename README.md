@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 22.77°C.
-- Air Visual is 105.
+- Feels Like 22.06°C.
+- Air Visual is 116.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Ứng viên Đại diện Thương mại Mỹ cam kết thực dụng với Trung Quốc](https://laodong.vn/the-gioi/ung-vien-dai-dien-thuong-mai-my-cam-ket-thuc-dung-voi-trung-quoc-883369.ldo) ([Lao Động](https://laodong.vn))
-- [Điểm danh các nước đóng cửa chống COVID-19 ‘nghiêm khắc nhất’](https://cafebiz.vn/diem-danh-cac-nuoc-dong-cua-chong-covid-19-nghiem-khac-nhat-20210225083751316.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lãi suất huy động tiếp tục giảm, chờ tín hiệu từ lãi suất cho vay](https://cafebiz.vn/lai-suat-huy-dong-tiep-tuc-giam-cho-tin-hieu-tu-lai-suat-cho-vay-20210225083749278.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Cánh tay phải của Warren Buffett': Giữa cổ phiếu Tesla và giá Bitcoin không biết cái nào tệ hơn!](https://cafebiz.vn/canh-tay-phai-cua-warren-buffett-giua-co-phieu-tesla-va-gia-bitcoin-khong-biet-cai-nao-te-hon-20210225083220825.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quảng Nam: Nam sinh lớp 9 trêu bạn bè, giả văn bản cho cả tỉnh nghỉ học vì Covid-19](https://cafebiz.vn/quang-nam-nam-sinh-lop-9-treu-ban-be-gia-van-ban-cho-ca-tinh-nghi-hoc-vi-covid-19-20210225083600012.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chân dung 3 ái nữ nghìn tỷ của chủ tịch PNJ Cao Thị Ngọc Dung: Xinh đẹp, cá tính, đều là tiến sĩ Harvard và Oxford](https://cafebiz.vn/chan-dung-3-ai-nu-nghin-ty-cua-chu-tich-pnj-cao-thi-ngoc-dung-xinh-dep-ca-tinh-deu-la-tien-si-harvard-va-oxford-20210222170958915.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hoàn tất “điệp vụ Italia”, Zidane và Real Madrid lập kỷ lục](https://laodong.vn/bong-da-quoc-te/hoan-tat-diep-vu-italia-zidane-va-real-madrid-lap-ky-luc-883368.ldo) ([Lao Động](https://laodong.vn))
-- [Moderna phát triển mũi tiêm chống biến thể COVID-19](https://laodong.vn/the-gioi/moderna-phat-trien-mui-tiem-chong-bien-the-covid-19-883366.ldo) ([Lao Động](https://laodong.vn))
-- [Tại Trung Quốc, 5 năm thanh xuân của các bà nội trợ chỉ đáng giá 8.000 USD, rẻ mạt hơn lương bảo mẫu](https://cafebiz.vn/tai-trung-quoc-5-nam-thanh-xuan-cua-cac-ba-noi-tro-chi-dang-gia-8000-usd-re-mat-hon-luong-bao-mau-202102241828554.chn) ([CafeBiz](https://cafebiz.vn))
-- [4,8 triệu liều vaccine COVID-19 về Việt Nam sẽ được tiêm thế nào?](https://laodong.vn/xa-hoi/48-trieu-lieu-vaccine-covid-19-ve-viet-nam-se-duoc-tiem-the-nao-883374.ldo) ([Lao Động](https://laodong.vn))
+- [Zidane: &quot;OK, Real chơi không quá tốt nhưng kết quả mới quan trọng&quot;](https://laodong.vn/bong-da-quoc-te/zidane-ok-real-choi-khong-qua-tot-nhung-ket-qua-moi-quan-trong-883373.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Liên tục xảy ra những đợt tia cực tím đạt cực đại](https://laodong.vn/moi-truong/tphcm-lien-tuc-xay-ra-nhung-dot-tia-cuc-tim-dat-cuc-dai-883380.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Biden hủy lệnh cấm của ông Trump với hồ sơ xin thẻ xanh vào Mỹ](https://laodong.vn/the-gioi/ong-biden-huy-lenh-cam-cua-ong-trump-voi-ho-so-xin-the-xanh-vao-my-883387.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ chủ tịch Taobao khoe dự án nghệ thuật rộng 1500m2, phải chăng là đòn phản công trực diện với nhân tình của chồng trong tương lai?](https://cafebiz.vn/vo-chu-tich-taobao-khoe-du-an-nghe-thuat-rong-1500m2-phai-chang-la-don-phan-cong-truc-dien-voi-nhan-tinh-cua-chong-trong-tuong-lai-20210225091006245.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cận cảnh lắp đặt hệ thống cống thu gom nước thải dọc sông Tô Lịch](https://cafebiz.vn/can-canh-lap-dat-he-thong-cong-thu-gom-nuoc-thai-doc-song-to-lich-202102250914489.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cách để kiểm soát chứng lo âu khi bạn bị rối loạn lưỡng cực trong thời kỳ đại dịch](https://cafebiz.vn/cach-de-kiem-soat-chung-lo-au-khi-ban-bi-roi-loan-luong-cuc-trong-thoi-ky-dai-dich-20210224153044372.chn) ([CafeBiz](https://cafebiz.vn))
+- [TP.Hồ Chí Minh: Nhu cầu nhân lực qua đào tạo chiếm 85,8%](https://laodong.vn/cong-doan/tpho-chi-minh-nhu-cau-nhan-luc-qua-dao-tao-chiem-858-883299.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội chuyển nơi đăng ký xe 4 quận nội thành đến địa điểm mới](https://cafebiz.vn/ha-noi-chuyen-noi-dang-ky-xe-4-quan-noi-thanh-den-dia-diem-moi-20210225091244635.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những lợi ích bất ngờ khi sử dụng sôcôla làm đẹp](https://laodong.vn/suc-khoe/nhung-loi-ich-bat-ngo-khi-su-dung-socola-lam-dep-883048.ldo) ([Lao Động](https://laodong.vn))
+- [TP HCM: Gia cảnh bi đát của nạn nhân vụ cướp giật làm 2 người thiệt mạng ở Tân Phú](http://vietnamnet.vn/vn/thoi-su/tp-hcm-gia-canh-bi-dat-cua-nan-nhan-vu-cuop-giat-lam-2-nguoi-thiet-mang-o-tan-phu-715337.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
