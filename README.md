@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 23°C.
 - Feels Like 22.25°C.
-- Air Visual is 115.
+- Air Visual is 103.
 
 **WEATHER**
 
@@ -53,15 +53,15 @@
 - [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
 - [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
+- [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
 - [![Giá vang hom nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20vang%20hom%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20vang%20hom%20nay)
-- [![Hà Nam](https://img.shields.io/static/v1?label=H%C3%A0%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%A0%20Nam)
 - [![Hướng dương ngược nắng tập 33](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033)
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Lion Group](https://img.shields.io/static/v1?label=Lion%20Group&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lion%20Group)
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Ronaldo Juventus](https://img.shields.io/static/v1?label=Ronaldo%20Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ronaldo%20Juventus)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Hưng Yên: Khối trường học có mức thưởng Tết trung bình 500.000 đồng/người](https://laodong.vn/cd-dien-luc/hung-yen-khoi-truong-hoc-co-muc-thuong-tet-trung-binh-500000-dongnguoi-883419.ldo) ([Lao Động](https://laodong.vn))
-- [Cô gái 2k1 người Mỹ bị mắc chứng trầm cảm, sở hữu tài khoản hơn 56 triệu follow TikTok và gần 10 triệu theo dõi trên Instagram](https://cafebiz.vn/co-gai-2k1-nguoi-my-bi-mac-chung-tram-cam-so-huu-tai-khoan-hon-56-trieu-follow-tiktok-va-gan-10-trieu-theo-doi-tren-instagram-20210225101523276.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sự im lặng của Sơn Tùng và Chủ tịch M-TP](https://cafebiz.vn/su-im-lang-cua-son-tung-va-chu-tich-m-tp-20210225101217055.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ 1/3, nợ tiền sử dụng đất sẽ phải nộp theo giá mới cao hơn](https://cafebiz.vn/tu-1-3-no-tien-su-dung-dat-se-phai-nop-theo-gia-moi-cao-hon-20210224134449328.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nạo vét đập, đảm bảo đủ nước phòng cháy rừng tại Bán đảo Sơn Trà](https://laodong.vn/moi-truong/nao-vet-dap-dam-bao-du-nuoc-phong-chay-rung-tai-ban-dao-son-tra-883408.ldo) ([Lao Động](https://laodong.vn))
-- [Gỡ 'nút thắt' xây mới chung cư cũ](https://tuoitre.vn/go-nut-that-xay-moi-chung-cu-cu-20210225093402867.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hé lộ công ty "khởi nghiệp" mới của ông Nguyễn Bá Dương: Kế hoạch doanh thu 2.000 tỷ năm 2021, tham vọng trở thành tổng thầu hàng đầu Việt Nam](https://cafebiz.vn/he-lo-cong-ty-khoi-nghiep-moi-cua-ong-nguyen-ba-duong-ke-hoach-doanh-thu-2000-ty-nam-2021-tham-vong-tro-thanh-tong-thau-hang-dau-viet-nam-20210225094539016.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vincom Retail sẽ mở thêm 5 trung tâm thương mại năm 2021](https://cafebiz.vn/vincom-retail-se-mo-them-5-trung-tam-thuong-mai-nam-2021-20210225091202617.chn) ([CafeBiz](https://cafebiz.vn))
-- [''Mổ xẻ'' vaccine COVID-19 của AstraZeneca](https://laodong.vn/the-gioi/mo-xe-vaccine-covid-19-cua-astrazeneca-883403.ldo) ([Lao Động](https://laodong.vn))
-- [Chuỗi cung ứng công nghệ "không Trung Quốc" của Mỹ và đồng minh sẽ như thế nào?](https://cafebiz.vn/chuoi-cung-ung-cong-nghe-khong-trung-quoc-cua-my-va-dong-minh-se-nhu-the-nao-20210225085520829.chn) ([CafeBiz](https://cafebiz.vn))
+- [Các nước xung quanh Việt Nam đang ráo riết tiêm chủng vắc xin Covid-19 như thế nào?](https://cafebiz.vn/cac-nuoc-xung-quanh-viet-nam-dang-rao-riet-tiem-chung-vac-xin-covid-19-nhu-the-nao-20210225104641689.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cả nhà gặp nạn khi ôtô đâm lan can đèo Bảo Lộc](https://vnexpress.net/ca-nha-gap-nan-khi-oto-dam-lan-can-deo-bao-loc-4239974.html) ([VNExpress](https://vnexpress.net))
+- [Cứu sống bệnh nhân vỡ gan nặng mà không cần phẫu thuật](https://laodong.vn/suc-khoe/cuu-song-benh-nhan-vo-gan-nang-ma-khong-can-phau-thuat-883395.ldo) ([Lao Động](https://laodong.vn))
+- [Người phụ nữ bị lừa gần 4 tỉ đồng sau cú điện thoại xưng là đại diện cơ quan pháp luật](https://cafebiz.vn/nguoi-phu-nu-bi-lua-gan-4-ti-dong-sau-cu-dien-thoai-xung-la-dai-dien-co-quan-phap-luat-20210225103840276.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trẻ em, học sinh Đồng Nai trở lại trường từ 1-3](https://tuoitre.vn/tre-em-hoc-sinh-dong-nai-tro-lai-truong-tu-1-3-20210225100959171.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Những đối tượng giáo viên phải có chứng chỉ chức danh hạng III](https://laodong.vn/giao-duc/nhung-doi-tuong-giao-vien-phai-co-chung-chi-chuc-danh-hang-iii-883411.ldo) ([Lao Động](https://laodong.vn))
+- [Mê mẩn với &quot;con đường tình yêu&quot; tuyệt đẹp giữa lòng Hà Nội](https://laodong.vn/photo/me-man-voi-con-duong-tinh-yeu-tuyet-dep-giua-long-ha-noi-883263.ldo) ([Lao Động](https://laodong.vn))
+- [Đã giới thiệu 1.076 người ứng cử đại biểu Quốc hội khoá XV](https://laodong.vn/thoi-su/da-gioi-thieu-1076-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xv-883413.ldo) ([Lao Động](https://laodong.vn))
+- [Phản ứng của lãnh đạo Đảng Cộng hòa về lần đầu phát biểu của ông Trump](https://laodong.vn/the-gioi/phan-ung-cua-lanh-dao-dang-cong-hoa-ve-lan-dau-phat-bieu-cua-ong-trump-883382.ldo) ([Lao Động](https://laodong.vn))
+- [Bỏ xó cả chục ô tô bạc tỷ, ông chủ showroom đi bán ngô và trứng gà, giải cứu nông sản Hải Dương](https://cafebiz.vn/bo-xo-ca-chuc-o-to-bac-ty-ong-chu-showroom-di-ban-ngo-va-trung-ga-giai-cuu-nong-san-hai-duong-20210225102244113.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [2 Robot Daft Punk và 28 năm kiến tạo nền âm nhạc](https://vietcetera.com/vn/2-robot-daft-punk-va-28-nam-kien-tao-nen-am-nhac)
 - ["Crush của chị đứng giữa lớp hô, 'Ai chơi vật tay với tao không?'"](https://vietcetera.com/vn/crush-cua-chi-dung-giua-lop-ho-ai-choi-vat-tay-voi-tao-khong)
 - [Không Quan Tâm: G-Dragon và Jennie hẹn hò](https://vietcetera.com/vn/khongquantam-jennie-va-g-dragon-hen-ho)
 - [Phá thai, cấm hay không?](https://vietcetera.com/vn/pha-thai-cam-hay-khong)
@@ -105,7 +106,6 @@
 - [Bóc Term: Zombie-box — Bạn dùng công nghệ hay công nghệ dùng bạn?](https://vietcetera.com/vn/boc-term-zombie-box-ban-co-dang-bi-an-nao)
 - [Điện ảnh, công nghệ và y tế: Việt Nam đang đứng ở đâu?](https://vietcetera.com/vn/khong-chi-chong-dich-tot-viet-nam-dang-dat-nhieu-cot-moc-hon-the)
 - ["Đâu là khoảnh khắc anh nhận ra mình rất hạnh phúc?"](https://vietcetera.com/vn/dau-la-khoanh-khac-anh-nhan-ra-minh-rat-hanh-phuc)
-- [Bóc Term: Cougar - Khi chuyện tình “chị đẹp và trai trẻ” vượt qua định kiến xã hội](https://vietcetera.com/vn/boc-term-cougar-khi-chi-dep-va-trai-tre-vuot-qua-dinh-kien-xa-hoi)
 
 [Read More](https://vietcetera.com/)
 
@@ -137,9 +137,9 @@
 05. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 06. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 07. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
-08. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
-09. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
-10. [Phim Hành Động Võ Thuật 2021 - SÁT THỦ ẨN DANH | Phim Chiếu Rạp Thuyết Minh Mới Nhất](https://www.youtube.com/watch?v=qSqv22xvfVU) - [Like Movies](https://www.youtube.com/channel/UCWDfO46yvUbLudW99_rVTBg)
+08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
+09. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+10. [Công an Hình sự cũng phải ĐỨNG DÒM cách in tiền giả chuyên nghiệp này | Trinh sát kể chuyện | ANTC](https://www.youtube.com/watch?v=nvA_9wVPcvw) - [AN NINH TOÀN CẢNH](https://www.youtube.com/channel/UCotkNLf_Y3jfbLWuSFUCSBQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
