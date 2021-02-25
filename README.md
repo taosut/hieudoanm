@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 22°C.
-- Feels Like 23.06°C.
-- Air Visual is 59.
+- Feels Like 22.7°C.
+- Air Visual is 115.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tuổi cán bộ, công chức, viên chức được ứng cử Đại biểu Quốc hội](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/tuoi-can-bo-cong-chuc-vien-chuc-duoc-ung-cu-dai-bieu-quoc-hoi-715550.html) ([VietNamNet](https://vietnamnet.vn))
+- [Dự báo thời tiết 26/2: Đón không khí lạnh, Bắc Bộ mưa toàn vùng](http://vietnamnet.vn/vn/thoi-su/du-bao-thoi-tiet-26-2-don-khong-khi-lanh-bac-bo-mua-toan-vung-715546.html) ([VietNamNet](https://vietnamnet.vn))
 - [Ba xã cuối cùng ở Quảng Ninh được dỡ phong tỏa](https://vnexpress.net/ba-xa-cuoi-cung-o-quang-ninh-duoc-do-phong-toa-4240383.html) ([VNExpress](https://vnexpress.net))
 - [Ô tô đâm loạt xe đạp điện trên cầu, học sinh ở Quảng Trị rơi xuống sông tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/o-to-dam-loat-xe-dap-dien-tren-cau-hoc-sinh-o-quang-tri-roi-xuong-song-tu-vong-715573.html) ([VietNamNet](https://vietnamnet.vn))
 - [Covid-19 ngày 26/2](https://vnexpress.net/covid-19-ngay-26-2-4240385.html) ([VNExpress](https://vnexpress.net))
 - [VnExpress tròn 20 tuổi](https://vnexpress.net/vnexpress-tron-20-tuoi-4237882.html) ([VNExpress](https://vnexpress.net))
-- [Chùa Phúc Khánh tổ chức cầu an trực tuyến](https://vnexpress.net/chua-phuc-khanh-to-chuc-cau-an-truc-tuyen-4240377.html) ([VNExpress](https://vnexpress.net))
-- [Đây là cách mà người ta phục vụ 30.000 suất ăn/ngày trên con tàu du lịch lớn nhất thế giới](https://tinhte.vn/thread/day-la-cach-ma-nguoi-ta-phuc-vu-30-000-suat-an-ngay-tren-con-tau-du-lich-lon-nhat-the-gioi.3282778/) ([Tinh Tế](https://tinhte.vn))
-- [Hôm nay thử nghiệm lâm sàng giai đoạn 2 vắc xin Nano Covax](https://thanhnien.vn/thoi-su/hom-nay-thu-nghiem-lam-sang-giai-doan-2-vac-xin-nano-covax-1346522.html) ([Thanh Niên](https://thanhnien.vn))
 - [Nhiều người dùng báo máy Mac chạy chip M1 đang "mòn" SSD quá nhanh](https://tinhte.vn/thread/nhieu-nguoi-dung-bao-may-mac-chay-chip-m1-dang-mon-ssd-qua-nhanh.3282275/) ([Tinh Tế](https://tinhte.vn))
-- [[QC] Thời điểm tốt nhất để đặt mua Mi 11 | 5G tại CellphoneS](https://tinhte.vn/thread/qc-thoi-diem-tot-nhat-de-dat-mua-mi-11-5g-tai-cellphones.3283057/) ([Tinh Tế](https://tinhte.vn))
-- [Ủng hộ thu hồi bãi biển để phục vụ cộng đồng](https://thanhnien.vn/thoi-su/ung-ho-thu-hoi-bai-bien-de-phuc-vu-cong-dong-1346455.html) ([Thanh Niên](https://thanhnien.vn))
+- [Chùa Phúc Khánh tổ chức cầu an trực tuyến](https://vnexpress.net/chua-phuc-khanh-to-chuc-cau-an-truc-tuyen-4240377.html) ([VNExpress](https://vnexpress.net))
+- [Review cục sạc AUKEY PA-Y11 sau 2 năm: vẫn xài tốt, ổn định](https://tinhte.vn/thread/review-cuc-sac-aukey-pa-y11-sau-2-nam-van-xai-tot-on-dinh.3281515/) ([Tinh Tế](https://tinhte.vn))
+- [Viện KSND tối cao xác minh vụ giết người thân cướp tiền để 'chạy án'](https://thanhnien.vn/thoi-su/vien-ksnd-toi-cao-xac-minh-vu-giet-nguoi-than-cuop-tien-de-chay-an-1346506.html) ([Thanh Niên](https://thanhnien.vn))
 
 [Read More](docs/news/README.md)
 
