@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 23.21°C.
-- Air Visual is 105.
+- Temperature is 23°C.
+- Feels Like 23.33°C.
+- Air Visual is 110.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Hà Nội: Giá nông sản hiện nay rớt giá rất mạnh do ảnh hưởng dịch COVID-19](https://laodong.vn/kinh-te/ha-noi-gia-nong-san-hien-nay-rot-gia-rat-manh-do-anh-huong-dich-covid-19-883663.ldo) ([Lao Động](https://laodong.vn))
-- [Nhật Bản tiêm vaccine cho người cao tuổi từ tháng 4](https://cafebiz.vn/nhat-ban-tiem-vaccine-cho-nguoi-cao-tuoi-tu-thang-4-20210225181745177.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ 1-3, TP.HCM đào tạo, sát hạch lái xe trở lại sau thời gian ngưng do COVID-19](https://tuoitre.vn/tu-1-3-tp-hcm-dao-tao-sat-hach-lai-xe-tro-lai-sau-thoi-gian-ngung-do-covid-19-20210225190351063.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [2 trẻ bị ngộ độc nghi do uống nhầm hóa chất diệt chuột, 1 bé đã tử vong](https://laodong.vn/y-te/2-tre-bi-ngo-doc-nghi-do-uong-nham-hoa-chat-diet-chuot-1-be-da-tu-vong-883676.ldo) ([Lao Động](https://laodong.vn))
-- [Cao Văn Triền tiết lộ lời chia sẻ của Tuấn Anh trước khi sang Nhật Bản](https://laodong.vn/video/cao-van-trien-tiet-lo-loi-chia-se-cua-tuan-anh-truoc-khi-sang-nhat-ban-883632.ldo) ([Lao Động](https://laodong.vn))
-- [Tây Du Ký bản kinh dị 94 năm trước khiến fan Việt hoảng loạn: Thầy trò Đường Tăng "xấu" hơn yêu quái, bị cấm chiếu chỉ sau 1 tập?](https://cafebiz.vn/tay-du-ky-ban-kinh-di-94-nam-truoc-khien-fan-viet-hoang-loan-thay-tro-duong-tang-xau-hon-yeu-quai-bi-cam-chieu-chi-sau-1-tap-20210225195054762.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chiều 25/2, thêm 8 ca mắc COVID-19, trong đó Hải Dương có 7 ca](https://cafebiz.vn/chieu-25-2-them-8-ca-mac-covid-19-trong-do-hai-duong-co-7-ca-20210225194648661.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nóng nhất 24h: Miền Bắc chuẩn bị đón đợt không khí lạnh, mưa rét](https://laodong.vn/video/nong-nhat-24h-mien-bac-chuan-bi-don-dot-khong-khi-lanh-mua-ret-883608.ldo) ([Lao Động](https://laodong.vn))
-- [Giáo dục 24/7: Danh sách các tỉnh/thành cho học sinh đi học từ tháng 3](https://laodong.vn/video/giao-duc-247-danh-sach-cac-tinhthanh-cho-hoc-sinh-di-hoc-tu-thang-3-883567.ldo) ([Lao Động](https://laodong.vn))
-- [Khai trương dự án căn cước công dân gắn chip](https://vnexpress.net/khai-truong-du-an-can-cuoc-cong-dan-gan-chip-4239980.html) ([VNExpress](https://vnexpress.net))
+- [Chưa cần lùi thời gian kết thúc năm học nếu HS trở lại trường từ tháng 3](https://laodong.vn/giao-duc/chua-can-lui-thoi-gian-ket-thuc-nam-hoc-neu-hs-tro-lai-truong-tu-thang-3-883559.ldo) ([Lao Động](https://laodong.vn))
+- [Nhận thưởng Tết xong là nghỉ việc: Là “ăn cháo đá bát” hay “giọt nước tràn ly”?](https://cafebiz.vn/nhan-thuong-tet-xong-la-nghi-viec-la-an-chao-da-bat-hay-giot-nuoc-tran-ly-20210225165738337.chn) ([CafeBiz](https://cafebiz.vn))
+- [3 thứ càng tham càng dễ gặp họa: Phàm là người khôn ngoan đều biết tỉnh táo tránh xa](https://cafebiz.vn/3-thu-cang-tham-cang-de-gap-hoa-pham-la-nguoi-khon-ngoan-deu-biet-tinh-tao-tranh-xa-2021022519294327.chn) ([CafeBiz](https://cafebiz.vn))
+- [8 người nhập viện sau khi ăn thịt bê thui](https://vnexpress.net/8-nguoi-nhap-vien-sau-khi-an-thit-be-thui-4240349.html) ([VNExpress](https://vnexpress.net))
+- [Khẩn: Hải Dương tiếp tục tìm người đến 7 địa điểm liên quan ca mắc Covid-19](https://cafebiz.vn/khan-hai-duong-tiep-tuc-tim-nguoi-den-7-dia-diem-lien-quan-ca-mac-covid-19-20210225195145219.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bệnh nhân COVID-19 liên quan ổ dịch Kim Thành là nhân viên bán xăng](https://tuoitre.vn/benh-nhan-covid-19-lien-quan-o-dich-kim-thanh-la-nhan-vien-ban-xang-20210225181935794.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [30 bệnh nhân COVID-19 ở Quảng Ninh đủ tiêu chuẩn ra viện](https://laodong.vn/xa-hoi/30-benh-nhan-covid-19-o-quang-ninh-du-tieu-chuan-ra-vien-883698.ldo) ([Lao Động](https://laodong.vn))
+- [Đồng ý cho một số địa phương được mua vaccine theo phương thức xã hội hóa](https://laodong.vn/thoi-su/dong-y-cho-mot-so-dia-phuong-duoc-mua-vaccine-theo-phuong-thuc-xa-hoi-hoa-883672.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam chính thức có hệ thống dữ liệu quốc gia về dân cư](https://tuoitre.vn/viet-nam-chinh-thuc-co-he-thong-du-lieu-quoc-gia-ve-dan-cu-20210225175015261.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Đề xuất Bộ Y tế phê duyệt 2 loại vaccine COVID-19 của Mỹ và Nga](https://laodong.vn/y-te/de-xuat-bo-y-te-phe-duyet-2-loai-vaccine-covid-19-cua-my-va-nga-883681.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -122,7 +122,7 @@
 07. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
 08. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 09. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
-10. [Ariana Grande - 34+35 Remix (feat. Doja Cat and Megan Thee Stallion) (Official Video)](https://www.youtube.com/watch?v=ssq6X6alZ3w) - [ArianaGrandeVevo](https://www.youtube.com/channel/UC0VOyT2OCBKdQhF3BAbZ-1g)
+10. [Alan Walker, salem ilese - Fake A Smile (Lyrics)](https://www.youtube.com/watch?v=eAmluGnsTlo) - [Unique Vibes](https://www.youtube.com/channel/UCn7Z0uhzGS1KjnO-sWml_dw)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
