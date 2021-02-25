@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 24.89°C.
-- Air Visual is 127.
+- Temperature is 26°C.
+- Feels Like 25.5°C.
+- Air Visual is 137.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Sân nhà: Nỗi ám ảnh tại lượt đi vòng 1/8 Champions League](https://laodong.vn/bong-da-quoc-te/san-nha-noi-am-anh-tai-luot-di-vong-18-champions-league-883482.ldo) ([Lao Động](https://laodong.vn))
-- [Cần Thơ: Xử phạt đối tượng 5 triệu đồng vì đăng thông tin sai sự thật](https://laodong.vn/phap-luat/can-tho-xu-phat-doi-tuong-5-trieu-dong-vi-dang-thong-tin-sai-su-that-883490.ldo) ([Lao Động](https://laodong.vn))
-- [Những nước nào đang 'nuôi mộng' tiền kỹ thuật số quốc gia?](https://cafebiz.vn/nhung-nuoc-nao-dang-nuoi-mong-tien-ky-thuat-so-quoc-gia-20210225134901259.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lao vào tâm dịch COVID-19 khi con trai chỉ còn 1 tháng nữa chào đời](https://laodong.vn/cd-y-te/lao-vao-tam-dich-covid-19-khi-con-trai-chi-con-1-thang-nua-chao-doi-883483.ldo) ([Lao Động](https://laodong.vn))
-- [Bloomberg: Lãi suất đang dần "mất thiêng"](https://cafebiz.vn/bloomberg-lai-suat-dang-dan-mat-thieng-20210225134727088.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chùa Hương vắng vẻ đìu hiu trong mùa dịch COVID-19](https://cafebiz.vn/chua-huong-vang-ve-diu-hiu-trong-mua-dich-covid-19-20210225134628141.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phút trải lòng từ tâm dịch của các điều dưỡng 9X quả cảm](https://cafebiz.vn/phut-trai-long-tu-tam-dich-cua-cac-dieu-duong-9x-qua-cam-20210225134206728.chn) ([CafeBiz](https://cafebiz.vn))
-- [&quot;Hướng dương ngược nắng&quot;: Khán giả phẫn nộ với đạo diễn và biên kịch](https://laodong.vn/giai-tri/huong-duong-nguoc-nang-khan-gia-phan-no-voi-dao-dien-va-bien-kich-883470.ldo) ([Lao Động](https://laodong.vn))
-- [Khám phá khu vườn ở quê nhiều rau và cây trái của nhà Hoa hậu Đỗ Thị Hà](https://laodong.vn/bat-dong-san/kham-pha-khu-vuon-o-que-nhieu-rau-va-cay-trai-cua-nha-hoa-hau-do-thi-ha-883450.ldo) ([Lao Động](https://laodong.vn))
-- [Ca siêu lây nhiễm COVID-19 ở Hà Nội khỏi bệnh](https://cafebiz.vn/ca-sieu-lay-nhiem-covid-19-o-ha-noi-khoi-benh-20210225133815732.chn) ([CafeBiz](https://cafebiz.vn))
+- [“Thor 4: Love and Thunder” gặp tổn thất lớn dù chưa ra mắt](https://laodong.vn/giai-tri/thor-4-love-and-thunder-gap-ton-that-lon-du-chua-ra-mat-883434.ldo) ([Lao Động](https://laodong.vn))
+- [Hạnh phúc thật sự đến từ chữ BUÔNG: Bớt sân si, thôi tranh giành, từ giã thói quen "đứng núi này trông núi nọ"](https://cafebiz.vn/hanh-phuc-that-su-den-tu-chu-buong-bot-san-si-thoi-tranh-gianh-tu-gia-thoi-quen-dung-nui-nay-trong-nui-no-20210219122324369.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bí thư quận Tây Hồ Đỗ Anh Tuấn làm Giám đốc Sở Kế hoạch và Đầu tư Hà Nội](https://laodong.vn/thoi-su/bi-thu-quan-tay-ho-do-anh-tuan-lam-giam-doc-so-ke-hoach-va-dau-tu-ha-noi-883495.ldo) ([Lao Động](https://laodong.vn))
+- [Nghịch lý thị trường BĐS đầu năm mới: Người quan tâm ít, nguồn cung ít, nhưng giá vẫn tăng đều](https://cafebiz.vn/nghich-ly-thi-truong-bds-dau-nam-moi-nguoi-quan-tam-it-nguon-cung-it-nhung-gia-van-tang-deu-20210225112501988.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Bước chân' vào giới siêu giàu nhờ dịch bệnh, những tỷ phú này đang chứng kiến tài sản 'bốc hơi' gần 10 tỷ USD khi vaccine Covid-19 được triển khai](https://cafebiz.vn/buoc-chan-vao-gioi-sieu-giau-nho-dich-benh-nhung-ty-phu-nay-dang-chung-kien-tai-san-boc-hoi-gan-10-ty-usd-khi-vaccine-covid-19-duoc-trien-khai-20210225133816802.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sách First News 4 năm trước 'được' Thái Hà Books tái bản: Giữ tựa cũ, bỏ tên First News và người chắp bút](https://cafebiz.vn/sach-first-news-4-nam-truoc-duoc-thai-ha-books-tai-ban-giu-tua-cu-bo-ten-first-news-va-nguoi-chap-but-2021022513311439.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nàng hậu của Việt Nam đầu tiên đăng quang Hoa hậu Trái đất trở lại sau ở ẩn](https://laodong.vn/photo/nang-hau-cua-viet-nam-dau-tien-dang-quang-hoa-hau-trai-dat-tro-lai-sau-o-an-883407.ldo) ([Lao Động](https://laodong.vn))
+- [Vẻ đẹp thanh xuân của Y Phụng - minh tinh từng khiến tài tử Lý Hùng say đắm](https://laodong.vn/photo/ve-dep-thanh-xuan-cua-y-phung-minh-tinh-tung-khien-tai-tu-ly-hung-say-dam-883158.ldo) ([Lao Động](https://laodong.vn))
+- [Á hậu Ngọc Thảo khoe chân dài 1m1, tiết lộ hành trang đi thi Miss Grand](https://laodong.vn/photo/a-hau-ngoc-thao-khoe-chan-dai-1m1-tiet-lo-hanh-trang-di-thi-miss-grand-883356.ldo) ([Lao Động](https://laodong.vn))
+- [PV GAS tăng cường ứng phó dịch bệnh và diễn biến giá dầu](https://laodong.vn/thong-tin-doanh-nghiep/pv-gas-tang-cuong-ung-pho-dich-benh-va-dien-bien-gia-dau-883383.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Ủa lương ơi, lương đã đi đâu?](https://vietcetera.com/vn/ua-luong-oi-luong-da-di-dau)
 - [2 Robot Daft Punk và 28 năm kiến tạo nền âm nhạc](https://vietcetera.com/vn/2-robot-daft-punk-va-28-nam-kien-tao-nen-am-nhac)
 - ["Crush của chị đứng giữa lớp hô, 'Ai chơi vật tay với tao không?'"](https://vietcetera.com/vn/crush-cua-chi-dung-giua-lop-ho-ai-choi-vat-tay-voi-tao-khong)
 - [Không Quan Tâm: G-Dragon và Jennie hẹn hò](https://vietcetera.com/vn/khongquantam-jennie-va-g-dragon-hen-ho)
@@ -105,7 +106,6 @@
 - [Hà Huy Hoàng: "Hồi ký cuộc đời mình sẽ mang tên 'Xin cho tôi vẽ!'"](https://vietcetera.com/vn/ha-huy-hoang-hoi-ky-cuoc-doi-minh-se-mang-ten-xin-cho-toi-ve)
 - [Bóc Term: Zombie-box — Bạn dùng công nghệ hay công nghệ dùng bạn?](https://vietcetera.com/vn/boc-term-zombie-box-ban-co-dang-bi-an-nao)
 - [Điện ảnh, công nghệ và y tế: Việt Nam đang đứng ở đâu?](https://vietcetera.com/vn/khong-chi-chong-dich-tot-viet-nam-dang-dat-nhieu-cot-moc-hon-the)
-- ["Đâu là khoảnh khắc anh nhận ra mình rất hạnh phúc?"](https://vietcetera.com/vn/dau-la-khoanh-khac-anh-nhan-ra-minh-rat-hanh-phuc)
 
 [Read More](https://vietcetera.com/)
 
