@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is broken clouds.
 - Temperature is 22°C.
-- Feels Like 23.14°C.
-- Air Visual is 113.
+- Feels Like 23.06°C.
+- Air Visual is 50.
 
 **WEATHER**
 
