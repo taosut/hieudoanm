@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 21°C.
-- Feels Like 22.04°C.
-- Air Visual is 100.
+- Temperature is 22°C.
+- Feels Like 22.77°C.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -50,23 +50,23 @@
 
 - [![AstraZeneca](https://img.shields.io/static/v1?label=AstraZeneca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AstraZeneca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
+- [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Daft Punk](https://img.shields.io/static/v1?label=Daft%20Punk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Daft%20Punk)
+- [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá Bitcoin](https://img.shields.io/static/v1?label=Gi%C3%A1%20Bitcoin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20Bitcoin)
-- [![Giá vang hom nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20vang%20hom%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20vang%20hom%20nay)
-- [![Hà Nam](https://img.shields.io/static/v1?label=H%C3%A0%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%A0%20Nam)
+- [![Giá vang-hom-nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20vang-hom-nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20vang-hom-nay)
 - [![Hướng dương ngược nắng tập 33](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033)
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
-- [![Phạm Băng Băng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20B%C4%83ng%20B%C4%83ng)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
+- [![Ronaldo Juventus](https://img.shields.io/static/v1?label=Ronaldo%20Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ronaldo%20Juventus)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
-- [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
 - [![Đường lên đỉnh Olympia](https://img.shields.io/static/v1?label=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [2 thành viên hot của Blackpink và BTS dính ồn ào liên quan chuyện &quot;bắt nạt&quot;](https://laodong.vn/giai-tri/2-thanh-vien-hot-cua-blackpink-va-bts-dinh-on-ao-lien-quan-chuyen-bat-nat-883357.ldo) ([Lao Động](https://laodong.vn))
-- [Dự báo thời tiết 25.2: Miền Bắc ngày nắng hanh, se lạnh vào đêm và sáng](https://laodong.vn/moi-truong/du-bao-thoi-tiet-252-mien-bac-ngay-nang-hanh-se-lanh-vao-dem-va-sang-883310.ldo) ([Lao Động](https://laodong.vn))
-- [Những trường hợp được phép chuyển mục đích sử dụng đất](https://laodong.vn/bat-dong-san/nhung-truong-hop-duoc-phep-chuyen-muc-dich-su-dung-dat-883066.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Ninh: 4 tấn ổi đặc sản Hải Dương &quot;hết vèo&quot; trong một đêm](https://laodong.vn/xa-hoi/bac-ninh-4-tan-oi-dac-san-hai-duong-het-veo-trong-mot-dem-883181.ldo) ([Lao Động](https://laodong.vn))
-- [Lô vaccine COVID-19 nhập khẩu đầu tiên về Việt Nam được bảo quản đặc biệt ra sao?](https://cafebiz.vn/lo-vaccine-covid-19-nhap-khau-dau-tien-ve-viet-nam-duoc-bao-quan-dac-biet-ra-sao-20210225073928385.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lào Cai: Bắt giữ 2 thanh niên 10x sử dụng ma túy, cướp tài sản](https://laodong.vn/phap-luat/lao-cai-bat-giu-2-thanh-nien-10x-su-dung-ma-tuy-cuop-tai-san-883355.ldo) ([Lao Động](https://laodong.vn))
-- [Gay cấn chuyện đưa vắc-xin về Việt Nam](https://cafebiz.vn/gay-can-chuyen-dua-vac-xin-ve-viet-nam-20210225073402113.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhiệt độ - yếu tố "sống còn" trong quy trình vận chuyển vắc-xin ngừa COVID-19](https://cafebiz.vn/nhiet-do-yeu-to-song-con-trong-quy-trinh-van-chuyen-vac-xin-ngua-covid-19-20210225073040573.chn) ([CafeBiz](https://cafebiz.vn))
-- [Học online: Giáo viên gặp khó, học sinh nhăn nhó](https://laodong.vn/video/hoc-online-giao-vien-gap-kho-hoc-sinh-nhan-nho-883081.ldo) ([Lao Động](https://laodong.vn))
-- [Đọc báo cùng bạn 25-2: Cùng Tuổi Trẻ góp vắcxin COVID-19](https://tuoitre.vn/doc-bao-cung-ban-25-2-cung-tuoi-tre-gop-vacxin-covid-19-20210225060313642.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ứng viên Đại diện Thương mại Mỹ cam kết thực dụng với Trung Quốc](https://laodong.vn/the-gioi/ung-vien-dai-dien-thuong-mai-my-cam-ket-thuc-dung-voi-trung-quoc-883369.ldo) ([Lao Động](https://laodong.vn))
+- [Điểm danh các nước đóng cửa chống COVID-19 ‘nghiêm khắc nhất’](https://cafebiz.vn/diem-danh-cac-nuoc-dong-cua-chong-covid-19-nghiem-khac-nhat-20210225083751316.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lãi suất huy động tiếp tục giảm, chờ tín hiệu từ lãi suất cho vay](https://cafebiz.vn/lai-suat-huy-dong-tiep-tuc-giam-cho-tin-hieu-tu-lai-suat-cho-vay-20210225083749278.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Cánh tay phải của Warren Buffett': Giữa cổ phiếu Tesla và giá Bitcoin không biết cái nào tệ hơn!](https://cafebiz.vn/canh-tay-phai-cua-warren-buffett-giua-co-phieu-tesla-va-gia-bitcoin-khong-biet-cai-nao-te-hon-20210225083220825.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quảng Nam: Nam sinh lớp 9 trêu bạn bè, giả văn bản cho cả tỉnh nghỉ học vì Covid-19](https://cafebiz.vn/quang-nam-nam-sinh-lop-9-treu-ban-be-gia-van-ban-cho-ca-tinh-nghi-hoc-vi-covid-19-20210225083600012.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chân dung 3 ái nữ nghìn tỷ của chủ tịch PNJ Cao Thị Ngọc Dung: Xinh đẹp, cá tính, đều là tiến sĩ Harvard và Oxford](https://cafebiz.vn/chan-dung-3-ai-nu-nghin-ty-cua-chu-tich-pnj-cao-thi-ngoc-dung-xinh-dep-ca-tinh-deu-la-tien-si-harvard-va-oxford-20210222170958915.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hoàn tất “điệp vụ Italia”, Zidane và Real Madrid lập kỷ lục](https://laodong.vn/bong-da-quoc-te/hoan-tat-diep-vu-italia-zidane-va-real-madrid-lap-ky-luc-883368.ldo) ([Lao Động](https://laodong.vn))
+- [Moderna phát triển mũi tiêm chống biến thể COVID-19](https://laodong.vn/the-gioi/moderna-phat-trien-mui-tiem-chong-bien-the-covid-19-883366.ldo) ([Lao Động](https://laodong.vn))
+- [Tại Trung Quốc, 5 năm thanh xuân của các bà nội trợ chỉ đáng giá 8.000 USD, rẻ mạt hơn lương bảo mẫu](https://cafebiz.vn/tai-trung-quoc-5-nam-thanh-xuan-cua-cac-ba-noi-tro-chi-dang-gia-8000-usd-re-mat-hon-luong-bao-mau-202102241828554.chn) ([CafeBiz](https://cafebiz.vn))
+- [4,8 triệu liều vaccine COVID-19 về Việt Nam sẽ được tiêm thế nào?](https://laodong.vn/xa-hoi/48-trieu-lieu-vaccine-covid-19-ve-viet-nam-se-duoc-tiem-the-nao-883374.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
