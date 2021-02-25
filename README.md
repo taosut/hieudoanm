@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 23.53°C.
-- Air Visual is 124.
+- Feels Like 23.93°C.
+- Air Visual is 91.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Người vi phạm giao thông đồng tình việc nộp phạt trực tuyến](https://laodong.vn/phap-luat/nguoi-vi-pham-giao-thong-dong-tinh-viec-nop-phat-truc-tuyen-883635.ldo) ([Lao Động](https://laodong.vn))
-- [Tiếp tục ghi nhận 7 ca mới mắc COVID-19 tại Hải Dương](https://laodong.vn/y-te/tiep-tuc-ghi-nhan-7-ca-moi-mac-covid-19-tai-hai-duong-883645.ldo) ([Lao Động](https://laodong.vn))
-- [Khát vọng kỷ nguyên “nông nghiệp thông minh”](https://laodong.vn/kinh-te/khat-vong-ky-nguyen-nong-nghiep-thong-minh-883648.ldo) ([Lao Động](https://laodong.vn))
-- [Thanh Hóa: Một thanh niên bị đánh tử vong khi trên đường đi làm về](https://laodong.vn/phap-luat/thanh-hoa-mot-thanh-nien-bi-danh-tu-vong-khi-tren-duong-di-lam-ve-883618.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều dịch vụ ở Sài Gòn được hoạt động từ ngày 1/3](https://vnexpress.net/nhieu-dich-vu-o-sai-gon-duoc-hoat-dong-tu-ngay-1-3-4240324.html) ([VNExpress](https://vnexpress.net))
-- [Bắc Giang: Phát hiện 5 trường hợp trồng cây thuốc phiện trong vườn](https://laodong.vn/phap-luat/bac-giang-phat-hien-5-truong-hop-trong-cay-thuoc-phien-trong-vuon-883630.ldo) ([Lao Động](https://laodong.vn))
-- [Kylie Jenner mất chức nữ tỷ phú tự thân trẻ nhất thế giới, cô gái soán ngôi có câu chuyện làm giàu nhờ… trả thù tình cũ cực kỳ đặc sắc](https://cafebiz.vn/kylie-jenner-mat-chuc-nu-ty-phu-tu-than-tre-nhat-the-gioi-co-gai-soan-ngoi-co-cau-chuyen-lam-giau-nho-tra-thu-tinh-cu-cuc-ky-dac-sac-20210225165126024.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Phòng dự kiến cho học sinh đi học trở lại từ 7.3](https://laodong.vn/giao-duc/hai-phong-du-kien-cho-hoc-sinh-di-hoc-tro-lai-tu-73-883619.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao thương hiệu Viettel tiếp tục lập đỉnh mới về giá trị?](https://cafebiz.vn/vi-sao-thuong-hieu-viettel-tiep-tuc-lap-dinh-moi-ve-gia-tri-20210225174943695.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chùa Phúc Khánh tổ chức cầu an trực tuyến](https://vnexpress.net/chua-phuc-khanh-to-chuc-cau-an-truc-tuyen-4240269.html) ([VNExpress](https://vnexpress.net))
+- [Ảnh: Nông dân Mê Linh nuốt nước mắt, nhổ bỏ hàng trăm tấn củ cải vì không tiêu thụ được](https://cafebiz.vn/anh-nong-dan-me-linh-nuot-nuoc-mat-nho-bo-hang-tram-tan-cu-cai-vi-khong-tieu-thu-duoc-20210225180756182.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lô vắc-xin COVID-19 đầu tiên đã tới Thái Lan](https://laodong.vn/kinh-te/lo-vac-xin-covid-19-dau-tien-da-toi-thai-lan-883616.ldo) ([Lao Động](https://laodong.vn))
+- [Tổng LĐLĐVN: Tổng kết 3 chiến dịch truyền thông dịp Tết Tân Sửu 2021](https://laodong.vn/cong-doan/tong-ldldvn-tong-ket-3-chien-dich-truyen-thong-dip-tet-tan-suu-2021-883496.ldo) ([Lao Động](https://laodong.vn))
+- [Thêm 8 ca COVID-19 mới, 7 người tại Hải Dương](https://tuoitre.vn/them-8-ca-covid-19-moi-7-nguoi-tai-hai-duong-20210225183114989.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [TPHCM: Nhiều lĩnh vực hoạt động lại từ 1.3](https://laodong.vn/xa-hoi/tphcm-nhieu-linh-vuc-hoat-dong-lai-tu-13-883642.ldo) ([Lao Động](https://laodong.vn))
+- [Cập nhật về tình hình doanh nghiệp Việt Nam tại Myanmar](https://laodong.vn/the-gioi/cap-nhat-ve-tinh-hinh-doanh-nghiep-viet-nam-tai-myanmar-883633.ldo) ([Lao Động](https://laodong.vn))
+- [Ba cô gái tình nguyện nhập ngũ](https://vnexpress.net/ba-co-gai-tinh-nguyen-nhap-ngu-4240212.html) ([VNExpress](https://vnexpress.net))
+- [Công đoàn thăm, khen thưởng đoàn viên tuyến đầu chống dịch COVID-19](https://laodong.vn/ldld-khanh-hoa/cong-doan-tham-khen-thuong-doan-vien-tuyen-dau-chong-dich-covid-19-883571.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao lô vaccine đầu tiên về Việt Nam bằng máy bay của Hàn Quốc?](https://laodong.vn/the-gioi/vi-sao-lo-vaccine-dau-tien-ve-viet-nam-bang-may-bay-cua-han-quoc-883612.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam, Anh xác minh vụ cảnh báo người nước ngoài bị quấy rối ở Hà Nội](https://tuoitre.vn/viet-nam-anh-xac-minh-vu-canh-bao-nguoi-nuoc-ngoai-bi-quay-roi-o-ha-noi-2021022518074808.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
