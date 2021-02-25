@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is light intensity drizzle.
+- Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 24.38°C.
-- Air Visual is 72.
+- Feels Like 23.49°C.
+- Air Visual is 95.
 
 **WEATHER**
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Ba xã cuối cùng ở Quảng Ninh được dỡ phong tỏa](https://vnexpress.net/ba-xa-cuoi-cung-o-quang-ninh-duoc-do-phong-toa-4240383.html) ([VNExpress](https://vnexpress.net))
 - [Ô tô đâm loạt xe đạp điện trên cầu, học sinh ở Quảng Trị rơi xuống sông tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/o-to-dam-loat-xe-dap-dien-tren-cau-hoc-sinh-o-quang-tri-roi-xuong-song-tu-vong-715573.html) ([VietNamNet](https://vietnamnet.vn))
 - [Covid-19 ngày 26/2](https://vnexpress.net/covid-19-ngay-26-2-4240385.html) ([VNExpress](https://vnexpress.net))
 - [VnExpress tròn 20 tuổi](https://vnexpress.net/vnexpress-tron-20-tuoi-4237882.html) ([VNExpress](https://vnexpress.net))
@@ -84,7 +85,6 @@
 - [Chứng khoán: Quán tính tăng điểm sẽ tiếp tục trong phiên cuối tuần?](https://laodong.vn/kinh-te/chung-khoan-quan-tinh-tang-diem-se-tiep-tuc-trong-phien-cuoi-tuan-883711.ldo) ([Lao Động](https://laodong.vn))
 - [Điện Biên dỡ bỏ phong tỏa 2 bản liên quan đến bệnh nhân số 1972](https://laodong.vn/xa-hoi/dien-bien-do-bo-phong-toa-2-ban-lien-quan-den-benh-nhan-so-1972-883712.ldo) ([Lao Động](https://laodong.vn))
 - [Căn hộ 12m² với cách bố trí nội thất thông minh "vừa vặn" cho gia đình trẻ](https://cafebiz.vn/can-ho-12m-voi-cach-bo-tri-noi-that-thong-minh-vua-van-cho-gia-dinh-tre-20210225221820784.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bill Gates chỉ ra 4 thói quen tạo ra sự khác biệt giữa  người hành động và kẻ mộng mơ: Bạn tự kiểm tra lại mình nhé!](https://cafebiz.vn/bill-gates-chi-ra-4-thoi-quen-tao-ra-su-khac-biet-giua-nguoi-hanh-dong-va-ke-mong-mo-ban-tu-kiem-tra-lai-minh-nhe-20210222183439579.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
