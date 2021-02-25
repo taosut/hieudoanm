@@ -19,17 +19,17 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is drizzle.
 - Temperature is 22°C.
-- Feels Like 22.77°C.
-- Air Visual is 98.
+- Feels Like 24.02°C.
+- Air Visual is 106.
 
 **WEATHER**
 
-- Date: 2021/02/25
-- Lunar: 2021/01/14
+- Date: 2021/02/26
+- Lunar: 2021/01/15
 - Tiet Khi: Tiểu tuyết.
-- năm canh tý tháng kỷ sửu ngày nhâm tuất.
+- năm canh tý tháng kỷ sửu ngày quý hợi.
 
 **NPM**
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Covid-19 ngày 26/2](https://vnexpress.net/covid-19-ngay-26-2-4240385.html) ([VNExpress](https://vnexpress.net))
+- [VnExpress tròn 20 tuổi](https://vnexpress.net/vnexpress-tron-20-tuoi-4237882.html) ([VNExpress](https://vnexpress.net))
 - [Chùa Phúc Khánh tổ chức cầu an trực tuyến](https://vnexpress.net/chua-phuc-khanh-to-chuc-cau-an-truc-tuyen-4240377.html) ([VNExpress](https://vnexpress.net))
 - [Không để công nhân nhà trọ &quot;cô đơn&quot; giữa tâm dịch Cẩm Giàng](https://laodong.vn/cong-doan/khong-de-cong-nhan-nha-tro-co-don-giua-tam-dich-cam-giang-883710.ldo) ([Lao Động](https://laodong.vn))
 - [Bước tiến của Hà Nội về quy hoạch phân khu nội đô lịch sử và sông Hồng](https://laodong.vn/thoi-su/buoc-tien-cua-ha-noi-ve-quy-hoach-phan-khu-noi-do-lich-su-va-song-hong-883713.ldo) ([Lao Động](https://laodong.vn))
@@ -83,8 +85,6 @@
 - [Căn hộ 12m² với cách bố trí nội thất thông minh "vừa vặn" cho gia đình trẻ](https://cafebiz.vn/can-ho-12m-voi-cach-bo-tri-noi-that-thong-minh-vua-van-cho-gia-dinh-tre-20210225221820784.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bill Gates chỉ ra 4 thói quen tạo ra sự khác biệt giữa  người hành động và kẻ mộng mơ: Bạn tự kiểm tra lại mình nhé!](https://cafebiz.vn/bill-gates-chi-ra-4-thoi-quen-tao-ra-su-khac-biet-giua-nguoi-hanh-dong-va-ke-mong-mo-ban-tu-kiem-tra-lai-minh-nhe-20210222183439579.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chuyên gia phong thủy tiết lộ vào Rằm tháng Giêng 3 con giáp không chỉ may mắn phần mình mà còn đem vận may cho người thân, cả năm vượng tài vượng tình](https://cafebiz.vn/chuyen-gia-phong-thuy-tiet-lo-vao-ram-thang-gieng-3-con-giap-khong-chi-may-man-phan-minh-ma-con-dem-van-may-cho-nguoi-than-ca-nam-vuong-tai-vuong-tinh-20210225221418257.chn) ([CafeBiz](https://cafebiz.vn))
-- [HLV Shimoda: &quot;CLB Sài Gòn sẽ chơi tấn công mạnh hơn nữa!&quot;](https://laodong.vn/video/hlv-shimoda-clb-sai-gon-se-choi-tan-cong-manh-hon-nua-883654.ldo) ([Lao Động](https://laodong.vn))
-- [Hình ảnh chưa từng có ở chùa Phúc Khánh trong lễ cầu an trực tuyến đầu tiên](http://vietnamnet.vn/vn/thoi-su/hinh-anh-chua-tung-co-o-chua-phuc-khanh-trong-le-cau-an-truc-tuyen-dau-tien-715551.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -117,12 +117,12 @@
 02. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 03. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 04. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
-05. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
-06. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+05. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+06. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
 07. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
 08. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-09. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
-10. [Alan Walker, salem ilese - Fake A Smile (Lyrics)](https://www.youtube.com/watch?v=eAmluGnsTlo) - [Unique Vibes](https://www.youtube.com/channel/UCn7Z0uhzGS1KjnO-sWml_dw)
+09. [Alan Walker, salem ilese - Fake A Smile (Lyrics)](https://www.youtube.com/watch?v=eAmluGnsTlo) - [Unique Vibes](https://www.youtube.com/channel/UCn7Z0uhzGS1KjnO-sWml_dw)
+10. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
