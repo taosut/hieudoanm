@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 25.5°C.
-- Air Visual is 149.
+- Air Visual is 126.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Đề xuất không tiếp tục thực hiện dự án cơ sở dữ liệu đất đai tại Lâm Đồng](https://laodong.vn/bat-dong-san/de-xuat-khong-tiep-tuc-thuc-hien-du-an-co-so-du-lieu-dat-dai-tai-lam-dong-883462.ldo) ([Lao Động](https://laodong.vn))
-- [Giá xăng dầu trong nước vừa được điều chỉnh tăng](https://laodong.vn/thi-truong/gia-xang-dau-trong-nuoc-vua-duoc-dieu-chinh-tang-883498.ldo) ([Lao Động](https://laodong.vn))
-- [Xin ngân sách bất thành, công ty cây xanh Đà Nẵng tự bỏ tiền túi di dời rác](https://laodong.vn/xa-hoi/xin-ngan-sach-bat-thanh-cong-ty-cay-xanh-da-nang-tu-bo-tien-tui-di-doi-rac-883512.ldo) ([Lao Động](https://laodong.vn))
+- [Xúc động khoảnh khắc chú chó già yếu từ biệt chủ trước khi rời nhà tìm nơi để... chết](https://cafebiz.vn/xuc-dong-khoanh-khac-chu-cho-gia-yeu-tu-biet-chu-truoc-khi-roi-nha-tim-noi-de-chet-20210225154641301.chn) ([CafeBiz](https://cafebiz.vn))
+- [LĐLĐ Quảng Bình chúc mừng ngày thầy thuốc Việt Nam](https://laodong.vn/cong-doan/ldld-quang-binh-chuc-mung-ngay-thay-thuoc-viet-nam-883532.ldo) ([Lao Động](https://laodong.vn))
+- [Công an tỉnh Sóc Trăng, Bạc Liêu hiến máu nhân đạo](https://laodong.vn/xa-hoi/cong-an-tinh-soc-trang-bac-lieu-hien-mau-nhan-dao-883539.ldo) ([Lao Động](https://laodong.vn))
+- [Phát hiện 11 công dân nhập cảnh trái phép ở Lạng Sơn](https://laodong.vn/phap-luat/phat-hien-11-cong-dan-nhap-canh-trai-phep-o-lang-son-883530.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao các đường dây ma túy lớn chọn TPHCM làm điểm tập kết?](https://laodong.vn/phap-luat/vi-sao-cac-duong-day-ma-tuy-lon-chon-tphcm-lam-diem-tap-ket-883375.ldo) ([Lao Động](https://laodong.vn))
+- [Sotheby's đấu giá &quot;chiếc bát ăn cơm cũ&quot; trị giá 11,5 tỉ đồng](https://laodong.vn/the-gioi/sothebys-dau-gia-chiec-bat-an-com-cu-tri-gia-115-ti-dong-883524.ldo) ([Lao Động](https://laodong.vn))
+- [Tesla đầu tư vào Bitcoin và Musk đang 'chơi với lửa'](https://cafebiz.vn/tesla-dau-tu-vao-bitcoin-va-musk-dang-choi-voi-lua-20210225152158039.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Khẩu vị' lạ của nhà đầu tư Trung Quốc: Thờ ơ với Facebook, Apple, Amazon, chỉ thích rót tiền vào cổ phiếu các công ty bán... thịt lợn](https://cafebiz.vn/khau-vi-la-cua-nha-dau-tu-trung-quoc-tho-o-voi-facebook-apple-amazon-chi-thich-rot-tien-vao-co-phieu-cac-cong-ty-ban-thit-lon-20210225151300908.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bạn đọc Tuổi Trẻ đóng góp mua vắc xin, mong mỗi người cùng góp sức](https://tuoitre.vn/ban-doc-tuoi-tre-dong-gop-mua-vacxin-mong-moi-nguoi-cung-gop-suc-20210225144342577.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Israel đã tìm ra cách chấm dứt đại dịch Covid-19](https://cafebiz.vn/israel-da-tim-ra-cach-cham-dut-dai-dich-covid-19-20210225151645904.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tỷ phú công nghệ Mỹ: Nên phạt tiền, bỏ tù những người kích động, lôi kéo mua Bitcoin](https://cafebiz.vn/ty-phu-cong-nghe-my-nen-phat-tien-bo-tu-nhung-nguoi-kich-dong-loi-keo-mua-bitcoin-20210225150556149.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bạn có đang làm công việc vô nghĩa?](https://cafebiz.vn/ban-co-dang-lam-cong-viec-vo-nghia-20210225150041335.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giải thưởng Văn học nghệ thuật Nguyễn Quang Diêu lần thứ IV](https://laodong.vn/van-hoa-giai-tri/giai-thuong-van-hoc-nghe-thuat-nguyen-quang-dieu-lan-thu-iv-883515.ldo) ([Lao Động](https://laodong.vn))
-- [EVNHANOI quyết tâm hoàn thành công tác đầu tư xây dựng năm 2021](https://laodong.vn/kinh-te/evnhanoi-quyet-tam-hoan-thanh-cong-tac-dau-tu-xay-dung-nam-2021-883464.ldo) ([Lao Động](https://laodong.vn))
-- [Huawei muốn sản xuất sản phẩm ‘hạng nhất’ từ linh kiện ‘hạng ba’](https://cafebiz.vn/huawei-muon-san-xuat-san-pham-hang-nhat-tu-linh-kien-hang-ba-20210225135814791.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dân cả nước đóng góp tiền mua vắc-xin Covid-19](https://cafebiz.vn/nguoi-dan-ca-nuoc-dong-gop-tien-mua-vac-xin-covid-19-20210225145815241.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
