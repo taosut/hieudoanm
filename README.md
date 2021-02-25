@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 23°C.
 - Feels Like 22.97°C.
-- Air Visual is 105.
+- Air Visual is 103.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Xuất hiện "người hùng giấu mặt" giúp huyền thoại làng golf Tiger Woods thoát khỏi lưỡi hái tử thần](https://cafebiz.vn/xuat-hien-nguoi-hung-giau-mat-giup-huyen-thoai-lang-golf-tiger-woods-thoat-khoi-luoi-hai-tu-than-20210225183838881.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hoàng đế "diễn sâu" nhất lịch sử Trung Hoa: Giả ngốc suốt 36 năm, vừa lên ngôi đã thể hiện mưu trí hơn người, lập tức xử kẻ đối đầu](https://cafebiz.vn/hoang-de-dien-sau-nhat-lich-su-trung-hoa-gia-ngoc-suot-36-nam-vua-len-ngoi-da-the-hien-muu-tri-hon-nguoi-lap-tuc-xu-ke-doi-dau-20210225154812013.chn) ([CafeBiz](https://cafebiz.vn))
-- [ĐH Thái Nguyên lùi thời gian trở lại trường để phòng chống dịch COVID-19](https://laodong.vn/giao-duc/dh-thai-nguyen-lui-thoi-gian-tro-lai-truong-de-phong-chong-dich-covid-19-883694.ldo) ([Lao Động](https://laodong.vn))
-- [6 thói quen tai hại khiến điện thoại nhanh hỏng hơn](https://laodong.vn/cong-nghe/6-thoi-quen-tai-hai-khien-dien-thoai-nhanh-hong-hon-883702.ldo) ([Lao Động](https://laodong.vn))
-- [Bị phạt hơn 17 triệu vì bỏ đi bán thịt khi đang cách ly](https://tuoitre.vn/bi-phat-hon-17-trieu-vi-bo-di-ban-thit-khi-dang-cach-ly-20210225202127523.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chưa cần lùi thời gian kết thúc năm học nếu học sinh trở lại trường từ tháng 3](https://laodong.vn/giao-duc/chua-can-lui-thoi-gian-ket-thuc-nam-hoc-neu-hoc-sinh-tro-lai-truong-tu-thang-3-883559.ldo) ([Lao Động](https://laodong.vn))
-- [Nhận thưởng Tết xong là nghỉ việc: Là “ăn cháo đá bát” hay “giọt nước tràn ly”?](https://cafebiz.vn/nhan-thuong-tet-xong-la-nghi-viec-la-an-chao-da-bat-hay-giot-nuoc-tran-ly-20210225165738337.chn) ([CafeBiz](https://cafebiz.vn))
-- [3 thứ càng tham càng dễ gặp họa: Phàm là người khôn ngoan đều biết tỉnh táo tránh xa](https://cafebiz.vn/3-thu-cang-tham-cang-de-gap-hoa-pham-la-nguoi-khon-ngoan-deu-biet-tinh-tao-tranh-xa-2021022519294327.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đại sứ Việt Nam tái ứng cử vào Ủy ban Luật pháp Quốc tế](http://vietnamnet.vn/vn/thoi-su/chinh-tri/dai-su-viet-nam-tai-ung-cu-vao-uy-ban-luat-phap-quoc-te-715547.html) ([VietNamNet](https://vietnamnet.vn))
-- [8 người nhập viện sau khi ăn thịt bê thui](https://vnexpress.net/8-nguoi-nhap-vien-sau-khi-an-thit-be-thui-4240349.html) ([VNExpress](https://vnexpress.net))
+- [Ra mắt cuốn sách ảnh &quot;Yên Bái - Đất và người&quot;](https://laodong.vn/van-hoa/ra-mat-cuon-sach-anh-yen-bai-dat-va-nguoi-883709.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất Bộ Y tế phê duyệt thêm vaccine phòng Covid-19 của Mỹ và Nga](https://cafebiz.vn/de-xuat-bo-y-te-phe-duyet-them-vaccine-phong-covid-19-cua-my-va-nga-20210225194852326.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đảo Phú Quý có tân bí thư Huyện ủy](https://tuoitre.vn/dao-phu-quy-co-tan-bi-thu-huyen-uy-20210225205837597.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nhiều doanh nghiệp và địa phương nô nức muốn mua vắc xin Covid-19, nhưng liệu có phải cứ có tiền sẽ mua được?](https://cafebiz.vn/nhieu-doanh-nghiep-va-dia-phuong-no-nuc-muon-mua-vac-xin-covid-19-nhung-lieu-co-phai-cu-co-tien-se-mua-duoc-20210225135121803.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nóng nhất hôm nay: Đảng Cộng hòa bất đồng về bài phát biểu của ông Trump](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-dang-cong-hoa-bat-dong-ve-bai-phat-bieu-cua-ong-trump-883658.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt đối tượng gây ra vụ án 8 người thương vong ở quán karaoke tại Hòa Bình](https://laodong.vn/phap-luat/bat-doi-tuong-gay-ra-vu-an-8-nguoi-thuong-vong-o-quan-karaoke-tai-hoa-binh-883706.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam nói về thông tin hải cảnh Trung Quốc áp sát giàn khoan Hải Thạch](https://laodong.vn/the-gioi/viet-nam-noi-ve-thong-tin-hai-canh-trung-quoc-ap-sat-gian-khoan-hai-thach-883705.ldo) ([Lao Động](https://laodong.vn))
+- [Eximbank &quot;lục tục&quot; tổ chức ĐHCĐ sau 5 lần hoãn, nợ xấu vọt lên 2534 tỉ đồng](https://laodong.vn/kinh-te/eximbank-luc-tuc-to-chuc-dhcd-sau-5-lan-hoan-no-xau-vot-len-2534-ti-dong-883675.ldo) ([Lao Động](https://laodong.vn))
+- [Doanh nghiệp vận tải lo không được xét nghiệm Covid-19](https://vnexpress.net/doanh-nghiep-van-tai-lo-khong-duoc-xet-nghiem-covid-19-4240330.html) ([VNExpress](https://vnexpress.net))
+- [Từng được Tôn Sách đích thân trao quyền, vì sao Tôn Quyền đến lúc chết vẫn không truy phong anh ruột làm Hoàng đế?](https://cafebiz.vn/tung-duoc-ton-sach-dich-than-trao-quyen-vi-sao-ton-quyen-den-luc-chet-van-khong-truy-phong-anh-ruot-lam-hoang-de-202102251953256.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
