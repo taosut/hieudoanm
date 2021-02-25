@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 25.5°C.
-- Air Visual is 127.
+- Air Visual is 149.
 
 **WEATHER**
 
@@ -50,9 +50,9 @@
 
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
-- [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
 - [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá vang hom nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20vang%20hom%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20vang%20hom%20nay)
 - [![Huong duong nguoc nang tap 33](https://img.shields.io/static/v1?label=Huong%20duong%20nguoc%20nang%20tap%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Huong%20duong%20nguoc%20nang%20tap%2033)
@@ -63,8 +63,8 @@
 - [![Lion Group](https://img.shields.io/static/v1?label=Lion%20Group&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lion%20Group)
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
+- [![Ronaldo Juventus](https://img.shields.io/static/v1?label=Ronaldo%20Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ronaldo%20Juventus)
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
-- [![Thị xã Bỉm Sơn](https://img.shields.io/static/v1?label=Th%E1%BB%8B%20x%C3%A3%20B%E1%BB%89m%20S%C6%A1n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BB%8B%20x%C3%A3%20B%E1%BB%89m%20S%C6%A1n)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Đường lên đỉnh Olympia](https://img.shields.io/static/v1?label=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Giá lợn hơi và thịt lợn tiếp tục giảm](https://cafebiz.vn/gia-lon-hoi-va-thit-lon-tiep-tuc-giam-20210225144517859.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo viên tật bất dọn dẹp vệ sinh trường, lớp chuẩn bị đón học sinh trở lại](https://laodong.vn/photo/giao-vien-tat-bat-don-dep-ve-sinh-truong-lop-chuan-bi-don-hoc-sinh-tro-lai-883460.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Sát Rằm tháng Giêng, vắng lặng ở nhiều ngôi chùa do dịch COVID-19](https://laodong.vn/photo/tphcm-sat-ram-thang-gieng-vang-lang-o-nhieu-ngoi-chua-do-dich-covid-19-883476.ldo) ([Lao Động](https://laodong.vn))
-- [Xã hội hoá vaccine COVID-19 để phủ nhanh và giảm gánh nặng ngân sách](https://laodong.vn/su-kien-binh-luan/xa-hoi-hoa-vaccine-covid-19-de-phu-nhanh-va-giam-ganh-nang-ngan-sach-883428.ldo) ([Lao Động](https://laodong.vn))
-- [Lập tổ công tác liên bộ kiểm tra giá vận chuyển container tăng](https://tuoitre.vn/lap-to-cong-tac-lien-bo-kiem-tra-gia-van-chuyen-container-tang-20210225122509153.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hà Nội: Một trường hợp vừa ra viện lại tái dương tính SARS-CoV-2](https://laodong.vn/xa-hoi/ha-noi-mot-truong-hop-vua-ra-vien-lai-tai-duong-tinh-sars-cov-2-883501.ldo) ([Lao Động](https://laodong.vn))
-- [10 người giàu nhất Hong Kong năm 2021: Tỷ phú Li Ka-shing quay lại vị trí dẫn đầu](https://cafebiz.vn/10-nguoi-giau-nhat-hong-kong-nam-2021-ty-phu-li-ka-shing-quay-lai-vi-tri-dan-dau-20210225134326788.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xuất khẩu gạo đang giảm chỉ là tạm thời, triển vọng cả năm sẽ lạc quan hơn](https://laodong.vn/kinh-te/xuat-khau-gao-dang-giam-chi-la-tam-thoi-trien-vong-ca-nam-se-lac-quan-hon-883492.ldo) ([Lao Động](https://laodong.vn))
-- [Đến showroom ôtô giao đồ ăn, thấy xe đẹp, anh shipper "tiện tay" tậu luôn một chiếc](https://cafebiz.vn/den-showroom-oto-giao-do-an-thay-xe-dep-anh-shipper-tien-tay-tau-luon-mot-chiec-20210225142259514.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắc Giang đề xuất chuyển sân bay Kép thành sân bay lưỡng dụng](https://cafebiz.vn/bac-giang-de-xuat-chuyen-san-bay-kep-thanh-san-bay-luong-dung-2021022514225451.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đề xuất không tiếp tục thực hiện dự án cơ sở dữ liệu đất đai tại Lâm Đồng](https://laodong.vn/bat-dong-san/de-xuat-khong-tiep-tuc-thuc-hien-du-an-co-so-du-lieu-dat-dai-tai-lam-dong-883462.ldo) ([Lao Động](https://laodong.vn))
+- [Giá xăng dầu trong nước vừa được điều chỉnh tăng](https://laodong.vn/thi-truong/gia-xang-dau-trong-nuoc-vua-duoc-dieu-chinh-tang-883498.ldo) ([Lao Động](https://laodong.vn))
+- [Xin ngân sách bất thành, công ty cây xanh Đà Nẵng tự bỏ tiền túi di dời rác](https://laodong.vn/xa-hoi/xin-ngan-sach-bat-thanh-cong-ty-cay-xanh-da-nang-tu-bo-tien-tui-di-doi-rac-883512.ldo) ([Lao Động](https://laodong.vn))
+- [Israel đã tìm ra cách chấm dứt đại dịch Covid-19](https://cafebiz.vn/israel-da-tim-ra-cach-cham-dut-dai-dich-covid-19-20210225151645904.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tỷ phú công nghệ Mỹ: Nên phạt tiền, bỏ tù những người kích động, lôi kéo mua Bitcoin](https://cafebiz.vn/ty-phu-cong-nghe-my-nen-phat-tien-bo-tu-nhung-nguoi-kich-dong-loi-keo-mua-bitcoin-20210225150556149.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bạn có đang làm công việc vô nghĩa?](https://cafebiz.vn/ban-co-dang-lam-cong-viec-vo-nghia-20210225150041335.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giải thưởng Văn học nghệ thuật Nguyễn Quang Diêu lần thứ IV](https://laodong.vn/van-hoa-giai-tri/giai-thuong-van-hoc-nghe-thuat-nguyen-quang-dieu-lan-thu-iv-883515.ldo) ([Lao Động](https://laodong.vn))
+- [EVNHANOI quyết tâm hoàn thành công tác đầu tư xây dựng năm 2021](https://laodong.vn/kinh-te/evnhanoi-quyet-tam-hoan-thanh-cong-tac-dau-tu-xay-dung-nam-2021-883464.ldo) ([Lao Động](https://laodong.vn))
+- [Huawei muốn sản xuất sản phẩm ‘hạng nhất’ từ linh kiện ‘hạng ba’](https://cafebiz.vn/huawei-muon-san-xuat-san-pham-hang-nhat-tu-linh-kien-hang-ba-20210225135814791.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người dân cả nước đóng góp tiền mua vắc-xin Covid-19](https://cafebiz.vn/nguoi-dan-ca-nuoc-dong-gop-tien-mua-vac-xin-covid-19-20210225145815241.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
