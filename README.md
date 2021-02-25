@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Người vi phạm giao thông đồng tình việc nộp phạt trực tuyến](https://laodong.vn/phap-luat/nguoi-vi-pham-giao-thong-dong-tinh-viec-nop-phat-truc-tuyen-883635.ldo) ([Lao Động](https://laodong.vn))
+- [Tiếp tục ghi nhận 7 ca mới mắc COVID-19 tại Hải Dương](https://laodong.vn/y-te/tiep-tuc-ghi-nhan-7-ca-moi-mac-covid-19-tai-hai-duong-883645.ldo) ([Lao Động](https://laodong.vn))
+- [Khát vọng kỷ nguyên “nông nghiệp thông minh”](https://laodong.vn/kinh-te/khat-vong-ky-nguyen-nong-nghiep-thong-minh-883648.ldo) ([Lao Động](https://laodong.vn))
 - [Thanh Hóa: Một thanh niên bị đánh tử vong khi trên đường đi làm về](https://laodong.vn/phap-luat/thanh-hoa-mot-thanh-nien-bi-danh-tu-vong-khi-tren-duong-di-lam-ve-883618.ldo) ([Lao Động](https://laodong.vn))
 - [Nhiều dịch vụ ở Sài Gòn được hoạt động từ ngày 1/3](https://vnexpress.net/nhieu-dich-vu-o-sai-gon-duoc-hoat-dong-tu-ngay-1-3-4240324.html) ([VNExpress](https://vnexpress.net))
-- [Bắc Giang: Phạt hiện 5 trường hợp trồng cây thuốc phiện trong vườn](https://laodong.vn/phap-luat/bac-giang-phat-hien-5-truong-hop-trong-cay-thuoc-phien-trong-vuon-883630.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang: Phát hiện 5 trường hợp trồng cây thuốc phiện trong vườn](https://laodong.vn/phap-luat/bac-giang-phat-hien-5-truong-hop-trong-cay-thuoc-phien-trong-vuon-883630.ldo) ([Lao Động](https://laodong.vn))
 - [Kylie Jenner mất chức nữ tỷ phú tự thân trẻ nhất thế giới, cô gái soán ngôi có câu chuyện làm giàu nhờ… trả thù tình cũ cực kỳ đặc sắc](https://cafebiz.vn/kylie-jenner-mat-chuc-nu-ty-phu-tu-than-tre-nhat-the-gioi-co-gai-soan-ngoi-co-cau-chuyen-lam-giau-nho-tra-thu-tinh-cu-cuc-ky-dac-sac-20210225165126024.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Phòng dự kiến cho học sinh đi học trở lại từ 7.3](https://laodong.vn/giao-duc/hai-phong-du-kien-cho-hoc-sinh-di-hoc-tro-lai-tu-73-883619.ldo) ([Lao Động](https://laodong.vn))
 - [Vì sao thương hiệu Viettel tiếp tục lập đỉnh mới về giá trị?](https://cafebiz.vn/vi-sao-thuong-hieu-viettel-tiep-tuc-lap-dinh-moi-ve-gia-tri-20210225174943695.chn) ([CafeBiz](https://cafebiz.vn))
-- [Iran và Venezuela hoán đổi xăng dầu](https://laodong.vn/the-gioi/iran-va-venezuela-hoan-doi-xang-dau-883595.ldo) ([Lao Động](https://laodong.vn))
 - [Chùa Phúc Khánh tổ chức cầu an trực tuyến](https://vnexpress.net/chua-phuc-khanh-to-chuc-cau-an-truc-tuyen-4240269.html) ([VNExpress](https://vnexpress.net))
-- [Việt Nam nói về việc tàu chiến Mỹ lần đầu vào Biển Đông thời ông Biden](https://laodong.vn/the-gioi/viet-nam-noi-ve-viec-tau-chien-my-lan-dau-vao-bien-dong-thoi-ong-biden-883522.ldo) ([Lao Động](https://laodong.vn))
-- [TP.HCM cho phép hoạt động trở lại một số dịch vụ không thiết yếu, trừ karaoke, vũ trường...](https://tuoitre.vn/tp-hcm-cho-phep-hoat-dong-tro-lai-mot-so-dich-vu-khong-thiet-yeu-tru-karaoke-vu-truong-20210224142406616.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
