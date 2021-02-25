@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 23.33°C.
-- Air Visual is 110.
+- Feels Like 22.97°C.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Chưa cần lùi thời gian kết thúc năm học nếu HS trở lại trường từ tháng 3](https://laodong.vn/giao-duc/chua-can-lui-thoi-gian-ket-thuc-nam-hoc-neu-hs-tro-lai-truong-tu-thang-3-883559.ldo) ([Lao Động](https://laodong.vn))
+- [Xuất hiện "người hùng giấu mặt" giúp huyền thoại làng golf Tiger Woods thoát khỏi lưỡi hái tử thần](https://cafebiz.vn/xuat-hien-nguoi-hung-giau-mat-giup-huyen-thoai-lang-golf-tiger-woods-thoat-khoi-luoi-hai-tu-than-20210225183838881.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hoàng đế "diễn sâu" nhất lịch sử Trung Hoa: Giả ngốc suốt 36 năm, vừa lên ngôi đã thể hiện mưu trí hơn người, lập tức xử kẻ đối đầu](https://cafebiz.vn/hoang-de-dien-sau-nhat-lich-su-trung-hoa-gia-ngoc-suot-36-nam-vua-len-ngoi-da-the-hien-muu-tri-hon-nguoi-lap-tuc-xu-ke-doi-dau-20210225154812013.chn) ([CafeBiz](https://cafebiz.vn))
+- [ĐH Thái Nguyên lùi thời gian trở lại trường để phòng chống dịch COVID-19](https://laodong.vn/giao-duc/dh-thai-nguyen-lui-thoi-gian-tro-lai-truong-de-phong-chong-dich-covid-19-883694.ldo) ([Lao Động](https://laodong.vn))
+- [6 thói quen tai hại khiến điện thoại nhanh hỏng hơn](https://laodong.vn/cong-nghe/6-thoi-quen-tai-hai-khien-dien-thoai-nhanh-hong-hon-883702.ldo) ([Lao Động](https://laodong.vn))
+- [Bị phạt hơn 17 triệu vì bỏ đi bán thịt khi đang cách ly](https://tuoitre.vn/bi-phat-hon-17-trieu-vi-bo-di-ban-thit-khi-dang-cach-ly-20210225202127523.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chưa cần lùi thời gian kết thúc năm học nếu học sinh trở lại trường từ tháng 3](https://laodong.vn/giao-duc/chua-can-lui-thoi-gian-ket-thuc-nam-hoc-neu-hoc-sinh-tro-lai-truong-tu-thang-3-883559.ldo) ([Lao Động](https://laodong.vn))
 - [Nhận thưởng Tết xong là nghỉ việc: Là “ăn cháo đá bát” hay “giọt nước tràn ly”?](https://cafebiz.vn/nhan-thuong-tet-xong-la-nghi-viec-la-an-chao-da-bat-hay-giot-nuoc-tran-ly-20210225165738337.chn) ([CafeBiz](https://cafebiz.vn))
 - [3 thứ càng tham càng dễ gặp họa: Phàm là người khôn ngoan đều biết tỉnh táo tránh xa](https://cafebiz.vn/3-thu-cang-tham-cang-de-gap-hoa-pham-la-nguoi-khon-ngoan-deu-biet-tinh-tao-tranh-xa-2021022519294327.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đại sứ Việt Nam tái ứng cử vào Ủy ban Luật pháp Quốc tế](http://vietnamnet.vn/vn/thoi-su/chinh-tri/dai-su-viet-nam-tai-ung-cu-vao-uy-ban-luat-phap-quoc-te-715547.html) ([VietNamNet](https://vietnamnet.vn))
 - [8 người nhập viện sau khi ăn thịt bê thui](https://vnexpress.net/8-nguoi-nhap-vien-sau-khi-an-thit-be-thui-4240349.html) ([VNExpress](https://vnexpress.net))
-- [Khẩn: Hải Dương tiếp tục tìm người đến 7 địa điểm liên quan ca mắc Covid-19](https://cafebiz.vn/khan-hai-duong-tiep-tuc-tim-nguoi-den-7-dia-diem-lien-quan-ca-mac-covid-19-20210225195145219.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bệnh nhân COVID-19 liên quan ổ dịch Kim Thành là nhân viên bán xăng](https://tuoitre.vn/benh-nhan-covid-19-lien-quan-o-dich-kim-thanh-la-nhan-vien-ban-xang-20210225181935794.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [30 bệnh nhân COVID-19 ở Quảng Ninh đủ tiêu chuẩn ra viện](https://laodong.vn/xa-hoi/30-benh-nhan-covid-19-o-quang-ninh-du-tieu-chuan-ra-vien-883698.ldo) ([Lao Động](https://laodong.vn))
-- [Đồng ý cho một số địa phương được mua vaccine theo phương thức xã hội hóa](https://laodong.vn/thoi-su/dong-y-cho-mot-so-dia-phuong-duoc-mua-vaccine-theo-phuong-thuc-xa-hoi-hoa-883672.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam chính thức có hệ thống dữ liệu quốc gia về dân cư](https://tuoitre.vn/viet-nam-chinh-thuc-co-he-thong-du-lieu-quoc-gia-ve-dan-cu-20210225175015261.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đề xuất Bộ Y tế phê duyệt 2 loại vaccine COVID-19 của Mỹ và Nga](https://laodong.vn/y-te/de-xuat-bo-y-te-phe-duyet-2-loai-vaccine-covid-19-cua-my-va-nga-883681.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 

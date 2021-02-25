@@ -1,6 +1,11 @@
 # News
 
-- [Chưa cần lùi thời gian kết thúc năm học nếu HS trở lại trường từ tháng 3](https://laodong.vn/giao-duc/chua-can-lui-thoi-gian-ket-thuc-nam-hoc-neu-hs-tro-lai-truong-tu-thang-3-883559.ldo) ([Lao Động](https://laodong.vn))
+- [Xuất hiện "người hùng giấu mặt" giúp huyền thoại làng golf Tiger Woods thoát khỏi lưỡi hái tử thần](https://cafebiz.vn/xuat-hien-nguoi-hung-giau-mat-giup-huyen-thoai-lang-golf-tiger-woods-thoat-khoi-luoi-hai-tu-than-20210225183838881.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hoàng đế "diễn sâu" nhất lịch sử Trung Hoa: Giả ngốc suốt 36 năm, vừa lên ngôi đã thể hiện mưu trí hơn người, lập tức xử kẻ đối đầu](https://cafebiz.vn/hoang-de-dien-sau-nhat-lich-su-trung-hoa-gia-ngoc-suot-36-nam-vua-len-ngoi-da-the-hien-muu-tri-hon-nguoi-lap-tuc-xu-ke-doi-dau-20210225154812013.chn) ([CafeBiz](https://cafebiz.vn))
+- [ĐH Thái Nguyên lùi thời gian trở lại trường để phòng chống dịch COVID-19](https://laodong.vn/giao-duc/dh-thai-nguyen-lui-thoi-gian-tro-lai-truong-de-phong-chong-dich-covid-19-883694.ldo) ([Lao Động](https://laodong.vn))
+- [6 thói quen tai hại khiến điện thoại nhanh hỏng hơn](https://laodong.vn/cong-nghe/6-thoi-quen-tai-hai-khien-dien-thoai-nhanh-hong-hon-883702.ldo) ([Lao Động](https://laodong.vn))
+- [Bị phạt hơn 17 triệu vì bỏ đi bán thịt khi đang cách ly](https://tuoitre.vn/bi-phat-hon-17-trieu-vi-bo-di-ban-thit-khi-dang-cach-ly-20210225202127523.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chưa cần lùi thời gian kết thúc năm học nếu học sinh trở lại trường từ tháng 3](https://laodong.vn/giao-duc/chua-can-lui-thoi-gian-ket-thuc-nam-hoc-neu-hoc-sinh-tro-lai-truong-tu-thang-3-883559.ldo) ([Lao Động](https://laodong.vn))
 - [Nhận thưởng Tết xong là nghỉ việc: Là “ăn cháo đá bát” hay “giọt nước tràn ly”?](https://cafebiz.vn/nhan-thuong-tet-xong-la-nghi-viec-la-an-chao-da-bat-hay-giot-nuoc-tran-ly-20210225165738337.chn) ([CafeBiz](https://cafebiz.vn))
 - [3 thứ càng tham càng dễ gặp họa: Phàm là người khôn ngoan đều biết tỉnh táo tránh xa](https://cafebiz.vn/3-thu-cang-tham-cang-de-gap-hoa-pham-la-nguoi-khon-ngoan-deu-biet-tinh-tao-tranh-xa-2021022519294327.chn) ([CafeBiz](https://cafebiz.vn))
 - [8 người nhập viện sau khi ăn thịt bê thui](https://vnexpress.net/8-nguoi-nhap-vien-sau-khi-an-thit-be-thui-4240349.html) ([VNExpress](https://vnexpress.net))
@@ -10,7 +15,6 @@
 - [Đồng ý cho một số địa phương được mua vaccine theo phương thức xã hội hóa](https://laodong.vn/thoi-su/dong-y-cho-mot-so-dia-phuong-duoc-mua-vaccine-theo-phuong-thuc-xa-hoi-hoa-883672.ldo) ([Lao Động](https://laodong.vn))
 - [Toàn văn Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII](http://vietnamnet.vn/vn/dai-hoi-dang/toan-van-nghi-quyet-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiii-715541.html) ([VietNamNet](https://vietnamnet.vn))
 - [Việt Nam chính thức có hệ thống dữ liệu quốc gia về dân cư](https://tuoitre.vn/viet-nam-chinh-thuc-co-he-thong-du-lieu-quoc-gia-ve-dan-cu-20210225175015261.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đề xuất Bộ Y tế phê duyệt 2 loại vaccine COVID-19 của Mỹ và Nga](https://laodong.vn/y-te/de-xuat-bo-y-te-phe-duyet-2-loai-vaccine-covid-19-cua-my-va-nga-883681.ldo) ([Lao Động](https://laodong.vn))
 - [Chiêm ngưỡng "căn nhà du thuyền" 5 tỷ độc nhất miền Tây](https://cafebiz.vn/chiem-nguong-can-nha-du-thuyen-5-ty-doc-nhat-mien-tay-20210225183644575.chn) ([CafeBiz](https://cafebiz.vn))
 - [Toàn văn Nghị quyết Đại hội đại biểu toàn quốc lần thứ XIII của Đảng](https://laodong.vn/thoi-su/toan-van-nghi-quyet-dai-hoi-dai-bieu-toan-quoc-lan-thu-xiii-cua-dang-883670.ldo) ([Lao Động](https://laodong.vn))
 - [Hoa hậu Khánh Vân trưởng thành ở tuổi 26: Tôi đã sẵn sàng thi Miss Universe](https://laodong.vn/photo/hoa-hau-khanh-van-truong-thanh-o-tuoi-26-toi-da-san-sang-thi-miss-universe-883431.ldo) ([Lao Động](https://laodong.vn))
@@ -96,7 +100,3 @@
 - [Người dân cả nước đóng góp tiền mua vắc-xin Covid-19](https://cafebiz.vn/nguoi-dan-ca-nuoc-dong-gop-tien-mua-vac-xin-covid-19-20210225145815241.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hưng Yên dừng giãn cách xã hội hai huyện](https://vnexpress.net/hung-yen-dung-gian-cach-xa-hoi-hai-huyen-4240097.html) ([VNExpress](https://vnexpress.net))
 - [Thực hư bốn thợ sửa máy viêm loét, nhập viện cấp cứu vì tự bắn 2.000 - 3.000 lần tia X vào đùi](https://cafebiz.vn/thuc-hu-bon-tho-sua-may-viem-loet-nhap-vien-cap-cuu-vi-tu-ban-2000-3000-lan-tia-x-vao-dui-20210225145147281.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đại gia Nguyễn Cao Trí bất ngờ lộ diện tại siêu dự án 25.000 tỷ Sài Gòn - Đại Ninh](https://cafebiz.vn/dai-gia-nguyen-cao-tri-bat-ngo-lo-dien-tai-sieu-du-an-25000-ty-sai-gon-dai-ninh-20210225144929537.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tại sao người dân đổ xô đi làm giấy tờ đất đai trước ngày 1/3?](https://cafebiz.vn/tai-sao-nguoi-dan-do-xo-di-lam-giay-to-dat-dai-truoc-ngay-1-3-20210225144800131.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ hôm nay, giảm phí thẩm định cấp phép kinh doanh karaoke](https://cafebiz.vn/tu-hom-nay-giam-phi-tham-dinh-cap-phep-kinh-doanh-karaoke-20210225144627324.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá lợn hơi và thịt lợn tiếp tục giảm](https://cafebiz.vn/gia-lon-hoi-va-thit-lon-tiep-tuc-giam-20210225144517859.chn) ([CafeBiz](https://cafebiz.vn))
