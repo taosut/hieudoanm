@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 23.57°C.
-- Air Visual is 109.
+- Feels Like 23.21°C.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Từng là &quot;huynh đệ&quot;, Tiêu Chiến và Vương Nhất Bác giờ lại đối đầu nhau?](https://laodong.vn/giai-tri/tung-la-huynh-de-tieu-chien-va-vuong-nhat-bac-gio-lai-doi-dau-nhau-883643.ldo) ([Lao Động](https://laodong.vn))
-- [Sở Y tế Hải Phòng đề nghị tạm dừng xét nghiệm SARS-CoV-2 dịch vụ](https://laodong.vn/xa-hoi/so-y-te-hai-phong-de-nghi-tam-dung-xet-nghiem-sars-cov-2-dich-vu-883622.ldo) ([Lao Động](https://laodong.vn))
-- [Cả tin đưa mã OTP ngân hàng cho phụ huynh “dỏm”, nữ gia sư bị rút sạch tiền trong ngân hàng](https://cafebiz.vn/ca-tin-dua-ma-otp-ngan-hang-cho-phu-huynh-dom-nu-gia-su-bi-rut-sach-tien-trong-ngan-hang-20210225181319051.chn) ([CafeBiz](https://cafebiz.vn))
-- [HLV Park Hang-seo chỉ ra điểm tương đồng bóng đá Việt Nam và Hàn Quốc](https://laodong.vn/bong-da/hlv-park-hang-seo-chi-ra-diem-tuong-dong-bong-da-viet-nam-va-han-quoc-883521.ldo) ([Lao Động](https://laodong.vn))
-- [5 loại dung dịch quan trọng được sử dụng cho xe ôtô](https://laodong.vn/xe/5-loai-dung-dich-quan-trong-duoc-su-dung-cho-xe-oto-883641.ldo) ([Lao Động](https://laodong.vn))
-- [Ninh Bình: Xử lý quán karaoke mở cửa cho khách bất chấp lệnh cấm](https://laodong.vn/phap-luat/ninh-binh-xu-ly-quan-karaoke-mo-cua-cho-khach-bat-chap-lenh-cam-883626.ldo) ([Lao Động](https://laodong.vn))
-- [Từ chiều và tối mai, gió mùa Đông Bắc tràn về, Hà Nội chuyển rét, nhiệt độ thấp nhất 16 độ C](https://cafebiz.vn/tu-chieu-va-toi-mai-gio-mua-dong-bac-tran-ve-ha-noi-chuyen-ret-nhiet-do-thap-nhat-16-do-c-20210225181056227.chn) ([CafeBiz](https://cafebiz.vn))
-- [Các nhà sản xuất vaccine thích ứng với biến thể COVID-19 thế nào?](https://laodong.vn/the-gioi/cac-nha-san-xuat-vaccine-thich-ung-voi-bien-the-covid-19-the-nao-883602.ldo) ([Lao Động](https://laodong.vn))
-- [Ảnh: Nông dân Mê Linh nuốt nước mắt, nhổ bỏ hàng trăm tấn củ cải vì không tiêu thụ được](https://cafebiz.vn/anh-nong-dan-me-linh-nuot-nuoc-mat-nho-bo-hang-tram-tan-cu-cai-vi-khong-tieu-thu-duoc-20210225180756182.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tổng LĐLĐVN: Tổng kết 3 chiến dịch truyền thông dịp Tết Tân Sửu 2021](https://laodong.vn/cong-doan/tong-ldldvn-tong-ket-3-chien-dich-truyen-thong-dip-tet-tan-suu-2021-883496.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Giá nông sản hiện nay rớt giá rất mạnh do ảnh hưởng dịch COVID-19](https://laodong.vn/kinh-te/ha-noi-gia-nong-san-hien-nay-rot-gia-rat-manh-do-anh-huong-dich-covid-19-883663.ldo) ([Lao Động](https://laodong.vn))
+- [Nhật Bản tiêm vaccine cho người cao tuổi từ tháng 4](https://cafebiz.vn/nhat-ban-tiem-vaccine-cho-nguoi-cao-tuoi-tu-thang-4-20210225181745177.chn) ([CafeBiz](https://cafebiz.vn))
+- [Từ 1-3, TP.HCM đào tạo, sát hạch lái xe trở lại sau thời gian ngưng do COVID-19](https://tuoitre.vn/tu-1-3-tp-hcm-dao-tao-sat-hach-lai-xe-tro-lai-sau-thoi-gian-ngung-do-covid-19-20210225190351063.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [2 trẻ bị ngộ độc nghi do uống nhầm hóa chất diệt chuột, 1 bé đã tử vong](https://laodong.vn/y-te/2-tre-bi-ngo-doc-nghi-do-uong-nham-hoa-chat-diet-chuot-1-be-da-tu-vong-883676.ldo) ([Lao Động](https://laodong.vn))
+- [Cao Văn Triền tiết lộ lời chia sẻ của Tuấn Anh trước khi sang Nhật Bản](https://laodong.vn/video/cao-van-trien-tiet-lo-loi-chia-se-cua-tuan-anh-truoc-khi-sang-nhat-ban-883632.ldo) ([Lao Động](https://laodong.vn))
+- [Tây Du Ký bản kinh dị 94 năm trước khiến fan Việt hoảng loạn: Thầy trò Đường Tăng "xấu" hơn yêu quái, bị cấm chiếu chỉ sau 1 tập?](https://cafebiz.vn/tay-du-ky-ban-kinh-di-94-nam-truoc-khien-fan-viet-hoang-loan-thay-tro-duong-tang-xau-hon-yeu-quai-bi-cam-chieu-chi-sau-1-tap-20210225195054762.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chiều 25/2, thêm 8 ca mắc COVID-19, trong đó Hải Dương có 7 ca](https://cafebiz.vn/chieu-25-2-them-8-ca-mac-covid-19-trong-do-hai-duong-co-7-ca-20210225194648661.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nóng nhất 24h: Miền Bắc chuẩn bị đón đợt không khí lạnh, mưa rét](https://laodong.vn/video/nong-nhat-24h-mien-bac-chuan-bi-don-dot-khong-khi-lanh-mua-ret-883608.ldo) ([Lao Động](https://laodong.vn))
+- [Giáo dục 24/7: Danh sách các tỉnh/thành cho học sinh đi học từ tháng 3](https://laodong.vn/video/giao-duc-247-danh-sach-cac-tinhthanh-cho-hoc-sinh-di-hoc-tu-thang-3-883567.ldo) ([Lao Động](https://laodong.vn))
+- [Khai trương dự án căn cước công dân gắn chip](https://vnexpress.net/khai-truong-du-an-can-cuoc-cong-dan-gan-chip-4239980.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
