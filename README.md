@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 22°C.
-- Feels Like 22.06°C.
-- Air Visual is 116.
+- Current weather is overcast clouds.
+- Temperature is 23°C.
+- Feels Like 22.35°C.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Zidane: &quot;OK, Real chơi không quá tốt nhưng kết quả mới quan trọng&quot;](https://laodong.vn/bong-da-quoc-te/zidane-ok-real-choi-khong-qua-tot-nhung-ket-qua-moi-quan-trong-883373.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Liên tục xảy ra những đợt tia cực tím đạt cực đại](https://laodong.vn/moi-truong/tphcm-lien-tuc-xay-ra-nhung-dot-tia-cuc-tim-dat-cuc-dai-883380.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Biden hủy lệnh cấm của ông Trump với hồ sơ xin thẻ xanh vào Mỹ](https://laodong.vn/the-gioi/ong-biden-huy-lenh-cam-cua-ong-trump-voi-ho-so-xin-the-xanh-vao-my-883387.ldo) ([Lao Động](https://laodong.vn))
+- [Gộp chi trả lương hưu và trợ cấp BHXH tháng 3-4 tại 13 tỉnh, thành phố](https://laodong.vn/xa-hoi/gop-chi-tra-luong-huu-va-tro-cap-bhxh-thang-3-4-tai-13-tinh-thanh-pho-883307.ldo) ([Lao Động](https://laodong.vn))
+- [Điểm sáng thực hiện BHXH: Hành trình vận động, chia sẻ bằng cả trái tim](https://laodong.vn/xa-hoi/diem-sang-thuc-hien-bhxh-hanh-trinh-van-dong-chia-se-bang-ca-trai-tim-883311.ldo) ([Lao Động](https://laodong.vn))
+- [Tiêm vaccine COVID-19- chiến dịch tiêm chủng lớn nhất từ trước đến nay](https://laodong.vn/y-te/tiem-vaccine-covid-19-chien-dich-tiem-chung-lon-nhat-tu-truoc-den-nay-883391.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng và ngoại tệ 25.2: Vàng &quot;dậm chân tại chỗ&quot;, USD tăng mạnh](https://laodong.vn/video/gia-vang-va-ngoai-te-252-vang-dam-chan-tai-cho-usd-tang-manh-883394.ldo) ([Lao Động](https://laodong.vn))
+- [BHXH tỉnh Quảng Nam: Hoàn thành nhiệm vụ dù thiên tai, dịch bệnh](https://laodong.vn/xa-hoi/bhxh-tinh-quang-nam-hoan-thanh-nhiem-vu-du-thien-tai-dich-benh-883312.ldo) ([Lao Động](https://laodong.vn))
+- [Cập nhật: 60/63 tỉnh thành quyết định thời gian đi học trở lại của học sinh, sinh viên](https://cafebiz.vn/cap-nhat-60-63-tinh-thanh-quyet-dinh-thoi-gian-di-hoc-tro-lai-cua-hoc-sinh-sinh-vien-20210225093354956.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tướng chỉ đạo phải có quy trình lưu thông hàng hóa ở vùng dịch](https://tuoitre.vn/thu-tuong-chi-dao-phai-co-quy-trinh-luu-thong-hang-hoa-o-vung-dich-20210225074820106.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Việt Nam có 117.600 liều vắcxin đầu tiên: Ưu tiên trước cho lực lượng tuyến đầu](https://tuoitre.vn/viet-nam-co-117-600-lieu-vacxin-dau-tien-uu-tien-truoc-cho-luc-luong-tuyen-dau-2021022509183323.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Vợ chủ tịch Taobao khoe dự án nghệ thuật rộng 1500m2, phải chăng là đòn phản công trực diện với nhân tình của chồng trong tương lai?](https://cafebiz.vn/vo-chu-tich-taobao-khoe-du-an-nghe-thuat-rong-1500m2-phai-chang-la-don-phan-cong-truc-dien-voi-nhan-tinh-cua-chong-trong-tuong-lai-20210225091006245.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cận cảnh lắp đặt hệ thống cống thu gom nước thải dọc sông Tô Lịch](https://cafebiz.vn/can-canh-lap-dat-he-thong-cong-thu-gom-nuoc-thai-doc-song-to-lich-202102250914489.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cách để kiểm soát chứng lo âu khi bạn bị rối loạn lưỡng cực trong thời kỳ đại dịch](https://cafebiz.vn/cach-de-kiem-soat-chung-lo-au-khi-ban-bi-roi-loan-luong-cuc-trong-thoi-ky-dai-dich-20210224153044372.chn) ([CafeBiz](https://cafebiz.vn))
-- [TP.Hồ Chí Minh: Nhu cầu nhân lực qua đào tạo chiếm 85,8%](https://laodong.vn/cong-doan/tpho-chi-minh-nhu-cau-nhan-luc-qua-dao-tao-chiem-858-883299.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội chuyển nơi đăng ký xe 4 quận nội thành đến địa điểm mới](https://cafebiz.vn/ha-noi-chuyen-noi-dang-ky-xe-4-quan-noi-thanh-den-dia-diem-moi-20210225091244635.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những lợi ích bất ngờ khi sử dụng sôcôla làm đẹp](https://laodong.vn/suc-khoe/nhung-loi-ich-bat-ngo-khi-su-dung-socola-lam-dep-883048.ldo) ([Lao Động](https://laodong.vn))
-- [TP HCM: Gia cảnh bi đát của nạn nhân vụ cướp giật làm 2 người thiệt mạng ở Tân Phú](http://vietnamnet.vn/vn/thoi-su/tp-hcm-gia-canh-bi-dat-cua-nan-nhan-vu-cuop-giat-lam-2-nguoi-thiet-mang-o-tan-phu-715337.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
