@@ -320,7 +320,7 @@
 "Quảng Ngãi","Thành phố Quảng Ngãi","Phường Nghĩa Lộ",1151,"1151","Bưu Cục 340 Nguyễn Công Phương-TP.Quảng Ngãi","340 Nguyễn Công Phương, Phường Nghĩa Lộ, Thành phố Quảng Ngãi,Quảng Ngãi (342 Nguyễn Công Phương)","",15.1121176,108.7930711
 "Hồ Chí Minh","Quận 12","Phường Hiệp Thành",1267,"1267","Bưu Cục 55 Trần Thị Do-Q.12-HCM","55 Trần Thị Do, Khu Phố 6, Phường Hiệp Thành, Quận 12, TP.HCM","",10.8727572,106.6403971
 "Hồ Chí Minh","Quận 2","Phường Cát Lái",1394,"1394","Bưu Cục 29A Đường Số 5-Q.2-HCM","29A đường số 5, KP2, Phường cát lái, Quận 2, Hồ Chí Minh","",10.7751905,106.770249
-"Hồ Chí Minh","Quận 10","Phường 12",2273,"2273","Bưu Cục 16A Lê Hồng Phong-Q.10-HCM 01","16a Lê Hồng Phong Phường 12 Quận 10 ( Kho 694m2) , Hồ Chí Minh (Kho giao nhận Quận 1_ Hồ Chí Minh)","",10.7695218,106.6635468
+"Hồ Chí Minh","Quận 10","Phường 12",2273,"2273","Bưu Cục 16A Lê Hồng Phong-Q.10-HCM 01","16a Lê Hồng Phong Phường 12 Quận 10 ( Kho 694m2) , Hồ Chí Minh (Kho giao nhận Quận 1_ Hồ Chí Minh)","",10.7695205,106.6635506
 "Hồ Chí Minh","Quận 6","Phường 12",2274,"2274","Kho giao nhận Quận 6_Hồ Chí Minh","Quận 6 - Hồ Chí Minh","",10.79641,106.6644
 "Cao Bằng","Huyện Bảo Lâm","Xã Đức Hạnh",1326,"SO_5_DUONG_8","Bưu Cục 05 Đường 8-Q.9-HCM","số 8 Nguyễn Văn Tăng Phường Long Thạnh Mỹ Quận 9 Tp Hồ Chí Minh","",10.8474,106.8148
 "Bắc Ninh","Huyện Quế Võ","Xã Phượng Mao",1422,"1422","Bưu Cục Quế Võ-Bắc Ninh","Thửa đất số 17, tờ bản đồ số 19, Thôn Mao Trung, Xã Phượng Mao, Huyện Quế Võ, tinh Bắc Ninh","",21.1628924,106.1469592
@@ -408,7 +408,7 @@
 "Quảng Ninh","Huyện Đông Triều","Phường Mạo Khê",1369,"1369","Bưu Cục Đông Triều-Quảng Ninh","Số 8B đường Vườn Thông, Tổ 1 khu Vĩnh Thông, Phường Mạo Khê, thị xã Đông Triều, tỉnh Quảng Ninh","",21.0608863,106.5967026
 "Bình Phước","Thị xã Đồng Xoài","Phường Tân Bình",1143,"1143","Bưu Cục 889 Quốc Lộ 14-Đồng Xoài-Bình Phước","889 quốc lộ 14 phường Tân Bình TX Đồng Xoài tỉnh Bình Phước","",11.530314,106.87725
 "Long An","Huyện Đức Hòa","Xã Đức Hòa Thượng",1366,"1366","Bưu Cục Đức Hòa-Long An","Ấp Bình Hữu 2, Xã Đức Hòa Thượng, Huyện Đức Hòa, Long An","",10.837722,106.466395
-"Tiền Giang","Thị xã Gò Công","Phường 2",1518,"1518","Bưu Cục Gò Công-Tiền Giang","01 Lưu Thị Dung, Khóm 1, Phường 2, Thị xã Gò Công, Tỉnh Tiền Giang","",21.12835,105.76784
+"Tiền Giang","Thị xã Gò Công","Phường 2",1518,"1518","Bưu Cục Gò Công-Tiền Giang","01 Lưu Thị Dung, Khóm 1, Phường 2, Thị xã Gò Công, Tỉnh Tiền Giang","",22.778787,106.878787
 "Tây Ninh","Huyện Bến Cầu","Thị trấn Bến Cầu",1360,"1360","Bưu Cục Bến Cầu-Tây Ninh","361 Khu phố 1, Thị Trấn Bến Cầu, Huyện Bến Cầu, Tây Ninh","",11.0973839,106.1832695
 "Hồ Chí Minh","Quận Gò Vấp","Phường 10",2276,"2276","Bưu Cục 1135 Phan Văn Trị-Q.Gò Vấp-HCM","1135 Phan Văn Trị P.10, Q.Gò Vấp","",10.832417,106.673278
 "","","",1261,"1261","Bưu cục Trâu Quỳ-Gia Lâm-HN","Lô đất B3-21, Khu đấu giá 31Ha, TT Trâu Qùy, Huyện Gia Lâm, TP Hà Nội.","",10.769507008750102,106.66603043974534
@@ -1315,5 +1315,5 @@
 "Khánh Hòa","Thành phố Nha Trang","Xã Vĩnh Thạnh",2501,"2501","Bưu Cục 663 Đường 23/10-Nha Trang-Khánh Hòa","663 Đường 23 tháng 10, xã Vĩnh Thạnh, TP. Nha Trang, Khánh Hòa","",12.256822,109.153963
 "Khánh Hòa","Thành phố Nha Trang","Xã Phước Đồng",2502,"2502","Bưu Cục Phước Đồng-Nha Trang-Khánh Hòa","Thôn Phước Trung, xã Phước Đồng, TP. Nha Trang, Khánh Hòa","",12.1907937,109.1706565
 "Hồ Chí Minh","Quận 10","Phường 15",10001002,"10001002","SCOM/CnB/Team1","7/28c Thành Thái","",10.7695274,106.6636276
-"","","",20036000,"20036000","Bưu cục 446 Bạch Đằng-Q.Hoàn Kiếm-HN","446 Bạch Đằng, Phường Chương Dương, Quận Hoàn Kiếm, Thành Phố Hà Nội","",0,0
+"","","",20036000,"20036000","Bưu cục 446 Bạch Đằng-Q.Hoàn Kiếm-HN","446 Bạch Đằng, Phường Chương Dương, Quận Hoàn Kiếm, Thành Phố Hà Nội","",21.5555777,105.5555
 "","","",20101000,"20101000","Bưu Cục 38 Bờ Kênh-Đông Anh-HN","38 Bờ Kênh, Xã Võng La, Huyện Đông Anh, Hà Nội","",0,0

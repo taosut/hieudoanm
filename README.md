@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 23.57°C.
-- Air Visual is 80.
+- Temperature is 25°C.
+- Feels Like 24.59°C.
+- Air Visual is 84.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tỉ lệ ủng hộ ông Biden về gói &quot;giải cứu nước Mỹ&quot; trị giá 1,9 nghìn tỉ USD](https://laodong.vn/the-gioi/ti-le-ung-ho-ong-biden-ve-goi-giai-cuu-nuoc-my-tri-gia-19-nghin-ti-usd-883420.ldo) ([Lao Động](https://laodong.vn))
-- [Những mốc thời gian về bầu cử đại biểu Quốc hội khoá XV và HĐND các cấp](https://laodong.vn/thoi-su/nhung-moc-thoi-gian-ve-bau-cu-dai-bieu-quoc-hoi-khoa-xv-va-hdnd-cac-cap-883444.ldo) ([Lao Động](https://laodong.vn))
-- [Tỷ giá ngoại tệ 25.2: Sau cú rơi sốc chạm đáy 3 năm, giá USD nhích nhẹ](https://laodong.vn/kinh-te/ty-gia-ngoai-te-252-sau-cu-roi-soc-cham-day-3-nam-gia-usd-nhich-nhe-883410.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ đội biên phòng Bà Rịa – Vũng Tàu liên tiếp bắt 2 vụ tàng trữ ma tuý đá](https://laodong.vn/phap-luat/bo-doi-bien-phong-ba-ria--vung-tau-lien-tiep-bat-2-vu-tang-tru-ma-tuy-da-883461.ldo) ([Lao Động](https://laodong.vn))
+- [Giải đáp khúc mắc về sử dụng vaccine AstraZeneca cho người trên 65 tuổi](https://laodong.vn/the-gioi/giai-dap-khuc-mac-ve-su-dung-vaccine-astrazeneca-cho-nguoi-tren-65-tuoi-883451.ldo) ([Lao Động](https://laodong.vn))
+- [Trung Quốc đón Rằm tháng Giêng thế nào?](https://laodong.vn/the-gioi/trung-quoc-don-ram-thang-gieng-the-nao-883458.ldo) ([Lao Động](https://laodong.vn))
+- [Chính sách tiền lương của quân đội, giáo viên có hiệu lực từ tháng 3.2021](https://laodong.vn/thoi-su/chinh-sach-tien-luong-cua-quan-doi-giao-vien-co-hieu-luc-tu-thang-32021-883453.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao “cúng cả năm không bằng Rằm tháng Giêng”?](https://laodong.vn/chuyen-nha-minh/vi-sao-cung-ca-nam-khong-bang-ram-thang-gieng-883452.ldo) ([Lao Động](https://laodong.vn))
+- [Chanh, bưởi Việt Nam sắp bay lên kệ các siêu thị New Zealand](https://cafebiz.vn/chanh-buoi-viet-nam-sap-bay-len-ke-cac-sieu-thi-new-zealand-20210225101655809.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hạn mặn miền Tây tăng dần, khá gay gắt trong cuối tháng 2](https://tuoitre.vn/han-man-mien-tay-tang-dan-kha-gay-gat-trong-cuoi-thang-2-20210225111815479.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thay thế nhân vật cấp cao trong ban lãnh đạo, cổ phiếu GameStop vừa tăng gấp đôi](https://cafebiz.vn/thay-the-nhan-vat-cap-cao-trong-ban-lanh-dao-co-phieu-gamestop-vua-tang-gap-doi-20210225105833313.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tiện ích khi lắp camera giám sát trên toàn quốc](https://vnexpress.net/tien-ich-khi-lap-camera-giam-sat-tren-toan-quoc-4239996.html) ([VNExpress](https://vnexpress.net))
-- [Lịch trở lại trường: Nhiều địa phương cho  của học sinh đi học từ 1.3](https://laodong.vn/giao-duc/lich-tro-lai-truong-nhieu-dia-phuong-cho-cua-hoc-sinh-di-hoc-tu-13-883433.ldo) ([Lao Động](https://laodong.vn))
-- [Kiên Giang: Bàn giao Mái ấm Công đoàn đầu tiên năm Tân Sửu](https://laodong.vn/cong-doan/kien-giang-ban-giao-mai-am-cong-doan-dau-tien-nam-tan-suu-883457.ldo) ([Lao Động](https://laodong.vn))
 - [Huyền thoại Nguyễn Hồng Sơn nhận là "tỷ phú" với gia tài có 1-0-2 của bóng đá Việt](https://cafebiz.vn/huyen-thoai-nguyen-hong-son-nhan-la-ty-phu-voi-gia-tai-co-1-0-2-cua-bong-da-viet-20210225113530216.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cùng với Shopee và phimmoi, 2 chợ lớn của Việt Nam là Đồng Xuân và Bến Thành cũng bị Mỹ cáo buộc bán hàng giả quy mô lớn](https://cafebiz.vn/cung-voi-shopee-va-phimmoi-2-cho-lon-cua-viet-nam-la-dong-xuan-va-ben-thanh-cung-bi-my-cao-buoc-ban-hang-gia-quy-mo-lon-20210225111322119.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bốn hầm chui chống kẹt xe ở Đồng Nai](https://vnexpress.net/bon-ham-chui-chong-ket-xe-o-dong-nai-4239018.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
