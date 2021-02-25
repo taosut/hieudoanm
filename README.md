@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 23.53°C.
-- Air Visual is 125.
+- Air Visual is 124.
 
 **WEATHER**
 
@@ -50,14 +50,15 @@
 
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
+- [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
 - [![Ca sĩ Quốc Anh](https://img.shields.io/static/v1?label=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ca%20s%C4%A9%20Qu%E1%BB%91c%20Anh)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
+- [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
+- [![G-D](https://img.shields.io/static/v1?label=G-D&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G-D)
 - [![Giá vang hom nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20vang%20hom%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20vang%20hom%20nay)
 - [![Hà Nam](https://img.shields.io/static/v1?label=H%C3%A0%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%A0%20Nam)
 - [![Hướng dương ngược nắng tập 33](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033)
-- [![Jamal Musiala](https://img.shields.io/static/v1?label=Jamal%20Musiala&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jamal%20Musiala)
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
 - [![Lion Group](https://img.shields.io/static/v1?label=Lion%20Group&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lion%20Group)
@@ -65,9 +66,8 @@
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
 - [![Tiger Woods](https://img.shields.io/static/v1?label=Tiger%20Woods&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tiger%20Woods)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
-- [![Trương Thế Vinh](https://img.shields.io/static/v1?label=Tr%C6%B0%C6%A1ng%20Th%E1%BA%BF%20Vinh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0%C6%A1ng%20Th%E1%BA%BF%20Vinh)
-- [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
-- [![Đường lên đỉnh Olympia](https://img.shields.io/static/v1?label=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C6%B0%E1%BB%9Dng%20l%C3%AAn%20%C4%91%E1%BB%89nh%20Olympia)
+- [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
+- [![Đại học Thương mại](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Th%C6%B0%C6%A1ng%20m%E1%BA%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Th%C6%B0%C6%A1ng%20m%E1%BA%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Ông Shimoda muốn Cao Văn Triền thích nghi J.League như cầu thủ Thái Lan](https://laodong.vn/bong-da/ong-shimoda-muon-cao-van-trien-thich-nghi-jleague-nhu-cau-thu-thai-lan-883493.ldo) ([Lao Động](https://laodong.vn))
-- [Hơn 1,3 triệu dân Texas tiếp tục vật lộn với tình trạng thiếu nước](https://laodong.vn/the-gioi/hon-13-trieu-dan-texas-tiep-tuc-vat-lon-voi-tinh-trang-thieu-nuoc-883576.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt bằng được những kẻ tấn công tình dục ngay tại Hồ Tây](https://laodong.vn/su-kien-binh-luan/bat-bang-duoc-nhung-ke-tan-cong-tinh-duc-ngay-tai-ho-tay-883580.ldo) ([Lao Động](https://laodong.vn))
-- [Một quán ốc ở TPHCM bị phạt 4 triệu đồng vì phục vụ cùng lúc 60 khách](https://laodong.vn/xa-hoi/mot-quan-oc-o-tphcm-bi-phat-4-trieu-dong-vi-phuc-vu-cung-luc-60-khach-883610.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Tĩnh: Khởi tố 10 đối tượng đánh bạc với tang vật gần 8 triệu đồng](https://laodong.vn/phap-luat/ha-tinh-khoi-to-10-doi-tuong-danh-bac-voi-tang-vat-gan-8-trieu-dong-883596.ldo) ([Lao Động](https://laodong.vn))
-- [Thai Airways thua lỗ chưa từng có](https://cafebiz.vn/thai-airways-thua-lo-chua-tung-co-20210225173700983.chn) ([CafeBiz](https://cafebiz.vn))
-- [DOMAC – Thương hiệu thời trang thiết kế nổi bật được nhiều người ưa chuộng](https://cafebiz.vn/domac-thuong-hieu-thoi-trang-thiet-ke-noi-bat-duoc-nhieu-nguoi-ua-chuong-20210225165317698.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Dương thông báo khẩn tìm người đến nhiều cửa hàng, phòng khám](https://laodong.vn/xa-hoi/hai-duong-thong-bao-khan-tim-nguoi-den-nhieu-cua-hang-phong-kham-883598.ldo) ([Lao Động](https://laodong.vn))
-- [Xe khách chở công nhân ‘thông chốt’ kiểm tra y tế ở Đà Nẵng](https://tuoitre.vn/xe-khach-cho-cong-nhan-thong-chot-kiem-tra-y-te-o-da-nang-20210225165301083.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Lãnh đạo TP.HCM thăm, chúc mừng thầy thuốc, cán bộ y tế tiêu biểu](https://tuoitre.vn/lanh-dao-tphcm-tham-chuc-mung-thay-thuoc-can-bo-y-te-tieu-bieu-20210225171007767.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thanh Hóa: Một thanh niên bị đánh tử vong khi trên đường đi làm về](https://laodong.vn/phap-luat/thanh-hoa-mot-thanh-nien-bi-danh-tu-vong-khi-tren-duong-di-lam-ve-883618.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiều dịch vụ ở Sài Gòn được hoạt động từ ngày 1/3](https://vnexpress.net/nhieu-dich-vu-o-sai-gon-duoc-hoat-dong-tu-ngay-1-3-4240324.html) ([VNExpress](https://vnexpress.net))
+- [Bắc Giang: Phạt hiện 5 trường hợp trồng cây thuốc phiện trong vườn](https://laodong.vn/phap-luat/bac-giang-phat-hien-5-truong-hop-trong-cay-thuoc-phien-trong-vuon-883630.ldo) ([Lao Động](https://laodong.vn))
+- [Kylie Jenner mất chức nữ tỷ phú tự thân trẻ nhất thế giới, cô gái soán ngôi có câu chuyện làm giàu nhờ… trả thù tình cũ cực kỳ đặc sắc](https://cafebiz.vn/kylie-jenner-mat-chuc-nu-ty-phu-tu-than-tre-nhat-the-gioi-co-gai-soan-ngoi-co-cau-chuyen-lam-giau-nho-tra-thu-tinh-cu-cuc-ky-dac-sac-20210225165126024.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng dự kiến cho học sinh đi học trở lại từ 7.3](https://laodong.vn/giao-duc/hai-phong-du-kien-cho-hoc-sinh-di-hoc-tro-lai-tu-73-883619.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao thương hiệu Viettel tiếp tục lập đỉnh mới về giá trị?](https://cafebiz.vn/vi-sao-thuong-hieu-viettel-tiep-tuc-lap-dinh-moi-ve-gia-tri-20210225174943695.chn) ([CafeBiz](https://cafebiz.vn))
+- [Iran và Venezuela hoán đổi xăng dầu](https://laodong.vn/the-gioi/iran-va-venezuela-hoan-doi-xang-dau-883595.ldo) ([Lao Động](https://laodong.vn))
+- [Chùa Phúc Khánh tổ chức cầu an trực tuyến](https://vnexpress.net/chua-phuc-khanh-to-chuc-cau-an-truc-tuyen-4240269.html) ([VNExpress](https://vnexpress.net))
+- [Việt Nam nói về việc tàu chiến Mỹ lần đầu vào Biển Đông thời ông Biden](https://laodong.vn/the-gioi/viet-nam-noi-ve-viec-tau-chien-my-lan-dau-vao-bien-dong-thoi-ong-biden-883522.ldo) ([Lao Động](https://laodong.vn))
+- [TP.HCM cho phép hoạt động trở lại một số dịch vụ không thiết yếu, trừ karaoke, vũ trường...](https://tuoitre.vn/tp-hcm-cho-phep-hoat-dong-tro-lai-mot-so-dich-vu-khong-thiet-yeu-tru-karaoke-vu-truong-20210224142406616.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -118,8 +118,8 @@
 03. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 04. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 05. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-06. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
-07. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
+06. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
+07. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
 08. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 09. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
 10. [Ariana Grande - 34+35 Remix (feat. Doja Cat and Megan Thee Stallion) (Official Video)](https://www.youtube.com/watch?v=ssq6X6alZ3w) - [ArianaGrandeVevo](https://www.youtube.com/channel/UC0VOyT2OCBKdQhF3BAbZ-1g)
@@ -134,8 +134,8 @@
 02. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
 03. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 04. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
-05. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
-06. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+05. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+06. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 07. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 09. [FAPtv Cơm Nguội Đặc Biệt : Tập 246 - Chàng Trai May Mắn (Phim HÀI TẾT 2021)](https://www.youtube.com/watch?v=GKRppaLQrI8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
