@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 25.5°C.
-- Air Visual is 137.
+- Air Visual is 127.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Giá lợn hơi và thịt lợn tiếp tục giảm](https://cafebiz.vn/gia-lon-hoi-va-thit-lon-tiep-tuc-giam-20210225144517859.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo viên tật bất dọn dẹp vệ sinh trường, lớp chuẩn bị đón học sinh trở lại](https://laodong.vn/photo/giao-vien-tat-bat-don-dep-ve-sinh-truong-lop-chuan-bi-don-hoc-sinh-tro-lai-883460.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Sát Rằm tháng Giêng, vắng lặng ở nhiều ngôi chùa do dịch COVID-19](https://laodong.vn/photo/tphcm-sat-ram-thang-gieng-vang-lang-o-nhieu-ngoi-chua-do-dich-covid-19-883476.ldo) ([Lao Động](https://laodong.vn))
+- [Xã hội hoá vaccine COVID-19 để phủ nhanh và giảm gánh nặng ngân sách](https://laodong.vn/su-kien-binh-luan/xa-hoi-hoa-vaccine-covid-19-de-phu-nhanh-va-giam-ganh-nang-ngan-sach-883428.ldo) ([Lao Động](https://laodong.vn))
+- [Lập tổ công tác liên bộ kiểm tra giá vận chuyển container tăng](https://tuoitre.vn/lap-to-cong-tac-lien-bo-kiem-tra-gia-van-chuyen-container-tang-20210225122509153.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hà Nội: Một trường hợp vừa ra viện lại tái dương tính SARS-CoV-2](https://laodong.vn/xa-hoi/ha-noi-mot-truong-hop-vua-ra-vien-lai-tai-duong-tinh-sars-cov-2-883501.ldo) ([Lao Động](https://laodong.vn))
 - [10 người giàu nhất Hong Kong năm 2021: Tỷ phú Li Ka-shing quay lại vị trí dẫn đầu](https://cafebiz.vn/10-nguoi-giau-nhat-hong-kong-nam-2021-ty-phu-li-ka-shing-quay-lai-vi-tri-dan-dau-20210225134326788.chn) ([CafeBiz](https://cafebiz.vn))
 - [Xuất khẩu gạo đang giảm chỉ là tạm thời, triển vọng cả năm sẽ lạc quan hơn](https://laodong.vn/kinh-te/xuat-khau-gao-dang-giam-chi-la-tam-thoi-trien-vong-ca-nam-se-lac-quan-hon-883492.ldo) ([Lao Động](https://laodong.vn))
 - [Đến showroom ôtô giao đồ ăn, thấy xe đẹp, anh shipper "tiện tay" tậu luôn một chiếc](https://cafebiz.vn/den-showroom-oto-giao-do-an-thay-xe-dep-anh-shipper-tien-tay-tau-luon-mot-chiec-20210225142259514.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắc Giang đề xuất chuyển sân bay Kép thành sân bay lưỡng dụng](https://cafebiz.vn/bac-giang-de-xuat-chuyen-san-bay-kep-thanh-san-bay-luong-dung-2021022514225451.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tin mừng: Vaccine Covid-19 của Pfizer được chứng minh hiệu quả tới 94% bằng một nghiên cứu thực tế có quy mô lớn nhất từ trước tới nay](https://cafebiz.vn/tin-mung-vaccine-covid-19-cua-pfizer-duoc-chung-minh-hieu-qua-toi-94-bang-mot-nghien-cuu-thuc-te-co-quy-mo-lon-nhat-tu-truoc-toi-nay-2021022514011951.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tạm giữ nhóm quái xế tụ tập đua xe, bốc đầu giữa trung tâm TP.Hải Phòng](https://laodong.vn/phap-luat/tam-giu-nhom-quai-xe-tu-tap-dua-xe-boc-dau-giua-trung-tam-tphai-phong-883499.ldo) ([Lao Động](https://laodong.vn))
-- [“Thor 4: Love and Thunder” gặp tổn thất lớn dù chưa ra mắt](https://laodong.vn/giai-tri/thor-4-love-and-thunder-gap-ton-that-lon-du-chua-ra-mat-883434.ldo) ([Lao Động](https://laodong.vn))
-- [Hạnh phúc thật sự đến từ chữ BUÔNG: Bớt sân si, thôi tranh giành, từ giã thói quen "đứng núi này trông núi nọ"](https://cafebiz.vn/hanh-phuc-that-su-den-tu-chu-buong-bot-san-si-thoi-tranh-gianh-tu-gia-thoi-quen-dung-nui-nay-trong-nui-no-20210219122324369.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bí thư quận Tây Hồ Đỗ Anh Tuấn làm Giám đốc Sở Kế hoạch và Đầu tư Hà Nội](https://laodong.vn/thoi-su/bi-thu-quan-tay-ho-do-anh-tuan-lam-giam-doc-so-ke-hoach-va-dau-tu-ha-noi-883495.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
