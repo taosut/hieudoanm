@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 25.5°C.
-- Air Visual is 126.
+- Temperature is 25°C.
+- Feels Like 24.89°C.
+- Air Visual is 144.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Xúc động khoảnh khắc chú chó già yếu từ biệt chủ trước khi rời nhà tìm nơi để... chết](https://cafebiz.vn/xuc-dong-khoanh-khac-chu-cho-gia-yeu-tu-biet-chu-truoc-khi-roi-nha-tim-noi-de-chet-20210225154641301.chn) ([CafeBiz](https://cafebiz.vn))
-- [LĐLĐ Quảng Bình chúc mừng ngày thầy thuốc Việt Nam](https://laodong.vn/cong-doan/ldld-quang-binh-chuc-mung-ngay-thay-thuoc-viet-nam-883532.ldo) ([Lao Động](https://laodong.vn))
-- [Công an tỉnh Sóc Trăng, Bạc Liêu hiến máu nhân đạo](https://laodong.vn/xa-hoi/cong-an-tinh-soc-trang-bac-lieu-hien-mau-nhan-dao-883539.ldo) ([Lao Động](https://laodong.vn))
-- [Phát hiện 11 công dân nhập cảnh trái phép ở Lạng Sơn](https://laodong.vn/phap-luat/phat-hien-11-cong-dan-nhap-canh-trai-phep-o-lang-son-883530.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao các đường dây ma túy lớn chọn TPHCM làm điểm tập kết?](https://laodong.vn/phap-luat/vi-sao-cac-duong-day-ma-tuy-lon-chon-tphcm-lam-diem-tap-ket-883375.ldo) ([Lao Động](https://laodong.vn))
-- [Sotheby's đấu giá &quot;chiếc bát ăn cơm cũ&quot; trị giá 11,5 tỉ đồng](https://laodong.vn/the-gioi/sothebys-dau-gia-chiec-bat-an-com-cu-tri-gia-115-ti-dong-883524.ldo) ([Lao Động](https://laodong.vn))
-- [Tesla đầu tư vào Bitcoin và Musk đang 'chơi với lửa'](https://cafebiz.vn/tesla-dau-tu-vao-bitcoin-va-musk-dang-choi-voi-lua-20210225152158039.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Khẩu vị' lạ của nhà đầu tư Trung Quốc: Thờ ơ với Facebook, Apple, Amazon, chỉ thích rót tiền vào cổ phiếu các công ty bán... thịt lợn](https://cafebiz.vn/khau-vi-la-cua-nha-dau-tu-trung-quoc-tho-o-voi-facebook-apple-amazon-chi-thich-rot-tien-vao-co-phieu-cac-cong-ty-ban-thit-lon-20210225151300908.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bạn đọc Tuổi Trẻ đóng góp mua vắc xin, mong mỗi người cùng góp sức](https://tuoitre.vn/ban-doc-tuoi-tre-dong-gop-mua-vacxin-mong-moi-nguoi-cung-gop-suc-20210225144342577.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Israel đã tìm ra cách chấm dứt đại dịch Covid-19](https://cafebiz.vn/israel-da-tim-ra-cach-cham-dut-dai-dich-covid-19-20210225151645904.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá vàng thế giới bị thổi bay 15 USD sau ít giờ giao dịch](https://laodong.vn/kinh-te/gia-vang-the-gioi-bi-thoi-bay-15-usd-sau-it-gio-giao-dich-883553.ldo) ([Lao Động](https://laodong.vn))
+- [Cận cảnh vườn rau tự trồng của học sinh Trường THPT Chuyên Long An](https://laodong.vn/giao-duc/can-canh-vuon-rau-tu-trong-cua-hoc-sinh-truong-thpt-chuyen-long-an-883550.ldo) ([Lao Động](https://laodong.vn))
+- [Người dân ở Quảng Trị được hỗ trợ xây dựng nhà phòng chống thiên tai](https://laodong.vn/xa-hoi/nguoi-dan-o-quang-tri-duoc-ho-tro-xay-dung-nha-phong-chong-thien-tai-883545.ldo) ([Lao Động](https://laodong.vn))
+- [Không khí lạnh sắp tràn về miền Bắc gây mưa rét](https://laodong.vn/moi-truong/khong-khi-lanh-sap-tran-ve-mien-bac-gay-mua-ret-883560.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Định chiêu mộ cựu binh Đinh Hoàng Max](https://laodong.vn/bong-da/binh-dinh-chieu-mo-cuu-binh-dinh-hoang-max-883527.ldo) ([Lao Động](https://laodong.vn))
+- [Một quán cafe có tiếng ở Hà Nội tố bị "anh em sinh đôi" ở Thanh Hoá đạo từ tên quán, thiết kế cánh cửa đến nội dung trên fanpage](https://cafebiz.vn/mot-quan-cafe-co-tieng-o-ha-noi-to-bi-anh-em-sinh-doi-o-thanh-hoa-dao-tu-ten-quan-thiet-ke-canh-cua-den-noi-dung-tren-fanpage-20210225154408202.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắc Giang muốn có sân bay dân sự](https://vnexpress.net/bac-giang-muon-co-san-bay-dan-su-4240195.html) ([VNExpress](https://vnexpress.net))
+- [Nữ blogger 27 tuổi trở thành Tổng biên tập trẻ nhất trong lịch sử Vogue](https://cafebiz.vn/nu-blogger-27-tuoi-tro-thanh-tong-bien-tap-tre-nhat-trong-lich-su-vogue-20210225160026665.chn) ([CafeBiz](https://cafebiz.vn))
+- [&quot;Không đặt hàng, không bắt động vật chính là phóng sinh&quot;](https://laodong.vn/video/khong-dat-hang-khong-bat-dong-vat-chinh-la-phong-sinh-883149.ldo) ([Lao Động](https://laodong.vn))
+- [Khai trương hệ thống cơ sở dữ liệu quốc gia về dân cư và hệ thống quản lý căn cước công dân](https://tuoitre.vn/khai-truong-he-thong-co-so-du-lieu-quoc-gia-ve-dan-cu-va-he-thong-quan-ly-can-cuoc-cong-dan-20210225155259145.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,16 +96,7 @@
 
 **VIETCETERA**
 
-- [Ủa lương ơi, lương đã đi đâu?](https://vietcetera.com/vn/ua-luong-oi-luong-da-di-dau)
-- [2 Robot Daft Punk và 28 năm kiến tạo nền âm nhạc](https://vietcetera.com/vn/2-robot-daft-punk-va-28-nam-kien-tao-nen-am-nhac)
-- ["Crush của chị đứng giữa lớp hô, 'Ai chơi vật tay với tao không?'"](https://vietcetera.com/vn/crush-cua-chi-dung-giua-lop-ho-ai-choi-vat-tay-voi-tao-khong)
-- [Không Quan Tâm: G-Dragon và Jennie hẹn hò](https://vietcetera.com/vn/khongquantam-jennie-va-g-dragon-hen-ho)
-- [Phá thai, cấm hay không?](https://vietcetera.com/vn/pha-thai-cam-hay-khong)
-- [Tóm Lại Là: Coca Cola và câu chuyện về “da trắng thượng đẳng”](https://vietcetera.com/vn/tom-lai-la-coca-cola-va-cau-chuyen-ve-da-trang-thuong-dang)
-- [Vì sao chúng ta không thể ngừng chạm tay lên mặt?](https://vietcetera.com/vn/vi-sao-chung-ta-khong-the-ngung-cham-tay-len-mat)
-- [Hà Huy Hoàng: "Hồi ký cuộc đời mình sẽ mang tên 'Xin cho tôi vẽ!'"](https://vietcetera.com/vn/ha-huy-hoang-hoi-ky-cuoc-doi-minh-se-mang-ten-xin-cho-toi-ve)
-- [Bóc Term: Zombie-box — Bạn dùng công nghệ hay công nghệ dùng bạn?](https://vietcetera.com/vn/boc-term-zombie-box-ban-co-dang-bi-an-nao)
-- [Điện ảnh, công nghệ và y tế: Việt Nam đang đứng ở đâu?](https://vietcetera.com/vn/khong-chi-chong-dich-tot-viet-nam-dang-dat-nhieu-cot-moc-hon-the)
+
 
 [Read More](https://vietcetera.com/)
 
