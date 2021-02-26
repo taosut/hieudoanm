@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
-- Temperature is 25°C.
-- Feels Like 24.89°C.
-- Air Visual is 114.
+- Current weather is scattered clouds.
+- Temperature is 26°C.
+- Feels Like 26.23°C.
+- Air Visual is 137.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chiều 26/2, thêm 4 ca mắc Covid-19 tại Hải Dương](https://cafebiz.vn/chieu-26-2-them-4-ca-mac-covid-19-tai-hai-duong-20210226183448979.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng áp dụng khai báo điện tử tại chốt kiểm dịch](https://vnexpress.net/hai-phong-ap-dung-khai-bao-dien-tu-tai-chot-kiem-dich-4240790.html) ([VNExpress](https://vnexpress.net))
+- [Dự báo thời tiết 10 ngày tới ở cả ba miền](https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-o-ca-ba-mien-883601.ldo) ([Lao Động](https://laodong.vn))
+- [Xe container nối dài ngút mắt trước chốt kiểm dịch QL5 vào Hải Phòng](http://vietnamnet.vn/vn/thoi-su/xe-container-noi-dai-ngut-mat-truoc-chot-kiem-dich-ql5-vao-hai-phong-715789.html) ([VietNamNet](https://vietnamnet.vn))
+- [Việt Nam là quốc gia duy nhất trong ASEAN thăng hạng quyền lực mềm toàn cầu](https://tuoitre.vn/viet-nam-la-quoc-gia-duy-nhat-trong-asean-thang-hang-quyen-luc-mem-toan-cau-20210226155732764.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Gần 19.500 tỉ đồng để làm 67km đường cao tốc Tân Phú - Bảo Lộc](https://tuoitre.vn/gan-19-500-ti-dong-de-lam-67km-duong-cao-toc-tan-phu-bao-loc-20210226180420195.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Khánh Hòa: Ưu tiên nguồn nhân lực phát triển kinh tế  biển](https://laodong.vn/cong-doan/khanh-hoa-uu-tien-nguon-nhan-luc-phat-trien-kinh-te-bien-883987.ldo) ([Lao Động](https://laodong.vn))
 - [Trao giấy khen cho nam thanh niên lao xuống biển cứu sống 3 học sinh](https://laodong.vn/nguoi-viet-tu-te/trao-giay-khen-cho-nam-thanh-nien-lao-xuong-bien-cuu-song-3-hoc-sinh-883982.ldo) ([Lao Động](https://laodong.vn))
 - [Công bố 5 ca mắc COVID-19 mới, trong đó có 1 ca nhập cảnh trái phép](https://laodong.vn/y-te/cong-bo-5-ca-mac-covid-19-moi-trong-do-co-1-ca-nhap-canh-trai-phep-883988.ldo) ([Lao Động](https://laodong.vn))
 - [Khánh Hòa:  Nhu cầu lao động công nghiệp xây dựng sẽ tăng 30-40%](https://laodong.vn/cong-doan/khanh-hoa-nhu-cau-lao-dong-cong-nghiep-xay-dung-se-tang-30-40-883985.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Học sinh, sinh viên đi học trở lại sẽ theo thứ tự ưu tiên](https://laodong.vn/xa-hoi/ha-noi-hoc-sinh-sinh-vien-di-hoc-tro-lai-se-theo-thu-tu-uu-tien-883882.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều nay 26-2, thêm 5 ca bệnh COVID-19 mới, một ca là nhập cảnh trái phép](https://tuoitre.vn/chieu-nay-26-2-them-5-ca-benh-covid-19-moi-mot-ca-la-nhap-canh-trai-phep-20210226181331782.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thành ủy Huế vận động người dân, cán bộ mang áo dài suốt tháng 3](https://tuoitre.vn/thanh-uy-hue-van-dong-nguoi-dan-can-bo-mang-ao-dai-suot-thang-3-20210226175921485.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Lãnh đạo TP.HCM thăm, chúc mừng thầy thuốc nhân dân tiêu biểu](https://tuoitre.vn/lanh-dao-tp-hcm-tham-chuc-mung-thay-thuoc-nhan-dan-tieu-bieu-20210226150159985.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [12 người ngộ độc do ăn thịt bê nhiễm khuẩn](https://vnexpress.net/12-nguoi-ngo-doc-do-an-thit-be-nhiem-khuan-4240747.html) ([VNExpress](https://vnexpress.net))
-- [Bình Phước muốn có sân bay](https://vnexpress.net/binh-phuoc-muon-co-san-bay-4240660.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
