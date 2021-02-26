@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 26.09°C.
-- Air Visual is 95.
+- Feels Like 25.73°C.
+- Air Visual is 134.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [27 tuổi, từng là "con vịt xấu xí" bị phân biệt chủng tộc, Margaret Zhang giờ có gì trong tay để ngồi lên chiếc ghế tổng biên tập Vogue Trung Quốc?](https://cafebiz.vn/27-tuoi-tung-la-con-vit-xau-xi-bi-phan-biet-chung-toc-margaret-zhang-gio-co-gi-trong-tay-de-ngoi-len-chiec-ghe-tong-bien-tap-vogue-trung-quoc-20210226105000512.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bất ngờ: Elon Musk vừa có một nghiên cứu khoa học đăng trên tạp chí Nature nói về COVID-19](https://cafebiz.vn/bat-ngo-elon-musk-vua-co-mot-nghien-cuu-khoa-hoc-dang-tren-tap-chi-nature-noi-ve-covid-19-20210226085255838.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nghịch lý cuộc đời: Càng thắng tranh luận, càng bại công danh](https://cafebiz.vn/nghich-ly-cuoc-doi-cang-thang-tranh-luan-cang-bai-cong-danh-20210225165646377.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thẻ PVcomBank Travel - Đồng hành những người yêu xê dịch và  khám phá](https://laodong.vn/kinh-te/the-pvcombank-travel-dong-hanh-nhung-nguoi-yeu-xe-dich-va-kham-pha-883756.ldo) ([Lao Động](https://laodong.vn))
-- [Nghệ nhân Ánh Tuyết gợi ý mâm cỗ cúng Rằm tháng Giêng chuẩn phong tục](https://laodong.vn/van-hoa-giai-tri/nghe-nhan-anh-tuyet-goi-y-mam-co-cung-ram-thang-gieng-chuan-phong-tuc-883783.ldo) ([Lao Động](https://laodong.vn))
-- [Ôtô gây tai nạn liên hoàn, 1 học sinh rơi xuống sông tử vong](https://laodong.vn/xa-hoi/oto-gay-tai-nan-lien-hoan-1-hoc-sinh-roi-xuong-song-tu-vong-883782.ldo) ([Lao Động](https://laodong.vn))
-- [Chính quyền ông Joe Biden có động thái mới về chính sách nhập cư](https://laodong.vn/the-gioi/chinh-quyen-ong-joe-biden-co-dong-thai-moi-ve-chinh-sach-nhap-cu-883775.ldo) ([Lao Động](https://laodong.vn))
-- [Biệt danh “kẻ cướp” ở Châu Âu của Real Madrid có từ bao giờ?](https://laodong.vn/the-thao/biet-danh-ke-cuop-o-chau-au-cua-real-madrid-co-tu-bao-gio-883538.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều cựu quan chức cấp cao chuyển sang làm sếp lớn ngân hàng](https://cafebiz.vn/nhieu-cuu-quan-chuc-cap-cao-chuyen-sang-lam-sep-lon-ngan-hang-20210226103650492.chn) ([CafeBiz](https://cafebiz.vn))
-- ['So găng' thu nhập tại 15 ngân hàng lớn nhất thị trường: Ở đâu lương khủng nhất, ai trả thấp nhất?](https://cafebiz.vn/so-gang-thu-nhap-tai-15-ngan-hang-lon-nhat-thi-truong-o-dau-luong-khung-nhat-ai-tra-thap-nhat-20210226103522473.chn) ([CafeBiz](https://cafebiz.vn))
+- [Điện Biên không còn khu vực phong tỏa](https://vnexpress.net/dien-bien-khong-con-khu-vuc-phong-toa-4240472.html) ([VNExpress](https://vnexpress.net))
+- [Dân chở cả ôtô rau củ đổ sông, lãnh đạo nói “không cần giải cứu”](https://laodong.vn/su-kien-binh-luan/dan-cho-ca-oto-rau-cu-do-song-lanh-dao-noi-khong-can-giai-cuu-883772.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng tôn vinh 58 y bác sĩ là “Thầy thuốc ưu tú”, “Toả sáng Blouse trắng&quot;](https://laodong.vn/y-te/da-nang-ton-vinh-58-y-bac-si-la-thay-thuoc-uu-tu-toa-sang-blouse-trang-883784.ldo) ([Lao Động](https://laodong.vn))
+- [Điện Biên ưu tiên cấp CCCD gắn chíp cho học sinh chuẩn bị thi đại học](https://laodong.vn/xa-hoi/dien-bien-uu-tien-cap-cccd-gan-chip-cho-hoc-sinh-chuan-bi-thi-dai-hoc-883804.ldo) ([Lao Động](https://laodong.vn))
+- [Công an bắt giữ 2 tàu bỏ trốn trong chuyên án 920G- buôn lậu xăng dầu](https://laodong.vn/phap-luat/cong-an-bat-giu-2-tau-bo-tron-trong-chuyen-an-920g-buon-lau-xang-dau-883769.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt đối tượng tổ chức cho người Trung Quốc nhập cảnh trái phép](https://laodong.vn/phap-luat/bat-doi-tuong-to-chuc-cho-nguoi-trung-quoc-nhap-canh-trai-phep-883760.ldo) ([Lao Động](https://laodong.vn))
+- [Lật rơi xuống vực nhưng vẫn cứu sống huyền thoại Tiger Woods, siêu phẩm Genesis GV80 trị giá 50.000 USD có gì hot ngoài 10 túi khí?](https://cafebiz.vn/lat-roi-xuong-vuc-nhung-van-cuu-song-huyen-thoai-tiger-woods-sieu-pham-genesis-gv80-tri-gia-50000-usd-co-gi-hot-ngoai-10-tui-khi-20210226105804587.chn) ([CafeBiz](https://cafebiz.vn))
+- [CEO Tử Quảng khoe ảnh chụp đêm bằng Bphone, không tiện nêu tên 2 đối thủ là hãng A và hãng G](https://cafebiz.vn/ceo-tu-quang-khoe-anh-chup-dem-bang-bphone-khong-tien-neu-ten-2-doi-thu-la-hang-a-va-hang-g-20210226111610669.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hàng ngàn người đổ về viếng Bà chúa xứ Núi Sam dịp rằm tháng giêng](https://tuoitre.vn/hang-ngan-nguoi-do-ve-vieng-ba-chua-xu-nui-sam-dip-ram-thang-gieng-20210226103035061.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Sân bay Técníc Hớn Quản (Bình Phước) còn nằm trên giấy, cò đất đã làm náo loạn vùng quê](https://tuoitre.vn/san-bay-tecnic-hon-quan-binh-phuoc-con-nam-tren-giay-co-dat-da-lam-nao-loan-vung-que-20210226104136019.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
