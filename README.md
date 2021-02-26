@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 23.06°C.
-- Air Visual is 63.
+- Feels Like 23.78°C.
+- Air Visual is 68.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Một ca bệnh COVID-19 nhập cảnh tại Tây Ninh, Việt Nam thử nghiệm giai đoạn 2 vắc xin](https://tuoitre.vn/mot-ca-benh-covid-19-nhap-canh-tai-tay-ninh-viet-nam-thu-nghiem-giai-doan-2-vac-xin-20210226062046949.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [3 Hoa hậu Việt Nam sinh năm 1976: Tình duyên lận đận, mạnh mẽ sau &quot;biến cố&quot;](https://laodong.vn/van-hoa-giai-tri/3-hoa-hau-viet-nam-sinh-nam-1976-tinh-duyen-lan-dan-manh-me-sau-bien-co-883721.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao fan lại tranh luận về 2 thành viên Rosé và Jisoo nhóm Blackpink?](https://laodong.vn/van-hoa-giai-tri/vi-sao-fan-lai-tranh-luan-ve-2-thanh-vien-rose-va-jisoo-nhom-blackpink-883719.ldo) ([Lao Động](https://laodong.vn))
-- [Dự báo thời tiết 26.2: Bắc Bộ ngày nắng trước khi đón không khí lạnh](https://laodong.vn/moi-truong/du-bao-thoi-tiet-262-bac-bo-ngay-nang-truoc-khi-don-khong-khi-lanh-883615.ldo) ([Lao Động](https://laodong.vn))
-- [Gõ cửa từng phòng trọ tặng gạo, trứng... cho 4.500 công nhân bị cách ly vì Covid-19](http://vietnamnet.vn/vn/thoi-su/tin-anh/go-cua-tung-phong-tro-tang-gao-trung-cho-4-500-cong-nhan-bi-cach-ly-vi-covid-19-715540.html) ([VietNamNet](https://vietnamnet.vn))
-- [Tuổi cán bộ, công chức, viên chức được ứng cử Đại biểu Quốc hội](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/tuoi-can-bo-cong-chuc-vien-chuc-duoc-ung-cu-dai-bieu-quoc-hoi-715550.html) ([VietNamNet](https://vietnamnet.vn))
-- [Dự báo thời tiết 26/2: Đón không khí lạnh, Bắc Bộ mưa toàn vùng](http://vietnamnet.vn/vn/thoi-su/du-bao-thoi-tiet-26-2-don-khong-khi-lanh-bac-bo-mua-toan-vung-715546.html) ([VietNamNet](https://vietnamnet.vn))
-- [Ba xã cuối cùng ở Quảng Ninh được dỡ phong tỏa](https://vnexpress.net/ba-xa-cuoi-cung-o-quang-ninh-duoc-do-phong-toa-4240383.html) ([VNExpress](https://vnexpress.net))
-- [Ô tô đâm loạt xe đạp điện trên cầu, học sinh ở Quảng Trị rơi xuống sông tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/o-to-dam-loat-xe-dap-dien-tren-cau-hoc-sinh-o-quang-tri-roi-xuong-song-tu-vong-715573.html) ([VietNamNet](https://vietnamnet.vn))
-- [Covid-19 ngày 26/2](https://vnexpress.net/covid-19-ngay-26-2-4240385.html) ([VNExpress](https://vnexpress.net))
+- [Ông Biden mừng dấu mốc thành công đầu tiên sau 37 ngày nhậm chức](https://laodong.vn/the-gioi/ong-biden-mung-dau-moc-thanh-cong-dau-tien-sau-37-ngay-nham-chuc-883729.ldo) ([Lao Động](https://laodong.vn))
+- [Tặng thêm một bó oải hương và sự nhạy bén trong tư duy của thần cổ phiếu Warren Buffett: Thành công đôi khi đến từ những việc rất cỏn con!](https://cafebiz.vn/tang-them-mot-bo-oai-huong-va-su-nhay-ben-trong-tu-duy-cua-than-co-phieu-warren-buffett-thanh-cong-doi-khi-den-tu-nhung-viec-rat-con-con-20210225190828553.chn) ([CafeBiz](https://cafebiz.vn))
+- [Được ông Biden chấp thuận, Mỹ bất ngờ không kích ở Syria](https://laodong.vn/the-gioi/duoc-ong-biden-chap-thuan-my-bat-ngo-khong-kich-o-syria-883732.ldo) ([Lao Động](https://laodong.vn))
+- [Vaccine Pfizer khắc phục được &quot;nhược điểm&quot; bảo quản cực lạnh](https://laodong.vn/the-gioi/vaccine-pfizer-khac-phuc-duoc-nhuoc-diem-bao-quan-cuc-lanh-883733.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội phấn đấu cấp thẻ căn cước gắn chip cho 2,5 triệu người](https://laodong.vn/xa-hoi/ha-noi-phan-dau-cap-the-can-cuoc-gan-chip-cho-25-trieu-nguoi-883696.ldo) ([Lao Động](https://laodong.vn))
+- [Lưu ý và tư vấn của WHO về vaccine COVID-19 của AstraZeneca](https://laodong.vn/the-gioi/luu-y-va-tu-van-cua-who-ve-vaccine-covid-19-cua-astrazeneca-883684.ldo) ([Lao Động](https://laodong.vn))
+- [Đằng sau ráo hoảnh một chữ “lùi”](https://laodong.vn/su-kien-binh-luan/dang-sau-rao-hoanh-mot-chu-lui-883699.ldo) ([Lao Động](https://laodong.vn))
+- [[Case study] 9 năm không biết lỗ, CEO Eva de Eva quyết tái định vị thương hiệu: Tham vọng mở 100 cửa hàng, chẳng ngờ khiến công ty suýt phá sản](https://cafebiz.vn/case-study-9-nam-khong-biet-lo-ceo-eva-de-eva-quyet-tai-dinh-vi-thuong-hieu-tham-vong-mo-100-cua-hang-chang-ngo-khien-cong-ty-suyt-pha-san-20210225181949001.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phim gia đình và những thông điệp nhân văn từ màn ảnh Việt](https://laodong.vn/van-hoa-giai-tri/phim-gia-dinh-va-nhung-thong-diep-nhan-van-tu-man-anh-viet-883687.ldo) ([Lao Động](https://laodong.vn))
+- [Kẻ sát hại nữ sinh lớp 10 ở Hà Nam 2 lần định tự tử](https://laodong.vn/video/ke-sat-hai-nu-sinh-lop-10-o-ha-nam-2-lan-dinh-tu-tu-883650.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -137,8 +137,8 @@
 05. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 06. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 07. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
-08. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
-09. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
+08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
+09. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 10. [Công an Hình sự cũng phải ĐỨNG DÒM cách in tiền giả chuyên nghiệp này | Trinh sát kể chuyện | ANTC](https://www.youtube.com/watch?v=nvA_9wVPcvw) - [AN NINH TOÀN CẢNH](https://www.youtube.com/channel/UCotkNLf_Y3jfbLWuSFUCSBQ)
 
 [Read More](https://www.youtube.com/feed/trending)
