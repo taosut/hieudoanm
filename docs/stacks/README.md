@@ -34,14 +34,14 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-bootstrap-000?style=flat&logo=bootstrap" alt="bootstrap" />](https://github.com/twbs/bootstrap) | javascript | 148,481 | 7,127 | 72,391 | 227,999|
+|1|[<img src="https://img.shields.io/badge/-bootstrap-000?style=flat&logo=bootstrap" alt="bootstrap" />](https://github.com/twbs/bootstrap) | javascript | 148,482 | 7,127 | 72,391 | 228,000|
 
 ## FRONT-END FRAMEWORKS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
 |1|[<img src="https://img.shields.io/badge/-react-000?style=flat&logo=react" alt="react" />](https://github.com/facebook/react) | javascript | 164,280 | 6,740 | 32,938 | 203,958|
-|2|[<img src="https://img.shields.io/badge/-angular-000?style=flat&logo=angular" alt="angular" />](https://github.com/angular/angular) | typescript | 70,959 | 3,199 | 18,651 | 92,809|
+|2|[<img src="https://img.shields.io/badge/-angular-000?style=flat&logo=angular" alt="angular" />](https://github.com/angular/angular) | typescript | 70,961 | 3,199 | 18,651 | 92,811|
 
 ## MOBILE FRAMEWORKS
 
@@ -77,7 +77,7 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-nginx-000?style=flat&logo=nginx" alt="nginx" />](https://github.com/nginx/nginx) | c | 13,571 | 954 | 4,971 | 19,496|
+|1|[<img src="https://img.shields.io/badge/-nginx-000?style=flat&logo=nginx" alt="nginx" />](https://github.com/nginx/nginx) | c | 13,572 | 954 | 4,972 | 19,498|
 |2|[<img src="https://img.shields.io/badge/-apache-000?style=flat&logo=apache" alt="apache" />](https://github.com/apache/httpd) | c | 2,627 | 246 | 845 | 3,718|
 
 ## JAVASCRIPT
@@ -85,8 +85,8 @@
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
 |1|[<img src="https://img.shields.io/badge/-redux-000?style=flat&logo=redux" alt="redux" />](https://github.com/reduxjs/redux) | typescript | 55,397 | 1,409 | 14,569 | 71,375|
-|2|[<img src="https://img.shields.io/badge/-lodash-000?style=flat&logo=lodash" alt="lodash" />](https://github.com/lodash/lodash) | javascript | 48,397 | 883 | 5,566 | 54,846|
-|3|[<img src="https://img.shields.io/badge/-prettier-000?style=flat&logo=prettier" alt="prettier" />](https://github.com/prettier/prettier) | javascript | 39,020 | 409 | 2,664 | 42,093|
+|2|[<img src="https://img.shields.io/badge/-lodash-000?style=flat&logo=lodash" alt="lodash" />](https://github.com/lodash/lodash) | javascript | 48,396 | 883 | 5,566 | 54,845|
+|3|[<img src="https://img.shields.io/badge/-prettier-000?style=flat&logo=prettier" alt="prettier" />](https://github.com/prettier/prettier) | javascript | 39,021 | 409 | 2,664 | 42,094|
 |4|[<img src="https://img.shields.io/badge/-eslint-000?style=flat&logo=eslint" alt="eslint" />](https://github.com/eslint/eslint) | javascript | 17,935 | 301 | 3,188 | 21,424|
 |5|[<img src="https://img.shields.io/badge/-graphql-000?style=flat&logo=graphql" alt="graphql" />](https://github.com/graphql/graphql-js) | javascript | 17,306 | 412 | 1,759 | 19,477|
 

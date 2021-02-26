@@ -39,7 +39,7 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-bootstrap-000?style=flat&logo=bootstrap" alt="bootstrap" />](https://github.com/twbs/bootstrap) | javascript | 148,481 | 7,127 | 72,391 | 227,999|
+|1|[<img src="https://img.shields.io/badge/-bootstrap-000?style=flat&logo=bootstrap" alt="bootstrap" />](https://github.com/twbs/bootstrap) | javascript | 148,482 | 7,127 | 72,391 | 228,000|
 |2|[<img src="https://img.shields.io/badge/-bulma-000?style=flat&logo=bulma" alt="bulma" />](https://github.com/jgthms/bulma) | css | 42,776 | 653 | 3,667 | 47,096|
 |3|[<img src="https://img.shields.io/badge/-materialize-000?style=flat&logo=materialize" alt="materialize" />](https://github.com/Dogfalo/materialize) | javascript | 38,374 | 1,057 | 4,894 | 44,325|
 |4|[<img src="https://img.shields.io/badge/-tailwind-000?style=flat&logo=tailwind" alt="tailwind" />](https://github.com/tailwindlabs/tailwindcss) | css | 37,343 | 516 | 1,712 | 39,571|
@@ -51,8 +51,8 @@
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
 |1|[<img src="https://img.shields.io/badge/-vue.js-000?style=flat&logo=vue.js" alt="vue.js" />](https://github.com/vuejs/vue) | javascript | 179,930 | 6,349 | 28,256 | 214,535|
 |2|[<img src="https://img.shields.io/badge/-react-000?style=flat&logo=react" alt="react" />](https://github.com/facebook/react) | javascript | 164,280 | 6,740 | 32,938 | 203,958|
-|3|[<img src="https://img.shields.io/badge/-angular-000?style=flat&logo=angular" alt="angular" />](https://github.com/angular/angular) | typescript | 70,959 | 3,199 | 18,651 | 92,809|
-|4|[<img src="https://img.shields.io/badge/-jquery-000?style=flat&logo=jquery" alt="jquery" />](https://github.com/jquery/jquery) | javascript | 54,581 | 3,360 | 19,764 | 77,705|
+|3|[<img src="https://img.shields.io/badge/-angular-000?style=flat&logo=angular" alt="angular" />](https://github.com/angular/angular) | typescript | 70,961 | 3,199 | 18,651 | 92,811|
+|4|[<img src="https://img.shields.io/badge/-jquery-000?style=flat&logo=jquery" alt="jquery" />](https://github.com/jquery/jquery) | javascript | 54,581 | 3,360 | 19,765 | 77,706|
 |5|[<img src="https://img.shields.io/badge/-gatsby-000?style=flat&logo=gatsby" alt="gatsby" />](https://github.com/gatsbyjs/gatsby) | javascript | 49,173 | 921 | 9,322 | 59,416|
 |6|[<img src="https://img.shields.io/badge/-backbone-000?style=flat&logo=backbone" alt="backbone" />](https://github.com/jashkenas/backbone) | javascript | 27,742 | 1,397 | 5,619 | 34,758|
 |7|[<img src="https://img.shields.io/badge/-ember.js-000?style=flat&logo=ember.js" alt="ember.js" />](https://github.com/emberjs/ember.js) | javascript | 21,754 | 948 | 4,221 | 26,923|
@@ -69,7 +69,7 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-django-000?style=flat&logo=django" alt="django" />](https://github.com/django/django) | python | 55,834 | 2,328 | 23,973 | 82,135|
+|1|[<img src="https://img.shields.io/badge/-django-000?style=flat&logo=django" alt="django" />](https://github.com/django/django) | python | 55,836 | 2,328 | 23,973 | 82,137|
 |2|[<img src="https://img.shields.io/badge/-flask-000?style=flat&logo=flask" alt="flask" />](https://github.com/pallets/flask) | python | 54,023 | 2,269 | 14,138 | 70,430|
 |3|[<img src="https://img.shields.io/badge/-express-000?style=flat&logo=express" alt="express" />](https://github.com/expressjs/express) | javascript | 52,058 | 1,799 | 8,733 | 62,590|
 |4|[<img src="https://img.shields.io/badge/-symfony-000?style=flat&logo=symfony" alt="symfony" />](https://github.com/symfony/symfony) | php | 24,708 | 1,230 | 8,020 | 33,958|
@@ -98,7 +98,7 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-nginx-000?style=flat&logo=nginx" alt="nginx" />](https://github.com/nginx/nginx) | c | 13,571 | 954 | 4,971 | 19,496|
+|1|[<img src="https://img.shields.io/badge/-nginx-000?style=flat&logo=nginx" alt="nginx" />](https://github.com/nginx/nginx) | c | 13,572 | 954 | 4,972 | 19,498|
 |2|[<img src="https://img.shields.io/badge/-apache-000?style=flat&logo=apache" alt="apache" />](https://github.com/apache/httpd) | c | 2,627 | 246 | 845 | 3,718|
 
 ## MACHINE LEARNING
@@ -112,8 +112,8 @@
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
 |1|[<img src="https://img.shields.io/badge/-redux-000?style=flat&logo=redux" alt="redux" />](https://github.com/reduxjs/redux) | typescript | 55,397 | 1,409 | 14,569 | 71,375|
-|2|[<img src="https://img.shields.io/badge/-lodash-000?style=flat&logo=lodash" alt="lodash" />](https://github.com/lodash/lodash) | javascript | 48,397 | 883 | 5,566 | 54,846|
-|3|[<img src="https://img.shields.io/badge/-prettier-000?style=flat&logo=prettier" alt="prettier" />](https://github.com/prettier/prettier) | javascript | 39,020 | 409 | 2,664 | 42,093|
+|2|[<img src="https://img.shields.io/badge/-lodash-000?style=flat&logo=lodash" alt="lodash" />](https://github.com/lodash/lodash) | javascript | 48,396 | 883 | 5,566 | 54,845|
+|3|[<img src="https://img.shields.io/badge/-prettier-000?style=flat&logo=prettier" alt="prettier" />](https://github.com/prettier/prettier) | javascript | 39,021 | 409 | 2,664 | 42,094|
 |4|[<img src="https://img.shields.io/badge/-eslint-000?style=flat&logo=eslint" alt="eslint" />](https://github.com/eslint/eslint) | javascript | 17,935 | 301 | 3,188 | 21,424|
 |5|[<img src="https://img.shields.io/badge/-graphql-000?style=flat&logo=graphql" alt="graphql" />](https://github.com/graphql/graphql-js) | javascript | 17,306 | 412 | 1,759 | 19,477|
 

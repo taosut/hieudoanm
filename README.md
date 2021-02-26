@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 21°C.
-- Feels Like 19.38°C.
-- Air Visual is 140.
+- Temperature is 20°C.
+- Feels Like 17.96°C.
+- Air Visual is 84.
 
 **WEATHER**
 
@@ -50,6 +50,7 @@
 
 - [![Arsenal vs Benfica](https://img.shields.io/static/v1?label=Arsenal%20vs%20Benfica&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Benfica)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![Bài Khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=B%C3%A0i%20Kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0i%20Kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Cao Văn Triền](https://img.shields.io/static/v1?label=Cao%20V%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20V%C4%83n%20Tri%E1%BB%81n)
 - [![Diễn viên Thương Tín](https://img.shields.io/static/v1?label=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
@@ -65,7 +66,6 @@
 - [![Tai nạn đèo Bảo Lộc](https://img.shields.io/static/v1?label=Tai%20n%E1%BA%A1n%20%C4%91%C3%A8o%20B%E1%BA%A3o%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tai%20n%E1%BA%A1n%20%C4%91%C3%A8o%20B%E1%BA%A3o%20L%E1%BB%99c)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
-- [![Văn khân Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%C3%A2n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%C3%A2n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
