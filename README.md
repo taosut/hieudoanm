@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
+- Current weather is clear sky.
 - Temperature is 27°C.
-- Feels Like 26.8°C.
-- Air Visual is 112.
+- Feels Like 26.44°C.
+- Air Visual is 95.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Dịch COVID-19 càn quét 2 tàu hải quân Mỹ ở Trung Đông](https://laodong.vn/the-gioi/dich-covid-19-can-quet-2-tau-hai-quan-my-o-trung-dong-883890.ldo) ([Lao Động](https://laodong.vn))
-- [Kim ngạch xuất khẩu Việt Nam sang Anh bứt phá ngoạn mục sau UKVFTA](https://laodong.vn/thi-truong/kim-ngach-xuat-khau-viet-nam-sang-anh-but-pha-ngoan-muc-sau-ukvfta-883930.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều Rằm tháng Giêng: Chủ hàng vẫn than ế, sức mua giảm](https://laodong.vn/kinh-te/chieu-ram-thang-gieng-chu-hang-van-than-e-suc-mua-giam-883905.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng: Phiên giao dịch việc làm đầu năm thưa vắng người lao động](https://laodong.vn/cong-doan/da-nang-phien-giao-dich-viec-lam-dau-nam-thua-vang-nguoi-lao-dong-883907.ldo) ([Lao Động](https://laodong.vn))
-- [Hậu Giang: Hơn 19,5 tỉ đồng chăm lo cho đời sống đoàn viên, NLĐ dịp Tết](https://laodong.vn/ldld-hau-giang/hau-giang-hon-195-ti-dong-cham-lo-cho-doi-song-doan-vien-nld-dip-tet-883922.ldo) ([Lao Động](https://laodong.vn))
-- [Những chiến sĩ áo trắng và nỗ lực từ tâm dịch Hải Dương](https://cafebiz.vn/nhung-chien-si-ao-trang-va-no-luc-tu-tam-dich-hai-duong-20210226161610272.chn) ([CafeBiz](https://cafebiz.vn))
-- [15 điều cha mẹ hiện đại nên làm để thể hiện tình yêu với con](https://cafebiz.vn/15-dieu-cha-me-hien-dai-nen-lam-de-the-hien-tinh-yeu-voi-con-20210226145501435.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những ai sẽ được tiêm miễn phí vaccine phòng Covid-19 ở Việt Nam?](https://cafebiz.vn/nhung-ai-se-duoc-tiem-mien-phi-vaccine-phong-covid-19-o-viet-nam-20210226160418745.chn) ([CafeBiz](https://cafebiz.vn))
-- [Gần 400 bệnh nhân COVID-19 ở Hải Dương đã khỏi bệnh](https://cafebiz.vn/gan-400-benh-nhan-covid-19-o-hai-duong-da-khoi-benh-20210226160126149.chn) ([CafeBiz](https://cafebiz.vn))
-- [HDBank giảm lãi suất vay, chỉ còn từ 3%/năm](https://cafebiz.vn/hdbank-giam-lai-suat-vay-chi-con-tu-3-nam-20210226155753787.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phim &quot;Kiều&quot; chính thức trở lại rạp sau thời gian hoãn vì COVID-19](https://laodong.vn/van-hoa-giai-tri/phim-kieu-chinh-thuc-tro-lai-rap-sau-thoi-gian-hoan-vi-covid-19-883943.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội thông tin về chủng virus SARS-CoV-2 của ca bệnh người Nhật tử vong](https://laodong.vn/xa-hoi/ha-noi-thong-tin-ve-chung-virus-sars-cov-2-cua-ca-benh-nguoi-nhat-tu-vong-883879.ldo) ([Lao Động](https://laodong.vn))
+- [“Giải cứu” được nhiều cà chua bằng cách làm sốt cà chua](https://laodong.vn/gia-dinh-hon-nhan/giai-cuu-duoc-nhieu-ca-chua-bang-cach-lam-sot-ca-chua-883936.ldo) ([Lao Động](https://laodong.vn))
+- [Premier League vòng 26: Ngóng chờ đại chiến Chelsea - Man United](https://laodong.vn/the-thao/premier-league-vong-26-ngong-cho-dai-chien-chelsea-man-united-883931.ldo) ([Lao Động](https://laodong.vn))
+- [Lịch thi đấu vòng 26 Ngoại hạng Anh: Solskjaer đấu Tuchel](https://laodong.vn/lich-thi-dau/lich-thi-dau-vong-26-ngoai-hang-anh-solskjaer-dau-tuchel-883926.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng: Kinh doanh thua lỗ, hàng loạt khách sạn bán tháo trả nợ](https://laodong.vn/video-thoi-su/da-nang-kinh-doanh-thua-lo-hang-loat-khach-san-ban-thao-tra-no-883372.ldo) ([Lao Động](https://laodong.vn))
+- [Nếu cha đẻ Bitcoin xuất hiện, thị trường tiền ảo sẽ điên đảo](https://cafebiz.vn/neu-cha-de-bitcoin-xuat-hien-thi-truong-tien-ao-se-dien-dao-2021022616395437.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bí mật ẩn sau 6 chiếc ghế luôn 'cháy vé' của hãng hàng không Singapore Airlines](https://cafebiz.vn/bi-mat-an-sau-6-chiec-ghe-luon-chay-ve-cua-hang-hang-khong-singapore-airlines-20210226164152895.chn) ([CafeBiz](https://cafebiz.vn))
+- [6 nét tướng mặt phú quý trời ban cho đàn ông: Sự nghiệp lẫy lừng, gia đạo ấm êm!](https://cafebiz.vn/6-net-tuong-mat-phu-quy-troi-ban-cho-dan-ong-su-nghiep-lay-lung-gia-dao-am-em-20210226165222881.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đề xuất lắp camera để giám sát rừng, phòng ngừa lâm tặc](https://tuoitre.vn/de-xuat-lap-camera-de-giam-sat-rung-phong-ngua-lam-tac-20210226160516506.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,16 +96,16 @@
 
 **VIETCETERA**
 
+- [Sau Tết, làm thế nào để giảm cân hiệu quả khi tập gym cùng PT? ](https://vietcetera.com/vn/sau-tet-lam-the-nao-de-giam-can-hieu-qua-khi-tap-gym-cung-pt)
+- [Đối mặt với sang chấn tuổi thơ và sự vô cảm của người xung quanh](https://vietcetera.com/vn/doi-mat-voi-sang-chan-tuoi-tho-va-su-vo-cam-cua-nguoi-xung-quanh)
 - [Đối diện với nỗi sợ từ quá khứ qua phim kinh dị](https://vietcetera.com/vn/nhung-tac-pham-kinh-di-chat-chua-noi-dau-con-nguoi-cua-mike-flanagan)
+- [5 Ứng dụng “kể chuyện” bằng game](https://vietcetera.com/vn/5-ung-dung-ke-chuyen-bang-game)
 - [Bóc Term: Bạn đã bị "zucc" bởi Facebook bao giờ chưa?](https://vietcetera.com/vn/boc-term-ban-da-bi-zucc-boi-facebook-bao-gio-chua)
 - [Chúng ta dễ bám vào niềm tin sai lầm trước quá nhiều điều không chắc chắn](https://vietcetera.com/vn/truoc-qua-nhieu-dieu-khong-chac-chan-chung-ta-de-bam-vao-niem-tin-sai-lam)
 - [4 Dụng cụ pha cà phê thủ công thổi hồn cho ly cà phê tại gia ](https://vietcetera.com/vn/4-dung-cu-pha-ca-phe-thu-cong-thoi-hon-cho-ly-ca-phe-tai-gia)
+- [Không Quan Tâm: Sơn Tùng "đạo nhạc" lần thứ 8](https://vietcetera.com/vn/khong-quan-tam-son-tung-dao-nhac-lan-thu-8)
+- [Mandarin Oriental ra mắt dự án khu dưỡng và dân cư cao cấp tại Đà Nẵng](https://vietcetera.com/vn/mandarin-oriental-ra-mat-du-an-khu-duong-va-dan-cu-cao-cap-tai-da-nang)
 - [Bóc Term: Dogecoin là gì mà Elon Musk quan tâm thế?](https://vietcetera.com/vn/boc-term-dogecoin-la-gi-ma-elon-musk-quan-tam-the)
-- [Du học châu Phi có gì lạ?](https://vietcetera.com/vn/du-hoc-chau-phi-co-gi-la)
-- [Tạ Quốc Kỳ Nam: Được gì sau khi bỏ... sáu múi?](https://vietcetera.com/vn/ta-quoc-ky-nam)
-- [Ủa lương ơi, lương đã đi đâu?](https://vietcetera.com/vn/ua-luong-oi-luong-da-di-dau)
-- [2 Robot Daft Punk và 28 năm kiến tạo nền âm nhạc](https://vietcetera.com/vn/2-robot-daft-punk-va-28-nam-kien-tao-nen-am-nhac)
-- ["Crush của chị đứng giữa lớp hô, 'Ai chơi vật tay với tao không?'"](https://vietcetera.com/vn/crush-cua-chi-dung-giua-lop-ho-ai-choi-vat-tay-voi-tao-khong)
 
 [Read More](https://vietcetera.com/)
 
