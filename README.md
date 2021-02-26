@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Người già có bệnh nền tham gia thử nghiệm vaccine COVID-19 giai đoạn 2](https://laodong.vn/y-te/nguoi-gia-co-benh-nen-tham-gia-thu-nghiem-vaccine-covid-19-giai-doan-2-883824.ldo) ([Lao Động](https://laodong.vn))
-- [Tin văn hóa trong tuần: Loạt phim Việt công chiếu tháng 3](https://laodong.vn/van-hoa-giai-tri/tin-van-hoa-trong-tuan-loat-phim-viet-cong-chieu-thang-3-883759.ldo) ([Lao Động](https://laodong.vn))
-- [Hàn Quốc khởi động chiến dịch tiêm chủng bằng vaccine AstraZeneca](https://laodong.vn/the-gioi/han-quoc-khoi-dong-chien-dich-tiem-chung-bang-vaccine-astrazeneca-883785.ldo) ([Lao Động](https://laodong.vn))
-- [Giao Bộ Y tế chủ trì, phối hợp mua, nhập khẩu 150 triệu liều vaccine](https://laodong.vn/thoi-su/giao-bo-y-te-chu-tri-phoi-hop-mua-nhap-khau-150-trieu-lieu-vaccine-883823.ldo) ([Lao Động](https://laodong.vn))
+- [Hạnh phúc giản dị của nữ bác sĩ nơi tâm dịch](https://laodong.vn/y-te/hanh-phuc-gian-di-cua-nu-bac-si-noi-tam-dich-883793.ldo) ([Lao Động](https://laodong.vn))
+- [Nhân lực công nghệ mới: Trông chờ Nhà nước hay kỳ vọng doanh nghiệp?](https://laodong.vn/kinh-te/nhan-luc-cong-nghe-moi-trong-cho-nha-nuoc-hay-ky-vong-doanh-nghiep-883829.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Dịch vụ đặt đồ cúng online hút khách ngày Rằm tháng Giêng](https://laodong.vn/video/tphcm-dich-vu-dat-do-cung-online-hut-khach-ngay-ram-thang-gieng-883806.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút: Tổng thống Mỹ Joe Biden có hành động quân sự đầu tiên](https://laodong.vn/video/ban-tin-1-phut-tong-thong-my-joe-biden-co-hanh-dong-quan-su-dau-tien-883819.ldo) ([Lao Động](https://laodong.vn))
+- [Rằm tháng Giêng: Chợ dân sinh ế ẩm, người bán đông hơn người mua](https://laodong.vn/photo/ram-thang-gieng-cho-dan-sinh-e-am-nguoi-ban-dong-hon-nguoi-mua-883830.ldo) ([Lao Động](https://laodong.vn))
+- [Kiểm điểm cán bộ trong vụ chùa Viên Giác tụ tập đông người](http://vietnamnet.vn/vn/thoi-su/kiem-diem-can-bo-trong-vu-chua-vien-giac-tu-tap-dong-nguoi-715687.html) ([VietNamNet](https://vietnamnet.vn))
+- [Đá tập, cầu thủ Nam Định và Phú Thọ liên tục xô xát](https://laodong.vn/bong-da/da-tap-cau-thu-nam-dinh-va-phu-tho-lien-tuc-xo-xat-883799.ldo) ([Lao Động](https://laodong.vn))
+- [Đổ xô đào Pi, người dùng thực sự không mất gì?](https://cafebiz.vn/do-xo-dao-pi-nguoi-dung-thuc-su-khong-mat-gi-20210226122200989.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ô tô tông học sinh rơi cầu tử vong ở Quảng Trị: Tài xế vi phạm nồng độ cồn](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/o-to-tong-hoc-sinh-roi-cau-tu-vong-o-quang-tri-tai-xe-vi-pham-nong-do-con-715696.html) ([VietNamNet](https://vietnamnet.vn))
 - [Ôtô tông hai người văng xuống sông](https://vnexpress.net/oto-tong-hai-nguoi-vang-xuong-song-4240532.html) ([VNExpress](https://vnexpress.net))
-- [Đại sứ Anh tại Việt Nam GARETH WARD: Khoa học là chìa khóa chiến thắng đại dịch](https://tuoitre.vn/dai-su-anh-tai-viet-nam-gareth-ward-khoa-hoc-la-chia-khoa-chien-thang-dai-dich-20210225195037716.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thanh Hóa hỗ trợ Hải Dương 500 triệu đồng khắc phục khó khăn do COVID-19](https://tuoitre.vn/thanh-hoa-ho-tro-hai-duong-500-trieu-dong-khac-phuc-kho-khan-do-covid-19-20210226113535477.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Phó Thủ tướng thăm các tình nguyện tiêm thử nghiệm vaccine COVID-19](https://laodong.vn/y-te/pho-thu-tuong-tham-cac-tinh-nguyen-tiem-thu-nghiem-vaccine-covid-19-883807.ldo) ([Lao Động](https://laodong.vn))
-- [Nhà nước tốn kém quá rồi nên cùng góp vắcxin COVID-19 đẩy lùi dịch bệnh](https://tuoitre.vn/nha-nuoc-ton-kem-qua-roi-nen-cung-gop-vacxin-covid-19-day-lui-dich-benh-20210226112248127.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hà Nội bổ nhiệm 4 giám đốc sở và chánh Văn phòng UBND TP](https://tuoitre.vn/ha-noi-bo-nhiem-4-giam-doc-so-va-chanh-van-phong-ubnd-tp-20210226115523828.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
