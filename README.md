@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
-- Temperature is 26°C.
-- Feels Like 26.23°C.
-- Air Visual is 137.
+- Current weather is few clouds.
+- Temperature is 25°C.
+- Feels Like 25.25°C.
+- Air Visual is 139.
 
 **WEATHER**
 
@@ -51,23 +51,23 @@
 - [![Arsenal vs Benfica](https://img.shields.io/static/v1?label=Arsenal%20vs%20Benfica&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Benfica)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
+- [![Bắc Ninh](https://img.shields.io/static/v1?label=B%E1%BA%AFc%20Ninh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%AFc%20Ninh)
 - [![Cao Văn Triền](https://img.shields.io/static/v1?label=Cao%20V%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20V%C4%83n%20Tri%E1%BB%81n)
-- [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
-- [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
 - [![Lion Group](https://img.shields.io/static/v1?label=Lion%20Group&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lion%20Group)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
+- [![Mạc Văn Khoa](https://img.shields.io/static/v1?label=M%E1%BA%A1c%20V%C4%83n%20Khoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BA%A1c%20V%C4%83n%20Khoa)
+- [![Nghệ sĩ Thương Tín](https://img.shields.io/static/v1?label=Ngh%E1%BB%87%20s%C4%A9%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ngh%E1%BB%87%20s%C4%A9%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
+- [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi K40](https://img.shields.io/static/v1?label=Redmi%20K40&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20K40)
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
 - [![Sân bay Bình Phước](https://img.shields.io/static/v1?label=S%C3%A2n%20bay%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C3%A2n%20bay%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc)
-- [![The Myth](https://img.shields.io/static/v1?label=The%20Myth&message=google&color=red&style=flat-square)](https://www.google.com/search?q=The%20Myth)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
-- [![Đại học Thương mại](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Th%C6%B0%C6%A1ng%20m%E1%BA%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Th%C6%B0%C6%A1ng%20m%E1%BA%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Chiều 26/2, thêm 4 ca mắc Covid-19 tại Hải Dương](https://cafebiz.vn/chieu-26-2-them-4-ca-mac-covid-19-tai-hai-duong-20210226183448979.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Phòng áp dụng khai báo điện tử tại chốt kiểm dịch](https://vnexpress.net/hai-phong-ap-dung-khai-bao-dien-tu-tai-chot-kiem-dich-4240790.html) ([VNExpress](https://vnexpress.net))
-- [Dự báo thời tiết 10 ngày tới ở cả ba miền](https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-o-ca-ba-mien-883601.ldo) ([Lao Động](https://laodong.vn))
-- [Xe container nối dài ngút mắt trước chốt kiểm dịch QL5 vào Hải Phòng](http://vietnamnet.vn/vn/thoi-su/xe-container-noi-dai-ngut-mat-truoc-chot-kiem-dich-ql5-vao-hai-phong-715789.html) ([VietNamNet](https://vietnamnet.vn))
-- [Việt Nam là quốc gia duy nhất trong ASEAN thăng hạng quyền lực mềm toàn cầu](https://tuoitre.vn/viet-nam-la-quoc-gia-duy-nhat-trong-asean-thang-hang-quyen-luc-mem-toan-cau-20210226155732764.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Gần 19.500 tỉ đồng để làm 67km đường cao tốc Tân Phú - Bảo Lộc](https://tuoitre.vn/gan-19-500-ti-dong-de-lam-67km-duong-cao-toc-tan-phu-bao-loc-20210226180420195.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Khánh Hòa: Ưu tiên nguồn nhân lực phát triển kinh tế  biển](https://laodong.vn/cong-doan/khanh-hoa-uu-tien-nguon-nhan-luc-phat-trien-kinh-te-bien-883987.ldo) ([Lao Động](https://laodong.vn))
-- [Trao giấy khen cho nam thanh niên lao xuống biển cứu sống 3 học sinh](https://laodong.vn/nguoi-viet-tu-te/trao-giay-khen-cho-nam-thanh-nien-lao-xuong-bien-cuu-song-3-hoc-sinh-883982.ldo) ([Lao Động](https://laodong.vn))
-- [Công bố 5 ca mắc COVID-19 mới, trong đó có 1 ca nhập cảnh trái phép](https://laodong.vn/y-te/cong-bo-5-ca-mac-covid-19-moi-trong-do-co-1-ca-nhap-canh-trai-phep-883988.ldo) ([Lao Động](https://laodong.vn))
-- [Khánh Hòa:  Nhu cầu lao động công nghiệp xây dựng sẽ tăng 30-40%](https://laodong.vn/cong-doan/khanh-hoa-nhu-cau-lao-dong-cong-nghiep-xay-dung-se-tang-30-40-883985.ldo) ([Lao Động](https://laodong.vn))
+- [TPBank ra mắt dịch vụ kết nối thanh toán qua Open API miễn phí cho doanh nghiệp](https://cafebiz.vn/tpbank-ra-mat-dich-vu-ket-noi-thanh-toan-qua-open-api-mien-phi-cho-doanh-nghiep-20210226162924264.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mua sắm online như tại cửa hàng: Chìa khóa nào tối ưu cho doanh nghiệp](https://cafebiz.vn/mua-sam-online-nhu-tai-cua-hang-chia-khoa-nao-toi-uu-cho-doanh-nghiep-20210226162853495.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cần Thơ: Cách ly tập trung 3 trường hợp liên quan đến BN2424](https://laodong.vn/xa-hoi/can-tho-cach-ly-tap-trung-3-truong-hop-lien-quan-den-bn2424-884010.ldo) ([Lao Động](https://laodong.vn))
+- [Kiatisak khẳng định tham vọng vô địch V.League trên báo Thái Lan](https://laodong.vn/bong-da/kiatisak-khang-dinh-tham-vong-vo-dich-vleague-tren-bao-thai-lan-883981.ldo) ([Lao Động](https://laodong.vn))
+- [Ô tô Trung Quốc ồ ạt về Việt Nam tháng đầu năm 2021](https://cafebiz.vn/o-to-trung-quoc-o-at-ve-viet-nam-thang-dau-nam-2021-20210226171155977.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng có tân Chánh văn phòng Thành ủy](https://laodong.vn/thoi-su/hai-phong-co-tan-chanh-van-phong-thanh-uy-883999.ldo) ([Lao Động](https://laodong.vn))
+- [Để 'ngâm' văn bản, Bộ trưởng phê bình yêu cầu không được để cảnh 'chợ chiều'](https://tuoitre.vn/de-ngam-van-ban-bo-truong-phe-binh-yeu-cau-khong-duoc-de-canh-cho-chieu-2021022612023534.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [An Giang: Bắt 2 đối tượng nghiện trên đường đi giao ma túy](https://laodong.vn/phap-luat/an-giang-bat-2-doi-tuong-nghien-tren-duong-di-giao-ma-tuy-884001.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng 'mở toang' cửa ngõ để thông thương hàng hóa](https://tuoitre.vn/hai-phong-mo-toang-cua-ngo-de-thong-thuong-hang-hoa-20210226185817674.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Trao bằng giấy khen cho ‘anh hùng’ dũng cảm bơi ra biển cứu người](https://tuoitre.vn/trao-bang-giay-khen-cho-anh-hung-dung-cam-boi-ra-bien-cuu-nguoi-2021022617504083.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
