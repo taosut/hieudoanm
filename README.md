@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 25.73°C.
-- Air Visual is 107.
+- Feels Like 25.37°C.
+- Air Visual is 109.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Người già có bệnh nền tham gia thử nghiệm vaccine COVID-19 giai đoạn 2](https://laodong.vn/y-te/nguoi-gia-co-benh-nen-tham-gia-thu-nghiem-vaccine-covid-19-giai-doan-2-883824.ldo) ([Lao Động](https://laodong.vn))
+- [Tin văn hóa trong tuần: Loạt phim Việt công chiếu tháng 3](https://laodong.vn/van-hoa-giai-tri/tin-van-hoa-trong-tuan-loat-phim-viet-cong-chieu-thang-3-883759.ldo) ([Lao Động](https://laodong.vn))
+- [Hàn Quốc khởi động chiến dịch tiêm chủng bằng vaccine AstraZeneca](https://laodong.vn/the-gioi/han-quoc-khoi-dong-chien-dich-tiem-chung-bang-vaccine-astrazeneca-883785.ldo) ([Lao Động](https://laodong.vn))
+- [Giao Bộ Y tế chủ trì, phối hợp mua, nhập khẩu 150 triệu liều vaccine](https://laodong.vn/thoi-su/giao-bo-y-te-chu-tri-phoi-hop-mua-nhap-khau-150-trieu-lieu-vaccine-883823.ldo) ([Lao Động](https://laodong.vn))
+- [Ôtô tông hai người văng xuống sông](https://vnexpress.net/oto-tong-hai-nguoi-vang-xuong-song-4240532.html) ([VNExpress](https://vnexpress.net))
+- [Đại sứ Anh tại Việt Nam GARETH WARD: Khoa học là chìa khóa chiến thắng đại dịch](https://tuoitre.vn/dai-su-anh-tai-viet-nam-gareth-ward-khoa-hoc-la-chia-khoa-chien-thang-dai-dich-20210225195037716.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thanh Hóa hỗ trợ Hải Dương 500 triệu đồng khắc phục khó khăn do COVID-19](https://tuoitre.vn/thanh-hoa-ho-tro-hai-duong-500-trieu-dong-khac-phuc-kho-khan-do-covid-19-20210226113535477.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Phó Thủ tướng thăm các tình nguyện tiêm thử nghiệm vaccine COVID-19](https://laodong.vn/y-te/pho-thu-tuong-tham-cac-tinh-nguyen-tiem-thu-nghiem-vaccine-covid-19-883807.ldo) ([Lao Động](https://laodong.vn))
+- [Nhà nước tốn kém quá rồi nên cùng góp vắcxin COVID-19 đẩy lùi dịch bệnh](https://tuoitre.vn/nha-nuoc-ton-kem-qua-roi-nen-cung-gop-vacxin-covid-19-day-lui-dich-benh-20210226112248127.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hà Nội bổ nhiệm 4 giám đốc sở và chánh Văn phòng UBND TP](https://tuoitre.vn/ha-noi-bo-nhiem-4-giam-doc-so-va-chanh-van-phong-ubnd-tp-20210226115523828.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
