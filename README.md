@@ -21,8 +21,8 @@
 
 - Current weather is few clouds.
 - Temperature is 25°C.
-- Feels Like 25.25°C.
-- Air Visual is 139.
+- Feels Like 25.67°C.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hải Phòng dừng hoạt động 8 chốt kiểm dịch ở cửa ngõ](https://vnexpress.net/hai-phong-dung-hoat-dong-8-chot-kiem-dich-o-cua-ngo-4240805.html) ([VNExpress](https://vnexpress.net))
+- [Dỡ bỏ phong tỏa những 'điểm nóng' cuối cùng tại Đông Triều, Quảng Ninh](https://tuoitre.vn/do-bo-phong-toa-nhung-diem-nong-cuoi-cung-tai-dong-trieu-quang-ninh-20210226193909718.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nóng nhất 24h: 10 tấn nầm và chân lợn không rõ nguồn gốc bị bắt giữ](https://laodong.vn/video-thoi-su/nong-nhat-24h-10-tan-nam-va-chan-lon-khong-ro-nguon-goc-bi-bat-giu-883983.ldo) ([Lao Động](https://laodong.vn))
+- [Bệnh nhân Covid-19 nặng tại Hải Dương được công bố khỏi bệnh: "Tôi xúc động khi được các bác sĩ chăm sóc trong những ngày Tết Nguyên đán"](https://cafebiz.vn/benh-nhan-covid-19-nang-tai-hai-duong-duoc-cong-bo-khoi-benh-toi-xuc-dong-khi-duoc-cac-bac-si-cham-soc-trong-nhung-ngay-tet-nguyen-dan-2021022618371103.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mỗi tỉnh một sân bay, tiền đâu? ai bay?](https://laodong.vn/su-kien-binh-luan/moi-tinh-mot-san-bay-tien-dau-ai-bay-883812.ldo) ([Lao Động](https://laodong.vn))
+- [Phó chủ tịch Hà Nội: Thời gian tới thành phố sẽ nới lỏng để các hoạt động trở lại bình thường](https://cafebiz.vn/pho-chu-tich-ha-noi-thoi-gian-toi-thanh-pho-se-noi-long-de-cac-hoat-dong-tro-lai-binh-thuong-20210226192859472.chn) ([CafeBiz](https://cafebiz.vn))
+- [Từ loạt bài Tuổi Trẻ, Chủ tịch UBND TP.HCM chỉ đạo xử lý tới nơi 'ô nhiễm' tiếng ồn karaoke](https://tuoitre.vn/tu-loat-bai-tuoi-tre-chu-tich-ubnd-tp-hcm-chi-dao-xu-ly-toi-noi-o-nhiem-tieng-on-karaoke-20210226192054175.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Indonesia nghiên cứu phát hành tiền kỹ thuật số](https://cafebiz.vn/indonesia-nghien-cuu-phat-hanh-tien-ky-thuat-so-20210226171847588.chn) ([CafeBiz](https://cafebiz.vn))
 - [TPBank ra mắt dịch vụ kết nối thanh toán qua Open API miễn phí cho doanh nghiệp](https://cafebiz.vn/tpbank-ra-mat-dich-vu-ket-noi-thanh-toan-qua-open-api-mien-phi-cho-doanh-nghiep-20210226162924264.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mua sắm online như tại cửa hàng: Chìa khóa nào tối ưu cho doanh nghiệp](https://cafebiz.vn/mua-sam-online-nhu-tai-cua-hang-chia-khoa-nao-toi-uu-cho-doanh-nghiep-20210226162853495.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cần Thơ: Cách ly tập trung 3 trường hợp liên quan đến BN2424](https://laodong.vn/xa-hoi/can-tho-cach-ly-tap-trung-3-truong-hop-lien-quan-den-bn2424-884010.ldo) ([Lao Động](https://laodong.vn))
-- [Kiatisak khẳng định tham vọng vô địch V.League trên báo Thái Lan](https://laodong.vn/bong-da/kiatisak-khang-dinh-tham-vong-vo-dich-vleague-tren-bao-thai-lan-883981.ldo) ([Lao Động](https://laodong.vn))
-- [Ô tô Trung Quốc ồ ạt về Việt Nam tháng đầu năm 2021](https://cafebiz.vn/o-to-trung-quoc-o-at-ve-viet-nam-thang-dau-nam-2021-20210226171155977.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Phòng có tân Chánh văn phòng Thành ủy](https://laodong.vn/thoi-su/hai-phong-co-tan-chanh-van-phong-thanh-uy-883999.ldo) ([Lao Động](https://laodong.vn))
-- [Để 'ngâm' văn bản, Bộ trưởng phê bình yêu cầu không được để cảnh 'chợ chiều'](https://tuoitre.vn/de-ngam-van-ban-bo-truong-phe-binh-yeu-cau-khong-duoc-de-canh-cho-chieu-2021022612023534.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [An Giang: Bắt 2 đối tượng nghiện trên đường đi giao ma túy](https://laodong.vn/phap-luat/an-giang-bat-2-doi-tuong-nghien-tren-duong-di-giao-ma-tuy-884001.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng 'mở toang' cửa ngõ để thông thương hàng hóa](https://tuoitre.vn/hai-phong-mo-toang-cua-ngo-de-thong-thuong-hang-hoa-20210226185817674.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Trao bằng giấy khen cho ‘anh hùng’ dũng cảm bơi ra biển cứu người](https://tuoitre.vn/trao-bang-giay-khen-cho-anh-hung-dung-cam-boi-ra-bien-cuu-nguoi-2021022617504083.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Cởi Mở: Lần đầu thử tình một đêm (ONS)](https://vietcetera.com/vn/coi-mo-lan-dau-thu-tinh-mot-dem-ons)
 - [Không Quan Tâm: Clubhouse còn lâu mới nổi ở Việt Nam](https://vietcetera.com/vn/khong-quan-tam-clubhouse-mang-xa-hoi-kieu-moi)
 - [5 Nhà hàng ẩm thực tinh hoa cho bữa trưa cùng đối tác](https://vietcetera.com/vn/5-chon-an-trua-cho-dan-van-phong)
 - [Sau Tết, làm thế nào để giảm cân hiệu quả khi tập gym cùng PT? ](https://vietcetera.com/vn/sau-tet-lam-the-nao-de-giam-can-hieu-qua-khi-tap-gym-cung-pt)
@@ -105,7 +106,6 @@
 - [Bóc Term: Bạn đã bị "zucc" bởi Facebook bao giờ chưa?](https://vietcetera.com/vn/boc-term-ban-da-bi-zucc-boi-facebook-bao-gio-chua)
 - [Chúng ta dễ bám vào niềm tin sai lầm trước quá nhiều điều không chắc chắn](https://vietcetera.com/vn/truoc-qua-nhieu-dieu-khong-chac-chan-chung-ta-de-bam-vao-niem-tin-sai-lam)
 - [4 Dụng cụ pha cà phê thủ công thổi hồn cho ly cà phê tại gia ](https://vietcetera.com/vn/4-dung-cu-pha-ca-phe-thu-cong-thoi-hon-cho-ly-ca-phe-tai-gia)
-- [Không Quan Tâm: Sơn Tùng "đạo nhạc" lần thứ 8](https://vietcetera.com/vn/khong-quan-tam-son-tung-dao-nhac-lan-thu-8)
 
 [Read More](https://vietcetera.com/)
 
