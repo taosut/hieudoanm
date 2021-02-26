@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 22°C.
-- Feels Like 23.78°C.
-- Air Visual is 68.
+- Current weather is broken clouds.
+- Temperature is 23°C.
+- Feels Like 24.77°C.
+- Air Visual is 86.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Ông Biden mừng dấu mốc thành công đầu tiên sau 37 ngày nhậm chức](https://laodong.vn/the-gioi/ong-biden-mung-dau-moc-thanh-cong-dau-tien-sau-37-ngay-nham-chuc-883729.ldo) ([Lao Động](https://laodong.vn))
-- [Tặng thêm một bó oải hương và sự nhạy bén trong tư duy của thần cổ phiếu Warren Buffett: Thành công đôi khi đến từ những việc rất cỏn con!](https://cafebiz.vn/tang-them-mot-bo-oai-huong-va-su-nhay-ben-trong-tu-duy-cua-than-co-phieu-warren-buffett-thanh-cong-doi-khi-den-tu-nhung-viec-rat-con-con-20210225190828553.chn) ([CafeBiz](https://cafebiz.vn))
-- [Được ông Biden chấp thuận, Mỹ bất ngờ không kích ở Syria](https://laodong.vn/the-gioi/duoc-ong-biden-chap-thuan-my-bat-ngo-khong-kich-o-syria-883732.ldo) ([Lao Động](https://laodong.vn))
-- [Vaccine Pfizer khắc phục được &quot;nhược điểm&quot; bảo quản cực lạnh](https://laodong.vn/the-gioi/vaccine-pfizer-khac-phuc-duoc-nhuoc-diem-bao-quan-cuc-lanh-883733.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội phấn đấu cấp thẻ căn cước gắn chip cho 2,5 triệu người](https://laodong.vn/xa-hoi/ha-noi-phan-dau-cap-the-can-cuoc-gan-chip-cho-25-trieu-nguoi-883696.ldo) ([Lao Động](https://laodong.vn))
-- [Lưu ý và tư vấn của WHO về vaccine COVID-19 của AstraZeneca](https://laodong.vn/the-gioi/luu-y-va-tu-van-cua-who-ve-vaccine-covid-19-cua-astrazeneca-883684.ldo) ([Lao Động](https://laodong.vn))
-- [Đằng sau ráo hoảnh một chữ “lùi”](https://laodong.vn/su-kien-binh-luan/dang-sau-rao-hoanh-mot-chu-lui-883699.ldo) ([Lao Động](https://laodong.vn))
-- [[Case study] 9 năm không biết lỗ, CEO Eva de Eva quyết tái định vị thương hiệu: Tham vọng mở 100 cửa hàng, chẳng ngờ khiến công ty suýt phá sản](https://cafebiz.vn/case-study-9-nam-khong-biet-lo-ceo-eva-de-eva-quyet-tai-dinh-vi-thuong-hieu-tham-vong-mo-100-cua-hang-chang-ngo-khien-cong-ty-suyt-pha-san-20210225181949001.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phim gia đình và những thông điệp nhân văn từ màn ảnh Việt](https://laodong.vn/van-hoa-giai-tri/phim-gia-dinh-va-nhung-thong-diep-nhan-van-tu-man-anh-viet-883687.ldo) ([Lao Động](https://laodong.vn))
-- [Kẻ sát hại nữ sinh lớp 10 ở Hà Nam 2 lần định tự tử](https://laodong.vn/video/ke-sat-hai-nu-sinh-lop-10-o-ha-nam-2-lan-dinh-tu-tu-883650.ldo) ([Lao Động](https://laodong.vn))
+- [Livestream bán hàng lậu 'đại náo' mạng xã hội](https://cafebiz.vn/livestream-ban-hang-lau-dai-nao-mang-xa-hoi-20210226084533889.chn) ([CafeBiz](https://cafebiz.vn))
+- [6 thực phẩm giúp giảm nếp nhăn hiệu quả](https://laodong.vn/suc-khoe/6-thuc-pham-giup-giam-nep-nhan-hieu-qua-883726.ldo) ([Lao Động](https://laodong.vn))
+- [Một số đối tác mong muốn mở lại bay thương mại quốc tế tới Việt Nam](https://cafebiz.vn/mot-so-doi-tac-mong-muon-mo-lai-bay-thuong-mai-quoc-te-toi-viet-nam-20210226084030715.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sáng 26/2, thêm một ca mắc mới COVID-19](https://cafebiz.vn/sang-26-2-them-mot-ca-mac-moi-covid-19-20210226083913953.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hé lộ nội dung cuộc điện đàm của ông Biden với Quốc vương Saudi Arabia](https://laodong.vn/the-gioi/he-lo-noi-dung-cuoc-dien-dam-cua-ong-biden-voi-quoc-vuong-saudi-arabia-883737.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Xuyên đêm vận chuyển hoa phục vụ Rằm tháng Giêng](https://laodong.vn/photo/tphcm-xuyen-dem-van-chuyen-hoa-phuc-vu-ram-thang-gieng-883716.ldo) ([Lao Động](https://laodong.vn))
+- [Chính thức cấm "thuốc hối hận" trong sinh đẻ, hy vọng làm mẹ của những phụ nữ "quá lứa nhỡ thì" ở Trung Quốc càng thêm mong manh](https://cafebiz.vn/chinh-thuc-cam-thuoc-hoi-han-trong-sinh-de-hy-vong-lam-me-cua-nhung-phu-nu-qua-lua-nho-thi-o-trung-quoc-cang-them-mong-manh-20210226083544037.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khởi tố 2 vợ chồng tàng trữ ma túy](https://laodong.vn/phap-luat/khoi-to-2-vo-chong-tang-tru-ma-tuy-883744.ldo) ([Lao Động](https://laodong.vn))
+- [Ái nữ 21 tuổi của Phó Tổng thống Mỹ: Không phải con đẻ nhưng gây chú ý trong mọi sự kiện, vừa lấn sân thời trang đã nổi bần bật với thần thái lạ](https://cafebiz.vn/ai-nu-21-tuoi-cua-pho-tong-thong-my-khong-phai-con-de-nhung-gay-chu-y-trong-moi-su-kien-vua-lan-san-thoi-trang-da-noi-ban-bat-voi-than-thai-la-20210226083434667.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người dân TPHCM hào hứng 'giải cứu' nông sản Hải Dương](https://cafebiz.vn/nguoi-dan-tphcm-hao-hung-giai-cuu-nong-san-hai-duong-20210226083034779.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
