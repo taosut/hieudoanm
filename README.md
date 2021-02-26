@@ -19,17 +19,17 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is scattered clouds.
 - Temperature is 23°C.
 - Feels Like 24.05°C.
-- Air Visual is 132.
+- Air Visual is 107.
 
 **WEATHER**
 
-- Date: 2021/02/26
-- Lunar: 2021/01/15
+- Date: 2021/02/27
+- Lunar: 2021/01/16
 - Tiet Khi: Tiểu tuyết.
-- năm canh tý tháng kỷ sửu ngày quý hợi.
+- năm canh tý tháng kỷ sửu ngày giáp tý.
 
 **NPM**
 
@@ -50,8 +50,7 @@
 
 - [![Arsenal vs Benfica](https://img.shields.io/static/v1?label=Arsenal%20vs%20Benfica&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Benfica)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
-- [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
-- [![Diễn viên Thương Tín](https://img.shields.io/static/v1?label=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
+- [![Cao Văn Triền](https://img.shields.io/static/v1?label=Cao%20V%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20V%C4%83n%20Tri%E1%BB%81n)
 - [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
 - [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![Lion Group](https://img.shields.io/static/v1?label=Lion%20Group&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lion%20Group)
@@ -64,6 +63,7 @@
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
 - [![Sân bay Bình Phước](https://img.shields.io/static/v1?label=S%C3%A2n%20bay%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C3%A2n%20bay%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc)
 - [![Tai nạn đèo Bảo Lộc](https://img.shields.io/static/v1?label=Tai%20n%E1%BA%A1n%20%C4%91%C3%A8o%20B%E1%BA%A3o%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tai%20n%E1%BA%A1n%20%C4%91%C3%A8o%20B%E1%BA%A3o%20L%E1%BB%99c)
+- [![Thương Tín](https://img.shields.io/static/v1?label=Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Hứa là làm, Thuỷ Tiên "khoe" đang xây 10 nhà cộng đồng tránh lũ cho người dân miền Trung](https://cafebiz.vn/hua-la-lam-thuy-tien-khoe-dang-xay-10-nha-cong-dong-tranh-lu-cho-nguoi-dan-mien-trung-20210226233522631.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cả ngàn người dân đổ về chùa Vĩnh Nghiêm tối rằm tháng Giêng](https://laodong.vn/photo/ca-ngan-nguoi-dan-do-ve-chua-vinh-nghiem-toi-ram-thang-gieng-884018.ldo) ([Lao Động](https://laodong.vn))
 - [Rằm tháng Giêng: Người dân Cần Thơ lặng lẽ đi chùa cầu an](https://laodong.vn/photo/ram-thang-gieng-nguoi-dan-can-tho-lang-le-di-chua-cau-an-884019.ldo) ([Lao Động](https://laodong.vn))
 - [Tự sự của người thành công: "Mọi người chỉ thấy được sự tiến bộ vượt bậc của tôi, chứ không thấy được khoảng thời gian tôi tàn nhẫn với chính mình"](https://cafebiz.vn/tu-su-cua-nguoi-thanh-cong-moi-nguoi-chi-thay-duoc-su-tien-bo-vuot-bac-cua-toi-chu-khong-thay-duoc-khoang-thoi-gian-toi-tan-nhan-voi-chinh-minh-20210221225458188.chn) ([CafeBiz](https://cafebiz.vn))
@@ -84,7 +85,6 @@
 - [Hải Dương: Hơn 10.000 công nhân nhà trọ được hỗ trợ gạo, nhu yếu phẩm](https://laodong.vn/cong-doan/hai-duong-hon-10000-cong-nhan-nha-tro-duoc-ho-tro-gao-nhu-yeu-pham-884023.ldo) ([Lao Động](https://laodong.vn))
 - [Cụ bà 105 tuổi ở Mỹ chiến thắng Covid-19 nhờ “cầu nguyện” và...nho khô](https://cafebiz.vn/cu-ba-105-tuoi-o-my-chien-thang-covid-19-nho-cau-nguyen-vanho-kho-20210226211006892.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bà xã kém 32 tuổi giải thích lý do không kề cận khi NS Thương Tín bị đột quỵ, tiết lộ cuộc sống hôn nhân vô cùng khó khăn](https://cafebiz.vn/ba-xa-kem-32-tuoi-giai-thich-ly-do-khong-ke-can-khi-ns-thuong-tin-bi-dot-quy-tiet-lo-cuoc-song-hon-nhan-vo-cung-kho-khan-20210226213610065.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kinh tế 24h: Giá vàng đồng loạt xuống dốc; Hàng hoá Rằm tháng giêng ế ẩm](https://laodong.vn/kinh-te/kinh-te-24h-gia-vang-dong-loat-xuong-doc-hang-hoa-ram-thang-gieng-e-am-884011.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -136,10 +136,10 @@
 04. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 05. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 06. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
-07. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
-08. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
+07. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
+08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 09. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
-10. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
+10. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 
 [Read More](https://www.youtube.com/feed/trending)
 
