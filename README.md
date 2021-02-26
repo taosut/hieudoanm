@@ -20,8 +20,8 @@
 **CALENDAR**
 
 - Current weather is few clouds.
-- Temperature is 28°C.
-- Feels Like 28.19°C.
+- Temperature is 27°C.
+- Feels Like 26.8°C.
 - Air Visual is 112.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Việt Nam vượt Philippines xếp vị trí thứ 4 về tiêu thụ ôtô ở Đông Nam Á](https://laodong.vn/xe/viet-nam-vuot-philippines-xep-vi-tri-thu-4-ve-tieu-thu-oto-o-dong-nam-a-883903.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Chi trả lương hưu tháng 3 và 4 cùng một lúc](https://laodong.vn/cong-doan/tphcm-chi-tra-luong-huu-thang-3-va-4-cung-mot-luc-883897.ldo) ([Lao Động](https://laodong.vn))
-- [Manh mối triệt phá đường dây mua bán trẻ sơ sinh](https://laodong.vn/phap-luat/manh-moi-triet-pha-duong-day-mua-ban-tre-so-sinh-883898.ldo) ([Lao Động](https://laodong.vn))
-- [Kỳ lương đáng sợ nhất năm đã tới: Thấp đến sang chấn tâm lý!](https://cafebiz.vn/ky-luong-dang-so-nhat-nam-da-toi-thap-den-sang-chan-tam-ly-20210226154503022.chn) ([CafeBiz](https://cafebiz.vn))
-- [Triệt phá đường dây mua bán trẻ sơ sinh sang Trung Quốc quy mô cực lớn](https://cafebiz.vn/triet-pha-duong-day-mua-ban-tre-so-sinh-sang-trung-quoc-quy-mo-cuc-lon-20210226154234585.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Trump chia sẻ kế hoạch hậu nhiệm kỳ tổng thống](https://laodong.vn/the-gioi/ong-trump-chia-se-ke-hoach-hau-nhiem-ky-tong-thong-883889.ldo) ([Lao Động](https://laodong.vn))
-- [Top vua phá lưới Bundesliga 2020/21: Haaland bùng nổ, kém Lewandowski 9 bàn](https://laodong.vn/photo/top-vua-pha-luoi-bundesliga-202021-haaland-bung-no-kem-lewandowski-9-ban-883870.ldo) ([Lao Động](https://laodong.vn))
-- [Ngày rằm tháng Giêng: Đền chùa lớn Hà Nội đóng cửa, người dân vái vọng ở xa](https://laodong.vn/photo/ngay-ram-thang-gieng-den-chua-lon-ha-noi-dong-cua-nguoi-dan-vai-vong-o-xa-883883.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Yêu cầu hoàn thành công tác phòng, chống dịch khi học sinh trở lại trường trước ngày 1/3](https://cafebiz.vn/ha-noi-yeu-cau-hoan-thanh-cong-tac-phong-chong-dich-khi-hoc-sinh-tro-lai-truong-truoc-ngay-1-3-20210226153000558.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cư dân mạng háo hức rủ nhau săn vé 88k giá sốc chỉ có ở Vietnam Airlines](https://cafebiz.vn/cu-dan-mang-hao-huc-ru-nhau-san-ve-88k-gia-soc-chi-co-o-vietnam-airlines-20210226145534604.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dịch COVID-19 càn quét 2 tàu hải quân Mỹ ở Trung Đông](https://laodong.vn/the-gioi/dich-covid-19-can-quet-2-tau-hai-quan-my-o-trung-dong-883890.ldo) ([Lao Động](https://laodong.vn))
+- [Kim ngạch xuất khẩu Việt Nam sang Anh bứt phá ngoạn mục sau UKVFTA](https://laodong.vn/thi-truong/kim-ngach-xuat-khau-viet-nam-sang-anh-but-pha-ngoan-muc-sau-ukvfta-883930.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều Rằm tháng Giêng: Chủ hàng vẫn than ế, sức mua giảm](https://laodong.vn/kinh-te/chieu-ram-thang-gieng-chu-hang-van-than-e-suc-mua-giam-883905.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng: Phiên giao dịch việc làm đầu năm thưa vắng người lao động](https://laodong.vn/cong-doan/da-nang-phien-giao-dich-viec-lam-dau-nam-thua-vang-nguoi-lao-dong-883907.ldo) ([Lao Động](https://laodong.vn))
+- [Hậu Giang: Hơn 19,5 tỉ đồng chăm lo cho đời sống đoàn viên, NLĐ dịp Tết](https://laodong.vn/ldld-hau-giang/hau-giang-hon-195-ti-dong-cham-lo-cho-doi-song-doan-vien-nld-dip-tet-883922.ldo) ([Lao Động](https://laodong.vn))
+- [Những chiến sĩ áo trắng và nỗ lực từ tâm dịch Hải Dương](https://cafebiz.vn/nhung-chien-si-ao-trang-va-no-luc-tu-tam-dich-hai-duong-20210226161610272.chn) ([CafeBiz](https://cafebiz.vn))
+- [15 điều cha mẹ hiện đại nên làm để thể hiện tình yêu với con](https://cafebiz.vn/15-dieu-cha-me-hien-dai-nen-lam-de-the-hien-tinh-yeu-voi-con-20210226145501435.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những ai sẽ được tiêm miễn phí vaccine phòng Covid-19 ở Việt Nam?](https://cafebiz.vn/nhung-ai-se-duoc-tiem-mien-phi-vaccine-phong-covid-19-o-viet-nam-20210226160418745.chn) ([CafeBiz](https://cafebiz.vn))
+- [Gần 400 bệnh nhân COVID-19 ở Hải Dương đã khỏi bệnh](https://cafebiz.vn/gan-400-benh-nhan-covid-19-o-hai-duong-da-khoi-benh-20210226160126149.chn) ([CafeBiz](https://cafebiz.vn))
+- [HDBank giảm lãi suất vay, chỉ còn từ 3%/năm](https://cafebiz.vn/hdbank-giam-lai-suat-vay-chi-con-tu-3-nam-20210226155753787.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,8 +96,9 @@
 
 **VIETCETERA**
 
+- [Đối diện với nỗi sợ từ quá khứ qua phim kinh dị](https://vietcetera.com/vn/nhung-tac-pham-kinh-di-chat-chua-noi-dau-con-nguoi-cua-mike-flanagan)
 - [Bóc Term: Bạn đã bị "zucc" bởi Facebook bao giờ chưa?](https://vietcetera.com/vn/boc-term-ban-da-bi-zucc-boi-facebook-bao-gio-chua)
-- [Chúng ta dễ bám vào niềm tin sai lầm trước quá nhiều điều không chắn chắn](https://vietcetera.com/vn/truoc-qua-nhieu-dieu-khong-chac-chan-chung-ta-de-bam-vao-niem-tin-sai-lam)
+- [Chúng ta dễ bám vào niềm tin sai lầm trước quá nhiều điều không chắc chắn](https://vietcetera.com/vn/truoc-qua-nhieu-dieu-khong-chac-chan-chung-ta-de-bam-vao-niem-tin-sai-lam)
 - [4 Dụng cụ pha cà phê thủ công thổi hồn cho ly cà phê tại gia ](https://vietcetera.com/vn/4-dung-cu-pha-ca-phe-thu-cong-thoi-hon-cho-ly-ca-phe-tai-gia)
 - [Bóc Term: Dogecoin là gì mà Elon Musk quan tâm thế?](https://vietcetera.com/vn/boc-term-dogecoin-la-gi-ma-elon-musk-quan-tam-the)
 - [Du học châu Phi có gì lạ?](https://vietcetera.com/vn/du-hoc-chau-phi-co-gi-la)
@@ -105,7 +106,6 @@
 - [Ủa lương ơi, lương đã đi đâu?](https://vietcetera.com/vn/ua-luong-oi-luong-da-di-dau)
 - [2 Robot Daft Punk và 28 năm kiến tạo nền âm nhạc](https://vietcetera.com/vn/2-robot-daft-punk-va-28-nam-kien-tao-nen-am-nhac)
 - ["Crush của chị đứng giữa lớp hô, 'Ai chơi vật tay với tao không?'"](https://vietcetera.com/vn/crush-cua-chi-dung-giua-lop-ho-ai-choi-vat-tay-voi-tao-khong)
-- [Không Quan Tâm: G-Dragon và Jennie hẹn hò](https://vietcetera.com/vn/khongquantam-jennie-va-g-dragon-hen-ho)
 
 [Read More](https://vietcetera.com/)
 
@@ -134,8 +134,8 @@
 02. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 03. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
 04. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-05. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
-06. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+05. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+06. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 07. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 08. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 09. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
