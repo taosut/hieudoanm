@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 20°C.
-- Feels Like 17.96°C.
-- Air Visual is 84.
+- Temperature is 19°C.
+- Feels Like 18.05°C.
+- Air Visual is 116.
 
 **WEATHER**
 
@@ -80,11 +80,11 @@
 - [Đèo Bảo Lộc kẹt cứng sau tai nạn liên hoàn](https://vnexpress.net/deo-bao-loc-ket-cung-sau-tai-nan-lien-hoan-4240829.html) ([VNExpress](https://vnexpress.net))
 - [Cả ngàn người dân đổ về chùa Vĩnh Nghiêm tối rằm tháng Giêng](https://laodong.vn/photo/ca-ngan-nguoi-dan-do-ve-chua-vinh-nghiem-toi-ram-thang-gieng-884018.ldo) ([Lao Động](https://laodong.vn))
 - [Rằm tháng Giêng: Người dân Cần Thơ lặng lẽ đi chùa cầu an](https://laodong.vn/photo/ram-thang-gieng-nguoi-dan-can-tho-lang-le-di-chua-cau-an-884019.ldo) ([Lao Động](https://laodong.vn))
+- [Đánh giá Xiaomi Mi 11: phần cứng rất ấn tượng, camera được cải tiến, thiếu một chút để hoàn hảo](https://tinhte.vn/thread/danh-gia-xiaomi-mi-11-phan-cung-rat-an-tuong-camera-duoc-cai-tien-thieu-mot-chut-de-hoan-hao.3282433/) ([Tinh Tế](https://tinhte.vn))
 - [Tự sự của người thành công: "Mọi người chỉ thấy được sự tiến bộ vượt bậc của tôi, chứ không thấy được khoảng thời gian tôi tàn nhẫn với chính mình"](https://cafebiz.vn/tu-su-cua-nguoi-thanh-cong-moi-nguoi-chi-thay-duoc-su-tien-bo-vuot-bac-cua-toi-chu-khong-thay-duoc-khoang-thoi-gian-toi-tan-nhan-voi-chinh-minh-20210221225458188.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lo rủi ro tín dụng bất động sản](https://cafebiz.vn/lo-rui-ro-tin-dung-bat-dong-san-20210226190141211.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nghỉ việc ngay sau Tết, bạn có tử tế không?](https://cafebiz.vn/nghi-viec-ngay-sau-tet-ban-co-tu-te-khong-20210226214614098.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chàng trai tậu được hai căn nhà chỉ từ kinh doanh sản phẩm 0 đồng này](https://cafebiz.vn/chang-trai-tau-duoc-hai-can-nha-chi-tu-kinh-doanh-san-pham-0-dong-nay-20210226202854.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Dương: Hơn 10.000 công nhân nhà trọ được hỗ trợ gạo, nhu yếu phẩm](https://laodong.vn/cong-doan/hai-duong-hon-10000-cong-nhan-nha-tro-duoc-ho-tro-gao-nhu-yeu-pham-884023.ldo) ([Lao Động](https://laodong.vn))
+- [Trường học phải là nơi an toàn cho học sinh](https://thanhnien.vn/thoi-su/truong-hoc-phai-la-noi-an-toan-cho-hoc-sinh-1346985.html) ([Thanh Niên](https://thanhnien.vn))
 
 [Read More](docs/news/README.md)
 
