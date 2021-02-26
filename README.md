@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is scattered clouds.
 - Temperature is 27°C.
-- Feels Like 27.17°C.
-- Air Visual is 116.
+- Feels Like 27.52°C.
+- Air Visual is 117.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nhiều doanh nghiệp và địa phương nô nức muốn mua vắc xin Covid-19, nhưng liệu có tiển sẽ mua được?!](https://cafebiz.vn/nhieu-doanh-nghiep-va-dia-phuong-no-nuc-muon-mua-vac-xin-covid-19-nhung-lieu-co-phai-cu-co-tien-se-mua-duoc-20210225135121803.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: Giáo viên, học sinh phải khai báo y tế trong ngày trở lại trường](https://laodong.vn/giao-duc/tphcm-giao-vien-hoc-sinh-phai-khai-bao-y-te-trong-ngay-tro-lai-truong-883860.ldo) ([Lao Động](https://laodong.vn))
+- [Phạt 30 triệu đồng quán cà phê vi phạm về phòng, chống dịch COVID-19](https://laodong.vn/phap-luat/phat-30-trieu-dong-quan-ca-phe-vi-pham-ve-phong-chong-dich-covid-19-883862.ldo) ([Lao Động](https://laodong.vn))
+- [Năm 2020 kinh doanh khấm khá, dầu Tường An mở rộng nhà máy dầu tại Vinh lên gấp đôi, nâng công suất lên gấp 4, nhằm tấn công mạnh thị trường miền Bắc và Trung](https://cafebiz.vn/nam-2020-kinh-doanh-kham-kha-dau-tuong-an-mo-rong-nha-may-dau-tai-vinh-len-gap-doi-nang-cong-suat-len-gap-4-nham-tan-cong-manh-thi-truong-mien-bac-va-trung-20210226122929782.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lấn chiếm vịnh trái phép, chủ dự án BĐS 'hot' nhất Vân Đồn buộc trả nguyên trạng](https://cafebiz.vn/lan-chiem-vinh-trai-phep-chu-du-an-bds-hot-nhat-van-don-buoc-tra-nguyen-trang-20210226143032289.chn) ([CafeBiz](https://cafebiz.vn))
 - [Người già tham gia thử nghiệm vaccine COVID-19: &quot;Tôi làm gương cho lớp trẻ&quot;](https://laodong.vn/video-thoi-su/nguoi-gia-tham-gia-thu-nghiem-vaccine-covid-19-toi-lam-guong-cho-lop-tre-883856.ldo) ([Lao Động](https://laodong.vn))
 - [Lĩnh vực bất động sản nào sẽ hút vốn trong năm 2021?](https://cafebiz.vn/linh-vuc-bat-dong-san-nao-se-hut-von-trong-nam-2021-20210226132302477.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nội: Cháy chung cư Mipec Long Biên, người dân hốt hoảng tháo chạy](https://cafebiz.vn/ha-noi-chay-chung-cu-mipec-long-bien-nguoi-dan-hot-hoang-thao-chay-20210226142640168.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bộ trưởng Mai Tiến Dũng: Không được có tinh thần &quot;chợ chiều&quot;](https://laodong.vn/thoi-su/bo-truong-mai-tien-dung-khong-duoc-co-tinh-than-cho-chieu-883845.ldo) ([Lao Động](https://laodong.vn))
 - [Vì sao Mitsubishi rút khỏi nhà máy nhiệt điện than ở Bình Thuận?](https://laodong.vn/kinh-te/vi-sao-mitsubishi-rut-khoi-nha-may-nhiet-dien-than-o-binh-thuan-883834.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Trà Tân Cương đi đầu về Trà Thái Nguyên Hữu Cơ](https://laodong.vn/thong-tin-doanh-nghiep/hai-tra-tan-cuong-di-dau-ve-tra-thai-nguyen-huu-co-883813.ldo) ([Lao Động](https://laodong.vn))
-- [207 ĐBQH khóa XV thuộc các cơ quan, tổ chức, đơn vị ở Trung ương](https://laodong.vn/thoi-su/207-dbqh-khoa-xv-thuoc-cac-co-quan-to-chuc-don-vi-o-trung-uong-883838.ldo) ([Lao Động](https://laodong.vn))
-- [Thực hiện 4 điều sau nếu bạn muốn ngày mai làm việc tốt hơn thay vì 'tàm tạm' như hôm nay](https://cafebiz.vn/thuc-hien-4-dieu-sau-neu-ban-muon-ngay-mai-lam-viec-tot-hon-thay-vi-tam-tam-nhu-hom-nay-2021022614230929.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trung Quốc tham gia dự án tiền ảo xuyên biên giới](https://cafebiz.vn/trung-quoc-tham-gia-du-an-tien-ao-xuyen-bien-gioi-20210226134350357.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Bóc Term: Bạn đã bị "zucc" bởi Facebook bao giờ chưa?](https://vietcetera.com/vn/boc-term-ban-da-bi-zucc-boi-facebook-bao-gio-chua)
 - [Chúng ta dễ bám vào niềm tin sai lầm trước quá nhiều điều không chắn chắn](https://vietcetera.com/vn/truoc-qua-nhieu-dieu-khong-chac-chan-chung-ta-de-bam-vao-niem-tin-sai-lam)
 - [4 Dụng cụ pha cà phê thủ công thổi hồn cho ly cà phê tại gia ](https://vietcetera.com/vn/4-dung-cu-pha-ca-phe-thu-cong-thoi-hon-cho-ly-ca-phe-tai-gia)
 - [Bóc Term: Dogecoin là gì mà Elon Musk quan tâm thế?](https://vietcetera.com/vn/boc-term-dogecoin-la-gi-ma-elon-musk-quan-tam-the)
@@ -105,7 +106,6 @@
 - [2 Robot Daft Punk và 28 năm kiến tạo nền âm nhạc](https://vietcetera.com/vn/2-robot-daft-punk-va-28-nam-kien-tao-nen-am-nhac)
 - ["Crush của chị đứng giữa lớp hô, 'Ai chơi vật tay với tao không?'"](https://vietcetera.com/vn/crush-cua-chi-dung-giua-lop-ho-ai-choi-vat-tay-voi-tao-khong)
 - [Không Quan Tâm: G-Dragon và Jennie hẹn hò](https://vietcetera.com/vn/khongquantam-jennie-va-g-dragon-hen-ho)
-- [Phá thai, cấm hay không?](https://vietcetera.com/vn/pha-thai-cam-hay-khong)
 
 [Read More](https://vietcetera.com/)
 
