@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is clear sky.
-- Temperature is 26°C.
-- Feels Like 25.86°C.
-- Air Visual is 112.
+- Current weather is few clouds.
+- Temperature is 25°C.
+- Feels Like 24.89°C.
+- Air Visual is 114.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Hà Nội: Học sinh tiểu học, mầm non đến trường trước, sau đó đến sinh viên đại học, cao đẳng](https://cafebiz.vn/ha-noi-hoc-sinh-tieu-hoc-mam-non-den-truong-truoc-sau-do-den-sinh-vien-dai-hoc-cao-dang-20210226175322897.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Chống dịch quá mức gây khó cho nông sản Hải Dương'](https://vnexpress.net/chong-dich-qua-muc-gay-kho-cho-nong-san-hai-duong-4240644.html) ([VNExpress](https://vnexpress.net))
-- [Lâm tặc phá rừng ở Đắk Lắk dịp Tết: Sẽ có chế tài cụ thể để xử lý chủ rừng](https://laodong.vn/ban-doc/lam-tac-pha-rung-o-dak-lak-dip-tet-se-co-che-tai-cu-the-de-xu-ly-chu-rung-883836.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng tạm dừng hoạt động 8 chốt kiểm dịch COVID-19 ở cửa ngõ thành phố](https://laodong.vn/xa-hoi/hai-phong-tam-dung-hoat-dong-8-chot-kiem-dich-covid-19-o-cua-ngo-thanh-pho-883965.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng tiếp tục giảm sâu xuống đáy mới](https://laodong.vn/kinh-te/gia-vang-tiep-tuc-giam-sau-xuong-day-moi-883974.ldo) ([Lao Động](https://laodong.vn))
-- [Thống kê, tiêu hủy 11.410 bao thuốc lá điếu nhập lậu](https://laodong.vn/kinh-te/thong-ke-tieu-huy-11410-bao-thuoc-la-dieu-nhap-lau-883961.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội chưa quyết cho gần 2 triệu học sinh đi học lại từ ngày 2-3](https://tuoitre.vn/ha-noi-chua-quyet-cho-gan-2-trieu-hoc-sinh-di-hoc-lai-tu-ngay-2-3-20210226171108903.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Quảng Ninh: Thi thể bé trai sơ sinh bị vứt bỏ bên suối](https://laodong.vn/phap-luat/quang-ninh-thi-the-be-trai-so-sinh-bi-vut-bo-ben-suoi-883962.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Hoàn Kiếm đề nghị mở lại hoạt động phố đi bộ Hồ Gươm từ ngày 2.3](https://laodong.vn/xa-hoi/ha-noi-hoan-kiem-de-nghi-mo-lai-hoat-dong-pho-di-bo-ho-guom-tu-ngay-23-883880.ldo) ([Lao Động](https://laodong.vn))
-- [BigFarm giấc mơ Aqua của người Việt  - Đam mê hay cơ hội?](https://cafebiz.vn/bigfarm-giac-mo-aqua-cua-nguoi-viet-dam-me-hay-co-hoi-20210226165216482.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phú Thọ: Quán bar, vũ trường, karaoke hoạt động trở lại sau... 1 ngày cấm](https://laodong.vn/xa-hoi/phu-tho-quan-bar-vu-truong-karaoke-hoat-dong-tro-lai-sau-1-ngay-cam-883976.ldo) ([Lao Động](https://laodong.vn))
+- [Xây dựng quan hệ lao động hài hòa, ổn định tại doanh nghiệp](https://laodong.vn/cong-doan/xay-dung-quan-he-lao-dong-hai-hoa-on-dinh-tai-doanh-nghiep-883979.ldo) ([Lao Động](https://laodong.vn))
+- [Lãnh đạo TP.HCM thăm, chúc mừng thầy thuốc nhân dân tiêu biểu](https://tuoitre.vn/lanh-dao-tp-hcm-tham-chuc-mung-thay-thuoc-nhan-dan-tieu-bieu-20210226150159985.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [12 người ngộ độc do ăn thịt bê nhiễm khuẩn](https://vnexpress.net/12-nguoi-ngo-doc-do-an-thit-be-nhiem-khuan-4240747.html) ([VNExpress](https://vnexpress.net))
+- [Bình Phước muốn có sân bay](https://vnexpress.net/binh-phuoc-muon-co-san-bay-4240660.html) ([VNExpress](https://vnexpress.net))
+- [Bà Rịa - Vũng Tàu: Khôi phục trạng thái bình thường mới từ 28-2](https://tuoitre.vn/ba-ria-vung-tau-khoi-phuc-trang-thai-binh-thuong-moi-tu-28-2-20210226175422943.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Dán thẻ thu phí không dừng, có ‘chuyển mạng giữ số’ được không?](https://tuoitre.vn/dan-the-thu-phi-khong-dung-co-chuyen-mang-giu-so-duoc-khong-20210226123103467.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Cách để Việt Nam sớm có thị trường ôtô giá rẻ, cạnh tranh với ôtô nhập khẩu](https://laodong.vn/video/cach-de-viet-nam-som-co-thi-truong-oto-gia-re-canh-tranh-voi-oto-nhap-khau-883683.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: 2 năm không tổ chức Tết Nguyên Tiêu, người dân nói gì?](https://laodong.vn/video/tphcm-2-nam-khong-to-chuc-tet-nguyen-tieu-nguoi-dan-noi-gi-883661.ldo) ([Lao Động](https://laodong.vn))
+- [Câu lạc bộ Sài Gòn sẽ hợp tác với đội bóng tại J.League 3](https://laodong.vn/the-thao/cau-lac-bo-sai-gon-se-hop-tac-voi-doi-bong-tai-jleague-3-883944.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [5 Nhà hàng ẩm thực tinh hoa cho bữa trưa cùng đối tác](https://vietcetera.com/vn/5-chon-an-trua-cho-dan-van-phong)
 - [Sau Tết, làm thế nào để giảm cân hiệu quả khi tập gym cùng PT? ](https://vietcetera.com/vn/sau-tet-lam-the-nao-de-giam-can-hieu-qua-khi-tap-gym-cung-pt)
 - [Đối mặt với sang chấn tuổi thơ và sự vô cảm của người xung quanh](https://vietcetera.com/vn/doi-mat-voi-sang-chan-tuoi-tho-va-su-vo-cam-cua-nguoi-xung-quanh)
 - [Đối diện với nỗi sợ từ quá khứ qua phim kinh dị](https://vietcetera.com/vn/nhung-tac-pham-kinh-di-chat-chua-noi-dau-con-nguoi-cua-mike-flanagan)
@@ -105,7 +106,6 @@
 - [4 Dụng cụ pha cà phê thủ công thổi hồn cho ly cà phê tại gia ](https://vietcetera.com/vn/4-dung-cu-pha-ca-phe-thu-cong-thoi-hon-cho-ly-ca-phe-tai-gia)
 - [Không Quan Tâm: Sơn Tùng "đạo nhạc" lần thứ 8](https://vietcetera.com/vn/khong-quan-tam-son-tung-dao-nhac-lan-thu-8)
 - [Mandarin Oriental ra mắt dự án khu dưỡng và dân cư cao cấp tại Đà Nẵng](https://vietcetera.com/vn/mandarin-oriental-ra-mat-du-an-khu-duong-va-dan-cu-cao-cap-tai-da-nang)
-- [Bóc Term: Dogecoin là gì mà Elon Musk quan tâm thế?](https://vietcetera.com/vn/boc-term-dogecoin-la-gi-ma-elon-musk-quan-tam-the)
 
 [Read More](https://vietcetera.com/)
 
