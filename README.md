@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 26.03°C.
-- Air Visual is 107.
+- Current weather is scattered clouds.
+- Temperature is 26°C.
+- Feels Like 27.03°C.
+- Air Visual is 118.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Kiểm điểm chủ tịch phường để tập trung đông người ở chùa Viên Giác](https://vnexpress.net/kiem-diem-chu-tich-phuong-de-tap-trung-dong-nguoi-o-chua-vien-giac-4240599.html) ([VNExpress](https://vnexpress.net))
-- [Lâm Đồng: Xử lý 2 đối tượng phá rừng tại Đà Lạt với số lượng gần 200 cây](https://laodong.vn/phap-luat/lam-dong-xu-ly-2-doi-tuong-pha-rung-tai-da-lat-voi-so-luong-gan-200-cay-883826.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng: Không hợp đồng, cả đoàn xe ben chở rác vẫn đòi vào bãi rác Khánh Sơn](https://tuoitre.vn/da-nang-khong-hop-dong-ca-doan-xe-ben-cho-rac-van-doi-vao-bai-rac-khanh-son-20210226120220957.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hạnh phúc giản dị của nữ bác sĩ nơi tâm dịch](https://laodong.vn/y-te/hanh-phuc-gian-di-cua-nu-bac-si-noi-tam-dich-883793.ldo) ([Lao Động](https://laodong.vn))
-- [Nhân lực công nghệ mới: Trông chờ Nhà nước hay kỳ vọng doanh nghiệp?](https://laodong.vn/kinh-te/nhan-luc-cong-nghe-moi-trong-cho-nha-nuoc-hay-ky-vong-doanh-nghiep-883829.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Nguyễn Thành Phong yêu cầu kiểm điểm chủ tịch phường để tụ tập ngàn người ở chùa Viên Giác](https://tuoitre.vn/ong-nguyen-thanh-phong-yeu-cau-kiem-diem-chu-tich-phuong-de-tu-tap-ngan-nguoi-o-chua-vien-giac-202102261211239.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [TPHCM: Dịch vụ đặt đồ cúng online hút khách ngày Rằm tháng Giêng](https://laodong.vn/video/tphcm-dich-vu-dat-do-cung-online-hut-khach-ngay-ram-thang-gieng-883806.ldo) ([Lao Động](https://laodong.vn))
-- [Ngân sách mua vắc xin, trung ương và địa phương cùng chi trả](https://tuoitre.vn/ngan-sach-mua-vac-xin-trung-uong-va-dia-phuong-cung-chi-tra-20210226121707055.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bản tin 1 phút: Tổng thống Mỹ Joe Biden có hành động quân sự đầu tiên](https://laodong.vn/video/ban-tin-1-phut-tong-thong-my-joe-biden-co-hanh-dong-quan-su-dau-tien-883819.ldo) ([Lao Động](https://laodong.vn))
-- [Rằm tháng Giêng: Chợ dân sinh ế ẩm, người bán đông hơn người mua](https://laodong.vn/photo/ram-thang-gieng-cho-dan-sinh-e-am-nguoi-ban-dong-hon-nguoi-mua-883830.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
