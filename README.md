@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Đồng sáng lập Skype chính thức đầu tư vào startup Loship trong vòng gọi vốn Serie C](https://cafebiz.vn/dong-sang-lap-skype-chinh-thuc-dau-tu-vao-startup-loship-trong-vong-goi-von-serie-c-20210226113614662.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đại Nghĩa, Tuấn Hưng, Xuân Bắc và sao Việt giải cứu hàng chục tấn nông sản](https://laodong.vn/photo/dai-nghia-tuan-hung-xuan-bac-va-sao-viet-giai-cuu-hang-chuc-tan-nong-san-883833.ldo) ([Lao Động](https://laodong.vn))
-- [Lo mất thêm tiền, người dân Thủ đô đổ xô đi xóa nợ tiền sử dụng đất](https://cafebiz.vn/lo-mat-them-tien-nguoi-dan-thu-do-do-xo-di-xoa-no-tien-su-dung-dat-20210226141437103.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ba phân khúc "vàng' vẫn hút giới nhà giàu thế giới đổ tiền vào bất động sản](https://cafebiz.vn/ba-phan-khuc-vang-van-hut-gioi-nha-giau-the-gioi-do-tien-vao-bat-dong-san-20210226141109881.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cua Năm Căn, lẩu mắm U Minh lọt Top 100 món ăn đặc sản Việt Nam](https://laodong.vn/xa-hoi/cua-nam-can-lau-mam-u-minh-lot-top-100-mon-an-dac-san-viet-nam-883846.ldo) ([Lao Động](https://laodong.vn))
-- [Xử phạt tài xế vận chuyển 2,5 tấn nầm lợn không rõ nguồn gốc](https://laodong.vn/phap-luat/xu-phat-tai-xe-van-chuyen-25-tan-nam-lon-khong-ro-nguon-goc-883817.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt giữ hàng loạt đối tượng trong đường dây mua bán trẻ sơ sinh](https://laodong.vn/phap-luat/bat-giu-hang-loat-doi-tuong-trong-duong-day-mua-ban-tre-so-sinh-883847.ldo) ([Lao Động](https://laodong.vn))
-- [Vaccine COVID-19 Việt Nam có kháng thể chống lại virus biến chủng ở Anh](https://laodong.vn/y-te/vaccine-covid-19-viet-nam-co-khang-the-chong-lai-virus-bien-chung-o-anh-883790.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Tục &quot;ăn Tết lại&quot; lặng lẽ do dịch COVID-19](https://laodong.vn/video/ha-noi-tuc-an-tet-lai-lang-le-do-dich-covid-19-883855.ldo) ([Lao Động](https://laodong.vn))
-- [Long An: Những người đầu tiên tiêm thử nghiệm vaccine COVID-19 giai đoạn 2](https://laodong.vn/photo/long-an-nhung-nguoi-dau-tien-tiem-thu-nghiem-vaccine-covid-19-giai-doan-2-883853.ldo) ([Lao Động](https://laodong.vn))
+- [Lấn chiếm vịnh trái phép, chủ dự án BĐS 'hot' nhất Vân Đồn buộc trả nguyên trạng](https://cafebiz.vn/lan-chiem-vinh-trai-phep-chu-du-an-bds-hot-nhat-van-don-buoc-tra-nguyen-trang-20210226143032289.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người già tham gia thử nghiệm vaccine COVID-19: &quot;Tôi làm gương cho lớp trẻ&quot;](https://laodong.vn/video-thoi-su/nguoi-gia-tham-gia-thu-nghiem-vaccine-covid-19-toi-lam-guong-cho-lop-tre-883856.ldo) ([Lao Động](https://laodong.vn))
+- [Lĩnh vực bất động sản nào sẽ hút vốn trong năm 2021?](https://cafebiz.vn/linh-vuc-bat-dong-san-nao-se-hut-von-trong-nam-2021-20210226132302477.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội: Cháy chung cư Mipec Long Biên, người dân hốt hoảng tháo chạy](https://cafebiz.vn/ha-noi-chay-chung-cu-mipec-long-bien-nguoi-dan-hot-hoang-thao-chay-20210226142640168.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bộ trưởng Mai Tiến Dũng: Không được có tinh thần &quot;chợ chiều&quot;](https://laodong.vn/thoi-su/bo-truong-mai-tien-dung-khong-duoc-co-tinh-than-cho-chieu-883845.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao Mitsubishi rút khỏi nhà máy nhiệt điện than ở Bình Thuận?](https://laodong.vn/kinh-te/vi-sao-mitsubishi-rut-khoi-nha-may-nhiet-dien-than-o-binh-thuan-883834.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Trà Tân Cương đi đầu về Trà Thái Nguyên Hữu Cơ](https://laodong.vn/thong-tin-doanh-nghiep/hai-tra-tan-cuong-di-dau-ve-tra-thai-nguyen-huu-co-883813.ldo) ([Lao Động](https://laodong.vn))
+- [207 ĐBQH khóa XV thuộc các cơ quan, tổ chức, đơn vị ở Trung ương](https://laodong.vn/thoi-su/207-dbqh-khoa-xv-thuoc-cac-co-quan-to-chuc-don-vi-o-trung-uong-883838.ldo) ([Lao Động](https://laodong.vn))
+- [Thực hiện 4 điều sau nếu bạn muốn ngày mai làm việc tốt hơn thay vì 'tàm tạm' như hôm nay](https://cafebiz.vn/thuc-hien-4-dieu-sau-neu-ban-muon-ngay-mai-lam-viec-tot-hon-thay-vi-tam-tam-nhu-hom-nay-2021022614230929.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trung Quốc tham gia dự án tiền ảo xuyên biên giới](https://cafebiz.vn/trung-quoc-tham-gia-du-an-tien-ao-xuyen-bien-gioi-20210226134350357.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
