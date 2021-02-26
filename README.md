@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 23°C.
 - Feels Like 23.33°C.
-- Air Visual is 139.
+- Air Visual is 132.
 
 **WEATHER**
 
@@ -51,12 +51,12 @@
 - [![Arsenal vs Benfica](https://img.shields.io/static/v1?label=Arsenal%20vs%20Benfica&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Benfica)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
-- [![Bắc Ninh](https://img.shields.io/static/v1?label=B%E1%BA%AFc%20Ninh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%AFc%20Ninh)
+- [![Diễn viên Thương Tín](https://img.shields.io/static/v1?label=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
+- [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![Lion Group](https://img.shields.io/static/v1?label=Lion%20Group&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lion%20Group)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
 - [![Mạc Văn Khoa](https://img.shields.io/static/v1?label=M%E1%BA%A1c%20V%C4%83n%20Khoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BA%A1c%20V%C4%83n%20Khoa)
-- [![Nghệ sĩ Thương Tín](https://img.shields.io/static/v1?label=Ngh%E1%BB%87%20s%C4%A9%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ngh%E1%BB%87%20s%C4%A9%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
@@ -139,7 +139,7 @@
 07. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 08. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 09. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
-10. [Công an Hình sự cũng phải ĐỨNG DÒM cách in tiền giả chuyên nghiệp này | Trinh sát kể chuyện | ANTC](https://www.youtube.com/watch?v=nvA_9wVPcvw) - [AN NINH TOÀN CẢNH](https://www.youtube.com/channel/UCotkNLf_Y3jfbLWuSFUCSBQ)
+10. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 
 [Read More](https://www.youtube.com/feed/trending)
 
