@@ -22,7 +22,7 @@
 - Current weather is scattered clouds.
 - Temperature is 19°C.
 - Feels Like 17.33°C.
-- Air Visual is 107.
+- Air Visual is 112.
 
 **WEATHER**
 
@@ -52,12 +52,12 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bài Khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=B%C3%A0i%20Kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0i%20Kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Cao Văn Triền](https://img.shields.io/static/v1?label=Cao%20V%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20V%C4%83n%20Tri%E1%BB%81n)
+- [![Diễn viên Thương Tín](https://img.shields.io/static/v1?label=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
 - [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
 - [![Mạc Văn Khoa](https://img.shields.io/static/v1?label=M%E1%BA%A1c%20V%C4%83n%20Khoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BA%A1c%20V%C4%83n%20Khoa)
 - [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
-- [![Nghệ sĩ Thương Tín](https://img.shields.io/static/v1?label=Ngh%E1%BB%87%20s%C4%A9%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ngh%E1%BB%87%20s%C4%A9%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Sáng 27-2 không ca COVID-19 mới, bệnh nhân nặng nhất có tín hiệu khả quan](https://tuoitre.vn/sang-27-2-khong-ca-covid-19-moi-benh-nhan-nang-nhat-co-tin-hieu-kha-quan-20210227061947982.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Sáng 27.2, không ghi nhận ca mới mắc COVID-19](https://laodong.vn/y-te/sang-272-khong-ghi-nhan-ca-moi-mac-covid-19-884036.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam kiên trì chiến lược chống dịch 5 bước](https://vnexpress.net/viet-nam-kien-tri-chien-luoc-chong-dich-5-buoc-4240841.html) ([VNExpress](https://vnexpress.net))
+- [Covid-19 ngày 27/2](https://vnexpress.net/covid-19-ngay-27-2-4240871.html) ([VNExpress](https://vnexpress.net))
+- [Đánh giá Xiaomi Mi 11: phần cứng rất ấn tượng, camera được cải tiến, thiếu một chút để hoàn hảo](https://tinhte.vn/thread/danh-gia-xiaomi-mi-11-phan-cung-rat-an-tuong-camera-duoc-cai-tien-thieu-mot-chut-de-hoan-hao.3282433/) ([Tinh Tế](https://tinhte.vn))
+- [Facebook vs Úc: thực chất là Facebook vs các hãng tin](https://tinhte.vn/thread/facebook-vs-uc-thuc-chat-la-facebook-vs-cac-hang-tin.3282223/) ([Tinh Tế](https://tinhte.vn))
+- [Apple đang phát triển dòng MacBook Air 15-inch?](https://tinhte.vn/thread/apple-dang-phat-trien-dong-macbook-air-15-inch.3283733/) ([Tinh Tế](https://tinhte.vn))
+- [Sử dụng Telegram thú vị hơn với 6 tính năng này](https://tinhte.vn/thread/su-dung-telegram-thu-vi-hon-voi-6-tinh-nang-nay.3283731/) ([Tinh Tế](https://tinhte.vn))
+- [Review pin dự phòng mophie Powerstation 10.000mAh: Đẹp, xịn, PD 18W](https://tinhte.vn/thread/review-pin-du-phong-mophie-powerstation-10-000mah-dep-xin-pd-18w.3283674/) ([Tinh Tế](https://tinhte.vn))
+- [Hứa là làm, Thuỷ Tiên "khoe" đang xây 10 nhà cộng đồng tránh lũ cho người dân miền Trung](https://cafebiz.vn/hua-la-lam-thuy-tien-khoe-dang-xay-10-nha-cong-dong-tranh-lu-cho-nguoi-dan-mien-trung-20210226233522631.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
