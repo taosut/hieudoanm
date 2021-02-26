@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is clear sky.
-- Temperature is 27°C.
-- Feels Like 26.44°C.
-- Air Visual is 95.
+- Temperature is 26°C.
+- Feels Like 25.86°C.
+- Air Visual is 112.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Phim &quot;Kiều&quot; chính thức trở lại rạp sau thời gian hoãn vì COVID-19](https://laodong.vn/van-hoa-giai-tri/phim-kieu-chinh-thuc-tro-lai-rap-sau-thoi-gian-hoan-vi-covid-19-883943.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội thông tin về chủng virus SARS-CoV-2 của ca bệnh người Nhật tử vong](https://laodong.vn/xa-hoi/ha-noi-thong-tin-ve-chung-virus-sars-cov-2-cua-ca-benh-nguoi-nhat-tu-vong-883879.ldo) ([Lao Động](https://laodong.vn))
-- [“Giải cứu” được nhiều cà chua bằng cách làm sốt cà chua](https://laodong.vn/gia-dinh-hon-nhan/giai-cuu-duoc-nhieu-ca-chua-bang-cach-lam-sot-ca-chua-883936.ldo) ([Lao Động](https://laodong.vn))
-- [Premier League vòng 26: Ngóng chờ đại chiến Chelsea - Man United](https://laodong.vn/the-thao/premier-league-vong-26-ngong-cho-dai-chien-chelsea-man-united-883931.ldo) ([Lao Động](https://laodong.vn))
-- [Lịch thi đấu vòng 26 Ngoại hạng Anh: Solskjaer đấu Tuchel](https://laodong.vn/lich-thi-dau/lich-thi-dau-vong-26-ngoai-hang-anh-solskjaer-dau-tuchel-883926.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng: Kinh doanh thua lỗ, hàng loạt khách sạn bán tháo trả nợ](https://laodong.vn/video-thoi-su/da-nang-kinh-doanh-thua-lo-hang-loat-khach-san-ban-thao-tra-no-883372.ldo) ([Lao Động](https://laodong.vn))
-- [Nếu cha đẻ Bitcoin xuất hiện, thị trường tiền ảo sẽ điên đảo](https://cafebiz.vn/neu-cha-de-bitcoin-xuat-hien-thi-truong-tien-ao-se-dien-dao-2021022616395437.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bí mật ẩn sau 6 chiếc ghế luôn 'cháy vé' của hãng hàng không Singapore Airlines](https://cafebiz.vn/bi-mat-an-sau-6-chiec-ghe-luon-chay-ve-cua-hang-hang-khong-singapore-airlines-20210226164152895.chn) ([CafeBiz](https://cafebiz.vn))
-- [6 nét tướng mặt phú quý trời ban cho đàn ông: Sự nghiệp lẫy lừng, gia đạo ấm êm!](https://cafebiz.vn/6-net-tuong-mat-phu-quy-troi-ban-cho-dan-ong-su-nghiep-lay-lung-gia-dao-am-em-20210226165222881.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đề xuất lắp camera để giám sát rừng, phòng ngừa lâm tặc](https://tuoitre.vn/de-xuat-lap-camera-de-giam-sat-rung-phong-ngua-lam-tac-20210226160516506.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hà Nội: Học sinh tiểu học, mầm non đến trường trước, sau đó đến sinh viên đại học, cao đẳng](https://cafebiz.vn/ha-noi-hoc-sinh-tieu-hoc-mam-non-den-truong-truoc-sau-do-den-sinh-vien-dai-hoc-cao-dang-20210226175322897.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Chống dịch quá mức gây khó cho nông sản Hải Dương'](https://vnexpress.net/chong-dich-qua-muc-gay-kho-cho-nong-san-hai-duong-4240644.html) ([VNExpress](https://vnexpress.net))
+- [Lâm tặc phá rừng ở Đắk Lắk dịp Tết: Sẽ có chế tài cụ thể để xử lý chủ rừng](https://laodong.vn/ban-doc/lam-tac-pha-rung-o-dak-lak-dip-tet-se-co-che-tai-cu-the-de-xu-ly-chu-rung-883836.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng tạm dừng hoạt động 8 chốt kiểm dịch COVID-19 ở cửa ngõ thành phố](https://laodong.vn/xa-hoi/hai-phong-tam-dung-hoat-dong-8-chot-kiem-dich-covid-19-o-cua-ngo-thanh-pho-883965.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng tiếp tục giảm sâu xuống đáy mới](https://laodong.vn/kinh-te/gia-vang-tiep-tuc-giam-sau-xuong-day-moi-883974.ldo) ([Lao Động](https://laodong.vn))
+- [Thống kê, tiêu hủy 11.410 bao thuốc lá điếu nhập lậu](https://laodong.vn/kinh-te/thong-ke-tieu-huy-11410-bao-thuoc-la-dieu-nhap-lau-883961.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội chưa quyết cho gần 2 triệu học sinh đi học lại từ ngày 2-3](https://tuoitre.vn/ha-noi-chua-quyet-cho-gan-2-trieu-hoc-sinh-di-hoc-lai-tu-ngay-2-3-20210226171108903.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Quảng Ninh: Thi thể bé trai sơ sinh bị vứt bỏ bên suối](https://laodong.vn/phap-luat/quang-ninh-thi-the-be-trai-so-sinh-bi-vut-bo-ben-suoi-883962.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Hoàn Kiếm đề nghị mở lại hoạt động phố đi bộ Hồ Gươm từ ngày 2.3](https://laodong.vn/xa-hoi/ha-noi-hoan-kiem-de-nghi-mo-lai-hoat-dong-pho-di-bo-ho-guom-tu-ngay-23-883880.ldo) ([Lao Động](https://laodong.vn))
+- [BigFarm giấc mơ Aqua của người Việt  - Đam mê hay cơ hội?](https://cafebiz.vn/bigfarm-giac-mo-aqua-cua-nguoi-viet-dam-me-hay-co-hoi-20210226165216482.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
