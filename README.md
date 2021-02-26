@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 24.65°C.
-- Air Visual is 156.
+- Feels Like 24.28°C.
+- Air Visual is 139.
 
 **WEATHER**
 
@@ -51,19 +51,19 @@
 - [![Arsenal vs Benfica](https://img.shields.io/static/v1?label=Arsenal%20vs%20Benfica&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Benfica)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
-- [![Cao Văn Triền](https://img.shields.io/static/v1?label=Cao%20V%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20V%C4%83n%20Tri%E1%BB%81n)
-- [![Diễn viên Thương Tín](https://img.shields.io/static/v1?label=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
+- [![Bắc Ninh](https://img.shields.io/static/v1?label=B%E1%BA%AFc%20Ninh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%AFc%20Ninh)
 - [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
-- [![Kết quả cúp C2](https://img.shields.io/static/v1?label=K%E1%BA%BFt%20qu%E1%BA%A3%20c%C3%BAp%20C2&message=google&color=red&style=flat-square)](https://www.google.com/search?q=K%E1%BA%BFt%20qu%E1%BA%A3%20c%C3%BAp%20C2)
 - [![Lion Group](https://img.shields.io/static/v1?label=Lion%20Group&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lion%20Group)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
 - [![Mạc Văn Khoa](https://img.shields.io/static/v1?label=M%E1%BA%A1c%20V%C4%83n%20Khoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BA%A1c%20V%C4%83n%20Khoa)
+- [![Nghệ sĩ Thương Tín](https://img.shields.io/static/v1?label=Ngh%E1%BB%87%20s%C4%A9%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ngh%E1%BB%87%20s%C4%A9%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi K40](https://img.shields.io/static/v1?label=Redmi%20K40&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20K40)
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
 - [![Sân bay Bình Phước](https://img.shields.io/static/v1?label=S%C3%A2n%20bay%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C3%A2n%20bay%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc)
+- [![Tai nạn đèo Bảo Lộc](https://img.shields.io/static/v1?label=Tai%20n%E1%BA%A1n%20%C4%91%C3%A8o%20B%E1%BA%A3o%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tai%20n%E1%BA%A1n%20%C4%91%C3%A8o%20B%E1%BA%A3o%20L%E1%BB%99c)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Cụ bà 105 tuổi ở Mỹ chiến thắng Covid-19 nhờ “cầu nguyện” và...nho khô](https://cafebiz.vn/cu-ba-105-tuoi-o-my-chien-thang-covid-19-nho-cau-nguyen-vanho-kho-20210226211006892.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bà xã kém 32 tuổi giải thích lý do không kề cận khi NS Thương Tín bị đột quỵ, tiết lộ cuộc sống hôn nhân vô cùng khó khăn](https://cafebiz.vn/ba-xa-kem-32-tuoi-giai-thich-ly-do-khong-ke-can-khi-ns-thuong-tin-bi-dot-quy-tiet-lo-cuoc-song-hon-nhan-vo-cung-kho-khan-20210226213610065.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kinh tế 24h: Giá vàng đồng loạt xuống dốc; Hàng hoá Rằm tháng giêng ế ẩm](https://laodong.vn/kinh-te/kinh-te-24h-gia-vang-dong-loat-xuong-doc-hang-hoa-ram-thang-gieng-e-am-884011.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Quận Hoàn Kiếm đề nghị mở lại phố đi bộ Hồ Gươm từ tuần sau](https://cafebiz.vn/ha-noi-quan-hoan-kiem-de-nghi-mo-lai-pho-di-bo-ho-guom-tu-tuan-sau-20210226200554894.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đời người có 3 chiếc bẫy nguy hiểm, vượt qua ải vũ môn, cuộc sống thăng hoa như “cá chép hoá rồng”!](https://cafebiz.vn/doi-nguoi-co-3-chiec-bay-nguy-hiem-vuot-qua-ai-vu-mon-cuoc-song-thang-hoa-nhu-ca-chep-hoa-rong-20210226210505602.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vắc xin ngừa COVID-19 chỉ sinh kháng thể trong thời gian nhất định, không được chủ quan](https://tuoitre.vn/vac-xin-ngua-covid-19-chi-sinh-khang-the-trong-thoi-gian-nhat-dinh-khong-duoc-chu-quan-20210226210228626.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bóng tối phía sau ngành công nghiệp anime tỷ USD của Nhật Bản](https://cafebiz.vn/bong-toi-phia-sau-nganh-cong-nghiep-anime-ty-usd-cua-nhat-ban-20210226204551347.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thừa biết đối thủ kém hơn mình, Quan Vũ vẫn nói với Trương Phi "Võ nghệ của người này không hề thua kém chúng ta", người này là ai?](https://cafebiz.vn/thua-biet-doi-thu-kem-hon-minh-quan-vu-van-noi-voi-truong-phi-vo-nghe-cua-nguoi-nay-khong-he-thua-kem-chung-ta-nguoi-nay-la-ai-20210226210209018.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xe chở bôxit mất lái gây tai nạn liên hoàn trên đèo Bảo Lộc](https://tuoitre.vn/xe-cho-boxit-mat-lai-gay-tai-nan-lien-hoan-tren-deo-bao-loc-20210226210159096.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Giá vàng chiều 26/2 xuyên thủng "đáy" 8 tháng](https://cafebiz.vn/gia-vang-chieu-26-2-xuyen-thung-day-8-thang-20210226200458121.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
