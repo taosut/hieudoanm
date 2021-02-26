@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
+- Current weather is scattered clouds.
 - Temperature is 24°C.
 - Feels Like 24.65°C.
-- Air Visual is 141.
+- Air Visual is 156.
 
 **WEATHER**
 
