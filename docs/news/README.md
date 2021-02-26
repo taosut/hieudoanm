@@ -1,5 +1,6 @@
 # News
 
+- [Ông Lê Hải Trà được bổ nhiệm làm Tổng Giám đốc HoSE](https://cafebiz.vn/ong-le-hai-tra-duoc-bo-nhiem-lam-tong-giam-doc-hose-20210226200315716.chn) ([CafeBiz](https://cafebiz.vn))
 - [4 đối tượng được phép nợ tiền sử dụng đất](https://laodong.vn/bat-dong-san/4-doi-tuong-duoc-phep-no-tien-su-dung-dat-882320.ldo) ([Lao Động](https://laodong.vn))
 - [Ông Lê Hải Trà được bổ nhiệm làm Tổng Giám đốc HoSE](https://laodong.vn/kinh-te/ong-le-hai-tra-duoc-bo-nhiem-lam-tong-giam-doc-hose-884020.ldo) ([Lao Động](https://laodong.vn))
 - [Giới nhà giàu đầu tư gì trong năm 2021: Cổ phiếu và bất động sản vẫn là lĩnh vực 'hot' nhất](https://cafebiz.vn/gioi-nha-giau-dau-tu-gi-trong-nam-2021-co-phieu-va-bat-dong-san-van-la-linh-vuc-hot-nhat-20210226191719414.chn) ([CafeBiz](https://cafebiz.vn))
@@ -99,4 +100,3 @@
 - [Trong khi cả thế giới đau đầu vì dịch Covid-19, quốc gia này lại hưởng lời vì được giới siêu giàu chọn làm nơi trú ẩn](https://cafebiz.vn/trong-khi-ca-the-gioi-dau-dau-vi-dich-covid-19-quoc-gia-nay-lai-huong-loi-vi-duoc-gioi-sieu-giau-chon-lam-noi-tru-an-20210226145049275.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nhiều doanh nghiệp và địa phương nô nức muốn mua vắc xin Covid-19, nhưng liệu có phải cứ có tiền sẽ mua được?!](https://cafebiz.vn/nhieu-doanh-nghiep-va-dia-phuong-no-nuc-muon-mua-vac-xin-covid-19-nhung-lieu-co-phai-cu-co-tien-se-mua-duoc-20210225135121803.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chả hiểu nhiều tiền để làm gì: Chuyện về những người mắc bệnh... quá giàu và ngành nghề kỳ lạ tồn tại chỉ để "chữa" căn bệnh này](https://cafebiz.vn/cha-hieu-nhieu-tien-de-lam-gi-chuyen-ve-nhung-nguoi-mac-benh-qua-giau-va-nganh-nghe-ky-la-ton-tai-chi-de-chua-can-benh-nay-20210226144816344.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chủ tịch TP HCM yêu cầu xử lý karaoke tra tấn người dân](https://vnexpress.net/chu-tich-tp-hcm-yeu-cau-xu-ly-karaoke-tra-tan-nguoi-dan-4240600.html) ([VNExpress](https://vnexpress.net))
