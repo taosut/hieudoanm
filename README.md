@@ -21,7 +21,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 23.33°C.
+- Feels Like 24.05°C.
 - Air Visual is 132.
 
 **WEATHER**
@@ -77,7 +77,6 @@
 
 - [Cả ngàn người dân đổ về chùa Vĩnh Nghiêm tối rằm tháng Giêng](https://laodong.vn/photo/ca-ngan-nguoi-dan-do-ve-chua-vinh-nghiem-toi-ram-thang-gieng-884018.ldo) ([Lao Động](https://laodong.vn))
 - [Rằm tháng Giêng: Người dân Cần Thơ lặng lẽ đi chùa cầu an](https://laodong.vn/photo/ram-thang-gieng-nguoi-dan-can-tho-lang-le-di-chua-cau-an-884019.ldo) ([Lao Động](https://laodong.vn))
-- ["Biết tuốt" về các phong cách nội thất (P2): Thế nào là Minimalism? Tân cổ điển có phải chỉ dành cho giới nhà giàu?](https://cafebiz.vn/biet-tuot-ve-cac-phong-cach-noi-that-p2-the-nao-la-minimalism-tan-co-dien-co-phai-chi-danh-cho-gioi-nha-giau-2021022620374356.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tự sự của người thành công: "Mọi người chỉ thấy được sự tiến bộ vượt bậc của tôi, chứ không thấy được khoảng thời gian tôi tàn nhẫn với chính mình"](https://cafebiz.vn/tu-su-cua-nguoi-thanh-cong-moi-nguoi-chi-thay-duoc-su-tien-bo-vuot-bac-cua-toi-chu-khong-thay-duoc-khoang-thoi-gian-toi-tan-nhan-voi-chinh-minh-20210221225458188.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lo rủi ro tín dụng bất động sản](https://cafebiz.vn/lo-rui-ro-tin-dung-bat-dong-san-20210226190141211.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nghỉ việc ngay sau Tết, bạn có tử tế không?](https://cafebiz.vn/nghi-viec-ngay-sau-tet-ban-co-tu-te-khong-20210226214614098.chn) ([CafeBiz](https://cafebiz.vn))
@@ -85,6 +84,7 @@
 - [Hải Dương: Hơn 10.000 công nhân nhà trọ được hỗ trợ gạo, nhu yếu phẩm](https://laodong.vn/cong-doan/hai-duong-hon-10000-cong-nhan-nha-tro-duoc-ho-tro-gao-nhu-yeu-pham-884023.ldo) ([Lao Động](https://laodong.vn))
 - [Cụ bà 105 tuổi ở Mỹ chiến thắng Covid-19 nhờ “cầu nguyện” và...nho khô](https://cafebiz.vn/cu-ba-105-tuoi-o-my-chien-thang-covid-19-nho-cau-nguyen-vanho-kho-20210226211006892.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bà xã kém 32 tuổi giải thích lý do không kề cận khi NS Thương Tín bị đột quỵ, tiết lộ cuộc sống hôn nhân vô cùng khó khăn](https://cafebiz.vn/ba-xa-kem-32-tuoi-giai-thich-ly-do-khong-ke-can-khi-ns-thuong-tin-bi-dot-quy-tiet-lo-cuoc-song-hon-nhan-vo-cung-kho-khan-20210226213610065.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kinh tế 24h: Giá vàng đồng loạt xuống dốc; Hàng hoá Rằm tháng giêng ế ẩm](https://laodong.vn/kinh-te/kinh-te-24h-gia-vang-dong-loat-xuong-doc-hang-hoa-ram-thang-gieng-e-am-884011.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
