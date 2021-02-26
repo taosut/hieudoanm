@@ -19,7 +19,7 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 27.03°C.
 - Air Visual is 118.
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Hà Nội tiếp tục kêu gọi ủng hộ công tác phòng, chống dịch COVID-19](https://laodong.vn/thoi-su/ha-noi-tiep-tuc-keu-goi-ung-ho-cong-tac-phong-chong-dich-covid-19-883854.ldo) ([Lao Động](https://laodong.vn))
+- [Gần 700 doanh nghiệp Việt được phép xuất khẩu thủy sản vào Đài Loan](https://cafebiz.vn/gan-700-doanh-nghiep-viet-duoc-phep-xuat-khau-thuy-san-vao-dai-loan-20210226134848576.chn) ([CafeBiz](https://cafebiz.vn))
+- [Crossover cỡ nhỏ: Nên chọn Nissan X-Trail 2021, CR-V hay RAV4?](https://laodong.vn/xe/crossover-co-nho-nen-chon-nissan-x-trail-2021-cr-v-hay-rav4-883810.ldo) ([Lao Động](https://laodong.vn))
+- [CEO triệu phú: ‘Đừng là một con lừa, trước mặt là cỏ và nước nhưng vẫn chết vì đói khát’](https://cafebiz.vn/ceo-trieu-phu-dung-la-mot-con-lua-truoc-mat-la-co-va-nuoc-nhung-van-chet-vi-doi-khat-20210226104735677.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cận cảnh những mũi tiêm vaccine Covid-19 của Việt Nam cho người dân Long An](https://cafebiz.vn/can-canh-nhung-mui-tiem-vaccine-covid-19-cua-viet-nam-cho-nguoi-dan-long-an-20210226134358687.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những trường hợp có thể được cấp sổ đỏ mới bạn nên biết](https://laodong.vn/bat-dong-san/nhung-truong-hop-co-the-duoc-cap-so-do-moi-ban-nen-biet-883757.ldo) ([Lao Động](https://laodong.vn))
+- [Ấn Độ áp đặt loạt quy định nghiêm ngặt cho Facebook và điều đáng ngạc nhiên là phản ứng khác hẳn của Mark Zuckerberg so với ở Australia](https://cafebiz.vn/an-do-ap-dat-loat-quy-dinh-nghiem-ngat-cho-facebook-va-dieu-dang-ngac-nhien-la-phan-ung-khac-han-cua-mark-zuckerberg-so-voi-o-australia-20210226134010784.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bầu cử Đại biểu Quốc hội: Loại những ứng viên không đạt trên 50% tín nhiệm](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/bau-cu-dai-bieu-quoc-hoi-loai-nhung-ung-vien-khong-dat-tren-50-tin-nhiem-715706.html) ([VietNamNet](https://vietnamnet.vn))
+- [Chúng tôi góp vắc xin COVID-19 cùng Tuổi Trẻ](https://tuoitre.vn/chung-toi-gop-vac-xin-covid-19-cung-tuoi-tre-20210225152559628.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chủ động trước đợt sóng dịch thứ 3: Nhiều nhà bán hàng đẩy mạnh kinh doanh trên TMĐT](https://cafebiz.vn/chu-dong-truoc-dot-song-dich-thu-3-nhieu-nha-ban-hang-day-manh-kinh-doanh-tren-tmdt-20210226121503777.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
