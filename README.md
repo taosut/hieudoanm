@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 23°C.
 - Feels Like 24.77°C.
-- Air Visual is 86.
+- Air Visual is 83.
 
 **WEATHER**
 
@@ -48,14 +48,14 @@
 
 **GOOGLE TRENDS**
 
+- [![Arsenal vs Benfica](https://img.shields.io/static/v1?label=Arsenal%20vs%20Benfica&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Benfica)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
-- [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
-- [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Bắc Ninh](https://img.shields.io/static/v1?label=B%E1%BA%AFc%20Ninh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%AFc%20Ninh)
+- [![Cao Văn Triền](https://img.shields.io/static/v1?label=Cao%20V%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20V%C4%83n%20Tri%E1%BB%81n)
 - [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
-- [![Hướng dương ngược nắng tập 33](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2033)
 - [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
 - [![Lion Group](https://img.shields.io/static/v1?label=Lion%20Group&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lion%20Group)
@@ -64,9 +64,9 @@
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi K40](https://img.shields.io/static/v1?label=Redmi%20K40&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20K40)
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
-- [![Sân bay Bình Phước](https://img.shields.io/static/v1?label=S%C3%A2n%20bay%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C3%A2n%20bay%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
+- [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 - [![Đại học Thương mại](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Th%C6%B0%C6%A1ng%20m%E1%BA%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Th%C6%B0%C6%A1ng%20m%E1%BA%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Livestream bán hàng lậu 'đại náo' mạng xã hội](https://cafebiz.vn/livestream-ban-hang-lau-dai-nao-mang-xa-hoi-20210226084533889.chn) ([CafeBiz](https://cafebiz.vn))
-- [6 thực phẩm giúp giảm nếp nhăn hiệu quả](https://laodong.vn/suc-khoe/6-thuc-pham-giup-giam-nep-nhan-hieu-qua-883726.ldo) ([Lao Động](https://laodong.vn))
-- [Một số đối tác mong muốn mở lại bay thương mại quốc tế tới Việt Nam](https://cafebiz.vn/mot-so-doi-tac-mong-muon-mo-lai-bay-thuong-mai-quoc-te-toi-viet-nam-20210226084030715.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sáng 26/2, thêm một ca mắc mới COVID-19](https://cafebiz.vn/sang-26-2-them-mot-ca-mac-moi-covid-19-20210226083913953.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hé lộ nội dung cuộc điện đàm của ông Biden với Quốc vương Saudi Arabia](https://laodong.vn/the-gioi/he-lo-noi-dung-cuoc-dien-dam-cua-ong-biden-voi-quoc-vuong-saudi-arabia-883737.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Xuyên đêm vận chuyển hoa phục vụ Rằm tháng Giêng](https://laodong.vn/photo/tphcm-xuyen-dem-van-chuyen-hoa-phuc-vu-ram-thang-gieng-883716.ldo) ([Lao Động](https://laodong.vn))
-- [Chính thức cấm "thuốc hối hận" trong sinh đẻ, hy vọng làm mẹ của những phụ nữ "quá lứa nhỡ thì" ở Trung Quốc càng thêm mong manh](https://cafebiz.vn/chinh-thuc-cam-thuoc-hoi-han-trong-sinh-de-hy-vong-lam-me-cua-nhung-phu-nu-qua-lua-nho-thi-o-trung-quoc-cang-them-mong-manh-20210226083544037.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khởi tố 2 vợ chồng tàng trữ ma túy](https://laodong.vn/phap-luat/khoi-to-2-vo-chong-tang-tru-ma-tuy-883744.ldo) ([Lao Động](https://laodong.vn))
-- [Ái nữ 21 tuổi của Phó Tổng thống Mỹ: Không phải con đẻ nhưng gây chú ý trong mọi sự kiện, vừa lấn sân thời trang đã nổi bần bật với thần thái lạ](https://cafebiz.vn/ai-nu-21-tuoi-cua-pho-tong-thong-my-khong-phai-con-de-nhung-gay-chu-y-trong-moi-su-kien-vua-lan-san-thoi-trang-da-noi-ban-bat-voi-than-thai-la-20210226083434667.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dân TPHCM hào hứng 'giải cứu' nông sản Hải Dương](https://cafebiz.vn/nguoi-dan-tphcm-hao-hung-giai-cuu-nong-san-hai-duong-20210226083034779.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sương mù trên Quốc lộ 6 tiềm ẩn nguy cơ tai nạn giao thông](https://laodong.vn/xa-hoi/suong-mu-tren-quoc-lo-6-tiem-an-nguy-co-tai-nan-giao-thong-883717.ldo) ([Lao Động](https://laodong.vn))
+- [Chiếm đoạt tiền hoàn thuế giá trị gia tăng: Ngăn chặn và bịt ngay các kẽ hở](https://laodong.vn/kinh-te/chiem-doat-tien-hoan-thue-gia-tri-gia-tang-ngan-chan-va-bit-ngay-cac-ke-ho-883664.ldo) ([Lao Động](https://laodong.vn))
+- [Sàn giao dịch tiền số lớn nhất thế giới Coinbase IPO](https://cafebiz.vn/san-giao-dich-tien-so-lon-nhat-the-gioi-coinbase-ipo-20210226092451002.chn) ([CafeBiz](https://cafebiz.vn))
+- [Việt Nam thử nghiệm lâm sàng vaccine COVID-19 Nano Covax giai đoạn 2](https://laodong.vn/y-te/viet-nam-thu-nghiem-lam-sang-vaccine-covid-19-nano-covax-giai-doan-2-883749.ldo) ([Lao Động](https://laodong.vn))
+- [CenLand của Shark Hưng sắp đi vay 1.272 tỷ đồng, tương đương 1/3 tổng tài sản công ty](https://cafebiz.vn/cenland-cua-shark-hung-sap-di-vay-1272-ty-dong-tuong-duong-1-3-tong-tai-san-cong-ty-20210226092304786.chn) ([CafeBiz](https://cafebiz.vn))
+- [Facebook hẹn phục hồi Page các báo Australia khi nào?](https://cafebiz.vn/facebook-hen-phuc-hoi-page-cac-bao-australia-khi-nao-20210226085058374.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thiên tai năm 2020 dồn dập dị thường, cần lưu ý gì về thời tiết năm 2021](https://laodong.vn/moi-truong/thien-tai-nam-2020-don-dap-di-thuong-can-luu-y-gi-ve-thoi-tiet-nam-2021-882239.ldo) ([Lao Động](https://laodong.vn))
+- [Điện Biên lỡ hẹn hội hoa ban, dồn sức chống dịch COVID-19](https://laodong.vn/xa-hoi/dien-bien-lo-hen-hoi-hoa-ban-don-suc-chong-dich-covid-19-883516.ldo) ([Lao Động](https://laodong.vn))
+- [Nhân sự quan trọng chính thức gia nhập nội các của ông Biden](https://laodong.vn/the-gioi/nhan-su-quan-trong-chinh-thuc-gia-nhap-noi-cac-cua-ong-biden-883752.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội đạt bước tiến lớn về quy hoạch phân khu nội đô lịch sử và sông Hồng](https://vtv.vn/trong-nuoc/ha-noi-dat-buoc-tien-lon-ve-quy-hoach-phan-khu-noi-do-lich-su-va-song-hong-20210226091642246.htm) ([VTV](https://vtv.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [4 Dụng cụ pha cà phê thủ công thổi hồn cho ly cà phê tại gia ](https://vietcetera.com/vn/4-dung-cu-pha-ca-phe-thu-cong-thoi-hon-cho-ly-ca-phe-tai-gia)
 - [Bóc Term: Dogecoin là gì mà Elon Musk quan tâm thế?](https://vietcetera.com/vn/boc-term-dogecoin-la-gi-ma-elon-musk-quan-tam-the)
 - [Du học châu Phi có gì lạ?](https://vietcetera.com/vn/du-hoc-chau-phi-co-gi-la)
 - [Tạ Quốc Kỳ Nam: Được gì sau khi bỏ... sáu múi?](https://vietcetera.com/vn/ta-quoc-ky-nam)
@@ -105,7 +106,6 @@
 - [Không Quan Tâm: G-Dragon và Jennie hẹn hò](https://vietcetera.com/vn/khongquantam-jennie-va-g-dragon-hen-ho)
 - [Phá thai, cấm hay không?](https://vietcetera.com/vn/pha-thai-cam-hay-khong)
 - [Tóm Lại Là: Coca Cola và câu chuyện về “da trắng thượng đẳng”](https://vietcetera.com/vn/tom-lai-la-coca-cola-va-cau-chuyen-ve-da-trang-thuong-dang)
-- [Vì sao chúng ta không thể ngừng chạm tay lên mặt?](https://vietcetera.com/vn/vi-sao-chung-ta-khong-the-ngung-cham-tay-len-mat)
 
 [Read More](https://vietcetera.com/)
 
