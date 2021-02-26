@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
-- Temperature is 25°C.
-- Feels Like 25.67°C.
+- Current weather is scattered clouds.
+- Temperature is 24°C.
+- Feels Like 24.65°C.
 - Air Visual is 153.
 
 **WEATHER**
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Hải Phòng dừng hoạt động 8 chốt kiểm dịch ở cửa ngõ](https://vnexpress.net/hai-phong-dung-hoat-dong-8-chot-kiem-dich-o-cua-ngo-4240805.html) ([VNExpress](https://vnexpress.net))
-- [Dỡ bỏ phong tỏa những 'điểm nóng' cuối cùng tại Đông Triều, Quảng Ninh](https://tuoitre.vn/do-bo-phong-toa-nhung-diem-nong-cuoi-cung-tai-dong-trieu-quang-ninh-20210226193909718.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nóng nhất 24h: 10 tấn nầm và chân lợn không rõ nguồn gốc bị bắt giữ](https://laodong.vn/video-thoi-su/nong-nhat-24h-10-tan-nam-va-chan-lon-khong-ro-nguon-goc-bi-bat-giu-883983.ldo) ([Lao Động](https://laodong.vn))
-- [Bệnh nhân Covid-19 nặng tại Hải Dương được công bố khỏi bệnh: "Tôi xúc động khi được các bác sĩ chăm sóc trong những ngày Tết Nguyên đán"](https://cafebiz.vn/benh-nhan-covid-19-nang-tai-hai-duong-duoc-cong-bo-khoi-benh-toi-xuc-dong-khi-duoc-cac-bac-si-cham-soc-trong-nhung-ngay-tet-nguyen-dan-2021022618371103.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mỗi tỉnh một sân bay, tiền đâu? ai bay?](https://laodong.vn/su-kien-binh-luan/moi-tinh-mot-san-bay-tien-dau-ai-bay-883812.ldo) ([Lao Động](https://laodong.vn))
-- [Phó chủ tịch Hà Nội: Thời gian tới thành phố sẽ nới lỏng để các hoạt động trở lại bình thường](https://cafebiz.vn/pho-chu-tich-ha-noi-thoi-gian-toi-thanh-pho-se-noi-long-de-cac-hoat-dong-tro-lai-binh-thuong-20210226192859472.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ loạt bài Tuổi Trẻ, Chủ tịch UBND TP.HCM chỉ đạo xử lý tới nơi 'ô nhiễm' tiếng ồn karaoke](https://tuoitre.vn/tu-loat-bai-tuoi-tre-chu-tich-ubnd-tp-hcm-chi-dao-xu-ly-toi-noi-o-nhiem-tieng-on-karaoke-20210226192054175.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Indonesia nghiên cứu phát hành tiền kỹ thuật số](https://cafebiz.vn/indonesia-nghien-cuu-phat-hanh-tien-ky-thuat-so-20210226171847588.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPBank ra mắt dịch vụ kết nối thanh toán qua Open API miễn phí cho doanh nghiệp](https://cafebiz.vn/tpbank-ra-mat-dich-vu-ket-noi-thanh-toan-qua-open-api-mien-phi-cho-doanh-nghiep-20210226162924264.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mua sắm online như tại cửa hàng: Chìa khóa nào tối ưu cho doanh nghiệp](https://cafebiz.vn/mua-sam-online-nhu-tai-cua-hang-chia-khoa-nao-toi-uu-cho-doanh-nghiep-20210226162853495.chn) ([CafeBiz](https://cafebiz.vn))
+
 
 [Read More](docs/news/README.md)
 
