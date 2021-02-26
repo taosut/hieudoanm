@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is scattered clouds.
 - Temperature is 19°C.
-- Feels Like 18.05°C.
-- Air Visual is 116.
+- Feels Like 17.33°C.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Việt Nam kiên trì chiến lược chống dịch 5 bước](https://vnexpress.net/viet-nam-kien-tri-chien-luoc-chong-dich-5-buoc-4240841.html) ([VNExpress](https://vnexpress.net))
-- [Covid-19 ngày 27/2](https://vnexpress.net/covid-19-ngay-27-2-4240871.html) ([VNExpress](https://vnexpress.net))
-- [Hứa là làm, Thuỷ Tiên "khoe" đang xây 10 nhà cộng đồng tránh lũ cho người dân miền Trung](https://cafebiz.vn/hua-la-lam-thuy-tien-khoe-dang-xay-10-nha-cong-dong-tranh-lu-cho-nguoi-dan-mien-trung-20210226233522631.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đèo Bảo Lộc kẹt cứng sau tai nạn liên hoàn](https://vnexpress.net/deo-bao-loc-ket-cung-sau-tai-nan-lien-hoan-4240829.html) ([VNExpress](https://vnexpress.net))
-- [Đánh giá Xiaomi Mi 11: phần cứng rất ấn tượng, camera được cải tiến, thiếu một chút để hoàn hảo](https://tinhte.vn/thread/danh-gia-xiaomi-mi-11-phan-cung-rat-an-tuong-camera-duoc-cai-tien-thieu-mot-chut-de-hoan-hao.3282433/) ([Tinh Tế](https://tinhte.vn))
-- [[Infographic] Cách chọn màu sắc kính áp tròng để làm nổi bật phong cách của bạn](https://tinhte.vn/thread/infographic-cach-chon-mau-sac-kinh-ap-trong-de-lam-noi-bat-phong-cach-cua-ban.3283656/) ([Tinh Tế](https://tinhte.vn))
-- [Trả hồ sơ điều tra bổ sung vụ bán dự án 'ma' tại Công ty Alibaba](https://thanhnien.vn/thoi-su/tra-ho-so-dieu-tra-bo-sung-vu-ban-du-an-ma-tai-cong-ty-alibaba-1346989.html) ([Thanh Niên](https://thanhnien.vn))
-- [Review BMW 650i FL M6 Optik](https://tinhte.vn/thread/review-bmw-650i-fl-m6-optik.3283591/) ([Tinh Tế](https://tinhte.vn))
-- [Bao giờ Bình Thuận xử lý dứt điểm sai phạm của Trần Thị Ngọc Nữ ?](https://thanhnien.vn/thoi-su/bao-gio-binh-thuan-xu-ly-dut-diem-sai-pham-cua-tran-thi-ngoc-nu-1346988.html) ([Thanh Niên](https://thanhnien.vn))
-- [Cả ngàn người dân đổ về chùa Vĩnh Nghiêm tối rằm tháng Giêng](https://laodong.vn/photo/ca-ngan-nguoi-dan-do-ve-chua-vinh-nghiem-toi-ram-thang-gieng-884018.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
