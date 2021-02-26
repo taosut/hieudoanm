@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 25.73°C.
-- Air Visual is 134.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Điện Biên không còn khu vực phong tỏa](https://vnexpress.net/dien-bien-khong-con-khu-vuc-phong-toa-4240472.html) ([VNExpress](https://vnexpress.net))
-- [Dân chở cả ôtô rau củ đổ sông, lãnh đạo nói “không cần giải cứu”](https://laodong.vn/su-kien-binh-luan/dan-cho-ca-oto-rau-cu-do-song-lanh-dao-noi-khong-can-giai-cuu-883772.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng tôn vinh 58 y bác sĩ là “Thầy thuốc ưu tú”, “Toả sáng Blouse trắng&quot;](https://laodong.vn/y-te/da-nang-ton-vinh-58-y-bac-si-la-thay-thuoc-uu-tu-toa-sang-blouse-trang-883784.ldo) ([Lao Động](https://laodong.vn))
-- [Điện Biên ưu tiên cấp CCCD gắn chíp cho học sinh chuẩn bị thi đại học](https://laodong.vn/xa-hoi/dien-bien-uu-tien-cap-cccd-gan-chip-cho-hoc-sinh-chuan-bi-thi-dai-hoc-883804.ldo) ([Lao Động](https://laodong.vn))
-- [Công an bắt giữ 2 tàu bỏ trốn trong chuyên án 920G- buôn lậu xăng dầu](https://laodong.vn/phap-luat/cong-an-bat-giu-2-tau-bo-tron-trong-chuyen-an-920g-buon-lau-xang-dau-883769.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt đối tượng tổ chức cho người Trung Quốc nhập cảnh trái phép](https://laodong.vn/phap-luat/bat-doi-tuong-to-chuc-cho-nguoi-trung-quoc-nhap-canh-trai-phep-883760.ldo) ([Lao Động](https://laodong.vn))
-- [Lật rơi xuống vực nhưng vẫn cứu sống huyền thoại Tiger Woods, siêu phẩm Genesis GV80 trị giá 50.000 USD có gì hot ngoài 10 túi khí?](https://cafebiz.vn/lat-roi-xuong-vuc-nhung-van-cuu-song-huyen-thoai-tiger-woods-sieu-pham-genesis-gv80-tri-gia-50000-usd-co-gi-hot-ngoai-10-tui-khi-20210226105804587.chn) ([CafeBiz](https://cafebiz.vn))
-- [CEO Tử Quảng khoe ảnh chụp đêm bằng Bphone, không tiện nêu tên 2 đối thủ là hãng A và hãng G](https://cafebiz.vn/ceo-tu-quang-khoe-anh-chup-dem-bang-bphone-khong-tien-neu-ten-2-doi-thu-la-hang-a-va-hang-g-20210226111610669.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hàng ngàn người đổ về viếng Bà chúa xứ Núi Sam dịp rằm tháng giêng](https://tuoitre.vn/hang-ngan-nguoi-do-ve-vieng-ba-chua-xu-nui-sam-dip-ram-thang-gieng-20210226103035061.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sân bay Técníc Hớn Quản (Bình Phước) còn nằm trên giấy, cò đất đã làm náo loạn vùng quê](https://tuoitre.vn/san-bay-tecnic-hon-quan-binh-phuoc-con-nam-tren-giay-co-dat-da-lam-nao-loan-vung-que-20210226104136019.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +87,7 @@
 
 **VIETCETERA**
 
+- [Chúng ta dễ bám vào niềm tin sai lầm trước quá nhiều điều không chắn chắn](https://vietcetera.com/vn/truoc-qua-nhieu-dieu-khong-chac-chan-chung-ta-de-bam-vao-niem-tin-sai-lam)
 - [4 Dụng cụ pha cà phê thủ công thổi hồn cho ly cà phê tại gia ](https://vietcetera.com/vn/4-dung-cu-pha-ca-phe-thu-cong-thoi-hon-cho-ly-ca-phe-tai-gia)
 - [Bóc Term: Dogecoin là gì mà Elon Musk quan tâm thế?](https://vietcetera.com/vn/boc-term-dogecoin-la-gi-ma-elon-musk-quan-tam-the)
 - [Du học châu Phi có gì lạ?](https://vietcetera.com/vn/du-hoc-chau-phi-co-gi-la)
@@ -105,7 +97,6 @@
 - ["Crush của chị đứng giữa lớp hô, 'Ai chơi vật tay với tao không?'"](https://vietcetera.com/vn/crush-cua-chi-dung-giua-lop-ho-ai-choi-vat-tay-voi-tao-khong)
 - [Không Quan Tâm: G-Dragon và Jennie hẹn hò](https://vietcetera.com/vn/khongquantam-jennie-va-g-dragon-hen-ho)
 - [Phá thai, cấm hay không?](https://vietcetera.com/vn/pha-thai-cam-hay-khong)
-- [Tóm Lại Là: Coca Cola và câu chuyện về “da trắng thượng đẳng”](https://vietcetera.com/vn/tom-lai-la-coca-cola-va-cau-chuyen-ve-da-trang-thuong-dang)
 
 [Read More](https://vietcetera.com/)
 
