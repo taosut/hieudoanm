@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is few clouds.
-- Temperature is 27°C.
-- Feels Like 27.17°C.
-- Air Visual is 122.
+- Temperature is 28°C.
+- Feels Like 28.19°C.
+- Air Visual is 112.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bắc Bộ sắp đón không khí lạnh, Nam Bộ nắng nóng với chỉ số tia UV rất cao](https://laodong.vn/moi-truong/bac-bo-sap-don-khong-khi-lanh-nam-bo-nang-nong-voi-chi-so-tia-uv-rat-cao-883816.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao Long An được chọn thử nghiệm vaccine COVID-19 đợt 2?](https://laodong.vn/y-te/vi-sao-long-an-duoc-chon-thu-nghiem-vaccine-covid-19-dot-2-883858.ldo) ([Lao Động](https://laodong.vn))
-- [Những ngành nghề, công việc được về hưu trước tuổi từ ngày 1.3.2021](https://laodong.vn/cong-doan/nhung-nganh-nghe-cong-viec-duoc-ve-huu-truoc-tuoi-tu-ngay-132021-883881.ldo) ([Lao Động](https://laodong.vn))
-- [Người tham gia chống Covid-19 được ưu tiên tiêm vaccine](https://vnexpress.net/nguoi-tham-gia-chong-covid-19-duoc-uu-tien-tiem-vaccine-4240639.html) ([VNExpress](https://vnexpress.net))
-- [Hỗ trợ cán bộ y tế tham gia phòng chống dịch bệnh COVID-19](https://laodong.vn/cd-y-te/ho-tro-can-bo-y-te-tham-gia-phong-chong-dich-benh-covid-19-883888.ldo) ([Lao Động](https://laodong.vn))
-- [Trước lùm xùm tranh chấp bản quyền sách với First News, Thái Hà Books lên tiếng: Tác giả mới là chủ sở hữu tác phẩm, người chấp bút chỉ "gia công" về mặt chữ nghĩa, không được hưởng quyền tác giả](https://cafebiz.vn/truoc-lum-xum-tranh-chap-ban-quyen-sach-voi-first-news-thai-ha-books-len-tieng-tac-gia-moi-la-chu-so-huu-tac-pham-nguoi-chap-but-chi-gia-cong-ve-mat-chu-nghia-khong-duoc-huong-quyen-tac-gia-20210226144329919.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ngày 15.3, Nguyễn Thành Tài sẽ hầu tòa cùng Dương Thị Bạch Diệp](https://laodong.vn/phap-luat/ngay-153-nguyen-thanh-tai-se-hau-toa-cung-duong-thi-bach-diep-883878.ldo) ([Lao Động](https://laodong.vn))
-- [Bác sĩ chỉ ra bệnh nhân ung thư có thể tiêm vaccine COVID-19](https://laodong.vn/suc-khoe/bac-si-chi-ra-benh-nhan-ung-thu-co-the-tiem-vaccine-covid-19-883891.ldo) ([Lao Động](https://laodong.vn))
-- [Kế hoạch đền bù giải toả các dự án ở Đà Nẵng năm 2021, xuất hiện siêu dự án của Vingroup, Sun Group](https://cafebiz.vn/ke-hoach-den-bu-giai-toa-cac-du-an-o-da-nang-nam-2021-xuat-hien-sieu-du-an-cua-vingroup-sun-group-20210226150913458.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đầu năm, công nhân thấp thỏm lo giãn việc, giảm lương](https://laodong.vn/cong-doan/dau-nam-cong-nhan-thap-thom-lo-gian-viec-giam-luong-883821.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam vượt Philippines xếp vị trí thứ 4 về tiêu thụ ôtô ở Đông Nam Á](https://laodong.vn/xe/viet-nam-vuot-philippines-xep-vi-tri-thu-4-ve-tieu-thu-oto-o-dong-nam-a-883903.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Chi trả lương hưu tháng 3 và 4 cùng một lúc](https://laodong.vn/cong-doan/tphcm-chi-tra-luong-huu-thang-3-va-4-cung-mot-luc-883897.ldo) ([Lao Động](https://laodong.vn))
+- [Manh mối triệt phá đường dây mua bán trẻ sơ sinh](https://laodong.vn/phap-luat/manh-moi-triet-pha-duong-day-mua-ban-tre-so-sinh-883898.ldo) ([Lao Động](https://laodong.vn))
+- [Kỳ lương đáng sợ nhất năm đã tới: Thấp đến sang chấn tâm lý!](https://cafebiz.vn/ky-luong-dang-so-nhat-nam-da-toi-thap-den-sang-chan-tam-ly-20210226154503022.chn) ([CafeBiz](https://cafebiz.vn))
+- [Triệt phá đường dây mua bán trẻ sơ sinh sang Trung Quốc quy mô cực lớn](https://cafebiz.vn/triet-pha-duong-day-mua-ban-tre-so-sinh-sang-trung-quoc-quy-mo-cuc-lon-20210226154234585.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Trump chia sẻ kế hoạch hậu nhiệm kỳ tổng thống](https://laodong.vn/the-gioi/ong-trump-chia-se-ke-hoach-hau-nhiem-ky-tong-thong-883889.ldo) ([Lao Động](https://laodong.vn))
+- [Top vua phá lưới Bundesliga 2020/21: Haaland bùng nổ, kém Lewandowski 9 bàn](https://laodong.vn/photo/top-vua-pha-luoi-bundesliga-202021-haaland-bung-no-kem-lewandowski-9-ban-883870.ldo) ([Lao Động](https://laodong.vn))
+- [Ngày rằm tháng Giêng: Đền chùa lớn Hà Nội đóng cửa, người dân vái vọng ở xa](https://laodong.vn/photo/ngay-ram-thang-gieng-den-chua-lon-ha-noi-dong-cua-nguoi-dan-vai-vong-o-xa-883883.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Yêu cầu hoàn thành công tác phòng, chống dịch khi học sinh trở lại trường trước ngày 1/3](https://cafebiz.vn/ha-noi-yeu-cau-hoan-thanh-cong-tac-phong-chong-dich-khi-hoc-sinh-tro-lai-truong-truoc-ngay-1-3-20210226153000558.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cư dân mạng háo hức rủ nhau săn vé 88k giá sốc chỉ có ở Vietnam Airlines](https://cafebiz.vn/cu-dan-mang-hao-huc-ru-nhau-san-ve-88k-gia-soc-chi-co-o-vietnam-airlines-20210226145534604.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
