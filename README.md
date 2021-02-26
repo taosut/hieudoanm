@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 26.58°C.
-- Air Visual is 95.
+- Feels Like 26.09°C.
+- Air Visual is 97.
 
 **WEATHER**
 
@@ -51,12 +51,10 @@
 - [![Arsenal vs Benfica](https://img.shields.io/static/v1?label=Arsenal%20vs%20Benfica&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Benfica)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
-- [![Bắc Ninh](https://img.shields.io/static/v1?label=B%E1%BA%AFc%20Ninh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%AFc%20Ninh)
 - [![Cao Văn Triền](https://img.shields.io/static/v1?label=Cao%20V%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20V%C4%83n%20Tri%E1%BB%81n)
-- [![Cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
+- [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
-- [![Jennie](https://img.shields.io/static/v1?label=Jennie&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jennie)
 - [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
 - [![Lion Group](https://img.shields.io/static/v1?label=Lion%20Group&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lion%20Group)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
@@ -64,6 +62,8 @@
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi K40](https://img.shields.io/static/v1?label=Redmi%20K40&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20K40)
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
+- [![Sân bay Bình Phước](https://img.shields.io/static/v1?label=S%C3%A2n%20bay%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=S%C3%A2n%20bay%20B%C3%ACnh%20Ph%C6%B0%E1%BB%9Bc)
+- [![The Myth](https://img.shields.io/static/v1?label=The%20Myth&message=google&color=red&style=flat-square)](https://www.google.com/search?q=The%20Myth)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Thẻ tín dụng sẽ đẩy lùi tín dụng đen?](https://tuoitre.vn/the-tin-dung-se-day-lui-tin-dung-den-20210225211424098.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [17 người chết trong vụ Mỹ không kích Syria, vì sao ông Biden quyết định ra tay?](https://tuoitre.vn/17-nguoi-chet-trong-vu-my-khong-kich-syria-vi-sao-ong-biden-quyet-dinh-ra-tay-20210226091202983.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Giá vàng hôm nay 26.2: Đồng loạt lao dốc](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-262-dong-loat-lao-doc-883758.ldo) ([Lao Động](https://laodong.vn))
-- [Sáng nay 26-2, bắt đầu tiêm thử nghiệm vắc xin ngừa COVID-19 Nanocovax giai đoạn 2](https://tuoitre.vn/sang-nay-26-2-bat-dau-tiem-thu-nghiem-vac-xin-ngua-covid-19-nanocovax-giai-doan-2-20210226093110554.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Boeing: Các hãng bay Đông Nam Á sẽ sớm phục hồi sau Covid-19 và cần 4.400 máy bay mới cùng 183.000 phi công trong 20 năm tới](https://cafebiz.vn/boeing-cac-hang-bay-dong-nam-a-se-som-phuc-hoi-sau-covid-19-va-can-4400-may-bay-moi-cung-183000-phi-cong-trong-20-nam-toi-20210225143059052.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sương mù trên Quốc lộ 6 tiềm ẩn nguy cơ tai nạn giao thông](https://laodong.vn/xa-hoi/suong-mu-tren-quoc-lo-6-tiem-an-nguy-co-tai-nan-giao-thong-883717.ldo) ([Lao Động](https://laodong.vn))
-- [Chiếm đoạt tiền hoàn thuế giá trị gia tăng: Ngăn chặn và bịt ngay các kẽ hở](https://laodong.vn/kinh-te/chiem-doat-tien-hoan-thue-gia-tri-gia-tang-ngan-chan-va-bit-ngay-cac-ke-ho-883664.ldo) ([Lao Động](https://laodong.vn))
-- [Ứng viên đại diện thương mại Mỹ cam kết dùng 'thuế quan' đối phó Trung Quốc](https://tuoitre.vn/ung-vien-dai-dien-thuong-mai-my-cam-ket-dung-thue-quan-doi-pho-trung-quoc-20210226084316464.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sàn giao dịch tiền số lớn nhất thế giới Coinbase IPO](https://cafebiz.vn/san-giao-dich-tien-so-lon-nhat-the-gioi-coinbase-ipo-20210226092451002.chn) ([CafeBiz](https://cafebiz.vn))
-- [Việt Nam thử nghiệm lâm sàng vaccine COVID-19 Nano Covax giai đoạn 2](https://laodong.vn/y-te/viet-nam-thu-nghiem-lam-sang-vaccine-covid-19-nano-covax-giai-doan-2-883749.ldo) ([Lao Động](https://laodong.vn))
+- [Siêu dự án 25.000 tỷ ở Lâm Đồng bị đề nghị thu hồi, chủ đầu tư nói gì?](https://cafebiz.vn/sieu-du-an-25000-ty-o-lam-dong-bi-de-nghi-thu-hoi-chu-dau-tu-noi-gi-2021022610204469.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ô tô giá rẻ 300 triệu đồng, đi 100km chỉ hết từ 3,7 lít xăng có đáng mua?](https://cafebiz.vn/o-to-gia-re-300-trieu-dong-di-100km-chi-het-tu-37-lit-xang-co-dang-mua-20210226100330698.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhan sắc Jeon Yeo Bin - &quot;Người tình màn ảnh&quot; mới của Song Joong Ki](https://laodong.vn/photo/nhan-sac-jeon-yeo-bin-nguoi-tinh-man-anh-moi-cua-song-joong-ki-883765.ldo) ([Lao Động](https://laodong.vn))
+- [An Phát Holdings tặng 20 tỉ đồng hỗ trợ Hải Dương mua vaccine COVID-19](https://laodong.vn/xa-hoi/an-phat-holdings-tang-20-ti-dong-ho-tro-hai-duong-mua-vaccine-covid-19-883780.ldo) ([Lao Động](https://laodong.vn))
+- [Nghệ An: Đưa bảo vệ người tiêu dùng vào tiêu chí đánh giá cán bộ](https://laodong.vn/xa-hoi/nghe-an-dua-bao-ve-nguoi-tieu-dung-vao-tieu-chi-danh-gia-can-bo-883761.ldo) ([Lao Động](https://laodong.vn))
+- [Chủng SARS-CoV-2 &quot;quỷ dữ&quot; lan rộng ở California nguy hiểm thế nào?](https://laodong.vn/the-gioi/chung-sars-cov-2-quy-du-lan-rong-o-california-nguy-hiem-the-nao-883766.ldo) ([Lao Động](https://laodong.vn))
+- [Những đối tượng nào được mua nhà ở xã hội?](https://laodong.vn/bat-dong-san/nhung-doi-tuong-nao-duoc-mua-nha-o-xa-hoi-883557.ldo) ([Lao Động](https://laodong.vn))
+- [PNJ lãi 168 tỷ đồng tháng đầu năm 2021](https://cafebiz.vn/pnj-lai-168-ty-dong-thang-dau-nam-2021-20210226100511502.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cuộc chiến đa quốc gia về quyền lợi tin tức với Google, Facebook](https://cafebiz.vn/cuoc-chien-da-quoc-gia-ve-quyen-loi-tin-tuc-voi-google-facebook-20210226084831955.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chu Phương Linh – 9x đảm nhiệm vị trí giám đốc hình ảnh cho thương hiệu thời trang L.II.N CLOTHING](https://cafebiz.vn/chu-phuong-linh-9x-dam-nhiem-vi-tri-giam-doc-hinh-anh-cho-thuong-hieu-thoi-trang-liin-clothing-20210225175716126.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
