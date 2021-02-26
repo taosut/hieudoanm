@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is few clouds.
 - Temperature is 27°C.
-- Feels Like 27.52°C.
-- Air Visual is 117.
+- Feels Like 27.17°C.
+- Air Visual is 122.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nhiều doanh nghiệp và địa phương nô nức muốn mua vắc xin Covid-19, nhưng liệu có tiển sẽ mua được?!](https://cafebiz.vn/nhieu-doanh-nghiep-va-dia-phuong-no-nuc-muon-mua-vac-xin-covid-19-nhung-lieu-co-phai-cu-co-tien-se-mua-duoc-20210225135121803.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: Giáo viên, học sinh phải khai báo y tế trong ngày trở lại trường](https://laodong.vn/giao-duc/tphcm-giao-vien-hoc-sinh-phai-khai-bao-y-te-trong-ngay-tro-lai-truong-883860.ldo) ([Lao Động](https://laodong.vn))
-- [Phạt 30 triệu đồng quán cà phê vi phạm về phòng, chống dịch COVID-19](https://laodong.vn/phap-luat/phat-30-trieu-dong-quan-ca-phe-vi-pham-ve-phong-chong-dich-covid-19-883862.ldo) ([Lao Động](https://laodong.vn))
-- [Năm 2020 kinh doanh khấm khá, dầu Tường An mở rộng nhà máy dầu tại Vinh lên gấp đôi, nâng công suất lên gấp 4, nhằm tấn công mạnh thị trường miền Bắc và Trung](https://cafebiz.vn/nam-2020-kinh-doanh-kham-kha-dau-tuong-an-mo-rong-nha-may-dau-tai-vinh-len-gap-doi-nang-cong-suat-len-gap-4-nham-tan-cong-manh-thi-truong-mien-bac-va-trung-20210226122929782.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lấn chiếm vịnh trái phép, chủ dự án BĐS 'hot' nhất Vân Đồn buộc trả nguyên trạng](https://cafebiz.vn/lan-chiem-vinh-trai-phep-chu-du-an-bds-hot-nhat-van-don-buoc-tra-nguyen-trang-20210226143032289.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người già tham gia thử nghiệm vaccine COVID-19: &quot;Tôi làm gương cho lớp trẻ&quot;](https://laodong.vn/video-thoi-su/nguoi-gia-tham-gia-thu-nghiem-vaccine-covid-19-toi-lam-guong-cho-lop-tre-883856.ldo) ([Lao Động](https://laodong.vn))
-- [Lĩnh vực bất động sản nào sẽ hút vốn trong năm 2021?](https://cafebiz.vn/linh-vuc-bat-dong-san-nao-se-hut-von-trong-nam-2021-20210226132302477.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội: Cháy chung cư Mipec Long Biên, người dân hốt hoảng tháo chạy](https://cafebiz.vn/ha-noi-chay-chung-cu-mipec-long-bien-nguoi-dan-hot-hoang-thao-chay-20210226142640168.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bộ trưởng Mai Tiến Dũng: Không được có tinh thần &quot;chợ chiều&quot;](https://laodong.vn/thoi-su/bo-truong-mai-tien-dung-khong-duoc-co-tinh-than-cho-chieu-883845.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao Mitsubishi rút khỏi nhà máy nhiệt điện than ở Bình Thuận?](https://laodong.vn/kinh-te/vi-sao-mitsubishi-rut-khoi-nha-may-nhiet-dien-than-o-binh-thuan-883834.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Bộ sắp đón không khí lạnh, Nam Bộ nắng nóng với chỉ số tia UV rất cao](https://laodong.vn/moi-truong/bac-bo-sap-don-khong-khi-lanh-nam-bo-nang-nong-voi-chi-so-tia-uv-rat-cao-883816.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao Long An được chọn thử nghiệm vaccine COVID-19 đợt 2?](https://laodong.vn/y-te/vi-sao-long-an-duoc-chon-thu-nghiem-vaccine-covid-19-dot-2-883858.ldo) ([Lao Động](https://laodong.vn))
+- [Những ngành nghề, công việc được về hưu trước tuổi từ ngày 1.3.2021](https://laodong.vn/cong-doan/nhung-nganh-nghe-cong-viec-duoc-ve-huu-truoc-tuoi-tu-ngay-132021-883881.ldo) ([Lao Động](https://laodong.vn))
+- [Người tham gia chống Covid-19 được ưu tiên tiêm vaccine](https://vnexpress.net/nguoi-tham-gia-chong-covid-19-duoc-uu-tien-tiem-vaccine-4240639.html) ([VNExpress](https://vnexpress.net))
+- [Hỗ trợ cán bộ y tế tham gia phòng chống dịch bệnh COVID-19](https://laodong.vn/cd-y-te/ho-tro-can-bo-y-te-tham-gia-phong-chong-dich-benh-covid-19-883888.ldo) ([Lao Động](https://laodong.vn))
+- [Trước lùm xùm tranh chấp bản quyền sách với First News, Thái Hà Books lên tiếng: Tác giả mới là chủ sở hữu tác phẩm, người chấp bút chỉ "gia công" về mặt chữ nghĩa, không được hưởng quyền tác giả](https://cafebiz.vn/truoc-lum-xum-tranh-chap-ban-quyen-sach-voi-first-news-thai-ha-books-len-tieng-tac-gia-moi-la-chu-so-huu-tac-pham-nguoi-chap-but-chi-gia-cong-ve-mat-chu-nghia-khong-duoc-huong-quyen-tac-gia-20210226144329919.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ngày 15.3, Nguyễn Thành Tài sẽ hầu tòa cùng Dương Thị Bạch Diệp](https://laodong.vn/phap-luat/ngay-153-nguyen-thanh-tai-se-hau-toa-cung-duong-thi-bach-diep-883878.ldo) ([Lao Động](https://laodong.vn))
+- [Bác sĩ chỉ ra bệnh nhân ung thư có thể tiêm vaccine COVID-19](https://laodong.vn/suc-khoe/bac-si-chi-ra-benh-nhan-ung-thu-co-the-tiem-vaccine-covid-19-883891.ldo) ([Lao Động](https://laodong.vn))
+- [Kế hoạch đền bù giải toả các dự án ở Đà Nẵng năm 2021, xuất hiện siêu dự án của Vingroup, Sun Group](https://cafebiz.vn/ke-hoach-den-bu-giai-toa-cac-du-an-o-da-nang-nam-2021-xuat-hien-sieu-du-an-cua-vingroup-sun-group-20210226150913458.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đầu năm, công nhân thấp thỏm lo giãn việc, giảm lương](https://laodong.vn/cong-doan/dau-nam-cong-nhan-thap-thom-lo-gian-viec-giam-luong-883821.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
