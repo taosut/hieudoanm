@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 26.09°C.
-- Air Visual is 97.
+- Air Visual is 95.
 
 **WEATHER**
 
@@ -52,7 +52,6 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bà Rịa - Vũng Tàu](https://img.shields.io/static/v1?label=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0%20R%E1%BB%8Ba%20-%20V%C5%A9ng%20T%C3%A0u)
 - [![Cao Văn Triền](https://img.shields.io/static/v1?label=Cao%20V%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20V%C4%83n%20Tri%E1%BB%81n)
-- [![Cúng rằm tháng Giêng](https://img.shields.io/static/v1?label=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%BAng%20r%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
 - [![Jisoo](https://img.shields.io/static/v1?label=Jisoo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Jisoo)
@@ -66,6 +65,7 @@
 - [![The Myth](https://img.shields.io/static/v1?label=The%20Myth&message=google&color=red&style=flat-square)](https://www.google.com/search?q=The%20Myth)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
+- [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 - [![Đại học Thương mại](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Th%C6%B0%C6%A1ng%20m%E1%BA%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20h%E1%BB%8Dc%20Th%C6%B0%C6%A1ng%20m%E1%BA%A1i)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Siêu dự án 25.000 tỷ ở Lâm Đồng bị đề nghị thu hồi, chủ đầu tư nói gì?](https://cafebiz.vn/sieu-du-an-25000-ty-o-lam-dong-bi-de-nghi-thu-hoi-chu-dau-tu-noi-gi-2021022610204469.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ô tô giá rẻ 300 triệu đồng, đi 100km chỉ hết từ 3,7 lít xăng có đáng mua?](https://cafebiz.vn/o-to-gia-re-300-trieu-dong-di-100km-chi-het-tu-37-lit-xang-co-dang-mua-20210226100330698.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhan sắc Jeon Yeo Bin - &quot;Người tình màn ảnh&quot; mới của Song Joong Ki](https://laodong.vn/photo/nhan-sac-jeon-yeo-bin-nguoi-tinh-man-anh-moi-cua-song-joong-ki-883765.ldo) ([Lao Động](https://laodong.vn))
-- [An Phát Holdings tặng 20 tỉ đồng hỗ trợ Hải Dương mua vaccine COVID-19](https://laodong.vn/xa-hoi/an-phat-holdings-tang-20-ti-dong-ho-tro-hai-duong-mua-vaccine-covid-19-883780.ldo) ([Lao Động](https://laodong.vn))
-- [Nghệ An: Đưa bảo vệ người tiêu dùng vào tiêu chí đánh giá cán bộ](https://laodong.vn/xa-hoi/nghe-an-dua-bao-ve-nguoi-tieu-dung-vao-tieu-chi-danh-gia-can-bo-883761.ldo) ([Lao Động](https://laodong.vn))
-- [Chủng SARS-CoV-2 &quot;quỷ dữ&quot; lan rộng ở California nguy hiểm thế nào?](https://laodong.vn/the-gioi/chung-sars-cov-2-quy-du-lan-rong-o-california-nguy-hiem-the-nao-883766.ldo) ([Lao Động](https://laodong.vn))
-- [Những đối tượng nào được mua nhà ở xã hội?](https://laodong.vn/bat-dong-san/nhung-doi-tuong-nao-duoc-mua-nha-o-xa-hoi-883557.ldo) ([Lao Động](https://laodong.vn))
-- [PNJ lãi 168 tỷ đồng tháng đầu năm 2021](https://cafebiz.vn/pnj-lai-168-ty-dong-thang-dau-nam-2021-20210226100511502.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cuộc chiến đa quốc gia về quyền lợi tin tức với Google, Facebook](https://cafebiz.vn/cuoc-chien-da-quoc-gia-ve-quyen-loi-tin-tuc-voi-google-facebook-20210226084831955.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chu Phương Linh – 9x đảm nhiệm vị trí giám đốc hình ảnh cho thương hiệu thời trang L.II.N CLOTHING](https://cafebiz.vn/chu-phuong-linh-9x-dam-nhiem-vi-tri-giam-doc-hinh-anh-cho-thuong-hieu-thoi-trang-liin-clothing-20210225175716126.chn) ([CafeBiz](https://cafebiz.vn))
+- [27 tuổi, từng là "con vịt xấu xí" bị phân biệt chủng tộc, Margaret Zhang giờ có gì trong tay để ngồi lên chiếc ghế tổng biên tập Vogue Trung Quốc?](https://cafebiz.vn/27-tuoi-tung-la-con-vit-xau-xi-bi-phan-biet-chung-toc-margaret-zhang-gio-co-gi-trong-tay-de-ngoi-len-chiec-ghe-tong-bien-tap-vogue-trung-quoc-20210226105000512.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bất ngờ: Elon Musk vừa có một nghiên cứu khoa học đăng trên tạp chí Nature nói về COVID-19](https://cafebiz.vn/bat-ngo-elon-musk-vua-co-mot-nghien-cuu-khoa-hoc-dang-tren-tap-chi-nature-noi-ve-covid-19-20210226085255838.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nghịch lý cuộc đời: Càng thắng tranh luận, càng bại công danh](https://cafebiz.vn/nghich-ly-cuoc-doi-cang-thang-tranh-luan-cang-bai-cong-danh-20210225165646377.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thẻ PVcomBank Travel - Đồng hành những người yêu xê dịch và  khám phá](https://laodong.vn/kinh-te/the-pvcombank-travel-dong-hanh-nhung-nguoi-yeu-xe-dich-va-kham-pha-883756.ldo) ([Lao Động](https://laodong.vn))
+- [Nghệ nhân Ánh Tuyết gợi ý mâm cỗ cúng Rằm tháng Giêng chuẩn phong tục](https://laodong.vn/van-hoa-giai-tri/nghe-nhan-anh-tuyet-goi-y-mam-co-cung-ram-thang-gieng-chuan-phong-tuc-883783.ldo) ([Lao Động](https://laodong.vn))
+- [Ôtô gây tai nạn liên hoàn, 1 học sinh rơi xuống sông tử vong](https://laodong.vn/xa-hoi/oto-gay-tai-nan-lien-hoan-1-hoc-sinh-roi-xuong-song-tu-vong-883782.ldo) ([Lao Động](https://laodong.vn))
+- [Chính quyền ông Joe Biden có động thái mới về chính sách nhập cư](https://laodong.vn/the-gioi/chinh-quyen-ong-joe-biden-co-dong-thai-moi-ve-chinh-sach-nhap-cu-883775.ldo) ([Lao Động](https://laodong.vn))
+- [Biệt danh “kẻ cướp” ở Châu Âu của Real Madrid có từ bao giờ?](https://laodong.vn/the-thao/biet-danh-ke-cuop-o-chau-au-cua-real-madrid-co-tu-bao-gio-883538.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiều cựu quan chức cấp cao chuyển sang làm sếp lớn ngân hàng](https://cafebiz.vn/nhieu-cuu-quan-chuc-cap-cao-chuyen-sang-lam-sep-lon-ngan-hang-20210226103650492.chn) ([CafeBiz](https://cafebiz.vn))
+- ['So găng' thu nhập tại 15 ngân hàng lớn nhất thị trường: Ở đâu lương khủng nhất, ai trả thấp nhất?](https://cafebiz.vn/so-gang-thu-nhap-tai-15-ngan-hang-lon-nhat-thi-truong-o-dau-luong-khung-nhat-ai-tra-thap-nhat-20210226103522473.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
