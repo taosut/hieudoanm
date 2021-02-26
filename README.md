@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 27.03°C.
-- Air Visual is 118.
+- Temperature is 27°C.
+- Feels Like 27.17°C.
+- Air Visual is 116.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Hà Nội tiếp tục kêu gọi ủng hộ công tác phòng, chống dịch COVID-19](https://laodong.vn/thoi-su/ha-noi-tiep-tuc-keu-goi-ung-ho-cong-tac-phong-chong-dich-covid-19-883854.ldo) ([Lao Động](https://laodong.vn))
-- [Gần 700 doanh nghiệp Việt được phép xuất khẩu thủy sản vào Đài Loan](https://cafebiz.vn/gan-700-doanh-nghiep-viet-duoc-phep-xuat-khau-thuy-san-vao-dai-loan-20210226134848576.chn) ([CafeBiz](https://cafebiz.vn))
-- [Crossover cỡ nhỏ: Nên chọn Nissan X-Trail 2021, CR-V hay RAV4?](https://laodong.vn/xe/crossover-co-nho-nen-chon-nissan-x-trail-2021-cr-v-hay-rav4-883810.ldo) ([Lao Động](https://laodong.vn))
-- [CEO triệu phú: ‘Đừng là một con lừa, trước mặt là cỏ và nước nhưng vẫn chết vì đói khát’](https://cafebiz.vn/ceo-trieu-phu-dung-la-mot-con-lua-truoc-mat-la-co-va-nuoc-nhung-van-chet-vi-doi-khat-20210226104735677.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cận cảnh những mũi tiêm vaccine Covid-19 của Việt Nam cho người dân Long An](https://cafebiz.vn/can-canh-nhung-mui-tiem-vaccine-covid-19-cua-viet-nam-cho-nguoi-dan-long-an-20210226134358687.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những trường hợp có thể được cấp sổ đỏ mới bạn nên biết](https://laodong.vn/bat-dong-san/nhung-truong-hop-co-the-duoc-cap-so-do-moi-ban-nen-biet-883757.ldo) ([Lao Động](https://laodong.vn))
-- [Ấn Độ áp đặt loạt quy định nghiêm ngặt cho Facebook và điều đáng ngạc nhiên là phản ứng khác hẳn của Mark Zuckerberg so với ở Australia](https://cafebiz.vn/an-do-ap-dat-loat-quy-dinh-nghiem-ngat-cho-facebook-va-dieu-dang-ngac-nhien-la-phan-ung-khac-han-cua-mark-zuckerberg-so-voi-o-australia-20210226134010784.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bầu cử Đại biểu Quốc hội: Loại những ứng viên không đạt trên 50% tín nhiệm](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/bau-cu-dai-bieu-quoc-hoi-loai-nhung-ung-vien-khong-dat-tren-50-tin-nhiem-715706.html) ([VietNamNet](https://vietnamnet.vn))
-- [Chúng tôi góp vắc xin COVID-19 cùng Tuổi Trẻ](https://tuoitre.vn/chung-toi-gop-vac-xin-covid-19-cung-tuoi-tre-20210225152559628.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chủ động trước đợt sóng dịch thứ 3: Nhiều nhà bán hàng đẩy mạnh kinh doanh trên TMĐT](https://cafebiz.vn/chu-dong-truoc-dot-song-dich-thu-3-nhieu-nha-ban-hang-day-manh-kinh-doanh-tren-tmdt-20210226121503777.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đồng sáng lập Skype chính thức đầu tư vào startup Loship trong vòng gọi vốn Serie C](https://cafebiz.vn/dong-sang-lap-skype-chinh-thuc-dau-tu-vao-startup-loship-trong-vong-goi-von-serie-c-20210226113614662.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đại Nghĩa, Tuấn Hưng, Xuân Bắc và sao Việt giải cứu hàng chục tấn nông sản](https://laodong.vn/photo/dai-nghia-tuan-hung-xuan-bac-va-sao-viet-giai-cuu-hang-chuc-tan-nong-san-883833.ldo) ([Lao Động](https://laodong.vn))
+- [Lo mất thêm tiền, người dân Thủ đô đổ xô đi xóa nợ tiền sử dụng đất](https://cafebiz.vn/lo-mat-them-tien-nguoi-dan-thu-do-do-xo-di-xoa-no-tien-su-dung-dat-20210226141437103.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ba phân khúc "vàng' vẫn hút giới nhà giàu thế giới đổ tiền vào bất động sản](https://cafebiz.vn/ba-phan-khuc-vang-van-hut-gioi-nha-giau-the-gioi-do-tien-vao-bat-dong-san-20210226141109881.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cua Năm Căn, lẩu mắm U Minh lọt Top 100 món ăn đặc sản Việt Nam](https://laodong.vn/xa-hoi/cua-nam-can-lau-mam-u-minh-lot-top-100-mon-an-dac-san-viet-nam-883846.ldo) ([Lao Động](https://laodong.vn))
+- [Xử phạt tài xế vận chuyển 2,5 tấn nầm lợn không rõ nguồn gốc](https://laodong.vn/phap-luat/xu-phat-tai-xe-van-chuyen-25-tan-nam-lon-khong-ro-nguon-goc-883817.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt giữ hàng loạt đối tượng trong đường dây mua bán trẻ sơ sinh](https://laodong.vn/phap-luat/bat-giu-hang-loat-doi-tuong-trong-duong-day-mua-ban-tre-so-sinh-883847.ldo) ([Lao Động](https://laodong.vn))
+- [Vaccine COVID-19 Việt Nam có kháng thể chống lại virus biến chủng ở Anh](https://laodong.vn/y-te/vaccine-covid-19-viet-nam-co-khang-the-chong-lai-virus-bien-chung-o-anh-883790.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Tục &quot;ăn Tết lại&quot; lặng lẽ do dịch COVID-19](https://laodong.vn/video/ha-noi-tuc-an-tet-lai-lang-le-do-dich-covid-19-883855.ldo) ([Lao Động](https://laodong.vn))
+- [Long An: Những người đầu tiên tiêm thử nghiệm vaccine COVID-19 giai đoạn 2](https://laodong.vn/photo/long-an-nhung-nguoi-dau-tien-tiem-thu-nghiem-vaccine-covid-19-giai-doan-2-883853.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -136,8 +136,8 @@
 04. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 05. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 06. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
-07. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
-08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
+07. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
+08. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
 09. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 10. [Công an Hình sự cũng phải ĐỨNG DÒM cách in tiền giả chuyên nghiệp này | Trinh sát kể chuyện | ANTC](https://www.youtube.com/watch?v=nvA_9wVPcvw) - [AN NINH TOÀN CẢNH](https://www.youtube.com/channel/UCotkNLf_Y3jfbLWuSFUCSBQ)
 
