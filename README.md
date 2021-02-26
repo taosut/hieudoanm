@@ -20,8 +20,8 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 24.28°C.
+- Temperature is 23°C.
+- Feels Like 23.33°C.
 - Air Visual is 139.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tự sự của người thành công: "Mọi người chỉ thấy được sự tiến bộ vượt bậc của tôi, chứ không thấy được khoảng thời gian tôi tàn nhẫn với chính mình"](https://cafebiz.vn/tu-su-cua-nguoi-thanh-cong-moi-nguoi-chi-thay-duoc-su-tien-bo-vuot-bac-cua-toi-chu-khong-thay-duoc-khoang-thoi-gian-toi-tan-nhan-voi-chinh-minh-20210221225458188.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lo rủi ro tín dụng bất động sản](https://cafebiz.vn/lo-rui-ro-tin-dung-bat-dong-san-20210226190141211.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nghỉ việc ngay sau Tết, bạn có tử tế không?](https://cafebiz.vn/nghi-viec-ngay-sau-tet-ban-co-tu-te-khong-20210226214614098.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chàng trai tậu được hai căn nhà chỉ từ kinh doanh sản phẩm 0 đồng này](https://cafebiz.vn/chang-trai-tau-duoc-hai-can-nha-chi-tu-kinh-doanh-san-pham-0-dong-nay-20210226202854.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Dương: Hơn 10.000 công nhân nhà trọ được hỗ trợ gạo, nhu yếu phẩm](https://laodong.vn/cong-doan/hai-duong-hon-10000-cong-nhan-nha-tro-duoc-ho-tro-gao-nhu-yeu-pham-884023.ldo) ([Lao Động](https://laodong.vn))
 - [Cụ bà 105 tuổi ở Mỹ chiến thắng Covid-19 nhờ “cầu nguyện” và...nho khô](https://cafebiz.vn/cu-ba-105-tuoi-o-my-chien-thang-covid-19-nho-cau-nguyen-vanho-kho-20210226211006892.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bà xã kém 32 tuổi giải thích lý do không kề cận khi NS Thương Tín bị đột quỵ, tiết lộ cuộc sống hôn nhân vô cùng khó khăn](https://cafebiz.vn/ba-xa-kem-32-tuoi-giai-thich-ly-do-khong-ke-can-khi-ns-thuong-tin-bi-dot-quy-tiet-lo-cuoc-song-hon-nhan-vo-cung-kho-khan-20210226213610065.chn) ([CafeBiz](https://cafebiz.vn))
 - [Kinh tế 24h: Giá vàng đồng loạt xuống dốc; Hàng hoá Rằm tháng giêng ế ẩm](https://laodong.vn/kinh-te/kinh-te-24h-gia-vang-dong-loat-xuong-doc-hang-hoa-ram-thang-gieng-e-am-884011.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội: Quận Hoàn Kiếm đề nghị mở lại phố đi bộ Hồ Gươm từ tuần sau](https://cafebiz.vn/ha-noi-quan-hoan-kiem-de-nghi-mo-lai-pho-di-bo-ho-guom-tu-tuan-sau-20210226200554894.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đời người có 3 chiếc bẫy nguy hiểm, vượt qua ải vũ môn, cuộc sống thăng hoa như “cá chép hoá rồng”!](https://cafebiz.vn/doi-nguoi-co-3-chiec-bay-nguy-hiem-vuot-qua-ai-vu-mon-cuoc-song-thang-hoa-nhu-ca-chep-hoa-rong-20210226210505602.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vắc xin ngừa COVID-19 chỉ sinh kháng thể trong thời gian nhất định, không được chủ quan](https://tuoitre.vn/vac-xin-ngua-covid-19-chi-sinh-khang-the-trong-thoi-gian-nhat-dinh-khong-duoc-chu-quan-20210226210228626.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bóng tối phía sau ngành công nghiệp anime tỷ USD của Nhật Bản](https://cafebiz.vn/bong-toi-phia-sau-nganh-cong-nghiep-anime-ty-usd-cua-nhat-ban-20210226204551347.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thừa biết đối thủ kém hơn mình, Quan Vũ vẫn nói với Trương Phi "Võ nghệ của người này không hề thua kém chúng ta", người này là ai?](https://cafebiz.vn/thua-biet-doi-thu-kem-hon-minh-quan-vu-van-noi-voi-truong-phi-vo-nghe-cua-nguoi-nay-khong-he-thua-kem-chung-ta-nguoi-nay-la-ai-20210226210209018.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xe chở bôxit mất lái gây tai nạn liên hoàn trên đèo Bảo Lộc](https://tuoitre.vn/xe-cho-boxit-mat-lai-gay-tai-nan-lien-hoan-tren-deo-bao-loc-20210226210159096.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Giá vàng chiều 26/2 xuyên thủng "đáy" 8 tháng](https://cafebiz.vn/gia-vang-chieu-26-2-xuyen-thung-day-8-thang-20210226200458121.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
