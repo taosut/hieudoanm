@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 23°C.
-- Feels Like 24.77°C.
-- Air Visual is 83.
+- Temperature is 24°C.
+- Feels Like 26.58°C.
+- Air Visual is 95.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Thẻ tín dụng sẽ đẩy lùi tín dụng đen?](https://tuoitre.vn/the-tin-dung-se-day-lui-tin-dung-den-20210225211424098.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [17 người chết trong vụ Mỹ không kích Syria, vì sao ông Biden quyết định ra tay?](https://tuoitre.vn/17-nguoi-chet-trong-vu-my-khong-kich-syria-vi-sao-ong-biden-quyet-dinh-ra-tay-20210226091202983.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Giá vàng hôm nay 26.2: Đồng loạt lao dốc](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-262-dong-loat-lao-doc-883758.ldo) ([Lao Động](https://laodong.vn))
+- [Sáng nay 26-2, bắt đầu tiêm thử nghiệm vắc xin ngừa COVID-19 Nanocovax giai đoạn 2](https://tuoitre.vn/sang-nay-26-2-bat-dau-tiem-thu-nghiem-vac-xin-ngua-covid-19-nanocovax-giai-doan-2-20210226093110554.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Boeing: Các hãng bay Đông Nam Á sẽ sớm phục hồi sau Covid-19 và cần 4.400 máy bay mới cùng 183.000 phi công trong 20 năm tới](https://cafebiz.vn/boeing-cac-hang-bay-dong-nam-a-se-som-phuc-hoi-sau-covid-19-va-can-4400-may-bay-moi-cung-183000-phi-cong-trong-20-nam-toi-20210225143059052.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sương mù trên Quốc lộ 6 tiềm ẩn nguy cơ tai nạn giao thông](https://laodong.vn/xa-hoi/suong-mu-tren-quoc-lo-6-tiem-an-nguy-co-tai-nan-giao-thong-883717.ldo) ([Lao Động](https://laodong.vn))
 - [Chiếm đoạt tiền hoàn thuế giá trị gia tăng: Ngăn chặn và bịt ngay các kẽ hở](https://laodong.vn/kinh-te/chiem-doat-tien-hoan-thue-gia-tri-gia-tang-ngan-chan-va-bit-ngay-cac-ke-ho-883664.ldo) ([Lao Động](https://laodong.vn))
+- [Ứng viên đại diện thương mại Mỹ cam kết dùng 'thuế quan' đối phó Trung Quốc](https://tuoitre.vn/ung-vien-dai-dien-thuong-mai-my-cam-ket-dung-thue-quan-doi-pho-trung-quoc-20210226084316464.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Sàn giao dịch tiền số lớn nhất thế giới Coinbase IPO](https://cafebiz.vn/san-giao-dich-tien-so-lon-nhat-the-gioi-coinbase-ipo-20210226092451002.chn) ([CafeBiz](https://cafebiz.vn))
 - [Việt Nam thử nghiệm lâm sàng vaccine COVID-19 Nano Covax giai đoạn 2](https://laodong.vn/y-te/viet-nam-thu-nghiem-lam-sang-vaccine-covid-19-nano-covax-giai-doan-2-883749.ldo) ([Lao Động](https://laodong.vn))
-- [CenLand của Shark Hưng sắp đi vay 1.272 tỷ đồng, tương đương 1/3 tổng tài sản công ty](https://cafebiz.vn/cenland-cua-shark-hung-sap-di-vay-1272-ty-dong-tuong-duong-1-3-tong-tai-san-cong-ty-20210226092304786.chn) ([CafeBiz](https://cafebiz.vn))
-- [Facebook hẹn phục hồi Page các báo Australia khi nào?](https://cafebiz.vn/facebook-hen-phuc-hoi-page-cac-bao-australia-khi-nao-20210226085058374.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thiên tai năm 2020 dồn dập dị thường, cần lưu ý gì về thời tiết năm 2021](https://laodong.vn/moi-truong/thien-tai-nam-2020-don-dap-di-thuong-can-luu-y-gi-ve-thoi-tiet-nam-2021-882239.ldo) ([Lao Động](https://laodong.vn))
-- [Điện Biên lỡ hẹn hội hoa ban, dồn sức chống dịch COVID-19](https://laodong.vn/xa-hoi/dien-bien-lo-hen-hoi-hoa-ban-don-suc-chong-dich-covid-19-883516.ldo) ([Lao Động](https://laodong.vn))
-- [Nhân sự quan trọng chính thức gia nhập nội các của ông Biden](https://laodong.vn/the-gioi/nhan-su-quan-trong-chinh-thuc-gia-nhap-noi-cac-cua-ong-biden-883752.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội đạt bước tiến lớn về quy hoạch phân khu nội đô lịch sử và sông Hồng](https://vtv.vn/trong-nuoc/ha-noi-dat-buoc-tien-lon-ve-quy-hoach-phan-khu-noi-do-lich-su-va-song-hong-20210226091642246.htm) ([VTV](https://vtv.vn))
 
 [Read More](docs/news/README.md)
 
