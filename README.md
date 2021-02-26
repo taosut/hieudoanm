@@ -52,12 +52,12 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bài Khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=B%C3%A0i%20Kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0i%20Kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Cao Văn Triền](https://img.shields.io/static/v1?label=Cao%20V%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20V%C4%83n%20Tri%E1%BB%81n)
-- [![Diễn viên Thương Tín](https://img.shields.io/static/v1?label=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
 - [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
-- [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
 - [![Mạc Văn Khoa](https://img.shields.io/static/v1?label=M%E1%BA%A1c%20V%C4%83n%20Khoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BA%A1c%20V%C4%83n%20Khoa)
+- [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
+- [![Nghệ sĩ Thương Tín](https://img.shields.io/static/v1?label=Ngh%E1%BB%87%20s%C4%A9%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ngh%E1%BB%87%20s%C4%A9%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Việt Nam kiên trì chiến lược chống dịch 5 bước](https://vnexpress.net/viet-nam-kien-tri-chien-luoc-chong-dich-5-buoc-4240841.html) ([VNExpress](https://vnexpress.net))
 - [Covid-19 ngày 27/2](https://vnexpress.net/covid-19-ngay-27-2-4240871.html) ([VNExpress](https://vnexpress.net))
 - [Hứa là làm, Thuỷ Tiên "khoe" đang xây 10 nhà cộng đồng tránh lũ cho người dân miền Trung](https://cafebiz.vn/hua-la-lam-thuy-tien-khoe-dang-xay-10-nha-cong-dong-tranh-lu-cho-nguoi-dan-mien-trung-20210226233522631.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đèo Bảo Lộc kẹt cứng sau tai nạn liên hoàn](https://vnexpress.net/deo-bao-loc-ket-cung-sau-tai-nan-lien-hoan-4240829.html) ([VNExpress](https://vnexpress.net))
-- [Cả ngàn người dân đổ về chùa Vĩnh Nghiêm tối rằm tháng Giêng](https://laodong.vn/photo/ca-ngan-nguoi-dan-do-ve-chua-vinh-nghiem-toi-ram-thang-gieng-884018.ldo) ([Lao Động](https://laodong.vn))
-- [Rằm tháng Giêng: Người dân Cần Thơ lặng lẽ đi chùa cầu an](https://laodong.vn/photo/ram-thang-gieng-nguoi-dan-can-tho-lang-le-di-chua-cau-an-884019.ldo) ([Lao Động](https://laodong.vn))
 - [Đánh giá Xiaomi Mi 11: phần cứng rất ấn tượng, camera được cải tiến, thiếu một chút để hoàn hảo](https://tinhte.vn/thread/danh-gia-xiaomi-mi-11-phan-cung-rat-an-tuong-camera-duoc-cai-tien-thieu-mot-chut-de-hoan-hao.3282433/) ([Tinh Tế](https://tinhte.vn))
-- [Tự sự của người thành công: "Mọi người chỉ thấy được sự tiến bộ vượt bậc của tôi, chứ không thấy được khoảng thời gian tôi tàn nhẫn với chính mình"](https://cafebiz.vn/tu-su-cua-nguoi-thanh-cong-moi-nguoi-chi-thay-duoc-su-tien-bo-vuot-bac-cua-toi-chu-khong-thay-duoc-khoang-thoi-gian-toi-tan-nhan-voi-chinh-minh-20210221225458188.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lo rủi ro tín dụng bất động sản](https://cafebiz.vn/lo-rui-ro-tin-dung-bat-dong-san-20210226190141211.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nghỉ việc ngay sau Tết, bạn có tử tế không?](https://cafebiz.vn/nghi-viec-ngay-sau-tet-ban-co-tu-te-khong-20210226214614098.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trường học phải là nơi an toàn cho học sinh](https://thanhnien.vn/thoi-su/truong-hoc-phai-la-noi-an-toan-cho-hoc-sinh-1346985.html) ([Thanh Niên](https://thanhnien.vn))
+- [[Infographic] Cách chọn màu sắc kính áp tròng để làm nổi bật phong cách của bạn](https://tinhte.vn/thread/infographic-cach-chon-mau-sac-kinh-ap-trong-de-lam-noi-bat-phong-cach-cua-ban.3283656/) ([Tinh Tế](https://tinhte.vn))
+- [Trả hồ sơ điều tra bổ sung vụ bán dự án 'ma' tại Công ty Alibaba](https://thanhnien.vn/thoi-su/tra-ho-so-dieu-tra-bo-sung-vu-ban-du-an-ma-tai-cong-ty-alibaba-1346989.html) ([Thanh Niên](https://thanhnien.vn))
+- [Review BMW 650i FL M6 Optik](https://tinhte.vn/thread/review-bmw-650i-fl-m6-optik.3283591/) ([Tinh Tế](https://tinhte.vn))
+- [Bao giờ Bình Thuận xử lý dứt điểm sai phạm của Trần Thị Ngọc Nữ ?](https://thanhnien.vn/thoi-su/bao-gio-binh-thuan-xu-ly-dut-diem-sai-pham-cua-tran-thi-ngoc-nu-1346988.html) ([Thanh Niên](https://thanhnien.vn))
+- [Cả ngàn người dân đổ về chùa Vĩnh Nghiêm tối rằm tháng Giêng](https://laodong.vn/photo/ca-ngan-nguoi-dan-do-ve-chua-vinh-nghiem-toi-ram-thang-gieng-884018.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
