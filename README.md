@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Phú Thọ: Quán bar, vũ trường, karaoke hoạt động trở lại sau... 1 ngày cấm](https://laodong.vn/xa-hoi/phu-tho-quan-bar-vu-truong-karaoke-hoat-dong-tro-lai-sau-1-ngay-cam-883976.ldo) ([Lao Động](https://laodong.vn))
-- [Xây dựng quan hệ lao động hài hòa, ổn định tại doanh nghiệp](https://laodong.vn/cong-doan/xay-dung-quan-he-lao-dong-hai-hoa-on-dinh-tai-doanh-nghiep-883979.ldo) ([Lao Động](https://laodong.vn))
+- [Khánh Hòa: Ưu tiên nguồn nhân lực phát triển kinh tế  biển](https://laodong.vn/cong-doan/khanh-hoa-uu-tien-nguon-nhan-luc-phat-trien-kinh-te-bien-883987.ldo) ([Lao Động](https://laodong.vn))
+- [Trao giấy khen cho nam thanh niên lao xuống biển cứu sống 3 học sinh](https://laodong.vn/nguoi-viet-tu-te/trao-giay-khen-cho-nam-thanh-nien-lao-xuong-bien-cuu-song-3-hoc-sinh-883982.ldo) ([Lao Động](https://laodong.vn))
+- [Công bố 5 ca mắc COVID-19 mới, trong đó có 1 ca nhập cảnh trái phép](https://laodong.vn/y-te/cong-bo-5-ca-mac-covid-19-moi-trong-do-co-1-ca-nhap-canh-trai-phep-883988.ldo) ([Lao Động](https://laodong.vn))
+- [Khánh Hòa:  Nhu cầu lao động công nghiệp xây dựng sẽ tăng 30-40%](https://laodong.vn/cong-doan/khanh-hoa-nhu-cau-lao-dong-cong-nghiep-xay-dung-se-tang-30-40-883985.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Học sinh, sinh viên đi học trở lại sẽ theo thứ tự ưu tiên](https://laodong.vn/xa-hoi/ha-noi-hoc-sinh-sinh-vien-di-hoc-tro-lai-se-theo-thu-tu-uu-tien-883882.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều nay 26-2, thêm 5 ca bệnh COVID-19 mới, một ca là nhập cảnh trái phép](https://tuoitre.vn/chieu-nay-26-2-them-5-ca-benh-covid-19-moi-mot-ca-la-nhap-canh-trai-phep-20210226181331782.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thành ủy Huế vận động người dân, cán bộ mang áo dài suốt tháng 3](https://tuoitre.vn/thanh-uy-hue-van-dong-nguoi-dan-can-bo-mang-ao-dai-suot-thang-3-20210226175921485.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Lãnh đạo TP.HCM thăm, chúc mừng thầy thuốc nhân dân tiêu biểu](https://tuoitre.vn/lanh-dao-tp-hcm-tham-chuc-mung-thay-thuoc-nhan-dan-tieu-bieu-20210226150159985.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [12 người ngộ độc do ăn thịt bê nhiễm khuẩn](https://vnexpress.net/12-nguoi-ngo-doc-do-an-thit-be-nhiem-khuan-4240747.html) ([VNExpress](https://vnexpress.net))
 - [Bình Phước muốn có sân bay](https://vnexpress.net/binh-phuoc-muon-co-san-bay-4240660.html) ([VNExpress](https://vnexpress.net))
-- [Bà Rịa - Vũng Tàu: Khôi phục trạng thái bình thường mới từ 28-2](https://tuoitre.vn/ba-ria-vung-tau-khoi-phuc-trang-thai-binh-thuong-moi-tu-28-2-20210226175422943.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Dán thẻ thu phí không dừng, có ‘chuyển mạng giữ số’ được không?](https://tuoitre.vn/dan-the-thu-phi-khong-dung-co-chuyen-mang-giu-so-duoc-khong-20210226123103467.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cách để Việt Nam sớm có thị trường ôtô giá rẻ, cạnh tranh với ôtô nhập khẩu](https://laodong.vn/video/cach-de-viet-nam-som-co-thi-truong-oto-gia-re-canh-tranh-voi-oto-nhap-khau-883683.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: 2 năm không tổ chức Tết Nguyên Tiêu, người dân nói gì?](https://laodong.vn/video/tphcm-2-nam-khong-to-chuc-tet-nguyen-tieu-nguoi-dan-noi-gi-883661.ldo) ([Lao Động](https://laodong.vn))
-- [Câu lạc bộ Sài Gòn sẽ hợp tác với đội bóng tại J.League 3](https://laodong.vn/the-thao/cau-lac-bo-sai-gon-se-hop-tac-voi-doi-bong-tai-jleague-3-883944.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Không Quan Tâm: Clubhouse còn lâu mới nổi ở Việt Nam](https://vietcetera.com/vn/khong-quan-tam-clubhouse-mang-xa-hoi-kieu-moi)
 - [5 Nhà hàng ẩm thực tinh hoa cho bữa trưa cùng đối tác](https://vietcetera.com/vn/5-chon-an-trua-cho-dan-van-phong)
 - [Sau Tết, làm thế nào để giảm cân hiệu quả khi tập gym cùng PT? ](https://vietcetera.com/vn/sau-tet-lam-the-nao-de-giam-can-hieu-qua-khi-tap-gym-cung-pt)
 - [Đối mặt với sang chấn tuổi thơ và sự vô cảm của người xung quanh](https://vietcetera.com/vn/doi-mat-voi-sang-chan-tuoi-tho-va-su-vo-cam-cua-nguoi-xung-quanh)
@@ -105,7 +106,6 @@
 - [Chúng ta dễ bám vào niềm tin sai lầm trước quá nhiều điều không chắc chắn](https://vietcetera.com/vn/truoc-qua-nhieu-dieu-khong-chac-chan-chung-ta-de-bam-vao-niem-tin-sai-lam)
 - [4 Dụng cụ pha cà phê thủ công thổi hồn cho ly cà phê tại gia ](https://vietcetera.com/vn/4-dung-cu-pha-ca-phe-thu-cong-thoi-hon-cho-ly-ca-phe-tai-gia)
 - [Không Quan Tâm: Sơn Tùng "đạo nhạc" lần thứ 8](https://vietcetera.com/vn/khong-quan-tam-son-tung-dao-nhac-lan-thu-8)
-- [Mandarin Oriental ra mắt dự án khu dưỡng và dân cư cao cấp tại Đà Nẵng](https://vietcetera.com/vn/mandarin-oriental-ra-mat-du-an-khu-duong-va-dan-cu-cao-cap-tai-da-nang)
 
 [Read More](https://vietcetera.com/)
 
