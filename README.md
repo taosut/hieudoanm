@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 18°C.
-- Feels Like 15.63°C.
-- Air Visual is 119.
+- Feels Like 16.35°C.
+- Air Visual is 140.
 
 **WEATHER**
 
@@ -51,7 +51,7 @@
 - [![Arsenal vs Benfica](https://img.shields.io/static/v1?label=Arsenal%20vs%20Benfica&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Benfica)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Cao Văn Triền](https://img.shields.io/static/v1?label=Cao%20V%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20V%C4%83n%20Tri%E1%BB%81n)
-- [![Giá xăng hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20h%C3%B4m%20nay)
+- [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
 - [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![Lionel Messi](https://img.shields.io/static/v1?label=Lionel%20Messi&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lionel%20Messi)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Người phụ nữ bị lừa mất 5 tỉ đồng sau cuộc điện thoại của kẻ giả danh công an](https://cafebiz.vn/nguoi-phu-nu-bi-lua-mat-5-ti-dong-sau-cuoc-dien-thoai-cua-ke-gia-danh-cong-an-20210227111842568.chn) ([CafeBiz](https://cafebiz.vn))
-- [LĐLĐ tỉnh Yên Bái chúc mừng cán bộ y bác sĩ](https://laodong.vn/ldld-yen-bai/ldld-tinh-yen-bai-chuc-mung-can-bo-y-bac-si-884135.ldo) ([Lao Động](https://laodong.vn))
-- [Cần Thơ: 3 trường hợp F1 bệnh nhân 2424 có kết quả âm tính với SARS-CoV-2](https://laodong.vn/xa-hoi/can-tho-3-truong-hop-f1-benh-nhan-2424-co-ket-qua-am-tinh-voi-sars-cov-2-884134.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ GDĐT lý giải những băn khoăn về chứng chỉ trong thăng hạng cho giáo viên](https://laodong.vn/giao-duc/bo-gddt-ly-giai-nhung-ban-khoan-ve-chung-chi-trong-thang-hang-cho-giao-vien-884128.ldo) ([Lao Động](https://laodong.vn))
-- [Mua bán trẻ sơ sinh có thể bị phạt tới tù chung thân](https://laodong.vn/phap-luat/mua-ban-tre-so-sinh-co-the-bi-phat-toi-tu-chung-than-884125.ldo) ([Lao Động](https://laodong.vn))
-- [Xử phạt thêm 3 trường hợp khai báo y tế gian dối khi về từ vùng dịch](https://cafebiz.vn/xu-phat-them-3-truong-hop-khai-bao-y-te-gian-doi-khi-ve-tu-vung-dich-20210227111010949.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: Thành lập 370 công đoàn cơ sở và nghiệp đoàn](https://laodong.vn/ldld-tphcm/tphcm-thanh-lap-370-cong-doan-co-so-va-nghiep-doan-884133.ldo) ([Lao Động](https://laodong.vn))
-- [Hành vi "ngây thơ" nhất thế giới, gây tổn hại đến đường thành công của bạn sau này: Thích "giảng đạo lý"](https://cafebiz.vn/hanh-vi-ngay-tho-nhat-the-gioi-gay-ton-hai-den-duong-thanh-cong-cua-ban-sau-nay-thich-giang-dao-ly-2021022308523487.chn) ([CafeBiz](https://cafebiz.vn))
-- [10 đứa trẻ kiếm được bộn tiền khi tuổi đời còn rất nhỏ](https://cafebiz.vn/10-dua-tre-kiem-duoc-bon-tien-khi-tuoi-doi-con-rat-nho-20210227125636388.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những "ngày Cô-Vít" sau Tết, các mẹ lại tiếp tục gồng mình thành siêu nhân, vừa làm cô giáo dạy học cho con, vừa thay ô sin phục vụ cả nhà!](https://cafebiz.vn/nhung-ngay-co-vit-sau-tet-cac-me-lai-tiep-tuc-gong-minh-thanh-sieu-nhan-vua-lam-co-giao-day-hoc-cho-con-vua-thay-o-sin-phuc-vu-ca-nha-20210227110739396.chn) ([CafeBiz](https://cafebiz.vn))
+- [Các trường hợp F1 tại Cần Thơ đều âm tính với COVID- 19](https://tuoitre.vn/cac-truong-hop-f1-tai-can-tho-deu-am-tinh-voi-covid-19-20210227140911821.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Cái chết bất ngờ của tỷ phú 79 tuổi: Khối tài sản 20 tỷ USD ‘bơ vơ’ chưa biết sẽ chia cho ai](https://cafebiz.vn/cai-chet-bat-ngo-cua-ty-phu-79-tuoi-khoi-tai-san-20-ty-usd-bo-vo-chua-biet-se-chia-cho-ai-20210227101420205.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đề nghị phạt nặng 'hung thần' karaoke, thu thiết bị vì 'mất của họ mới sợ'](https://tuoitre.vn/de-nghi-phat-nang-hung-than-karaoke-thu-thiet-bi-vi-mat-cua-ho-moi-so-20210227140910604.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thực hư tin Thủ tướng Đức Angela Merkel từ chối vaccine AstraZeneca](https://laodong.vn/the-gioi/thuc-hu-tin-thu-tuong-duc-angela-merkel-tu-choi-vaccine-astrazeneca-884140.ldo) ([Lao Động](https://laodong.vn))
+- [Hạ viện Mỹ thông qua gói giải cứu 1,9 nghìn tỉ USD của ông Biden](https://laodong.vn/the-gioi/ha-vien-my-thong-qua-goi-giai-cuu-19-nghin-ti-usd-cua-ong-biden-884136.ldo) ([Lao Động](https://laodong.vn))
+- [Man United mất 6 cầu thủ ở đại chiến Chelsea](https://laodong.vn/bong-da-quoc-te/man-united-mat-6-cau-thu-o-dai-chien-chelsea-884132.ldo) ([Lao Động](https://laodong.vn))
+- [Bố trí người mai phục nhưng vừa trừ khử được đối thủ vốn là mối đại họa này, Gia Cát Lượng lập tức hối hận](https://cafebiz.vn/bo-tri-nguoi-mai-phuc-nhung-vua-tru-khu-duoc-doi-thu-von-la-moi-dai-hoa-nay-gia-cat-luong-lap-tuc-hoi-han-20210227125922357.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đề nghị công khai dự án quá 3 năm mà không có quyết định thu hồi đất](https://laodong.vn/bat-dong-san/de-nghi-cong-khai-du-an-qua-3-nam-ma-khong-co-quyet-dinh-thu-hoi-dat-883884.ldo) ([Lao Động](https://laodong.vn))
+- [Đang tham gia nghĩa vụ công an được rút bảo hiểm xã hội 1 lần không?](https://laodong.vn/ban-doc/dang-tham-gia-nghia-vu-cong-an-duoc-rut-bao-hiem-xa-hoi-1-lan-khong-884091.ldo) ([Lao Động](https://laodong.vn))
+- [Gặp mặt các nguyên ủy viên Bộ Chính trị, Ban Bí thư và nguyên ủy viên trung ương không tái cử](https://tuoitre.vn/gap-mat-cac-nguyen-uy-vien-bo-chinh-tri-ban-bi-thu-va-nguyen-uy-vien-tu-khong-tai-cu-20210227135156053.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
