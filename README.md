@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 19°C.
 - Feels Like 16.61°C.
-- Air Visual is 84.
+- Air Visual is 82.
 
 **WEATHER**
 
@@ -53,6 +53,7 @@
 - [![Cao Văn Triền](https://img.shields.io/static/v1?label=Cao%20V%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20V%C4%83n%20Tri%E1%BB%81n)
 - [![Giá xăng hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20h%C3%B4m%20nay)
 - [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
+- [![Lionel Messi](https://img.shields.io/static/v1?label=Lionel%20Messi&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lionel%20Messi)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
 - [![Mạc Văn Khoa](https://img.shields.io/static/v1?label=M%E1%BA%A1c%20V%C4%83n%20Khoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BA%A1c%20V%C4%83n%20Khoa)
 - [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
@@ -61,7 +62,6 @@
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi K40](https://img.shields.io/static/v1?label=Redmi%20K40&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20K40)
-- [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
 - [![Thương Tín](https://img.shields.io/static/v1?label=Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Ngày thầy thuốc Việt Nam: Các y bác sỹ vẫn quay cuồng với các ca mổ cấp cứu](https://laodong.vn/video/ngay-thay-thuoc-viet-nam-cac-y-bac-sy-van-quay-cuong-voi-cac-ca-mo-cap-cuu-884097.ldo) ([Lao Động](https://laodong.vn))
+- [6 dấu hiệu chứng tỏ bạn sắp giàu: "Có khả năng tiết kiệm" đứng đầu bảng!](https://cafebiz.vn/6-dau-hieu-chung-to-ban-sap-giau-co-kha-nang-tiet-kiem-dung-dau-bang-20210227111942432.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lãnh đạo Tổng LĐLĐVN chúc mừng đội ngũ cán bộ ngành y tế](https://laodong.vn/cd-y-te/lanh-dao-tong-ldldvn-chuc-mung-doi-ngu-can-bo-nganh-y-te-884094.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất quyết thủ tục đầu tư dự án nhà ở thương mại tại TP.HCM trong 11 tháng](https://tuoitre.vn/de-xuat-quyet-thu-tuc-dau-tu-du-an-nha-o-thuong-mai-tai-tphcm-trong-11-thang-20210227092146986.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Loạt ô tô 'bom tấn' ra mắt tại Việt Nam trong năm nay: Xe Hàn tiếp tục chiếm sóng](https://cafebiz.vn/loat-o-to-bom-tan-ra-mat-tai-viet-nam-trong-nam-nay-xe-han-tiep-tuc-chiem-song-20210227102444043.chn) ([CafeBiz](https://cafebiz.vn))
+- [TP.HCM 'xin đường' cho xe buýt mini](https://tuoitre.vn/tphcm-xin-duong-cho-xe-buyt-mini-20210227084332249.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Kéo dài thời gian giữa hai liều vaccine COVID-19 liệu có hiệu quả hơn?](https://laodong.vn/the-gioi/keo-dai-thoi-gian-giua-hai-lieu-vaccine-covid-19-lieu-co-hieu-qua-hon-884092.ldo) ([Lao Động](https://laodong.vn))
 - [Cận cảnh sân Quy Nhơn đã hoàn thiện chờ ngày Bình Định thi đấu](https://laodong.vn/photo/can-canh-san-quy-nhon-da-hoan-thien-cho-ngay-binh-dinh-thi-dau-884053.ldo) ([Lao Động](https://laodong.vn))
 - [Nhận định Sevilla - Barcelona: “Trận chung kết thứ nhất”](https://laodong.vn/bong-da-quoc-te/nhan-dinh-sevilla-barcelona-tran-chung-ket-thu-nhat-884083.ldo) ([Lao Động](https://laodong.vn))
 - [Hơn 1.000 người dập đám cháy rừng](https://vnexpress.net/hon-1-000-nguoi-dap-dam-chay-rung-4240986.html) ([VNExpress](https://vnexpress.net))
-- [Truy tìm người đàn ông bỏ chạy khi đi cùng 7 người Trung Quốc nhập cảnh trái phép](https://cafebiz.vn/truy-tim-nguoi-dan-ong-bo-chay-khi-di-cung-7-nguoi-trung-quoc-nhap-canh-trai-phep-20210227111559256.chn) ([CafeBiz](https://cafebiz.vn))
-- [CHÍNH THỨC: Hà Nội chốt thời gian quay trở lại trường của học sinh, sinh viên](https://cafebiz.vn/chinh-thuc-ha-noi-chot-thoi-gian-quay-tro-lai-truong-cua-hoc-sinh-sinh-vien-20210227111504086.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tuổi trẻ Cần Thơ: Ra quân vớt rác, làm cỏ, vệ sinh môi trường](https://laodong.vn/photo/tuoi-tre-can-tho-ra-quan-vot-rac-lam-co-ve-sinh-moi-truong-884055.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Học sinh chính thức trở lại trường học tập từ ngày 2.3](https://laodong.vn/xa-hoi/ha-noi-hoc-sinh-chinh-thuc-tro-lai-truong-hoc-tap-tu-ngay-23-884093.ldo) ([Lao Động](https://laodong.vn))
-- [3.500 thanh niên ưu tú Hà Nội lên đường tòng quân năm 2021](https://laodong.vn/photo/3500-thanh-nien-uu-tu-ha-noi-len-duong-tong-quan-nam-2021-884073.ldo) ([Lao Động](https://laodong.vn))
-- [Hyundai triệu hồi 82.000 ô tô điện: Vụ triệu hồi tốn kém nhất lịch sử](https://cafebiz.vn/hyundai-trieu-hoi-82000-o-to-dien-vu-trieu-hoi-ton-kem-nhat-lich-su-20210227102217559.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -135,8 +135,8 @@
 03. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
 04. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 05. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
-06. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
-07. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
+06. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
+07. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 09. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 10. [Sóng 21 - Chương trình giải trí đặc biệt đêm Giao Thừa 2021 quy tụ hơn 100 nghệ sĩ hàng đầu Việt Nam](https://www.youtube.com/watch?v=CHaRCw5ccuA) - [Vie Channel - HTV2](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw)
