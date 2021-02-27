@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 16°C.
 - Feels Like 15.11°C.
-- Air Visual is 112.
+- Air Visual is 146.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tiếng ồn karaoke, nỗ lực của TP.HCM và việc ca hát văn minh](http://vietnamnet.vn/vn/thoi-su/tieng-on-karaoke-no-luc-cua-tp-hcm-va-viec-ca-hat-van-minh-715882.html) ([VietNamNet](https://vietnamnet.vn))
+- [Dự báo thời tiết ngày 28/2: Bắc Bộ tiếp chuỗi ngày mưa rét, Nam Bộ nắng](http://vietnamnet.vn/vn/thoi-su/du-bao-thoi-tiet-ngay-28-2-bac-bo-tiep-chuoi-ngay-mua-ret-nam-bo-nang-716006.html) ([VietNamNet](https://vietnamnet.vn))
 - [Nông dân Gia Lai tưới cà phê ngày lẫn đêm](https://vnexpress.net/nong-dan-gia-lai-tuoi-ca-phe-ngay-lan-dem-4238754.html) ([VNExpress](https://vnexpress.net))
+- [Chính sách mới về tiền lương của quân đội được áp dụng từ tháng 3](http://vietnamnet.vn/vn/thoi-su/quoc-phong/chinh-sach-moi-ve-tien-luong-cua-quan-doi-duoc-ap-dung-tu-thang-3-714715.html) ([VietNamNet](https://vietnamnet.vn))
 - [Covid-19 ngày 28/2](https://vnexpress.net/covid-19-ngay-28-2-4241172.html) ([VNExpress](https://vnexpress.net))
 - [Hot: MUJI âm thầm căng bạt đỏ tại Vincom Center Metropolis, ngày khai trương tại Hà Nội chẳng còn xa](https://cafebiz.vn/hot-muji-am-tham-cang-bat-do-tai-vincom-center-metropolis-ngay-khai-truong-tai-ha-noi-chang-con-xa-20210227235106278.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chuyên gia kinh tế nói về triển vọng kiểm soát lạm phát năm 2021](https://laodong.vn/kinh-te/chuyen-gia-kinh-te-noi-ve-trien-vong-kiem-soat-lam-phat-nam-2021-884230.ldo) ([Lao Động](https://laodong.vn))
-- [Lại nói về cập nhật Android, Google nên dẫn đầu chứ không phải Samsung](https://tinhte.vn/thread/lai-noi-ve-cap-nhat-android-google-nen-dan-dau-chu-khong-phai-samsung.3282214/) ([Tinh Tế](https://tinhte.vn))
+- [Chia sẻ: Trải nghiệm lái xe với dẫn đường bằng AR (thực tế ảo tăng cường) ở Hàn Quốc](https://tinhte.vn/thread/chia-se-trai-nghiem-lai-xe-voi-dan-duong-bang-ar-thuc-te-ao-tang-cuong-o-han-quoc.3284090/) ([Tinh Tế](https://tinhte.vn))
 - [Chuyện ở Bắc Hàn: Nhân viên ngoại giao Nga đi xe đẩy theo đường xe lửa để về nước](https://tinhte.vn/thread/chuyen-o-bac-han-nhan-vien-ngoai-giao-nga-di-xe-day-theo-duong-xe-lua-de-ve-nuoc.3283696/) ([Tinh Tế](https://tinhte.vn))
-- [Review Audi S7 Sportback 4.0 TFSI Quattro 2015 540HP](https://tinhte.vn/thread/review-audi-s7-sportback-4-0-tfsi-quattro-2015-540hp.3283917/) ([Tinh Tế](https://tinhte.vn))
-- [Hải Dương giải thể Bệnh viện dã chiến số 1 ở tâm dịch COVID-19](https://tuoitre.vn/hai-duong-giai-the-benh-vien-da-chien-so-1-o-tam-dich-covid-19-20210227220013906.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thắng dễ dàng West Ham, Man City giữ vững ngôi đầu Premier League](https://laodong.vn/bong-da-quoc-te/thang-de-dang-west-ham-man-city-giu-vung-ngoi-dau-premier-league-884229.ldo) ([Lao Động](https://laodong.vn))
-- [Hãng hàng không Qantas thử nghiệm “hộ chiếu Covid-19” cho chặng bay quốc tế](https://cafebiz.vn/hang-hang-khong-qantas-thu-nghiem-ho-chieu-covid-19-cho-chang-bay-quoc-te-20210227195307999.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đầu tư chứng khoán và những điều cơ bản nhất để bắt đầu](https://tinhte.vn/thread/dau-tu-chung-khoan-va-nhung-dieu-co-ban-nhat-de-bat-dau.3268970/) ([Tinh Tế](https://tinhte.vn))
 
 [Read More](docs/news/README.md)
 
