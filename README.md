@@ -19,17 +19,17 @@
 
 **CALENDAR**
 
-- Current weather is drizzle.
+- Current weather is mist.
 - Temperature is 16°C.
-- Feels Like 15.47°C.
+- Feels Like 15.11°C.
 - Air Visual is 155.
 
 **WEATHER**
 
-- Date: 2021/02/27
-- Lunar: 2021/01/16
+- Date: 2021/02/28
+- Lunar: 2021/01/17
 - Tiet Khi: Tiểu tuyết.
-- năm canh tý tháng kỷ sửu ngày giáp tý.
+- năm canh tý tháng kỷ sửu ngày ất sửu.
 
 **NPM**
 
@@ -49,7 +49,7 @@
 **GOOGLE TRENDS**
 
 - [![Arsenal vs Benfica](https://img.shields.io/static/v1?label=Arsenal%20vs%20Benfica&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Benfica)
-- [![Chúc mừng Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%20Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%20Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
+- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Cuôc chiến thượng lưu](https://img.shields.io/static/v1?label=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u)
 - [![Học sinh Hà Nội bao giờ đi học](https://img.shields.io/static/v1?label=H%E1%BB%8Dc%20sinh%20H%C3%A0%20N%E1%BB%99i%20bao%20gi%E1%BB%9D%20%C4%91i%20h%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BB%8Dc%20sinh%20H%C3%A0%20N%E1%BB%99i%20bao%20gi%E1%BB%9D%20%C4%91i%20h%E1%BB%8Dc)
 - [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
@@ -61,10 +61,10 @@
 - [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
 - [![Ngày 27/2](https://img.shields.io/static/v1?label=Ng%C3%A0y%2027/2&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%2027/2)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
+- [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![Ngô Mạnh Đạt](https://img.shields.io/static/v1?label=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
-- [![Tet nguyen tieu](https://img.shields.io/static/v1?label=Tet%20nguyen%20tieu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tet%20nguyen%20tieu)
-- [![Thương Tín](https://img.shields.io/static/v1?label=Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%B0%C6%A1ng%20T%C3%ADn)
+- [![Thuong tin](https://img.shields.io/static/v1?label=Thuong%20tin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thuong%20tin)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 - [![Đồng Tháp](https://img.shields.io/static/v1?label=%C4%90%E1%BB%93ng%20Th%C3%A1p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BB%93ng%20Th%C3%A1p)
@@ -75,6 +75,9 @@
 
 **NEWS**
 
+- [Covid-19 ngày 28/2](https://vnexpress.net/covid-19-ngay-28-2-4241172.html) ([VNExpress](https://vnexpress.net))
+- [Hot: MUJI âm thầm căng bạt đỏ tại Vincom Center Metropolis, ngày khai trương tại Hà Nội chẳng còn xa](https://cafebiz.vn/hot-muji-am-tham-cang-bat-do-tai-vincom-center-metropolis-ngay-khai-truong-tai-ha-noi-chang-con-xa-20210227235106278.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuyên gia kinh tế nói về triển vọng kiểm soát lạm phát năm 2021](https://laodong.vn/kinh-te/chuyen-gia-kinh-te-noi-ve-trien-vong-kiem-soat-lam-phat-nam-2021-884230.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương giải thể Bệnh viện dã chiến số 1 ở tâm dịch COVID-19](https://tuoitre.vn/hai-duong-giai-the-benh-vien-da-chien-so-1-o-tam-dich-covid-19-20210227220013906.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thắng dễ dàng West Ham, Man City giữ vững ngôi đầu Premier League](https://laodong.vn/bong-da-quoc-te/thang-de-dang-west-ham-man-city-giu-vung-ngoi-dau-premier-league-884229.ldo) ([Lao Động](https://laodong.vn))
 - [Hãng hàng không Qantas thử nghiệm “hộ chiếu Covid-19” cho chặng bay quốc tế](https://cafebiz.vn/hang-hang-khong-qantas-thu-nghiem-ho-chieu-covid-19-cho-chang-bay-quoc-te-20210227195307999.chn) ([CafeBiz](https://cafebiz.vn))
@@ -82,9 +85,6 @@
 - [Ghế máy bay biến thành giường ngủ "siêu to khổng lồ" trên bầu trời](https://cafebiz.vn/ghe-may-bay-bien-thanh-giuong-ngu-sieu-to-khong-lo-tren-bau-troi-20210227195850882.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bố trí phòng ngủ nhỏ vừa rộng vừa cá tính](https://laodong.vn/bat-dong-san/bo-tri-phong-ngu-nho-vua-rong-vua-ca-tinh-883969.ldo) ([Lao Động](https://laodong.vn))
 - [Va chạm với xe bus, nam sinh lớp 10 ở Sơn La bị thương nặng](https://laodong.vn/xa-hoi/va-cham-voi-xe-bus-nam-sinh-lop-10-o-son-la-bi-thuong-nang-884227.ldo) ([Lao Động](https://laodong.vn))
-- [Mặt tiền đắc địa cho thuê ở TP HCM giảm giá 30% vẫn ế!](https://cafebiz.vn/mat-tien-dac-dia-cho-thue-o-tp-hcm-giam-gia-30-van-e-20210227190124094.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nóng nhất hôm nay: Tượng vàng ông Trump mặc quần soóc gây chú ý](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-tuong-vang-ong-trump-mac-quan-sooc-gay-chu-y-884180.ldo) ([Lao Động](https://laodong.vn))
-- [Bí quyết để vừa có 1 cơ thể khỏe mạnh, vừa có thể khắc phục thói lười biếng](https://laodong.vn/suc-khoe/bi-quyet-de-vua-co-1-co-the-khoe-manh-vua-co-the-khac-phuc-thoi-luoi-bieng-884211.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -139,7 +139,7 @@
 07. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 08. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 09. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
-10. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
+10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
