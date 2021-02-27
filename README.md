@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 19°C.
 - Feels Like 17.32°C.
-- Air Visual is 88.
+- Air Visual is 31.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cò lại thổi giá đất Đà Nẵng](https://cafebiz.vn/co-lai-thoi-gia-dat-da-nang-20210227094055073.chn) ([CafeBiz](https://cafebiz.vn))
-- [4 chung cư ở Hà Nội đang có giá bán dưới 1 tỷ đồng cho người độc thân và các gia đình trẻ có mức thu nhập trung bình](https://cafebiz.vn/4-chung-cu-o-ha-noi-dang-co-gia-ban-duoi-1-ty-dong-cho-nguoi-doc-than-va-cac-gia-dinh-tre-co-muc-thu-nhap-trung-binh-20210227093801965.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội sẽ tiến hành lấy mẫu xét nghiệm sàng lọc COVID-19 ngẫu nhiên](https://cafebiz.vn/ha-noi-se-tien-hanh-lay-mau-xet-nghiem-sang-loc-covid-19-ngau-nhien-20210227093736469.chn) ([CafeBiz](https://cafebiz.vn))
-- [Reuters: Huawei có thể ra mắt xe điện năm nay](https://cafebiz.vn/reuters-huawei-co-the-ra-mat-xe-dien-nam-nay-20210227085031619.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Tĩnh: Nhiều trường học tự ý cho học sinh nghỉ học ở nhà… ăn rằm](https://laodong.vn/ban-doc/ha-tinh-nhieu-truong-hoc-tu-y-cho-hoc-sinh-nghi-hoc-o-nha-an-ram-884048.ldo) ([Lao Động](https://laodong.vn))
-- [Các vaccine COVID-19 bất ngờ lộ diện ''điểm yếu'' đáng ngại](https://laodong.vn/the-gioi/cac-vaccine-covid-19-bat-ngo-lo-dien-diem-yeu-dang-ngai-884004.ldo) ([Lao Động](https://laodong.vn))
-- [Chính quyền ông Biden giải mật báo cáo tình báo vụ giết nhà báo Khashoggi](https://laodong.vn/the-gioi/chinh-quyen-ong-biden-giai-mat-bao-cao-tinh-bao-vu-giet-nha-bao-khashoggi-884047.ldo) ([Lao Động](https://laodong.vn))
-- [Bóng tối phía sau ngành công nghiệp anime tỷ USD của Nhật Bản](https://cafebiz.vn/bong-toi-phia-sau-nganh-cong-nghiep-anime-ty-usd-cua-nhat-ban-20210227084545842.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đồng loạt tăng hệ số lương cho giáo viên các cấp từ tháng 3/2021](https://cafebiz.vn/dong-loat-tang-he-so-luong-cho-giao-vien-cac-cap-tu-thang-3-2021-20210227091810908.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lý Hùng, Trịnh Kim Chi quyên góp hàng trăm triệu giúp nghệ sĩ Thương Tín](https://laodong.vn/van-hoa/ly-hung-trinh-kim-chi-quyen-gop-hang-tram-trieu-giup-nghe-si-thuong-tin-884050.ldo) ([Lao Động](https://laodong.vn))
+- [Tin bóng đá sáng 27.2: David Moyes lên tiếng về tương lai](https://laodong.vn/bong-da-quoc-te/tin-bong-da-sang-272-david-moyes-len-tieng-ve-tuong-lai-884057.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng và ngoại tệ 27.2: Giá vàng chìm sâu, nguy cơ tụt dốc không phanh](https://laodong.vn/video/gia-vang-va-ngoai-te-272-gia-vang-chim-sau-nguy-co-tut-doc-khong-phanh-884066.ldo) ([Lao Động](https://laodong.vn))
+- [Nam Bộ cuối tuần nắng nóng gay gắt, nhiệt độ xấp xỉ 38 độ C](https://tuoitre.vn/nam-bo-cuoi-tuan-nang-nong-gay-gat-nhiet-do-xap-xi-38-do-c-2021022709411365.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chính quyền ông Biden trừng phạt vụ giết nhà báo Khashoggi](https://laodong.vn/the-gioi/chinh-quyen-ong-biden-trung-phat-vu-giet-nha-bao-khashoggi-884052.ldo) ([Lao Động](https://laodong.vn))
+- [Bản lĩnh của một người ẩn giấu đằng xong những trang sách người ấy đọc](https://cafebiz.vn/ban-linh-cua-mot-nguoi-an-giau-dang-xong-nhung-trang-sach-nguoi-ay-doc-20210225170801741.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chỉ cần nắm rõ liệu trình của kẹo giấm táo AppleSlim, giảm mỡ vòng 2 là chuyện nhỏ](https://cafebiz.vn/chi-can-nam-ro-lieu-trinh-cua-keo-giam-tao-appleslim-giam-mo-vong-2-la-chuyen-nho-20210227091347682.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chính phủ Mỹ có thể 'ép' Bitcoin để bảo vệ đồng USD](https://cafebiz.vn/chinh-phu-my-co-the-ep-bitcoin-de-bao-ve-dong-usd-20210227085205836.chn) ([CafeBiz](https://cafebiz.vn))
+- [CEO Chung Tấn Bảo – Ben & Tod: "Vượt qua khó khăn là một lần được tôi luyện"](https://cafebiz.vn/ceo-chung-tan-bao-ben-tod-vuot-qua-kho-khan-la-mot-lan-duoc-toi-luyen-20210226162950717.chn) ([CafeBiz](https://cafebiz.vn))
+- [Văn Phú - Invest - Những người kiến tạo không gian sống trong mơ](https://laodong.vn/bat-dong-san/van-phu-invest-nhung-nguoi-kien-tao-khong-gian-song-trong-mo-883949.ldo) ([Lao Động](https://laodong.vn))
+- [Thừa Thiên Huế: Hơn 1.400 thanh niên lên đường nhập ngũ](https://laodong.vn/xa-hoi/thua-thien-hue-hon-1400-thanh-nien-len-duong-nhap-ngu-884064.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
