@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 19°C.
-- Feels Like 17.69°C.
-- Air Visual is 97.
+- Feels Like 17.33°C.
+- Air Visual is 87.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nông dân ngậm ngùi cắt bỏ hoa do dịch Covid-19](https://cafebiz.vn/nong-dan-ngam-ngui-cat-bo-hoa-do-dich-covid-19-20210227074805649.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tỉ phú Trung Quốc rớt ngôi giàu nhất Châu Á](https://laodong.vn/the-gioi/ti-phu-trung-quoc-rot-ngoi-giau-nhat-chau-a-884038.ldo) ([Lao Động](https://laodong.vn))
-- [Tin mừng: Vaccine Covid-19 của Pfizer được chứng minh hiệu quả tới 94% bằng một nghiên cứu thực tế có quy mô lớn nhất từ trước tới nay](https://cafebiz.vn/tin-mung-vaccine-covid-19-cua-pfizer-duoc-chung-minh-hieu-qua-toi-94-bang-mot-nghien-cuu-thuc-te-co-quy-mo-lon-nhat-tu-truoc-toi-nay-20210227074655167.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chứng khoán: Niềm tin chưa đủ mạnh để thị trường bứt tốc](https://laodong.vn/kinh-te/chung-khoan-niem-tin-chua-du-manh-de-thi-truong-but-toc-884029.ldo) ([Lao Động](https://laodong.vn))
-- [Vòng 1/8 Europa League: Ibrahimovic gặp lại Man United và Cavani](https://laodong.vn/bong-da-quoc-te/vong-18-europa-league-ibrahimovic-gap-lai-man-united-va-cavani-884033.ldo) ([Lao Động](https://laodong.vn))
-- [Arsenal và niềm tin từ công thức mới Aubameyang - Saka](https://laodong.vn/bong-da-quoc-te/arsenal-va-niem-tin-tu-cong-thuc-moi-aubameyang-saka-884022.ldo) ([Lao Động](https://laodong.vn))
-- [Thế hệ F1 tài năng của đế chế đứng sau Rap Việt: Tốt nghiệp hạng ưu Oxford, tham dự dạ vũ danh giá nhất thế giới, sáng lập quỹ từ thiện xây cầu cho trẻ em vùng xa](https://cafebiz.vn/the-he-f1-tai-nang-cua-de-che-dung-sau-rap-viet-tot-nghiep-hang-uu-oxford-tham-du-da-vu-danh-gia-nhat-the-gioi-sang-lap-quy-tu-thien-xay-cau-cho-tre-em-vung-xa-20210223152924143.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kiên Giang: Rộn ràng mùa thu hoạch tôm càng xanh](https://laodong.vn/video-thoi-su/kien-giang-ron-rang-mua-thu-hoach-tom-cang-xanh-883887.ldo) ([Lao Động](https://laodong.vn))
-- [5 loại thực phẩm giúp bạn có giấc ngủ ngon nhiều người không biết](https://laodong.vn/dinh-duong-am-thuc/5-loai-thuc-pham-giup-ban-co-giac-ngu-ngon-nhieu-nguoi-khong-biet-883206.ldo) ([Lao Động](https://laodong.vn))
-- [Không gia đình, là mẹ đơn thân ở tuổi 17 trở thành triệu phú ngành thời trang: "Hãy nỗ lực vì đam mê bất chấp cuộc sống khắc nghiệt đến cùng cực!"](https://cafebiz.vn/khong-gia-dinh-la-me-don-than-o-tuoi-17-tro-thanh-trieu-phu-nganh-thoi-trang-hay-no-luc-vi-dam-me-bat-chap-cuoc-song-khac-nghiet-den-cung-cuc-20210225181854131.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cặp tình nhân khai mua bán trẻ sơ sinh với giá hàng chục triệu đồng](https://cafebiz.vn/cap-tinh-nhan-khai-mua-ban-tre-so-sinh-voi-gia-hang-chuc-trieu-dong-20210227084315301.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xiaomi mở nhà máy lắp ráp điện thoại đầu tiên tại Việt Nam](https://cafebiz.vn/xiaomi-mo-nha-may-lap-rap-dien-thoai-dau-tien-tai-viet-nam-20210227083549537.chn) ([CafeBiz](https://cafebiz.vn))
+- [Victor Vũ có trở lại phong độ với “Thiên thần hộ mệnh”?](https://laodong.vn/van-hoa-giai-tri/victor-vu-co-tro-lai-phong-do-voi-thien-than-ho-menh-883991.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ chiếm đoạt 261 tỷ tiền hoàn thuế của Thuduc House: Tòa bỏ áp dụng biện pháp khẩn cấp](https://cafebiz.vn/vu-chiem-doat-261-ty-tien-hoan-thue-cua-thuduc-house-toa-bo-ap-dung-bien-phap-khan-cap-20210227083038725.chn) ([CafeBiz](https://cafebiz.vn))
+- [Có vaccin COVID-19 &quot;made in VN&quot; để y bác sĩ không phải biệt ly với gia đình](https://laodong.vn/video-thoi-su/co-vaccin-covid-19-made-in-vn-de-y-bac-si-khong-phai-biet-ly-voi-gia-dinh-883992.ldo) ([Lao Động](https://laodong.vn))
+- [Kỳ vọng sẽ chống được biến chủng SARS-CoV-2](https://laodong.vn/xa-hoi/ky-vong-se-chong-duoc-bien-chung-sars-cov-2-884002.ldo) ([Lao Động](https://laodong.vn))
+- [Gia đình công nhân chủ động phòng chống dịch khi con đi học trở lại](https://laodong.vn/cong-doan/gia-dinh-cong-nhan-chu-dong-phong-chong-dich-khi-con-di-hoc-tro-lai-883977.ldo) ([Lao Động](https://laodong.vn))
+- [Công đoàn Dệt may Việt Nam thăm các cơ sở y tế](https://laodong.vn/cong-doan/cong-doan-det-may-viet-nam-tham-cac-co-so-y-te-884042.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Thời tiết giảm nhiệt nhẹ nhưng chỉ số UV vẫn tiếp tục cao](https://laodong.vn/moi-truong/tphcm-thoi-tiet-giam-nhiet-nhe-nhung-chi-so-uv-van-tiep-tuc-cao-884046.ldo) ([Lao Động](https://laodong.vn))
+- [Ông vua dầu khí đất Mỹ và câu chuyện "bớt một giọt" nhưng đem lại lợi nhuận 500 triệu đô la: Cốt tử trong kinh doanh là nhạy bén tư duy!](https://cafebiz.vn/ong-vua-dau-khi-dat-my-va-cau-chuyen-bot-mot-giot-nhung-dem-lai-loi-nhuan-500-trieu-do-la-cot-tu-trong-kinh-doanh-la-nhay-ben-tu-duy-20210225190237539.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
