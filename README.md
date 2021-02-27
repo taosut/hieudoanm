@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 16°C.
-- Feels Like 15.83°C.
-- Air Visual is 160.
+- Feels Like 15.47°C.
+- Air Visual is 156.
 
 **WEATHER**
 
@@ -54,17 +54,17 @@
 - [![Học sinh Hà Nội bao giờ đi học](https://img.shields.io/static/v1?label=H%E1%BB%8Dc%20sinh%20H%C3%A0%20N%E1%BB%99i%20bao%20gi%E1%BB%9D%20%C4%91i%20h%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BB%8Dc%20sinh%20H%C3%A0%20N%E1%BB%99i%20bao%20gi%E1%BB%9D%20%C4%91i%20h%E1%BB%8Dc)
 - [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
-- [![Lionel Messi](https://img.shields.io/static/v1?label=Lionel%20Messi&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lionel%20Messi)
 - [![MC](https://img.shields.io/static/v1?label=MC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MC)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
 - [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
-- [![Ngày 27/2](https://img.shields.io/static/v1?label=Ng%C3%A0y%2027/2&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%2027/2)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![Ngô Mạnh Đạt](https://img.shields.io/static/v1?label=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
+- [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Thuong tin](https://img.shields.io/static/v1?label=Thuong%20tin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thuong%20tin)
+- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 - [![Đồng Tháp](https://img.shields.io/static/v1?label=%C4%90%E1%BB%93ng%20Th%C3%A1p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BB%93ng%20Th%C3%A1p)
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Covid-19 ngày 28/2](https://vnexpress.net/covid-19-ngay-28-2-4241172.html) ([VNExpress](https://vnexpress.net))
+- [Hot: MUJI âm thầm căng bạt đỏ tại Vincom Center Metropolis, ngày khai trương tại Hà Nội chẳng còn xa](https://cafebiz.vn/hot-muji-am-tham-cang-bat-do-tai-vincom-center-metropolis-ngay-khai-truong-tai-ha-noi-chang-con-xa-20210227235106278.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuyên gia kinh tế nói về triển vọng kiểm soát lạm phát năm 2021](https://laodong.vn/kinh-te/chuyen-gia-kinh-te-noi-ve-trien-vong-kiem-soat-lam-phat-nam-2021-884230.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương giải thể Bệnh viện dã chiến số 1 ở tâm dịch COVID-19](https://tuoitre.vn/hai-duong-giai-the-benh-vien-da-chien-so-1-o-tam-dich-covid-19-20210227220013906.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thắng dễ dàng West Ham, Man City giữ vững ngôi đầu Premier League](https://laodong.vn/bong-da-quoc-te/thang-de-dang-west-ham-man-city-giu-vung-ngoi-dau-premier-league-884229.ldo) ([Lao Động](https://laodong.vn))
+- [Hãng hàng không Qantas thử nghiệm “hộ chiếu Covid-19” cho chặng bay quốc tế](https://cafebiz.vn/hang-hang-khong-qantas-thu-nghiem-ho-chieu-covid-19-cho-chang-bay-quoc-te-20210227195307999.chn) ([CafeBiz](https://cafebiz.vn))
+- [2,34 tỷ USD đổ vào khu công nghiệp, khu kinh tế trong 2 tháng đầu năm](https://cafebiz.vn/234-ty-usd-do-vao-khu-cong-nghiep-khu-kinh-te-trong-2-thang-dau-nam-20210227194622036.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ghế máy bay biến thành giường ngủ "siêu to khổng lồ" trên bầu trời](https://cafebiz.vn/ghe-may-bay-bien-thanh-giuong-ngu-sieu-to-khong-lo-tren-bau-troi-20210227195850882.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bố trí phòng ngủ nhỏ vừa rộng vừa cá tính](https://laodong.vn/bat-dong-san/bo-tri-phong-ngu-nho-vua-rong-vua-ca-tinh-883969.ldo) ([Lao Động](https://laodong.vn))
+- [Va chạm với xe bus, nam sinh lớp 10 ở Sơn La bị thương nặng](https://laodong.vn/xa-hoi/va-cham-voi-xe-bus-nam-sinh-lop-10-o-son-la-bi-thuong-nang-884227.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
