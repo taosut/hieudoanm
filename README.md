@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 18°C.
-- Feels Like 16.33°C.
-- Air Visual is 136.
+- Feels Like 15.27°C.
+- Air Visual is 137.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Người dân giải cứu nông sản Hải Dương](https://vnexpress.net/nguoi-dan-giai-cuu-nong-san-hai-duong-4240952.html) ([VNExpress](https://vnexpress.net))
+- [Tăng giá vào ngày Black Friday, bán phân bò giá cao, bắt khách hàng góp tiền cho mình: Chiến lược điên rồ này giúp một công ty kiếm hàng đống tiền một cách kì lạ!](https://cafebiz.vn/tang-gia-vao-ngay-black-friday-ban-phan-bo-gia-cao-bat-khach-hang-gop-tien-cho-minh-chien-luoc-dien-ro-nay-giup-mot-cong-ty-kiem-hang-dong-tien-mot-cach-ki-la-20210227111759881.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thái Bình hợp long cầu Trà Lý II và khởi công đường TP Thái Bình - Cầu Nghìn](https://tuoitre.vn/thai-binh-hop-long-cau-tra-ly-ii-va-khoi-cong-duong-tp-thai-binh-cau-nghin-2021022715250482.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nông dân trồng mía Khánh Hòa loay hoay chuyển đổi cây trồng](https://laodong.vn/kinh-te/nong-dan-trong-mia-khanh-hoa-loay-hoay-chuyen-doi-cay-trong-884143.ldo) ([Lao Động](https://laodong.vn))
+- [Làng có 3.000 phụ nữ có chồng bị hổ giết ở Ấn Độ: Vì sao nghe rừng có "quỷ hổ" vẫn vào?](https://cafebiz.vn/lang-co-3000-phu-nu-co-chong-bi-ho-giet-o-an-do-vi-sao-nghe-rung-co-quy-ho-van-vao-20210227111322418.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xe tải tông ôtô đi lễ chùa, một người chết](https://vnexpress.net/xe-tai-tong-oto-di-le-chua-mot-nguoi-chet-4241077.html) ([VNExpress](https://vnexpress.net))
+- [Siêu thị tại Hà Lan bị doạ tẩy chay vì bán phở Việt “fake”: Trông chẳng khác gì mì trộn, sợi vàng như nghệ, ăn kèm sốt thịt gà](https://cafebiz.vn/sieu-thi-tai-ha-lan-bi-doa-tay-chay-vi-ban-pho-viet-fake-trong-chang-khac-gi-mi-tron-soi-vang-nhu-nghe-an-kem-sot-thit-ga-20210227105412558.chn) ([CafeBiz](https://cafebiz.vn))
+- [Các sao Việt vẫn giữ hạnh phúc dù chưa vội sinh con sau nhiều năm kết hôn](https://laodong.vn/gia-dinh-hon-nhan/cac-sao-viet-van-giu-hanh-phuc-du-chua-voi-sinh-con-sau-nhieu-nam-ket-hon-884137.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tục để được cấp thẻ căn cước công dân gắn chip](https://laodong.vn/phap-luat/thu-tuc-de-duoc-cap-the-can-cuoc-cong-dan-gan-chip-884131.ldo) ([Lao Động](https://laodong.vn))
+- [Tỷ giá ngoại tệ 27.2: USD chợ đen áp sát 24.000 đồng, cơ hội vàng đầu tư](https://laodong.vn/kinh-te/ty-gia-ngoai-te-272-usd-cho-den-ap-sat-24000-dong-co-hoi-vang-dau-tu-884145.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
