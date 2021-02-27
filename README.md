@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 17°C.
-- Feels Like 16.07°C.
-- Air Visual is 162.
+- Feels Like 15.75°C.
+- Air Visual is 161.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Bắt &quot;xe dù&quot; cưỡng đoạt tiền của khách tuyến cao tốc Hà Nội - Bắc Giang](https://laodong.vn/phap-luat/bat-xe-du-cuong-doat-tien-cua-khach-tuyen-cao-toc-ha-noi-bac-giang-884213.ldo) ([Lao Động](https://laodong.vn))
+- [Doanh nghiệp ở Cẩm Giàng có thể hoạt động trở lại từ 1.3](https://laodong.vn/cong-doan/doanh-nghiep-o-cam-giang-co-the-hoat-dong-tro-lai-tu-13-884217.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng xét nghiệm SARS-CoV-2 cho hơn 2.500 công dân nhập ngũ](https://laodong.vn/xa-hoi/hai-phong-xet-nghiem-sars-cov-2-cho-hon-2500-cong-dan-nhap-ngu-884220.ldo) ([Lao Động](https://laodong.vn))
+- [Khởi tố 3 bị can trong vụ án ở Tổng Cty Sản xuất-Xuất nhập khẩu Bình Dương](https://laodong.vn/phap-luat/khoi-to-3-bi-can-trong-vu-an-o-tong-cty-san-xuat-xuat-nhap-khau-binh-duong-884219.ldo) ([Lao Động](https://laodong.vn))
+- [2 MV hot của Blackpink và BTS đạt lượt xem &quot;khủng&quot; trên YouTube.](https://laodong.vn/giai-tri/2-mv-hot-cua-blackpink-va-bts-dat-luot-xem-khung-tren-youtube-884215.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất 24h: Mỗi nơi làm việc ở Hải Dương phải có phòng cách ly tạm thời](https://laodong.vn/video-thoi-su/nong-nhat-24h-moi-noi-lam-viec-o-hai-duong-phai-co-phong-cach-ly-tam-thoi-884190.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao giới đầu tư BĐS "đổ" về Bắc Giang tìm cơ hội đầu tư sau Tết](https://cafebiz.vn/vi-sao-gioi-dau-tu-bds-do-ve-bac-giang-tim-co-hoi-dau-tu-sau-tet-20210227185440164.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo dục 24/7: Khối trường quân đội sơ tuyển từ ngày 1.3](https://laodong.vn/video/giao-duc-247-khoi-truong-quan-doi-so-tuyen-tu-ngay-13-884200.ldo) ([Lao Động](https://laodong.vn))
+- [Trẻ 11 tuổi nhiễm độc thủy ngân vì vẩy nhiệt kế đâm vào tay](https://laodong.vn/suc-khoe/tre-11-tuoi-nhiem-doc-thuy-ngan-vi-vay-nhiet-ke-dam-vao-tay-884216.ldo) ([Lao Động](https://laodong.vn))
+- [An Giang thành lập các đội chuyên xử lý vi phạm phòng dịch COVID-19](https://tuoitre.vn/an-giang-thanh-lap-cac-doi-chuyen-xu-ly-vi-pham-phong-dich-covid-19-20210227174147871.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
