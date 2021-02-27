@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 19°C.
-- Feels Like 17.33°C.
-- Air Visual is 87.
+- Feels Like 16.97°C.
+- Air Visual is 84.
 
 **WEATHER**
 
@@ -53,10 +53,9 @@
 - [![Bài Khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=B%C3%A0i%20Kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A0i%20Kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Cao Văn Triền](https://img.shields.io/static/v1?label=Cao%20V%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20V%C4%83n%20Tri%E1%BB%81n)
 - [![Diễn viên Thương Tín](https://img.shields.io/static/v1?label=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
-- [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
+- [![Giá xăng hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20h%C3%B4m%20nay)
 - [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
-- [![Mâm cơm cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=M%C3%A2m%20c%C6%A1m%20c%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A2m%20c%C6%A1m%20c%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Mạc Văn Khoa](https://img.shields.io/static/v1?label=M%E1%BA%A1c%20V%C4%83n%20Khoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BA%A1c%20V%C4%83n%20Khoa)
 - [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
@@ -64,6 +63,7 @@
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi K40](https://img.shields.io/static/v1?label=Redmi%20K40&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20K40)
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
+- [![Tai nạn đèo Bảo Lộc](https://img.shields.io/static/v1?label=Tai%20n%E1%BA%A1n%20%C4%91%C3%A8o%20B%E1%BA%A3o%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tai%20n%E1%BA%A1n%20%C4%91%C3%A8o%20B%E1%BA%A3o%20L%E1%BB%99c)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cặp tình nhân khai mua bán trẻ sơ sinh với giá hàng chục triệu đồng](https://cafebiz.vn/cap-tinh-nhan-khai-mua-ban-tre-so-sinh-voi-gia-hang-chuc-trieu-dong-20210227084315301.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xiaomi mở nhà máy lắp ráp điện thoại đầu tiên tại Việt Nam](https://cafebiz.vn/xiaomi-mo-nha-may-lap-rap-dien-thoai-dau-tien-tai-viet-nam-20210227083549537.chn) ([CafeBiz](https://cafebiz.vn))
-- [Victor Vũ có trở lại phong độ với “Thiên thần hộ mệnh”?](https://laodong.vn/van-hoa-giai-tri/victor-vu-co-tro-lai-phong-do-voi-thien-than-ho-menh-883991.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ chiếm đoạt 261 tỷ tiền hoàn thuế của Thuduc House: Tòa bỏ áp dụng biện pháp khẩn cấp](https://cafebiz.vn/vu-chiem-doat-261-ty-tien-hoan-thue-cua-thuduc-house-toa-bo-ap-dung-bien-phap-khan-cap-20210227083038725.chn) ([CafeBiz](https://cafebiz.vn))
-- [Có vaccin COVID-19 &quot;made in VN&quot; để y bác sĩ không phải biệt ly với gia đình](https://laodong.vn/video-thoi-su/co-vaccin-covid-19-made-in-vn-de-y-bac-si-khong-phai-biet-ly-voi-gia-dinh-883992.ldo) ([Lao Động](https://laodong.vn))
-- [Kỳ vọng sẽ chống được biến chủng SARS-CoV-2](https://laodong.vn/xa-hoi/ky-vong-se-chong-duoc-bien-chung-sars-cov-2-884002.ldo) ([Lao Động](https://laodong.vn))
-- [Gia đình công nhân chủ động phòng chống dịch khi con đi học trở lại](https://laodong.vn/cong-doan/gia-dinh-cong-nhan-chu-dong-phong-chong-dich-khi-con-di-hoc-tro-lai-883977.ldo) ([Lao Động](https://laodong.vn))
-- [Công đoàn Dệt may Việt Nam thăm các cơ sở y tế](https://laodong.vn/cong-doan/cong-doan-det-may-viet-nam-tham-cac-co-so-y-te-884042.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Thời tiết giảm nhiệt nhẹ nhưng chỉ số UV vẫn tiếp tục cao](https://laodong.vn/moi-truong/tphcm-thoi-tiet-giam-nhiet-nhe-nhung-chi-so-uv-van-tiep-tuc-cao-884046.ldo) ([Lao Động](https://laodong.vn))
-- [Ông vua dầu khí đất Mỹ và câu chuyện "bớt một giọt" nhưng đem lại lợi nhuận 500 triệu đô la: Cốt tử trong kinh doanh là nhạy bén tư duy!](https://cafebiz.vn/ong-vua-dau-khi-dat-my-va-cau-chuyen-bot-mot-giot-nhung-dem-lai-loi-nhuan-500-trieu-do-la-cot-tu-trong-kinh-doanh-la-nhay-ben-tu-duy-20210225190237539.chn) ([CafeBiz](https://cafebiz.vn))
+- [Các vaccine COVID-19 bất ngờ lộ diện ''điểm yếu'' đáng ngại](https://laodong.vn/the-gioi/cac-vaccine-covid-19-bat-ngo-lo-dien-diem-yeu-dang-ngai-884004.ldo) ([Lao Động](https://laodong.vn))
+- [Chính quyền ông Biden giải mật báo cáo tình báo vụ giết nhà báo Khashoggi](https://laodong.vn/the-gioi/chinh-quyen-ong-biden-giai-mat-bao-cao-tinh-bao-vu-giet-nha-bao-khashoggi-884047.ldo) ([Lao Động](https://laodong.vn))
+- [Bóng tối phía sau ngành công nghiệp anime tỷ USD của Nhật Bản](https://cafebiz.vn/bong-toi-phia-sau-nganh-cong-nghiep-anime-ty-usd-cua-nhat-ban-20210227084545842.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đồng loạt tăng hệ số lương cho giáo viên các cấp từ tháng 3/2021](https://cafebiz.vn/dong-loat-tang-he-so-luong-cho-giao-vien-cac-cap-tu-thang-3-2021-20210227091810908.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lý Hùng, Trịnh Kim Chi quyên góp hàng trăm triệu giúp nghệ sĩ Thương Tín](https://laodong.vn/van-hoa/ly-hung-trinh-kim-chi-quyen-gop-hang-tram-trieu-giup-nghe-si-thuong-tin-884050.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao thế giới dậy sóng cà phê Việt Nam?](https://cafebiz.vn/vi-sao-the-gioi-day-song-ca-phe-viet-nam-20210226214714389.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng: Bắt nhóm quái xế lạng lách đánh võng giữa phố trung tâm](https://laodong.vn/phap-luat/hai-phong-bat-nhom-quai-xe-lang-lach-danh-vong-giua-pho-trung-tam-884054.ldo) ([Lao Động](https://laodong.vn))
+- [Toàn bộ mẫu liên quan đến chùm 3 ca bệnh ở Hải Phòng có kết quả âm tính](https://laodong.vn/y-te/toan-bo-mau-lien-quan-den-chum-3-ca-benh-o-hai-phong-co-ket-qua-am-tinh-884049.ldo) ([Lao Động](https://laodong.vn))
+- [Đẩy nhanh thử nghiệm vắcxin nội, 35 ngày tới có thể sẽ chuyển sang giai đoạn 3](https://tuoitre.vn/day-nhanh-thu-nghiem-vacxin-noi-35-ngay-toi-co-the-se-chuyen-sang-giai-doan-3-2021022708133748.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tóc Tiên và nghệ sĩ có duyên ngành Y: Người là bác sĩ, người đạt loại giỏi](https://laodong.vn/van-hoa/toc-tien-va-nghe-si-co-duyen-nganh-y-nguoi-la-bac-si-nguoi-dat-loai-gioi-884044.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
