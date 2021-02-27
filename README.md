@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 17°C.
 - Feels Like 15.35°C.
-- Air Visual is 156.
+- Air Visual is 146.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Đăng tin cách tự chữa COVID-19, người phụ nữ bị xử phạt 7,5 triệu đồng](https://laodong.vn/phap-luat/dang-tin-cach-tu-chua-covid-19-nguoi-phu-nu-bi-xu-phat-75-trieu-dong-884192.ldo) ([Lao Động](https://laodong.vn))
+- [Bị nhiễm độc thủy ngân do tai nạn khi vẩy nhiệt kế](https://laodong.vn/suc-khoe/bi-nhiem-doc-thuy-ngan-do-tai-nan-khi-vay-nhiet-ke-884201.ldo) ([Lao Động](https://laodong.vn))
 - [Các ngôi sao CLB Hà Nội nói gì khi V.League 2021 trở lại?](https://laodong.vn/video/cac-ngoi-sao-clb-ha-noi-noi-gi-khi-vleague-2021-tro-lai-884113.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều 27-2: Thêm 6 ca mắc COVID-19 mới đều ở Hải Dương](https://tuoitre.vn/chieu-27-2-them-6-ca-mac-covid-19-moi-deu-o-hai-duong-20210227182208457.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thái Bình khởi công tuyến đường bộ gần 2.600 tỷ đồng](https://vnexpress.net/thai-binh-khoi-cong-tuyen-duong-bo-gan-2-600-ty-dong-4241114.html) ([VNExpress](https://vnexpress.net))
 - [Nhận định Man City - West Ham: Chờ đợi bất ngờ tại Etihad](https://laodong.vn/bong-da-quoc-te/nhan-dinh-man-city-west-ham-cho-doi-bat-ngo-tai-etihad-884189.ldo) ([Lao Động](https://laodong.vn))
 - [8 nhóm đối tượng được ưu tiên tiêm vaccine phòng COVID-19 miễn phí](https://laodong.vn/infographic/8-nhom-doi-tuong-duoc-uu-tien-tiem-vaccine-phong-covid-19-mien-phi-884031.ldo) ([Lao Động](https://laodong.vn))
-- [Ngày 27.2, Hải Dương ghi nhận 6 ca mới mắc COVID-19](https://laodong.vn/y-te/ngay-272-hai-duong-ghi-nhan-6-ca-moi-mac-covid-19-884196.ldo) ([Lao Động](https://laodong.vn))
 - [Trương Hinh Dư giờ thế nào sau ồn ào &quot;cạch mặt&quot; Phạm Băng Băng?](https://laodong.vn/photo/truong-hinh-du-gio-the-nao-sau-on-ao-cach-mat-pham-bang-bang-884120.ldo) ([Lao Động](https://laodong.vn))
 - [Đội bóng mới của Đặng Văn Lâm khởi đầu nhẹ nhàng tại J.League 1](https://laodong.vn/bong-da-quoc-te/doi-bong-moi-cua-dang-van-lam-khoi-dau-nhe-nhang-tai-jleague-1-884185.ldo) ([Lao Động](https://laodong.vn))
 - [Kiên Giang xét nghiệm cho cán bộ, chiến sĩ, nhân viên y tế trong các khu cách ly](https://tuoitre.vn/kien-giang-xet-nghiem-cho-can-bo-chien-si-nhan-vien-y-te-trong-cac-khu-cach-ly-20210227160732104.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Trò chuyện cùng bác sĩ Nguyễn Trung Cấp trong ngày thầy thuốc Việt Nam](https://laodong.vn/video/tro-chuyen-cung-bac-si-nguyen-trung-cap-trong-ngay-thay-thuoc-viet-nam-884118.ldo) ([Lao Động](https://laodong.vn))
-- [Chàng giáo viên &quot;gác lại bút nghiên&quot; tham gia nhập ngũ 2021](https://laodong.vn/video/chang-giao-vien-gac-lai-but-nghien-tham-gia-nhap-ngu-2021-884114.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
