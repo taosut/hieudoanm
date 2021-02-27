@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 18°C.
-- Feels Like 15.27°C.
-- Air Visual is 137.
+- Temperature is 17°C.
+- Feels Like 14.27°C.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -59,10 +59,10 @@
 - [![Lionel Messi](https://img.shields.io/static/v1?label=Lionel%20Messi&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lionel%20Messi)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
 - [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
+- [![Ngày 27/2](https://img.shields.io/static/v1?label=Ng%C3%A0y%2027/2&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%2027/2)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
-- [![Redmi K40](https://img.shields.io/static/v1?label=Redmi%20K40&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20K40)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Người dân giải cứu nông sản Hải Dương](https://vnexpress.net/nguoi-dan-giai-cuu-nong-san-hai-duong-4240952.html) ([VNExpress](https://vnexpress.net))
-- [Tăng giá vào ngày Black Friday, bán phân bò giá cao, bắt khách hàng góp tiền cho mình: Chiến lược điên rồ này giúp một công ty kiếm hàng đống tiền một cách kì lạ!](https://cafebiz.vn/tang-gia-vao-ngay-black-friday-ban-phan-bo-gia-cao-bat-khach-hang-gop-tien-cho-minh-chien-luoc-dien-ro-nay-giup-mot-cong-ty-kiem-hang-dong-tien-mot-cach-ki-la-20210227111759881.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thái Bình hợp long cầu Trà Lý II và khởi công đường TP Thái Bình - Cầu Nghìn](https://tuoitre.vn/thai-binh-hop-long-cau-tra-ly-ii-va-khoi-cong-duong-tp-thai-binh-cau-nghin-2021022715250482.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nông dân trồng mía Khánh Hòa loay hoay chuyển đổi cây trồng](https://laodong.vn/kinh-te/nong-dan-trong-mia-khanh-hoa-loay-hoay-chuyen-doi-cay-trong-884143.ldo) ([Lao Động](https://laodong.vn))
-- [Làng có 3.000 phụ nữ có chồng bị hổ giết ở Ấn Độ: Vì sao nghe rừng có "quỷ hổ" vẫn vào?](https://cafebiz.vn/lang-co-3000-phu-nu-co-chong-bi-ho-giet-o-an-do-vi-sao-nghe-rung-co-quy-ho-van-vao-20210227111322418.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xe tải tông ôtô đi lễ chùa, một người chết](https://vnexpress.net/xe-tai-tong-oto-di-le-chua-mot-nguoi-chet-4241077.html) ([VNExpress](https://vnexpress.net))
-- [Siêu thị tại Hà Lan bị doạ tẩy chay vì bán phở Việt “fake”: Trông chẳng khác gì mì trộn, sợi vàng như nghệ, ăn kèm sốt thịt gà](https://cafebiz.vn/sieu-thi-tai-ha-lan-bi-doa-tay-chay-vi-ban-pho-viet-fake-trong-chang-khac-gi-mi-tron-soi-vang-nhu-nghe-an-kem-sot-thit-ga-20210227105412558.chn) ([CafeBiz](https://cafebiz.vn))
-- [Các sao Việt vẫn giữ hạnh phúc dù chưa vội sinh con sau nhiều năm kết hôn](https://laodong.vn/gia-dinh-hon-nhan/cac-sao-viet-van-giu-hanh-phuc-du-chua-voi-sinh-con-sau-nhieu-nam-ket-hon-884137.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tục để được cấp thẻ căn cước công dân gắn chip](https://laodong.vn/phap-luat/thu-tuc-de-duoc-cap-the-can-cuoc-cong-dan-gan-chip-884131.ldo) ([Lao Động](https://laodong.vn))
-- [Tỷ giá ngoại tệ 27.2: USD chợ đen áp sát 24.000 đồng, cơ hội vàng đầu tư](https://laodong.vn/kinh-te/ty-gia-ngoai-te-272-usd-cho-den-ap-sat-24000-dong-co-hoi-vang-dau-tu-884145.ldo) ([Lao Động](https://laodong.vn))
+- [Khi nào cần thay dầu phanh xe ôtô?](https://laodong.vn/xe/khi-nao-can-thay-dau-phanh-xe-oto-884166.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ Chính trị gặp mặt các nguyên Ủy viên Bộ Chính trị, Ban Bí thư](https://laodong.vn/thoi-su/bo-chinh-tri-gap-mat-cac-nguyen-uy-vien-bo-chinh-tri-ban-bi-thu-884172.ldo) ([Lao Động](https://laodong.vn))
+- [Cán bộ phải kê khai tài sản theo quy định mới trước 31/3](https://vnexpress.net/can-bo-phai-ke-khai-tai-san-theo-quy-dinh-moi-truoc-31-3-4241044.html) ([VNExpress](https://vnexpress.net))
+- [Các tỷ phú thế giới đều có thói quen đơn giản này, bạn có thể dễ dàng học theo họ](https://cafebiz.vn/cac-ty-phu-the-gioi-deu-co-thoi-quen-don-gian-nay-ban-co-the-de-dang-hoc-theo-ho-20210214100252778.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kiên Giang: 13 trường hợp nhập cảnh qua cửa khẩu nghi nhiễm COVID-19](https://laodong.vn/xa-hoi/kien-giang-13-truong-hop-nhap-canh-qua-cua-khau-nghi-nhiem-covid-19-884170.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương: Mỗi nơi làm việc phải có phòng cách ly tạm thời](https://laodong.vn/xa-hoi/hai-duong-moi-noi-lam-viec-phai-co-phong-cach-ly-tam-thoi-884168.ldo) ([Lao Động](https://laodong.vn))
+- [Đột quỵ rất nguy hiểm đến tính mạng: 6 giải pháp để ngăn chặn đột quỵ tấn công](https://cafebiz.vn/dot-quy-rat-nguy-hiem-den-tinh-mang-6-giai-phap-de-ngan-chan-dot-quy-tan-cong-20210227130934815.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắt quả tang 30 đối tượng đánh bạc ở Quảng Nam](https://laodong.vn/phap-luat/bat-qua-tang-30-doi-tuong-danh-bac-o-quang-nam-884164.ldo) ([Lao Động](https://laodong.vn))
+- [8 hộ trồng cây anh túc trong vườn để 'làm rau ăn', 'nuôi lợn'](https://tuoitre.vn/8-ho-trong-cay-anh-tuc-trong-vuon-de-lam-rau-an-nuoi-lon-20210227154819215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bạn lên kế hoạch tự do tài chính và nghỉ hưu sớm: Sự thật tàn khốc là tạo thu nhập thụ động không hề dễ, trong khi chúng ta luôn có một lựa chọn dễ làm hơn - tiết kiệm!](https://cafebiz.vn/ban-len-ke-hoach-tu-do-tai-chinh-va-nghi-huu-som-su-that-tan-khoc-la-tao-thu-nhap-thu-dong-khong-he-de-trong-khi-chung-ta-luon-co-mot-lua-chon-de-lam-hon-tiet-kiem-20210220115544129.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -118,9 +118,9 @@
 03. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 04. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 05. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-06. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
-07. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
-08. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+06. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+07. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
+08. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
 09. [Alan Walker, salem ilese - Fake A Smile (Lyrics)](https://www.youtube.com/watch?v=eAmluGnsTlo) - [Unique Vibes](https://www.youtube.com/channel/UCn7Z0uhzGS1KjnO-sWml_dw)
 10. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 
@@ -134,10 +134,10 @@
 02. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 03. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
 04. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
-05. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-06. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
+05. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+06. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 07. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
-08. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+08. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 09. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 10. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 
