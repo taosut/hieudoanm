@@ -224,7 +224,7 @@ export const writeToMD = async (
 
   const mdPath: string = `../docs/stacks/${filename}.md`;
   const mdData: string = [
-    `# ${h1}\n`,
+    `# ${h1} (${repositories.length})\n`,
     `${languagesSection}\n`,
     `${tableSections}`,
     `${operatingSystemsSection}\n`,

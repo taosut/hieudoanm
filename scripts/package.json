@@ -10,6 +10,7 @@
   "scripts": {
     "start": "node sync.js",
     "sync": "ts-node sync.ts",
+    "sync:stacks": "ts-node sync-stacks.ts",
     "sync:stock": "ts-node sync-stock.ts",
     "sync:readme": "ts-node sync-readme.ts",
     "build": "tsc"
