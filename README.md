@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 19°C.
-- Feels Like 16.97°C.
-- Air Visual is 80.
+- Feels Like 16.61°C.
+- Air Visual is 84.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Netflix cho phép người xem tương tác trực tiếp, tự vẽ diễn biến bộ phim, vừa xem vừa làm đạo diễn, sao không thử?](https://cafebiz.vn/netflix-cho-phep-nguoi-xem-tuong-tac-truc-tiep-tu-ve-dien-bien-bo-phim-vua-xem-vua-lam-dao-dien-sao-khong-thu-20210227104630519.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tân binh lên đường nhập ngũ trong Covid-19](https://vnexpress.net/tan-binh-len-duong-nhap-ngu-trong-covid-19-4240970.html) ([VNExpress](https://vnexpress.net))
-- [Biệt thự 7 tầng của đại gia ngành sắt Việt giàu lên từ thu mua sắt vụn: Độ hoành tráng sánh ngang lâu đài, tổng giá trị cỡ 300 tỷ](https://cafebiz.vn/biet-thu-7-tang-cua-dai-gia-nganh-sat-viet-giau-len-tu-thu-mua-sat-vun-do-hoanh-trang-sanh-ngang-lau-dai-tong-gia-tri-co-300-ty-20210227104508366.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nga: Mỹ chỉ cảnh báo trước vài phút vụ không kích Syria](https://laodong.vn/the-gioi/nga-my-chi-canh-bao-truoc-vai-phut-vu-khong-kich-syria-884067.ldo) ([Lao Động](https://laodong.vn))
-- [Bí thư Hà Nội dự ngày hội giao, nhận quân năm 2021 tại huyện Đông Anh](https://laodong.vn/thoi-su/bi-thu-ha-noi-du-ngay-hoi-giao-nhan-quan-nam-2021-tai-huyen-dong-anh-884059.ldo) ([Lao Động](https://laodong.vn))
-- [Tuyên Quang: Sẵn sàng ngày hội giao nhận quân](https://laodong.vn/xa-hoi/tuyen-quang-san-sang-ngay-hoi-giao-nhan-quan-884069.ldo) ([Lao Động](https://laodong.vn))
-- [Những trường hợp bắt đầu được hưởng lương hưu theo quy định mới nhất](https://laodong.vn/cong-doan/nhung-truong-hop-bat-dau-duoc-huong-luong-huu-theo-quy-dinh-moi-nhat-884077.ldo) ([Lao Động](https://laodong.vn))
-- [Giới nhà giàu Hàn Quốc mạnh tay chi hơn 2.000 USD cho dịch vụ "cách ly chơi golf": 14 ngày trôi qua tựa như thiên đường](https://cafebiz.vn/gioi-nha-giau-han-quoc-manh-tay-chi-hon-2000-usd-cho-dich-vu-cach-ly-choi-golf-14-ngay-troi-qua-tua-nhu-thien-duong-20210227100443552.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hoa hậu Ngọc Hân: Cặm cụi bán áo dài cả ngày kiếm vài trăm tới vài triệu, rất nhỏ so với cát-xê hàng ngàn đô một giờ đi sự kiện…](https://cafebiz.vn/hoa-hau-ngoc-han-cam-cui-ban-ao-dai-ca-ngay-kiem-vai-tram-toi-vai-trieu-rat-nho-so-voi-cat-xe-hang-ngan-do-mot-gio-di-su-kien-20210227102149495.chn) ([CafeBiz](https://cafebiz.vn))
-- [&quot;Bác sĩ Việt Nam may mắn vì luôn đủ trang thiết bị phòng tránh COVID-19&quot;](https://laodong.vn/emagazine/bac-si-viet-nam-may-man-vi-luon-du-trang-thiet-bi-phong-tranh-covid-19-883724.ldo) ([Lao Động](https://laodong.vn))
+- [Kéo dài thời gian giữa hai liều vaccine COVID-19 liệu có hiệu quả hơn?](https://laodong.vn/the-gioi/keo-dai-thoi-gian-giua-hai-lieu-vaccine-covid-19-lieu-co-hieu-qua-hon-884092.ldo) ([Lao Động](https://laodong.vn))
+- [Cận cảnh sân Quy Nhơn đã hoàn thiện chờ ngày Bình Định thi đấu](https://laodong.vn/photo/can-canh-san-quy-nhon-da-hoan-thien-cho-ngay-binh-dinh-thi-dau-884053.ldo) ([Lao Động](https://laodong.vn))
+- [Nhận định Sevilla - Barcelona: “Trận chung kết thứ nhất”](https://laodong.vn/bong-da-quoc-te/nhan-dinh-sevilla-barcelona-tran-chung-ket-thu-nhat-884083.ldo) ([Lao Động](https://laodong.vn))
+- [Hơn 1.000 người dập đám cháy rừng](https://vnexpress.net/hon-1-000-nguoi-dap-dam-chay-rung-4240986.html) ([VNExpress](https://vnexpress.net))
+- [Truy tìm người đàn ông bỏ chạy khi đi cùng 7 người Trung Quốc nhập cảnh trái phép](https://cafebiz.vn/truy-tim-nguoi-dan-ong-bo-chay-khi-di-cung-7-nguoi-trung-quoc-nhap-canh-trai-phep-20210227111559256.chn) ([CafeBiz](https://cafebiz.vn))
+- [CHÍNH THỨC: Hà Nội chốt thời gian quay trở lại trường của học sinh, sinh viên](https://cafebiz.vn/chinh-thuc-ha-noi-chot-thoi-gian-quay-tro-lai-truong-cua-hoc-sinh-sinh-vien-20210227111504086.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tuổi trẻ Cần Thơ: Ra quân vớt rác, làm cỏ, vệ sinh môi trường](https://laodong.vn/photo/tuoi-tre-can-tho-ra-quan-vot-rac-lam-co-ve-sinh-moi-truong-884055.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Học sinh chính thức trở lại trường học tập từ ngày 2.3](https://laodong.vn/xa-hoi/ha-noi-hoc-sinh-chinh-thuc-tro-lai-truong-hoc-tap-tu-ngay-23-884093.ldo) ([Lao Động](https://laodong.vn))
+- [3.500 thanh niên ưu tú Hà Nội lên đường tòng quân năm 2021](https://laodong.vn/photo/3500-thanh-nien-uu-tu-ha-noi-len-duong-tong-quan-nam-2021-884073.ldo) ([Lao Động](https://laodong.vn))
+- [Hyundai triệu hồi 82.000 ô tô điện: Vụ triệu hồi tốn kém nhất lịch sử](https://cafebiz.vn/hyundai-trieu-hoi-82000-o-to-dien-vu-trieu-hoi-ton-kem-nhat-lich-su-20210227102217559.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
