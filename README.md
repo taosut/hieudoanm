@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 17°C.
 - Feels Like 15.39°C.
-- Air Visual is 158.
+- Air Visual is 154.
 
 **WEATHER**
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Hãng hàng không Qantas thử nghiệm “hộ chiếu Covid-19” cho chặng bay quốc tế](https://cafebiz.vn/hang-hang-khong-qantas-thu-nghiem-ho-chieu-covid-19-cho-chang-bay-quoc-te-20210227195307999.chn) ([CafeBiz](https://cafebiz.vn))
 - [2,34 tỷ USD đổ vào khu công nghiệp, khu kinh tế trong 2 tháng đầu năm](https://cafebiz.vn/234-ty-usd-do-vao-khu-cong-nghiep-khu-kinh-te-trong-2-thang-dau-nam-20210227194622036.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ghế máy bay biến thành giường ngủ "siêu to khổng lồ" trên bầu trời](https://cafebiz.vn/ghe-may-bay-bien-thanh-giuong-ngu-sieu-to-khong-lo-tren-bau-troi-20210227195850882.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bố trí phòng ngủ nhỏ vừa rộng vừa cá tính](https://laodong.vn/bat-dong-san/bo-tri-phong-ngu-nho-vua-rong-vua-ca-tinh-883969.ldo) ([Lao Động](https://laodong.vn))
@@ -84,7 +85,6 @@
 - [Bí quyết để vừa có 1 cơ thể khỏe mạnh, vừa có thể khắc phục thói lười biếng](https://laodong.vn/suc-khoe/bi-quyet-de-vua-co-1-co-the-khoe-manh-vua-co-the-khac-phuc-thoi-luoi-bieng-884211.ldo) ([Lao Động](https://laodong.vn))
 - [Khám phá những mẫu điện thoại Android ưu việt phù hợp năm 2021](https://laodong.vn/cong-nghe/kham-pha-nhung-mau-dien-thoai-android-uu-viet-phu-hop-nam-2021-884224.ldo) ([Lao Động](https://laodong.vn))
 - [Ngành du lịch sẽ “thay da đổi thịt” ra sao khi đại dịch kết thúc?](https://cafebiz.vn/nganh-du-lich-se-thay-da-doi-thit-ra-sao-khi-dai-dich-ket-thuc-20210227193047499.chn) ([CafeBiz](https://cafebiz.vn))
-- [Gần 1.000 tân binh tham gia nghĩa vụ công an](https://vnexpress.net/gan-1-000-tan-binh-tham-gia-nghia-vu-cong-an-4241137.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
