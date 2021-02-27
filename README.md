@@ -21,7 +21,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 19°C.
-- Feels Like 16.61°C.
+- Feels Like 16.25°C.
 - Air Visual is 83.
 
 **WEATHER**
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Sân bay trên giấy, giá đất ảo và kinh doanh &quot;cướp đoạt&quot;](https://laodong.vn/su-kien-binh-luan/san-bay-tren-giay-gia-dat-ao-va-kinh-doanh-cuop-doat-884068.ldo) ([Lao Động](https://laodong.vn))
-- [OPPO Reno5 5G chính thức ra mắt tại Việt Nam với giá 11.9 triệu đồng](https://cafebiz.vn/oppo-reno5-5g-chinh-thuc-ra-mat-tai-viet-nam-voi-gia-119-trieu-dong-20210227120615416.chn) ([CafeBiz](https://cafebiz.vn))
-- [An Giang: Phát hiện 02 điểm tập hàng hóa nghi nhập lậu số lượng khủng](https://laodong.vn/phap-luat/an-giang-phat-hien-02-diem-tap-hang-hoa-nghi-nhap-lau-so-luong-khung-884099.ldo) ([Lao Động](https://laodong.vn))
-- [Ngày thầy thuốc Việt Nam: Các y bác sỹ vẫn quay cuồng với các ca mổ cấp cứu](https://laodong.vn/video/ngay-thay-thuoc-viet-nam-cac-y-bac-sy-van-quay-cuong-voi-cac-ca-mo-cap-cuu-884097.ldo) ([Lao Động](https://laodong.vn))
-- [6 dấu hiệu chứng tỏ bạn sắp giàu: "Có khả năng tiết kiệm" đứng đầu bảng!](https://cafebiz.vn/6-dau-hieu-chung-to-ban-sap-giau-co-kha-nang-tiet-kiem-dung-dau-bang-20210227111942432.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lãnh đạo Tổng LĐLĐVN chúc mừng đội ngũ cán bộ ngành y tế](https://laodong.vn/cd-y-te/lanh-dao-tong-ldldvn-chuc-mung-doi-ngu-can-bo-nganh-y-te-884094.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất quyết thủ tục đầu tư dự án nhà ở thương mại tại TP.HCM trong 11 tháng](https://tuoitre.vn/de-xuat-quyet-thu-tuc-dau-tu-du-an-nha-o-thuong-mai-tai-tphcm-trong-11-thang-20210227092146986.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Loạt ô tô 'bom tấn' ra mắt tại Việt Nam trong năm nay: Xe Hàn tiếp tục chiếm sóng](https://cafebiz.vn/loat-o-to-bom-tan-ra-mat-tai-viet-nam-trong-nam-nay-xe-han-tiep-tuc-chiem-song-20210227102444043.chn) ([CafeBiz](https://cafebiz.vn))
-- [TP.HCM 'xin đường' cho xe buýt mini](https://tuoitre.vn/tphcm-xin-duong-cho-xe-buyt-mini-20210227084332249.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Kéo dài thời gian giữa hai liều vaccine COVID-19 liệu có hiệu quả hơn?](https://laodong.vn/the-gioi/keo-dai-thoi-gian-giua-hai-lieu-vaccine-covid-19-lieu-co-hieu-qua-hon-884092.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
