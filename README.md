@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is mist.
 - Temperature is 16°C.
-- Feels Like 15.11°C.
-- Air Visual is 146.
+- Feels Like 15.46°C.
+- Air Visual is 102.
 
 **WEATHER**
 
@@ -52,6 +52,7 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Cao văn Triền](https://img.shields.io/static/v1?label=Cao%20v%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20v%C4%83n%20Tri%E1%BB%81n)
 - [![Cuôc chiến thượng lưu](https://img.shields.io/static/v1?label=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u)
+- [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![MC](https://img.shields.io/static/v1?label=MC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MC)
@@ -64,7 +65,6 @@
 - [![Ngô Mạnh Đạt](https://img.shields.io/static/v1?label=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
-- [![Thuong tin](https://img.shields.io/static/v1?label=Thuong%20tin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thuong%20tin)
 - [![Thương Tín](https://img.shields.io/static/v1?label=Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 - [![Đồng Tháp](https://img.shields.io/static/v1?label=%C4%90%E1%BB%93ng%20Th%C3%A1p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BB%93ng%20Th%C3%A1p)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Sáng 28.2: Chưa ghi nhận ca mắc COVID-19 mới](https://laodong.vn/y-te/sang-282-chua-ghi-nhan-ca-mac-covid-19-moi-884225.ldo) ([Lao Động](https://laodong.vn))
+- [Sáng nay 28-2 không ghi nhận ca bệnh COVID-19 mới, bệnh nhân nặng nhất tiến triển tích cực](https://tuoitre.vn/sang-nay-28-2-khong-ghi-nhan-ca-benh-covid-19-moi-benh-nhan-nang-nhat-tien-trien-tich-cuc-20210228062630905.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nắm vững 25 phím tắt Macbook này để làm việc nhanh hơn](https://laodong.vn/cong-nghe/nam-vung-25-phim-tat-macbook-nay-de-lam-viec-nhanh-hon-884231.ldo) ([Lao Động](https://laodong.vn))
 - [Tiếng ồn karaoke, nỗ lực của TP.HCM và việc ca hát văn minh](http://vietnamnet.vn/vn/thoi-su/tieng-on-karaoke-no-luc-cua-tp-hcm-va-viec-ca-hat-van-minh-715882.html) ([VietNamNet](https://vietnamnet.vn))
 - [Dự báo thời tiết ngày 28/2: Bắc Bộ tiếp chuỗi ngày mưa rét, Nam Bộ nắng](http://vietnamnet.vn/vn/thoi-su/du-bao-thoi-tiet-ngay-28-2-bac-bo-tiep-chuoi-ngay-mua-ret-nam-bo-nang-716006.html) ([VietNamNet](https://vietnamnet.vn))
 - [Nông dân Gia Lai tưới cà phê ngày lẫn đêm](https://vnexpress.net/nong-dan-gia-lai-tuoi-ca-phe-ngay-lan-dem-4238754.html) ([VNExpress](https://vnexpress.net))
 - [Chính sách mới về tiền lương của quân đội được áp dụng từ tháng 3](http://vietnamnet.vn/vn/thoi-su/quoc-phong/chinh-sach-moi-ve-tien-luong-cua-quan-doi-duoc-ap-dung-tu-thang-3-714715.html) ([VietNamNet](https://vietnamnet.vn))
 - [Covid-19 ngày 28/2](https://vnexpress.net/covid-19-ngay-28-2-4241172.html) ([VNExpress](https://vnexpress.net))
 - [Hot: MUJI âm thầm căng bạt đỏ tại Vincom Center Metropolis, ngày khai trương tại Hà Nội chẳng còn xa](https://cafebiz.vn/hot-muji-am-tham-cang-bat-do-tai-vincom-center-metropolis-ngay-khai-truong-tai-ha-noi-chang-con-xa-20210227235106278.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuyên gia kinh tế nói về triển vọng kiểm soát lạm phát năm 2021](https://laodong.vn/kinh-te/chuyen-gia-kinh-te-noi-ve-trien-vong-kiem-soat-lam-phat-nam-2021-884230.ldo) ([Lao Động](https://laodong.vn))
 - [Chia sẻ: Trải nghiệm lái xe với dẫn đường bằng AR (thực tế ảo tăng cường) ở Hàn Quốc](https://tinhte.vn/thread/chia-se-trai-nghiem-lai-xe-voi-dan-duong-bang-ar-thuc-te-ao-tang-cuong-o-han-quoc.3284090/) ([Tinh Tế](https://tinhte.vn))
-- [Chuyện ở Bắc Hàn: Nhân viên ngoại giao Nga đi xe đẩy theo đường xe lửa để về nước](https://tinhte.vn/thread/chuyen-o-bac-han-nhan-vien-ngoai-giao-nga-di-xe-day-theo-duong-xe-lua-de-ve-nuoc.3283696/) ([Tinh Tế](https://tinhte.vn))
-- [Đầu tư chứng khoán và những điều cơ bản nhất để bắt đầu](https://tinhte.vn/thread/dau-tu-chung-khoan-va-nhung-dieu-co-ban-nhat-de-bat-dau.3268970/) ([Tinh Tế](https://tinhte.vn))
 
 [Read More](docs/news/README.md)
 
@@ -133,8 +133,8 @@
 01. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 03. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
-04. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-05. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+04. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+05. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 06. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 07. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 08. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
