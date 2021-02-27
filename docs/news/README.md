@@ -1,10 +1,11 @@
 # News
 
+- [Nông dân Gia Lai tưới cà phê ngày lẫn đêm](https://vnexpress.net/nong-dan-gia-lai-tuoi-ca-phe-ngay-lan-dem-4238754.html) ([VNExpress](https://vnexpress.net))
 - [Covid-19 ngày 28/2](https://vnexpress.net/covid-19-ngay-28-2-4241172.html) ([VNExpress](https://vnexpress.net))
 - [Hot: MUJI âm thầm căng bạt đỏ tại Vincom Center Metropolis, ngày khai trương tại Hà Nội chẳng còn xa](https://cafebiz.vn/hot-muji-am-tham-cang-bat-do-tai-vincom-center-metropolis-ngay-khai-truong-tai-ha-noi-chang-con-xa-20210227235106278.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chuyên gia kinh tế nói về triển vọng kiểm soát lạm phát năm 2021](https://laodong.vn/kinh-te/chuyen-gia-kinh-te-noi-ve-trien-vong-kiem-soat-lam-phat-nam-2021-884230.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương giải thể Bệnh viện dã chiến số 1 ở tâm dịch COVID-19](https://tuoitre.vn/hai-duong-giai-the-benh-vien-da-chien-so-1-o-tam-dich-covid-19-20210227220013906.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Review Audi S7 Sportback 4.0 TFSI Quattro 2015 540HP](https://tinhte.vn/thread/review-audi-s7-sportback-4-0-tfsi-quattro-2015-540hp.3283917/) ([Tinh Tế](https://tinhte.vn))
+- [Hải Dương giải thể Bệnh viện dã chiến số 1 ở tâm dịch COVID-19](https://tuoitre.vn/hai-duong-giai-the-benh-vien-da-chien-so-1-o-tam-dich-covid-19-20210227220013906.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thắng dễ dàng West Ham, Man City giữ vững ngôi đầu Premier League](https://laodong.vn/bong-da-quoc-te/thang-de-dang-west-ham-man-city-giu-vung-ngoi-dau-premier-league-884229.ldo) ([Lao Động](https://laodong.vn))
 - [Hãng hàng không Qantas thử nghiệm “hộ chiếu Covid-19” cho chặng bay quốc tế](https://cafebiz.vn/hang-hang-khong-qantas-thu-nghiem-ho-chieu-covid-19-cho-chang-bay-quoc-te-20210227195307999.chn) ([CafeBiz](https://cafebiz.vn))
 - [2,34 tỷ USD đổ vào khu công nghiệp, khu kinh tế trong 2 tháng đầu năm](https://cafebiz.vn/234-ty-usd-do-vao-khu-cong-nghiep-khu-kinh-te-trong-2-thang-dau-nam-20210227194622036.chn) ([CafeBiz](https://cafebiz.vn))
@@ -99,4 +100,3 @@
 - [Kiên Giang: 13 trường hợp nhập cảnh cho kết quả xét nghiệm Covid-19 chưa rõ ràng](https://thanhnien.vn/thoi-su/kien-giang-13-truong-hop-nhap-canh-cho-ket-qua-xet-nghiem-covid-19-chua-ro-rang-1347343.html) ([Thanh Niên](https://thanhnien.vn))
 - [OPPO Reno5 5G chính thức ra mắt tại Việt Nam với giá 11.9 triệu đồng](https://cafebiz.vn/oppo-reno5-5g-chinh-thuc-ra-mat-tai-viet-nam-voi-gia-119-trieu-dong-20210227120615416.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cảm ơn cô điều dưỡng lấy máu xét nghiệm ở Bệnh viện Hòa Hảo](https://tuoitre.vn/cam-on-co-dieu-duong-lay-mau-xet-nghiem-o-benh-vien-hoa-hao-20210226171339912.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [6 dấu hiệu chứng tỏ bạn sắp giàu: "Có khả năng tiết kiệm" đứng đầu bảng!](https://cafebiz.vn/6-dau-hieu-chung-to-ban-sap-giau-co-kha-nang-tiet-kiem-dung-dau-bang-20210227111942432.chn) ([CafeBiz](https://cafebiz.vn))

@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 16°C.
-- Feels Like 15.11°C.
-- Air Visual is 122.
+- Feels Like 15.46°C.
+- Air Visual is 127.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nông dân Gia Lai tưới cà phê ngày lẫn đêm](https://vnexpress.net/nong-dan-gia-lai-tuoi-ca-phe-ngay-lan-dem-4238754.html) ([VNExpress](https://vnexpress.net))
 - [Covid-19 ngày 28/2](https://vnexpress.net/covid-19-ngay-28-2-4241172.html) ([VNExpress](https://vnexpress.net))
 - [Hot: MUJI âm thầm căng bạt đỏ tại Vincom Center Metropolis, ngày khai trương tại Hà Nội chẳng còn xa](https://cafebiz.vn/hot-muji-am-tham-cang-bat-do-tai-vincom-center-metropolis-ngay-khai-truong-tai-ha-noi-chang-con-xa-20210227235106278.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chuyên gia kinh tế nói về triển vọng kiểm soát lạm phát năm 2021](https://laodong.vn/kinh-te/chuyen-gia-kinh-te-noi-ve-trien-vong-kiem-soat-lam-phat-nam-2021-884230.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương giải thể Bệnh viện dã chiến số 1 ở tâm dịch COVID-19](https://tuoitre.vn/hai-duong-giai-the-benh-vien-da-chien-so-1-o-tam-dich-covid-19-20210227220013906.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Review Audi S7 Sportback 4.0 TFSI Quattro 2015 540HP](https://tinhte.vn/thread/review-audi-s7-sportback-4-0-tfsi-quattro-2015-540hp.3283917/) ([Tinh Tế](https://tinhte.vn))
+- [Hải Dương giải thể Bệnh viện dã chiến số 1 ở tâm dịch COVID-19](https://tuoitre.vn/hai-duong-giai-the-benh-vien-da-chien-so-1-o-tam-dich-covid-19-20210227220013906.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thắng dễ dàng West Ham, Man City giữ vững ngôi đầu Premier League](https://laodong.vn/bong-da-quoc-te/thang-de-dang-west-ham-man-city-giu-vung-ngoi-dau-premier-league-884229.ldo) ([Lao Động](https://laodong.vn))
 - [Hãng hàng không Qantas thử nghiệm “hộ chiếu Covid-19” cho chặng bay quốc tế](https://cafebiz.vn/hang-hang-khong-qantas-thu-nghiem-ho-chieu-covid-19-cho-chang-bay-quoc-te-20210227195307999.chn) ([CafeBiz](https://cafebiz.vn))
 - [2,34 tỷ USD đổ vào khu công nghiệp, khu kinh tế trong 2 tháng đầu năm](https://cafebiz.vn/234-ty-usd-do-vao-khu-cong-nghiep-khu-kinh-te-trong-2-thang-dau-nam-20210227194622036.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ghế máy bay biến thành giường ngủ "siêu to khổng lồ" trên bầu trời](https://cafebiz.vn/ghe-may-bay-bien-thanh-giuong-ngu-sieu-to-khong-lo-tren-bau-troi-20210227195850882.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bố trí phòng ngủ nhỏ vừa rộng vừa cá tính](https://laodong.vn/bat-dong-san/bo-tri-phong-ngu-nho-vua-rong-vua-ca-tinh-883969.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
