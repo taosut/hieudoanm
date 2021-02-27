@@ -16,7 +16,7 @@
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
 |1|[<img src="https://img.shields.io/badge/-homebrew-000?style=flat&logo=homebrew" alt="homebrew" />](https://github.com/Homebrew/homebrew-core) | ruby | 8,911 | 265 | 9,000 | 18,176|
 |2|[<img src="https://img.shields.io/badge/-npm-000?style=flat&logo=npm" alt="npm" />](https://github.com/npm/cli) | javascript | 4,136 | 156 | 1,111 | 5,403|
-|3|[<img src="https://img.shields.io/badge/-yarn-000?style=flat&logo=yarn" alt="yarn" />](https://github.com/yarnpkg/berry) | typescript | 2,952 | 44 | 383 | 3,379|
+|3|[<img src="https://img.shields.io/badge/-yarn-000?style=flat&logo=yarn" alt="yarn" />](https://github.com/yarnpkg/berry) | typescript | 2,953 | 44 | 383 | 3,380|
 
 ## RUNTIME
 
@@ -62,14 +62,14 @@
 |1|[<img src="https://img.shields.io/badge/-elasticsearch-000?style=flat&logo=elasticsearch" alt="elasticsearch" />](https://github.com/elastic/elasticsearch) | java | 53,859 | 2,782 | 19,302 | 75,943|
 |2|[<img src="https://img.shields.io/badge/-redis-000?style=flat&logo=redis" alt="redis" />](https://github.com/redis/redis) | c | 47,615 | 2,711 | 18,849 | 69,175|
 |3|[<img src="https://img.shields.io/badge/-mongodb-000?style=flat&logo=mongodb" alt="mongodb" />](https://github.com/mongodb/mongo) | c++ | 19,349 | 1,239 | 4,729 | 25,317|
-|4|[<img src="https://img.shields.io/badge/-postgresql-000?style=flat&logo=postgresql" alt="postgresql" />](https://github.com/postgres/postgres) | c | 7,970 | 476 | 2,610 | 11,056|
+|4|[<img src="https://img.shields.io/badge/-postgresql-000?style=flat&logo=postgresql" alt="postgresql" />](https://github.com/postgres/postgres) | c | 7,969 | 476 | 2,610 | 11,055|
 
 ## DEVOPS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
 |1|[<img src="https://img.shields.io/badge/-visualstudiocode-000?style=flat&logo=visual-studio-code" alt="visual-studio-code" />](https://github.com/microsoft/vscode) | typescript | 111,666 | 3,079 | 18,148 | 132,893|
-|2|[<img src="https://img.shields.io/badge/-git-000?style=flat&logo=git" alt="git" />](https://github.com/git/git) | c | 36,069 | 2,276 | 20,960 | 59,305|
+|2|[<img src="https://img.shields.io/badge/-git-000?style=flat&logo=git" alt="git" />](https://github.com/git/git) | c | 36,069 | 2,276 | 20,961 | 59,306|
 |3|[<img src="https://img.shields.io/badge/-dockercompose-000?style=flat&logo=docker-compose" alt="docker-compose" />](https://github.com/docker/compose) | python | 21,956 | 690 | 3,647 | 26,293|
 |4|[<img src="https://img.shields.io/badge/-docker-000?style=flat&logo=docker" alt="docker" />](https://github.com/jenkinsci/docker) | shell | 4,190 | 303 | 3,131 | 7,624|
 

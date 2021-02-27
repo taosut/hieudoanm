@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Hải Dương giải thể Bệnh viện dã chiến số 1 ở tâm dịch COVID-19](https://tuoitre.vn/hai-duong-giai-the-benh-vien-da-chien-so-1-o-tam-dich-covid-19-20210227220013906.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thắng dễ dàng West Ham, Man City giữ vững ngôi đầu Premier League](https://laodong.vn/bong-da-quoc-te/thang-de-dang-west-ham-man-city-giu-vung-ngoi-dau-premier-league-884229.ldo) ([Lao Động](https://laodong.vn))
+- [Hãng hàng không Qantas thử nghiệm “hộ chiếu Covid-19” cho chặng bay quốc tế](https://cafebiz.vn/hang-hang-khong-qantas-thu-nghiem-ho-chieu-covid-19-cho-chang-bay-quoc-te-20210227195307999.chn) ([CafeBiz](https://cafebiz.vn))
+- [2,34 tỷ USD đổ vào khu công nghiệp, khu kinh tế trong 2 tháng đầu năm](https://cafebiz.vn/234-ty-usd-do-vao-khu-cong-nghiep-khu-kinh-te-trong-2-thang-dau-nam-20210227194622036.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ghế máy bay biến thành giường ngủ "siêu to khổng lồ" trên bầu trời](https://cafebiz.vn/ghe-may-bay-bien-thanh-giuong-ngu-sieu-to-khong-lo-tren-bau-troi-20210227195850882.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bố trí phòng ngủ nhỏ vừa rộng vừa cá tính](https://laodong.vn/bat-dong-san/bo-tri-phong-ngu-nho-vua-rong-vua-ca-tinh-883969.ldo) ([Lao Động](https://laodong.vn))
+- [Va chạm với xe bus, nam sinh lớp 10 ở Sơn La bị thương nặng](https://laodong.vn/xa-hoi/va-cham-voi-xe-bus-nam-sinh-lop-10-o-son-la-bi-thuong-nang-884227.ldo) ([Lao Động](https://laodong.vn))
+- [Mặt tiền đắc địa cho thuê ở TP HCM giảm giá 30% vẫn ế!](https://cafebiz.vn/mat-tien-dac-dia-cho-thue-o-tp-hcm-giam-gia-30-van-e-20210227190124094.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nóng nhất hôm nay: Tượng vàng ông Trump mặc quần soóc gây chú ý](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-tuong-vang-ong-trump-mac-quan-sooc-gay-chu-y-884180.ldo) ([Lao Động](https://laodong.vn))
+- [Bí quyết để vừa có 1 cơ thể khỏe mạnh, vừa có thể khắc phục thói lười biếng](https://laodong.vn/suc-khoe/bi-quyet-de-vua-co-1-co-the-khoe-manh-vua-co-the-khac-phuc-thoi-luoi-bieng-884211.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -127,8 +136,8 @@
 04. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
 05. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 06. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-07. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
-08. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
+07. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
+08. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 09. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 10. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
 
