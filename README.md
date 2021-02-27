@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 19°C.
-- Feels Like 17.32°C.
-- Air Visual is 31.
+- Feels Like 16.97°C.
+- Air Visual is 80.
 
 **WEATHER**
 
@@ -54,17 +54,17 @@
 - [![Giá xăng hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20h%C3%B4m%20nay)
 - [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
-- [![Mâm cơm cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=M%C3%A2m%20c%C6%A1m%20c%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A2m%20c%C6%A1m%20c%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Mạc Văn Khoa](https://img.shields.io/static/v1?label=M%E1%BA%A1c%20V%C4%83n%20Khoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BA%A1c%20V%C4%83n%20Khoa)
 - [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
+- [![Ngày 27/2](https://img.shields.io/static/v1?label=Ng%C3%A0y%2027/2&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%2027/2)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi K40](https://img.shields.io/static/v1?label=Redmi%20K40&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20K40)
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
-- [![Tai nạn đèo Bảo Lộc](https://img.shields.io/static/v1?label=Tai%20n%E1%BA%A1n%20%C4%91%C3%A8o%20B%E1%BA%A3o%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tai%20n%E1%BA%A1n%20%C4%91%C3%A8o%20B%E1%BA%A3o%20L%E1%BB%99c)
 - [![Thương Tín](https://img.shields.io/static/v1?label=Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
+- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 - [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tin bóng đá sáng 27.2: David Moyes lên tiếng về tương lai](https://laodong.vn/bong-da-quoc-te/tin-bong-da-sang-272-david-moyes-len-tieng-ve-tuong-lai-884057.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng và ngoại tệ 27.2: Giá vàng chìm sâu, nguy cơ tụt dốc không phanh](https://laodong.vn/video/gia-vang-va-ngoai-te-272-gia-vang-chim-sau-nguy-co-tut-doc-khong-phanh-884066.ldo) ([Lao Động](https://laodong.vn))
-- [Nam Bộ cuối tuần nắng nóng gay gắt, nhiệt độ xấp xỉ 38 độ C](https://tuoitre.vn/nam-bo-cuoi-tuan-nang-nong-gay-gat-nhiet-do-xap-xi-38-do-c-2021022709411365.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chính quyền ông Biden trừng phạt vụ giết nhà báo Khashoggi](https://laodong.vn/the-gioi/chinh-quyen-ong-biden-trung-phat-vu-giet-nha-bao-khashoggi-884052.ldo) ([Lao Động](https://laodong.vn))
-- [Bản lĩnh của một người ẩn giấu đằng xong những trang sách người ấy đọc](https://cafebiz.vn/ban-linh-cua-mot-nguoi-an-giau-dang-xong-nhung-trang-sach-nguoi-ay-doc-20210225170801741.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chỉ cần nắm rõ liệu trình của kẹo giấm táo AppleSlim, giảm mỡ vòng 2 là chuyện nhỏ](https://cafebiz.vn/chi-can-nam-ro-lieu-trinh-cua-keo-giam-tao-appleslim-giam-mo-vong-2-la-chuyen-nho-20210227091347682.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chính phủ Mỹ có thể 'ép' Bitcoin để bảo vệ đồng USD](https://cafebiz.vn/chinh-phu-my-co-the-ep-bitcoin-de-bao-ve-dong-usd-20210227085205836.chn) ([CafeBiz](https://cafebiz.vn))
-- [CEO Chung Tấn Bảo – Ben & Tod: "Vượt qua khó khăn là một lần được tôi luyện"](https://cafebiz.vn/ceo-chung-tan-bao-ben-tod-vuot-qua-kho-khan-la-mot-lan-duoc-toi-luyen-20210226162950717.chn) ([CafeBiz](https://cafebiz.vn))
-- [Văn Phú - Invest - Những người kiến tạo không gian sống trong mơ](https://laodong.vn/bat-dong-san/van-phu-invest-nhung-nguoi-kien-tao-khong-gian-song-trong-mo-883949.ldo) ([Lao Động](https://laodong.vn))
-- [Thừa Thiên Huế: Hơn 1.400 thanh niên lên đường nhập ngũ](https://laodong.vn/xa-hoi/thua-thien-hue-hon-1400-thanh-nien-len-duong-nhap-ngu-884064.ldo) ([Lao Động](https://laodong.vn))
+- [Netflix cho phép người xem tương tác trực tiếp, tự vẽ diễn biến bộ phim, vừa xem vừa làm đạo diễn, sao không thử?](https://cafebiz.vn/netflix-cho-phep-nguoi-xem-tuong-tac-truc-tiep-tu-ve-dien-bien-bo-phim-vua-xem-vua-lam-dao-dien-sao-khong-thu-20210227104630519.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tân binh lên đường nhập ngũ trong Covid-19](https://vnexpress.net/tan-binh-len-duong-nhap-ngu-trong-covid-19-4240970.html) ([VNExpress](https://vnexpress.net))
+- [Biệt thự 7 tầng của đại gia ngành sắt Việt giàu lên từ thu mua sắt vụn: Độ hoành tráng sánh ngang lâu đài, tổng giá trị cỡ 300 tỷ](https://cafebiz.vn/biet-thu-7-tang-cua-dai-gia-nganh-sat-viet-giau-len-tu-thu-mua-sat-vun-do-hoanh-trang-sanh-ngang-lau-dai-tong-gia-tri-co-300-ty-20210227104508366.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nga: Mỹ chỉ cảnh báo trước vài phút vụ không kích Syria](https://laodong.vn/the-gioi/nga-my-chi-canh-bao-truoc-vai-phut-vu-khong-kich-syria-884067.ldo) ([Lao Động](https://laodong.vn))
+- [Bí thư Hà Nội dự ngày hội giao, nhận quân năm 2021 tại huyện Đông Anh](https://laodong.vn/thoi-su/bi-thu-ha-noi-du-ngay-hoi-giao-nhan-quan-nam-2021-tai-huyen-dong-anh-884059.ldo) ([Lao Động](https://laodong.vn))
+- [Tuyên Quang: Sẵn sàng ngày hội giao nhận quân](https://laodong.vn/xa-hoi/tuyen-quang-san-sang-ngay-hoi-giao-nhan-quan-884069.ldo) ([Lao Động](https://laodong.vn))
+- [Những trường hợp bắt đầu được hưởng lương hưu theo quy định mới nhất](https://laodong.vn/cong-doan/nhung-truong-hop-bat-dau-duoc-huong-luong-huu-theo-quy-dinh-moi-nhat-884077.ldo) ([Lao Động](https://laodong.vn))
+- [Giới nhà giàu Hàn Quốc mạnh tay chi hơn 2.000 USD cho dịch vụ "cách ly chơi golf": 14 ngày trôi qua tựa như thiên đường](https://cafebiz.vn/gioi-nha-giau-han-quoc-manh-tay-chi-hon-2000-usd-cho-dich-vu-cach-ly-choi-golf-14-ngay-troi-qua-tua-nhu-thien-duong-20210227100443552.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hoa hậu Ngọc Hân: Cặm cụi bán áo dài cả ngày kiếm vài trăm tới vài triệu, rất nhỏ so với cát-xê hàng ngàn đô một giờ đi sự kiện…](https://cafebiz.vn/hoa-hau-ngoc-han-cam-cui-ban-ao-dai-ca-ngay-kiem-vai-tram-toi-vai-trieu-rat-nho-so-voi-cat-xe-hang-ngan-do-mot-gio-di-su-kien-20210227102149495.chn) ([CafeBiz](https://cafebiz.vn))
+- [&quot;Bác sĩ Việt Nam may mắn vì luôn đủ trang thiết bị phòng tránh COVID-19&quot;](https://laodong.vn/emagazine/bac-si-viet-nam-may-man-vi-luon-du-trang-thiet-bi-phong-tranh-covid-19-883724.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -122,7 +122,7 @@
 07. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
 08. [Alan Walker, salem ilese - Fake A Smile (Lyrics)](https://www.youtube.com/watch?v=eAmluGnsTlo) - [Unique Vibes](https://www.youtube.com/channel/UCn7Z0uhzGS1KjnO-sWml_dw)
 09. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-10. [CHUNG HA 청하 'Bicycle' MV](https://www.youtube.com/watch?v=_waD9YW8Pa8) - [CHUNG HA_Official](https://www.youtube.com/channel/UC9Gxb0gMCh3EPIDLQXeQUog)
+10. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
