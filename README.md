@@ -21,7 +21,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 17°C.
-- Feels Like 14.67°C.
+- Feels Like 15.35°C.
 - Air Visual is 156.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Các ngôi sao CLB Hà Nội nói gì khi V.League 2021 trở lại?](https://laodong.vn/video/cac-ngoi-sao-clb-ha-noi-noi-gi-khi-vleague-2021-tro-lai-884113.ldo) ([Lao Động](https://laodong.vn))
+- [Thái Bình khởi công tuyến đường bộ gần 2.600 tỷ đồng](https://vnexpress.net/thai-binh-khoi-cong-tuyen-duong-bo-gan-2-600-ty-dong-4241114.html) ([VNExpress](https://vnexpress.net))
+- [Nhận định Man City - West Ham: Chờ đợi bất ngờ tại Etihad](https://laodong.vn/bong-da-quoc-te/nhan-dinh-man-city-west-ham-cho-doi-bat-ngo-tai-etihad-884189.ldo) ([Lao Động](https://laodong.vn))
+- [8 nhóm đối tượng được ưu tiên tiêm vaccine phòng COVID-19 miễn phí](https://laodong.vn/infographic/8-nhom-doi-tuong-duoc-uu-tien-tiem-vaccine-phong-covid-19-mien-phi-884031.ldo) ([Lao Động](https://laodong.vn))
 - [Ngày 27.2, Hải Dương ghi nhận 6 ca mới mắc COVID-19](https://laodong.vn/y-te/ngay-272-hai-duong-ghi-nhan-6-ca-moi-mac-covid-19-884196.ldo) ([Lao Động](https://laodong.vn))
 - [Trương Hinh Dư giờ thế nào sau ồn ào &quot;cạch mặt&quot; Phạm Băng Băng?](https://laodong.vn/photo/truong-hinh-du-gio-the-nao-sau-on-ao-cach-mat-pham-bang-bang-884120.ldo) ([Lao Động](https://laodong.vn))
-- [Dịch COVID-19: Trong cam go, niềm tin với người thầy thuốc càng lớn](https://laodong.vn/xa-hoi/dich-covid-19-trong-cam-go-niem-tin-voi-nguoi-thay-thuoc-cang-lon-884184.ldo) ([Lao Động](https://laodong.vn))
-- [Tin bóng đá tối 27.2: Koeman lo lắng về tương lai tại Barcelona](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-272-koeman-lo-lang-ve-tuong-lai-tai-barcelona-884167.ldo) ([Lao Động](https://laodong.vn))
-- [Từ 1.3, bắt đầu tổng điều tra kinh tế năm 2021 trên cả nước](https://laodong.vn/kinh-te/tu-13-bat-dau-tong-dieu-tra-kinh-te-nam-2021-tren-ca-nuoc-884186.ldo) ([Lao Động](https://laodong.vn))
 - [Đội bóng mới của Đặng Văn Lâm khởi đầu nhẹ nhàng tại J.League 1](https://laodong.vn/bong-da-quoc-te/doi-bong-moi-cua-dang-van-lam-khoi-dau-nhe-nhang-tai-jleague-1-884185.ldo) ([Lao Động](https://laodong.vn))
 - [Kiên Giang xét nghiệm cho cán bộ, chiến sĩ, nhân viên y tế trong các khu cách ly](https://tuoitre.vn/kien-giang-xet-nghiem-cho-can-bo-chien-si-nhan-vien-y-te-trong-cac-khu-cach-ly-20210227160732104.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Trò chuyện cùng bác sĩ Nguyễn Trung Cấp trong ngày thầy thuốc Việt Nam](https://laodong.vn/video/tro-chuyen-cung-bac-si-nguyen-trung-cap-trong-ngay-thay-thuoc-viet-nam-884118.ldo) ([Lao Động](https://laodong.vn))
 - [Chàng giáo viên &quot;gác lại bút nghiên&quot; tham gia nhập ngũ 2021](https://laodong.vn/video/chang-giao-vien-gac-lai-but-nghien-tham-gia-nhap-ngu-2021-884114.ldo) ([Lao Động](https://laodong.vn))
-- [Thẩm định bãi rác 3 tháng, mở trường mầm non 2 năm chưa xong thủ tục](https://laodong.vn/su-kien-binh-luan/tham-dinh-bai-rac-3-thang-mo-truong-mam-non-2-nam-chua-xong-thu-tuc-884070.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -117,10 +117,10 @@
 02. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 03. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 04. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
-05. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-06. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-07. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
-08. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
+05. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+06. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+07. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
+08. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
 09. [Alan Walker, salem ilese - Fake A Smile (Lyrics)](https://www.youtube.com/watch?v=eAmluGnsTlo) - [Unique Vibes](https://www.youtube.com/channel/UCn7Z0uhzGS1KjnO-sWml_dw)
 10. [BTS (방탄소년단) 'Life Goes On' (Video Call ver.) - Jung Kook](https://www.youtube.com/watch?v=ZmxW5QD7cvM) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 
@@ -133,8 +133,8 @@
 01. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 03. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
-04. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
-05. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+04. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+05. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 06. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 07. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 08. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
