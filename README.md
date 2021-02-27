@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 17°C.
-- Feels Like 15.35°C.
-- Air Visual is 146.
+- Temperature is 18°C.
+- Feels Like 16.01°C.
+- Air Visual is 160.
 
 **WEATHER**
 
@@ -63,7 +63,7 @@
 - [![Ngô Mạnh Đạt](https://img.shields.io/static/v1?label=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
-- [![Thuong tin](https://img.shields.io/static/v1?label=Thuong%20tin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thuong%20tin)
+- [![Thương Tín](https://img.shields.io/static/v1?label=Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Đăng tin cách tự chữa COVID-19, người phụ nữ bị xử phạt 7,5 triệu đồng](https://laodong.vn/phap-luat/dang-tin-cach-tu-chua-covid-19-nguoi-phu-nu-bi-xu-phat-75-trieu-dong-884192.ldo) ([Lao Động](https://laodong.vn))
-- [Bị nhiễm độc thủy ngân do tai nạn khi vẩy nhiệt kế](https://laodong.vn/suc-khoe/bi-nhiem-doc-thuy-ngan-do-tai-nan-khi-vay-nhiet-ke-884201.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng: Lòng vòng chuyển đổi đất công, chiếm dụng thành đất tư nhân](https://laodong.vn/ban-doc/da-nang-long-vong-chuyen-doi-dat-cong-chiem-dung-thanh-dat-tu-nhan-883921.ldo) ([Lao Động](https://laodong.vn))
+- [Lối rẽ mới của Phương Mỹ Chi](https://laodong.vn/giai-tri/loi-re-moi-cua-phuong-my-chi-883997.ldo) ([Lao Động](https://laodong.vn))
+- [Xử lý 121 thông tin sai sự thật về dịch COVID-19 tại Hải Dương](https://laodong.vn/phap-luat/xu-ly-121-thong-tin-sai-su-that-ve-dich-covid-19-tai-hai-duong-884208.ldo) ([Lao Động](https://laodong.vn))
+- [Kiatisak và toàn đội Hoàng Anh Gia Lai âm tính với COVID-19](https://laodong.vn/bong-da/kiatisak-va-toan-doi-hoang-anh-gia-lai-am-tinh-voi-covid-19-884202.ldo) ([Lao Động](https://laodong.vn))
+- [Ngân hàng nào sắp chia cổ phiếu thưởng 40%?](https://laodong.vn/kinh-te/ngan-hang-nao-sap-chia-co-phieu-thuong-40-884205.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều 27/2, có 6 ca mắc COVID-19 đều ghi nhận tại Hải Dương](https://cafebiz.vn/chieu-27-2-co-6-ca-mac-covid-19-deu-ghi-nhan-tai-hai-duong-20210227183627965.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người dân đổ xô đi nộp tiền sử dụng đất, cơ quan thuế "tăng ca" thứ 7 và chủ nhật](https://cafebiz.vn/nguoi-dan-do-xo-di-nop-tien-su-dung-dat-co-quan-thue-tang-ca-thu-7-va-chu-nhat-20210227184804286.chn) ([CafeBiz](https://cafebiz.vn))
 - [Các ngôi sao CLB Hà Nội nói gì khi V.League 2021 trở lại?](https://laodong.vn/video/cac-ngoi-sao-clb-ha-noi-noi-gi-khi-vleague-2021-tro-lai-884113.ldo) ([Lao Động](https://laodong.vn))
 - [Chiều 27-2: Thêm 6 ca mắc COVID-19 mới đều ở Hải Dương](https://tuoitre.vn/chieu-27-2-them-6-ca-mac-covid-19-moi-deu-o-hai-duong-20210227182208457.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thái Bình khởi công tuyến đường bộ gần 2.600 tỷ đồng](https://vnexpress.net/thai-binh-khoi-cong-tuyen-duong-bo-gan-2-600-ty-dong-4241114.html) ([VNExpress](https://vnexpress.net))
-- [Nhận định Man City - West Ham: Chờ đợi bất ngờ tại Etihad](https://laodong.vn/bong-da-quoc-te/nhan-dinh-man-city-west-ham-cho-doi-bat-ngo-tai-etihad-884189.ldo) ([Lao Động](https://laodong.vn))
-- [8 nhóm đối tượng được ưu tiên tiêm vaccine phòng COVID-19 miễn phí](https://laodong.vn/infographic/8-nhom-doi-tuong-duoc-uu-tien-tiem-vaccine-phong-covid-19-mien-phi-884031.ldo) ([Lao Động](https://laodong.vn))
-- [Trương Hinh Dư giờ thế nào sau ồn ào &quot;cạch mặt&quot; Phạm Băng Băng?](https://laodong.vn/photo/truong-hinh-du-gio-the-nao-sau-on-ao-cach-mat-pham-bang-bang-884120.ldo) ([Lao Động](https://laodong.vn))
-- [Đội bóng mới của Đặng Văn Lâm khởi đầu nhẹ nhàng tại J.League 1](https://laodong.vn/bong-da-quoc-te/doi-bong-moi-cua-dang-van-lam-khoi-dau-nhe-nhang-tai-jleague-1-884185.ldo) ([Lao Động](https://laodong.vn))
-- [Kiên Giang xét nghiệm cho cán bộ, chiến sĩ, nhân viên y tế trong các khu cách ly](https://tuoitre.vn/kien-giang-xet-nghiem-cho-can-bo-chien-si-nhan-vien-y-te-trong-cac-khu-cach-ly-20210227160732104.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Kế hoạch hoàn thiện bản thân cho năm mới: Bạn cần lưu ý những gì?](https://vietcetera.com/vn/hoan-thien-ban-than-trong-nam-moi-ban-can-luu-y-nhung-gi)
 - [Dương Giáp và những tác phẩm thách thức ranh giới của thực tại](https://vietcetera.com/vn/duong-giap)
 - [Tóm Lại Là: Người châu Á bị thù ghét vì COVID-19?](https://vietcetera.com/vn/tom-lai-la-nguoi-chau-a-bi-ghet-hon-vi-covid-19)
 - [Cởi Mở: Lần đầu thử tình một đêm (ONS)](https://vietcetera.com/vn/coi-mo-lan-dau-thu-tinh-mot-dem-ons)
@@ -105,7 +106,6 @@
 - [Đối mặt với sang chấn tuổi thơ và sự vô cảm của người xung quanh](https://vietcetera.com/vn/doi-mat-voi-sang-chan-tuoi-tho-va-su-vo-cam-cua-nguoi-xung-quanh)
 - [Đối diện với nỗi sợ từ quá khứ qua phim kinh dị](https://vietcetera.com/vn/nhung-tac-pham-kinh-di-chat-chua-noi-dau-con-nguoi-cua-mike-flanagan)
 - [5 Ứng dụng “kể chuyện” bằng game](https://vietcetera.com/vn/5-ung-dung-ke-chuyen-bang-game)
-- [Bóc Term: Bạn đã bị "zucc" bởi Facebook bao giờ chưa?](https://vietcetera.com/vn/boc-term-ban-da-bi-zucc-boi-facebook-bao-gio-chua)
 
 [Read More](https://vietcetera.com/)
 
