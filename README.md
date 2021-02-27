@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 19°C.
-- Feels Like 16.97°C.
-- Air Visual is 102.
+- Temperature is 18°C.
+- Feels Like 15.63°C.
+- Air Visual is 110.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Điện Biên thêm 6 bác sĩ, dược sĩ được tặng danh hiệu Thầy thuốc ưu tú](https://laodong.vn/y-te/dien-bien-them-6-bac-si-duoc-si-duoc-tang-danh-hieu-thay-thuoc-uu-tu-884122.ldo) ([Lao Động](https://laodong.vn))
+- [Người di cư là trọng tâm cuộc gặp song phương thứ 2 của ông Biden](https://laodong.vn/the-gioi/nguoi-di-cu-la-trong-tam-cuoc-gap-song-phuong-thu-2-cua-ong-biden-884123.ldo) ([Lao Động](https://laodong.vn))
+- [Những "ngày Cô-Vít" sau Tết, các mẹ lại tiếp tục gồng mình thành siêu nhân, vừa làm cô giáo dạy học cho con, vừa thay ô sin phục vụ cả nhà!](https://cafebiz.vn/nhung-ngay-co-vit-sau-tet-cac-me-lai-tiep-tuc-gong-minh-thanh-sieu-nhan-vua-lam-co-giao-day-hoc-cho-con-vua-thay-o-sin-phuc-vu-ca-nha-20210227110739396.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: Công đoàn thăm các đơn vị y tế nhân ngày Thầy thuốc Việt Nam](https://laodong.vn/ldld-tphcm/tphcm-cong-doan-tham-cac-don-vi-y-te-nhan-ngay-thay-thuoc-viet-nam-884124.ldo) ([Lao Động](https://laodong.vn))
+- [Doanh nghiệp bị khởi tố vì mua bán hóa đơn, Cục Thuế Nghệ An nói gì?](https://laodong.vn/phap-luat/doanh-nghiep-bi-khoi-to-vi-mua-ban-hoa-don-cuc-thue-nghe-an-noi-gi-884088.ldo) ([Lao Động](https://laodong.vn))
+- [Trộm xe ôtô ở Hà Nội mang vào Đồng Nai cầm cố](https://laodong.vn/phap-luat/trom-xe-oto-o-ha-noi-mang-vao-dong-nai-cam-co-884111.ldo) ([Lao Động](https://laodong.vn))
+- [Gió lạnh tràn về, miền Bắc vừa mưa vừa rét, Hà Nội thấp nhất 16 độ](https://cafebiz.vn/gio-lanh-tran-ve-mien-bac-vua-mua-vua-ret-ha-noi-thap-nhat-16-do-20210227110152382.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hoa khôi Ngoại thương từng &quot;gây bão&quot; khi thi Hoa hậu Việt Nam giờ ra sao?](https://laodong.vn/photo/hoa-khoi-ngoai-thuong-tung-gay-bao-khi-thi-hoa-hau-viet-nam-gio-ra-sao-883844.ldo) ([Lao Động](https://laodong.vn))
+- [VietinBank tổ chức ĐHĐCĐ thường niên năm 2021](https://laodong.vn/thong-tin-doanh-nghiep/vietinbank-to-chuc-dhdcd-thuong-nien-nam-2021-884087.ldo) ([Lao Động](https://laodong.vn))
+- [Metro Số 5 giai đoạn hai được nghiên cứu để tư nhân đầu tư](https://vnexpress.net/metro-so-5-giai-doan-hai-duoc-nghien-cuu-de-tu-nhan-dau-tu-4241040.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
