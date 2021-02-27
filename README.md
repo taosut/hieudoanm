@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 18°C.
 - Feels Like 15.63°C.
-- Air Visual is 110.
+- Air Visual is 119.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Người phụ nữ bị lừa mất 5 tỉ đồng sau cuộc điện thoại của kẻ giả danh công an](https://cafebiz.vn/nguoi-phu-nu-bi-lua-mat-5-ti-dong-sau-cuoc-dien-thoai-cua-ke-gia-danh-cong-an-20210227111842568.chn) ([CafeBiz](https://cafebiz.vn))
+- [LĐLĐ tỉnh Yên Bái chúc mừng cán bộ y bác sĩ](https://laodong.vn/ldld-yen-bai/ldld-tinh-yen-bai-chuc-mung-can-bo-y-bac-si-884135.ldo) ([Lao Động](https://laodong.vn))
+- [Cần Thơ: 3 trường hợp F1 bệnh nhân 2424 có kết quả âm tính với SARS-CoV-2](https://laodong.vn/xa-hoi/can-tho-3-truong-hop-f1-benh-nhan-2424-co-ket-qua-am-tinh-voi-sars-cov-2-884134.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ GDĐT lý giải những băn khoăn về chứng chỉ trong thăng hạng cho giáo viên](https://laodong.vn/giao-duc/bo-gddt-ly-giai-nhung-ban-khoan-ve-chung-chi-trong-thang-hang-cho-giao-vien-884128.ldo) ([Lao Động](https://laodong.vn))
+- [Mua bán trẻ sơ sinh có thể bị phạt tới tù chung thân](https://laodong.vn/phap-luat/mua-ban-tre-so-sinh-co-the-bi-phat-toi-tu-chung-than-884125.ldo) ([Lao Động](https://laodong.vn))
 - [Xử phạt thêm 3 trường hợp khai báo y tế gian dối khi về từ vùng dịch](https://cafebiz.vn/xu-phat-them-3-truong-hop-khai-bao-y-te-gian-doi-khi-ve-tu-vung-dich-20210227111010949.chn) ([CafeBiz](https://cafebiz.vn))
 - [TPHCM: Thành lập 370 công đoàn cơ sở và nghiệp đoàn](https://laodong.vn/ldld-tphcm/tphcm-thanh-lap-370-cong-doan-co-so-va-nghiep-doan-884133.ldo) ([Lao Động](https://laodong.vn))
 - [Hành vi "ngây thơ" nhất thế giới, gây tổn hại đến đường thành công của bạn sau này: Thích "giảng đạo lý"](https://cafebiz.vn/hanh-vi-ngay-tho-nhat-the-gioi-gay-ton-hai-den-duong-thanh-cong-cua-ban-sau-nay-thich-giang-dao-ly-2021022308523487.chn) ([CafeBiz](https://cafebiz.vn))
-- [&quot;Siêu trộm&quot; thực hiện 33 vụ trộm khai mất 1 phút để bẻ khóa xe](https://laodong.vn/phap-luat/sieu-trom-thuc-hien-33-vu-trom-khai-mat-1-phut-de-be-khoa-xe-884109.ldo) ([Lao Động](https://laodong.vn))
-- [Gần 10 giờ dập tắt cháy rừng dữ dội ở Lai Châu](https://laodong.vn/moi-truong/gan-10-gio-dap-tat-chay-rung-du-doi-o-lai-chau-884130.ldo) ([Lao Động](https://laodong.vn))
 - [10 đứa trẻ kiếm được bộn tiền khi tuổi đời còn rất nhỏ](https://cafebiz.vn/10-dua-tre-kiem-duoc-bon-tien-khi-tuoi-doi-con-rat-nho-20210227125636388.chn) ([CafeBiz](https://cafebiz.vn))
-- [Điện Biên thêm 6 bác sĩ, dược sĩ được tặng danh hiệu Thầy thuốc ưu tú](https://laodong.vn/y-te/dien-bien-them-6-bac-si-duoc-si-duoc-tang-danh-hieu-thay-thuoc-uu-tu-884122.ldo) ([Lao Động](https://laodong.vn))
-- [Người di cư là trọng tâm cuộc gặp song phương thứ 2 của ông Biden](https://laodong.vn/the-gioi/nguoi-di-cu-la-trong-tam-cuoc-gap-song-phuong-thu-2-cua-ong-biden-884123.ldo) ([Lao Động](https://laodong.vn))
 - [Những "ngày Cô-Vít" sau Tết, các mẹ lại tiếp tục gồng mình thành siêu nhân, vừa làm cô giáo dạy học cho con, vừa thay ô sin phục vụ cả nhà!](https://cafebiz.vn/nhung-ngay-co-vit-sau-tet-cac-me-lai-tiep-tuc-gong-minh-thanh-sieu-nhan-vua-lam-co-giao-day-hoc-cho-con-vua-thay-o-sin-phuc-vu-ca-nha-20210227110739396.chn) ([CafeBiz](https://cafebiz.vn))
-- [Gió lạnh tràn về, miền Bắc vừa mưa vừa rét, Hà Nội thấp nhất 16 độ](https://cafebiz.vn/gio-lanh-tran-ve-mien-bac-vua-mua-vua-ret-ha-noi-thap-nhat-16-do-20210227110152382.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
