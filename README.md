@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 16°C.
-- Feels Like 15.47°C.
-- Air Visual is 156.
+- Feels Like 15.83°C.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -50,21 +50,21 @@
 
 - [![Arsenal vs Benfica](https://img.shields.io/static/v1?label=Arsenal%20vs%20Benfica&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Benfica)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![Cao văn Triền](https://img.shields.io/static/v1?label=Cao%20v%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20v%C4%83n%20Tri%E1%BB%81n)
 - [![Cuôc chiến thượng lưu](https://img.shields.io/static/v1?label=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u)
+- [![Diễn viên Thương Tín](https://img.shields.io/static/v1?label=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Học sinh Hà Nội bao giờ đi học](https://img.shields.io/static/v1?label=H%E1%BB%8Dc%20sinh%20H%C3%A0%20N%E1%BB%99i%20bao%20gi%E1%BB%9D%20%C4%91i%20h%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BB%8Dc%20sinh%20H%C3%A0%20N%E1%BB%99i%20bao%20gi%E1%BB%9D%20%C4%91i%20h%E1%BB%8Dc)
-- [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![MC](https://img.shields.io/static/v1?label=MC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MC)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
 - [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
+- [![Ngày 27/2](https://img.shields.io/static/v1?label=Ng%C3%A0y%2027/2&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%2027/2)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![Ngô Mạnh Đạt](https://img.shields.io/static/v1?label=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
-- [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
-- [![Thuong tin](https://img.shields.io/static/v1?label=Thuong%20tin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thuong%20tin)
-- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
+- [![Tet nguyen tieu](https://img.shields.io/static/v1?label=Tet%20nguyen%20tieu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tet%20nguyen%20tieu)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 - [![Đồng Tháp](https://img.shields.io/static/v1?label=%C4%90%E1%BB%93ng%20Th%C3%A1p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BB%93ng%20Th%C3%A1p)
