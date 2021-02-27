@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 17°C.
 - Feels Like 14.67°C.
-- Air Visual is 129.
+- Air Visual is 156.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Từ 20.3, tính lương cho giáo viên theo công thức nào?](https://laodong.vn/giao-duc/tu-203-tinh-luong-cho-giao-vien-theo-cong-thuc-nao-884138.ldo) ([Lao Động](https://laodong.vn))
+- [Ngày 27.2, Hải Dương ghi nhận 6 ca mới mắc COVID-19](https://laodong.vn/y-te/ngay-272-hai-duong-ghi-nhan-6-ca-moi-mac-covid-19-884196.ldo) ([Lao Động](https://laodong.vn))
+- [Trương Hinh Dư giờ thế nào sau ồn ào &quot;cạch mặt&quot; Phạm Băng Băng?](https://laodong.vn/photo/truong-hinh-du-gio-the-nao-sau-on-ao-cach-mat-pham-bang-bang-884120.ldo) ([Lao Động](https://laodong.vn))
+- [Dịch COVID-19: Trong cam go, niềm tin với người thầy thuốc càng lớn](https://laodong.vn/xa-hoi/dich-covid-19-trong-cam-go-niem-tin-voi-nguoi-thay-thuoc-cang-lon-884184.ldo) ([Lao Động](https://laodong.vn))
+- [Tin bóng đá tối 27.2: Koeman lo lắng về tương lai tại Barcelona](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-272-koeman-lo-lang-ve-tuong-lai-tai-barcelona-884167.ldo) ([Lao Động](https://laodong.vn))
+- [Từ 1.3, bắt đầu tổng điều tra kinh tế năm 2021 trên cả nước](https://laodong.vn/kinh-te/tu-13-bat-dau-tong-dieu-tra-kinh-te-nam-2021-tren-ca-nuoc-884186.ldo) ([Lao Động](https://laodong.vn))
+- [Đội bóng mới của Đặng Văn Lâm khởi đầu nhẹ nhàng tại J.League 1](https://laodong.vn/bong-da-quoc-te/doi-bong-moi-cua-dang-van-lam-khoi-dau-nhe-nhang-tai-jleague-1-884185.ldo) ([Lao Động](https://laodong.vn))
+- [Kiên Giang xét nghiệm cho cán bộ, chiến sĩ, nhân viên y tế trong các khu cách ly](https://tuoitre.vn/kien-giang-xet-nghiem-cho-can-bo-chien-si-nhan-vien-y-te-trong-cac-khu-cach-ly-20210227160732104.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Trò chuyện cùng bác sĩ Nguyễn Trung Cấp trong ngày thầy thuốc Việt Nam](https://laodong.vn/video/tro-chuyen-cung-bac-si-nguyen-trung-cap-trong-ngay-thay-thuoc-viet-nam-884118.ldo) ([Lao Động](https://laodong.vn))
 - [Chàng giáo viên &quot;gác lại bút nghiên&quot; tham gia nhập ngũ 2021](https://laodong.vn/video/chang-giao-vien-gac-lai-but-nghien-tham-gia-nhap-ngu-2021-884114.ldo) ([Lao Động](https://laodong.vn))
-- [Tuần tra phát hiện điểm tập kết của nhóm cẩu tặc, tạm giữ nhiều đối tượng](https://laodong.vn/phap-luat/tuan-tra-phat-hien-diem-tap-ket-cua-nhom-cau-tac-tam-giu-nhieu-doi-tuong-884171.ldo) ([Lao Động](https://laodong.vn))
-- [Chính sách mới từ tháng 3: Giáo viên không cần chứng chỉ ngoại ngữ, tin học](https://laodong.vn/thoi-su/chinh-sach-moi-tu-thang-3-giao-vien-khong-can-chung-chi-ngoai-ngu-tin-hoc-884151.ldo) ([Lao Động](https://laodong.vn))
 - [Thẩm định bãi rác 3 tháng, mở trường mầm non 2 năm chưa xong thủ tục](https://laodong.vn/su-kien-binh-luan/tham-dinh-bai-rac-3-thang-mo-truong-mam-non-2-nam-chua-xong-thu-tuc-884070.ldo) ([Lao Động](https://laodong.vn))
-- [Cán bộ phải kê khai tài sản theo quy định mới trước 31/3](https://vnexpress.net/can-bo-phai-ke-khai-tai-san-theo-quy-dinh-moi-truoc-31-3-4241044.html) ([VNExpress](https://vnexpress.net))
-- [Các tỷ phú thế giới đều có thói quen đơn giản này, bạn có thể dễ dàng học theo họ](https://cafebiz.vn/cac-ty-phu-the-gioi-deu-co-thoi-quen-don-gian-nay-ban-co-the-de-dang-hoc-theo-ho-20210214100252778.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đột quỵ rất nguy hiểm đến tính mạng: 6 giải pháp để ngăn chặn đột quỵ tấn công](https://cafebiz.vn/dot-quy-rat-nguy-hiem-den-tinh-mang-6-giai-phap-de-ngan-chan-dot-quy-tan-cong-20210227130934815.chn) ([CafeBiz](https://cafebiz.vn))
-- [8 hộ trồng cây anh túc trong vườn để 'làm rau ăn', 'nuôi lợn'](https://tuoitre.vn/8-ho-trong-cay-anh-tuc-trong-vuon-de-lam-rau-an-nuoi-lon-20210227154819215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bạn lên kế hoạch tự do tài chính và nghỉ hưu sớm: Sự thật tàn khốc là tạo thu nhập thụ động không hề dễ, trong khi chúng ta luôn có một lựa chọn dễ làm hơn - tiết kiệm!](https://cafebiz.vn/ban-len-ke-hoach-tu-do-tai-chinh-va-nghi-huu-som-su-that-tan-khoc-la-tao-thu-nhap-thu-dong-khong-he-de-trong-khi-chung-ta-luon-co-mot-lua-chon-de-lam-hon-tiet-kiem-20210220115544129.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
