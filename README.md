@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 19°C.
-- Feels Like 16.25°C.
-- Air Visual is 83.
+- Feels Like 16.61°C.
+- Air Visual is 93.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Hưng Yên: Mở lại nhiều dịch vụ, chủ quán phải lập danh sách khách hàng](https://laodong.vn/xa-hoi/hung-yen-mo-lai-nhieu-dich-vu-chu-quan-phai-lap-danh-sach-khach-hang-884100.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Thuận: Vụ án mạng chỉ từ chuyện xin nước mắm, đối tượng ra đầu thú](https://laodong.vn/phap-luat/binh-thuan-vu-an-mang-chi-tu-chuyen-xin-nuoc-mam-doi-tuong-ra-dau-thu-884096.ldo) ([Lao Động](https://laodong.vn))
+- [Tuyên Quang: Xe khách rơi xuống vực sâu, 1 người chết và 1 người bị thương](https://laodong.vn/xa-hoi/tuyen-quang-xe-khach-roi-xuong-vuc-sau-1-nguoi-chet-va-1-nguoi-bi-thuong-884102.ldo) ([Lao Động](https://laodong.vn))
+- [An Giang: Lừa anh vợ, mang xe đi cầm lấy tiền đánh bạc](https://laodong.vn/phap-luat/an-giang-lua-anh-vo-mang-xe-di-cam-lay-tien-danh-bac-884108.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội xử phạt 19 trường hợp đăng tin giả về dịch bệnh COVID-19](https://laodong.vn/phap-luat/ha-noi-xu-phat-19-truong-hop-dang-tin-gia-ve-dich-benh-covid-19-884105.ldo) ([Lao Động](https://laodong.vn))
+- [Sân bay trên giấy, giá đất ảo và kinh doanh &quot;cướp đoạt&quot;](https://laodong.vn/su-kien-binh-luan/san-bay-tren-giay-gia-dat-ao-va-kinh-doanh-cuop-doat-884068.ldo) ([Lao Động](https://laodong.vn))
+- [OPPO Reno5 5G chính thức ra mắt tại Việt Nam với giá 11.9 triệu đồng](https://cafebiz.vn/oppo-reno5-5g-chinh-thuc-ra-mat-tai-viet-nam-voi-gia-119-trieu-dong-20210227120615416.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ngày thầy thuốc Việt Nam: Các y bác sỹ vẫn quay cuồng với các ca mổ cấp cứu](https://laodong.vn/video/ngay-thay-thuoc-viet-nam-cac-y-bac-sy-van-quay-cuong-voi-cac-ca-mo-cap-cuu-884097.ldo) ([Lao Động](https://laodong.vn))
+- [6 dấu hiệu chứng tỏ bạn sắp giàu: "Có khả năng tiết kiệm" đứng đầu bảng!](https://cafebiz.vn/6-dau-hieu-chung-to-ban-sap-giau-co-kha-nang-tiet-kiem-dung-dau-bang-20210227111942432.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đề xuất quyết thủ tục đầu tư dự án nhà ở thương mại tại TP.HCM trong 11 tháng](https://tuoitre.vn/de-xuat-quyet-thu-tuc-dau-tu-du-an-nha-o-thuong-mai-tai-tphcm-trong-11-thang-20210227092146986.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
