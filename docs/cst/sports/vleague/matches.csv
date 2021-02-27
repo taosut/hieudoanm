@@ -15,31 +15,10 @@
 2,"COMPLETED","2021/01/24 13:15:00","Ho Chi Minh City","Hong Linh Ha Tinh",2,0,2021,1,24,13,15,0
 3,"COMPLETED","2021/01/30 11:00:00","Thanh Hoa","Nam Dinh",3,0,2021,1,30,11,0,0
 3,"COMPLETED","2021/01/30 13:15:00","Saigon","Song Lam Nghe An",1,0,2021,1,30,13,15,0
-5,"POSTPONED","2021/02/27 11:00:00","Da Nang","Song Lam Nghe An",0,0,2021,2,27,11,0,0
-5,"POSTPONED","2021/02/27 12:00:00","Nam Dinh","Binh Dinh",0,0,2021,2,27,12,0,0
-5,"POSTPONED","2021/02/27 12:00:00","Than Quang Ninh","Thanh Hoa",0,0,2021,2,27,12,0,0
-5,"POSTPONED","2021/02/27 13:15:00","Ho Chi Minh City","Ha Noi",0,0,2021,2,27,13,15,0
-5,"POSTPONED","2021/02/28 11:00:00","Binh Duong","Saigon",0,0,2021,2,28,11,0,0
-5,"POSTPONED","2021/02/28 12:00:00","Hong Linh Ha Tinh","Hai Phong",0,0,2021,2,28,12,0,0
-5,"POSTPONED","2021/02/28 13:15:00","Viettel","Hoang Anh Gia Lai",0,0,2021,2,28,13,15,0
-6,"POSTPONED","2021/03/05 11:00:00","Song Lam Nghe An","Viettel",0,0,2021,3,5,11,0,0
-6,"POSTPONED","2021/03/06 11:00:00","Thanh Hoa","Da Nang",0,0,2021,3,6,11,0,0
-6,"POSTPONED","2021/03/06 11:00:00","Hoang Anh Gia Lai","Ho Chi Minh City",0,0,2021,3,6,11,0,0
-6,"POSTPONED","2021/03/06 13:15:00","Ha Noi","Hong Linh Ha Tinh",0,0,2021,3,6,13,15,0
-6,"POSTPONED","2021/03/07 11:00:00","Binh Dinh","Binh Duong",0,0,2021,3,7,11,0,0
-6,"POSTPONED","2021/03/07 12:00:00","Hai Phong","Than Quang Ninh",0,0,2021,3,7,12,0,0
-6,"POSTPONED","2021/03/07 13:15:00","Saigon","Nam Dinh",0,0,2021,3,7,13,15,0
-7,"POSTPONED","2021/03/12 12:00:00","Hai Phong","Hoang Anh Gia Lai",0,0,2021,3,12,12,0,0
-7,"POSTPONED","2021/03/13 11:00:00","Da Nang","Ha Noi",0,0,2021,3,13,11,0,0
 3,"SCHEDULED","2021/03/13 11:00:00","Da Nang","Hong Linh Ha Tinh",0,0,2021,3,13,11,0,0
 3,"SCHEDULED","2021/03/13 12:00:00","Hai Phong","Ha Noi",0,0,2021,3,13,12,0,0
-7,"POSTPONED","2021/03/13 12:00:00","Nam Dinh","Song Lam Nghe An",0,0,2021,3,13,12,0,0
-7,"POSTPONED","2021/03/13 13:15:00","Viettel","Saigon",0,0,2021,3,13,13,15,0
 3,"SCHEDULED","2021/03/14 11:00:00","Hoang Anh Gia Lai","Binh Dinh",0,0,2021,3,14,11,0,0
-7,"POSTPONED","2021/03/14 12:00:00","Hong Linh Ha Tinh","Thanh Hoa",0,0,2021,3,14,12,0,0
-7,"POSTPONED","2021/03/14 12:00:00","Than Quang Ninh","Binh Duong",0,0,2021,3,14,12,0,0
 3,"SCHEDULED","2021/03/14 12:00:00","Than Quang Ninh","Ho Chi Minh City",0,0,2021,3,14,12,0,0
-7,"POSTPONED","2021/03/14 13:15:00","Ho Chi Minh City","Binh Dinh",0,0,2021,3,14,13,15,0
 3,"SCHEDULED","2021/03/14 13:15:00","Viettel","Binh Duong",0,0,2021,3,14,13,15,0
 4,"SCHEDULED","2021/03/18 11:00:00","Song Lam Nghe An","Than Quang Ninh",0,0,2021,3,18,11,0,0
 4,"SCHEDULED","2021/03/18 13:15:00","Ha Noi","Thanh Hoa",0,0,2021,3,18,13,15,0
@@ -48,27 +27,48 @@
 4,"SCHEDULED","2021/03/19 13:15:00","Ho Chi Minh City","Saigon",0,0,2021,3,19,13,15,0
 4,"SCHEDULED","2021/03/20 11:00:00","Binh Duong","Hai Phong",0,0,2021,3,20,11,0,0
 4,"SCHEDULED","2021/03/20 12:00:00","Hong Linh Ha Tinh","Hoang Anh Gia Lai",0,0,2021,3,20,12,0,0
-8,"SCHEDULED","2021/04/09 10:00:00","Than Quang Ninh","Saigon",0,0,2021,4,9,10,0,0
-8,"SCHEDULED","2021/04/10 10:00:00","Thanh Hoa","Hai Phong",0,0,2021,4,10,10,0,0
-8,"SCHEDULED","2021/04/10 10:00:00","Ho Chi Minh City","Song Lam Nghe An",0,0,2021,4,10,10,0,0
-8,"SCHEDULED","2021/04/10 10:00:00","Hong Linh Ha Tinh","Binh Dinh",0,0,2021,4,10,10,0,0
-8,"SCHEDULED","2021/04/11 10:00:00","Binh Duong","Nam Dinh",0,0,2021,4,11,10,0,0
-8,"SCHEDULED","2021/04/11 10:00:00","Da Nang","Hoang Anh Gia Lai",0,0,2021,4,11,10,0,0
-8,"SCHEDULED","2021/04/11 10:00:00","Ha Noi","Viettel",0,0,2021,4,11,10,0,0
-9,"SCHEDULED","2021/04/16 10:00:00","Hoang Anh Gia Lai","Nam Dinh",0,0,2021,4,16,10,0,0
-9,"SCHEDULED","2021/04/17 10:00:00","Thanh Hoa","Ho Chi Minh City",0,0,2021,4,17,10,0,0
-9,"SCHEDULED","2021/04/17 10:00:00","Saigon","Hong Linh Ha Tinh",0,0,2021,4,17,10,0,0
-9,"SCHEDULED","2021/04/17 10:00:00","Song Lam Nghe An","Binh Duong",0,0,2021,4,17,10,0,0
-9,"SCHEDULED","2021/04/18 10:00:00","Binh Dinh","Viettel",0,0,2021,4,18,10,0,0
-9,"SCHEDULED","2021/04/18 10:00:00","Ha Noi","Than Quang Ninh",0,0,2021,4,18,10,0,0
-9,"SCHEDULED","2021/04/18 10:00:00","Hai Phong","Da Nang",0,0,2021,4,18,10,0,0
-10,"SCHEDULED","2021/05/14 10:00:00","Song Lam Nghe An","Hong Linh Ha Tinh",0,0,2021,5,14,10,0,0
-10,"SCHEDULED","2021/05/15 10:00:00","Binh Dinh","Thanh Hoa",0,0,2021,5,15,10,0,0
-10,"SCHEDULED","2021/05/15 10:00:00","Nam Dinh","Ho Chi Minh City",0,0,2021,5,15,10,0,0
-10,"SCHEDULED","2021/05/15 10:00:00","Saigon","Hai Phong",0,0,2021,5,15,10,0,0
-10,"SCHEDULED","2021/05/16 10:00:00","Binh Duong","Da Nang",0,0,2021,5,16,10,0,0
-10,"SCHEDULED","2021/05/16 10:00:00","Hoang Anh Gia Lai","Ha Noi",0,0,2021,5,16,10,0,0
-10,"SCHEDULED","2021/05/16 10:00:00","Viettel","Than Quang Ninh",0,0,2021,5,16,10,0,0
+5,"SCHEDULED","2021/03/23 11:00:00","Da Nang","Song Lam Nghe An",0,0,2021,3,23,11,0,0
+5,"SCHEDULED","2021/03/23 12:00:00","Nam Dinh","Binh Dinh",0,0,2021,3,23,12,0,0
+5,"SCHEDULED","2021/03/23 13:15:00","Ho Chi Minh City","Ha Noi",0,0,2021,3,23,13,15,0
+5,"SCHEDULED","2021/03/24 11:00:00","Binh Duong","Saigon",0,0,2021,3,24,11,0,0
+5,"SCHEDULED","2021/03/24 12:00:00","Hong Linh Ha Tinh","Hai Phong",0,0,2021,3,24,12,0,0
+5,"SCHEDULED","2021/03/24 12:00:00","Than Quang Ninh","Thanh Hoa",0,0,2021,3,24,12,0,0
+5,"SCHEDULED","2021/03/24 13:15:00","Viettel","Hoang Anh Gia Lai",0,0,2021,3,24,13,15,0
+6,"SCHEDULED","2021/03/28 11:00:00","Hoang Anh Gia Lai","Ho Chi Minh City",0,0,2021,3,28,11,0,0
+6,"SCHEDULED","2021/03/28 11:00:00","Song Lam Nghe An","Viettel",0,0,2021,3,28,11,0,0
+6,"SCHEDULED","2021/03/28 12:00:00","Hai Phong","Than Quang Ninh",0,0,2021,3,28,12,0,0
+6,"SCHEDULED","2021/03/28 13:15:00","Saigon","Nam Dinh",0,0,2021,3,28,13,15,0
+6,"SCHEDULED","2021/03/29 11:00:00","Binh Dinh","Binh Duong",0,0,2021,3,29,11,0,0
+6,"SCHEDULED","2021/03/29 11:00:00","Thanh Hoa","Da Nang",0,0,2021,3,29,11,0,0
+6,"SCHEDULED","2021/03/29 13:15:00","Ha Noi","Hong Linh Ha Tinh",0,0,2021,3,29,13,15,0
+7,"SCHEDULED","2021/04/02 11:00:00","Da Nang","Ha Noi",0,0,2021,4,2,11,0,0
+7,"SCHEDULED","2021/04/02 12:00:00","Hai Phong","Hoang Anh Gia Lai",0,0,2021,4,2,12,0,0
+7,"SCHEDULED","2021/04/02 13:15:00","Ho Chi Minh City","Binh Dinh",0,0,2021,4,2,13,15,0
+7,"SCHEDULED","2021/04/03 12:00:00","Hong Linh Ha Tinh","Thanh Hoa",0,0,2021,4,3,12,0,0
+7,"SCHEDULED","2021/04/03 12:00:00","Than Quang Ninh","Binh Duong",0,0,2021,4,3,12,0,0
+7,"SCHEDULED","2021/04/03 13:15:00","Viettel","Saigon",0,0,2021,4,3,13,15,0
+7,"SCHEDULED","2021/04/04 12:00:00","Nam Dinh","Song Lam Nghe An",0,0,2021,4,4,12,0,0
+8,"SCHEDULED","2021/04/07 12:00:00","Hong Linh Ha Tinh","Binh Dinh",0,0,2021,4,7,12,0,0
+8,"SCHEDULED","2021/04/07 12:00:00","Than Quang Ninh","Saigon",0,0,2021,4,7,12,0,0
+8,"SCHEDULED","2021/04/07 13:15:00","Ha Noi","Viettel",0,0,2021,4,7,13,15,0
+8,"SCHEDULED","2021/04/08 11:00:00","Binh Duong","Nam Dinh",0,0,2021,4,8,11,0,0
+8,"SCHEDULED","2021/04/08 11:00:00","Da Nang","Hoang Anh Gia Lai",0,0,2021,4,8,11,0,0
+8,"SCHEDULED","2021/04/08 11:00:00","Thanh Hoa","Hai Phong",0,0,2021,4,8,11,0,0
+8,"SCHEDULED","2021/04/08 13:15:00","Ho Chi Minh City","Song Lam Nghe An",0,0,2021,4,8,13,15,0
+9,"SCHEDULED","2021/04/11 11:00:00","Binh Dinh","Viettel",0,0,2021,4,11,11,0,0
+9,"SCHEDULED","2021/04/11 13:15:00","Ha Noi","Than Quang Ninh",0,0,2021,4,11,13,15,0
+9,"SCHEDULED","2021/04/11 13:15:00","Saigon","Hong Linh Ha Tinh",0,0,2021,4,11,13,15,0
+9,"SCHEDULED","2021/04/12 11:00:00","Thanh Hoa","Ho Chi Minh City",0,0,2021,4,12,11,0,0
+9,"SCHEDULED","2021/04/12 11:00:00","Hoang Anh Gia Lai","Nam Dinh",0,0,2021,4,12,11,0,0
+9,"SCHEDULED","2021/04/12 11:00:00","Song Lam Nghe An","Binh Duong",0,0,2021,4,12,11,0,0
+9,"SCHEDULED","2021/04/12 12:00:00","Hai Phong","Da Nang",0,0,2021,4,12,12,0,0
+10,"SCHEDULED","2021/04/16 13:15:00","Viettel","Than Quang Ninh",0,0,2021,4,16,13,15,0
+10,"SCHEDULED","2021/04/17 11:00:00","Binh Dinh","Thanh Hoa",0,0,2021,4,17,11,0,0
+10,"SCHEDULED","2021/04/17 11:00:00","Song Lam Nghe An","Hong Linh Ha Tinh",0,0,2021,4,17,11,0,0
+10,"SCHEDULED","2021/04/17 13:15:00","Saigon","Hai Phong",0,0,2021,4,17,13,15,0
+10,"SCHEDULED","2021/04/18 11:00:00","Binh Duong","Da Nang",0,0,2021,4,18,11,0,0
+10,"SCHEDULED","2021/04/18 11:00:00","Hoang Anh Gia Lai","Ha Noi",0,0,2021,4,18,11,0,0
+10,"SCHEDULED","2021/04/18 12:00:00","Nam Dinh","Ho Chi Minh City",0,0,2021,4,18,12,0,0
 11,"SCHEDULED","2021/05/21 10:00:00","Hong Linh Ha Tinh","Binh Duong",0,0,2021,5,21,10,0,0
 11,"SCHEDULED","2021/05/22 10:00:00","Thanh Hoa","Hoang Anh Gia Lai",0,0,2021,5,22,10,0,0
 11,"SCHEDULED","2021/05/22 10:00:00","Hai Phong","Song Lam Nghe An",0,0,2021,5,22,10,0,0
