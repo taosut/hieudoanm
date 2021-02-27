@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Xử phạt thêm 3 trường hợp khai báo y tế gian dối khi về từ vùng dịch](https://cafebiz.vn/xu-phat-them-3-truong-hop-khai-bao-y-te-gian-doi-khi-ve-tu-vung-dich-20210227111010949.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: Thành lập 370 công đoàn cơ sở và nghiệp đoàn](https://laodong.vn/ldld-tphcm/tphcm-thanh-lap-370-cong-doan-co-so-va-nghiep-doan-884133.ldo) ([Lao Động](https://laodong.vn))
+- [Hành vi "ngây thơ" nhất thế giới, gây tổn hại đến đường thành công của bạn sau này: Thích "giảng đạo lý"](https://cafebiz.vn/hanh-vi-ngay-tho-nhat-the-gioi-gay-ton-hai-den-duong-thanh-cong-cua-ban-sau-nay-thich-giang-dao-ly-2021022308523487.chn) ([CafeBiz](https://cafebiz.vn))
+- [&quot;Siêu trộm&quot; thực hiện 33 vụ trộm khai mất 1 phút để bẻ khóa xe](https://laodong.vn/phap-luat/sieu-trom-thuc-hien-33-vu-trom-khai-mat-1-phut-de-be-khoa-xe-884109.ldo) ([Lao Động](https://laodong.vn))
+- [Gần 10 giờ dập tắt cháy rừng dữ dội ở Lai Châu](https://laodong.vn/moi-truong/gan-10-gio-dap-tat-chay-rung-du-doi-o-lai-chau-884130.ldo) ([Lao Động](https://laodong.vn))
+- [10 đứa trẻ kiếm được bộn tiền khi tuổi đời còn rất nhỏ](https://cafebiz.vn/10-dua-tre-kiem-duoc-bon-tien-khi-tuoi-doi-con-rat-nho-20210227125636388.chn) ([CafeBiz](https://cafebiz.vn))
 - [Điện Biên thêm 6 bác sĩ, dược sĩ được tặng danh hiệu Thầy thuốc ưu tú](https://laodong.vn/y-te/dien-bien-them-6-bac-si-duoc-si-duoc-tang-danh-hieu-thay-thuoc-uu-tu-884122.ldo) ([Lao Động](https://laodong.vn))
 - [Người di cư là trọng tâm cuộc gặp song phương thứ 2 của ông Biden](https://laodong.vn/the-gioi/nguoi-di-cu-la-trong-tam-cuoc-gap-song-phuong-thu-2-cua-ong-biden-884123.ldo) ([Lao Động](https://laodong.vn))
 - [Những "ngày Cô-Vít" sau Tết, các mẹ lại tiếp tục gồng mình thành siêu nhân, vừa làm cô giáo dạy học cho con, vừa thay ô sin phục vụ cả nhà!](https://cafebiz.vn/nhung-ngay-co-vit-sau-tet-cac-me-lai-tiep-tuc-gong-minh-thanh-sieu-nhan-vua-lam-co-giao-day-hoc-cho-con-vua-thay-o-sin-phuc-vu-ca-nha-20210227110739396.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: Công đoàn thăm các đơn vị y tế nhân ngày Thầy thuốc Việt Nam](https://laodong.vn/ldld-tphcm/tphcm-cong-doan-tham-cac-don-vi-y-te-nhan-ngay-thay-thuoc-viet-nam-884124.ldo) ([Lao Động](https://laodong.vn))
-- [Doanh nghiệp bị khởi tố vì mua bán hóa đơn, Cục Thuế Nghệ An nói gì?](https://laodong.vn/phap-luat/doanh-nghiep-bi-khoi-to-vi-mua-ban-hoa-don-cuc-thue-nghe-an-noi-gi-884088.ldo) ([Lao Động](https://laodong.vn))
-- [Trộm xe ôtô ở Hà Nội mang vào Đồng Nai cầm cố](https://laodong.vn/phap-luat/trom-xe-oto-o-ha-noi-mang-vao-dong-nai-cam-co-884111.ldo) ([Lao Động](https://laodong.vn))
 - [Gió lạnh tràn về, miền Bắc vừa mưa vừa rét, Hà Nội thấp nhất 16 độ](https://cafebiz.vn/gio-lanh-tran-ve-mien-bac-vua-mua-vua-ret-ha-noi-thap-nhat-16-do-20210227110152382.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hoa khôi Ngoại thương từng &quot;gây bão&quot; khi thi Hoa hậu Việt Nam giờ ra sao?](https://laodong.vn/photo/hoa-khoi-ngoai-thuong-tung-gay-bao-khi-thi-hoa-hau-viet-nam-gio-ra-sao-883844.ldo) ([Lao Động](https://laodong.vn))
-- [VietinBank tổ chức ĐHĐCĐ thường niên năm 2021](https://laodong.vn/thong-tin-doanh-nghiep/vietinbank-to-chuc-dhdcd-thuong-nien-nam-2021-884087.ldo) ([Lao Động](https://laodong.vn))
-- [Metro Số 5 giai đoạn hai được nghiên cứu để tư nhân đầu tư](https://vnexpress.net/metro-so-5-giai-doan-hai-duoc-nghien-cuu-de-tu-nhan-dau-tu-4241040.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
@@ -133,8 +133,8 @@
 01. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 03. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
-04. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-05. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+04. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+05. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 06. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 07. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
