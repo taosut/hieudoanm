@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 19°C.
 - Feels Like 16.61°C.
-- Air Visual is 93.
+- Air Visual is 88.
 
 **WEATHER**
 
@@ -55,19 +55,19 @@
 - [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![Lionel Messi](https://img.shields.io/static/v1?label=Lionel%20Messi&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lionel%20Messi)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
-- [![Mạc Văn Khoa](https://img.shields.io/static/v1?label=M%E1%BA%A1c%20V%C4%83n%20Khoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BA%A1c%20V%C4%83n%20Khoa)
 - [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
 - [![Ngày 27/2](https://img.shields.io/static/v1?label=Ng%C3%A0y%2027/2&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%2027/2)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi K40](https://img.shields.io/static/v1?label=Redmi%20K40&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20K40)
-- [![Thương Tín](https://img.shields.io/static/v1?label=Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%B0%C6%A1ng%20T%C3%ADn)
+- [![Thuong tin](https://img.shields.io/static/v1?label=Thuong%20tin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thuong%20tin)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 - [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
+- [![Đồng Tháp](https://img.shields.io/static/v1?label=%C4%90%E1%BB%93ng%20Th%C3%A1p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BB%93ng%20Th%C3%A1p)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Vị tỷ phú Trung Quốc kì lạ và bí ẩn nhất nhì thế giới: Giàu thứ 6 hành tinh, nhiều tiền hơn cả Warren Buffett, giấu kín mình trước truyền thông và không thích kết bạn với các doanh nhân](https://cafebiz.vn/vi-ty-phu-trung-quoc-bi-an-va-ki-la-giau-thu-6-the-gioi-nhieu-tien-hon-ca-warren-buffett-tranh-xa-truyen-thong-va-khong-thich-ket-ban-voi-cac-doanh-nhan-20210222181124152.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mourinho đổi thái độ khi Bale “đang hạnh phúc hơn bao giờ hết”](https://laodong.vn/bong-da-quoc-te/mourinho-doi-thai-do-khi-bale-dang-hanh-phuc-hon-bao-gio-het-884107.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút 27.2: Đề nghị tháo gỡ cho xe lưu thông trên quốc lộ 18](https://laodong.vn/video/ban-tin-1-phut-272-de-nghi-thao-go-cho-xe-luu-thong-tren-quoc-lo-18-884084.ldo) ([Lao Động](https://laodong.vn))
+- [Những màu sơn phòng bếp siêu đẹp được ưa chuộng nhất hiện nay](https://laodong.vn/bat-dong-san/nhung-mau-son-phong-bep-sieu-dep-duoc-ua-chuong-nhat-hien-nay-883956.ldo) ([Lao Động](https://laodong.vn))
 - [Hưng Yên: Mở lại nhiều dịch vụ, chủ quán phải lập danh sách khách hàng](https://laodong.vn/xa-hoi/hung-yen-mo-lai-nhieu-dich-vu-chu-quan-phai-lap-danh-sach-khach-hang-884100.ldo) ([Lao Động](https://laodong.vn))
 - [Bình Thuận: Vụ án mạng chỉ từ chuyện xin nước mắm, đối tượng ra đầu thú](https://laodong.vn/phap-luat/binh-thuan-vu-an-mang-chi-tu-chuyen-xin-nuoc-mam-doi-tuong-ra-dau-thu-884096.ldo) ([Lao Động](https://laodong.vn))
-- [Tuyên Quang: Xe khách rơi xuống vực sâu, 1 người chết và 1 người bị thương](https://laodong.vn/xa-hoi/tuyen-quang-xe-khach-roi-xuong-vuc-sau-1-nguoi-chet-va-1-nguoi-bi-thuong-884102.ldo) ([Lao Động](https://laodong.vn))
-- [An Giang: Lừa anh vợ, mang xe đi cầm lấy tiền đánh bạc](https://laodong.vn/phap-luat/an-giang-lua-anh-vo-mang-xe-di-cam-lay-tien-danh-bac-884108.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội xử phạt 19 trường hợp đăng tin giả về dịch bệnh COVID-19](https://laodong.vn/phap-luat/ha-noi-xu-phat-19-truong-hop-dang-tin-gia-ve-dich-benh-covid-19-884105.ldo) ([Lao Động](https://laodong.vn))
 - [Sân bay trên giấy, giá đất ảo và kinh doanh &quot;cướp đoạt&quot;](https://laodong.vn/su-kien-binh-luan/san-bay-tren-giay-gia-dat-ao-va-kinh-doanh-cuop-doat-884068.ldo) ([Lao Động](https://laodong.vn))
 - [OPPO Reno5 5G chính thức ra mắt tại Việt Nam với giá 11.9 triệu đồng](https://cafebiz.vn/oppo-reno5-5g-chinh-thuc-ra-mat-tai-viet-nam-voi-gia-119-trieu-dong-20210227120615416.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ngày thầy thuốc Việt Nam: Các y bác sỹ vẫn quay cuồng với các ca mổ cấp cứu](https://laodong.vn/video/ngay-thay-thuoc-viet-nam-cac-y-bac-sy-van-quay-cuong-voi-cac-ca-mo-cap-cuu-884097.ldo) ([Lao Động](https://laodong.vn))
 - [6 dấu hiệu chứng tỏ bạn sắp giàu: "Có khả năng tiết kiệm" đứng đầu bảng!](https://cafebiz.vn/6-dau-hieu-chung-to-ban-sap-giau-co-kha-nang-tiet-kiem-dung-dau-bang-20210227111942432.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đề xuất quyết thủ tục đầu tư dự án nhà ở thương mại tại TP.HCM trong 11 tháng](https://tuoitre.vn/de-xuat-quyet-thu-tuc-dau-tu-du-an-nha-o-thuong-mai-tai-tphcm-trong-11-thang-20210227092146986.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
