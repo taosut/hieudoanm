@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 17°C.
-- Feels Like 14.27°C.
-- Air Visual is 153.
+- Feels Like 14.67°C.
+- Air Visual is 129.
 
 **WEATHER**
 
@@ -50,10 +50,9 @@
 
 - [![Arsenal vs Benfica](https://img.shields.io/static/v1?label=Arsenal%20vs%20Benfica&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Benfica)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
-- [![Cao văn Triền](https://img.shields.io/static/v1?label=Cao%20v%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20v%C4%83n%20Tri%E1%BB%81n)
 - [![Cuôc chiến thượng lưu](https://img.shields.io/static/v1?label=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u)
-- [![Diễn viên Thương Tín](https://img.shields.io/static/v1?label=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%E1%BB%85n%20vi%C3%AAn%20Th%C6%B0%C6%A1ng%20T%C3%ADn)
 - [![Giá xăng hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20h%C3%B4m%20nay)
+- [![Học sinh Hà Nội bao giờ đi học](https://img.shields.io/static/v1?label=H%E1%BB%8Dc%20sinh%20H%C3%A0%20N%E1%BB%99i%20bao%20gi%E1%BB%9D%20%C4%91i%20h%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BB%8Dc%20sinh%20H%C3%A0%20N%E1%BB%99i%20bao%20gi%E1%BB%9D%20%C4%91i%20h%E1%BB%8Dc)
 - [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Lionel Messi](https://img.shields.io/static/v1?label=Lionel%20Messi&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lionel%20Messi)
@@ -61,10 +60,11 @@
 - [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
 - [![Ngày 27/2](https://img.shields.io/static/v1?label=Ng%C3%A0y%2027/2&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%2027/2)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
+- [![Ngô Mạnh Đạt](https://img.shields.io/static/v1?label=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
+- [![Thuong tin](https://img.shields.io/static/v1?label=Thuong%20tin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thuong%20tin)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
-- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 - [![Đồng Tháp](https://img.shields.io/static/v1?label=%C4%90%E1%BB%93ng%20Th%C3%A1p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BB%93ng%20Th%C3%A1p)
@@ -75,14 +75,14 @@
 
 **NEWS**
 
-- [Khi nào cần thay dầu phanh xe ôtô?](https://laodong.vn/xe/khi-nao-can-thay-dau-phanh-xe-oto-884166.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ Chính trị gặp mặt các nguyên Ủy viên Bộ Chính trị, Ban Bí thư](https://laodong.vn/thoi-su/bo-chinh-tri-gap-mat-cac-nguyen-uy-vien-bo-chinh-tri-ban-bi-thu-884172.ldo) ([Lao Động](https://laodong.vn))
+- [Từ 20.3, tính lương cho giáo viên theo công thức nào?](https://laodong.vn/giao-duc/tu-203-tinh-luong-cho-giao-vien-theo-cong-thuc-nao-884138.ldo) ([Lao Động](https://laodong.vn))
+- [Chàng giáo viên &quot;gác lại bút nghiên&quot; tham gia nhập ngũ 2021](https://laodong.vn/video/chang-giao-vien-gac-lai-but-nghien-tham-gia-nhap-ngu-2021-884114.ldo) ([Lao Động](https://laodong.vn))
+- [Tuần tra phát hiện điểm tập kết của nhóm cẩu tặc, tạm giữ nhiều đối tượng](https://laodong.vn/phap-luat/tuan-tra-phat-hien-diem-tap-ket-cua-nhom-cau-tac-tam-giu-nhieu-doi-tuong-884171.ldo) ([Lao Động](https://laodong.vn))
+- [Chính sách mới từ tháng 3: Giáo viên không cần chứng chỉ ngoại ngữ, tin học](https://laodong.vn/thoi-su/chinh-sach-moi-tu-thang-3-giao-vien-khong-can-chung-chi-ngoai-ngu-tin-hoc-884151.ldo) ([Lao Động](https://laodong.vn))
+- [Thẩm định bãi rác 3 tháng, mở trường mầm non 2 năm chưa xong thủ tục](https://laodong.vn/su-kien-binh-luan/tham-dinh-bai-rac-3-thang-mo-truong-mam-non-2-nam-chua-xong-thu-tuc-884070.ldo) ([Lao Động](https://laodong.vn))
 - [Cán bộ phải kê khai tài sản theo quy định mới trước 31/3](https://vnexpress.net/can-bo-phai-ke-khai-tai-san-theo-quy-dinh-moi-truoc-31-3-4241044.html) ([VNExpress](https://vnexpress.net))
 - [Các tỷ phú thế giới đều có thói quen đơn giản này, bạn có thể dễ dàng học theo họ](https://cafebiz.vn/cac-ty-phu-the-gioi-deu-co-thoi-quen-don-gian-nay-ban-co-the-de-dang-hoc-theo-ho-20210214100252778.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kiên Giang: 13 trường hợp nhập cảnh qua cửa khẩu nghi nhiễm COVID-19](https://laodong.vn/xa-hoi/kien-giang-13-truong-hop-nhap-canh-qua-cua-khau-nghi-nhiem-covid-19-884170.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương: Mỗi nơi làm việc phải có phòng cách ly tạm thời](https://laodong.vn/xa-hoi/hai-duong-moi-noi-lam-viec-phai-co-phong-cach-ly-tam-thoi-884168.ldo) ([Lao Động](https://laodong.vn))
 - [Đột quỵ rất nguy hiểm đến tính mạng: 6 giải pháp để ngăn chặn đột quỵ tấn công](https://cafebiz.vn/dot-quy-rat-nguy-hiem-den-tinh-mang-6-giai-phap-de-ngan-chan-dot-quy-tan-cong-20210227130934815.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt quả tang 30 đối tượng đánh bạc ở Quảng Nam](https://laodong.vn/phap-luat/bat-qua-tang-30-doi-tuong-danh-bac-o-quang-nam-884164.ldo) ([Lao Động](https://laodong.vn))
 - [8 hộ trồng cây anh túc trong vườn để 'làm rau ăn', 'nuôi lợn'](https://tuoitre.vn/8-ho-trong-cay-anh-tuc-trong-vuon-de-lam-rau-an-nuoi-lon-20210227154819215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bạn lên kế hoạch tự do tài chính và nghỉ hưu sớm: Sự thật tàn khốc là tạo thu nhập thụ động không hề dễ, trong khi chúng ta luôn có một lựa chọn dễ làm hơn - tiết kiệm!](https://cafebiz.vn/ban-len-ke-hoach-tu-do-tai-chinh-va-nghi-huu-som-su-that-tan-khoc-la-tao-thu-nhap-thu-dong-khong-he-de-trong-khi-chung-ta-luon-co-mot-lua-chon-de-lam-hon-tiet-kiem-20210220115544129.chn) ([CafeBiz](https://cafebiz.vn))
 
@@ -96,6 +96,8 @@
 
 **VIETCETERA**
 
+- [Dương Giáp và những tác phẩm thách thức ranh giới của thực tại](https://vietcetera.com/vn/duong-giap)
+- [Tóm Lại Là: Người châu Á bị thù ghét vì COVID-19?](https://vietcetera.com/vn/tom-lai-la-nguoi-chau-a-bi-ghet-hon-vi-covid-19)
 - [Cởi Mở: Lần đầu thử tình một đêm (ONS)](https://vietcetera.com/vn/coi-mo-lan-dau-thu-tinh-mot-dem-ons)
 - [Không Quan Tâm: Clubhouse còn lâu mới nổi ở Việt Nam](https://vietcetera.com/vn/khong-quan-tam-clubhouse-mang-xa-hoi-kieu-moi)
 - [5 Nhà hàng ẩm thực tinh hoa cho bữa trưa cùng đối tác](https://vietcetera.com/vn/5-chon-an-trua-cho-dan-van-phong)
@@ -104,8 +106,6 @@
 - [Đối diện với nỗi sợ từ quá khứ qua phim kinh dị](https://vietcetera.com/vn/nhung-tac-pham-kinh-di-chat-chua-noi-dau-con-nguoi-cua-mike-flanagan)
 - [5 Ứng dụng “kể chuyện” bằng game](https://vietcetera.com/vn/5-ung-dung-ke-chuyen-bang-game)
 - [Bóc Term: Bạn đã bị "zucc" bởi Facebook bao giờ chưa?](https://vietcetera.com/vn/boc-term-ban-da-bi-zucc-boi-facebook-bao-gio-chua)
-- [Chúng ta dễ bám vào niềm tin sai lầm trước quá nhiều điều không chắc chắn](https://vietcetera.com/vn/truoc-qua-nhieu-dieu-khong-chac-chan-chung-ta-de-bam-vao-niem-tin-sai-lam)
-- [4 Dụng cụ pha cà phê thủ công thổi hồn cho ly cà phê tại gia ](https://vietcetera.com/vn/4-dung-cu-pha-ca-phe-thu-cong-thoi-hon-cho-ly-ca-phe-tai-gia)
 
 [Read More](https://vietcetera.com/)
 
