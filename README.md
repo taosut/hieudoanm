@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is broken clouds.
 - Temperature is 19°C.
-- Feels Like 17.33°C.
-- Air Visual is 112.
+- Feels Like 17.69°C.
+- Air Visual is 97.
 
 **WEATHER**
 
@@ -56,6 +56,7 @@
 - [![Giá xăng](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng)
 - [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
+- [![Mâm cơm cúng Rằm tháng Giêng](https://img.shields.io/static/v1?label=M%C3%A2m%20c%C6%A1m%20c%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A2m%20c%C6%A1m%20c%C3%BAng%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
 - [![Mạc Văn Khoa](https://img.shields.io/static/v1?label=M%E1%BA%A1c%20V%C4%83n%20Khoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BA%A1c%20V%C4%83n%20Khoa)
 - [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
 - [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
@@ -63,7 +64,6 @@
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi K40](https://img.shields.io/static/v1?label=Redmi%20K40&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20K40)
 - [![Soojin](https://img.shields.io/static/v1?label=Soojin&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Soojin)
-- [![Tai nạn đèo Bảo Lộc](https://img.shields.io/static/v1?label=Tai%20n%E1%BA%A1n%20%C4%91%C3%A8o%20B%E1%BA%A3o%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tai%20n%E1%BA%A1n%20%C4%91%C3%A8o%20B%E1%BA%A3o%20L%E1%BB%99c)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Vaccine COVID-19](https://img.shields.io/static/v1?label=Vaccine%20COVID-19&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vaccine%20COVID-19)
 - [![Văn khấn Rằm tháng Giêng](https://img.shields.io/static/v1?label=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20kh%E1%BA%A5n%20R%E1%BA%B1m%20th%C3%A1ng%20Gi%C3%AAng)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Sáng 27-2 không ca COVID-19 mới, bệnh nhân nặng nhất có tín hiệu khả quan](https://tuoitre.vn/sang-27-2-khong-ca-covid-19-moi-benh-nhan-nang-nhat-co-tin-hieu-kha-quan-20210227061947982.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sáng 27.2, không ghi nhận ca mới mắc COVID-19](https://laodong.vn/y-te/sang-272-khong-ghi-nhan-ca-moi-mac-covid-19-884036.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam kiên trì chiến lược chống dịch 5 bước](https://vnexpress.net/viet-nam-kien-tri-chien-luoc-chong-dich-5-buoc-4240841.html) ([VNExpress](https://vnexpress.net))
-- [Covid-19 ngày 27/2](https://vnexpress.net/covid-19-ngay-27-2-4240871.html) ([VNExpress](https://vnexpress.net))
-- [Đánh giá Xiaomi Mi 11: phần cứng rất ấn tượng, camera được cải tiến, thiếu một chút để hoàn hảo](https://tinhte.vn/thread/danh-gia-xiaomi-mi-11-phan-cung-rat-an-tuong-camera-duoc-cai-tien-thieu-mot-chut-de-hoan-hao.3282433/) ([Tinh Tế](https://tinhte.vn))
-- [Facebook vs Úc: thực chất là Facebook vs các hãng tin](https://tinhte.vn/thread/facebook-vs-uc-thuc-chat-la-facebook-vs-cac-hang-tin.3282223/) ([Tinh Tế](https://tinhte.vn))
-- [Apple đang phát triển dòng MacBook Air 15-inch?](https://tinhte.vn/thread/apple-dang-phat-trien-dong-macbook-air-15-inch.3283733/) ([Tinh Tế](https://tinhte.vn))
-- [Sử dụng Telegram thú vị hơn với 6 tính năng này](https://tinhte.vn/thread/su-dung-telegram-thu-vi-hon-voi-6-tinh-nang-nay.3283731/) ([Tinh Tế](https://tinhte.vn))
-- [Review pin dự phòng mophie Powerstation 10.000mAh: Đẹp, xịn, PD 18W](https://tinhte.vn/thread/review-pin-du-phong-mophie-powerstation-10-000mah-dep-xin-pd-18w.3283674/) ([Tinh Tế](https://tinhte.vn))
-- [Hứa là làm, Thuỷ Tiên "khoe" đang xây 10 nhà cộng đồng tránh lũ cho người dân miền Trung](https://cafebiz.vn/hua-la-lam-thuy-tien-khoe-dang-xay-10-nha-cong-dong-tranh-lu-cho-nguoi-dan-mien-trung-20210226233522631.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nông dân ngậm ngùi cắt bỏ hoa do dịch Covid-19](https://cafebiz.vn/nong-dan-ngam-ngui-cat-bo-hoa-do-dich-covid-19-20210227074805649.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tỉ phú Trung Quốc rớt ngôi giàu nhất Châu Á](https://laodong.vn/the-gioi/ti-phu-trung-quoc-rot-ngoi-giau-nhat-chau-a-884038.ldo) ([Lao Động](https://laodong.vn))
+- [Tin mừng: Vaccine Covid-19 của Pfizer được chứng minh hiệu quả tới 94% bằng một nghiên cứu thực tế có quy mô lớn nhất từ trước tới nay](https://cafebiz.vn/tin-mung-vaccine-covid-19-cua-pfizer-duoc-chung-minh-hieu-qua-toi-94-bang-mot-nghien-cuu-thuc-te-co-quy-mo-lon-nhat-tu-truoc-toi-nay-20210227074655167.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chứng khoán: Niềm tin chưa đủ mạnh để thị trường bứt tốc](https://laodong.vn/kinh-te/chung-khoan-niem-tin-chua-du-manh-de-thi-truong-but-toc-884029.ldo) ([Lao Động](https://laodong.vn))
+- [Vòng 1/8 Europa League: Ibrahimovic gặp lại Man United và Cavani](https://laodong.vn/bong-da-quoc-te/vong-18-europa-league-ibrahimovic-gap-lai-man-united-va-cavani-884033.ldo) ([Lao Động](https://laodong.vn))
+- [Arsenal và niềm tin từ công thức mới Aubameyang - Saka](https://laodong.vn/bong-da-quoc-te/arsenal-va-niem-tin-tu-cong-thuc-moi-aubameyang-saka-884022.ldo) ([Lao Động](https://laodong.vn))
+- [Thế hệ F1 tài năng của đế chế đứng sau Rap Việt: Tốt nghiệp hạng ưu Oxford, tham dự dạ vũ danh giá nhất thế giới, sáng lập quỹ từ thiện xây cầu cho trẻ em vùng xa](https://cafebiz.vn/the-he-f1-tai-nang-cua-de-che-dung-sau-rap-viet-tot-nghiep-hang-uu-oxford-tham-du-da-vu-danh-gia-nhat-the-gioi-sang-lap-quy-tu-thien-xay-cau-cho-tre-em-vung-xa-20210223152924143.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kiên Giang: Rộn ràng mùa thu hoạch tôm càng xanh](https://laodong.vn/video-thoi-su/kien-giang-ron-rang-mua-thu-hoach-tom-cang-xanh-883887.ldo) ([Lao Động](https://laodong.vn))
+- [5 loại thực phẩm giúp bạn có giấc ngủ ngon nhiều người không biết](https://laodong.vn/dinh-duong-am-thuc/5-loai-thuc-pham-giup-ban-co-giac-ngu-ngon-nhieu-nguoi-khong-biet-883206.ldo) ([Lao Động](https://laodong.vn))
+- [Không gia đình, là mẹ đơn thân ở tuổi 17 trở thành triệu phú ngành thời trang: "Hãy nỗ lực vì đam mê bất chấp cuộc sống khắc nghiệt đến cùng cực!"](https://cafebiz.vn/khong-gia-dinh-la-me-don-than-o-tuoi-17-tro-thanh-trieu-phu-nganh-thoi-trang-hay-no-luc-vi-dam-me-bat-chap-cuoc-song-khac-nghiet-den-cung-cuc-20210225181854131.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -133,9 +133,9 @@
 01. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 03. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
-04. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
-05. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-06. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+04. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+05. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+06. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 07. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 09. [100 ĂN LỚP THÁCH THỨC #2 Multi DO Challenge](https://www.youtube.com/watch?v=M7rMwAHbkOA) - [Multi DO Challenge Vietnamese](https://www.youtube.com/channel/UC3ZxI9t1wW-Re_XCG66cphA)
