@@ -68,6 +68,8 @@
 
 **VIETCETERA**
 
+- [5 Live show âm nhạc YouTube để bạn khám phá nghệ sĩ mới](https://vietcetera.com/vn/5-live-show-am-nhac-youtube-de-ban-kham-pha-nghe-si-moi)
+- [Làm sao để yêu mà không đánh mất chính mình?](https://vietcetera.com/vn/lam-sao-de-yeu-ma-khong-danh-mat-chinh-minh)
 - [Sói già phố Wall: Chúng ta vừa xem cái quái gì vậy?](https://vietcetera.com/vn/soi-gia-pho-wall-chung-ta-vua-xem-cai-quai-gi-vay)
 - [Kế hoạch hoàn thiện bản thân cho năm mới: Bạn cần lưu ý những gì?](https://vietcetera.com/vn/hoan-thien-ban-than-trong-nam-moi-ban-can-luu-y-nhung-gi)
 - [Dương Giáp và những tác phẩm thách thức ranh giới của thực tại](https://vietcetera.com/vn/duong-giap)
@@ -76,8 +78,6 @@
 - [Không Quan Tâm: Clubhouse còn lâu mới nổi ở Việt Nam](https://vietcetera.com/vn/khong-quan-tam-clubhouse-mang-xa-hoi-kieu-moi)
 - [5 Nhà hàng ẩm thực tinh hoa cho bữa trưa cùng đối tác](https://vietcetera.com/vn/5-chon-an-trua-cho-dan-van-phong)
 - [Sau Tết, làm thế nào để giảm cân hiệu quả khi tập gym cùng PT? ](https://vietcetera.com/vn/sau-tet-lam-the-nao-de-giam-can-hieu-qua-khi-tap-gym-cung-pt)
-- [Đối mặt với sang chấn tuổi thơ và sự vô cảm của người xung quanh](https://vietcetera.com/vn/doi-mat-voi-sang-chan-tuoi-tho-va-su-vo-cam-cua-nguoi-xung-quanh)
-- [Đối diện với nỗi sợ từ quá khứ qua phim kinh dị](https://vietcetera.com/vn/nhung-tac-pham-kinh-di-chat-chua-noi-dau-con-nguoi-cua-mike-flanagan)
 
 [Read More](https://vietcetera.com/)
 
