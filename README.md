@@ -21,8 +21,8 @@
 
 - Current weather is light intensity drizzle.
 - Temperature is 17°C.
-- Feels Like 16.82°C.
-- Air Visual is 148.
+- Feels Like 16.45°C.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -48,6 +48,7 @@
 
 **GOOGLE TRENDS**
 
+- [![Arsenal vs Benfica](https://img.shields.io/static/v1?label=Arsenal%20vs%20Benfica&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Benfica)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Cuôc chiến thượng lưu](https://img.shields.io/static/v1?label=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
@@ -65,7 +66,6 @@
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
 - [![Thương Tín](https://img.shields.io/static/v1?label=Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%B0%C6%A1ng%20T%C3%ADn)
-- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 - [![Đồng Tháp](https://img.shields.io/static/v1?label=%C4%90%E1%BB%93ng%20Th%C3%A1p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BB%93ng%20Th%C3%A1p)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [NSND Thu Hà: "Nữ hoàng ảnh lịch" thập niên 90 và cuộc sống ở tuổi 52](https://cafebiz.vn/nsnd-thu-ha-nu-hoang-anh-lich-thap-nien-90-va-cuoc-song-o-tuoi-52-20210228080159592.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thói quen của những người thành triệu phú từ con số 0: Không đi ‘đường tắt’, ngã ở đâu đứng lên ở đó](https://cafebiz.vn/thoi-quen-cua-nhung-nguoi-thanh-trieu-phu-tu-con-so-0-khong-di-duong-tat-nga-o-dau-dung-len-o-do-20210227214042206.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sau khi chọc thủng đáy 8 tháng, giá vàng được dự báo sẽ thế nào trong tuần đầu tiên của tháng 3?](https://cafebiz.vn/sau-khi-choc-thung-day-8-thang-gia-vang-duoc-du-bao-se-the-nao-trong-tuan-dau-tien-cua-thang-3-20210228080047321.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mỹ phê duyệt vaccine COVID-19 một liều đầu tiên](https://laodong.vn/the-gioi/my-phe-duyet-vaccine-covid-19-mot-lieu-dau-tien-884247.ldo) ([Lao Động](https://laodong.vn))
-- [Nghi Nguyễn - Cô con gái cả xinh đẹp nhà Kềm Nghĩa, phụ ba dập nóng kềm từ 9 tuổi, nhưng lại không kế nghiệp gia đình](https://cafebiz.vn/nghi-nguyen-co-con-gai-ca-xinh-dep-nha-kem-nghia-phu-ba-dap-nong-kem-tu-9-tuoi-nhung-lai-khong-ke-nghiep-gia-dinh-20210225154957243.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lịch thi đấu V.League 2021 vòng 3: Hải Phòng vs Hà Nội FC](https://laodong.vn/lich-thi-dau/lich-thi-dau-vleague-2021-vong-3-hai-phong-vs-ha-noi-fc-884214.ldo) ([Lao Động](https://laodong.vn))
-- [Nhọc nhằn công nhân kéo cáp quang mùa COVID-19](https://laodong.vn/xa-hoi/nhoc-nhan-cong-nhan-keo-cap-quang-mua-covid-19-884237.ldo) ([Lao Động](https://laodong.vn))
-- [Muốn bán điện thoại tại Mỹ, Vsmart phải hy sinh những gì?](https://cafebiz.vn/muon-ban-dien-thoai-tai-my-vsmart-phai-hy-sinh-nhung-gi-20210228080554229.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trường Tiểu học xã Quảng Sơn: Rạng ngời tuổi 100](https://laodong.vn/lao-dong-cuoi-tuan/truong-tieu-hoc-xa-quang-son-rang-ngoi-tuoi-100-884005.ldo) ([Lao Động](https://laodong.vn))
-- [Đi tìm sự thật: Hồ sơ "cha đẻ" Pi Network có nhiều dấu hiệu đáng ngờ](https://cafebiz.vn/di-tim-su-that-ho-so-cha-de-pi-network-co-nhieu-dau-hieu-dang-ngo-2021022808120608.chn) ([CafeBiz](https://cafebiz.vn))
+- [Miền Tây 'giăng lưới' ngăn COVID-19](https://tuoitre.vn/mien-tay-giang-luoi-ngan-covid-19-20210228091700901.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Giá vàng hôm nay 28.2: Liên tục giảm, và còn giảm sâu hơn nữa?](https://laodong.vn/thi-truong/gia-vang-hom-nay-282-lien-tuc-giam-va-con-giam-sau-hon-nua-884206.ldo) ([Lao Động](https://laodong.vn))
+- [Nông sản Hà Nội cũng cần 'giải cứu'](https://cafebiz.vn/nong-san-ha-noi-cung-can-giai-cuu-2021022808254293.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thành phố lớn nhất New Zealand bước vào đợt phong tỏa lần 2 trong tháng 2](https://laodong.vn/the-gioi/thanh-pho-lon-nhat-new-zealand-buoc-vao-dot-phong-toa-lan-2-trong-thang-2-884248.ldo) ([Lao Động](https://laodong.vn))
+- [Những hình ảnh đầu tiên về hành tinh Đỏ được NASA công bố](https://laodong.vn/photo/nhung-hinh-anh-dau-tien-ve-hanh-tinh-do-duoc-nasa-cong-bo-884209.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ xây dựng trái phép ở Cờ Đỏ: Dân “tố” huyện buông lỏng quản lý đất công](https://laodong.vn/ban-doc/vu-xay-dung-trai-phep-o-co-do-dan-to-huyen-buong-long-quan-ly-dat-cong-884250.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương giải thể Bệnh viện Dã chiến số 1 ở Chí Linh](https://laodong.vn/y-te/hai-duong-giai-the-benh-vien-da-chien-so-1-o-chi-linh-884249.ldo) ([Lao Động](https://laodong.vn))
+- [4 đặc điểm của đàn ông bản lĩnh: "Tranh" sự an tâm cho gia đình, "kiếm" một tương lai cho chính mình](https://cafebiz.vn/4-dac-diem-cua-dan-ong-ban-linh-tranh-su-an-tam-cho-gia-dinh-kiem-mot-tuong-lai-cho-chinh-minh-20210224183146212.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủy Tiên công bố hình ảnh xây dựng 10 nhà chống lũ cho bà con miền Trung, kinh phí trích từ quỹ từ thiện 177 tỷ đồng](https://cafebiz.vn/thuy-tien-cong-bo-hinh-anh-xay-dung-10-nha-chong-lu-cho-ba-con-mien-trung-kinh-phi-trich-tu-quy-tu-thien-177-ty-dong-20210228081842884.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đặc điểm chung của những người giàu nhất Việt Nam: Tài sản khổng lồ nhưng kín tiếng, ai cũng tò mò họ đi xe gì?](https://cafebiz.vn/dac-diem-chung-cua-nhung-nguoi-giau-nhat-viet-nam-tai-san-khong-lo-nhung-kin-tieng-ai-cung-to-mo-ho-di-xe-gi-20210228085457524.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -116,8 +116,8 @@
 01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 02. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 03. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
-04. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
-05. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+04. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+05. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 06. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 07. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
 08. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
