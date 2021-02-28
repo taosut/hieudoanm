@@ -68,6 +68,7 @@
 
 **VIETCETERA**
 
+- [Sói già phố Wall: Chúng ta vừa xem cái quái gì vậy?](https://vietcetera.com/vn/soi-gia-pho-wall-chung-ta-vua-xem-cai-quai-gi-vay)
 - [Kế hoạch hoàn thiện bản thân cho năm mới: Bạn cần lưu ý những gì?](https://vietcetera.com/vn/hoan-thien-ban-than-trong-nam-moi-ban-can-luu-y-nhung-gi)
 - [Dương Giáp và những tác phẩm thách thức ranh giới của thực tại](https://vietcetera.com/vn/duong-giap)
 - [Tóm Lại Là: Người châu Á bị thù ghét vì COVID-19?](https://vietcetera.com/vn/tom-lai-la-nguoi-chau-a-bi-ghet-hon-vi-covid-19)
@@ -77,7 +78,6 @@
 - [Sau Tết, làm thế nào để giảm cân hiệu quả khi tập gym cùng PT? ](https://vietcetera.com/vn/sau-tet-lam-the-nao-de-giam-can-hieu-qua-khi-tap-gym-cung-pt)
 - [Đối mặt với sang chấn tuổi thơ và sự vô cảm của người xung quanh](https://vietcetera.com/vn/doi-mat-voi-sang-chan-tuoi-tho-va-su-vo-cam-cua-nguoi-xung-quanh)
 - [Đối diện với nỗi sợ từ quá khứ qua phim kinh dị](https://vietcetera.com/vn/nhung-tac-pham-kinh-di-chat-chua-noi-dau-con-nguoi-cua-mike-flanagan)
-- [5 Ứng dụng “kể chuyện” bằng game](https://vietcetera.com/vn/5-ung-dung-ke-chuyen-bang-game)
 
 [Read More](https://vietcetera.com/)
 
