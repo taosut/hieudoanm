@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is light intensity drizzle.
+- Current weather is drizzle.
 - Temperature is 17°C.
-- Feels Like 16.45°C.
-- Air Visual is 154.
+- Feels Like 16.82°C.
+- Air Visual is 143.
 
 **WEATHER**
 
@@ -54,7 +54,7 @@
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Học sinh Hà Nội bao giờ đi học](https://img.shields.io/static/v1?label=H%E1%BB%8Dc%20sinh%20H%C3%A0%20N%E1%BB%99i%20bao%20gi%E1%BB%9D%20%C4%91i%20h%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BB%8Dc%20sinh%20H%C3%A0%20N%E1%BB%99i%20bao%20gi%E1%BB%9D%20%C4%91i%20h%E1%BB%8Dc)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
-- [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
+- [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![MC](https://img.shields.io/static/v1?label=MC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MC)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Mi 11](https://img.shields.io/static/v1?label=Mi%2011&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mi%2011)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Texas tê liệt vì giá lạnh - lời cảnh báo sâu sắc](https://laodong.vn/lao-dong-cuoi-tuan/texas-te-liet-vi-gia-lanh-loi-canh-bao-sau-sac-884006.ldo) ([Lao Động](https://laodong.vn))
-- [Úc tự phát triển vaccine Oxford-AstraZeneca thành công](https://laodong.vn/the-gioi/uc-tu-phat-trien-vaccine-oxford-astrazeneca-thanh-cong-884272.ldo) ([Lao Động](https://laodong.vn))
-- [Hàng loạt Tập đoàn BĐS lớn như T&T Group, Him Lam, Văn Phú, Ecopark, Tân Hoàng Minh...đang ồ ạt đổ về tạo nên những cơn sốt cục bộ cho thị trường BĐS nơi đây](https://cafebiz.vn/hang-loat-tap-doan-bds-lon-nhu-tt-group-him-lam-van-phu-ecopark-tan-hoang-minhdang-o-at-do-ve-tao-nen-nhung-con-sot-cuc-bo-cho-thi-truong-bds-noi-day-20210228085330065.chn) ([CafeBiz](https://cafebiz.vn))
-- [Gia Lai: Ca bệnh tái dương tính SARS-CoV-2 sau 7 ngày xuất viện](https://laodong.vn/xa-hoi/gia-lai-ca-benh-tai-duong-tinh-sars-cov-2-sau-7-ngay-xuat-vien-884256.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng và ngoại tệ 28.2: Vì sao giá vàng giảm mạnh tuần qua?](https://laodong.vn/video/gia-vang-va-ngoai-te-282-vi-sao-gia-vang-giam-manh-tuan-qua-884267.ldo) ([Lao Động](https://laodong.vn))
-- [Khách sạn, cửa hàng Hà Nội lại treo biển cho thuê](https://cafebiz.vn/khach-san-cua-hang-ha-noi-lai-treo-bien-cho-thue-20210228082740784.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nghĩa Dũng  Karate-Do - tinh hoa Nhật Bản và lễ giáo xứ Thần kinh](https://laodong.vn/the-thao/nghia-dung-karate-do-tinh-hoa-nhat-ban-va-le-giao-xu-than-kinh-883625.ldo) ([Lao Động](https://laodong.vn))
-- [Nhan sắc và sự nghiệp thăng hạng tuổi 21 của Amee](https://laodong.vn/photo/nhan-sac-va-su-nghiep-thang-hang-tuoi-21-cua-amee-884127.ldo) ([Lao Động](https://laodong.vn))
-- [Gần 19.500 tỷ đồng làm cao tốc Tân Phú - Bảo Lộc](https://vnexpress.net/gan-19-500-ty-dong-lam-cao-toc-tan-phu-bao-loc-4241079.html) ([VNExpress](https://vnexpress.net))
-- [Yêu cầu Facebook và Google trả phí, ai sẽ là người định giá tin tức?](https://cafebiz.vn/yeu-cau-facebook-va-google-tra-phi-ai-se-la-nguoi-dinh-gia-tin-tuc-20210228082846596.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khởi tố, bắt tạm giam nguyên Cục trưởng Cục Thuế Bình Dương](https://cafebiz.vn/khoi-to-bat-tam-giam-nguyen-cuc-truong-cuc-thue-binh-duong-20210228085950163.chn) ([CafeBiz](https://cafebiz.vn))
+- [Miền Bắc sắp đón không khí lạnh](https://vnexpress.net/mien-bac-sap-don-khong-khi-lanh-4241225.html) ([VNExpress](https://vnexpress.net))
+- [Dự báo thời tiết 7 ngày tới: Bắc Bộ mưa rải rác, Nam Bộ nền nhiệt tăng](https://laodong.vn/infographic/du-bao-thoi-tiet-7-ngay-toi-bac-bo-mua-rai-rac-nam-bo-nen-nhiet-tang-884280.ldo) ([Lao Động](https://laodong.vn))
+- [Cục thuế yêu cầu truy thu ngay 400 tỷ đồng tiền thuế, nhưng tiền mặt của Thuduc House chỉ còn chưa đến 2 tỷ đồng](https://cafebiz.vn/cuc-thue-yeu-cau-truy-thu-ngay-400-ty-dong-tien-thue-nhung-tien-mat-cua-thuduc-house-chi-con-chua-den-2-ty-dong-20210228085819676.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tắm biển Mũi Né, hai du khách tử vong](https://vnexpress.net/tam-bien-mui-ne-hai-du-khach-tu-vong-4241234.html) ([VNExpress](https://vnexpress.net))
+- [Diệp Bảo Ngọc bất ngờ tái xuất showbiz với vai trò &quot;ca sĩ&quot;](https://laodong.vn/photo/diep-bao-ngoc-bat-ngo-tai-xuat-showbiz-voi-vai-tro-ca-si-884236.ldo) ([Lao Động](https://laodong.vn))
+- [Thoải mái 'xộc' vào đời tư người khác: Giới hạn nào cho YouTuber?](https://tuoitre.vn/thoai-mai-xoc-vao-doi-tu-nguoi-khac-gioi-han-nao-cho-youtuber-20210228095425936.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tảng băng trôi khổng lồ lớn hơn New York tách khỏi Nam Cực](https://laodong.vn/the-gioi/tang-bang-troi-khong-lo-lon-hon-new-york-tach-khoi-nam-cuc-884263.ldo) ([Lao Động](https://laodong.vn))
+- [Xuất hiện ca nghi nhiễm, Bạc Liêu đề nghị xét nghiệm toàn bộ tân binh](https://laodong.vn/xa-hoi/xuat-hien-ca-nghi-nhiem-bac-lieu-de-nghi-xet-nghiem-toan-bo-tan-binh-884278.ldo) ([Lao Động](https://laodong.vn))
+- [Jisoo - Blackpink và Jung Hae In được khen đẹp đôi khi đóng chung phim](https://laodong.vn/giai-tri/jisoo-blackpink-va-jung-hae-in-duoc-khen-dep-doi-khi-dong-chung-phim-884268.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -133,8 +133,8 @@
 01. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 03. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
-04. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
-05. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+04. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+05. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 06. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 07. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 08. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
