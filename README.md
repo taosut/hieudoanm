@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is drizzle.
 - Temperature is 16°C.
 - Feels Like 15.46°C.
-- Air Visual is 102.
+- Air Visual is 158.
 
 **WEATHER**
 
@@ -48,12 +48,11 @@
 
 **GOOGLE TRENDS**
 
-- [![Arsenal vs Benfica](https://img.shields.io/static/v1?label=Arsenal%20vs%20Benfica&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Benfica)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
-- [![Cao văn Triền](https://img.shields.io/static/v1?label=Cao%20v%C4%83n%20Tri%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cao%20v%C4%83n%20Tri%E1%BB%81n)
 - [![Cuôc chiến thượng lưu](https://img.shields.io/static/v1?label=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![MC](https://img.shields.io/static/v1?label=MC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MC)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
@@ -66,6 +65,7 @@
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![PUBG: New State](https://img.shields.io/static/v1?label=PUBG:%20New%20State&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PUBG:%20New%20State)
 - [![Thương Tín](https://img.shields.io/static/v1?label=Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%B0%C6%A1ng%20T%C3%ADn)
+- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 - [![Đồng Tháp](https://img.shields.io/static/v1?label=%C4%90%E1%BB%93ng%20Th%C3%A1p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BB%93ng%20Th%C3%A1p)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Sáng 28.2: Chưa ghi nhận ca mắc COVID-19 mới](https://laodong.vn/y-te/sang-282-chua-ghi-nhan-ca-mac-covid-19-moi-884225.ldo) ([Lao Động](https://laodong.vn))
-- [Sáng nay 28-2 không ghi nhận ca bệnh COVID-19 mới, bệnh nhân nặng nhất tiến triển tích cực](https://tuoitre.vn/sang-nay-28-2-khong-ghi-nhan-ca-benh-covid-19-moi-benh-nhan-nang-nhat-tien-trien-tich-cuc-20210228062630905.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nắm vững 25 phím tắt Macbook này để làm việc nhanh hơn](https://laodong.vn/cong-nghe/nam-vung-25-phim-tat-macbook-nay-de-lam-viec-nhanh-hon-884231.ldo) ([Lao Động](https://laodong.vn))
-- [Tiếng ồn karaoke, nỗ lực của TP.HCM và việc ca hát văn minh](http://vietnamnet.vn/vn/thoi-su/tieng-on-karaoke-no-luc-cua-tp-hcm-va-viec-ca-hat-van-minh-715882.html) ([VietNamNet](https://vietnamnet.vn))
-- [Dự báo thời tiết ngày 28/2: Bắc Bộ tiếp chuỗi ngày mưa rét, Nam Bộ nắng](http://vietnamnet.vn/vn/thoi-su/du-bao-thoi-tiet-ngay-28-2-bac-bo-tiep-chuoi-ngay-mua-ret-nam-bo-nang-716006.html) ([VietNamNet](https://vietnamnet.vn))
-- [Nông dân Gia Lai tưới cà phê ngày lẫn đêm](https://vnexpress.net/nong-dan-gia-lai-tuoi-ca-phe-ngay-lan-dem-4238754.html) ([VNExpress](https://vnexpress.net))
-- [Chính sách mới về tiền lương của quân đội được áp dụng từ tháng 3](http://vietnamnet.vn/vn/thoi-su/quoc-phong/chinh-sach-moi-ve-tien-luong-cua-quan-doi-duoc-ap-dung-tu-thang-3-714715.html) ([VietNamNet](https://vietnamnet.vn))
-- [Covid-19 ngày 28/2](https://vnexpress.net/covid-19-ngay-28-2-4241172.html) ([VNExpress](https://vnexpress.net))
-- [Hot: MUJI âm thầm căng bạt đỏ tại Vincom Center Metropolis, ngày khai trương tại Hà Nội chẳng còn xa](https://cafebiz.vn/hot-muji-am-tham-cang-bat-do-tai-vincom-center-metropolis-ngay-khai-truong-tai-ha-noi-chang-con-xa-20210227235106278.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chia sẻ: Trải nghiệm lái xe với dẫn đường bằng AR (thực tế ảo tăng cường) ở Hàn Quốc](https://tinhte.vn/thread/chia-se-trai-nghiem-lai-xe-voi-dan-duong-bang-ar-thuc-te-ao-tang-cuong-o-han-quoc.3284090/) ([Tinh Tế](https://tinhte.vn))
+- [NASA bối rối với ảnh vệ tinh bí ẩn ở Nga](https://laodong.vn/the-gioi/nasa-boi-roi-voi-anh-ve-tinh-bi-an-o-nga-884242.ldo) ([Lao Động](https://laodong.vn))
+- [Dọn dẹp trường lớp đón học sinh trở lại](https://vnexpress.net/don-dep-truong-lop-don-hoc-sinh-tro-lai-4241155.html) ([VNExpress](https://vnexpress.net))
+- [Lương Y - Điểm tựa tình người](https://laodong.vn/lao-dong-cuoi-tuan/luong-y-diem-tua-tinh-nguoi-883581.ldo) ([Lao Động](https://laodong.vn))
+- [Những loại vaccine chống SARS-CoV-2 trên thế giới và giá cả](https://laodong.vn/lao-dong-cuoi-tuan/nhung-loai-vaccine-chong-sars-cov-2-tren-the-gioi-va-gia-ca-883574.ldo) ([Lao Động](https://laodong.vn))
+- [Đọc báo cùng bạn 28-2: Miền Tây 'giăng lưới' ngăn COVID-19](https://tuoitre.vn/doc-bao-cung-ban-28-2-mien-tay-giang-luoi-ngan-covid-19-20210228050802807.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Động thái của ông Biden sau thắng lợi lập pháp đầu tiên](https://laodong.vn/the-gioi/dong-thai-cua-ong-biden-sau-thang-loi-lap-phap-dau-tien-884240.ldo) ([Lao Động](https://laodong.vn))
+- [3 câu "thần chú" dạy bạn cách nhìn thấu một người: Đọc vị một người chưa bao giờ đơn giản đến thế!](https://cafebiz.vn/3-cau-than-chu-day-ban-cach-nhin-thau-mot-nguoi-doc-vi-mot-nguoi-chua-bao-gio-don-gian-den-the-20210222172153312.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cty Điện lực Quảng Trị: Hơn 600 triệu đồng chăm lo đời sống NLĐ trong năm 2020](https://laodong.vn/cd-dien-luc/cty-dien-luc-quang-tri-hon-600-trieu-dong-cham-lo-doi-song-nld-trong-nam-2020-883814.ldo) ([Lao Động](https://laodong.vn))
+- [Shark Việt từng khuyên 'thà làm đầy tớ người khôn' nhưng học hỏi ra sao thì không nói, sau đây là 4 bước để học lỏm từ họ](https://cafebiz.vn/shark-viet-tung-khuyen-tha-lam-day-to-nguoi-khon-nhung-hoc-hoi-ra-sao-thi-khong-noi-sau-day-la-4-buoc-de-hoc-lom-tu-ho-20210224150950955.chn) ([CafeBiz](https://cafebiz.vn))
+- [BLV Quang Huy: &quot;Hiến máu thường xuyên giúp đất đước có nguồn dự trữ&quot;](https://laodong.vn/video/blv-quang-huy-hien-mau-thuong-xuyen-giup-dat-duoc-co-nguon-du-tru-884228.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
