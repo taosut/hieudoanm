@@ -15,6 +15,7 @@ const masterRepo: string = `https://github.com/vietnamdb/vietnamdb/tree/master`;
 export const getNewsArticles = async (): Promise<string> => {
   console.log('Build README - getNewsArticles()');
   const articles = await syncNews(10, false);
+  if (!articles.length) return '';
   return articles
     .map((article: any) => {
       const { title, url, source, sourceURL } = article;
@@ -100,6 +101,7 @@ export const getGoogleTrends = async (): Promise<string> => {
   console.log('Build README - getGoogleTrends()');
   const url: string = `${api}/news/trends`;
   const { trends = [] } = await request(url);
+  if (!trends.length) return '';
   const md: string = trends
     .map((trend: string) => {
       const encode: string = encodeURI(trend);
