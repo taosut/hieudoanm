@@ -68,6 +68,7 @@
 
 **VIETCETERA**
 
+- ["Anh đang khoác áo trái đó..."](https://vietcetera.com/vn/du-anh-co-roi-vao-tinh-canh-xau-ho-hay-kho-khan-minh-van-se-chon-o-ben-anh)
 - [5 Live show âm nhạc YouTube để bạn khám phá nghệ sĩ mới](https://vietcetera.com/vn/5-live-show-am-nhac-youtube-de-ban-kham-pha-nghe-si-moi)
 - [Làm sao để yêu mà không đánh mất chính mình?](https://vietcetera.com/vn/lam-sao-de-yeu-ma-khong-danh-mat-chinh-minh)
 - [Sói già phố Wall: Chúng ta vừa xem cái quái gì vậy?](https://vietcetera.com/vn/soi-gia-pho-wall-chung-ta-vua-xem-cai-quai-gi-vay)
@@ -77,7 +78,6 @@
 - [Cởi Mở: Lần đầu thử tình một đêm (ONS)](https://vietcetera.com/vn/coi-mo-lan-dau-thu-tinh-mot-dem-ons)
 - [Không Quan Tâm: Clubhouse còn lâu mới nổi ở Việt Nam](https://vietcetera.com/vn/khong-quan-tam-clubhouse-mang-xa-hoi-kieu-moi)
 - [5 Nhà hàng ẩm thực tinh hoa cho bữa trưa cùng đối tác](https://vietcetera.com/vn/5-chon-an-trua-cho-dan-van-phong)
-- [Sau Tết, làm thế nào để giảm cân hiệu quả khi tập gym cùng PT? ](https://vietcetera.com/vn/sau-tet-lam-the-nao-de-giam-can-hieu-qua-khi-tap-gym-cung-pt)
 
 [Read More](https://vietcetera.com/)
 
