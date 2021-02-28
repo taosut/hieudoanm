@@ -1,16 +1,1 @@
 "symbol","name","industry","subsector","group","latest","start","latestDate","startDate","diffToMin","diffToMax","diff","min","minDate","median","average","max","maxDate","low","numberOfDates"
-"CMV","Công ty Cổ phần Thương nghiệp Cà Mau","Dịch vụ Tiêu dùng","Bán lẻ phức hợp","HOSE",14.55,17.5,"2021-02-26","2021-02-03",0.15,2.95,3.1,14.4,"2021-02-25",15.75,15.89,17.5,"2021-02-03",true,6
-"DIH","Công ty Cổ phần Đầu tư Phát triển Xây dựng - Hội An","Công nghiệp","Xây dựng","HNX",12,13.6,"2021-02-26","2021-01-29",0,3.9,3.9,12,"2021-02-26",14.45,14.37,15.9,"2021-02-09",true,10
-"DNM","Tổng Công ty Cổ phần Y tế Danameco","Dược phẩm và Y tế","Dụng cụ y tế","HNX",38.8,44.5,"2021-02-26","2021-01-29",0,12.2,12.2,38.8,"2021-02-26",42.15,42.94,51,"2021-02-02",true,18
-"GKM","Công ty Cổ phần Khang Minh Group","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",16.3,18.8,"2021-02-26","2021-01-29",0,3.2,3.2,16.3,"2021-02-26",18.8,18.26,19.5,"2021-02-03",true,18
-"HLY","Công ty Cổ phần Viglacera Hạ Long I","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",36.2,44.6,"2021-02-26","2021-02-24",0,8.4,8.4,36.2,"2021-02-26",40.2,40.33,44.6,"2021-02-24",true,3
-"HRC","Công ty Cổ phần Cao su Hòa Bình","Nguyên vật liệu","Nhựa, cao su & sợi","HOSE",55.5,59,"2021-02-26","2021-01-29",0,7.6,7.6,55.5,"2021-02-26",59,59.23,63.1,"2021-02-04",true,7
-"HTP","Công ty Cổ phần In Sách Giáo Khoa Hòa Phát","Dịch vụ Tiêu dùng","Sách, ấn bản & sản phẩm văn hóa","HNX",17.5,20,"2021-02-26","2021-01-29",0.4,3.7,4.1,17.1,"2021-02-08",17.9,18.5,21.2,"2021-02-01",true,18
-"INC","Công ty Cổ phần Tư vấn Đầu tư IDICO","Công nghiệp","Xây dựng","HNX",9.2,13,"2021-02-26","2021-01-29",0,3.8,3.8,9.2,"2021-02-22",13,10.51,13,"2021-01-29",true,9
-"NAV","Công ty Cổ phần Nam Việt","Công nghiệp","Vật liệu xây dựng & Nội thất","HOSE",19,22.05,"2021-02-26","2021-01-29",0,4.55,4.55,19,"2021-02-24",21.9,21.11,23.55,"2021-02-01",true,9
-"QHD","Công ty Cổ phần Que hàn điện Việt Đức","Công nghiệp","Công nghiệp phức hợp","HNX",26,26.5,"2021-02-26","2021-01-29",0,3,3,26,"2021-02-26",27.4,27.61,29,"2021-02-17",true,8
-"SC5","Công ty Cổ phần Xây dựng số 5","Công nghiệp","Xây dựng","HOSE",19.9,23.25,"2021-02-26","2021-02-17",0.05,3.35,3.4,19.85,"2021-02-25",20.3,20.88,23.25,"2021-02-17",true,6
-"SGC","Công ty Cổ phần Xuất nhập khẩu Sa Giang","Hàng Tiêu dùng","Thực phẩm","HNX",90,93.2,"2021-02-19","2021-02-02",0,3.2,3.2,90,"2021-02-19",91.6,91.6,93.2,"2021-02-02",true,2
-"SGH","Công ty Cổ phần Khách sạn Sài Gòn","Dịch vụ Tiêu dùng","Khách sạn","HNX",40.9,45.4,"2021-02-22","2021-02-01",0,4.5,4.5,40.9,"2021-02-22",43.15,43.15,45.4,"2021-02-01",true,2
-"TKU","Công ty Cổ phần Công nghiệp Tung Kuang","Nguyên vật liệu","Nhôm","HNX",12.3,13.8,"2021-02-26","2021-02-01",0,3.2,3.2,12.3,"2021-02-24",14.75,14.29,15.5,"2021-02-05",true,10
-"TMB","Công ty Cổ phần Kinh doanh Than Miền Bắc - Vinacomin","Nguyên vật liệu","Khai thác Than","HNX",14.7,17.5,"2021-02-26","2021-01-29",0.3,2.8,3.1,14.4,"2021-02-25",15.45,15.62,17.5,"2021-01-29",true,12
