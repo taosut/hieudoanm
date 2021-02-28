@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is drizzle.
-- Temperature is 16°C.
-- Feels Like 15.46°C.
-- Air Visual is 158.
+- Current weather is light intensity drizzle.
+- Temperature is 17°C.
+- Feels Like 16.82°C.
+- Air Visual is 148.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [NASA bối rối với ảnh vệ tinh bí ẩn ở Nga](https://laodong.vn/the-gioi/nasa-boi-roi-voi-anh-ve-tinh-bi-an-o-nga-884242.ldo) ([Lao Động](https://laodong.vn))
-- [Dọn dẹp trường lớp đón học sinh trở lại](https://vnexpress.net/don-dep-truong-lop-don-hoc-sinh-tro-lai-4241155.html) ([VNExpress](https://vnexpress.net))
-- [Lương Y - Điểm tựa tình người](https://laodong.vn/lao-dong-cuoi-tuan/luong-y-diem-tua-tinh-nguoi-883581.ldo) ([Lao Động](https://laodong.vn))
-- [Những loại vaccine chống SARS-CoV-2 trên thế giới và giá cả](https://laodong.vn/lao-dong-cuoi-tuan/nhung-loai-vaccine-chong-sars-cov-2-tren-the-gioi-va-gia-ca-883574.ldo) ([Lao Động](https://laodong.vn))
-- [Đọc báo cùng bạn 28-2: Miền Tây 'giăng lưới' ngăn COVID-19](https://tuoitre.vn/doc-bao-cung-ban-28-2-mien-tay-giang-luoi-ngan-covid-19-20210228050802807.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Động thái của ông Biden sau thắng lợi lập pháp đầu tiên](https://laodong.vn/the-gioi/dong-thai-cua-ong-biden-sau-thang-loi-lap-phap-dau-tien-884240.ldo) ([Lao Động](https://laodong.vn))
-- [3 câu "thần chú" dạy bạn cách nhìn thấu một người: Đọc vị một người chưa bao giờ đơn giản đến thế!](https://cafebiz.vn/3-cau-than-chu-day-ban-cach-nhin-thau-mot-nguoi-doc-vi-mot-nguoi-chua-bao-gio-don-gian-den-the-20210222172153312.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cty Điện lực Quảng Trị: Hơn 600 triệu đồng chăm lo đời sống NLĐ trong năm 2020](https://laodong.vn/cd-dien-luc/cty-dien-luc-quang-tri-hon-600-trieu-dong-cham-lo-doi-song-nld-trong-nam-2020-883814.ldo) ([Lao Động](https://laodong.vn))
-- [Shark Việt từng khuyên 'thà làm đầy tớ người khôn' nhưng học hỏi ra sao thì không nói, sau đây là 4 bước để học lỏm từ họ](https://cafebiz.vn/shark-viet-tung-khuyen-tha-lam-day-to-nguoi-khon-nhung-hoc-hoi-ra-sao-thi-khong-noi-sau-day-la-4-buoc-de-hoc-lom-tu-ho-20210224150950955.chn) ([CafeBiz](https://cafebiz.vn))
-- [BLV Quang Huy: &quot;Hiến máu thường xuyên giúp đất đước có nguồn dự trữ&quot;](https://laodong.vn/video/blv-quang-huy-hien-mau-thuong-xuyen-giup-dat-duoc-co-nguon-du-tru-884228.ldo) ([Lao Động](https://laodong.vn))
+- [NSND Thu Hà: "Nữ hoàng ảnh lịch" thập niên 90 và cuộc sống ở tuổi 52](https://cafebiz.vn/nsnd-thu-ha-nu-hoang-anh-lich-thap-nien-90-va-cuoc-song-o-tuoi-52-20210228080159592.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thói quen của những người thành triệu phú từ con số 0: Không đi ‘đường tắt’, ngã ở đâu đứng lên ở đó](https://cafebiz.vn/thoi-quen-cua-nhung-nguoi-thanh-trieu-phu-tu-con-so-0-khong-di-duong-tat-nga-o-dau-dung-len-o-do-20210227214042206.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sau khi chọc thủng đáy 8 tháng, giá vàng được dự báo sẽ thế nào trong tuần đầu tiên của tháng 3?](https://cafebiz.vn/sau-khi-choc-thung-day-8-thang-gia-vang-duoc-du-bao-se-the-nao-trong-tuan-dau-tien-cua-thang-3-20210228080047321.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mỹ phê duyệt vaccine COVID-19 một liều đầu tiên](https://laodong.vn/the-gioi/my-phe-duyet-vaccine-covid-19-mot-lieu-dau-tien-884247.ldo) ([Lao Động](https://laodong.vn))
+- [Nghi Nguyễn - Cô con gái cả xinh đẹp nhà Kềm Nghĩa, phụ ba dập nóng kềm từ 9 tuổi, nhưng lại không kế nghiệp gia đình](https://cafebiz.vn/nghi-nguyen-co-con-gai-ca-xinh-dep-nha-kem-nghia-phu-ba-dap-nong-kem-tu-9-tuoi-nhung-lai-khong-ke-nghiep-gia-dinh-20210225154957243.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lịch thi đấu V.League 2021 vòng 3: Hải Phòng vs Hà Nội FC](https://laodong.vn/lich-thi-dau/lich-thi-dau-vleague-2021-vong-3-hai-phong-vs-ha-noi-fc-884214.ldo) ([Lao Động](https://laodong.vn))
+- [Nhọc nhằn công nhân kéo cáp quang mùa COVID-19](https://laodong.vn/xa-hoi/nhoc-nhan-cong-nhan-keo-cap-quang-mua-covid-19-884237.ldo) ([Lao Động](https://laodong.vn))
+- [Muốn bán điện thoại tại Mỹ, Vsmart phải hy sinh những gì?](https://cafebiz.vn/muon-ban-dien-thoai-tai-my-vsmart-phai-hy-sinh-nhung-gi-20210228080554229.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trường Tiểu học xã Quảng Sơn: Rạng ngời tuổi 100](https://laodong.vn/lao-dong-cuoi-tuan/truong-tieu-hoc-xa-quang-son-rang-ngoi-tuoi-100-884005.ldo) ([Lao Động](https://laodong.vn))
+- [Đi tìm sự thật: Hồ sơ "cha đẻ" Pi Network có nhiều dấu hiệu đáng ngờ](https://cafebiz.vn/di-tim-su-that-ho-so-cha-de-pi-network-co-nhieu-dau-hieu-dang-ngo-2021022808120608.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
