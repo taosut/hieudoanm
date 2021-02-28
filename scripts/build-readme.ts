@@ -201,7 +201,9 @@ export const buildREADME = async () => {
   const { description, temp, feelsLike } = weather;
   const npm: string = buildNPM();
 
-  const md: string = `<p align="center"><img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/top.png" alt="VIETNAM" height="60"/></p>
+  const avatar: string = `https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/profile/avatar.png`;
+
+  const md: string = `<p align="center"><img src="${avatar}" alt="VIETNAM" height="60"/></p>
 <h1 align="center">VIETNAMDB</h1>
 <p align="center">VIETNAM 🇻🇳 RESTful APIs.</p>
 <p align="center">
