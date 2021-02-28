@@ -21,8 +21,8 @@
 
 - Current weather is light intensity drizzle.
 - Temperature is 17°C.
-- Feels Like 16.45°C.
-- Air Visual is 153.
+- Feels Like 16.82°C.
+- Air Visual is 163.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Du lịch năm 2021 sẽ theo hướng giãn cách xã hội, phụ thuộc vào vaccine](https://cafebiz.vn/du-lich-nam-2021-se-theo-huong-gian-cach-xa-hoi-phu-thuoc-vao-vaccine-20210228083346672.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sao Việt quyên góp hơn 350 triệu đồng ủng hộ nghệ sĩ Thương Tín](https://laodong.vn/van-hoa/sao-viet-quyen-gop-hon-350-trieu-dong-ung-ho-nghe-si-thuong-tin-884251.ldo) ([Lao Động](https://laodong.vn))
+- [Giá lúa đông xuân cao kỷ lục trong hàng chục năm qua, nông dân phấn khởi](https://laodong.vn/kinh-te/gia-lua-dong-xuan-cao-ky-luc-trong-hang-chuc-nam-qua-nong-dan-phan-khoi-884257.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyển 'nhà' một số cổ phiếu từ HoSE qua HNX: Giải pháp tạm để chống 'nghẽn' hệ thống giao dịch?](https://cafebiz.vn/chuyen-nha-mot-so-co-phieu-tu-hose-qua-hnx-giai-phap-tam-de-chong-nghen-he-thong-giao-dich-20210228083112093.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đồng sở hữu đất có được cấp riêng sổ đỏ?](https://laodong.vn/bat-dong-san/dong-so-huu-dat-co-duoc-cap-rieng-so-do-884086.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Mục sở thị&quot; thiệt hại cuộc tấn công quân sự đầu tiên dưới thời ông Biden](https://laodong.vn/the-gioi/muc-so-thi-thiet-hai-cuoc-tan-cong-quan-su-dau-tien-duoi-thoi-ong-biden-884253.ldo) ([Lao Động](https://laodong.vn))
+- [Bạc Liêu họp khẩn do 1 trường hợp nghi dương tính SARS-CoV-2](https://laodong.vn/xa-hoi/bac-lieu-hop-khan-do-1-truong-hop-nghi-duong-tinh-sars-cov-2-884255.ldo) ([Lao Động](https://laodong.vn))
+- [Đâu còn chỉ là bảng tính, Microsoft đang biến Excel thành một ngôn ngữ lập trình hoàn chỉnh](https://cafebiz.vn/dau-con-chi-la-bang-tinh-microsoft-dang-bien-excel-thanh-mot-ngon-ngu-lap-trinh-hoan-chinh-20210228082030854.chn) ([CafeBiz](https://cafebiz.vn))
 - [Miền Tây 'giăng lưới' ngăn COVID-19](https://tuoitre.vn/mien-tay-giang-luoi-ngan-covid-19-20210228091700901.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Giá vàng hôm nay 28.2: Liên tục giảm, và còn giảm sâu hơn nữa?](https://laodong.vn/thi-truong/gia-vang-hom-nay-282-lien-tuc-giam-va-con-giam-sau-hon-nua-884206.ldo) ([Lao Động](https://laodong.vn))
 - [Nông sản Hà Nội cũng cần 'giải cứu'](https://cafebiz.vn/nong-san-ha-noi-cung-can-giai-cuu-2021022808254293.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thành phố lớn nhất New Zealand bước vào đợt phong tỏa lần 2 trong tháng 2](https://laodong.vn/the-gioi/thanh-pho-lon-nhat-new-zealand-buoc-vao-dot-phong-toa-lan-2-trong-thang-2-884248.ldo) ([Lao Động](https://laodong.vn))
-- [Những hình ảnh đầu tiên về hành tinh Đỏ được NASA công bố](https://laodong.vn/photo/nhung-hinh-anh-dau-tien-ve-hanh-tinh-do-duoc-nasa-cong-bo-884209.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ xây dựng trái phép ở Cờ Đỏ: Dân “tố” huyện buông lỏng quản lý đất công](https://laodong.vn/ban-doc/vu-xay-dung-trai-phep-o-co-do-dan-to-huyen-buong-long-quan-ly-dat-cong-884250.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương giải thể Bệnh viện Dã chiến số 1 ở Chí Linh](https://laodong.vn/y-te/hai-duong-giai-the-benh-vien-da-chien-so-1-o-chi-linh-884249.ldo) ([Lao Động](https://laodong.vn))
-- [4 đặc điểm của đàn ông bản lĩnh: "Tranh" sự an tâm cho gia đình, "kiếm" một tương lai cho chính mình](https://cafebiz.vn/4-dac-diem-cua-dan-ong-ban-linh-tranh-su-an-tam-cho-gia-dinh-kiem-mot-tuong-lai-cho-chinh-minh-20210224183146212.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủy Tiên công bố hình ảnh xây dựng 10 nhà chống lũ cho bà con miền Trung, kinh phí trích từ quỹ từ thiện 177 tỷ đồng](https://cafebiz.vn/thuy-tien-cong-bo-hinh-anh-xay-dung-10-nha-chong-lu-cho-ba-con-mien-trung-kinh-phi-trich-tu-quy-tu-thien-177-ty-dong-20210228081842884.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đặc điểm chung của những người giàu nhất Việt Nam: Tài sản khổng lồ nhưng kín tiếng, ai cũng tò mò họ đi xe gì?](https://cafebiz.vn/dac-diem-chung-cua-nhung-nguoi-giau-nhat-viet-nam-tai-san-khong-lo-nhung-kin-tieng-ai-cung-to-mo-ho-di-xe-gi-20210228085457524.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
