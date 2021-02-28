@@ -21,8 +21,8 @@
 
 - Current weather is light intensity drizzle.
 - Temperature is 17°C.
-- Feels Like 16.82°C.
-- Air Visual is 163.
+- Feels Like 16.45°C.
+- Air Visual is 154.
 
 **WEATHER**
 
@@ -52,8 +52,8 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Cuôc chiến thượng lưu](https://img.shields.io/static/v1?label=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%C3%B4c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
+- [![Học sinh Hà Nội bao giờ đi học](https://img.shields.io/static/v1?label=H%E1%BB%8Dc%20sinh%20H%C3%A0%20N%E1%BB%99i%20bao%20gi%E1%BB%9D%20%C4%91i%20h%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BB%8Dc%20sinh%20H%C3%A0%20N%E1%BB%99i%20bao%20gi%E1%BB%9D%20%C4%91i%20h%E1%BB%8Dc)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
-- [![Kiều @](https://img.shields.io/static/v1?label=Ki%E1%BB%81u%20@&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ki%E1%BB%81u%20@)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![MC](https://img.shields.io/static/v1?label=MC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MC)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Du lịch năm 2021 sẽ theo hướng giãn cách xã hội, phụ thuộc vào vaccine](https://cafebiz.vn/du-lich-nam-2021-se-theo-huong-gian-cach-xa-hoi-phu-thuoc-vao-vaccine-20210228083346672.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sao Việt quyên góp hơn 350 triệu đồng ủng hộ nghệ sĩ Thương Tín](https://laodong.vn/van-hoa/sao-viet-quyen-gop-hon-350-trieu-dong-ung-ho-nghe-si-thuong-tin-884251.ldo) ([Lao Động](https://laodong.vn))
-- [Giá lúa đông xuân cao kỷ lục trong hàng chục năm qua, nông dân phấn khởi](https://laodong.vn/kinh-te/gia-lua-dong-xuan-cao-ky-luc-trong-hang-chuc-nam-qua-nong-dan-phan-khoi-884257.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyển 'nhà' một số cổ phiếu từ HoSE qua HNX: Giải pháp tạm để chống 'nghẽn' hệ thống giao dịch?](https://cafebiz.vn/chuyen-nha-mot-so-co-phieu-tu-hose-qua-hnx-giai-phap-tam-de-chong-nghen-he-thong-giao-dich-20210228083112093.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đồng sở hữu đất có được cấp riêng sổ đỏ?](https://laodong.vn/bat-dong-san/dong-so-huu-dat-co-duoc-cap-rieng-so-do-884086.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Mục sở thị&quot; thiệt hại cuộc tấn công quân sự đầu tiên dưới thời ông Biden](https://laodong.vn/the-gioi/muc-so-thi-thiet-hai-cuoc-tan-cong-quan-su-dau-tien-duoi-thoi-ong-biden-884253.ldo) ([Lao Động](https://laodong.vn))
-- [Bạc Liêu họp khẩn do 1 trường hợp nghi dương tính SARS-CoV-2](https://laodong.vn/xa-hoi/bac-lieu-hop-khan-do-1-truong-hop-nghi-duong-tinh-sars-cov-2-884255.ldo) ([Lao Động](https://laodong.vn))
-- [Đâu còn chỉ là bảng tính, Microsoft đang biến Excel thành một ngôn ngữ lập trình hoàn chỉnh](https://cafebiz.vn/dau-con-chi-la-bang-tinh-microsoft-dang-bien-excel-thanh-mot-ngon-ngu-lap-trinh-hoan-chinh-20210228082030854.chn) ([CafeBiz](https://cafebiz.vn))
-- [Miền Tây 'giăng lưới' ngăn COVID-19](https://tuoitre.vn/mien-tay-giang-luoi-ngan-covid-19-20210228091700901.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nông sản Hà Nội cũng cần 'giải cứu'](https://cafebiz.vn/nong-san-ha-noi-cung-can-giai-cuu-2021022808254293.chn) ([CafeBiz](https://cafebiz.vn))
+- [Texas tê liệt vì giá lạnh - lời cảnh báo sâu sắc](https://laodong.vn/lao-dong-cuoi-tuan/texas-te-liet-vi-gia-lanh-loi-canh-bao-sau-sac-884006.ldo) ([Lao Động](https://laodong.vn))
+- [Úc tự phát triển vaccine Oxford-AstraZeneca thành công](https://laodong.vn/the-gioi/uc-tu-phat-trien-vaccine-oxford-astrazeneca-thanh-cong-884272.ldo) ([Lao Động](https://laodong.vn))
+- [Hàng loạt Tập đoàn BĐS lớn như T&T Group, Him Lam, Văn Phú, Ecopark, Tân Hoàng Minh...đang ồ ạt đổ về tạo nên những cơn sốt cục bộ cho thị trường BĐS nơi đây](https://cafebiz.vn/hang-loat-tap-doan-bds-lon-nhu-tt-group-him-lam-van-phu-ecopark-tan-hoang-minhdang-o-at-do-ve-tao-nen-nhung-con-sot-cuc-bo-cho-thi-truong-bds-noi-day-20210228085330065.chn) ([CafeBiz](https://cafebiz.vn))
+- [Gia Lai: Ca bệnh tái dương tính SARS-CoV-2 sau 7 ngày xuất viện](https://laodong.vn/xa-hoi/gia-lai-ca-benh-tai-duong-tinh-sars-cov-2-sau-7-ngay-xuat-vien-884256.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng và ngoại tệ 28.2: Vì sao giá vàng giảm mạnh tuần qua?](https://laodong.vn/video/gia-vang-va-ngoai-te-282-vi-sao-gia-vang-giam-manh-tuan-qua-884267.ldo) ([Lao Động](https://laodong.vn))
+- [Khách sạn, cửa hàng Hà Nội lại treo biển cho thuê](https://cafebiz.vn/khach-san-cua-hang-ha-noi-lai-treo-bien-cho-thue-20210228082740784.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nghĩa Dũng  Karate-Do - tinh hoa Nhật Bản và lễ giáo xứ Thần kinh](https://laodong.vn/the-thao/nghia-dung-karate-do-tinh-hoa-nhat-ban-va-le-giao-xu-than-kinh-883625.ldo) ([Lao Động](https://laodong.vn))
+- [Nhan sắc và sự nghiệp thăng hạng tuổi 21 của Amee](https://laodong.vn/photo/nhan-sac-va-su-nghiep-thang-hang-tuoi-21-cua-amee-884127.ldo) ([Lao Động](https://laodong.vn))
+- [Gần 19.500 tỷ đồng làm cao tốc Tân Phú - Bảo Lộc](https://vnexpress.net/gan-19-500-ty-dong-lam-cao-toc-tan-phu-bao-loc-4241079.html) ([VNExpress](https://vnexpress.net))
+- [Yêu cầu Facebook và Google trả phí, ai sẽ là người định giá tin tức?](https://cafebiz.vn/yeu-cau-facebook-va-google-tra-phi-ai-se-la-nguoi-dinh-gia-tin-tuc-20210228082846596.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
