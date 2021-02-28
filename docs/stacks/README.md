@@ -6,15 +6,15 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript" alt="javascript" />](https://github.com/airbnb/javascript) | javascript | 105,947 | 3,860 | 20,474 | 130,281|
-|2|[<img src="https://img.shields.io/badge/-go-000?style=flat&logo=go" alt="go" />](https://github.com/golang/go) | go | 82,733 | 3,524 | 12,002 | 98,259|
+|1|[<img src="https://img.shields.io/badge/-javascript-000?style=flat&logo=javascript" alt="javascript" />](https://github.com/airbnb/javascript) | javascript | 105,948 | 3,860 | 20,474 | 130,282|
+|2|[<img src="https://img.shields.io/badge/-go-000?style=flat&logo=go" alt="go" />](https://github.com/golang/go) | go | 82,734 | 3,524 | 12,003 | 98,261|
 |3|[<img src="https://img.shields.io/badge/-typescript-000?style=flat&logo=typescript" alt="typescript" />](https://github.com/microsoft/TypeScript) | typescript | 68,893 | 2,158 | 9,135 | 80,186|
 
 ## PACKAGE MANAGERS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-homebrew-000?style=flat&logo=homebrew" alt="homebrew" />](https://github.com/Homebrew/homebrew-core) | ruby | 8,914 | 265 | 9,000 | 18,179|
+|1|[<img src="https://img.shields.io/badge/-homebrew-000?style=flat&logo=homebrew" alt="homebrew" />](https://github.com/Homebrew/homebrew-core) | ruby | 8,915 | 265 | 9,000 | 18,180|
 |2|[<img src="https://img.shields.io/badge/-npm-000?style=flat&logo=npm" alt="npm" />](https://github.com/npm/cli) | javascript | 4,140 | 156 | 1,112 | 5,408|
 |3|[<img src="https://img.shields.io/badge/-yarn-000?style=flat&logo=yarn" alt="yarn" />](https://github.com/yarnpkg/berry) | typescript | 2,955 | 44 | 383 | 3,382|
 
@@ -34,20 +34,20 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-bootstrap-000?style=flat&logo=bootstrap" alt="bootstrap" />](https://github.com/twbs/bootstrap) | javascript | 148,506 | 7,129 | 72,412 | 228,047|
+|1|[<img src="https://img.shields.io/badge/-bootstrap-000?style=flat&logo=bootstrap" alt="bootstrap" />](https://github.com/twbs/bootstrap) | javascript | 148,506 | 7,129 | 72,413 | 228,048|
 
 ## FRONT-END FRAMEWORKS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-react-000?style=flat&logo=react" alt="react" />](https://github.com/facebook/react) | javascript | 164,335 | 6,740 | 32,956 | 204,031|
-|2|[<img src="https://img.shields.io/badge/-angular-000?style=flat&logo=angular" alt="angular" />](https://github.com/angular/angular) | typescript | 70,985 | 3,200 | 18,661 | 92,846|
+|1|[<img src="https://img.shields.io/badge/-react-000?style=flat&logo=react" alt="react" />](https://github.com/facebook/react) | javascript | 164,337 | 6,740 | 32,957 | 204,034|
+|2|[<img src="https://img.shields.io/badge/-angular-000?style=flat&logo=angular" alt="angular" />](https://github.com/angular/angular) | typescript | 70,986 | 3,200 | 18,662 | 92,848|
 
 ## MOBILE FRAMEWORKS
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-reactnative-000?style=flat&logo=react-native" alt="react-native" />](https://github.com/facebook/react-native) | javascript | 93,608 | 3,729 | 20,558 | 117,895|
+|1|[<img src="https://img.shields.io/badge/-reactnative-000?style=flat&logo=react-native" alt="react-native" />](https://github.com/facebook/react-native) | javascript | 93,609 | 3,729 | 20,560 | 117,898|
 
 ## BACK-END FRAMEWORKS
 
@@ -68,8 +68,8 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-visualstudiocode-000?style=flat&logo=visual-studio-code" alt="visual-studio-code" />](https://github.com/microsoft/vscode) | typescript | 111,696 | 3,081 | 18,152 | 132,929|
-|2|[<img src="https://img.shields.io/badge/-git-000?style=flat&logo=git" alt="git" />](https://github.com/git/git) | c | 36,076 | 2,277 | 20,969 | 59,322|
+|1|[<img src="https://img.shields.io/badge/-visualstudiocode-000?style=flat&logo=visual-studio-code" alt="visual-studio-code" />](https://github.com/microsoft/vscode) | typescript | 111,697 | 3,080 | 18,153 | 132,930|
+|2|[<img src="https://img.shields.io/badge/-git-000?style=flat&logo=git" alt="git" />](https://github.com/git/git) | c | 36,076 | 2,277 | 20,970 | 59,323|
 |3|[<img src="https://img.shields.io/badge/-dockercompose-000?style=flat&logo=docker-compose" alt="docker-compose" />](https://github.com/docker/compose) | python | 21,957 | 690 | 3,648 | 26,295|
 |4|[<img src="https://img.shields.io/badge/-docker-000?style=flat&logo=docker" alt="docker" />](https://github.com/jenkinsci/docker) | shell | 4,191 | 303 | 3,132 | 7,626|
 
@@ -84,7 +84,7 @@
 
 | No |Name | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[<img src="https://img.shields.io/badge/-redux-000?style=flat&logo=redux" alt="redux" />](https://github.com/reduxjs/redux) | typescript | 55,404 | 1,409 | 14,572 | 71,385|
+|1|[<img src="https://img.shields.io/badge/-redux-000?style=flat&logo=redux" alt="redux" />](https://github.com/reduxjs/redux) | typescript | 55,404 | 1,409 | 14,573 | 71,386|
 |2|[<img src="https://img.shields.io/badge/-lodash-000?style=flat&logo=lodash" alt="lodash" />](https://github.com/lodash/lodash) | javascript | 48,408 | 883 | 5,567 | 54,858|
 |3|[<img src="https://img.shields.io/badge/-prettier-000?style=flat&logo=prettier" alt="prettier" />](https://github.com/prettier/prettier) | javascript | 39,031 | 411 | 2,665 | 42,107|
 |4|[<img src="https://img.shields.io/badge/-eslint-000?style=flat&logo=eslint" alt="eslint" />](https://github.com/eslint/eslint) | javascript | 17,943 | 302 | 3,191 | 21,436|
