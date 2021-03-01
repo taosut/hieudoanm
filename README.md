@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 24.64°C.
-- Air Visual is 122.
+- Feels Like 26.32°C.
+- Air Visual is 117.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Chặn tin tức ở Australia, Facebook “chĩa mũi giáo” vào Đế chế Murdoch?](https://cafebiz.vn/chan-tin-tuc-o-australia-facebook-chia-mui-giao-vao-de-che-murdoch-20210301135038382.chn) ([CafeBiz](https://cafebiz.vn))
-- [Robinhood lên kế hoạch bí mật nộp hồ sơ IPO](https://cafebiz.vn/robinhood-len-ke-hoach-bi-mat-nop-ho-so-ipo-20210301135923502.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Dương sắp bỏ phong tỏa Chí Linh, Cẩm Giàng, chuyển sang trạng thái mới](https://laodong.vn/xa-hoi/hai-duong-sap-bo-phong-toa-chi-linh-cam-giang-chuyen-sang-trang-thai-moi-884610.ldo) ([Lao Động](https://laodong.vn))
-- [Những lý do nên bỏ chứng chỉ chức danh nghề nghiệp](https://laodong.vn/ban-doc/nhung-ly-do-nen-bo-chung-chi-chuc-danh-nghe-nghiep-884599.ldo) ([Lao Động](https://laodong.vn))
-- [Hai nước Châu Âu thắt chặt hạn chế biên giới để ngăn chặn biến thể COVID-19](https://laodong.vn/the-gioi/hai-nuoc-chau-au-that-chat-han-che-bien-gioi-de-ngan-chan-bien-the-covid-19-884553.ldo) ([Lao Động](https://laodong.vn))
-- [Nhà báo Trần Thu Hà: Chúng ta ai cũng QUYỀN được làm người tốt và quyền được gặp người tốt!](https://cafebiz.vn/nha-bao-tran-thu-ha-chung-ta-ai-cung-quyen-duoc-lam-nguoi-tot-va-quyen-duoc-gap-nguoi-tot-20210301145446084.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phát hiện 13 người nhập cảnh trái phép](https://vnexpress.net/phat-hien-13-nguoi-nhap-canh-trai-phep-4241768.html) ([VNExpress](https://vnexpress.net))
-- [Vĩnh Phúc: Trao tiền hỗ trợ xây nhà cho gia đình công nhân khó khăn](https://laodong.vn/ldld-vinh-phuc/vinh-phuc-trao-tien-ho-tro-xay-nha-cho-gia-dinh-cong-nhan-kho-khan-884614.ldo) ([Lao Động](https://laodong.vn))
-- [Công đoàn Điện lực Việt Nam vận động đoàn viên hiến máu tình nguyện](https://laodong.vn/cd-dien-luc/cong-doan-dien-luc-viet-nam-van-dong-doan-vien-hien-mau-tinh-nguyen-884621.ldo) ([Lao Động](https://laodong.vn))
-- [57 dự án trọng điểm thu hút đầu tư vào Đà Nẵng, nhiều dự án ngàn tỉ đồng](https://tuoitre.vn/57-du-an-trong-diem-thu-hut-dau-tu-vao-da-nang-nhieu-du-an-ngan-ti-dong-2021030113353881.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Từ việc anh tài xế cứu bé gái: Nghĩ về &quot;người đàn ông lầm lì&quot; của gia đình](https://laodong.vn/chuyen-nha-minh/tu-viec-anh-tai-xe-cuu-be-gai-nghi-ve-nguoi-dan-ong-lam-li-cua-gia-dinh-884594.ldo) ([Lao Động](https://laodong.vn))
+- [Bạc Liêu rút kinh nghiệm vụ xét nghiệm SARS-CoV-2 dương tính sang âm tính](https://laodong.vn/xa-hoi/bac-lieu-rut-kinh-nghiem-vu-xet-nghiem-sars-cov-2-duong-tinh-sang-am-tinh-884631.ldo) ([Lao Động](https://laodong.vn))
+- [Trung Quốc đánh giá cao quan hệ quân sự đặc biệt với Nga](https://laodong.vn/the-gioi/trung-quoc-danh-gia-cao-quan-he-quan-su-dac-biet-voi-nga-884636.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ bé gái rơi từ tầng 12: Nhà đã có tấm lưới bảo vệ nhưng bé trèo qua](https://laodong.vn/xa-hoi/vu-be-gai-roi-tu-tang-12-nha-da-co-tam-luoi-bao-ve-nhung-be-treo-qua-884635.ldo) ([Lao Động](https://laodong.vn))
+- [Số phận tên cướp ngân hàng khét tiếng nhất lịch sử Mỹ](https://cafebiz.vn/so-phan-ten-cuop-ngan-hang-khet-tieng-nhat-lich-su-my-20210301140315592.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thaiholdings kinh doanh thế nào mà Bầu Thụy vào top 6 người giàu nhất sàn chứng khoán?](https://cafebiz.vn/thaiholdings-kinh-doanh-the-nao-ma-bau-thuy-vao-top-6-nguoi-giau-nhat-san-chung-khoan-20210301151449801.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuyên gia tâm lý gợi ý 21 câu hỏi giúp bạn nắm bắt trúng tâm lý đối phương](https://cafebiz.vn/chuyen-gia-tam-ly-goi-y-21-cau-hoi-giup-ban-nam-bat-trung-tam-ly-doi-phuong-20210301152515532.chn) ([CafeBiz](https://cafebiz.vn))
+- [200 tấn rau củ quả "ế", người dân Hà Nội đổ ngoài đồng](https://cafebiz.vn/200-tan-rau-cu-qua-e-nguoi-dan-ha-noi-do-ngoai-dong-20210301152418655.chn) ([CafeBiz](https://cafebiz.vn))
+- [Các trường tất bật tổng vệ sinh, phun khử khuẩn trước  đón học sinh](https://laodong.vn/photo/cac-truong-tat-bat-tong-ve-sinh-phun-khu-khuan-truoc-don-hoc-sinh-884626.ldo) ([Lao Động](https://laodong.vn))
+- [Cứ 3 người Nigeria có 1 người "chơi" Bitcoin, tổng giá trị giao dịch chỉ đứng sau Nga và Mỹ](https://cafebiz.vn/cu-3-nguoi-nigeria-co-1-nguoi-choi-bitcoin-tong-gia-tri-giao-dich-chi-dung-sau-nga-va-my-20210301100041688.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
