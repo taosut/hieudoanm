@@ -1,6 +1,9 @@
 'use strict';
 
 import { buildREADME } from './build-readme';
+
+import { getTime } from './libs';
+
 import { syncForexRates } from './services/forex-rates';
 import { syncGHN } from './services/ghn';
 import { syncMovies } from './services/movies';
@@ -13,6 +16,8 @@ import { syncUSA } from './services/usa';
 import { syncYouTubeVideoCategories } from './services/youtube-video-categories';
 
 const main = async () => {
+  const { hours } = getTime(7);
+  if (hours < 8) return;
   console.log('Build README');
   await buildREADME();
   console.log('Sync Forex Rates');
