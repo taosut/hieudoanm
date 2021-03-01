@@ -1,5 +1,6 @@
 # News
 
+- [Cuối 2021 khởi công dự án hơn 4.800 tỷ ‘giải cứu’ kẹt xe khu Tân Sơn  Nhất](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/cuoi-2021-khoi-cong-du-an-hon-4-800-ty-giai-cuu-ket-xe-khu-tan-son-nhat-716426.html) ([VietNamNet](https://vietnamnet.vn))
 - [Dự đoán vận mệnh của 12 con giáp trong tuần mới 1/3 - 7/3: Tuổi Thìn có cơ hội thử những điều mới mẻ, tuổi Dậu nhận được sự giúp đỡ nhiệt tình](https://cafebiz.vn/du-doan-van-menh-cua-12-con-giap-trong-tuan-moi-1-3-7-3-tuoi-thin-co-co-hoi-thu-nhung-dieu-moi-me-tuoi-dau-nhan-duoc-su-giup-do-nhiet-tinh-20210301172912458.chn) ([CafeBiz](https://cafebiz.vn))
 - ["Thần y" Hoa Đà đúc kết bí quyết ăn uống để trẻ mãi không già: Được người đời khen ngợi không ngớt](https://cafebiz.vn/than-y-hoa-da-duc-ket-bi-quyet-an-uong-de-tre-mai-khong-gia-duoc-nguoi-doi-khen-ngoi-khong-ngot-20210301172524654.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bố bé gái rơi từ tầng 12: &quot;Nhờ anh Mạnh cháu như được sinh ra lần thứ 2&quot;](https://laodong.vn/video/bo-be-gai-roi-tu-tang-12-nho-anh-manh-chau-nhu-duoc-sinh-ra-lan-thu-2-884780.ldo) ([Lao Động](https://laodong.vn))
@@ -93,10 +94,9 @@
 - [Cứ 3 người Nigeria có 1 người "chơi" Bitcoin, tổng giá trị giao dịch chỉ đứng sau Nga và Mỹ](https://cafebiz.vn/cu-3-nguoi-nigeria-co-1-nguoi-choi-bitcoin-tong-gia-tri-giao-dich-chi-dung-sau-nga-va-my-20210301100041688.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bé gái 3 tuổi trèo qua lan can rơi từ tầng 12 chung cư khi bố mẹ tiễn khách xuống dưới nhà](https://cafebiz.vn/be-gai-3-tuoi-treo-qua-lan-can-roi-tu-tang-12-chung-cu-khi-bo-me-tien-khach-xuong-duoi-nha-2021030115150694.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Dương phát thông báo khẩn tìm người đi chợ, tiệm tạp hóa, hiệu thuốc ở Kim Thành](https://tuoitre.vn/hai-duong-phat-thong-bao-khan-tim-nguoi-di-cho-tiem-tap-hoa-hieu-thuoc-o-kim-thanh-20210301143935237.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chặn tin tức ở Australia, Facebook “chĩa mũi giáo” vào Đế chế Murdoch?](https://cafebiz.vn/chan-tin-tuc-o-australia-facebook-chia-mui-giao-vao-de-che-murdoch-20210301135038382.chn) ([CafeBiz](https://cafebiz.vn))
-- [Robinhood lên kế hoạch bí mật nộp hồ sơ IPO](https://cafebiz.vn/robinhood-len-ke-hoach-bi-mat-nop-ho-so-ipo-20210301135923502.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt cựu giám đốc Văn phòng đăng kí đất đai TP Huế](http://vietnamnet.vn/vn/thoi-su/chong-tham-nhung/bat-cuu-giam-doc-van-phong-dang-ki-dat-dai-tp-hue-716288.html) ([VietNamNet](https://vietnamnet.vn))
-- [Nhà báo Trần Thu Hà: Chúng ta ai cũng QUYỀN được làm người tốt và quyền được gặp người tốt!](https://cafebiz.vn/nha-bao-tran-thu-ha-chung-ta-ai-cung-quyen-duoc-lam-nguoi-tot-va-quyen-duoc-gap-nguoi-tot-20210301145446084.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đà Nẵng chi 12 tỷ đồng xóa 'điểm đen' tai nạn giao thông](http://vietnamnet.vn/vn/thoi-su/da-nang-chi-12-ty-dong-xoa-diem-den-tai-nan-giao-thong-716323.html) ([VietNamNet](https://vietnamnet.vn))
-- [Bí thư Hà Nội: Dự án nào vào chiếm đất nhiều phải nói không ngay lập tức](http://vietnamnet.vn/vn/thoi-su/chinh-tri/bi-thu-ha-noi-du-an-nao-vao-chiem-dat-nhieu-phai-noi-khong-ngay-lap-tuc-716311.html) ([VietNamNet](https://vietnamnet.vn))
-- [32 người nhập cảnh trái phép](https://vnexpress.net/32-nguoi-nhap-canh-trai-phep-4241768.html) ([VNExpress](https://vnexpress.net))
+- [Apple Music giới thiệu mục 'Behind The Songs' thêm nhiều thông tin thú vị về các ca khúc nổi tiếng](https://tinhte.vn/thread/apple-music-gioi-thieu-muc-behind-the-songs-them-nhieu-thong-tin-thu-vi-ve-cac-ca-khuc-noi-tieng.3285446/) ([Tinh Tế](https://tinhte.vn))
+- [Facebook đã bỏ cuộc không tấn công Apple nữa, mà “van nài” người dùng cho phép họ theo dõi](https://tinhte.vn/thread/facebook-da-bo-cuoc-khong-tan-cong-apple-nua-ma-van-nai-nguoi-dung-cho-phep-ho-theo-doi.3285537/) ([Tinh Tế](https://tinhte.vn))
+- [Có bác nào sáng nay đặt được PS5 từ sony việt nam không? mình canh từ sáng mà cũng ko kịp, huhu…](https://tinhte.vn/thread/co-bac-nao-sang-nay-dat-duoc-ps5-tu-sony-viet-nam-khong-minh-canh-tu-sang-ma-cung-ko-kip-huhu.3285336/) ([Tinh Tế](https://tinhte.vn))
+- [Gia đình bán nhà dẫn nhau đi du lịch vòng quanh thế giới, dự kiến kéo dài thêm 4-5 năm nữa](https://tinhte.vn/thread/gia-dinh-ban-nha-dan-nhau-di-du-lich-vong-quanh-the-gioi-du-kien-keo-dai-them-4-5-nam-nua.3285418/) ([Tinh Tế](https://tinhte.vn))
+- [TOP 10 smartphone bán chạy nhất 2020: iPhone 11 vô đối, iPhone SE xếp thứ hai](https://tinhte.vn/thread/top-10-smartphone-ban-chay-nhat-2020-iphone-11-vo-doi-iphone-se-xep-thu-hai.3285265/) ([Tinh Tế](https://tinhte.vn))
+- [Review Đế kẹp Macbook nhôm nguyên khối (cắt CNC)](https://tinhte.vn/thread/review-de-kep-macbook-nhom-nguyen-khoi-cat-cnc.3280199/) ([Tinh Tế](https://tinhte.vn))
