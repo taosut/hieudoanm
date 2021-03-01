@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is overcast clouds.
-- Temperature is 23.73°C.
-- Feels Like 25.04°C.
-- Air Visual is 134.
+- Temperature is 24.31°C.
+- Feels Like 25.61°C.
+- Air Visual is 132.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Những game thành công nhất trong mùa dịch Covid-19](https://cafebiz.vn/nhung-game-thanh-cong-nhat-trong-mua-dich-covid-19-2021030108594355.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuyển động mới của Tập đoàn năng lượng Nhật Bản ENEOS tại Việt Nam: Tăng mạnh sở hữu tại Petrolimex, đưa đại diện Việt Nam thành Tổng phụ trách khu vực](https://cafebiz.vn/chuyen-dong-moi-cua-tap-doan-nang-luong-nhat-ban-eneos-tai-viet-nam-tang-manh-so-huu-tai-petrolimex-dua-dai-dien-viet-nam-thanh-tong-phu-trach-khu-vuc-20210301095506743.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: Giao thông ngày học sinh trở lại trường, nơi thông thoáng, chỗ ùn ứ](https://laodong.vn/giao-thong/tphcm-giao-thong-ngay-hoc-sinh-tro-lai-truong-noi-thong-thoang-cho-un-u-884491.ldo) ([Lao Động](https://laodong.vn))
-- [Tin bóng đá sáng 1.3: Vì sao Koeman không sử dụng Griezmann?](https://laodong.vn/bong-da-quoc-te/tin-bong-da-sang-13-vi-sao-koeman-khong-su-dung-griezmann-884505.ldo) ([Lao Động](https://laodong.vn))
-- [Học sinh Quảng Ninh trở lại trường: Đo thân nhiệt 2 lần, chào cờ trong lớp](https://laodong.vn/xa-hoi/hoc-sinh-quang-ninh-tro-lai-truong-do-than-nhiet-2-lan-chao-co-trong-lop-884502.ldo) ([Lao Động](https://laodong.vn))
-- [Không khí lạnh tiếp tục tăng cường khiến miền Bắc mưa rét sâu hơn](https://laodong.vn/moi-truong/khong-khi-lanh-tiep-tuc-tang-cuong-khien-mien-bac-mua-ret-sau-hon-884465.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng hôm nay 1.3: Tăng &quot;dựng đứng&quot; ngược hoàn toàn dự báo](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-13-tang-dung-dung-nguoc-hoan-toan-du-bao-883918.ldo) ([Lao Động](https://laodong.vn))
-- [Bạn không nên lãng phí tiền vào 9 thứ này](https://cafebiz.vn/ban-khong-nen-lang-phi-tien-vao-9-thu-nay-20210301090644707.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chọn quà 8/3 thiết thực cho nửa còn lại của thế giới theo từng ngành nghề: Vừa tâm lý, vừa thiết thực!](https://cafebiz.vn/chon-qua-8-3-thiet-thuc-cho-nua-con-lai-cua-the-gioi-theo-tung-nganh-nghe-vua-tam-ly-vua-thiet-thuc-20210301013024082.chn) ([CafeBiz](https://cafebiz.vn))
-- [Elon Musk phản ứng với lời đồn đang bị SEC điều tra vì thổi giá Dogecoin: 'Tuyệt quá'](https://cafebiz.vn/elon-musk-phan-ung-voi-loi-don-dang-bi-sec-dieu-tra-vi-thoi-gia-dogecoin-tuyet-qua-20210301094051206.chn) ([CafeBiz](https://cafebiz.vn))
+- [Từ hôm nay, bồi thường bảo hiểm bắt buộc tăng lên 150 triệu/người/vụ](https://cafebiz.vn/tu-hom-nay-boi-thuong-bao-hiem-bat-buoc-tang-len-150-trieu-nguoi-vu-20210301103321046.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người lao động gặp khó khăn khi tìm việc đầu năm](https://laodong.vn/cong-doan/nguoi-lao-dong-gap-kho-khan-khi-tim-viec-dau-nam-884426.ldo) ([Lao Động](https://laodong.vn))
+- [Ngành dược phẩm Việt Nam được dự báo đạt giá trị 16,1 tỷ USD vào năm 2026](https://cafebiz.vn/nganh-duoc-pham-viet-nam-duoc-du-bao-dat-gia-tri-161-ty-usd-vao-nam-2026-20210301103042105.chn) ([CafeBiz](https://cafebiz.vn))
+- [BTS và Jeongmilla nhận giải thưởng lớn tại “Korean Music Awards”](https://laodong.vn/giai-tri/bts-va-jeongmilla-nhan-giai-thuong-lon-tai-korean-music-awards-884520.ldo) ([Lao Động](https://laodong.vn))
+- [Làm gì khi trẻ biếng ăn, chậm tăng cân?](https://laodong.vn/dinh-duong-am-thuc/lam-gi-khi-tre-bieng-an-cham-tang-can-884357.ldo) ([Lao Động](https://laodong.vn))
+- [BIC ưu đãi 20% phí bảo hiểm sức khỏe nhân ngày Quốc tế phụ nữ](https://laodong.vn/kinh-te/bic-uu-dai-20-phi-bao-hiem-suc-khoe-nhan-ngay-quoc-te-phu-nu-884519.ldo) ([Lao Động](https://laodong.vn))
+- [Sổ đỏ đứng tên chủ cũ có ảnh hưởng đến quyền lợi người mua không?](https://laodong.vn/ban-doc/so-do-dung-ten-chu-cu-co-anh-huong-den-quyen-loi-nguoi-mua-khong-884517.ldo) ([Lao Động](https://laodong.vn))
+- [Cuộc đấu giữa quyền và lực](https://laodong.vn/the-gioi/cuoc-dau-giua-quyen-va-luc-884413.ldo) ([Lao Động](https://laodong.vn))
+- [Đại tá Trần Minh Tiến làm giám đốc Công an tỉnh Lâm Đồng](https://tuoitre.vn/dai-ta-tran-minh-tien-lam-giam-doc-cong-an-tinh-lam-dong-20210301100729405.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Người đàn ông 53 tuổi chết trên xe khách âm tính với virus SARS-CoV-2](https://cafebiz.vn/nguoi-dan-ong-53-tuoi-chet-tren-xe-khach-am-tinh-voi-virus-sars-cov-2-20210301101104832.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
