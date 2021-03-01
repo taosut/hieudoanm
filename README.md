@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 24.74°C.
-- Air Visual is 112.
+- Feels Like 25.1°C.
+- Air Visual is 166.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Dự đoán vận mệnh của 12 con giáp trong tuần mới 1/3 - 7/3: Tuổi Thìn có cơ hội thử những điều mới mẻ, tuổi Dậu nhận được sự giúp đỡ nhiệt tình](https://cafebiz.vn/du-doan-van-menh-cua-12-con-giap-trong-tuan-moi-1-3-7-3-tuoi-thin-co-co-hoi-thu-nhung-dieu-moi-me-tuoi-dau-nhan-duoc-su-giup-do-nhiet-tinh-20210301172912458.chn) ([CafeBiz](https://cafebiz.vn))
+- ["Thần y" Hoa Đà đúc kết bí quyết ăn uống để trẻ mãi không già: Được người đời khen ngợi không ngớt](https://cafebiz.vn/than-y-hoa-da-duc-ket-bi-quyet-an-uong-de-tre-mai-khong-gia-duoc-nguoi-doi-khen-ngoi-khong-ngot-20210301172524654.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bố bé gái rơi từ tầng 12: &quot;Nhờ anh Mạnh cháu như được sinh ra lần thứ 2&quot;](https://laodong.vn/video/bo-be-gai-roi-tu-tang-12-nho-anh-manh-chau-nhu-duoc-sinh-ra-lan-thu-2-884780.ldo) ([Lao Động](https://laodong.vn))
+- [Tiến sĩ Vật lý phân tích lực và độ nguy hiểm khi người hùng Nguyễn Ngọc Mạnh đỡ bé gái ngã từ tầng 12](https://cafebiz.vn/tien-si-vat-ly-phan-tich-luc-va-do-nguy-hiem-khi-nguoi-hung-nguyen-ngoc-manh-do-be-gai-nga-tu-tang-12-20210301211842919.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hé lộ thông tin Mỹ lãng phí hàng tỉ USD ở Afghanistan](https://laodong.vn/the-gioi/he-lo-thong-tin-my-lang-phi-hang-ti-usd-o-afghanistan-884784.ldo) ([Lao Động](https://laodong.vn))
+- [Điện Biên: Khoan cục sắt lạ, người đàn ông bị thương nặng](https://laodong.vn/xa-hoi/dien-bien-khoan-cuc-sat-la-nguoi-dan-ong-bi-thuong-nang-884787.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất hôm nay: Ông Trump kêu gọi tiêm vaccine COVID-19](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-ong-trump-keu-goi-tiem-vaccine-covid-19-884759.ldo) ([Lao Động](https://laodong.vn))
 - [Ông Sam Rainsy, cựu lãnh đạo đảng Cứu quốc Campuchia, bị kết án 25 năm tù](https://tuoitre.vn/ong-sam-rainsy-cuu-lanh-dao-dang-cuu-quoc-campuchia-bi-ket-an-25-nam-tu-20210301203430215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Đặt 5 vật phong thủy này trong nhà, phú quý gõ cửa, tiền tài đến tay](https://cafebiz.vn/dat-5-vat-phong-thuy-nay-trong-nha-phu-quy-go-cua-tien-tai-den-tay-20210301172228212.chn) ([CafeBiz](https://cafebiz.vn))
 - [IAEA cảnh báo không dùng thanh sát hạt nhân Iran làm con bài mặc cả](https://laodong.vn/the-gioi/iaea-canh-bao-khong-dung-thanh-sat-hat-nhan-iran-lam-con-bai-mac-ca-884782.ldo) ([Lao Động](https://laodong.vn))
-- [Tạm ngừng phiên tòa vụ hành khách bị tai nạn cưa chân kiện xe Phương Trang](https://tuoitre.vn/tam-ngung-phien-toa-vu-hanh-khach-bi-tai-nan-cua-chan-kien-xe-phuong-trang-20210301192818054.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nếu Lưu Bị đánh bại Tôn Quyền, mối thù Đông Ngô giết Quan Vũ có được báo hay không?](https://cafebiz.vn/neu-luu-bi-danh-bai-ton-quyen-moi-thu-dong-ngo-giet-quan-vu-co-duoc-bao-hay-khong-20210301172043147.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thái Bình tạm dừng 6 chốt kiểm dịch tại cửa ngõ ra, vào tỉnh](https://tuoitre.vn/thai-binh-tam-dung-6-chot-kiem-dich-tai-cua-ngo-ra-vao-tinh-20210301193122587.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Vì sao loạt tập đoàn lớn như Apple, Samsung và LG đổ vào Việt Nam bất chấp thách thức về chuỗi cung ứng?](https://cafebiz.vn/vi-sao-loat-tap-doan-lon-nhu-apple-samsung-va-lg-do-vao-viet-nam-bat-chap-thach-thuc-ve-chuoi-cung-ung-20210301203311622.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dự án 4.800 tỉ ở cửa ngõ sân bay Tân Sơn Nhất: Sẽ khởi công cuối năm nay](https://tuoitre.vn/du-an-4-800-ti-o-cua-ngo-san-bay-tan-son-nhat-se-khoi-cong-cuoi-nam-nay-20210301191507569.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đường 4.800 tỉ đồng ở cửa ngõ Tân sơn Nhất khởi công cuối năm nay](https://laodong.vn/xa-hoi/duong-4800-ti-dong-o-cua-ngo-tan-son-nhat-khoi-cong-cuoi-nam-nay-884775.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: Kết quả chụp CT sọ não bé gái rơi từ tầng 12](https://laodong.vn/video-thoi-su/nong-nhat-24h-ket-qua-chup-ct-so-nao-be-gai-roi-tu-tang-12-884748.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -121,8 +121,8 @@
 06. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 07. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 08. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
-09. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
-10. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
+09. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
+10. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
