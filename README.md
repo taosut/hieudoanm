@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 23°C.
 - Feels Like 25.95°C.
-- Air Visual is 112.
+- Air Visual is 111.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Toàn cảnh vụ cứu bé 2 tuổi rơi từ tầng cao: Tiếng hét thất thanh từ tòa đối diện, 1 phút phi lên của "người hùng", hai chú cháu ngã lún mái tôn và bé gái may mắn chỉ trật khớp háng](https://cafebiz.vn/toan-canh-vu-cuu-be-2-tuoi-roi-tu-tang-cao-tieng-het-that-thanh-tu-toa-doi-dien-1-phut-phi-len-cua-nguoi-hung-hai-chu-chau-nga-lun-mai-ton-va-be-gai-may-man-chi-trat-khop-hang-20210301160112501.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trí tuệ nhân tạo có thể biến ảnh người chết thành sống dậy: Ý tưởng độc đáo nhưng cũng có phần kinh dị](https://cafebiz.vn/tri-tue-nhan-tao-co-the-bien-anh-nguoi-chet-thanh-song-day-y-tuong-doc-dao-nhung-cung-co-phan-kinh-di-20210301135603721.chn) ([CafeBiz](https://cafebiz.vn))
+- [Long An: “Tuần lễ Áo dài” nhân dịp 8.3](https://laodong.vn/xa-hoi/long-an-tuan-le-ao-dai-nhan-dip-83-884653.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng biểu dương người cứu cháu bé ngã từ tầng 12](https://laodong.vn/thoi-su/thu-tuong-bieu-duong-nguoi-cuu-chau-be-nga-tu-tang-12-884648.ldo) ([Lao Động](https://laodong.vn))
 - [AC Milan vẫn có 3 điểm trong ngày Ibrahimovic im tiếng](https://laodong.vn/video-the-thao/ac-milan-van-co-3-diem-trong-ngay-ibrahimovic-im-tieng-884524.ldo) ([Lao Động](https://laodong.vn))
 - [Đón học sinh trở lại lớp: Trường học phun khử khuẩn, chuẩn bị phòng cách ly](https://laodong.vn/video-thoi-su/don-hoc-sinh-tro-lai-lop-truong-hoc-phun-khu-khuan-chuan-bi-phong-cach-ly-884632.ldo) ([Lao Động](https://laodong.vn))
 - [Làm căn cước công dân gắn chip ở đâu?](https://laodong.vn/phap-luat/lam-can-cuoc-cong-dan-gan-chip-o-dau-884642.ldo) ([Lao Động](https://laodong.vn))
-- [Người quay clip bé gái 2 tuổi rơi tầng 12A chung cư kể phút "đau tim"](http://vietnamnet.vn/vn/thoi-su/clip-nong/nguoi-quay-clip-be-gai-2-tuoi-roi-tang-12a-chung-cu-ke-phut-dau-tim-716341.html) ([VietNamNet](https://vietnamnet.vn))
-- [Hà Nội: Danh sách 30 doanh nghiệp, đơn vị nợ bảo hiểm “khủng”](https://laodong.vn/ban-doc/ha-noi-danh-sach-30-doanh-nghiep-don-vi-no-bao-hiem-khung-884643.ldo) ([Lao Động](https://laodong.vn))
 - [Bác sĩ kể lại giây phút tiếp nhận bé gái rơi từ tầng 12 may mắn sống sót](https://laodong.vn/video/bac-si-ke-lai-giay-phut-tiep-nhan-be-gai-roi-tu-tang-12-may-man-song-sot-884628.ldo) ([Lao Động](https://laodong.vn))
-- [Cháu bé 3 tuổi rơi tầng 12 chung cư: 'Lúc bé rơi, bố mẹ đang tiễn khách'](https://tuoitre.vn/chau-be-3-tuoi-roi-tang-12-chung-cu-luc-be-roi-bo-me-dang-tien-khach-20210301150622494.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Cháu bé 3 tuổi rơi từ tầng 12 chung cư: 'Lúc bé rơi, bố mẹ đang tiễn khách'](https://tuoitre.vn/chau-be-3-tuoi-roi-tang-12-chung-cu-luc-be-roi-bo-me-dang-tien-khach-20210301150622494.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bạc Liêu rút kinh nghiệm vụ xét nghiệm SARS-CoV-2 dương tính sang âm tính](https://laodong.vn/xa-hoi/bac-lieu-rut-kinh-nghiem-vu-xet-nghiem-sars-cov-2-duong-tinh-sang-am-tinh-884631.ldo) ([Lao Động](https://laodong.vn))
-- [Đống Đa 'vỡ quy hoạch' 110.000 dân, Bí thư Hà Nội yêu cầu ‘nói không’ với dự án chiếm nhiều đất](https://tuoitre.vn/dong-da-vo-quy-hoach-110-000-dan-bi-thu-ha-noi-yeu-cau-noi-khong-voi-du-an-chiem-nhieu-dat-20210301144403511.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thần tốc hoàn thành chỗ ở cho các y bác sĩ và điểm cách ly tại Bệnh viện Dã chiến số 3](https://cafebiz.vn/than-toc-hoan-thanh-cho-o-cho-cac-y-bac-si-va-diem-cach-ly-tai-benh-vien-da-chien-so-3-20210301153927944.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
