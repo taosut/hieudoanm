@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 26.32°C.
-- Air Visual is 117.
+- Feels Like 25.95°C.
+- Air Visual is 112.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Từ việc anh tài xế cứu bé gái: Nghĩ về &quot;người đàn ông lầm lì&quot; của gia đình](https://laodong.vn/chuyen-nha-minh/tu-viec-anh-tai-xe-cuu-be-gai-nghi-ve-nguoi-dan-ong-lam-li-cua-gia-dinh-884594.ldo) ([Lao Động](https://laodong.vn))
+- [AC Milan vẫn có 3 điểm trong ngày Ibrahimovic im tiếng](https://laodong.vn/video-the-thao/ac-milan-van-co-3-diem-trong-ngay-ibrahimovic-im-tieng-884524.ldo) ([Lao Động](https://laodong.vn))
+- [Đón học sinh trở lại lớp: Trường học phun khử khuẩn, chuẩn bị phòng cách ly](https://laodong.vn/video-thoi-su/don-hoc-sinh-tro-lai-lop-truong-hoc-phun-khu-khuan-chuan-bi-phong-cach-ly-884632.ldo) ([Lao Động](https://laodong.vn))
+- [Làm căn cước công dân gắn chip ở đâu?](https://laodong.vn/phap-luat/lam-can-cuoc-cong-dan-gan-chip-o-dau-884642.ldo) ([Lao Động](https://laodong.vn))
+- [Người quay clip bé gái 2 tuổi rơi tầng 12A chung cư kể phút "đau tim"](http://vietnamnet.vn/vn/thoi-su/clip-nong/nguoi-quay-clip-be-gai-2-tuoi-roi-tang-12a-chung-cu-ke-phut-dau-tim-716341.html) ([VietNamNet](https://vietnamnet.vn))
+- [Hà Nội: Danh sách 30 doanh nghiệp, đơn vị nợ bảo hiểm “khủng”](https://laodong.vn/ban-doc/ha-noi-danh-sach-30-doanh-nghiep-don-vi-no-bao-hiem-khung-884643.ldo) ([Lao Động](https://laodong.vn))
+- [Bác sĩ kể lại giây phút tiếp nhận bé gái rơi từ tầng 12 may mắn sống sót](https://laodong.vn/video/bac-si-ke-lai-giay-phut-tiep-nhan-be-gai-roi-tu-tang-12-may-man-song-sot-884628.ldo) ([Lao Động](https://laodong.vn))
+- [Cháu bé 3 tuổi rơi tầng 12 chung cư: 'Lúc bé rơi, bố mẹ đang tiễn khách'](https://tuoitre.vn/chau-be-3-tuoi-roi-tang-12-chung-cu-luc-be-roi-bo-me-dang-tien-khach-20210301150622494.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bạc Liêu rút kinh nghiệm vụ xét nghiệm SARS-CoV-2 dương tính sang âm tính](https://laodong.vn/xa-hoi/bac-lieu-rut-kinh-nghiem-vu-xet-nghiem-sars-cov-2-duong-tinh-sang-am-tinh-884631.ldo) ([Lao Động](https://laodong.vn))
-- [Trung Quốc đánh giá cao quan hệ quân sự đặc biệt với Nga](https://laodong.vn/the-gioi/trung-quoc-danh-gia-cao-quan-he-quan-su-dac-biet-voi-nga-884636.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ bé gái rơi từ tầng 12: Nhà đã có tấm lưới bảo vệ nhưng bé trèo qua](https://laodong.vn/xa-hoi/vu-be-gai-roi-tu-tang-12-nha-da-co-tam-luoi-bao-ve-nhung-be-treo-qua-884635.ldo) ([Lao Động](https://laodong.vn))
-- [Số phận tên cướp ngân hàng khét tiếng nhất lịch sử Mỹ](https://cafebiz.vn/so-phan-ten-cuop-ngan-hang-khet-tieng-nhat-lich-su-my-20210301140315592.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thaiholdings kinh doanh thế nào mà Bầu Thụy vào top 6 người giàu nhất sàn chứng khoán?](https://cafebiz.vn/thaiholdings-kinh-doanh-the-nao-ma-bau-thuy-vao-top-6-nguoi-giau-nhat-san-chung-khoan-20210301151449801.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuyên gia tâm lý gợi ý 21 câu hỏi giúp bạn nắm bắt trúng tâm lý đối phương](https://cafebiz.vn/chuyen-gia-tam-ly-goi-y-21-cau-hoi-giup-ban-nam-bat-trung-tam-ly-doi-phuong-20210301152515532.chn) ([CafeBiz](https://cafebiz.vn))
-- [200 tấn rau củ quả "ế", người dân Hà Nội đổ ngoài đồng](https://cafebiz.vn/200-tan-rau-cu-qua-e-nguoi-dan-ha-noi-do-ngoai-dong-20210301152418655.chn) ([CafeBiz](https://cafebiz.vn))
-- [Các trường tất bật tổng vệ sinh, phun khử khuẩn trước  đón học sinh](https://laodong.vn/photo/cac-truong-tat-bat-tong-ve-sinh-phun-khu-khuan-truoc-don-hoc-sinh-884626.ldo) ([Lao Động](https://laodong.vn))
-- [Cứ 3 người Nigeria có 1 người "chơi" Bitcoin, tổng giá trị giao dịch chỉ đứng sau Nga và Mỹ](https://cafebiz.vn/cu-3-nguoi-nigeria-co-1-nguoi-choi-bitcoin-tong-gia-tri-giao-dich-chi-dung-sau-nga-va-my-20210301100041688.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đống Đa 'vỡ quy hoạch' 110.000 dân, Bí thư Hà Nội yêu cầu ‘nói không’ với dự án chiếm nhiều đất](https://tuoitre.vn/dong-da-vo-quy-hoach-110-000-dan-bi-thu-ha-noi-yeu-cau-noi-khong-voi-du-an-chiem-nhieu-dat-20210301144403511.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thần tốc hoàn thành chỗ ở cho các y bác sĩ và điểm cách ly tại Bệnh viện Dã chiến số 3](https://cafebiz.vn/than-toc-hoan-thanh-cho-o-cho-cac-y-bac-si-va-diem-cach-ly-tai-benh-vien-da-chien-so-3-20210301153927944.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
