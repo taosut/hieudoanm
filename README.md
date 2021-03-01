@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is overcast clouds.
-- Temperature is 24.31°C.
-- Feels Like 25.61°C.
-- Air Visual is 139.
+- Temperature is 25.12°C.
+- Feels Like 26.49°C.
+- Air Visual is 152.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Vợ "người hùng" cứu bé gái rơi từ tầng 12 chung cư: ''Chồng tôi có lòng tốt đến mức có lần bị người khác lừa nhưng anh cũng kệ"](https://cafebiz.vn/vo-nguoi-hung-cuu-be-gai-roi-tu-tang-12-chung-cu-chong-toi-co-long-tot-den-muc-co-lan-bi-nguoi-khac-lua-nhung-anh-cung-ke-20210301110307868.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bộ Công an tạm đình chỉ vụ chồng đại gia Tư Hường tố cáo con trai](https://cafebiz.vn/bo-cong-an-tam-dinh-chi-vu-chong-dai-gia-tu-huong-to-cao-con-trai-20210301110303428.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuỗi cung ứng của Apple xác nhận sẽ có iPhone 13 với dung lượng 1TB](https://cafebiz.vn/chuoi-cung-ung-cua-apple-xac-nhan-se-co-iphone-13-voi-dung-luong-1tb-20210301105239039.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tăng trưởng doanh thu hàng cao cấp, LVMH mở cửa BVLGARI tại Việt Nam](https://cafebiz.vn/tang-truong-doanh-thu-hang-cao-cap-lvmh-mo-cua-bvlgari-tai-viet-nam-20210301105124954.chn) ([CafeBiz](https://cafebiz.vn))
-- [BIC cấp giấy chứng nhận điện tử bảo hiểm  bắt buộc TNDS của chủ xe cơ giới](https://laodong.vn/kinh-te/bic-cap-giay-chung-nhan-dien-tu-bao-hiem-bat-buoc-tnds-cua-chu-xe-co-gioi-884523.ldo) ([Lao Động](https://laodong.vn))
-- [7 diễn viên nam được yêu mến của truyền hình Việt](https://laodong.vn/photo/7-dien-vien-nam-duoc-yeu-men-cua-truyen-hinh-viet-884510.ldo) ([Lao Động](https://laodong.vn))
-- [Muôn vàn cảm xúc của cộng đồng khi bé gái 3 tuổi rơi từ tầng 12 được cứu sống: Từ ám ảnh, thót tim tới xúc động, cảm ơn "người hùng đời thực"](https://cafebiz.vn/muon-van-cam-xuc-cua-cong-dong-khi-be-gai-3-tuoi-roi-tu-tang-12-duoc-cuu-song-tu-am-anh-thot-tim-toi-xuc-dong-cam-on-nguoi-hung-doi-thuc-20210301104753959.chn) ([CafeBiz](https://cafebiz.vn))
-- [Điểm lại những vụ trẻ nhỏ bị ngã chung cư trong thời gian gần đây, nhiều gia đình đau xót nhìn con ra đi mãi mãi](https://cafebiz.vn/diem-lai-nhung-vu-tre-nho-bi-nga-chung-cu-trong-thoi-gian-gan-day-nhieu-gia-dinh-dau-xot-nhin-con-ra-di-mai-mai-20210301105748533.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kaity Nguyễn và nữ chính trong các phim có doanh thu trăm tỉ giờ ra sao?](https://laodong.vn/van-hoa-giai-tri/kaity-nguyen-va-nu-chinh-trong-cac-phim-co-doanh-thu-tram-ti-gio-ra-sao-884380.ldo) ([Lao Động](https://laodong.vn))
-- [Từ vụ bé 3 tuổi rơi từ tầng 12: Ở chung cư có trẻ nhỏ cần chú ý gì?](https://laodong.vn/bat-dong-san/tu-vu-be-3-tuoi-roi-tu-tang-12-o-chung-cu-co-tre-nho-can-chu-y-gi-884462.ldo) ([Lao Động](https://laodong.vn))
+- [Phép tính sửng sốt về sức nặng mà "siêu anh hùng" phải chịu khi đỡ bé rơi từ tầng 12 chung cư: Nhân sinh có những khoảnh khắc kì diệu hơn cả phim hollywood, khoa học không thể lý giải!](https://cafebiz.vn/phep-tinh-sung-sot-ve-suc-nang-ma-sieu-anh-hung-phai-chiu-khi-do-be-roi-tu-tang-12-chung-cu-nhan-sinh-co-nhung-khoanh-khac-ki-dieu-hon-ca-phim-hollywood-khoa-hoc-khong-the-ly-giai-20210301113917579.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những bộ phim Hàn Quốc đáng chờ đợi nhất trong tháng 3.2021](https://laodong.vn/giai-tri/nhung-bo-phim-han-quoc-dang-cho-doi-nhat-trong-thang-32021-884455.ldo) ([Lao Động](https://laodong.vn))
+- [Công an Hải Dương tìm người đến nhiều hiệu thuốc, tạp hóa ở Kim Thành](https://laodong.vn/xa-hoi/cong-an-hai-duong-tim-nguoi-den-nhieu-hieu-thuoc-tap-hoa-o-kim-thanh-884538.ldo) ([Lao Động](https://laodong.vn))
+- [Khuyến khích nữ công chức, viên chức, người lao động mặc áo dài](https://laodong.vn/cd-nn-ptnt/khuyen-khich-nu-cong-chuc-vien-chuc-nguoi-lao-dong-mac-ao-dai-884563.ldo) ([Lao Động](https://laodong.vn))
+- [Châu Âu vượt Trung Quốc trở thành thị trường xe ô tô điện lớn nhất thế giới](https://cafebiz.vn/chau-au-vuot-trung-quoc-tro-thanh-thi-truong-xe-o-to-dien-lon-nhat-the-gioi-20210301112036065.chn) ([CafeBiz](https://cafebiz.vn))
+- [Iran từ chối đàm phán với EU và Mỹ về nối lại thỏa thuận hạt nhân 2015](https://laodong.vn/the-gioi/iran-tu-choi-dam-phan-voi-eu-va-my-ve-noi-lai-thoa-thuan-hat-nhan-2015-884527.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương kết thúc cách ly xã hội từ 0h ngày 3.3](https://laodong.vn/xa-hoi/hai-duong-ket-thuc-cach-ly-xa-hoi-tu-0h-ngay-33-884560.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương dừng cách ly xã hội](https://vnexpress.net/hai-duong-dung-cach-ly-xa-hoi-4241695.html) ([VNExpress](https://vnexpress.net))
+- [Khen thưởng người cứu bé gái 3 tuổi rơi từ tầng 12A chung cư](http://vietnamnet.vn/vn/thoi-su/khen-thuong-nguoi-cuu-be-gai-3-tuoi-roi-tu-tang-12a-chung-cu-716262.html) ([VietNamNet](https://vietnamnet.vn))
+- [Chân dung người kế nghiệp sáng giá của Tập đoàn DOJI: Tuổi đời chưa đến 40, là chuyên gia đá quý quốc tế đầu tiên tại Việt Nam](https://cafebiz.vn/chan-dung-nguoi-ke-nghiep-sang-gia-cua-tap-doan-doji-tuoi-doi-chua-den-40-la-chuyen-gia-da-quy-quoc-te-dau-tien-tai-viet-nam-20210301111916251.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -139,7 +139,7 @@
 07. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 08. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 09. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
-10. [Anh Làm Gì Sai - Châu Khải Phong | Thương Võ Cover](https://www.youtube.com/watch?v=fDctq_Kj2UI) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+10. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
