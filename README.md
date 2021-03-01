@@ -22,7 +22,7 @@
 - Current weather is drizzle.
 - Temperature is 22°C.
 - Feels Like 25.26°C.
-- Air Visual is 139.
+- Air Visual is 149.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tránh người phụ nữ chở con nhỏ sang đường, xe container lao xuống ruộng](https://laodong.vn/xe/tranh-nguoi-phu-nu-cho-con-nho-sang-duong-xe-container-lao-xuong-ruong-884639.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: 15 giờ triệt phá nhanh băng trộm xe máy táo tợn](https://laodong.vn/phap-luat/tphcm-15-gio-triet-pha-nhanh-bang-trom-xe-may-tao-ton-884712.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Giang khôi phục các hoạt động karaoke, Internet...](https://laodong.vn/xa-hoi/ha-giang-khoi-phuc-cac-hoat-dong-karaoke-internet-884671.ldo) ([Lao Động](https://laodong.vn))
+- [Tổng thống Ghana được tiêm liều vaccine đầu tiên từ COVAX](https://laodong.vn/the-gioi/tong-thong-ghana-duoc-tiem-lieu-vaccine-dau-tien-tu-covax-884698.ldo) ([Lao Động](https://laodong.vn))
+- [Ghi nhận 13 ca mới mắc COVID-19, trong đó 8 ca ở Hải Dương](https://laodong.vn/y-te/ghi-nhan-13-ca-moi-mac-covid-19-trong-do-8-ca-o-hai-duong-884394.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Người hùng&quot; cứu bé gái rơi từ tầng 12 được dân mạng ngợi khen hết lời](https://laodong.vn/video/nguoi-hung-cuu-be-gai-roi-tu-tang-12-duoc-dan-mang-ngoi-khen-het-loi-884683.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội: Cà phê trong nhà được mở, trà đá vỉa hè vẫn bị cấm từ mai (2.3)](https://laodong.vn/xa-hoi/ha-noi-ca-phe-trong-nha-duoc-mo-tra-da-via-he-van-bi-cam-tu-mai-23-884620.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Tĩnh: Đã bỏ hướng dẫn &quot;cứng nhắc&quot; về hỗ trợ nhà hư hỏng do thiên tai](https://laodong.vn/ban-doc/ha-tinh-da-bo-huong-dan-cung-nhac-ve-ho-tro-nha-hu-hong-do-thien-tai-884679.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng bật tăng, lấy lại 12 USD chỉ sau ít giờ](https://laodong.vn/kinh-te/gia-vang-bat-tang-lay-lai-12-usd-chi-sau-it-gio-884696.ldo) ([Lao Động](https://laodong.vn))
+- [Kiên Giang ghi nhận 5 ca nhiễm COVID-19, đều là người về từ Campuchia](https://tuoitre.vn/kien-giang-ghi-nhan-5-ca-nhiem-covid-19-deu-la-nguoi-ve-tu-campuchia-20210301174816136.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hé lộ lý do khiến tỷ phú Bill Gates mua nhiều đất nông nghiệp tại Mỹ](https://cafebiz.vn/he-lo-ly-do-khien-ty-phu-bill-gates-mua-nhieu-dat-nong-nghiep-tai-my-20210301163723715.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khách đi tàu bất ngờ nhận lại 36 triệu đồng bỏ quên](https://laodong.vn/xa-hoi/khach-di-tau-bat-ngo-nhan-lai-36-trieu-dong-bo-quen-884695.ldo) ([Lao Động](https://laodong.vn))
-- [Đề nghị hỗ trợ nhân viên y tế tử vong do tai nạn khi chống dịch](https://laodong.vn/cong-doan/de-nghi-ho-tro-nhan-vien-y-te-tu-vong-do-tai-nan-khi-chong-dich-884694.ldo) ([Lao Động](https://laodong.vn))
-- [Tỉnh ủy Vĩnh Phúc thông tin về việc bổ nhiệm phó giám đốc sở 31 tuổi](http://vietnamnet.vn/vn/thoi-su/tinh-uy-vinh-phuc-thong-tin-ve-viec-bo-nhiem-pho-giam-doc-so-31-tuoi-716381.html) ([VietNamNet](https://vietnamnet.vn))
 - [Dùng mật khẩu như trẻ con, công ty tỷ USD làm dữ liệu của hàng nghìn công ty và cơ quan chính quyền bị hacker xâm nhập](https://cafebiz.vn/dung-mat-khau-nhu-tre-con-cong-ty-ty-usd-lam-du-lieu-cua-hang-nghin-cong-ty-va-co-quan-chinh-quyen-bi-hacker-xam-nhap-20210301164333237.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội: nhà hàng, quán cà phê được mở lại từ ngày mai 2-3](https://tuoitre.vn/ha-noi-nha-hang-quan-ca-phe-duoc-mo-lai-tu-ngay-mai-2-3-20210301170042904.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [TP HCM chưa dẹp được lò mổ thủ công](https://vnexpress.net/tp-hcm-chua-dep-duoc-lo-mo-thu-cong-4241915.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
