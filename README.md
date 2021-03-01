@@ -53,19 +53,19 @@
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
 - [![Bé gái 3 tuổi rơi từ tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
+- [![Bé gái hai tuổi rơi từ tầng 12 chung cư](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%20hai%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012%20chung%20c%C6%B0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%20hai%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012%20chung%20c%C6%B0)
 - [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
 - [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
-- [![Em be roi tu tang 12](https://img.shields.io/static/v1?label=Em%20be%20roi%20tu%20tang%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20be%20roi%20tu%20tang%2012)
-- [![Galaxy S21](https://img.shields.io/static/v1?label=Galaxy%20S21&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Galaxy%20S21)
 - [![Justin Bieber](https://img.shields.io/static/v1?label=Justin%20Bieber&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justin%20Bieber)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
 - [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
 - [![Nguyễn Quang Dũng](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Quang%20D%C5%A9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Quang%20D%C5%A9ng)
-- [![Ngô Mạnh Đạt](https://img.shields.io/static/v1?label=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
 - [![Trương Mẫn](https://img.shields.io/static/v1?label=Tr%C6%B0%C6%A1ng%20M%E1%BA%ABn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0%C6%A1ng%20M%E1%BA%ABn)
+- [![Uni5](https://img.shields.io/static/v1?label=Uni5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Uni5)
+- [![Video cứu bé rơi từ tầng 12](https://img.shields.io/static/v1?label=Video%20c%E1%BB%A9u%20b%C3%A9%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Video%20c%E1%BB%A9u%20b%C3%A9%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
 - [![iOS 14.5](https://img.shields.io/static/v1?label=iOS%2014.5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iOS%2014.5)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Vợ ông Dũng “lò vôi” tố một &quot;thần y&quot; lừa tiền cứu trợ lũ lụt, xây chùa](https://laodong.vn/xa-hoi/vo-ong-dung-lo-voi-to-mot-than-y-lua-tien-cuu-tro-lu-lut-xay-chua-884794.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ Công an khởi tố giám đốc và nguyên giám đốc Sở Y tế Cần Thơ](https://tuoitre.vn/bo-cong-an-khoi-to-giam-doc-va-nguyen-giam-doc-so-y-te-can-tho-20210301223057809.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Khởi tố giám đốc, bắt nguyên giám đốc Sở Y tế Cần Thơ do sai phạm đấu thầu](https://laodong.vn/phap-luat/khoi-to-giam-doc-bat-nguyen-giam-doc-so-y-te-can-tho-do-sai-pham-dau-thau-884801.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương phong tỏa xã hơn 7.400 dân](https://vnexpress.net/hai-duong-phong-toa-xa-hon-7-400-dan-4241996.html) ([VNExpress](https://vnexpress.net))
 - [Thái Bình: Khởi tố Sơn &quot;Lông&quot; tội mua bán trái phép hóa đơn](https://laodong.vn/phap-luat/thai-binh-khoi-to-son-long-toi-mua-ban-trai-phep-hoa-don-884785.ldo) ([Lao Động](https://laodong.vn))
@@ -83,8 +85,6 @@
 - ["Thần y" Hoa Đà đúc kết bí quyết ăn uống để trẻ mãi không già: Được người đời khen ngợi không ngớt](https://cafebiz.vn/than-y-hoa-da-duc-ket-bi-quyet-an-uong-de-tre-mai-khong-gia-duoc-nguoi-doi-khen-ngoi-khong-ngot-20210301172524654.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bố bé gái rơi từ tầng 12: &quot;Nhờ anh Mạnh cháu như được sinh ra lần thứ 2&quot;](https://laodong.vn/video/bo-be-gai-roi-tu-tang-12-nho-anh-manh-chau-nhu-duoc-sinh-ra-lan-thu-2-884780.ldo) ([Lao Động](https://laodong.vn))
 - [Tiến sĩ Vật lý phân tích lực và độ nguy hiểm khi người hùng Nguyễn Ngọc Mạnh đỡ bé gái ngã từ tầng 12](https://cafebiz.vn/tien-si-vat-ly-phan-tich-luc-va-do-nguy-hiem-khi-nguoi-hung-nguyen-ngoc-manh-do-be-gai-nga-tu-tang-12-20210301211842919.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hé lộ thông tin Mỹ lãng phí hàng tỉ USD ở Afghanistan](https://laodong.vn/the-gioi/he-lo-thong-tin-my-lang-phi-hang-ti-usd-o-afghanistan-884784.ldo) ([Lao Động](https://laodong.vn))
-- [Điện Biên: Khoan cục sắt lạ, người đàn ông bị thương nặng](https://laodong.vn/xa-hoi/dien-bien-khoan-cuc-sat-la-nguoi-dan-ong-bi-thuong-nang-884787.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
