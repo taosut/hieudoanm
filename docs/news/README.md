@@ -7,7 +7,7 @@
 - [Hé lộ thông tin Mỹ lãng phí hàng tỉ USD ở Afghanistan](https://laodong.vn/the-gioi/he-lo-thong-tin-my-lang-phi-hang-ti-usd-o-afghanistan-884784.ldo) ([Lao Động](https://laodong.vn))
 - [Điện Biên: Khoan cục sắt lạ, người đàn ông bị thương nặng](https://laodong.vn/xa-hoi/dien-bien-khoan-cuc-sat-la-nguoi-dan-ong-bi-thuong-nang-884787.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất hôm nay: Ông Trump kêu gọi tiêm vaccine COVID-19](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-ong-trump-keu-goi-tiem-vaccine-covid-19-884759.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Sam Rainsy, cựu lãnh đạo đảng Cứu quốc Campuchia, bị kết án 25 năm tù](https://tuoitre.vn/ong-sam-rainsy-cuu-lanh-dao-dang-cuu-quoc-campuchia-bi-ket-an-25-nam-tu-20210301203430215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ông Sam Rainsy, cựu lãnh đạo Đảng Cứu quốc Campuchia, bị kết án 25 năm tù](https://tuoitre.vn/ong-sam-rainsy-cuu-lanh-dao-dang-cuu-quoc-campuchia-bi-ket-an-25-nam-tu-20210301203430215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Đặt 5 vật phong thủy này trong nhà, phú quý gõ cửa, tiền tài đến tay](https://cafebiz.vn/dat-5-vat-phong-thuy-nay-trong-nha-phu-quy-go-cua-tien-tai-den-tay-20210301172228212.chn) ([CafeBiz](https://cafebiz.vn))
 - [IAEA cảnh báo không dùng thanh sát hạt nhân Iran làm con bài mặc cả](https://laodong.vn/the-gioi/iaea-canh-bao-khong-dung-thanh-sat-hat-nhan-iran-lam-con-bai-mac-ca-884782.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương: Hàng ngàn công nhân đi làm trở lại](http://vietnamnet.vn/vn/thoi-su/hai-duong-hang-ngan-cong-nhan-di-lam-tro-lai-716414.html) ([VietNamNet](https://vietnamnet.vn))

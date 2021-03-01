@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 25.1°C.
-- Air Visual is 166.
+- Feels Like 24.74°C.
+- Air Visual is 159.
 
 **WEATHER**
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Cuối 2021 khởi công dự án hơn 4.800 tỷ ‘giải cứu’ kẹt xe khu Tân Sơn  Nhất](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/cuoi-2021-khoi-cong-du-an-hon-4-800-ty-giai-cuu-ket-xe-khu-tan-son-nhat-716426.html) ([VietNamNet](https://vietnamnet.vn))
 - [Dự đoán vận mệnh của 12 con giáp trong tuần mới 1/3 - 7/3: Tuổi Thìn có cơ hội thử những điều mới mẻ, tuổi Dậu nhận được sự giúp đỡ nhiệt tình](https://cafebiz.vn/du-doan-van-menh-cua-12-con-giap-trong-tuan-moi-1-3-7-3-tuoi-thin-co-co-hoi-thu-nhung-dieu-moi-me-tuoi-dau-nhan-duoc-su-giup-do-nhiet-tinh-20210301172912458.chn) ([CafeBiz](https://cafebiz.vn))
 - ["Thần y" Hoa Đà đúc kết bí quyết ăn uống để trẻ mãi không già: Được người đời khen ngợi không ngớt](https://cafebiz.vn/than-y-hoa-da-duc-ket-bi-quyet-an-uong-de-tre-mai-khong-gia-duoc-nguoi-doi-khen-ngoi-khong-ngot-20210301172524654.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bố bé gái rơi từ tầng 12: &quot;Nhờ anh Mạnh cháu như được sinh ra lần thứ 2&quot;](https://laodong.vn/video/bo-be-gai-roi-tu-tang-12-nho-anh-manh-chau-nhu-duoc-sinh-ra-lan-thu-2-884780.ldo) ([Lao Động](https://laodong.vn))
@@ -82,9 +83,8 @@
 - [Hé lộ thông tin Mỹ lãng phí hàng tỉ USD ở Afghanistan](https://laodong.vn/the-gioi/he-lo-thong-tin-my-lang-phi-hang-ti-usd-o-afghanistan-884784.ldo) ([Lao Động](https://laodong.vn))
 - [Điện Biên: Khoan cục sắt lạ, người đàn ông bị thương nặng](https://laodong.vn/xa-hoi/dien-bien-khoan-cuc-sat-la-nguoi-dan-ong-bi-thuong-nang-884787.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất hôm nay: Ông Trump kêu gọi tiêm vaccine COVID-19](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-ong-trump-keu-goi-tiem-vaccine-covid-19-884759.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Sam Rainsy, cựu lãnh đạo đảng Cứu quốc Campuchia, bị kết án 25 năm tù](https://tuoitre.vn/ong-sam-rainsy-cuu-lanh-dao-dang-cuu-quoc-campuchia-bi-ket-an-25-nam-tu-20210301203430215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ông Sam Rainsy, cựu lãnh đạo Đảng Cứu quốc Campuchia, bị kết án 25 năm tù](https://tuoitre.vn/ong-sam-rainsy-cuu-lanh-dao-dang-cuu-quoc-campuchia-bi-ket-an-25-nam-tu-20210301203430215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Đặt 5 vật phong thủy này trong nhà, phú quý gõ cửa, tiền tài đến tay](https://cafebiz.vn/dat-5-vat-phong-thuy-nay-trong-nha-phu-quy-go-cua-tien-tai-den-tay-20210301172228212.chn) ([CafeBiz](https://cafebiz.vn))
-- [IAEA cảnh báo không dùng thanh sát hạt nhân Iran làm con bài mặc cả](https://laodong.vn/the-gioi/iaea-canh-bao-khong-dung-thanh-sat-hat-nhan-iran-lam-con-bai-mac-ca-884782.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
