@@ -48,24 +48,24 @@
 
 **GOOGLE TRENDS**
 
+- [![Anya Taylor-Joy](https://img.shields.io/static/v1?label=Anya%20Taylor-Joy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anya%20Taylor-Joy)
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
 - [![Atalanta](https://img.shields.io/static/v1?label=Atalanta&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atalanta)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
 - [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
-- [![Câm tâm tựa ngọc](https://img.shields.io/static/v1?label=C%C3%A2m%20t%C3%A2m%20t%E1%BB%B1a%20ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%A2m%20t%C3%A2m%20t%E1%BB%B1a%20ng%E1%BB%8Dc)
 - [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
 - [![Galaxy S21](https://img.shields.io/static/v1?label=Galaxy%20S21&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Galaxy%20S21)
 - [![Hoàng Thị Thúy Lan](https://img.shields.io/static/v1?label=Ho%C3%A0ng%20Th%E1%BB%8B%20Th%C3%BAy%20Lan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ho%C3%A0ng%20Th%E1%BB%8B%20Th%C3%BAy%20Lan)
 - [![Justin Bieber](https://img.shields.io/static/v1?label=Justin%20Bieber&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justin%20Bieber)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![MU vs Chelsea](https://img.shields.io/static/v1?label=MU%20vs%20Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20Chelsea)
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
 - [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
 - [![Nguyễn Quang Dũng](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Quang%20D%C5%A9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Quang%20D%C5%A9ng)
 - [![Ngô Mạnh Đạt](https://img.shields.io/static/v1?label=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
+- [![Video cứu bé rơi từ tầng 12](https://img.shields.io/static/v1?label=Video%20c%E1%BB%A9u%20b%C3%A9%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Video%20c%E1%BB%A9u%20b%C3%A9%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
 - [![iOS 14.5](https://img.shields.io/static/v1?label=iOS%2014.5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iOS%2014.5)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Vụ bé gái rơi từ tầng 12: Gia đình bé gái lên tiếng](https://laodong.vn/xa-hoi/vu-be-gai-roi-tu-tang-12-gia-dinh-be-gai-len-tieng-884703.ldo) ([Lao Động](https://laodong.vn))
-- [Tiếp nhận 1,5 tỉ đồng ủng hộ Hải Dương phòng, chống dịch COVID-19](https://laodong.vn/thoi-su/tiep-nhan-15-ti-dong-ung-ho-hai-duong-phong-chong-dich-covid-19-884678.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang: Đẩy mạnh thanh toán không dùng tiền mặt trong trường công](https://laodong.vn/giao-duc/bac-giang-day-manh-thanh-toan-khong-dung-tien-mat-trong-truong-cong-884710.ldo) ([Lao Động](https://laodong.vn))
+- [Chứng khoán nghẽn, nhà đầu tư bức xúc, Bộ Tài chính đưa ra giải pháp gì?](https://laodong.vn/kinh-te/chung-khoan-nghen-nha-dau-tu-buc-xuc-bo-tai-chinh-dua-ra-giai-phap-gi-884737.ldo) ([Lao Động](https://laodong.vn))
+- [Có được đơn phương chấm dứt hợp đồng lao động vì bị giữ tiền lương?](https://laodong.vn/ban-doc/co-duoc-don-phuong-cham-dut-hop-dong-lao-dong-vi-bi-giu-tien-luong-884622.ldo) ([Lao Động](https://laodong.vn))
+- [Xử lý ra sao trường hợp xe Mercedes mang biển số giả ở Hà Nội](https://laodong.vn/phap-luat/xu-ly-ra-sao-truong-hop-xe-mercedes-mang-bien-so-gia-o-ha-noi-884658.ldo) ([Lao Động](https://laodong.vn))
+- [Được thanh toán bảo hiểm y tế khi chụp cộng hưởng từ không?](https://laodong.vn/ban-doc/duoc-thanh-toan-bao-hiem-y-te-khi-chup-cong-huong-tu-khong-884661.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ trùm ma túy Mexico El Chapo trốn chạy khỏi các con riêng của chồng](https://laodong.vn/the-gioi/vo-trum-ma-tuy-mexico-el-chapo-tron-chay-khoi-cac-con-rieng-cua-chong-884673.ldo) ([Lao Động](https://laodong.vn))
+- [Cha bé gái rơi từ tầng 12 chung cư: 'Con tôi như được tái sinh 'lần thứ hai'](https://tuoitre.vn/cha-be-gai-roi-tu-tang-12-chung-cu-con-toi-nhu-duoc-tai-sinh-lan-thu-hai-20210301180548393.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hà Nội yêu cầu người về từ 4 địa bàn ở Hải Dương tự cách ly 14 ngày](https://tuoitre.vn/ha-noi-yeu-cau-nguoi-ve-tu-4-dia-ban-o-hai-duong-tu-cach-ly-14-ngay-20210301173812507.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thầy cô giáo sẽ đeo khẩu trang giảng bài phòng dịch COVID-19](https://laodong.vn/video/thay-co-giao-se-deo-khau-trang-giang-bai-phong-dich-covid-19-884700.ldo) ([Lao Động](https://laodong.vn))
-- [Yên Bái: Bắt 4 cán bộ ở huyện Yên Bình vì chiếm đoạt tài sản](https://laodong.vn/phap-luat/yen-bai-bat-4-can-bo-o-huyen-yen-binh-vi-chiem-doat-tai-san-884705.ldo) ([Lao Động](https://laodong.vn))
+- [1 ca COVID-19 chưa rõ nguồn lây, Hải Dương xét nghiệm hơn 7.000 người dân 1 phường](https://tuoitre.vn/1-ca-covid-19-chua-ro-nguon-lay-hai-duong-xet-nghiem-hon-7-000-nguoi-dan-1-phuong-20210301180659436.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chiều nay 1-3, thêm 13 ca mắc COVID-19 mới, 6 ca đã được cách ly từ 1 tháng trước](https://tuoitre.vn/chieu-nay-1-3-them-13-ca-mac-covid-19-moi-6-ca-da-duoc-cach-ly-tu-1-thang-truoc-20210301180845797.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [&quot;Người hùng&quot; cứu bé gái rơi từ tầng 12 được dân mạng ngợi khen hết lời](https://laodong.vn/video/nguoi-hung-cuu-be-gai-roi-tu-tang-12-duoc-dan-mang-ngoi-khen-het-loi-884683.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Cà phê trong nhà được mở, trà đá vỉa hè vẫn bị cấm từ mai (2.3)](https://laodong.vn/xa-hoi/ha-noi-ca-phe-trong-nha-duoc-mo-tra-da-via-he-van-bi-cam-tu-mai-23-884620.ldo) ([Lao Động](https://laodong.vn))
-- [Kiên Giang ghi nhận 5 ca nhiễm COVID-19, đều là người về từ Campuchia](https://tuoitre.vn/kien-giang-ghi-nhan-5-ca-nhiem-covid-19-deu-la-nguoi-ve-tu-campuchia-20210301174816136.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hé lộ lý do khiến tỷ phú Bill Gates mua nhiều đất nông nghiệp tại Mỹ](https://cafebiz.vn/he-lo-ly-do-khien-ty-phu-bill-gates-mua-nhieu-dat-nong-nghiep-tai-my-20210301163723715.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
