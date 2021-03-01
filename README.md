@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is overcast clouds.
-- Temperature is 25.12°C.
-- Feels Like 26.49°C.
-- Air Visual is 147.
+- Current weather is mist.
+- Temperature is 21°C.
+- Feels Like 22.67°C.
+- Air Visual is 152.
 
 **WEATHER**
 
@@ -75,12 +75,12 @@
 
 **NEWS**
 
+- [Bản tin 1 phút 1.3: Tuyên bố của ông Trump sau khi trở lại chính trường](https://laodong.vn/video/ban-tin-1-phut-13-tuyen-bo-cua-ong-trump-sau-khi-tro-lai-chinh-truong-884565.ldo) ([Lao Động](https://laodong.vn))
+- [Cứu bé gái rơi từ tầng 12: Câu chuyện kỳ diệu, hành động anh hùng](https://laodong.vn/ban-doc/cuu-be-gai-roi-tu-tang-12-cau-chuyen-ky-dieu-hanh-dong-anh-hung-884579.ldo) ([Lao Động](https://laodong.vn))
+- [Đau đầu vì… cầu](https://laodong.vn/su-kien-binh-luan/dau-dau-vi-cau-884582.ldo) ([Lao Động](https://laodong.vn))
 - [Bác sĩ Bệnh viện Nhi TƯ: Bé gái ngã từ tầng 12A chung cư đã tiếp xúc tốt, siêu âm không có dấu hiệu bất thường](https://cafebiz.vn/bac-si-benh-vien-nhi-tu-be-gai-nga-tu-tang-12a-chung-cu-da-tiep-xuc-tot-sieu-am-khong-co-dau-hieu-bat-thuong-20210301120426664.chn) ([CafeBiz](https://cafebiz.vn))
 - [Từ vụ bé gái rơi từ tầng 12: Tiêu chuẩn về lan can chung cư thế nào?](https://laodong.vn/xa-hoi/tu-vu-be-gai-roi-tu-tang-12-tieu-chuan-ve-lan-can-chung-cu-the-nao-884572.ldo) ([Lao Động](https://laodong.vn))
 - [Lý do bất ngờ khiến người phát ngôn của Thủ tướng Nhật Bản từ chức](https://laodong.vn/the-gioi/ly-do-bat-ngo-khien-nguoi-phat-ngon-cua-thu-tuong-nhat-ban-tu-chuc-884561.ldo) ([Lao Động](https://laodong.vn))
-- [Khởi tố nguyên Giám đốc chi nhánh văn phòng đăng kí đất đai TP. Huế](https://laodong.vn/phap-luat/khoi-to-nguyen-giam-doc-chi-nhanh-van-phong-dang-ki-dat-dai-tp-hue-884585.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ ngừng việc tập thể ở Tiền Giang: Công nhân đã trở lại làm việc](https://laodong.vn/ldld-tien-giang/vu-ngung-viec-tap-the-o-tien-giang-cong-nhan-da-tro-lai-lam-viec-884581.ldo) ([Lao Động](https://laodong.vn))
-- [LĐLĐ tỉnh Ninh Bình: Phát động &quot;Tết trồng cây đời đời nhớ ơn Bác Hồ&quot;](https://laodong.vn/cong-doan/ldld-tinh-ninh-binh-phat-dong-tet-trong-cay-doi-doi-nho-on-bac-ho-884577.ldo) ([Lao Động](https://laodong.vn))
 - [Tài xế kể lại giây phút cứu bé gái rơi từ tầng 12](https://vnexpress.net/tai-xe-ke-lai-giay-phut-cuu-be-gai-roi-tu-tang-12-4241631.html) ([VNExpress](https://vnexpress.net))
 - [Bí thư Hà Nội và Chủ tịch Hà Nội khen thưởng "người hùng" cứu bé gái rơi từ tầng 12A chung cư](https://cafebiz.vn/bi-thu-ha-noi-va-chu-tich-ha-noi-khen-thuong-nguoi-hung-cuu-be-gai-roi-tu-tang-12a-chung-cu-20210301115809785.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hàng loạt chính sách nổi bật có hiệu lực từ tháng 3.2021](https://laodong.vn/infographic/hang-loat-chinh-sach-noi-bat-co-hieu-luc-tu-thang-32021-884558.ldo) ([Lao Động](https://laodong.vn))
