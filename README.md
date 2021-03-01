@@ -21,7 +21,7 @@
 
 - Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 24.38°C.
+- Feels Like 24.74°C.
 - Air Visual is 168.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nóng nhất 24h: Kết quả chụp CT sọ não bé gái rơi từ tầng 12](https://laodong.vn/video-thoi-su/nong-nhat-24h-ket-qua-chup-ct-so-nao-be-gai-roi-tu-tang-12-884748.ldo) ([Lao Động](https://laodong.vn))
+- [Lừa đảo bán &quot;chốt đảm bảo an ninh trật tự&quot; giá 1,5 tỉ đồng](https://laodong.vn/phap-luat/lua-dao-ban-chot-dam-bao-an-ninh-trat-tu-gia-15-ti-dong-884776.ldo) ([Lao Động](https://laodong.vn))
+- [Thời điểm sụp đổ trong ngân khố chỉ còn lại 10 đồng, rốt cuộc kho vàng kho bạc đầy ắp một thời của nhà Thanh đã chảy đi đâu?](https://cafebiz.vn/thoi-diem-sup-do-trong-ngan-kho-chi-con-lai-10-dong-rot-cuoc-kho-vang-kho-bac-day-ap-mot-thoi-cua-nha-thanh-da-chay-di-dau-2021030117175274.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bám phao xốp bơi trên sông từ Hải Dương sang Hải Phòng 'né' chốt kiểm soát](https://tuoitre.vn/bam-phao-xop-boi-tren-song-tu-hai-duong-sang-hai-phong-ne-chot-kiem-soat-20210301190451148.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hà Nội sẵn sàng đón học sinh trở lại trường an toàn](https://laodong.vn/giao-duc/ha-noi-san-sang-don-hoc-sinh-tro-lai-truong-an-toan-884744.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Kinh vẫn tiến hành tiêm vaccine COVID-19 cho người già](https://laodong.vn/the-gioi/bac-kinh-van-tien-hanh-tiem-vaccine-covid-19-cho-nguoi-gia-884779.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Trường cẩn thận phun khử khuẩn xe đưa đón ngày học sinh trở lại](https://laodong.vn/giao-duc/ha-noi-truong-can-than-phun-khu-khuan-xe-dua-don-ngay-hoc-sinh-tro-lai-884774.ldo) ([Lao Động](https://laodong.vn))
+- [Đồng Nai, Bình Dương, Gia Lai nới lỏng một số dịch vụ](https://vnexpress.net/dong-nai-binh-duong-gia-lai-noi-long-mot-so-dich-vu-4241973.html) ([VNExpress](https://vnexpress.net))
 - [Bố của cháu bé rơi từ tầng 12A chung cư xuống đất: "Nếu không có anh Mạnh, chúng tôi không biết sống như thế nào"](https://cafebiz.vn/bo-cua-chau-be-roi-tu-tang-12a-chung-cu-xuong-dat-neu-khong-co-anh-manh-chung-toi-khong-biet-song-nhu-the-nao-20210301195612358.chn) ([CafeBiz](https://cafebiz.vn))
 - [Kaity Nguyễn hóa tomboy cá tính, lạnh lùng bên Ninh Dương Lan Ngọc](https://laodong.vn/photo/kaity-nguyen-hoa-tomboy-ca-tinh-lanh-lung-ben-ninh-duong-lan-ngoc-884533.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 2.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-23-884534.ldo) ([Lao Động](https://laodong.vn))
-- [Nhan sắc hút hồn của thần tượng ngoại quốc nổi tiếng nhất showbiz Hàn Quốc](https://laodong.vn/photo/nhan-sac-hut-hon-cua-than-tuong-ngoai-quoc-noi-tieng-nhat-showbiz-han-quoc-884555.ldo) ([Lao Động](https://laodong.vn))
-- [Văn Toàn quan trọng thế nào với đội tuyển Việt Nam?](https://laodong.vn/video/van-toan-quan-trong-the-nao-voi-doi-tuyen-viet-nam-884638.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt 3 đối tượng đua xe trái phép](https://laodong.vn/phap-luat/bat-3-doi-tuong-dua-xe-trai-phep-884771.ldo) ([Lao Động](https://laodong.vn))
-- [Chính quyền đô thị tại TP.HCM phải là nơi lo cho dân, hướng về người dân](https://tuoitre.vn/chinh-quyen-do-thi-tai-tp-hcm-phai-la-noi-lo-cho-dan-huong-ve-nguoi-dan-20210301183331998.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Khi giày sneaker trở thành 1 loại tài sản đầu tư chính hiệu: Chàng trai 19 tuổi làm giàu từ những đôi Jordan và Yeezy, thị trường resale giày ở Bắc Mỹ đạt quy mô 2 tỷ USD](https://cafebiz.vn/khi-giay-sneaker-tro-thanh-1-loai-tai-san-dau-tu-chinh-hieu-chang-trai-19-tuoi-lam-giau-tu-nhung-doi-jordan-va-yeezy-thi-truong-resale-giay-o-bac-my-dat-quy-mo-2-ty-usd-20210301192539409.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cảnh sát khám xét trụ sở Barcelona, cựu Chủ tịch Bartomeu bị bắt](https://laodong.vn/bong-da-quoc-te/canh-sat-kham-xet-tru-so-barcelona-cuu-chu-tich-bartomeu-bi-bat-884772.ldo) ([Lao Động](https://laodong.vn))
-- [CEO 9X Phạm Tùng Lâm: Chặng đường chinh phục thành công đầy thử thách](https://cafebiz.vn/ceo-9x-pham-tung-lam-chang-duong-chinh-phuc-thanh-cong-day-thu-thach-20210301175624657.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
