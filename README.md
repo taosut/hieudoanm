@@ -22,7 +22,7 @@
 - Current weather is drizzle.
 - Temperature is 22°C.
 - Feels Like 25.26°C.
-- Air Visual is 150.
+- Air Visual is 139.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hà Nội: Cà phê trong nhà được mở, trà đá vỉa hè vẫn bị cấm từ mai (2.3)](https://laodong.vn/xa-hoi/ha-noi-ca-phe-trong-nha-duoc-mo-tra-da-via-he-van-bi-cam-tu-mai-23-884620.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Tĩnh: Đã bỏ hướng dẫn &quot;cứng nhắc&quot; về hỗ trợ nhà hư hỏng do thiên tai](https://laodong.vn/ban-doc/ha-tinh-da-bo-huong-dan-cung-nhac-ve-ho-tro-nha-hu-hong-do-thien-tai-884679.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng bật tăng, lấy lại 12 USD chỉ sau ít giờ](https://laodong.vn/kinh-te/gia-vang-bat-tang-lay-lai-12-usd-chi-sau-it-gio-884696.ldo) ([Lao Động](https://laodong.vn))
 - [Hé lộ lý do khiến tỷ phú Bill Gates mua nhiều đất nông nghiệp tại Mỹ](https://cafebiz.vn/he-lo-ly-do-khien-ty-phu-bill-gates-mua-nhieu-dat-nong-nghiep-tai-my-20210301163723715.chn) ([CafeBiz](https://cafebiz.vn))
 - [Khách đi tàu bất ngờ nhận lại 36 triệu đồng bỏ quên](https://laodong.vn/xa-hoi/khach-di-tau-bat-ngo-nhan-lai-36-trieu-dong-bo-quen-884695.ldo) ([Lao Động](https://laodong.vn))
 - [Đề nghị hỗ trợ nhân viên y tế tử vong do tai nạn khi chống dịch](https://laodong.vn/cong-doan/de-nghi-ho-tro-nhan-vien-y-te-tu-vong-do-tai-nan-khi-chong-dich-884694.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: nhà hàng, quán cà phê được mở lại từ ngày mai 2-3](https://tuoitre.vn/ha-noi-nha-hang-quan-ca-phe-duoc-mo-lai-tu-ngay-mai-2-3-20210301170042904.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tỉnh ủy Vĩnh Phúc thông tin về việc bổ nhiệm phó giám đốc sở 31 tuổi](http://vietnamnet.vn/vn/thoi-su/tinh-uy-vinh-phuc-thong-tin-ve-viec-bo-nhiem-pho-giam-doc-so-31-tuoi-716381.html) ([VietNamNet](https://vietnamnet.vn))
 - [Dùng mật khẩu như trẻ con, công ty tỷ USD làm dữ liệu của hàng nghìn công ty và cơ quan chính quyền bị hacker xâm nhập](https://cafebiz.vn/dung-mat-khau-nhu-tre-con-cong-ty-ty-usd-lam-du-lieu-cua-hang-nghin-cong-ty-va-co-quan-chinh-quyen-bi-hacker-xam-nhap-20210301164333237.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắc Kạn: 80 người nhập viện sau tiệc cưới đã ổn định, vẫn chờ nguyên nhân](https://laodong.vn/xa-hoi/bac-kan-80-nguoi-nhap-vien-sau-tiec-cuoi-da-on-dinh-van-cho-nguyen-nhan-884685.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: nhà hàng, quán cà phê được mở lại từ ngày mai 2-3](https://tuoitre.vn/ha-noi-nha-hang-quan-ca-phe-duoc-mo-lai-tu-ngay-mai-2-3-20210301170042904.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [TP HCM chưa dẹp được lò mổ thủ công](https://vnexpress.net/tp-hcm-chua-dep-duoc-lo-mo-thu-cong-4241915.html) ([VNExpress](https://vnexpress.net))
-- [An Giang: Tước Giấy phép lái xe tài xế xe biển xanh lấn làn đường](https://laodong.vn/phap-luat/an-giang-tuoc-giay-phep-lai-xe-tai-xe-xe-bien-xanh-lan-lan-duong-884686.ldo) ([Lao Động](https://laodong.vn))
-- [Nông dân Hà Tĩnh lo lắng vì nhiều trâu, bò 'da nổi cục' rồi chết](https://tuoitre.vn/nong-dan-ha-tinh-lo-lang-vi-nhieu-trau-bo-da-noi-cuc-roi-chet-20210301162645255.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Trung vệ Duy Mạnh: &quot;Quãng nghỉ dài giúp CLB Hà Nội ổn định tinh thần&quot;](https://laodong.vn/bong-da/trung-ve-duy-manh-quang-nghi-dai-giup-clb-ha-noi-on-dinh-tinh-than-884682.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
