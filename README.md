@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 23.73°C.
 - Feels Like 25.04°C.
-- Air Visual is 111.
+- Air Visual is 134.
 
 **WEATHER**
 
@@ -54,7 +54,6 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
 - [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
-- [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Justin Bieber](https://img.shields.io/static/v1?label=Justin%20Bieber&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justin%20Bieber)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
@@ -67,6 +66,7 @@
 - [![Ngô Mạnh Đạt](https://img.shields.io/static/v1?label=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Thương Tín](https://img.shields.io/static/v1?label=Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%B0%C6%A1ng%20T%C3%ADn)
+- [![Xem bong da trực tiếp](https://img.shields.io/static/v1?label=Xem%20bong%20da%20tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Xem%20bong%20da%20tr%E1%BB%B1c%20ti%E1%BA%BFp)
 - [![Đồng Tháp](https://img.shields.io/static/v1?label=%C4%90%E1%BB%93ng%20Th%C3%A1p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BB%93ng%20Th%C3%A1p)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Những game thành công nhất trong mùa dịch Covid-19](https://cafebiz.vn/nhung-game-thanh-cong-nhat-trong-mua-dich-covid-19-2021030108594355.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuyển động mới của Tập đoàn năng lượng Nhật Bản ENEOS tại Việt Nam: Tăng mạnh sở hữu tại Petrolimex, đưa đại diện Việt Nam thành Tổng phụ trách khu vực](https://cafebiz.vn/chuyen-dong-moi-cua-tap-doan-nang-luong-nhat-ban-eneos-tai-viet-nam-tang-manh-so-huu-tai-petrolimex-dua-dai-dien-viet-nam-thanh-tong-phu-trach-khu-vuc-20210301095506743.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: Giao thông ngày học sinh trở lại trường, nơi thông thoáng, chỗ ùn ứ](https://laodong.vn/giao-thong/tphcm-giao-thong-ngay-hoc-sinh-tro-lai-truong-noi-thong-thoang-cho-un-u-884491.ldo) ([Lao Động](https://laodong.vn))
+- [Tin bóng đá sáng 1.3: Vì sao Koeman không sử dụng Griezmann?](https://laodong.vn/bong-da-quoc-te/tin-bong-da-sang-13-vi-sao-koeman-khong-su-dung-griezmann-884505.ldo) ([Lao Động](https://laodong.vn))
 - [Học sinh Quảng Ninh trở lại trường: Đo thân nhiệt 2 lần, chào cờ trong lớp](https://laodong.vn/xa-hoi/hoc-sinh-quang-ninh-tro-lai-truong-do-than-nhiet-2-lan-chao-co-trong-lop-884502.ldo) ([Lao Động](https://laodong.vn))
 - [Không khí lạnh tiếp tục tăng cường khiến miền Bắc mưa rét sâu hơn](https://laodong.vn/moi-truong/khong-khi-lanh-tiep-tuc-tang-cuong-khien-mien-bac-mua-ret-sau-hon-884465.ldo) ([Lao Động](https://laodong.vn))
 - [Giá vàng hôm nay 1.3: Tăng &quot;dựng đứng&quot; ngược hoàn toàn dự báo](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-13-tang-dung-dung-nguoc-hoan-toan-du-bao-883918.ldo) ([Lao Động](https://laodong.vn))
 - [Bạn không nên lãng phí tiền vào 9 thứ này](https://cafebiz.vn/ban-khong-nen-lang-phi-tien-vao-9-thu-nay-20210301090644707.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thông tin mới nhất về sức khỏe bé gái rơi từ tầng 12 chung cư ở Hà Nội](https://laodong.vn/y-te/thong-tin-moi-nhat-ve-suc-khoe-be-gai-roi-tu-tang-12-chung-cu-o-ha-noi-884513.ldo) ([Lao Động](https://laodong.vn))
 - [Chọn quà 8/3 thiết thực cho nửa còn lại của thế giới theo từng ngành nghề: Vừa tâm lý, vừa thiết thực!](https://cafebiz.vn/chon-qua-8-3-thiet-thuc-cho-nua-con-lai-cua-the-gioi-theo-tung-nganh-nghe-vua-tam-ly-vua-thiet-thuc-20210301013024082.chn) ([CafeBiz](https://cafebiz.vn))
 - [Elon Musk phản ứng với lời đồn đang bị SEC điều tra vì thổi giá Dogecoin: 'Tuyệt quá'](https://cafebiz.vn/elon-musk-phan-ung-voi-loi-don-dang-bi-sec-dieu-tra-vi-thoi-gia-dogecoin-tuyet-qua-20210301094051206.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đêm không ngủ của "người hùng" lao qua tường rào, cứu sống bé gái 3 tuổi rơi từ tầng 12: "Từ lúc phát hiện đến lúc đỡ bé chỉ khoảng một phút"](https://cafebiz.vn/dem-khong-ngu-cua-nguoi-hung-lao-qua-tuong-rao-cuu-song-be-gai-3-tuoi-roi-tu-tang-12-tu-luc-phat-hien-den-luc-do-be-chi-khoang-mot-phut-20210301093757883.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá vàng và ngoại tệ 1.3: Giá vàng trong nước và thế giới chênh lệch lớn](https://laodong.vn/video/gia-vang-va-ngoai-te-13-gia-vang-trong-nuoc-va-the-gioi-chenh-lech-lon-884501.ldo) ([Lao Động](https://laodong.vn))
-- [Điện ảnh Việt cố gắng trở lại phòng vé](https://laodong.vn/van-hoa-giai-tri/dien-anh-viet-co-gang-tro-lai-phong-ve-884421.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
