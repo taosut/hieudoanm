@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 24.74°C.
-- Air Visual is 159.
+- Feels Like 25.1°C.
+- Air Visual is 173.
 
 **WEATHER**
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Hải Dương phong tỏa xã hơn 7.400 dân](https://vnexpress.net/hai-duong-phong-toa-xa-hon-7-400-dan-4241996.html) ([VNExpress](https://vnexpress.net))
+- [Thái Bình: Khởi tố Sơn &quot;Lông&quot; tội mua bán trái phép hóa đơn](https://laodong.vn/phap-luat/thai-binh-khoi-to-son-long-toi-mua-ban-trai-phep-hoa-don-884785.ldo) ([Lao Động](https://laodong.vn))
 - [Cuối 2021 khởi công dự án hơn 4.800 tỷ ‘giải cứu’ kẹt xe khu Tân Sơn  Nhất](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/cuoi-2021-khoi-cong-du-an-hon-4-800-ty-giai-cuu-ket-xe-khu-tan-son-nhat-716426.html) ([VietNamNet](https://vietnamnet.vn))
 - [Dự đoán vận mệnh của 12 con giáp trong tuần mới 1/3 - 7/3: Tuổi Thìn có cơ hội thử những điều mới mẻ, tuổi Dậu nhận được sự giúp đỡ nhiệt tình](https://cafebiz.vn/du-doan-van-menh-cua-12-con-giap-trong-tuan-moi-1-3-7-3-tuoi-thin-co-co-hoi-thu-nhung-dieu-moi-me-tuoi-dau-nhan-duoc-su-giup-do-nhiet-tinh-20210301172912458.chn) ([CafeBiz](https://cafebiz.vn))
 - ["Thần y" Hoa Đà đúc kết bí quyết ăn uống để trẻ mãi không già: Được người đời khen ngợi không ngớt](https://cafebiz.vn/than-y-hoa-da-duc-ket-bi-quyet-an-uong-de-tre-mai-khong-gia-duoc-nguoi-doi-khen-ngoi-khong-ngot-20210301172524654.chn) ([CafeBiz](https://cafebiz.vn))
@@ -83,8 +85,6 @@
 - [Hé lộ thông tin Mỹ lãng phí hàng tỉ USD ở Afghanistan](https://laodong.vn/the-gioi/he-lo-thong-tin-my-lang-phi-hang-ti-usd-o-afghanistan-884784.ldo) ([Lao Động](https://laodong.vn))
 - [Điện Biên: Khoan cục sắt lạ, người đàn ông bị thương nặng](https://laodong.vn/xa-hoi/dien-bien-khoan-cuc-sat-la-nguoi-dan-ong-bi-thuong-nang-884787.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất hôm nay: Ông Trump kêu gọi tiêm vaccine COVID-19](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-ong-trump-keu-goi-tiem-vaccine-covid-19-884759.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Sam Rainsy, cựu lãnh đạo Đảng Cứu quốc Campuchia, bị kết án 25 năm tù](https://tuoitre.vn/ong-sam-rainsy-cuu-lanh-dao-dang-cuu-quoc-campuchia-bi-ket-an-25-nam-tu-20210301203430215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đặt 5 vật phong thủy này trong nhà, phú quý gõ cửa, tiền tài đến tay](https://cafebiz.vn/dat-5-vat-phong-thuy-nay-trong-nha-phu-quy-go-cua-tien-tai-den-tay-20210301172228212.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -120,8 +120,8 @@
 05. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 06. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 07. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-08. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
-09. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
+08. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
+09. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
 10. [Bài Này Chill Phết](https://www.youtube.com/watch?v=eJZ65JSoM6I) - [Đen - Topic](https://www.youtube.com/channel/UCnO5dE4Vim7ghErGKOakt7w)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
@@ -135,8 +135,8 @@
 03. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 04. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 05. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
-06. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
-07. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+07. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
 08. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 09. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 10. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
