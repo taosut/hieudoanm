@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 24.31°C.
 - Feels Like 25.61°C.
-- Air Visual is 132.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -54,19 +54,19 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
 - [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
+- [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Justin Bieber](https://img.shields.io/static/v1?label=Justin%20Bieber&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justin%20Bieber)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
-- [![MC](https://img.shields.io/static/v1?label=MC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MC)
+- [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![MU vs Chelsea](https://img.shields.io/static/v1?label=MU%20vs%20Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20Chelsea)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Man City vs West Ham](https://img.shields.io/static/v1?label=Man%20City%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20West%20Ham)
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
 - [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
-- [![Ngày Thầy thuốc Việt Nam](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Th%E1%BA%A7y%20thu%E1%BB%91c%20Vi%E1%BB%87t%20Nam)
 - [![Ngô Mạnh Đạt](https://img.shields.io/static/v1?label=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
-- [![Thương Tín](https://img.shields.io/static/v1?label=Th%C6%B0%C6%A1ng%20T%C3%ADn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%B0%C6%A1ng%20T%C3%ADn)
-- [![Xem bong da trực tiếp](https://img.shields.io/static/v1?label=Xem%20bong%20da%20tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Xem%20bong%20da%20tr%E1%BB%B1c%20ti%E1%BA%BFp)
+- [![iOS 14.5](https://img.shields.io/static/v1?label=iOS%2014.5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iOS%2014.5)
 - [![Đồng Tháp](https://img.shields.io/static/v1?label=%C4%90%E1%BB%93ng%20Th%C3%A1p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BB%93ng%20Th%C3%A1p)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tin vui: Vaccine phòng Covid-19 của Việt Nam đã sinh kháng thể chống virus biến chủng Anh](https://cafebiz.vn/tin-vui-vaccine-phong-covid-19-cua-viet-nam-da-sinh-khang-the-chong-virus-bien-chung-anh-20210301105234595.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quốc hội Mỹ tiếp tục thảo luận trấn áp những gã khổng lồ công nghệ](https://cafebiz.vn/quoc-hoi-my-tiep-tuc-thao-luan-tran-ap-nhung-ga-khong-lo-cong-nghe-20210301105005261.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bất động sản năm 2021: Cơ hội rộng mở cho nhà đầu tư](https://cafebiz.vn/bat-dong-san-nam-2021-co-hoi-rong-mo-cho-nha-dau-tu-2021030110492772.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người nhàn rỗi hay lo lắng, người lười biếng hay bệnh tật: Đời này, chỉ có có siêng năng mới sống lâu!](https://cafebiz.vn/nguoi-nhan-roi-hay-lo-lang-nguoi-luoi-bieng-hay-benh-tat-doi-nay-chi-co-co-sieng-nang-moi-song-lau-2021022821560312.chn) ([CafeBiz](https://cafebiz.vn))
+- [Việt Nam góp phần quan trọng tạo dựng vai trò, vị thế của ASEM](https://laodong.vn/the-gioi/viet-nam-gop-phan-quan-trong-tao-dung-vai-tro-vi-the-cua-asem-884536.ldo) ([Lao Động](https://laodong.vn))
+- [Ninh Dương Lan Ngọc đối đầu với Kaity Nguyễn trong &quot;Gái già lắm chiêu V&quot;](https://laodong.vn/giai-tri/ninh-duong-lan-ngoc-doi-dau-voi-kaity-nguyen-trong-gai-gia-lam-chieu-v-884528.ldo) ([Lao Động](https://laodong.vn))
+- [Con gái làm phó giám đốc sở, Bí thư Tỉnh ủy Vĩnh Phúc: ‘Tôi nói sẽ không khách quan'](https://tuoitre.vn/con-gai-lam-pho-giam-doc-so-bi-thu-tinh-uy-vinh-phuc-toi-noi-se-khong-khach-quan-20210301100636349.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Những trường hợp được hoàn thuế Thu nhập cá nhân](https://laodong.vn/kinh-te/nhung-truong-hop-duoc-hoan-thue-thu-nhap-ca-nhan-884530.ldo) ([Lao Động](https://laodong.vn))
 - [Từ hôm nay, bồi thường bảo hiểm bắt buộc tăng lên 150 triệu/người/vụ](https://cafebiz.vn/tu-hom-nay-boi-thuong-bao-hiem-bat-buoc-tang-len-150-trieu-nguoi-vu-20210301103321046.chn) ([CafeBiz](https://cafebiz.vn))
 - [Người lao động gặp khó khăn khi tìm việc đầu năm](https://laodong.vn/cong-doan/nguoi-lao-dong-gap-kho-khan-khi-tim-viec-dau-nam-884426.ldo) ([Lao Động](https://laodong.vn))
-- [Ngành dược phẩm Việt Nam được dự báo đạt giá trị 16,1 tỷ USD vào năm 2026](https://cafebiz.vn/nganh-duoc-pham-viet-nam-duoc-du-bao-dat-gia-tri-161-ty-usd-vao-nam-2026-20210301103042105.chn) ([CafeBiz](https://cafebiz.vn))
-- [BTS và Jeongmilla nhận giải thưởng lớn tại “Korean Music Awards”](https://laodong.vn/giai-tri/bts-va-jeongmilla-nhan-giai-thuong-lon-tai-korean-music-awards-884520.ldo) ([Lao Động](https://laodong.vn))
-- [Làm gì khi trẻ biếng ăn, chậm tăng cân?](https://laodong.vn/dinh-duong-am-thuc/lam-gi-khi-tre-bieng-an-cham-tang-can-884357.ldo) ([Lao Động](https://laodong.vn))
-- [BIC ưu đãi 20% phí bảo hiểm sức khỏe nhân ngày Quốc tế phụ nữ](https://laodong.vn/kinh-te/bic-uu-dai-20-phi-bao-hiem-suc-khoe-nhan-ngay-quoc-te-phu-nu-884519.ldo) ([Lao Động](https://laodong.vn))
-- [Sổ đỏ đứng tên chủ cũ có ảnh hưởng đến quyền lợi người mua không?](https://laodong.vn/ban-doc/so-do-dung-ten-chu-cu-co-anh-huong-den-quyen-loi-nguoi-mua-khong-884517.ldo) ([Lao Động](https://laodong.vn))
-- [Cuộc đấu giữa quyền và lực](https://laodong.vn/the-gioi/cuoc-dau-giua-quyen-va-luc-884413.ldo) ([Lao Động](https://laodong.vn))
-- [Đại tá Trần Minh Tiến làm giám đốc Công an tỉnh Lâm Đồng](https://tuoitre.vn/dai-ta-tran-minh-tien-lam-giam-doc-cong-an-tinh-lam-dong-20210301100729405.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Người đàn ông 53 tuổi chết trên xe khách âm tính với virus SARS-CoV-2](https://cafebiz.vn/nguoi-dan-ong-53-tuoi-chet-tren-xe-khach-am-tinh-voi-virus-sars-cov-2-20210301101104832.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
