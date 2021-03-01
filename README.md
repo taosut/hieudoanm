@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 22°C.
 - Feels Like 24.74°C.
-- Air Visual is 168.
+- Air Visual is 112.
 
 **WEATHER**
 
@@ -52,14 +52,14 @@
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
-- [![Bé gái hai tuổi rơi từ tầng 12 chung cư](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%20hai%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012%20chung%20c%C6%B0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%20hai%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012%20chung%20c%C6%B0)
-- [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
+- [![Bé gái 3 tuổi rơi từ tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
 - [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
 - [![Galaxy S21](https://img.shields.io/static/v1?label=Galaxy%20S21&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Galaxy%20S21)
 - [![Hoàng Thị Thúy Lan](https://img.shields.io/static/v1?label=Ho%C3%A0ng%20Th%E1%BB%8B%20Th%C3%BAy%20Lan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ho%C3%A0ng%20Th%E1%BB%8B%20Th%C3%BAy%20Lan)
 - [![Justin Bieber](https://img.shields.io/static/v1?label=Justin%20Bieber&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justin%20Bieber)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![MU vs Chelsea](https://img.shields.io/static/v1?label=MU%20vs%20Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20Chelsea)
+- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
 - [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
 - [![Nguyễn Quang Dũng](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Quang%20D%C5%A9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Quang%20D%C5%A9ng)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Ông Sam Rainsy, cựu lãnh đạo đảng Cứu quốc Campuchia, bị kết án 25 năm tù](https://tuoitre.vn/ong-sam-rainsy-cuu-lanh-dao-dang-cuu-quoc-campuchia-bi-ket-an-25-nam-tu-20210301203430215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Đặt 5 vật phong thủy này trong nhà, phú quý gõ cửa, tiền tài đến tay](https://cafebiz.vn/dat-5-vat-phong-thuy-nay-trong-nha-phu-quy-go-cua-tien-tai-den-tay-20210301172228212.chn) ([CafeBiz](https://cafebiz.vn))
+- [IAEA cảnh báo không dùng thanh sát hạt nhân Iran làm con bài mặc cả](https://laodong.vn/the-gioi/iaea-canh-bao-khong-dung-thanh-sat-hat-nhan-iran-lam-con-bai-mac-ca-884782.ldo) ([Lao Động](https://laodong.vn))
+- [Tạm ngừng phiên tòa vụ hành khách bị tai nạn cưa chân kiện xe Phương Trang](https://tuoitre.vn/tam-ngung-phien-toa-vu-hanh-khach-bi-tai-nan-cua-chan-kien-xe-phuong-trang-20210301192818054.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nếu Lưu Bị đánh bại Tôn Quyền, mối thù Đông Ngô giết Quan Vũ có được báo hay không?](https://cafebiz.vn/neu-luu-bi-danh-bai-ton-quyen-moi-thu-dong-ngo-giet-quan-vu-co-duoc-bao-hay-khong-20210301172043147.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thái Bình tạm dừng 6 chốt kiểm dịch tại cửa ngõ ra, vào tỉnh](https://tuoitre.vn/thai-binh-tam-dung-6-chot-kiem-dich-tai-cua-ngo-ra-vao-tinh-20210301193122587.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Vì sao loạt tập đoàn lớn như Apple, Samsung và LG đổ vào Việt Nam bất chấp thách thức về chuỗi cung ứng?](https://cafebiz.vn/vi-sao-loat-tap-doan-lon-nhu-apple-samsung-va-lg-do-vao-viet-nam-bat-chap-thach-thuc-ve-chuoi-cung-ung-20210301203311622.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dự án 4.800 tỉ ở cửa ngõ sân bay Tân Sơn Nhất: Sẽ khởi công cuối năm nay](https://tuoitre.vn/du-an-4-800-ti-o-cua-ngo-san-bay-tan-son-nhat-se-khoi-cong-cuoi-nam-nay-20210301191507569.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Đường 4.800 tỉ đồng ở cửa ngõ Tân sơn Nhất khởi công cuối năm nay](https://laodong.vn/xa-hoi/duong-4800-ti-dong-o-cua-ngo-tan-son-nhat-khoi-cong-cuoi-nam-nay-884775.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất 24h: Kết quả chụp CT sọ não bé gái rơi từ tầng 12](https://laodong.vn/video-thoi-su/nong-nhat-24h-ket-qua-chup-ct-so-nao-be-gai-roi-tu-tang-12-884748.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng tặng Bằng khen cho ông Nguyễn Ngọc Mạnh](http://vietnamnet.vn/vn/thoi-su/thu-tuong-tang-bang-khen-cho-ong-nguyen-ngoc-manh-716418.html) ([VietNamNet](https://vietnamnet.vn))
-- [Lừa đảo bán &quot;chốt đảm bảo an ninh trật tự&quot; giá 1,5 tỉ đồng](https://laodong.vn/phap-luat/lua-dao-ban-chot-dam-bao-an-ninh-trat-tu-gia-15-ti-dong-884776.ldo) ([Lao Động](https://laodong.vn))
-- [Thời điểm sụp đổ trong ngân khố chỉ còn lại 10 đồng, rốt cuộc kho vàng kho bạc đầy ắp một thời của nhà Thanh đã chảy đi đâu?](https://cafebiz.vn/thoi-diem-sup-do-trong-ngan-kho-chi-con-lai-10-dong-rot-cuoc-kho-vang-kho-bac-day-ap-mot-thoi-cua-nha-thanh-da-chay-di-dau-2021030117175274.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội sẵn sàng đón học sinh trở lại trường an toàn](https://laodong.vn/giao-duc/ha-noi-san-sang-don-hoc-sinh-tro-lai-truong-an-toan-884744.ldo) ([Lao Động](https://laodong.vn))
-- [Bám phao xốp bơi trên sông từ Hải Dương sang Hải Phòng 'né' chốt kiểm soát](https://tuoitre.vn/bam-phao-xop-boi-tren-song-tu-hai-duong-sang-hai-phong-ne-chot-kiem-soat-20210301190451148.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bắc Kinh vẫn tiến hành tiêm vaccine COVID-19 cho người già](https://laodong.vn/the-gioi/bac-kinh-van-tien-hanh-tiem-vaccine-covid-19-cho-nguoi-gia-884779.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
