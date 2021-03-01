@@ -7,7 +7,7 @@ export default [
     personal: true,
     name: 'docker',
     logo: 'docker',
-    repo: 'jenkinsci/docker'
+    repo: 'docker/cli'
   },
   { step: 9, group: 'devops', personal: true, name: 'git', logo: 'git', repo: 'git/git' },
   {
