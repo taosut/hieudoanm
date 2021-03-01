@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 24.38°C.
-- Air Visual is 153.
+- Feels Like 24.21°C.
+- Air Visual is 119.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Cần Thơ: Học sinh, sinh viên đi học trở lại sau 2 tuần nghỉ phòng dịch bệnh](https://laodong.vn/photo/can-tho-hoc-sinh-sinh-vien-di-hoc-tro-lai-sau-2-tuan-nghi-phong-dich-benh-884543.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Xử lý 2 phụ nữ tung tin "hơn 100 ca nhiễm Covid-19 tại huyện Gia Lâm"](https://cafebiz.vn/ha-noi-xu-ly-2-phu-nu-tung-tin-hon-100-ca-nhiem-covid-19-tai-huyen-gia-lam-20210301135026825.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắt nhóm cướp giật tài sản liên tỉnh ở miền Tây](https://laodong.vn/phap-luat/bat-nhom-cuop-giat-tai-san-lien-tinh-o-mien-tay-884596.ldo) ([Lao Động](https://laodong.vn))
+- [Ôtô gãy bánh: Cục Đăng kiểm sẽ vào cuộc khi người dùng phản ánh](https://cafebiz.vn/oto-gay-banh-cuc-dang-kiem-se-vao-cuoc-khi-nguoi-dung-phan-anh-20210301134959582.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đề nghị truy tố kẻ đâm chết nghệ sĩ Opera Mạnh Dũng](https://laodong.vn/phap-luat/de-nghi-truy-to-ke-dam-chet-nghe-si-opera-manh-dung-884603.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM ngày đầu đi học lại: Cả phụ huynh và học sinh đều háo hức](https://laodong.vn/video/tphcm-ngay-dau-di-hoc-lai-ca-phu-huynh-va-hoc-sinh-deu-hao-huc-884580.ldo) ([Lao Động](https://laodong.vn))
+- [Cô gái kiếm tiền bằng cách giúp giới nhà giàu bán lại túi Hermès giá cao](https://cafebiz.vn/co-gai-kiem-tien-bang-cach-giup-gioi-nha-giau-ban-lai-tui-hermes-gia-cao-20210301133948574.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những dấu mốc thời gian gần 25 năm loay hoay quy hoạch sông Hồng](https://laodong.vn/xa-hoi/nhung-dau-moc-thoi-gian-gan-25-nam-loay-hoay-quy-hoach-song-hong-884554.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ "người hùng" cứu bé gái rơi từ tầng 12 chung cư: ''Chồng tôi có lòng tốt đến mức có lần bị người khác lừa nhưng anh cũng kệ"](https://cafebiz.vn/vo-nguoi-hung-cuu-be-gai-roi-tu-tang-12-chung-cu-chong-toi-co-long-tot-den-muc-co-lan-bi-nguoi-khac-lua-nhung-anh-cung-ke-20210301133817856.chn) ([CafeBiz](https://cafebiz.vn))
 - [Leon Dio: Làn sóng "hiện đại" cho văn hóa quà tặng doanh nhân](https://cafebiz.vn/leon-dio-lan-song-hien-dai-cho-van-hoa-qua-tang-doanh-nhan-20210301111931581.chn) ([CafeBiz](https://cafebiz.vn))
-- [Va chạm nhóm chạy xe đạp thể dục, xe khách đâm vào trụ điện, 3 người tử vong](https://tuoitre.vn/va-cham-nhom-chay-xe-dap-the-duc-xe-khach-dam-vao-tru-dien-3-nguoi-tu-vong-20210301121601873.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cuối 2021, xe không chính chủ, không giấy tờ sẽ không được sang tên](https://tuoitre.vn/cuoi-2021-xe-khong-chinh-chu-khong-giay-to-se-khong-duoc-sang-ten-20210301120645778.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bình Thuận điều động, bổ nhiệm hàng loạt cán bộ chủ chốt](https://tuoitre.vn/binh-thuan-dieu-dong-bo-nhiem-hang-loat-can-bo-chu-chot-20210301125640893.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bí thư Hà Nội gửi thư khen anh Nguyễn Ngọc Mạnh cứu bé gái rơi từ tầng 12](https://laodong.vn/thoi-su/bi-thu-ha-noi-gui-thu-khen-anh-nguyen-ngoc-manh-cuu-be-gai-roi-tu-tang-12-884595.ldo) ([Lao Động](https://laodong.vn))
-- [Tỉ phú Abramovich sắm thêm siêu du thuyền giá 400 triệu USD](https://laodong.vn/kinh-te/ti-phu-abramovich-sam-them-sieu-du-thuyen-gia-400-trieu-usd-884589.ldo) ([Lao Động](https://laodong.vn))
-- [9 LĐLĐ tỉnh cụm đồng bằng Sông Hồng: Ủng hộ công nhân lao động Hải Dương](https://laodong.vn/cong-doan/9-ldld-tinh-cum-dong-bang-song-hong-ung-ho-cong-nhan-lao-dong-hai-duong-884539.ldo) ([Lao Động](https://laodong.vn))
-- [Tỉ lệ sẵn sàng tiêm vaccine tăng mạnh ở 6 nước công nghiệp phát triển](https://laodong.vn/the-gioi/ti-le-san-sang-tiem-vaccine-tang-manh-o-6-nuoc-cong-nghiep-phat-trien-884552.ldo) ([Lao Động](https://laodong.vn))
-- [Đẩy mạnh thi công, cuối tháng 4 hoàn thành nâng cấp tuyến Quản Lộ - Phụng Hiệp](https://tuoitre.vn/day-manh-thi-cong-cuoi-thang-4-hoan-thanh-nang-cap-tuyen-quan-lo-phung-hiep-20210301124705766.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [2 tỉnh Lâm Đồng, Đắk Lắk có Giám đốc công an mới](https://laodong.vn/thoi-su/2-tinh-lam-dong-dak-lak-co-giam-doc-cong-an-moi-884593.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
