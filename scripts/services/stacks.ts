@@ -16,7 +16,7 @@ export const getRepository = async (repo: string): Promise<Record<string, any>> 
 export const getRepositories = async (list: Array<Record<string, any>>) => {
   const repositories: Array<Record<string, string | number>> = [];
   for (const item of list) {
-    const { name = '', repo = '', group = '', step = 0 } = item;
+    const { name = '', repo = '', group = '', step = 0, logo = '' } = item;
     const repository: Record<string, any> = await getRepository(repo);
     const {
       full_name = '',
@@ -28,7 +28,18 @@ export const getRepositories = async (list: Array<Record<string, any>>) => {
     const points: number = forks + subscribers + stars;
     const url: string = `https://github.com/${full_name}`;
     console.log(step, group, name, url, language, stars, subscribers, forks, points);
-    repositories.push({ step, group, name, url, language, stars, subscribers, forks, points });
+    repositories.push({
+      step,
+      group,
+      name,
+      logo,
+      url,
+      language,
+      stars,
+      subscribers,
+      forks,
+      points
+    });
   }
   repositories.sort((a, b) => (a.points < b.points ? 1 : -1));
   return repositories;
@@ -79,13 +90,12 @@ export const convertArrayToTableMD = (array: Array<Record<string, any>>) => {
           const value: any = repository[key] || '';
           if (key === 'name') {
             const { url = '' } = repository;
-            const label: string = encodeURI(
-              value.toLowerCase().split('-').join('').split(' ').join('')
-            );
-            const logo: string = encodeURI(value);
-            const src: string = `https://img.shields.io/badge/-${label}-000?style=flat&logo=${logo}`;
-            const img: string = `<img src="${src}" alt="${logo}" />`;
-            return `[${img}](${url})`;
+            return `[${value}](${url})`;
+          }
+          if (key === 'logo') {
+            const src: string = `https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/${value}.svg`;
+            const img: string = `<img src="${src}" alt="${value}" width="36px" height="36px" />`;
+            return img;
           }
           if (typeof value === 'number') {
             return numberFormatter(value);
