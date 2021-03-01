@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 24.21°C.
-- Air Visual is 129.
+- Feels Like 24.58°C.
+- Air Visual is 100.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Người phụ nữ với "chất giọng thép" gây sốt MXH sau clip bé gái rơi từ tầng 12 chung cư: "Chỉ biết gào thét vì cảnh tượng quá kinh hoàng"](https://cafebiz.vn/nguoi-phu-nu-voi-chat-giong-thep-gay-sot-mxh-sau-clip-be-gai-roi-tu-tang-12-chung-cu-chi-biet-gao-thet-vi-canh-tuong-qua-kinh-hoang-20210301140016537.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những trường hợp trẻ con lơ lửng giữa không trung và may mắn thoát khỏi Tử thần nhờ các "anh hùng" đời thực trên khắp thế giới](https://cafebiz.vn/nhung-truong-hop-tre-con-lo-lung-giua-khong-trung-va-may-man-thoat-khoi-tu-than-nho-cac-anh-hung-doi-thuc-tren-khap-the-gioi-20210301140006878.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người đàn ông mang &quot;Khu vườn bí mật&quot; trong sách ra đời thực](https://laodong.vn/photo/nguoi-dan-ong-mang-khu-vuon-bi-mat-trong-sach-ra-doi-thuc-882697.ldo) ([Lao Động](https://laodong.vn))
-- [Độ tuổi lái xe được quy định thế nào?](https://laodong.vn/tu-van-phap-luat/do-tuoi-lai-xe-duoc-quy-dinh-the-nao-883914.ldo) ([Lao Động](https://laodong.vn))
-- [Nhan sắc Huyền Lizzie - nữ phụ yêu thầm Mạnh Trường của &quot;Hồ sơ cá sấu&quot;](https://laodong.vn/photo/nhan-sac-huyen-lizzie-nu-phu-yeu-tham-manh-truong-cua-ho-so-ca-sau-884529.ldo) ([Lao Động](https://laodong.vn))
-- [Giới siêu giàu Trung Quốc tăng nhanh nhất thế giới bất chấp dịch COVID-19](https://laodong.vn/the-gioi/gioi-sieu-giau-trung-quoc-tang-nhanh-nhat-the-gioi-bat-chap-dich-covid-19-884567.ldo) ([Lao Động](https://laodong.vn))
-- [Công đoàn cơ sở tổ chức thi cắm hoa và trao quà cho nữ đoàn viên khó khăn](https://laodong.vn/cong-doan/cong-doan-co-so-to-chuc-thi-cam-hoa-va-trao-qua-cho-nu-doan-vien-kho-khan-884573.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương kết thúc giãn cách xã hội từ 0h ngày 3/3, chuyển sang "trạng thái mới"](https://cafebiz.vn/hai-duong-ket-thuc-gian-cach-xa-hoi-tu-0h-ngay-3-3-chuyen-sang-trang-thai-moi-20210301135754713.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quảng Trị quyết định cho nhà đầu tư thuê đất triển khai dự án điện gió Liên Lập với tổng vốn đầu tư gần 2.000 tỷ đồng](https://cafebiz.vn/quang-tri-quyet-dinh-cho-nha-dau-tu-thue-dat-trien-khai-du-an-dien-gio-lien-lap-voi-tong-von-dau-tu-gan-2000-ty-dong-20210301135751149.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cần Thơ: Học sinh, sinh viên đi học trở lại sau 2 tuần nghỉ phòng dịch bệnh](https://laodong.vn/photo/can-tho-hoc-sinh-sinh-vien-di-hoc-tro-lai-sau-2-tuan-nghi-phong-dich-benh-884543.ldo) ([Lao Động](https://laodong.vn))
+- [Gỡ bỏ phong tỏa TP Chí Linh, Cẩm Giàng từ ngày 3-3](https://tuoitre.vn/go-bo-phong-toa-tp-chi-linh-cam-giang-tu-ngay-3-3-20210301112746256.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- ["Thánh quảng cáo” Thái Lan: Thanh niên nghiêm túc chuyên nghĩ ý tưởng hài, lập page vốn để gây ấn tượng với “crush” nhưng rồi thu hút gần 1 triệu fan](https://cafebiz.vn/thanh-quang-cao-thai-lan-thanh-nien-nghiem-tuc-chuyen-nghi-y-tuong-hai-lap-page-von-de-gay-an-tuong-voi-crush-nhung-roi-thu-hut-gan-1-trieu-fan-20210301115236096.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mẹo giúp quần áo khô nhanh trong mùa mưa ẩm](https://laodong.vn/gia-dinh-hon-nhan/meo-giup-quan-ao-kho-nhanh-trong-mua-mua-am-884607.ldo) ([Lao Động](https://laodong.vn))
+- [“Nhà đầu tư F0 nên dùng cả chân phanh và chân ga vào thị trường BĐS”](https://cafebiz.vn/nha-dau-tu-f0-nen-dung-ca-chan-phanh-va-chan-ga-vao-thi-truong-bds-20210301141718337.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tháng hành động về An toàn, vệ sinh lao động phải đảm bảo an toàn](https://laodong.vn/cong-doan/thang-hanh-dong-ve-an-toan-ve-sinh-lao-dong-phai-dam-bao-an-toan-884606.ldo) ([Lao Động](https://laodong.vn))
+- [Không yêu cầu chứng chỉ chức danh với giáo viên mầm non, tiểu học hạng IV](https://laodong.vn/giao-duc/khong-yeu-cau-chung-chi-chuc-danh-voi-giao-vien-mam-non-tieu-hoc-hang-iv-884521.ldo) ([Lao Động](https://laodong.vn))
+- [Vĩnh Phúc có Phó giám đốc Sở Kế hoạch và Đầu tư 31 tuổi](https://vnexpress.net/vinh-phuc-co-pho-giam-doc-so-ke-hoach-va-dau-tu-31-tuoi-4241633.html) ([VNExpress](https://vnexpress.net))
+- [Đà Nẵng sẽ là thành phố loại đặc biệt của Việt Nam trong tương lai không xa](https://laodong.vn/thoi-su/da-nang-se-la-thanh-pho-loai-dac-biet-cua-viet-nam-trong-tuong-lai-khong-xa-884583.ldo) ([Lao Động](https://laodong.vn))
+- [Ôtô lao vào nhóm xe đạp thể dục, 3 người chết](https://vnexpress.net/oto-lao-vao-nhom-xe-dap-the-duc-3-nguoi-chet-4241771.html) ([VNExpress](https://vnexpress.net))
+- [Chứng khoán: Khi nào thị trường quay trở lại đỉnh 1.200 điểm?](https://laodong.vn/kinh-te/chung-khoan-khi-nao-thi-truong-quay-tro-lai-dinh-1200-diem-884602.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
