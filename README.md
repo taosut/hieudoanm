@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 22°C.
 - Feels Like 25.46°C.
-- Air Visual is 162.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -52,21 +52,21 @@
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
-- [![Bé gái 3 tuổi rơi từ tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
 - [![Bé gái hai tuổi rơi từ tầng 12 chung cư](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%20hai%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012%20chung%20c%C6%B0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%20hai%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012%20chung%20c%C6%B0)
 - [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
+- [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
+- [![Galaxy S21](https://img.shields.io/static/v1?label=Galaxy%20S21&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Galaxy%20S21)
 - [![Justin Bieber](https://img.shields.io/static/v1?label=Justin%20Bieber&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justin%20Bieber)
+- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
 - [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
+- [![Nguyen ngoc manh](https://img.shields.io/static/v1?label=Nguyen%20ngoc%20manh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguyen%20ngoc%20manh)
 - [![Nguyễn Quang Dũng](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Quang%20D%C5%A9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Quang%20D%C5%A9ng)
-- [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
+- [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
 - [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
-- [![Trương Mẫn](https://img.shields.io/static/v1?label=Tr%C6%B0%C6%A1ng%20M%E1%BA%ABn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0%C6%A1ng%20M%E1%BA%ABn)
 - [![Uni5](https://img.shields.io/static/v1?label=Uni5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Uni5)
 - [![Video cứu bé rơi từ tầng 12](https://img.shields.io/static/v1?label=Video%20c%E1%BB%A9u%20b%C3%A9%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Video%20c%E1%BB%A9u%20b%C3%A9%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
-- [![iOS 14.5](https://img.shields.io/static/v1?label=iOS%2014.5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iOS%2014.5)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Dập tay, gãy chân vì khoan cục sắt tròn to như quả đạn cối](https://tuoitre.vn/dap-tay-gay-chan-vi-khoan-cuc-sat-tron-to-nhu-qua-dan-coi-20210301212324507.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nhà hàng, quán cà phê tất bật chuẩn bị mở bán sau chuỗi ngày dài đóng cửa](https://laodong.vn/photo/nha-hang-quan-ca-phe-tat-bat-chuan-bi-mo-ban-sau-chuoi-ngay-dai-dong-cua-884795.ldo) ([Lao Động](https://laodong.vn))
 - [Vợ ông Dũng “lò vôi” tố một &quot;thần y&quot; lừa tiền cứu trợ lũ lụt, xây chùa](https://laodong.vn/xa-hoi/vo-ong-dung-lo-voi-to-mot-than-y-lua-tien-cuu-tro-lu-lut-xay-chua-884794.ldo) ([Lao Động](https://laodong.vn))
 - [Bộ Công an khởi tố giám đốc và nguyên giám đốc Sở Y tế Cần Thơ](https://tuoitre.vn/bo-cong-an-khoi-to-giam-doc-va-nguyen-giam-doc-so-y-te-can-tho-20210301223057809.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Khởi tố giám đốc, bắt nguyên giám đốc Sở Y tế Cần Thơ do sai phạm đấu thầu](https://laodong.vn/phap-luat/khoi-to-giam-doc-bat-nguyen-giam-doc-so-y-te-can-tho-do-sai-pham-dau-thau-884801.ldo) ([Lao Động](https://laodong.vn))
@@ -83,8 +85,6 @@
 - [Cuối 2021 khởi công dự án hơn 4.800 tỷ ‘giải cứu’ kẹt xe khu Tân Sơn  Nhất](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/cuoi-2021-khoi-cong-du-an-hon-4-800-ty-giai-cuu-ket-xe-khu-tan-son-nhat-716426.html) ([VietNamNet](https://vietnamnet.vn))
 - [Dự đoán vận mệnh của 12 con giáp trong tuần mới 1/3 - 7/3: Tuổi Thìn có cơ hội thử những điều mới mẻ, tuổi Dậu nhận được sự giúp đỡ nhiệt tình](https://cafebiz.vn/du-doan-van-menh-cua-12-con-giap-trong-tuan-moi-1-3-7-3-tuoi-thin-co-co-hoi-thu-nhung-dieu-moi-me-tuoi-dau-nhan-duoc-su-giup-do-nhiet-tinh-20210301172912458.chn) ([CafeBiz](https://cafebiz.vn))
 - ["Thần y" Hoa Đà đúc kết bí quyết ăn uống để trẻ mãi không già: Được người đời khen ngợi không ngớt](https://cafebiz.vn/than-y-hoa-da-duc-ket-bi-quyet-an-uong-de-tre-mai-khong-gia-duoc-nguoi-doi-khen-ngoi-khong-ngot-20210301172524654.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bố bé gái rơi từ tầng 12: &quot;Nhờ anh Mạnh cháu như được sinh ra lần thứ 2&quot;](https://laodong.vn/video/bo-be-gai-roi-tu-tang-12-nho-anh-manh-chau-nhu-duoc-sinh-ra-lan-thu-2-884780.ldo) ([Lao Động](https://laodong.vn))
-- [Tiến sĩ Vật lý phân tích lực và độ nguy hiểm khi người hùng Nguyễn Ngọc Mạnh đỡ bé gái ngã từ tầng 12](https://cafebiz.vn/tien-si-vat-ly-phan-tich-luc-va-do-nguy-hiem-khi-nguoi-hung-nguyen-ngoc-manh-do-be-gai-nga-tu-tang-12-20210301211842919.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -134,12 +134,12 @@
 02. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 03. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 04. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-05. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+05. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-07. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
-08. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
-09. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-10. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
+07. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+08. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
+09. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
+10. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 
 [Read More](https://www.youtube.com/feed/trending)
 
