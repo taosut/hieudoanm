@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 25.12°C.
 - Feels Like 26.49°C.
-- Air Visual is 152.
+- Air Visual is 147.
 
 **WEATHER**
 
@@ -54,16 +54,16 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
 - [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
+- [![Câm tâm tựa ngọc](https://img.shields.io/static/v1?label=C%C3%A2m%20t%C3%A2m%20t%E1%BB%B1a%20ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%A2m%20t%C3%A2m%20t%E1%BB%B1a%20ng%E1%BB%8Dc)
+- [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Justin Bieber](https://img.shields.io/static/v1?label=Justin%20Bieber&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justin%20Bieber)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
-- [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![MU vs Chelsea](https://img.shields.io/static/v1?label=MU%20vs%20Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20Chelsea)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
-- [![Man City vs West Ham](https://img.shields.io/static/v1?label=Man%20City%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20West%20Ham)
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
-- [![Neymar](https://img.shields.io/static/v1?label=Neymar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Neymar)
+- [![Nguyễn Quang Sáng](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Quang%20S%C3%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Quang%20S%C3%A1ng)
 - [![Ngô Mạnh Đạt](https://img.shields.io/static/v1?label=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![iOS 14.5](https://img.shields.io/static/v1?label=iOS%2014.5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iOS%2014.5)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bác sĩ Bệnh viện Nhi TƯ: Bé gái ngã từ tầng 12A chung cư đã tiếp xúc tốt, siêu âm không có dấu hiệu bất thường](https://cafebiz.vn/bac-si-benh-vien-nhi-tu-be-gai-nga-tu-tang-12a-chung-cu-da-tiep-xuc-tot-sieu-am-khong-co-dau-hieu-bat-thuong-20210301120426664.chn) ([CafeBiz](https://cafebiz.vn))
+- [Từ vụ bé gái rơi từ tầng 12: Tiêu chuẩn về lan can chung cư thế nào?](https://laodong.vn/xa-hoi/tu-vu-be-gai-roi-tu-tang-12-tieu-chuan-ve-lan-can-chung-cu-the-nao-884572.ldo) ([Lao Động](https://laodong.vn))
+- [Lý do bất ngờ khiến người phát ngôn của Thủ tướng Nhật Bản từ chức](https://laodong.vn/the-gioi/ly-do-bat-ngo-khien-nguoi-phat-ngon-cua-thu-tuong-nhat-ban-tu-chuc-884561.ldo) ([Lao Động](https://laodong.vn))
+- [Khởi tố nguyên Giám đốc chi nhánh văn phòng đăng kí đất đai TP. Huế](https://laodong.vn/phap-luat/khoi-to-nguyen-giam-doc-chi-nhanh-van-phong-dang-ki-dat-dai-tp-hue-884585.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ ngừng việc tập thể ở Tiền Giang: Công nhân đã trở lại làm việc](https://laodong.vn/ldld-tien-giang/vu-ngung-viec-tap-the-o-tien-giang-cong-nhan-da-tro-lai-lam-viec-884581.ldo) ([Lao Động](https://laodong.vn))
+- [LĐLĐ tỉnh Ninh Bình: Phát động &quot;Tết trồng cây đời đời nhớ ơn Bác Hồ&quot;](https://laodong.vn/cong-doan/ldld-tinh-ninh-binh-phat-dong-tet-trong-cay-doi-doi-nho-on-bac-ho-884577.ldo) ([Lao Động](https://laodong.vn))
+- [Tài xế kể lại giây phút cứu bé gái rơi từ tầng 12](https://vnexpress.net/tai-xe-ke-lai-giay-phut-cuu-be-gai-roi-tu-tang-12-4241631.html) ([VNExpress](https://vnexpress.net))
+- [Bí thư Hà Nội và Chủ tịch Hà Nội khen thưởng "người hùng" cứu bé gái rơi từ tầng 12A chung cư](https://cafebiz.vn/bi-thu-ha-noi-va-chu-tich-ha-noi-khen-thuong-nguoi-hung-cuu-be-gai-roi-tu-tang-12a-chung-cu-20210301115809785.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hàng loạt chính sách nổi bật có hiệu lực từ tháng 3.2021](https://laodong.vn/infographic/hang-loat-chinh-sach-noi-bat-co-hieu-luc-tu-thang-32021-884558.ldo) ([Lao Động](https://laodong.vn))
 - [Từ vụ việc em bé trèo lan can rơi từ tầng 13, việc thiết kế và xây dựng ban công và lô gia chung cư cao tầng đã được quan tâm đúng mức?](https://cafebiz.vn/tu-vu-viec-em-be-treo-lan-can-roi-tu-tang-13-chung-cu-viec-thiet-ke-va-xay-dung-ban-cong-va-lo-gia-chung-cu-cao-tang-da-duoc-quan-tam-dung-muc-20210301114345628.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chàng trai cứu cháu bé rơi từ tầng 12: Việc làm của tôi thật sự rất nhỏ](https://laodong.vn/nguoi-viet-tu-te/chang-trai-cuu-chau-be-roi-tu-tang-12-viec-lam-cua-toi-that-su-rat-nho-884556.ldo) ([Lao Động](https://laodong.vn))
-- [Người cứu cháu bé rơi từ tầng 12: &quot;Tôi đâu hành động để thành người hùng&quot;](https://laodong.vn/video-thoi-su/nguoi-cuu-chau-be-roi-tu-tang-12-toi-dau-hanh-dong-de-thanh-nguoi-hung-884550.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ tịch Hà Nội khen thưởng người đàn ông dũng cảm cứu sống bé gái 3 tuổi](https://laodong.vn/xa-hoi/chu-tich-ha-noi-khen-thuong-nguoi-dan-ong-dung-cam-cuu-song-be-gai-3-tuoi-884571.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Chuỗi ngày nắng nóng trở lại, có nơi trên 35 độ C](https://laodong.vn/moi-truong/tphcm-chuoi-ngay-nang-nong-tro-lai-co-noi-tren-35-do-c-884557.ldo) ([Lao Động](https://laodong.vn))
-- [Phép tính sửng sốt về sức nặng mà "siêu anh hùng" phải chịu khi đỡ bé rơi từ tầng 12 chung cư: Nhân sinh có những khoảnh khắc kì diệu hơn cả phim hollywood, khoa học không thể lý giải!](https://cafebiz.vn/phep-tinh-sung-sot-ve-suc-nang-ma-sieu-anh-hung-phai-chiu-khi-do-be-roi-tu-tang-12-chung-cu-nhan-sinh-co-nhung-khoanh-khac-ki-dieu-hon-ca-phim-hollywood-khoa-hoc-khong-the-ly-giai-20210301113917579.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người ứng cử ĐBQH và HĐND phải ghi rõ đang có hoặc đang xin gia nhập quốc tịch nước khác](https://tuoitre.vn/nguoi-ung-cu-dbqh-va-hdnd-phai-ghi-ro-dang-co-hoac-dang-xin-gia-nhap-quoc-tich-nuoc-khac-20210301112356795.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thanh tra dự án chung cư cao cấp F.Home của Công ty lương thực Đà Nẵng](https://tuoitre.vn/thanh-tra-du-an-chung-cu-cao-cap-f-home-cua-cong-ty-luong-thuc-da-nang-20210301111232451.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Châu Âu vượt Trung Quốc trở thành thị trường xe ô tô điện lớn nhất thế giới](https://cafebiz.vn/chau-au-vuot-trung-quoc-tro-thanh-thi-truong-xe-o-to-dien-lon-nhat-the-gioi-20210301112036065.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
