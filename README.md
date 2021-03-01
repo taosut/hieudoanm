@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 22°C.
 - Feels Like 24.21°C.
-- Air Visual is 119.
+- Air Visual is 129.
 
 **WEATHER**
 
@@ -51,22 +51,22 @@
 - [![APRIL](https://img.shields.io/static/v1?label=APRIL&message=google&color=red&style=flat-square)](https://www.google.com/search?q=APRIL)
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Atalanta](https://img.shields.io/static/v1?label=Atalanta&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atalanta)
+- [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
 - [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
 - [![Câm tâm tựa ngọc](https://img.shields.io/static/v1?label=C%C3%A2m%20t%C3%A2m%20t%E1%BB%B1a%20ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%A2m%20t%C3%A2m%20t%E1%BB%B1a%20ng%E1%BB%8Dc)
 - [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
+- [![Galaxy S21](https://img.shields.io/static/v1?label=Galaxy%20S21&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Galaxy%20S21)
 - [![Justin Bieber](https://img.shields.io/static/v1?label=Justin%20Bieber&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justin%20Bieber)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![MU vs Chelsea](https://img.shields.io/static/v1?label=MU%20vs%20Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20Chelsea)
-- [![Man City vs West Ham](https://img.shields.io/static/v1?label=Man%20City%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20West%20Ham)
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
 - [![Nguyễn Quang Dũng](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Quang%20D%C5%A9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Quang%20D%C5%A9ng)
 - [![Ngô Mạnh Đạt](https://img.shields.io/static/v1?label=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
-- [![iOS 14.5](https://img.shields.io/static/v1?label=iOS%2014.5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iOS%2014.5)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Người phụ nữ với "chất giọng thép" gây sốt MXH sau clip bé gái rơi từ tầng 12 chung cư: "Chỉ biết gào thét vì cảnh tượng quá kinh hoàng"](https://cafebiz.vn/nguoi-phu-nu-voi-chat-giong-thep-gay-sot-mxh-sau-clip-be-gai-roi-tu-tang-12-chung-cu-chi-biet-gao-thet-vi-canh-tuong-qua-kinh-hoang-20210301140016537.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những trường hợp trẻ con lơ lửng giữa không trung và may mắn thoát khỏi Tử thần nhờ các "anh hùng" đời thực trên khắp thế giới](https://cafebiz.vn/nhung-truong-hop-tre-con-lo-lung-giua-khong-trung-va-may-man-thoat-khoi-tu-than-nho-cac-anh-hung-doi-thuc-tren-khap-the-gioi-20210301140006878.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người đàn ông mang &quot;Khu vườn bí mật&quot; trong sách ra đời thực](https://laodong.vn/photo/nguoi-dan-ong-mang-khu-vuon-bi-mat-trong-sach-ra-doi-thuc-882697.ldo) ([Lao Động](https://laodong.vn))
+- [Độ tuổi lái xe được quy định thế nào?](https://laodong.vn/tu-van-phap-luat/do-tuoi-lai-xe-duoc-quy-dinh-the-nao-883914.ldo) ([Lao Động](https://laodong.vn))
+- [Nhan sắc Huyền Lizzie - nữ phụ yêu thầm Mạnh Trường của &quot;Hồ sơ cá sấu&quot;](https://laodong.vn/photo/nhan-sac-huyen-lizzie-nu-phu-yeu-tham-manh-truong-cua-ho-so-ca-sau-884529.ldo) ([Lao Động](https://laodong.vn))
+- [Giới siêu giàu Trung Quốc tăng nhanh nhất thế giới bất chấp dịch COVID-19](https://laodong.vn/the-gioi/gioi-sieu-giau-trung-quoc-tang-nhanh-nhat-the-gioi-bat-chap-dich-covid-19-884567.ldo) ([Lao Động](https://laodong.vn))
+- [Công đoàn cơ sở tổ chức thi cắm hoa và trao quà cho nữ đoàn viên khó khăn](https://laodong.vn/cong-doan/cong-doan-co-so-to-chuc-thi-cam-hoa-va-trao-qua-cho-nu-doan-vien-kho-khan-884573.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương kết thúc giãn cách xã hội từ 0h ngày 3/3, chuyển sang "trạng thái mới"](https://cafebiz.vn/hai-duong-ket-thuc-gian-cach-xa-hoi-tu-0h-ngay-3-3-chuyen-sang-trang-thai-moi-20210301135754713.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quảng Trị quyết định cho nhà đầu tư thuê đất triển khai dự án điện gió Liên Lập với tổng vốn đầu tư gần 2.000 tỷ đồng](https://cafebiz.vn/quang-tri-quyet-dinh-cho-nha-dau-tu-thue-dat-trien-khai-du-an-dien-gio-lien-lap-voi-tong-von-dau-tu-gan-2000-ty-dong-20210301135751149.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cần Thơ: Học sinh, sinh viên đi học trở lại sau 2 tuần nghỉ phòng dịch bệnh](https://laodong.vn/photo/can-tho-hoc-sinh-sinh-vien-di-hoc-tro-lai-sau-2-tuan-nghi-phong-dich-benh-884543.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Xử lý 2 phụ nữ tung tin "hơn 100 ca nhiễm Covid-19 tại huyện Gia Lâm"](https://cafebiz.vn/ha-noi-xu-ly-2-phu-nu-tung-tin-hon-100-ca-nhiem-covid-19-tai-huyen-gia-lam-20210301135026825.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt nhóm cướp giật tài sản liên tỉnh ở miền Tây](https://laodong.vn/phap-luat/bat-nhom-cuop-giat-tai-san-lien-tinh-o-mien-tay-884596.ldo) ([Lao Động](https://laodong.vn))
-- [Ôtô gãy bánh: Cục Đăng kiểm sẽ vào cuộc khi người dùng phản ánh](https://cafebiz.vn/oto-gay-banh-cuc-dang-kiem-se-vao-cuoc-khi-nguoi-dung-phan-anh-20210301134959582.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đề nghị truy tố kẻ đâm chết nghệ sĩ Opera Mạnh Dũng](https://laodong.vn/phap-luat/de-nghi-truy-to-ke-dam-chet-nghe-si-opera-manh-dung-884603.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM ngày đầu đi học lại: Cả phụ huynh và học sinh đều háo hức](https://laodong.vn/video/tphcm-ngay-dau-di-hoc-lai-ca-phu-huynh-va-hoc-sinh-deu-hao-huc-884580.ldo) ([Lao Động](https://laodong.vn))
-- [Cô gái kiếm tiền bằng cách giúp giới nhà giàu bán lại túi Hermès giá cao](https://cafebiz.vn/co-gai-kiem-tien-bang-cach-giup-gioi-nha-giau-ban-lai-tui-hermes-gia-cao-20210301133948574.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những dấu mốc thời gian gần 25 năm loay hoay quy hoạch sông Hồng](https://laodong.vn/xa-hoi/nhung-dau-moc-thoi-gian-gan-25-nam-loay-hoay-quy-hoach-song-hong-884554.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ "người hùng" cứu bé gái rơi từ tầng 12 chung cư: ''Chồng tôi có lòng tốt đến mức có lần bị người khác lừa nhưng anh cũng kệ"](https://cafebiz.vn/vo-nguoi-hung-cuu-be-gai-roi-tu-tang-12-chung-cu-chong-toi-co-long-tot-den-muc-co-lan-bi-nguoi-khac-lua-nhung-anh-cung-ke-20210301133817856.chn) ([CafeBiz](https://cafebiz.vn))
-- [Leon Dio: Làn sóng "hiện đại" cho văn hóa quà tặng doanh nhân](https://cafebiz.vn/leon-dio-lan-song-hien-dai-cho-van-hoa-qua-tang-doanh-nhan-20210301111931581.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
