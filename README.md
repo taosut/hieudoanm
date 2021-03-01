@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hàng loạt chính sách nổi bật có hiệu lực từ tháng 3.2021](https://laodong.vn/infographic/hang-loat-chinh-sach-noi-bat-co-hieu-luc-tu-thang-32021-884558.ldo) ([Lao Động](https://laodong.vn))
+- [Từ vụ việc em bé trèo lan can rơi từ tầng 13, việc thiết kế và xây dựng ban công và lô gia chung cư cao tầng đã được quan tâm đúng mức?](https://cafebiz.vn/tu-vu-viec-em-be-treo-lan-can-roi-tu-tang-13-chung-cu-viec-thiet-ke-va-xay-dung-ban-cong-va-lo-gia-chung-cu-cao-tang-da-duoc-quan-tam-dung-muc-20210301114345628.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chàng trai cứu cháu bé rơi từ tầng 12: Việc làm của tôi thật sự rất nhỏ](https://laodong.vn/nguoi-viet-tu-te/chang-trai-cuu-chau-be-roi-tu-tang-12-viec-lam-cua-toi-that-su-rat-nho-884556.ldo) ([Lao Động](https://laodong.vn))
+- [Người cứu cháu bé rơi từ tầng 12: &quot;Tôi đâu hành động để thành người hùng&quot;](https://laodong.vn/video-thoi-su/nguoi-cuu-chau-be-roi-tu-tang-12-toi-dau-hanh-dong-de-thanh-nguoi-hung-884550.ldo) ([Lao Động](https://laodong.vn))
+- [Chủ tịch Hà Nội khen thưởng người đàn ông dũng cảm cứu sống bé gái 3 tuổi](https://laodong.vn/xa-hoi/chu-tich-ha-noi-khen-thuong-nguoi-dan-ong-dung-cam-cuu-song-be-gai-3-tuoi-884571.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Chuỗi ngày nắng nóng trở lại, có nơi trên 35 độ C](https://laodong.vn/moi-truong/tphcm-chuoi-ngay-nang-nong-tro-lai-co-noi-tren-35-do-c-884557.ldo) ([Lao Động](https://laodong.vn))
 - [Phép tính sửng sốt về sức nặng mà "siêu anh hùng" phải chịu khi đỡ bé rơi từ tầng 12 chung cư: Nhân sinh có những khoảnh khắc kì diệu hơn cả phim hollywood, khoa học không thể lý giải!](https://cafebiz.vn/phep-tinh-sung-sot-ve-suc-nang-ma-sieu-anh-hung-phai-chiu-khi-do-be-roi-tu-tang-12-chung-cu-nhan-sinh-co-nhung-khoanh-khac-ki-dieu-hon-ca-phim-hollywood-khoa-hoc-khong-the-ly-giai-20210301113917579.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những bộ phim Hàn Quốc đáng chờ đợi nhất trong tháng 3.2021](https://laodong.vn/giai-tri/nhung-bo-phim-han-quoc-dang-cho-doi-nhat-trong-thang-32021-884455.ldo) ([Lao Động](https://laodong.vn))
-- [Công an Hải Dương tìm người đến nhiều hiệu thuốc, tạp hóa ở Kim Thành](https://laodong.vn/xa-hoi/cong-an-hai-duong-tim-nguoi-den-nhieu-hieu-thuoc-tap-hoa-o-kim-thanh-884538.ldo) ([Lao Động](https://laodong.vn))
-- [Khuyến khích nữ công chức, viên chức, người lao động mặc áo dài](https://laodong.vn/cd-nn-ptnt/khuyen-khich-nu-cong-chuc-vien-chuc-nguoi-lao-dong-mac-ao-dai-884563.ldo) ([Lao Động](https://laodong.vn))
+- [Người ứng cử ĐBQH và HĐND phải ghi rõ đang có hoặc đang xin gia nhập quốc tịch nước khác](https://tuoitre.vn/nguoi-ung-cu-dbqh-va-hdnd-phai-ghi-ro-dang-co-hoac-dang-xin-gia-nhap-quoc-tich-nuoc-khac-20210301112356795.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thanh tra dự án chung cư cao cấp F.Home của Công ty lương thực Đà Nẵng](https://tuoitre.vn/thanh-tra-du-an-chung-cu-cao-cap-f-home-cua-cong-ty-luong-thuc-da-nang-20210301111232451.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Châu Âu vượt Trung Quốc trở thành thị trường xe ô tô điện lớn nhất thế giới](https://cafebiz.vn/chau-au-vuot-trung-quoc-tro-thanh-thi-truong-xe-o-to-dien-lon-nhat-the-gioi-20210301112036065.chn) ([CafeBiz](https://cafebiz.vn))
-- [Iran từ chối đàm phán với EU và Mỹ về nối lại thỏa thuận hạt nhân 2015](https://laodong.vn/the-gioi/iran-tu-choi-dam-phan-voi-eu-va-my-ve-noi-lai-thoa-thuan-hat-nhan-2015-884527.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương kết thúc cách ly xã hội từ 0h ngày 3.3](https://laodong.vn/xa-hoi/hai-duong-ket-thuc-cach-ly-xa-hoi-tu-0h-ngay-33-884560.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương dừng cách ly xã hội](https://vnexpress.net/hai-duong-dung-cach-ly-xa-hoi-4241695.html) ([VNExpress](https://vnexpress.net))
-- [Khen thưởng người cứu bé gái 3 tuổi rơi từ tầng 12A chung cư](http://vietnamnet.vn/vn/thoi-su/khen-thuong-nguoi-cuu-be-gai-3-tuoi-roi-tu-tang-12a-chung-cu-716262.html) ([VietNamNet](https://vietnamnet.vn))
-- [Chân dung người kế nghiệp sáng giá của Tập đoàn DOJI: Tuổi đời chưa đến 40, là chuyên gia đá quý quốc tế đầu tiên tại Việt Nam](https://cafebiz.vn/chan-dung-nguoi-ke-nghiep-sang-gia-cua-tap-doan-doji-tuoi-doi-chua-den-40-la-chuyen-gia-da-quy-quoc-te-dau-tien-tai-viet-nam-20210301111916251.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
