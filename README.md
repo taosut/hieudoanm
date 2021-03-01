@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 21°C.
-- Feels Like 22.9°C.
-- Air Visual is 152.
+- Temperature is 22°C.
+- Feels Like 24.38°C.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Leon Dio: Làn sóng "hiện đại" cho văn hóa quà tặng doanh nhân](https://cafebiz.vn/leon-dio-lan-song-hien-dai-cho-van-hoa-qua-tang-doanh-nhan-20210301111931581.chn) ([CafeBiz](https://cafebiz.vn))
+- [Va chạm nhóm chạy xe đạp thể dục, xe khách đâm vào trụ điện, 3 người tử vong](https://tuoitre.vn/va-cham-nhom-chay-xe-dap-the-duc-xe-khach-dam-vao-tru-dien-3-nguoi-tu-vong-20210301121601873.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Cuối 2021, xe không chính chủ, không giấy tờ sẽ không được sang tên](https://tuoitre.vn/cuoi-2021-xe-khong-chinh-chu-khong-giay-to-se-khong-duoc-sang-ten-20210301120645778.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bình Thuận điều động, bổ nhiệm hàng loạt cán bộ chủ chốt](https://tuoitre.vn/binh-thuan-dieu-dong-bo-nhiem-hang-loat-can-bo-chu-chot-20210301125640893.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bí thư Hà Nội gửi thư khen anh Nguyễn Ngọc Mạnh cứu bé gái rơi từ tầng 12](https://laodong.vn/thoi-su/bi-thu-ha-noi-gui-thu-khen-anh-nguyen-ngoc-manh-cuu-be-gai-roi-tu-tang-12-884595.ldo) ([Lao Động](https://laodong.vn))
+- [Tỉ phú Abramovich sắm thêm siêu du thuyền giá 400 triệu USD](https://laodong.vn/kinh-te/ti-phu-abramovich-sam-them-sieu-du-thuyen-gia-400-trieu-usd-884589.ldo) ([Lao Động](https://laodong.vn))
+- [9 LĐLĐ tỉnh cụm đồng bằng Sông Hồng: Ủng hộ công nhân lao động Hải Dương](https://laodong.vn/cong-doan/9-ldld-tinh-cum-dong-bang-song-hong-ung-ho-cong-nhan-lao-dong-hai-duong-884539.ldo) ([Lao Động](https://laodong.vn))
+- [Tỉ lệ sẵn sàng tiêm vaccine tăng mạnh ở 6 nước công nghiệp phát triển](https://laodong.vn/the-gioi/ti-le-san-sang-tiem-vaccine-tang-manh-o-6-nuoc-cong-nghiep-phat-trien-884552.ldo) ([Lao Động](https://laodong.vn))
+- [Đẩy mạnh thi công, cuối tháng 4 hoàn thành nâng cấp tuyến Quản Lộ - Phụng Hiệp](https://tuoitre.vn/day-manh-thi-cong-cuoi-thang-4-hoan-thanh-nang-cap-tuyen-quan-lo-phung-hiep-20210301124705766.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [2 tỉnh Lâm Đồng, Đắk Lắk có Giám đốc công an mới](https://laodong.vn/thoi-su/2-tinh-lam-dong-dak-lak-co-giam-doc-cong-an-moi-884593.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương: Tâm dịch Chí Linh được dập tắt hoàn toàn](https://laodong.vn/xa-hoi/hai-duong-tam-dich-chi-linh-duoc-dap-tat-hoan-toan-884568.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương cho học sinh nghỉ học đến hết 17.3](https://laodong.vn/xa-hoi/hai-duong-cho-hoc-sinh-nghi-hoc-den-het-173-884591.ldo) ([Lao Động](https://laodong.vn))
-- [Năm 2021, các khoản thu nhập nào được miễn thuế thu nhập cá nhân?](https://laodong.vn/kinh-te/nam-2021-cac-khoan-thu-nhap-nao-duoc-mien-thue-thu-nhap-ca-nhan-884578.ldo) ([Lao Động](https://laodong.vn))
-- [Yên Bái: Xử phạt đối tượng không chấp hành khai báo y tế](https://laodong.vn/phap-luat/yen-bai-xu-phat-doi-tuong-khong-chap-hanh-khai-bao-y-te-884569.ldo) ([Lao Động](https://laodong.vn))
-- [Bảng xếp hạng vòng 27 Ligue 1: PSG áp sát Lille](https://laodong.vn/infographic/bang-xep-hang-vong-27-ligue-1-psg-ap-sat-lille-884509.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội khen thưởng người cứu bé gái 3 tuổi rơi từ tầng 12 chung cư](https://tuoitre.vn/ha-noi-khen-thuong-nguoi-cuu-be-gai-3-tuoi-roi-tu-tang-12-chung-cu-20210301120551474.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bản tin 1 phút 1.3: Tuyên bố của ông Trump sau khi trở lại chính trường](https://laodong.vn/video/ban-tin-1-phut-13-tuyen-bo-cua-ong-trump-sau-khi-tro-lai-chinh-truong-884565.ldo) ([Lao Động](https://laodong.vn))
-- [Bác sĩ Bệnh viện Nhi TƯ: Bé gái ngã từ tầng 12A chung cư đã tiếp xúc tốt, siêu âm không có dấu hiệu bất thường](https://cafebiz.vn/bac-si-benh-vien-nhi-tu-be-gai-nga-tu-tang-12a-chung-cu-da-tiep-xuc-tot-sieu-am-khong-co-dau-hieu-bat-thuong-20210301120426664.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ vụ bé gái rơi từ tầng 12: Tiêu chuẩn về lan can chung cư thế nào?](https://laodong.vn/xa-hoi/tu-vu-be-gai-roi-tu-tang-12-tieu-chuan-ve-lan-can-chung-cu-the-nao-884572.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
