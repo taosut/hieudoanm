@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
-- Temperature is 23°C.
-- Feels Like 25.95°C.
-- Air Visual is 111.
+- Current weather is drizzle.
+- Temperature is 22°C.
+- Feels Like 25.26°C.
+- Air Visual is 150.
 
 **WEATHER**
 
@@ -56,8 +56,8 @@
 - [![Câm tâm tựa ngọc](https://img.shields.io/static/v1?label=C%C3%A2m%20t%C3%A2m%20t%E1%BB%B1a%20ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%A2m%20t%C3%A2m%20t%E1%BB%B1a%20ng%E1%BB%8Dc)
 - [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
 - [![Galaxy S21](https://img.shields.io/static/v1?label=Galaxy%20S21&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Galaxy%20S21)
+- [![Hoàng Thị Thúy Lan](https://img.shields.io/static/v1?label=Ho%C3%A0ng%20Th%E1%BB%8B%20Th%C3%BAy%20Lan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ho%C3%A0ng%20Th%E1%BB%8B%20Th%C3%BAy%20Lan)
 - [![Justin Bieber](https://img.shields.io/static/v1?label=Justin%20Bieber&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justin%20Bieber)
-- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![MU vs Chelsea](https://img.shields.io/static/v1?label=MU%20vs%20Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20Chelsea)
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Toàn cảnh vụ cứu bé 2 tuổi rơi từ tầng cao: Tiếng hét thất thanh từ tòa đối diện, 1 phút phi lên của "người hùng", hai chú cháu ngã lún mái tôn và bé gái may mắn chỉ trật khớp háng](https://cafebiz.vn/toan-canh-vu-cuu-be-2-tuoi-roi-tu-tang-cao-tieng-het-that-thanh-tu-toa-doi-dien-1-phut-phi-len-cua-nguoi-hung-hai-chu-chau-nga-lun-mai-ton-va-be-gai-may-man-chi-trat-khop-hang-20210301160112501.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trí tuệ nhân tạo có thể biến ảnh người chết thành sống dậy: Ý tưởng độc đáo nhưng cũng có phần kinh dị](https://cafebiz.vn/tri-tue-nhan-tao-co-the-bien-anh-nguoi-chet-thanh-song-day-y-tuong-doc-dao-nhung-cung-co-phan-kinh-di-20210301135603721.chn) ([CafeBiz](https://cafebiz.vn))
-- [Long An: “Tuần lễ Áo dài” nhân dịp 8.3](https://laodong.vn/xa-hoi/long-an-tuan-le-ao-dai-nhan-dip-83-884653.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng biểu dương người cứu cháu bé ngã từ tầng 12](https://laodong.vn/thoi-su/thu-tuong-bieu-duong-nguoi-cuu-chau-be-nga-tu-tang-12-884648.ldo) ([Lao Động](https://laodong.vn))
-- [AC Milan vẫn có 3 điểm trong ngày Ibrahimovic im tiếng](https://laodong.vn/video-the-thao/ac-milan-van-co-3-diem-trong-ngay-ibrahimovic-im-tieng-884524.ldo) ([Lao Động](https://laodong.vn))
-- [Đón học sinh trở lại lớp: Trường học phun khử khuẩn, chuẩn bị phòng cách ly](https://laodong.vn/video-thoi-su/don-hoc-sinh-tro-lai-lop-truong-hoc-phun-khu-khuan-chuan-bi-phong-cach-ly-884632.ldo) ([Lao Động](https://laodong.vn))
-- [Làm căn cước công dân gắn chip ở đâu?](https://laodong.vn/phap-luat/lam-can-cuoc-cong-dan-gan-chip-o-dau-884642.ldo) ([Lao Động](https://laodong.vn))
-- [Bác sĩ kể lại giây phút tiếp nhận bé gái rơi từ tầng 12 may mắn sống sót](https://laodong.vn/video/bac-si-ke-lai-giay-phut-tiep-nhan-be-gai-roi-tu-tang-12-may-man-song-sot-884628.ldo) ([Lao Động](https://laodong.vn))
-- [Cháu bé 3 tuổi rơi từ tầng 12 chung cư: 'Lúc bé rơi, bố mẹ đang tiễn khách'](https://tuoitre.vn/chau-be-3-tuoi-roi-tang-12-chung-cu-luc-be-roi-bo-me-dang-tien-khach-20210301150622494.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bạc Liêu rút kinh nghiệm vụ xét nghiệm SARS-CoV-2 dương tính sang âm tính](https://laodong.vn/xa-hoi/bac-lieu-rut-kinh-nghiem-vu-xet-nghiem-sars-cov-2-duong-tinh-sang-am-tinh-884631.ldo) ([Lao Động](https://laodong.vn))
+- [Hé lộ lý do khiến tỷ phú Bill Gates mua nhiều đất nông nghiệp tại Mỹ](https://cafebiz.vn/he-lo-ly-do-khien-ty-phu-bill-gates-mua-nhieu-dat-nong-nghiep-tai-my-20210301163723715.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khách đi tàu bất ngờ nhận lại 36 triệu đồng bỏ quên](https://laodong.vn/xa-hoi/khach-di-tau-bat-ngo-nhan-lai-36-trieu-dong-bo-quen-884695.ldo) ([Lao Động](https://laodong.vn))
+- [Đề nghị hỗ trợ nhân viên y tế tử vong do tai nạn khi chống dịch](https://laodong.vn/cong-doan/de-nghi-ho-tro-nhan-vien-y-te-tu-vong-do-tai-nan-khi-chong-dich-884694.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: nhà hàng, quán cà phê được mở lại từ ngày mai 2-3](https://tuoitre.vn/ha-noi-nha-hang-quan-ca-phe-duoc-mo-lai-tu-ngay-mai-2-3-20210301170042904.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Dùng mật khẩu như trẻ con, công ty tỷ USD làm dữ liệu của hàng nghìn công ty và cơ quan chính quyền bị hacker xâm nhập](https://cafebiz.vn/dung-mat-khau-nhu-tre-con-cong-ty-ty-usd-lam-du-lieu-cua-hang-nghin-cong-ty-va-co-quan-chinh-quyen-bi-hacker-xam-nhap-20210301164333237.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắc Kạn: 80 người nhập viện sau tiệc cưới đã ổn định, vẫn chờ nguyên nhân](https://laodong.vn/xa-hoi/bac-kan-80-nguoi-nhap-vien-sau-tiec-cuoi-da-on-dinh-van-cho-nguyen-nhan-884685.ldo) ([Lao Động](https://laodong.vn))
+- [TP HCM chưa dẹp được lò mổ thủ công](https://vnexpress.net/tp-hcm-chua-dep-duoc-lo-mo-thu-cong-4241915.html) ([VNExpress](https://vnexpress.net))
+- [An Giang: Tước Giấy phép lái xe tài xế xe biển xanh lấn làn đường](https://laodong.vn/phap-luat/an-giang-tuoc-giay-phep-lai-xe-tai-xe-xe-bien-xanh-lan-lan-duong-884686.ldo) ([Lao Động](https://laodong.vn))
+- [Nông dân Hà Tĩnh lo lắng vì nhiều trâu, bò 'da nổi cục' rồi chết](https://tuoitre.vn/nong-dan-ha-tinh-lo-lang-vi-nhieu-trau-bo-da-noi-cuc-roi-chet-20210301162645255.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Trung vệ Duy Mạnh: &quot;Quãng nghỉ dài giúp CLB Hà Nội ổn định tinh thần&quot;](https://laodong.vn/bong-da/trung-ve-duy-manh-quang-nghi-dai-giup-clb-ha-noi-on-dinh-tinh-than-884682.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -137,8 +137,8 @@
 05. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
 06. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 07. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
-08. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-09. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+08. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+09. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 10. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 
 [Read More](https://www.youtube.com/feed/trending)
