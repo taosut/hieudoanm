@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 24.31°C.
 - Feels Like 25.61°C.
-- Air Visual is 105.
+- Air Visual is 139.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tin vui: Vaccine phòng Covid-19 của Việt Nam đã sinh kháng thể chống virus biến chủng Anh](https://cafebiz.vn/tin-vui-vaccine-phong-covid-19-cua-viet-nam-da-sinh-khang-the-chong-virus-bien-chung-anh-20210301105234595.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quốc hội Mỹ tiếp tục thảo luận trấn áp những gã khổng lồ công nghệ](https://cafebiz.vn/quoc-hoi-my-tiep-tuc-thao-luan-tran-ap-nhung-ga-khong-lo-cong-nghe-20210301105005261.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bất động sản năm 2021: Cơ hội rộng mở cho nhà đầu tư](https://cafebiz.vn/bat-dong-san-nam-2021-co-hoi-rong-mo-cho-nha-dau-tu-2021030110492772.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người nhàn rỗi hay lo lắng, người lười biếng hay bệnh tật: Đời này, chỉ có có siêng năng mới sống lâu!](https://cafebiz.vn/nguoi-nhan-roi-hay-lo-lang-nguoi-luoi-bieng-hay-benh-tat-doi-nay-chi-co-co-sieng-nang-moi-song-lau-2021022821560312.chn) ([CafeBiz](https://cafebiz.vn))
-- [Việt Nam góp phần quan trọng tạo dựng vai trò, vị thế của ASEM](https://laodong.vn/the-gioi/viet-nam-gop-phan-quan-trong-tao-dung-vai-tro-vi-the-cua-asem-884536.ldo) ([Lao Động](https://laodong.vn))
-- [Ninh Dương Lan Ngọc đối đầu với Kaity Nguyễn trong &quot;Gái già lắm chiêu V&quot;](https://laodong.vn/giai-tri/ninh-duong-lan-ngoc-doi-dau-voi-kaity-nguyen-trong-gai-gia-lam-chieu-v-884528.ldo) ([Lao Động](https://laodong.vn))
-- [Con gái làm phó giám đốc sở, Bí thư Tỉnh ủy Vĩnh Phúc: ‘Tôi nói sẽ không khách quan'](https://tuoitre.vn/con-gai-lam-pho-giam-doc-so-bi-thu-tinh-uy-vinh-phuc-toi-noi-se-khong-khach-quan-20210301100636349.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Những trường hợp được hoàn thuế Thu nhập cá nhân](https://laodong.vn/kinh-te/nhung-truong-hop-duoc-hoan-thue-thu-nhap-ca-nhan-884530.ldo) ([Lao Động](https://laodong.vn))
-- [Từ hôm nay, bồi thường bảo hiểm bắt buộc tăng lên 150 triệu/người/vụ](https://cafebiz.vn/tu-hom-nay-boi-thuong-bao-hiem-bat-buoc-tang-len-150-trieu-nguoi-vu-20210301103321046.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người lao động gặp khó khăn khi tìm việc đầu năm](https://laodong.vn/cong-doan/nguoi-lao-dong-gap-kho-khan-khi-tim-viec-dau-nam-884426.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ "người hùng" cứu bé gái rơi từ tầng 12 chung cư: ''Chồng tôi có lòng tốt đến mức có lần bị người khác lừa nhưng anh cũng kệ"](https://cafebiz.vn/vo-nguoi-hung-cuu-be-gai-roi-tu-tang-12-chung-cu-chong-toi-co-long-tot-den-muc-co-lan-bi-nguoi-khac-lua-nhung-anh-cung-ke-20210301110307868.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bộ Công an tạm đình chỉ vụ chồng đại gia Tư Hường tố cáo con trai](https://cafebiz.vn/bo-cong-an-tam-dinh-chi-vu-chong-dai-gia-tu-huong-to-cao-con-trai-20210301110303428.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuỗi cung ứng của Apple xác nhận sẽ có iPhone 13 với dung lượng 1TB](https://cafebiz.vn/chuoi-cung-ung-cua-apple-xac-nhan-se-co-iphone-13-voi-dung-luong-1tb-20210301105239039.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tăng trưởng doanh thu hàng cao cấp, LVMH mở cửa BVLGARI tại Việt Nam](https://cafebiz.vn/tang-truong-doanh-thu-hang-cao-cap-lvmh-mo-cua-bvlgari-tai-viet-nam-20210301105124954.chn) ([CafeBiz](https://cafebiz.vn))
+- [BIC cấp giấy chứng nhận điện tử bảo hiểm  bắt buộc TNDS của chủ xe cơ giới](https://laodong.vn/kinh-te/bic-cap-giay-chung-nhan-dien-tu-bao-hiem-bat-buoc-tnds-cua-chu-xe-co-gioi-884523.ldo) ([Lao Động](https://laodong.vn))
+- [7 diễn viên nam được yêu mến của truyền hình Việt](https://laodong.vn/photo/7-dien-vien-nam-duoc-yeu-men-cua-truyen-hinh-viet-884510.ldo) ([Lao Động](https://laodong.vn))
+- [Muôn vàn cảm xúc của cộng đồng khi bé gái 3 tuổi rơi từ tầng 12 được cứu sống: Từ ám ảnh, thót tim tới xúc động, cảm ơn "người hùng đời thực"](https://cafebiz.vn/muon-van-cam-xuc-cua-cong-dong-khi-be-gai-3-tuoi-roi-tu-tang-12-duoc-cuu-song-tu-am-anh-thot-tim-toi-xuc-dong-cam-on-nguoi-hung-doi-thuc-20210301104753959.chn) ([CafeBiz](https://cafebiz.vn))
+- [Điểm lại những vụ trẻ nhỏ bị ngã chung cư trong thời gian gần đây, nhiều gia đình đau xót nhìn con ra đi mãi mãi](https://cafebiz.vn/diem-lai-nhung-vu-tre-nho-bi-nga-chung-cu-trong-thoi-gian-gan-day-nhieu-gia-dinh-dau-xot-nhin-con-ra-di-mai-mai-20210301105748533.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kaity Nguyễn và nữ chính trong các phim có doanh thu trăm tỉ giờ ra sao?](https://laodong.vn/van-hoa-giai-tri/kaity-nguyen-va-nu-chinh-trong-cac-phim-co-doanh-thu-tram-ti-gio-ra-sao-884380.ldo) ([Lao Động](https://laodong.vn))
+- [Từ vụ bé 3 tuổi rơi từ tầng 12: Ở chung cư có trẻ nhỏ cần chú ý gì?](https://laodong.vn/bat-dong-san/tu-vu-be-3-tuoi-roi-tu-tang-12-o-chung-cu-co-tre-nho-can-chu-y-gi-884462.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
