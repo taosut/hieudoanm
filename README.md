@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nếu Lưu Bị đánh bại Tôn Quyền, mối thù Đông Ngô giết Quan Vũ có được báo hay không?](https://cafebiz.vn/neu-luu-bi-danh-bai-ton-quyen-moi-thu-dong-ngo-giet-quan-vu-co-duoc-bao-hay-khong-20210301172043147.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vì sao loạt tập đoàn lớn như Apple, Samsung và LG đổ vào Việt Nam bất chấp thách thức về chuỗi cung ứng?](https://cafebiz.vn/vi-sao-loat-tap-doan-lon-nhu-apple-samsung-va-lg-do-vao-viet-nam-bat-chap-thach-thuc-ve-chuoi-cung-ung-20210301203311622.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đường 4.800 tỉ đồng ở cửa ngõ Tân sơn Nhất khởi công cuối năm nay](https://laodong.vn/xa-hoi/duong-4800-ti-dong-o-cua-ngo-tan-son-nhat-khoi-cong-cuoi-nam-nay-884775.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất 24h: Kết quả chụp CT sọ não bé gái rơi từ tầng 12](https://laodong.vn/video-thoi-su/nong-nhat-24h-ket-qua-chup-ct-so-nao-be-gai-roi-tu-tang-12-884748.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng tặng Bằng khen cho ông Nguyễn Ngọc Mạnh](http://vietnamnet.vn/vn/thoi-su/thu-tuong-tang-bang-khen-cho-ong-nguyen-ngoc-manh-716418.html) ([VietNamNet](https://vietnamnet.vn))
 - [Lừa đảo bán &quot;chốt đảm bảo an ninh trật tự&quot; giá 1,5 tỉ đồng](https://laodong.vn/phap-luat/lua-dao-ban-chot-dam-bao-an-ninh-trat-tu-gia-15-ti-dong-884776.ldo) ([Lao Động](https://laodong.vn))
 - [Thời điểm sụp đổ trong ngân khố chỉ còn lại 10 đồng, rốt cuộc kho vàng kho bạc đầy ắp một thời của nhà Thanh đã chảy đi đâu?](https://cafebiz.vn/thoi-diem-sup-do-trong-ngan-kho-chi-con-lai-10-dong-rot-cuoc-kho-vang-kho-bac-day-ap-mot-thoi-cua-nha-thanh-da-chay-di-dau-2021030117175274.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bám phao xốp bơi trên sông từ Hải Dương sang Hải Phòng 'né' chốt kiểm soát](https://tuoitre.vn/bam-phao-xop-boi-tren-song-tu-hai-duong-sang-hai-phong-ne-chot-kiem-soat-20210301190451148.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hà Nội sẵn sàng đón học sinh trở lại trường an toàn](https://laodong.vn/giao-duc/ha-noi-san-sang-don-hoc-sinh-tro-lai-truong-an-toan-884744.ldo) ([Lao Động](https://laodong.vn))
+- [Bám phao xốp bơi trên sông từ Hải Dương sang Hải Phòng 'né' chốt kiểm soát](https://tuoitre.vn/bam-phao-xop-boi-tren-song-tu-hai-duong-sang-hai-phong-ne-chot-kiem-soat-20210301190451148.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bắc Kinh vẫn tiến hành tiêm vaccine COVID-19 cho người già](https://laodong.vn/the-gioi/bac-kinh-van-tien-hanh-tiem-vaccine-covid-19-cho-nguoi-gia-884779.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Trường cẩn thận phun khử khuẩn xe đưa đón ngày học sinh trở lại](https://laodong.vn/giao-duc/ha-noi-truong-can-than-phun-khu-khuan-xe-dua-don-ngay-hoc-sinh-tro-lai-884774.ldo) ([Lao Động](https://laodong.vn))
-- [Đồng Nai, Bình Dương, Gia Lai nới lỏng một số dịch vụ](https://vnexpress.net/dong-nai-binh-duong-gia-lai-noi-long-mot-so-dich-vu-4241973.html) ([VNExpress](https://vnexpress.net))
-- [Bố của cháu bé rơi từ tầng 12A chung cư xuống đất: "Nếu không có anh Mạnh, chúng tôi không biết sống như thế nào"](https://cafebiz.vn/bo-cua-chau-be-roi-tu-tang-12a-chung-cu-xuong-dat-neu-khong-co-anh-manh-chung-toi-khong-biet-song-nhu-the-nao-20210301195612358.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kaity Nguyễn hóa tomboy cá tính, lạnh lùng bên Ninh Dương Lan Ngọc](https://laodong.vn/photo/kaity-nguyen-hoa-tomboy-ca-tinh-lanh-lung-ben-ninh-duong-lan-ngoc-884533.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
