@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Học sinh Quảng Ninh trở lại trường: Đo thân nhiệt 2 lần, chào cờ trong lớp](https://laodong.vn/xa-hoi/hoc-sinh-quang-ninh-tro-lai-truong-do-than-nhiet-2-lan-chao-co-trong-lop-884502.ldo) ([Lao Động](https://laodong.vn))
+- [Không khí lạnh tiếp tục tăng cường khiến miền Bắc mưa rét sâu hơn](https://laodong.vn/moi-truong/khong-khi-lanh-tiep-tuc-tang-cuong-khien-mien-bac-mua-ret-sau-hon-884465.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng hôm nay 1.3: Tăng &quot;dựng đứng&quot; ngược hoàn toàn dự báo](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-13-tang-dung-dung-nguoc-hoan-toan-du-bao-883918.ldo) ([Lao Động](https://laodong.vn))
+- [Bạn không nên lãng phí tiền vào 9 thứ này](https://cafebiz.vn/ban-khong-nen-lang-phi-tien-vao-9-thu-nay-20210301090644707.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thông tin mới nhất về sức khỏe bé gái rơi từ tầng 12 chung cư ở Hà Nội](https://laodong.vn/y-te/thong-tin-moi-nhat-ve-suc-khoe-be-gai-roi-tu-tang-12-chung-cu-o-ha-noi-884513.ldo) ([Lao Động](https://laodong.vn))
+- [Chọn quà 8/3 thiết thực cho nửa còn lại của thế giới theo từng ngành nghề: Vừa tâm lý, vừa thiết thực!](https://cafebiz.vn/chon-qua-8-3-thiet-thuc-cho-nua-con-lai-cua-the-gioi-theo-tung-nganh-nghe-vua-tam-ly-vua-thiet-thuc-20210301013024082.chn) ([CafeBiz](https://cafebiz.vn))
+- [Elon Musk phản ứng với lời đồn đang bị SEC điều tra vì thổi giá Dogecoin: 'Tuyệt quá'](https://cafebiz.vn/elon-musk-phan-ung-voi-loi-don-dang-bi-sec-dieu-tra-vi-thoi-gia-dogecoin-tuyet-qua-20210301094051206.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đêm không ngủ của "người hùng" lao qua tường rào, cứu sống bé gái 3 tuổi rơi từ tầng 12: "Từ lúc phát hiện đến lúc đỡ bé chỉ khoảng một phút"](https://cafebiz.vn/dem-khong-ngu-cua-nguoi-hung-lao-qua-tuong-rao-cuu-song-be-gai-3-tuoi-roi-tu-tang-12-tu-luc-phat-hien-den-luc-do-be-chi-khoang-mot-phut-20210301093757883.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá vàng và ngoại tệ 1.3: Giá vàng trong nước và thế giới chênh lệch lớn](https://laodong.vn/video/gia-vang-va-ngoai-te-13-gia-vang-trong-nuoc-va-the-gioi-chenh-lech-lon-884501.ldo) ([Lao Động](https://laodong.vn))
+- [Điện ảnh Việt cố gắng trở lại phòng vé](https://laodong.vn/van-hoa-giai-tri/dien-anh-viet-co-gang-tro-lai-phong-ve-884421.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
