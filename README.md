@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 25.1°C.
-- Air Visual is 173.
+- Feels Like 25.46°C.
+- Air Visual is 162.
 
 **WEATHER**
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Khởi tố giám đốc, bắt nguyên giám đốc Sở Y tế Cần Thơ do sai phạm đấu thầu](https://laodong.vn/phap-luat/khoi-to-giam-doc-bat-nguyen-giam-doc-so-y-te-can-tho-do-sai-pham-dau-thau-884801.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương phong tỏa xã hơn 7.400 dân](https://vnexpress.net/hai-duong-phong-toa-xa-hon-7-400-dan-4241996.html) ([VNExpress](https://vnexpress.net))
 - [Thái Bình: Khởi tố Sơn &quot;Lông&quot; tội mua bán trái phép hóa đơn](https://laodong.vn/phap-luat/thai-binh-khoi-to-son-long-toi-mua-ban-trai-phep-hoa-don-884785.ldo) ([Lao Động](https://laodong.vn))
 - [Cuối 2021 khởi công dự án hơn 4.800 tỷ ‘giải cứu’ kẹt xe khu Tân Sơn  Nhất](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/cuoi-2021-khoi-cong-du-an-hon-4-800-ty-giai-cuu-ket-xe-khu-tan-son-nhat-716426.html) ([VietNamNet](https://vietnamnet.vn))
@@ -84,7 +85,6 @@
 - [Tiến sĩ Vật lý phân tích lực và độ nguy hiểm khi người hùng Nguyễn Ngọc Mạnh đỡ bé gái ngã từ tầng 12](https://cafebiz.vn/tien-si-vat-ly-phan-tich-luc-va-do-nguy-hiem-khi-nguoi-hung-nguyen-ngoc-manh-do-be-gai-nga-tu-tang-12-20210301211842919.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hé lộ thông tin Mỹ lãng phí hàng tỉ USD ở Afghanistan](https://laodong.vn/the-gioi/he-lo-thong-tin-my-lang-phi-hang-ti-usd-o-afghanistan-884784.ldo) ([Lao Động](https://laodong.vn))
 - [Điện Biên: Khoan cục sắt lạ, người đàn ông bị thương nặng](https://laodong.vn/xa-hoi/dien-bien-khoan-cuc-sat-la-nguoi-dan-ong-bi-thuong-nang-884787.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất hôm nay: Ông Trump kêu gọi tiêm vaccine COVID-19](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-ong-trump-keu-goi-tiem-vaccine-covid-19-884759.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
