@@ -20,8 +20,8 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 22°C.
-- Feels Like 24.58°C.
+- Temperature is 23°C.
+- Feels Like 24.64°C.
 - Air Visual is 122.
 
 **WEATHER**
@@ -48,11 +48,9 @@
 
 **GOOGLE TRENDS**
 
-- [![APRIL](https://img.shields.io/static/v1?label=APRIL&message=google&color=red&style=flat-square)](https://www.google.com/search?q=APRIL)
-- [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
+- [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
 - [![Atalanta](https://img.shields.io/static/v1?label=Atalanta&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atalanta)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
-- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
 - [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
 - [![Câm tâm tựa ngọc](https://img.shields.io/static/v1?label=C%C3%A2m%20t%C3%A2m%20t%E1%BB%B1a%20ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%A2m%20t%C3%A2m%20t%E1%BB%B1a%20ng%E1%BB%8Dc)
@@ -63,10 +61,12 @@
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![MU vs Chelsea](https://img.shields.io/static/v1?label=MU%20vs%20Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20Chelsea)
 - [![Mike Tyson](https://img.shields.io/static/v1?label=Mike%20Tyson&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mike%20Tyson)
+- [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
 - [![Nguyễn Quang Dũng](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Quang%20D%C5%A9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Quang%20D%C5%A9ng)
 - [![Ngô Mạnh Đạt](https://img.shields.io/static/v1?label=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20M%E1%BA%A1nh%20%C4%90%E1%BA%A1t)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
+- [![iOS 14.5](https://img.shields.io/static/v1?label=iOS%2014.5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iOS%2014.5)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Chelsea và Man United cầm chân nhau: Tưởng thế nào...](https://laodong.vn/bong-da-quoc-te/chelsea-va-man-united-cam-chan-nhau-tuong-the-nao-884597.ldo) ([Lao Động](https://laodong.vn))
-- [Bồi dưỡng nghiệp vụ cho 10.400 chủ tịch công đoàn cơ sở](https://laodong.vn/ldld-tphcm/boi-duong-nghiep-vu-cho-10400-chu-tich-cong-doan-co-so-884611.ldo) ([Lao Động](https://laodong.vn))
-- [Những lưu ý khi tuyển sinh vào lớp 10 ở Hà Nội năm học 2021 - 2022](https://laodong.vn/giao-duc/nhung-luu-y-khi-tuyen-sinh-vao-lop-10-o-ha-noi-nam-hoc-2021-2022-884605.ldo) ([Lao Động](https://laodong.vn))
-- [Bác sĩ trẻ đam mê nghiên cứu, hết lòng vì người bệnh, vì người lao động](https://laodong.vn/ldld-an-giang/bac-si-tre-dam-me-nghien-cuu-het-long-vi-nguoi-benh-vi-nguoi-lao-dong-884584.ldo) ([Lao Động](https://laodong.vn))
-- [Gỡ bỏ phong tỏa TP Chí Linh, Cẩm Giàng từ ngày 3-3](https://tuoitre.vn/go-bo-phong-toa-tp-chi-linh-cam-giang-tu-ngay-3-3-20210301112746256.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- ["Thánh quảng cáo” Thái Lan: Thanh niên nghiêm túc chuyên nghĩ ý tưởng hài, lập page vốn để gây ấn tượng với “crush” nhưng rồi thu hút gần 1 triệu fan](https://cafebiz.vn/thanh-quang-cao-thai-lan-thanh-nien-nghiem-tuc-chuyen-nghi-y-tuong-hai-lap-page-von-de-gay-an-tuong-voi-crush-nhung-roi-thu-hut-gan-1-trieu-fan-20210301115236096.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mẹo giúp quần áo khô nhanh trong mùa mưa ẩm](https://laodong.vn/gia-dinh-hon-nhan/meo-giup-quan-ao-kho-nhanh-trong-mua-mua-am-884607.ldo) ([Lao Động](https://laodong.vn))
-- [“Nhà đầu tư F0 nên dùng cả chân phanh và chân ga vào thị trường BĐS”](https://cafebiz.vn/nha-dau-tu-f0-nen-dung-ca-chan-phanh-va-chan-ga-vao-thi-truong-bds-20210301141718337.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vĩnh Phúc có Phó giám đốc Sở Kế hoạch và Đầu tư 31 tuổi](https://vnexpress.net/vinh-phuc-co-pho-giam-doc-so-ke-hoach-va-dau-tu-31-tuoi-4241633.html) ([VNExpress](https://vnexpress.net))
-- [Ôtô lao vào nhóm xe đạp thể dục, 3 người chết](https://vnexpress.net/oto-lao-vao-nhom-xe-dap-the-duc-3-nguoi-chet-4241771.html) ([VNExpress](https://vnexpress.net))
+- [Chặn tin tức ở Australia, Facebook “chĩa mũi giáo” vào Đế chế Murdoch?](https://cafebiz.vn/chan-tin-tuc-o-australia-facebook-chia-mui-giao-vao-de-che-murdoch-20210301135038382.chn) ([CafeBiz](https://cafebiz.vn))
+- [Robinhood lên kế hoạch bí mật nộp hồ sơ IPO](https://cafebiz.vn/robinhood-len-ke-hoach-bi-mat-nop-ho-so-ipo-20210301135923502.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Dương sắp bỏ phong tỏa Chí Linh, Cẩm Giàng, chuyển sang trạng thái mới](https://laodong.vn/xa-hoi/hai-duong-sap-bo-phong-toa-chi-linh-cam-giang-chuyen-sang-trang-thai-moi-884610.ldo) ([Lao Động](https://laodong.vn))
+- [Những lý do nên bỏ chứng chỉ chức danh nghề nghiệp](https://laodong.vn/ban-doc/nhung-ly-do-nen-bo-chung-chi-chuc-danh-nghe-nghiep-884599.ldo) ([Lao Động](https://laodong.vn))
+- [Hai nước Châu Âu thắt chặt hạn chế biên giới để ngăn chặn biến thể COVID-19](https://laodong.vn/the-gioi/hai-nuoc-chau-au-that-chat-han-che-bien-gioi-de-ngan-chan-bien-the-covid-19-884553.ldo) ([Lao Động](https://laodong.vn))
+- [Nhà báo Trần Thu Hà: Chúng ta ai cũng QUYỀN được làm người tốt và quyền được gặp người tốt!](https://cafebiz.vn/nha-bao-tran-thu-ha-chung-ta-ai-cung-quyen-duoc-lam-nguoi-tot-va-quyen-duoc-gap-nguoi-tot-20210301145446084.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phát hiện 13 người nhập cảnh trái phép](https://vnexpress.net/phat-hien-13-nguoi-nhap-canh-trai-phep-4241768.html) ([VNExpress](https://vnexpress.net))
+- [Vĩnh Phúc: Trao tiền hỗ trợ xây nhà cho gia đình công nhân khó khăn](https://laodong.vn/ldld-vinh-phuc/vinh-phuc-trao-tien-ho-tro-xay-nha-cho-gia-dinh-cong-nhan-kho-khan-884614.ldo) ([Lao Động](https://laodong.vn))
+- [Công đoàn Điện lực Việt Nam vận động đoàn viên hiến máu tình nguyện](https://laodong.vn/cd-dien-luc/cong-doan-dien-luc-viet-nam-van-dong-doan-vien-hien-mau-tinh-nguyen-884621.ldo) ([Lao Động](https://laodong.vn))
+- [57 dự án trọng điểm thu hút đầu tư vào Đà Nẵng, nhiều dự án ngàn tỉ đồng](https://tuoitre.vn/57-du-an-trong-diem-thu-hut-dau-tu-vao-da-nang-nhieu-du-an-ngan-ti-dong-2021030113353881.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Thử Rồi Thích: Làm bụng nhỏ đi mà không cần giảm mỡ](https://vietcetera.com/vn/thu-roi-thich-lam-bung-nho-di-ma-khong-can-giam-mo)
 - [5 Quán cà phê để bạn "deep work"](https://vietcetera.com/vn/5-quan-ca-phe-lam-viec)
 - [Do Ventures, Genesia Ventures, Chiba Dojo và các nhà đầu tư khác rót vốn 3 triệu đô vào nền tảng giáo dục trực tuyến Manabie](https://vietcetera.com/vn/do-ventures-genesia-ventures-chiba-dojo-va-cac-nha-dau-tu-khac-rot-von-3-trieu-do-vao-nen-tang-giao-duc-truc-tuyen-manabie)
 - ["Anh đang khoác áo trái đó..."](https://vietcetera.com/vn/du-anh-co-roi-vao-tinh-canh-xau-ho-hay-kho-khan-minh-van-se-chon-o-ben-anh)
@@ -105,7 +106,6 @@
 - [Kế hoạch hoàn thiện bản thân cho năm mới: Bạn cần lưu ý những gì?](https://vietcetera.com/vn/hoan-thien-ban-than-trong-nam-moi-ban-can-luu-y-nhung-gi)
 - [Dương Giáp và những tác phẩm thách thức ranh giới của thực tại](https://vietcetera.com/vn/duong-giap)
 - [Tóm Lại Là: Người châu Á bị thù ghét vì COVID-19?](https://vietcetera.com/vn/tom-lai-la-nguoi-chau-a-bi-ghet-hon-vi-covid-19)
-- [Cởi Mở: Lần đầu thử tình một đêm (ONS)](https://vietcetera.com/vn/coi-mo-lan-dau-thu-tinh-mot-dem-ons)
 
 [Read More](https://vietcetera.com/)
 
@@ -138,8 +138,8 @@
 06. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 07. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 08. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-09. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
-10. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+09. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+10. [PHẢI CHĂNG EM ĐÃ YÊU - JUKY SAN ft. REDT | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=O81_4VAson4) - [Juky San](https://www.youtube.com/channel/UC78x4PoknbPpD4KkeoVaKZQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
