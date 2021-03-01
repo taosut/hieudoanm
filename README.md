@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is drizzle.
+- Current weather is light intensity drizzle.
 - Temperature is 21°C.
-- Feels Like 23.74°C.
-- Air Visual is 149.
+- Feels Like 23.25°C.
+- Air Visual is 119.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tránh người phụ nữ chở con nhỏ sang đường, xe container lao xuống ruộng](https://laodong.vn/xe/tranh-nguoi-phu-nu-cho-con-nho-sang-duong-xe-container-lao-xuong-ruong-884639.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: 15 giờ triệt phá nhanh băng trộm xe máy táo tợn](https://laodong.vn/phap-luat/tphcm-15-gio-triet-pha-nhanh-bang-trom-xe-may-tao-ton-884712.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Giang khôi phục các hoạt động karaoke, Internet...](https://laodong.vn/xa-hoi/ha-giang-khoi-phuc-cac-hoat-dong-karaoke-internet-884671.ldo) ([Lao Động](https://laodong.vn))
-- [Tổng thống Ghana được tiêm liều vaccine đầu tiên từ COVAX](https://laodong.vn/the-gioi/tong-thong-ghana-duoc-tiem-lieu-vaccine-dau-tien-tu-covax-884698.ldo) ([Lao Động](https://laodong.vn))
-- [Ghi nhận 13 ca mới mắc COVID-19, trong đó 8 ca ở Hải Dương](https://laodong.vn/y-te/ghi-nhan-13-ca-moi-mac-covid-19-trong-do-8-ca-o-hai-duong-884394.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ bé gái rơi từ tầng 12: Gia đình bé gái lên tiếng](https://laodong.vn/xa-hoi/vu-be-gai-roi-tu-tang-12-gia-dinh-be-gai-len-tieng-884703.ldo) ([Lao Động](https://laodong.vn))
+- [Tiếp nhận 1,5 tỉ đồng ủng hộ Hải Dương phòng, chống dịch COVID-19](https://laodong.vn/thoi-su/tiep-nhan-15-ti-dong-ung-ho-hai-duong-phong-chong-dich-covid-19-884678.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang: Đẩy mạnh thanh toán không dùng tiền mặt trong trường công](https://laodong.vn/giao-duc/bac-giang-day-manh-thanh-toan-khong-dung-tien-mat-trong-truong-cong-884710.ldo) ([Lao Động](https://laodong.vn))
+- [Thầy cô giáo sẽ đeo khẩu trang giảng bài phòng dịch COVID-19](https://laodong.vn/video/thay-co-giao-se-deo-khau-trang-giang-bai-phong-dich-covid-19-884700.ldo) ([Lao Động](https://laodong.vn))
+- [Yên Bái: Bắt 4 cán bộ ở huyện Yên Bình vì chiếm đoạt tài sản](https://laodong.vn/phap-luat/yen-bai-bat-4-can-bo-o-huyen-yen-binh-vi-chiem-doat-tai-san-884705.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều nay 1-3, thêm 13 ca mắc COVID-19 mới, 6 ca đã được cách ly từ 1 tháng trước](https://tuoitre.vn/chieu-nay-1-3-them-13-ca-mac-covid-19-moi-6-ca-da-duoc-cach-ly-tu-1-thang-truoc-20210301180845797.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [&quot;Người hùng&quot; cứu bé gái rơi từ tầng 12 được dân mạng ngợi khen hết lời](https://laodong.vn/video/nguoi-hung-cuu-be-gai-roi-tu-tang-12-duoc-dan-mang-ngoi-khen-het-loi-884683.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội: Cà phê trong nhà được mở, trà đá vỉa hè vẫn bị cấm từ mai (2.3)](https://laodong.vn/xa-hoi/ha-noi-ca-phe-trong-nha-duoc-mo-tra-da-via-he-van-bi-cam-tu-mai-23-884620.ldo) ([Lao Động](https://laodong.vn))
 - [Kiên Giang ghi nhận 5 ca nhiễm COVID-19, đều là người về từ Campuchia](https://tuoitre.vn/kien-giang-ghi-nhan-5-ca-nhiem-covid-19-deu-la-nguoi-ve-tu-campuchia-20210301174816136.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hé lộ lý do khiến tỷ phú Bill Gates mua nhiều đất nông nghiệp tại Mỹ](https://cafebiz.vn/he-lo-ly-do-khien-ty-phu-bill-gates-mua-nhieu-dat-nong-nghiep-tai-my-20210301163723715.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dùng mật khẩu như trẻ con, công ty tỷ USD làm dữ liệu của hàng nghìn công ty và cơ quan chính quyền bị hacker xâm nhập](https://cafebiz.vn/dung-mat-khau-nhu-tre-con-cong-ty-ty-usd-lam-du-lieu-cua-hang-nghin-cong-ty-va-co-quan-chinh-quyen-bi-hacker-xam-nhap-20210301164333237.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -134,8 +134,8 @@
 02. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 03. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 04. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-05. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
-06. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+05. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+06. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
 07. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 08. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 09. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
