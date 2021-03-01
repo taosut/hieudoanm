@@ -21,8 +21,8 @@
 
 - Current weather is light intensity drizzle.
 - Temperature is 21°C.
-- Feels Like 23.25°C.
-- Air Visual is 119.
+- Feels Like 23.39°C.
+- Air Visual is 144.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Chứng khoán nghẽn, nhà đầu tư bức xúc, Bộ Tài chính đưa ra giải pháp gì?](https://laodong.vn/kinh-te/chung-khoan-nghen-nha-dau-tu-buc-xuc-bo-tai-chinh-dua-ra-giai-phap-gi-884737.ldo) ([Lao Động](https://laodong.vn))
-- [Có được đơn phương chấm dứt hợp đồng lao động vì bị giữ tiền lương?](https://laodong.vn/ban-doc/co-duoc-don-phuong-cham-dut-hop-dong-lao-dong-vi-bi-giu-tien-luong-884622.ldo) ([Lao Động](https://laodong.vn))
-- [Xử lý ra sao trường hợp xe Mercedes mang biển số giả ở Hà Nội](https://laodong.vn/phap-luat/xu-ly-ra-sao-truong-hop-xe-mercedes-mang-bien-so-gia-o-ha-noi-884658.ldo) ([Lao Động](https://laodong.vn))
-- [Được thanh toán bảo hiểm y tế khi chụp cộng hưởng từ không?](https://laodong.vn/ban-doc/duoc-thanh-toan-bao-hiem-y-te-khi-chup-cong-huong-tu-khong-884661.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ trùm ma túy Mexico El Chapo trốn chạy khỏi các con riêng của chồng](https://laodong.vn/the-gioi/vo-trum-ma-tuy-mexico-el-chapo-tron-chay-khoi-cac-con-rieng-cua-chong-884673.ldo) ([Lao Động](https://laodong.vn))
-- [Cha bé gái rơi từ tầng 12 chung cư: 'Con tôi như được tái sinh 'lần thứ hai'](https://tuoitre.vn/cha-be-gai-roi-tu-tang-12-chung-cu-con-toi-nhu-duoc-tai-sinh-lan-thu-hai-20210301180548393.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hà Nội yêu cầu người về từ 4 địa bàn ở Hải Dương tự cách ly 14 ngày](https://tuoitre.vn/ha-noi-yeu-cau-nguoi-ve-tu-4-dia-ban-o-hai-duong-tu-cach-ly-14-ngay-20210301173812507.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thầy cô giáo sẽ đeo khẩu trang giảng bài phòng dịch COVID-19](https://laodong.vn/video/thay-co-giao-se-deo-khau-trang-giang-bai-phong-dich-covid-19-884700.ldo) ([Lao Động](https://laodong.vn))
-- [1 ca COVID-19 chưa rõ nguồn lây, Hải Dương xét nghiệm hơn 7.000 người dân 1 phường](https://tuoitre.vn/1-ca-covid-19-chua-ro-nguon-lay-hai-duong-xet-nghiem-hon-7-000-nguoi-dan-1-phuong-20210301180659436.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chiều nay 1-3, thêm 13 ca mắc COVID-19 mới, 6 ca đã được cách ly từ 1 tháng trước](https://tuoitre.vn/chieu-nay-1-3-them-13-ca-mac-covid-19-moi-6-ca-da-duoc-cach-ly-tu-1-thang-truoc-20210301180845797.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Những điều cần biết khi dán nilon tối màu cho đèn xe ôtô](https://laodong.vn/xe/nhung-dieu-can-biet-khi-dan-nilon-toi-mau-cho-den-xe-oto-884706.ldo) ([Lao Động](https://laodong.vn))
+- [Tâm điểm cổ phiếu 1.3: BSR “bùng nổ”, LPB, VIB khoe sắc tím](https://laodong.vn/kinh-te/tam-diem-co-phieu-13-bsr-bung-no-lpb-vib-khoe-sac-tim-884768.ldo) ([Lao Động](https://laodong.vn))
+- [Khi giày sneaker trở thành 1 loại tài sản đầu tư chính hiệu: Chàng trai 19 tuổi làm giàu từ những đôi Jordan và Yeezy, thị trường resale giày ở Bắc Mỹ đạt quy mô 2 tỷ USD](https://cafebiz.vn/khi-giay-sneaker-tro-thanh-1-loai-tai-san-dau-tu-chinh-hieu-chang-trai-19-tuoi-lam-giau-tu-nhung-doi-jordan-va-yeezy-thi-truong-resale-giay-o-bac-my-dat-quy-mo-2-ty-usd-20210301192539409.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cảnh sát khám xét trụ sở Barcelona, cựu Chủ tịch Bartomeu bị bắt](https://laodong.vn/bong-da-quoc-te/canh-sat-kham-xet-tru-so-barcelona-cuu-chu-tich-bartomeu-bi-bat-884772.ldo) ([Lao Động](https://laodong.vn))
+- [CEO 9X Phạm Tùng Lâm: Chặng đường chinh phục thành công đầy thử thách](https://cafebiz.vn/ceo-9x-pham-tung-lam-chang-duong-chinh-phuc-thanh-cong-day-thu-thach-20210301175624657.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sapphire Parkview - phân khu nhà phố xây sẵn của Gem Sky World được công bố](https://cafebiz.vn/sapphire-parkview-phan-khu-nha-pho-xay-san-cua-gem-sky-world-duoc-cong-bo-20210301164918301.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo dục 24/7: Chi tiết mức tăng lương của giáo viên từ 20.3](https://laodong.vn/video/giao-duc-247-chi-tiet-muc-tang-luong-cua-giao-vien-tu-203-884656.ldo) ([Lao Động](https://laodong.vn))
+- [Thể thao 7 ngày: Văn Quyết, Hùng Dũng nói gì khi V-League 2021 trở lại?](https://laodong.vn/video/the-thao-7-ngay-van-quyet-hung-dung-noi-gi-khi-v-league-2021-tro-lai-884713.ldo) ([Lao Động](https://laodong.vn))
+- [Cầu xây hàng chục tỉ đồng ở Quảng Nam hoàn thiện đã lâu vẫn chưa thông xe](https://laodong.vn/ban-doc/cau-xay-hang-chuc-ti-dong-o-quang-nam-hoan-thien-da-lau-van-chua-thong-xe-884690.ldo) ([Lao Động](https://laodong.vn))
+- [Bố cháu bé bị rơi từ tầng 12A chung cư mong mọi người hãy chú ý hơn đến con](http://vietnamnet.vn/vn/thoi-su/bo-chau-be-bi-roi-tu-tang-12a-chung-cu-mong-moi-nguoi-hay-chu-y-hon-den-con-716413.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
