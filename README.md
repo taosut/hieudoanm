@@ -20,8 +20,8 @@
 **CALENDAR**
 
 - Current weather is drizzle.
-- Temperature is 22°C.
-- Feels Like 25.26°C.
+- Temperature is 21°C.
+- Feels Like 23.74°C.
 - Air Visual is 149.
 
 **WEATHER**
