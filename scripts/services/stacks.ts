@@ -4,29 +4,13 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 import fs from 'fs';
-import yaml from 'js-yaml';
-import fetch from 'node-fetch';
 
-import { numberFormatter, capitalize, convertJSONtoCSV } from '../libs';
-import { open, openPersonal, operatingSystems, cloudProviders, cicd } from '../constant';
+import { numberFormatter, capitalize, convertJSONtoCSV, request } from '../libs';
+import { open, openPersonal, operatingSystems, cloudProviders, cicd, api } from '../constant';
 
-const GITHUB_TOKEN = process.env.GITHUB_TOKEN || '';
-
-export const getRepository = (repo: string): Promise<Record<string, any>> => {
-  const url: string = `https://api.github.com/repos/${repo}`;
-  return new Promise(resolve => {
-    fetch(url, {
-      headers: { Accept: 'application/vnd.github.v3+json', Authorization: `token ${GITHUB_TOKEN}` }
-    })
-      .then(res => res.json())
-      .then((res: Record<string, any>) => {
-        resolve(res);
-      })
-      .catch((error: any) => {
-        console.error(error);
-        resolve({});
-      });
-  });
+export const getRepository = async (repo: string): Promise<Record<string, any>> => {
+  const url: string = `${api}/information/github/repository?repo=${repo}`;
+  return await request(url);
 };
 
 export const getRepositories = async (list: Array<Record<string, any>>) => {
@@ -244,21 +228,8 @@ export const syncStacks = async (): Promise<void> => {
 };
 
 export const syncLanguages = async (): Promise<void> => {
-  const url: string =
-    'https://raw.githubusercontent.com/github/linguist/master/lib/linguist/languages.yml';
-  const yml = await fetch(url).then(res => res.text());
-  const doc = yaml.load(yml);
-  const languages = Object.keys(doc)
-    .map(language => {
-      const obj = doc[language];
-      return Object.assign(obj, { language });
-    })
-    .filter(language => language.type === 'programming' && language.color)
-    .map(item => {
-      const { language = '', color = '', extensions = [] } = item;
-      return { language, color, extensions: extensions.join(',') };
-    })
-    .sort((a, b) => (a.language > b.language ? 1 : -1));
+  const url: string = `${api}/information/github/languages`;
+  const languages = await request(url);
   const fields: Array<string> = ['language', 'color', 'extensions'];
   const path: string = '../docs/stacks/languages.csv';
   await convertJSONtoCSV(languages, fields, path);
