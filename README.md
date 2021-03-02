@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 20°C.
 - Feels Like 19.18°C.
-- Air Visual is 75.
+- Air Visual is 87.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [iPhone 13 có thể sẽ loại bỏ tai thỏ, dung lượng pin lớn hơn](https://laodong.vn/cong-nghe/iphone-13-co-the-se-loai-bo-tai-tho-dung-luong-pin-lon-hon-885068.ldo) ([Lao Động](https://laodong.vn))
-- [5 điều nhất định phải biết khi chọn mua máy sấy quần áo](https://laodong.vn/gia-dinh-hon-nhan/5-dieu-nhat-dinh-phai-biet-khi-chon-mua-may-say-quan-ao-885084.ldo) ([Lao Động](https://laodong.vn))
-- [Công an Hồng Bàng (Hải Phòng): Cấp căn cước công dân gắn chíp 3 ca/ngày](https://laodong.vn/xa-hoi/cong-an-hong-bang-hai-phong-cap-can-cuoc-cong-dan-gan-chip-3-cangay-885077.ldo) ([Lao Động](https://laodong.vn))
-- [Đau bụng mỗi khi căng thẳng có phải biểu hiện của bệnh lý không?](https://laodong.vn/suc-khoe/dau-bung-moi-khi-cang-thang-co-phai-bieu-hien-cua-benh-ly-khong-885033.ldo) ([Lao Động](https://laodong.vn))
-- [Ninh Dương Lan Ngọc phủ nhận clip nhạy cảm: &quot;Đây là cú sốc với tôi&quot;](https://laodong.vn/van-hoa/ninh-duong-lan-ngoc-phu-nhan-clip-nhay-cam-day-la-cu-soc-voi-toi-885101.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương khôi phục nhiều hoạt động từ ngày mai](https://vnexpress.net/hai-duong-khoi-phuc-nhieu-hoat-dong-tu-ngay-mai-4242471.html) ([VNExpress](https://vnexpress.net))
-- [Nhiều câu hỏi về giải pháp chắp vá chống nghẽn lệnh trên HoSE](https://laodong.vn/kinh-te/nhieu-cau-hoi-ve-giai-phap-chap-va-chong-nghen-lenh-tren-hose-885070.ldo) ([Lao Động](https://laodong.vn))
-- [Giới thiệu Ủy viên Bộ Chính trị Trần Thanh Mẫn, Ủy viên Trung Hầu A Lềnh ứng cử ĐBQH](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/gioi-thieu-uy-vien-bo-chinh-tri-tran-thanh-man-uy-vien-trung-hau-a-lenh-ung-cu-dbqh-716687.html) ([VietNamNet](https://vietnamnet.vn))
-- [Cần Thơ thông tin vụ Giám đốc Sở Y tế bị Bộ Công an khởi tố](http://vietnamnet.vn/vn/thoi-su/can-tho-thong-tin-vu-giam-doc-so-y-te-bi-bo-cong-an-khoi-to-716688.html) ([VietNamNet](https://vietnamnet.vn))
-- [Người dân Hải Dương sẽ được làm gì sau khi kết thúc cách ly xã hội?](https://laodong.vn/video/nguoi-dan-hai-duong-se-duoc-lam-gi-sau-khi-ket-thuc-cach-ly-xa-hoi-885076.ldo) ([Lao Động](https://laodong.vn))
+- [Sau sự cố bé gái rơi từ tầng 12 chung cư: Nhiều người lo lắp lưới an toàn](https://laodong.vn/ban-doc/sau-su-co-be-gai-roi-tu-tang-12-chung-cu-nhieu-nguoi-lo-lap-luoi-an-toan-885065.ldo) ([Lao Động](https://laodong.vn))
+- [Alibaba bị điều tra, Jack Ma mất ngôi tỉ phú giàu nhất Trung Quốc](https://laodong.vn/the-gioi/alibaba-bi-dieu-tra-jack-ma-mat-ngoi-ti-phu-giau-nhat-trung-quoc-885100.ldo) ([Lao Động](https://laodong.vn))
+- [Chính phủ đạt và vượt 10/12 chỉ tiêu chủ yếu của năm 2020](https://laodong.vn/thoi-su/chinh-phu-dat-va-vuot-1012-chi-tieu-chu-yeu-cua-nam-2020-885075.ldo) ([Lao Động](https://laodong.vn))
+- [Chủ tịch huyện bị cảnh cáo vì sai phạm đất đai](https://vnexpress.net/chu-tich-huyen-bi-canh-cao-vi-sai-pham-dat-dai-4242549.html) ([VNExpress](https://vnexpress.net))
+- [Muốn giữ hạng, giáo viên cần bổ sung chứng chỉ bồi dưỡng chức danh nghề nghiệp](https://laodong.vn/giao-duc/muon-giu-hang-giao-vien-can-bo-sung-chung-chi-boi-duong-chuc-danh-nghe-nghiep-884549.ldo) ([Lao Động](https://laodong.vn))
+- [Hướng dẫn cách làm kim chi cải thảo thơm ngon, chuẩn vị Hàn Quốc](https://laodong.vn/chuyen-nha-minh/huong-dan-cach-lam-kim-chi-cai-thao-thom-ngon-chuan-vi-han-quoc-885041.ldo) ([Lao Động](https://laodong.vn))
+- [Mỗi năm cần gần 13 tỉ USD cho ngành điện: Tiền đâu để đầu tư?](https://laodong.vn/kinh-te/moi-nam-can-gan-13-ti-usd-cho-nganh-dien-tien-dau-de-dau-tu-885085.ldo) ([Lao Động](https://laodong.vn))
+- [TP Chí Linh nôn nao trước thời điểm gỡ bỏ phong tỏa](https://tuoitre.vn/tp-chi-linh-non-nao-truoc-thoi-diem-go-bo-phong-toa-20210302165150846.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nhập cảnh trái phép vào Việt Nam, một người Lào bị đưa đi cách ly](http://vietnamnet.vn/vn/thoi-su/nhap-canh-trai-phep-vao-viet-nam-mot-nguoi-lao-bi-dua-di-cach-ly-716697.html) ([VietNamNet](https://vietnamnet.vn))
+- [Hải Dương tuyên bố kết thúc cách ly, gỡ phong toả Chí Linh và Cẩm Giàng](http://vietnamnet.vn/vn/thoi-su/hai-duong-tuyen-bo-ket-thuc-cach-ly-go-phong-toa-chi-linh-va-cam-giang-716693.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -131,15 +131,15 @@
 **YOUTUBE TRENDS**
 
 01. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-02. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-03. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+02. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 04. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 05. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 07. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 08. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 09. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
-10. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+10. [Anh Làm Gì Sai - Châu Khải Phong | Thương Võ Cover](https://www.youtube.com/watch?v=fDctq_Kj2UI) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
