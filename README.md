@@ -19,17 +19,17 @@
 
 **CALENDAR**
 
-- Current weather is undefined.
-- Temperature is 0°C.
-- Feels Like 0°C.
-- Air Visual is 0.
+- Current weather is clear sky.
+- Temperature is 19°C.
+- Feels Like 16.75°C.
+- Air Visual is 64.
 
 **WEATHER**
 
 - Date: 2021/03/02
-- Lunar: 0/00/00
-- Tiet Khi: Tiểu hàn.
-- năm tân sửu tháng canh dần ngày kỷ dậu.
+- Lunar: 2021/01/19
+- Tiet Khi: Đại tuyết.
+- năm canh tý tháng kỷ sửu ngày đinh mão.
 
 **NPM**
 
@@ -48,7 +48,26 @@
 
 **GOOGLE TRENDS**
 
-
+- [![Anya Taylor-Joy](https://img.shields.io/static/v1?label=Anya%20Taylor-Joy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anya%20Taylor-Joy)
+- [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
+- [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
+- [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
+- [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
+- [![Chau be roi tu tang 12](https://img.shields.io/static/v1?label=Chau%20be%20roi%20tu%20tang%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chau%20be%20roi%20tu%20tang%2012)
+- [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Cứu cháu bé rơi từ tầng 12](https://img.shields.io/static/v1?label=C%E1%BB%A9u%20ch%C3%A1u%20b%C3%A9%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%E1%BB%A9u%20ch%C3%A1u%20b%C3%A9%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
+- [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
+- [![Em be roi tu tang 12](https://img.shields.io/static/v1?label=Em%20be%20roi%20tu%20tang%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20be%20roi%20tu%20tang%2012)
+- [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
+- [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
+- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
+- [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
+- [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
+- [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
+- [![Uni5](https://img.shields.io/static/v1?label=Uni5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Uni5)
+- [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -56,7 +75,16 @@
 
 **NEWS**
 
-
+- [Bóng đá thời kỳ...  “biết đâu đấy”](https://laodong.vn/the-thao/bong-da-thoi-ky-biet-dau-day-884753.ldo) ([Lao Động](https://laodong.vn))
+- [Không để lọt người chạy chức, chạy quyền tham gia Quốc hội, Hội đồng nhân dân các cấp](https://laodong.vn/thoi-su/khong-de-lot-nguoi-chay-chuc-chay-quyen-tham-gia-quoc-hoi-hoi-dong-nhan-dan-cac-cap-884764.ldo) ([Lao Động](https://laodong.vn))
+- [Anh hùng giữa đời thường](https://laodong.vn/xa-hoi/anh-hung-giua-doi-thuong-884762.ldo) ([Lao Động](https://laodong.vn))
+- [Bảng giá đất được sử dụng để làm gì?](https://laodong.vn/bat-dong-san/bang-gia-dat-duoc-su-dung-de-lam-gi-884592.ldo) ([Lao Động](https://laodong.vn))
+- [Ngoại binh Hà Nội chia sẻ bí kíp tránh chấn thương ở V.League, dù sân xấu](https://laodong.vn/bong-da/ngoai-binh-ha-noi-chia-se-bi-kip-tranh-chan-thuong-o-vleague-du-san-xau-884818.ldo) ([Lao Động](https://laodong.vn))
+- [Top vua phá lưới Serie A 2020/21: Ronaldo và Lukaku đua &quot;song mã&quot;](https://laodong.vn/photo/top-vua-pha-luoi-serie-a-202021-ronaldo-va-lukaku-dua-song-ma-884809.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Hàng quán trong nhà tất bật chuẩn bị xuyên đêm để mở cửa trở lại](https://laodong.vn/video/ha-noi-hang-quan-trong-nha-tat-bat-chuan-bi-xuyen-dem-de-mo-cua-tro-lai-884817.ldo) ([Lao Động](https://laodong.vn))
+- [Australia đạt kỷ lục sản xuất vàng](https://laodong.vn/the-gioi/australia-dat-ky-luc-san-xuat-vang-884827.ldo) ([Lao Động](https://laodong.vn))
+- [Những lý do để chờ đợi sân khấu lớn V.League 2021 trở lại](https://laodong.vn/bong-da/nhung-ly-do-de-cho-doi-san-khau-lon-vleague-2021-tro-lai-884618.ldo) ([Lao Động](https://laodong.vn))
+- [Con đường trở thành siêu sao của cầu thủ quyến rũ nhất thế giới, David Beckham: Một lần vấp ngã là thất bại, trăm lần thất bại là thành công!](https://cafebiz.vn/con-duong-tro-thanh-sieu-sao-cua-cau-thu-quyen-ru-nhat-the-gioi-david-beckham-mot-lan-vap-nga-la-that-bai-tram-lan-that-bai-la-thanh-cong-2021030117094399.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -85,7 +113,16 @@
 
 **MUSIC TRENDS**
 
-
+01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
+02. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
+03. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+04. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+05. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
+06. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
+07. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
+08. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+09. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
+10. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -93,7 +130,16 @@
 
 **YOUTUBE TRENDS**
 
-
+01. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+02. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+03. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
+04. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+05. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
+06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+07. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+08. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
+09. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
+10. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 
 [Read More](https://www.youtube.com/feed/trending)
 
