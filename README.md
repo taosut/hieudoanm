@@ -21,7 +21,7 @@
 
 - Current weather is overcast clouds.
 - Temperature is 20°C.
-- Feels Like 18.82°C.
+- Feels Like 19.18°C.
 - Air Visual is 75.
 
 **WEATHER**
@@ -56,7 +56,6 @@
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Gareth Bale](https://img.shields.io/static/v1?label=Gareth%20Bale&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gareth%20Bale)
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
-- [![Justin Bieber](https://img.shields.io/static/v1?label=Justin%20Bieber&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justin%20Bieber)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
@@ -66,6 +65,7 @@
 - [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
 - [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
 - [![Uni5](https://img.shields.io/static/v1?label=Uni5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Uni5)
+- [![Vo hoang yen](https://img.shields.io/static/v1?label=Vo%20hoang%20yen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vo%20hoang%20yen)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [iPhone 13 có thể sẽ loại bỏ tai thỏ, dung lượng pin lớn hơn](https://laodong.vn/cong-nghe/iphone-13-co-the-se-loai-bo-tai-tho-dung-luong-pin-lon-hon-885068.ldo) ([Lao Động](https://laodong.vn))
+- [5 điều nhất định phải biết khi chọn mua máy sấy quần áo](https://laodong.vn/gia-dinh-hon-nhan/5-dieu-nhat-dinh-phai-biet-khi-chon-mua-may-say-quan-ao-885084.ldo) ([Lao Động](https://laodong.vn))
+- [Công an Hồng Bàng (Hải Phòng): Cấp căn cước công dân gắn chíp 3 ca/ngày](https://laodong.vn/xa-hoi/cong-an-hong-bang-hai-phong-cap-can-cuoc-cong-dan-gan-chip-3-cangay-885077.ldo) ([Lao Động](https://laodong.vn))
+- [Đau bụng mỗi khi căng thẳng có phải biểu hiện của bệnh lý không?](https://laodong.vn/suc-khoe/dau-bung-moi-khi-cang-thang-co-phai-bieu-hien-cua-benh-ly-khong-885033.ldo) ([Lao Động](https://laodong.vn))
+- [Ninh Dương Lan Ngọc phủ nhận clip nhạy cảm: &quot;Đây là cú sốc với tôi&quot;](https://laodong.vn/van-hoa/ninh-duong-lan-ngoc-phu-nhan-clip-nhay-cam-day-la-cu-soc-voi-toi-885101.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương khôi phục nhiều hoạt động từ ngày mai](https://vnexpress.net/hai-duong-khoi-phuc-nhieu-hoat-dong-tu-ngay-mai-4242471.html) ([VNExpress](https://vnexpress.net))
-- [Kiên Giang: Đảm bảo an toàn phòng dịch cho 1.301 công dân nhập ngũ](https://laodong.vn/xa-hoi/kien-giang-dam-bao-an-toan-phong-dich-cho-1301-cong-dan-nhap-ngu-885079.ldo) ([Lao Động](https://laodong.vn))
-- [Đề nghị truy tố nam tiếp viên hàng không làm lây lan dịch bệnh](https://laodong.vn/phap-luat/de-nghi-truy-to-nam-tiep-vien-hang-khong-lam-lay-lan-dich-benh-885032.ldo) ([Lao Động](https://laodong.vn))
 - [Nhiều câu hỏi về giải pháp chắp vá chống nghẽn lệnh trên HoSE](https://laodong.vn/kinh-te/nhieu-cau-hoi-ve-giai-phap-chap-va-chong-nghen-lenh-tren-hose-885070.ldo) ([Lao Động](https://laodong.vn))
+- [Giới thiệu Ủy viên Bộ Chính trị Trần Thanh Mẫn, Ủy viên Trung Hầu A Lềnh ứng cử ĐBQH](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/gioi-thieu-uy-vien-bo-chinh-tri-tran-thanh-man-uy-vien-trung-hau-a-lenh-ung-cu-dbqh-716687.html) ([VietNamNet](https://vietnamnet.vn))
+- [Cần Thơ thông tin vụ Giám đốc Sở Y tế bị Bộ Công an khởi tố](http://vietnamnet.vn/vn/thoi-su/can-tho-thong-tin-vu-giam-doc-so-y-te-bi-bo-cong-an-khoi-to-716688.html) ([VietNamNet](https://vietnamnet.vn))
 - [Người dân Hải Dương sẽ được làm gì sau khi kết thúc cách ly xã hội?](https://laodong.vn/video/nguoi-dan-hai-duong-se-duoc-lam-gi-sau-khi-ket-thuc-cach-ly-xa-hoi-885076.ldo) ([Lao Động](https://laodong.vn))
-- [Diễn biến ngoạn mục trên thị trường vàng thế giới](https://laodong.vn/kinh-te/dien-bien-ngoan-muc-tren-thi-truong-vang-the-gioi-885071.ldo) ([Lao Động](https://laodong.vn))
-- [Pi Network vì sao dễ cuốn người dùng vào vòng xoáy “đào” tiền ảo?](https://laodong.vn/kinh-te/pi-network-vi-sao-de-cuon-nguoi-dung-vao-vong-xoay-dao-tien-ao-885053.ldo) ([Lao Động](https://laodong.vn))
-- [Gợi ý những set đồ giúp hách chiều cao từ Ellen Trang Store](https://cafebiz.vn/goi-y-nhung-set-do-giup-hach-chieu-cao-tu-ellen-trang-store-20210302134559561.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đầm bầu Medyla Phạm Ngọc Thạch – Cho bà bầu thoải mái và tự tin](https://cafebiz.vn/dam-bau-medyla-pham-ngoc-thach-cho-ba-bau-thoai-mai-va-tu-tin-20210302134520573.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mở cửa lại sân bay Vân Đồn từ 6h01 ngày 3-3](https://tuoitre.vn/mo-cua-lai-san-bay-van-don-tu-6h01-ngay-3-3-20210302170243411.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Không Quan Tâm: "Anh hùng" cũng cần được yên!](https://vietcetera.com/vn/khong-quan-tam-chuyen-ca-nhan-nhung-quan-tam-hanh-dong-cuu-em-be)
 - [Meme học: Khi tranh cổ điển cũng... không thoát](https://vietcetera.com/vn/meme-hoc-tranh-co-dien)
 - [Chữ Với Nghĩa: Bản dạng](https://vietcetera.com/vn/chu-voi-nghia-ban-dang)
 - [8 Bài học về đào tạo và quản lý tài năng từ Aiden Nguyễn](https://vietcetera.com/vn/8-bai-hoc-ve-dao-tao-va-quan-ly-tai-nang-tu-aiden-nguyen)
@@ -105,7 +106,6 @@
 - ["Chỉ yêu người “không quê không quán, không cha không mẹ, không tên không tuổi”"](https://vietcetera.com/vn/chi-yeu-nguoi-khong-que-khong-quan-khong-cha-khong-me-khong-ten-khong-tuoi)
 - [Tóm Lại Là: Tại sao chiến dịch Free Britney trở lại?](https://vietcetera.com/vn/tom-lai-la-tai-sao-chien-dich-free-britney-tro-lai)
 - [Thử Rồi Thích: Làm bụng nhỏ đi mà không cần giảm mỡ](https://vietcetera.com/vn/thu-roi-thich-lam-bung-nho-di-ma-khong-can-giam-mo)
-- [5 Quán cà phê để bạn "deep work"](https://vietcetera.com/vn/5-quan-ca-phe-lam-viec)
 
 [Read More](https://vietcetera.com/)
 
