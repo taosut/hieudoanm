@@ -21,7 +21,7 @@
 
 - Current weather is overcast clouds.
 - Temperature is 20°C.
-- Feels Like 19.18°C.
+- Feels Like 19.23°C.
 - Air Visual is 92.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nhập khẩu cá tầm Trung Quốc tăng vọt sau loạt chỉ đạo siết chặt](https://laodong.vn/kinh-te/nhap-khau-ca-tam-trung-quoc-tang-vot-sau-loat-chi-dao-siet-chat-885028.ldo) ([Lao Động](https://laodong.vn))
+- [Bác sỹ tốt nhất trên thế gian là chính mình: Người có trình độ biết cách "hướng nội”, "bắt bệnh" tài tình!](https://cafebiz.vn/bac-sy-tot-nhat-tren-the-gian-la-chinh-minh-nguoi-co-trinh-do-biet-cach-huong-noi-bat-benh-tai-tinh-2021030117172458.chn) ([CafeBiz](https://cafebiz.vn))
+- [King Coffee – Thương hiệu cà phê Việt khẳng định vị thế trên toàn cầu](https://cafebiz.vn/king-coffee-thuong-hieu-ca-phe-viet-khang-dinh-vi-the-tren-toan-cau-20210302161140148.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo dục 24/7: Buổi học đặc biệt của học sinh trường tiểu học Xuân Phương](https://laodong.vn/video/giao-duc-247-buoi-hoc-dac-biet-cua-hoc-sinh-truong-tieu-hoc-xuan-phuong-885103.ldo) ([Lao Động](https://laodong.vn))
+- [Lô vắc xin COVID-19 đầu tiên về Việt Nam sẽ tiêm cho ai, nơi nào?](https://tuoitre.vn/lo-vac-xin-covid-19-dau-tien-ve-viet-nam-se-tiem-cho-ai-noi-nao-20210302185316538.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [An Giang đã ra tay với karaoke lưu động: Cấm toàn tỉnh](https://tuoitre.vn/an-giang-da-ra-tay-voi-karaoke-luu-dong-cam-toan-tinh-20210302174629553.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chính thức quyết định tạm đình chỉ công tác Giám đốc Sở Y tế Cần Thơ](https://laodong.vn/xa-hoi/chinh-thuc-quyet-dinh-tam-dinh-chi-cong-tac-giam-doc-so-y-te-can-tho-885156.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ Công an thông tin về khen thưởng cán bộ điều tra vụ án Trịnh Xuân Thanh](https://laodong.vn/thoi-su/bo-cong-an-thong-tin-ve-khen-thuong-can-bo-dieu-tra-vu-an-trinh-xuan-thanh-885134.ldo) ([Lao Động](https://laodong.vn))
+- [Tỉnh Hải Dương sẽ được ưu tiên tiêm vaccine phòng COVID-19 trước](https://laodong.vn/xa-hoi/tinh-hai-duong-se-duoc-uu-tien-tiem-vaccine-phong-covid-19-truoc-885142.ldo) ([Lao Động](https://laodong.vn))
 - [Rúng động vụ án tham nhũng lớn nhất Nội Mông (TQ): Quan tham cho chơi oẳn tù tì phân chia cấp bậc](https://cafebiz.vn/rung-dong-vu-an-tham-nhung-lon-nhat-noi-mong-tq-quan-tham-cho-choi-oan-tu-ti-phan-chia-cap-bac-20210302182756393.chn) ([CafeBiz](https://cafebiz.vn))
-- [Địa phương đang có dịch được ưu tiên tiêm vaccine Covid-19](https://vnexpress.net/dia-phuong-dang-co-dich-duoc-uu-tien-tiem-vaccine-covid-19-4242524.html) ([VNExpress](https://vnexpress.net))
-- [Vì sao ông Park Hang-seo gắn bó lâu dài với Việt Nam?](https://laodong.vn/bong-da/vi-sao-ong-park-hang-seo-gan-bo-lau-dai-voi-viet-nam-885078.ldo) ([Lao Động](https://laodong.vn))
-- [Ngân hàng ở Hà Tiên bị cướp](https://vnexpress.net/ngan-hang-o-ha-tien-bi-cuop-4242559.html) ([VNExpress](https://vnexpress.net))
-- [Lãnh đạo các bộ: Hoạt động của sàn Forex là không đúng quy định pháp luật](https://tuoitre.vn/lanh-dao-cac-bo-hoat-dong-cua-san-forex-la-khong-dung-quy-dinh-phap-luat-20210302183843371.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tâm điểm cổ phiếu 2.3: THD quay đầu giảm sâu, BSR giữ vững phong độ](https://laodong.vn/kinh-te/tam-diem-co-phieu-23-thd-quay-dau-giam-sau-bsr-giu-vung-phong-do-885135.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyên gia nhận định Hải Dương có thể hoàn toàn kiểm soát dịch khoảng 2 đến 3 tuần nữa](https://cafebiz.vn/chuyen-gia-nhan-dinh-hai-duong-co-the-hoan-toan-kiem-soat-dich-khoang-2-den-3-tuan-nua-2021030218191268.chn) ([CafeBiz](https://cafebiz.vn))
-- [HDBank hỗ trợ tỉnh Hải Dương 1,5 tỉ đồng phòng chống dịch COVID- 19](https://laodong.vn/tien-te-dau-tu/hdbank-ho-tro-tinh-hai-duong-15-ti-dong-phong-chong-dich-covid-19-884863.ldo) ([Lao Động](https://laodong.vn))
-- [Yên Bái tạm dừng hoạt động các chốt kiểm dịch COVID-19](https://laodong.vn/xa-hoi/yen-bai-tam-dung-hoat-dong-cac-chot-kiem-dich-covid-19-885133.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ án Trịnh Xuân Thanh là đại án, khen thưởng là bình thường](https://tuoitre.vn/vu-an-trinh-xuan-thanh-la-dai-an-khen-thuong-la-binh-thuong-20210302182111805.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
