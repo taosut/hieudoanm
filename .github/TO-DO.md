@@ -1,7 +1,5 @@
 # TO-DO
 
-**
-
 <table><tbody><tr><td valign="top" width="33%">
 
 **FULL-STACK WEB**
