@@ -21,6 +21,7 @@
 - Message Brokers
   - [`(Apache) Kafka`](https://kafka.apache.org/)
 - [`(Facebook) GraphQL`](https://graphql.org/)
+  - [`Apollo`](https://www.apollographql.com/)
 
 </td><td valign="top" width="33%">
 
@@ -33,8 +34,10 @@
   - [_C_](https://www.cprogramming.com/)
 - OS
   - [`Ubuntu`](https://ubuntu.com/)
+  - [_Debian_](https://www.debian.org/)
 - Server
   - [`nginx`](https://nginx.org/en/)
+  - [_Apache_](https://www.apache.org/)
 - Container
   - [`Docker`](https://www.docker.com/)
   - [`Kubernetes`](https://kubernetes.io/)
@@ -42,6 +45,7 @@
   - [`Terraform`](https://www.terraform.io/)
 - CI/CD
   - [`Jenkins`](https://www.jenkins.io/)
+  - [`Concourse`](https://concourse-ci.org/)
   - [_GitHub Actions_](https://github.com/features/actions)
 - Cloud
   - [`Amazon Web Services`](https://aws.amazon.com/)
@@ -60,15 +64,15 @@
 
 **LANGUAGES**
 
-- `Korean`
+- [`Korean`](https://www.howtostudykorean.com/)
 
 </td></tr></tbody></table>
 
 ## TODO
 
-- [ ] AWS Certifications
-  - [ ] AWS Certified Developer - Associate
-  - [ ] AWS Certified DevOps Engineer - Professional
+- [ ] [AWS Certifications](https://aws.amazon.com/certification/)
+  - [ ] [Associate - Developer](https://aws.amazon.com/certification/certified-developer-associate/)
+  - [ ] [Professional - DevOps Engineer](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
 - [ ] Korean
   - [ ] B1
   - [ ] B2
