@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 20°C.
 - Feels Like 19.23°C.
-- Air Visual is 107.
+- Air Visual is 94.
 
 **WEATHER**
 
@@ -56,15 +56,15 @@
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Gareth Bale](https://img.shields.io/static/v1?label=Gareth%20Bale&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gareth%20Bale)
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
-- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
+- [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
 - [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
+- [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
 - [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
 - [![Uni5](https://img.shields.io/static/v1?label=Uni5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Uni5)
-- [![Vo hoang yen](https://img.shields.io/static/v1?label=Vo%20hoang%20yen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vo%20hoang%20yen)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 - [![Võ Hoàng Yến](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Softbank chi 1,6 tỷ USD giải quyết tranh chấp pháp lý với WeWork](https://cafebiz.vn/softbank-chi-16-ty-usd-giai-quyet-tranh-chap-phap-ly-voi-wework-20210302182148004.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cuộc sống và nhan sắc của mỹ nhân Philippines là &quot;Hoa hậu của các hoa hậu&quot;](https://laodong.vn/photo/cuoc-song-va-nhan-sac-cua-my-nhan-philippines-la-hoa-hau-cua-cac-hoa-hau-884960.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất 24h: Thời điểm không khí lạnh đổ bộ Bắc Bộ trong tháng 3](https://laodong.vn/video/nong-nhat-24h-thoi-diem-khong-khi-lanh-do-bo-bac-bo-trong-thang-3-885098.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 3.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-33-885112.ldo) ([Lao Động](https://laodong.vn))
+- [Tổng thống Joe Biden cố gắng thiết lập lại mối quan hệ với Mexico](https://laodong.vn/photo/tong-thong-joe-biden-co-gang-thiet-lap-lai-moi-quan-he-voi-mexico-884905.ldo) ([Lao Động](https://laodong.vn))
+- ['Phó giám đốc Sở 31 tuổi không phải trường hợp cá biệt'](https://vnexpress.net/pho-giam-doc-so-31-tuoi-khong-phai-truong-hop-ca-biet-4242555.html) ([VNExpress](https://vnexpress.net))
+- [Hai đối tượng bịt mặt, nghi dùng súng cướp ngân hàng](https://cafebiz.vn/hai-doi-tuong-bit-mat-nghi-dung-sung-cuop-ngan-hang-20210302195436638.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bí thư Thành ủy Vương Đình Huệ kiểm tra công trình phục vụ SEA Games 31](https://laodong.vn/the-thao/bi-thu-thanh-uy-vuong-dinh-hue-kiem-tra-cong-trinh-phuc-vu-sea-games-31-885143.ldo) ([Lao Động](https://laodong.vn))
 - [Lương y Võ Hoàng Yên - người bị vợ chồng ông Dũng &quot;lò vôi&quot; tố cáo là ai?](https://laodong.vn/video/luong-y-vo-hoang-yen-nguoi-bi-vo-chong-ong-dung-lo-voi-to-cao-la-ai-884993.ldo) ([Lao Động](https://laodong.vn))
-- [Phó giám đốc Sở 31 tuổi: Không phải là cá biệt ở Vĩnh Phúc](https://tuoitre.vn/pho-giam-doc-so-31-tuoi-khong-phai-la-ca-biet-o-vinh-phuc-20210302191351875.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Ngân hàng Nhà nước cảnh báo rủi ro khi nhà đầu tư tham gia vào sàn Forex](https://laodong.vn/phap-luat/ngan-hang-nha-nuoc-canh-bao-rui-ro-khi-nha-dau-tu-tham-gia-vao-san-forex-885138.ldo) ([Lao Động](https://laodong.vn))
-- [Trung Quốc cảnh báo về 2 quả bong bóng sắp vỡ tung, chứng khoán châu Á đồng loạt giao dịch trong sắc đỏ](https://cafebiz.vn/trung-quoc-canh-bao-ve-2-qua-bong-bong-sap-vo-tung-chung-khoan-chau-a-dong-loat-giao-dich-trong-sac-do-20210302182939691.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xây dựng phương án nhân sự cho các vị trí lãnh đạo không tái cử Ủy viên Trung ương](https://tuoitre.vn/xay-dung-phuong-an-nhan-su-cho-cac-vi-tri-lanh-dao-khong-tai-cu-uy-vien-trung-uong-20210302192936739.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sẽ kiện toàn các chức danh lãnh đạo nhà nước ở kỳ họp Quốc hội cuối tháng 3](https://laodong.vn/thoi-su/se-kien-toan-cac-chuc-danh-lanh-dao-nha-nuoc-o-ky-hop-quoc-hoi-cuoi-thang-3-885159.ldo) ([Lao Động](https://laodong.vn))
-- [Nhập khẩu cá tầm Trung Quốc tăng vọt sau loạt chỉ đạo siết chặt](https://laodong.vn/kinh-te/nhap-khau-ca-tam-trung-quoc-tang-vot-sau-loat-chi-dao-siet-chat-885028.ldo) ([Lao Động](https://laodong.vn))
-- [Bác sỹ tốt nhất trên thế gian là chính mình: Người có trình độ biết cách "hướng nội”, "bắt bệnh" tài tình!](https://cafebiz.vn/bac-sy-tot-nhat-tren-the-gian-la-chinh-minh-nguoi-co-trinh-do-biet-cach-huong-noi-bat-benh-tai-tinh-2021030117172458.chn) ([CafeBiz](https://cafebiz.vn))
-- [King Coffee – Thương hiệu cà phê Việt khẳng định vị thế trên toàn cầu](https://cafebiz.vn/king-coffee-thuong-hieu-ca-phe-viet-khang-dinh-vi-the-tren-toan-cau-20210302161140148.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phó giám đốc sở 31 tuổi: Không phải là cá biệt ở Vĩnh Phúc](https://tuoitre.vn/pho-giam-doc-so-31-tuoi-khong-phai-la-ca-biet-o-vinh-phuc-20210302191351875.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
