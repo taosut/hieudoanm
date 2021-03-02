@@ -21,8 +21,8 @@
 
 - Current weather is overcast clouds.
 - Temperature is 21°C.
-- Feels Like 18.85°C.
-- Air Visual is 77.
+- Feels Like 19.09°C.
+- Air Visual is 75.
 
 **WEATHER**
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Không thể 'đốt tiền' thêm nữa, Shopee quyết định tăng tỷ lệ hoa hồng thu từ người bán, cắt giảm mã 'freeship'](https://cafebiz.vn/khong-the-dot-tien-them-nua-shopee-quyet-dinh-tang-ty-le-hoa-hong-thu-tu-nguoi-ban-cat-giam-ma-freeship-20210302144340381.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xử lý “nghịch tử” đốt xe của mẹ rồi đánh người](https://laodong.vn/phap-luat/xu-ly-nghich-tu-dot-xe-cua-me-roi-danh-nguoi-884984.ldo) ([Lao Động](https://laodong.vn))
 - [Sắp bỏ yêu cầu chứng chỉ tin học, ngoại ngữ với công chức](https://vnexpress.net/sap-bo-yeu-cau-chung-chi-tin-hoc-ngoai-ngu-voi-cong-chuc-4242325.html) ([VNExpress](https://vnexpress.net))
 - [Trí tuệ nhân tạo lần đầu viết một vở kịch dài 60 phút](https://laodong.vn/the-gioi/tri-tue-nhan-tao-lan-dau-viet-mot-vo-kich-dai-60-phut-884935.ldo) ([Lao Động](https://laodong.vn))
 - [Ham đào tiền ảo, quán lẩu tại Sài Gòn khuyến mãi cho khách cài Pi Network: Vô tư vi phạm luật?](https://cafebiz.vn/ham-dao-tien-ao-quan-lau-tai-sai-gon-khuyen-mai-cho-khach-cai-pi-network-vo-tu-vi-pham-luat-20210302131231819.chn) ([CafeBiz](https://cafebiz.vn))
@@ -83,8 +85,6 @@
 - [Tranh cãi về chính sách một con nhưng đây mới là những thách thức lớn nhất với Trung Quốc](https://cafebiz.vn/tranh-cai-ve-chinh-sach-mot-con-nhung-day-moi-la-nhung-thach-thuc-lon-nhat-voi-trung-quoc-20210302142220488.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lý giải việc Thuduc House bị cưỡng chế hơn 450 tỉ đồng](https://laodong.vn/kinh-te/ly-giai-viec-thuduc-house-bi-cuong-che-hon-450-ti-dong-884921.ldo) ([Lao Động](https://laodong.vn))
 - ['Bước đầu ngăn chặn được nguồn cung ma túy từ nước ngoài'](https://vnexpress.net/buoc-dau-ngan-chan-duoc-nguon-cung-ma-tuy-tu-nuoc-ngoai-4242307.html) ([VNExpress](https://vnexpress.net))
-- [Trường ĐH Hàn Quốc tặng iPhone, AirPods làm quà cho sinh viên năm nhất](https://cafebiz.vn/su-that-sau-chuyen-cac-truong-dai-hoc-han-quoc-phat-iphone-ai-khong-nhan-bi-ky-luat-20210302101636006.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bà Nguyễn Thị Việt Hà được giao phụ trách HĐQT HoSE thay ông Lê Hải Trà](https://cafebiz.vn/ba-nguyen-thi-viet-ha-duoc-giao-phu-trach-hdqt-hose-thay-ong-le-hai-tra-20210302141126019.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 

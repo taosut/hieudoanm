@@ -1,5 +1,7 @@
 # News
 
+- [Không thể 'đốt tiền' thêm nữa, Shopee quyết định tăng tỷ lệ hoa hồng thu từ người bán, cắt giảm mã 'freeship'](https://cafebiz.vn/khong-the-dot-tien-them-nua-shopee-quyet-dinh-tang-ty-le-hoa-hong-thu-tu-nguoi-ban-cat-giam-ma-freeship-20210302144340381.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xử lý “nghịch tử” đốt xe của mẹ rồi đánh người](https://laodong.vn/phap-luat/xu-ly-nghich-tu-dot-xe-cua-me-roi-danh-nguoi-884984.ldo) ([Lao Động](https://laodong.vn))
 - [Sắp bỏ yêu cầu chứng chỉ tin học, ngoại ngữ với công chức](https://vnexpress.net/sap-bo-yeu-cau-chung-chi-tin-hoc-ngoai-ngu-voi-cong-chuc-4242325.html) ([VNExpress](https://vnexpress.net))
 - [Trí tuệ nhân tạo lần đầu viết một vở kịch dài 60 phút](https://laodong.vn/the-gioi/tri-tue-nhan-tao-lan-dau-viet-mot-vo-kich-dai-60-phut-884935.ldo) ([Lao Động](https://laodong.vn))
 - [Ham đào tiền ảo, quán lẩu tại Sài Gòn khuyến mãi cho khách cài Pi Network: Vô tư vi phạm luật?](https://cafebiz.vn/ham-dao-tien-ao-quan-lau-tai-sai-gon-khuyen-mai-cho-khach-cai-pi-network-vo-tu-vi-pham-luat-20210302131231819.chn) ([CafeBiz](https://cafebiz.vn))
@@ -96,7 +98,5 @@
 - [Thủ tướng yêu cầu tiêm vắc xin cho người dân từ tuần này](http://vietnamnet.vn/vn/thoi-su/thu-tuong-yeu-cau-tiem-vac-xin-cho-nguoi-dan-tu-tuan-nay-716463.html) ([VietNamNet](https://vietnamnet.vn))
 - [VinFast nhận chuyển nhượng cổ phiếu Vingroup và Vinhomes trị giá hơn 12.000 tỷ đồng](https://cafebiz.vn/vinfast-nhan-chuyen-nhuong-co-phieu-vingroup-va-vinhomes-tri-gia-hon-12000-ty-dong-20210302090021452.chn) ([CafeBiz](https://cafebiz.vn))
 - [Một clip góc khác cho thấy Nguyễn Ngọc Mạnh đã vất vả và nỗ lực đến thế nào khi cố gắng cứu em bé](https://cafebiz.vn/mot-clip-goc-khac-cho-thay-nguyen-ngoc-manh-da-vat-va-va-no-luc-den-the-nao-khi-co-gang-cuu-em-be-20210302085851302.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sự tích tên gọi 'gà Mạnh Hoạch': Từ ông chủ quán trà đá đến chuỗi nhà hàng thương hiệu quốc dân hơn 20 năm tuổi tại Hải Dương](https://cafebiz.vn/su-tich-ten-goi-ga-manh-hoach-tu-ong-chu-quan-tra-da-den-chuoi-nha-hang-thuong-hieu-quoc-dan-hon-20-nam-tuoi-tai-hai-duong-2021030116363225.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chính quyền đô thị lo cho dân, không được lạm quyền](https://tuoitre.vn/chinh-quyen-do-thi-lo-cho-dan-khong-duoc-lam-quyen-20210302081258428.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tổng cục đường bộ yêu cầu Quảng Ninh cho xe lưu thông trên QL18](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/tong-cuc-duong-bo-yeu-cau-quang-ninh-cho-xe-luu-thong-tren-ql18-716454.html) ([VietNamNet](https://vietnamnet.vn))
-- [Hà Nội: 7 cây sưa đỏ quý hiếm trên đường Nguyễn Văn Huyên đã chết](http://vietnamnet.vn/vn/thoi-su/ha-noi-7-cay-sua-do-quy-hiem-tren-duong-nguyen-van-huyen-da-chet-716464.html) ([VietNamNet](https://vietnamnet.vn))
