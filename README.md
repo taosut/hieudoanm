@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Sau sự cố bé gái rơi từ tầng 12 chung cư: Nhiều người lo lắp lưới an toàn](https://laodong.vn/ban-doc/sau-su-co-be-gai-roi-tu-tang-12-chung-cu-nhieu-nguoi-lo-lap-luoi-an-toan-885065.ldo) ([Lao Động](https://laodong.vn))
-- [Alibaba bị điều tra, Jack Ma mất ngôi tỉ phú giàu nhất Trung Quốc](https://laodong.vn/the-gioi/alibaba-bi-dieu-tra-jack-ma-mat-ngoi-ti-phu-giau-nhat-trung-quoc-885100.ldo) ([Lao Động](https://laodong.vn))
-- [Chính phủ đạt và vượt 10/12 chỉ tiêu chủ yếu của năm 2020](https://laodong.vn/thoi-su/chinh-phu-dat-va-vuot-1012-chi-tieu-chu-yeu-cua-nam-2020-885075.ldo) ([Lao Động](https://laodong.vn))
+- [Mẹo khắc phục nhà bị nồm ẩm cực đơn giản, hiệu quả](https://laodong.vn/bat-dong-san/meo-khac-phuc-nha-bi-nom-am-cuc-don-gian-hieu-qua-884973.ldo) ([Lao Động](https://laodong.vn))
+- [Mở cửa trở lại sân bay Vân Đồn](https://laodong.vn/giao-thong/mo-cua-tro-lai-san-bay-van-don-885105.ldo) ([Lao Động](https://laodong.vn))
+- [Đắk Lắk: Một đơn vị tuyển lao động đi làm việc ở Hàn Quốc sai quy định](https://laodong.vn/phap-luat/dak-lak-mot-don-vi-tuyen-lao-dong-di-lam-viec-o-han-quoc-sai-quy-dinh-885067.ldo) ([Lao Động](https://laodong.vn))
+- [Tin vui: 12h trôi qua không có ca mắc COVID-19, Việt Nam chữa khỏi 1.898 bệnh nhân](https://cafebiz.vn/tin-vui-12h-troi-qua-khong-co-ca-mac-covid-19-viet-nam-chua-khoi-1898-benh-nhan-20210302181315005.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ibrahimovic lại chấn thương, bỏ lỡ cơ hội tái ngộ với Man United](https://laodong.vn/bong-da-quoc-te/ibrahimovic-lai-chan-thuong-bo-lo-co-hoi-tai-ngo-voi-man-united-885091.ldo) ([Lao Động](https://laodong.vn))
+- [Lắp lưới chắn an toàn tại chung cư: Nơi làm chặt, chỗ lỏng lẻo](https://laodong.vn/photo/lap-luoi-chan-an-toan-tai-chung-cu-noi-lam-chat-cho-long-leo-885060.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều 2-3, lần đầu tiên 1 tháng qua, bản tin chiều không có ca COVID-19 mới](https://tuoitre.vn/chieu-2-3-lan-dau-tien-1-thang-qua-ban-tin-chieu-khong-co-ca-covid-19-moi-2021030218182437.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chủ tịch huyện bị cảnh cáo vì sai phạm đất đai](https://vnexpress.net/chu-tich-huyen-bi-canh-cao-vi-sai-pham-dat-dai-4242549.html) ([VNExpress](https://vnexpress.net))
-- [Muốn giữ hạng, giáo viên cần bổ sung chứng chỉ bồi dưỡng chức danh nghề nghiệp](https://laodong.vn/giao-duc/muon-giu-hang-giao-vien-can-bo-sung-chung-chi-boi-duong-chuc-danh-nghe-nghiep-884549.ldo) ([Lao Động](https://laodong.vn))
-- [Hướng dẫn cách làm kim chi cải thảo thơm ngon, chuẩn vị Hàn Quốc](https://laodong.vn/chuyen-nha-minh/huong-dan-cach-lam-kim-chi-cai-thao-thom-ngon-chuan-vi-han-quoc-885041.ldo) ([Lao Động](https://laodong.vn))
 - [Mỗi năm cần gần 13 tỉ USD cho ngành điện: Tiền đâu để đầu tư?](https://laodong.vn/kinh-te/moi-nam-can-gan-13-ti-usd-cho-nganh-dien-tien-dau-de-dau-tu-885085.ldo) ([Lao Động](https://laodong.vn))
 - [TP Chí Linh nôn nao trước thời điểm gỡ bỏ phong tỏa](https://tuoitre.vn/tp-chi-linh-non-nao-truoc-thoi-diem-go-bo-phong-toa-20210302165150846.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nhập cảnh trái phép vào Việt Nam, một người Lào bị đưa đi cách ly](http://vietnamnet.vn/vn/thoi-su/nhap-canh-trai-phep-vao-viet-nam-mot-nguoi-lao-bi-dua-di-cach-ly-716697.html) ([VietNamNet](https://vietnamnet.vn))
-- [Hải Dương tuyên bố kết thúc cách ly, gỡ phong toả Chí Linh và Cẩm Giàng](http://vietnamnet.vn/vn/thoi-su/hai-duong-tuyen-bo-ket-thuc-cach-ly-go-phong-toa-chi-linh-va-cam-giang-716693.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
