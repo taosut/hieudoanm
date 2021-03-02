@@ -5,20 +5,20 @@
 **FULL-STACK WEB**
 
 - Front-end
-  - [x] `(Facebook) React`
-  - [x] _(Google) Angular (optional)_
+  - [x] [`(Facebook) React`](https://reactjs.com/)
+  - [x] [_(Google) Angular_](https://angular.io/)
 - Back-end
-  - [x] `Node.js`
+  - [x] [`Node.js`](https://nodejs.org/en/)
 - Databases
-  - [x] `MongoDB`
-  - [x] _PostgreSQL (optional)_
+  - [x] [`MongoDB`](https://www.mongodb.com/)
+  - [x] [_PostgreSQL_](https://www.postgresql.org/)
 - Cache
-  - [x] `Redis`
+  - [x] [`Redis`](https://redis.io/)
 - Search Engines
-  - [x] `ElasticSearch`
+  - [x] [`ElasticSearch`](https://www.elastic.co/elasticsearch/)
 - Message Brokers
-  - [ ] `(Apache) Kafka`
-- [ ] `(Facebook) GraphQL`
+  - [ ] [`(Apache) Kafka`](https://kafka.apache.org/)
+- [ ] [`(Facebook) GraphQL`](https://graphql.org/)
 
 </td><td valign="top" width="33%">
 
@@ -27,23 +27,23 @@
 - Termimal
   - [x] `Shell Script`
 - Language
-  - [ ] `(Google) Golang`
-  - [ ] _C (optional)_
+  - [ ] [`(Google) Golang`](https://golang.org/)
+  - [ ] [_C_](https://www.cprogramming.com/)
 - OS
-  - [x] `Ubuntu`
+  - [x] [`Ubuntu`](https://ubuntu.com/)
 - Server
-  - [x] `nginx`
+  - [x] [`nginx`](https://nginx.org/en/)
 - Container
-  - [x] `Docker`
-  - [ ] `Kubernetes`
+  - [x] [`Docker`](https://www.docker.com/)
+  - [ ] [`Kubernetes`](https://kubernetes.io/)
 - IaC
-  - [ ] `Terraform`
+  - [ ] [`Terraform`](https://www.terraform.io/)
 - CI/CD
-  - [ ] `Jenkins`
-  - [x] _GitHub Actions (optional)_
+  - [ ] [`Jenkins`](https://www.jenkins.io/)
+  - [x] [_GitHub Actions_](https://github.com/features/actions)
 - Cloud
-  - [ ] `Amazon Web Services`
-  - [x] _Heroku (optional)_
+  - [ ] [`Amazon Web Services`](https://aws.amazon.com/)
+  - [x] [_Heroku_](https://www.heroku.com/)
 
 </td><td valign="top" width="33%">
 
@@ -52,15 +52,15 @@
 **DATA SCIENCE**
 
 - Languages
-  - [ ] `Python`
-- Mathematics
+  - [ ] [`Python`](https://www.python.org/)
+- [Mathematics](https://www.coursera.org/specializations/mathematics-for-data-science)
   - [ ] `Calculus`
   - [ ] `Linear algebra`
   - [ ] `Probability and statistics`
   
 **MOBILE**
 
-- [ ] `React Native`
+- [ ] [`React Native`](https://reactnative.dev/)
 
 **LANGUAGES**
 
