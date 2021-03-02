@@ -21,8 +21,8 @@
 
 - Current weather is clear sky.
 - Temperature is 21°C.
-- Feels Like 17.77°C.
-- Air Visual is 65.
+- Feels Like 18.49°C.
+- Air Visual is 66.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tặng bằng khen thanh niên lao xuống biển cứu sống 3 học sinh](https://laodong.vn/xa-hoi/tang-bang-khen-thanh-nien-lao-xuong-bien-cuu-song-3-hoc-sinh-884892.ldo) ([Lao Động](https://laodong.vn))
-- [Nỗ lực thừa thãi nhất của một người: Cố gắng hiểu những người không cùng đẳng cấp!](https://cafebiz.vn/no-luc-thua-thai-nhat-cua-mot-nguoi-co-gang-hieu-nhung-nguoi-khong-cung-dang-cap-20210301103854331.chn) ([CafeBiz](https://cafebiz.vn))
-- [Các địa phương cần có kế hoạch tổ chức thăng hạng định kỳ cho giáo viên](https://laodong.vn/ban-doc/cac-dia-phuong-can-co-ke-hoach-to-chuc-thang-hang-dinh-ky-cho-giao-vien-884867.ldo) ([Lao Động](https://laodong.vn))
-- [Techcombank lọt Top 270 thương hiệu giá trị nhất toàn cầu](https://laodong.vn/kinh-te/techcombank-lot-top-270-thuong-hieu-gia-tri-nhat-toan-cau-884871.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng Nguyễn Xuân Phúc nhấn mạnh tinh thần &quot;vaccine + 5K&quot;](https://laodong.vn/thoi-su/thu-tuong-nguyen-xuan-phuc-nhan-manh-tinh-than-vaccine--5k-884881.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ Công Thương đang xây dựng, lựa chọn nhà đầu tư dự án điện mặt trời](https://laodong.vn/kinh-te/bo-cong-thuong-dang-xay-dung-lua-chon-nha-dau-tu-du-an-dien-mat-troi-884887.ldo) ([Lao Động](https://laodong.vn))
-- [Ảnh ấn tượng: Tàu thăm dò NASA đổ bộ Sao Hoả; Ấn Độ có 11 triệu ca COVID-19](https://laodong.vn/photo/anh-an-tuong-tau-tham-do-nasa-do-bo-sao-hoa-an-do-co-11-trieu-ca-covid-19-884813.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng: 'Bảo đảm chuyển giao tốt cho Chính phủ khóa mới'](https://vnexpress.net/thu-tuong-bao-dam-chuyen-giao-tot-cho-chinh-phu-khoa-moi-4242182.html) ([VNExpress](https://vnexpress.net))
-- [Tổng điều tra kinh tế năm 2021, sẽ tính toán lại quy mô GDP](https://tuoitre.vn/tong-dieu-tra-kinh-te-nam-2021-se-tinh-toan-lai-quy-mo-gdp-20210302101213539.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thủ tướng: “Cố gắng tối đa để mọi người dân được tiêm vaccine ngừa Covid-19”](https://cafebiz.vn/thu-tuong-co-gang-toi-da-de-moi-nguoi-dan-duoc-tiem-vaccine-ngua-covid-19-20210302103805734.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vẫn hoạt động bất chấp hạn chế để chống dịch, cơ sở karaoke bị phạt](https://laodong.vn/ban-doc/van-hoat-dong-bat-chap-han-che-de-chong-dich-co-so-karaoke-bi-phat-884918.ldo) ([Lao Động](https://laodong.vn))
+- [iPhone màn hình gập có thể sẽ ra mắt vào năm 2023](https://cafebiz.vn/iphone-man-hinh-gap-co-the-se-ra-mat-vao-nam-2023-20210302105156293.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bí kíp thăng tiến then chốt của dân công sở: Luôn ghi nhớ 3 điều sau để làm mát mặt sếp!](https://cafebiz.vn/bi-kip-thang-tien-then-chot-cua-dan-cong-so-luon-ghi-nho-3-dieu-sau-de-lam-mat-mat-sep-20210302095706622.chn) ([CafeBiz](https://cafebiz.vn))
+- [[Góc lương cao] Chuyên gia Nhật dạy lái tàu Metro Số 1 được đề xuất mức lương tháng hơn nửa tỷ đồng](https://cafebiz.vn/goc-luong-cao-chuyen-gia-nhat-day-lai-tau-metro-so-1-duoc-de-xuat-muc-luong-thang-hon-nua-ty-dong-20210302110901583.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giám đốc sở bị khởi tố, Cần Thơ gấp rút tìm người điều hành Sở Y tế](https://laodong.vn/xa-hoi/giam-doc-so-bi-khoi-to-can-tho-gap-rut-tim-nguoi-dieu-hanh-so-y-te-884909.ldo) ([Lao Động](https://laodong.vn))
+- [TP HCM thu ngân sách 2.900 tỷ đồng mỗi ngày](https://vnexpress.net/tp-hcm-thu-ngan-sach-2-900-ty-dong-moi-ngay-4242216.html) ([VNExpress](https://vnexpress.net))
+- [Phán quyết lịch sử: Cựu Tổng thống Pháp Nicolas Sarkozy bị kết án tù](https://cafebiz.vn/phan-quyet-lich-su-cuu-tong-thong-phap-nicolas-sarkozy-bi-ket-an-tu-20210302112101845.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tướng yêu cầu tiêm vắc xin COVID-19 cho người dân ngay từ tuần này](https://tuoitre.vn/thu-tuong-yeu-cau-tiem-vac-xin-covid-19-cho-nguoi-dan-ngay-tu-tuan-nay-20210302111117853.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Vận đen không tưởng của Jack Ma: 20 năm xây dựng đến khi về hưu vì một lần vạ miệng khiến đế chế Alibaba lung lay](https://cafebiz.vn/van-den-khong-tuong-cua-jack-ma-20-nam-xay-dung-den-khi-ve-huu-vi-mot-lan-va-mieng-khien-de-che-alibaba-lung-lay-20210302111724819.chn) ([CafeBiz](https://cafebiz.vn))
+- [Học sinh trở lại trường, học sinh F0 trường Xuân Phương sẽ học thế nào?](https://laodong.vn/xa-hoi/hoc-sinh-tro-lai-truong-hoc-sinh-f0-truong-xuan-phuong-se-hoc-the-nao-884869.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
