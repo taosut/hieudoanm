@@ -1,0 +1,28 @@
+# DIRECTORIES
+
+- addons
+- b
+- cli (command line interface)
+- docs
+- examples
+- functions (serverless)
+- github
+- h
+- images
+- jobs
+- k
+- l
+- mobiles
+- n
+- o
+- packages
+- q
+- r
+- server
+- t
+- u
+- v
+- web (angular && react)
+- x
+- y
+- z
