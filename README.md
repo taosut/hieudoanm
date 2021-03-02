@@ -21,8 +21,8 @@
 
 - Current weather is overcast clouds.
 - Temperature is 20°C.
-- Feels Like 19.23°C.
-- Air Visual is 98.
+- Feels Like 19.95°C.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- ["Câu lạc bộ" người siêu giàu của Trung Quốc tăng mạnh](https://cafebiz.vn/cau-lac-bo-nguoi-sieu-giau-cua-trung-quoc-tang-manh-20210302182310102.chn) ([CafeBiz](https://cafebiz.vn))
+- [Loại thực phẩm nhiều người Việt thích tới phát "nghiện" lại "tàn phá" gan không kém gì rượu](https://cafebiz.vn/loai-thuc-pham-nhieu-nguoi-viet-thich-toi-phat-nghien-lai-tan-pha-gan-khong-kem-gi-ruou-20210302171457578.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Lê Hải Trà: “Tăng lô giao dịch lên 1.000 cổ phiếu có thể giúp nhà đầu tư nhỏ lẻ được bảo vệ tốt hơn”](https://cafebiz.vn/ong-le-hai-tra-tang-lo-giao-dich-len-1000-co-phieu-co-the-giup-nha-dau-tu-nho-le-duoc-bao-ve-tot-hon-20210302211736065.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng sẽ xây dựng mỗi phường một công viên](https://vnexpress.net/hai-phong-se-xay-dung-moi-phuong-mot-cong-vien-4242572.html) ([VNExpress](https://vnexpress.net))
+- [Iraq nhận lô vaccine COVID-19 đầu tiên do Trung Quốc tài trợ](https://laodong.vn/the-gioi/iraq-nhan-lo-vaccine-covid-19-dau-tien-do-trung-quoc-tai-tro-885178.ldo) ([Lao Động](https://laodong.vn))
+- [Mỹ tuyên bố chính sách thương mại cứng rắn với Trung Quốc](https://laodong.vn/the-gioi/my-tuyen-bo-chinh-sach-thuong-mai-cung-ran-voi-trung-quoc-885119.ldo) ([Lao Động](https://laodong.vn))
+- [Kiên Giang: 2 anh em ruột dùng súng cướp ngân hàng bất thành ở Hà Tiên](https://laodong.vn/phap-luat/kien-giang-2-anh-em-ruot-dung-sung-cuop-ngan-hang-bat-thanh-o-ha-tien-885165.ldo) ([Lao Động](https://laodong.vn))
+- [Những đối tượng được tính giảm trừ gia cảnh khi quyết toán thuế 2021](https://laodong.vn/kinh-te/nhung-doi-tuong-duoc-tinh-giam-tru-gia-canh-khi-quyet-toan-thue-2021-885174.ldo) ([Lao Động](https://laodong.vn))
+- [Học sinh lớp 12 ở 8 huyện, thành phố của Hải Dương đi học trở lại từ 8.3](https://laodong.vn/giao-duc/hoc-sinh-lop-12-o-8-huyen-thanh-pho-cua-hai-duong-di-hoc-tro-lai-tu-83-885181.ldo) ([Lao Động](https://laodong.vn))
 - [Người làm được 4 việc này rất ít khi mắc bệnh ung thư: Bạn đã làm được mấy việc?](https://cafebiz.vn/nguoi-lam-duoc-4-viec-nay-rat-it-khi-mac-benh-ung-thu-ban-da-lam-duoc-may-viec-20210302171219349.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Phải trả lại không gian cho khu đô thị của chúng tôi'](https://tuoitre.vn/phai-tra-lai-khong-gian-cho-khu-do-thi-cua-chung-toi-20210302200952795.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bitcoin trước bước ngoặt: Thành công cụ thanh toán hay chỉ là bong bóng đầu cơ?](https://cafebiz.vn/bitcoin-truoc-buoc-ngoat-thanh-cong-cu-thanh-toan-hay-chi-la-bong-bong-dau-co-20210302183401446.chn) ([CafeBiz](https://cafebiz.vn))
-- [Rà soát năng lực nhà thầu tại dự án đường băng Nội Bài, Tân Sơn Nhất](https://laodong.vn/giao-thong/ra-soat-nang-luc-nha-thau-tai-du-an-duong-bang-noi-bai-tan-son-nhat-885114.ldo) ([Lao Động](https://laodong.vn))
-- [Sân bay Vân Đồn mở cửa trở lại từ ngày 3/3](https://vnexpress.net/san-bay-van-don-mo-cua-tro-lai-tu-ngay-3-3-4242574.html) ([VNExpress](https://vnexpress.net))
-- ["Hộ chiếu vaccine": Cuộc tranh luận chưa có hồi kết](https://cafebiz.vn/ho-chieu-vaccine-cuoc-tranh-luan-chua-co-hoi-ket-20210302183548187.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phổi là "chiếc máy hút bụi" của cơ thể: BS mách bạn cách làm sạch mỗi ngày để không bị bệnh](https://cafebiz.vn/phoi-la-chiec-may-hut-bui-cua-co-the-bs-mach-ban-cach-lam-sach-moi-ngay-de-khong-bi-benh-20210302171013539.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chân dung "đại thiếu gia" nhà Bầu Hiển: Tự lập từ nhỏ, vừa qua tuổi 30 đã làm quản lý cấp cao của ngân hàng và Tập đoàn T&T, kiêm luôn chức chủ tịch công ty tài chính](https://cafebiz.vn/chan-dung-dai-thieu-gia-nha-bau-hien-tu-lap-tu-nho-vua-qua-tuoi-30-da-lam-quan-ly-cap-cao-cua-ngan-hang-va-tap-doan-tt-kiem-luon-chuc-chu-tich-cong-ty-tai-chinh-20210302203409832.chn) ([CafeBiz](https://cafebiz.vn))
-- [Môi giới đóng tiền để được suất mua nhà ở xã hội: Bộ Xây dựng nói gì?](https://laodong.vn/bat-dong-san/moi-gioi-dong-tien-de-duoc-suat-mua-nha-o-xa-hoi-bo-xay-dung-noi-gi-885173.ldo) ([Lao Động](https://laodong.vn))
-- [Đã có thể khai báo y tế trên ứng dụng Bluezone](https://tuoitre.vn/da-co-the-khai-bao-y-te-tren-ung-dung-bluezone-20210302194224385.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
