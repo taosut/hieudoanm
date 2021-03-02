@@ -12,15 +12,51 @@ argparse@^2.0.1:
   resolved "https://registry.yarnpkg.com/argparse/-/argparse-2.0.1.tgz#246f50f3ca78a3240f6c997e8a9bd1eac49e4b38"
   integrity sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q==
 
+axios@^0.19.2:
+  version "0.19.2"
+  resolved "https://registry.yarnpkg.com/axios/-/axios-0.19.2.tgz#3ea36c5d8818d0d5f8a8a97a6d36b86cdc00cb27"
+  integrity sha512-fjgm5MvRHLhx+osE2xoekY70AhARk3a6hkN+3Io1jc00jtquGvxYlKlsFUhmUET0V5te6CcZI7lcv2Ym61mjHA==
+  dependencies:
+    follow-redirects "1.5.10"
+
 commander@^6.1.0:
   version "6.2.1"
   resolved "https://registry.yarnpkg.com/commander/-/commander-6.2.1.tgz#0792eb682dfbc325999bb2b84fddddba110ac73c"
   integrity sha512-U7VdrJFnJgo4xjrHpTzu0yrHPGImdsmD95ZlgYSEajAn2JKzDhDTPG9kBTefmObL2w/ngeZnilk+OV9CG3d7UA==
 
+convert-hex@~0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/convert-hex/-/convert-hex-0.1.0.tgz#08c04568922c27776b8a2e81a95d393362ea0b65"
+  integrity sha1-CMBFaJIsJ3drii6BqV05M2LqC2U=
+
+convert-string@~0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/convert-string/-/convert-string-0.1.0.tgz#79ce41a9bb0d03bcf72cdc6a8f3c56fbbc64410a"
+  integrity sha1-ec5BqbsNA7z3LNxqjzxW+7xkQQo=
+
+crypto-js@^4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/crypto-js/-/crypto-js-4.0.0.tgz#2904ab2677a9d042856a2ea2ef80de92e4a36dcc"
+  integrity sha512-bzHZN8Pn+gS7DQA6n+iUmBfl0hO5DJq++QP3U6uTucDtk/0iGpXd/Gg7CGR0p8tJhofJyaKoWBuJI4eAO00BBg==
+
+debug@=3.1.0:
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/debug/-/debug-3.1.0.tgz#5bb5a0672628b64149566ba16819e61518c67261"
+  integrity sha512-OX8XqP7/1a9cqkxYw2yXss15f26NKWBpDXQd0/uK/KPqdQhxbPa994hnzjcE2VqQpDslf55723cKPUOGSmMY3g==
+  dependencies:
+    ms "2.0.0"
+
 dotenv@^8.2.0:
   version "8.2.0"
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
   integrity sha512-8sJ78ElpbDJBHNeBzUbUVLsqKdccaa/BXF1uPTw3GrvQTBgrQrtObr2mUrE38vzYd8cEv+m/JBfDLioYcfXoaw==
+
+follow-redirects@1.5.10:
+  version "1.5.10"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.5.10.tgz#7b7a9f9aea2fdff36786a94ff643ed07f4ff5e2a"
+  integrity sha512-0V5l4Cizzvqt5D44aTXbFZz+FtyXV1vrDN6qrelxtfYQKW0KO0W2T/hkE8xvGa/540LkZlkaUjO4ailYTFtHVQ==
+  dependencies:
+    debug "=3.1.0"
 
 giaohangnhanh@^1.0.2:
   version "1.0.2"
@@ -60,15 +96,52 @@ lodash@^4.17.21:
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
   integrity sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==
 
+moment@^2.27.0:
+  version "2.29.1"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.1.tgz#b2be769fa31940be9eeea6469c075e35006fa3d3"
+  integrity sha512-kHmoybcPV8Sqy59DwNDY3Jefr64lK/by/da0ViFcuA4DH0vQg5Q6Ze5VimxkfQNSC+Mls/Kx53s7TjP1RhFEDQ==
+
+ms@2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
+  integrity sha1-VgiurfwAvmwpAd9fmGF4jeDVl8g=
+
 node-fetch@^2.6.1:
   version "2.6.1"
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.6.1.tgz#045bd323631f76ed2e2b55573394416b639a0052"
   integrity sha512-V4aYg89jEoVRxRb2fJdAg8FHvI7cEyYdVAh94HH0UIK8oJxUfkjlDQN9RbMx+bEjP7+ggMiFRprSti032Oipxw==
 
+onepay@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/onepay/-/onepay-1.0.0.tgz#39bc18222d4cea4986c13e03564dcc48be8c1879"
+  integrity sha512-IfjXPP5NfNjMvAbpfOSGHI4bFZATH+K9JBzZe5FqvKbl8Ifohdqww87SReUImusvMWGgSxa8wbi4i/PAtMFR3g==
+  dependencies:
+    crypto-js "^4.0.0"
+    qs "^6.9.4"
+    uuid "^8.3.0"
+
+qs@^6.9.4:
+  version "6.9.6"
+  resolved "https://registry.yarnpkg.com/qs/-/qs-6.9.6.tgz#26ed3c8243a431b2924aca84cc90471f35d5a0ee"
+  integrity sha512-TIRk4aqYLNoJUbd+g2lEdz5kLWIuTMRagAXxl78Q0RiVjAOugHmeKNGdd3cwo/ktpf9aL9epCfFqWDEKysUlLQ==
+
+sha256@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/sha256/-/sha256-0.2.0.tgz#73a0b418daab7035bff86e8491e363412fc2ab05"
+  integrity sha1-c6C0GNqrcDW/+G6EkeNjQS/CqwU=
+  dependencies:
+    convert-hex "~0.1.0"
+    convert-string "~0.1.0"
+
 typescript@^4.1.5:
   version "4.1.5"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.1.5.tgz#123a3b214aaff3be32926f0d8f1f6e704eb89a72"
   integrity sha512-6OSu9PTIzmn9TCDiovULTnET6BgXtDYL4Gg4szY+cGsc3JP1dQL8qvE8kShTRx1NIw4Q9IBHlwODjkjWEtMUyA==
+
+uuid@^8.3.0:
+  version "8.3.2"
+  resolved "https://registry.yarnpkg.com/uuid/-/uuid-8.3.2.tgz#80d5b5ced271bb9af6c445f21a1a04c606cefbe2"
+  integrity sha512-+NYs2QeMWy+GWFOEm9xnn6HCDp0l7QBD7ml8zLUmJ+93Q5NF0NocErnwkTkXVFNiX3/fpC6afS8Dhb/gz7R7eg==
 
 vietcetera@^1.0.0:
   version "1.0.0"
@@ -76,3 +149,38 @@ vietcetera@^1.0.0:
   integrity sha512-Hvbqk1jK7pfPmP4GAozOfIGEt2m/mIQ09JGCT8w2j5zY5687xgJpb/DkrkvI934d9RXEZa0mnPMBUQzX75W+Pg==
   dependencies:
     node-fetch "^2.6.1"
+
+vnapis@^1.0.6:
+  version "1.0.6"
+  resolved "https://registry.yarnpkg.com/vnapis/-/vnapis-1.0.6.tgz#2b80c3289ed5ee4b93ae287e66296e66e96996c3"
+  integrity sha512-JfkOCZrr3B1++tKNCi1o04lv9vpieBXh1H9zsHTPEWVSxqk6sg+xhKUf6OdePzpOXygWE71WpG/DZQmxDf3oDw==
+  dependencies:
+    node-fetch "^2.6.1"
+
+vnpay@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/vnpay/-/vnpay-1.0.2.tgz#7125339655bb2c2df704a1833ce4215cfe4409de"
+  integrity sha512-1SIdu9F0LnPv2QQEZjLbEqxKjp6fuO4MDl3fHtIoJ7rgzAIVosxAbFZ6sWcEr3Hc5XZc1xj4lIsR/nYdGx7wiw==
+  dependencies:
+    qs "^6.9.4"
+    sha256 "^0.2.0"
+    uuid "^8.3.0"
+
+vtcpay@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/vtcpay/-/vtcpay-1.0.0.tgz#715ca4b7131ad6a267bf05a6e7d98c6da1d87912"
+  integrity sha512-s76gEN7OjO2asuiikSBsh74R7wDhqUA9i1Nw8a+BSAscrU9ct5XPI8aKFoGbdX9Ao5iuu6yzUTpyZkrFdRSQ2A==
+  dependencies:
+    crypto-js "^4.0.0"
+    qs "^6.9.4"
+    uuid "^8.3.0"
+
+zalopay@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/zalopay/-/zalopay-1.0.0.tgz#73b88473e1b455c08d5672e95da532762ffebd5a"
+  integrity sha512-7bBsrHAnXumKeGkuyK1ZQl63/stUWshH4X2Xb4YpyfM5TOnH3t/zKqCk5qd7S1zDhFfg7F+a3Ahe/UysCAkVEA==
+  dependencies:
+    axios "^0.19.2"
+    crypto-js "^4.0.0"
+    moment "^2.27.0"
+    uuid "^8.3.0"

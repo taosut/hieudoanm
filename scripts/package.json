@@ -22,7 +22,12 @@
     "json2csv": "^5.0.6",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.1",
-    "vietcetera": "^1.0.0"
+    "onepay": "^1.0.0",
+    "vietcetera": "^1.0.0",
+    "vnapis": "^1.0.6",
+    "vnpay": "^1.0.2",
+    "vtcpay": "^1.0.0",
+    "zalopay": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.28",
