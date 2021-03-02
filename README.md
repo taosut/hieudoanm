@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 19°C.
 - Feels Like 19.85°C.
-- Air Visual is 141.
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -57,7 +57,7 @@
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
-- [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
+- [![Máy hút ẩm](https://img.shields.io/static/v1?label=M%C3%A1y%20h%C3%BAt%20%E1%BA%A9m&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20h%C3%BAt%20%E1%BA%A9m)
 - [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Hải Dương dỡ cách ly xã hội](https://vnexpress.net/hai-duong-do-cach-ly-xa-hoi-4242585.html) ([VNExpress](https://vnexpress.net))
-- [Tâm dịch Chí Linh trước giờ &quot;G&quot; dỡ bỏ phong toả toàn thành phố](https://laodong.vn/photo/tam-dich-chi-linh-truoc-gio-g-do-bo-phong-toa-toan-thanh-pho-885190.ldo) ([Lao Động](https://laodong.vn))
-- [Kẻ dại mới phí thời gian, tiền bạc, nỗ lực vào 10 thứ: Đáng tiếc, rất nhiều người đều sa đà, "lọt hố" để rồi nửa đời sau sống trong nuối tiếc](https://cafebiz.vn/ke-dai-moi-phi-thoi-gian-tien-bac-no-luc-vao-10-thu-dang-tiec-rat-nhieu-nguoi-deu-sa-da-lot-ho-de-roi-nua-doi-sau-song-trong-nuoi-tiec-20210302221728062.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bác bảo vệ cứu nữ sinh lơ lửng lan can tầng 3 Trường Minh Đức](https://tuoitre.vn/bac-bao-ve-cuu-nu-sinh-lo-lung-lan-can-tang-3-truong-minh-duc-20210302221826899.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đà Nẵng đầu tư hệ thống xe điện 54.000 tỷ, đường hầm qua sân bay 8.200 tỷ](https://cafebiz.vn/da-nang-dau-tu-he-thong-xe-dien-54000-ty-duong-ham-qua-san-bay-8200-ty-20210302223115784.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kinh tế 24h: Cảnh giác với tiền ảo Pi; Xuất khẩu nông sản Việt bứt phá](https://laodong.vn/kinh-te/kinh-te-24h-canh-giac-voi-tien-ao-pi-xuat-khau-nong-san-viet-but-pha-885186.ldo) ([Lao Động](https://laodong.vn))
-- [Câu chuyện ngày “toàn quốc giải phóng phụ huynh”](https://laodong.vn/giao-duc/cau-chuyen-ngay-toan-quoc-giai-phong-phu-huynh-885118.ldo) ([Lao Động](https://laodong.vn))
-- [Chứng khoán: Dòng tiền sẽ tiếp tục công phá đỉnh 1.200 điểm](https://laodong.vn/kinh-te/chung-khoan-dong-tien-se-tiep-tuc-cong-pha-dinh-1200-diem-885183.ldo) ([Lao Động](https://laodong.vn))
-- [Cụ bà mang chiếc trâm vàng của mẹ kế đi thẩm định: 5 chữ trên cây trâm khiến chuyên gia bàng hoàng, cả trường quay bất ngờ](https://cafebiz.vn/cu-ba-mang-chiec-tram-vang-cua-me-ke-di-tham-dinh-5-chu-tren-cay-tram-khien-chuyen-gia-bang-hoang-ca-truong-quay-bat-ngo-2021030221092433.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thiên tài từ trứng nước: Từng có một nơi chỉ lấy tinh trùng của thiên tài giỏi nhất thế giới, và những gì xảy ra sau đó không giống như bạn tưởng tượng](https://cafebiz.vn/thien-tai-tu-trung-nuoc-tung-co-mot-noi-chi-lay-tinh-trung-cua-thien-tai-gioi-nhat-the-gioi-va-nhung-gi-xay-ra-sau-do-khong-giong-nhu-ban-tuong-tuong-20210302205916712.chn) ([CafeBiz](https://cafebiz.vn))
+
 
 [Read More](docs/news/README.md)
 
@@ -131,15 +122,15 @@
 **YOUTUBE TRENDS**
 
 01. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-02. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-03. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+02. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 04. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
-05. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-06. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
+05. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
+06. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 07. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 08. [Gia đình bé gái rơi từ tầng 12A: Anh Mạnh là "Bồ Tát sống" của gia đình chúng tôi! | VTC Now](https://www.youtube.com/watch?v=Hm5ng-hLZEQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-09. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
-10. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+09. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
+10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
