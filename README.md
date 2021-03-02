@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is overcast clouds.
-- Temperature is 20°C.
-- Feels Like 17.48°C.
-- Air Visual is 66.
+- Temperature is 21°C.
+- Feels Like 18.49°C.
+- Air Visual is 72.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Thành lập Tổ nghiên cứu về tài sản ảo, tiền ảo](https://cafebiz.vn/thanh-lap-to-nghien-cuu-ve-tai-san-ao-tien-ao-20210302135219638.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ant Group của Jack Ma bị chỉ trích 'núp bóng công nghệ để hưởng lợi, dụ người dùng thành con nợ, có thể gây rủi ro cấp độ toàn cầu'](https://cafebiz.vn/ant-group-cua-jack-ma-bi-chi-trich-nup-bong-cong-nghe-de-huong-loi-du-nguoi-dung-thanh-con-no-co-the-gay-rui-ro-cap-do-toan-cau-20210302104345442.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thứ hạng vốn hóa các đại gia địa ốc: Tăng gấp 3 lần sau 1 năm, Phát Đạt vượt xa Vinaconex, Khang Điền, Đất Xanh dù quy mô khiêm tốn hơn](https://cafebiz.vn/thu-hang-von-hoa-cac-dai-gia-dia-oc-tang-gap-3-lan-sau-1-nam-phat-dat-vuot-xa-vinaconex-khang-dien-dat-xanh-du-quy-mo-khiem-ton-hon-2021030213493271.chn) ([CafeBiz](https://cafebiz.vn))
+- [Điện Biên: &quot;Đạo chích&quot; 5 ngày phá hoại 5 trạm biến áp sa lưới pháp luật](https://laodong.vn/phap-luat/dien-bien-dao-chich-5-ngay-pha-hoai-5-tram-bien-ap-sa-luoi-phap-luat-884965.ldo) ([Lao Động](https://laodong.vn))
+- [Pháp bắt đầu ‘thanh lọc’ Huawei](https://cafebiz.vn/phap-bat-dau-thanh-loc-huawei-20210302134637674.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thịt bò Úc sẽ biến mất khỏi thực đơn trên toàn thế giới vì ... Australia không còn bò?](https://cafebiz.vn/thit-bo-uc-se-bien-mat-khoi-thuc-don-tren-toan-the-gioi-vi-australia-khong-con-bo-2021030213431624.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cơn sốt “đào” tiền ảo Pi, điều gì đáng ngại?](https://laodong.vn/kinh-te/con-sot-dao-tien-ao-pi-dieu-gi-dang-ngai-884961.ldo) ([Lao Động](https://laodong.vn))
+- [Thực hiện chương trình thực hành tiết kiệm năm 2021](https://laodong.vn/kinh-te/thuc-hien-chuong-trinh-thuc-hanh-tiet-kiem-nam-2021-884962.ldo) ([Lao Động](https://laodong.vn))
 - [Luật sư lên tiếng tin vợ trùm ma túy Mexico chạy trốn khỏi các con chồng](https://laodong.vn/the-gioi/luat-su-len-tieng-tin-vo-trum-ma-tuy-mexico-chay-tron-khoi-cac-con-chong-884949.ldo) ([Lao Động](https://laodong.vn))
 - [Tiệm Vàng Nguyễn Trâm - Trang sức đỉnh cao cho phụ nữ hiện đại](https://cafebiz.vn/tiem-vang-nguyen-tram-trang-suc-dinh-cao-cho-phu-nu-hien-dai-20210302113425669.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bất động sản năm 2021: Cơ hội rộng mở cho nhà đầu tư](https://cafebiz.vn/bat-dong-san-nam-2021-co-hoi-rong-mo-cho-nha-dau-tu-20210302092147884.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội ghi nhận thêm một bệnh nhân tái dương tính SARS-CoV-2 sau 3 ngày ra viện](https://cafebiz.vn/ha-noi-ghi-nhan-them-mot-benh-nhan-tai-duong-tinh-sars-cov-2-sau-3-ngay-ra-vien-20210302132719713.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vượt qua COVID-19, xuất khẩu nông sản tăng 16,6% trong 2 tháng đầu năm](https://laodong.vn/kinh-te/vuot-qua-covid-19-xuat-khau-nong-san-tang-166-trong-2-thang-dau-nam-884959.ldo) ([Lao Động](https://laodong.vn))
-- [Tạm giữ hai xe Mercedes cùng chung một biển số ở Hà Nội](https://laodong.vn/phap-luat/tam-giu-hai-xe-mercedes-cung-chung-mot-bien-so-o-ha-noi-884958.ldo) ([Lao Động](https://laodong.vn))
-- [Sốc với ghi âm nói về Maradona: “Thuốc lá, rượu và thuốc, ông sẽ chết...&quot;](https://laodong.vn/the-thao/soc-voi-ghi-am-noi-ve-maradona-thuoc-la-ruou-va-thuoc-ong-se-chet-884947.ldo) ([Lao Động](https://laodong.vn))
-- [Bùi Tiến Dũng, siêu xe 8 tỉ và ký ức &quot;người hùng&quot; Thường Châu](https://laodong.vn/ban-doc/bui-tien-dung-sieu-xe-8-ti-va-ky-uc-nguoi-hung-thuong-chau-884900.ldo) ([Lao Động](https://laodong.vn))
-- [Trao Bằng khen của Thủ tướng Chính phủ cho anh Nguyễn Ngọc Mạnh](https://laodong.vn/thoi-su/trao-bang-khen-cua-thu-tuong-chinh-phu-cho-anh-nguyen-ngoc-manh-884951.ldo) ([Lao Động](https://laodong.vn))
-- [Nữ streamer đặc biệt của Trung Quốc: Từng là đứa trẻ khiếm thính chỉ biết trả lời "Ờ", 16 năm nỗ lực học nói](https://cafebiz.vn/nu-streamer-dac-biet-cua-trung-quoc-tung-la-dua-tre-khiem-thinh-chi-biet-tra-loi-o-16-nam-no-luc-hoc-noi-20210302112258546.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
