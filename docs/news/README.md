@@ -1,5 +1,8 @@
 # News
 
+- [1 video dài 10 giây có thể được bán với giá 6,6 triệu USD, xuất hiện bong bóng mới trong thế giới tiền số?](https://cafebiz.vn/1-video-dai-10-giay-co-the-duoc-ban-voi-gia-66-trieu-usd-xuat-hien-bong-bong-moi-trong-the-gioi-tien-so-20210302194504227.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chỉ sử dụng 1% cho bản thân và sẵn sàng cho đi 99% tài sản: 7 bí mật để vừa thành công vừa sống hạnh phúc của tỷ phú Warren Buffett, ai cũng biết nhưng mấy người làm được](https://cafebiz.vn/chi-su-dung-1-cho-ban-than-va-san-sang-cho-di-99-tai-san-7-bi-mat-de-vua-thanh-cong-vua-song-hanh-phuc-cua-ty-phu-warren-buffett-ai-cung-biet-nhung-may-nguoi-lam-duoc-20210302211246339.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chính phủ sẽ kiện toàn nhiều vị trí trong tháng 3](https://vnexpress.net/chinh-phu-se-kien-toan-nhieu-vi-tri-trong-thang-3-4242558.html) ([VNExpress](https://vnexpress.net))
 - ["Câu lạc bộ" người siêu giàu của Trung Quốc tăng mạnh](https://cafebiz.vn/cau-lac-bo-nguoi-sieu-giau-cua-trung-quoc-tang-manh-20210302182310102.chn) ([CafeBiz](https://cafebiz.vn))
 - [Loại thực phẩm nhiều người Việt thích tới phát "nghiện" lại "tàn phá" gan không kém gì rượu](https://cafebiz.vn/loai-thuc-pham-nhieu-nguoi-viet-thich-toi-phat-nghien-lai-tan-pha-gan-khong-kem-gi-ruou-20210302171457578.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ông Lê Hải Trà: “Tăng lô giao dịch lên 1.000 cổ phiếu có thể giúp nhà đầu tư nhỏ lẻ được bảo vệ tốt hơn”](https://cafebiz.vn/ong-le-hai-tra-tang-lo-giao-dich-len-1000-co-phieu-co-the-giup-nha-dau-tu-nho-le-duoc-bao-ve-tot-hon-20210302211736065.chn) ([CafeBiz](https://cafebiz.vn))
@@ -97,6 +100,3 @@
 - ['Chuyển giao nhiệm kỳ không có tư tưởng cầm chừng, chờ đợi lúc giao thời'](https://tuoitre.vn/chuyen-giao-nhiem-ky-khong-co-tu-tuong-cam-chung-cho-doi-luc-giao-thoi-2021030214534972.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Số ca Covid-19 mới trên toàn cầu lần đầu tiên tăng sau 7 tuần](https://cafebiz.vn/so-ca-covid-19-moi-tren-toan-cau-lan-dau-tien-tang-sau-7-tuan-2021030214002023.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lãnh đạo Hải Dương: 'Tỉnh dừng cách ly xã hội không quá sớm'](https://vnexpress.net/lanh-dao-hai-duong-tinh-dung-cach-ly-xa-hoi-khong-qua-som-4242353.html) ([VNExpress](https://vnexpress.net))
-- [Tạm giữ một phương tiện vụ hai ô tô Mercedes Benz cùng biển số](http://vietnamnet.vn/vn/thoi-su/tam-giu-mot-phuong-tien-vu-hai-o-to-mercedes-benz-cung-bien-so-716628.html) ([VietNamNet](https://vietnamnet.vn))
-- [Viết email là một nghệ thuật, giao tiếp bắt đầu từ người nhận](https://cafebiz.vn/viet-email-la-mot-nghe-thuat-giao-tiep-bat-dau-tu-nguoi-nhan-20210302113843292.chn) ([CafeBiz](https://cafebiz.vn))
-- [CSGT đã ra quân, xe chở mía cồng kềnh vẫn tung hoành trên quốc lộ 26](https://tuoitre.vn/csgt-da-ra-quan-xe-cho-mia-cong-kenh-van-tung-hoanh-tren-quoc-lo-26-20210302131827821.htm) ([Tuổi Trẻ](https://tuoitre.vn))
