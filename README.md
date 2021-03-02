@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 20°C.
 - Feels Like 18.82°C.
-- Air Visual is 67.
+- Air Visual is 75.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Khen thưởng lực lượng phá chuyên án lừa đảo qua mạng](https://laodong.vn/xa-hoi/khen-thuong-luc-luong-pha-chuyen-an-lua-dao-qua-mang-885066.ldo) ([Lao Động](https://laodong.vn))
-- [Đề nghị truy tố 2 phóng viên tống tiền doanh nghiệp](https://laodong.vn/phap-luat/de-nghi-truy-to-2-phong-vien-tong-tien-doanh-nghiep-885050.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Ninh: Nâng cao đời sống văn hóa tinh thần NLĐ trong khu công nghiệp](https://laodong.vn/cong-doan/quang-ninh-nang-cao-doi-song-van-hoa-tinh-than-nld-trong-khu-cong-nghiep-885069.ldo) ([Lao Động](https://laodong.vn))
-- [Câu chuyện của Hải Dương và bài học trong phản ứng chính sách](https://cafebiz.vn/cau-chuyen-cua-hai-duong-va-bai-hoc-trong-phan-ung-chinh-sach-20210302172354819.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: Mở cửa trở lại, rạp phim huỷ suất chiếu vì vắng khách](https://laodong.vn/ban-doc/tphcm-mo-cua-tro-lai-rap-phim-huy-suat-chieu-vi-vang-khach-884997.ldo) ([Lao Động](https://laodong.vn))
-- [Nông dân Nghệ An vứt bỏ rau xanh](https://vnexpress.net/nong-dan-nghe-an-vut-bo-rau-xanh-4242458.html) ([VNExpress](https://vnexpress.net))
-- [HAGL không phải là đối thủ Lee Nguyễn quan tâm nhất tại V.League?](https://laodong.vn/the-thao/hagl-khong-phai-la-doi-thu-lee-nguyen-quan-tam-nhat-tai-vleague-885052.ldo) ([Lao Động](https://laodong.vn))
-- [Họp báo Chính phủ thường kỳ](https://vnexpress.net/hop-bao-chinh-phu-thuong-ky-4242403.html) ([VNExpress](https://vnexpress.net))
-- [Mỹ dội 5 quả bom ở Syria giết 1 tay súng do Iran hậu thuẫn](https://laodong.vn/the-gioi/my-doi-5-qua-bom-o-syria-giet-1-tay-sung-do-iran-hau-thuan-885007.ldo) ([Lao Động](https://laodong.vn))
-- [Truy tặng kỷ niệm chương 'Vì sức khỏe nhân dân' cho nhân viên y tế tử vong trên đường chống dịch](https://tuoitre.vn/truy-tang-ky-niem-chuong-vi-suc-khoe-nhan-dan-cho-nhan-vien-y-te-tu-vong-tren-duong-chong-dich-20210302164757437.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hải Dương khôi phục nhiều hoạt động từ ngày mai](https://vnexpress.net/hai-duong-khoi-phuc-nhieu-hoat-dong-tu-ngay-mai-4242471.html) ([VNExpress](https://vnexpress.net))
+- [Kiên Giang: Đảm bảo an toàn phòng dịch cho 1.301 công dân nhập ngũ](https://laodong.vn/xa-hoi/kien-giang-dam-bao-an-toan-phong-dich-cho-1301-cong-dan-nhap-ngu-885079.ldo) ([Lao Động](https://laodong.vn))
+- [Đề nghị truy tố nam tiếp viên hàng không làm lây lan dịch bệnh](https://laodong.vn/phap-luat/de-nghi-truy-to-nam-tiep-vien-hang-khong-lam-lay-lan-dich-benh-885032.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiều câu hỏi về giải pháp chắp vá chống nghẽn lệnh trên HoSE](https://laodong.vn/kinh-te/nhieu-cau-hoi-ve-giai-phap-chap-va-chong-nghen-lenh-tren-hose-885070.ldo) ([Lao Động](https://laodong.vn))
+- [Người dân Hải Dương sẽ được làm gì sau khi kết thúc cách ly xã hội?](https://laodong.vn/video/nguoi-dan-hai-duong-se-duoc-lam-gi-sau-khi-ket-thuc-cach-ly-xa-hoi-885076.ldo) ([Lao Động](https://laodong.vn))
+- [Diễn biến ngoạn mục trên thị trường vàng thế giới](https://laodong.vn/kinh-te/dien-bien-ngoan-muc-tren-thi-truong-vang-the-gioi-885071.ldo) ([Lao Động](https://laodong.vn))
+- [Pi Network vì sao dễ cuốn người dùng vào vòng xoáy “đào” tiền ảo?](https://laodong.vn/kinh-te/pi-network-vi-sao-de-cuon-nguoi-dung-vao-vong-xoay-dao-tien-ao-885053.ldo) ([Lao Động](https://laodong.vn))
+- [Gợi ý những set đồ giúp hách chiều cao từ Ellen Trang Store](https://cafebiz.vn/goi-y-nhung-set-do-giup-hach-chieu-cao-tu-ellen-trang-store-20210302134559561.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đầm bầu Medyla Phạm Ngọc Thạch – Cho bà bầu thoải mái và tự tin](https://cafebiz.vn/dam-bau-medyla-pham-ngoc-thach-cho-ba-bau-thoai-mai-va-tu-tin-20210302134520573.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mở cửa lại sân bay Vân Đồn từ 6h01 ngày 3-3](https://tuoitre.vn/mo-cua-lai-san-bay-van-don-tu-6h01-ngay-3-3-20210302170243411.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
