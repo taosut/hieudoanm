@@ -21,8 +21,8 @@
 
 - Current weather is overcast clouds.
 - Temperature is 20°C.
-- Feels Like 19.59°C.
-- Air Visual is 102.
+- Feels Like 19.23°C.
+- Air Visual is 98.
 
 **WEATHER**
 
@@ -50,13 +50,13 @@
 
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
-- [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
-- [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Gareth Bale](https://img.shields.io/static/v1?label=Gareth%20Bale&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gareth%20Bale)
+- [![Giám đốc Sở Y tế Cần Thơ](https://img.shields.io/static/v1?label=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1)
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Luong Y vo hoang yen](https://img.shields.io/static/v1?label=Luong%20Y%20vo%20hoang%20yen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Luong%20Y%20vo%20hoang%20yen)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
 - [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
@@ -67,7 +67,7 @@
 - [![Uni5](https://img.shields.io/static/v1?label=Uni5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Uni5)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 - [![Võ Hoàng Yến](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn)
-- [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
+- [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Người làm được 4 việc này rất ít khi mắc bệnh ung thư: Bạn đã làm được mấy việc?](https://cafebiz.vn/nguoi-lam-duoc-4-viec-nay-rat-it-khi-mac-benh-ung-thu-ban-da-lam-duoc-may-viec-20210302171219349.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Phải trả lại không gian cho khu đô thị của chúng tôi'](https://tuoitre.vn/phai-tra-lai-khong-gian-cho-khu-do-thi-cua-chung-toi-20210302200952795.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bitcoin trước bước ngoặt: Thành công cụ thanh toán hay chỉ là bong bóng đầu cơ?](https://cafebiz.vn/bitcoin-truoc-buoc-ngoat-thanh-cong-cu-thanh-toan-hay-chi-la-bong-bong-dau-co-20210302183401446.chn) ([CafeBiz](https://cafebiz.vn))
+- [Rà soát năng lực nhà thầu tại dự án đường băng Nội Bài, Tân Sơn Nhất](https://laodong.vn/giao-thong/ra-soat-nang-luc-nha-thau-tai-du-an-duong-bang-noi-bai-tan-son-nhat-885114.ldo) ([Lao Động](https://laodong.vn))
+- [Sân bay Vân Đồn mở cửa trở lại từ ngày 3/3](https://vnexpress.net/san-bay-van-don-mo-cua-tro-lai-tu-ngay-3-3-4242574.html) ([VNExpress](https://vnexpress.net))
 - ["Hộ chiếu vaccine": Cuộc tranh luận chưa có hồi kết](https://cafebiz.vn/ho-chieu-vaccine-cuoc-tranh-luan-chua-co-hoi-ket-20210302183548187.chn) ([CafeBiz](https://cafebiz.vn))
 - [Phổi là "chiếc máy hút bụi" của cơ thể: BS mách bạn cách làm sạch mỗi ngày để không bị bệnh](https://cafebiz.vn/phoi-la-chiec-may-hut-bui-cua-co-the-bs-mach-ban-cach-lam-sach-moi-ngay-de-khong-bi-benh-20210302171013539.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chân dung "đại thiếu gia" nhà Bầu Hiển: Tự lập từ nhỏ, vừa qua tuổi 30 đã làm quản lý cấp cao của ngân hàng và Tập đoàn T&T, kiêm luôn chức chủ tịch công ty tài chính](https://cafebiz.vn/chan-dung-dai-thieu-gia-nha-bau-hien-tu-lap-tu-nho-vua-qua-tuoi-30-da-lam-quan-ly-cap-cao-cua-ngan-hang-va-tap-doan-tt-kiem-luon-chuc-chu-tich-cong-ty-tai-chinh-20210302203409832.chn) ([CafeBiz](https://cafebiz.vn))
 - [Môi giới đóng tiền để được suất mua nhà ở xã hội: Bộ Xây dựng nói gì?](https://laodong.vn/bat-dong-san/moi-gioi-dong-tien-de-duoc-suat-mua-nha-o-xa-hoi-bo-xay-dung-noi-gi-885173.ldo) ([Lao Động](https://laodong.vn))
-- [Tổng hợp, báo cáo Chính phủ về gói hỗ trợ cho doanh nghiệp, người dân](https://laodong.vn/kinh-te/tong-hop-bao-cao-chinh-phu-ve-goi-ho-tro-cho-doanh-nghiep-nguoi-dan-885168.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Ninh nới lỏng một số dịch vụ](https://vnexpress.net/quang-ninh-noi-long-mot-so-dich-vu-4242560.html) ([VNExpress](https://vnexpress.net))
-- [Toàn bộ nữ sinh Nigeria bị bắt cóc được trả tự do](https://laodong.vn/the-gioi/toan-bo-nu-sinh-nigeria-bi-bat-coc-duoc-tra-tu-do-885051.ldo) ([Lao Động](https://laodong.vn))
-- [Cảnh cáo Chủ tịch UBND huyện Tuy An](https://laodong.vn/xa-hoi/canh-cao-chu-tich-ubnd-huyen-tuy-an-885166.ldo) ([Lao Động](https://laodong.vn))
-- [Rà soát việc đóng bảo hiểm thất nghiệp với viên chức quản lý](https://laodong.vn/cong-doan/ra-soat-viec-dong-bao-hiem-that-nghiep-voi-vien-chuc-quan-ly-885164.ldo) ([Lao Động](https://laodong.vn))
-- [Các nhà đầu tư "cá mập" Bitcoin có khả năng thao túng thị trường thế nào?](https://cafebiz.vn/cac-nha-dau-tu-ca-map-bitcoin-co-kha-nang-thao-tung-thi-truong-the-nao-2021030218323731.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đã có thể khai báo y tế trên ứng dụng Bluezone](https://tuoitre.vn/da-co-the-khai-bao-y-te-tren-ung-dung-bluezone-20210302194224385.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
