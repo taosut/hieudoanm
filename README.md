@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Đồng Nai: Một người dân nghi bị bò tót húc gây thương tích nặng](https://laodong.vn/xa-hoi/dong-nai-mot-nguoi-dan-nghi-bi-bo-tot-huc-gay-thuong-tich-nang-884920.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang: Xe chở 40 công nhân đi làm bị lật xuống ruộng](https://laodong.vn/xa-hoi/bac-giang-xe-cho-40-cong-nhan-di-lam-bi-lat-xuong-ruong-884906.ldo) ([Lao Động](https://laodong.vn))
 - [Bắc Giang: Tiếp tục phát hiện, thu giữ hơn 1000 cây thuốc phiện](https://laodong.vn/phap-luat/bac-giang-tiep-tuc-phat-hien-thu-giu-hon-1000-cay-thuoc-phien-884889.ldo) ([Lao Động](https://laodong.vn))
 - [Công tác mặt trận năm 2021: Phòng, chống dịch COVID-19 là nhiệm vụ hàng đầu](https://laodong.vn/thoi-su/cong-tac-mat-tran-nam-2021-phong-chong-dich-covid-19-la-nhiem-vu-hang-dau-884859.ldo) ([Lao Động](https://laodong.vn))
 - [Thế giới động vật: Phát hiện hoá thạch khủng long 140 triệu năm tuổi](https://laodong.vn/the-gioi/the-gioi-dong-vat-phat-hien-hoa-thach-khung-long-140-trieu-nam-tuoi-884911.ldo) ([Lao Động](https://laodong.vn))
-- [Công đoàn PV GAS chủ động trong công tác an toàn, vệ sinh lao động](https://laodong.vn/cd-dau-khi/cong-doan-pv-gas-chu-dong-trong-cong-tac-an-toan-ve-sinh-lao-dong-884897.ldo) ([Lao Động](https://laodong.vn))
 - [Warren Buffett rót tiền vào hãng xe điện Trung Quốc nhiều hơn thương hiệu của Mỹ](https://cafebiz.vn/warren-buffett-rot-tien-vao-hang-xe-dien-trung-quoc-nhieu-hon-thuong-hieu-cua-my-20210302104547856.chn) ([CafeBiz](https://cafebiz.vn))
 - [Không thể chỉ ngồi chờ những “người hùng”, những “thiên thần hộ mệnh”](https://laodong.vn/su-kien-binh-luan/khong-the-chi-ngoi-cho-nhung-nguoi-hung-nhung-thien-than-ho-menh-884864.ldo) ([Lao Động](https://laodong.vn))
 - [Tránh xe máy, ôtô chở 40 công nhân 'bay' xuống ruộng](https://tuoitre.vn/tranh-xe-may-oto-cho-40-cong-nhan-bay-xuong-ruong-20210302113043099.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [iPhone màn hình gập có thể sẽ ra mắt vào năm 2023](https://cafebiz.vn/iphone-man-hinh-gap-co-the-se-ra-mat-vao-nam-2023-20210302105156293.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bí kíp thăng tiến then chốt của dân công sở: Luôn ghi nhớ 3 điều sau để làm mát mặt sếp!](https://cafebiz.vn/bi-kip-thang-tien-then-chot-cua-dan-cong-so-luon-ghi-nho-3-dieu-sau-de-lam-mat-mat-sep-20210302095706622.chn) ([CafeBiz](https://cafebiz.vn))
-- [[Góc lương cao] Chuyên gia Nhật dạy lái tàu Metro Số 1 được đề xuất mức lương tháng hơn nửa tỷ đồng](https://cafebiz.vn/goc-luong-cao-chuyen-gia-nhat-day-lai-tau-metro-so-1-duoc-de-xuat-muc-luong-thang-hon-nua-ty-dong-20210302110901583.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Mừng ngày mở cửa trở lại — 5 quán cà phê Hà Nội xưa nạp lại cảm hứng](https://vietcetera.com/vn/mung-ngay-mo-cua-tro-lai-5-quan-ca-phe-ha-noi-xua-nap-lai-cam-hung)
 - [Singapore tái khởi động ngành du lịch nội địa và quốc tế ](https://vietcetera.com/vn/singapore-tai-khoi-dong-nganh-du-lich-noi-dia-va-quoc-te)
 - ["Chỉ yêu người “không quê không quán, không cha không mẹ, không tên không tuổi”"](https://vietcetera.com/vn/chi-yeu-nguoi-khong-que-khong-quan-khong-cha-khong-me-khong-ten-khong-tuoi)
 - [Tóm Lại Là: Tại sao chiến dịch Free Britney trở lại?](https://vietcetera.com/vn/tom-lai-la-tai-sao-chien-dich-free-britney-tro-lai)
@@ -105,7 +106,6 @@
 - ["Anh đang khoác áo trái đó..."](https://vietcetera.com/vn/du-anh-co-roi-vao-tinh-canh-xau-ho-hay-kho-khan-minh-van-se-chon-o-ben-anh)
 - [5 Live show âm nhạc YouTube để bạn khám phá nghệ sĩ mới](https://vietcetera.com/vn/5-live-show-am-nhac-youtube-de-ban-kham-pha-nghe-si-moi)
 - [Làm sao để yêu mà không đánh mất chính mình?](https://vietcetera.com/vn/lam-sao-de-yeu-ma-khong-danh-mat-chinh-minh)
-- [Sói già phố Wall: Chúng ta vừa xem cái quái gì vậy?](https://vietcetera.com/vn/soi-gia-pho-wall-chung-ta-vua-xem-cai-quai-gi-vay)
 
 [Read More](https://vietcetera.com/)
 
