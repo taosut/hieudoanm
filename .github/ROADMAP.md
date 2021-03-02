@@ -7,6 +7,8 @@
 - Front-end
   - [`(Facebook) React`](https://reactjs.com/)
   - [_(Google) Angular_](https://angular.io/)
+- MOBILE
+  - [`React Native`](https://reactnative.dev/)
 - Back-end
   - [`Node.js`](https://nodejs.org/en/)
 - Databases
@@ -55,10 +57,6 @@
   - `Calculus`
   - `Linear algebra`
   - `Probability and statistics`
-  
-**MOBILE**
-
-- [`React Native`](https://reactnative.dev/)
 
 **LANGUAGES**
 
