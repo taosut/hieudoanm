@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 20°C.
 - Feels Like 19.95°C.
-- Air Visual is 107.
+- Air Visual is 122.
 
 **WEATHER**
 
@@ -56,7 +56,6 @@
 - [![Giám đốc Sở Y tế Cần Thơ](https://img.shields.io/static/v1?label=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1)
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Luong Y vo hoang yen](https://img.shields.io/static/v1?label=Luong%20Y%20vo%20hoang%20yen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Luong%20Y%20vo%20hoang%20yen)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
 - [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
@@ -67,6 +66,7 @@
 - [![Uni5](https://img.shields.io/static/v1?label=Uni5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Uni5)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 - [![Võ Hoàng Yến](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn)
+- [![Đan trường](https://img.shields.io/static/v1?label=%C4%90an%20tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20tr%C6%B0%E1%BB%9Dng)
 - [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,6 +75,9 @@
 
 **NEWS**
 
+- [Một tỉnh Trung Quốc cấm đào tiền ảo để tiết kiệm năng lượng](https://cafebiz.vn/mot-tinh-trung-quoc-cam-dao-tien-ao-de-tiet-kiem-nang-luong-20210302194625344.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trong “Tam quốc diễn nghĩa”, Lưu Bị dùng kiếm, Quan Vũ dùng đao: Bí mật đằng sau cách chọn vũ khí này là gì?](https://cafebiz.vn/trong-tam-quoc-dien-nghia-luu-bi-dung-kiem-quan-vu-dung-dao-bi-mat-dang-sau-cach-chon-vu-khi-nay-la-gi-20210302205448023.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắc Ninh có tân Giám đốc Sở Tài nguyên và Môi trường](https://laodong.vn/thoi-su/bac-ninh-co-tan-giam-doc-so-tai-nguyen-va-moi-truong-885184.ldo) ([Lao Động](https://laodong.vn))
 - [1 video dài 10 giây có thể được bán với giá 6,6 triệu USD, xuất hiện bong bóng mới trong thế giới tiền số?](https://cafebiz.vn/1-video-dai-10-giay-co-the-duoc-ban-voi-gia-66-trieu-usd-xuat-hien-bong-bong-moi-trong-the-gioi-tien-so-20210302194504227.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chỉ sử dụng 1% cho bản thân và sẵn sàng cho đi 99% tài sản: 7 bí mật để vừa thành công vừa sống hạnh phúc của tỷ phú Warren Buffett, ai cũng biết nhưng mấy người làm được](https://cafebiz.vn/chi-su-dung-1-cho-ban-than-va-san-sang-cho-di-99-tai-san-7-bi-mat-de-vua-thanh-cong-vua-song-hanh-phuc-cua-ty-phu-warren-buffett-ai-cung-biet-nhung-may-nguoi-lam-duoc-20210302211246339.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chính phủ sẽ kiện toàn nhiều vị trí trong tháng 3](https://vnexpress.net/chinh-phu-se-kien-toan-nhieu-vi-tri-trong-thang-3-4242558.html) ([VNExpress](https://vnexpress.net))
@@ -82,9 +85,6 @@
 - [Loại thực phẩm nhiều người Việt thích tới phát "nghiện" lại "tàn phá" gan không kém gì rượu](https://cafebiz.vn/loai-thuc-pham-nhieu-nguoi-viet-thich-toi-phat-nghien-lai-tan-pha-gan-khong-kem-gi-ruou-20210302171457578.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ông Lê Hải Trà: “Tăng lô giao dịch lên 1.000 cổ phiếu có thể giúp nhà đầu tư nhỏ lẻ được bảo vệ tốt hơn”](https://cafebiz.vn/ong-le-hai-tra-tang-lo-giao-dich-len-1000-co-phieu-co-the-giup-nha-dau-tu-nho-le-duoc-bao-ve-tot-hon-20210302211736065.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Phòng sẽ xây dựng mỗi phường một công viên](https://vnexpress.net/hai-phong-se-xay-dung-moi-phuong-mot-cong-vien-4242572.html) ([VNExpress](https://vnexpress.net))
-- [Iraq nhận lô vaccine COVID-19 đầu tiên do Trung Quốc tài trợ](https://laodong.vn/the-gioi/iraq-nhan-lo-vaccine-covid-19-dau-tien-do-trung-quoc-tai-tro-885178.ldo) ([Lao Động](https://laodong.vn))
-- [Mỹ tuyên bố chính sách thương mại cứng rắn với Trung Quốc](https://laodong.vn/the-gioi/my-tuyen-bo-chinh-sach-thuong-mai-cung-ran-voi-trung-quoc-885119.ldo) ([Lao Động](https://laodong.vn))
-- [Kiên Giang: 2 anh em ruột dùng súng cướp ngân hàng bất thành ở Hà Tiên](https://laodong.vn/phap-luat/kien-giang-2-anh-em-ruot-dung-sung-cuop-ngan-hang-bat-thanh-o-ha-tien-885165.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -97,7 +97,7 @@
 **VIETCETERA**
 
 - [Không Quan Tâm: "Anh hùng" cũng cần được yên!](https://vietcetera.com/vn/khong-quan-tam-chuyen-ca-nhan-nhung-quan-tam-hanh-dong-cuu-em-be)
-- [Meme học: Khi tranh cổ điển cũng... không thoát](https://vietcetera.com/vn/meme-hoc-tranh-co-dien)
+- [Meme học: Bao nhiêu năm rồi còn mãi tranh meme](https://vietcetera.com/vn/meme-hoc-tranh-co-dien)
 - [Chữ Với Nghĩa: Bản dạng](https://vietcetera.com/vn/chu-voi-nghia-ban-dang)
 - [8 Bài học về đào tạo và quản lý tài năng từ Aiden Nguyễn](https://vietcetera.com/vn/8-bai-hoc-ve-dao-tao-va-quan-ly-tai-nang-tu-aiden-nguyen)
 - [Đối mặt với nỗi sợ trước những điều chưa biết](https://vietcetera.com/vn/doi-mat-voi-noi-so-truoc-nhung-dieu-chua-biet)

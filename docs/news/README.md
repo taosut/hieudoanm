@@ -1,5 +1,8 @@
 # News
 
+- [Một tỉnh Trung Quốc cấm đào tiền ảo để tiết kiệm năng lượng](https://cafebiz.vn/mot-tinh-trung-quoc-cam-dao-tien-ao-de-tiet-kiem-nang-luong-20210302194625344.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trong “Tam quốc diễn nghĩa”, Lưu Bị dùng kiếm, Quan Vũ dùng đao: Bí mật đằng sau cách chọn vũ khí này là gì?](https://cafebiz.vn/trong-tam-quoc-dien-nghia-luu-bi-dung-kiem-quan-vu-dung-dao-bi-mat-dang-sau-cach-chon-vu-khi-nay-la-gi-20210302205448023.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắc Ninh có tân Giám đốc Sở Tài nguyên và Môi trường](https://laodong.vn/thoi-su/bac-ninh-co-tan-giam-doc-so-tai-nguyen-va-moi-truong-885184.ldo) ([Lao Động](https://laodong.vn))
 - [1 video dài 10 giây có thể được bán với giá 6,6 triệu USD, xuất hiện bong bóng mới trong thế giới tiền số?](https://cafebiz.vn/1-video-dai-10-giay-co-the-duoc-ban-voi-gia-66-trieu-usd-xuat-hien-bong-bong-moi-trong-the-gioi-tien-so-20210302194504227.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chỉ sử dụng 1% cho bản thân và sẵn sàng cho đi 99% tài sản: 7 bí mật để vừa thành công vừa sống hạnh phúc của tỷ phú Warren Buffett, ai cũng biết nhưng mấy người làm được](https://cafebiz.vn/chi-su-dung-1-cho-ban-than-va-san-sang-cho-di-99-tai-san-7-bi-mat-de-vua-thanh-cong-vua-song-hanh-phuc-cua-ty-phu-warren-buffett-ai-cung-biet-nhung-may-nguoi-lam-duoc-20210302211246339.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chính phủ sẽ kiện toàn nhiều vị trí trong tháng 3](https://vnexpress.net/chinh-phu-se-kien-toan-nhieu-vi-tri-trong-thang-3-4242558.html) ([VNExpress](https://vnexpress.net))
@@ -9,9 +12,9 @@
 - [Hải Phòng sẽ xây dựng mỗi phường một công viên](https://vnexpress.net/hai-phong-se-xay-dung-moi-phuong-mot-cong-vien-4242572.html) ([VNExpress](https://vnexpress.net))
 - [Iraq nhận lô vaccine COVID-19 đầu tiên do Trung Quốc tài trợ](https://laodong.vn/the-gioi/iraq-nhan-lo-vaccine-covid-19-dau-tien-do-trung-quoc-tai-tro-885178.ldo) ([Lao Động](https://laodong.vn))
 - [Mỹ tuyên bố chính sách thương mại cứng rắn với Trung Quốc](https://laodong.vn/the-gioi/my-tuyen-bo-chinh-sach-thuong-mai-cung-ran-voi-trung-quoc-885119.ldo) ([Lao Động](https://laodong.vn))
+- [Chốt thời gian Bộ GTVT phải hoàn thành 2 dự án cao tốc Bắc - Nam](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/chot-thoi-gian-bo-gtvt-phai-hoan-thanh-2-du-an-cao-toc-bac-nam-716727.html) ([VietNamNet](https://vietnamnet.vn))
 - [Kiên Giang: 2 anh em ruột dùng súng cướp ngân hàng bất thành ở Hà Tiên](https://laodong.vn/phap-luat/kien-giang-2-anh-em-ruot-dung-sung-cuop-ngan-hang-bat-thanh-o-ha-tien-885165.ldo) ([Lao Động](https://laodong.vn))
 - [Những đối tượng được tính giảm trừ gia cảnh khi quyết toán thuế 2021](https://laodong.vn/kinh-te/nhung-doi-tuong-duoc-tinh-giam-tru-gia-canh-khi-quyet-toan-thue-2021-885174.ldo) ([Lao Động](https://laodong.vn))
-- [Học sinh lớp 12 ở 8 huyện, thành phố của Hải Dương đi học trở lại từ 8.3](https://laodong.vn/giao-duc/hoc-sinh-lop-12-o-8-huyen-thanh-pho-cua-hai-duong-di-hoc-tro-lai-tu-83-885181.ldo) ([Lao Động](https://laodong.vn))
 - [Người làm được 4 việc này rất ít khi mắc bệnh ung thư: Bạn đã làm được mấy việc?](https://cafebiz.vn/nguoi-lam-duoc-4-viec-nay-rat-it-khi-mac-benh-ung-thu-ban-da-lam-duoc-may-viec-20210302171219349.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bitcoin trước bước ngoặt: Thành công cụ thanh toán hay chỉ là bong bóng đầu cơ?](https://cafebiz.vn/bitcoin-truoc-buoc-ngoat-thanh-cong-cu-thanh-toan-hay-chi-la-bong-bong-dau-co-20210302183401446.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nóng nhất hôm nay: Các gia đình ly tán dưới thời ông Trump được ở lại Mỹ?](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-cac-gia-dinh-ly-tan-duoi-thoi-ong-trump-duoc-o-lai-my-885131.ldo) ([Lao Động](https://laodong.vn))
@@ -51,7 +54,6 @@
 - [Địa phương đang có dịch được ưu tiên tiêm vaccine Covid-19](https://vnexpress.net/dia-phuong-dang-co-dich-duoc-uu-tien-tiem-vaccine-covid-19-4242524.html) ([VNExpress](https://vnexpress.net))
 - [Lãnh đạo các bộ: Hoạt động của sàn Forex là không đúng quy định pháp luật](https://tuoitre.vn/lanh-dao-cac-bo-hoat-dong-cua-san-forex-la-khong-dung-quy-dinh-phap-luat-20210302183843371.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chuyên gia nhận định Hải Dương có thể hoàn toàn kiểm soát dịch khoảng 2 đến 3 tuần nữa](https://cafebiz.vn/chuyen-gia-nhan-dinh-hai-duong-co-the-hoan-toan-kiem-soat-dich-khoang-2-den-3-tuan-nua-2021030218191268.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bổ nhiệm PGĐ sở 31 tuổi: Hy vọng Bí thư Tỉnh uỷ Vĩnh Phúc đã rất cẩn thận](http://vietnamnet.vn/vn/thoi-su/chinh-tri/bo-nhiem-pgd-so-31-tuoi-hy-vong-bi-thu-tinh-uy-vinh-phuc-da-rat-can-than-716663.html) ([VietNamNet](https://vietnamnet.vn))
 - [Vụ án Trịnh Xuân Thanh là đại án, khen thưởng là bình thường](https://tuoitre.vn/vu-an-trinh-xuan-thanh-la-dai-an-khen-thuong-la-binh-thuong-20210302182111805.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hải Dương sẽ gỡ phong tỏa như thế nào?](https://tuoitre.vn/hai-duong-se-go-phong-toa-nhu-the-nao-20210302180925215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Phó chủ tịch UBND TP.HCM: Đọc đơn chưa rõ thì tìm hỏi cho rõ, không chuyển lòng vòng](https://tuoitre.vn/pho-chu-tich-ubnd-tp-hcm-doc-don-chua-ro-thi-tim-hoi-cho-ro-khong-chuyen-long-vong-20210302182006035.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -98,5 +100,3 @@
 - [Chiếc Ford GT Heritage Edition 2006 sắp được bán đấu giá, xấp xỉ 605.000 USD: Mới lăn bánh 4km, được bảo quản cực tốt](https://cafebiz.vn/chiec-ford-gt-heritage-edition-2006-sap-duoc-ban-dau-gia-xap-xi-605000-usd-moi-lan-banh-4km-duoc-bao-quan-cuc-tot-2021030215402669.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giới thiệu chủ tịch và tổng thư ký Mặt trận Tổ quốc Việt Nam ứng cử đại biểu Quốc hội](https://tuoitre.vn/gioi-thieu-chu-tich-va-tong-thu-ky-mat-tran-to-quoc-viet-nam-ung-cu-dai-bieu-quoc-hoi-20210302150516184.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - ['Chuyển giao nhiệm kỳ không có tư tưởng cầm chừng, chờ đợi lúc giao thời'](https://tuoitre.vn/chuyen-giao-nhiem-ky-khong-co-tu-tuong-cam-chung-cho-doi-luc-giao-thoi-2021030214534972.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Số ca Covid-19 mới trên toàn cầu lần đầu tiên tăng sau 7 tuần](https://cafebiz.vn/so-ca-covid-19-moi-tren-toan-cau-lan-dau-tien-tang-sau-7-tuan-2021030214002023.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lãnh đạo Hải Dương: 'Tỉnh dừng cách ly xã hội không quá sớm'](https://vnexpress.net/lanh-dao-hai-duong-tinh-dung-cach-ly-xa-hoi-khong-qua-som-4242353.html) ([VNExpress](https://vnexpress.net))
