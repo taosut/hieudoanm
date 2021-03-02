@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 20°C.
 - Feels Like 19.23°C.
-- Air Visual is 92.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bí thư Thành ủy Vương Đình Huệ kiểm tra công trình phục vụ SEA Games 31](https://laodong.vn/the-thao/bi-thu-thanh-uy-vuong-dinh-hue-kiem-tra-cong-trinh-phuc-vu-sea-games-31-885143.ldo) ([Lao Động](https://laodong.vn))
+- [Lương y Võ Hoàng Yên - người bị vợ chồng ông Dũng &quot;lò vôi&quot; tố cáo là ai?](https://laodong.vn/video/luong-y-vo-hoang-yen-nguoi-bi-vo-chong-ong-dung-lo-voi-to-cao-la-ai-884993.ldo) ([Lao Động](https://laodong.vn))
+- [Phó giám đốc Sở 31 tuổi: Không phải là cá biệt ở Vĩnh Phúc](https://tuoitre.vn/pho-giam-doc-so-31-tuoi-khong-phai-la-ca-biet-o-vinh-phuc-20210302191351875.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ngân hàng Nhà nước cảnh báo rủi ro khi nhà đầu tư tham gia vào sàn Forex](https://laodong.vn/phap-luat/ngan-hang-nha-nuoc-canh-bao-rui-ro-khi-nha-dau-tu-tham-gia-vao-san-forex-885138.ldo) ([Lao Động](https://laodong.vn))
+- [Trung Quốc cảnh báo về 2 quả bong bóng sắp vỡ tung, chứng khoán châu Á đồng loạt giao dịch trong sắc đỏ](https://cafebiz.vn/trung-quoc-canh-bao-ve-2-qua-bong-bong-sap-vo-tung-chung-khoan-chau-a-dong-loat-giao-dich-trong-sac-do-20210302182939691.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xây dựng phương án nhân sự cho các vị trí lãnh đạo không tái cử Ủy viên Trung ương](https://tuoitre.vn/xay-dung-phuong-an-nhan-su-cho-cac-vi-tri-lanh-dao-khong-tai-cu-uy-vien-trung-uong-20210302192936739.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Sẽ kiện toàn các chức danh lãnh đạo nhà nước ở kỳ họp Quốc hội cuối tháng 3](https://laodong.vn/thoi-su/se-kien-toan-cac-chuc-danh-lanh-dao-nha-nuoc-o-ky-hop-quoc-hoi-cuoi-thang-3-885159.ldo) ([Lao Động](https://laodong.vn))
 - [Nhập khẩu cá tầm Trung Quốc tăng vọt sau loạt chỉ đạo siết chặt](https://laodong.vn/kinh-te/nhap-khau-ca-tam-trung-quoc-tang-vot-sau-loat-chi-dao-siet-chat-885028.ldo) ([Lao Động](https://laodong.vn))
 - [Bác sỹ tốt nhất trên thế gian là chính mình: Người có trình độ biết cách "hướng nội”, "bắt bệnh" tài tình!](https://cafebiz.vn/bac-sy-tot-nhat-tren-the-gian-la-chinh-minh-nguoi-co-trinh-do-biet-cach-huong-noi-bat-benh-tai-tinh-2021030117172458.chn) ([CafeBiz](https://cafebiz.vn))
 - [King Coffee – Thương hiệu cà phê Việt khẳng định vị thế trên toàn cầu](https://cafebiz.vn/king-coffee-thuong-hieu-ca-phe-viet-khang-dinh-vi-the-tren-toan-cau-20210302161140148.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo dục 24/7: Buổi học đặc biệt của học sinh trường tiểu học Xuân Phương](https://laodong.vn/video/giao-duc-247-buoi-hoc-dac-biet-cua-hoc-sinh-truong-tieu-hoc-xuan-phuong-885103.ldo) ([Lao Động](https://laodong.vn))
-- [Lô vắc xin COVID-19 đầu tiên về Việt Nam sẽ tiêm cho ai, nơi nào?](https://tuoitre.vn/lo-vac-xin-covid-19-dau-tien-ve-viet-nam-se-tiem-cho-ai-noi-nao-20210302185316538.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [An Giang đã ra tay với karaoke lưu động: Cấm toàn tỉnh](https://tuoitre.vn/an-giang-da-ra-tay-voi-karaoke-luu-dong-cam-toan-tinh-20210302174629553.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chính thức quyết định tạm đình chỉ công tác Giám đốc Sở Y tế Cần Thơ](https://laodong.vn/xa-hoi/chinh-thuc-quyet-dinh-tam-dinh-chi-cong-tac-giam-doc-so-y-te-can-tho-885156.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ Công an thông tin về khen thưởng cán bộ điều tra vụ án Trịnh Xuân Thanh](https://laodong.vn/thoi-su/bo-cong-an-thong-tin-ve-khen-thuong-can-bo-dieu-tra-vu-an-trinh-xuan-thanh-885134.ldo) ([Lao Động](https://laodong.vn))
-- [Tỉnh Hải Dương sẽ được ưu tiên tiêm vaccine phòng COVID-19 trước](https://laodong.vn/xa-hoi/tinh-hai-duong-se-duoc-uu-tien-tiem-vaccine-phong-covid-19-truoc-885142.ldo) ([Lao Động](https://laodong.vn))
-- [Rúng động vụ án tham nhũng lớn nhất Nội Mông (TQ): Quan tham cho chơi oẳn tù tì phân chia cấp bậc](https://cafebiz.vn/rung-dong-vu-an-tham-nhung-lon-nhat-noi-mong-tq-quan-tham-cho-choi-oan-tu-ti-phan-chia-cap-bac-20210302182756393.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
