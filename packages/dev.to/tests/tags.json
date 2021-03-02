@@ -1,0 +1,1568 @@
+[
+  {
+    "id": 225,
+    "name": "100daysofcode",
+    "bg_color_hex": "#004d4d",
+    "text_color_hex": "#ffff7d"
+  },
+  {
+    "id": 6459,
+    "name": "12monthsofmakes",
+    "bg_color_hex": "#2f00bc",
+    "text_color_hex": "#f9e2ff"
+  },
+  {
+    "id": 1809,
+    "name": "a11y",
+    "bg_color_hex": "#083b15",
+    "text_color_hex": "#fafffa"
+  },
+  {
+    "id": 63273,
+    "name": "actionshackathon",
+    "bg_color_hex": "#4078c0",
+    "text_color_hex": "#fafafa"
+  },
+  {
+    "id": 16515,
+    "name": "adventofcode",
+    "bg_color_hex": "#22500A",
+    "text_color_hex": "#FF8B8B"
+  },
+  {
+    "id": 120,
+    "name": "agile",
+    "bg_color_hex": "#ffcc00",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 2754,
+    "name": "agiledevelopment",
+    "bg_color_hex": "#FFFFFF",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 888,
+    "name": "algorithm",
+    "bg_color_hex": "#47266c",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 542,
+    "name": "algorithms",
+    "bg_color_hex": "#008000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 344,
+    "name": "ama",
+    "bg_color_hex": "#1395B8",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 316,
+    "name": "android",
+    "bg_color_hex": "#56a036",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 215,
+    "name": "angular",
+    "bg_color_hex": "#A9022A",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 2777,
+    "name": "anonymous",
+    "bg_color_hex": "#00A9AF",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 2676,
+    "name": "ansible",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 74586,
+    "name": "appplatformhack",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 714,
+    "name": "architecture",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 3371,
+    "name": "archlinux",
+    "bg_color_hex": "#0009BD",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 397,
+    "name": "aws",
+    "bg_color_hex": "#212b3a",
+    "text_color_hex": "#FAAF34"
+  },
+  {
+    "id": 678,
+    "name": "azure",
+    "bg_color_hex": "#007FFF",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 22325,
+    "name": "azureapril",
+    "bg_color_hex": "#007FFF",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 944,
+    "name": "babel",
+    "bg_color_hex": "#232422",
+    "text_color_hex": "#f5db53"
+  },
+  {
+    "id": 349,
+    "name": "bash",
+    "bg_color_hex": "#943d3b",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 555,
+    "name": "beginners",
+    "bg_color_hex": "#008335",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 15042,
+    "name": "bestofdev",
+    "bg_color_hex": "#ffefc9",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 26117,
+    "name": "bigthreadbadge",
+    "bg_color_hex": "#1D146D",
+    "text_color_hex": "#FFEFBB"
+  },
+  {
+    "id": 28108,
+    "name": "blacklivesmatter",
+    "bg_color_hex": "#191919",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 650,
+    "name": "blockchain",
+    "bg_color_hex": "#113a62",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 1235,
+    "name": "books",
+    "bg_color_hex": "#5c2531",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 54400,
+    "name": "braziliandevs",
+    "bg_color_hex": "#cdcd00",
+    "text_color_hex": "#008000"
+  },
+  {
+    "id": 336,
+    "name": "c",
+    "bg_color_hex": "#B3BCC5",
+    "text_color_hex": "#073C61"
+  },
+  {
+    "id": 630,
+    "name": "career",
+    "bg_color_hex": "#2A2566",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 653,
+    "name": "careers",
+    "bg_color_hex": "#2A2566",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 2000,
+    "name": "challenge",
+    "bg_color_hex": "#BF1942",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 4722,
+    "name": "changelog",
+    "bg_color_hex": "#f9f1db",
+    "text_color_hex": "#666666"
+  },
+  {
+    "id": 41019,
+    "name": "checkin",
+    "bg_color_hex": "#004d4d",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 14,
+    "name": "clojure",
+    "bg_color_hex": "#21407a",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 465,
+    "name": "cloud",
+    "bg_color_hex": "#FF9900",
+    "text_color_hex": "#232F3E"
+  },
+  {
+    "id": 6356,
+    "name": "cnc2018",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 1902,
+    "name": "codeland",
+    "bg_color_hex": "#ff99c2",
+    "text_color_hex": "#191919"
+  },
+  {
+    "id": 165,
+    "name": "codenewbie",
+    "bg_color_hex": "#57d700",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 6357,
+    "name": "codenewbies",
+    "bg_color_hex": "#57d700",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 1808,
+    "name": "codepen",
+    "bg_color_hex": "#000423",
+    "text_color_hex": "#71FF9E"
+  },
+  {
+    "id": 214,
+    "name": "codequality",
+    "bg_color_hex": "#e5fffd",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 2118,
+    "name": "computerscience",
+    "bg_color_hex": "#d98cd9",
+    "text_color_hex": "#323232"
+  },
+  {
+    "id": 17730,
+    "name": "contributorswanted",
+    "bg_color_hex": "#064300",
+    "text_color_hex": "#FFFCF9"
+  },
+  {
+    "id": 808,
+    "name": "cpp",
+    "bg_color_hex": "#014784",
+    "text_color_hex": "#7A97C3"
+  },
+  {
+    "id": 634,
+    "name": "csharp",
+    "bg_color_hex": "#07CD00",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 23,
+    "name": "css",
+    "bg_color_hex": "#2965F1",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 16712,
+    "name": "csschallenge",
+    "bg_color_hex": "#161039",
+    "text_color_hex": "#FFFCEC"
+  },
+  {
+    "id": 5999,
+    "name": "cybersecurity",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#00e600"
+  },
+  {
+    "id": 33782,
+    "name": "darklang",
+    "bg_color_hex": "#15052d",
+    "text_color_hex": "#e8e8ff"
+  },
+  {
+    "id": 5,
+    "name": "dart",
+    "bg_color_hex": "#41C4FF",
+    "text_color_hex": "#03589C"
+  },
+  {
+    "id": 439,
+    "name": "database",
+    "bg_color_hex": "#ED1556",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 844,
+    "name": "datascience",
+    "bg_color_hex": "#009999",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 100,
+    "name": "ddos",
+    "bg_color_hex": "#4b4b4b",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 263,
+    "name": "deeplearning",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#d98cd9"
+  },
+  {
+    "id": 13381,
+    "name": "deno",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 53342,
+    "name": "devgrad2020",
+    "bg_color_hex": "#ffffff",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 32214,
+    "name": "devjournal",
+    "bg_color_hex": "#820000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 11268,
+    "name": "devlive",
+    "bg_color_hex": "#353535",
+    "text_color_hex": "#FDFFA2"
+  },
+  {
+    "id": 168,
+    "name": "devops",
+    "bg_color_hex": "#06B500",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 54580,
+    "name": "devpride",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 3140,
+    "name": "devrel",
+    "bg_color_hex": "#FFFFFF",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 10100,
+    "name": "devshop",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 715,
+    "name": "discuss",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 1568,
+    "name": "distributedsystems",
+    "bg_color_hex": "#006666",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 446,
+    "name": "django",
+    "bg_color_hex": "#103E2E",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 31,
+    "name": "docker",
+    "bg_color_hex": "#73C7E6",
+    "text_color_hex": "#134871"
+  },
+  {
+    "id": 74720,
+    "name": "dohackathon",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 718,
+    "name": "dotnet",
+    "bg_color_hex": "#5D2590",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 450,
+    "name": "elasticsearch",
+    "bg_color_hex": "#00BFB3",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 27,
+    "name": "elixir",
+    "bg_color_hex": "#4A245D",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 3,
+    "name": "elm",
+    "bg_color_hex": "#31788c",
+    "text_color_hex": "#ffcf55"
+  },
+  {
+    "id": 3596,
+    "name": "ember",
+    "bg_color_hex": "#E04E39",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 22,
+    "name": "emberjs",
+    "bg_color_hex": "#FFFFFF",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 3256,
+    "name": "eventdriven",
+    "bg_color_hex": "#2a3139",
+    "text_color_hex": "#1fc998"
+  },
+  {
+    "id": 9140,
+    "name": "eventsinyourcity",
+    "bg_color_hex": "#9886FF",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 2596,
+    "name": "explainlikeimfive",
+    "bg_color_hex": "#44474c",
+    "text_color_hex": "#e8eaed"
+  },
+  {
+    "id": 32548,
+    "name": "fauna",
+    "bg_color_hex": "#FFFFFF",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 21467,
+    "name": "firstyearincode",
+    "bg_color_hex": "#3E87BA",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 1905,
+    "name": "flutter",
+    "bg_color_hex": "#56C5F6",
+    "text_color_hex": "#2B3A48"
+  },
+  {
+    "id": 11008,
+    "name": "followfriday",
+    "bg_color_hex": "#22144c",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 3920,
+    "name": "foss",
+    "bg_color_hex": "#FFFFFF",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 763,
+    "name": "fp",
+    "bg_color_hex": "#FFF1F8",
+    "text_color_hex": "#1D0022"
+  },
+  {
+    "id": 4479,
+    "name": "freesoftware",
+    "bg_color_hex": "#FFFFFF",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 1043,
+    "name": "fsharp",
+    "bg_color_hex": "#028fcc",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 669,
+    "name": "functional",
+    "bg_color_hex": "#FFF1F8",
+    "text_color_hex": "#1D0022"
+  },
+  {
+    "id": 338,
+    "name": "gamedev",
+    "bg_color_hex": "#3D005C",
+    "text_color_hex": "#99FFB8"
+  },
+  {
+    "id": 1167,
+    "name": "gamedevelopment",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 1526,
+    "name": "gatsby",
+    "bg_color_hex": "#663399",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 4376,
+    "name": "gatsbyjs",
+    "bg_color_hex": "#0a0a0a",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 52513,
+    "name": "gftw",
+    "bg_color_hex": "#fedfe7",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 52512,
+    "name": "gftwhackathon",
+    "bg_color_hex": "#d0c2fb",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 29,
+    "name": "git",
+    "bg_color_hex": "#F54D27",
+    "text_color_hex": "#413932"
+  },
+  {
+    "id": 342,
+    "name": "github",
+    "bg_color_hex": "#191919",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 18442,
+    "name": "githunt",
+    "bg_color_hex": "#0C0C0C",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 4007,
+    "name": "glitch",
+    "bg_color_hex": "#3901A9",
+    "text_color_hex": "#FFD3F0"
+  },
+  {
+    "id": 13,
+    "name": "go",
+    "bg_color_hex": "#E0EBF5",
+    "text_color_hex": "#043C6F"
+  },
+  {
+    "id": 1804,
+    "name": "googlecloud",
+    "bg_color_hex": "#003cb3",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 9507,
+    "name": "grails",
+    "bg_color_hex": "#ffb27d",
+    "text_color_hex": null
+  },
+  {
+    "id": 81,
+    "name": "graphql",
+    "bg_color_hex": "#171e26",
+    "text_color_hex": "#ff5bc8"
+  },
+  {
+    "id": 902,
+    "name": "gratitude",
+    "bg_color_hex": "#b51800",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 12584,
+    "name": "graveyard",
+    "bg_color_hex": "#292929",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 3856,
+    "name": "groovy",
+    "bg_color_hex": "#4298b8",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 2873,
+    "name": "grpc",
+    "bg_color_hex": "#04AF9E",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 4074,
+    "name": "hacktoberfest",
+    "bg_color_hex": "#29161f",
+    "text_color_hex": "#ffa368"
+  },
+  {
+    "id": 4,
+    "name": "haskell",
+    "bg_color_hex": "#440063",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 13225,
+    "name": "healthydebate",
+    "bg_color_hex": "#16b886",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 1798,
+    "name": "help",
+    "bg_color_hex": "#ff3232",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 725,
+    "name": "helpanewbie",
+    "bg_color_hex": "#ffffff",
+    "text_color_hex": "#1af59f"
+  },
+  {
+    "id": 161,
+    "name": "heroku",
+    "bg_color_hex": "#513771",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 91,
+    "name": "hiring",
+    "bg_color_hex": "#BAFFF1",
+    "text_color_hex": "#007777"
+  },
+  {
+    "id": 57,
+    "name": "html",
+    "bg_color_hex": "#F53900",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 1225,
+    "name": "html5",
+    "bg_color_hex": "#FFFF00",
+    "text_color_hex": "#0000FF"
+  },
+  {
+    "id": 10519,
+    "name": "ibmwatson",
+    "bg_color_hex": "#004de6",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 1415,
+    "name": "icymi",
+    "bg_color_hex": "#6ce2cd",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 449,
+    "name": "inclusion",
+    "bg_color_hex": "#FF1170",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 652,
+    "name": "interviews",
+    "bg_color_hex": "#FFFFFF",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 5306,
+    "name": "inthirtyseconds",
+    "bg_color_hex": "#f4b942",
+    "text_color_hex": "#1e198c"
+  },
+  {
+    "id": 1940,
+    "name": "ionic",
+    "bg_color_hex": "#4C8AFF",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 12,
+    "name": "ios",
+    "bg_color_hex": "#0c76e2",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 24,
+    "name": "java",
+    "bg_color_hex": "#01476e",
+    "text_color_hex": "#ff8f8f"
+  },
+  {
+    "id": 6,
+    "name": "javascript",
+    "bg_color_hex": "#F7DF1E",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 12851,
+    "name": "jokes",
+    "bg_color_hex": "#F6298C",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 1955,
+    "name": "journal",
+    "bg_color_hex": "#FFFFFF",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 4483,
+    "name": "jupyter",
+    "bg_color_hex": "#E46E2E",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 234,
+    "name": "kotlin",
+    "bg_color_hex": "#1b1865",
+    "text_color_hex": "#fdc791"
+  },
+  {
+    "id": 961,
+    "name": "kubernetes",
+    "bg_color_hex": "#326DE6",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 208,
+    "name": "laravel",
+    "bg_color_hex": "#dc2d17",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 956,
+    "name": "leadership",
+    "bg_color_hex": "#4d004d",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 38408,
+    "name": "lgbtq",
+    "bg_color_hex": "#ffffff",
+    "text_color_hex": "#8f008f"
+  },
+  {
+    "id": 118,
+    "name": "linux",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#4FF14F"
+  },
+  {
+    "id": 262,
+    "name": "machinelearning",
+    "bg_color_hex": "#E5FFE3",
+    "text_color_hex": "#363636"
+  },
+  {
+    "id": 40,
+    "name": "markdown",
+    "bg_color_hex": "#FFFFFF",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 1306,
+    "name": "mentalhealth",
+    "bg_color_hex": "#80b3ff",
+    "text_color_hex": "#061652"
+  },
+  {
+    "id": 275,
+    "name": "meta",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 6478,
+    "name": "minecraft",
+    "bg_color_hex": "#442031",
+    "text_color_hex": "#D4FFD7"
+  },
+  {
+    "id": 6384,
+    "name": "mixedreality",
+    "bg_color_hex": "#0065b3",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 63153,
+    "name": "mlhgrad",
+    "bg_color_hex": "#1C549F",
+    "text_color_hex": "#F8B92A"
+  },
+  {
+    "id": 65,
+    "name": "mongodb",
+    "bg_color_hex": "#7bcc7c",
+    "text_color_hex": "#212223"
+  },
+  {
+    "id": 443,
+    "name": "monitoring",
+    "bg_color_hex": "#ffa364",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 113,
+    "name": "motivation",
+    "bg_color_hex": "#6c00b9",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 4071,
+    "name": "mrrobot",
+    "bg_color_hex": "#070707",
+    "text_color_hex": "#ca1f25"
+  },
+  {
+    "id": 66936,
+    "name": "mulesofthackathon",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#0000ff"
+  },
+  {
+    "id": 565,
+    "name": "mysql",
+    "bg_color_hex": "#ED1556",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 44,
+    "name": "news",
+    "bg_color_hex": "#111111",
+    "text_color_hex": "#fff9ac"
+  },
+  {
+    "id": 2933,
+    "name": "nlp",
+    "bg_color_hex": "#ffb27d",
+    "text_color_hex": "#820000"
+  },
+  {
+    "id": 15,
+    "name": "node",
+    "bg_color_hex": "#3d8836",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 95,
+    "name": "npm",
+    "bg_color_hex": "#cb3837",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 7011,
+    "name": "nuxt",
+    "bg_color_hex": "#050438",
+    "text_color_hex": "#baffdf"
+  },
+  {
+    "id": 5295,
+    "name": "nuxtjs",
+    "bg_color_hex": "#06214d",
+    "text_color_hex": "#baffdf"
+  },
+  {
+    "id": 5083,
+    "name": "ocaml",
+    "bg_color_hex": "#f08803",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 53793,
+    "name": "octograd2020",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#7EC8C9"
+  },
+  {
+    "id": 5113,
+    "name": "offers",
+    "bg_color_hex": "#8DD675",
+    "text_color_hex": "#416236"
+  },
+  {
+    "id": 45,
+    "name": "oop",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 228,
+    "name": "opensource",
+    "bg_color_hex": "#26BE00",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 2850,
+    "name": "ourstack",
+    "bg_color_hex": "#f44262",
+    "text_color_hex": "#e5e5e5"
+  },
+  {
+    "id": 677,
+    "name": "performance",
+    "bg_color_hex": "#ffa364",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 18,
+    "name": "perl",
+    "bg_color_hex": "#05bfed",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 18863,
+    "name": "personalnews",
+    "bg_color_hex": "#1A0868",
+    "text_color_hex": "#EEEDFF"
+  },
+  {
+    "id": 16,
+    "name": "php",
+    "bg_color_hex": "#23A1AA",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 831,
+    "name": "podcast",
+    "bg_color_hex": "#339999",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 5486,
+    "name": "podcasting",
+    "bg_color_hex": "#FFFFFF",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 1660,
+    "name": "podcasts",
+    "bg_color_hex": "#FFFFFF",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 5068,
+    "name": "polymer",
+    "bg_color_hex": "#ffffff",
+    "text_color_hex": "#0d47a1"
+  },
+  {
+    "id": 76,
+    "name": "postgres",
+    "bg_color_hex": "#ED1556",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 60215,
+    "name": "powerfuldevs",
+    "bg_color_hex": "#06E5D1",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 3666,
+    "name": "preact",
+    "bg_color_hex": "#673ab8",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 24012,
+    "name": "pride",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 112,
+    "name": "productivity",
+    "bg_color_hex": "#2A0798",
+    "text_color_hex": "#C8F7C5"
+  },
+  {
+    "id": 27699,
+    "name": "projectbenatar",
+    "bg_color_hex": "#2F0C5F",
+    "text_color_hex": "#D3FFE8"
+  },
+  {
+    "id": 2766,
+    "name": "prolog",
+    "bg_color_hex": "#002b80",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 1669,
+    "name": "pubsub",
+    "bg_color_hex": "#2a3139",
+    "text_color_hex": "#1fc998"
+  },
+  {
+    "id": 10003,
+    "name": "puppet",
+    "bg_color_hex": "#ffad1a",
+    "text_color_hex": "#212121"
+  },
+  {
+    "id": 5886,
+    "name": "pusher",
+    "bg_color_hex": "#eee8f3",
+    "text_color_hex": "#30104D"
+  },
+  {
+    "id": 9139,
+    "name": "pushercontest",
+    "bg_color_hex": "#30104D",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 16552,
+    "name": "pwl",
+    "bg_color_hex": "#231F8F",
+    "text_color_hex": "#C5BAFF"
+  },
+  {
+    "id": 25,
+    "name": "python",
+    "bg_color_hex": "#1E38BB",
+    "text_color_hex": "#FFDF5B"
+  },
+  {
+    "id": 739,
+    "name": "quality",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 47,
+    "name": "rails",
+    "bg_color_hex": "#CC0000",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 836,
+    "name": "raspberry",
+    "bg_color_hex": "#c51d4a",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 726,
+    "name": "raspberrypi",
+    "bg_color_hex": "#C20000",
+    "text_color_hex": "#E6FFE5"
+  },
+  {
+    "id": 125,
+    "name": "react",
+    "bg_color_hex": "#222222",
+    "text_color_hex": "#61DAF6"
+  },
+  {
+    "id": 841,
+    "name": "reactnative",
+    "bg_color_hex": "#2D2D2D",
+    "text_color_hex": "#B6C4C7"
+  },
+  {
+    "id": 3064,
+    "name": "reason",
+    "bg_color_hex": "#db4d3f",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 5720,
+    "name": "reasonml",
+    "bg_color_hex": "#db4d3f",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 3453,
+    "name": "redis",
+    "bg_color_hex": "#b40000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 426,
+    "name": "redux",
+    "bg_color_hex": "#764ABC",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 362,
+    "name": "refactor",
+    "bg_color_hex": "#F5F5F5",
+    "text_color_hex": "#0A0A0A"
+  },
+  {
+    "id": 6669,
+    "name": "refactorit",
+    "bg_color_hex": "#FFDB4F",
+    "text_color_hex": "#D6422C"
+  },
+  {
+    "id": 957,
+    "name": "replit",
+    "bg_color_hex": "#516269",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 19540,
+    "name": "requestforpost",
+    "bg_color_hex": "#C3080B",
+    "text_color_hex": "#FBFBFB"
+  },
+  {
+    "id": 1,
+    "name": "ruby",
+    "bg_color_hex": "#CC342D",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 2,
+    "name": "rust",
+    "bg_color_hex": "#d4a174",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 85,
+    "name": "rxjs",
+    "bg_color_hex": "#460D79",
+    "text_color_hex": "#FFF1FB"
+  },
+  {
+    "id": 287,
+    "name": "saas",
+    "bg_color_hex": "#aaffec",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 2776,
+    "name": "safari",
+    "bg_color_hex": "#b3d1ff",
+    "text_color_hex": "#001a4d"
+  },
+  {
+    "id": 9,
+    "name": "scala",
+    "bg_color_hex": "#DF3F3D",
+    "text_color_hex": "#fff"
+  },
+  {
+    "id": 56,
+    "name": "security",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#23ff00"
+  },
+  {
+    "id": 918,
+    "name": "serverless",
+    "bg_color_hex": "#1C1C1C",
+    "text_color_hex": "#FEFFF2"
+  },
+  {
+    "id": 660,
+    "name": "shecoded",
+    "bg_color_hex": "#47266c",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 21192,
+    "name": "shecodedally",
+    "bg_color_hex": "#47266c",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 223,
+    "name": "showdev",
+    "bg_color_hex": "#091b47",
+    "text_color_hex": "#b2ffe1"
+  },
+  {
+    "id": 8065,
+    "name": "siliconvalley",
+    "bg_color_hex": "#398d3c",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 3062,
+    "name": "softwarearchitecture",
+    "bg_color_hex": "#ffffff",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 27942,
+    "name": "sorbet",
+    "bg_color_hex": "#002b80",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 13350,
+    "name": "sotwsurvey",
+    "bg_color_hex": "#D9CAB3",
+    "text_color_hex": "#90323D"
+  },
+  {
+    "id": 17,
+    "name": "sql",
+    "bg_color_hex": "#ED1556",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 4803,
+    "name": "sre",
+    "bg_color_hex": "#3C9559",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 1563,
+    "name": "stackoverflow",
+    "bg_color_hex": "#ff6600",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 858,
+    "name": "stacksurvey17",
+    "bg_color_hex": "#1387f4",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 280,
+    "name": "startup",
+    "bg_color_hex": "#E6FFFB",
+    "text_color_hex": "#1B086B"
+  },
+  {
+    "id": 4806,
+    "name": "students",
+    "bg_color_hex": "#490000",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 2856,
+    "name": "styledcomponents",
+    "bg_color_hex": "#C125AF",
+    "text_color_hex": "#FFF9F8"
+  },
+  {
+    "id": 4912,
+    "name": "svelte",
+    "bg_color_hex": "#ff3e00",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 7,
+    "name": "swift",
+    "bg_color_hex": "#ea4e28",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 1541,
+    "name": "systems",
+    "bg_color_hex": "#e4dddd",
+    "text_color_hex": "#151414"
+  },
+  {
+    "id": 18562,
+    "name": "teabreakchallenge",
+    "bg_color_hex": "#110744",
+    "text_color_hex": "#FFF4E4"
+  },
+  {
+    "id": 3124,
+    "name": "techtalks",
+    "bg_color_hex": "#311a99",
+    "text_color_hex": "#ff6264"
+  },
+  {
+    "id": 4033,
+    "name": "tensorflow",
+    "bg_color_hex": "#FF6827",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 203,
+    "name": "testing",
+    "bg_color_hex": "#019b65",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 7543,
+    "name": "theycoded",
+    "bg_color_hex": "#47266c",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 8631,
+    "name": "todayigoogled",
+    "bg_color_hex": "#0059FF",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 5305,
+    "name": "todayilearned",
+    "bg_color_hex": "#ffedc9",
+    "text_color_hex": "#820000"
+  },
+  {
+    "id": 20035,
+    "name": "todayisearched",
+    "bg_color_hex": "#0059FF",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 2078,
+    "name": "tooling",
+    "bg_color_hex": "#c1d82f",
+    "text_color_hex": "#293845"
+  },
+  {
+    "id": 297,
+    "name": "tutorial",
+    "bg_color_hex": "#FEFFA5",
+    "text_color_hex": "#b30047"
+  },
+  {
+    "id": 580,
+    "name": "twilio",
+    "bg_color_hex": "#FFFFFF",
+    "text_color_hex": "#F42F42"
+  },
+  {
+    "id": 49636,
+    "name": "twiliohackathon",
+    "bg_color_hex": "#0D122B",
+    "text_color_hex": "#F22F46"
+  },
+  {
+    "id": 73,
+    "name": "twitter",
+    "bg_color_hex": "#009DF8",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 169,
+    "name": "typescript",
+    "bg_color_hex": "#234A84",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 553,
+    "name": "ubuntu",
+    "bg_color_hex": "#E95420",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 525,
+    "name": "ui",
+    "bg_color_hex": "#7b68be",
+    "text_color_hex": "#eff2f4"
+  },
+  {
+    "id": 8443,
+    "name": "uiweekly",
+    "bg_color_hex": "#113d84",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 4766,
+    "name": "unity3d",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 353,
+    "name": "ux",
+    "bg_color_hex": "#0065B3",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 928,
+    "name": "vim",
+    "bg_color_hex": "#AA65CB",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 303,
+    "name": "vscode",
+    "bg_color_hex": "#1c1c1c",
+    "text_color_hex": "#8cb8ff"
+  },
+  {
+    "id": 1760,
+    "name": "vue",
+    "bg_color_hex": "#41B883",
+    "text_color_hex": "#35495E"
+  },
+  {
+    "id": 26303,
+    "name": "watercooler",
+    "bg_color_hex": "#D0ECFF",
+    "text_color_hex": "#130074"
+  },
+  {
+    "id": 6165,
+    "name": "watson",
+    "bg_color_hex": "#FFFFFF",
+    "text_color_hex": "#000000"
+  },
+  {
+    "id": 3091,
+    "name": "webassembly",
+    "bg_color_hex": "#644EF0",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 724,
+    "name": "webcomponents",
+    "bg_color_hex": "#D3FFDE",
+    "text_color_hex": "#080808"
+  },
+  {
+    "id": 8,
+    "name": "webdev",
+    "bg_color_hex": "#562765",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 35984,
+    "name": "webmonetization",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#6adaab"
+  },
+  {
+    "id": 129,
+    "name": "webpack",
+    "bg_color_hex": "#B3CBE6",
+    "text_color_hex": "#193E7D"
+  },
+  {
+    "id": 777,
+    "name": "webperf",
+    "bg_color_hex": "#8f100c",
+    "text_color_hex": "#f9fddc"
+  },
+  {
+    "id": 52,
+    "name": "webperformance",
+    "bg_color_hex": "#4459c4",
+    "text_color_hex": "#ffe330"
+  },
+  {
+    "id": 19900,
+    "name": "weeklyretro",
+    "bg_color_hex": "#A2FFF1",
+    "text_color_hex": "#FF2571"
+  },
+  {
+    "id": 8466,
+    "name": "weeklyui",
+    "bg_color_hex": "#113D84",
+    "text_color_hex": "#FFFDFD"
+  },
+  {
+    "id": 839,
+    "name": "welcome",
+    "bg_color_hex": "#df9fdf",
+    "text_color_hex": null
+  },
+  {
+    "id": 7072,
+    "name": "whoishiring",
+    "bg_color_hex": "#BAFFF1",
+    "text_color_hex": "#007777"
+  },
+  {
+    "id": 1188,
+    "name": "womenintech",
+    "bg_color_hex": "#2de29d",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 528,
+    "name": "wordpress",
+    "bg_color_hex": "#108EC2",
+    "text_color_hex": "#FFFFFF"
+  },
+  {
+    "id": 6554,
+    "name": "workstation",
+    "bg_color_hex": "#000000",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 13532,
+    "name": "workstations",
+    "bg_color_hex": "#004d4d",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 746,
+    "name": "writing",
+    "bg_color_hex": "#0813FF",
+    "text_color_hex": "#F5F2FF"
+  },
+  {
+    "id": 2080,
+    "name": "xamarin",
+    "bg_color_hex": "#3498DB",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 2923,
+    "name": "xamarinforms",
+    "bg_color_hex": "#3498DB",
+    "text_color_hex": "#ffffff"
+  },
+  {
+    "id": 5898,
+    "name": "yearinreview",
+    "bg_color_hex": "#F1FFEA",
+    "text_color_hex": "#051625"
+  },
+  {
+    "id": 5080,
+    "name": "youshouldfollow",
+    "bg_color_hex": "#2413a5",
+    "text_color_hex": "#daffa3"
+  }
+]
