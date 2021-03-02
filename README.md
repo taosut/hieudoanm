@@ -21,7 +21,7 @@
 
 - Current weather is clear sky.
 - Temperature is 20°C.
-- Feels Like 17.48°C.
+- Feels Like 16.76°C.
 - Air Visual is 69.
 
 **WEATHER**
@@ -51,18 +51,18 @@
 - [![Anya Taylor-Joy](https://img.shields.io/static/v1?label=Anya%20Taylor-Joy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anya%20Taylor-Joy)
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
-- [![Bé gái hai tuổi rơi từ tầng 12 chung cư](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%20hai%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012%20chung%20c%C6%B0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%20hai%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012%20chung%20c%C6%B0)
+- [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
 - [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
-- [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
 - [![Em be roi tu tang 12](https://img.shields.io/static/v1?label=Em%20be%20roi%20tu%20tang%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20be%20roi%20tu%20tang%2012)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
+- [![Gareth Bale](https://img.shields.io/static/v1?label=Gareth%20Bale&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gareth%20Bale)
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
-- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
-- [![Nguyễn Ngọc Mạnh](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20M%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20M%E1%BA%A1nh)
+- [![Nguyen ngoc manh](https://img.shields.io/static/v1?label=Nguyen%20ngoc%20manh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguyen%20ngoc%20manh)
+- [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
 - [![Uni5](https://img.shields.io/static/v1?label=Uni5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Uni5)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Anh Nguyễn Ngọc Mạnh nhận thêm bằng khen](https://laodong.vn/xa-hoi/anh-nguyen-ngoc-manh-nhan-them-bang-khen-884846.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng đảo chiều chóng mặt, lại quay đầu giảm mạnh](https://cafebiz.vn/gia-vang-dao-chieu-chong-mat-lai-quay-dau-giam-manh-20210302093915088.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bị Sociedad cầm hòa, Real Madrid mất đà trước trận derby](https://laodong.vn/bong-da-quoc-te/bi-sociedad-cam-hoa-real-madrid-mat-da-truoc-tran-derby-884843.ldo) ([Lao Động](https://laodong.vn))
-- [Nguyên thủ quốc gia thứ 2 trong lịch sử Pháp hiện đại nhận 3 năm tù](https://laodong.vn/the-gioi/nguyen-thu-quoc-gia-thu-2-trong-lich-su-phap-hien-dai-nhan-3-nam-tu-884855.ldo) ([Lao Động](https://laodong.vn))
-- [Mộc Châu Milk đặt kế hoạch lợi nhuận 338 tỷ đồng năm 2021](https://cafebiz.vn/moc-chau-milk-dat-ke-hoach-loi-nhuan-338-ty-dong-nam-2021-20210302093507312.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những 'camera chạy bằng cơm' phòng vệ biên giới Tây Nam](https://tuoitre.vn/nhung-camera-chay-bang-com-phong-ve-bien-gioi-tay-nam-20210302091323691.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chính quyền ông Biden không chia sẻ vaccine COVID-19 với Mexico](https://laodong.vn/the-gioi/chinh-quyen-ong-biden-khong-chia-se-vaccine-covid-19-voi-mexico-884848.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương bỏ giãn cách xã hội có sớm không?](https://tuoitre.vn/hai-duong-bo-gian-cach-xa-hoi-co-som-khong-20210302090430139.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Một giáo viên mất 650 triệu đồng sau cuộc gọi từ số điện thoại lạ](https://laodong.vn/phap-luat/mot-giao-vien-mat-650-trieu-dong-sau-cuoc-goi-tu-so-dien-thoai-la-884811.ldo) ([Lao Động](https://laodong.vn))
-- [Ban Tổ chức Tỉnh ủy Vĩnh Phúc: Không áp lực khi bổ nhiệm con gái bí thư tỉnh làm phó giám đốc sở](https://tuoitre.vn/ban-to-chuc-tinh-uy-vinh-phuc-khong-ap-luc-khi-bo-nhiem-con-gai-bi-thu-tinh-lam-pho-giam-doc-so-20210302085750903.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tesla Mafia: Nhóm nhân viên, đồng nghiệp cũ của Elon Musk nghỉ việc, mở công ty riêng, tạo ra thế lực 30 tỷ USD cạnh tranh trực tiếp với Tesla](https://cafebiz.vn/tesla-mafia-nhom-nhan-vien-dong-nghiep-cu-cua-elon-musk-nghi-viec-mo-cong-ty-rieng-tao-ra-the-luc-30-ty-usd-canh-tranh-truc-tiep-voi-tesla-2021030210023354.chn) ([CafeBiz](https://cafebiz.vn))
+- [Long An: Vứt nhầm 12 tờ vé số trị giá 180 triệu đồng, cả xóm lục tung thùng rác tìm giữa đêm khuya](https://cafebiz.vn/long-an-vut-nham-12-to-ve-so-tri-gia-180-trieu-dong-ca-xom-luc-tung-thung-rac-tim-giua-dem-khuya-20210302100058499.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thời trang dạo phố chất lừ cùng Chảnh shop](https://cafebiz.vn/thoi-trang-dao-pho-chat-lu-cung-chanh-shop-20210302090914636.chn) ([CafeBiz](https://cafebiz.vn))
+- [Video 10 giây đáng giá 6,6 triệu USD vì được blockchain chứng nhận độc bản](https://cafebiz.vn/video-10-giay-dang-gia-66-trieu-usd-vi-duoc-blockchain-chung-nhan-doc-ban-20210302084812496.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ngành mỹ phẩm khai phá sức mạnh của Barcode, QR Code như thế nào?](https://cafebiz.vn/nganh-my-pham-khai-pha-suc-manh-cua-barcode-qr-code-nhu-the-nao-20210301090612882.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cách sử dụng và bảo dưỡng bình ắc quy xe điện](https://laodong.vn/xe/cach-su-dung-va-bao-duong-binh-ac-quy-xe-dien-884793.ldo) ([Lao Động](https://laodong.vn))
+- [Lạm phát có dấu hiệu tăng: Tín hiệu cảnh báo với thị trường chứng khoán](https://cafebiz.vn/lam-phat-co-dau-hieu-tang-tin-hieu-canh-bao-voi-thi-truong-chung-khoan-20210302095944691.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ngày đầu trở lại lớp, học sinh trường Xuân Phương dậy từ 5h sáng](https://laodong.vn/photo/ngay-dau-tro-lai-lop-hoc-sinh-truong-xuan-phuong-day-tu-5h-sang-884812.ldo) ([Lao Động](https://laodong.vn))
+- [Sự lợi hại của lãi kép: Dành 5 triệu đồng/tháng để đầu tư, lãi suất giả định 24%, 15 năm sau các con số thu về sẽ làm bạn bất ngờ!](https://cafebiz.vn/su-loi-hai-cua-lai-kep-danh-5-trieu-dong-thang-de-dau-tu-lai-suat-gia-dinh-24-15-nam-sau-cac-con-so-thu-ve-se-lam-ban-bat-ngo-20210301175330392.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá vàng và ngoại tệ 2.3: Giá vàng quay đầu giảm mạnh](https://laodong.vn/video/gia-vang-va-ngoai-te-23-gia-vang-quay-dau-giam-manh-884861.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -133,8 +133,8 @@
 01. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 03. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
-04. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-05. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+04. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+05. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 07. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 08. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
