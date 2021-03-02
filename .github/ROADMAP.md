@@ -73,6 +73,7 @@
 - [ ] [AWS Certifications](https://aws.amazon.com/certification/)
   - [ ] [Associate - Developer](https://aws.amazon.com/certification/certified-developer-associate/)
   - [ ] [Professional - DevOps Engineer](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+  - [ ] [Specialty - Machine Learning](https://aws.amazon.com/certification/certified-machine-learning-specialty/)
 - [ ] Korean
   - [ ] B1
   - [ ] B2
