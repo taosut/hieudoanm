@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 21°C.
 - Feels Like 19.09°C.
-- Air Visual is 75.
+- Air Visual is 73.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Một người Lào vượt biên để bán sắn, nhiều người phải cách ly phòng dịch](https://laodong.vn/xa-hoi/mot-nguoi-lao-vuot-bien-de-ban-san-nhieu-nguoi-phai-cach-ly-phong-dich-885008.ldo) ([Lao Động](https://laodong.vn))
+- [Giáo viên nào phải có chứng chỉ chức danh nghề nghiệp hạng I, II, III?](https://laodong.vn/giao-duc/giao-vien-nao-phai-co-chung-chi-chuc-danh-nghe-nghiep-hang-i-ii-iii-884891.ldo) ([Lao Động](https://laodong.vn))
+- [Hình ảnh Hải Dương trước giờ kết thúc cách ly xã hội](https://laodong.vn/photo/hinh-anh-hai-duong-truoc-gio-ket-thuc-cach-ly-xa-hoi-884972.ldo) ([Lao Động](https://laodong.vn))
+- [Điều gì xảy ra với cơ thể khi thức dậy sớm vào buổi sáng?](https://laodong.vn/suc-khoe/dieu-gi-xay-ra-voi-co-the-khi-thuc-day-som-vao-buoi-sang-885005.ldo) ([Lao Động](https://laodong.vn))
+- [LĐLĐ tỉnh Bình Thuận: Hơn 200 nữ CNVCLĐ nghèo được vay vốn 1 tỉ đồng](https://laodong.vn/cong-doan/ldld-tinh-binh-thuan-hon-200-nu-cnvcld-ngheo-duoc-vay-von-1-ti-dong-885004.ldo) ([Lao Động](https://laodong.vn))
+- [Số ca Covid-19 mới trên toàn cầu lần đầu tiên tăng sau 7 tuần](https://cafebiz.vn/so-ca-covid-19-moi-tren-toan-cau-lan-dau-tien-tang-sau-7-tuan-2021030214002023.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Không có chuyện Hải Dương dừng cách ly xã hội quá sớm'](https://vnexpress.net/khong-co-chuyen-hai-duong-dung-cach-ly-xa-hoi-qua-som-4242353.html) ([VNExpress](https://vnexpress.net))
+- [Viết email là một nghệ thuật, giao tiếp bắt đầu từ người nhận](https://cafebiz.vn/viet-email-la-mot-nghe-thuat-giao-tiep-bat-dau-tu-nguoi-nhan-20210302113843292.chn) ([CafeBiz](https://cafebiz.vn))
+- [CSGT đã ra quân, xe chở mía cồng kềnh vẫn tung hoành trên quốc lộ 26](https://tuoitre.vn/csgt-da-ra-quan-xe-cho-mia-cong-kenh-van-tung-hoanh-tren-quoc-lo-26-20210302131827821.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tờ báo hàng đầu châu Âu từ chối tham gia Facebook News](https://cafebiz.vn/to-bao-hang-dau-chau-au-tu-choi-tham-gia-facebook-news-20210302135111387.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kinh tế 2 tháng đầu năm đối mặt Covid-19: Hơn 21.000 DN tạm ngừng kinh doanh, tăng 34% so với cùng kỳ 2020, tăng 60% so với 2019](https://cafebiz.vn/kinh-te-2-thang-dau-nam-doi-mat-covid-19-hon-21000-dn-tam-ngung-kinh-doanh-tang-34-so-voi-cung-ky-2020-tang-60-so-voi-2019-20210302112503488.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cơn ác mộng của các ngân hàng lớn nhất nước Mỹ trở thành hiện thực: Walmart chiêu mộ nhân tài từ nhà băng nổi tiếng, chính thức bước chân vào ngành tài chính](https://cafebiz.vn/con-ac-mong-cua-cac-ngan-hang-lon-nhat-nuoc-my-tro-thanh-hien-thuc-walmart-chieu-mo-nhan-tai-tu-nha-bang-noi-tieng-chinh-thuc-buoc-chan-vao-nganh-tai-chinh-2021030213541285.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đội TPHCM tự tin đua nước rút với Hoàng Anh Gia Lai khi V.League trở lại](https://laodong.vn/bong-da/doi-tphcm-tu-tin-dua-nuoc-rut-voi-hoang-anh-gia-lai-khi-vleague-tro-lai-884954.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Bí quyết vàng&quot; giúp bạn vượt qua cơn thèm ăn trong quá trình giảm cân](https://laodong.vn/suc-khoe/bi-quyet-vang-giup-ban-vuot-qua-con-them-an-trong-qua-trinh-giam-can-884990.ldo) ([Lao Động](https://laodong.vn))
-- [Không ùn tắc trong ngày đầu học sinh Hà Nội trở lại trường sau kỳ nghỉ Tết](https://laodong.vn/xa-hoi/khong-un-tac-trong-ngay-dau-hoc-sinh-ha-noi-tro-lai-truong-sau-ky-nghi-tet-884976.ldo) ([Lao Động](https://laodong.vn))
-- [Không thể 'đốt tiền' thêm nữa, Shopee quyết định tăng tỷ lệ hoa hồng thu từ người bán, cắt giảm mã 'freeship'](https://cafebiz.vn/khong-the-dot-tien-them-nua-shopee-quyet-dinh-tang-ty-le-hoa-hong-thu-tu-nguoi-ban-cat-giam-ma-freeship-20210302144340381.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xử lý “nghịch tử” đốt xe của mẹ rồi đánh người](https://laodong.vn/phap-luat/xu-ly-nghich-tu-dot-xe-cua-me-roi-danh-nguoi-884984.ldo) ([Lao Động](https://laodong.vn))
-- [Lãnh đạo Cục thuế TP.HCM làm Cục trưởng tại Bà Rịa-Vũng Tàu](http://vietnamnet.vn/vn/thoi-su/chinh-tri/lanh-dao-cuc-thue-tp-hcm-lam-cuc-truong-tai-ba-ria-vung-tau-716608.html) ([VietNamNet](https://vietnamnet.vn))
-- [Sắp bỏ yêu cầu chứng chỉ tin học, ngoại ngữ với công chức](https://vnexpress.net/sap-bo-yeu-cau-chung-chi-tin-hoc-ngoai-ngu-voi-cong-chuc-4242325.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
