@@ -21,8 +21,8 @@
 
 - Current weather is overcast clouds.
 - Temperature is 20°C.
-- Feels Like 17.84°C.
-- Air Visual is 68.
+- Feels Like 17.48°C.
+- Air Visual is 66.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Luật sư lên tiếng tin vợ trùm ma túy Mexico chạy trốn khỏi các con chồng](https://laodong.vn/the-gioi/luat-su-len-tieng-tin-vo-trum-ma-tuy-mexico-chay-tron-khoi-cac-con-chong-884949.ldo) ([Lao Động](https://laodong.vn))
+- [Tiệm Vàng Nguyễn Trâm - Trang sức đỉnh cao cho phụ nữ hiện đại](https://cafebiz.vn/tiem-vang-nguyen-tram-trang-suc-dinh-cao-cho-phu-nu-hien-dai-20210302113425669.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bất động sản năm 2021: Cơ hội rộng mở cho nhà đầu tư](https://cafebiz.vn/bat-dong-san-nam-2021-co-hoi-rong-mo-cho-nha-dau-tu-20210302092147884.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội ghi nhận thêm một bệnh nhân tái dương tính SARS-CoV-2 sau 3 ngày ra viện](https://cafebiz.vn/ha-noi-ghi-nhan-them-mot-benh-nhan-tai-duong-tinh-sars-cov-2-sau-3-ngay-ra-vien-20210302132719713.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vượt qua COVID-19, xuất khẩu nông sản tăng 16,6% trong 2 tháng đầu năm](https://laodong.vn/kinh-te/vuot-qua-covid-19-xuat-khau-nong-san-tang-166-trong-2-thang-dau-nam-884959.ldo) ([Lao Động](https://laodong.vn))
+- [Tạm giữ hai xe Mercedes cùng chung một biển số ở Hà Nội](https://laodong.vn/phap-luat/tam-giu-hai-xe-mercedes-cung-chung-mot-bien-so-o-ha-noi-884958.ldo) ([Lao Động](https://laodong.vn))
+- [Sốc với ghi âm nói về Maradona: “Thuốc lá, rượu và thuốc, ông sẽ chết...&quot;](https://laodong.vn/the-thao/soc-voi-ghi-am-noi-ve-maradona-thuoc-la-ruou-va-thuoc-ong-se-chet-884947.ldo) ([Lao Động](https://laodong.vn))
+- [Bùi Tiến Dũng, siêu xe 8 tỉ và ký ức &quot;người hùng&quot; Thường Châu](https://laodong.vn/ban-doc/bui-tien-dung-sieu-xe-8-ti-va-ky-uc-nguoi-hung-thuong-chau-884900.ldo) ([Lao Động](https://laodong.vn))
+- [Trao Bằng khen của Thủ tướng Chính phủ cho anh Nguyễn Ngọc Mạnh](https://laodong.vn/thoi-su/trao-bang-khen-cua-thu-tuong-chinh-phu-cho-anh-nguyen-ngoc-manh-884951.ldo) ([Lao Động](https://laodong.vn))
 - [Nữ streamer đặc biệt của Trung Quốc: Từng là đứa trẻ khiếm thính chỉ biết trả lời "Ờ", 16 năm nỗ lực học nói](https://cafebiz.vn/nu-streamer-dac-biet-cua-trung-quoc-tung-la-dua-tre-khiem-thinh-chi-biet-tra-loi-o-16-nam-no-luc-hoc-noi-20210302112258546.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phan Thị Mơ - hoa hậu đóng Thúy Kiều hóa lo lắng ra mắt khán giả Thủ đô](https://laodong.vn/photo/phan-thi-mo-hoa-hau-dong-thuy-kieu-hoa-lo-lang-ra-mat-khan-gia-thu-do-884923.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Hàng quán nơi nhộn nhịp, nơi vẫn chuẩn bị mở cửa](https://laodong.vn/xa-hoi/ha-noi-hang-quan-noi-nhon-nhip-noi-van-chuan-bi-mo-cua-884948.ldo) ([Lao Động](https://laodong.vn))
-- [Lời khuyên giá trị một tỷ phú nhận được từ Warren Buffett](https://cafebiz.vn/loi-khuyen-gia-tri-mot-ty-phu-nhan-duoc-tu-warren-buffett-20210302104822586.chn) ([CafeBiz](https://cafebiz.vn))
-- [Học sinh Hà Nội: Đến trường rất vui, nhưng nghỉ lâu &quot;lỡ&quot; quên tên vài bạn](https://laodong.vn/photo/hoc-sinh-ha-noi-den-truong-rat-vui-nhung-nghi-lau-lo-quen-ten-vai-ban-884879.ldo) ([Lao Động](https://laodong.vn))
-- ['Hung thủ' húc người làm thuê gãy xương vai nghi là bò tót rừng](https://tuoitre.vn/hung-thu-huc-nguoi-lam-thue-gay-xuong-vai-nghi-la-bo-tot-rung-20210302123447481.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Ngày đầu học sinh trở lại lớp: Trường Xuân Phương phòng dịch nghiêm ngặt](https://laodong.vn/video/ngay-dau-hoc-sinh-tro-lai-lop-truong-xuan-phuong-phong-dich-nghiem-ngat-884940.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút 2.3: Thêm bằng khen cho người đỡ bé gái rơi từ tầng 12](https://laodong.vn/video-thoi-su/ban-tin-1-phut-23-them-bang-khen-cho-nguoi-do-be-gai-roi-tu-tang-12-884895.ldo) ([Lao Động](https://laodong.vn))
-- [Cận cảnh &quot;đại bản doanh&quot; tương lai của CLB Sài Gòn trước ngày sửa chữa](https://laodong.vn/video-the-thao/can-canh-dai-ban-doanh-tuong-lai-cua-clb-sai-gon-truoc-ngay-sua-chua-884691.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng dành nguồn lực để mỗi phường có một công viên](https://tuoitre.vn/hai-phong-danh-nguon-luc-de-moi-phuong-co-mot-cong-vien-20210302122018699.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -136,8 +136,8 @@
 04. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 05. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-07. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
-08. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
+07. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
+08. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 09. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
 10. [Mọt Sách Và Trùm Trường | Cuộc Chiến Trường Học | Phim Ngắn Siêu Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=tHJN7m4_uYg) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 
