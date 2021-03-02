@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 20°C.
 - Feels Like 19.18°C.
-- Air Visual is 85.
+- Air Visual is 92.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Rúng động vụ án tham nhũng lớn nhất Nội Mông (TQ): Quan tham cho chơi oẳn tù tì phân chia cấp bậc](https://cafebiz.vn/rung-dong-vu-an-tham-nhung-lon-nhat-noi-mong-tq-quan-tham-cho-choi-oan-tu-ti-phan-chia-cap-bac-20210302182756393.chn) ([CafeBiz](https://cafebiz.vn))
+- [Địa phương đang có dịch được ưu tiên tiêm vaccine Covid-19](https://vnexpress.net/dia-phuong-dang-co-dich-duoc-uu-tien-tiem-vaccine-covid-19-4242524.html) ([VNExpress](https://vnexpress.net))
+- [Vì sao ông Park Hang-seo gắn bó lâu dài với Việt Nam?](https://laodong.vn/bong-da/vi-sao-ong-park-hang-seo-gan-bo-lau-dai-voi-viet-nam-885078.ldo) ([Lao Động](https://laodong.vn))
+- [Ngân hàng ở Hà Tiên bị cướp](https://vnexpress.net/ngan-hang-o-ha-tien-bi-cuop-4242559.html) ([VNExpress](https://vnexpress.net))
+- [Lãnh đạo các bộ: Hoạt động của sàn Forex là không đúng quy định pháp luật](https://tuoitre.vn/lanh-dao-cac-bo-hoat-dong-cua-san-forex-la-khong-dung-quy-dinh-phap-luat-20210302183843371.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tâm điểm cổ phiếu 2.3: THD quay đầu giảm sâu, BSR giữ vững phong độ](https://laodong.vn/kinh-te/tam-diem-co-phieu-23-thd-quay-dau-giam-sau-bsr-giu-vung-phong-do-885135.ldo) ([Lao Động](https://laodong.vn))
 - [Chuyên gia nhận định Hải Dương có thể hoàn toàn kiểm soát dịch khoảng 2 đến 3 tuần nữa](https://cafebiz.vn/chuyen-gia-nhan-dinh-hai-duong-co-the-hoan-toan-kiem-soat-dich-khoang-2-den-3-tuan-nua-2021030218191268.chn) ([CafeBiz](https://cafebiz.vn))
+- [HDBank hỗ trợ tỉnh Hải Dương 1,5 tỉ đồng phòng chống dịch COVID- 19](https://laodong.vn/tien-te-dau-tu/hdbank-ho-tro-tinh-hai-duong-15-ti-dong-phong-chong-dich-covid-19-884863.ldo) ([Lao Động](https://laodong.vn))
 - [Yên Bái tạm dừng hoạt động các chốt kiểm dịch COVID-19](https://laodong.vn/xa-hoi/yen-bai-tam-dung-hoat-dong-cac-chot-kiem-dich-covid-19-885133.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương sẽ gỡ phong tỏa như thế nào?](https://tuoitre.vn/hai-duong-se-go-phong-toa-nhu-the-nao-20210302180925215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Vụ án Trịnh Xuân Thanh là đại án, khen thưởng là bình thường](https://tuoitre.vn/vu-an-trinh-xuan-thanh-la-dai-an-khen-thuong-la-binh-thuong-20210302182111805.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Phó chủ tịch UBND TP.HCM: Đọc đơn chưa rõ thì tìm hỏi cho rõ, không chuyển lòng vòng](https://tuoitre.vn/pho-chu-tich-ubnd-tp-hcm-doc-don-chua-ro-thi-tim-hoi-cho-ro-khong-chuyen-long-vong-20210302182006035.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hải Dương là 1 trong những tỉnh được ưu tiên tiêm vắc-xin Covid-19 trước](http://vietnamnet.vn/vn/thoi-su/hai-duong-la-1-trong-nhung-tinh-duoc-uu-tien-tiem-vac-xin-covid-19-truoc-716702.html) ([VietNamNet](https://vietnamnet.vn))
-- [Bắc Ninh dừng hoạt động 3 chốt liên ngành cấp tỉnh kiểm soát dịch COVID-19](https://laodong.vn/xa-hoi/bac-ninh-dung-hoat-dong-3-chot-lien-nganh-cap-tinh-kiem-soat-dich-covid-19-885111.ldo) ([Lao Động](https://laodong.vn))
-- [Lùm xùm vụ vợ chồng đại gia Dũng ‘lò vôi’ tố lương y lừa đảo](http://vietnamnet.vn/vn/thoi-su/lum-xum-vu-vo-chong-dai-gia-dung-lo-voi-to-luong-y-lua-dao-716703.html) ([VietNamNet](https://vietnamnet.vn))
-- [Mẹo khắc phục nhà bị nồm ẩm cực đơn giản, hiệu quả](https://laodong.vn/bat-dong-san/meo-khac-phuc-nha-bi-nom-am-cuc-don-gian-hieu-qua-884973.ldo) ([Lao Động](https://laodong.vn))
-- [Mở cửa trở lại sân bay Vân Đồn](https://laodong.vn/giao-thong/mo-cua-tro-lai-san-bay-van-don-885105.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -131,8 +131,8 @@
 **YOUTUBE TRENDS**
 
 01. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-02. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+02. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+03. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 04. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 05. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
