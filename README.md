@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- ["Hộ chiếu vaccine": Cuộc tranh luận chưa có hồi kết](https://cafebiz.vn/ho-chieu-vaccine-cuoc-tranh-luan-chua-co-hoi-ket-20210302183548187.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phổi là "chiếc máy hút bụi" của cơ thể: BS mách bạn cách làm sạch mỗi ngày để không bị bệnh](https://cafebiz.vn/phoi-la-chiec-may-hut-bui-cua-co-the-bs-mach-ban-cach-lam-sach-moi-ngay-de-khong-bi-benh-20210302171013539.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chân dung "đại thiếu gia" nhà Bầu Hiển: Tự lập từ nhỏ, vừa qua tuổi 30 đã làm quản lý cấp cao của ngân hàng và Tập đoàn T&T, kiêm luôn chức chủ tịch công ty tài chính](https://cafebiz.vn/chan-dung-dai-thieu-gia-nha-bau-hien-tu-lap-tu-nho-vua-qua-tuoi-30-da-lam-quan-ly-cap-cao-cua-ngan-hang-va-tap-doan-tt-kiem-luon-chuc-chu-tich-cong-ty-tai-chinh-20210302203409832.chn) ([CafeBiz](https://cafebiz.vn))
+- [Môi giới đóng tiền để được suất mua nhà ở xã hội: Bộ Xây dựng nói gì?](https://laodong.vn/bat-dong-san/moi-gioi-dong-tien-de-duoc-suat-mua-nha-o-xa-hoi-bo-xay-dung-noi-gi-885173.ldo) ([Lao Động](https://laodong.vn))
+- [Tổng hợp, báo cáo Chính phủ về gói hỗ trợ cho doanh nghiệp, người dân](https://laodong.vn/kinh-te/tong-hop-bao-cao-chinh-phu-ve-goi-ho-tro-cho-doanh-nghiep-nguoi-dan-885168.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Ninh nới lỏng một số dịch vụ](https://vnexpress.net/quang-ninh-noi-long-mot-so-dich-vu-4242560.html) ([VNExpress](https://vnexpress.net))
 - [Toàn bộ nữ sinh Nigeria bị bắt cóc được trả tự do](https://laodong.vn/the-gioi/toan-bo-nu-sinh-nigeria-bi-bat-coc-duoc-tra-tu-do-885051.ldo) ([Lao Động](https://laodong.vn))
 - [Cảnh cáo Chủ tịch UBND huyện Tuy An](https://laodong.vn/xa-hoi/canh-cao-chu-tich-ubnd-huyen-tuy-an-885166.ldo) ([Lao Động](https://laodong.vn))
 - [Rà soát việc đóng bảo hiểm thất nghiệp với viên chức quản lý](https://laodong.vn/cong-doan/ra-soat-viec-dong-bao-hiem-that-nghiep-voi-vien-chuc-quan-ly-885164.ldo) ([Lao Động](https://laodong.vn))
 - [Các nhà đầu tư "cá mập" Bitcoin có khả năng thao túng thị trường thế nào?](https://cafebiz.vn/cac-nha-dau-tu-ca-map-bitcoin-co-kha-nang-thao-tung-thi-truong-the-nao-2021030218323731.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tính tiền bảo hiểm xã hội một lần thế nào khi hưởng nhiều mức lương?](https://laodong.vn/ban-doc/tinh-tien-bao-hiem-xa-hoi-mot-lan-the-nao-khi-huong-nhieu-muc-luong-884969.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều lưu ý khi tham gia kỳ thi đánh giá năng lực của ĐH Quốc gia Hà Nội](https://laodong.vn/giao-duc/nhieu-luu-y-khi-tham-gia-ky-thi-danh-gia-nang-luc-cua-dh-quoc-gia-ha-noi-885171.ldo) ([Lao Động](https://laodong.vn))
-- [Kiên trì tiến hành Bắc phạt, liệu trước khi chết Gia Cát Lượng có lường hết được những tổn thất nghiêm trọng này?](https://cafebiz.vn/kien-tri-tien-hanh-bac-phat-lieu-truoc-khi-chet-gia-cat-luong-co-luong-het-duoc-nhung-ton-that-nghiem-trong-nay-202103021706274.chn) ([CafeBiz](https://cafebiz.vn))
-- [Softbank chi 1,6 tỷ USD giải quyết tranh chấp pháp lý với WeWork](https://cafebiz.vn/softbank-chi-16-ty-usd-giai-quyet-tranh-chap-phap-ly-voi-wework-20210302182148004.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cuộc sống và nhan sắc của mỹ nhân Philippines là &quot;Hoa hậu của các hoa hậu&quot;](https://laodong.vn/photo/cuoc-song-va-nhan-sac-cua-my-nhan-philippines-la-hoa-hau-cua-cac-hoa-hau-884960.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: Thời điểm không khí lạnh đổ bộ Bắc Bộ trong tháng 3](https://laodong.vn/video/nong-nhat-24h-thoi-diem-khong-khi-lanh-do-bo-bac-bo-trong-thang-3-885098.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
