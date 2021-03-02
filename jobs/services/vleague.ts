@@ -1,11 +1,11 @@
 'use strict';
 
-import { api } from '../constant';
-import { request, convertJSONtoCSV } from '../libs';
+import { culture } from 'vnapis';
+
+import { convertJSONtoCSV } from '../libs';
 
 export const syncVLeague = async (): Promise<void> => {
-  const url: string = `${api}/culture/sports/vleague`;
-  const { matches = [], leagueTable = [] } = await request(url);
+  const { matches = [], leagueTable = [] } = await culture.getVLeague();
 
   const path: string = '../docs/cst/sports/vleague';
 

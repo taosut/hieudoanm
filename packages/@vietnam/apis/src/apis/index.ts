@@ -13,6 +13,8 @@ import OpenAPIs from './open-apis';
 import Phones from './phones';
 import Visas from './visas';
 import VNLTK from './vnltk';
+import Weather from './weather';
+import YouTube from './youtube';
 
 export {
   AdministrativeDivisions,
@@ -27,5 +29,7 @@ export {
   OpenAPIs,
   Phones,
   Visas,
-  VNLTK
+  VNLTK,
+  Weather,
+  YouTube
 };

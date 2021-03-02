@@ -29,7 +29,16 @@ describe('news', () => {
     const source: string = 'vnexpress';
     const category: string = 'general';
     const articles: Array<any> = await news.getArticles(source, category);
-    console.log(articles);
+    console.log(articles.length, articles);
     assert.ok(typeof articles === 'object' && articles.length > 0);
+  });
+
+  it('get articles with limit', async () => {
+    const source: string = 'vnexpress';
+    const category: string = 'general';
+    const max: number = 10;
+    const articles: Array<any> = await news.getArticles(source, category, max);
+    console.log(articles.length, articles);
+    assert.ok(typeof articles === 'object' && articles.length > 0 && articles.length === max);
   });
 });

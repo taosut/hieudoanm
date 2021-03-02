@@ -69,4 +69,10 @@ describe('culture', () => {
     console.log(futsalClubs);
     assert.ok(typeof futsalClubs === 'object' && futsalClubs.length > 0);
   });
+
+  it('get vleague', async () => {
+    const vLeague = await culture.getVLeague();
+    console.log(vLeague);
+    assert.ok(typeof vLeague === 'object');
+  });
 });

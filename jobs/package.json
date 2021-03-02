@@ -24,7 +24,7 @@
     "node-fetch": "^2.6.1",
     "onepay": "^1.0.0",
     "vietcetera": "^1.0.0",
-    "vnapis": "^1.0.6",
+    "vnapis": "^1.0.7",
     "vnpay": "^1.0.2",
     "vtcpay": "^1.0.0",
     "zalopay": "^1.0.0"

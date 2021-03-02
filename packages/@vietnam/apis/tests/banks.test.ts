@@ -12,12 +12,6 @@ describe('banks', () => {
     assert.ok(typeof _banks === 'object' && _banks.length > 0);
   });
 
-  it('get forex bank id', async () => {
-    const ids: Array<string> = await banks.getForexBanks();
-    console.log(ids);
-    assert.ok(typeof ids === 'object' && ids.length > 0);
-  });
-
   it('get forex rates', async () => {
     const rates: Array<any> = await banks.getForexRates();
     console.log(rates);

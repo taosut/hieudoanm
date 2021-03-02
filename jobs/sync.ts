@@ -13,6 +13,7 @@ import { syncStock } from './services/stock';
 import { syncVisas } from './services/visas';
 import { syncVLeague } from './services/vleague';
 import { syncUSA } from './services/usa';
+import { syncAirVisualCities } from './services/weather';
 import { syncYouTubeVideoCategories } from './services/youtube-video-categories';
 
 const main = async () => {
@@ -40,6 +41,8 @@ const main = async () => {
   await syncVisas();
   console.log('Sync VLeague');
   await syncVLeague();
+  console.log('Sync Air Visual Cities');
+  await syncAirVisualCities();
   console.log('Sync YouTube Video Categories');
   await syncYouTubeVideoCategories();
 

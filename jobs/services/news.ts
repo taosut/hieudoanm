@@ -1,13 +1,10 @@
 'use strict';
 
 import fs from 'fs';
-
-import { api } from '../constant';
-import { request } from '../libs';
+import { news } from 'vnapis';
 
 export const syncNews = async (max: number, writeFlag: boolean = false): Promise<Array<any>> => {
-  const url: string = `${api}/news/articles?max=${max}`;
-  const articles = await request(url, 'GET');
+  const articles = await news.getArticles('', '', max);
   writeFlag && (await writeFile(articles));
   return articles;
 };

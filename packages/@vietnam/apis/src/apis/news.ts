@@ -13,9 +13,10 @@ export default class News extends Base {
 
   public async getArticles(
     source: string = '',
-    category: string = ''
+    category: string = '',
+    max: number = 0
   ): Promise<Array<INewsArticle>> {
-    const endpoint: string = `news/articles?source=${source}&category=${category}`;
+    const endpoint: string = `news/articles?source=${source}&category=${category}&max=${max}`;
     return await this.get(endpoint);
   }
 

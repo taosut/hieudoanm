@@ -150,10 +150,10 @@ vietcetera@^1.0.0:
   dependencies:
     node-fetch "^2.6.1"
 
-vnapis@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/vnapis/-/vnapis-1.0.6.tgz#2b80c3289ed5ee4b93ae287e66296e66e96996c3"
-  integrity sha512-JfkOCZrr3B1++tKNCi1o04lv9vpieBXh1H9zsHTPEWVSxqk6sg+xhKUf6OdePzpOXygWE71WpG/DZQmxDf3oDw==
+vnapis@^1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/vnapis/-/vnapis-1.0.7.tgz#e50b637c79d6bde74832f1b19c2a86e1ae3d8f4d"
+  integrity sha512-+H1E4UR7l/vb80xIq3ChK0bBg18XPOwrT/SBi+jE5iokEs52TYqsKpmE71E91FxXK4IozPHSUezO482dMW/5WQ==
   dependencies:
     node-fetch "^2.6.1"
 

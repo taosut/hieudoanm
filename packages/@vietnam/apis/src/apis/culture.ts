@@ -79,4 +79,9 @@ export default class Culture extends Base {
   public getFutsalClubs(): Promise<Array<ISportsClub>> {
     return this.getClubsBySport('futsal');
   }
+
+  public async getVLeague(): Promise<Record<string, any>> {
+    const endpoint: string = `${this.prefix}/sports/vleague`;
+    return await this.get(endpoint);
+  }
 }

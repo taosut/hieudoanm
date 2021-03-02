@@ -13,7 +13,9 @@ import {
   OpenAPIs,
   Phones,
   Visas,
-  VNLTK
+  VNLTK,
+  Weather,
+  YouTube
 } from './apis';
 
 export const administrativeDivisions: AdministrativeDivisions = new AdministrativeDivisions();
@@ -29,3 +31,5 @@ export const openAPIs: OpenAPIs = new OpenAPIs();
 export const phones: Phones = new Phones();
 export const visas: Visas = new Visas();
 export const vnltk: VNLTK = new VNLTK();
+export const weather: Weather = new Weather();
+export const youTube: YouTube = new YouTube();

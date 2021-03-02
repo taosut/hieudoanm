@@ -2,10 +2,10 @@
 
 import fs from 'fs';
 import Vietcetera from 'vietcetera';
+import { culture, news, weather, youTube } from 'vnapis';
 
-import { api } from './constant';
 import { syncNews } from './services/news';
-import { addZero, request, getTime } from './libs';
+import { addZero, getTime } from './libs';
 
 const vietcetera: Vietcetera = new Vietcetera();
 const city: string = 'Hanoi';
@@ -26,25 +26,14 @@ export const getNewsArticles = async (): Promise<string> => {
 
 export const getLunarCalendar = async (): Promise<Record<string, any>> => {
   console.log('Build README - getLunarCalendar()');
-  const url: string = `${api}/culture/calendar/solar2lunar`;
   const { year: solarYear, month: solarMonth, date: solarDate } = getTime();
-  const { year: lunarYear, month: lunarMonth, date: lunarDate } = await request(url, 'POST', {
-    year: solarYear,
-    month: solarMonth,
-    date: solarDate
-  });
-  const canChiURL: string = `${api}/culture/calendar/lunar/can-chi`;
-  const { canChi } = await await request(canChiURL, 'POST', {
-    year: lunarYear,
-    month: lunarMonth,
-    date: lunarDate
-  });
-  const tietKhiURL: string = `${api}/culture/calendar/lunar/tiet-khi`;
-  const { tietKhi } = await await request(tietKhiURL, 'POST', {
-    year: lunarYear,
-    month: lunarMonth,
-    date: lunarDate
-  });
+  const { year: lunarYear, month: lunarMonth, date: lunarDate } = await culture.convertSolarToLunar(
+    solarDate,
+    solarMonth,
+    solarYear
+  );
+  const canChi = await culture.getCanChi(lunarDate, lunarMonth, lunarYear);
+  const tietKhi = await culture.getTietKhi(lunarDate, lunarMonth, lunarYear);
   return { solarYear, solarMonth, solarDate, lunarYear, lunarMonth, lunarDate, canChi, tietKhi };
 };
 
@@ -65,9 +54,7 @@ export const getVietcetera = async (): Promise<string> => {
 
 export const getYouTubeTrending = async (categoryId: number = 0): Promise<string> => {
   console.log(`Build README - getYouTubeTrending(${categoryId})`);
-  const link: string = `${api}/youtube/trending`;
-  const url: string = categoryId ? `${link}?categoryId=${categoryId}` : link;
-  const videos = await request(url);
+  const videos = await youTube.getTrending(categoryId);
   const top10 = videos.slice(0, 10);
   return top10
     .map((video: Record<string, any>, index: number) => {
@@ -78,20 +65,18 @@ export const getYouTubeTrending = async (categoryId: number = 0): Promise<string
     .join('\n');
 };
 
-export const getWeather = async (): Promise<Record<string, any>> => {
-  console.log('Build README - getWeather()');
-  const url: string = `${api}/weather?city=${city}`;
-  const { main = {}, weather = [] } = await request(url);
-  const [first = {}] = weather;
+export const getWeather = async (city: string): Promise<Record<string, any>> => {
+  console.log(`Build README - getWeather(${city})`);
+  const { main = {}, weather: _weather = [] } = await weather.getWeather(city);
+  const [first = {}] = _weather;
   const { description = 'undefined' } = first;
   const { temp = 0, feels_like: feelsLike = 0 } = main;
   return { description, temp, feelsLike };
 };
 
-export const getAirVisual = async (): Promise<number> => {
-  console.log('Build README - getAirVisual()');
-  const url: string = `${api}/weather/air-visual?city=${city}`;
-  const { current = [] } = await request(url);
+export const getAirVisual = async (city: string): Promise<number> => {
+  console.log(`Build README - getAirVisual(${city})`);
+  const { current = [] } = await weather.getAirVisual(city);
   const { pollution = {} } = current;
   const { aqius = 0 } = pollution;
   return aqius;
@@ -99,8 +84,7 @@ export const getAirVisual = async (): Promise<number> => {
 
 export const getGoogleTrends = async (): Promise<string> => {
   console.log('Build README - getGoogleTrends()');
-  const url: string = `${api}/news/trends`;
-  const { trends = [] } = await request(url);
+  const trends: Array<string> = await news.getGoogleTrends();
   if (!trends.length) return '';
   const md: string = trends
     .map((trend: string) => {
@@ -140,13 +124,13 @@ const getAll = (): Promise<Record<string, any>> => {
   return new Promise(resolve => {
     Promise.all([
       getGoogleTrends(),
-      getAirVisual(),
+      getAirVisual(city),
       getYouTubeTrending(),
       getYouTubeTrending(10),
       getVietcetera(),
       getLunarCalendar(),
       getNewsArticles(),
-      getWeather()
+      getWeather(city)
     ])
       .then(res => {
         const [
@@ -157,7 +141,7 @@ const getAll = (): Promise<Record<string, any>> => {
           vietceteraArticles = '',
           lunarCalendar = {},
           articles = '',
-          weather = {}
+          currentWeather = {}
         ] = res;
         resolve({
           googleTrends,
@@ -167,7 +151,7 @@ const getAll = (): Promise<Record<string, any>> => {
           vietceteraArticles,
           lunarCalendar,
           articles,
-          weather
+          currentWeather
         });
       })
       .catch(error => {
@@ -187,7 +171,7 @@ export const buildREADME = async () => {
     vietceteraArticles = '',
     lunarCalendar = {},
     articles = '',
-    weather = {}
+    currentWeather = {}
   } = await getAll();
   console.timeEnd('GET ALL');
   const {
@@ -200,7 +184,7 @@ export const buildREADME = async () => {
     canChi = '',
     tietKhi = ''
   } = lunarCalendar;
-  const { description, temp, feelsLike } = weather;
+  const { description, temp, feelsLike } = currentWeather;
   const npm: string = buildNPM();
 
   const avatar: string = `https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/profile/avatar.png`;

@@ -20,6 +20,8 @@ If you've found an bug/issue, please [send me an email](mailto:hieumdoan@gmail.c
     - [Phones](#phones)
     - [Visas](#visas)
     - [VNLTK](#vnltk)
+    - [Weather](#weather)
+    - [YouTube](#youtube)
   - [Other Libraries](#other-libraries)
 
 ## Installation
@@ -66,9 +68,6 @@ import { banks } from 'vnapis';
 
 // Get Banks
 const _banks: Array<any> = await banks.getBanks();
-
-// Get Forex Bank IDs
-const ids: Array<string> = await banks.getForexBanks();
 
 // Get Forex Rates
 const rates: Array<any> = await banks.getForexRates();
@@ -338,6 +337,36 @@ const stopWords = vnltk.getStopWords();
 
 // Get words
 const words = vnltk.getWords();
+```
+
+### Weather
+
+```ts
+// Get (Current) Weather
+const city: string= 'hanoi';
+const currentWeather: Record<string, any> = await weather.getWeather();
+
+// Get Air Visual
+const city: string= 'hanoi';
+const airVisual = await weather.getAirVisual(city);
+
+// Get Air Visual Cities
+const airVisualCities = await weather.getAirVisualCities();
+```
+
+### YouTube
+
+```ts
+import { youTube } from 'vnapis';
+
+// Get Trending
+const videos: Array<Record<string, any>> = await youTube.getTrending();
+
+// Get Music Trending
+const videos: Array<Record<string, any>> = await youTube.getMusicTrending();
+
+// Get Video Categories
+const videoCategories: Array<Record<string, any>> = await youTube.getVideoCategories();
 ```
 
 ## Other Libraries
