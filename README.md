@@ -49,12 +49,12 @@
 **GOOGLE TRENDS**
 
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
-- [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
 - [![Bé gái hai tuổi rơi từ tầng 12 chung cư](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%20hai%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012%20chung%20c%C6%B0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%20hai%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012%20chung%20c%C6%B0)
-- [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
+- [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
+- [![Gareth Bale](https://img.shields.io/static/v1?label=Gareth%20Bale&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gareth%20Bale)
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
 - [![Justin Bieber](https://img.shields.io/static/v1?label=Justin%20Bieber&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justin%20Bieber)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
@@ -62,11 +62,11 @@
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
 - [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
-- [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
 - [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
 - [![Uni5](https://img.shields.io/static/v1?label=Uni5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Uni5)
+- [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [5 kiểu người tuyệt đối không nên ăn măng](https://laodong.vn/suc-khoe/5-kieu-nguoi-tuyet-doi-khong-nen-an-mang-884999.ldo) ([Lao Động](https://laodong.vn))
+- [MTTQ Việt Nam lấy ý kiến cử tri với người ứng cử đại biểu Quốc hội khoá XV](https://laodong.vn/thoi-su/mttq-viet-nam-lay-y-kien-cu-tri-voi-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xv-885017.ldo) ([Lao Động](https://laodong.vn))
+- [Thêm 1 tỷ phú bước vào cuộc chơi tiền số](https://cafebiz.vn/them-1-ty-phu-buoc-vao-cuoc-choi-tien-so-20210302153409741.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tất cả Apple Store Mỹ đồng loạt mở cửa](https://cafebiz.vn/tat-ca-apple-store-my-dong-loat-mo-cua-20210302153622618.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bảng xếp hạng vòng 25 La Liga: Barca và Real bám đuổi sít sao](https://laodong.vn/infographic/bang-xep-hang-vong-25-la-liga-barca-va-real-bam-duoi-sit-sao-884913.ldo) ([Lao Động](https://laodong.vn))
+- [Từ 1/7/2021: Bán nhà có thể bị xóa đăng ký thường trú](https://cafebiz.vn/tu-1-7-2021-ban-nha-co-the-bi-xoa-dang-ky-thuong-tru-20210302155914211.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thanh Hoá: Đôi nhân tình dùng phòng karaoke mở sòng đánh bạc](https://laodong.vn/phap-luat/thanh-hoa-doi-nhan-tinh-dung-phong-karaoke-mo-song-danh-bac-885024.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ Tài chính cảnh báo sàn giao dịch chứng khoán quốc tế, tiền ảo trái phép](https://laodong.vn/kinh-te/bo-tai-chinh-canh-bao-san-giao-dich-chung-khoan-quoc-te-tien-ao-trai-phep-885010.ldo) ([Lao Động](https://laodong.vn))
+- [Lao động phổ thông hết hợp đồng tại Hàn Quốc đăng ký việc mùa vụ cách nào?](https://laodong.vn/xa-hoi/lao-dong-pho-thong-het-hop-dong-tai-han-quoc-dang-ky-viec-mua-vu-cach-nao-885009.ldo) ([Lao Động](https://laodong.vn))
 - [Bỏ ra cả đống tiền để sắm túi Chanel hay áo Gucci, rốt cuộc chúng ta đang mua cái gì từ các thương hiệu xa xỉ? Câu trả lời nằm ngoài dự kiến của người thường](https://cafebiz.vn/bo-ra-ca-dong-tien-de-sam-tui-chanel-hay-ao-gucci-rot-cuoc-chung-ta-dang-mua-cai-gi-tu-cac-thuong-hieu-xa-xi-cau-tra-loi-nam-ngoai-du-kien-cua-nguoi-thuong-20210302153446961.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bê bối chấn động ở Nike: Phó chủ tịch khu vực Bắc Mỹ vừa phải từ chức ngay lập tức vì nghi vấn tuồn hàng cho con trai bán kiếm lời](https://cafebiz.vn/be-boi-chan-dong-o-nike-pho-chu-tich-khu-vuc-bac-my-vua-phai-tu-chuc-ngay-lap-tuc-vi-nghi-van-tuon-hang-cho-con-trai-ban-kiem-loi-20210302154543374.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thu thuế xuất nhập khẩu của ngành Hải quan đạt 54.760 tỉ đồng](https://laodong.vn/kinh-te/thu-thue-xuat-nhap-khau-cua-nganh-hai-quan-dat-54760-ti-dong-884998.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng yêu cầu ngành y tế nhanh chóng tiêm vaccine cho người dân](https://laodong.vn/thoi-su/thu-tuong-yeu-cau-nganh-y-te-nhanh-chong-tiem-vaccine-cho-nguoi-dan-884989.ldo) ([Lao Động](https://laodong.vn))
-- [Lo Tết cho đoàn viên, công nhân ngày càng đi vào chiều sâu, thực chất](https://laodong.vn/cong-doan/lo-tet-cho-doan-vien-cong-nhan-ngay-cang-di-vao-chieu-sau-thuc-chat-884980.ldo) ([Lao Động](https://laodong.vn))
-- [Chiếc Ford GT Heritage Edition 2006 sắp được bán đấu giá, xấp xỉ 605.000 USD: Mới lăn bánh 4km, được bảo quản cực tốt](https://cafebiz.vn/chiec-ford-gt-heritage-edition-2006-sap-duoc-ban-dau-gia-xap-xi-605000-usd-moi-lan-banh-4km-duoc-bao-quan-cuc-tot-2021030215402669.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ngày đầu học sinh Hà Nội trở lại trường: Chia ca lúc tan học để giãn cách](https://laodong.vn/giao-duc/ngay-dau-hoc-sinh-ha-noi-tro-lai-truong-chia-ca-luc-tan-hoc-de-gian-cach-884953.ldo) ([Lao Động](https://laodong.vn))
-- [Giới thiệu chủ tịch và tổng thư ký Mặt trận tổ quốc Việt Nam ứng cử đại biểu Quốc hội](https://tuoitre.vn/gioi-thieu-chu-tich-va-tong-thu-ky-mat-tran-to-quoc-viet-nam-ung-cu-dai-bieu-quoc-hoi-20210302150516184.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hình ảnh Hải Dương trước giờ kết thúc cách ly xã hội](https://laodong.vn/photo/hinh-anh-hai-duong-truoc-gio-ket-thuc-cach-ly-xa-hoi-884972.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
