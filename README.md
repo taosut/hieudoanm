@@ -21,8 +21,8 @@
 
 - Current weather is overcast clouds.
 - Temperature is 21°C.
-- Feels Like 18.49°C.
-- Air Visual is 84.
+- Feels Like 18.85°C.
+- Air Visual is 77.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Thủ tướng yêu cầu Bộ Y tế triển khai tiêm vaccine Covid-19 ngay trong tuần này](https://cafebiz.vn/thu-tuong-yeu-cau-bo-y-te-trien-khai-tiem-vaccine-covid-19-ngay-trong-tuan-nay-20210302140122861.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vợ ông Dũng &quot;lò vôi&quot;: Cảm thấy bị tổn thương vì &quot;đặt niềm tin sai chỗ&quot;](https://laodong.vn/xa-hoi/vo-ong-dung-lo-voi-cam-thay-bi-ton-thuong-vi-dat-niem-tin-sai-cho-884942.ldo) ([Lao Động](https://laodong.vn))
-- [Những điều cần lưu ý khi đăng ký dự thi các trường quân đội năm 2021](https://laodong.vn/infographic/nhung-dieu-can-luu-y-khi-dang-ky-du-thi-cac-truong-quan-doi-nam-2021-884896.ldo) ([Lao Động](https://laodong.vn))
-- [Gây mất trật tự trên xe khách bị xử phạt thế nào?](https://laodong.vn/tu-van-phap-luat/gay-mat-trat-tu-tren-xe-khach-bi-xu-phat-the-nao-883927.ldo) ([Lao Động](https://laodong.vn))
-- [Hoang tưởng do &quot;ngáo đá&quot; cầm dao rượt đuổi đâm người](https://laodong.vn/phap-luat/hoang-tuong-do-ngao-da-cam-dao-ruot-duoi-dam-nguoi-884970.ldo) ([Lao Động](https://laodong.vn))
-- [Báo Anh đồng loạt đăng bài ca ngợi "anh hùng" Nguyễn Ngọc Mạnh cứu em bé ngã từ tầng 12: Hành động dũng cảm trong tình huống ngàn cân treo sợi tóc](https://cafebiz.vn/bao-anh-dong-loat-dang-bai-ca-ngoi-anh-hung-nguyen-ngoc-manh-cuu-em-be-nga-tu-tang-12-hanh-dong-dung-cam-trong-tinh-huong-ngan-can-treo-soi-toc-20210302135830219.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bộ đội biên phòng tặng cây giống cho bà con nghèo biên giới](https://laodong.vn/xa-hoi/bo-doi-bien-phong-tang-cay-giong-cho-ba-con-ngheo-bien-gioi-884964.ldo) ([Lao Động](https://laodong.vn))
-- [Kết luận vụ nam tiếp viên Vietnam Airlines làm lây lan dịch bệnh](https://cafebiz.vn/ket-luan-vu-nam-tiep-vien-vietnam-airlines-lam-lay-lan-dich-benh-20210302135649307.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thành lập Tổ nghiên cứu về tài sản ảo, tiền ảo](https://cafebiz.vn/thanh-lap-to-nghien-cuu-ve-tai-san-ao-tien-ao-20210302135219638.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ant Group của Jack Ma bị chỉ trích 'núp bóng công nghệ để hưởng lợi, dụ người dùng thành con nợ, có thể gây rủi ro cấp độ toàn cầu'](https://cafebiz.vn/ant-group-cua-jack-ma-bi-chi-trich-nup-bong-cong-nghe-de-huong-loi-du-nguoi-dung-thanh-con-no-co-the-gay-rui-ro-cap-do-toan-cau-20210302104345442.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sắp bỏ yêu cầu chứng chỉ tin học, ngoại ngữ với công chức](https://vnexpress.net/sap-bo-yeu-cau-chung-chi-tin-hoc-ngoai-ngu-voi-cong-chuc-4242325.html) ([VNExpress](https://vnexpress.net))
+- [Trí tuệ nhân tạo lần đầu viết một vở kịch dài 60 phút](https://laodong.vn/the-gioi/tri-tue-nhan-tao-lan-dau-viet-mot-vo-kich-dai-60-phut-884935.ldo) ([Lao Động](https://laodong.vn))
+- [Ham đào tiền ảo, quán lẩu tại Sài Gòn khuyến mãi cho khách cài Pi Network: Vô tư vi phạm luật?](https://cafebiz.vn/ham-dao-tien-ao-quan-lau-tai-sai-gon-khuyen-mai-cho-khach-cai-pi-network-vo-tu-vi-pham-luat-20210302131231819.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kiên Giang: 5 ca mắc COVID-19 không có nguy cơ lây nhiễm cộng đồng](https://laodong.vn/xa-hoi/kien-giang-5-ca-mac-covid-19-khong-co-nguy-co-lay-nhiem-cong-dong-884943.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều tối 2.3: Tiêu hủy trên 20.000 con gia cầm giống nhập lậu](https://laodong.vn/kinh-te/chieu-toi-23-tieu-huy-tren-20000-con-gia-cam-giong-nhap-lau-884974.ldo) ([Lao Động](https://laodong.vn))
+- [Tranh cãi về chính sách một con nhưng đây mới là những thách thức lớn nhất với Trung Quốc](https://cafebiz.vn/tranh-cai-ve-chinh-sach-mot-con-nhung-day-moi-la-nhung-thach-thuc-lon-nhat-voi-trung-quoc-20210302142220488.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lý giải việc Thuduc House bị cưỡng chế hơn 450 tỉ đồng](https://laodong.vn/kinh-te/ly-giai-viec-thuduc-house-bi-cuong-che-hon-450-ti-dong-884921.ldo) ([Lao Động](https://laodong.vn))
+- ['Bước đầu ngăn chặn được nguồn cung ma túy từ nước ngoài'](https://vnexpress.net/buoc-dau-ngan-chan-duoc-nguon-cung-ma-tuy-tu-nuoc-ngoai-4242307.html) ([VNExpress](https://vnexpress.net))
+- [Trường ĐH Hàn Quốc tặng iPhone, AirPods làm quà cho sinh viên năm nhất](https://cafebiz.vn/su-that-sau-chuyen-cac-truong-dai-hoc-han-quoc-phat-iphone-ai-khong-nhan-bi-ky-luat-20210302101636006.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bà Nguyễn Thị Việt Hà được giao phụ trách HĐQT HoSE thay ông Lê Hải Trà](https://cafebiz.vn/ba-nguyen-thi-viet-ha-duoc-giao-phu-trach-hdqt-hose-thay-ong-le-hai-tra-20210302141126019.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
