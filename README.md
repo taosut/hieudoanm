@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is clear sky.
+- Current weather is overcast clouds.
 - Temperature is 21°C.
-- Feels Like 18.49°C.
-- Air Visual is 66.
+- Feels Like 18.13°C.
+- Air Visual is 73.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Vẫn hoạt động bất chấp hạn chế để chống dịch, cơ sở karaoke bị phạt](https://laodong.vn/ban-doc/van-hoat-dong-bat-chap-han-che-de-chong-dich-co-so-karaoke-bi-phat-884918.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang: Tiếp tục phát hiện, thu giữ hơn 1000 cây thuốc phiện](https://laodong.vn/phap-luat/bac-giang-tiep-tuc-phat-hien-thu-giu-hon-1000-cay-thuoc-phien-884889.ldo) ([Lao Động](https://laodong.vn))
+- [Công tác mặt trận năm 2021: Phòng, chống dịch COVID-19 là nhiệm vụ hàng đầu](https://laodong.vn/thoi-su/cong-tac-mat-tran-nam-2021-phong-chong-dich-covid-19-la-nhiem-vu-hang-dau-884859.ldo) ([Lao Động](https://laodong.vn))
+- [Thế giới động vật: Phát hiện hoá thạch khủng long 140 triệu năm tuổi](https://laodong.vn/the-gioi/the-gioi-dong-vat-phat-hien-hoa-thach-khung-long-140-trieu-nam-tuoi-884911.ldo) ([Lao Động](https://laodong.vn))
+- [Công đoàn PV GAS chủ động trong công tác an toàn, vệ sinh lao động](https://laodong.vn/cd-dau-khi/cong-doan-pv-gas-chu-dong-trong-cong-tac-an-toan-ve-sinh-lao-dong-884897.ldo) ([Lao Động](https://laodong.vn))
+- [Warren Buffett rót tiền vào hãng xe điện Trung Quốc nhiều hơn thương hiệu của Mỹ](https://cafebiz.vn/warren-buffett-rot-tien-vao-hang-xe-dien-trung-quoc-nhieu-hon-thuong-hieu-cua-my-20210302104547856.chn) ([CafeBiz](https://cafebiz.vn))
+- [Không thể chỉ ngồi chờ những “người hùng”, những “thiên thần hộ mệnh”](https://laodong.vn/su-kien-binh-luan/khong-the-chi-ngoi-cho-nhung-nguoi-hung-nhung-thien-than-ho-menh-884864.ldo) ([Lao Động](https://laodong.vn))
+- [Tránh xe máy, ôtô chở 40 công nhân 'bay' xuống ruộng](https://tuoitre.vn/tranh-xe-may-oto-cho-40-cong-nhan-bay-xuong-ruong-20210302113043099.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [iPhone màn hình gập có thể sẽ ra mắt vào năm 2023](https://cafebiz.vn/iphone-man-hinh-gap-co-the-se-ra-mat-vao-nam-2023-20210302105156293.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bí kíp thăng tiến then chốt của dân công sở: Luôn ghi nhớ 3 điều sau để làm mát mặt sếp!](https://cafebiz.vn/bi-kip-thang-tien-then-chot-cua-dan-cong-so-luon-ghi-nho-3-dieu-sau-de-lam-mat-mat-sep-20210302095706622.chn) ([CafeBiz](https://cafebiz.vn))
 - [[Góc lương cao] Chuyên gia Nhật dạy lái tàu Metro Số 1 được đề xuất mức lương tháng hơn nửa tỷ đồng](https://cafebiz.vn/goc-luong-cao-chuyen-gia-nhat-day-lai-tau-metro-so-1-duoc-de-xuat-muc-luong-thang-hon-nua-ty-dong-20210302110901583.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giám đốc sở bị khởi tố, Cần Thơ gấp rút tìm người điều hành Sở Y tế](https://laodong.vn/xa-hoi/giam-doc-so-bi-khoi-to-can-tho-gap-rut-tim-nguoi-dieu-hanh-so-y-te-884909.ldo) ([Lao Động](https://laodong.vn))
-- [TP HCM thu ngân sách 2.900 tỷ đồng mỗi ngày](https://vnexpress.net/tp-hcm-thu-ngan-sach-2-900-ty-dong-moi-ngay-4242216.html) ([VNExpress](https://vnexpress.net))
-- [Phán quyết lịch sử: Cựu Tổng thống Pháp Nicolas Sarkozy bị kết án tù](https://cafebiz.vn/phan-quyet-lich-su-cuu-tong-thong-phap-nicolas-sarkozy-bi-ket-an-tu-20210302112101845.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tướng yêu cầu tiêm vắc xin COVID-19 cho người dân ngay từ tuần này](https://tuoitre.vn/thu-tuong-yeu-cau-tiem-vac-xin-covid-19-cho-nguoi-dan-ngay-tu-tuan-nay-20210302111117853.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Vận đen không tưởng của Jack Ma: 20 năm xây dựng đến khi về hưu vì một lần vạ miệng khiến đế chế Alibaba lung lay](https://cafebiz.vn/van-den-khong-tuong-cua-jack-ma-20-nam-xay-dung-den-khi-ve-huu-vi-mot-lan-va-mieng-khien-de-che-alibaba-lung-lay-20210302111724819.chn) ([CafeBiz](https://cafebiz.vn))
-- [Học sinh trở lại trường, học sinh F0 trường Xuân Phương sẽ học thế nào?](https://laodong.vn/xa-hoi/hoc-sinh-tro-lai-truong-hoc-sinh-f0-truong-xuan-phuong-se-hoc-the-nao-884869.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
