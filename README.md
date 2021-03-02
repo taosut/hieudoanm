@@ -21,8 +21,8 @@
 
 - Current weather is overcast clouds.
 - Temperature is 21°C.
-- Feels Like 18.13°C.
-- Air Visual is 73.
+- Feels Like 18.49°C.
+- Air Visual is 71.
 
 **WEATHER**
 
@@ -50,23 +50,23 @@
 
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
-- [![Bamboo](https://img.shields.io/static/v1?label=Bamboo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bamboo)
 - [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
-- [![Chỉ thị 15 của Thủ tướng Chính phủ](https://img.shields.io/static/v1?label=Ch%E1%BB%89%20th%E1%BB%8B%2015%20c%E1%BB%A7a%20Th%E1%BB%A7%20t%C6%B0%E1%BB%9Bng%20Ch%C3%ADnh%20ph%E1%BB%A7&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%E1%BB%89%20th%E1%BB%8B%2015%20c%E1%BB%A7a%20Th%E1%BB%A7%20t%C6%B0%E1%BB%9Bng%20Ch%C3%ADnh%20ph%E1%BB%A7)
-- [![Cuu be roi tu tang 12](https://img.shields.io/static/v1?label=Cuu%20be%20roi%20tu%20tang%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cuu%20be%20roi%20tu%20tang%2012)
+- [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
+- [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
 - [![Em be roi tu tang 12](https://img.shields.io/static/v1?label=Em%20be%20roi%20tu%20tang%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20be%20roi%20tu%20tang%2012)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
+- [![Justin Bieber](https://img.shields.io/static/v1?label=Justin%20Bieber&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justin%20Bieber)
+- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
 - [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
-- [![Trần Huyền Trang Vĩnh Phúc](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang%20V%C4%A9nh%20Ph%C3%BAc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang%20V%C4%A9nh%20Ph%C3%BAc)
+- [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
 - [![Uni5](https://img.shields.io/static/v1?label=Uni5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Uni5)
-- [![Vụ bé rơi từ tầng 12](https://img.shields.io/static/v1?label=V%E1%BB%A5%20b%C3%A9%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%E1%BB%A5%20b%C3%A9%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Đồng Nai: Một người dân nghi bị bò tót húc gây thương tích nặng](https://laodong.vn/xa-hoi/dong-nai-mot-nguoi-dan-nghi-bi-bo-tot-huc-gay-thuong-tich-nang-884920.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang: Xe chở 40 công nhân đi làm bị lật xuống ruộng](https://laodong.vn/xa-hoi/bac-giang-xe-cho-40-cong-nhan-di-lam-bi-lat-xuong-ruong-884906.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang: Tiếp tục phát hiện, thu giữ hơn 1000 cây thuốc phiện](https://laodong.vn/phap-luat/bac-giang-tiep-tuc-phat-hien-thu-giu-hon-1000-cay-thuoc-phien-884889.ldo) ([Lao Động](https://laodong.vn))
-- [Công tác mặt trận năm 2021: Phòng, chống dịch COVID-19 là nhiệm vụ hàng đầu](https://laodong.vn/thoi-su/cong-tac-mat-tran-nam-2021-phong-chong-dich-covid-19-la-nhiem-vu-hang-dau-884859.ldo) ([Lao Động](https://laodong.vn))
-- [Thế giới động vật: Phát hiện hoá thạch khủng long 140 triệu năm tuổi](https://laodong.vn/the-gioi/the-gioi-dong-vat-phat-hien-hoa-thach-khung-long-140-trieu-nam-tuoi-884911.ldo) ([Lao Động](https://laodong.vn))
+- [Xe khách chở hơn 40 công nhân lật nghiêng](https://vnexpress.net/xe-khach-cho-hon-40-cong-nhan-lat-nghieng-4242278.html) ([VNExpress](https://vnexpress.net))
+- [Báo nước ngoài ca ngợi ''người hùng'' giải cứu bé gái rơi từ tầng 12](https://laodong.vn/the-gioi/bao-nuoc-ngoai-ca-ngoi-nguoi-hung-giai-cuu-be-gai-roi-tu-tang-12-884927.ldo) ([Lao Động](https://laodong.vn))
+- [Tổng rà soát dự án địa ốc Khu ĐTM Điện Nam-Điện Ngọc (Quảng Nam)](https://laodong.vn/bat-dong-san/tong-ra-soat-du-an-dia-oc-khu-dtm-dien-nam-dien-ngoc-quang-nam-884902.ldo) ([Lao Động](https://laodong.vn))
+- [Trao bằng khen của Thủ tướng cho người cứu bé gái rơi tầng 12 chung cư](https://tuoitre.vn/trao-bang-khen-cua-thu-tuong-cho-nguoi-cuu-be-gai-roi-tang-12-chung-cu-20210302121119654.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Từ vụ bé gái rơi từ tầng 12: Lưu ý 7 cách giữ an toàn trẻ nhỏ ở chung cư](https://laodong.vn/chuyen-nha-minh/tu-vu-be-gai-roi-tu-tang-12-luu-y-7-cach-giu-an-toan-tre-nho-o-chung-cu-884925.ldo) ([Lao Động](https://laodong.vn))
+- [Những lời chúc ý nghĩa dành cho mẹ nhân ngày 8.3](https://laodong.vn/gia-dinh-hon-nhan/nhung-loi-chuc-y-nghia-danh-cho-me-nhan-ngay-83-884852.ldo) ([Lao Động](https://laodong.vn))
+- [Cần Thơ điều động nhiều cán bộ](https://laodong.vn/thoi-su/can-tho-dieu-dong-nhieu-can-bo-884939.ldo) ([Lao Động](https://laodong.vn))
+- [Bloomberg: VinFast đang lên kế hoạch mở nhà máy tại Mỹ](https://cafebiz.vn/bloomberg-vinfast-dang-len-ke-hoach-mo-nha-may-tai-my-20210302121716239.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội ghi nhận thêm một ca tái dương tính với SARS-CoV-2](https://laodong.vn/xa-hoi/ha-noi-ghi-nhan-them-mot-ca-tai-duong-tinh-voi-sars-cov-2-884945.ldo) ([Lao Động](https://laodong.vn))
 - [Warren Buffett rót tiền vào hãng xe điện Trung Quốc nhiều hơn thương hiệu của Mỹ](https://cafebiz.vn/warren-buffett-rot-tien-vao-hang-xe-dien-trung-quoc-nhieu-hon-thuong-hieu-cua-my-20210302104547856.chn) ([CafeBiz](https://cafebiz.vn))
-- [Không thể chỉ ngồi chờ những “người hùng”, những “thiên thần hộ mệnh”](https://laodong.vn/su-kien-binh-luan/khong-the-chi-ngoi-cho-nhung-nguoi-hung-nhung-thien-than-ho-menh-884864.ldo) ([Lao Động](https://laodong.vn))
-- [Tránh xe máy, ôtô chở 40 công nhân 'bay' xuống ruộng](https://tuoitre.vn/tranh-xe-may-oto-cho-40-cong-nhan-bay-xuong-ruong-20210302113043099.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [iPhone màn hình gập có thể sẽ ra mắt vào năm 2023](https://cafebiz.vn/iphone-man-hinh-gap-co-the-se-ra-mat-vao-nam-2023-20210302105156293.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bí kíp thăng tiến then chốt của dân công sở: Luôn ghi nhớ 3 điều sau để làm mát mặt sếp!](https://cafebiz.vn/bi-kip-thang-tien-then-chot-cua-dan-cong-so-luon-ghi-nho-3-dieu-sau-de-lam-mat-mat-sep-20210302095706622.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
