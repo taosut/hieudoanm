@@ -21,8 +21,8 @@
 
 - Current weather is overcast clouds.
 - Temperature is 21°C.
-- Feels Like 19.09°C.
-- Air Visual is 73.
+- Feels Like 18.85°C.
+- Air Visual is 70.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Một người Lào vượt biên để bán sắn, nhiều người phải cách ly phòng dịch](https://laodong.vn/xa-hoi/mot-nguoi-lao-vuot-bien-de-ban-san-nhieu-nguoi-phai-cach-ly-phong-dich-885008.ldo) ([Lao Động](https://laodong.vn))
-- [Giáo viên nào phải có chứng chỉ chức danh nghề nghiệp hạng I, II, III?](https://laodong.vn/giao-duc/giao-vien-nao-phai-co-chung-chi-chuc-danh-nghe-nghiep-hang-i-ii-iii-884891.ldo) ([Lao Động](https://laodong.vn))
+- [5 kiểu người tuyệt đối không nên ăn măng](https://laodong.vn/suc-khoe/5-kieu-nguoi-tuyet-doi-khong-nen-an-mang-884999.ldo) ([Lao Động](https://laodong.vn))
+- [Bỏ ra cả đống tiền để sắm túi Chanel hay áo Gucci, rốt cuộc chúng ta đang mua cái gì từ các thương hiệu xa xỉ? Câu trả lời nằm ngoài dự kiến của người thường](https://cafebiz.vn/bo-ra-ca-dong-tien-de-sam-tui-chanel-hay-ao-gucci-rot-cuoc-chung-ta-dang-mua-cai-gi-tu-cac-thuong-hieu-xa-xi-cau-tra-loi-nam-ngoai-du-kien-cua-nguoi-thuong-20210302153446961.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bê bối chấn động ở Nike: Phó chủ tịch khu vực Bắc Mỹ vừa phải từ chức ngay lập tức vì nghi vấn tuồn hàng cho con trai bán kiếm lời](https://cafebiz.vn/be-boi-chan-dong-o-nike-pho-chu-tich-khu-vuc-bac-my-vua-phai-tu-chuc-ngay-lap-tuc-vi-nghi-van-tuon-hang-cho-con-trai-ban-kiem-loi-20210302154543374.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thu thuế xuất nhập khẩu của ngành Hải quan đạt 54.760 tỉ đồng](https://laodong.vn/kinh-te/thu-thue-xuat-nhap-khau-cua-nganh-hai-quan-dat-54760-ti-dong-884998.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng yêu cầu ngành y tế nhanh chóng tiêm vaccine cho người dân](https://laodong.vn/thoi-su/thu-tuong-yeu-cau-nganh-y-te-nhanh-chong-tiem-vaccine-cho-nguoi-dan-884989.ldo) ([Lao Động](https://laodong.vn))
+- [Lo Tết cho đoàn viên, công nhân ngày càng đi vào chiều sâu, thực chất](https://laodong.vn/cong-doan/lo-tet-cho-doan-vien-cong-nhan-ngay-cang-di-vao-chieu-sau-thuc-chat-884980.ldo) ([Lao Động](https://laodong.vn))
+- [Chiếc Ford GT Heritage Edition 2006 sắp được bán đấu giá, xấp xỉ 605.000 USD: Mới lăn bánh 4km, được bảo quản cực tốt](https://cafebiz.vn/chiec-ford-gt-heritage-edition-2006-sap-duoc-ban-dau-gia-xap-xi-605000-usd-moi-lan-banh-4km-duoc-bao-quan-cuc-tot-2021030215402669.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ngày đầu học sinh Hà Nội trở lại trường: Chia ca lúc tan học để giãn cách](https://laodong.vn/giao-duc/ngay-dau-hoc-sinh-ha-noi-tro-lai-truong-chia-ca-luc-tan-hoc-de-gian-cach-884953.ldo) ([Lao Động](https://laodong.vn))
+- [Giới thiệu chủ tịch và tổng thư ký Mặt trận tổ quốc Việt Nam ứng cử đại biểu Quốc hội](https://tuoitre.vn/gioi-thieu-chu-tich-va-tong-thu-ky-mat-tran-to-quoc-viet-nam-ung-cu-dai-bieu-quoc-hoi-20210302150516184.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hình ảnh Hải Dương trước giờ kết thúc cách ly xã hội](https://laodong.vn/photo/hinh-anh-hai-duong-truoc-gio-ket-thuc-cach-ly-xa-hoi-884972.ldo) ([Lao Động](https://laodong.vn))
-- [Điều gì xảy ra với cơ thể khi thức dậy sớm vào buổi sáng?](https://laodong.vn/suc-khoe/dieu-gi-xay-ra-voi-co-the-khi-thuc-day-som-vao-buoi-sang-885005.ldo) ([Lao Động](https://laodong.vn))
-- [LĐLĐ tỉnh Bình Thuận: Hơn 200 nữ CNVCLĐ nghèo được vay vốn 1 tỉ đồng](https://laodong.vn/cong-doan/ldld-tinh-binh-thuan-hon-200-nu-cnvcld-ngheo-duoc-vay-von-1-ti-dong-885004.ldo) ([Lao Động](https://laodong.vn))
-- [Số ca Covid-19 mới trên toàn cầu lần đầu tiên tăng sau 7 tuần](https://cafebiz.vn/so-ca-covid-19-moi-tren-toan-cau-lan-dau-tien-tang-sau-7-tuan-2021030214002023.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Không có chuyện Hải Dương dừng cách ly xã hội quá sớm'](https://vnexpress.net/khong-co-chuyen-hai-duong-dung-cach-ly-xa-hoi-qua-som-4242353.html) ([VNExpress](https://vnexpress.net))
-- [Viết email là một nghệ thuật, giao tiếp bắt đầu từ người nhận](https://cafebiz.vn/viet-email-la-mot-nghe-thuat-giao-tiep-bat-dau-tu-nguoi-nhan-20210302113843292.chn) ([CafeBiz](https://cafebiz.vn))
-- [CSGT đã ra quân, xe chở mía cồng kềnh vẫn tung hoành trên quốc lộ 26](https://tuoitre.vn/csgt-da-ra-quan-xe-cho-mia-cong-kenh-van-tung-hoanh-tren-quoc-lo-26-20210302131827821.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tờ báo hàng đầu châu Âu từ chối tham gia Facebook News](https://cafebiz.vn/to-bao-hang-dau-chau-au-tu-choi-tham-gia-facebook-news-20210302135111387.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
