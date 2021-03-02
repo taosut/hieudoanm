@@ -20,8 +20,8 @@
 **CALENDAR**
 
 - Current weather is overcast clouds.
-- Temperature is 21°C.
-- Feels Like 18.49°C.
+- Temperature is 20°C.
+- Feels Like 17.84°C.
 - Air Visual is 68.
 
 **WEATHER**
@@ -50,7 +50,6 @@
 
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
-- [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
 - [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
@@ -62,6 +61,7 @@
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
+- [![Nguyễn Ngọc Mạnh](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20M%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20M%E1%BA%A1nh)
 - [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Xe khách chở hơn 40 công nhân lật nghiêng](https://vnexpress.net/xe-khach-cho-hon-40-cong-nhan-lat-nghieng-4242278.html) ([VNExpress](https://vnexpress.net))
-- [Báo nước ngoài ca ngợi ''người hùng'' giải cứu bé gái rơi từ tầng 12](https://laodong.vn/the-gioi/bao-nuoc-ngoai-ca-ngoi-nguoi-hung-giai-cuu-be-gai-roi-tu-tang-12-884927.ldo) ([Lao Động](https://laodong.vn))
-- [Tổng rà soát dự án địa ốc Khu ĐTM Điện Nam-Điện Ngọc (Quảng Nam)](https://laodong.vn/bat-dong-san/tong-ra-soat-du-an-dia-oc-khu-dtm-dien-nam-dien-ngoc-quang-nam-884902.ldo) ([Lao Động](https://laodong.vn))
-- [Trao bằng khen của Thủ tướng cho người cứu bé gái rơi tầng 12 chung cư](https://tuoitre.vn/trao-bang-khen-cua-thu-tuong-cho-nguoi-cuu-be-gai-roi-tang-12-chung-cu-20210302121119654.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Từ vụ bé gái rơi từ tầng 12: Lưu ý 7 cách giữ an toàn trẻ nhỏ ở chung cư](https://laodong.vn/chuyen-nha-minh/tu-vu-be-gai-roi-tu-tang-12-luu-y-7-cach-giu-an-toan-tre-nho-o-chung-cu-884925.ldo) ([Lao Động](https://laodong.vn))
-- [Những lời chúc ý nghĩa dành cho mẹ nhân ngày 8.3](https://laodong.vn/gia-dinh-hon-nhan/nhung-loi-chuc-y-nghia-danh-cho-me-nhan-ngay-83-884852.ldo) ([Lao Động](https://laodong.vn))
-- [Cần Thơ điều động nhiều cán bộ](https://laodong.vn/thoi-su/can-tho-dieu-dong-nhieu-can-bo-884939.ldo) ([Lao Động](https://laodong.vn))
-- [Bloomberg: VinFast đang lên kế hoạch mở nhà máy tại Mỹ](https://cafebiz.vn/bloomberg-vinfast-dang-len-ke-hoach-mo-nha-may-tai-my-20210302121716239.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội ghi nhận thêm một ca tái dương tính với SARS-CoV-2](https://laodong.vn/xa-hoi/ha-noi-ghi-nhan-them-mot-ca-tai-duong-tinh-voi-sars-cov-2-884945.ldo) ([Lao Động](https://laodong.vn))
-- [Warren Buffett rót tiền vào hãng xe điện Trung Quốc nhiều hơn thương hiệu của Mỹ](https://cafebiz.vn/warren-buffett-rot-tien-vao-hang-xe-dien-trung-quoc-nhieu-hon-thuong-hieu-cua-my-20210302104547856.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nữ streamer đặc biệt của Trung Quốc: Từng là đứa trẻ khiếm thính chỉ biết trả lời "Ờ", 16 năm nỗ lực học nói](https://cafebiz.vn/nu-streamer-dac-biet-cua-trung-quoc-tung-la-dua-tre-khiem-thinh-chi-biet-tra-loi-o-16-nam-no-luc-hoc-noi-20210302112258546.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phan Thị Mơ - hoa hậu đóng Thúy Kiều hóa lo lắng ra mắt khán giả Thủ đô](https://laodong.vn/photo/phan-thi-mo-hoa-hau-dong-thuy-kieu-hoa-lo-lang-ra-mat-khan-gia-thu-do-884923.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Hàng quán nơi nhộn nhịp, nơi vẫn chuẩn bị mở cửa](https://laodong.vn/xa-hoi/ha-noi-hang-quan-noi-nhon-nhip-noi-van-chuan-bi-mo-cua-884948.ldo) ([Lao Động](https://laodong.vn))
+- [Lời khuyên giá trị một tỷ phú nhận được từ Warren Buffett](https://cafebiz.vn/loi-khuyen-gia-tri-mot-ty-phu-nhan-duoc-tu-warren-buffett-20210302104822586.chn) ([CafeBiz](https://cafebiz.vn))
+- [Học sinh Hà Nội: Đến trường rất vui, nhưng nghỉ lâu &quot;lỡ&quot; quên tên vài bạn](https://laodong.vn/photo/hoc-sinh-ha-noi-den-truong-rat-vui-nhung-nghi-lau-lo-quen-ten-vai-ban-884879.ldo) ([Lao Động](https://laodong.vn))
+- ['Hung thủ' húc người làm thuê gãy xương vai nghi là bò tót rừng](https://tuoitre.vn/hung-thu-huc-nguoi-lam-thue-gay-xuong-vai-nghi-la-bo-tot-rung-20210302123447481.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ngày đầu học sinh trở lại lớp: Trường Xuân Phương phòng dịch nghiêm ngặt](https://laodong.vn/video/ngay-dau-hoc-sinh-tro-lai-lop-truong-xuan-phuong-phong-dich-nghiem-ngat-884940.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút 2.3: Thêm bằng khen cho người đỡ bé gái rơi từ tầng 12](https://laodong.vn/video-thoi-su/ban-tin-1-phut-23-them-bang-khen-cho-nguoi-do-be-gai-roi-tu-tang-12-884895.ldo) ([Lao Động](https://laodong.vn))
+- [Cận cảnh &quot;đại bản doanh&quot; tương lai của CLB Sài Gòn trước ngày sửa chữa](https://laodong.vn/video-the-thao/can-canh-dai-ban-doanh-tuong-lai-cua-clb-sai-gon-truoc-ngay-sua-chua-884691.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng dành nguồn lực để mỗi phường có một công viên](https://tuoitre.vn/hai-phong-danh-nguon-luc-de-moi-phuong-co-mot-cong-vien-20210302122018699.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
