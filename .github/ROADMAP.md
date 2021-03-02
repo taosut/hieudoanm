@@ -2,7 +2,7 @@
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
-**FULL-STACK WEB**
+**FULL-STACK**
 
 - Front-end
   - [`(Facebook) React`](https://reactjs.com/)
@@ -28,7 +28,7 @@
 **DEVOPS**
 
 - Termimal
-  - `Shell Script`
+  - [`Shell Script`](https://www.shellscript.sh/)
 - Language
   - [`(Google) Golang`](https://golang.org/)
   - [_C_](https://www.cprogramming.com/)
