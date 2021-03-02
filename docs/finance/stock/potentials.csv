@@ -1,15 +1,17 @@
 "symbol","name","industry","subsector","group","latest","start","latestDate","startDate","diffToMin","diffToMax","diff","min","minDate","median","average","max","maxDate","low","numberOfDates"
-"BTT","Công ty Cổ phần Thương mại - Dịch vụ Bến Thành","Dịch vụ Tiêu dùng","Bán lẻ phức hợp","HOSE",48.4,49.8,"2021-03-01","2021-02-02",0,3.6,3.6,48.4,"2021-03-01",50,50.61,52,"2021-02-18",true,9
 "CMV","Công ty Cổ phần Thương nghiệp Cà Mau","Dịch vụ Tiêu dùng","Bán lẻ phức hợp","HOSE",14.55,17.5,"2021-02-26","2021-02-03",0.15,2.95,3.1,14.4,"2021-02-25",15.75,15.89,17.5,"2021-02-03",true,6
-"DNM","Tổng Công ty Cổ phần Y tế Danameco","Dược phẩm và Y tế","Dụng cụ y tế","HNX",38.6,48.9,"2021-03-01","2021-02-01",0,12.4,12.4,38.6,"2021-03-01",41.45,42.61,51,"2021-02-02",true,18
-"GKM","Công ty Cổ phần Khang Minh Group","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",16.5,18.9,"2021-03-01","2021-02-01",0.2,3,3.2,16.3,"2021-02-26",18.7,18.13,19.5,"2021-02-03",true,18
-"HLY","Công ty Cổ phần Viglacera Hạ Long I","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",32.6,44.6,"2021-03-01","2021-02-24",0,12,12,32.6,"2021-03-01",38.2,38.4,44.6,"2021-02-24",true,4
-"HRC","Công ty Cổ phần Cao su Hòa Bình","Nguyên vật liệu","Nhựa, cao su & sợi","HOSE",55.5,59,"2021-03-01","2021-02-01",0,7.6,7.6,55.5,"2021-02-26",59,58.73,63.1,"2021-02-04",true,7
-"HTP","Công ty Cổ phần In Sách Giáo Khoa Hòa Phát","Dịch vụ Tiêu dùng","Sách, ấn bản & sản phẩm văn hóa","HNX",17.5,21.2,"2021-03-01","2021-02-01",0.4,3.7,4.1,17.1,"2021-02-08",17.9,18.36,21.2,"2021-02-01",true,18
-"NET","Công ty Cổ phần Bột giặt Net","Hàng Tiêu dùng","Hàng cá nhân","HNX",56.3,59.3,"2021-03-01","2021-02-01",0.3,3,3.3,56,"2021-02-05",57.1,57.42,59.3,"2021-02-01",true,16
-"PMC","Công ty Cổ phần Dược phẩm Dược liệu Pharmedic","Dược phẩm và Y tế","Dược phẩm","HNX",60.3,61,"2021-03-01","2021-02-01",0,5,5,60.3,"2021-03-01",63,62.91,65.3,"2021-02-25",true,16
+"CTB","Công ty Cổ phần Chế tạo Bơm Hải Dương","Công nghiệp","Máy công nghiệp","HNX",28.5,32,"2021-03-02","2021-02-01",0,3.5,3.5,28.5,"2021-02-08",28.6,29.35,32,"2021-02-01",true,15
+"DNM","Tổng Công ty Cổ phần Y tế Danameco","Dược phẩm và Y tế","Dụng cụ y tế","HNX",39,48.9,"2021-03-02","2021-02-01",0.4,12,12.4,38.6,"2021-03-01",41.4,42.42,51,"2021-02-02",true,19
+"GKM","Công ty Cổ phần Khang Minh Group","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",16.5,18.9,"2021-03-02","2021-02-01",0.2,3,3.2,16.3,"2021-02-26",18.6,18.04,19.5,"2021-02-03",true,19
+"HLY","Công ty Cổ phần Viglacera Hạ Long I","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",29.4,44.6,"2021-03-02","2021-02-24",0,15.2,15.2,29.4,"2021-03-02",36.2,36.6,44.6,"2021-02-24",true,5
+"HRC","Công ty Cổ phần Cao su Hòa Bình","Nguyên vật liệu","Nhựa, cao su & sợi","HOSE",55.5,59,"2021-03-02","2021-02-01",0,7.6,7.6,55.5,"2021-02-26",59,58.33,63.1,"2021-02-04",true,8
+"HTP","Công ty Cổ phần In Sách Giáo Khoa Hòa Phát","Dịch vụ Tiêu dùng","Sách, ấn bản & sản phẩm văn hóa","HNX",17.5,21.2,"2021-03-02","2021-02-01",0.4,3.7,4.1,17.1,"2021-02-08",17.9,18.32,21.2,"2021-02-01",true,19
+"MED","Công ty Cổ phần Dược Trung ương Mediplantex","Dược phẩm và Y tế","Dược phẩm","HNX",39.6,46.4,"2021-03-02","2021-02-01",0,10.5,10.5,39.6,"2021-03-02",45.6,45.19,50.1,"2021-02-18",true,7
+"NET","Công ty Cổ phần Bột giặt Net","Hàng Tiêu dùng","Hàng cá nhân","HNX",56.5,59.3,"2021-03-02","2021-02-01",0.5,2.8,3.3,56,"2021-02-05",57,57.36,59.3,"2021-02-01",true,17
 "QHD","Công ty Cổ phần Que hàn điện Việt Đức","Công nghiệp","Công nghiệp phức hợp","HNX",26,27.4,"2021-02-26","2021-02-09",0,3,3,26,"2021-02-26",27.4,27.77,29,"2021-02-17",true,7
 "SGC","Công ty Cổ phần Xuất nhập khẩu Sa Giang","Hàng Tiêu dùng","Thực phẩm","HNX",90,93.2,"2021-03-01","2021-02-02",0,3.2,3.2,90,"2021-02-19",90,91.07,93.2,"2021-02-02",true,3
 "SGH","Công ty Cổ phần Khách sạn Sài Gòn","Dịch vụ Tiêu dùng","Khách sạn","HNX",40.9,45.4,"2021-02-22","2021-02-01",0,4.5,4.5,40.9,"2021-02-22",43.15,43.15,45.4,"2021-02-01",true,2
-"SVC","Công ty Cổ phần Dịch vụ tổng hợp Sài Gòn","Hàng Tiêu dùng","Sản xuất ô tô","HOSE",70,74,"2021-03-01","2021-02-01",0,4,4,70,"2021-03-01",74,72.67,74,"2021-02-01",true,3
+"SVC","Công ty Cổ phần Dịch vụ tổng hợp Sài Gòn","Hàng Tiêu dùng","Sản xuất ô tô","HOSE",70,74,"2021-03-02","2021-02-01",0,4,4,70,"2021-03-01",72,72,74,"2021-02-01",true,4
+"TIX","Công ty Cổ phần Sản xuất Kinh doanh Xuất nhập khẩu Dịch vụ và Đầu tư Tân Bình","Tài chính","Bất động sản","HOSE",28.5,32.85,"2021-03-02","2021-02-26",0,4.35,4.35,28.5,"2021-03-02",30.6,30.65,32.85,"2021-02-26",true,3
 "VBC","Công ty Cổ phần Nhựa - Bao bì Vinh","Công nghiệp","Containers & Đóng gói","HNX",20.3,23.5,"2021-03-01","2021-02-04",0,3.2,3.2,20.3,"2021-03-01",22.3,21.98,23.5,"2021-02-04",true,10
+"VE4","Công ty Cổ phần Xây dựng điện VNECO4","Công nghiệp","Xây dựng","HNX",18.2,17.9,"2021-03-02","2021-02-01",0.3,3.6,3.9,17.9,"2021-02-01",20.4,20.18,21.8,"2021-02-19",true,15

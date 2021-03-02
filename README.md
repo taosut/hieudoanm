@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is overcast clouds.
-- Temperature is 21°C.
-- Feels Like 18.85°C.
-- Air Visual is 70.
+- Temperature is 20°C.
+- Feels Like 18.87°C.
+- Air Visual is 72.
 
 **WEATHER**
 
@@ -49,8 +49,8 @@
 **GOOGLE TRENDS**
 
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
+- [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
-- [![Bé gái hai tuổi rơi từ tầng 12 chung cư](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%20hai%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012%20chung%20c%C6%B0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%20hai%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012%20chung%20c%C6%B0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [MTTQ Việt Nam lấy ý kiến cử tri với người ứng cử đại biểu Quốc hội khoá XV](https://laodong.vn/thoi-su/mttq-viet-nam-lay-y-kien-cu-tri-voi-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xv-885017.ldo) ([Lao Động](https://laodong.vn))
-- [Thêm 1 tỷ phú bước vào cuộc chơi tiền số](https://cafebiz.vn/them-1-ty-phu-buoc-vao-cuoc-choi-tien-so-20210302153409741.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tất cả Apple Store Mỹ đồng loạt mở cửa](https://cafebiz.vn/tat-ca-apple-store-my-dong-loat-mo-cua-20210302153622618.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bảng xếp hạng vòng 25 La Liga: Barca và Real bám đuổi sít sao](https://laodong.vn/infographic/bang-xep-hang-vong-25-la-liga-barca-va-real-bam-duoi-sit-sao-884913.ldo) ([Lao Động](https://laodong.vn))
-- [Từ 1/7/2021: Bán nhà có thể bị xóa đăng ký thường trú](https://cafebiz.vn/tu-1-7-2021-ban-nha-co-the-bi-xoa-dang-ky-thuong-tru-20210302155914211.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thanh Hoá: Đôi nhân tình dùng phòng karaoke mở sòng đánh bạc](https://laodong.vn/phap-luat/thanh-hoa-doi-nhan-tinh-dung-phong-karaoke-mo-song-danh-bac-885024.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ Tài chính cảnh báo sàn giao dịch chứng khoán quốc tế, tiền ảo trái phép](https://laodong.vn/kinh-te/bo-tai-chinh-canh-bao-san-giao-dich-chung-khoan-quoc-te-tien-ao-trai-phep-885010.ldo) ([Lao Động](https://laodong.vn))
-- [Lao động phổ thông hết hợp đồng tại Hàn Quốc đăng ký việc mùa vụ cách nào?](https://laodong.vn/xa-hoi/lao-dong-pho-thong-het-hop-dong-tai-han-quoc-dang-ky-viec-mua-vu-cach-nao-885009.ldo) ([Lao Động](https://laodong.vn))
-- [Bỏ ra cả đống tiền để sắm túi Chanel hay áo Gucci, rốt cuộc chúng ta đang mua cái gì từ các thương hiệu xa xỉ? Câu trả lời nằm ngoài dự kiến của người thường](https://cafebiz.vn/bo-ra-ca-dong-tien-de-sam-tui-chanel-hay-ao-gucci-rot-cuoc-chung-ta-dang-mua-cai-gi-tu-cac-thuong-hieu-xa-xi-cau-tra-loi-nam-ngoai-du-kien-cua-nguoi-thuong-20210302153446961.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bê bối chấn động ở Nike: Phó chủ tịch khu vực Bắc Mỹ vừa phải từ chức ngay lập tức vì nghi vấn tuồn hàng cho con trai bán kiếm lời](https://cafebiz.vn/be-boi-chan-dong-o-nike-pho-chu-tich-khu-vuc-bac-my-vua-phai-tu-chuc-ngay-lap-tuc-vi-nghi-van-tuon-hang-cho-con-trai-ban-kiem-loi-20210302154543374.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những thứ tưởng không liên quan này có thể gây ra hỏa hoạn thảm khốc](https://cafebiz.vn/nhung-thu-tuong-khong-lien-quan-nay-co-the-gay-ra-hoa-hoan-tham-khoc-20210302170312424.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Tĩnh: Cầu xây xong đã 5 năm nhưng chưa thể qua lại](https://laodong.vn/ban-doc/ha-tinh-cau-xay-xong-da-5-nam-nhung-chua-the-qua-lai-884931.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Lắp đặt wifi miễn phí cho các khu nhà trọ có đông người lao động](https://laodong.vn/cong-doan/tphcm-lap-dat-wifi-mien-phi-cho-cac-khu-nha-tro-co-dong-nguoi-lao-dong-885049.ldo) ([Lao Động](https://laodong.vn))
+- [Dòng phương tiện ùn ứ ở cửa ngõ Quảng Ninh](https://vnexpress.net/dong-phuong-tien-un-u-o-cua-ngo-quang-ninh-4242483.html) ([VNExpress](https://vnexpress.net))
+- [Diễn biến mới nhất vụ đào tẩu như phim của cựu  Chủ tịch Nissan](https://laodong.vn/the-gioi/dien-bien-moi-nhat-vu-dao-tau-nhu-phim-cua-cuu-chu-tich-nissan-885035.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Cấp thẻ căn cước công dân gắn chip cho người dân theo 3 ca](https://laodong.vn/phap-luat/ha-noi-cap-the-can-cuoc-cong-dan-gan-chip-cho-nguoi-dan-theo-3-ca-885027.ldo) ([Lao Động](https://laodong.vn))
+- [Hành trình trở thành nhân viên xuất sắc Samsung Electronics toàn cầu của ông Tô Chính Nghĩa, một trong ba người Việt đầu tiên làm việc cho Samsung](https://cafebiz.vn/hanh-trinh-tro-thanh-nhan-vien-xuat-sac-samsung-electronics-toan-cau-cua-ong-to-chinh-nghia-mot-trong-ba-nguoi-viet-dau-tien-lam-viec-cho-samsung-20210302154948557.chn) ([CafeBiz](https://cafebiz.vn))
+- [LĐLĐ Hồng Bàng (Hải Phòng): 1.000 suất nông sản sạch tặng CNLĐ](https://laodong.vn/cong-doan/ldld-hong-bang-hai-phong-1000-suat-nong-san-sach-tang-cnld-885031.ldo) ([Lao Động](https://laodong.vn))
+- [CSGT xác minh hai chiếc Mercedes cùng biển số chạy trên phố](https://vnexpress.net/csgt-xac-minh-hai-chiec-mercedes-cung-bien-so-chay-tren-pho-4242477.html) ([VNExpress](https://vnexpress.net))
+- [Lộ diện Lamborghini Huracan EVO hàng độc về Việt Nam: Siêu nhẹ, siêu mạnh cùng màu sơn hiếm có](https://cafebiz.vn/lo-dien-lamborghini-huracan-evo-hang-doc-ve-viet-nam-sieu-nhe-sieu-manh-cung-mau-son-hiem-co-20210302154243097.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,16 +96,16 @@
 
 **VIETCETERA**
 
+- [Meme học: Khi tranh cổ điển cũng... không thoát](https://vietcetera.com/vn/meme-hoc-tranh-co-dien)
+- [Chữ Với Nghĩa: Bản dạng](https://vietcetera.com/vn/chu-voi-nghia-ban-dang)
+- [8 Bài học về đào tạo và quản lý tài năng từ Aiden Nguyễn](https://vietcetera.com/vn/8-bai-hoc-ve-dao-tao-va-quan-ly-tai-nang-tu-aiden-nguyen)
+- [Đối mặt với nỗi sợ trước những điều chưa biết](https://vietcetera.com/vn/doi-mat-voi-noi-so-truoc-nhung-dieu-chua-biet)
 - [Mừng ngày mở cửa trở lại — 5 quán cà phê Hà Nội xưa nạp lại cảm hứng](https://vietcetera.com/vn/mung-ngay-mo-cua-tro-lai-5-quan-ca-phe-ha-noi-xua-nap-lai-cam-hung)
 - [Singapore tái khởi động ngành du lịch nội địa và quốc tế ](https://vietcetera.com/vn/singapore-tai-khoi-dong-nganh-du-lich-noi-dia-va-quoc-te)
 - ["Chỉ yêu người “không quê không quán, không cha không mẹ, không tên không tuổi”"](https://vietcetera.com/vn/chi-yeu-nguoi-khong-que-khong-quan-khong-cha-khong-me-khong-ten-khong-tuoi)
 - [Tóm Lại Là: Tại sao chiến dịch Free Britney trở lại?](https://vietcetera.com/vn/tom-lai-la-tai-sao-chien-dich-free-britney-tro-lai)
 - [Thử Rồi Thích: Làm bụng nhỏ đi mà không cần giảm mỡ](https://vietcetera.com/vn/thu-roi-thich-lam-bung-nho-di-ma-khong-can-giam-mo)
 - [5 Quán cà phê để bạn "deep work"](https://vietcetera.com/vn/5-quan-ca-phe-lam-viec)
-- [Do Ventures, Genesia Ventures, Chiba Dojo và các nhà đầu tư khác rót vốn 3 triệu đô vào nền tảng giáo dục trực tuyến Manabie](https://vietcetera.com/vn/do-ventures-genesia-ventures-chiba-dojo-va-cac-nha-dau-tu-khac-rot-von-3-trieu-do-vao-nen-tang-giao-duc-truc-tuyen-manabie)
-- ["Anh đang khoác áo trái đó..."](https://vietcetera.com/vn/du-anh-co-roi-vao-tinh-canh-xau-ho-hay-kho-khan-minh-van-se-chon-o-ben-anh)
-- [5 Live show âm nhạc YouTube để bạn khám phá nghệ sĩ mới](https://vietcetera.com/vn/5-live-show-am-nhac-youtube-de-ban-kham-pha-nghe-si-moi)
-- [Làm sao để yêu mà không đánh mất chính mình?](https://vietcetera.com/vn/lam-sao-de-yeu-ma-khong-danh-mat-chinh-minh)
 
 [Read More](https://vietcetera.com/)
 
