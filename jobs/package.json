@@ -1,7 +1,7 @@
 {
-  "name": "scripts",
+  "name": "jobs",
   "version": "1.0.0",
-  "description": "automation scripts",
+  "description": "automation jobs",
   "main": "sync.ts",
   "author": "NAM <vietnamdb29@gmail.com>",
   "license": "MIT",
