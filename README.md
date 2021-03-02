@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 20°C.
 - Feels Like 19.18°C.
-- Air Visual is 87.
+- Air Visual is 85.
 
 **WEATHER**
 
@@ -59,7 +59,6 @@
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
-- [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
 - [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
@@ -67,6 +66,7 @@
 - [![Uni5](https://img.shields.io/static/v1?label=Uni5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Uni5)
 - [![Vo hoang yen](https://img.shields.io/static/v1?label=Vo%20hoang%20yen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vo%20hoang%20yen)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
+- [![Võ Hoàng Yến](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chuyên gia nhận định Hải Dương có thể hoàn toàn kiểm soát dịch khoảng 2 đến 3 tuần nữa](https://cafebiz.vn/chuyen-gia-nhan-dinh-hai-duong-co-the-hoan-toan-kiem-soat-dich-khoang-2-den-3-tuan-nua-2021030218191268.chn) ([CafeBiz](https://cafebiz.vn))
+- [Yên Bái tạm dừng hoạt động các chốt kiểm dịch COVID-19](https://laodong.vn/xa-hoi/yen-bai-tam-dung-hoat-dong-cac-chot-kiem-dich-covid-19-885133.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương sẽ gỡ phong tỏa như thế nào?](https://tuoitre.vn/hai-duong-se-go-phong-toa-nhu-the-nao-20210302180925215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Vụ án Trịnh Xuân Thanh là đại án, khen thưởng là bình thường](https://tuoitre.vn/vu-an-trinh-xuan-thanh-la-dai-an-khen-thuong-la-binh-thuong-20210302182111805.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Phó chủ tịch UBND TP.HCM: Đọc đơn chưa rõ thì tìm hỏi cho rõ, không chuyển lòng vòng](https://tuoitre.vn/pho-chu-tich-ubnd-tp-hcm-doc-don-chua-ro-thi-tim-hoi-cho-ro-khong-chuyen-long-vong-20210302182006035.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hải Dương là 1 trong những tỉnh được ưu tiên tiêm vắc-xin Covid-19 trước](http://vietnamnet.vn/vn/thoi-su/hai-duong-la-1-trong-nhung-tinh-duoc-uu-tien-tiem-vac-xin-covid-19-truoc-716702.html) ([VietNamNet](https://vietnamnet.vn))
+- [Bắc Ninh dừng hoạt động 3 chốt liên ngành cấp tỉnh kiểm soát dịch COVID-19](https://laodong.vn/xa-hoi/bac-ninh-dung-hoat-dong-3-chot-lien-nganh-cap-tinh-kiem-soat-dich-covid-19-885111.ldo) ([Lao Động](https://laodong.vn))
+- [Lùm xùm vụ vợ chồng đại gia Dũng ‘lò vôi’ tố lương y lừa đảo](http://vietnamnet.vn/vn/thoi-su/lum-xum-vu-vo-chong-dai-gia-dung-lo-voi-to-luong-y-lua-dao-716703.html) ([VietNamNet](https://vietnamnet.vn))
 - [Mẹo khắc phục nhà bị nồm ẩm cực đơn giản, hiệu quả](https://laodong.vn/bat-dong-san/meo-khac-phuc-nha-bi-nom-am-cuc-don-gian-hieu-qua-884973.ldo) ([Lao Động](https://laodong.vn))
 - [Mở cửa trở lại sân bay Vân Đồn](https://laodong.vn/giao-thong/mo-cua-tro-lai-san-bay-van-don-885105.ldo) ([Lao Động](https://laodong.vn))
-- [Đắk Lắk: Một đơn vị tuyển lao động đi làm việc ở Hàn Quốc sai quy định](https://laodong.vn/phap-luat/dak-lak-mot-don-vi-tuyen-lao-dong-di-lam-viec-o-han-quoc-sai-quy-dinh-885067.ldo) ([Lao Động](https://laodong.vn))
-- [Tin vui: 12h trôi qua không có ca mắc COVID-19, Việt Nam chữa khỏi 1.898 bệnh nhân](https://cafebiz.vn/tin-vui-12h-troi-qua-khong-co-ca-mac-covid-19-viet-nam-chua-khoi-1898-benh-nhan-20210302181315005.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ibrahimovic lại chấn thương, bỏ lỡ cơ hội tái ngộ với Man United](https://laodong.vn/bong-da-quoc-te/ibrahimovic-lai-chan-thuong-bo-lo-co-hoi-tai-ngo-voi-man-united-885091.ldo) ([Lao Động](https://laodong.vn))
-- [Lắp lưới chắn an toàn tại chung cư: Nơi làm chặt, chỗ lỏng lẻo](https://laodong.vn/photo/lap-luoi-chan-an-toan-tai-chung-cu-noi-lam-chat-cho-long-leo-885060.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều 2-3, lần đầu tiên 1 tháng qua, bản tin chiều không có ca COVID-19 mới](https://tuoitre.vn/chieu-2-3-lan-dau-tien-1-thang-qua-ban-tin-chieu-khong-co-ca-covid-19-moi-2021030218182437.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chủ tịch huyện bị cảnh cáo vì sai phạm đất đai](https://vnexpress.net/chu-tich-huyen-bi-canh-cao-vi-sai-pham-dat-dai-4242549.html) ([VNExpress](https://vnexpress.net))
-- [Mỗi năm cần gần 13 tỉ USD cho ngành điện: Tiền đâu để đầu tư?](https://laodong.vn/kinh-te/moi-nam-can-gan-13-ti-usd-cho-nganh-dien-tien-dau-de-dau-tu-885085.ldo) ([Lao Động](https://laodong.vn))
-- [TP Chí Linh nôn nao trước thời điểm gỡ bỏ phong tỏa](https://tuoitre.vn/tp-chi-linh-non-nao-truoc-thoi-diem-go-bo-phong-toa-20210302165150846.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
