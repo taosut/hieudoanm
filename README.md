@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is overcast clouds.
-- Temperature is 20°C.
-- Feels Like 19.95°C.
-- Air Visual is 122.
+- Temperature is 19°C.
+- Feels Like 18.55°C.
+- Air Visual is 131.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Kinh tế 24h: Cảnh giác với tiền ảo Pi; Xuất khẩu nông sản Việt bứt phá](https://laodong.vn/kinh-te/kinh-te-24h-canh-giac-voi-tien-ao-pi-xuat-khau-nong-san-viet-but-pha-885186.ldo) ([Lao Động](https://laodong.vn))
+- [Câu chuyện ngày “toàn quốc giải phóng phụ huynh”](https://laodong.vn/giao-duc/cau-chuyen-ngay-toan-quoc-giai-phong-phu-huynh-885118.ldo) ([Lao Động](https://laodong.vn))
+- [Chứng khoán: Dòng tiền sẽ tiếp tục công phá đỉnh 1.200 điểm](https://laodong.vn/kinh-te/chung-khoan-dong-tien-se-tiep-tuc-cong-pha-dinh-1200-diem-885183.ldo) ([Lao Động](https://laodong.vn))
+- [Cụ bà mang chiếc trâm vàng của mẹ kế đi thẩm định: 5 chữ trên cây trâm khiến chuyên gia bàng hoàng, cả trường quay bất ngờ](https://cafebiz.vn/cu-ba-mang-chiec-tram-vang-cua-me-ke-di-tham-dinh-5-chu-tren-cay-tram-khien-chuyen-gia-bang-hoang-ca-truong-quay-bat-ngo-2021030221092433.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thiên tài từ trứng nước: Từng có một nơi chỉ lấy tinh trùng của thiên tài giỏi nhất thế giới, và những gì xảy ra sau đó không giống như bạn tưởng tượng](https://cafebiz.vn/thien-tai-tu-trung-nuoc-tung-co-mot-noi-chi-lay-tinh-trung-cua-thien-tai-gioi-nhat-the-gioi-va-nhung-gi-xay-ra-sau-do-khong-giong-nhu-ban-tuong-tuong-20210302205916712.chn) ([CafeBiz](https://cafebiz.vn))
 - [Một tỉnh Trung Quốc cấm đào tiền ảo để tiết kiệm năng lượng](https://cafebiz.vn/mot-tinh-trung-quoc-cam-dao-tien-ao-de-tiet-kiem-nang-luong-20210302194625344.chn) ([CafeBiz](https://cafebiz.vn))
 - [Trong “Tam quốc diễn nghĩa”, Lưu Bị dùng kiếm, Quan Vũ dùng đao: Bí mật đằng sau cách chọn vũ khí này là gì?](https://cafebiz.vn/trong-tam-quoc-dien-nghia-luu-bi-dung-kiem-quan-vu-dung-dao-bi-mat-dang-sau-cach-chon-vu-khi-nay-la-gi-20210302205448023.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắc Ninh có tân Giám đốc Sở Tài nguyên và Môi trường](https://laodong.vn/thoi-su/bac-ninh-co-tan-giam-doc-so-tai-nguyen-va-moi-truong-885184.ldo) ([Lao Động](https://laodong.vn))
 - [1 video dài 10 giây có thể được bán với giá 6,6 triệu USD, xuất hiện bong bóng mới trong thế giới tiền số?](https://cafebiz.vn/1-video-dai-10-giay-co-the-duoc-ban-voi-gia-66-trieu-usd-xuat-hien-bong-bong-moi-trong-the-gioi-tien-so-20210302194504227.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chỉ sử dụng 1% cho bản thân và sẵn sàng cho đi 99% tài sản: 7 bí mật để vừa thành công vừa sống hạnh phúc của tỷ phú Warren Buffett, ai cũng biết nhưng mấy người làm được](https://cafebiz.vn/chi-su-dung-1-cho-ban-than-va-san-sang-cho-di-99-tai-san-7-bi-mat-de-vua-thanh-cong-vua-song-hanh-phuc-cua-ty-phu-warren-buffett-ai-cung-biet-nhung-may-nguoi-lam-duoc-20210302211246339.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chính phủ sẽ kiện toàn nhiều vị trí trong tháng 3](https://vnexpress.net/chinh-phu-se-kien-toan-nhieu-vi-tri-trong-thang-3-4242558.html) ([VNExpress](https://vnexpress.net))
-- ["Câu lạc bộ" người siêu giàu của Trung Quốc tăng mạnh](https://cafebiz.vn/cau-lac-bo-nguoi-sieu-giau-cua-trung-quoc-tang-manh-20210302182310102.chn) ([CafeBiz](https://cafebiz.vn))
-- [Loại thực phẩm nhiều người Việt thích tới phát "nghiện" lại "tàn phá" gan không kém gì rượu](https://cafebiz.vn/loai-thuc-pham-nhieu-nguoi-viet-thich-toi-phat-nghien-lai-tan-pha-gan-khong-kem-gi-ruou-20210302171457578.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Lê Hải Trà: “Tăng lô giao dịch lên 1.000 cổ phiếu có thể giúp nhà đầu tư nhỏ lẻ được bảo vệ tốt hơn”](https://cafebiz.vn/ong-le-hai-tra-tang-lo-giao-dich-len-1000-co-phieu-co-the-giup-nha-dau-tu-nho-le-duoc-bao-ve-tot-hon-20210302211736065.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Phòng sẽ xây dựng mỗi phường một công viên](https://vnexpress.net/hai-phong-se-xay-dung-moi-phuong-mot-cong-vien-4242572.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
@@ -134,12 +134,12 @@
 02. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 03. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 04. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
-05. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-07. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
-08. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
-09. [HERO ĐẠI CHIẾN FREE FIRE - Hero Team x QT Beatz | Official Music Video](https://www.youtube.com/watch?v=KCzq4aa0wbw) - [HERO TEAM](https://www.youtube.com/channel/UC4uf1-QJkwH-9T5ejvncxIA)
-10. [Anh Làm Gì Sai - Châu Khải Phong | Thương Võ Cover](https://www.youtube.com/watch?v=fDctq_Kj2UI) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+05. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+06. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
+07. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+08. [Gia đình bé gái rơi từ tầng 12A: Anh Mạnh là "Bồ Tát sống" của gia đình chúng tôi! | VTC Now](https://www.youtube.com/watch?v=Hm5ng-hLZEQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+09. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
+10. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
