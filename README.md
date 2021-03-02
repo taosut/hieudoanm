@@ -21,8 +21,8 @@
 
 - Current weather is clear sky.
 - Temperature is 21°C.
-- Feels Like 18.13°C.
-- Air Visual is 67.
+- Feels Like 17.77°C.
+- Air Visual is 65.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cú bắt tay của những người siêu giàu: Siêu xe Ferrari hợp tác với siêu đồng hồ Richard Mille](https://cafebiz.vn/cu-bat-tay-cua-nhung-nguoi-sieu-giau-sieu-xe-ferrari-hop-tac-voi-sieu-dong-ho-richard-mille-20210302085631425.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tuyển sinh vào lớp 10 ở Hà Nội năm học 2021 - 2022 cần lưu ý gì?](https://laodong.vn/infographic/tuyen-sinh-vao-lop-10-o-ha-noi-nam-hoc-2021-2022-can-luu-y-gi-884665.ldo) ([Lao Động](https://laodong.vn))
-- [Áp dụng phương thức "cắn hạt dưa", sau 1 năm, tư duy và tầm nhìn của tôi rộng mở hơn 29 năm trước cộng lại](https://cafebiz.vn/ap-dung-phuong-thuc-can-hat-dua-sau-1-nam-tu-duy-va-tam-nhin-cua-toi-rong-mo-hon-29-truoc-cong-lai-20210301172510123.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hiệp hội Du lịch TPHCM kiến nghị miễn giảm thuế, Bộ Tài chính nói gì?](https://cafebiz.vn/hiep-hoi-du-lich-tphcm-kien-nghi-mien-giam-thue-bo-tai-chinh-noi-gi-20210302102054534.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tuyển Malaysia có thêm tiền đạo nhập tịch để đấu tuyển Việt Nam](https://laodong.vn/the-thao/tuyen-malaysia-co-them-tien-dao-nhap-tich-de-dau-tuyen-viet-nam-884875.ldo) ([Lao Động](https://laodong.vn))
-- [CitiBank: Bitcoin đang ở "điểm nổ" và có thể trở thành đồng tiền được chọn cho thương mại toàn cầu](https://cafebiz.vn/citibank-bitcoin-dang-o-diem-no-va-co-the-tro-thanh-dong-tien-duoc-chon-cho-thuong-mai-toan-cau-20210302095834943.chn) ([CafeBiz](https://cafebiz.vn))
-- [Điều kiện để được cấp thẻ căn cước công dân gắn chip](https://laodong.vn/phap-luat/dieu-kien-de-duoc-cap-the-can-cuoc-cong-dan-gan-chip-884865.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Học sinh trở lại trường sau kỳ nghỉ Tết dài phòng dịch COVID-19](https://laodong.vn/giao-duc/ha-noi-hoc-sinh-tro-lai-truong-sau-ky-nghi-tet-dai-phong-dich-covid-19-884858.ldo) ([Lao Động](https://laodong.vn))
-- [Tin bóng đá sáng 2.3: “Mbappe có thể vượt qua Messi và Ronaldo”](https://laodong.vn/the-thao/tin-bong-da-sang-23-mbappe-co-the-vuot-qua-messi-va-ronaldo-884866.ldo) ([Lao Động](https://laodong.vn))
-- [Thầy và trò trường Tiểu học Xuân Phương háo hức trong ngày trở lại trường](https://laodong.vn/video/thay-va-tro-truong-tieu-hoc-xuan-phuong-hao-huc-trong-ngay-tro-lai-truong-884808.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng: 'Bảo đảm chuyển giao tốt cho Chính phủ khóa mới'](https://vnexpress.net/thu-tuong-bao-dam-chuyen-giao-tot-cho-chinh-phu-khoa-moi-4242182.html) ([VNExpress](https://vnexpress.net))
+- [Ám ảnh con đường &quot;vá lại bung&quot; ở Yên Bái](https://laodong.vn/ban-doc/am-anh-con-duong-va-lai-bung-o-yen-bai-884677.ldo) ([Lao Động](https://laodong.vn))
+- [Tổng điều tra kinh tế năm 2021, sẽ tính toán lại quy mô GDP](https://tuoitre.vn/tong-dieu-tra-kinh-te-nam-2021-se-tinh-toan-lai-quy-mo-gdp-20210302101213539.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thực hiện hiệu quả &quot;mục tiêu kép&quot;](https://laodong.vn/thoi-su/thuc-hien-hieu-qua-muc-tieu-kep-884882.ldo) ([Lao Động](https://laodong.vn))
+- [Em bé được cứu, bố chỉ nói 4 chữ “Thế là được rồi”, nhưng đó là lời khen tuyệt vời nhất tôi từng nhận được](https://cafebiz.vn/em-be-duoc-cuu-bo-chi-noi-4-chu-the-la-duoc-roi-nhung-do-la-loi-khen-tuyet-voi-nhat-toi-tung-nhan-duoc-20210302103849919.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tướng: “Cố gắng tối đa để mọi người dân được tiêm vaccine ngừa Covid-19”](https://cafebiz.vn/thu-tuong-co-gang-toi-da-de-moi-nguoi-dan-duoc-tiem-vaccine-ngua-covid-19-20210302103805734.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khủng hoảng chưa chấm dứt ở miền nam nước Mỹ sau đợt lạnh kỷ lục](https://laodong.vn/the-gioi/khung-hoang-chua-cham-dut-o-mien-nam-nuoc-my-sau-dot-lanh-ky-luc-884873.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ Tài chính cảnh báo về các sàn giao dịch tiền ảo trái phép](https://cafebiz.vn/bo-tai-chinh-canh-bao-ve-cac-san-giao-dich-tien-ao-trai-phep-20210302103508557.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ban Tổ chức Trung ương công bố quyết định về công tác cán bộ](https://laodong.vn/thoi-su/ban-to-chuc-trung-uong-cong-bo-quyet-dinh-ve-cong-tac-can-bo-884868.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ xe trộn bê tông cán chết học sinh lớp 2: Toàn bộ bản án bị kháng cáo](https://laodong.vn/phap-luat/vu-xe-tron-be-tong-can-chet-hoc-sinh-lop-2-toan-bo-ban-an-bi-khang-cao-884798.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
