@@ -21,8 +21,8 @@
 
 - Current weather is overcast clouds.
 - Temperature is 20°C.
-- Feels Like 18.87°C.
-- Air Visual is 72.
+- Feels Like 18.82°C.
+- Air Visual is 67.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Những thứ tưởng không liên quan này có thể gây ra hỏa hoạn thảm khốc](https://cafebiz.vn/nhung-thu-tuong-khong-lien-quan-nay-co-the-gay-ra-hoa-hoan-tham-khoc-20210302170312424.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Tĩnh: Cầu xây xong đã 5 năm nhưng chưa thể qua lại](https://laodong.vn/ban-doc/ha-tinh-cau-xay-xong-da-5-nam-nhung-chua-the-qua-lai-884931.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Lắp đặt wifi miễn phí cho các khu nhà trọ có đông người lao động](https://laodong.vn/cong-doan/tphcm-lap-dat-wifi-mien-phi-cho-cac-khu-nha-tro-co-dong-nguoi-lao-dong-885049.ldo) ([Lao Động](https://laodong.vn))
-- [Dòng phương tiện ùn ứ ở cửa ngõ Quảng Ninh](https://vnexpress.net/dong-phuong-tien-un-u-o-cua-ngo-quang-ninh-4242483.html) ([VNExpress](https://vnexpress.net))
-- [Diễn biến mới nhất vụ đào tẩu như phim của cựu  Chủ tịch Nissan](https://laodong.vn/the-gioi/dien-bien-moi-nhat-vu-dao-tau-nhu-phim-cua-cuu-chu-tich-nissan-885035.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Cấp thẻ căn cước công dân gắn chip cho người dân theo 3 ca](https://laodong.vn/phap-luat/ha-noi-cap-the-can-cuoc-cong-dan-gan-chip-cho-nguoi-dan-theo-3-ca-885027.ldo) ([Lao Động](https://laodong.vn))
-- [Hành trình trở thành nhân viên xuất sắc Samsung Electronics toàn cầu của ông Tô Chính Nghĩa, một trong ba người Việt đầu tiên làm việc cho Samsung](https://cafebiz.vn/hanh-trinh-tro-thanh-nhan-vien-xuat-sac-samsung-electronics-toan-cau-cua-ong-to-chinh-nghia-mot-trong-ba-nguoi-viet-dau-tien-lam-viec-cho-samsung-20210302154948557.chn) ([CafeBiz](https://cafebiz.vn))
-- [LĐLĐ Hồng Bàng (Hải Phòng): 1.000 suất nông sản sạch tặng CNLĐ](https://laodong.vn/cong-doan/ldld-hong-bang-hai-phong-1000-suat-nong-san-sach-tang-cnld-885031.ldo) ([Lao Động](https://laodong.vn))
-- [CSGT xác minh hai chiếc Mercedes cùng biển số chạy trên phố](https://vnexpress.net/csgt-xac-minh-hai-chiec-mercedes-cung-bien-so-chay-tren-pho-4242477.html) ([VNExpress](https://vnexpress.net))
-- [Lộ diện Lamborghini Huracan EVO hàng độc về Việt Nam: Siêu nhẹ, siêu mạnh cùng màu sơn hiếm có](https://cafebiz.vn/lo-dien-lamborghini-huracan-evo-hang-doc-ve-viet-nam-sieu-nhe-sieu-manh-cung-mau-son-hiem-co-20210302154243097.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khen thưởng lực lượng phá chuyên án lừa đảo qua mạng](https://laodong.vn/xa-hoi/khen-thuong-luc-luong-pha-chuyen-an-lua-dao-qua-mang-885066.ldo) ([Lao Động](https://laodong.vn))
+- [Đề nghị truy tố 2 phóng viên tống tiền doanh nghiệp](https://laodong.vn/phap-luat/de-nghi-truy-to-2-phong-vien-tong-tien-doanh-nghiep-885050.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Ninh: Nâng cao đời sống văn hóa tinh thần NLĐ trong khu công nghiệp](https://laodong.vn/cong-doan/quang-ninh-nang-cao-doi-song-van-hoa-tinh-than-nld-trong-khu-cong-nghiep-885069.ldo) ([Lao Động](https://laodong.vn))
+- [Câu chuyện của Hải Dương và bài học trong phản ứng chính sách](https://cafebiz.vn/cau-chuyen-cua-hai-duong-va-bai-hoc-trong-phan-ung-chinh-sach-20210302172354819.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: Mở cửa trở lại, rạp phim huỷ suất chiếu vì vắng khách](https://laodong.vn/ban-doc/tphcm-mo-cua-tro-lai-rap-phim-huy-suat-chieu-vi-vang-khach-884997.ldo) ([Lao Động](https://laodong.vn))
+- [Nông dân Nghệ An vứt bỏ rau xanh](https://vnexpress.net/nong-dan-nghe-an-vut-bo-rau-xanh-4242458.html) ([VNExpress](https://vnexpress.net))
+- [HAGL không phải là đối thủ Lee Nguyễn quan tâm nhất tại V.League?](https://laodong.vn/the-thao/hagl-khong-phai-la-doi-thu-lee-nguyen-quan-tam-nhat-tai-vleague-885052.ldo) ([Lao Động](https://laodong.vn))
+- [Họp báo Chính phủ thường kỳ](https://vnexpress.net/hop-bao-chinh-phu-thuong-ky-4242403.html) ([VNExpress](https://vnexpress.net))
+- [Mỹ dội 5 quả bom ở Syria giết 1 tay súng do Iran hậu thuẫn](https://laodong.vn/the-gioi/my-doi-5-qua-bom-o-syria-giet-1-tay-sung-do-iran-hau-thuan-885007.ldo) ([Lao Động](https://laodong.vn))
+- [Truy tặng kỷ niệm chương 'Vì sức khỏe nhân dân' cho nhân viên y tế tử vong trên đường chống dịch](https://tuoitre.vn/truy-tang-ky-niem-chuong-vi-suc-khoe-nhan-dan-cho-nhan-vien-y-te-tu-vong-tren-duong-chong-dich-20210302164757437.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
