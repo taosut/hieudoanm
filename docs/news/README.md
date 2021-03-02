@@ -1,5 +1,7 @@
 # News
 
+- [Kẻ dại mới phí thời gian, tiền bạc, nỗ lực vào 10 thứ: Đáng tiếc, rất nhiều người đều sa đà, "lọt hố" để rồi nửa đời sau sống trong nuối tiếc](https://cafebiz.vn/ke-dai-moi-phi-thoi-gian-tien-bac-no-luc-vao-10-thu-dang-tiec-rat-nhieu-nguoi-deu-sa-da-lot-ho-de-roi-nua-doi-sau-song-trong-nuoi-tiec-20210302221728062.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đà Nẵng đầu tư hệ thống xe điện 54.000 tỷ, đường hầm qua sân bay 8.200 tỷ](https://cafebiz.vn/da-nang-dau-tu-he-thong-xe-dien-54000-ty-duong-ham-qua-san-bay-8200-ty-20210302223115784.chn) ([CafeBiz](https://cafebiz.vn))
 - [Kinh tế 24h: Cảnh giác với tiền ảo Pi; Xuất khẩu nông sản Việt bứt phá](https://laodong.vn/kinh-te/kinh-te-24h-canh-giac-voi-tien-ao-pi-xuat-khau-nong-san-viet-but-pha-885186.ldo) ([Lao Động](https://laodong.vn))
 - [Câu chuyện ngày “toàn quốc giải phóng phụ huynh”](https://laodong.vn/giao-duc/cau-chuyen-ngay-toan-quoc-giai-phong-phu-huynh-885118.ldo) ([Lao Động](https://laodong.vn))
 - [Chứng khoán: Dòng tiền sẽ tiếp tục công phá đỉnh 1.200 điểm](https://laodong.vn/kinh-te/chung-khoan-dong-tien-se-tiep-tuc-cong-pha-dinh-1200-diem-885183.ldo) ([Lao Động](https://laodong.vn))
@@ -98,5 +100,3 @@
 - [Thêm 1 tỷ phú bước vào cuộc chơi tiền số](https://cafebiz.vn/them-1-ty-phu-buoc-vao-cuoc-choi-tien-so-20210302153409741.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tất cả Apple Store Mỹ đồng loạt mở cửa](https://cafebiz.vn/tat-ca-apple-store-my-dong-loat-mo-cua-20210302153622618.chn) ([CafeBiz](https://cafebiz.vn))
 - [Từ 1/7/2021: Bán nhà có thể bị xóa đăng ký thường trú](https://cafebiz.vn/tu-1-7-2021-ban-nha-co-the-bi-xoa-dang-ky-thuong-tru-20210302155914211.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bỏ ra cả đống tiền để sắm túi Chanel hay áo Gucci, rốt cuộc chúng ta đang mua cái gì từ các thương hiệu xa xỉ? Câu trả lời nằm ngoài dự kiến của người thường](https://cafebiz.vn/bo-ra-ca-dong-tien-de-sam-tui-chanel-hay-ao-gucci-rot-cuoc-chung-ta-dang-mua-cai-gi-tu-cac-thuong-hieu-xa-xi-cau-tra-loi-nam-ngoai-du-kien-cua-nguoi-thuong-20210302153446961.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bê bối chấn động ở Nike: Phó chủ tịch khu vực Bắc Mỹ vừa phải từ chức ngay lập tức vì nghi vấn tuồn hàng cho con trai bán kiếm lời](https://cafebiz.vn/be-boi-chan-dong-o-nike-pho-chu-tich-khu-vuc-bac-my-vua-phai-tu-chuc-ngay-lap-tuc-vi-nghi-van-tuon-hang-cho-con-trai-ban-kiem-loi-20210302154543374.chn) ([CafeBiz](https://cafebiz.vn))

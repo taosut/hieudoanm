@@ -21,8 +21,8 @@
 
 - Current weather is overcast clouds.
 - Temperature is 19°C.
-- Feels Like 18.55°C.
-- Air Visual is 131.
+- Feels Like 19.85°C.
+- Air Visual is 141.
 
 **WEATHER**
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Kẻ dại mới phí thời gian, tiền bạc, nỗ lực vào 10 thứ: Đáng tiếc, rất nhiều người đều sa đà, "lọt hố" để rồi nửa đời sau sống trong nuối tiếc](https://cafebiz.vn/ke-dai-moi-phi-thoi-gian-tien-bac-no-luc-vao-10-thu-dang-tiec-rat-nhieu-nguoi-deu-sa-da-lot-ho-de-roi-nua-doi-sau-song-trong-nuoi-tiec-20210302221728062.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đà Nẵng đầu tư hệ thống xe điện 54.000 tỷ, đường hầm qua sân bay 8.200 tỷ](https://cafebiz.vn/da-nang-dau-tu-he-thong-xe-dien-54000-ty-duong-ham-qua-san-bay-8200-ty-20210302223115784.chn) ([CafeBiz](https://cafebiz.vn))
 - [Kinh tế 24h: Cảnh giác với tiền ảo Pi; Xuất khẩu nông sản Việt bứt phá](https://laodong.vn/kinh-te/kinh-te-24h-canh-giac-voi-tien-ao-pi-xuat-khau-nong-san-viet-but-pha-885186.ldo) ([Lao Động](https://laodong.vn))
 - [Câu chuyện ngày “toàn quốc giải phóng phụ huynh”](https://laodong.vn/giao-duc/cau-chuyen-ngay-toan-quoc-giai-phong-phu-huynh-885118.ldo) ([Lao Động](https://laodong.vn))
 - [Chứng khoán: Dòng tiền sẽ tiếp tục công phá đỉnh 1.200 điểm](https://laodong.vn/kinh-te/chung-khoan-dong-tien-se-tiep-tuc-cong-pha-dinh-1200-diem-885183.ldo) ([Lao Động](https://laodong.vn))
@@ -83,8 +85,6 @@
 - [Một tỉnh Trung Quốc cấm đào tiền ảo để tiết kiệm năng lượng](https://cafebiz.vn/mot-tinh-trung-quoc-cam-dao-tien-ao-de-tiet-kiem-nang-luong-20210302194625344.chn) ([CafeBiz](https://cafebiz.vn))
 - [Trong “Tam quốc diễn nghĩa”, Lưu Bị dùng kiếm, Quan Vũ dùng đao: Bí mật đằng sau cách chọn vũ khí này là gì?](https://cafebiz.vn/trong-tam-quoc-dien-nghia-luu-bi-dung-kiem-quan-vu-dung-dao-bi-mat-dang-sau-cach-chon-vu-khi-nay-la-gi-20210302205448023.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắc Ninh có tân Giám đốc Sở Tài nguyên và Môi trường](https://laodong.vn/thoi-su/bac-ninh-co-tan-giam-doc-so-tai-nguyen-va-moi-truong-885184.ldo) ([Lao Động](https://laodong.vn))
-- [1 video dài 10 giây có thể được bán với giá 6,6 triệu USD, xuất hiện bong bóng mới trong thế giới tiền số?](https://cafebiz.vn/1-video-dai-10-giay-co-the-duoc-ban-voi-gia-66-trieu-usd-xuat-hien-bong-bong-moi-trong-the-gioi-tien-so-20210302194504227.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chỉ sử dụng 1% cho bản thân và sẵn sàng cho đi 99% tài sản: 7 bí mật để vừa thành công vừa sống hạnh phúc của tỷ phú Warren Buffett, ai cũng biết nhưng mấy người làm được](https://cafebiz.vn/chi-su-dung-1-cho-ban-than-va-san-sang-cho-di-99-tai-san-7-bi-mat-de-vua-thanh-cong-vua-song-hanh-phuc-cua-ty-phu-warren-buffett-ai-cung-biet-nhung-may-nguoi-lam-duoc-20210302211246339.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
