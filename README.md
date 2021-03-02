@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is clear sky.
-- Temperature is 20°C.
-- Feels Like 16.76°C.
-- Air Visual is 69.
+- Temperature is 21°C.
+- Feels Like 18.13°C.
+- Air Visual is 67.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tesla Mafia: Nhóm nhân viên, đồng nghiệp cũ của Elon Musk nghỉ việc, mở công ty riêng, tạo ra thế lực 30 tỷ USD cạnh tranh trực tiếp với Tesla](https://cafebiz.vn/tesla-mafia-nhom-nhan-vien-dong-nghiep-cu-cua-elon-musk-nghi-viec-mo-cong-ty-rieng-tao-ra-the-luc-30-ty-usd-canh-tranh-truc-tiep-voi-tesla-2021030210023354.chn) ([CafeBiz](https://cafebiz.vn))
-- [Long An: Vứt nhầm 12 tờ vé số trị giá 180 triệu đồng, cả xóm lục tung thùng rác tìm giữa đêm khuya](https://cafebiz.vn/long-an-vut-nham-12-to-ve-so-tri-gia-180-trieu-dong-ca-xom-luc-tung-thung-rac-tim-giua-dem-khuya-20210302100058499.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thời trang dạo phố chất lừ cùng Chảnh shop](https://cafebiz.vn/thoi-trang-dao-pho-chat-lu-cung-chanh-shop-20210302090914636.chn) ([CafeBiz](https://cafebiz.vn))
-- [Video 10 giây đáng giá 6,6 triệu USD vì được blockchain chứng nhận độc bản](https://cafebiz.vn/video-10-giay-dang-gia-66-trieu-usd-vi-duoc-blockchain-chung-nhan-doc-ban-20210302084812496.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ngành mỹ phẩm khai phá sức mạnh của Barcode, QR Code như thế nào?](https://cafebiz.vn/nganh-my-pham-khai-pha-suc-manh-cua-barcode-qr-code-nhu-the-nao-20210301090612882.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cách sử dụng và bảo dưỡng bình ắc quy xe điện](https://laodong.vn/xe/cach-su-dung-va-bao-duong-binh-ac-quy-xe-dien-884793.ldo) ([Lao Động](https://laodong.vn))
-- [Lạm phát có dấu hiệu tăng: Tín hiệu cảnh báo với thị trường chứng khoán](https://cafebiz.vn/lam-phat-co-dau-hieu-tang-tin-hieu-canh-bao-voi-thi-truong-chung-khoan-20210302095944691.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ngày đầu trở lại lớp, học sinh trường Xuân Phương dậy từ 5h sáng](https://laodong.vn/photo/ngay-dau-tro-lai-lop-hoc-sinh-truong-xuan-phuong-day-tu-5h-sang-884812.ldo) ([Lao Động](https://laodong.vn))
-- [Sự lợi hại của lãi kép: Dành 5 triệu đồng/tháng để đầu tư, lãi suất giả định 24%, 15 năm sau các con số thu về sẽ làm bạn bất ngờ!](https://cafebiz.vn/su-loi-hai-cua-lai-kep-danh-5-trieu-dong-thang-de-dau-tu-lai-suat-gia-dinh-24-15-nam-sau-cac-con-so-thu-ve-se-lam-ban-bat-ngo-20210301175330392.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá vàng và ngoại tệ 2.3: Giá vàng quay đầu giảm mạnh](https://laodong.vn/video/gia-vang-va-ngoai-te-23-gia-vang-quay-dau-giam-manh-884861.ldo) ([Lao Động](https://laodong.vn))
+- [Cú bắt tay của những người siêu giàu: Siêu xe Ferrari hợp tác với siêu đồng hồ Richard Mille](https://cafebiz.vn/cu-bat-tay-cua-nhung-nguoi-sieu-giau-sieu-xe-ferrari-hop-tac-voi-sieu-dong-ho-richard-mille-20210302085631425.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tuyển sinh vào lớp 10 ở Hà Nội năm học 2021 - 2022 cần lưu ý gì?](https://laodong.vn/infographic/tuyen-sinh-vao-lop-10-o-ha-noi-nam-hoc-2021-2022-can-luu-y-gi-884665.ldo) ([Lao Động](https://laodong.vn))
+- [Áp dụng phương thức "cắn hạt dưa", sau 1 năm, tư duy và tầm nhìn của tôi rộng mở hơn 29 năm trước cộng lại](https://cafebiz.vn/ap-dung-phuong-thuc-can-hat-dua-sau-1-nam-tu-duy-va-tam-nhin-cua-toi-rong-mo-hon-29-truoc-cong-lai-20210301172510123.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hiệp hội Du lịch TPHCM kiến nghị miễn giảm thuế, Bộ Tài chính nói gì?](https://cafebiz.vn/hiep-hoi-du-lich-tphcm-kien-nghi-mien-giam-thue-bo-tai-chinh-noi-gi-20210302102054534.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tuyển Malaysia có thêm tiền đạo nhập tịch để đấu tuyển Việt Nam](https://laodong.vn/the-thao/tuyen-malaysia-co-them-tien-dao-nhap-tich-de-dau-tuyen-viet-nam-884875.ldo) ([Lao Động](https://laodong.vn))
+- [CitiBank: Bitcoin đang ở "điểm nổ" và có thể trở thành đồng tiền được chọn cho thương mại toàn cầu](https://cafebiz.vn/citibank-bitcoin-dang-o-diem-no-va-co-the-tro-thanh-dong-tien-duoc-chon-cho-thuong-mai-toan-cau-20210302095834943.chn) ([CafeBiz](https://cafebiz.vn))
+- [Điều kiện để được cấp thẻ căn cước công dân gắn chip](https://laodong.vn/phap-luat/dieu-kien-de-duoc-cap-the-can-cuoc-cong-dan-gan-chip-884865.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Học sinh trở lại trường sau kỳ nghỉ Tết dài phòng dịch COVID-19](https://laodong.vn/giao-duc/ha-noi-hoc-sinh-tro-lai-truong-sau-ky-nghi-tet-dai-phong-dich-covid-19-884858.ldo) ([Lao Động](https://laodong.vn))
+- [Tin bóng đá sáng 2.3: “Mbappe có thể vượt qua Messi và Ronaldo”](https://laodong.vn/the-thao/tin-bong-da-sang-23-mbappe-co-the-vuot-qua-messi-va-ronaldo-884866.ldo) ([Lao Động](https://laodong.vn))
+- [Thầy và trò trường Tiểu học Xuân Phương háo hức trong ngày trở lại trường](https://laodong.vn/video/thay-va-tro-truong-tieu-hoc-xuan-phuong-hao-huc-trong-ngay-tro-lai-truong-884808.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
