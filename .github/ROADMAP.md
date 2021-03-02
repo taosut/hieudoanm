@@ -64,6 +64,7 @@
 
 **LANGUAGES**
 
+- `English`
 - [`Korean`](https://www.howtostudykorean.com/)
 
 </td></tr></tbody></table>

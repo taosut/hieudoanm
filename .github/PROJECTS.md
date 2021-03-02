@@ -12,7 +12,7 @@
 - jobs
 - k
 - l
-- mobiles
+- mobiles (react native)
 - n
 - o
 - packages
