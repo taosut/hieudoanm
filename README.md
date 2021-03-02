@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 21°C.
 - Feels Like 18.49°C.
-- Air Visual is 71.
+- Air Visual is 68.
 
 **WEATHER**
 
