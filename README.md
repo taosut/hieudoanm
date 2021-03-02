@@ -21,8 +21,8 @@
 
 - Current weather is overcast clouds.
 - Temperature is 20°C.
-- Feels Like 19.23°C.
-- Air Visual is 94.
+- Feels Like 19.59°C.
+- Air Visual is 102.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Toàn bộ nữ sinh Nigeria bị bắt cóc được trả tự do](https://laodong.vn/the-gioi/toan-bo-nu-sinh-nigeria-bi-bat-coc-duoc-tra-tu-do-885051.ldo) ([Lao Động](https://laodong.vn))
+- [Cảnh cáo Chủ tịch UBND huyện Tuy An](https://laodong.vn/xa-hoi/canh-cao-chu-tich-ubnd-huyen-tuy-an-885166.ldo) ([Lao Động](https://laodong.vn))
+- [Rà soát việc đóng bảo hiểm thất nghiệp với viên chức quản lý](https://laodong.vn/cong-doan/ra-soat-viec-dong-bao-hiem-that-nghiep-voi-vien-chuc-quan-ly-885164.ldo) ([Lao Động](https://laodong.vn))
+- [Các nhà đầu tư "cá mập" Bitcoin có khả năng thao túng thị trường thế nào?](https://cafebiz.vn/cac-nha-dau-tu-ca-map-bitcoin-co-kha-nang-thao-tung-thi-truong-the-nao-2021030218323731.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tính tiền bảo hiểm xã hội một lần thế nào khi hưởng nhiều mức lương?](https://laodong.vn/ban-doc/tinh-tien-bao-hiem-xa-hoi-mot-lan-the-nao-khi-huong-nhieu-muc-luong-884969.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiều lưu ý khi tham gia kỳ thi đánh giá năng lực của ĐH Quốc gia Hà Nội](https://laodong.vn/giao-duc/nhieu-luu-y-khi-tham-gia-ky-thi-danh-gia-nang-luc-cua-dh-quoc-gia-ha-noi-885171.ldo) ([Lao Động](https://laodong.vn))
+- [Kiên trì tiến hành Bắc phạt, liệu trước khi chết Gia Cát Lượng có lường hết được những tổn thất nghiêm trọng này?](https://cafebiz.vn/kien-tri-tien-hanh-bac-phat-lieu-truoc-khi-chet-gia-cat-luong-co-luong-het-duoc-nhung-ton-that-nghiem-trong-nay-202103021706274.chn) ([CafeBiz](https://cafebiz.vn))
 - [Softbank chi 1,6 tỷ USD giải quyết tranh chấp pháp lý với WeWork](https://cafebiz.vn/softbank-chi-16-ty-usd-giai-quyet-tranh-chap-phap-ly-voi-wework-20210302182148004.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cuộc sống và nhan sắc của mỹ nhân Philippines là &quot;Hoa hậu của các hoa hậu&quot;](https://laodong.vn/photo/cuoc-song-va-nhan-sac-cua-my-nhan-philippines-la-hoa-hau-cua-cac-hoa-hau-884960.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất 24h: Thời điểm không khí lạnh đổ bộ Bắc Bộ trong tháng 3](https://laodong.vn/video/nong-nhat-24h-thoi-diem-khong-khi-lanh-do-bo-bac-bo-trong-thang-3-885098.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 3.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-33-885112.ldo) ([Lao Động](https://laodong.vn))
-- [Tổng thống Joe Biden cố gắng thiết lập lại mối quan hệ với Mexico](https://laodong.vn/photo/tong-thong-joe-biden-co-gang-thiet-lap-lai-moi-quan-he-voi-mexico-884905.ldo) ([Lao Động](https://laodong.vn))
-- ['Phó giám đốc Sở 31 tuổi không phải trường hợp cá biệt'](https://vnexpress.net/pho-giam-doc-so-31-tuoi-khong-phai-truong-hop-ca-biet-4242555.html) ([VNExpress](https://vnexpress.net))
-- [Hai đối tượng bịt mặt, nghi dùng súng cướp ngân hàng](https://cafebiz.vn/hai-doi-tuong-bit-mat-nghi-dung-sung-cuop-ngan-hang-20210302195436638.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bí thư Thành ủy Vương Đình Huệ kiểm tra công trình phục vụ SEA Games 31](https://laodong.vn/the-thao/bi-thu-thanh-uy-vuong-dinh-hue-kiem-tra-cong-trinh-phuc-vu-sea-games-31-885143.ldo) ([Lao Động](https://laodong.vn))
-- [Lương y Võ Hoàng Yên - người bị vợ chồng ông Dũng &quot;lò vôi&quot; tố cáo là ai?](https://laodong.vn/video/luong-y-vo-hoang-yen-nguoi-bi-vo-chong-ong-dung-lo-voi-to-cao-la-ai-884993.ldo) ([Lao Động](https://laodong.vn))
-- [Phó giám đốc sở 31 tuổi: Không phải là cá biệt ở Vĩnh Phúc](https://tuoitre.vn/pho-giam-doc-so-31-tuoi-khong-phai-la-ca-biet-o-vinh-phuc-20210302191351875.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
