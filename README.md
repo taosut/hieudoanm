@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is clear sky.
-- Temperature is 19°C.
-- Feels Like 16.75°C.
-- Air Visual is 71.
+- Temperature is 20°C.
+- Feels Like 17.48°C.
+- Air Visual is 70.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chính quyền ông Biden không chia sẻ vaccine COVID-19 với Mexico](https://laodong.vn/the-gioi/chinh-quyen-ong-biden-khong-chia-se-vaccine-covid-19-voi-mexico-884848.ldo) ([Lao Động](https://laodong.vn))
+- [Một giáo viên mất 650 triệu đồng sau cuộc gọi từ số điện thoại lạ](https://laodong.vn/phap-luat/mot-giao-vien-mat-650-trieu-dong-sau-cuoc-goi-tu-so-dien-thoai-la-884811.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng chủ trì phiên họp Chính phủ thường kỳ tháng 2.2021](https://laodong.vn/thoi-su/thu-tuong-chu-tri-phien-hop-chinh-phu-thuong-ky-thang-22021-884845.ldo) ([Lao Động](https://laodong.vn))
+- [Kết quả - Lịch thi đấu bóng đá 2.3: Tâm điểm Juventus - Spezia](https://laodong.vn/lich-thi-dau/ket-qua-lich-thi-dau-bong-da-23-tam-diem-juventus-spezia-884853.ldo) ([Lao Động](https://laodong.vn))
+- [Ban Tổ chức Tỉnh ủy Vĩnh Phúc: Không áp lực khi bổ nhiệm con gái Bí thư tỉnh làm phó giám đốc sở](https://tuoitre.vn/ban-to-chuc-tinh-uy-vinh-phuc-khong-ap-luc-khi-bo-nhiem-con-gai-bi-thu-tinh-lam-pho-giam-doc-so-20210302085750903.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Sự nghiệp của 12 cung hoàng đạo diễn biến ra sao trong tháng 3 ?](https://cafebiz.vn/su-nghiep-cua-12-cung-hoang-dao-dien-bien-ra-sao-trong-thang-3--20210302091730753.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nam lắp camera, phạt nguội nhiều vi phạm giao thông](https://laodong.vn/phap-luat/ha-nam-lap-camera-phat-nguoi-nhieu-vi-pham-giao-thong-884803.ldo) ([Lao Động](https://laodong.vn))
+- [Làm người, muốn được nhiều hơn mất, học kiềm chế 3 loại: Kiềm chế tranh giành, kiềm hãm so đo, kiềm lại tức giận](https://cafebiz.vn/lam-nguoi-muon-duoc-nhieu-hon-mat-hoc-kiem-che-3-loai-kiem-che-tranh-gianh-kiem-ham-so-do-kiem-lai-tuc-gian-20210301104636759.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người dân ở Hòa Bình liều mình đi qua cây cầu tạm trên sông Bưởi](https://laodong.vn/photo/nguoi-dan-o-hoa-binh-lieu-minh-di-qua-cay-cau-tam-tren-song-buoi-884655.ldo) ([Lao Động](https://laodong.vn))
 - [VinFast nhận chuyển nhượng cổ phiếu Vingroup và Vinhomes trị giá hơn 12.000 tỷ đồng](https://cafebiz.vn/vinfast-nhan-chuyen-nhuong-co-phieu-vingroup-va-vinhomes-tri-gia-hon-12000-ty-dong-20210302090021452.chn) ([CafeBiz](https://cafebiz.vn))
-- [Một clip góc khác cho thấy Nguyễn Ngọc Mạnh đã vất vả và nỗ lực đến thế nào khi cố gắng cứu em bé](https://cafebiz.vn/mot-clip-goc-khac-cho-thay-nguyen-ngoc-manh-da-vat-va-va-no-luc-den-the-nao-khi-co-gang-cuu-em-be-20210302085851302.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đường xá &quot;dễ thở&quot; trong ngày học sinh lại trường sau dịch COVID-19](https://laodong.vn/photo/duong-xa-de-tho-trong-ngay-hoc-sinh-lai-truong-sau-dich-covid-19-884841.ldo) ([Lao Động](https://laodong.vn))
-- [Sự tích tên gọi 'gà Mạnh Hoạch': Từ ông chủ quán trà đá đến chuỗi nhà hàng thương hiệu quốc dân hơn 20 năm tuổi tại Hải Dương](https://cafebiz.vn/su-tich-ten-goi-ga-manh-hoach-tu-ong-chu-quan-tra-da-den-chuoi-nha-hang-thuong-hieu-quoc-dan-hon-20-nam-tuoi-tai-hai-duong-2021030116363225.chn) ([CafeBiz](https://cafebiz.vn))
-- [Apple thắng kỷ lục ở Trung Quốc](https://cafebiz.vn/apple-thang-ky-luc-o-trung-quoc-20210302085157537.chn) ([CafeBiz](https://cafebiz.vn))
-- [LĐLĐ huyện Long Mỹ (Hậu Giang) tích cực hưởng ứng “Tuần lễ Áo dài Việt Nam”](https://laodong.vn/ldld-hau-giang/ldld-huyen-long-my-hau-giang-tich-cuc-huong-ung-tuan-le-ao-dai-viet-nam-884847.ldo) ([Lao Động](https://laodong.vn))
-- [Những người con của “vua hàng hiệu” Johnathan Hạnh Nguyễn: Sinh ra từ vạch đích, kế nhiệm mảng kinh doanh nghìn tỷ từ cha](https://cafebiz.vn/nhung-nguoi-con-cua-vua-hang-hieu-johnathan-hanh-nguyen-sinh-ra-tu-vach-dich-ke-nhiem-mang-kinh-doanh-nghin-ty-tu-cha-20210226164739868.chn) ([CafeBiz](https://cafebiz.vn))
-- [Không điều chỉnh thời gian kết thúc năm học](https://cafebiz.vn/khong-dieu-chinh-thoi-gian-ket-thuc-nam-hoc-20210302085454872.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hàng loạt báo nước ngoài ca ngợi "siêu anh hùng" ngoài đời thực Nguyễn Ngọc Mạnh cứu bé gái 3 tuổi ở Hà Nội](https://cafebiz.vn/hang-loat-bao-nuoc-ngoai-ca-ngoi-sieu-anh-hung-ngoai-doi-thuc-nguyen-ngoc-manh-cuu-be-gai-3-tuoi-o-ha-noi-20210302085409814.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cần tăng cường công tác phòng ngừa tai nạn, thương tích cho trẻ em](https://cafebiz.vn/can-tang-cuong-cong-tac-phong-ngua-tai-nan-thuong-tich-cho-tre-em-20210302085129027.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
