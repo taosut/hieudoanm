@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 21°C.
 - Feels Like 18.49°C.
-- Air Visual is 72.
+- Air Visual is 84.
 
 **WEATHER**
 
@@ -50,18 +50,18 @@
 
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
+- [![Bé gái 2 tuổi rơi tầng 12](https://img.shields.io/static/v1?label=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%A9%20g%C3%A1i%202%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BA%A7ng%2012)
 - [![Bạc Liêu họp khẩn](https://img.shields.io/static/v1?label=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A1c%20Li%C3%AAu%20h%E1%BB%8Dp%20kh%E1%BA%A9n)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
 - [![Em be roi tu tang 12](https://img.shields.io/static/v1?label=Em%20be%20roi%20tu%20tang%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20be%20roi%20tu%20tang%2012)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
-- [![Justin Bieber](https://img.shields.io/static/v1?label=Justin%20Bieber&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justin%20Bieber)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Máy sấy quần áo](https://img.shields.io/static/v1?label=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%A1y%20s%E1%BA%A5y%20qu%E1%BA%A7n%20%C3%A1o)
-- [![Nguyễn Ngọc Mạnh](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20M%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Ng%E1%BB%8Dc%20M%E1%BA%A1nh)
+- [![Nguyen ngoc manh](https://img.shields.io/static/v1?label=Nguyen%20ngoc%20manh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguyen%20ngoc%20manh)
+- [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Tottenham vs Burnley](https://img.shields.io/static/v1?label=Tottenham%20vs%20Burnley&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham%20vs%20Burnley)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Thủ tướng yêu cầu Bộ Y tế triển khai tiêm vaccine Covid-19 ngay trong tuần này](https://cafebiz.vn/thu-tuong-yeu-cau-bo-y-te-trien-khai-tiem-vaccine-covid-19-ngay-trong-tuan-nay-20210302140122861.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vợ ông Dũng &quot;lò vôi&quot;: Cảm thấy bị tổn thương vì &quot;đặt niềm tin sai chỗ&quot;](https://laodong.vn/xa-hoi/vo-ong-dung-lo-voi-cam-thay-bi-ton-thuong-vi-dat-niem-tin-sai-cho-884942.ldo) ([Lao Động](https://laodong.vn))
+- [Những điều cần lưu ý khi đăng ký dự thi các trường quân đội năm 2021](https://laodong.vn/infographic/nhung-dieu-can-luu-y-khi-dang-ky-du-thi-cac-truong-quan-doi-nam-2021-884896.ldo) ([Lao Động](https://laodong.vn))
+- [Gây mất trật tự trên xe khách bị xử phạt thế nào?](https://laodong.vn/tu-van-phap-luat/gay-mat-trat-tu-tren-xe-khach-bi-xu-phat-the-nao-883927.ldo) ([Lao Động](https://laodong.vn))
+- [Hoang tưởng do &quot;ngáo đá&quot; cầm dao rượt đuổi đâm người](https://laodong.vn/phap-luat/hoang-tuong-do-ngao-da-cam-dao-ruot-duoi-dam-nguoi-884970.ldo) ([Lao Động](https://laodong.vn))
+- [Báo Anh đồng loạt đăng bài ca ngợi "anh hùng" Nguyễn Ngọc Mạnh cứu em bé ngã từ tầng 12: Hành động dũng cảm trong tình huống ngàn cân treo sợi tóc](https://cafebiz.vn/bao-anh-dong-loat-dang-bai-ca-ngoi-anh-hung-nguyen-ngoc-manh-cuu-em-be-nga-tu-tang-12-hanh-dong-dung-cam-trong-tinh-huong-ngan-can-treo-soi-toc-20210302135830219.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bộ đội biên phòng tặng cây giống cho bà con nghèo biên giới](https://laodong.vn/xa-hoi/bo-doi-bien-phong-tang-cay-giong-cho-ba-con-ngheo-bien-gioi-884964.ldo) ([Lao Động](https://laodong.vn))
+- [Kết luận vụ nam tiếp viên Vietnam Airlines làm lây lan dịch bệnh](https://cafebiz.vn/ket-luan-vu-nam-tiep-vien-vietnam-airlines-lam-lay-lan-dich-benh-20210302135649307.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thành lập Tổ nghiên cứu về tài sản ảo, tiền ảo](https://cafebiz.vn/thanh-lap-to-nghien-cuu-ve-tai-san-ao-tien-ao-20210302135219638.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ant Group của Jack Ma bị chỉ trích 'núp bóng công nghệ để hưởng lợi, dụ người dùng thành con nợ, có thể gây rủi ro cấp độ toàn cầu'](https://cafebiz.vn/ant-group-cua-jack-ma-bi-chi-trich-nup-bong-cong-nghe-de-huong-loi-du-nguoi-dung-thanh-con-no-co-the-gay-rui-ro-cap-do-toan-cau-20210302104345442.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thứ hạng vốn hóa các đại gia địa ốc: Tăng gấp 3 lần sau 1 năm, Phát Đạt vượt xa Vinaconex, Khang Điền, Đất Xanh dù quy mô khiêm tốn hơn](https://cafebiz.vn/thu-hang-von-hoa-cac-dai-gia-dia-oc-tang-gap-3-lan-sau-1-nam-phat-dat-vuot-xa-vinaconex-khang-dien-dat-xanh-du-quy-mo-khiem-ton-hon-2021030213493271.chn) ([CafeBiz](https://cafebiz.vn))
-- [Điện Biên: &quot;Đạo chích&quot; 5 ngày phá hoại 5 trạm biến áp sa lưới pháp luật](https://laodong.vn/phap-luat/dien-bien-dao-chich-5-ngay-pha-hoai-5-tram-bien-ap-sa-luoi-phap-luat-884965.ldo) ([Lao Động](https://laodong.vn))
-- [Pháp bắt đầu ‘thanh lọc’ Huawei](https://cafebiz.vn/phap-bat-dau-thanh-loc-huawei-20210302134637674.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thịt bò Úc sẽ biến mất khỏi thực đơn trên toàn thế giới vì ... Australia không còn bò?](https://cafebiz.vn/thit-bo-uc-se-bien-mat-khoi-thuc-don-tren-toan-the-gioi-vi-australia-khong-con-bo-2021030213431624.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cơn sốt “đào” tiền ảo Pi, điều gì đáng ngại?](https://laodong.vn/kinh-te/con-sot-dao-tien-ao-pi-dieu-gi-dang-ngai-884961.ldo) ([Lao Động](https://laodong.vn))
-- [Thực hiện chương trình thực hành tiết kiệm năm 2021](https://laodong.vn/kinh-te/thuc-hien-chuong-trinh-thuc-hanh-tiet-kiem-nam-2021-884962.ldo) ([Lao Động](https://laodong.vn))
-- [Luật sư lên tiếng tin vợ trùm ma túy Mexico chạy trốn khỏi các con chồng](https://laodong.vn/the-gioi/luat-su-len-tieng-tin-vo-trum-ma-tuy-mexico-chay-tron-khoi-cac-con-chong-884949.ldo) ([Lao Động](https://laodong.vn))
-- [Tiệm Vàng Nguyễn Trâm - Trang sức đỉnh cao cho phụ nữ hiện đại](https://cafebiz.vn/tiem-vang-nguyen-tram-trang-suc-dinh-cao-cho-phu-nu-hien-dai-20210302113425669.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
