@@ -22,7 +22,7 @@
 - Current weather is clear sky.
 - Temperature is 20°C.
 - Feels Like 17.48°C.
-- Air Visual is 70.
+- Air Visual is 69.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Anh Nguyễn Ngọc Mạnh nhận thêm bằng khen](https://laodong.vn/xa-hoi/anh-nguyen-ngoc-manh-nhan-them-bang-khen-884846.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng đảo chiều chóng mặt, lại quay đầu giảm mạnh](https://cafebiz.vn/gia-vang-dao-chieu-chong-mat-lai-quay-dau-giam-manh-20210302093915088.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bị Sociedad cầm hòa, Real Madrid mất đà trước trận derby](https://laodong.vn/bong-da-quoc-te/bi-sociedad-cam-hoa-real-madrid-mat-da-truoc-tran-derby-884843.ldo) ([Lao Động](https://laodong.vn))
+- [Nguyên thủ quốc gia thứ 2 trong lịch sử Pháp hiện đại nhận 3 năm tù](https://laodong.vn/the-gioi/nguyen-thu-quoc-gia-thu-2-trong-lich-su-phap-hien-dai-nhan-3-nam-tu-884855.ldo) ([Lao Động](https://laodong.vn))
+- [Mộc Châu Milk đặt kế hoạch lợi nhuận 338 tỷ đồng năm 2021](https://cafebiz.vn/moc-chau-milk-dat-ke-hoach-loi-nhuan-338-ty-dong-nam-2021-20210302093507312.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những 'camera chạy bằng cơm' phòng vệ biên giới Tây Nam](https://tuoitre.vn/nhung-camera-chay-bang-com-phong-ve-bien-gioi-tay-nam-20210302091323691.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chính quyền ông Biden không chia sẻ vaccine COVID-19 với Mexico](https://laodong.vn/the-gioi/chinh-quyen-ong-biden-khong-chia-se-vaccine-covid-19-voi-mexico-884848.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương bỏ giãn cách xã hội có sớm không?](https://tuoitre.vn/hai-duong-bo-gian-cach-xa-hoi-co-som-khong-20210302090430139.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Một giáo viên mất 650 triệu đồng sau cuộc gọi từ số điện thoại lạ](https://laodong.vn/phap-luat/mot-giao-vien-mat-650-trieu-dong-sau-cuoc-goi-tu-so-dien-thoai-la-884811.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng chủ trì phiên họp Chính phủ thường kỳ tháng 2.2021](https://laodong.vn/thoi-su/thu-tuong-chu-tri-phien-hop-chinh-phu-thuong-ky-thang-22021-884845.ldo) ([Lao Động](https://laodong.vn))
-- [Kết quả - Lịch thi đấu bóng đá 2.3: Tâm điểm Juventus - Spezia](https://laodong.vn/lich-thi-dau/ket-qua-lich-thi-dau-bong-da-23-tam-diem-juventus-spezia-884853.ldo) ([Lao Động](https://laodong.vn))
-- [Ban Tổ chức Tỉnh ủy Vĩnh Phúc: Không áp lực khi bổ nhiệm con gái Bí thư tỉnh làm phó giám đốc sở](https://tuoitre.vn/ban-to-chuc-tinh-uy-vinh-phuc-khong-ap-luc-khi-bo-nhiem-con-gai-bi-thu-tinh-lam-pho-giam-doc-so-20210302085750903.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sự nghiệp của 12 cung hoàng đạo diễn biến ra sao trong tháng 3 ?](https://cafebiz.vn/su-nghiep-cua-12-cung-hoang-dao-dien-bien-ra-sao-trong-thang-3--20210302091730753.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nam lắp camera, phạt nguội nhiều vi phạm giao thông](https://laodong.vn/phap-luat/ha-nam-lap-camera-phat-nguoi-nhieu-vi-pham-giao-thong-884803.ldo) ([Lao Động](https://laodong.vn))
-- [Làm người, muốn được nhiều hơn mất, học kiềm chế 3 loại: Kiềm chế tranh giành, kiềm hãm so đo, kiềm lại tức giận](https://cafebiz.vn/lam-nguoi-muon-duoc-nhieu-hon-mat-hoc-kiem-che-3-loai-kiem-che-tranh-gianh-kiem-ham-so-do-kiem-lai-tuc-gian-20210301104636759.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dân ở Hòa Bình liều mình đi qua cây cầu tạm trên sông Bưởi](https://laodong.vn/photo/nguoi-dan-o-hoa-binh-lieu-minh-di-qua-cay-cau-tam-tren-song-buoi-884655.ldo) ([Lao Động](https://laodong.vn))
-- [VinFast nhận chuyển nhượng cổ phiếu Vingroup và Vinhomes trị giá hơn 12.000 tỷ đồng](https://cafebiz.vn/vinfast-nhan-chuyen-nhuong-co-phieu-vingroup-va-vinhomes-tri-gia-hon-12000-ty-dong-20210302090021452.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ban Tổ chức Tỉnh ủy Vĩnh Phúc: Không áp lực khi bổ nhiệm con gái bí thư tỉnh làm phó giám đốc sở](https://tuoitre.vn/ban-to-chuc-tinh-uy-vinh-phuc-khong-ap-luc-khi-bo-nhiem-con-gai-bi-thu-tinh-lam-pho-giam-doc-so-20210302085750903.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
