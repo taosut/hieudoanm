@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hải Dương dỡ cách ly xã hội](https://vnexpress.net/hai-duong-do-cach-ly-xa-hoi-4242585.html) ([VNExpress](https://vnexpress.net))
+- [Tâm dịch Chí Linh trước giờ &quot;G&quot; dỡ bỏ phong toả toàn thành phố](https://laodong.vn/photo/tam-dich-chi-linh-truoc-gio-g-do-bo-phong-toa-toan-thanh-pho-885190.ldo) ([Lao Động](https://laodong.vn))
 - [Kẻ dại mới phí thời gian, tiền bạc, nỗ lực vào 10 thứ: Đáng tiếc, rất nhiều người đều sa đà, "lọt hố" để rồi nửa đời sau sống trong nuối tiếc](https://cafebiz.vn/ke-dai-moi-phi-thoi-gian-tien-bac-no-luc-vao-10-thu-dang-tiec-rat-nhieu-nguoi-deu-sa-da-lot-ho-de-roi-nua-doi-sau-song-trong-nuoi-tiec-20210302221728062.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bác bảo vệ cứu nữ sinh lơ lửng lan can tầng 3 Trường Minh Đức](https://tuoitre.vn/bac-bao-ve-cuu-nu-sinh-lo-lung-lan-can-tang-3-truong-minh-duc-20210302221826899.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Đà Nẵng đầu tư hệ thống xe điện 54.000 tỷ, đường hầm qua sân bay 8.200 tỷ](https://cafebiz.vn/da-nang-dau-tu-he-thong-xe-dien-54000-ty-duong-ham-qua-san-bay-8200-ty-20210302223115784.chn) ([CafeBiz](https://cafebiz.vn))
 - [Kinh tế 24h: Cảnh giác với tiền ảo Pi; Xuất khẩu nông sản Việt bứt phá](https://laodong.vn/kinh-te/kinh-te-24h-canh-giac-voi-tien-ao-pi-xuat-khau-nong-san-viet-but-pha-885186.ldo) ([Lao Động](https://laodong.vn))
 - [Câu chuyện ngày “toàn quốc giải phóng phụ huynh”](https://laodong.vn/giao-duc/cau-chuyen-ngay-toan-quoc-giai-phong-phu-huynh-885118.ldo) ([Lao Động](https://laodong.vn))
 - [Chứng khoán: Dòng tiền sẽ tiếp tục công phá đỉnh 1.200 điểm](https://laodong.vn/kinh-te/chung-khoan-dong-tien-se-tiep-tuc-cong-pha-dinh-1200-diem-885183.ldo) ([Lao Động](https://laodong.vn))
 - [Cụ bà mang chiếc trâm vàng của mẹ kế đi thẩm định: 5 chữ trên cây trâm khiến chuyên gia bàng hoàng, cả trường quay bất ngờ](https://cafebiz.vn/cu-ba-mang-chiec-tram-vang-cua-me-ke-di-tham-dinh-5-chu-tren-cay-tram-khien-chuyen-gia-bang-hoang-ca-truong-quay-bat-ngo-2021030221092433.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thiên tài từ trứng nước: Từng có một nơi chỉ lấy tinh trùng của thiên tài giỏi nhất thế giới, và những gì xảy ra sau đó không giống như bạn tưởng tượng](https://cafebiz.vn/thien-tai-tu-trung-nuoc-tung-co-mot-noi-chi-lay-tinh-trung-cua-thien-tai-gioi-nhat-the-gioi-va-nhung-gi-xay-ra-sau-do-khong-giong-nhu-ban-tuong-tuong-20210302205916712.chn) ([CafeBiz](https://cafebiz.vn))
-- [Một tỉnh Trung Quốc cấm đào tiền ảo để tiết kiệm năng lượng](https://cafebiz.vn/mot-tinh-trung-quoc-cam-dao-tien-ao-de-tiet-kiem-nang-luong-20210302194625344.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trong “Tam quốc diễn nghĩa”, Lưu Bị dùng kiếm, Quan Vũ dùng đao: Bí mật đằng sau cách chọn vũ khí này là gì?](https://cafebiz.vn/trong-tam-quoc-dien-nghia-luu-bi-dung-kiem-quan-vu-dung-dao-bi-mat-dang-sau-cach-chon-vu-khi-nay-la-gi-20210302205448023.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắc Ninh có tân Giám đốc Sở Tài nguyên và Môi trường](https://laodong.vn/thoi-su/bac-ninh-co-tan-giam-doc-so-tai-nguyen-va-moi-truong-885184.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
