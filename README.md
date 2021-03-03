@@ -62,7 +62,7 @@
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
-- [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
+- [![Nguyen ngoc manh](https://img.shields.io/static/v1?label=Nguyen%20ngoc%20manh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguyen%20ngoc%20manh)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Vừa gọi vốn 1 triệu USD, Startup công nghệ BĐS Citics sở hữu dàn lãnh đạo đình đám: Nhiều người cũ của Cenland, 3 gương mặt trong top Forbes 30 Under 30](https://cafebiz.vn/vua-goi-von-1-trieu-usd-startup-cong-nghe-bds-citics-so-huu-dan-lanh-dao-dinh-dam-nhieu-nguoi-cu-cua-cenland-3-guong-mat-trong-top-forbes-30-under-30-20210303200354532.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vụ cướp ngân hàng ở Kiên Giang: Mua súng 21 triệu, cướp gần 400 triệu đồng](https://cafebiz.vn/vu-cuop-ngan-hang-o-kien-giang-mua-sung-21-trieu-cuop-gan-400-trieu-dong-20210303175034574.chn) ([CafeBiz](https://cafebiz.vn))
+- [Gãy lan can trường học ở Bolivia, 7 sinh viên thiệt mạng](https://laodong.vn/the-gioi/gay-lan-can-truong-hoc-o-bolivia-7-sinh-vien-thiet-mang-885531.ldo) ([Lao Động](https://laodong.vn))
+- [Lấy ngày sinh làm mật khẩu, nhiều người mất sạch tiền sau khi bị trộm thẻ ATM](https://cafebiz.vn/lay-ngay-sinh-lam-mat-khau-nhieu-nguoi-mat-sach-tien-sau-khi-bi-trom-the-atm-20210303174750089.chn) ([CafeBiz](https://cafebiz.vn))
 - [Kinh tế 24h: Giá vàng sắp lao dốc; Giá gạo Việt vượt mặt Thái Lan](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-sap-lao-doc-gia-gao-viet-vuot-mat-thai-lan-885298.ldo) ([Lao Động](https://laodong.vn))
 - [Tâm điểm cổ phiếu 3.3: TDH tăng trần giữa lùm xùm truy thu thuế](https://laodong.vn/kinh-te/tam-diem-co-phieu-33-tdh-tang-tran-giua-lum-xum-truy-thu-thue-885526.ldo) ([Lao Động](https://laodong.vn))
 - [Gia đình ông Trump rao bán biệt thự 49 triệu USD](https://laodong.vn/the-gioi/gia-dinh-ong-trump-rao-ban-biet-thu-49-trieu-usd-885528.ldo) ([Lao Động](https://laodong.vn))
 - [Giáo dục 24/7: Thu học phí thế nào khi học sinh trở lại trường](https://laodong.vn/video/giao-duc-247-thu-hoc-phi-the-nao-khi-hoc-sinh-tro-lai-truong-885514.ldo) ([Lao Động](https://laodong.vn))
 - [Từ ngày 10.3, sinh con một bề được hỗ trợ mua bảo hiểm y tế học sinh](https://laodong.vn/ban-doc/tu-ngay-103-sinh-con-mot-be-duoc-ho-tro-mua-bao-hiem-y-te-hoc-sinh-885299.ldo) ([Lao Động](https://laodong.vn))
 - [Hình ảnh sân bay Vân Đồn ngày đầu gỡ phong tỏa](https://cafebiz.vn/hinh-anh-san-bay-van-don-ngay-dau-go-phong-toa-2021030317422352.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phân khúc bất động sản nào sẽ sinh lợi ổn định năm 2021?](https://cafebiz.vn/phan-khuc-bat-dong-san-nao-se-sinh-loi-on-dinh-nam-2021-20210303173040769.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cả cựu Tổng thống Barack Obama và tỷ phú Bill Gates đều khuyên: Nếu chỉ đọc một cuốn sách trong năm 2021, đây là lựa chọn mà bạn nên đọc ít nhất 2 lần](https://cafebiz.vn/ca-cuu-tong-thong-barack-obama-va-ty-phu-bill-gates-deu-khuyen-neu-chi-doc-mot-cuon-sach-trong-nam-2021-day-la-lua-chon-ma-ban-nen-doc-it-nhat-2-lan-20210303171804074.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hy hữu: Bình Dương quên đăng kí thi đấu cho hậu vệ Lê Văn Sơn](https://laodong.vn/bong-da/hy-huu-binh-duong-quen-dang-ki-thi-dau-cho-hau-ve-le-van-son-885512.ldo) ([Lao Động](https://laodong.vn))
-- [Phú Yên chuyển mục đích sử dụng đất rừng để thực hiện dự án điện gió hơn 1.700 tỷ đồng](https://cafebiz.vn/phu-yen-chuyen-muc-dich-su-dung-dat-rung-de-thuc-hien-du-an-dien-gio-hon-1700-ty-dong-2021030317282422.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Varilux: Tầm nhìn không-giới-hạn cho Gen X ](https://vietcetera.com/vn/varilux-tam-nhin-khong-gioi-han-cho-gen-x)
 - [Không Quan Tâm: Clip nóng hay lạnh thì cơ thể người vẫn 37°C](https://vietcetera.com/vn/khong-quan-tam-nhung-van-de-dang-sau-hai-chu-xin-link)
 - [Huỳnh Khang và những mảnh ghép cảm xúc bằng Lego](https://vietcetera.com/vn/khang-kade)
 - [5 Podcasts cho những người làm sáng tạo](https://vietcetera.com/vn/5-podcasts-cho-nhung-nguoi-lam-sang-tao)
@@ -105,7 +106,6 @@
 - ["Quán bar. Giữa khuya. Mời về nhà."](https://vietcetera.com/vn/quan-bar-giua-khuya-moi-ve-nha)
 - [Không Quan Tâm: "Anh hùng" cũng cần được yên!](https://vietcetera.com/vn/khong-quan-tam-chuyen-ca-nhan-nhung-quan-tam-hanh-dong-cuu-em-be)
 - [Meme học: Bao nhiêu năm rồi còn mãi tranh meme](https://vietcetera.com/vn/meme-hoc-tranh-co-dien)
-- [Chữ Với Nghĩa: Bản dạng](https://vietcetera.com/vn/chu-voi-nghia-ban-dang)
 
 [Read More](https://vietcetera.com/)
 
@@ -116,8 +116,8 @@
 01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 02. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
 03. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-04. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-05. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
+04. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
+05. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 06. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 07. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 08. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
