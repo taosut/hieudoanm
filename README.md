@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Báo động về khả năng tái mắc COVID-19 từ biến thể Brazil](https://laodong.vn/the-gioi/bao-dong-ve-kha-nang-tai-mac-covid-19-tu-bien-the-brazil-885262.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng khôi phục hoàn toàn các tuyến vận tải đến Gia Lai](https://laodong.vn/xa-hoi/da-nang-khoi-phuc-hoan-toan-cac-tuyen-van-tai-den-gia-lai-885275.ldo) ([Lao Động](https://laodong.vn))
+- [7 dấu hiệu chứng tỏ bạn sắp thành công: Ăn ngon, ngủ kỹ là yếu tố không thể thiếu!](https://cafebiz.vn/7-dau-hieu-chung-to-ban-sap-thanh-cong-an-ngon-ngu-ky-la-yeu-to-khong-the-thieu-20210302212130102.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lật tẩy mánh khóe kiếm hàng trăm nghìn USD của giới buôn giày chợ đen khiến những đôi như Air Jordan hay Yeezy có mức giá 'trên trời', hết bay chỉ sau vài giờ lên kệ](https://cafebiz.vn/lat-tay-manh-khoe-kiem-hang-tram-nghin-usd-cua-gioi-buon-giay-cho-den-khien-nhung-doi-nhu-air-jordan-hay-yeezy-boost-co-muc-gia-tren-troi-het-bay-chi-sau-vai-gio-len-ke-20210303103547822.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kết quả - Lịch thi đấu bóng đá 3.3: Tâm điểm Crystal Palace - Man United](https://laodong.vn/lich-thi-dau/ket-qua-lich-thi-dau-bong-da-33-tam-diem-crystal-palace-man-united-885237.ldo) ([Lao Động](https://laodong.vn))
+- [Tiếp tục ghi bàn, Ronaldo nâng độ khó cho thế hệ đàn em](https://laodong.vn/bong-da-quoc-te/tiep-tuc-ghi-ban-ronaldo-nang-do-kho-cho-the-he-dan-em-885248.ldo) ([Lao Động](https://laodong.vn))
+- [Sẽ thế nào khi rau được trồng trong nhà máy, bằng robot, AI và thế hệ nông dân 4.0?](https://cafebiz.vn/se-the-nao-khi-rau-duoc-trong-trong-nha-may-bang-robot-ai-va-the-he-nong-dan-40-20210303085332348.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lộ diện cung thiên văn lớn nhất thế giới ở Trung Quốc](https://laodong.vn/the-gioi/lo-dien-cung-thien-van-lon-nhat-the-gioi-o-trung-quoc-885265.ldo) ([Lao Động](https://laodong.vn))
+- [Bạn gái tỷ phú, con dâu nhà hào môn - họ đã gặp chân ái đời mình ở đâu?](https://cafebiz.vn/ban-gai-ty-phu-con-dau-nha-hao-mon-ho-da-gap-chan-ai-doi-minh-o-dau-2021030310310946.chn) ([CafeBiz](https://cafebiz.vn))
+- [[Góc tranh cãi] Một bài vật lý cơ bản về lực đỡ em bé khi rơi nhưng có tới 3 đáp án khác nhau, hàng loạt thầy giáo, tiến sỹ chuyên Lý phản biện nhau gay gắt](https://cafebiz.vn/goc-tranh-cai-mot-bai-vat-ly-co-ban-ve-luc-do-em-be-khi-roi-nhung-co-toi-3-dap-an-khac-nhau-hang-loat-thay-giao-tien-sy-chuyen-ly-phan-bien-nhau-gay-gat-20210303103052566.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
