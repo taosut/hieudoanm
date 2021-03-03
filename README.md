@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
-- Temperature is 19°C.
-- Feels Like 18.12°C.
+- Current weather is mist.
+- Temperature is 17°C.
+- Feels Like 16.45°C.
 - Air Visual is 154.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bổ sung quy định chuyển cửa khẩu hàng nhập tại cảng cạn Long Biên](https://laodong.vn/thoi-su/bo-sung-quy-dinh-chuyen-cua-khau-hang-nhap-tai-cang-can-long-bien-885340.ldo) ([Lao Động](https://laodong.vn))
-- [Xây nhà trên đất thổ cư cần chú ý những gì?](https://laodong.vn/bat-dong-san/xay-nha-tren-dat-tho-cu-can-chu-y-nhung-gi-885270.ldo) ([Lao Động](https://laodong.vn))
-- [USD tự do giảm mạnh, tuột mốc 23.900 đồng](https://cafebiz.vn/usd-tu-do-giam-manh-tuot-moc-23900-dong-20210303140007409.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những ngành, nghề bị cấm đầu tư kinh doanh từ năm 2021](https://laodong.vn/tu-van-phap-luat/nhung-nganh-nghe-bi-cam-dau-tu-kinh-doanh-tu-nam-2021-884306.ldo) ([Lao Động](https://laodong.vn))
-- [Đập Tam Hiệp khiến sông Dương Tử ngày càng suy kiệt?](https://laodong.vn/the-gioi/dap-tam-hiep-khien-song-duong-tu-ngay-cang-suy-kiet-885319.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều điều chỉnh về công nhận người có công với cách mạng từ tháng 7.2021](https://laodong.vn/thoi-su/nhieu-dieu-chinh-ve-cong-nhan-nguoi-co-cong-voi-cach-mang-tu-thang-72021-885312.ldo) ([Lao Động](https://laodong.vn))
-- [Anh Nguyễn Ngọc Mạnh sẽ dùng số tiền mọi người ủng hộ làm từ thiện: "Lương của tôi 15 triệu cũng đủ sống rồi"](https://cafebiz.vn/anh-nguyen-ngoc-manh-se-dung-so-tien-moi-nguoi-ung-ho-lam-tu-thien-luong-cua-toi-15-trieu-cung-du-song-roi-20210303135347607.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thuê karaoke di động tụ tập hát tại An Giang bị xem là vi phạm quy định phòng chống dịch bệnh](https://tuoitre.vn/thue-karaoke-di-dong-tu-tap-hat-tai-an-giang-bi-xem-la-vi-pham-quy-dinh-phong-chong-dich-benh-20210303120511177.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Elon Musk từng để các kỹ sư tên lửa của mình sống trên một hòn đảo không có thức ăn](https://cafebiz.vn/elon-musk-tung-de-cac-ky-su-ten-lua-cua-minh-song-tren-mot-hon-dao-khong-co-thuc-an-20210303135202818.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nữ tân binh nói gì trong ngày nhập ngũ?](https://laodong.vn/video/nu-tan-binh-noi-gi-trong-ngay-nhap-ngu-885324.ldo) ([Lao Động](https://laodong.vn))
+- [Cách hay giúp mái tóc giảm bết dầu ngày nồm ẩm](https://laodong.vn/lam-dep/cach-hay-giup-mai-toc-giam-bet-dau-ngay-nom-am-885308.ldo) ([Lao Động](https://laodong.vn))
+- [Lộ hình SUV VinFast bản quốc tế: Thiết kế như bản Việt, động cơ điện, pin có thể sản xuất tại Việt Nam](https://cafebiz.vn/lo-hinh-suv-vinfast-ban-quoc-te-thiet-ke-nhu-ban-viet-dong-co-dien-pin-co-the-san-xuat-tai-viet-nam-20210303135931415.chn) ([CafeBiz](https://cafebiz.vn))
+- ["Thần y" Võ Hoàng Yên bị vợ đại gia Dũng "lò vôi" tố lừa gạt hàng trăm tỷ tiền từ thiện là ai?](https://cafebiz.vn/than-y-vo-hoang-yen-bi-vo-dai-gia-dung-lo-voi-to-lua-gat-hang-tram-ty-tien-tu-thien-la-ai-20210303142444199.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tung tin 'được lấy nhiều chồng', người phụ nữ ở Huế bị phạt 5 triệu](http://vietnamnet.vn/vn/thoi-su/tung-tin-duoc-lay-nhieu-chong-nguoi-phu-nu-o-hue-bi-phat-5-trieu-716905.html) ([VietNamNet](https://vietnamnet.vn))
+- [Người về Hà Nội từ 4 địa điểm này ở Hải Dương phải cách ly từ ngày 3/3](https://cafebiz.vn/nguoi-ve-ha-noi-tu-4-dia-diem-nay-o-hai-duong-phai-cach-ly-tu-ngay-3-3-2021030314233444.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắt giữ gần chục đối tượng chém giết nhau trong quán karaoke](https://laodong.vn/phap-luat/bat-giu-gan-chuc-doi-tuong-chem-giet-nhau-trong-quan-karaoke-885347.ldo) ([Lao Động](https://laodong.vn))
+- [WHO: Đại dịch Covid-19 sẽ không chấm dứt trong năm nay dù đã có Vaccine](https://cafebiz.vn/who-dai-dich-covid-19-se-khong-cham-dut-trong-nam-nay-du-da-co-vaccine-20210302140835261.chn) ([CafeBiz](https://cafebiz.vn))
+- [Knight Frank: Việt Nam mất đi hơn 1.000 triệu phú đô la, 15 người siêu giàu trong năm 2020](https://cafebiz.vn/knight-frank-viet-nam-mat-di-hon-1000-trieu-phu-do-la-15-nguoi-sieu-giau-trong-nam-2020-20210303142047351.chn) ([CafeBiz](https://cafebiz.vn))
+- [3 bộ phim điện ảnh được khán giả thế giới chờ đợi trong tháng 3](https://laodong.vn/giai-tri/3-bo-phim-dien-anh-duoc-khan-gia-the-gioi-cho-doi-trong-thang-3-885042.ldo) ([Lao Động](https://laodong.vn))
+- [Không vô địch Champions League: Juventus sai hay Ronaldo sai?](https://laodong.vn/bong-da-quoc-te/khong-vo-dich-champions-league-juventus-sai-hay-ronaldo-sai-885313.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -135,8 +135,8 @@
 03. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 04. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 05. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-06. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+06. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+07. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 08. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 09. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 10. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
