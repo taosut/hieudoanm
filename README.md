@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 17°C.
-- Feels Like 16.07°C.
-- Air Visual is 142.
+- Feels Like 15.35°C.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Chiều 3/3, có 7 ca mắc COVID-19 ở Hải Dương và Kiên Giang](https://cafebiz.vn/chieu-3-3-co-7-ca-mac-covid-19-o-hai-duong-va-kien-giang-20210303180040061.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thành lập CĐCS Hợp tác xã Nông nghiệp và Dịch vụ tổng hợp Hoàng Phát](https://laodong.vn/cong-doan/thanh-lap-cdcs-hop-tac-xa-nong-nghiep-va-dich-vu-tong-hop-hoang-phat-885458.ldo) ([Lao Động](https://laodong.vn))
-- [Nguyên nhân cao tốc Đà Nẵng - Quảng Ngãi vừa sử dụng đã hư hỏng](https://laodong.vn/phap-luat/nguyen-nhan-cao-toc-da-nang-quang-ngai-vua-su-dung-da-hu-hong-885450.ldo) ([Lao Động](https://laodong.vn))
-- [Ươm mầm tình yêu biên giới cho học sinh người đồng bào thiểu số](https://laodong.vn/nguoi-viet-tu-te/uom-mam-tinh-yeu-bien-gioi-cho-hoc-sinh-nguoi-dong-bao-thieu-so-885229.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất bãi bỏ chứng chỉ ngoại ngữ, tin học với hai nhóm công chức](https://laodong.vn/ban-doc/de-xuat-bai-bo-chung-chi-ngoai-ngu-tin-hoc-voi-hai-nhom-cong-chuc-885452.ldo) ([Lao Động](https://laodong.vn))
-- [Hội đồng Bầu cử quốc gia nhất trí có 184 đơn vị bầu cử trong cả nước](https://laodong.vn/thoi-su/hoi-dong-bau-cu-quoc-gia-nhat-tri-co-184-don-vi-bau-cu-trong-ca-nuoc-885470.ldo) ([Lao Động](https://laodong.vn))
-- [Tai nạn giao thông 2 tháng đầu năm 2021: 2.355 vụ, 1.230 người chết](https://laodong.vn/infographic/tai-nan-giao-thong-2-thang-dau-nam-2021-2355-vu-1230-nguoi-chet-885373.ldo) ([Lao Động](https://laodong.vn))
-- [50km Quốc lộ 6, hàng chục khúc cua &quot;tử thần&quot;, tai nạn giao thông rình rập](https://laodong.vn/video/50km-quoc-lo-6-hang-chuc-khuc-cua-tu-than-tai-nan-giao-thong-rinh-rap-885285.ldo) ([Lao Động](https://laodong.vn))
-- [TikTok Trung Quốc cấm người dùng làm video khoe tiền, giả làm chủ tịch, chế giễu người nghèo](https://cafebiz.vn/tiktok-trung-quoc-cam-nguoi-dung-lam-video-khoe-tien-gia-lam-chu-tich-che-gieu-nguoi-ngheo-20210303153339092.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bất chấp lao ngược chiều lên cầu, nữ tài xế bị xe cứu thương ép lùi đầy thuyết phục!](https://cafebiz.vn/bat-chap-lao-nguoc-chieu-len-cau-nu-tai-xe-bi-xe-cuu-thuong-ep-lui-day-thuyet-phuc-20210303173222147.chn) ([CafeBiz](https://cafebiz.vn))
+
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +87,7 @@
 
 **VIETCETERA**
 
+- [Huỳnh Khang và những mảnh ghép cảm xúc bằng Lego](https://vietcetera.com/vn/khang-kade)
 - [5 Podcasts cho những người làm sáng tạo](https://vietcetera.com/vn/5-podcasts-cho-nhung-nguoi-lam-sang-tao)
 - [Vì sao chúng ta không nhớ ký ức khi còn là em bé?](https://vietcetera.com/vn/infantile-amnesia-vi-sao-chung-ta-khong-nho-ky-uc-khi-con-la-em-be)
 - [Anh Cầm Fact: Nghề "cầm fact" có gì khó?](https://vietcetera.com/vn/anh-cam-fact-nghe-cam-fact-co-gi-kho)
@@ -105,7 +97,6 @@
 - [Meme học: Bao nhiêu năm rồi còn mãi tranh meme](https://vietcetera.com/vn/meme-hoc-tranh-co-dien)
 - [Chữ Với Nghĩa: Bản dạng](https://vietcetera.com/vn/chu-voi-nghia-ban-dang)
 - [8 Bài học về đào tạo và quản lý tài năng từ Aiden Nguyễn](https://vietcetera.com/vn/8-bai-hoc-ve-dao-tao-va-quan-ly-tai-nang-tu-aiden-nguyen)
-- [Đối mặt với nỗi sợ trước những điều chưa biết](https://vietcetera.com/vn/doi-mat-voi-noi-so-truoc-nhung-dieu-chua-biet)
 
 [Read More](https://vietcetera.com/)
 
