@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 17°C.
 - Feels Like 16.07°C.
-- Air Visual is 153.
+- Air Visual is 146.
 
 **WEATHER**
 
@@ -50,6 +50,7 @@
 
 - [![Anya Taylor-Joy](https://img.shields.io/static/v1?label=Anya%20Taylor-Joy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anya%20Taylor-Joy)
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
+- [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Bamboo](https://img.shields.io/static/v1?label=Bamboo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bamboo)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
 - [![Clip Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
@@ -60,13 +61,12 @@
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Mr. Bean](https://img.shields.io/static/v1?label=Mr.%20Bean&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mr.%20Bean)
 - [![Nguyen ngoc manh](https://img.shields.io/static/v1?label=Nguyen%20ngoc%20manh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguyen%20ngoc%20manh)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
-- [![Võ Hoàng Yến](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Gan kém có 4 dấu hiệu rõ rành rành sau, cần gặp bác sĩ ngay: Tuyệt chiêu bảo vệ gan trước khi quá muộn](https://cafebiz.vn/gan-kem-co-4-dau-hieu-ro-ranh-ranh-sau-can-gap-bac-si-ngay-tuyet-chieu-bao-ve-gan-truoc-khi-qua-muon-20210303174825.chn) ([CafeBiz](https://cafebiz.vn))
+- [An Giang: Khởi tố thợ kim hoàn vận chuyển ma túy](https://laodong.vn/phap-luat/an-giang-khoi-to-tho-kim-hoan-van-chuyen-ma-tuy-885540.ldo) ([Lao Động](https://laodong.vn))
+- [Samsung công bố kế hoạch chi tiết về nhà máy chip 17 tỷ USD ở Mỹ](https://cafebiz.vn/samsung-cong-bo-ke-hoach-chi-tiet-ve-nha-may-chip-17-ty-usd-o-my-20210303204611026.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nội: Phẫn nộ clip người đàn ông chở phụ nữ và bé gái dàn cảnh trộm chó](https://laodong.vn/ban-doc/ha-noi-phan-no-clip-nguoi-dan-ong-cho-phu-nu-va-be-gai-dan-canh-trom-cho-885518.ldo) ([Lao Động](https://laodong.vn))
 - [TPHCM: “Chuồng cọp” ở chung cư cũ và rủi ro cháy nổ trong mùa nắng nóng](https://laodong.vn/ban-doc/tphcm-chuong-cop-o-chung-cu-cu-va-rui-ro-chay-no-trong-mua-nang-nong-885464.ldo) ([Lao Động](https://laodong.vn))
 - [Hé lộ nội dung đơn tố cáo ông Võ Hoàng Yên của vợ ông Dũng “lò vôi&quot;](https://laodong.vn/phap-luat/he-lo-noi-dung-don-to-cao-ong-vo-hoang-yen-cua-vo-ong-dung-lo-voi-885506.ldo) ([Lao Động](https://laodong.vn))
 - [Sau ông Lê Hải Trà, &quot;ông trùm chứng khoán&quot; Hưng SSI ủng hộ nâng lô 1.000](https://laodong.vn/kinh-te/sau-ong-le-hai-tra-ong-trum-chung-khoan-hung-ssi-ung-ho-nang-lo-1000-885429.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Giang: Xử lý 10 công dân nhập cảnh trái phép](https://laodong.vn/xa-hoi/ha-giang-xu-ly-10-cong-dan-nhap-canh-trai-phep-885539.ldo) ([Lao Động](https://laodong.vn))
 - [Công ty mẹ của Shopee: Quả bong bóng còn lớn hơn cả Tesla](https://cafebiz.vn/cong-ty-me-cua-shopee-qua-bong-bong-con-lon-hon-ca-tesla-20210303200844266.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chốt kiểm soát ở cửa ngõ Quảng Ninh được dỡ, hàng hoá lưu thông nhịp nhàng](http://vietnamnet.vn/vn/thoi-su/chot-kiem-soat-o-cua-ngo-quang-ninh-duoc-do-hang-hoa-luu-thong-nhip-nhang-717020.html) ([VietNamNet](https://vietnamnet.vn))
 - [Chuyên gia kiến nghị sớm có sân bay thứ 2 cho vùng thủ đô](https://tuoitre.vn/chuyen-gia-kien-nghi-som-co-san-bay-thu-2-cho-vung-thu-do-20210303173604754.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Đã bị tịnh thân, tại sao hoạn quan Trung Hoa vẫn muốn lấy vợ lớn vợ bé? Lời kể về hoạn quan Thanh triều giúp nhiều người mở mang tầm mắt](https://cafebiz.vn/da-bi-tinh-than-tai-sao-hoan-quan-trung-hoa-van-muon-lay-vo-lon-vo-be-loi-ke-ve-hoan-quan-thanh-trieu-giup-nhieu-nguoi-mo-mang-tam-mat-20210303173656499.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hàng bánh tiêu "CHẢNH" nhất Việt Nam - "mua được hay không là do nhân phẩm", dù chưa kịp mở cửa đã chính thức hết bánh khiến cả Vũng Tàu tới Sài Gòn phải xôn xao!](https://cafebiz.vn/hang-banh-tieu-chanh-nhat-viet-nam-mua-duoc-hay-khong-la-do-nhan-pham-du-chua-kip-mo-cua-da-chinh-thuc-het-banh-khien-ca-vung-tau-toi-sai-gon-phai-xon-xao-20210303200706109.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
