@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Xe container lao xuống vực sau va chạm ôtô tải](https://vnexpress.net/xe-container-lao-xuong-vuc-sau-va-cham-oto-tai-4242880.html) ([VNExpress](https://vnexpress.net))
+- [Hướng dẫn cho người dân từ Hải Dương về Bắc Giang sau giãn cách](https://laodong.vn/xa-hoi/huong-dan-cho-nguoi-dan-tu-hai-duong-ve-bac-giang-sau-gian-cach-885335.ldo) ([Lao Động](https://laodong.vn))
+- [TopCV ra mắt sản phẩm TESTCENTER - Nền tảng đánh giá nhân sự toàn diện](https://cafebiz.vn/topcv-ra-mat-san-pham-testcenter-nen-tang-danh-gia-nhan-su-toan-dien-20210302140027728.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo viên phổ thông đề nghị Bộ Giáo dục và Đào tạo bãi bỏ “giấy phép con”](https://laodong.vn/ban-doc/giao-vien-pho-thong-de-nghi-bo-giao-duc-va-dao-tao-bai-bo-giay-phep-con-885281.ldo) ([Lao Động](https://laodong.vn))
+- [Sân bay Vân Đồn đón 2 chuyến bay trong ngày đầu hoạt động trở lại](https://laodong.vn/kinh-te/san-bay-van-don-don-2-chuyen-bay-trong-ngay-dau-hoat-dong-tro-lai-885336.ldo) ([Lao Động](https://laodong.vn))
+- [Campuchia phát hiện 2 phụ nữ gốc Việt dương tính COVID-19 ở tỉnh giáp ranh Long An, Tây Ninh](https://tuoitre.vn/campuchia-phat-hien-2-phu-nu-goc-viet-duong-tinh-covid-19-o-tinh-giap-ranh-long-an-tay-ninh-20210303113956928.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bác bảo vệ kể lại giây phút cùng người dân cứu nữ sinh lơ lửng ở lan can tầng 3](https://tuoitre.vn/bac-bao-ve-ke-lai-giay-phut-cung-nguoi-dan-cuu-nu-sinh-lo-lung-o-lan-can-tang-3-20210303122924244.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- ["Penthouse chưa có, trói em bằng xích": Hậu quả của thử thách tình yêu, cặp đôi "tự xích" cuối cùng phải nhập viện](https://cafebiz.vn/penthouse-chua-co-troi-em-bang-xich-hau-qua-cua-thu-thach-tinh-yeu-cap-doi-tu-xich-cuoi-cung-phai-nhap-vien-20210303102720647.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giá gạo xuất khẩu lại bật tăng vượt giá gạo Thái Lan](https://laodong.vn/kinh-te/gia-gao-xuat-khau-lai-bat-tang-vuot-gia-gao-thai-lan-885333.ldo) ([Lao Động](https://laodong.vn))
 - [Từ Giang Tô đến Inter: Nỗi lo bóng đá kiểu bong bóng](https://laodong.vn/bong-da-quoc-te/tu-giang-to-den-inter-noi-lo-bong-da-kieu-bong-bong-885207.ldo) ([Lao Động](https://laodong.vn))
-- [Trở ngại đầu tiên trong đề cử nhân sự nội các của ông Joe Biden](https://laodong.vn/the-gioi/tro-ngai-dau-tien-trong-de-cu-nhan-su-noi-cac-cua-ong-joe-biden-885226.ldo) ([Lao Động](https://laodong.vn))
-- [Đại học Tài nguyên và Môi trường Hà Nội tuyển 4.000 sinh viên cho 23 ngành](https://laodong.vn/giao-duc/dai-hoc-tai-nguyen-va-moi-truong-ha-noi-tuyen-4000-sinh-vien-cho-23-nganh-885329.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội, TPHCM - các tuyến đường vành đai cần giải cứu](https://laodong.vn/xa-hoi/ha-noi-tphcm-cac-tuyen-duong-vanh-dai-can-giai-cuu-885122.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Tạm ngưng hoạt động cơ sở y tế bỏ quên gạc trong ngực bệnh nhân](https://laodong.vn/y-te/tphcm-tam-ngung-hoat-dong-co-so-y-te-bo-quen-gac-trong-nguc-benh-nhan-885323.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng: Tái thiết đô thị ở trung tâm, có khu phức hợp 2 khối cao 23 tầng, cầu đi bộ trên cao](https://tuoitre.vn/da-nang-tai-thiet-do-thi-o-trung-tam-co-khu-phuc-hop-2-khoi-cao-23-tang-cau-di-bo-tren-cao-20210303115711009.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Xe bán tải lao xuống vực sâu hơn 100 m](https://vnexpress.net/xe-ban-tai-lao-xuong-vuc-sau-hon-100-m-4242843.html) ([VNExpress](https://vnexpress.net))
-- [Vận động viên có được tiêm vaccine ngừa COVID-19 khi dự SEA Games 31?](https://laodong.vn/bong-da/van-dong-vien-co-duoc-tiem-vaccine-ngua-covid-19-khi-du-sea-games-31-885303.ldo) ([Lao Động](https://laodong.vn))
-- [Bình Phước chưa cấp phép khám chữa bệnh cho ông Võ Hoàng Yên](https://laodong.vn/xa-hoi/binh-phuoc-chua-cap-phep-kham-chua-benh-cho-ong-vo-hoang-yen-885261.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
