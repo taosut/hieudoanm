@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 17°C.
 - Feels Like 16.82°C.
-- Air Visual is 148.
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Hà Nam: Khởi tố kẻ bóp cổ nữ sinh lớp 10 đến tử vong](https://laodong.vn/phap-luat/ha-nam-khoi-to-ke-bop-co-nu-sinh-lop-10-den-tu-vong-885549.ldo) ([Lao Động](https://laodong.vn))
+- [Yêu cầu tạm đình chỉ 1 cán bộ Cục Thuế Bình Dương bị khởi tố](https://laodong.vn/xa-hoi/yeu-cau-tam-dinh-chi-1-can-bo-cuc-thue-binh-duong-bi-khoi-to-885542.ldo) ([Lao Động](https://laodong.vn))
+- [Gia tộc chó giàu nhất hành tinh: Tài sản 400 triệu USD, sở hữu tập đoàn riêng, biệt thự 7000 mét vuông chạy mỏi chân](https://cafebiz.vn/gia-toc-cho-giau-nhat-hanh-tinh-tai-san-400-trieu-usd-so-huu-tap-doan-rieng-biet-thu-7000-met-vuong-chay-moi-chan-202103032115068.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phạt cô gái đăng tin "một vợ được lấy nhiều chồng"](https://cafebiz.vn/phat-co-gai-dang-tin-mot-vo-duoc-lay-nhieu-chong-20210303215036449.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tướng yêu cầu tiêm vắc-xin COVID-19 cho người dân ngay trong tuần này](https://cafebiz.vn/thu-tuong-yeu-cau-tiem-vac-xin-covid-19-cho-nguoi-dan-ngay-trong-tuan-nay-20210303213326951.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tỷ phú Nhật Bản "bao trọn gói" cho 8 người ngẫu nhiên cùng bay lên Mặt Trăng: Tiêu chí chọn lựa thế nào?](https://cafebiz.vn/ty-phu-nhat-ban-bao-tron-goi-cho-8-nguoi-ngau-nhien-cung-bay-len-mat-trang-tieu-chi-chon-lua-the-nao-20210303211714315.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phú Thọ: Ban hành kế hoạch phòng chống bạo lực, xâm hại trẻ em](https://laodong.vn/giao-duc/phu-tho-ban-hanh-ke-hoach-phong-chong-bao-luc-xam-hai-tre-em-885538.ldo) ([Lao Động](https://laodong.vn))
+- [5 chuyện chưa kể về Từ Hi Thái hậu: Chó cũng có nô tài hầu hạ](https://cafebiz.vn/5-chuyen-chua-ke-ve-tu-hi-thai-hau-cho-cung-co-no-tai-hau-ha-20210303211240595.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tiếp tục đề xuất không tăng lương tối thiểu vùng năm 2021](https://vnexpress.net/tiep-tuc-de-xuat-khong-tang-luong-toi-thieu-vung-nam-2021-4243125.html) ([VNExpress](https://vnexpress.net))
+- [NSND Lê Khanh: &quot;Anh Hoàng Dũng bảo bao nhiêu xui xẻo anh gánh cả rồi&quot;](https://laodong.vn/van-hoa/nsnd-le-khanh-anh-hoang-dung-bao-bao-nhieu-xui-xeo-anh-ganh-ca-roi-885494.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
