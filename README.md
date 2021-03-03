@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 19°C.
 - Feels Like 18.12°C.
-- Air Visual is 144.
+- Air Visual is 154.
 
 **WEATHER**
 
@@ -48,7 +48,6 @@
 
 **GOOGLE TRENDS**
 
-- [![Anya Taylor-Joy](https://img.shields.io/static/v1?label=Anya%20Taylor-Joy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anya%20Taylor-Joy)
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
@@ -67,6 +66,7 @@
 - [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
 - [![Uni5](https://img.shields.io/static/v1?label=Uni5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Uni5)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
+- [![Võ Hoàng Yến](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Hình ảnh Hải Dương ngày đầu tiên kết thúc cách ly xã hội](https://laodong.vn/photo/hinh-anh-hai-duong-ngay-dau-tien-ket-thuc-cach-ly-xa-hoi-885334.ldo) ([Lao Động](https://laodong.vn))
-- [Buồn của Jack Ma: Rơi khỏi vị trí người giàu nhất Trung Quốc, thậm chí còn không lọt top 3](https://cafebiz.vn/buon-cua-jack-ma-roi-khoi-vi-tri-nguoi-giau-nhat-trung-quoc-tham-chi-con-khong-lot-top-3-20210303114938579.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đảng Dân chủ gây sức ép với ông Biden về vụ không kích Syria](https://laodong.vn/the-gioi/dang-dan-chu-gay-suc-ep-voi-ong-biden-ve-vu-khong-kich-syria-885327.ldo) ([Lao Động](https://laodong.vn))
-- [Xe container lao xuống vực sau va chạm ôtô tải](https://vnexpress.net/xe-container-lao-xuong-vuc-sau-va-cham-oto-tai-4242880.html) ([VNExpress](https://vnexpress.net))
-- [Hướng dẫn cho người dân từ Hải Dương về Bắc Giang sau giãn cách](https://laodong.vn/xa-hoi/huong-dan-cho-nguoi-dan-tu-hai-duong-ve-bac-giang-sau-gian-cach-885335.ldo) ([Lao Động](https://laodong.vn))
-- [TopCV ra mắt sản phẩm TESTCENTER - Nền tảng đánh giá nhân sự toàn diện](https://cafebiz.vn/topcv-ra-mat-san-pham-testcenter-nen-tang-danh-gia-nhan-su-toan-dien-20210302140027728.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo viên phổ thông đề nghị Bộ Giáo dục và Đào tạo bãi bỏ “giấy phép con”](https://laodong.vn/ban-doc/giao-vien-pho-thong-de-nghi-bo-giao-duc-va-dao-tao-bai-bo-giay-phep-con-885281.ldo) ([Lao Động](https://laodong.vn))
-- [Sân bay Vân Đồn đón 2 chuyến bay trong ngày đầu hoạt động trở lại](https://laodong.vn/kinh-te/san-bay-van-don-don-2-chuyen-bay-trong-ngay-dau-hoat-dong-tro-lai-885336.ldo) ([Lao Động](https://laodong.vn))
-- [Campuchia phát hiện 2 phụ nữ gốc Việt dương tính COVID-19 ở tỉnh giáp ranh Long An, Tây Ninh](https://tuoitre.vn/campuchia-phat-hien-2-phu-nu-goc-viet-duong-tinh-covid-19-o-tinh-giap-ranh-long-an-tay-ninh-20210303113956928.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bác bảo vệ kể lại giây phút cùng người dân cứu nữ sinh lơ lửng ở lan can tầng 3](https://tuoitre.vn/bac-bao-ve-ke-lai-giay-phut-cung-nguoi-dan-cuu-nu-sinh-lo-lung-o-lan-can-tang-3-20210303122924244.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bổ sung quy định chuyển cửa khẩu hàng nhập tại cảng cạn Long Biên](https://laodong.vn/thoi-su/bo-sung-quy-dinh-chuyen-cua-khau-hang-nhap-tai-cang-can-long-bien-885340.ldo) ([Lao Động](https://laodong.vn))
+- [Xây nhà trên đất thổ cư cần chú ý những gì?](https://laodong.vn/bat-dong-san/xay-nha-tren-dat-tho-cu-can-chu-y-nhung-gi-885270.ldo) ([Lao Động](https://laodong.vn))
+- [USD tự do giảm mạnh, tuột mốc 23.900 đồng](https://cafebiz.vn/usd-tu-do-giam-manh-tuot-moc-23900-dong-20210303140007409.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những ngành, nghề bị cấm đầu tư kinh doanh từ năm 2021](https://laodong.vn/tu-van-phap-luat/nhung-nganh-nghe-bi-cam-dau-tu-kinh-doanh-tu-nam-2021-884306.ldo) ([Lao Động](https://laodong.vn))
+- [Đập Tam Hiệp khiến sông Dương Tử ngày càng suy kiệt?](https://laodong.vn/the-gioi/dap-tam-hiep-khien-song-duong-tu-ngay-cang-suy-kiet-885319.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiều điều chỉnh về công nhận người có công với cách mạng từ tháng 7.2021](https://laodong.vn/thoi-su/nhieu-dieu-chinh-ve-cong-nhan-nguoi-co-cong-voi-cach-mang-tu-thang-72021-885312.ldo) ([Lao Động](https://laodong.vn))
+- [Anh Nguyễn Ngọc Mạnh sẽ dùng số tiền mọi người ủng hộ làm từ thiện: "Lương của tôi 15 triệu cũng đủ sống rồi"](https://cafebiz.vn/anh-nguyen-ngoc-manh-se-dung-so-tien-moi-nguoi-ung-ho-lam-tu-thien-luong-cua-toi-15-trieu-cung-du-song-roi-20210303135347607.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thuê karaoke di động tụ tập hát tại An Giang bị xem là vi phạm quy định phòng chống dịch bệnh](https://tuoitre.vn/thue-karaoke-di-dong-tu-tap-hat-tai-an-giang-bi-xem-la-vi-pham-quy-dinh-phong-chong-dich-benh-20210303120511177.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Elon Musk từng để các kỹ sư tên lửa của mình sống trên một hòn đảo không có thức ăn](https://cafebiz.vn/elon-musk-tung-de-cac-ky-su-ten-lua-cua-minh-song-tren-mot-hon-dao-khong-co-thuc-an-20210303135202818.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nữ tân binh nói gì trong ngày nhập ngũ?](https://laodong.vn/video/nu-tan-binh-noi-gi-trong-ngay-nhap-ngu-885324.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
