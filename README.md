@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 17°C.
-- Feels Like 17.17°C.
-- Air Visual is 149.
+- Feels Like 16.82°C.
+- Air Visual is 144.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Thủ tướng yêu cầu tiêm vắc-xin COVID-19 cho người dân ngay trong tuần này](https://cafebiz.vn/thu-tuong-yeu-cau-tiem-vac-xin-covid-19-cho-nguoi-dan-ngay-trong-tuan-nay-20210303213326951.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tỷ phú Nhật Bản "bao trọn gói" cho 8 người ngẫu nhiên cùng bay lên Mặt Trăng: Tiêu chí chọn lựa thế nào?](https://cafebiz.vn/ty-phu-nhat-ban-bao-tron-goi-cho-8-nguoi-ngau-nhien-cung-bay-len-mat-trang-tieu-chi-chon-lua-the-nao-20210303211714315.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phú Thọ: Ban hành kế hoạch phòng chống bạo lực, xâm hại trẻ em](https://laodong.vn/giao-duc/phu-tho-ban-hanh-ke-hoach-phong-chong-bao-luc-xam-hai-tre-em-885538.ldo) ([Lao Động](https://laodong.vn))
+- [5 chuyện chưa kể về Từ Hi Thái hậu: Chó cũng có nô tài hầu hạ](https://cafebiz.vn/5-chuyen-chua-ke-ve-tu-hi-thai-hau-cho-cung-co-no-tai-hau-ha-20210303211240595.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tiếp tục đề xuất không tăng lương tối thiểu vùng năm 2021](https://vnexpress.net/tiep-tuc-de-xuat-khong-tang-luong-toi-thieu-vung-nam-2021-4243125.html) ([VNExpress](https://vnexpress.net))
 - [NSND Lê Khanh: &quot;Anh Hoàng Dũng bảo bao nhiêu xui xẻo anh gánh cả rồi&quot;](https://laodong.vn/van-hoa/nsnd-le-khanh-anh-hoang-dung-bao-bao-nhieu-xui-xeo-anh-ganh-ca-roi-885494.ldo) ([Lao Động](https://laodong.vn))
 - [Huyện Kim Thành, Hải Dương khẩn tìm người đến 5 địa điểm](https://cafebiz.vn/huyen-kim-thanh-hai-duong-khan-tim-nguoi-den-5-dia-diem-20210303212435962.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giải mã các trụ cột giúp Việt Nam xuất siêu gần 1,3 tỷ USD](https://cafebiz.vn/giai-ma-cac-tru-cot-giup-viet-nam-xuat-sieu-gan-13-ty-usd-20210303211913061.chn) ([CafeBiz](https://cafebiz.vn))
 - [Gia tộc chó giàu nhất hành tinh: Tài sản 400 triệu USD, sở hữu tập đoàn riêng, biệt thự 7000 mét vuông chạy mỏi chân](https://cafebiz.vn/gia-toc-cho-giau-nhat-hanh-tinh-tai-san-400-trieu-usd-so-huu-tap-doan-rieng-biet-thu-7000-met-vuong-chay-moi-chan-20210303211327239.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chứng khoán: Tiến lên đỉnh 1.200 điểm bằng &quot;chiến thuật leo núi”](https://laodong.vn/kinh-te/chung-khoan-tien-len-dinh-1200-diem-bang-chien-thuat-leo-nui-885533.ldo) ([Lao Động](https://laodong.vn))
-- [Hưng Yên: Cho phép mở lại quán cà phê, dừng nhiều chốt kiểm soát](https://laodong.vn/xa-hoi/hung-yen-cho-phep-mo-lai-quan-ca-phe-dung-nhieu-chot-kiem-soat-885543.ldo) ([Lao Động](https://laodong.vn))
-- [Rời The Coffee House, Nguyễn Hải Ninh kết hợp với "đệ cũ" Shark Hưng lập startup bất động sản, vừa ra mắt đã gọi vốn 1 triệu USD](https://cafebiz.vn/roi-the-coffee-house-nguyen-hai-ninh-ket-hop-voi-de-cu-shark-hung-lap-startup-bat-dong-san-vua-ra-mat-da-goi-von-1-trieu-usd-20210303210923034.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bé gái 3 tuổi rơi từ tầng 12 chung cư đã cười đùa, sắp được xuất viện](https://tuoitre.vn/be-gai-3-tuoi-roi-tu-tang-12-chung-cu-da-cuoi-dua-sap-duoc-xuat-vien-20210303201012996.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Gan kém có 4 dấu hiệu rõ rành rành sau, cần gặp bác sĩ ngay: Tuyệt chiêu bảo vệ gan trước khi quá muộn](https://cafebiz.vn/gan-kem-co-4-dau-hieu-ro-ranh-ranh-sau-can-gap-bac-si-ngay-tuyet-chieu-bao-ve-gan-truoc-khi-qua-muon-20210303174825.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
