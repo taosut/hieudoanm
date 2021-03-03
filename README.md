@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 17°C.
-- Feels Like 16.45°C.
-- Air Visual is 132.
+- Feels Like 16.07°C.
+- Air Visual is 152.
 
 **WEATHER**
 
@@ -66,8 +66,8 @@
 - [![Thế giới Di đông](https://img.shields.io/static/v1?label=Th%E1%BA%BF%20gi%E1%BB%9Bi%20Di%20%C4%91%C3%B4ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BA%BF%20gi%E1%BB%9Bi%20Di%20%C4%91%C3%B4ng)
 - [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
-- [![Võ Hoàng Yến](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
+- [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Tỷ phú Nhật bỏ tiền túi, mời ngẫu nhiên 8 người du hành Mặt Trăng miễn phí trong 1 tuần](https://cafebiz.vn/ty-phu-nhat-bo-tien-tui-moi-ngau-nhien-8-nguoi-du-hanh-mat-trang-mien-phi-trong-1-tuan-20210303153205818.chn) ([CafeBiz](https://cafebiz.vn))
+- [Gojek vừa tung nền tảng mới GoBiz hỗ trợ các chủ quán quản lý đơn: Thời gian ship đồ ăn giảm gần 1/2, lượng đơn hoàn thành tăng gấp 3](https://cafebiz.vn/gojek-vua-tung-nen-tang-moi-gobiz-ho-tro-cac-chu-quan-quan-ly-don-thoi-gian-ship-do-an-giam-gan-1-2-luong-don-hoan-thanh-tang-gap-3-20210303162555509.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chọn trường thi lớp 10: Làm thế nào khi cha mẹ và con bất đồng quan điểm?](https://laodong.vn/giao-duc/chon-truong-thi-lop-10-lam-the-nao-khi-cha-me-va-con-bat-dong-quan-diem-885415.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM quy định mức thu học phí trong thời gian học online phòng dịch](https://laodong.vn/ban-doc/tphcm-quy-dinh-muc-thu-hoc-phi-trong-thoi-gian-hoc-online-phong-dich-885417.ldo) ([Lao Động](https://laodong.vn))
+- [Nga chế tạo iPad Pro độc nhất vô nhị bằng 1kg vàng](https://laodong.vn/the-gioi/nga-che-tao-ipad-pro-doc-nhat-vo-nhi-bang-1kg-vang-885435.ldo) ([Lao Động](https://laodong.vn))
+- [Trung tâm tiếng Anh Apax English lấn sân sang bất động sản, phục vụ cho nhà máy Formosa Hà Tĩnh?](https://cafebiz.vn/trung-tam-tieng-anh-apax-english-lan-san-sang-bat-dong-san-phuc-vu-cho-nha-may-formosa-ha-tinh-20210303164406824.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đà Nẵng đã lấy mẫu xét nghiệm Covid-19 cho gần 7000 nhân viên y tế](https://cafebiz.vn/da-nang-da-lay-mau-xet-nghiem-covid-19-cho-gan-7000-nhan-vien-y-te-20210303164326012.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người dân Hà Nội xếp hàng 'rồng rắn' giải cứu gà đồi Chí Linh](https://cafebiz.vn/nguoi-dan-ha-noi-xep-hang-rong-ran-giai-cuu-ga-doi-chi-linh-20210303164221623.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thầy Park Hang-seo có lo cầu thủ quá tải ở V.League 2021?](https://laodong.vn/bong-da/thay-park-hang-seo-co-lo-cau-thu-qua-tai-o-vleague-2021-885406.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang: Xử phạt hơn 300 trường hợp vi phạm qui định chống dịch COVID-19](https://laodong.vn/xa-hoi/bac-giang-xu-phat-hon-300-truong-hop-vi-pham-qui-dinh-chong-dich-covid-19-885425.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -87,6 +96,9 @@
 
 **VIETCETERA**
 
+- [5 Podcasts cho những người làm sáng tạo](https://vietcetera.com/vn/5-podcasts-cho-nhung-nguoi-lam-sang-tao)
+- [Vì sao chúng ta không nhớ ký ức khi còn là em bé?](https://vietcetera.com/vn/infantile-amnesia-vi-sao-chung-ta-khong-nho-ky-uc-khi-con-la-em-be)
+- [Anh Cầm Fact: Nghề "cầm fact" có gì khó?](https://vietcetera.com/vn/anh-cam-fact-nghe-cam-fact-co-gi-kho)
 - [Podcast “Vietnam Innovators” tập 10: Kelly Trần chia sẻ công thức “số hoá” thành công của Pizza 4P’s](https://vietcetera.com/vn/podcast-vietnam-innovators-tap-10-kelly-tran-chia-se-cong-thuc-so-hoa-thanh-cong-cua-pizza-4ps)
 - ["Quán bar. Giữa khuya. Mời về nhà."](https://vietcetera.com/vn/quan-bar-giua-khuya-moi-ve-nha)
 - [Không Quan Tâm: "Anh hùng" cũng cần được yên!](https://vietcetera.com/vn/khong-quan-tam-chuyen-ca-nhan-nhung-quan-tam-hanh-dong-cuu-em-be)
@@ -94,9 +106,6 @@
 - [Chữ Với Nghĩa: Bản dạng](https://vietcetera.com/vn/chu-voi-nghia-ban-dang)
 - [8 Bài học về đào tạo và quản lý tài năng từ Aiden Nguyễn](https://vietcetera.com/vn/8-bai-hoc-ve-dao-tao-va-quan-ly-tai-nang-tu-aiden-nguyen)
 - [Đối mặt với nỗi sợ trước những điều chưa biết](https://vietcetera.com/vn/doi-mat-voi-noi-so-truoc-nhung-dieu-chua-biet)
-- [Mừng ngày mở cửa trở lại — 5 quán cà phê Hà Nội xưa nạp lại cảm hứng](https://vietcetera.com/vn/mung-ngay-mo-cua-tro-lai-5-quan-ca-phe-ha-noi-xua-nap-lai-cam-hung)
-- [Singapore tái khởi động ngành du lịch nội địa và quốc tế ](https://vietcetera.com/vn/singapore-tai-khoi-dong-nganh-du-lich-noi-dia-va-quoc-te)
-- ["Chỉ yêu người “không quê không quán, không cha không mẹ, không tên không tuổi”"](https://vietcetera.com/vn/chi-yeu-nguoi-khong-que-khong-quan-khong-cha-khong-me-khong-ten-khong-tuoi)
 
 [Read More](https://vietcetera.com/)
 
@@ -122,13 +131,13 @@
 **YOUTUBE TRENDS**
 
 01. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-02. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-03. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+02. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 04. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 05. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 06. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-07. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-08. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+07. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+08. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 09. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 10. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 
