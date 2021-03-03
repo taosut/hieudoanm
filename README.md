@@ -21,7 +21,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 17°C.
-- Feels Like 15.35°C.
+- Feels Like 16.43°C.
 - Air Visual is 153.
 
 **WEATHER**
@@ -48,6 +48,7 @@
 
 **GOOGLE TRENDS**
 
+- [![Anya Taylor-Joy](https://img.shields.io/static/v1?label=Anya%20Taylor-Joy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anya%20Taylor-Joy)
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
 - [![Bamboo](https://img.shields.io/static/v1?label=Bamboo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bamboo)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
@@ -61,13 +62,12 @@
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
-- [![Thế giới Di đông](https://img.shields.io/static/v1?label=Th%E1%BA%BF%20gi%E1%BB%9Bi%20Di%20%C4%91%C3%B4ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BA%BF%20gi%E1%BB%9Bi%20Di%20%C4%91%C3%B4ng)
 - [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 - [![Võ Hoàng Yến](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
-- [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Chuyên gia đề nghị làm rõ nguồn vốn 15 tỷ USD đầu tư sân bay](https://vnexpress.net/chuyen-gia-de-nghi-lam-ro-nguon-von-15-ty-usd-dau-tu-san-bay-4242910.html) ([VNExpress](https://vnexpress.net))
+- [Tiểu thương chợ Đầm bị cắt điện vì không di dời](https://vnexpress.net/tieu-thuong-cho-dam-bi-cat-dien-vi-khong-di-doi-4242949.html) ([VNExpress](https://vnexpress.net))
+- [Bí quyết dưỡng da bằng mật ong đơn giản](https://laodong.vn/suc-khoe/bi-quyet-duong-da-bang-mat-ong-don-gian-885206.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng Chính phủ nhất trí bổ sung một số nguyên nhân để xử lý nợ bị rủi ro tại NHCSXH](https://laodong.vn/xa-hoi/thu-tuong-chinh-phu-nhat-tri-bo-sung-mot-so-nguyen-nhan-de-xu-ly-no-bi-rui-ro-tai-nhcsxh-885459.ldo) ([Lao Động](https://laodong.vn))
+- [Đất phần trăm có được cấp sổ đỏ không?](https://laodong.vn/bat-dong-san/dat-phan-tram-co-duoc-cap-so-do-khong-885490.ldo) ([Lao Động](https://laodong.vn))
+- [Học sinh học trực tuyến, giáo viên, phụ huynh phải dạy lại](https://laodong.vn/video/hoc-sinh-hoc-truc-tuyen-giao-vien-phu-huynh-phai-day-lai-885279.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ GTVT ủng hộ xây dựng đường song hành với cao tốc Cầu Giẽ - Ninh Bình](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/bo-gtvt-ung-ho-xay-dung-duong-song-hanh-voi-cao-toc-cau-gie-ninh-binh-717008.html) ([VietNamNet](https://vietnamnet.vn))
+- [Rosa Kato – người vợ kiểu mẫu của ngôi sao Daisuke Matsui đội Sài Gòn](https://laodong.vn/gia-dinh-hon-nhan/rosa-kato--nguoi-vo-kieu-mau-cua-ngoi-sao-daisuke-matsui-doi-sai-gon-885416.ldo) ([Lao Động](https://laodong.vn))
+- [Rơi máy bay thương mại ở Nam Sudan: Ít nhất 10 người thiệt mạng](https://laodong.vn/the-gioi/roi-may-bay-thuong-mai-o-nam-sudan-it-nhat-10-nguoi-thiet-mang-885428.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều nay 3-3: Thêm 7 ca mắc COVID-19 mới, có 2 ca nhập cảnh qua cửa khẩu Hà Tiên](https://tuoitre.vn/chieu-nay-3-3-them-7-ca-mac-covid-19-moi-co-2-ca-nhap-canh-qua-cua-khau-ha-tien-20210303180815093.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -108,12 +117,12 @@
 02. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
 03. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 04. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-05. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
-06. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
-07. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
-08. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
-09. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-10. [CẢM ƠN - Quang Lê & Tố My | MV Xuân Mùng 1 Tết Tân Sửu 2021](https://www.youtube.com/watch?v=SeQ1H0oQCPE) - [Quang Lê Official](https://www.youtube.com/channel/UCNqz53FCc3mUg5NyzHxsXGQ)
+05. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
+06. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
+07. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
+08. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
+09. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
+10. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
