@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 19°C.
 - Feels Like 17.76°C.
-- Air Visual is 152.
+- Air Visual is 157.
 
 **WEATHER**
 
@@ -48,26 +48,26 @@
 
 **GOOGLE TRENDS**
 
+- [![Anya Taylor-Joy](https://img.shields.io/static/v1?label=Anya%20Taylor-Joy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anya%20Taylor-Joy)
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
 - [![Clip Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
-- [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
+- [![Clip bé 3 tuổi rơi từ tầng 12](https://img.shields.io/static/v1?label=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Giám đốc Sở Y tế Cần Thơ](https://img.shields.io/static/v1?label=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1)
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
+- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
-- [![Nguyen ngoc manh](https://img.shields.io/static/v1?label=Nguyen%20ngoc%20manh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguyen%20ngoc%20manh)
 - [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
 - [![Uni5](https://img.shields.io/static/v1?label=Uni5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Uni5)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
-- [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Giá gạo xuất khẩu lại bật tăng vượt giá gạo Thái Lan](https://laodong.vn/kinh-te/gia-gao-xuat-khau-lai-bat-tang-vuot-gia-gao-thai-lan-885333.ldo) ([Lao Động](https://laodong.vn))
+- [Từ Giang Tô đến Inter: Nỗi lo bóng đá kiểu bong bóng](https://laodong.vn/bong-da-quoc-te/tu-giang-to-den-inter-noi-lo-bong-da-kieu-bong-bong-885207.ldo) ([Lao Động](https://laodong.vn))
+- [Trở ngại đầu tiên trong đề cử nhân sự nội các của ông Joe Biden](https://laodong.vn/the-gioi/tro-ngai-dau-tien-trong-de-cu-nhan-su-noi-cac-cua-ong-joe-biden-885226.ldo) ([Lao Động](https://laodong.vn))
+- [Đại học Tài nguyên và Môi trường Hà Nội tuyển 4.000 sinh viên cho 23 ngành](https://laodong.vn/giao-duc/dai-hoc-tai-nguyen-va-moi-truong-ha-noi-tuyen-4000-sinh-vien-cho-23-nganh-885329.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội, TPHCM - các tuyến đường vành đai cần giải cứu](https://laodong.vn/xa-hoi/ha-noi-tphcm-cac-tuyen-duong-vanh-dai-can-giai-cuu-885122.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Tạm ngưng hoạt động cơ sở y tế bỏ quên gạc trong ngực bệnh nhân](https://laodong.vn/y-te/tphcm-tam-ngung-hoat-dong-co-so-y-te-bo-quen-gac-trong-nguc-benh-nhan-885323.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng: Tái thiết đô thị ở trung tâm, có khu phức hợp 2 khối cao 23 tầng, cầu đi bộ trên cao](https://tuoitre.vn/da-nang-tai-thiet-do-thi-o-trung-tam-co-khu-phuc-hop-2-khoi-cao-23-tang-cau-di-bo-tren-cao-20210303115711009.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Xe bán tải lao xuống vực sâu hơn 100 m](https://vnexpress.net/xe-ban-tai-lao-xuong-vuc-sau-hon-100-m-4242843.html) ([VNExpress](https://vnexpress.net))
 - [Vận động viên có được tiêm vaccine ngừa COVID-19 khi dự SEA Games 31?](https://laodong.vn/bong-da/van-dong-vien-co-duoc-tiem-vaccine-ngua-covid-19-khi-du-sea-games-31-885303.ldo) ([Lao Động](https://laodong.vn))
-- [Hé lộ nội dung thư chúc mừng ông Biden gửi Tổng thống Liên Xô đầu tiên](https://laodong.vn/the-gioi/he-lo-noi-dung-thu-chuc-mung-ong-biden-gui-tong-thong-lien-xo-dau-tien-885316.ldo) ([Lao Động](https://laodong.vn))
-- [Những ai được cấp thẻ căn cước công dân gắn chip?](https://laodong.vn/phap-luat/nhung-ai-duoc-cap-the-can-cuoc-cong-dan-gan-chip-885328.ldo) ([Lao Động](https://laodong.vn))
-- [So sánh mức lương của giáo viên lâu năm và mới ra trường từ 20.3](https://laodong.vn/giao-duc/so-sanh-muc-luong-cua-giao-vien-lau-nam-va-moi-ra-truong-tu-203-885290.ldo) ([Lao Động](https://laodong.vn))
-- [Bổ sung một số nguyên nhân khách quan dẫn đến rủi ro vay vốn tại Ngân hàng Chính sách xã hội](https://laodong.vn/thoi-su/bo-sung-mot-so-nguyen-nhan-khach-quan-dan-den-rui-ro-vay-von-tai-ngan-hang-chinh-sach-xa-hoi-885317.ldo) ([Lao Động](https://laodong.vn))
 - [Bình Phước chưa cấp phép khám chữa bệnh cho ông Võ Hoàng Yên](https://laodong.vn/xa-hoi/binh-phuoc-chua-cap-phep-kham-chua-benh-cho-ong-vo-hoang-yen-885261.ldo) ([Lao Động](https://laodong.vn))
-- [Ngày hội tòng quân đặc biệt của 2.500 thanh niên Hải Phòng](https://laodong.vn/photo/ngay-hoi-tong-quan-dac-biet-cua-2500-thanh-nien-hai-phong-885246.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút 3.3: Thông tin mới nhất về số ca mắc COVID-19 tại Việt Nam](https://laodong.vn/video/ban-tin-1-phut-33-thong-tin-moi-nhat-ve-so-ca-mac-covid-19-tai-viet-nam-885310.ldo) ([Lao Động](https://laodong.vn))
-- [514 tỷ đồng cải tạo kênh chống ngập sân bay Tân Sơn Nhất](https://vnexpress.net/514-ty-dong-cai-tao-kenh-chong-ngap-san-bay-tan-son-nhat-4242760.html) ([VNExpress](https://vnexpress.net))
-- [Nghệ An: Rau rớt giá, &quot;tạ rau không mua nổi cân thịt lợn”](https://laodong.vn/thi-truong/nghe-an-rau-rot-gia-ta-rau-khong-mua-noi-can-thit-lon-885278.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -136,8 +136,8 @@
 04. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 05. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
 06. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-07. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-08. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+08. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 09. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 10. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
 
