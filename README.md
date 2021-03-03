@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 17°C.
-- Feels Like 16.07°C.
-- Air Visual is 146.
+- Feels Like 17.17°C.
+- Air Visual is 149.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tiếp tục đề xuất không tăng lương tối thiểu vùng năm 2021](https://vnexpress.net/tiep-tuc-de-xuat-khong-tang-luong-toi-thieu-vung-nam-2021-4243125.html) ([VNExpress](https://vnexpress.net))
+- [NSND Lê Khanh: &quot;Anh Hoàng Dũng bảo bao nhiêu xui xẻo anh gánh cả rồi&quot;](https://laodong.vn/van-hoa/nsnd-le-khanh-anh-hoang-dung-bao-bao-nhieu-xui-xeo-anh-ganh-ca-roi-885494.ldo) ([Lao Động](https://laodong.vn))
+- [Huyện Kim Thành, Hải Dương khẩn tìm người đến 5 địa điểm](https://cafebiz.vn/huyen-kim-thanh-hai-duong-khan-tim-nguoi-den-5-dia-diem-20210303212435962.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giải mã các trụ cột giúp Việt Nam xuất siêu gần 1,3 tỷ USD](https://cafebiz.vn/giai-ma-cac-tru-cot-giup-viet-nam-xuat-sieu-gan-13-ty-usd-20210303211913061.chn) ([CafeBiz](https://cafebiz.vn))
+- [Gia tộc chó giàu nhất hành tinh: Tài sản 400 triệu USD, sở hữu tập đoàn riêng, biệt thự 7000 mét vuông chạy mỏi chân](https://cafebiz.vn/gia-toc-cho-giau-nhat-hanh-tinh-tai-san-400-trieu-usd-so-huu-tap-doan-rieng-biet-thu-7000-met-vuong-chay-moi-chan-20210303211327239.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chứng khoán: Tiến lên đỉnh 1.200 điểm bằng &quot;chiến thuật leo núi”](https://laodong.vn/kinh-te/chung-khoan-tien-len-dinh-1200-diem-bang-chien-thuat-leo-nui-885533.ldo) ([Lao Động](https://laodong.vn))
+- [Hưng Yên: Cho phép mở lại quán cà phê, dừng nhiều chốt kiểm soát](https://laodong.vn/xa-hoi/hung-yen-cho-phep-mo-lai-quan-ca-phe-dung-nhieu-chot-kiem-soat-885543.ldo) ([Lao Động](https://laodong.vn))
+- [Rời The Coffee House, Nguyễn Hải Ninh kết hợp với "đệ cũ" Shark Hưng lập startup bất động sản, vừa ra mắt đã gọi vốn 1 triệu USD](https://cafebiz.vn/roi-the-coffee-house-nguyen-hai-ninh-ket-hop-voi-de-cu-shark-hung-lap-startup-bat-dong-san-vua-ra-mat-da-goi-von-1-trieu-usd-20210303210923034.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bé gái 3 tuổi rơi từ tầng 12 chung cư đã cười đùa, sắp được xuất viện](https://tuoitre.vn/be-gai-3-tuoi-roi-tu-tang-12-chung-cu-da-cuoi-dua-sap-duoc-xuat-vien-20210303201012996.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Gan kém có 4 dấu hiệu rõ rành rành sau, cần gặp bác sĩ ngay: Tuyệt chiêu bảo vệ gan trước khi quá muộn](https://cafebiz.vn/gan-kem-co-4-dau-hieu-ro-ranh-ranh-sau-can-gap-bac-si-ngay-tuyet-chieu-bao-ve-gan-truoc-khi-qua-muon-20210303174825.chn) ([CafeBiz](https://cafebiz.vn))
-- [An Giang: Khởi tố thợ kim hoàn vận chuyển ma túy](https://laodong.vn/phap-luat/an-giang-khoi-to-tho-kim-hoan-van-chuyen-ma-tuy-885540.ldo) ([Lao Động](https://laodong.vn))
-- [Samsung công bố kế hoạch chi tiết về nhà máy chip 17 tỷ USD ở Mỹ](https://cafebiz.vn/samsung-cong-bo-ke-hoach-chi-tiet-ve-nha-may-chip-17-ty-usd-o-my-20210303204611026.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội: Phẫn nộ clip người đàn ông chở phụ nữ và bé gái dàn cảnh trộm chó](https://laodong.vn/ban-doc/ha-noi-phan-no-clip-nguoi-dan-ong-cho-phu-nu-va-be-gai-dan-canh-trom-cho-885518.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: “Chuồng cọp” ở chung cư cũ và rủi ro cháy nổ trong mùa nắng nóng](https://laodong.vn/ban-doc/tphcm-chuong-cop-o-chung-cu-cu-va-rui-ro-chay-no-trong-mua-nang-nong-885464.ldo) ([Lao Động](https://laodong.vn))
-- [Hé lộ nội dung đơn tố cáo ông Võ Hoàng Yên của vợ ông Dũng “lò vôi&quot;](https://laodong.vn/phap-luat/he-lo-noi-dung-don-to-cao-ong-vo-hoang-yen-cua-vo-ong-dung-lo-voi-885506.ldo) ([Lao Động](https://laodong.vn))
-- [Sau ông Lê Hải Trà, &quot;ông trùm chứng khoán&quot; Hưng SSI ủng hộ nâng lô 1.000](https://laodong.vn/kinh-te/sau-ong-le-hai-tra-ong-trum-chung-khoan-hung-ssi-ung-ho-nang-lo-1000-885429.ldo) ([Lao Động](https://laodong.vn))
-- [Công ty mẹ của Shopee: Quả bong bóng còn lớn hơn cả Tesla](https://cafebiz.vn/cong-ty-me-cua-shopee-qua-bong-bong-con-lon-hon-ca-tesla-20210303200844266.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuyên gia kiến nghị sớm có sân bay thứ 2 cho vùng thủ đô](https://tuoitre.vn/chuyen-gia-kien-nghi-som-co-san-bay-thu-2-cho-vung-thu-do-20210303173604754.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đã bị tịnh thân, tại sao hoạn quan Trung Hoa vẫn muốn lấy vợ lớn vợ bé? Lời kể về hoạn quan Thanh triều giúp nhiều người mở mang tầm mắt](https://cafebiz.vn/da-bi-tinh-than-tai-sao-hoan-quan-trung-hoa-van-muon-lay-vo-lon-vo-be-loi-ke-ve-hoan-quan-thanh-trieu-giup-nhieu-nguoi-mo-mang-tam-mat-20210303173656499.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -131,8 +131,8 @@
 **YOUTUBE TRENDS**
 
 01. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-02. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+02. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+03. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 04. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 05. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 06. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
