@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Gia tộc chó giàu nhất hành tinh: Tài sản 400 triệu USD, sở hữu tập đoàn riêng, biệt thự 7000 mét vuông chạy mỏi chân](https://cafebiz.vn/gia-toc-cho-giau-nhat-hanh-tinh-tai-san-400-trieu-usd-so-huu-tap-doan-rieng-biet-thu-7000-met-vuong-chay-moi-chan-202103032115068.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phạt cô gái đăng tin "một vợ được lấy nhiều chồng"](https://cafebiz.vn/phat-co-gai-dang-tin-mot-vo-duoc-lay-nhieu-chong-20210303215036449.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thủ tướng yêu cầu tiêm vắc-xin COVID-19 cho người dân ngay trong tuần này](https://cafebiz.vn/thu-tuong-yeu-cau-tiem-vac-xin-covid-19-cho-nguoi-dan-ngay-trong-tuan-nay-20210303213326951.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tỷ phú Nhật Bản "bao trọn gói" cho 8 người ngẫu nhiên cùng bay lên Mặt Trăng: Tiêu chí chọn lựa thế nào?](https://cafebiz.vn/ty-phu-nhat-ban-bao-tron-goi-cho-8-nguoi-ngau-nhien-cung-bay-len-mat-trang-tieu-chi-chon-lua-the-nao-20210303211714315.chn) ([CafeBiz](https://cafebiz.vn))
 - [Phú Thọ: Ban hành kế hoạch phòng chống bạo lực, xâm hại trẻ em](https://laodong.vn/giao-duc/phu-tho-ban-hanh-ke-hoach-phong-chong-bao-luc-xam-hai-tre-em-885538.ldo) ([Lao Động](https://laodong.vn))
@@ -83,8 +85,6 @@
 - [NSND Lê Khanh: &quot;Anh Hoàng Dũng bảo bao nhiêu xui xẻo anh gánh cả rồi&quot;](https://laodong.vn/van-hoa/nsnd-le-khanh-anh-hoang-dung-bao-bao-nhieu-xui-xeo-anh-ganh-ca-roi-885494.ldo) ([Lao Động](https://laodong.vn))
 - [Huyện Kim Thành, Hải Dương khẩn tìm người đến 5 địa điểm](https://cafebiz.vn/huyen-kim-thanh-hai-duong-khan-tim-nguoi-den-5-dia-diem-20210303212435962.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giải mã các trụ cột giúp Việt Nam xuất siêu gần 1,3 tỷ USD](https://cafebiz.vn/giai-ma-cac-tru-cot-giup-viet-nam-xuat-sieu-gan-13-ty-usd-20210303211913061.chn) ([CafeBiz](https://cafebiz.vn))
-- [Gia tộc chó giàu nhất hành tinh: Tài sản 400 triệu USD, sở hữu tập đoàn riêng, biệt thự 7000 mét vuông chạy mỏi chân](https://cafebiz.vn/gia-toc-cho-giau-nhat-hanh-tinh-tai-san-400-trieu-usd-so-huu-tap-doan-rieng-biet-thu-7000-met-vuong-chay-moi-chan-20210303211327239.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chứng khoán: Tiến lên đỉnh 1.200 điểm bằng &quot;chiến thuật leo núi”](https://laodong.vn/kinh-te/chung-khoan-tien-len-dinh-1200-diem-bang-chien-thuat-leo-nui-885533.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
