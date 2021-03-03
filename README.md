@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 19°C.
-- Feels Like 19.49°C.
-- Air Visual is 144.
+- Feels Like 18.77°C.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Địa phương ồ ạt đề xuất sân bay](https://vnexpress.net/dia-phuong-o-at-de-xuat-san-bay-4242582.html) ([VNExpress](https://vnexpress.net))
-- [Đại lý đua nhau xả hàng, giảm giá sập sàn, loạt xe hạng sang xuống dốc không phanh](https://cafebiz.vn/dai-ly-dua-nhau-xa-hang-giam-gia-sap-san-loat-xe-hang-sang-xuong-doc-khong-phanh-20210303084952803.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ở nhà đầu tư cho việc chăm sóc da: Xu hướng của phái đẹp trong mùa dịch](https://cafebiz.vn/o-nha-dau-tu-cho-viec-cham-soc-da-xu-huong-cua-phai-dep-trong-mua-dich-20210302213315035.chn) ([CafeBiz](https://cafebiz.vn))
-- [Citizen ra mắt đồng hồ C7 Automatic dịp năm mới cùng fashionista Châu Bùi](https://cafebiz.vn/citizen-ra-mat-dong-ho-c7-automatic-dip-nam-moi-cung-fashionista-chau-bui-20210302153431428.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dịch COVID-19 đẩy nhanh quá trình chuyển đổi số của Việt Nam](https://laodong.vn/cong-nghe/dich-covid-19-day-nhanh-qua-trinh-chuyen-doi-so-cua-viet-nam-885132.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ ông Dũng 'lò vôi' tố bị ông Võ Hoàng Yên lừa gạt hàng trăm tỷ: Cảm thấy bị tổn thương vì đặt niềm tin sai chỗ](https://cafebiz.vn/vo-ong-dung-lo-voi-to-bi-ong-vo-hoang-yen-lua-gat-hang-tram-ty-cam-thay-bi-ton-thuong-vi-dat-niem-tin-sai-cho-2021030309523497.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sàn FX Trading Markets bị NHNN "chỉ mặt": Đầu tư forex là phạm luật, kinh doanh đa cấp bằng forex hay tiền ảo cũng phạm luật](https://cafebiz.vn/san-fx-trading-markets-bi-nhnn-chi-mat-dau-tu-forex-la-pham-luat-kinh-doanh-da-cap-bang-forex-hay-tien-ao-cung-pham-luat-20210303092726163.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đấu giá quyền sử dụng đất trong những trường hợp nào?](https://laodong.vn/bat-dong-san/dau-gia-quyen-su-dung-dat-trong-nhung-truong-hop-nao-885199.ldo) ([Lao Động](https://laodong.vn))
-- [Tin buồn](https://laodong.vn/cong-doan/tin-buon-885250.ldo) ([Lao Động](https://laodong.vn))
-- [Fitch Solutions dự báo đáng chú ý về giá vàng năm 2021](https://laodong.vn/tien-te-dau-tu/fitch-solutions-du-bao-dang-chu-y-ve-gia-vang-nam-2021-885251.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
