@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 17°C.
 - Feels Like 16.45°C.
-- Air Visual is 149.
+- Air Visual is 132.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Australia đóng cửa biên giới thêm 3 tháng để ngăn dịch](https://laodong.vn/the-gioi/australia-dong-cua-bien-gioi-them-3-thang-de-ngan-dich-885388.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyên gia mách nước để học sinh không bị hổng kiến thức sau học trực tuyến](https://laodong.vn/xa-hoi/chuyen-gia-mach-nuoc-de-hoc-sinh-khong-bi-hong-kien-thuc-sau-hoc-truc-tuyen-885302.ldo) ([Lao Động](https://laodong.vn))
-- [Đoàn Hiếu Minh - Người đầu tiên phân phối xe sang Rolls-Royce tại Việt Nam vừa đổi nghề thành thương nhân bán thuốc Nam](https://cafebiz.vn/doan-hieu-minh-nguoi-dau-tien-phan-phoi-xe-sang-rolls-royce-tai-viet-nam-vua-doi-nghe-thanh-thuong-nhan-ban-thuoc-nam-20210303145439796.chn) ([CafeBiz](https://cafebiz.vn))
-- [Học viện Khoa học Quân sự công bố phương thức và lưu ý tuyển sinh 2021](https://laodong.vn/giao-duc/hoc-vien-khoa-hoc-quan-su-cong-bo-phuong-thuc-va-luu-y-tuyen-sinh-2021-885377.ldo) ([Lao Động](https://laodong.vn))
-- [Vượt Mỹ, Trung Quốc trở thành quốc gia có nhiều tỷ phú đô la nhất thế giới](https://cafebiz.vn/vuot-my-trung-quoc-tro-thanh-quoc-gia-co-nhieu-ty-phu-do-la-nhat-the-gioi-20210303152648136.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khai trương văn phòng 'Một điểm đến' hỗ trợ phụ nữ hồi hương tại Cần Thơ](https://tuoitre.vn/khai-truong-van-phong-mot-diem-den-ho-tro-phu-nu-hoi-huong-tai-can-tho-20210303150501891.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nếu nâng lô giao dịch lên 1.000 sẽ tác động thế nào tới thị trường và dòng tiền của các nhóm cổ phiếu?](https://cafebiz.vn/neu-nang-lo-giao-dich-len-1000-se-tac-dong-the-nao-toi-thi-truong-va-dong-tien-cua-cac-nhom-co-phieu-20210303153646527.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Huỳnh Hoàng Mến làm Giám đốc Sở Thông tin và Truyền thông TP.Cần Thơ](https://laodong.vn/thoi-su/ong-huynh-hoang-men-lam-giam-doc-so-thong-tin-va-truyen-thong-tpcan-tho-885376.ldo) ([Lao Động](https://laodong.vn))
-- [Trao “Mái ấm Công đoàn” cho đoàn viên công đoàn có nhà bị cháy](https://laodong.vn/ldld-tphcm/trao-mai-am-cong-doan-cho-doan-vien-cong-doan-co-nha-bi-chay-885393.ldo) ([Lao Động](https://laodong.vn))
-- [Trung Quốc có thể hưởng lợi từ sự thiếu hụt chip trên toàn cầu](https://cafebiz.vn/trung-quoc-co-the-huong-loi-tu-su-thieu-hut-chip-tren-toan-cau-20210303135535348.chn) ([CafeBiz](https://cafebiz.vn))
+
 
 [Read More](docs/news/README.md)
 
