@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 19°C.
 - Feels Like 18.77°C.
-- Air Visual is 153.
+- Air Visual is 157.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [HSBC ‘biết rõ’ quan hệ giữa Huawei và công ty Iran?](https://cafebiz.vn/hsbc-biet-ro-quan-he-giua-huawei-va-cong-ty-iran-20210303105233493.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hơn 4.600 thanh niên TP HCM nhập ngũ](https://vnexpress.net/hon-4-600-thanh-nien-tp-hcm-nhap-ngu-4242702.html) ([VNExpress](https://vnexpress.net))
-- [Giá vàng hôm nay 3.3: Vàng trong nước cao hơn thế giới 8,15 triệu/lượng](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-33-vang-trong-nuoc-cao-hon-the-gioi-815-trieuluong-885247.ldo) ([Lao Động](https://laodong.vn))
-- [Nam Bộ nắng nóng, có nơi trên 36 độ C](https://laodong.vn/moi-truong/nam-bo-nang-nong-co-noi-tren-36-do-c-885280.ldo) ([Lao Động](https://laodong.vn))
-- [Cần Thơ: Hơn 1.700 thanh niên lên đường nhập ngũ](https://laodong.vn/xa-hoi/can-tho-hon-1700-thanh-nien-len-duong-nhap-ngu-885266.ldo) ([Lao Động](https://laodong.vn))
-- [Đắk Lắk gấp rút hoàn thiện hồ sơ trình Thủ tướng phê duyệt quy hoạch](https://laodong.vn/bat-dong-san/dak-lak-gap-rut-hoan-thien-ho-so-trinh-thu-tuong-phe-duyet-quy-hoach-885271.ldo) ([Lao Động](https://laodong.vn))
-- [Hơn 1.500 thanh niên tỉnh An Giang tình nguyện nhập ngũ](https://laodong.vn/xa-hoi/hon-1500-thanh-nien-tinh-an-giang-tinh-nguyen-nhap-ngu-885277.ldo) ([Lao Động](https://laodong.vn))
-- [Lao Động chọn Đội hình tiêu biểu tháng 2 Premier League: Quái vật Man City](https://laodong.vn/emagazine/lao-dong-chon-doi-hinh-tieu-bieu-thang-2-premier-league-quai-vat-man-city-885006.ldo) ([Lao Động](https://laodong.vn))
-- [Hoàn thành cấp thẻ căn cước ở 10 tỉnh, thành trước ngày 30/4](https://vnexpress.net/hoan-thanh-cap-the-can-cuoc-o-10-tinh-thanh-truoc-ngay-30-4-4242710.html) ([VNExpress](https://vnexpress.net))
-- [7 dấu hiệu chứng tỏ bạn sắp thành công: Ăn ngon, ngủ kỹ là yếu tố không thể thiếu!](https://cafebiz.vn/7-dau-hieu-chung-to-ban-sap-thanh-cong-an-ngon-ngu-ky-la-yeu-to-khong-the-thieu-20210302212130102.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ôtô rơi xuống vực, một cán bộ huyện tử vong, 2 người bị thương](https://laodong.vn/giao-thong/oto-roi-xuong-vuc-mot-can-bo-huyen-tu-vong-2-nguoi-bi-thuong-885306.ldo) ([Lao Động](https://laodong.vn))
+- [ĐH Quốc gia Hà Nội công bố 4 phương thức xét tuyển năm 2021](https://laodong.vn/giao-duc/dh-quoc-gia-ha-noi-cong-bo-4-phuong-thuc-xet-tuyen-nam-2021-885293.ldo) ([Lao Động](https://laodong.vn))
+- [Khu vườn ngập tràn rau củ trên sân thượng của gia đình ca sĩ Trọng Tấn](https://laodong.vn/bat-dong-san/khu-vuon-ngap-tran-rau-cu-tren-san-thuong-cua-gia-dinh-ca-si-trong-tan-885115.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam luôn coi trọng quan hệ hữu nghị truyền thống đặc biệt với Cuba](https://laodong.vn/thoi-su/viet-nam-luon-coi-trong-quan-he-huu-nghi-truyen-thong-dac-biet-voi-cuba-885300.ldo) ([Lao Động](https://laodong.vn))
+- [Xe nhập khẩu nguyên chiếc tiếp tục giảm](https://cafebiz.vn/xe-nhap-khau-nguyen-chiec-tiep-tuc-giam-20210303105100051.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tết đầu tiên không phải giải quyết tranh chấp lao động](https://laodong.vn/cong-doan/tet-dau-tien-khong-phai-giai-quyet-tranh-chap-lao-dong-885163.ldo) ([Lao Động](https://laodong.vn))
+- [Loạt ảnh đầu tiên của Á hậu Ngọc Thảo tại Miss Grand International](https://laodong.vn/photo/loat-anh-dau-tien-cua-a-hau-ngoc-thao-tai-miss-grand-international-885273.ldo) ([Lao Động](https://laodong.vn))
+- [Các nhà đầu tư trên Reddit lại có mục tiêu mới, khiến tài sản của 1 tỷ phú tăng vọt 25 tỷ USD chỉ trong 1 ngày](https://cafebiz.vn/cac-nha-dau-tu-tren-reddit-lai-co-muc-tieu-moi-khien-tai-san-cua-1-ty-phu-tang-vot-25-ty-usd-chi-trong-1-ngay-20210303103446953.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: 4.600 tân binh hồi hộp, bịn rịn trước giờ lên đường nhập ngũ](https://laodong.vn/photo/tphcm-4600-tan-binh-hoi-hop-bin-rin-truoc-gio-len-duong-nhap-ngu-885245.ldo) ([Lao Động](https://laodong.vn))
+- [Thiếu gia thừa kế tập đoàn xây dựng lớn nhất nhì Việt Nam: "Việc mình ở dưới bóng của người cha có thể là mãi mãi"](https://cafebiz.vn/thieu-gia-thua-ke-tap-doan-xay-dung-lon-nhat-nhi-viet-nam-viec-minh-o-duoi-bong-cua-nguoi-cha-co-the-la-mai-mai-20210303111742489.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
