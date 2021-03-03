@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is mist.
 - Temperature is 17°C.
 - Feels Like 16.82°C.
-- Air Visual is 144.
+- Air Visual is 148.
 
 **WEATHER**
 
@@ -50,10 +50,8 @@
 
 - [![Anya Taylor-Joy](https://img.shields.io/static/v1?label=Anya%20Taylor-Joy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Anya%20Taylor-Joy)
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
-- [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Bamboo](https://img.shields.io/static/v1?label=Bamboo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bamboo)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
-- [![Clip Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![Clip bé 3 tuổi rơi từ tầng 12](https://img.shields.io/static/v1?label=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
@@ -61,9 +59,11 @@
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Mr. Bean](https://img.shields.io/static/v1?label=Mr.%20Bean&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mr.%20Bean)
 - [![Nguyen ngoc manh](https://img.shields.io/static/v1?label=Nguyen%20ngoc%20manh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguyen%20ngoc%20manh)
+- [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Gia tộc chó giàu nhất hành tinh: Tài sản 400 triệu USD, sở hữu tập đoàn riêng, biệt thự 7000 mét vuông chạy mỏi chân](https://cafebiz.vn/gia-toc-cho-giau-nhat-hanh-tinh-tai-san-400-trieu-usd-so-huu-tap-doan-rieng-biet-thu-7000-met-vuong-chay-moi-chan-202103032115068.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phạt cô gái đăng tin "một vợ được lấy nhiều chồng"](https://cafebiz.vn/phat-co-gai-dang-tin-mot-vo-duoc-lay-nhieu-chong-20210303215036449.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tướng yêu cầu tiêm vắc-xin COVID-19 cho người dân ngay trong tuần này](https://cafebiz.vn/thu-tuong-yeu-cau-tiem-vac-xin-covid-19-cho-nguoi-dan-ngay-trong-tuan-nay-20210303213326951.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tỷ phú Nhật Bản "bao trọn gói" cho 8 người ngẫu nhiên cùng bay lên Mặt Trăng: Tiêu chí chọn lựa thế nào?](https://cafebiz.vn/ty-phu-nhat-ban-bao-tron-goi-cho-8-nguoi-ngau-nhien-cung-bay-len-mat-trang-tieu-chi-chon-lua-the-nao-20210303211714315.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phú Thọ: Ban hành kế hoạch phòng chống bạo lực, xâm hại trẻ em](https://laodong.vn/giao-duc/phu-tho-ban-hanh-ke-hoach-phong-chong-bao-luc-xam-hai-tre-em-885538.ldo) ([Lao Động](https://laodong.vn))
-- [5 chuyện chưa kể về Từ Hi Thái hậu: Chó cũng có nô tài hầu hạ](https://cafebiz.vn/5-chuyen-chua-ke-ve-tu-hi-thai-hau-cho-cung-co-no-tai-hau-ha-20210303211240595.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tiếp tục đề xuất không tăng lương tối thiểu vùng năm 2021](https://vnexpress.net/tiep-tuc-de-xuat-khong-tang-luong-toi-thieu-vung-nam-2021-4243125.html) ([VNExpress](https://vnexpress.net))
-- [NSND Lê Khanh: &quot;Anh Hoàng Dũng bảo bao nhiêu xui xẻo anh gánh cả rồi&quot;](https://laodong.vn/van-hoa/nsnd-le-khanh-anh-hoang-dung-bao-bao-nhieu-xui-xeo-anh-ganh-ca-roi-885494.ldo) ([Lao Động](https://laodong.vn))
-- [Huyện Kim Thành, Hải Dương khẩn tìm người đến 5 địa điểm](https://cafebiz.vn/huyen-kim-thanh-hai-duong-khan-tim-nguoi-den-5-dia-diem-20210303212435962.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giải mã các trụ cột giúp Việt Nam xuất siêu gần 1,3 tỷ USD](https://cafebiz.vn/giai-ma-cac-tru-cot-giup-viet-nam-xuat-sieu-gan-13-ty-usd-20210303211913061.chn) ([CafeBiz](https://cafebiz.vn))
+
 
 [Read More](docs/news/README.md)
 
