@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 18°C.
-- Feels Like 18.49°C.
-- Air Visual is 156.
+- Temperature is 19°C.
+- Feels Like 19.85°C.
+- Air Visual is 146.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Máy in khổ lớn của Epson đáp ứng tối đa nhu cầu của doanh nghiệp](https://cafebiz.vn/may-in-kho-lon-cua-epson-dap-ung-toi-da-nhu-cau-cua-doanh-nghiep-20210302213257193.chn) ([CafeBiz](https://cafebiz.vn))
-- [TopCV và hành trình từ con số 0 đến nền tảng tuyển dụng hàng đầu Việt Nam](https://cafebiz.vn/topcv-va-hanh-trinh-tu-con-so-0-den-nen-tang-tuyen-dung-hang-dau-viet-nam-2021030210262109.chn) ([CafeBiz](https://cafebiz.vn))
-- [NASA hé lộ thêm những hình ảnh &quot;độc nhất vô nhị&quot; về sao Hoả](https://laodong.vn/photo/nasa-he-lo-them-nhung-hinh-anh-doc-nhat-vo-nhi-ve-sao-hoa-885188.ldo) ([Lao Động](https://laodong.vn))
-- [Sổ hồng chung cư có giá trị bao nhiêu năm?](https://laodong.vn/tu-van-phap-luat/so-hong-chung-cu-co-gia-tri-bao-nhieu-nam-883432.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Hướng dương ngược nắng&quot; tập 36: Kiên chế nhạo chuyện Châu mang bầu](https://laodong.vn/giai-tri/huong-duong-nguoc-nang-tap-36-kien-che-nhao-chuyen-chau-mang-bau-885202.ldo) ([Lao Động](https://laodong.vn))
-- [Người từ 4 địa phương của Hải Dương về Hà Nội cần cách ly y tế](http://vietnamnet.vn/vn/thoi-su/nguoi-tu-4-dia-phuong-cua-hai-duong-ve-ha-noi-can-cach-ly-y-te-716764.html) ([VietNamNet](https://vietnamnet.vn))
-- [Hết phong tỏa, quy định giãn cách mới khi ra đường ở Hải Dương](http://vietnamnet.vn/vn/thoi-su/media/het-phong-toa-quy-dinh-gian-cach-moi-khi-ra-duong-o-hai-duong-716751.html) ([VietNamNet](https://vietnamnet.vn))
-- [6 mỹ nhân Việt thi nhan sắc quốc tế 2021: Điều gì khiến khán giả kỳ vọng?](https://laodong.vn/van-hoa/6-my-nhan-viet-thi-nhan-sac-quoc-te-2021-dieu-gi-khien-khan-gia-ky-vong-885197.ldo) ([Lao Động](https://laodong.vn))
-- [Triệt xóa điểm lắc tài xỉu, tạm giữ 35 đối tượng](https://laodong.vn/phap-luat/triet-xoa-diem-lac-tai-xiu-tam-giu-35-doi-tuong-885205.ldo) ([Lao Động](https://laodong.vn))
-- [Anh chàng bỏ ĐH, ngủ sofa 1 năm trở thành ông chủ công ty năng lượng, tích lũy hàng trăm nghìn USD trong 2 năm nhờ 5 tuyệt chiêu người trẻ nào cũng làm được](https://cafebiz.vn/anh-chang-bo-dh-ngu-sofa-1-nam-tro-thanh-ong-chu-cong-ty-nang-luong-tich-luy-hang-tram-nghin-usd-trong-2-nam-nho-5-tuyet-chieu-nguoi-tre-nao-cung-lam-duoc-20210302153241534.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ngân hàng Nhà nước nói gì về Bitcoin?](https://cafebiz.vn/ngan-hang-nha-nuoc-noi-gi-ve-bitcoin-20210303085813805.chn) ([CafeBiz](https://cafebiz.vn))
+- [Doanh nghiệp Việt có thể biến Ba Lan thành cửa ngõ vào thị trường EU](https://laodong.vn/kinh-te/doanh-nghiep-viet-co-the-bien-ba-lan-thanh-cua-ngo-vao-thi-truong-eu-885117.ldo) ([Lao Động](https://laodong.vn))
+- [Đối tượng nào không nên tiêm vắc-xin Covid-19?](https://cafebiz.vn/doi-tuong-nao-khong-nen-tiem-vac-xin-covid-19-20210303085356298.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quảng Trị: Phát hiện vụ trộm cắp điện trên 4.000kWh](https://laodong.vn/phap-luat/quang-tri-phat-hien-vu-trom-cap-dien-tren-4000kwh-885232.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ nam tiếp viên làm lây dịch bệnh COVID-19 gây thiệt hại ra sao?](https://cafebiz.vn/vu-nam-tiep-vien-lam-lay-dich-benh-covid-19-gay-thiet-hai-ra-sao-20210303084627881.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lừa bán chốt của công an phường giá 1,5 tỷ đồng](https://cafebiz.vn/lua-ban-chot-cua-cong-an-phuong-gia-15-ty-dong-20210303084414839.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ái nữ nhà tỷ phú Trần Bá Dương: Quý cô độc thân hấp dẫn của làng thời trang, cuộc sống tuổi 30 ngập tràn sang chảnh](https://cafebiz.vn/ai-nu-nha-ty-phu-tran-ba-duong-quy-co-doc-than-hap-dan-cua-lang-thoi-trang-cuoc-song-tuoi-30-ngap-tran-sang-chanh-20210226181919314.chn) ([CafeBiz](https://cafebiz.vn))
+- [Biến thể mới sẽ biến mọi nỗ lực chống Covid-19 của Mỹ “tan thành mây khói”?](https://cafebiz.vn/bien-the-moi-se-bien-moi-no-luc-chong-covid-19-cua-my-tan-thanh-may-khoi-202103030843113.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vietnamobile hụt hơi giữa cuộc chiến chuyển mạng giữ số: 3 tuần có 33.000 thuê bao chuyển đi, 0 thuê bao chuyển đến](https://cafebiz.vn/vietnamobile-hut-hoi-giua-cuoc-chien-chuyen-mang-giu-so-3-tuan-co-33000-thue-bao-chuyen-di-0-thue-bao-chuyen-den-20210302094347183.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vì sao VinFast lên kế hoạch mở nhà máy ở thị trường cạnh tranh nhất thế giới về xe điện với những gã khổng lồ như Tesla, BYD?](https://cafebiz.vn/vi-sao-vinfast-len-ke-hoach-mo-nha-may-o-thi-truong-canh-tranh-nhat-the-gioi-ve-xe-dien-voi-nhung-ga-khong-lo-nhu-tesla-byd-20210303084025433.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
