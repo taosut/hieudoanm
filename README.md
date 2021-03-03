@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 17°C.
 - Feels Like 16.45°C.
-- Air Visual is 152.
+- Air Visual is 149.
 
 **WEATHER**
 
@@ -49,12 +49,10 @@
 **GOOGLE TRENDS**
 
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
-- [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
+- [![Bamboo](https://img.shields.io/static/v1?label=Bamboo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bamboo)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
-- [![Bí thư tỉnh Vĩnh Phúc](https://img.shields.io/static/v1?label=B%C3%AD%20th%C6%B0%20t%E1%BB%89nh%20V%C4%A9nh%20Ph%C3%BAc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%AD%20th%C6%B0%20t%E1%BB%89nh%20V%C4%A9nh%20Ph%C3%BAc)
 - [![Clip Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![Clip bé 3 tuổi rơi từ tầng 12](https://img.shields.io/static/v1?label=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
-- [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Giám đốc Sở Y tế Cần Thơ](https://img.shields.io/static/v1?label=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1)
@@ -65,6 +63,8 @@
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
+- [![Thế giới Di đông](https://img.shields.io/static/v1?label=Th%E1%BA%BF%20gi%E1%BB%9Bi%20Di%20%C4%91%C3%B4ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BA%BF%20gi%E1%BB%9Bi%20Di%20%C4%91%C3%B4ng)
+- [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 - [![Võ Hoàng Yến](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Australia đóng cửa biên giới thêm 3 tháng để ngăn dịch](https://laodong.vn/the-gioi/australia-dong-cua-bien-gioi-them-3-thang-de-ngan-dich-885388.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyên gia mách nước để học sinh không bị hổng kiến thức sau học trực tuyến](https://laodong.vn/xa-hoi/chuyen-gia-mach-nuoc-de-hoc-sinh-khong-bi-hong-kien-thuc-sau-hoc-truc-tuyen-885302.ldo) ([Lao Động](https://laodong.vn))
+- [Đoàn Hiếu Minh - Người đầu tiên phân phối xe sang Rolls-Royce tại Việt Nam vừa đổi nghề thành thương nhân bán thuốc Nam](https://cafebiz.vn/doan-hieu-minh-nguoi-dau-tien-phan-phoi-xe-sang-rolls-royce-tai-viet-nam-vua-doi-nghe-thanh-thuong-nhan-ban-thuoc-nam-20210303145439796.chn) ([CafeBiz](https://cafebiz.vn))
+- [Học viện Khoa học Quân sự công bố phương thức và lưu ý tuyển sinh 2021](https://laodong.vn/giao-duc/hoc-vien-khoa-hoc-quan-su-cong-bo-phuong-thuc-va-luu-y-tuyen-sinh-2021-885377.ldo) ([Lao Động](https://laodong.vn))
+- [Vượt Mỹ, Trung Quốc trở thành quốc gia có nhiều tỷ phú đô la nhất thế giới](https://cafebiz.vn/vuot-my-trung-quoc-tro-thanh-quoc-gia-co-nhieu-ty-phu-do-la-nhat-the-gioi-20210303152648136.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khai trương văn phòng 'Một điểm đến' hỗ trợ phụ nữ hồi hương tại Cần Thơ](https://tuoitre.vn/khai-truong-van-phong-mot-diem-den-ho-tro-phu-nu-hoi-huong-tai-can-tho-20210303150501891.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nếu nâng lô giao dịch lên 1.000 sẽ tác động thế nào tới thị trường và dòng tiền của các nhóm cổ phiếu?](https://cafebiz.vn/neu-nang-lo-giao-dich-len-1000-se-tac-dong-the-nao-toi-thi-truong-va-dong-tien-cua-cac-nhom-co-phieu-20210303153646527.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ông Huỳnh Hoàng Mến làm Giám đốc Sở Thông tin và Truyền thông TP.Cần Thơ](https://laodong.vn/thoi-su/ong-huynh-hoang-men-lam-giam-doc-so-thong-tin-va-truyen-thong-tpcan-tho-885376.ldo) ([Lao Động](https://laodong.vn))
 - [Trao “Mái ấm Công đoàn” cho đoàn viên công đoàn có nhà bị cháy](https://laodong.vn/ldld-tphcm/trao-mai-am-cong-doan-cho-doan-vien-cong-doan-co-nha-bi-chay-885393.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ cướp ngân hàng bất thành ở Kiên Giang: Ý định ban đầu là cướp tiệm vàng](https://laodong.vn/phap-luat/vu-cuop-ngan-hang-bat-thanh-o-kien-giang-y-dinh-ban-dau-la-cuop-tiem-vang-885363.ldo) ([Lao Động](https://laodong.vn))
 - [Trung Quốc có thể hưởng lợi từ sự thiếu hụt chip trên toàn cầu](https://cafebiz.vn/trung-quoc-co-the-huong-loi-tu-su-thieu-hut-chip-tren-toan-cau-20210303135535348.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đời người như chiếc lá, tôi hỏi thời gian 6 câu nhưng học được đạo lý dùng một đời!](https://cafebiz.vn/doi-nguoi-nhu-chiec-la-toi-hoi-thoi-gian-6-cau-nhung-hoc-duoc-dao-ly-dung-mot-doi-20210301232643549.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhà đầu tư chuyển sang tích trữ bất động sản thay vì vàng: Có một phân khúc được đặc biệt ưa thích nhưng nguồn cung đang hiếm](https://cafebiz.vn/nha-dau-tu-chuyen-sang-tich-tru-bat-dong-san-thay-vi-vang-co-mot-phan-khuc-duoc-dac-biet-ua-thich-nhung-nguon-cung-dang-hiem-20210303104345694.chn) ([CafeBiz](https://cafebiz.vn))
-- [6 vật phẩm phong thủy nên có để đón lộc, chiêu tài năm Tân Sửu](https://cafebiz.vn/6-vat-pham-phong-thuy-nen-co-de-don-loc-chieu-tai-nam-tan-suu-20210303150130874.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vietjet &quot;xông đất&quot; sân bay Vân Đồn năm mới Tân Sửu](https://laodong.vn/kinh-te/vietjet-xong-dat-san-bay-van-don-nam-moi-tan-suu-885339.ldo) ([Lao Động](https://laodong.vn))
-- [Sai phạm tại dự án cao tốc Đà Nẵng - Quảng Ngãi nhìn từ &quot;chia nhỏ&quot; gói thầu](https://laodong.vn/phap-luat/sai-pham-tai-du-an-cao-toc-da-nang-quang-ngai-nhin-tu-chia-nho-goi-thau-885374.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
