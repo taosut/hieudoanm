@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 19°C.
 - Feels Like 19.49°C.
-- Air Visual is 138.
+- Air Visual is 144.
 
 **WEATHER**
 
@@ -51,8 +51,8 @@
 - [![April](https://img.shields.io/static/v1?label=April&message=google&color=red&style=flat-square)](https://www.google.com/search?q=April)
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
+- [![Clip Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![Clip bé 3 tuổi rơi từ tầng 12](https://img.shields.io/static/v1?label=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
-- [![Clip, Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Clip,%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip,%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Giá vàng và ngoại tệ 3.3: Lạm phát ở Mỹ tăng cao, vàng sẽ tiếp tục giảm?](https://laodong.vn/video/gia-vang-va-ngoai-te-33-lam-phat-o-my-tang-cao-vang-se-tiep-tuc-giam-885252.ldo) ([Lao Động](https://laodong.vn))
-- [LĐLĐ huyện Yên Thế (Bắc Giang): Thăm và làm việc tại các doanh nghiệp](https://laodong.vn/ldld-bac-giang/ldld-huyen-yen-the-bac-giang-tham-va-lam-viec-tai-cac-doanh-nghiep-885243.ldo) ([Lao Động](https://laodong.vn))
-- [Thuduc House lên tiếng sau thông tin bị cưỡng chế 451 tỷ đồng tiền thuế](https://cafebiz.vn/thuduc-house-len-tieng-sau-thong-tin-bi-cuong-che-451-ty-dong-tien-thue-20210303093249404.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lộ diện thủ lĩnh cơ quan tình báo CIA của chính quyền ông Biden](https://laodong.vn/the-gioi/lo-dien-thu-linh-co-quan-tinh-bao-cia-cua-chinh-quyen-ong-biden-885216.ldo) ([Lao Động](https://laodong.vn))
-- [Giang Tô FC giải thể: Inter Milan lo lắng, Viettel mừng rỡ](https://laodong.vn/bong-da-quoc-te/giang-to-fc-giai-the-inter-milan-lo-lang-viettel-mung-ro-885125.ldo) ([Lao Động](https://laodong.vn))
-- [Kinh phí tài chính Công đoàn chi cho hoạt động chăm lo Tết tăng 65,4%](https://laodong.vn/cong-doan/kinh-phi-tai-chinh-cong-doan-chi-cho-hoat-dong-cham-lo-tet-tang-654-885170.ldo) ([Lao Động](https://laodong.vn))
-- [Những món quà 8/3 xa xỉ nhất thế giới mà bất kỳ chị em nào cũng mơ ước: Có món giá trị bằng cả gia tài!](https://cafebiz.vn/nhung-mon-qua-8-3-xa-xi-nhat-the-gioi-ma-bat-ky-chi-em-nao-cung-mo-uoc-co-mon-gia-tri-bang-ca-gia-tai-20210303035851281.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cựu COO Paypal cấm tổ chức các buổi họp kéo dài hàng giờ hay có nhiều hơn 4 người: Văn hóa email hiệu quả vượt trội hơn so với văn hóa họp!](https://cafebiz.vn/cuu-coo-paypal-cam-to-chuc-cac-buoi-hop-keo-dai-hang-gio-hay-co-nhieu-hon-4-nguoi-van-hoa-email-hieu-qua-vuot-troi-hon-so-voi-van-hoa-hop-20210302194051227.chn) ([CafeBiz](https://cafebiz.vn))
-- ["Thần y" Võ Hoàng Yên bị tố lừa hàng tỉ đồng](https://cafebiz.vn/than-y-vo-hoang-yen-bi-to-lua-hang-ti-dong-202103030853383.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thị trường ôtô ế ẩm sau Tết](https://cafebiz.vn/thi-truong-oto-e-am-sau-tet-20210303084729396.chn) ([CafeBiz](https://cafebiz.vn))
+- [Địa phương ồ ạt đề xuất sân bay](https://vnexpress.net/dia-phuong-o-at-de-xuat-san-bay-4242582.html) ([VNExpress](https://vnexpress.net))
+- [Đại lý đua nhau xả hàng, giảm giá sập sàn, loạt xe hạng sang xuống dốc không phanh](https://cafebiz.vn/dai-ly-dua-nhau-xa-hang-giam-gia-sap-san-loat-xe-hang-sang-xuong-doc-khong-phanh-20210303084952803.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ở nhà đầu tư cho việc chăm sóc da: Xu hướng của phái đẹp trong mùa dịch](https://cafebiz.vn/o-nha-dau-tu-cho-viec-cham-soc-da-xu-huong-cua-phai-dep-trong-mua-dich-20210302213315035.chn) ([CafeBiz](https://cafebiz.vn))
+- [Citizen ra mắt đồng hồ C7 Automatic dịp năm mới cùng fashionista Châu Bùi](https://cafebiz.vn/citizen-ra-mat-dong-ho-c7-automatic-dip-nam-moi-cung-fashionista-chau-bui-20210302153431428.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dịch COVID-19 đẩy nhanh quá trình chuyển đổi số của Việt Nam](https://laodong.vn/cong-nghe/dich-covid-19-day-nhanh-qua-trinh-chuyen-doi-so-cua-viet-nam-885132.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ ông Dũng 'lò vôi' tố bị ông Võ Hoàng Yên lừa gạt hàng trăm tỷ: Cảm thấy bị tổn thương vì đặt niềm tin sai chỗ](https://cafebiz.vn/vo-ong-dung-lo-voi-to-bi-ong-vo-hoang-yen-lua-gat-hang-tram-ty-cam-thay-bi-ton-thuong-vi-dat-niem-tin-sai-cho-2021030309523497.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sàn FX Trading Markets bị NHNN "chỉ mặt": Đầu tư forex là phạm luật, kinh doanh đa cấp bằng forex hay tiền ảo cũng phạm luật](https://cafebiz.vn/san-fx-trading-markets-bi-nhnn-chi-mat-dau-tu-forex-la-pham-luat-kinh-doanh-da-cap-bang-forex-hay-tien-ao-cung-pham-luat-20210303092726163.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đấu giá quyền sử dụng đất trong những trường hợp nào?](https://laodong.vn/bat-dong-san/dau-gia-quyen-su-dung-dat-trong-nhung-truong-hop-nao-885199.ldo) ([Lao Động](https://laodong.vn))
+- [Tin buồn](https://laodong.vn/cong-doan/tin-buon-885250.ldo) ([Lao Động](https://laodong.vn))
+- [Fitch Solutions dự báo đáng chú ý về giá vàng năm 2021](https://laodong.vn/tien-te-dau-tu/fitch-solutions-du-bao-dang-chu-y-ve-gia-vang-nam-2021-885251.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
