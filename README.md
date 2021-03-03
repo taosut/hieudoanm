@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 17°C.
-- Feels Like 16.43°C.
-- Air Visual is 141.
+- Temperature is 16°C.
+- Feels Like 15.11°C.
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Dạy lái metro nhận lương 'khủng' 500 triệu đồng/tháng, chuyên gia nói gì?](https://cafebiz.vn/day-lai-metro-nhan-luong-khung-500-trieu-dong-thang-chuyen-gia-noi-gi-20210303172712959.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sự thật hàng loạt clip Youtube về "thầy chùa ăn thịt chó"](http://vietnamnet.vn/vn/thoi-su/su-that-hang-loat-clip-youtube-ve-thay-chua-an-thit-cho-717012.html) ([VietNamNet](https://vietnamnet.vn))
-- [Chuyên gia đề nghị làm rõ số vốn hơn 15 tỷ USD đầu tư sân bay](https://vnexpress.net/chuyen-gia-de-nghi-lam-ro-so-von-hon-15-ty-usd-dau-tu-san-bay-4242910.html) ([VNExpress](https://vnexpress.net))
-- [Tiểu thương chợ Đầm bị cắt điện vì không di dời](https://vnexpress.net/tieu-thuong-cho-dam-bi-cat-dien-vi-khong-di-doi-4242949.html) ([VNExpress](https://vnexpress.net))
-- [Bí quyết dưỡng da bằng mật ong đơn giản](https://laodong.vn/suc-khoe/bi-quyet-duong-da-bang-mat-ong-don-gian-885206.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng Chính phủ nhất trí bổ sung một số nguyên nhân để xử lý nợ bị rủi ro tại NHCSXH](https://laodong.vn/xa-hoi/thu-tuong-chinh-phu-nhat-tri-bo-sung-mot-so-nguyen-nhan-de-xu-ly-no-bi-rui-ro-tai-nhcsxh-885459.ldo) ([Lao Động](https://laodong.vn))
-- [Đất phần trăm có được cấp sổ đỏ không?](https://laodong.vn/bat-dong-san/dat-phan-tram-co-duoc-cap-so-do-khong-885490.ldo) ([Lao Động](https://laodong.vn))
-- [Học sinh học trực tuyến, giáo viên, phụ huynh phải dạy lại](https://laodong.vn/video/hoc-sinh-hoc-truc-tuyen-giao-vien-phu-huynh-phai-day-lai-885279.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ GTVT ủng hộ xây dựng đường song hành với cao tốc Cầu Giẽ - Ninh Bình](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/bo-gtvt-ung-ho-xay-dung-duong-song-hanh-voi-cao-toc-cau-gie-ninh-binh-717008.html) ([VietNamNet](https://vietnamnet.vn))
-- [Rosa Kato – người vợ kiểu mẫu của ngôi sao Daisuke Matsui đội Sài Gòn](https://laodong.vn/gia-dinh-hon-nhan/rosa-kato--nguoi-vo-kieu-mau-cua-ngoi-sao-daisuke-matsui-doi-sai-gon-885416.ldo) ([Lao Động](https://laodong.vn))
+- [Kinh tế 24h: Giá vàng sắp lao dốc; Giá gạo Việt vượt mặt Thái Lan](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-sap-lao-doc-gia-gao-viet-vuot-mat-thai-lan-885298.ldo) ([Lao Động](https://laodong.vn))
+- [Tâm điểm cổ phiếu 3.3: TDH tăng trần giữa lùm xùm truy thu thuế](https://laodong.vn/kinh-te/tam-diem-co-phieu-33-tdh-tang-tran-giua-lum-xum-truy-thu-thue-885526.ldo) ([Lao Động](https://laodong.vn))
+- [Gia đình ông Trump rao bán biệt thự 49 triệu USD](https://laodong.vn/the-gioi/gia-dinh-ong-trump-rao-ban-biet-thu-49-trieu-usd-885528.ldo) ([Lao Động](https://laodong.vn))
+- [Giáo dục 24/7: Thu học phí thế nào khi học sinh trở lại trường](https://laodong.vn/video/giao-duc-247-thu-hoc-phi-the-nao-khi-hoc-sinh-tro-lai-truong-885514.ldo) ([Lao Động](https://laodong.vn))
+- [Từ ngày 10.3, sinh con một bề được hỗ trợ mua bảo hiểm y tế học sinh](https://laodong.vn/ban-doc/tu-ngay-103-sinh-con-mot-be-duoc-ho-tro-mua-bao-hiem-y-te-hoc-sinh-885299.ldo) ([Lao Động](https://laodong.vn))
+- [Hình ảnh sân bay Vân Đồn ngày đầu gỡ phong tỏa](https://cafebiz.vn/hinh-anh-san-bay-van-don-ngay-dau-go-phong-toa-2021030317422352.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phân khúc bất động sản nào sẽ sinh lợi ổn định năm 2021?](https://cafebiz.vn/phan-khuc-bat-dong-san-nao-se-sinh-loi-on-dinh-nam-2021-20210303173040769.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cả cựu Tổng thống Barack Obama và tỷ phú Bill Gates đều khuyên: Nếu chỉ đọc một cuốn sách trong năm 2021, đây là lựa chọn mà bạn nên đọc ít nhất 2 lần](https://cafebiz.vn/ca-cuu-tong-thong-barack-obama-va-ty-phu-bill-gates-deu-khuyen-neu-chi-doc-mot-cuon-sach-trong-nam-2021-day-la-lua-chon-ma-ban-nen-doc-it-nhat-2-lan-20210303171804074.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hy hữu: Bình Dương quên đăng kí thi đấu cho hậu vệ Lê Văn Sơn](https://laodong.vn/bong-da/hy-huu-binh-duong-quen-dang-ki-thi-dau-cho-hau-ve-le-van-son-885512.ldo) ([Lao Động](https://laodong.vn))
+- [Phú Yên chuyển mục đích sử dụng đất rừng để thực hiện dự án điện gió hơn 1.700 tỷ đồng](https://cafebiz.vn/phu-yen-chuyen-muc-dich-su-dung-dat-rung-de-thuc-hien-du-an-dien-gio-hon-1700-ty-dong-2021030317282422.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Không Quan Tâm: Clip nóng hay lạnh thì cơ thể người vẫn 37°C](https://vietcetera.com/vn/khong-quan-tam-nhung-van-de-dang-sau-hai-chu-xin-link)
 - [Huỳnh Khang và những mảnh ghép cảm xúc bằng Lego](https://vietcetera.com/vn/khang-kade)
 - [5 Podcasts cho những người làm sáng tạo](https://vietcetera.com/vn/5-podcasts-cho-nhung-nguoi-lam-sang-tao)
 - [Vì sao chúng ta không nhớ ký ức khi còn là em bé?](https://vietcetera.com/vn/infantile-amnesia-vi-sao-chung-ta-khong-nho-ky-uc-khi-con-la-em-be)
@@ -105,7 +106,6 @@
 - [Không Quan Tâm: "Anh hùng" cũng cần được yên!](https://vietcetera.com/vn/khong-quan-tam-chuyen-ca-nhan-nhung-quan-tam-hanh-dong-cuu-em-be)
 - [Meme học: Bao nhiêu năm rồi còn mãi tranh meme](https://vietcetera.com/vn/meme-hoc-tranh-co-dien)
 - [Chữ Với Nghĩa: Bản dạng](https://vietcetera.com/vn/chu-voi-nghia-ban-dang)
-- [8 Bài học về đào tạo và quản lý tài năng từ Aiden Nguyễn](https://vietcetera.com/vn/8-bai-hoc-ve-dao-tao-va-quan-ly-tai-nang-tu-aiden-nguyen)
 
 [Read More](https://vietcetera.com/)
 
