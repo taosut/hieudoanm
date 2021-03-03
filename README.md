@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 17°C.
 - Feels Like 16.43°C.
-- Air Visual is 153.
+- Air Visual is 141.
 
 **WEATHER**
 
@@ -75,7 +75,9 @@
 
 **NEWS**
 
-- [Chuyên gia đề nghị làm rõ nguồn vốn 15 tỷ USD đầu tư sân bay](https://vnexpress.net/chuyen-gia-de-nghi-lam-ro-nguon-von-15-ty-usd-dau-tu-san-bay-4242910.html) ([VNExpress](https://vnexpress.net))
+- [Dạy lái metro nhận lương 'khủng' 500 triệu đồng/tháng, chuyên gia nói gì?](https://cafebiz.vn/day-lai-metro-nhan-luong-khung-500-trieu-dong-thang-chuyen-gia-noi-gi-20210303172712959.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sự thật hàng loạt clip Youtube về "thầy chùa ăn thịt chó"](http://vietnamnet.vn/vn/thoi-su/su-that-hang-loat-clip-youtube-ve-thay-chua-an-thit-cho-717012.html) ([VietNamNet](https://vietnamnet.vn))
+- [Chuyên gia đề nghị làm rõ số vốn hơn 15 tỷ USD đầu tư sân bay](https://vnexpress.net/chuyen-gia-de-nghi-lam-ro-so-von-hon-15-ty-usd-dau-tu-san-bay-4242910.html) ([VNExpress](https://vnexpress.net))
 - [Tiểu thương chợ Đầm bị cắt điện vì không di dời](https://vnexpress.net/tieu-thuong-cho-dam-bi-cat-dien-vi-khong-di-doi-4242949.html) ([VNExpress](https://vnexpress.net))
 - [Bí quyết dưỡng da bằng mật ong đơn giản](https://laodong.vn/suc-khoe/bi-quyet-duong-da-bang-mat-ong-don-gian-885206.ldo) ([Lao Động](https://laodong.vn))
 - [Thủ tướng Chính phủ nhất trí bổ sung một số nguyên nhân để xử lý nợ bị rủi ro tại NHCSXH](https://laodong.vn/xa-hoi/thu-tuong-chinh-phu-nhat-tri-bo-sung-mot-so-nguyen-nhan-de-xu-ly-no-bi-rui-ro-tai-nhcsxh-885459.ldo) ([Lao Động](https://laodong.vn))
@@ -83,8 +85,6 @@
 - [Học sinh học trực tuyến, giáo viên, phụ huynh phải dạy lại](https://laodong.vn/video/hoc-sinh-hoc-truc-tuyen-giao-vien-phu-huynh-phai-day-lai-885279.ldo) ([Lao Động](https://laodong.vn))
 - [Bộ GTVT ủng hộ xây dựng đường song hành với cao tốc Cầu Giẽ - Ninh Bình](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/bo-gtvt-ung-ho-xay-dung-duong-song-hanh-voi-cao-toc-cau-gie-ninh-binh-717008.html) ([VietNamNet](https://vietnamnet.vn))
 - [Rosa Kato – người vợ kiểu mẫu của ngôi sao Daisuke Matsui đội Sài Gòn](https://laodong.vn/gia-dinh-hon-nhan/rosa-kato--nguoi-vo-kieu-mau-cua-ngoi-sao-daisuke-matsui-doi-sai-gon-885416.ldo) ([Lao Động](https://laodong.vn))
-- [Rơi máy bay thương mại ở Nam Sudan: Ít nhất 10 người thiệt mạng](https://laodong.vn/the-gioi/roi-may-bay-thuong-mai-o-nam-sudan-it-nhat-10-nguoi-thiet-mang-885428.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều nay 3-3: Thêm 7 ca mắc COVID-19 mới, có 2 ca nhập cảnh qua cửa khẩu Hà Tiên](https://tuoitre.vn/chieu-nay-3-3-them-7-ca-mac-covid-19-moi-co-2-ca-nhap-canh-qua-cua-khau-ha-tien-20210303180815093.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
