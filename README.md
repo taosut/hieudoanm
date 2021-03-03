@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 19°C.
-- Feels Like 18.48°C.
-- Air Visual is 153.
+- Feels Like 18.12°C.
+- Air Visual is 155.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Toàn cảnh số lượng ĐBQH khóa XV tại các tỉnh, thành](https://tuoitre.vn/toan-canh-so-luong-dbqh-khoa-xv-tai-cac-tinh-thanh-20210302103025355.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Mở QUỸ ĐỒNG BÀO, ông Đoàn Ngọc Hải sẵn sàng nhận quảng cáo trên thân xe cứu thương, làm bồi bàn, xách cặp và lái xe cho giám đốc doanh nghiệp... để kiếm nhiều tiền cho quỹ](https://cafebiz.vn/mo-quy-dong-bao-ong-doan-ngoc-hai-san-sang-nhan-quang-cao-tren-than-xe-cuu-thuong-lam-boi-ban-xach-cap-va-lai-xe-cho-giam-doc-doanh-nghiep-de-kiem-nhieu-tien-cho-quy-20210303114029417.chn) ([CafeBiz](https://cafebiz.vn))
-- [Huyện Mèo Vạc xúc động ngày lễ giao nhận quân](https://laodong.vn/xa-hoi/huyen-meo-vac-xuc-dong-ngay-le-giao-nhan-quan-885296.ldo) ([Lao Động](https://laodong.vn))
-- [Phẫn nộ và phản cảm: Hình ảnh bé gái rơi từ tầng 12 chung cư ở Hà Nội bị đem ra làm quảng cáo bán hàng](https://cafebiz.vn/phan-no-va-phan-cam-hinh-anh-be-gai-roi-tu-tang-12-chung-cu-o-ha-noi-bi-dem-ra-lam-quang-cao-ban-hang-2021030311420986.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Võ Hoàng Yên có chữa được bệnh như lời đồn không?](https://laodong.vn/su-kien-binh-luan/ong-vo-hoang-yen-co-chua-duoc-benh-nhu-loi-don-khong-885260.ldo) ([Lao Động](https://laodong.vn))
-- [Tổ ấm hạnh phúc của lứa cầu thủ U23 Việt Nam ở Thường Châu](https://laodong.vn/gia-dinh-hon-nhan/to-am-hanh-phuc-cua-lua-cau-thu-u23-viet-nam-o-thuong-chau-885294.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nam: 8 đối tượng bị bắt khi đang “chơi liêng&quot; ăn tiền](https://laodong.vn/phap-luat/ha-nam-8-doi-tuong-bi-bat-khi-dang-choi-lieng-an-tien-885292.ldo) ([Lao Động](https://laodong.vn))
-- [Ôtô rơi xuống vực, một cán bộ huyện tử vong, 2 người bị thương](https://laodong.vn/giao-thong/oto-roi-xuong-vuc-mot-can-bo-huyen-tu-vong-2-nguoi-bi-thuong-885306.ldo) ([Lao Động](https://laodong.vn))
-- [Xe nhập khẩu nguyên chiếc tiếp tục giảm](https://cafebiz.vn/xe-nhap-khau-nguyen-chiec-tiep-tuc-giam-20210303105100051.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vì sao có gần 100 ủy viên Trung ương Đảng ứng cử đại biểu Quốc hội?](https://tuoitre.vn/vi-sao-co-gan-100-uy-vien-trung-uong-dang-ung-cu-dai-bieu-quoc-hoi-20210303105447715.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [So sánh mức lương của giáo viên lâu năm và mới ra trường từ 20.3](https://laodong.vn/giao-duc/so-sanh-muc-luong-cua-giao-vien-lau-nam-va-moi-ra-truong-tu-203-885290.ldo) ([Lao Động](https://laodong.vn))
+- [Bổ sung một số nguyên nhân khách quan dẫn đến rủi ro vay vốn tại Ngân hàng Chính sách xã hội](https://laodong.vn/thoi-su/bo-sung-mot-so-nguyen-nhan-khach-quan-dan-den-rui-ro-vay-von-tai-ngan-hang-chinh-sach-xa-hoi-885317.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Phước chưa cấp phép khám chữa bệnh cho ông Võ Hoàng Yên](https://laodong.vn/xa-hoi/binh-phuoc-chua-cap-phep-kham-chua-benh-cho-ong-vo-hoang-yen-885261.ldo) ([Lao Động](https://laodong.vn))
+- [Thỏa thuận khác thường về vaccine do chính quyền ông Biden làm trung gian](https://laodong.vn/the-gioi/thoa-thuan-khac-thuong-ve-vaccine-do-chinh-quyen-ong-biden-lam-trung-gian-885307.ldo) ([Lao Động](https://laodong.vn))
+- [HLV Park Hang-seo muốn đội tuyển Việt Nam tập huấn nơi có khí hậu giống UAE](https://laodong.vn/bong-da/hlv-park-hang-seo-muon-doi-tuyen-viet-nam-tap-huan-noi-co-khi-hau-giong-uae-885311.ldo) ([Lao Động](https://laodong.vn))
+- [Ngày hội tòng quân đặc biệt của 2.500 thanh niên Hải Phòng](https://laodong.vn/photo/ngay-hoi-tong-quan-dac-biet-cua-2500-thanh-nien-hai-phong-885246.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút 3.3: Thông tin mới nhất về số ca mắc COVID-19 tại Việt Nam](https://laodong.vn/video/ban-tin-1-phut-33-thong-tin-moi-nhat-ve-so-ca-mac-covid-19-tai-viet-nam-885310.ldo) ([Lao Động](https://laodong.vn))
+- [514 tỷ đồng cải tạo kênh chống ngập sân bay Tân Sơn Nhất](https://vnexpress.net/514-ty-dong-cai-tao-kenh-chong-ngap-san-bay-tan-son-nhat-4242760.html) ([VNExpress](https://vnexpress.net))
+- [Nghệ An: Rau rớt giá, &quot;tạ rau không mua nổi cân thịt lợn”](https://laodong.vn/thi-truong/nghe-an-rau-rot-gia-ta-rau-khong-mua-noi-can-thit-lon-885278.ldo) ([Lao Động](https://laodong.vn))
+- [TP.HCM chịu đợt nắng nóng gay gắt bao trùm kéo dài 4 ngày](http://vietnamnet.vn/vn/thoi-su/tp-hcm-chiu-dot-nang-nong-gay-gat-bao-trum-keo-dai-4-ngay-716868.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
