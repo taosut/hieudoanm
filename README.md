@@ -19,7 +19,7 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is broken clouds.
 - Temperature is 19°C.
 - Feels Like 18.77°C.
 - Air Visual is 153.
@@ -53,10 +53,10 @@
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
 - [![Clip Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![Clip bé 3 tuổi rơi từ tầng 12](https://img.shields.io/static/v1?label=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
-- [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Giám đốc Sở Y tế Cần Thơ](https://img.shields.io/static/v1?label=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1)
+- [![Hướng dương ngược nắng phần 2 tập 5](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%205)
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Báo động về khả năng tái mắc COVID-19 từ biến thể Brazil](https://laodong.vn/the-gioi/bao-dong-ve-kha-nang-tai-mac-covid-19-tu-bien-the-brazil-885262.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng khôi phục hoàn toàn các tuyến vận tải đến Gia Lai](https://laodong.vn/xa-hoi/da-nang-khoi-phuc-hoan-toan-cac-tuyen-van-tai-den-gia-lai-885275.ldo) ([Lao Động](https://laodong.vn))
+- [HSBC ‘biết rõ’ quan hệ giữa Huawei và công ty Iran?](https://cafebiz.vn/hsbc-biet-ro-quan-he-giua-huawei-va-cong-ty-iran-20210303105233493.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hơn 4.600 thanh niên TP HCM nhập ngũ](https://vnexpress.net/hon-4-600-thanh-nien-tp-hcm-nhap-ngu-4242702.html) ([VNExpress](https://vnexpress.net))
+- [Giá vàng hôm nay 3.3: Vàng trong nước cao hơn thế giới 8,15 triệu/lượng](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-33-vang-trong-nuoc-cao-hon-the-gioi-815-trieuluong-885247.ldo) ([Lao Động](https://laodong.vn))
+- [Nam Bộ nắng nóng, có nơi trên 36 độ C](https://laodong.vn/moi-truong/nam-bo-nang-nong-co-noi-tren-36-do-c-885280.ldo) ([Lao Động](https://laodong.vn))
+- [Cần Thơ: Hơn 1.700 thanh niên lên đường nhập ngũ](https://laodong.vn/xa-hoi/can-tho-hon-1700-thanh-nien-len-duong-nhap-ngu-885266.ldo) ([Lao Động](https://laodong.vn))
+- [Đắk Lắk gấp rút hoàn thiện hồ sơ trình Thủ tướng phê duyệt quy hoạch](https://laodong.vn/bat-dong-san/dak-lak-gap-rut-hoan-thien-ho-so-trinh-thu-tuong-phe-duyet-quy-hoach-885271.ldo) ([Lao Động](https://laodong.vn))
+- [Hơn 1.500 thanh niên tỉnh An Giang tình nguyện nhập ngũ](https://laodong.vn/xa-hoi/hon-1500-thanh-nien-tinh-an-giang-tinh-nguyen-nhap-ngu-885277.ldo) ([Lao Động](https://laodong.vn))
+- [Lao Động chọn Đội hình tiêu biểu tháng 2 Premier League: Quái vật Man City](https://laodong.vn/emagazine/lao-dong-chon-doi-hinh-tieu-bieu-thang-2-premier-league-quai-vat-man-city-885006.ldo) ([Lao Động](https://laodong.vn))
+- [Hoàn thành cấp thẻ căn cước ở 10 tỉnh, thành trước ngày 30/4](https://vnexpress.net/hoan-thanh-cap-the-can-cuoc-o-10-tinh-thanh-truoc-ngay-30-4-4242710.html) ([VNExpress](https://vnexpress.net))
 - [7 dấu hiệu chứng tỏ bạn sắp thành công: Ăn ngon, ngủ kỹ là yếu tố không thể thiếu!](https://cafebiz.vn/7-dau-hieu-chung-to-ban-sap-thanh-cong-an-ngon-ngu-ky-la-yeu-to-khong-the-thieu-20210302212130102.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lật tẩy mánh khóe kiếm hàng trăm nghìn USD của giới buôn giày chợ đen khiến những đôi như Air Jordan hay Yeezy có mức giá 'trên trời', hết bay chỉ sau vài giờ lên kệ](https://cafebiz.vn/lat-tay-manh-khoe-kiem-hang-tram-nghin-usd-cua-gioi-buon-giay-cho-den-khien-nhung-doi-nhu-air-jordan-hay-yeezy-boost-co-muc-gia-tren-troi-het-bay-chi-sau-vai-gio-len-ke-20210303103547822.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kết quả - Lịch thi đấu bóng đá 3.3: Tâm điểm Crystal Palace - Man United](https://laodong.vn/lich-thi-dau/ket-qua-lich-thi-dau-bong-da-33-tam-diem-crystal-palace-man-united-885237.ldo) ([Lao Động](https://laodong.vn))
-- [Tiếp tục ghi bàn, Ronaldo nâng độ khó cho thế hệ đàn em](https://laodong.vn/bong-da-quoc-te/tiep-tuc-ghi-ban-ronaldo-nang-do-kho-cho-the-he-dan-em-885248.ldo) ([Lao Động](https://laodong.vn))
-- [Sẽ thế nào khi rau được trồng trong nhà máy, bằng robot, AI và thế hệ nông dân 4.0?](https://cafebiz.vn/se-the-nao-khi-rau-duoc-trong-trong-nha-may-bang-robot-ai-va-the-he-nong-dan-40-20210303085332348.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lộ diện cung thiên văn lớn nhất thế giới ở Trung Quốc](https://laodong.vn/the-gioi/lo-dien-cung-thien-van-lon-nhat-the-gioi-o-trung-quoc-885265.ldo) ([Lao Động](https://laodong.vn))
-- [Bạn gái tỷ phú, con dâu nhà hào môn - họ đã gặp chân ái đời mình ở đâu?](https://cafebiz.vn/ban-gai-ty-phu-con-dau-nha-hao-mon-ho-da-gap-chan-ai-doi-minh-o-dau-2021030310310946.chn) ([CafeBiz](https://cafebiz.vn))
-- [[Góc tranh cãi] Một bài vật lý cơ bản về lực đỡ em bé khi rơi nhưng có tới 3 đáp án khác nhau, hàng loạt thầy giáo, tiến sỹ chuyên Lý phản biện nhau gay gắt](https://cafebiz.vn/goc-tranh-cai-mot-bai-vat-ly-co-ban-ve-luc-do-em-be-khi-roi-nhung-co-toi-3-dap-an-khac-nhau-hang-loat-thay-giao-tien-sy-chuyen-ly-phan-bien-nhau-gay-gat-20210303103052566.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
