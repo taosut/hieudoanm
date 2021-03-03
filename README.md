@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Hàng chục hecta lâm nghiệp bị sử dụng sai mục đích và xây dựng trái phép](https://laodong.vn/bat-dong-san/hang-chuc-hecta-lam-nghiep-bi-su-dung-sai-muc-dich-va-xay-dung-trai-phep-885349.ldo) ([Lao Động](https://laodong.vn))
-- [Bình Định: Truy tìm hành khách trên xe khách gây tai nạn liên hoàn](https://laodong.vn/phap-luat/binh-dinh-truy-tim-hanh-khach-tren-xe-khach-gay-tai-nan-lien-hoan-885467.ldo) ([Lao Động](https://laodong.vn))
-- [Hướng dẫn đăng ký khám chữa bệnh bảo hiểm y tế trái tuyến](https://laodong.vn/ban-doc/huong-dan-dang-ky-kham-chua-benh-bao-hiem-y-te-trai-tuyen-885466.ldo) ([Lao Động](https://laodong.vn))
-- [Lâm Đồng yêu cầu không để xảy ra phát triển điện mặt trời ồ ạt](https://laodong.vn/xa-hoi/lam-dong-yeu-cau-khong-de-xay-ra-phat-trien-dien-mat-troi-o-at-885468.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều 3/3, có 7 ca mắc COVID-19 ở Hải Dương và Kiên Giang](https://cafebiz.vn/chieu-3-3-co-7-ca-mac-covid-19-o-hai-duong-va-kien-giang-20210303180040061.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thành lập CĐCS Hợp tác xã Nông nghiệp và Dịch vụ tổng hợp Hoàng Phát](https://laodong.vn/cong-doan/thanh-lap-cdcs-hop-tac-xa-nong-nghiep-va-dich-vu-tong-hop-hoang-phat-885458.ldo) ([Lao Động](https://laodong.vn))
+- [Nguyên nhân cao tốc Đà Nẵng - Quảng Ngãi vừa sử dụng đã hư hỏng](https://laodong.vn/phap-luat/nguyen-nhan-cao-toc-da-nang-quang-ngai-vua-su-dung-da-hu-hong-885450.ldo) ([Lao Động](https://laodong.vn))
+- [Ươm mầm tình yêu biên giới cho học sinh người đồng bào thiểu số](https://laodong.vn/nguoi-viet-tu-te/uom-mam-tinh-yeu-bien-gioi-cho-hoc-sinh-nguoi-dong-bao-thieu-so-885229.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất bãi bỏ chứng chỉ ngoại ngữ, tin học với hai nhóm công chức](https://laodong.vn/ban-doc/de-xuat-bai-bo-chung-chi-ngoai-ngu-tin-hoc-voi-hai-nhom-cong-chuc-885452.ldo) ([Lao Động](https://laodong.vn))
+- [Hội đồng Bầu cử quốc gia nhất trí có 184 đơn vị bầu cử trong cả nước](https://laodong.vn/thoi-su/hoi-dong-bau-cu-quoc-gia-nhat-tri-co-184-don-vi-bau-cu-trong-ca-nuoc-885470.ldo) ([Lao Động](https://laodong.vn))
 - [Tai nạn giao thông 2 tháng đầu năm 2021: 2.355 vụ, 1.230 người chết](https://laodong.vn/infographic/tai-nan-giao-thong-2-thang-dau-nam-2021-2355-vu-1230-nguoi-chet-885373.ldo) ([Lao Động](https://laodong.vn))
 - [50km Quốc lộ 6, hàng chục khúc cua &quot;tử thần&quot;, tai nạn giao thông rình rập](https://laodong.vn/video/50km-quoc-lo-6-hang-chuc-khuc-cua-tu-than-tai-nan-giao-thong-rinh-rap-885285.ldo) ([Lao Động](https://laodong.vn))
 - [TikTok Trung Quốc cấm người dùng làm video khoe tiền, giả làm chủ tịch, chế giễu người nghèo](https://cafebiz.vn/tiktok-trung-quoc-cam-nguoi-dung-lam-video-khoe-tien-gia-lam-chu-tich-che-gieu-nguoi-ngheo-20210303153339092.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bất chấp lao ngược chiều lên cầu, nữ tài xế bị xe cứu thương ép lùi đầy thuyết phục!](https://cafebiz.vn/bat-chap-lao-nguoc-chieu-len-cau-nu-tai-xe-bi-xe-cuu-thuong-ep-lui-day-thuyet-phuc-20210303173222147.chn) ([CafeBiz](https://cafebiz.vn))
-- [Căn hộ tầng càng cao - giá càng đắt](https://cafebiz.vn/can-ho-tang-cang-cao-gia-cang-dat-20210303095738323.chn) ([CafeBiz](https://cafebiz.vn))
-- [Intracom- Công ty của Shark Nguyễn Thanh Việt từng thua lỗ ra sao?](https://laodong.vn/kinh-te/intracom-cong-ty-cua-shark-nguyen-thanh-viet-tung-thua-lo-ra-sao-885424.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
