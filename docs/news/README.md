@@ -1,5 +1,8 @@
 # News
 
+- [Hình ảnh Hải Dương ngày đầu tiên kết thúc cách ly xã hội](https://laodong.vn/photo/hinh-anh-hai-duong-ngay-dau-tien-ket-thuc-cach-ly-xa-hoi-885334.ldo) ([Lao Động](https://laodong.vn))
+- [Buồn của Jack Ma: Rơi khỏi vị trí người giàu nhất Trung Quốc, thậm chí còn không lọt top 3](https://cafebiz.vn/buon-cua-jack-ma-roi-khoi-vi-tri-nguoi-giau-nhat-trung-quoc-tham-chi-con-khong-lot-top-3-20210303114938579.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đảng Dân chủ gây sức ép với ông Biden về vụ không kích Syria](https://laodong.vn/the-gioi/dang-dan-chu-gay-suc-ep-voi-ong-biden-ve-vu-khong-kich-syria-885327.ldo) ([Lao Động](https://laodong.vn))
 - [Xe container lao xuống vực sau va chạm ôtô tải](https://vnexpress.net/xe-container-lao-xuong-vuc-sau-va-cham-oto-tai-4242880.html) ([VNExpress](https://vnexpress.net))
 - [Hướng dẫn cho người dân từ Hải Dương về Bắc Giang sau giãn cách](https://laodong.vn/xa-hoi/huong-dan-cho-nguoi-dan-tu-hai-duong-ve-bac-giang-sau-gian-cach-885335.ldo) ([Lao Động](https://laodong.vn))
 - [TopCV ra mắt sản phẩm TESTCENTER - Nền tảng đánh giá nhân sự toàn diện](https://cafebiz.vn/topcv-ra-mat-san-pham-testcenter-nen-tang-danh-gia-nhan-su-toan-dien-20210302140027728.chn) ([CafeBiz](https://cafebiz.vn))
@@ -9,7 +12,6 @@
 - [Bác bảo vệ kể lại giây phút cùng người dân cứu nữ sinh lơ lửng ở lan can tầng 3](https://tuoitre.vn/bac-bao-ve-ke-lai-giay-phut-cung-nguoi-dan-cuu-nu-sinh-lo-lung-o-lan-can-tang-3-20210303122924244.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - ["Penthouse chưa có, trói em bằng xích": Hậu quả của thử thách tình yêu, cặp đôi "tự xích" cuối cùng phải nhập viện](https://cafebiz.vn/penthouse-chua-co-troi-em-bang-xich-hau-qua-cua-thu-thach-tinh-yeu-cap-doi-tu-xich-cuoi-cung-phai-nhap-vien-20210303102720647.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nam thanh niên chết trong tư thế treo cổ ở phòng trọ](http://vietnamnet.vn/vn/thoi-su/nam-thanh-nien-chet-trong-tu-the-treo-co-o-phong-tro-716895.html) ([VietNamNet](https://vietnamnet.vn))
-- [Giá gạo xuất khẩu lại bật tăng vượt giá gạo Thái Lan](https://laodong.vn/kinh-te/gia-gao-xuat-khau-lai-bat-tang-vuot-gia-gao-thai-lan-885333.ldo) ([Lao Động](https://laodong.vn))
 - [Từ Giang Tô đến Inter: Nỗi lo bóng đá kiểu bong bóng](https://laodong.vn/bong-da-quoc-te/tu-giang-to-den-inter-noi-lo-bong-da-kieu-bong-bong-885207.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội, TPHCM - các tuyến đường vành đai cần giải cứu](https://laodong.vn/xa-hoi/ha-noi-tphcm-cac-tuyen-duong-vanh-dai-can-giai-cuu-885122.ldo) ([Lao Động](https://laodong.vn))
 - [TPHCM: Tạm ngưng hoạt động cơ sở y tế bỏ quên gạc trong ngực bệnh nhân](https://laodong.vn/y-te/tphcm-tam-ngung-hoat-dong-co-so-y-te-bo-quen-gac-trong-nguc-benh-nhan-885323.ldo) ([Lao Động](https://laodong.vn))
@@ -28,7 +30,6 @@
 - [Toàn cảnh số lượng ĐBQH khóa XV tại các tỉnh, thành](https://tuoitre.vn/toan-canh-so-luong-dbqh-khoa-xv-tai-cac-tinh-thanh-20210302103025355.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Mở QUỸ ĐỒNG BÀO, ông Đoàn Ngọc Hải sẵn sàng nhận quảng cáo trên thân xe cứu thương, làm bồi bàn, xách cặp và lái xe cho giám đốc doanh nghiệp... để kiếm nhiều tiền cho quỹ](https://cafebiz.vn/mo-quy-dong-bao-ong-doan-ngoc-hai-san-sang-nhan-quang-cao-tren-than-xe-cuu-thuong-lam-boi-ban-xach-cap-va-lai-xe-cho-giam-doc-doanh-nghiep-de-kiem-nhieu-tien-cho-quy-20210303114029417.chn) ([CafeBiz](https://cafebiz.vn))
 - [Phẫn nộ và phản cảm: Hình ảnh bé gái rơi từ tầng 12 chung cư ở Hà Nội bị đem ra làm quảng cáo bán hàng](https://cafebiz.vn/phan-no-va-phan-cam-hinh-anh-be-gai-roi-tu-tang-12-chung-cu-o-ha-noi-bi-dem-ra-lam-quang-cao-ban-hang-2021030311420986.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ôtô rơi xuống vực, một cán bộ huyện tử vong, 2 người bị thương](https://laodong.vn/giao-thong/oto-roi-xuong-vuc-mot-can-bo-huyen-tu-vong-2-nguoi-bi-thuong-885306.ldo) ([Lao Động](https://laodong.vn))
 - [Xe nhập khẩu nguyên chiếc tiếp tục giảm](https://cafebiz.vn/xe-nhap-khau-nguyen-chiec-tiep-tuc-giam-20210303105100051.chn) ([CafeBiz](https://cafebiz.vn))
 - [Vì sao có gần 100 ủy viên Trung ương Đảng ứng cử đại biểu Quốc hội?](https://tuoitre.vn/vi-sao-co-gan-100-uy-vien-trung-uong-dang-ung-cu-dai-bieu-quoc-hoi-20210303105447715.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Loạt ảnh đầu tiên của Á hậu Ngọc Thảo tại Miss Grand International](https://laodong.vn/photo/loat-anh-dau-tien-cua-a-hau-ngoc-thao-tai-miss-grand-international-885273.ldo) ([Lao Động](https://laodong.vn))
@@ -71,7 +72,6 @@
 - [Vợ ông Dũng 'lò vôi' tố bị ông Võ Hoàng Yên lừa gạt hàng trăm tỷ: Cảm thấy bị tổn thương vì đặt niềm tin sai chỗ](https://cafebiz.vn/vo-ong-dung-lo-voi-to-bi-ong-vo-hoang-yen-lua-gat-hang-tram-ty-cam-thay-bi-ton-thuong-vi-dat-niem-tin-sai-cho-2021030309523497.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sàn FX Trading Markets bị NHNN "chỉ mặt": Đầu tư forex là phạm luật, kinh doanh đa cấp bằng forex hay tiền ảo cũng phạm luật](https://cafebiz.vn/san-fx-trading-markets-bi-nhnn-chi-mat-dau-tu-forex-la-pham-luat-kinh-doanh-da-cap-bang-forex-hay-tien-ao-cung-pham-luat-20210303092726163.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đình chỉ công tác giám đốc Sở Y tế Cần Thơ 90 ngày để phục vụ điều tra](https://tuoitre.vn/dinh-chi-cong-tac-giam-doc-so-y-te-can-tho-90-ngay-de-phuc-vu-dieu-tra-20210303094909105.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Giá vàng và ngoại tệ 3.3: Lạm phát ở Mỹ tăng cao, vàng sẽ tiếp tục giảm?](https://laodong.vn/video/gia-vang-va-ngoai-te-33-lam-phat-o-my-tang-cao-vang-se-tiep-tuc-giam-885252.ldo) ([Lao Động](https://laodong.vn))
 - [Dân địa phương kể chuyện khám, trị bệnh của ông Võ Hoàng Yên ở chùa](http://vietnamnet.vn/vn/thoi-su/dan-dia-phuong-ke-chuyen-kham-tri-benh-cua-ong-vo-hoang-yen-o-chua-716818.html) ([VietNamNet](https://vietnamnet.vn))
 - [Thuduc House lên tiếng sau thông tin bị cưỡng chế 451 tỷ đồng tiền thuế](https://cafebiz.vn/thuduc-house-len-tieng-sau-thong-tin-bi-cuong-che-451-ty-dong-tien-thue-20210303093249404.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lời khai của hai anh em ruột rủ nhau đi cướp ngân hàng ở Kiên Giang](http://vietnamnet.vn/vn/thoi-su/loi-khai-cua-hai-anh-em-ruot-ru-nhau-di-cuop-ngan-hang-o-kien-giang-716807.html) ([VietNamNet](https://vietnamnet.vn))

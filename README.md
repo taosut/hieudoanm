@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 19°C.
-- Feels Like 17.76°C.
-- Air Visual is 157.
+- Feels Like 18.12°C.
+- Air Visual is 144.
 
 **WEATHER**
 
@@ -75,6 +75,9 @@
 
 **NEWS**
 
+- [Hình ảnh Hải Dương ngày đầu tiên kết thúc cách ly xã hội](https://laodong.vn/photo/hinh-anh-hai-duong-ngay-dau-tien-ket-thuc-cach-ly-xa-hoi-885334.ldo) ([Lao Động](https://laodong.vn))
+- [Buồn của Jack Ma: Rơi khỏi vị trí người giàu nhất Trung Quốc, thậm chí còn không lọt top 3](https://cafebiz.vn/buon-cua-jack-ma-roi-khoi-vi-tri-nguoi-giau-nhat-trung-quoc-tham-chi-con-khong-lot-top-3-20210303114938579.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đảng Dân chủ gây sức ép với ông Biden về vụ không kích Syria](https://laodong.vn/the-gioi/dang-dan-chu-gay-suc-ep-voi-ong-biden-ve-vu-khong-kich-syria-885327.ldo) ([Lao Động](https://laodong.vn))
 - [Xe container lao xuống vực sau va chạm ôtô tải](https://vnexpress.net/xe-container-lao-xuong-vuc-sau-va-cham-oto-tai-4242880.html) ([VNExpress](https://vnexpress.net))
 - [Hướng dẫn cho người dân từ Hải Dương về Bắc Giang sau giãn cách](https://laodong.vn/xa-hoi/huong-dan-cho-nguoi-dan-tu-hai-duong-ve-bac-giang-sau-gian-cach-885335.ldo) ([Lao Động](https://laodong.vn))
 - [TopCV ra mắt sản phẩm TESTCENTER - Nền tảng đánh giá nhân sự toàn diện](https://cafebiz.vn/topcv-ra-mat-san-pham-testcenter-nen-tang-danh-gia-nhan-su-toan-dien-20210302140027728.chn) ([CafeBiz](https://cafebiz.vn))
@@ -82,9 +85,6 @@
 - [Sân bay Vân Đồn đón 2 chuyến bay trong ngày đầu hoạt động trở lại](https://laodong.vn/kinh-te/san-bay-van-don-don-2-chuyen-bay-trong-ngay-dau-hoat-dong-tro-lai-885336.ldo) ([Lao Động](https://laodong.vn))
 - [Campuchia phát hiện 2 phụ nữ gốc Việt dương tính COVID-19 ở tỉnh giáp ranh Long An, Tây Ninh](https://tuoitre.vn/campuchia-phat-hien-2-phu-nu-goc-viet-duong-tinh-covid-19-o-tinh-giap-ranh-long-an-tay-ninh-20210303113956928.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bác bảo vệ kể lại giây phút cùng người dân cứu nữ sinh lơ lửng ở lan can tầng 3](https://tuoitre.vn/bac-bao-ve-ke-lai-giay-phut-cung-nguoi-dan-cuu-nu-sinh-lo-lung-o-lan-can-tang-3-20210303122924244.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- ["Penthouse chưa có, trói em bằng xích": Hậu quả của thử thách tình yêu, cặp đôi "tự xích" cuối cùng phải nhập viện](https://cafebiz.vn/penthouse-chua-co-troi-em-bang-xich-hau-qua-cua-thu-thach-tinh-yeu-cap-doi-tu-xich-cuoi-cung-phai-nhap-vien-20210303102720647.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá gạo xuất khẩu lại bật tăng vượt giá gạo Thái Lan](https://laodong.vn/kinh-te/gia-gao-xuat-khau-lai-bat-tang-vuot-gia-gao-thai-lan-885333.ldo) ([Lao Động](https://laodong.vn))
-- [Từ Giang Tô đến Inter: Nỗi lo bóng đá kiểu bong bóng](https://laodong.vn/bong-da-quoc-te/tu-giang-to-den-inter-noi-lo-bong-da-kieu-bong-bong-885207.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
