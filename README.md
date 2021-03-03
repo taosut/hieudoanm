@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 17°C.
-- Feels Like 15.71°C.
-- Air Visual is 130.
+- Feels Like 16.07°C.
+- Air Visual is 142.
 
 **WEATHER**
 
@@ -61,11 +61,11 @@
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
-- [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Thế giới Di đông](https://img.shields.io/static/v1?label=Th%E1%BA%BF%20gi%E1%BB%9Bi%20Di%20%C4%91%C3%B4ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BA%BF%20gi%E1%BB%9Bi%20Di%20%C4%91%C3%B4ng)
 - [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
+- [![Võ Hoàng Yến](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%E1%BA%BFn)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 - [![Đoàn Ngọc Hải](https://img.shields.io/static/v1?label=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90o%C3%A0n%20Ng%E1%BB%8Dc%20H%E1%BA%A3i)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hàng chục hecta lâm nghiệp bị sử dụng sai mục đích và xây dựng trái phép](https://laodong.vn/bat-dong-san/hang-chuc-hecta-lam-nghiep-bi-su-dung-sai-muc-dich-va-xay-dung-trai-phep-885349.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Định: Truy tìm hành khách trên xe khách gây tai nạn liên hoàn](https://laodong.vn/phap-luat/binh-dinh-truy-tim-hanh-khach-tren-xe-khach-gay-tai-nan-lien-hoan-885467.ldo) ([Lao Động](https://laodong.vn))
+- [Hướng dẫn đăng ký khám chữa bệnh bảo hiểm y tế trái tuyến](https://laodong.vn/ban-doc/huong-dan-dang-ky-kham-chua-benh-bao-hiem-y-te-trai-tuyen-885466.ldo) ([Lao Động](https://laodong.vn))
+- [Lâm Đồng yêu cầu không để xảy ra phát triển điện mặt trời ồ ạt](https://laodong.vn/xa-hoi/lam-dong-yeu-cau-khong-de-xay-ra-phat-trien-dien-mat-troi-o-at-885468.ldo) ([Lao Động](https://laodong.vn))
+- [Tai nạn giao thông 2 tháng đầu năm 2021: 2.355 vụ, 1.230 người chết](https://laodong.vn/infographic/tai-nan-giao-thong-2-thang-dau-nam-2021-2355-vu-1230-nguoi-chet-885373.ldo) ([Lao Động](https://laodong.vn))
 - [50km Quốc lộ 6, hàng chục khúc cua &quot;tử thần&quot;, tai nạn giao thông rình rập](https://laodong.vn/video/50km-quoc-lo-6-hang-chuc-khuc-cua-tu-than-tai-nan-giao-thong-rinh-rap-885285.ldo) ([Lao Động](https://laodong.vn))
-- [Loạt dự án “giải cứu” kẹt xe sân bay Tân Sơn Nhất khởi công cuối năm nay](https://laodong.vn/xa-hoi/loat-du-an-giai-cuu-ket-xe-san-bay-tan-son-nhat-khoi-cong-cuoi-nam-nay-885418.ldo) ([Lao Động](https://laodong.vn))
 - [TikTok Trung Quốc cấm người dùng làm video khoe tiền, giả làm chủ tịch, chế giễu người nghèo](https://cafebiz.vn/tiktok-trung-quoc-cam-nguoi-dung-lam-video-khoe-tien-gia-lam-chu-tich-che-gieu-nguoi-ngheo-20210303153339092.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bất chấp lao ngược chiều lên cầu, nữ tài xế bị xe cứu thương ép lùi đầy thuyết phục!](https://cafebiz.vn/bat-chap-lao-nguoc-chieu-len-cau-nu-tai-xe-bi-xe-cuu-thuong-ep-lui-day-thuyet-phuc-20210303173222147.chn) ([CafeBiz](https://cafebiz.vn))
 - [Căn hộ tầng càng cao - giá càng đắt](https://cafebiz.vn/can-ho-tang-cang-cao-gia-cang-dat-20210303095738323.chn) ([CafeBiz](https://cafebiz.vn))
 - [Intracom- Công ty của Shark Nguyễn Thanh Việt từng thua lỗ ra sao?](https://laodong.vn/kinh-te/intracom-cong-ty-cua-shark-nguyen-thanh-viet-tung-thua-lo-ra-sao-885424.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng: Lễ giao nhận quân nhanh gọn, không tập trung đông người](https://laodong.vn/video/hai-phong-le-giao-nhan-quan-nhanh-gon-khong-tap-trung-dong-nguoi-885305.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ LĐ-TBXH đề nghị không tăng lương tối thiểu năm 2021](https://laodong.vn/xa-hoi/bo-ld-tbxh-de-nghi-khong-tang-luong-toi-thieu-nam-2021-885453.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Võ Hoàng Yên và vợ chồng ông Dũng &quot;lò vôi&quot; có mối quan hệ như thế nào?](https://laodong.vn/video/ong-vo-hoang-yen-va-vo-chong-ong-dung-lo-voi-co-moi-quan-he-nhu-the-nao-885314.ldo) ([Lao Động](https://laodong.vn))
-- [Cô gái vàng trong làng... săn học bổng: Nhận một lúc hơn 37 tỷ đồng dù trước đó nơm nớp lo thiếu tài chính, tiết lộ kinh nghiệm "nộp đâu trúng đó"](https://cafebiz.vn/co-gai-vang-trong-lang-san-hoc-bong-nhan-mot-luc-hon-37-ty-dong-du-truoc-do-nom-nop-lo-thieu-tai-chinh-tiet-lo-kinh-nghiem-nop-dau-trung-do-20210303172106918.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
