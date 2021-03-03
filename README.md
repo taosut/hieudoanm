@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 17°C.
 - Feels Like 16.07°C.
-- Air Visual is 144.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cần Thơ: Công an trấn áp hỗn chiến, thu giữ một vật nghi súng quân dụng](https://laodong.vn/phap-luat/can-tho-cong-an-tran-ap-hon-chien-thu-giu-mot-vat-nghi-sung-quan-dung-885532.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Phẫn nộ clip người đàn ông chở phụ nữ và bé gái dàn cảnh trộm chó](https://laodong.vn/ban-doc/ha-noi-phan-no-clip-nguoi-dan-ong-cho-phu-nu-va-be-gai-dan-canh-trom-cho-885518.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: “Chuồng cọp” ở chung cư cũ và rủi ro cháy nổ trong mùa nắng nóng](https://laodong.vn/ban-doc/tphcm-chuong-cop-o-chung-cu-cu-va-rui-ro-chay-no-trong-mua-nang-nong-885464.ldo) ([Lao Động](https://laodong.vn))
+- [Hé lộ nội dung đơn tố cáo ông Võ Hoàng Yên của vợ ông Dũng “lò vôi&quot;](https://laodong.vn/phap-luat/he-lo-noi-dung-don-to-cao-ong-vo-hoang-yen-cua-vo-ong-dung-lo-voi-885506.ldo) ([Lao Động](https://laodong.vn))
+- [Sau ông Lê Hải Trà, &quot;ông trùm chứng khoán&quot; Hưng SSI ủng hộ nâng lô 1.000](https://laodong.vn/kinh-te/sau-ong-le-hai-tra-ong-trum-chung-khoan-hung-ssi-ung-ho-nang-lo-1000-885429.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Giang: Xử lý 10 công dân nhập cảnh trái phép](https://laodong.vn/xa-hoi/ha-giang-xu-ly-10-cong-dan-nhap-canh-trai-phep-885539.ldo) ([Lao Động](https://laodong.vn))
 - [Công ty mẹ của Shopee: Quả bong bóng còn lớn hơn cả Tesla](https://cafebiz.vn/cong-ty-me-cua-shopee-qua-bong-bong-con-lon-hon-ca-tesla-20210303200844266.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chốt kiểm soát ở cửa ngõ Quảng Ninh được dỡ, hàng hoá lưu thông nhịp nhàng](http://vietnamnet.vn/vn/thoi-su/chot-kiem-soat-o-cua-ngo-quang-ninh-duoc-do-hang-hoa-luu-thong-nhip-nhang-717020.html) ([VietNamNet](https://vietnamnet.vn))
 - [Chuyên gia kiến nghị sớm có sân bay thứ 2 cho vùng thủ đô](https://tuoitre.vn/chuyen-gia-kien-nghi-som-co-san-bay-thu-2-cho-vung-thu-do-20210303173604754.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Đã bị tịnh thân, tại sao hoạn quan Trung Hoa vẫn muốn lấy vợ lớn vợ bé? Lời kể về hoạn quan Thanh triều giúp nhiều người mở mang tầm mắt](https://cafebiz.vn/da-bi-tinh-than-tai-sao-hoan-quan-trung-hoa-van-muon-lay-vo-lon-vo-be-loi-ke-ve-hoan-quan-thanh-trieu-giup-nhieu-nguoi-mo-mang-tam-mat-20210303173656499.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hàng bánh tiêu "CHẢNH" nhất Việt Nam - "mua được hay không là do nhân phẩm", dù chưa kịp mở cửa đã chính thức hết bánh khiến cả Vũng Tàu tới Sài Gòn phải xôn xao!](https://cafebiz.vn/hang-banh-tieu-chanh-nhat-viet-nam-mua-duoc-hay-khong-la-do-nhan-pham-du-chua-kip-mo-cua-da-chinh-thuc-het-banh-khien-ca-vung-tau-toi-sai-gon-phai-xon-xao-20210303200706109.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vừa gọi vốn 1 triệu USD, Startup công nghệ BĐS Citics sở hữu dàn lãnh đạo đình đám: Nhiều người cũ của Cenland, 3 gương mặt trong top Forbes 30 Under 30](https://cafebiz.vn/vua-goi-von-1-trieu-usd-startup-cong-nghe-bds-citics-so-huu-dan-lanh-dao-dinh-dam-nhieu-nguoi-cu-cua-cenland-3-guong-mat-trong-top-forbes-30-under-30-20210303200354532.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vụ cướp ngân hàng ở Kiên Giang: Mua súng 21 triệu, cướp gần 400 triệu đồng](https://cafebiz.vn/vu-cuop-ngan-hang-o-kien-giang-mua-sung-21-trieu-cuop-gan-400-trieu-dong-20210303175034574.chn) ([CafeBiz](https://cafebiz.vn))
-- [Amee, Trúc Anh &quot;Mắt biếc&quot; lần đầu hở bạo, đọ dáng &quot;một chín một mười&quot;](https://laodong.vn/photo/amee-truc-anh-mat-biec-lan-dau-ho-bao-do-dang-mot-chin-mot-muoi-885233.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: Lãnh đạo Sở Y tế tỉnh Bình Thuận nói về ông Võ Hoàng Yên](https://laodong.vn/video-thoi-su/nong-nhat-24h-lanh-dao-so-y-te-tinh-binh-thuan-noi-ve-ong-vo-hoang-yen-885487.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 4.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-43-885457.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
