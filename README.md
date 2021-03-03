@@ -52,15 +52,15 @@
 - [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
 - [![Clip Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
-- [![Clip bé 3 tuổi rơi từ tầng 12](https://img.shields.io/static/v1?label=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
+- [![Dele Alli](https://img.shields.io/static/v1?label=Dele%20Alli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dele%20Alli)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Giám đốc Sở Y tế Cần Thơ](https://img.shields.io/static/v1?label=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1)
-- [![Hướng dương ngược nắng phần 2 tập 5](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%205)
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Nguyen ngoc manh](https://img.shields.io/static/v1?label=Nguyen%20ngoc%20manh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguyen%20ngoc%20manh)
 - [![Quà 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Trần Huyền Trang](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20Huy%E1%BB%81n%20Trang)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Toàn cảnh số lượng ĐBQH khóa XV tại các tỉnh, thành](https://tuoitre.vn/toan-canh-so-luong-dbqh-khoa-xv-tai-cac-tinh-thanh-20210302103025355.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Mở QUỸ ĐỒNG BÀO, ông Đoàn Ngọc Hải sẵn sàng nhận quảng cáo trên thân xe cứu thương, làm bồi bàn, xách cặp và lái xe cho giám đốc doanh nghiệp... để kiếm nhiều tiền cho quỹ](https://cafebiz.vn/mo-quy-dong-bao-ong-doan-ngoc-hai-san-sang-nhan-quang-cao-tren-than-xe-cuu-thuong-lam-boi-ban-xach-cap-va-lai-xe-cho-giam-doc-doanh-nghiep-de-kiem-nhieu-tien-cho-quy-20210303114029417.chn) ([CafeBiz](https://cafebiz.vn))
+- [Huyện Mèo Vạc xúc động ngày lễ giao nhận quân](https://laodong.vn/xa-hoi/huyen-meo-vac-xuc-dong-ngay-le-giao-nhan-quan-885296.ldo) ([Lao Động](https://laodong.vn))
 - [Phẫn nộ và phản cảm: Hình ảnh bé gái rơi từ tầng 12 chung cư ở Hà Nội bị đem ra làm quảng cáo bán hàng](https://cafebiz.vn/phan-no-va-phan-cam-hinh-anh-be-gai-roi-tu-tang-12-chung-cu-o-ha-noi-bi-dem-ra-lam-quang-cao-ban-hang-2021030311420986.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ông Võ Hoàng Yên có chữa được bệnh như lời đồn không?](https://laodong.vn/su-kien-binh-luan/ong-vo-hoang-yen-co-chua-duoc-benh-nhu-loi-don-khong-885260.ldo) ([Lao Động](https://laodong.vn))
 - [Tổ ấm hạnh phúc của lứa cầu thủ U23 Việt Nam ở Thường Châu](https://laodong.vn/gia-dinh-hon-nhan/to-am-hanh-phuc-cua-lua-cau-thu-u23-viet-nam-o-thuong-chau-885294.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nam: 8 đối tượng bị bắt khi đang “chơi liêng&quot; ăn tiền](https://laodong.vn/phap-luat/ha-nam-8-doi-tuong-bi-bat-khi-dang-choi-lieng-an-tien-885292.ldo) ([Lao Động](https://laodong.vn))
 - [Ôtô rơi xuống vực, một cán bộ huyện tử vong, 2 người bị thương](https://laodong.vn/giao-thong/oto-roi-xuong-vuc-mot-can-bo-huyen-tu-vong-2-nguoi-bi-thuong-885306.ldo) ([Lao Động](https://laodong.vn))
-- [ĐH Quốc gia Hà Nội công bố 4 phương thức xét tuyển năm 2021](https://laodong.vn/giao-duc/dh-quoc-gia-ha-noi-cong-bo-4-phuong-thuc-xet-tuyen-nam-2021-885293.ldo) ([Lao Động](https://laodong.vn))
 - [Xe nhập khẩu nguyên chiếc tiếp tục giảm](https://cafebiz.vn/xe-nhap-khau-nguyen-chiec-tiep-tuc-giam-20210303105100051.chn) ([CafeBiz](https://cafebiz.vn))
 - [Vì sao có gần 100 ủy viên Trung ương Đảng ứng cử đại biểu Quốc hội?](https://tuoitre.vn/vi-sao-co-gan-100-uy-vien-trung-uong-dang-ung-cu-dai-bieu-quoc-hoi-20210303105447715.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Loạt ảnh đầu tiên của Á hậu Ngọc Thảo tại Miss Grand International](https://laodong.vn/photo/loat-anh-dau-tien-cua-a-hau-ngoc-thao-tai-miss-grand-international-885273.ldo) ([Lao Động](https://laodong.vn))
-- [Các nhà đầu tư trên Reddit lại có mục tiêu mới, khiến tài sản của 1 tỷ phú tăng vọt 25 tỷ USD chỉ trong 1 ngày](https://cafebiz.vn/cac-nha-dau-tu-tren-reddit-lai-co-muc-tieu-moi-khien-tai-san-cua-1-ty-phu-tang-vot-25-ty-usd-chi-trong-1-ngay-20210303103446953.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
