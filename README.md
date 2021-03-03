@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 19°C.
-- Feels Like 18.77°C.
-- Air Visual is 157.
+- Feels Like 18.48°C.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Phẫn nộ và phản cảm: Hình ảnh bé gái rơi từ tầng 12 chung cư ở Hà Nội bị đem ra làm quảng cáo bán hàng](https://cafebiz.vn/phan-no-va-phan-cam-hinh-anh-be-gai-roi-tu-tang-12-chung-cu-o-ha-noi-bi-dem-ra-lam-quang-cao-ban-hang-2021030311420986.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Võ Hoàng Yên có chữa được bệnh như lời đồn không?](https://laodong.vn/su-kien-binh-luan/ong-vo-hoang-yen-co-chua-duoc-benh-nhu-loi-don-khong-885260.ldo) ([Lao Động](https://laodong.vn))
+- [Tổ ấm hạnh phúc của lứa cầu thủ U23 Việt Nam ở Thường Châu](https://laodong.vn/gia-dinh-hon-nhan/to-am-hanh-phuc-cua-lua-cau-thu-u23-viet-nam-o-thuong-chau-885294.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nam: 8 đối tượng bị bắt khi đang “chơi liêng&quot; ăn tiền](https://laodong.vn/phap-luat/ha-nam-8-doi-tuong-bi-bat-khi-dang-choi-lieng-an-tien-885292.ldo) ([Lao Động](https://laodong.vn))
 - [Ôtô rơi xuống vực, một cán bộ huyện tử vong, 2 người bị thương](https://laodong.vn/giao-thong/oto-roi-xuong-vuc-mot-can-bo-huyen-tu-vong-2-nguoi-bi-thuong-885306.ldo) ([Lao Động](https://laodong.vn))
 - [ĐH Quốc gia Hà Nội công bố 4 phương thức xét tuyển năm 2021](https://laodong.vn/giao-duc/dh-quoc-gia-ha-noi-cong-bo-4-phuong-thuc-xet-tuyen-nam-2021-885293.ldo) ([Lao Động](https://laodong.vn))
-- [Khu vườn ngập tràn rau củ trên sân thượng của gia đình ca sĩ Trọng Tấn](https://laodong.vn/bat-dong-san/khu-vuon-ngap-tran-rau-cu-tren-san-thuong-cua-gia-dinh-ca-si-trong-tan-885115.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam luôn coi trọng quan hệ hữu nghị truyền thống đặc biệt với Cuba](https://laodong.vn/thoi-su/viet-nam-luon-coi-trong-quan-he-huu-nghi-truyen-thong-dac-biet-voi-cuba-885300.ldo) ([Lao Động](https://laodong.vn))
 - [Xe nhập khẩu nguyên chiếc tiếp tục giảm](https://cafebiz.vn/xe-nhap-khau-nguyen-chiec-tiep-tuc-giam-20210303105100051.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tết đầu tiên không phải giải quyết tranh chấp lao động](https://laodong.vn/cong-doan/tet-dau-tien-khong-phai-giai-quyet-tranh-chap-lao-dong-885163.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao có gần 100 ủy viên Trung ương Đảng ứng cử đại biểu Quốc hội?](https://tuoitre.vn/vi-sao-co-gan-100-uy-vien-trung-uong-dang-ung-cu-dai-bieu-quoc-hoi-20210303105447715.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Loạt ảnh đầu tiên của Á hậu Ngọc Thảo tại Miss Grand International](https://laodong.vn/photo/loat-anh-dau-tien-cua-a-hau-ngoc-thao-tai-miss-grand-international-885273.ldo) ([Lao Động](https://laodong.vn))
 - [Các nhà đầu tư trên Reddit lại có mục tiêu mới, khiến tài sản của 1 tỷ phú tăng vọt 25 tỷ USD chỉ trong 1 ngày](https://cafebiz.vn/cac-nha-dau-tu-tren-reddit-lai-co-muc-tieu-moi-khien-tai-san-cua-1-ty-phu-tang-vot-25-ty-usd-chi-trong-1-ngay-20210303103446953.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: 4.600 tân binh hồi hộp, bịn rịn trước giờ lên đường nhập ngũ](https://laodong.vn/photo/tphcm-4600-tan-binh-hoi-hop-bin-rin-truoc-gio-len-duong-nhap-ngu-885245.ldo) ([Lao Động](https://laodong.vn))
-- [Thiếu gia thừa kế tập đoàn xây dựng lớn nhất nhì Việt Nam: "Việc mình ở dưới bóng của người cha có thể là mãi mãi"](https://cafebiz.vn/thieu-gia-thua-ke-tap-doan-xay-dung-lon-nhat-nhi-viet-nam-viec-minh-o-duoi-bong-cua-nguoi-cha-co-the-la-mai-mai-20210303111742489.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
