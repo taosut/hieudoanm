@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 19°C.
-- Feels Like 18.12°C.
-- Air Visual is 155.
+- Feels Like 17.76°C.
+- Air Visual is 152.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Vận động viên có được tiêm vaccine ngừa COVID-19 khi dự SEA Games 31?](https://laodong.vn/bong-da/van-dong-vien-co-duoc-tiem-vaccine-ngua-covid-19-khi-du-sea-games-31-885303.ldo) ([Lao Động](https://laodong.vn))
+- [Hé lộ nội dung thư chúc mừng ông Biden gửi Tổng thống Liên Xô đầu tiên](https://laodong.vn/the-gioi/he-lo-noi-dung-thu-chuc-mung-ong-biden-gui-tong-thong-lien-xo-dau-tien-885316.ldo) ([Lao Động](https://laodong.vn))
+- [Những ai được cấp thẻ căn cước công dân gắn chip?](https://laodong.vn/phap-luat/nhung-ai-duoc-cap-the-can-cuoc-cong-dan-gan-chip-885328.ldo) ([Lao Động](https://laodong.vn))
 - [So sánh mức lương của giáo viên lâu năm và mới ra trường từ 20.3](https://laodong.vn/giao-duc/so-sanh-muc-luong-cua-giao-vien-lau-nam-va-moi-ra-truong-tu-203-885290.ldo) ([Lao Động](https://laodong.vn))
 - [Bổ sung một số nguyên nhân khách quan dẫn đến rủi ro vay vốn tại Ngân hàng Chính sách xã hội](https://laodong.vn/thoi-su/bo-sung-mot-so-nguyen-nhan-khach-quan-dan-den-rui-ro-vay-von-tai-ngan-hang-chinh-sach-xa-hoi-885317.ldo) ([Lao Động](https://laodong.vn))
 - [Bình Phước chưa cấp phép khám chữa bệnh cho ông Võ Hoàng Yên](https://laodong.vn/xa-hoi/binh-phuoc-chua-cap-phep-kham-chua-benh-cho-ong-vo-hoang-yen-885261.ldo) ([Lao Động](https://laodong.vn))
-- [Thỏa thuận khác thường về vaccine do chính quyền ông Biden làm trung gian](https://laodong.vn/the-gioi/thoa-thuan-khac-thuong-ve-vaccine-do-chinh-quyen-ong-biden-lam-trung-gian-885307.ldo) ([Lao Động](https://laodong.vn))
-- [HLV Park Hang-seo muốn đội tuyển Việt Nam tập huấn nơi có khí hậu giống UAE](https://laodong.vn/bong-da/hlv-park-hang-seo-muon-doi-tuyen-viet-nam-tap-huan-noi-co-khi-hau-giong-uae-885311.ldo) ([Lao Động](https://laodong.vn))
 - [Ngày hội tòng quân đặc biệt của 2.500 thanh niên Hải Phòng](https://laodong.vn/photo/ngay-hoi-tong-quan-dac-biet-cua-2500-thanh-nien-hai-phong-885246.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút 3.3: Thông tin mới nhất về số ca mắc COVID-19 tại Việt Nam](https://laodong.vn/video/ban-tin-1-phut-33-thong-tin-moi-nhat-ve-so-ca-mac-covid-19-tai-viet-nam-885310.ldo) ([Lao Động](https://laodong.vn))
 - [514 tỷ đồng cải tạo kênh chống ngập sân bay Tân Sơn Nhất](https://vnexpress.net/514-ty-dong-cai-tao-kenh-chong-ngap-san-bay-tan-son-nhat-4242760.html) ([VNExpress](https://vnexpress.net))
 - [Nghệ An: Rau rớt giá, &quot;tạ rau không mua nổi cân thịt lợn”](https://laodong.vn/thi-truong/nghe-an-rau-rot-gia-ta-rau-khong-mua-noi-can-thit-lon-885278.ldo) ([Lao Động](https://laodong.vn))
-- [TP.HCM chịu đợt nắng nóng gay gắt bao trùm kéo dài 4 ngày](http://vietnamnet.vn/vn/thoi-su/tp-hcm-chiu-dot-nang-nong-gay-gat-bao-trum-keo-dai-4-ngay-716868.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Podcast “Vietnam Innovators” tập 10: Kelly Trần chia sẻ công thức “số hoá” thành công của Pizza 4P’s](https://vietcetera.com/vn/podcast-vietnam-innovators-tap-10-kelly-tran-chia-se-cong-thuc-so-hoa-thanh-cong-cua-pizza-4ps)
 - ["Quán bar. Giữa khuya. Mời về nhà."](https://vietcetera.com/vn/quan-bar-giua-khuya-moi-ve-nha)
 - [Không Quan Tâm: "Anh hùng" cũng cần được yên!](https://vietcetera.com/vn/khong-quan-tam-chuyen-ca-nhan-nhung-quan-tam-hanh-dong-cuu-em-be)
 - [Meme học: Bao nhiêu năm rồi còn mãi tranh meme](https://vietcetera.com/vn/meme-hoc-tranh-co-dien)
@@ -105,7 +106,6 @@
 - [Mừng ngày mở cửa trở lại — 5 quán cà phê Hà Nội xưa nạp lại cảm hứng](https://vietcetera.com/vn/mung-ngay-mo-cua-tro-lai-5-quan-ca-phe-ha-noi-xua-nap-lai-cam-hung)
 - [Singapore tái khởi động ngành du lịch nội địa và quốc tế ](https://vietcetera.com/vn/singapore-tai-khoi-dong-nganh-du-lich-noi-dia-va-quoc-te)
 - ["Chỉ yêu người “không quê không quán, không cha không mẹ, không tên không tuổi”"](https://vietcetera.com/vn/chi-yeu-nguoi-khong-que-khong-quan-khong-cha-khong-me-khong-ten-khong-tuoi)
-- [Tóm Lại Là: Tại sao chiến dịch Free Britney trở lại?](https://vietcetera.com/vn/tom-lai-la-tai-sao-chien-dich-free-britney-tro-lai)
 
 [Read More](https://vietcetera.com/)
 
