@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 17°C.
-- Feels Like 16.45°C.
-- Air Visual is 154.
+- Feels Like 15.71°C.
+- Air Visual is 149.
 
 **WEATHER**
 
@@ -75,6 +75,9 @@
 
 **NEWS**
 
+- [Vừa thưởng Tết xong, sếp tổng Juno lại thưởng thêm toàn công ty: Tuần này ting-ting mấy lần cho tụi nhỏ! Tổng cộng sẽ nhận 3 tháng lương!](https://cafebiz.vn/vua-thuong-tet-xong-sep-tong-juno-lai-thuong-them-toan-cong-ty-tuan-nay-ting-ting-may-lan-cho-tui-nho-tong-cong-se-nhan-3-thang-luong-20210303125726046.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Đoàn Ngọc Hải không còn cô đơn](https://laodong.vn/su-kien-binh-luan/ong-doan-ngoc-hai-khong-con-co-don-885267.ldo) ([Lao Động](https://laodong.vn))
+- [4 siêu thị Big C tại Hà Nội đổi tên thành Tops Market, chấm dứt 22 năm tồn tại thương hiệu Big C tại Việt Nam](https://cafebiz.vn/4-sieu-thi-big-c-tai-ha-noi-doi-ten-thanh-tops-market-cham-dut-22-nam-ton-tai-thuong-hieu-big-c-tai-viet-nam-20210303131848948.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cách hay giúp mái tóc giảm bết dầu ngày nồm ẩm](https://laodong.vn/lam-dep/cach-hay-giup-mai-toc-giam-bet-dau-ngay-nom-am-885308.ldo) ([Lao Động](https://laodong.vn))
 - [Lộ hình SUV VinFast bản quốc tế: Thiết kế như bản Việt, động cơ điện, pin có thể sản xuất tại Việt Nam](https://cafebiz.vn/lo-hinh-suv-vinfast-ban-quoc-te-thiet-ke-nhu-ban-viet-dong-co-dien-pin-co-the-san-xuat-tai-viet-nam-20210303135931415.chn) ([CafeBiz](https://cafebiz.vn))
 - ["Thần y" Võ Hoàng Yên bị vợ đại gia Dũng "lò vôi" tố lừa gạt hàng trăm tỷ tiền từ thiện là ai?](https://cafebiz.vn/than-y-vo-hoang-yen-bi-vo-dai-gia-dung-lo-voi-to-lua-gat-hang-tram-ty-tien-tu-thien-la-ai-20210303142444199.chn) ([CafeBiz](https://cafebiz.vn))
@@ -82,9 +85,6 @@
 - [Người về Hà Nội từ 4 địa điểm này ở Hải Dương phải cách ly từ ngày 3/3](https://cafebiz.vn/nguoi-ve-ha-noi-tu-4-dia-diem-nay-o-hai-duong-phai-cach-ly-tu-ngay-3-3-2021030314233444.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắt giữ gần chục đối tượng chém giết nhau trong quán karaoke](https://laodong.vn/phap-luat/bat-giu-gan-chuc-doi-tuong-chem-giet-nhau-trong-quan-karaoke-885347.ldo) ([Lao Động](https://laodong.vn))
 - [WHO: Đại dịch Covid-19 sẽ không chấm dứt trong năm nay dù đã có Vaccine](https://cafebiz.vn/who-dai-dich-covid-19-se-khong-cham-dut-trong-nam-nay-du-da-co-vaccine-20210302140835261.chn) ([CafeBiz](https://cafebiz.vn))
-- [Knight Frank: Việt Nam mất đi hơn 1.000 triệu phú đô la, 15 người siêu giàu trong năm 2020](https://cafebiz.vn/knight-frank-viet-nam-mat-di-hon-1000-trieu-phu-do-la-15-nguoi-sieu-giau-trong-nam-2020-20210303142047351.chn) ([CafeBiz](https://cafebiz.vn))
-- [3 bộ phim điện ảnh được khán giả thế giới chờ đợi trong tháng 3](https://laodong.vn/giai-tri/3-bo-phim-dien-anh-duoc-khan-gia-the-gioi-cho-doi-trong-thang-3-885042.ldo) ([Lao Động](https://laodong.vn))
-- [Không vô địch Champions League: Juventus sai hay Ronaldo sai?](https://laodong.vn/bong-da-quoc-te/khong-vo-dich-champions-league-juventus-sai-hay-ronaldo-sai-885313.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 

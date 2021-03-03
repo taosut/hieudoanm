@@ -1,5 +1,7 @@
 # News
 
+- [Vừa thưởng Tết xong, sếp tổng Juno lại thưởng thêm toàn công ty: Tuần này ting-ting mấy lần cho tụi nhỏ! Tổng cộng sẽ nhận 3 tháng lương!](https://cafebiz.vn/vua-thuong-tet-xong-sep-tong-juno-lai-thuong-them-toan-cong-ty-tuan-nay-ting-ting-may-lan-cho-tui-nho-tong-cong-se-nhan-3-thang-luong-20210303125726046.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Đoàn Ngọc Hải không còn cô đơn](https://laodong.vn/su-kien-binh-luan/ong-doan-ngoc-hai-khong-con-co-don-885267.ldo) ([Lao Động](https://laodong.vn))
 - [4 siêu thị Big C tại Hà Nội đổi tên thành Tops Market, chấm dứt 22 năm tồn tại thương hiệu Big C tại Việt Nam](https://cafebiz.vn/4-sieu-thi-big-c-tai-ha-noi-doi-ten-thanh-tops-market-cham-dut-22-nam-ton-tai-thuong-hieu-big-c-tai-viet-nam-20210303131848948.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cách hay giúp mái tóc giảm bết dầu ngày nồm ẩm](https://laodong.vn/lam-dep/cach-hay-giup-mai-toc-giam-bet-dau-ngay-nom-am-885308.ldo) ([Lao Động](https://laodong.vn))
 - [Lộ hình SUV VinFast bản quốc tế: Thiết kế như bản Việt, động cơ điện, pin có thể sản xuất tại Việt Nam](https://cafebiz.vn/lo-hinh-suv-vinfast-ban-quoc-te-thiet-ke-nhu-ban-viet-dong-co-dien-pin-co-the-san-xuat-tai-viet-nam-20210303135931415.chn) ([CafeBiz](https://cafebiz.vn))
@@ -11,7 +13,6 @@
 - [3 bộ phim điện ảnh được khán giả thế giới chờ đợi trong tháng 3](https://laodong.vn/giai-tri/3-bo-phim-dien-anh-duoc-khan-gia-the-gioi-cho-doi-trong-thang-3-885042.ldo) ([Lao Động](https://laodong.vn))
 - [Không vô địch Champions League: Juventus sai hay Ronaldo sai?](https://laodong.vn/bong-da-quoc-te/khong-vo-dich-champions-league-juventus-sai-hay-ronaldo-sai-885313.ldo) ([Lao Động](https://laodong.vn))
 - [VinFast hợp tác với ProLogium sản xuất pin thể rắn ở Việt Nam](https://cafebiz.vn/vinfast-hop-tac-voi-prologium-san-xuat-pin-the-ran-o-viet-nam-20210303140821045.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tăng cường công tác tuyên truyền phòng chống dịch COVID-19](https://laodong.vn/cong-doan/tang-cuong-cong-tac-tuyen-truyen-phong-chong-dich-covid-19-885342.ldo) ([Lao Động](https://laodong.vn))
 - [USD tự do giảm mạnh, tuột mốc 23.900 đồng](https://cafebiz.vn/usd-tu-do-giam-manh-tuot-moc-23900-dong-20210303140007409.chn) ([CafeBiz](https://cafebiz.vn))
 - [Anh Nguyễn Ngọc Mạnh sẽ dùng số tiền mọi người ủng hộ làm từ thiện: "Lương của tôi 15 triệu cũng đủ sống rồi"](https://cafebiz.vn/anh-nguyen-ngoc-manh-se-dung-so-tien-moi-nguoi-ung-ho-lam-tu-thien-luong-cua-toi-15-trieu-cung-du-song-roi-20210303135347607.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thuê karaoke di động tụ tập hát tại An Giang bị xem là vi phạm quy định phòng chống dịch bệnh](https://tuoitre.vn/thue-karaoke-di-dong-tu-tap-hat-tai-an-giang-bi-xem-la-vi-pham-quy-dinh-phong-chong-dich-benh-20210303120511177.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -81,6 +82,7 @@
 - [Ở nhà đầu tư cho việc chăm sóc da: Xu hướng của phái đẹp trong mùa dịch](https://cafebiz.vn/o-nha-dau-tu-cho-viec-cham-soc-da-xu-huong-cua-phai-dep-trong-mua-dich-20210302213315035.chn) ([CafeBiz](https://cafebiz.vn))
 - [Citizen ra mắt đồng hồ C7 Automatic dịp năm mới cùng fashionista Châu Bùi](https://cafebiz.vn/citizen-ra-mat-dong-ho-c7-automatic-dip-nam-moi-cung-fashionista-chau-bui-20210302153431428.chn) ([CafeBiz](https://cafebiz.vn))
 - [Gian thương chở tỏi từ đất liền ra &quot;Vương quốc tỏi&quot; Lý Sơn](https://laodong.vn/video/gian-thuong-cho-toi-tu-dat-lien-ra-vuong-quoc-toi-ly-son-884975.ldo) ([Lao Động](https://laodong.vn))
+- [Dịch COVID-19 đẩy nhanh quá trình chuyển đổi số của Việt Nam](https://laodong.vn/cong-nghe/dich-covid-19-day-nhanh-qua-trinh-chuyen-doi-so-cua-viet-nam-885132.ldo) ([Lao Động](https://laodong.vn))
 - [Vợ ông Dũng 'lò vôi' tố bị ông Võ Hoàng Yên lừa gạt hàng trăm tỷ: Cảm thấy bị tổn thương vì đặt niềm tin sai chỗ](https://cafebiz.vn/vo-ong-dung-lo-voi-to-bi-ong-vo-hoang-yen-lua-gat-hang-tram-ty-cam-thay-bi-ton-thuong-vi-dat-niem-tin-sai-cho-2021030309523497.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sàn FX Trading Markets bị NHNN "chỉ mặt": Đầu tư forex là phạm luật, kinh doanh đa cấp bằng forex hay tiền ảo cũng phạm luật](https://cafebiz.vn/san-fx-trading-markets-bi-nhnn-chi-mat-dau-tu-forex-la-pham-luat-kinh-doanh-da-cap-bang-forex-hay-tien-ao-cung-pham-luat-20210303092726163.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đình chỉ công tác giám đốc Sở Y tế Cần Thơ 90 ngày để phục vụ điều tra](https://tuoitre.vn/dinh-chi-cong-tac-giam-doc-so-y-te-can-tho-90-ngay-de-phuc-vu-dieu-tra-20210303094909105.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -98,5 +100,3 @@
 - [Vụ nam tiếp viên làm lây dịch bệnh COVID-19 gây thiệt hại ra sao?](https://cafebiz.vn/vu-nam-tiep-vien-lam-lay-dich-benh-covid-19-gay-thiet-hai-ra-sao-20210303084627881.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lừa bán chốt của công an phường giá 1,5 tỷ đồng](https://cafebiz.vn/lua-ban-chot-cua-cong-an-phuong-gia-15-ty-dong-20210303084414839.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ái nữ nhà tỷ phú Trần Bá Dương: Quý cô độc thân hấp dẫn của làng thời trang, cuộc sống tuổi 30 ngập tràn sang chảnh](https://cafebiz.vn/ai-nu-nha-ty-phu-tran-ba-duong-quy-co-doc-than-hap-dan-cua-lang-thoi-trang-cuoc-song-tuoi-30-ngap-tran-sang-chanh-20210226181919314.chn) ([CafeBiz](https://cafebiz.vn))
-- [Biến thể mới sẽ biến mọi nỗ lực chống Covid-19 của Mỹ “tan thành mây khói”?](https://cafebiz.vn/bien-the-moi-se-bien-moi-no-luc-chong-covid-19-cua-my-tan-thanh-may-khoi-202103030843113.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vietnamobile hụt hơi giữa cuộc chiến chuyển mạng giữ số: 3 tuần có 33.000 thuê bao chuyển đi, 0 thuê bao chuyển đến](https://cafebiz.vn/vietnamobile-hut-hoi-giua-cuoc-chien-chuyen-mang-giu-so-3-tuan-co-33000-thue-bao-chuyen-di-0-thue-bao-chuyen-den-20210302094347183.chn) ([CafeBiz](https://cafebiz.vn))
