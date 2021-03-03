@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 17°C.
-- Feels Like 16.07°C.
-- Air Visual is 152.
+- Feels Like 15.71°C.
+- Air Visual is 130.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tỷ phú Nhật bỏ tiền túi, mời ngẫu nhiên 8 người du hành Mặt Trăng miễn phí trong 1 tuần](https://cafebiz.vn/ty-phu-nhat-bo-tien-tui-moi-ngau-nhien-8-nguoi-du-hanh-mat-trang-mien-phi-trong-1-tuan-20210303153205818.chn) ([CafeBiz](https://cafebiz.vn))
-- [Gojek vừa tung nền tảng mới GoBiz hỗ trợ các chủ quán quản lý đơn: Thời gian ship đồ ăn giảm gần 1/2, lượng đơn hoàn thành tăng gấp 3](https://cafebiz.vn/gojek-vua-tung-nen-tang-moi-gobiz-ho-tro-cac-chu-quan-quan-ly-don-thoi-gian-ship-do-an-giam-gan-1-2-luong-don-hoan-thanh-tang-gap-3-20210303162555509.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chọn trường thi lớp 10: Làm thế nào khi cha mẹ và con bất đồng quan điểm?](https://laodong.vn/giao-duc/chon-truong-thi-lop-10-lam-the-nao-khi-cha-me-va-con-bat-dong-quan-diem-885415.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM quy định mức thu học phí trong thời gian học online phòng dịch](https://laodong.vn/ban-doc/tphcm-quy-dinh-muc-thu-hoc-phi-trong-thoi-gian-hoc-online-phong-dich-885417.ldo) ([Lao Động](https://laodong.vn))
-- [Nga chế tạo iPad Pro độc nhất vô nhị bằng 1kg vàng](https://laodong.vn/the-gioi/nga-che-tao-ipad-pro-doc-nhat-vo-nhi-bang-1kg-vang-885435.ldo) ([Lao Động](https://laodong.vn))
-- [Trung tâm tiếng Anh Apax English lấn sân sang bất động sản, phục vụ cho nhà máy Formosa Hà Tĩnh?](https://cafebiz.vn/trung-tam-tieng-anh-apax-english-lan-san-sang-bat-dong-san-phuc-vu-cho-nha-may-formosa-ha-tinh-20210303164406824.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đà Nẵng đã lấy mẫu xét nghiệm Covid-19 cho gần 7000 nhân viên y tế](https://cafebiz.vn/da-nang-da-lay-mau-xet-nghiem-covid-19-cho-gan-7000-nhan-vien-y-te-20210303164326012.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dân Hà Nội xếp hàng 'rồng rắn' giải cứu gà đồi Chí Linh](https://cafebiz.vn/nguoi-dan-ha-noi-xep-hang-rong-ran-giai-cuu-ga-doi-chi-linh-20210303164221623.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thầy Park Hang-seo có lo cầu thủ quá tải ở V.League 2021?](https://laodong.vn/bong-da/thay-park-hang-seo-co-lo-cau-thu-qua-tai-o-vleague-2021-885406.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang: Xử phạt hơn 300 trường hợp vi phạm qui định chống dịch COVID-19](https://laodong.vn/xa-hoi/bac-giang-xu-phat-hon-300-truong-hop-vi-pham-qui-dinh-chong-dich-covid-19-885425.ldo) ([Lao Động](https://laodong.vn))
+- [50km Quốc lộ 6, hàng chục khúc cua &quot;tử thần&quot;, tai nạn giao thông rình rập](https://laodong.vn/video/50km-quoc-lo-6-hang-chuc-khuc-cua-tu-than-tai-nan-giao-thong-rinh-rap-885285.ldo) ([Lao Động](https://laodong.vn))
+- [Loạt dự án “giải cứu” kẹt xe sân bay Tân Sơn Nhất khởi công cuối năm nay](https://laodong.vn/xa-hoi/loat-du-an-giai-cuu-ket-xe-san-bay-tan-son-nhat-khoi-cong-cuoi-nam-nay-885418.ldo) ([Lao Động](https://laodong.vn))
+- [TikTok Trung Quốc cấm người dùng làm video khoe tiền, giả làm chủ tịch, chế giễu người nghèo](https://cafebiz.vn/tiktok-trung-quoc-cam-nguoi-dung-lam-video-khoe-tien-gia-lam-chu-tich-che-gieu-nguoi-ngheo-20210303153339092.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bất chấp lao ngược chiều lên cầu, nữ tài xế bị xe cứu thương ép lùi đầy thuyết phục!](https://cafebiz.vn/bat-chap-lao-nguoc-chieu-len-cau-nu-tai-xe-bi-xe-cuu-thuong-ep-lui-day-thuyet-phuc-20210303173222147.chn) ([CafeBiz](https://cafebiz.vn))
+- [Căn hộ tầng càng cao - giá càng đắt](https://cafebiz.vn/can-ho-tang-cang-cao-gia-cang-dat-20210303095738323.chn) ([CafeBiz](https://cafebiz.vn))
+- [Intracom- Công ty của Shark Nguyễn Thanh Việt từng thua lỗ ra sao?](https://laodong.vn/kinh-te/intracom-cong-ty-cua-shark-nguyen-thanh-viet-tung-thua-lo-ra-sao-885424.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng: Lễ giao nhận quân nhanh gọn, không tập trung đông người](https://laodong.vn/video/hai-phong-le-giao-nhan-quan-nhanh-gon-khong-tap-trung-dong-nguoi-885305.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ LĐ-TBXH đề nghị không tăng lương tối thiểu năm 2021](https://laodong.vn/xa-hoi/bo-ld-tbxh-de-nghi-khong-tang-luong-toi-thieu-nam-2021-885453.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Võ Hoàng Yên và vợ chồng ông Dũng &quot;lò vôi&quot; có mối quan hệ như thế nào?](https://laodong.vn/video/ong-vo-hoang-yen-va-vo-chong-ong-dung-lo-voi-co-moi-quan-he-nhu-the-nao-885314.ldo) ([Lao Động](https://laodong.vn))
+- [Cô gái vàng trong làng... săn học bổng: Nhận một lúc hơn 37 tỷ đồng dù trước đó nơm nớp lo thiếu tài chính, tiết lộ kinh nghiệm "nộp đâu trúng đó"](https://cafebiz.vn/co-gai-vang-trong-lang-san-hoc-bong-nhan-mot-luc-hon-37-ty-dong-du-truoc-do-nom-nop-lo-thieu-tai-chinh-tiet-lo-kinh-nghiem-nop-dau-trung-do-20210303172106918.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
