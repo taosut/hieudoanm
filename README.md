@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Căn cước công dân gắn chip khi sử dụng có những lợi ích gì?](https://laodong.vn/phap-luat/can-cuoc-cong-dan-gan-chip-khi-su-dung-co-nhung-loi-ich-gi-885619.ldo) ([Lao Động](https://laodong.vn))
-- [Quy trình chuyển đổi tên người sử dụng trong hợp đồng mua bán điện](https://laodong.vn/ban-doc/quy-trinh-chuyen-doi-ten-nguoi-su-dung-trong-hop-dong-mua-ban-dien-885616.ldo) ([Lao Động](https://laodong.vn))
-- [Mức tiêu thụ năng lượng khổng lồ có thể xuyên thủng bong bóng Bitcoin?](https://cafebiz.vn/muc-tieu-thu-nang-luong-khong-lo-co-the-xuyen-thung-bong-bong-bitcoin-20210304082856707.chn) ([CafeBiz](https://cafebiz.vn))
-- [40 năm lưu giữ hương vị bún kim tiền &quot;huyền thoại&quot; ở Cần Thơ](https://laodong.vn/video/40-nam-luu-giu-huong-vi-bun-kim-tien-huyen-thoai-o-can-tho-885288.ldo) ([Lao Động](https://laodong.vn))
-- [Chia sẻ cách vệ sinh xe điện sau khi đi mưa về](https://laodong.vn/xe/chia-se-cach-ve-sinh-xe-dien-sau-khi-di-mua-ve-885556.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang: 2 thanh niên hành nghề cắt tóc bị bắt vì cướp giật tài sản](https://laodong.vn/phap-luat/bac-giang-2-thanh-nien-hanh-nghe-cat-toc-bi-bat-vi-cuop-giat-tai-san-885604.ldo) ([Lao Động](https://laodong.vn))
-- [Xác minh những vụ vợ chồng ông Dũng &quot;lò vôi&quot; tố cáo ông Võ Hoàng Yên quá dễ](https://laodong.vn/su-kien-binh-luan/xac-minh-nhung-vu-vo-chong-ong-dung-lo-voi-to-cao-ong-vo-hoang-yen-qua-de-885548.ldo) ([Lao Động](https://laodong.vn))
-- [Mỹ nói về việc Đức điều tàu chiến hiện diện ở Biển Đông](https://laodong.vn/the-gioi/my-noi-ve-viec-duc-dieu-tau-chien-hien-dien-o-bien-dong-885602.ldo) ([Lao Động](https://laodong.vn))
-- [Lý do khiến bạn mãi không giàu nổi: Chỉ chơi với những người đã quen thân từ lâu](https://cafebiz.vn/ly-do-khien-ban-mai-khong-giau-noi-chi-choi-voi-nhung-nguoi-da-quen-than-tu-lau-20210303102801837.chn) ([CafeBiz](https://cafebiz.vn))
-- [NSND Trần Hạnh qua đời ở tuổi 93](https://cafebiz.vn/nsnd-tran-hanh-qua-doi-o-tuoi-93-20210304094339562.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quảng Nam: Truy tìm kẻ chặn đường, đâm trọng thương một phụ nữ](https://laodong.vn/phap-luat/quang-nam-truy-tim-ke-chan-duong-dam-trong-thuong-mot-phu-nu-885629.ldo) ([Lao Động](https://laodong.vn))
+- [Vaccine ngừa COVID-19 và kịch bản cho SEA Games 31](https://laodong.vn/the-thao/vaccine-ngua-covid-19-va-kich-ban-cho-sea-games-31-885509.ldo) ([Lao Động](https://laodong.vn))
+- [AFC ấn tượng với tham vọng của huấn luyện viên Park Hang-seo](https://laodong.vn/the-thao/afc-an-tuong-voi-tham-vong-cua-huan-luyen-vien-park-hang-seo-885591.ldo) ([Lao Động](https://laodong.vn))
+- [Shark Tank Việt Nam chính thức trở lại, phát sóng vào đầu tháng 5](https://cafebiz.vn/shark-tank-viet-nam-chinh-thuc-tro-lai-phat-song-vao-dau-thang-5-20210304101925207.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trăm cơn “sốt đất”, một kịch bản: Tin đồn biến thành cuộc chơi của giới đầu cơ, khi nhà đầu tư đổ xô mua thì “sập”](https://cafebiz.vn/tram-con-sot-dat-mot-kich-ban-tin-don-bien-thanh-cuoc-choi-cua-gioi-dau-co-khi-nha-dau-tu-do-xo-mua-thi-sap-20210304092652742.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nếu gian dối chiếm đoạt tiền, lương y Võ Hoàng Yên có thể bị xử lý hình sự](https://laodong.vn/video-thoi-su/neu-gian-doi-chiem-doat-tien-luong-y-vo-hoang-yen-co-the-bi-xu-ly-hinh-su-885599.ldo) ([Lao Động](https://laodong.vn))
+- [Ban tổ chức Miss World Vietnam 2021 nói gì việc chấp nhận thí sinh thẩm mỹ?](https://laodong.vn/van-hoa/ban-to-chuc-miss-world-vietnam-2021-noi-gi-viec-chap-nhan-thi-sinh-tham-my-885625.ldo) ([Lao Động](https://laodong.vn))
+- [NSND Trần Hạnh sống "rất kiêu" với đời: Từ người thợ đóng giày đến "người ông quốc dân" trên màn ảnh](https://cafebiz.vn/nsnd-tran-hanh-song-rat-kieu-voi-doi-tu-nguoi-tho-dong-giay-den-nguoi-ong-quoc-dan-tren-man-anh-20210304100701865.chn) ([CafeBiz](https://cafebiz.vn))
+- [Danh sách các trường Đại học xét tuyển bằng học bạ năm 2021](https://laodong.vn/giao-duc/danh-sach-cac-truong-dai-hoc-xet-tuyen-bang-hoc-ba-nam-2021-885600.ldo) ([Lao Động](https://laodong.vn))
+- [Gần 200 học sinh sơ tán khỏi trường](https://vnexpress.net/gan-200-hoc-sinh-so-tan-khoi-truong-4243262.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
