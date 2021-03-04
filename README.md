@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 17°C.
-- Feels Like 17.56°C.
-- Air Visual is 131.
+- Feels Like 16.82°C.
+- Air Visual is 130.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Đánh sập tụ điểm cá độ với số tiền hơn 18 tỉ đồng](https://laodong.vn/phap-luat/danh-sap-tu-diem-ca-do-voi-so-tien-hon-18-ti-dong-885674.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Dũng “lò vôi”: Sẵn sàng chi 1.000 tỉ nếu ông Võ Hoàng Yên chữa được bệnh cho bá tánh](https://laodong.vn/phap-luat/ong-dung-lo-voi-san-sang-chi-1000-ti-neu-ong-vo-hoang-yen-chua-duoc-benh-cho-ba-tanh-885627.ldo) ([Lao Động](https://laodong.vn))
+- [NDND Hoàng Dũng, NSND Trần Hạnh... và những mất mát của điện ảnh Việt Nam](https://laodong.vn/van-hoa-giai-tri/ndnd-hoang-dung-nsnd-tran-hanh-va-nhung-mat-mat-cua-dien-anh-viet-nam-885679.ldo) ([Lao Động](https://laodong.vn))
+- [Công nghệ sạc qua không khí có hại cho sức khoẻ không?](https://laodong.vn/cong-nghe/cong-nghe-sac-qua-khong-khi-co-hai-cho-suc-khoe-khong-881184.ldo) ([Lao Động](https://laodong.vn))
+- [Man United lại hòa &quot;kiểu 0-0&quot; trong sự bất lực của Ole Solskjaer](https://laodong.vn/bong-da-quoc-te/man-united-lai-hoa-kieu-0-0-trong-su-bat-luc-cua-ole-solskjaer-885656.ldo) ([Lao Động](https://laodong.vn))
+- [Những nơi còn bị phong tỏa ở Hải Dương](https://vnexpress.net/nhung-noi-con-bi-phong-toa-o-hai-duong-4243308.html) ([VNExpress](https://vnexpress.net))
+- [Thực hư ông Trump đang chọn người đồng hành tái tranh cử năm 2024](https://laodong.vn/the-gioi/thuc-hu-ong-trump-dang-chon-nguoi-dong-hanh-tai-tranh-cu-nam-2024-885675.ldo) ([Lao Động](https://laodong.vn))
+- [Nhóm thanh niên diễn trò đua xe ở Tiền Giang, 2 người bị thương nặng](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/nhom-thanh-nien-dien-tro-dua-xe-o-tien-giang-2-nguoi-bi-thuong-nang-717171.html) ([VietNamNet](https://vietnamnet.vn))
 - [Top vua phá lưới Ligue 1 2020/21: Mbappe &quot;vô đối&quot; tại giải Pháp](https://laodong.vn/photo/top-vua-pha-luoi-ligue-1-202021-mbappe-vo-doi-tai-giai-phap-885636.ldo) ([Lao Động](https://laodong.vn))
 - [Mối quan hệ hiện tại của Quốc Trường - Bảo Anh sau dính tin đồn tình cảm?](https://laodong.vn/photo/moi-quan-he-hien-tai-cua-quoc-truong-bao-anh-sau-dinh-tin-don-tinh-cam-885665.ldo) ([Lao Động](https://laodong.vn))
 - [Cháy quán cà phê, chủ quán tử vong](https://vnexpress.net/chay-quan-ca-phe-chu-quan-tu-vong-4243427.html) ([VNExpress](https://vnexpress.net))
-- [[Ảnh] Hải Dương gỡ lệnh phong toả sau hơn 1 tháng, tiểu thương chợ Chí Linh thức trắng đêm vì quá vui!](https://cafebiz.vn/anh-hai-duong-go-lenh-phong-toa-sau-hon-1-thang-tieu-thuong-cho-chi-linh-thuc-trang-dem-vi-qua-vui-20210304115047086.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dẹp karaoke 'hung thần': cấp trên quyết liệt, sao cấp dưới lại kêu khó?](https://tuoitre.vn/dep-karaoke-hung-than-cap-tren-quyet-liet-sao-cap-duoi-lai-keu-kho-20210304080353726.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- ["Rich kid" Chloe Nguyễn nhà đại gia Capella Holdings: Blogger xinh đẹp đình đám trong top quyền lực nhất trên MXH từ tuổi 20](https://cafebiz.vn/rich-kid-chloe-nguyen-nha-dai-gia-capella-holdings-blogger-xinh-dep-dinh-dam-trong-top-quyen-luc-nhat-tren-mxh-tu-tuoi-20-20210303135022957.chn) ([CafeBiz](https://cafebiz.vn))
-- [Treo hơn 20 năm, “Làng Đại học Đà Nẵng” gây khó người dân](https://laodong.vn/xa-hoi/treo-hon-20-nam-lang-dai-hoc-da-nang-gay-kho-nguoi-dan-885624.ldo) ([Lao Động](https://laodong.vn))
-- [Đề thi tốt nghiệp THPT sẽ phù hợp việc dạy học trong điều kiện dịch bệnh](https://laodong.vn/giao-duc/de-thi-tot-nghiep-thpt-se-phu-hop-viec-day-hoc-trong-dieu-kien-dich-benh-885646.ldo) ([Lao Động](https://laodong.vn))
-- [Dịch Covid-19 đang tạo ra "mỏ vàng" gần 3000 tỷ USD chờ các doanh nghiệp khai thác](https://cafebiz.vn/dich-covid-19-dang-tao-ra-mo-vang-gan-3000-ty-usd-cho-cac-doanh-nghiep-khai-thac-20210303141806162.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
