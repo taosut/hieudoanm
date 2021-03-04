@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is mist.
 - Temperature is 17°C.
-- Feels Like 16.82°C.
-- Air Visual is 133.
+- Feels Like 16.83°C.
+- Air Visual is 86.
 
 **WEATHER**
 
@@ -52,14 +52,13 @@
 - [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
 - [![Barca vs Sevilla](https://img.shields.io/static/v1?label=Barca%20vs%20Sevilla&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20Sevilla)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
-- [![Clip bé 3 tuổi rơi từ tầng 12](https://img.shields.io/static/v1?label=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Giám đốc Sở Y tế Cần Thơ](https://img.shields.io/static/v1?label=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1)
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
-- [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
@@ -67,6 +66,7 @@
 - [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
+- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Quảng Nam: Truy tìm kẻ chặn đường, đâm trọng thương một phụ nữ](https://laodong.vn/phap-luat/quang-nam-truy-tim-ke-chan-duong-dam-trong-thuong-mot-phu-nu-885629.ldo) ([Lao Động](https://laodong.vn))
-- [Vaccine ngừa COVID-19 và kịch bản cho SEA Games 31](https://laodong.vn/the-thao/vaccine-ngua-covid-19-va-kich-ban-cho-sea-games-31-885509.ldo) ([Lao Động](https://laodong.vn))
-- [AFC ấn tượng với tham vọng của huấn luyện viên Park Hang-seo](https://laodong.vn/the-thao/afc-an-tuong-voi-tham-vong-cua-huan-luyen-vien-park-hang-seo-885591.ldo) ([Lao Động](https://laodong.vn))
+- [Tuyển Việt Nam sẽ đá vòng loại World Cup dưới nắng nóng hơn 40 độ ở UAE](https://laodong.vn/bong-da/tuyen-viet-nam-se-da-vong-loai-world-cup-duoi-nang-nong-hon-40-do-o-uae-885626.ldo) ([Lao Động](https://laodong.vn))
+- [Eximbank đặt kế hoạch lợi nhuận 2.150 tỷ đồng năm 2021, cao nhất 9 năm](https://cafebiz.vn/eximbank-dat-ke-hoach-loi-nhuan-2150-ty-dong-nam-2021-cao-nhat-9-nam-20210304104152417.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mối lương duyên kỳ lạ của NSND Trần Hạnh](https://laodong.vn/chuyen-nha-minh/moi-luong-duyen-ky-la-cua-nsnd-tran-hanh-885620.ldo) ([Lao Động](https://laodong.vn))
+- [Những vai diễn ấn tượng trong sự nghiệp đồ sộ của NSND Trần Hạnh](https://laodong.vn/giai-tri/nhung-vai-dien-an-tuong-trong-su-nghiep-do-so-cua-nsnd-tran-hanh-885628.ldo) ([Lao Động](https://laodong.vn))
+- [TP.HCM tiếp tục cách ly tập trung người đến từ 19 nơi ở Cẩm Giàng, Hải Dương](https://tuoitre.vn/tp-hcm-tiep-tuc-cach-ly-tap-trung-nguoi-den-tu-19-noi-o-cam-giang-hai-duong-20210304100704872.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Gần 2 triệu học sinh đến lớp, lý do 1 em trường Xuân Phương vẫn học online](https://laodong.vn/video-thoi-su/gan-2-trieu-hoc-sinh-den-lop-ly-do-1-em-truong-xuan-phuong-van-hoc-online-885536.ldo) ([Lao Động](https://laodong.vn))
+- [VinFast hợp tác với ProLogium sản xuất pin thể rắn ở Việt Nam](https://laodong.vn/doanh-nghiep-doanh-nhan/vinfast-hop-tac-voi-prologium-san-xuat-pin-the-ran-o-viet-nam-885598.ldo) ([Lao Động](https://laodong.vn))
 - [Shark Tank Việt Nam chính thức trở lại, phát sóng vào đầu tháng 5](https://cafebiz.vn/shark-tank-viet-nam-chinh-thuc-tro-lai-phat-song-vao-dau-thang-5-20210304101925207.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hôm nay 4-3, hai chuyến bay đưa công dân Việt Nam từ Myanmar về nước](https://tuoitre.vn/hom-nay-4-3-hai-chuyen-bay-dua-cong-dan-viet-nam-tu-myanmar-ve-nuoc-20210304094629438.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Trăm cơn “sốt đất”, một kịch bản: Tin đồn biến thành cuộc chơi của giới đầu cơ, khi nhà đầu tư đổ xô mua thì “sập”](https://cafebiz.vn/tram-con-sot-dat-mot-kich-ban-tin-don-bien-thanh-cuoc-choi-cua-gioi-dau-co-khi-nha-dau-tu-do-xo-mua-thi-sap-20210304092652742.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nếu gian dối chiếm đoạt tiền, lương y Võ Hoàng Yên có thể bị xử lý hình sự](https://laodong.vn/video-thoi-su/neu-gian-doi-chiem-doat-tien-luong-y-vo-hoang-yen-co-the-bi-xu-ly-hinh-su-885599.ldo) ([Lao Động](https://laodong.vn))
-- [Ban tổ chức Miss World Vietnam 2021 nói gì việc chấp nhận thí sinh thẩm mỹ?](https://laodong.vn/van-hoa/ban-to-chuc-miss-world-vietnam-2021-noi-gi-viec-chap-nhan-thi-sinh-tham-my-885625.ldo) ([Lao Động](https://laodong.vn))
-- [NSND Trần Hạnh sống "rất kiêu" với đời: Từ người thợ đóng giày đến "người ông quốc dân" trên màn ảnh](https://cafebiz.vn/nsnd-tran-hanh-song-rat-kieu-voi-doi-tu-nguoi-tho-dong-giay-den-nguoi-ong-quoc-dan-tren-man-anh-20210304100701865.chn) ([CafeBiz](https://cafebiz.vn))
-- [Danh sách các trường Đại học xét tuyển bằng học bạ năm 2021](https://laodong.vn/giao-duc/danh-sach-cac-truong-dai-hoc-xet-tuyen-bang-hoc-ba-nam-2021-885600.ldo) ([Lao Động](https://laodong.vn))
-- [Gần 200 học sinh sơ tán khỏi trường](https://vnexpress.net/gan-200-hoc-sinh-so-tan-khoi-truong-4243262.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
