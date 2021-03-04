@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 18°C.
 - Feels Like 18.18°C.
-- Air Visual is 138.
+- Air Visual is 156.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hà Nội chọn đội hạng Nhất làm &quot;quân xanh&quot; trước khi V.League 2021 trở lại](https://laodong.vn/the-thao/ha-noi-chon-doi-hang-nhat-lam-quan-xanh-truoc-khi-vleague-2021-tro-lai-885771.ldo) ([Lao Động](https://laodong.vn))
+- [Hé lộ nguyên nhân khiến 4 cán bộ đất đai ở huyện Yên Bình - Yên Bái bị bắt](https://laodong.vn/phap-luat/he-lo-nguyen-nhan-khien-4-can-bo-dat-dai-o-huyen-yen-binh-yen-bai-bi-bat-885440.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương: Phong tỏa 3 khu dân cư huyện Kim Thành liên quan ca mắc COVID-19](https://laodong.vn/xa-hoi/hai-duong-phong-toa-3-khu-dan-cu-huyen-kim-thanh-lien-quan-ca-mac-covid-19-885811.ldo) ([Lao Động](https://laodong.vn))
+- [Thi tuyển viên chức giáo viên THCS hạng III cần chứng chỉ CDNN không?](https://laodong.vn/ban-doc/thi-tuyen-vien-chuc-giao-vien-thcs-hang-iii-can-chung-chi-cdnn-khong-885709.ldo) ([Lao Động](https://laodong.vn))
+- [Khám sức khoẻ miễn phí cho 600 người lao động nhân Tháng Công nhân](https://laodong.vn/cong-doan/kham-suc-khoe-mien-phi-cho-600-nguoi-lao-dong-nhan-thang-cong-nhan-885813.ldo) ([Lao Động](https://laodong.vn))
+- [Người phụ nữ tử vong khi xe chở keo bị lật](https://vnexpress.net/nguoi-phu-nu-tu-vong-khi-xe-cho-keo-bi-lat-4243623.html) ([VNExpress](https://vnexpress.net))
 - [Thúc tiến độ giải phóng mặt bằng Metro Số 2](https://vnexpress.net/thuc-tien-do-giai-phong-mat-bang-metro-so-2-4243575.html) ([VNExpress](https://vnexpress.net))
-- [Thành lập bộ phận điều phối và 4 đội truy vết COVID-19](https://laodong.vn/xa-hoi/thanh-lap-bo-phan-dieu-phoi-va-4-doi-truy-vet-covid-19-885789.ldo) ([Lao Động](https://laodong.vn))
-- [Xử phạt người vừa đi xe máy vừa “làm xiếc” trên đường](https://laodong.vn/phap-luat/xu-phat-nguoi-vua-di-xe-may-vua-lam-xiec-tren-duong-885746.ldo) ([Lao Động](https://laodong.vn))
-- [Công đoàn Bộ Nội vụ tổ chức “Tuần lễ áo dài” năm 2021 nhân dịp 8.3](https://laodong.vn/cong-doan/cong-doan-bo-noi-vu-to-chuc-tuan-le-ao-dai-nam-2021-nhan-dip-83-885783.ldo) ([Lao Động](https://laodong.vn))
-- [Đã xác định chủ xe ôtô tông xe máy bốc cháy ở Hà Nội](https://laodong.vn/giao-thong/da-xac-dinh-chu-xe-oto-tong-xe-may-boc-chay-o-ha-noi-885790.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nam: Nước sông Nhuệ bốc mùi hôi, tiếp tục cảnh báo ô nhiễm](https://laodong.vn/xa-hoi/ha-nam-nuoc-song-nhue-boc-mui-hoi-tiep-tuc-canh-bao-o-nhiem-885695.ldo) ([Lao Động](https://laodong.vn))
 - [Huế kêu gọi người dân trồng mai vàng trước ngõ](https://vnexpress.net/hue-keu-goi-nguoi-dan-trong-mai-vang-truoc-ngo-4243586.html) ([VNExpress](https://vnexpress.net))
-- [Khám giáo sư tại Bệnh viện Bạch Mai: 550.000đ/lượt, giường theo yêu cầu 3,3 triệu](https://tuoitre.vn/kham-giao-su-tai-benh-vien-bach-mai-550-000d-luot-giuong-theo-yeu-cau-3-3-trieu-2021030415314559.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Khám với giáo sư tại Bệnh viện Bạch Mai: 550.000đ/lượt, giường theo yêu cầu 3,3 triệu](https://tuoitre.vn/kham-voi-giao-su-tai-benh-vien-bach-mai-550-000d-luot-giuong-theo-yeu-cau-3-3-trieu-2021030415314559.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hai chuyến bay đưa người Việt ở Myanmar về nước](https://vnexpress.net/hai-chuyen-bay-dua-nguoi-viet-o-myanmar-ve-nuoc-4243581.html) ([VNExpress](https://vnexpress.net))
-- [Lập 184 đơn vị bầu cử đại biểu Quốc hội trên toàn quốc](https://vnexpress.net/lap-184-don-vi-bau-cu-dai-bieu-quoc-hoi-tren-toan-quoc-4243509.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,9 @@
 
 **VIETCETERA**
 
+- [Vì sao phimmoi không bao giờ cũ?](https://vietcetera.com/vn/vi-sao-phimmoi-khong-bao-gio-cu)
+- [Chữ với Nghĩa: Quần què là quần gì?](https://vietcetera.com/vn/chu-voi-nghia-quan-que-la-cai-quan-hoe)
+- [4 Kiểu sống không-truyền-thống nhưng vẫn vui](https://vietcetera.com/vn/4-kieu-song-khong-truyen-thong-nhung-van-vui)
 - [CEO Ecomobi Trương Công Thành: “Khởi nghiệp là cuộc chiến không dành cho kẻ ngại gian nan.” ](https://vietcetera.com/vn/ceo-ecomobi-truong-cong-thanh-khoi-nghiep-la-cuoc-chien-khong-danh-cho-ke-ngai-gian-nan)
 - [Fine Dining, Bistro, Pop-up... rốt cuộc nghĩa là gì?](https://vietcetera.com/vn/fine-dining-casual-bistro-nghia-la-gi)
 - [Gọi vốn thành công vòng Seed từ Genesia Ventures, Vietcetera mở rộng quy mô và chuẩn bị cho Series A](https://vietcetera.com/vn/goi-von-thanh-cong-vong-seed-tu-genesia-ventures-vietcetera-mo-rong-quy-mo-va-chuan-bi-cho-series-a)
@@ -103,9 +106,6 @@
 - [Varilux: Tầm nhìn không-giới-hạn cho Gen X ](https://vietcetera.com/vn/varilux-tam-nhin-khong-gioi-han-cho-gen-x)
 - [Không Quan Tâm: Clip nóng hay lạnh thì cơ thể người vẫn 37°C](https://vietcetera.com/vn/khong-quan-tam-nhung-van-de-dang-sau-hai-chu-xin-link)
 - [Huỳnh Khang và những mảnh ghép cảm xúc bằng Lego](https://vietcetera.com/vn/khang-kade)
-- [5 Podcasts cho những người làm sáng tạo](https://vietcetera.com/vn/5-podcasts-cho-nhung-nguoi-lam-sang-tao)
-- [Vì sao chúng ta không nhớ ký ức khi còn là em bé?](https://vietcetera.com/vn/infantile-amnesia-vi-sao-chung-ta-khong-nho-ky-uc-khi-con-la-em-be)
-- [Anh Cầm Fact: Nghề "cầm fact" có gì khó?](https://vietcetera.com/vn/anh-cam-fact-nghe-cam-fact-co-gi-kho)
 
 [Read More](https://vietcetera.com/)
 
