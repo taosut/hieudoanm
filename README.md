@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is mist.
 - Temperature is 18°C.
-- Feels Like 17.82°C.
-- Air Visual is 129.
+- Feels Like 18.18°C.
+- Air Visual is 158.
 
 **WEATHER**
 
@@ -52,18 +52,18 @@
 - [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
 - [![Barca vs Sevilla](https://img.shields.io/static/v1?label=Barca%20vs%20Sevilla&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20Sevilla)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
+- [![Bolivia](https://img.shields.io/static/v1?label=Bolivia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bolivia)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
+- [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Hướng dương ngược nắng phần 2 tập 6](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%206)
-- [![Hướng dương ngược nắng tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2036)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
-- [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
-- [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
 - [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Chứng khoán: Nâng lô giao dịch gây khó cho nhà đầu tư nhỏ lẻ ra sao?](https://laodong.vn/kinh-te/chung-khoan-nang-lo-giao-dich-gay-kho-cho-nha-dau-tu-nho-le-ra-sao-885755.ldo) ([Lao Động](https://laodong.vn))
-- [Ở tuổi 18, "Elon Musk của Ghana" tự tay tạo ra ô tô chỉ từ sắt vụn và chí lớn](https://cafebiz.vn/o-tuoi-18-elon-musk-cua-ghana-tu-tay-tao-ra-o-to-chi-tu-sat-vun-va-chi-lon-20210304135548013.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giữa lúc thị trường liên tục nghẽn lệnh, HOSE chuẩn bị đón thêm 1,2 tỷ cổ phiếu SeABank lên sàn chứng khoán](https://cafebiz.vn/giua-luc-thi-truong-lien-tuc-nghen-lenh-hose-chuan-bi-don-them-12-ty-co-phieu-seabank-len-san-chung-khoan-20210304151236976.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xử lý nghiêm vụ đánh hội đồng một học sinh lớp 10 ngay trong trường](https://laodong.vn/giao-duc/xu-ly-nghiem-vu-danh-hoi-dong-mot-hoc-sinh-lop-10-ngay-trong-truong-885747.ldo) ([Lao Động](https://laodong.vn))
-- [Ceo Trương Công Thành: “Khởi nghiệp là một cuộc chiến gian nan”](https://cafebiz.vn/ceo-truong-cong-thanh-khoi-nghiep-la-mot-cuoc-chien-gian-nan-20210304141443185.chn) ([CafeBiz](https://cafebiz.vn))
-- [Doanh nhân người Mỹ đến HTV ủng hộ mua vắc xin Covid-19](https://cafebiz.vn/doanh-nhan-nguoi-my-den-htv-ung-ho-mua-vac-xin-covid-19-20210304111833335.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vân Dung và loạt nghệ sĩ thương tiếc NSND Trần Hạnh](https://laodong.vn/van-hoa-giai-tri/van-dung-va-loat-nghe-si-thuong-tiec-nsnd-tran-hanh-885671.ldo) ([Lao Động](https://laodong.vn))
-- ["Lười biếng thì hỏng người, kiêu ngạo thì hỏng việc, hoang phí thì hỏng cả gia tài": Tránh xa ngay 3 nguyên do khiến ai dính phải cũng thất bại cả đời](https://cafebiz.vn/luoi-bieng-thi-hong-nguoi-kieu-ngao-thi-hong-viec-hoang-phi-thi-hong-ca-gia-tai-tranh-xa-ngay-3-nguyen-do-khien-ai-dinh-phai-cung-that-bai-ca-doi-20210304151640947.chn) ([CafeBiz](https://cafebiz.vn))
-- [NSND Lan Hương thương tiếc trước sự ra đi của &quot;bố&quot; Trần Hạnh](https://laodong.vn/van-hoa-giai-tri/nsnd-lan-huong-thuong-tiec-truoc-su-ra-di-cua-bo-tran-hanh-885697.ldo) ([Lao Động](https://laodong.vn))
-- [Nhận định Liverpool - Chelsea: Nghèo gặp eo](https://laodong.vn/the-thao/nhan-dinh-liverpool-chelsea-ngheo-gap-eo-885686.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +87,7 @@
 
 **VIETCETERA**
 
+- [CEO Ecomobi Trương Công Thành: “Khởi nghiệp là cuộc chiến không dành cho kẻ ngại gian nan.” ](https://vietcetera.com/vn/ceo-ecomobi-truong-cong-thanh-khoi-nghiep-la-cuoc-chien-khong-danh-cho-ke-ngai-gian-nan)
 - [Fine Dining, Bistro, Pop-up... rốt cuộc nghĩa là gì?](https://vietcetera.com/vn/fine-dining-casual-bistro-nghia-la-gi)
 - [Gọi vốn thành công vòng Seed từ Genesia Ventures, Vietcetera mở rộng quy mô và chuẩn bị cho Series A](https://vietcetera.com/vn/goi-von-thanh-cong-vong-seed-tu-genesia-ventures-vietcetera-mo-rong-quy-mo-va-chuan-bi-cho-series-a)
 - ["Nhìn vào mắt con Mơ, chị bị sét đánh."](https://vietcetera.com/vn/nghe-don-kit-meo-hoi)
@@ -105,7 +97,6 @@
 - [5 Podcasts cho những người làm sáng tạo](https://vietcetera.com/vn/5-podcasts-cho-nhung-nguoi-lam-sang-tao)
 - [Vì sao chúng ta không nhớ ký ức khi còn là em bé?](https://vietcetera.com/vn/infantile-amnesia-vi-sao-chung-ta-khong-nho-ky-uc-khi-con-la-em-be)
 - [Anh Cầm Fact: Nghề "cầm fact" có gì khó?](https://vietcetera.com/vn/anh-cam-fact-nghe-cam-fact-co-gi-kho)
-- [Podcast “Vietnam Innovators” tập 10: Kelly Trần chia sẻ công thức “số hoá” thành công của Pizza 4P’s](https://vietcetera.com/vn/podcast-vietnam-innovators-tap-10-kelly-tran-chia-se-cong-thuc-so-hoa-thanh-cong-cua-pizza-4ps)
 
 [Read More](https://vietcetera.com/)
 
@@ -122,7 +113,7 @@
 07. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 08. [RAIN (비) - WHY DON’T WE (Feat. 청하 (CHUNG HA)) MV](https://www.youtube.com/watch?v=srWfDwiRVgQ) - [RAIN's Official Channel](https://www.youtube.com/channel/UCxXgIeE5hxWxHG6dz9Scg2w)
 09. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
-10. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
+10. [PBN 61 | Như Quỳnh - Dù Cho Hoa Tàn Úa](https://www.youtube.com/watch?v=ig8vOipF9Rs) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
