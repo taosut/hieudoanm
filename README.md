@@ -57,17 +57,17 @@
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
+- [![Luong y vo hoang yen lua dao](https://img.shields.io/static/v1?label=Luong%20y%20vo%20hoang%20yen%20lua%20dao&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Luong%20y%20vo%20hoang%20yen%20lua%20dao)
 - [![Lâm Khánh Chi](https://img.shields.io/static/v1?label=L%C3%A2m%20Kh%C3%A1nh%20Chi&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%A2m%20Kh%C3%A1nh%20Chi)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
+- [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
 - [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
-- [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nóng nhất hôm nay: Ông Trump đang chọn người đồng hành tái tranh cử 2024?](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-ong-trump-dang-chon-nguoi-dong-hanh-tai-tranh-cu-2024-885890.ldo) ([Lao Động](https://laodong.vn))
+- [Dân báo tin, Sở Y tế TP.HCM thấy được một cơ sở thẩm mỹ trá hình cà phê](https://tuoitre.vn/dan-bao-tin-so-y-te-tp-hcm-thay-duoc-mot-co-so-tham-my-tra-hinh-ca-phe-20210304201147251.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hà Nội tiêm vắc xin COVID-19 cho cả người vãng lai ở Hà Nội](https://tuoitre.vn/ha-noi-tiem-vac-xin-covid-19-cho-ca-nguoi-vang-lai-o-ha-noi-20210304193218947.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hải Phòng mở cửa trở lại các cơ sở kinh doanh, dịch vụ](https://vnexpress.net/hai-phong-mo-cua-tro-lai-cac-co-so-kinh-doanh-dich-vu-4243685.html) ([VNExpress](https://vnexpress.net))
+- [Chứng khoán: Thị trường có thể phản ứng hồi phục vào phiên cuối tuần](https://laodong.vn/kinh-te/chung-khoan-thi-truong-co-the-phan-ung-hoi-phuc-vao-phien-cuoi-tuan-885901.ldo) ([Lao Động](https://laodong.vn))
+- [Nữ bộ trưởng thời ông Trump bị tố sai nhân viên chạy việc vặt cá nhân](https://laodong.vn/the-gioi/nu-bo-truong-thoi-ong-trump-bi-to-sai-nhan-vien-chay-viec-vat-ca-nhan-885807.ldo) ([Lao Động](https://laodong.vn))
 - [Tuyên Quang: Khởi tố y tá làm giả giấy tờ để chiếm đoạt tài sản](https://laodong.vn/phap-luat/tuyen-quang-khoi-to-y-ta-lam-gia-giay-to-de-chiem-doat-tai-san-885903.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương xử lý triệt để yếu tố nguy cơ dịch bệnh COVID-19 tại nơi làm việc](https://laodong.vn/cong-doan/hai-duong-xu-ly-triet-de-yeu-to-nguy-co-dich-benh-covid-19-tai-noi-lam-viec-885898.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Siết chặt hoạt động quán ăn, trà đá vỉa hè đảm bảo phòng dịch](https://laodong.vn/xa-hoi/ha-noi-siet-chat-hoat-dong-quan-an-tra-da-via-he-dam-bao-phong-dich-885899.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội thông tin về kinh phí mua vaccine COVID-19 và việc tiêm chủng](https://laodong.vn/xa-hoi/ha-noi-thong-tin-ve-kinh-phi-mua-vaccine-covid-19-va-viec-tiem-chung-885897.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Đất tặc&quot; hoành hành tại Vĩnh Phúc: &quot;Có thể truy cứu trách nhiệm hình sự&quot;](https://laodong.vn/bat-dong-san/dat-tac-hoanh-hanh-tai-vinh-phuc-co-the-truy-cuu-trach-nhiem-hinh-su-885713.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 5.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-53-885462.ldo) ([Lao Động](https://laodong.vn))
-- [Phương Mỹ Chi sau 8 năm nổi tiếng: Ra dáng thiếu nữ, muốn làm mới mình](https://laodong.vn/photo/phuong-my-chi-sau-8-nam-noi-tieng-ra-dang-thieu-nu-muon-lam-moi-minh-885673.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: Lí do vợ chồng ông Dũng “lò vôi” tin vào ông Võ Hoàng Yên](https://laodong.vn/video-thoi-su/nong-nhat-24h-li-do-vo-chong-ong-dung-lo-voi-tin-vao-ong-vo-hoang-yen-885737.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội sẽ tiêm vắc-xin Covid-19 cho cả người vãng lai trên địa bàn](http://vietnamnet.vn/vn/thoi-su/ha-noi-se-tiem-vac-xin-covid-19-cho-ca-nguoi-vang-lai-tren-dia-ban-717298.html) ([VietNamNet](https://vietnamnet.vn))
-- [Hai đoạn cao tốc nguy cơ chậm tiến độ do thiếu vật liệu](https://vnexpress.net/hai-doan-cao-toc-nguy-co-cham-tien-do-do-thieu-vat-lieu-4243642.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
