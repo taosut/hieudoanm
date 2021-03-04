@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 17°C.
-- Feels Like 17.54°C.
-- Air Visual is 122.
+- Feels Like 16.82°C.
+- Air Visual is 133.
 
 **WEATHER**
 
@@ -55,14 +55,14 @@
 - [![Clip bé 3 tuổi rơi từ tầng 12](https://img.shields.io/static/v1?label=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20b%C3%A9%203%20tu%E1%BB%95i%20r%C6%A1i%20t%E1%BB%AB%20t%E1%BA%A7ng%2012)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
-- [![FE Credit](https://img.shields.io/static/v1?label=FE%20Credit&message=google&color=red&style=flat-square)](https://www.google.com/search?q=FE%20Credit)
 - [![Giám đốc Sở Y tế Cần Thơ](https://img.shields.io/static/v1?label=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1)
+- [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
-- [![Hướng dương ngược nắng tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2036)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Rà soát kỹ để tăng tính khả thi, đúng đối tượng](https://laodong.vn/xa-hoi/ra-soat-ky-de-tang-tinh-kha-thi-dung-doi-tuong-885517.ldo) ([Lao Động](https://laodong.vn))
-- [Phú Thọ: Nữ CNVCLĐ huyện Hạ Hòa tích cực hưởng ứng “Tuần lễ Áo dài”](https://laodong.vn/ldld-phu-tho/phu-tho-nu-cnvcld-huyen-ha-hoa-tich-cuc-huong-ung-tuan-le-ao-dai-885610.ldo) ([Lao Động](https://laodong.vn))
-- [Tuyên bố của Thống đốc New York sau cáo buộc quấy rối tình dục](https://laodong.vn/the-gioi/tuyen-bo-cua-thong-doc-new-york-sau-cao-buoc-quay-roi-tinh-duc-885597.ldo) ([Lao Động](https://laodong.vn))
-- [Đệ nhất phu nhân Mỹ tham gia hoạt động cùng tân Bộ trưởng Giáo dục](https://laodong.vn/the-gioi/de-nhat-phu-nhan-my-tham-gia-hoat-dong-cung-tan-bo-truong-giao-duc-885578.ldo) ([Lao Động](https://laodong.vn))
-- [Thanh lọc không khí trong nhà với những nguyên liệu rẻ tiền](https://laodong.vn/bat-dong-san/thanh-loc-khong-khi-trong-nha-voi-nhung-nguyen-lieu-re-tien-885448.ldo) ([Lao Động](https://laodong.vn))
-- [Top 3 Miss World Việt Nam: Người đỉnh cao nhan sắc, người yên bề gia thất](https://laodong.vn/photo/top-3-miss-world-viet-nam-nguoi-dinh-cao-nhan-sac-nguoi-yen-be-gia-that-885586.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyên gia nhận định nguy cơ dịch COVID-19 tại Việt Nam hiện nay](https://laodong.vn/video-thoi-su/chuyen-gia-nhan-dinh-nguy-co-dich-covid-19-tai-viet-nam-hien-nay-885449.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao An Giang cấm triệt để hát karaoke di động ồn ào?](https://tuoitre.vn/vi-sao-an-giang-cam-triet-de-hat-karaoke-di-dong-on-ao-20210304081442749.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thực hư thông tin &quot;Tiếng Hàn trở thành môn học bắt buộc từ lớp 3 đến 12&quot;](https://laodong.vn/xa-hoi/thuc-hu-thong-tin-tieng-han-tro-thanh-mon-hoc-bat-buoc-tu-lop-3-den-12-885583.ldo) ([Lao Động](https://laodong.vn))
-- [Ứng dụng giao hàng thay đổi ngành dịch vụ ăn uống trong dịch bệnh](https://cafebiz.vn/ung-dung-giao-hang-thay-doi-nganh-dich-vu-an-uong-trong-dich-benh-20210304083634633.chn) ([CafeBiz](https://cafebiz.vn))
+- [Căn cước công dân gắn chip khi sử dụng có những lợi ích gì?](https://laodong.vn/phap-luat/can-cuoc-cong-dan-gan-chip-khi-su-dung-co-nhung-loi-ich-gi-885619.ldo) ([Lao Động](https://laodong.vn))
+- [Quy trình chuyển đổi tên người sử dụng trong hợp đồng mua bán điện](https://laodong.vn/ban-doc/quy-trinh-chuyen-doi-ten-nguoi-su-dung-trong-hop-dong-mua-ban-dien-885616.ldo) ([Lao Động](https://laodong.vn))
+- [Mức tiêu thụ năng lượng khổng lồ có thể xuyên thủng bong bóng Bitcoin?](https://cafebiz.vn/muc-tieu-thu-nang-luong-khong-lo-co-the-xuyen-thung-bong-bong-bitcoin-20210304082856707.chn) ([CafeBiz](https://cafebiz.vn))
+- [40 năm lưu giữ hương vị bún kim tiền &quot;huyền thoại&quot; ở Cần Thơ](https://laodong.vn/video/40-nam-luu-giu-huong-vi-bun-kim-tien-huyen-thoai-o-can-tho-885288.ldo) ([Lao Động](https://laodong.vn))
+- [Chia sẻ cách vệ sinh xe điện sau khi đi mưa về](https://laodong.vn/xe/chia-se-cach-ve-sinh-xe-dien-sau-khi-di-mua-ve-885556.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang: 2 thanh niên hành nghề cắt tóc bị bắt vì cướp giật tài sản](https://laodong.vn/phap-luat/bac-giang-2-thanh-nien-hanh-nghe-cat-toc-bi-bat-vi-cuop-giat-tai-san-885604.ldo) ([Lao Động](https://laodong.vn))
+- [Xác minh những vụ vợ chồng ông Dũng &quot;lò vôi&quot; tố cáo ông Võ Hoàng Yên quá dễ](https://laodong.vn/su-kien-binh-luan/xac-minh-nhung-vu-vo-chong-ong-dung-lo-voi-to-cao-ong-vo-hoang-yen-qua-de-885548.ldo) ([Lao Động](https://laodong.vn))
+- [Mỹ nói về việc Đức điều tàu chiến hiện diện ở Biển Đông](https://laodong.vn/the-gioi/my-noi-ve-viec-duc-dieu-tau-chien-hien-dien-o-bien-dong-885602.ldo) ([Lao Động](https://laodong.vn))
+- [Lý do khiến bạn mãi không giàu nổi: Chỉ chơi với những người đã quen thân từ lâu](https://cafebiz.vn/ly-do-khien-ban-mai-khong-giau-noi-chi-choi-voi-nhung-nguoi-da-quen-than-tu-lau-20210303102801837.chn) ([CafeBiz](https://cafebiz.vn))
+- [NSND Trần Hạnh qua đời ở tuổi 93](https://cafebiz.vn/nsnd-tran-hanh-qua-doi-o-tuoi-93-20210304094339562.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
