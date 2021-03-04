@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 18°C.
 - Feels Like 18.18°C.
-- Air Visual is 158.
+- Air Visual is 132.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Khởi công hai dự án cao tốc Bắc Nam vào tháng 6](https://vnexpress.net/khoi-cong-hai-du-an-cao-toc-bac-nam-vao-thang-6-4243524.html) ([VNExpress](https://vnexpress.net))
+- [Thái Bình giới thiệu 3 cán bộ Công đoàn ứng cử đại biểu HĐND tỉnh khóa XVII](https://laodong.vn/cong-doan/thai-binh-gioi-thieu-3-can-bo-cong-doan-ung-cu-dai-bieu-hdnd-tinh-khoa-xvii-885765.ldo) ([Lao Động](https://laodong.vn))
+- [Nên hay không nên có nhiều bộ sách giáo khoa?](https://laodong.vn/ban-doc/nen-hay-khong-nen-co-nhieu-bo-sach-giao-khoa-885758.ldo) ([Lao Động](https://laodong.vn))
+- [Hành động xấu xí của cô giáo mệnh danh &quot;đẹp nhất Trung Quốc&quot; gây phẫn nộ](https://laodong.vn/the-gioi/hanh-dong-xau-xi-cua-co-giao-menh-danh-dep-nhat-trung-quoc-gay-phan-no-885750.ldo) ([Lao Động](https://laodong.vn))
+- [Cần Thơ đề nghị cá nhân, đơn vị cung tiến cây xanh tại đền thờ Vua Hùng](https://laodong.vn/xa-hoi/can-tho-de-nghi-ca-nhan-don-vi-cung-tien-cay-xanh-tai-den-tho-vua-hung-885736.ldo) ([Lao Động](https://laodong.vn))
+- [Cả nước có 1,051 triệu người tham gia BHXH tự nguyện](https://laodong.vn/xa-hoi/ca-nuoc-co-1051-trieu-nguoi-tham-gia-bhxh-tu-nguyen-885762.ldo) ([Lao Động](https://laodong.vn))
+- [Tháng 6 - 2021 khởi công 2 đoạn cao tốc Bắc - Nam qua Thanh Hóa và Nghệ An](https://tuoitre.vn/thang-6-2021-khoi-cong-2-doan-cao-toc-bac-nam-qua-thanh-hoa-va-nghe-an-20210304145631987.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Cảnh hoang phế ở Trung tâm khám, chữa bệnh Võ Hoàng Yên tại Hà Tĩnh](http://vietnamnet.vn/vn/thoi-su/canh-hoang-phe-o-trung-tam-kham-chua-benh-vo-hoang-yen-tai-ha-tinh-717206.html) ([VietNamNet](https://vietnamnet.vn))
+- [Xe container bốc cháy dữ dội dưới cầu Phú Mỹ](https://tuoitre.vn/xe-container-boc-chay-du-doi-duoi-cau-phu-my-20210304145155508.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Xe đầu kéo cháy ngùn ngụt ở cầu Phú Mỹ](https://vnexpress.net/xe-dau-keo-chay-ngun-ngut-o-cau-phu-my-4243567.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
