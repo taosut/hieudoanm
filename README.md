@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is light intensity drizzle.
+- Current weather is mist.
 - Temperature is 17°C.
-- Feels Like 17.56°C.
+- Feels Like 17.2°C.
 - Air Visual is 160.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hà Nội: Người dân xếp hàng để “giải cứu” gà Hải Dương](https://laodong.vn/xa-hoi/ha-noi-nguoi-dan-xep-hang-de-giai-cuu-ga-hai-duong-885786.ldo) ([Lao Động](https://laodong.vn))
+- [Theo dõi việc xác minh các vụ việc cử tri nêu với người ứng cử đại biểu Quốc hội](https://laodong.vn/thoi-su/theo-doi-viec-xac-minh-cac-vu-viec-cu-tri-neu-voi-nguoi-ung-cu-dai-bieu-quoc-hoi-885842.ldo) ([Lao Động](https://laodong.vn))
+- [Nhân viên trộm xe chủ quán để “lấy le” với bạn gái](https://laodong.vn/phap-luat/nhan-vien-trom-xe-chu-quan-de-lay-le-voi-ban-gai-885856.ldo) ([Lao Động](https://laodong.vn))
+- [TP HCM đặt mục tiêu thu hút 5,4 tỷ USD vốn FDI](https://vnexpress.net/tp-hcm-dat-muc-tieu-thu-hut-5-4-ty-usd-von-fdi-4243651.html) ([VNExpress](https://vnexpress.net))
 - [Quảng Ninh trả lương, trợ cấp BHXH gộp 2 tháng/lần để đảm bảo phòng dịch](https://laodong.vn/cong-doan/quang-ninh-tra-luong-tro-cap-bhxh-gop-2-thanglan-de-dam-bao-phong-dich-885847.ldo) ([Lao Động](https://laodong.vn))
 - [Khát vọng biểu tượng “Hoàng mai xứ Huế”](https://laodong.vn/ban-doc/khat-vong-bieu-tuong-hoang-mai-xu-hue-885788.ldo) ([Lao Động](https://laodong.vn))
-- [Sơn La cho phép quán bar, karaoke hoạt động trở lại](https://laodong.vn/xa-hoi/son-la-cho-phep-quan-bar-karaoke-hoat-dong-tro-lai-885848.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam - Singapore thảo luận khả năng áp dụng hộ chiếu vaccine](https://laodong.vn/thoi-su/viet-nam-singapore-thao-luan-kha-nang-ap-dung-ho-chieu-vaccine-885851.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt thầy lang tống tiền bạn tình bằng clip nhạy cảm](https://laodong.vn/phap-luat/bat-thay-lang-tong-tien-ban-tinh-bang-clip-nhay-cam-885830.ldo) ([Lao Động](https://laodong.vn))
 - [Chiều 4-3, 6 ca mắc COVID-19 mới ở Hải Dương, một nửa là bệnh nhân cộng đồng](https://tuoitre.vn/chieu-4-3-6-ca-mac-covid-19-moi-o-hai-duong-mot-nua-la-benh-nhan-cong-dong-20210304180739865.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Không Ibrahimovic, AC Milan thoát thua hú vía](https://laodong.vn/video-the-thao/khong-ibrahimovic-ac-milan-thoat-thua-hu-via-885776.ldo) ([Lao Động](https://laodong.vn))
 - [Cảnh hoang tàn tại Trung tâm phục hồi chức năng và dưỡng sinh của ‘thần y’ Võ Hoàng Yên](https://tuoitre.vn/canh-hoang-tan-tai-trung-tam-phuc-hoi-chuc-nang-va-duong-sinh-cua-than-y-vo-hoang-yen-20210304172937856.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [TP.HCM chưa quyết định ngày mở cửa lại toàn bộ hoạt động, cơ sở dịch vụ](https://tuoitre.vn/tphcm-chua-quyet-dinh-ngay-mo-cua-lai-toan-bo-hoat-dong-co-so-dich-vu-20210304174054616.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chặng đường thành công của chàng kỹ sư trẻ Nguyễn Văn Hùng](https://laodong.vn/thong-tin-doanh-nghiep/chang-duong-thanh-cong-cua-chang-ky-su-tre-nguyen-van-hung-885617.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
