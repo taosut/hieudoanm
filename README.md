@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 17°C.
-- Feels Like 17.92°C.
-- Air Visual is 164.
+- Feels Like 17.56°C.
+- Air Visual is 167.
 
 **WEATHER**
 
@@ -60,14 +60,14 @@
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![Lâm Khánh Chi](https://img.shields.io/static/v1?label=L%C3%A2m%20Kh%C3%A1nh%20Chi&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%A2m%20Kh%C3%A1nh%20Chi)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Napoli](https://img.shields.io/static/v1?label=Napoli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Napoli)
+- [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
 - [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
+- [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tâm điểm cổ phiếu 4.3: PLX, BSR hút dòng vốn ngoại](https://laodong.vn/kinh-te/tam-diem-co-phieu-43-plx-bsr-hut-dong-von-ngoai-885881.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 5.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-53-885462.ldo) ([Lao Động](https://laodong.vn))
+- [Phương Mỹ Chi sau 8 năm nổi tiếng: Ra dáng thiếu nữ, muốn làm mới mình](https://laodong.vn/photo/phuong-my-chi-sau-8-nam-noi-tieng-ra-dang-thieu-nu-muon-lam-moi-minh-885673.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất 24h: Lí do vợ chồng ông Dũng “lò vôi” tin vào ông Võ Hoàng Yên](https://laodong.vn/video-thoi-su/nong-nhat-24h-li-do-vo-chong-ong-dung-lo-voi-tin-vao-ong-vo-hoang-yen-885737.ldo) ([Lao Động](https://laodong.vn))
+- [Trái phiếu doanh nghiệp vẫn sôi động nhưng lo ngại rủi ro từ bất động sản](https://laodong.vn/bat-dong-san/trai-phieu-doanh-nghiep-van-soi-dong-nhung-lo-ngai-rui-ro-tu-bat-dong-san-885805.ldo) ([Lao Động](https://laodong.vn))
+- [Đến 0,1% cơ hội vô địch Premier League, Man United cũng không có?](https://laodong.vn/bong-da-quoc-te/den-01-co-hoi-vo-dich-premier-league-man-united-cung-khong-co-885840.ldo) ([Lao Động](https://laodong.vn))
 - [Hai cao tốc nguy cơ chậm tiến độ do thiếu vật liệu](https://vnexpress.net/hai-cao-toc-nguy-co-cham-tien-do-do-thieu-vat-lieu-4243642.html) ([VNExpress](https://vnexpress.net))
-- [Lí do giá vàng thế giới và Bitcoin đồng loạt bị kìm hãm đà tăng trở lại](https://laodong.vn/kinh-te/li-do-gia-vang-the-gioi-va-bitcoin-dong-loat-bi-kim-ham-da-tang-tro-lai-885832.ldo) ([Lao Động](https://laodong.vn))
 - [Giáo dục 24/7: Hiểu thế nào cho đúng về thông tin bắt buộc học tiếng Hàn?](https://laodong.vn/video/giao-duc-247-hieu-the-nao-cho-dung-ve-thong-tin-bat-buoc-hoc-tieng-han-885802.ldo) ([Lao Động](https://laodong.vn))
 - [Mức xử phạt đối với các Youtuber đăng clip &quot;Thầy chùa ăn thịt chó&quot;](https://laodong.vn/video-thoi-su/muc-xu-phat-doi-voi-cac-youtuber-dang-clip-thay-chua-an-thit-cho-885760.ldo) ([Lao Động](https://laodong.vn))
-- [Sử dụng lò vi sóng như nào để an toàn?](https://laodong.vn/suc-khoe/su-dung-lo-vi-song-nhu-nao-de-an-toan-885635.ldo) ([Lao Động](https://laodong.vn))
-- [Tham gia bảo hiểm xã hội tự nguyện được hưởng trợ cấp mai táng hay tử tuất?](https://laodong.vn/ban-doc/tham-gia-bao-hiem-xa-hoi-tu-nguyen-duoc-huong-tro-cap-mai-tang-hay-tu-tuat-885729.ldo) ([Lao Động](https://laodong.vn))
 - [Các di tích, đền chùa ở Hà Nội sắp mở cửa trở lại](https://vnexpress.net/cac-di-tich-den-chua-o-ha-noi-sap-mo-cua-tro-lai-4243669.html) ([VNExpress](https://vnexpress.net))
 - [Khởi tố vụ sản xuất, buôn bán phân bón giả tại Đồng Nai](https://laodong.vn/thi-truong/khoi-to-vu-san-xuat-buon-ban-phan-bon-gia-tai-dong-nai-885895.ldo) ([Lao Động](https://laodong.vn))
-- [Những lý do Bộ GDĐT thí điểm đưa tiếng Hàn, tiếng Đức thành môn ngoại ngữ 1](https://laodong.vn/giao-duc/nhung-ly-do-bo-gddt-thi-diem-dua-tieng-han-tieng-duc-thanh-mon-ngoai-ngu-1-885837.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
