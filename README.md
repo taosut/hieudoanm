@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 19°C.
 - Feels Like 19.13°C.
-- Air Visual is 110.
+- Air Visual is 112.
 
 **WEATHER**
 
@@ -52,20 +52,20 @@
 - [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
 - [![Barca vs Sevilla](https://img.shields.io/static/v1?label=Barca%20vs%20Sevilla&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20Sevilla)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
-- [![Bolivia](https://img.shields.io/static/v1?label=Bolivia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bolivia)
+- [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
-- [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Hướng dương ngược nắng phần 2 tập 6](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%206)
+- [![Hướng dương ngược nắng tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2036)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
+- [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
-- [![Tiếng Hàn](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n)
+- [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
 - [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Thiên đường du lịch Phuket của Thái Lan 'thoi thóp' tìm cách sống giữa mùa dịch Covid-19](https://cafebiz.vn/thien-duong-du-lich-phuket-cua-thai-lan-thoi-thop-tim-cach-song-giua-mua-dich-covid-19-20210303171824027.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tuyên bố sẵn sàng trả 1.000 tỷ đồng nếu ông Võ Hoàng Yên chữa được bệnh, đại gia Dũng "lò vôi" giàu cỡ nào?](https://cafebiz.vn/tuyen-bo-san-sang-tra-1000-ty-dong-neu-ong-vo-hoang-yen-chua-duoc-benh-dai-gia-dung-lo-voi-giau-co-nao-2021030414122592.chn) ([CafeBiz](https://cafebiz.vn))
-- [Miễn phí xăng trên toàn quốc cho ông Đoàn Ngọc Hải: Ai là người chỉ đạo?](https://cafebiz.vn/mien-phi-xang-tren-toan-quoc-cho-ong-doan-ngoc-hai-ai-la-nguoi-chi-dao-20210304143345673.chn) ([CafeBiz](https://cafebiz.vn))
-- [Điều gì có thể xảy ra với cơ thể nếu thường xuyên ngồi vắt chéo chân?](https://laodong.vn/suc-khoe/dieu-gi-co-the-xay-ra-voi-co-the-neu-thuong-xuyen-ngoi-vat-cheo-chan-885717.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyện buồn của Đường Tăng đẹp trai nhất Tây Du Kí ở tuổi 62 vẫn phải đi hát rong kiếm tiền: Trẻ không lựa chọn đúng đắn, già ôm hận!](https://cafebiz.vn/chuyen-buon-cua-duong-tang-dep-trai-nhat-tay-du-ki-o-tuoi-62-van-phai-di-hat-rong-kiem-tien-tre-khong-lua-chon-dung-dan-gia-om-han-20210303155428504.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhà đầu tư có thật sự được bảo vệ khi nâng lô giao dịch tối thiểu lên 1.000 cổ phiếu?](https://cafebiz.vn/nha-dau-tu-co-that-su-duoc-bao-ve-khi-nang-lo-giao-dich-toi-thieu-len-1000-co-phieu-2021030414291524.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bộ GDĐT giải thích thông tin tiếng Hàn là ngoại ngữ &quot;bắt buộc&quot;](https://laodong.vn/giao-duc/bo-gddt-giai-thich-thong-tin-tieng-han-la-ngoai-ngu-bat-buoc-885711.ldo) ([Lao Động](https://laodong.vn))
-- [Hơn 30 nhà xe dừng chạy để phản đối 'xe dù'](https://vnexpress.net/hon-30-nha-xe-dung-chay-de-phan-doi-xe-du-4243393.html) ([VNExpress](https://vnexpress.net))
-- [Khu nhà trọ giá rẻ sang chảnh nhất Việt Nam: Miễn phí 100 số điện, "bao" nước uống trọn đời cho khách](https://cafebiz.vn/khu-nha-tro-gia-re-sang-chanh-nhat-viet-nam-mien-phi-100-so-dien-bao-nuoc-uong-tron-doi-cho-khach-20210304141733013.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chinh phục thị trường ôtô điện ở Mỹ: Vinfast có lấy &quot;trứng chọi đá&quot;?](https://laodong.vn/xe/chinh-phuc-thi-truong-oto-dien-o-my-vinfast-co-lay-trung-choi-da-885698.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
