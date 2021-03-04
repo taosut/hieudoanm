@@ -21,8 +21,8 @@
 
 - Current weather is drizzle.
 - Temperature is 17°C.
-- Feels Like 17.56°C.
-- Air Visual is 157.
+- Feels Like 17.92°C.
+- Air Visual is 171.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Mâu thuẫn gia đình, thiếu nữ ở Quảng Trị treo cổ tự tử](http://vietnamnet.vn/vn/thoi-su/mau-thuan-gia-dinh-thieu-nu-o-quang-tri-treo-co-tu-tu-717318.html) ([VietNamNet](https://vietnamnet.vn))
+- [Vụ nổ súng tại Cần Thơ: Bắt thêm đối tượng dùng súng, thu giữ 1 khẩu súng](https://laodong.vn/phap-luat/vu-no-sung-tai-can-tho-bat-them-doi-tuong-dung-sung-thu-giu-1-khau-sung-885914.ldo) ([Lao Động](https://laodong.vn))
+- [Kiến nghị xử lý nghiêm cục trưởng Cục Quản lý lao động ngoài nước giai đoạn 2012-2016](https://tuoitre.vn/kien-nghi-xu-ly-nghiem-cuc-truong-cuc-quan-ly-lao-dong-ngoai-nuoc-giai-doan-2012-2016-20210304214651938.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Châu Âu tuyên bố không đàm phán mua vaccine COVID-19 của Nga](https://laodong.vn/the-gioi/chau-au-tuyen-bo-khong-dam-phan-mua-vaccine-covid-19-cua-nga-885905.ldo) ([Lao Động](https://laodong.vn))
+- [Xây 8 trạm bơm dã chiến bổ cập nước cho sông Tô Lịch](https://vnexpress.net/xay-8-tram-bom-da-chien-bo-cap-nuoc-cho-song-to-lich-4243690.html) ([VNExpress](https://vnexpress.net))
+- [Nam nhân viên Bệnh viện Giao thông Vận tải Hải Phòng lần 4 âm tính COVID-19](https://laodong.vn/xa-hoi/nam-nhan-vien-benh-vien-giao-thong-van-tai-hai-phong-lan-4-am-tinh-covid-19-885911.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất xây 8 trạm bơm dã chiến để cải thiện ô nhiễm sông Nhuệ, Tô Lịch](https://laodong.vn/xa-hoi/de-xuat-xay-8-tram-bom-da-chien-de-cai-thien-o-nhiem-song-nhue-to-lich-885909.ldo) ([Lao Động](https://laodong.vn))
+- [Công đoàn Hà Tĩnh trao hơn 900 bộ áo dài cho nữ công nhân](https://laodong.vn/cong-doan/cong-doan-ha-tinh-trao-hon-900-bo-ao-dai-cho-nu-cong-nhan-885910.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng: Gần 200 chung cư cũ cần cải tạo, xây dựng](https://laodong.vn/bat-dong-san/hai-phong-gan-200-chung-cu-cu-can-cai-tao-xay-dung-885904.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất hôm nay: Ông Trump đang chọn người đồng hành tái tranh cử 2024?](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-ong-trump-dang-chon-nguoi-dong-hanh-tai-tranh-cu-2024-885890.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
