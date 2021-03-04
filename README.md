@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is drizzle.
 - Temperature is 17°C.
 - Feels Like 17.56°C.
-- Air Visual is 167.
+- Air Visual is 166.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tuyên Quang: Khởi tố y tá làm giả giấy tờ để chiếm đoạt tài sản](https://laodong.vn/phap-luat/tuyen-quang-khoi-to-y-ta-lam-gia-giay-to-de-chiem-doat-tai-san-885903.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương xử lý triệt để yếu tố nguy cơ dịch bệnh COVID-19 tại nơi làm việc](https://laodong.vn/cong-doan/hai-duong-xu-ly-triet-de-yeu-to-nguy-co-dich-benh-covid-19-tai-noi-lam-viec-885898.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Siết chặt hoạt động quán ăn, trà đá vỉa hè đảm bảo phòng dịch](https://laodong.vn/xa-hoi/ha-noi-siet-chat-hoat-dong-quan-an-tra-da-via-he-dam-bao-phong-dich-885899.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội thông tin về kinh phí mua vaccine COVID-19 và việc tiêm chủng](https://laodong.vn/xa-hoi/ha-noi-thong-tin-ve-kinh-phi-mua-vaccine-covid-19-va-viec-tiem-chung-885897.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Đất tặc&quot; hoành hành tại Vĩnh Phúc: &quot;Có thể truy cứu trách nhiệm hình sự&quot;](https://laodong.vn/bat-dong-san/dat-tac-hoanh-hanh-tai-vinh-phuc-co-the-truy-cuu-trach-nhiem-hinh-su-885713.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 5.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-53-885462.ldo) ([Lao Động](https://laodong.vn))
 - [Phương Mỹ Chi sau 8 năm nổi tiếng: Ra dáng thiếu nữ, muốn làm mới mình](https://laodong.vn/photo/phuong-my-chi-sau-8-nam-noi-tieng-ra-dang-thieu-nu-muon-lam-moi-minh-885673.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất 24h: Lí do vợ chồng ông Dũng “lò vôi” tin vào ông Võ Hoàng Yên](https://laodong.vn/video-thoi-su/nong-nhat-24h-li-do-vo-chong-ong-dung-lo-voi-tin-vao-ong-vo-hoang-yen-885737.ldo) ([Lao Động](https://laodong.vn))
-- [Trái phiếu doanh nghiệp vẫn sôi động nhưng lo ngại rủi ro từ bất động sản](https://laodong.vn/bat-dong-san/trai-phieu-doanh-nghiep-van-soi-dong-nhung-lo-ngai-rui-ro-tu-bat-dong-san-885805.ldo) ([Lao Động](https://laodong.vn))
-- [Đến 0,1% cơ hội vô địch Premier League, Man United cũng không có?](https://laodong.vn/bong-da-quoc-te/den-01-co-hoi-vo-dich-premier-league-man-united-cung-khong-co-885840.ldo) ([Lao Động](https://laodong.vn))
-- [Hai cao tốc nguy cơ chậm tiến độ do thiếu vật liệu](https://vnexpress.net/hai-cao-toc-nguy-co-cham-tien-do-do-thieu-vat-lieu-4243642.html) ([VNExpress](https://vnexpress.net))
-- [Giáo dục 24/7: Hiểu thế nào cho đúng về thông tin bắt buộc học tiếng Hàn?](https://laodong.vn/video/giao-duc-247-hieu-the-nao-cho-dung-ve-thong-tin-bat-buoc-hoc-tieng-han-885802.ldo) ([Lao Động](https://laodong.vn))
-- [Mức xử phạt đối với các Youtuber đăng clip &quot;Thầy chùa ăn thịt chó&quot;](https://laodong.vn/video-thoi-su/muc-xu-phat-doi-voi-cac-youtuber-dang-clip-thay-chua-an-thit-cho-885760.ldo) ([Lao Động](https://laodong.vn))
-- [Các di tích, đền chùa ở Hà Nội sắp mở cửa trở lại](https://vnexpress.net/cac-di-tich-den-chua-o-ha-noi-sap-mo-cua-tro-lai-4243669.html) ([VNExpress](https://vnexpress.net))
-- [Khởi tố vụ sản xuất, buôn bán phân bón giả tại Đồng Nai](https://laodong.vn/thi-truong/khoi-to-vu-san-xuat-buon-ban-phan-bon-gia-tai-dong-nai-885895.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội sẽ tiêm vắc-xin Covid-19 cho cả người vãng lai trên địa bàn](http://vietnamnet.vn/vn/thoi-su/ha-noi-se-tiem-vac-xin-covid-19-cho-ca-nguoi-vang-lai-tren-dia-ban-717298.html) ([VietNamNet](https://vietnamnet.vn))
+- [Hai đoạn cao tốc nguy cơ chậm tiến độ do thiếu vật liệu](https://vnexpress.net/hai-doan-cao-toc-nguy-co-cham-tien-do-do-thieu-vat-lieu-4243642.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
