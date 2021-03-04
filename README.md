@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 18°C.
-- Feels Like 17.82°C.
-- Air Visual is 110.
+- Feels Like 18.18°C.
+- Air Visual is 120.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- ['Tuần trăng mật' của ông Biden ở Nhà Trắng dường như đã kết thúc](https://laodong.vn/the-gioi/tuan-trang-mat-cua-ong-biden-o-nha-trang-duong-nhu-da-ket-thuc-885680.ldo) ([Lao Động](https://laodong.vn))
+- [USD tự do giảm mạnh ngày thứ 2 liên tiếp, USD ngân hàng cũng đi xuống](https://cafebiz.vn/usd-tu-do-giam-manh-ngay-thu-2-lien-tiep-usd-ngan-hang-cung-di-xuong-20210304133224106.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giám đốc Vân Đặng cùng Công ty TNHH Đông dược Bà Vân chinh phục người tiêu dùng](https://cafebiz.vn/giam-doc-van-dang-cung-cong-ty-tnhh-dong-duoc-ba-van-chinh-phuc-nguoi-tieu-dung-20210304113345045.chn) ([CafeBiz](https://cafebiz.vn))
+- [BAC A BANK chính thức niêm yết cổ phiếu trên sàn HNX](https://cafebiz.vn/bac-a-bank-chinh-thuc-niem-yet-co-phieu-tren-san-hnx-20210304113312108.chn) ([CafeBiz](https://cafebiz.vn))
+- [VinFast hợp tác với Prologium sản xuất pin thể rắn ở Việt Nam](https://cafebiz.vn/vinfast-hop-tac-voi-prologium-san-xuat-pin-the-ran-o-viet-nam-20210304111858886.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xem xét gia hạn nộp 115.000 tỉ đồng thuế, tiền thuê đất](https://laodong.vn/kinh-te/xem-xet-gia-han-nop-115000-ti-dong-thue-tien-thue-dat-885700.ldo) ([Lao Động](https://laodong.vn))
+- [Sau giờ làm, bạn nghĩ tới ăn chơi, cày phim, thì những người giàu đều đang tẩm ngẩm tầm ngầm làm "3 chuyện"](https://cafebiz.vn/sau-gio-lam-ban-nghi-toi-an-choi-cay-phim-thi-nhung-nguoi-giau-deu-dang-tam-ngam-tam-ngam-lam-3-chuyen-20210226222323639.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tài sản tăng gần gấp 4 lần, tỷ phú Masayoshi Son 'hồi sinh' sau 1 năm tàn khốc như thế nào?](https://cafebiz.vn/tai-san-tang-gan-gap-4-lan-ty-phu-masayoshi-son-hoi-sinh-sau-1-nam-tan-khoc-nhu-the-nao-20210304113731977.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thả 41.000 con cá giống xuống sông Hương](https://laodong.vn/xa-hoi/tha-41000-con-ca-giong-xuong-song-huong-885685.ldo) ([Lao Động](https://laodong.vn))
 - [Điều kiện tổ chức thực hiện đấu giá quyền sử dụng đất](https://laodong.vn/bat-dong-san/dieu-kien-to-chuc-thuc-hien-dau-gia-quyen-su-dung-dat-885427.ldo) ([Lao Động](https://laodong.vn))
-- [Tín dụng đen ở vùng cao Điện Biên: Quay cuồng với vòng xoáy vay - trả](https://laodong.vn/xa-hoi/tin-dung-den-o-vung-cao-dien-bien-quay-cuong-voi-vong-xoay-vay-tra-885503.ldo) ([Lao Động](https://laodong.vn))
-- [Tác hại khó lường của việc ngủ không đủ giấc](https://laodong.vn/suc-khoe/tac-hai-kho-luong-cua-viec-ngu-khong-du-giac-885639.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ GDĐT: Sử dụng điện thoại ở trường về cơ bản vẫn là hành vi bị cấm](https://laodong.vn/ban-doc/bo-gddt-su-dung-dien-thoai-o-truong-ve-co-ban-van-la-hanh-vi-bi-cam-885647.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút: Bé gái được anh Nguyễn Ngọc Mạnh cứu ra viện khi nào?](https://laodong.vn/video/ban-tin-1-phut-be-gai-duoc-anh-nguyen-ngoc-manh-cuu-ra-vien-khi-nao-885692.ldo) ([Lao Động](https://laodong.vn))
-- [Đầu tư 'liều ăn nhiều' kiểu Masayoshi Son: Rót tiền vào hơn 100 startup, mỗi năm thua 1 WeWork nhưng nhận cơn mưa tiền từ 99 công ty còn lại](https://cafebiz.vn/dau-tu-lieu-an-nhieu-kieu-masayoshi-son-rot-tien-vao-hon-100-startup-moi-nam-thua-1-wework-nhung-nhan-con-mua-tien-tu-99-cong-ty-con-lai-20210304123118084.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Dũng “lò vôi”: Sẵn sàng chi 1.000 tỉ nếu ông Võ Hoàng Yên chữa được bệnh cho bá tánh](https://laodong.vn/phap-luat/ong-dung-lo-voi-san-sang-chi-1000-ti-neu-ong-vo-hoang-yen-chua-duoc-benh-cho-ba-tanh-885627.ldo) ([Lao Động](https://laodong.vn))
-- [Những nơi còn bị phong tỏa ở Hải Dương](https://vnexpress.net/nhung-noi-con-bi-phong-toa-o-hai-duong-4243308.html) ([VNExpress](https://vnexpress.net))
-- [Nhóm thanh niên diễn trò đua xe ở Tiền Giang, 2 người bị thương nặng](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/nhom-thanh-nien-dien-tro-dua-xe-o-tien-giang-2-nguoi-bi-thuong-nang-717171.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -121,8 +121,8 @@
 06. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 07. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 08. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
-09. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
-10. [RAIN (비) - WHY DON’T WE (Feat. 청하 (CHUNG HA)) MV](https://www.youtube.com/watch?v=srWfDwiRVgQ) - [RAIN's Official Channel](https://www.youtube.com/channel/UCxXgIeE5hxWxHG6dz9Scg2w)
+09. [RAIN (비) - WHY DON’T WE (Feat. 청하 (CHUNG HA)) MV](https://www.youtube.com/watch?v=srWfDwiRVgQ) - [RAIN's Official Channel](https://www.youtube.com/channel/UCxXgIeE5hxWxHG6dz9Scg2w)
+10. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
