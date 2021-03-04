@@ -1,4 +1,4 @@
-# DIRECTORIES
+# PROJECTS
 
 - addons
 - b
@@ -18,7 +18,7 @@
 - packages
 - q
 - r
-- server
+- server (node)
 - t
 - u
 - v
