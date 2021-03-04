@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 18°C.
-- Feels Like 18.54°C.
-- Air Visual is 113.
+- Feels Like 17.77°C.
+- Air Visual is 131.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nhà đầu tư có thật sự được bảo vệ khi nâng lô giao dịch tối thiểu lên 1.000 cổ phiếu?](https://cafebiz.vn/nha-dau-tu-co-that-su-duoc-bao-ve-khi-nang-lo-giao-dich-toi-thieu-len-1000-co-phieu-2021030414291524.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bộ GDĐT giải thích thông tin tiếng Hàn là ngoại ngữ &quot;bắt buộc&quot;](https://laodong.vn/giao-duc/bo-gddt-giai-thich-thong-tin-tieng-han-la-ngoai-ngu-bat-buoc-885711.ldo) ([Lao Động](https://laodong.vn))
+- [Hơn 30 nhà xe dừng chạy để phản đối 'xe dù'](https://vnexpress.net/hon-30-nha-xe-dung-chay-de-phan-doi-xe-du-4243393.html) ([VNExpress](https://vnexpress.net))
+- [Khu nhà trọ giá rẻ sang chảnh nhất Việt Nam: Miễn phí 100 số điện, "bao" nước uống trọn đời cho khách](https://cafebiz.vn/khu-nha-tro-gia-re-sang-chanh-nhat-viet-nam-mien-phi-100-so-dien-bao-nuoc-uong-tron-doi-cho-khach-20210304141733013.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chinh phục thị trường ôtô điện ở Mỹ: Vinfast có lấy &quot;trứng chọi đá&quot;?](https://laodong.vn/xe/chinh-phuc-thi-truong-oto-dien-o-my-vinfast-co-lay-trung-choi-da-885698.ldo) ([Lao Động](https://laodong.vn))
+- [Nâng lô tối thiểu lên 1.000 cổ phiếu là bước lùi của thị trường chứng khoán Việt Nam?](https://cafebiz.vn/nang-lo-toi-thieu-len-1000-co-phieu-la-buoc-lui-cua-thi-truong-chung-khoan-viet-nam-20210304141207324.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bóng dáng Sunshine trong lĩnh vực tài chính hậu "thay máu" Kienlongbank](https://cafebiz.vn/bong-dang-sunshine-trong-linh-vuc-tai-chinh-hau-thay-mau-kienlongbank-20210304140935202.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo viên tiểu học hạng IV phải học bồi dưỡng chức danh nghề nghiệp?](https://laodong.vn/ban-doc/giao-vien-tieu-hoc-hang-iv-phai-hoc-boi-duong-chuc-danh-nghe-nghiep-885712.ldo) ([Lao Động](https://laodong.vn))
 - [Công viên tiền tỉ hoang lạnh giữa lòng thành phố Điện Biên Phủ](https://laodong.vn/photo/cong-vien-tien-ti-hoang-lanh-giua-long-thanh-pho-dien-bien-phu-885343.ldo) ([Lao Động](https://laodong.vn))
 - [Vĩnh Long: Tái hiện văn hóa Nam Bộ từ căn nhà được làm bằng gốm](https://laodong.vn/photo/vinh-long-tai-hien-van-hoa-nam-bo-tu-can-nha-duoc-lam-bang-gom-885563.ldo) ([Lao Động](https://laodong.vn))
-- [Đang chờ cấp lại giấy phép lái xe, có được chạy xe không?](https://laodong.vn/tu-van-phap-luat/dang-cho-cap-lai-giay-phep-lai-xe-co-duoc-chay-xe-khong-884936.ldo) ([Lao Động](https://laodong.vn))
-- [Lựa chọn sách giáo khoa lớp 2, lớp 6: Phải đảm bảo công bằng, tránh xáo trộn](https://laodong.vn/xa-hoi/lua-chon-sach-giao-khoa-lop-2-lop-6-phai-dam-bao-cong-bang-tranh-xao-tron-885492.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất xây thêm casino hơn 2 tỷ USD tại Khánh Hòa](https://cafebiz.vn/de-xuat-xay-them-casino-hon-2-ty-usd-tai-khanh-hoa-20210304135613875.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kiên Giang: Nông dân lao đao vì xoài rớt giá thê thảm](https://laodong.vn/kinh-te/kien-giang-nong-dan-lao-dao-vi-xoai-rot-gia-the-tham-885705.ldo) ([Lao Động](https://laodong.vn))
-- [Doanh thu ngày của Amazon vượt quá 1 tỷ USD trong năm 2020](https://cafebiz.vn/doanh-thu-ngay-cua-amazon-vuot-qua-1-ty-usd-trong-nam-2020-20210304134748722.chn) ([CafeBiz](https://cafebiz.vn))
-- [Công an Đà Nẵng làm thêm ca, tổ chức cấp căn cước công dân lưu động](http://vietnamnet.vn/vn/thoi-su/cong-an-da-nang-lam-them-ca-to-chuc-cap-can-cuoc-cong-dan-luu-dong-717181.html) ([VietNamNet](https://vietnamnet.vn))
-- [Triệu phú bị fan ruột bóc phốt ‘lừa đảo’: Bán khóa học làm giàu 2.500 USD nhưng giá trị đem lại bằng 0, nói dối 1.000 lần vẫn là lời nói dối!](https://cafebiz.vn/trieu-phu-bi-fan-ruot-boc-phot-lua-dao-ban-khoa-hoc-lam-giau-2500-usd-nhung-gia-tri-dem-lai-bang-0-noi-doi-1000-lan-van-la-loi-noi-doi-20210304113415619.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tiết lộ thêm về nhà máy chíp 17 tỷ USD sắp xây của Samsung tại Mỹ](https://cafebiz.vn/tiet-lo-them-ve-nha-may-chip-17-ty-usd-sap-xay-cua-samsung-tai-my-20210304134507486.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
