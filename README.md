@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 16°C.
-- Feels Like 16.19°C.
-- Air Visual is 130.
+- Current weather is broken clouds.
+- Temperature is 17°C.
+- Feels Like 18.28°C.
+- Air Visual is 120.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bình Dương: Làm rõ vụ tai nạn xe máy khiến 1 người chết, 2 người bị thương](https://laodong.vn/xa-hoi/binh-duong-lam-ro-vu-tai-nan-xe-may-khien-1-nguoi-chet-2-nguoi-bi-thuong-885567.ldo) ([Lao Động](https://laodong.vn))
-- [Hạ viện Mỹ hủy họp vì mối đe dọa bạo loạn mới ở Điện Capitol](https://laodong.vn/the-gioi/ha-vien-my-huy-hop-vi-moi-de-doa-bao-loan-moi-o-dien-capitol-885568.ldo) ([Lao Động](https://laodong.vn))
-- [Từng mắc sai lầm lớn trong kinh doanh, Steve Jobs nhận ra: "Thất bại mang tới cho chúng ta một đáp án hoàn toàn mới"](https://cafebiz.vn/tung-mac-sai-lam-lon-trong-kinh-doanh-steve-jobs-nhan-ra-that-bai-mang-toi-cho-chung-ta-mot-dap-an-hoan-toan-moi-20210303153826139.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dắt trâu… làm du lịch](https://cafebiz.vn/dat-trau-lam-du-lich-20210304080610387.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Biden phản ứng với quyết định của Thống đốc Cộng hòa ở Texas](https://laodong.vn/the-gioi/ong-biden-phan-ung-voi-quyet-dinh-cua-thong-doc-cong-hoa-o-texas-885566.ldo) ([Lao Động](https://laodong.vn))
-- [Bị cưỡng bức trên đất khách, cô gái gốc Việt tự mình đi đòi lại công bằng, thay đổi cả luật pháp nước Mỹ và nhận đề cử giải Nobel Hòa bình](https://cafebiz.vn/bi-cuong-buc-tren-dat-khach-co-gai-goc-viet-tu-minh-di-doi-lai-cong-bang-thay-doi-ca-luat-phap-nuoc-my-va-nhan-de-cu-giai-nobel-hoa-binh-20210304080105898.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giữ bản chính văn bằng khi ký hợp đồng lao động, bị xử phạt thế nào?](https://laodong.vn/tu-van-phap-luat/giu-ban-chinh-van-bang-khi-ky-hop-dong-lao-dong-bi-xu-phat-the-nao-884901.ldo) ([Lao Động](https://laodong.vn))
-- [Nhấn nút khởi động lúc ôtô đang chạy, bạn sẽ gặp phải những vấn đề gì?](https://laodong.vn/xe/nhan-nut-khoi-dong-luc-oto-dang-chay-ban-se-gap-phai-nhung-van-de-gi-885282.ldo) ([Lao Động](https://laodong.vn))
-- [Nước Mỹ chia cắt vì trào lưu "selfie tiêm vaccine": Người ủng hộ, kẻ phẫn nộ tột độ](https://cafebiz.vn/nuoc-my-chia-cat-vi-trao-luu-selfie-tiem-vaccine-nguoi-ung-ho-ke-phan-no-tot-do-2021030407592508.chn) ([CafeBiz](https://cafebiz.vn))
-- [“Vợ hai” đại gia Minh Nhựa có chia sẻ chú ý sau ồn ào chồng ly hôn "bà cả"](https://cafebiz.vn/vo-hai-dai-gia-minh-nhua-co-chia-se-chu-y-sau-on-ao-chong-ly-hon-ba-ca-20210304075827133.chn) ([CafeBiz](https://cafebiz.vn))
+- [VinFast đang đi đúng con đường tự chủ công nghệ như Tesla ngày nào](https://cafebiz.vn/vinfast-dang-di-dung-con-duong-tu-chu-cong-nghe-nhu-tesla-ngay-nao-2021030408312243.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đại úy công an chơi game một tuần để bắt trộm](https://cafebiz.vn/dai-uy-cong-an-choi-game-mot-tuan-de-bat-trom-20210304085814023.chn) ([CafeBiz](https://cafebiz.vn))
+- [Các bước chăm sóc da cơ bản trước khi ngủ để có làn da khoẻ đẹp](https://laodong.vn/suc-khoe/cac-buoc-cham-soc-da-co-ban-truoc-khi-ngu-de-co-lan-da-khoe-dep-885587.ldo) ([Lao Động](https://laodong.vn))
+- [FAO và WHO khuyến cáo: Việt Nam đề cao cảnh giác với cúm H5N8 đã có ghi nhận lây sang người](https://cafebiz.vn/fao-va-who-khuyen-cao-viet-nam-de-cao-canh-giac-voi-cum-h5n8-da-co-ghi-nhan-lay-sang-nguoi-202103040855195.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vụ 'nồi chiên không dầu gây ung thư': Hiệp hội ở Hồng Kông có lý - nhưng sự thật lại bị cắt xén mất một nửa!](https://cafebiz.vn/vu-noi-chien-khong-dau-gay-ung-thu-hiep-hoi-o-hong-kong-co-ly-nhung-su-that-lai-bi-cat-xen-mat-mot-nua-20210304085310349.chn) ([CafeBiz](https://cafebiz.vn))
+- [Công đoàn Công ty Cổ phần Dệt May Huế phát động thi đua](https://laodong.vn/cong-doan/cong-doan-cong-ty-co-phan-det-may-hue-phat-dong-thi-dua-885581.ldo) ([Lao Động](https://laodong.vn))
+- [Từ đề xuất nâng lô lên 1.000 cổ phiếu trên HoSE, nhìn lại các nước giao dịch như thế nào?](https://cafebiz.vn/tu-de-xuat-nang-lo-len-1000-co-phieu-tren-hose-nhin-lai-cac-nuoc-giao-dich-nhu-the-nao-20210304085057491.chn) ([CafeBiz](https://cafebiz.vn))
+- [6 cặp vợ chồng trẻ đưa ý kiến trái chiều khi mua nhà lần đầu: Chốt nhà đất hay chung cư đều có lý do vô cùng hợp lý!](https://cafebiz.vn/6-cap-vo-chong-tre-dua-y-kien-trai-chieu-khi-mua-nha-lan-dau-chot-nha-dat-hay-chung-cu-deu-co-ly-do-vo-cung-hop-ly-2021030408504854.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bé gái rơi từ tầng 12 chung cư dự kiến ra viện vào ngày 5.3](https://laodong.vn/suc-khoe/be-gai-roi-tu-tang-12-chung-cu-du-kien-ra-vien-vao-ngay-53-885547.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương: Sau cách ly nhiều lao động chưa đi làm trở lại](https://laodong.vn/cong-doan/hai-duong-sau-cach-ly-nhieu-lao-dong-chua-di-lam-tro-lai-885498.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
