@@ -20,8 +20,8 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 17°C.
-- Feels Like 16.82°C.
+- Temperature is 18°C.
+- Feels Like 17.82°C.
 - Air Visual is 110.
 
 **WEATHER**
@@ -53,15 +53,15 @@
 - [![Barca vs Sevilla](https://img.shields.io/static/v1?label=Barca%20vs%20Sevilla&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20Sevilla)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
-- [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
-- [![FE Credit](https://img.shields.io/static/v1?label=FE%20Credit&message=google&color=red&style=flat-square)](https://www.google.com/search?q=FE%20Credit)
 - [![Hướng dương ngược nắng phần 2 tập 6](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%206)
 - [![Hướng dương ngược nắng tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2036)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
+- [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Anh em họ xô xát phải đi viện vì chuyện xả nước thải sinh hoạt](https://laodong.vn/ban-doc/anh-em-ho-xo-xat-phai-di-vien-vi-chuyen-xa-nuoc-thai-sinh-hoat-885653.ldo) ([Lao Động](https://laodong.vn))
-- [Tỷ giá ngoại tệ 4.3: USD chợ đen giảm sốc, cơ hội vàng để nhà đầu tư ôm gom](https://laodong.vn/kinh-te/ty-gia-ngoai-te-43-usd-cho-den-giam-soc-co-hoi-vang-de-nha-dau-tu-om-gom-885650.ldo) ([Lao Động](https://laodong.vn))
-- [Phạt 150 triệu đồng và buộc chủ đầu tư dỡ công trình vi phạm chỉ giới](https://laodong.vn/bat-dong-san/phat-150-trieu-dong-va-buoc-chu-dau-tu-do-cong-trinh-vi-pham-chi-gioi-885676.ldo) ([Lao Động](https://laodong.vn))
-- [Fan không bất ngờ khi bóng đá Việt Nam bị cảnh báo về dàn xếp tỉ số](https://laodong.vn/ban-doc/fan-khong-bat-ngo-khi-bong-da-viet-nam-bi-canh-bao-ve-dan-xep-ti-so-885696.ldo) ([Lao Động](https://laodong.vn))
+- [Thả 41.000 con cá giống xuống sông Hương](https://laodong.vn/xa-hoi/tha-41000-con-ca-giong-xuong-song-huong-885685.ldo) ([Lao Động](https://laodong.vn))
+- [Điều kiện tổ chức thực hiện đấu giá quyền sử dụng đất](https://laodong.vn/bat-dong-san/dieu-kien-to-chuc-thuc-hien-dau-gia-quyen-su-dung-dat-885427.ldo) ([Lao Động](https://laodong.vn))
+- [Tín dụng đen ở vùng cao Điện Biên: Quay cuồng với vòng xoáy vay - trả](https://laodong.vn/xa-hoi/tin-dung-den-o-vung-cao-dien-bien-quay-cuong-voi-vong-xoay-vay-tra-885503.ldo) ([Lao Động](https://laodong.vn))
+- [Tác hại khó lường của việc ngủ không đủ giấc](https://laodong.vn/suc-khoe/tac-hai-kho-luong-cua-viec-ngu-khong-du-giac-885639.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ GDĐT: Sử dụng điện thoại ở trường về cơ bản vẫn là hành vi bị cấm](https://laodong.vn/ban-doc/bo-gddt-su-dung-dien-thoai-o-truong-ve-co-ban-van-la-hanh-vi-bi-cam-885647.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút: Bé gái được anh Nguyễn Ngọc Mạnh cứu ra viện khi nào?](https://laodong.vn/video/ban-tin-1-phut-be-gai-duoc-anh-nguyen-ngoc-manh-cuu-ra-vien-khi-nao-885692.ldo) ([Lao Động](https://laodong.vn))
 - [Đầu tư 'liều ăn nhiều' kiểu Masayoshi Son: Rót tiền vào hơn 100 startup, mỗi năm thua 1 WeWork nhưng nhận cơn mưa tiền từ 99 công ty còn lại](https://cafebiz.vn/dau-tu-lieu-an-nhieu-kieu-masayoshi-son-rot-tien-vao-hon-100-startup-moi-nam-thua-1-wework-nhung-nhan-con-mua-tien-tu-99-cong-ty-con-lai-20210304123118084.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ông Dũng “lò vôi”: Sẵn sàng chi 1.000 tỉ nếu ông Võ Hoàng Yên chữa được bệnh cho bá tánh](https://laodong.vn/phap-luat/ong-dung-lo-voi-san-sang-chi-1000-ti-neu-ong-vo-hoang-yen-chua-duoc-benh-cho-ba-tanh-885627.ldo) ([Lao Động](https://laodong.vn))
 - [Những nơi còn bị phong tỏa ở Hải Dương](https://vnexpress.net/nhung-noi-con-bi-phong-toa-o-hai-duong-4243308.html) ([VNExpress](https://vnexpress.net))
-- [Top vua phá lưới Ligue 1 2020/21: Mbappe &quot;vô đối&quot; tại giải Pháp](https://laodong.vn/photo/top-vua-pha-luoi-ligue-1-202021-mbappe-vo-doi-tai-giai-phap-885636.ldo) ([Lao Động](https://laodong.vn))
-- [Mối quan hệ hiện tại của Quốc Trường - Bảo Anh sau dính tin đồn tình cảm?](https://laodong.vn/photo/moi-quan-he-hien-tai-cua-quoc-truong-bao-anh-sau-dinh-tin-don-tinh-cam-885665.ldo) ([Lao Động](https://laodong.vn))
+- [Nhóm thanh niên diễn trò đua xe ở Tiền Giang, 2 người bị thương nặng](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/nhom-thanh-nien-dien-tro-dua-xe-o-tien-giang-2-nguoi-bi-thuong-nang-717171.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
