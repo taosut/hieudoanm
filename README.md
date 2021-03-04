@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 17°C.
-- Feels Like 17.2°C.
-- Air Visual is 162.
+- Feels Like 17.92°C.
+- Air Visual is 164.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Khởi tố vụ sản xuất, buôn bán phân bón giả cực lớn tại Đồng Nai](https://laodong.vn/phap-luat/khoi-to-vu-san-xuat-buon-ban-phan-bon-gia-cuc-lon-tai-dong-nai-885870.ldo) ([Lao Động](https://laodong.vn))
-- [Cháu bé 4 tuổi rơi từ tầng 2 xuống đất tử vong thương tâm](https://laodong.vn/xa-hoi/chau-be-4-tuoi-roi-tu-tang-2-xuong-dat-tu-vong-thuong-tam-885838.ldo) ([Lao Động](https://laodong.vn))
-- [Tin bóng đá tối 4.3: Rangers thắng trận, Steven Gerrard &quot;ăn thẻ đỏ&quot;](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-43-rangers-thang-tran-steven-gerrard-an-the-do-885824.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng cho phép dịch vụ làm đẹp, thể thao, vui chơi hoạt động trở lại](https://laodong.vn/xa-hoi/hai-phong-cho-phep-dich-vu-lam-dep-the-thao-vui-choi-hoat-dong-tro-lai-885853.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng cho học sinh các cấp trở lại trường từ ngày 8-3](https://tuoitre.vn/hai-phong-cho-hoc-sinh-cac-cap-tro-lai-truong-tu-ngay-8-3-2021030418372746.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tháng 6.2021 sẽ khởi công 2 dự án thành phần cao tốc Bắc-Nam](https://laodong.vn/kinh-te/thang-62021-se-khoi-cong-2-du-an-thanh-phan-cao-toc-bac-nam-885819.ldo) ([Lao Động](https://laodong.vn))
-- [TP.HCM đổi tên một số khu phố sau sắp xếp đơn vị hành chính](https://tuoitre.vn/tp-hcm-doi-ten-mot-so-khu-pho-sau-sap-xep-don-vi-hanh-chinh-20210304182057809.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Một số sở gửi công văn lên UBND TP.HCM về tình trạng một số chủ đầu tư nhà, đất 'lách luật'](https://tuoitre.vn/mot-so-so-gui-cong-van-len-ubnd-tp-hcm-ve-tinh-trang-mot-so-chu-dau-tu-nha-dat-lach-luat-20210304181713635.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [TP HCM đặt mục tiêu thu hút 5,4 tỷ USD vốn FDI](https://vnexpress.net/tp-hcm-dat-muc-tieu-thu-hut-5-4-ty-usd-von-fdi-4243651.html) ([VNExpress](https://vnexpress.net))
-- [Khát vọng biểu tượng “Hoàng mai xứ Huế”](https://laodong.vn/ban-doc/khat-vong-bieu-tuong-hoang-mai-xu-hue-885788.ldo) ([Lao Động](https://laodong.vn))
+- [Tâm điểm cổ phiếu 4.3: PLX, BSR hút dòng vốn ngoại](https://laodong.vn/kinh-te/tam-diem-co-phieu-43-plx-bsr-hut-dong-von-ngoai-885881.ldo) ([Lao Động](https://laodong.vn))
+- [Hai cao tốc nguy cơ chậm tiến độ do thiếu vật liệu](https://vnexpress.net/hai-cao-toc-nguy-co-cham-tien-do-do-thieu-vat-lieu-4243642.html) ([VNExpress](https://vnexpress.net))
+- [Lí do giá vàng thế giới và Bitcoin đồng loạt bị kìm hãm đà tăng trở lại](https://laodong.vn/kinh-te/li-do-gia-vang-the-gioi-va-bitcoin-dong-loat-bi-kim-ham-da-tang-tro-lai-885832.ldo) ([Lao Động](https://laodong.vn))
+- [Giáo dục 24/7: Hiểu thế nào cho đúng về thông tin bắt buộc học tiếng Hàn?](https://laodong.vn/video/giao-duc-247-hieu-the-nao-cho-dung-ve-thong-tin-bat-buoc-hoc-tieng-han-885802.ldo) ([Lao Động](https://laodong.vn))
+- [Mức xử phạt đối với các Youtuber đăng clip &quot;Thầy chùa ăn thịt chó&quot;](https://laodong.vn/video-thoi-su/muc-xu-phat-doi-voi-cac-youtuber-dang-clip-thay-chua-an-thit-cho-885760.ldo) ([Lao Động](https://laodong.vn))
+- [Sử dụng lò vi sóng như nào để an toàn?](https://laodong.vn/suc-khoe/su-dung-lo-vi-song-nhu-nao-de-an-toan-885635.ldo) ([Lao Động](https://laodong.vn))
+- [Tham gia bảo hiểm xã hội tự nguyện được hưởng trợ cấp mai táng hay tử tuất?](https://laodong.vn/ban-doc/tham-gia-bao-hiem-xa-hoi-tu-nguyen-duoc-huong-tro-cap-mai-tang-hay-tu-tuat-885729.ldo) ([Lao Động](https://laodong.vn))
+- [Các di tích, đền chùa ở Hà Nội sắp mở cửa trở lại](https://vnexpress.net/cac-di-tich-den-chua-o-ha-noi-sap-mo-cua-tro-lai-4243669.html) ([VNExpress](https://vnexpress.net))
+- [Khởi tố vụ sản xuất, buôn bán phân bón giả tại Đồng Nai](https://laodong.vn/thi-truong/khoi-to-vu-san-xuat-buon-ban-phan-bon-gia-tai-dong-nai-885895.ldo) ([Lao Động](https://laodong.vn))
+- [Những lý do Bộ GDĐT thí điểm đưa tiếng Hàn, tiếng Đức thành môn ngoại ngữ 1](https://laodong.vn/giao-duc/nhung-ly-do-bo-gddt-thi-diem-dua-tieng-han-tieng-duc-thanh-mon-ngoai-ngu-1-885837.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
