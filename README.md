@@ -59,9 +59,9 @@
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
-- [![Luong y vo hoang yen lua dao](https://img.shields.io/static/v1?label=Luong%20y%20vo%20hoang%20yen%20lua%20dao&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Luong%20y%20vo%20hoang%20yen%20lua%20dao)
 - [![Lâm Khánh Chi](https://img.shields.io/static/v1?label=L%C3%A2m%20Kh%C3%A1nh%20Chi&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%A2m%20Kh%C3%A1nh%20Chi)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Nam nhân viên Bệnh viện Giao thông Vận tải Hải Phòng lần 4 âm tính COVID-19](https://laodong.vn/xa-hoi/nam-nhan-vien-benh-vien-giao-thong-van-tai-hai-phong-lan-4-am-tinh-covid-19-885911.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất xây 8 trạm bơm dã chiến để cải thiện ô nhiễm sông Nhuệ, Tô Lịch](https://laodong.vn/xa-hoi/de-xuat-xay-8-tram-bom-da-chien-de-cai-thien-o-nhiem-song-nhue-to-lich-885909.ldo) ([Lao Động](https://laodong.vn))
-- [Công đoàn Hà Tĩnh trao hơn 900 bộ áo dài cho nữ công nhân](https://laodong.vn/cong-doan/cong-doan-ha-tinh-trao-hon-900-bo-ao-dai-cho-nu-cong-nhan-885910.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng: Gần 200 chung cư cũ cần cải tạo, xây dựng](https://laodong.vn/bat-dong-san/hai-phong-gan-200-chung-cu-cu-can-cai-tao-xay-dung-885904.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Sẽ có hướng dẫn việc đăng ký nguyện vọng vào lớp 10 theo hộ khẩu](https://laodong.vn/xa-hoi/ha-noi-se-co-huong-dan-viec-dang-ky-nguyen-vong-vao-lop-10-theo-ho-khau-885906.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất hôm nay: Ông Trump đang chọn người đồng hành tái tranh cử 2024?](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-ong-trump-dang-chon-nguoi-dong-hanh-tai-tranh-cu-2024-885890.ldo) ([Lao Động](https://laodong.vn))
-- [Dân báo tin, Sở Y tế TP.HCM thấy được một cơ sở thẩm mỹ trá hình cà phê](https://tuoitre.vn/dan-bao-tin-so-y-te-tp-hcm-thay-duoc-mot-co-so-tham-my-tra-hinh-ca-phe-20210304201147251.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hà Nội tiêm vắc xin COVID-19 cho cả người vãng lai ở Hà Nội](https://tuoitre.vn/ha-noi-tiem-vac-xin-covid-19-cho-ca-nguoi-vang-lai-o-ha-noi-20210304193218947.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hải Phòng mở lại các cơ sở dịch vụ](https://vnexpress.net/hai-phong-mo-lai-cac-co-so-dich-vu-4243685.html) ([VNExpress](https://vnexpress.net))
-- [Hà Nội thông tin về kinh phí mua vaccine COVID-19 và việc tiêm chủng](https://laodong.vn/xa-hoi/ha-noi-thong-tin-ve-kinh-phi-mua-vaccine-covid-19-va-viec-tiem-chung-885897.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
