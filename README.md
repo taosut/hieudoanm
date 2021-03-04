@@ -21,8 +21,8 @@
 
 - Current weather is light intensity drizzle.
 - Temperature is 17°C.
-- Feels Like 17.2°C.
-- Air Visual is 156.
+- Feels Like 17.56°C.
+- Air Visual is 160.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Kinh tế 24h: Giá vàng giảm; Xoài rớt giá thê thảm](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-giam-xoai-rot-gia-the-tham-885808.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Ninh trả lương, trợ cấp BHXH gộp 2 tháng/lần để đảm bảo phòng dịch](https://laodong.vn/cong-doan/quang-ninh-tra-luong-tro-cap-bhxh-gop-2-thanglan-de-dam-bao-phong-dich-885847.ldo) ([Lao Động](https://laodong.vn))
+- [Khát vọng biểu tượng “Hoàng mai xứ Huế”](https://laodong.vn/ban-doc/khat-vong-bieu-tuong-hoang-mai-xu-hue-885788.ldo) ([Lao Động](https://laodong.vn))
+- [Sơn La cho phép quán bar, karaoke hoạt động trở lại](https://laodong.vn/xa-hoi/son-la-cho-phep-quan-bar-karaoke-hoat-dong-tro-lai-885848.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam - Singapore thảo luận khả năng áp dụng hộ chiếu vaccine](https://laodong.vn/thoi-su/viet-nam-singapore-thao-luan-kha-nang-ap-dung-ho-chieu-vaccine-885851.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt thầy lang tống tiền bạn tình bằng clip nhạy cảm](https://laodong.vn/phap-luat/bat-thay-lang-tong-tien-ban-tinh-bang-clip-nhay-cam-885830.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều 4-3, 6 ca mắc COVID-19 mới ở Hải Dương, một nửa là bệnh nhân cộng đồng](https://tuoitre.vn/chieu-4-3-6-ca-mac-covid-19-moi-o-hai-duong-mot-nua-la-benh-nhan-cong-dong-20210304180739865.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Không Ibrahimovic, AC Milan thoát thua hú vía](https://laodong.vn/video-the-thao/khong-ibrahimovic-ac-milan-thoat-thua-hu-via-885776.ldo) ([Lao Động](https://laodong.vn))
+- [Cảnh hoang tàn tại Trung tâm phục hồi chức năng và dưỡng sinh của ‘thần y’ Võ Hoàng Yên](https://tuoitre.vn/canh-hoang-tan-tai-trung-tam-phuc-hoi-chuc-nang-va-duong-sinh-cua-than-y-vo-hoang-yen-20210304172937856.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [TP.HCM chưa quyết định ngày mở cửa lại toàn bộ hoạt động, cơ sở dịch vụ](https://tuoitre.vn/tphcm-chua-quyet-dinh-ngay-mo-cua-lai-toan-bo-hoat-dong-co-so-dich-vu-20210304174054616.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chặng đường thành công của chàng kỹ sư trẻ Nguyễn Văn Hùng](https://laodong.vn/thong-tin-doanh-nghiep/chang-duong-thanh-cong-cua-chang-ky-su-tre-nguyen-van-hung-885617.ldo) ([Lao Động](https://laodong.vn))
-- [Kẻ 8 lạng người nửa cân: Chọn Yamaha Latte hay Honda Vision?](https://laodong.vn/xe/ke-8-lang-nguoi-nua-can-chon-yamaha-latte-hay-honda-vision-885412.ldo) ([Lao Động](https://laodong.vn))
-- [Giá giường bệnh tại Bệnh viện Bạch Mai lên tới 3,3 triệu đồng/ngày](https://laodong.vn/xa-hoi/gia-giuong-benh-tai-benh-vien-bach-mai-len-toi-33-trieu-dongngay-885839.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM thành lập đoàn kiểm tra liên ngành xử lý xăng dầu giả](https://laodong.vn/kinh-te/tphcm-thanh-lap-doan-kiem-tra-lien-nganh-xu-ly-xang-dau-gia-885823.ldo) ([Lao Động](https://laodong.vn))
-- [Tai nạn nghiêm trọng liên tục, lắp 12 camera ở các 'điểm đen' đèo Bảo Lộc](https://tuoitre.vn/tai-nan-nghiem-trong-lien-tuc-lap-12-camera-o-cac-diem-den-deo-bao-loc-20210304162411371.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Mèo rừng cái quý hiếm chui chuồng bắt gà bị mắc kẹt, chủ tóm nhẹ nhàng](https://tuoitre.vn/meo-rung-cai-quy-hiem-chui-chuong-bat-ga-bi-mac-ket-chu-tom-nhe-nhang-20210304165122357.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sở Tài nguyên - môi trường TP.HCM đề xuất tăng quyền xử phạt 'trị' tiếng ồn](https://tuoitre.vn/so-tai-nguyen-moi-truong-tp-hcm-de-xuat-tang-quyen-xu-phat-tri-tieng-on-20210304171830222.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hải Dương phong tỏa thêm 3 khu dân cư ở Kim Thành](https://tuoitre.vn/hai-duong-phong-toa-them-3-khu-dan-cu-o-kim-thanh-2021030416342779.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đại biểu HĐND TP.HCM nhiệm kỳ 2021-2026 có 95 người, 32 đơn vị bầu cử](https://tuoitre.vn/dai-bieu-hdnd-tp-hcm-nhiem-ky-2021-2026-co-95-nguoi-32-don-vi-bau-cu-20210304170450532.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -134,12 +134,12 @@
 02. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 03. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 04. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
-05. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-06. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+05. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+06. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
 07. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 08. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 09. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
-10. [TÌNH BẠN DIỆU KỲ - AMEE x RICKY STAR x LĂNG LD | Special M/V (Official)](https://www.youtube.com/watch?v=TpmVzBcP70U) - [ST.319 Entertainment](https://www.youtube.com/channel/UCSnVteUNlhr1SqCjTQx0PDQ)
+10. [Ông Võ Hoàng Yên Lý Giải Về T.ố C.á.o l.ừ.a đảo, dối trá hàng trăm tỷ đồng của vợ ông Dũng lò vôi](https://www.youtube.com/watch?v=G7PQbh2Ob4E) - [HOA LỆ SÀI GÒN](https://www.youtube.com/channel/UCJ7fUfDLagCvZGv0uD4shQA)
 
 [Read More](https://www.youtube.com/feed/trending)
 
