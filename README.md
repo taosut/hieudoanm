@@ -21,8 +21,8 @@
 
 - Current weather is drizzle.
 - Temperature is 17°C.
-- Feels Like 17.56°C.
-- Air Visual is 166.
+- Feels Like 17.92°C.
+- Air Visual is 163.
 
 **WEATHER**
 
