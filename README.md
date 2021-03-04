@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 19°C.
-- Feels Like 19.13°C.
-- Air Visual is 112.
+- Temperature is 18°C.
+- Feels Like 17.82°C.
+- Air Visual is 129.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Chứng khoán: Nâng lô giao dịch gây khó cho nhà đầu tư nhỏ lẻ ra sao?](https://laodong.vn/kinh-te/chung-khoan-nang-lo-giao-dich-gay-kho-cho-nha-dau-tu-nho-le-ra-sao-885755.ldo) ([Lao Động](https://laodong.vn))
+- [Ở tuổi 18, "Elon Musk của Ghana" tự tay tạo ra ô tô chỉ từ sắt vụn và chí lớn](https://cafebiz.vn/o-tuoi-18-elon-musk-cua-ghana-tu-tay-tao-ra-o-to-chi-tu-sat-vun-va-chi-lon-20210304135548013.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giữa lúc thị trường liên tục nghẽn lệnh, HOSE chuẩn bị đón thêm 1,2 tỷ cổ phiếu SeABank lên sàn chứng khoán](https://cafebiz.vn/giua-luc-thi-truong-lien-tuc-nghen-lenh-hose-chuan-bi-don-them-12-ty-co-phieu-seabank-len-san-chung-khoan-20210304151236976.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xử lý nghiêm vụ đánh hội đồng một học sinh lớp 10 ngay trong trường](https://laodong.vn/giao-duc/xu-ly-nghiem-vu-danh-hoi-dong-mot-hoc-sinh-lop-10-ngay-trong-truong-885747.ldo) ([Lao Động](https://laodong.vn))
+- [Ceo Trương Công Thành: “Khởi nghiệp là một cuộc chiến gian nan”](https://cafebiz.vn/ceo-truong-cong-thanh-khoi-nghiep-la-mot-cuoc-chien-gian-nan-20210304141443185.chn) ([CafeBiz](https://cafebiz.vn))
+- [Doanh nhân người Mỹ đến HTV ủng hộ mua vắc xin Covid-19](https://cafebiz.vn/doanh-nhan-nguoi-my-den-htv-ung-ho-mua-vac-xin-covid-19-20210304111833335.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vân Dung và loạt nghệ sĩ thương tiếc NSND Trần Hạnh](https://laodong.vn/van-hoa-giai-tri/van-dung-va-loat-nghe-si-thuong-tiec-nsnd-tran-hanh-885671.ldo) ([Lao Động](https://laodong.vn))
+- ["Lười biếng thì hỏng người, kiêu ngạo thì hỏng việc, hoang phí thì hỏng cả gia tài": Tránh xa ngay 3 nguyên do khiến ai dính phải cũng thất bại cả đời](https://cafebiz.vn/luoi-bieng-thi-hong-nguoi-kieu-ngao-thi-hong-viec-hoang-phi-thi-hong-ca-gia-tai-tranh-xa-ngay-3-nguyen-do-khien-ai-dinh-phai-cung-that-bai-ca-doi-20210304151640947.chn) ([CafeBiz](https://cafebiz.vn))
+- [NSND Lan Hương thương tiếc trước sự ra đi của &quot;bố&quot; Trần Hạnh](https://laodong.vn/van-hoa-giai-tri/nsnd-lan-huong-thuong-tiec-truoc-su-ra-di-cua-bo-tran-hanh-885697.ldo) ([Lao Động](https://laodong.vn))
+- [Nhận định Liverpool - Chelsea: Nghèo gặp eo](https://laodong.vn/the-thao/nhan-dinh-liverpool-chelsea-ngheo-gap-eo-885686.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
