@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 18°C.
-- Feels Like 18.18°C.
-- Air Visual is 120.
+- Feels Like 18.54°C.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -52,9 +52,10 @@
 - [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
 - [![Barca vs Sevilla](https://img.shields.io/static/v1?label=Barca%20vs%20Sevilla&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20Sevilla)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
+- [![Bolivia](https://img.shields.io/static/v1?label=Bolivia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bolivia)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
+- [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Hướng dương ngược nắng phần 2 tập 6](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%206)
-- [![Hướng dương ngược nắng tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2036)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
@@ -63,9 +64,8 @@
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
-- [![PS5](https://img.shields.io/static/v1?label=PS5&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PS5)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
-- [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
+- [![Tiếng Hàn](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n)
 - [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 - [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- ['Tuần trăng mật' của ông Biden ở Nhà Trắng dường như đã kết thúc](https://laodong.vn/the-gioi/tuan-trang-mat-cua-ong-biden-o-nha-trang-duong-nhu-da-ket-thuc-885680.ldo) ([Lao Động](https://laodong.vn))
-- [USD tự do giảm mạnh ngày thứ 2 liên tiếp, USD ngân hàng cũng đi xuống](https://cafebiz.vn/usd-tu-do-giam-manh-ngay-thu-2-lien-tiep-usd-ngan-hang-cung-di-xuong-20210304133224106.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giám đốc Vân Đặng cùng Công ty TNHH Đông dược Bà Vân chinh phục người tiêu dùng](https://cafebiz.vn/giam-doc-van-dang-cung-cong-ty-tnhh-dong-duoc-ba-van-chinh-phuc-nguoi-tieu-dung-20210304113345045.chn) ([CafeBiz](https://cafebiz.vn))
-- [BAC A BANK chính thức niêm yết cổ phiếu trên sàn HNX](https://cafebiz.vn/bac-a-bank-chinh-thuc-niem-yet-co-phieu-tren-san-hnx-20210304113312108.chn) ([CafeBiz](https://cafebiz.vn))
-- [VinFast hợp tác với Prologium sản xuất pin thể rắn ở Việt Nam](https://cafebiz.vn/vinfast-hop-tac-voi-prologium-san-xuat-pin-the-ran-o-viet-nam-20210304111858886.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xem xét gia hạn nộp 115.000 tỉ đồng thuế, tiền thuê đất](https://laodong.vn/kinh-te/xem-xet-gia-han-nop-115000-ti-dong-thue-tien-thue-dat-885700.ldo) ([Lao Động](https://laodong.vn))
-- [Sau giờ làm, bạn nghĩ tới ăn chơi, cày phim, thì những người giàu đều đang tẩm ngẩm tầm ngầm làm "3 chuyện"](https://cafebiz.vn/sau-gio-lam-ban-nghi-toi-an-choi-cay-phim-thi-nhung-nguoi-giau-deu-dang-tam-ngam-tam-ngam-lam-3-chuyen-20210226222323639.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tài sản tăng gần gấp 4 lần, tỷ phú Masayoshi Son 'hồi sinh' sau 1 năm tàn khốc như thế nào?](https://cafebiz.vn/tai-san-tang-gan-gap-4-lan-ty-phu-masayoshi-son-hoi-sinh-sau-1-nam-tan-khoc-nhu-the-nao-20210304113731977.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thả 41.000 con cá giống xuống sông Hương](https://laodong.vn/xa-hoi/tha-41000-con-ca-giong-xuong-song-huong-885685.ldo) ([Lao Động](https://laodong.vn))
-- [Điều kiện tổ chức thực hiện đấu giá quyền sử dụng đất](https://laodong.vn/bat-dong-san/dieu-kien-to-chuc-thuc-hien-dau-gia-quyen-su-dung-dat-885427.ldo) ([Lao Động](https://laodong.vn))
+- [Doanh thu ngày của Amazon vượt quá 1 tỷ USD trong năm 2020](https://cafebiz.vn/doanh-thu-ngay-cua-amazon-vuot-qua-1-ty-usd-trong-nam-2020-20210304134748722.chn) ([CafeBiz](https://cafebiz.vn))
+- [Triệu phú bị fan ruột bóc phốt ‘lừa đảo’: Bán khóa học làm giàu 2.500 USD nhưng giá trị đem lại bằng 0, nói dối 1.000 lần vẫn là lời nói dối!](https://cafebiz.vn/trieu-phu-bi-fan-ruot-boc-phot-lua-dao-ban-khoa-hoc-lam-giau-2500-usd-nhung-gia-tri-dem-lai-bang-0-noi-doi-1000-lan-van-la-loi-noi-doi-20210304113415619.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tiết lộ thêm về nhà máy chíp 17 tỷ USD sắp xây của Samsung tại Mỹ](https://cafebiz.vn/tiet-lo-them-ve-nha-may-chip-17-ty-usd-sap-xay-cua-samsung-tai-my-20210304134507486.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bị chỉ trích kịch liệt, TQ "chơi lớn": Tất cả người nước ngoài nhập cảnh đều phải xét nghiệm Covid qua hậu môn](https://cafebiz.vn/bi-chi-trich-kich-liet-tq-choi-lon-tat-ca-nguoi-nuoc-ngoai-nhap-canh-deu-phai-xet-nghiem-covid-qua-hau-mon-20210304134634162.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chủ tịch Quảng Nam: Nhiều dự án phân lô bán nền “quên” dành đất tái định cư](https://laodong.vn/bat-dong-san/chu-tich-quang-nam-nhieu-du-an-phan-lo-ban-nen-quen-danh-dat-tai-dinh-cu-885688.ldo) ([Lao Động](https://laodong.vn))
+- [Hôn nhân 20 năm viên mãn của Hồng Đăng &quot;Hướng dương ngược nắng&quot;](https://laodong.vn/yeu-360/hon-nhan-20-nam-vien-man-cua-hong-dang-huong-duong-nguoc-nang-885704.ldo) ([Lao Động](https://laodong.vn))
+- [Giá quá rẻ, nông dân Hà Nội vứt bỏ củ cải, cà chua...đầy đồng vì ế ẩm](https://cafebiz.vn/gia-qua-re-nong-dan-ha-noi-vut-bo-cu-cai-ca-chuaday-dong-vi-e-am-20210304134217755.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kiến nghị không phát triển thêm dự án điện than mới trong 10 năm tới](https://cafebiz.vn/kien-nghi-khong-phat-trien-them-du-an-dien-than-moi-trong-10-nam-toi-20210304134141696.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM tiếp tục đón những đợt nắng nóng kéo dài](https://laodong.vn/moi-truong/tphcm-tiep-tuc-don-nhung-dot-nang-nong-keo-dai-885701.ldo) ([Lao Động](https://laodong.vn))
+- [Đề nghị truy tố 36 bị can trong đại án cao tốc Đà Nẵng - Quảng Ngãi](https://cafebiz.vn/de-nghi-truy-to-36-bi-can-trong-dai-an-cao-toc-da-nang-quang-ngai-20210304133848076.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Fine Dining, Bistro, Pop-up... rốt cuộc nghĩa là gì?](https://vietcetera.com/vn/fine-dining-casual-bistro-nghia-la-gi)
 - [Gọi vốn thành công vòng Seed từ Genesia Ventures, Vietcetera mở rộng quy mô và chuẩn bị cho Series A](https://vietcetera.com/vn/goi-von-thanh-cong-vong-seed-tu-genesia-ventures-vietcetera-mo-rong-quy-mo-va-chuan-bi-cho-series-a)
 - ["Nhìn vào mắt con Mơ, chị bị sét đánh."](https://vietcetera.com/vn/nghe-don-kit-meo-hoi)
 - [Varilux: Tầm nhìn không-giới-hạn cho Gen X ](https://vietcetera.com/vn/varilux-tam-nhin-khong-gioi-han-cho-gen-x)
@@ -105,7 +106,6 @@
 - [Vì sao chúng ta không nhớ ký ức khi còn là em bé?](https://vietcetera.com/vn/infantile-amnesia-vi-sao-chung-ta-khong-nho-ky-uc-khi-con-la-em-be)
 - [Anh Cầm Fact: Nghề "cầm fact" có gì khó?](https://vietcetera.com/vn/anh-cam-fact-nghe-cam-fact-co-gi-kho)
 - [Podcast “Vietnam Innovators” tập 10: Kelly Trần chia sẻ công thức “số hoá” thành công của Pizza 4P’s](https://vietcetera.com/vn/podcast-vietnam-innovators-tap-10-kelly-tran-chia-se-cong-thuc-so-hoa-thanh-cong-cua-pizza-4ps)
-- ["Quán bar. Giữa khuya. Mời về nhà."](https://vietcetera.com/vn/quan-bar-giua-khuya-moi-ve-nha)
 
 [Read More](https://vietcetera.com/)
 
