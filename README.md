@@ -22,7 +22,7 @@
 - Current weather is drizzle.
 - Temperature is 17°C.
 - Feels Like 17.56°C.
-- Air Visual is 152.
+- Air Visual is 91.
 
 **WEATHER**
 
@@ -61,13 +61,13 @@
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![Lâm Khánh Chi](https://img.shields.io/static/v1?label=L%C3%A2m%20Kh%C3%A1nh%20Chi&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%A2m%20Kh%C3%A1nh%20Chi)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
+- [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
-- [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
 - [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
+- [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Ô tô đâm điên loạn khiến ba người thương vong ở Hà Nội](http://vietnamnet.vn/vn/thoi-su/o-to-dam-dien-loan-khien-ba-nguoi-thuong-vong-o-ha-noi-717327.html) ([VietNamNet](https://vietnamnet.vn))
+- [Buồn ngủ, lái ôtô tông xe liên tiếp, 1 người chết, 2 người bị thương](https://tuoitre.vn/buon-ngu-lai-oto-tong-xe-lien-tiep-1-nguoi-chet-2-nguoi-bi-thuong-20210304224827889.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Kiến nghị xử lý nghiêm Cục trưởng Cục QLLĐNN giai đoạn 2000- 2016](https://laodong.vn/thoi-su/kien-nghi-xu-ly-nghiem-cuc-truong-cuc-qlldnn-giai-doan-2000-2016-885922.ldo) ([Lao Động](https://laodong.vn))
+- [Đang uống cà phê, người đàn ông lên tầng 5 nhảy xuống đất](http://vietnamnet.vn/vn/thoi-su/dang-uong-ca-phe-nguoi-dan-ong-len-tang-5-nhay-xuong-dat-717324.html) ([VietNamNet](https://vietnamnet.vn))
+- [Mâu thuẫn gia đình, thiếu nữ ở Quảng Trị treo cổ tự tử](http://vietnamnet.vn/vn/thoi-su/mau-thuan-gia-dinh-thieu-nu-o-quang-tri-treo-co-tu-tu-717318.html) ([VietNamNet](https://vietnamnet.vn))
+- [Vụ nổ súng tại Cần Thơ: Bắt thêm đối tượng dùng súng, thu giữ 1 khẩu súng](https://laodong.vn/phap-luat/vu-no-sung-tai-can-tho-bat-them-doi-tuong-dung-sung-thu-giu-1-khau-sung-885914.ldo) ([Lao Động](https://laodong.vn))
+- [Kiến nghị xử lý nghiêm cục trưởng Cục Quản lý lao động ngoài nước giai đoạn 2012-2016](https://tuoitre.vn/kien-nghi-xu-ly-nghiem-cuc-truong-cuc-quan-ly-lao-dong-ngoai-nuoc-giai-doan-2012-2016-20210304214651938.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Châu Âu tuyên bố không đàm phán mua vaccine COVID-19 của Nga](https://laodong.vn/the-gioi/chau-au-tuyen-bo-khong-dam-phan-mua-vaccine-covid-19-cua-nga-885905.ldo) ([Lao Động](https://laodong.vn))
+- [Xây 8 trạm bơm dã chiến bổ cập nước cho sông Tô Lịch](https://vnexpress.net/xay-8-tram-bom-da-chien-bo-cap-nuoc-cho-song-to-lich-4243690.html) ([VNExpress](https://vnexpress.net))
+- [Nam nhân viên Bệnh viện Giao thông Vận tải Hải Phòng lần 4 âm tính COVID-19](https://laodong.vn/xa-hoi/nam-nhan-vien-benh-vien-giao-thong-van-tai-hai-phong-lan-4-am-tinh-covid-19-885911.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
