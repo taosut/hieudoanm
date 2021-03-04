@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 17°C.
-- Feels Like 18.28°C.
-- Air Visual is 120.
+- Feels Like 17.54°C.
+- Air Visual is 122.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [VinFast đang đi đúng con đường tự chủ công nghệ như Tesla ngày nào](https://cafebiz.vn/vinfast-dang-di-dung-con-duong-tu-chu-cong-nghe-nhu-tesla-ngay-nao-2021030408312243.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đại úy công an chơi game một tuần để bắt trộm](https://cafebiz.vn/dai-uy-cong-an-choi-game-mot-tuan-de-bat-trom-20210304085814023.chn) ([CafeBiz](https://cafebiz.vn))
-- [Các bước chăm sóc da cơ bản trước khi ngủ để có làn da khoẻ đẹp](https://laodong.vn/suc-khoe/cac-buoc-cham-soc-da-co-ban-truoc-khi-ngu-de-co-lan-da-khoe-dep-885587.ldo) ([Lao Động](https://laodong.vn))
-- [FAO và WHO khuyến cáo: Việt Nam đề cao cảnh giác với cúm H5N8 đã có ghi nhận lây sang người](https://cafebiz.vn/fao-va-who-khuyen-cao-viet-nam-de-cao-canh-giac-voi-cum-h5n8-da-co-ghi-nhan-lay-sang-nguoi-202103040855195.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vụ 'nồi chiên không dầu gây ung thư': Hiệp hội ở Hồng Kông có lý - nhưng sự thật lại bị cắt xén mất một nửa!](https://cafebiz.vn/vu-noi-chien-khong-dau-gay-ung-thu-hiep-hoi-o-hong-kong-co-ly-nhung-su-that-lai-bi-cat-xen-mat-mot-nua-20210304085310349.chn) ([CafeBiz](https://cafebiz.vn))
-- [Công đoàn Công ty Cổ phần Dệt May Huế phát động thi đua](https://laodong.vn/cong-doan/cong-doan-cong-ty-co-phan-det-may-hue-phat-dong-thi-dua-885581.ldo) ([Lao Động](https://laodong.vn))
-- [Từ đề xuất nâng lô lên 1.000 cổ phiếu trên HoSE, nhìn lại các nước giao dịch như thế nào?](https://cafebiz.vn/tu-de-xuat-nang-lo-len-1000-co-phieu-tren-hose-nhin-lai-cac-nuoc-giao-dich-nhu-the-nao-20210304085057491.chn) ([CafeBiz](https://cafebiz.vn))
-- [6 cặp vợ chồng trẻ đưa ý kiến trái chiều khi mua nhà lần đầu: Chốt nhà đất hay chung cư đều có lý do vô cùng hợp lý!](https://cafebiz.vn/6-cap-vo-chong-tre-dua-y-kien-trai-chieu-khi-mua-nha-lan-dau-chot-nha-dat-hay-chung-cu-deu-co-ly-do-vo-cung-hop-ly-2021030408504854.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bé gái rơi từ tầng 12 chung cư dự kiến ra viện vào ngày 5.3](https://laodong.vn/suc-khoe/be-gai-roi-tu-tang-12-chung-cu-du-kien-ra-vien-vao-ngay-53-885547.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương: Sau cách ly nhiều lao động chưa đi làm trở lại](https://laodong.vn/cong-doan/hai-duong-sau-cach-ly-nhieu-lao-dong-chua-di-lam-tro-lai-885498.ldo) ([Lao Động](https://laodong.vn))
+- [Rà soát kỹ để tăng tính khả thi, đúng đối tượng](https://laodong.vn/xa-hoi/ra-soat-ky-de-tang-tinh-kha-thi-dung-doi-tuong-885517.ldo) ([Lao Động](https://laodong.vn))
+- [Phú Thọ: Nữ CNVCLĐ huyện Hạ Hòa tích cực hưởng ứng “Tuần lễ Áo dài”](https://laodong.vn/ldld-phu-tho/phu-tho-nu-cnvcld-huyen-ha-hoa-tich-cuc-huong-ung-tuan-le-ao-dai-885610.ldo) ([Lao Động](https://laodong.vn))
+- [Tuyên bố của Thống đốc New York sau cáo buộc quấy rối tình dục](https://laodong.vn/the-gioi/tuyen-bo-cua-thong-doc-new-york-sau-cao-buoc-quay-roi-tinh-duc-885597.ldo) ([Lao Động](https://laodong.vn))
+- [Đệ nhất phu nhân Mỹ tham gia hoạt động cùng tân Bộ trưởng Giáo dục](https://laodong.vn/the-gioi/de-nhat-phu-nhan-my-tham-gia-hoat-dong-cung-tan-bo-truong-giao-duc-885578.ldo) ([Lao Động](https://laodong.vn))
+- [Thanh lọc không khí trong nhà với những nguyên liệu rẻ tiền](https://laodong.vn/bat-dong-san/thanh-loc-khong-khi-trong-nha-voi-nhung-nguyen-lieu-re-tien-885448.ldo) ([Lao Động](https://laodong.vn))
+- [Top 3 Miss World Việt Nam: Người đỉnh cao nhan sắc, người yên bề gia thất](https://laodong.vn/photo/top-3-miss-world-viet-nam-nguoi-dinh-cao-nhan-sac-nguoi-yen-be-gia-that-885586.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyên gia nhận định nguy cơ dịch COVID-19 tại Việt Nam hiện nay](https://laodong.vn/video-thoi-su/chuyen-gia-nhan-dinh-nguy-co-dich-covid-19-tai-viet-nam-hien-nay-885449.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao An Giang cấm triệt để hát karaoke di động ồn ào?](https://tuoitre.vn/vi-sao-an-giang-cam-triet-de-hat-karaoke-di-dong-on-ao-20210304081442749.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thực hư thông tin &quot;Tiếng Hàn trở thành môn học bắt buộc từ lớp 3 đến 12&quot;](https://laodong.vn/xa-hoi/thuc-hu-thong-tin-tieng-han-tro-thanh-mon-hoc-bat-buoc-tu-lop-3-den-12-885583.ldo) ([Lao Động](https://laodong.vn))
+- [Ứng dụng giao hàng thay đổi ngành dịch vụ ăn uống trong dịch bệnh](https://cafebiz.vn/ung-dung-giao-hang-thay-doi-nganh-dich-vu-an-uong-trong-dich-benh-20210304083634633.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
