@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 17°C.
 - Feels Like 16.83°C.
-- Air Visual is 86.
+- Air Visual is 123.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tuyển Việt Nam sẽ đá vòng loại World Cup dưới nắng nóng hơn 40 độ ở UAE](https://laodong.vn/bong-da/tuyen-viet-nam-se-da-vong-loai-world-cup-duoi-nang-nong-hon-40-do-o-uae-885626.ldo) ([Lao Động](https://laodong.vn))
-- [Eximbank đặt kế hoạch lợi nhuận 2.150 tỷ đồng năm 2021, cao nhất 9 năm](https://cafebiz.vn/eximbank-dat-ke-hoach-loi-nhuan-2150-ty-dong-nam-2021-cao-nhat-9-nam-20210304104152417.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mối lương duyên kỳ lạ của NSND Trần Hạnh](https://laodong.vn/chuyen-nha-minh/moi-luong-duyen-ky-la-cua-nsnd-tran-hanh-885620.ldo) ([Lao Động](https://laodong.vn))
-- [Những vai diễn ấn tượng trong sự nghiệp đồ sộ của NSND Trần Hạnh](https://laodong.vn/giai-tri/nhung-vai-dien-an-tuong-trong-su-nghiep-do-so-cua-nsnd-tran-hanh-885628.ldo) ([Lao Động](https://laodong.vn))
-- [TP.HCM tiếp tục cách ly tập trung người đến từ 19 nơi ở Cẩm Giàng, Hải Dương](https://tuoitre.vn/tp-hcm-tiep-tuc-cach-ly-tap-trung-nguoi-den-tu-19-noi-o-cam-giang-hai-duong-20210304100704872.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Gần 2 triệu học sinh đến lớp, lý do 1 em trường Xuân Phương vẫn học online](https://laodong.vn/video-thoi-su/gan-2-trieu-hoc-sinh-den-lop-ly-do-1-em-truong-xuan-phuong-van-hoc-online-885536.ldo) ([Lao Động](https://laodong.vn))
-- [VinFast hợp tác với ProLogium sản xuất pin thể rắn ở Việt Nam](https://laodong.vn/doanh-nghiep-doanh-nhan/vinfast-hop-tac-voi-prologium-san-xuat-pin-the-ran-o-viet-nam-885598.ldo) ([Lao Động](https://laodong.vn))
-- [Shark Tank Việt Nam chính thức trở lại, phát sóng vào đầu tháng 5](https://cafebiz.vn/shark-tank-viet-nam-chinh-thuc-tro-lai-phat-song-vao-dau-thang-5-20210304101925207.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hôm nay 4-3, hai chuyến bay đưa công dân Việt Nam từ Myanmar về nước](https://tuoitre.vn/hom-nay-4-3-hai-chuyen-bay-dua-cong-dan-viet-nam-tu-myanmar-ve-nuoc-20210304094629438.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Trăm cơn “sốt đất”, một kịch bản: Tin đồn biến thành cuộc chơi của giới đầu cơ, khi nhà đầu tư đổ xô mua thì “sập”](https://cafebiz.vn/tram-con-sot-dat-mot-kich-ban-tin-don-bien-thanh-cuoc-choi-cua-gioi-dau-co-khi-nha-dau-tu-do-xo-mua-thi-sap-20210304092652742.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cảnh sát hủy trận giao hữu của U22 Indonesia chuẩn bị cho SEA Games 31](https://laodong.vn/bong-da-quoc-te/canh-sat-huy-tran-giao-huu-cua-u22-indonesia-chuan-bi-cho-sea-games-31-885664.ldo) ([Lao Động](https://laodong.vn))
+- [Nữ đoàn viên ngành Giáo dục đào tạo Đồng Tháp hưởng ứng “Tuần lễ áo dài”](https://laodong.vn/ldld-dong-thap/nu-doan-vien-nganh-giao-duc-dao-tao-dong-thap-huong-ung-tuan-le-ao-dai-885666.ldo) ([Lao Động](https://laodong.vn))
+- [Điện Biên: Trèo lên cột điện 35KV, một người bị giật điện nguy kịch](https://laodong.vn/xa-hoi/dien-bien-treo-len-cot-dien-35kv-mot-nguoi-bi-giat-dien-nguy-kich-885663.ldo) ([Lao Động](https://laodong.vn))
+- [Hai người tử vong trong phòng khách sạn](https://vnexpress.net/hai-nguoi-tu-vong-trong-phong-khach-san-4243362.html) ([VNExpress](https://vnexpress.net))
+- [Mua hàng trả góp 0% với thẻ tín dụng quốc tế PVcomBank](https://laodong.vn/kinh-te/mua-hang-tra-gop-0-voi-the-tin-dung-quoc-te-pvcombank-885632.ldo) ([Lao Động](https://laodong.vn))
+- [Đã xác định đối tượng nổ súng trong vụ hỗn chiến ở trung tâm TP Cần Thơ](https://laodong.vn/phap-luat/da-xac-dinh-doi-tuong-no-sung-trong-vu-hon-chien-o-trung-tam-tp-can-tho-885655.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ GD-ĐT: Tiếng Hàn trở thành môn học bắt buộc cho học sinh từ lớp 3 đến lớp 12?](https://cafebiz.vn/bo-gd-dt-tieng-han-tro-thanh-mon-hoc-bat-buoc-cho-hoc-sinh-tu-lop-3-den-lop-12-2021030410574532.chn) ([CafeBiz](https://cafebiz.vn))
+- [Economist: Nếu kinh tế Mỹ "phát sốt" và đứng trước nguy cơ lạm phát, thế giới cũng sẽ "vã mồ hôi"](https://cafebiz.vn/economist-neu-kinh-te-my-phat-sot-va-dung-truoc-nguy-co-lam-phat-the-gioi-cung-se-va-mo-hoi-20210304105528995.chn) ([CafeBiz](https://cafebiz.vn))
+- ["Giải cứu" nông sản thời 4.0: Nông hộ livestream trên sàn Vỏ Sò, Viettel Post gom đơn và vận chuyển theo lô lớn, từ lúc thu hoạch tới tay khách chỉ 4-6h](https://cafebiz.vn/giai-cuu-nong-san-thoi-40-nong-ho-livestream-tren-san-vo-so-viettel-post-gom-don-va-van-chuyen-theo-lo-lon-tu-luc-thu-hoach-toi-tay-khach-chi-4-6h-20210304094906085.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ant của Jack Ma bị giáng thêm 'đòn chí mạng'](https://cafebiz.vn/ant-cua-jack-ma-bi-giang-them-don-chi-mang-20210304105120514.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
