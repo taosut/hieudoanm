@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is broken clouds.
 - Temperature is 17°C.
 - Feels Like 17.56°C.
-- Air Visual is 121.
+- Air Visual is 131.
 
 **WEATHER**
 
@@ -54,12 +54,12 @@
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
-- [![Giám đốc Sở Y tế Cần Thơ](https://img.shields.io/static/v1?label=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1m%20%C4%91%E1%BB%91c%20S%E1%BB%9F%20Y%20t%E1%BA%BF%20C%E1%BA%A7n%20Th%C6%A1)
-- [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
-- [![Hướng dương ngược nắng tập 34](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2034)
+- [![FE Credit](https://img.shields.io/static/v1?label=FE%20Credit&message=google&color=red&style=flat-square)](https://www.google.com/search?q=FE%20Credit)
+- [![Hướng dương ngược nắng phần 2 tập 6](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%206)
+- [![Hướng dương ngược nắng tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2036)
+- [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
-- [![Lý Tử Thất](https://img.shields.io/static/v1?label=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20T%E1%BB%AD%20Th%E1%BA%A5t)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Đánh sập tụ điểm cá độ với số tiền hơn 18 tỉ đồng](https://laodong.vn/phap-luat/danh-sap-tu-diem-ca-do-voi-so-tien-hon-18-ti-dong-885674.ldo) ([Lao Động](https://laodong.vn))
+- [Top vua phá lưới Ligue 1 2020/21: Mbappe &quot;vô đối&quot; tại giải Pháp](https://laodong.vn/photo/top-vua-pha-luoi-ligue-1-202021-mbappe-vo-doi-tai-giai-phap-885636.ldo) ([Lao Động](https://laodong.vn))
+- [Mối quan hệ hiện tại của Quốc Trường - Bảo Anh sau dính tin đồn tình cảm?](https://laodong.vn/photo/moi-quan-he-hien-tai-cua-quoc-truong-bao-anh-sau-dinh-tin-don-tinh-cam-885665.ldo) ([Lao Động](https://laodong.vn))
+- [Cháy quán cà phê, chủ quán tử vong](https://vnexpress.net/chay-quan-ca-phe-chu-quan-tu-vong-4243427.html) ([VNExpress](https://vnexpress.net))
+- [[Ảnh] Hải Dương gỡ lệnh phong toả sau hơn 1 tháng, tiểu thương chợ Chí Linh thức trắng đêm vì quá vui!](https://cafebiz.vn/anh-hai-duong-go-lenh-phong-toa-sau-hon-1-thang-tieu-thuong-cho-chi-linh-thuc-trang-dem-vi-qua-vui-20210304115047086.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dẹp karaoke 'hung thần': cấp trên quyết liệt, sao cấp dưới lại kêu khó?](https://tuoitre.vn/dep-karaoke-hung-than-cap-tren-quyet-liet-sao-cap-duoi-lai-keu-kho-20210304080353726.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - ["Rich kid" Chloe Nguyễn nhà đại gia Capella Holdings: Blogger xinh đẹp đình đám trong top quyền lực nhất trên MXH từ tuổi 20](https://cafebiz.vn/rich-kid-chloe-nguyen-nha-dai-gia-capella-holdings-blogger-xinh-dep-dinh-dam-trong-top-quyen-luc-nhat-tren-mxh-tu-tuoi-20-20210303135022957.chn) ([CafeBiz](https://cafebiz.vn))
 - [Treo hơn 20 năm, “Làng Đại học Đà Nẵng” gây khó người dân](https://laodong.vn/xa-hoi/treo-hon-20-nam-lang-dai-hoc-da-nang-gay-kho-nguoi-dan-885624.ldo) ([Lao Động](https://laodong.vn))
 - [Đề thi tốt nghiệp THPT sẽ phù hợp việc dạy học trong điều kiện dịch bệnh](https://laodong.vn/giao-duc/de-thi-tot-nghiep-thpt-se-phu-hop-viec-day-hoc-trong-dieu-kien-dich-benh-885646.ldo) ([Lao Động](https://laodong.vn))
-- [Xúc động với cuộc sống của NSND Trần Hạnh những ngày cuối đời](https://laodong.vn/giai-tri/xuc-dong-voi-cuoc-song-cua-nsnd-tran-hanh-nhung-ngay-cuoi-doi-885637.ldo) ([Lao Động](https://laodong.vn))
 - [Dịch Covid-19 đang tạo ra "mỏ vàng" gần 3000 tỷ USD chờ các doanh nghiệp khai thác](https://cafebiz.vn/dich-covid-19-dang-tao-ra-mo-vang-gan-3000-ty-usd-cho-cac-doanh-nghiep-khai-thac-20210303141806162.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vết nứt khổng lồ ở Nam Cực giải phóng tảng băng trôi rộng 1270 km2](https://cafebiz.vn/vet-nut-khong-lo-o-nam-cuc-giai-phong-tang-bang-troi-rong-1270-km2-20210304083947749.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bộ phim cuối cùng của NSND Trần Hạnh - người &quot;chuyên trị&quot; vai khắc khổ](https://laodong.vn/van-hoa-giai-tri/bo-phim-cuoi-cung-cua-nsnd-tran-hanh-nguoi-chuyen-tri-vai-khac-kho-885644.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Giang  hỗ trợ hộ nghèo vay vốn chính sách làm nhà ở mới](https://laodong.vn/xa-hoi/ha-giang-ho-tro-ho-ngheo-vay-von-chinh-sach-lam-nha-o-moi-885658.ldo) ([Lao Động](https://laodong.vn))
-- [Hành hạ chó, mèo bị phạt tối đa 3 triệu đồng](https://vnexpress.net/hanh-ha-cho-meo-bi-phat-toi-da-3-trieu-dong-4243255.html) ([VNExpress](https://vnexpress.net))
-- [Bộ LĐ-TBXH đề nghị không tăng lương tối thiểu vùng năm 2021](https://tuoitre.vn/bo-ld-tbxh-de-nghi-khong-tang-luong-toi-thieu-vung-nam-2021-20210304101414934.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -122,7 +122,7 @@
 07. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 08. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
 09. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
-10. [PBN 131 | Phương Loan - Nếu Xuân Này Vắng Anh](https://www.youtube.com/watch?v=IvkgmzWH_wk) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+10. [RAIN (비) - WHY DON’T WE (Feat. 청하 (CHUNG HA)) MV](https://www.youtube.com/watch?v=srWfDwiRVgQ) - [RAIN's Official Channel](https://www.youtube.com/channel/UCxXgIeE5hxWxHG6dz9Scg2w)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
