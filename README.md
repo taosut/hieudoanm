@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is drizzle.
+- Current weather is mist.
 - Temperature is 17°C.
-- Feels Like 17.92°C.
-- Air Visual is 163.
+- Feels Like 17.56°C.
+- Air Visual is 177.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nam nhân viên Bệnh viện Giao thông Vận tải Hải Phòng lần 4 âm tính COVID-19](https://laodong.vn/xa-hoi/nam-nhan-vien-benh-vien-giao-thong-van-tai-hai-phong-lan-4-am-tinh-covid-19-885911.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất xây 8 trạm bơm dã chiến để cải thiện ô nhiễm sông Nhuệ, Tô Lịch](https://laodong.vn/xa-hoi/de-xuat-xay-8-tram-bom-da-chien-de-cai-thien-o-nhiem-song-nhue-to-lich-885909.ldo) ([Lao Động](https://laodong.vn))
+- [Công đoàn Hà Tĩnh trao hơn 900 bộ áo dài cho nữ công nhân](https://laodong.vn/cong-doan/cong-doan-ha-tinh-trao-hon-900-bo-ao-dai-cho-nu-cong-nhan-885910.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng: Gần 200 chung cư cũ cần cải tạo, xây dựng](https://laodong.vn/bat-dong-san/hai-phong-gan-200-chung-cu-cu-can-cai-tao-xay-dung-885904.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Sẽ có hướng dẫn việc đăng ký nguyện vọng vào lớp 10 theo hộ khẩu](https://laodong.vn/xa-hoi/ha-noi-se-co-huong-dan-viec-dang-ky-nguyen-vong-vao-lop-10-theo-ho-khau-885906.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất hôm nay: Ông Trump đang chọn người đồng hành tái tranh cử 2024?](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-ong-trump-dang-chon-nguoi-dong-hanh-tai-tranh-cu-2024-885890.ldo) ([Lao Động](https://laodong.vn))
 - [Dân báo tin, Sở Y tế TP.HCM thấy được một cơ sở thẩm mỹ trá hình cà phê](https://tuoitre.vn/dan-bao-tin-so-y-te-tp-hcm-thay-duoc-mot-co-so-tham-my-tra-hinh-ca-phe-20210304201147251.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hà Nội tiêm vắc xin COVID-19 cho cả người vãng lai ở Hà Nội](https://tuoitre.vn/ha-noi-tiem-vac-xin-covid-19-cho-ca-nguoi-vang-lai-o-ha-noi-20210304193218947.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hải Phòng mở cửa trở lại các cơ sở kinh doanh, dịch vụ](https://vnexpress.net/hai-phong-mo-cua-tro-lai-cac-co-so-kinh-doanh-dich-vu-4243685.html) ([VNExpress](https://vnexpress.net))
-- [Chứng khoán: Thị trường có thể phản ứng hồi phục vào phiên cuối tuần](https://laodong.vn/kinh-te/chung-khoan-thi-truong-co-the-phan-ung-hoi-phuc-vao-phien-cuoi-tuan-885901.ldo) ([Lao Động](https://laodong.vn))
-- [Nữ bộ trưởng thời ông Trump bị tố sai nhân viên chạy việc vặt cá nhân](https://laodong.vn/the-gioi/nu-bo-truong-thoi-ong-trump-bi-to-sai-nhan-vien-chay-viec-vat-ca-nhan-885807.ldo) ([Lao Động](https://laodong.vn))
-- [Tuyên Quang: Khởi tố y tá làm giả giấy tờ để chiếm đoạt tài sản](https://laodong.vn/phap-luat/tuyen-quang-khoi-to-y-ta-lam-gia-giay-to-de-chiem-doat-tai-san-885903.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương xử lý triệt để yếu tố nguy cơ dịch bệnh COVID-19 tại nơi làm việc](https://laodong.vn/cong-doan/hai-duong-xu-ly-triet-de-yeu-to-nguy-co-dich-benh-covid-19-tai-noi-lam-viec-885898.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng mở lại các cơ sở dịch vụ](https://vnexpress.net/hai-phong-mo-lai-cac-co-so-dich-vu-4243685.html) ([VNExpress](https://vnexpress.net))
 - [Hà Nội thông tin về kinh phí mua vaccine COVID-19 và việc tiêm chủng](https://laodong.vn/xa-hoi/ha-noi-thong-tin-ve-kinh-phi-mua-vaccine-covid-19-va-viec-tiem-chung-885897.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 5.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-53-885462.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
