@@ -22,7 +22,7 @@
 - Current weather is drizzle.
 - Temperature is 17°C.
 - Feels Like 17.92°C.
-- Air Visual is 171.
+- Air Visual is 152.
 
 **WEATHER**
 
@@ -52,8 +52,8 @@
 - [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
 - [![Barca vs Sevilla](https://img.shields.io/static/v1?label=Barca%20vs%20Sevilla&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20Sevilla)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
+- [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Clip Ninh-Duong-Lan-Ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh-Duong-Lan-Ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh-Duong-Lan-Ngoc)
-- [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
