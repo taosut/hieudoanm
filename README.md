@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 17°C.
-- Feels Like 16.83°C.
-- Air Visual is 123.
+- Feels Like 17.56°C.
+- Air Visual is 121.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cảnh sát hủy trận giao hữu của U22 Indonesia chuẩn bị cho SEA Games 31](https://laodong.vn/bong-da-quoc-te/canh-sat-huy-tran-giao-huu-cua-u22-indonesia-chuan-bi-cho-sea-games-31-885664.ldo) ([Lao Động](https://laodong.vn))
-- [Nữ đoàn viên ngành Giáo dục đào tạo Đồng Tháp hưởng ứng “Tuần lễ áo dài”](https://laodong.vn/ldld-dong-thap/nu-doan-vien-nganh-giao-duc-dao-tao-dong-thap-huong-ung-tuan-le-ao-dai-885666.ldo) ([Lao Động](https://laodong.vn))
-- [Điện Biên: Trèo lên cột điện 35KV, một người bị giật điện nguy kịch](https://laodong.vn/xa-hoi/dien-bien-treo-len-cot-dien-35kv-mot-nguoi-bi-giat-dien-nguy-kich-885663.ldo) ([Lao Động](https://laodong.vn))
-- [Hai người tử vong trong phòng khách sạn](https://vnexpress.net/hai-nguoi-tu-vong-trong-phong-khach-san-4243362.html) ([VNExpress](https://vnexpress.net))
-- [Mua hàng trả góp 0% với thẻ tín dụng quốc tế PVcomBank](https://laodong.vn/kinh-te/mua-hang-tra-gop-0-voi-the-tin-dung-quoc-te-pvcombank-885632.ldo) ([Lao Động](https://laodong.vn))
-- [Đã xác định đối tượng nổ súng trong vụ hỗn chiến ở trung tâm TP Cần Thơ](https://laodong.vn/phap-luat/da-xac-dinh-doi-tuong-no-sung-trong-vu-hon-chien-o-trung-tam-tp-can-tho-885655.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ GD-ĐT: Tiếng Hàn trở thành môn học bắt buộc cho học sinh từ lớp 3 đến lớp 12?](https://cafebiz.vn/bo-gd-dt-tieng-han-tro-thanh-mon-hoc-bat-buoc-cho-hoc-sinh-tu-lop-3-den-lop-12-2021030410574532.chn) ([CafeBiz](https://cafebiz.vn))
-- [Economist: Nếu kinh tế Mỹ "phát sốt" và đứng trước nguy cơ lạm phát, thế giới cũng sẽ "vã mồ hôi"](https://cafebiz.vn/economist-neu-kinh-te-my-phat-sot-va-dung-truoc-nguy-co-lam-phat-the-gioi-cung-se-va-mo-hoi-20210304105528995.chn) ([CafeBiz](https://cafebiz.vn))
-- ["Giải cứu" nông sản thời 4.0: Nông hộ livestream trên sàn Vỏ Sò, Viettel Post gom đơn và vận chuyển theo lô lớn, từ lúc thu hoạch tới tay khách chỉ 4-6h](https://cafebiz.vn/giai-cuu-nong-san-thoi-40-nong-ho-livestream-tren-san-vo-so-viettel-post-gom-don-va-van-chuyen-theo-lo-lon-tu-luc-thu-hoach-toi-tay-khach-chi-4-6h-20210304094906085.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ant của Jack Ma bị giáng thêm 'đòn chí mạng'](https://cafebiz.vn/ant-cua-jack-ma-bi-giang-them-don-chi-mang-20210304105120514.chn) ([CafeBiz](https://cafebiz.vn))
+- ["Rich kid" Chloe Nguyễn nhà đại gia Capella Holdings: Blogger xinh đẹp đình đám trong top quyền lực nhất trên MXH từ tuổi 20](https://cafebiz.vn/rich-kid-chloe-nguyen-nha-dai-gia-capella-holdings-blogger-xinh-dep-dinh-dam-trong-top-quyen-luc-nhat-tren-mxh-tu-tuoi-20-20210303135022957.chn) ([CafeBiz](https://cafebiz.vn))
+- [Treo hơn 20 năm, “Làng Đại học Đà Nẵng” gây khó người dân](https://laodong.vn/xa-hoi/treo-hon-20-nam-lang-dai-hoc-da-nang-gay-kho-nguoi-dan-885624.ldo) ([Lao Động](https://laodong.vn))
+- [Đề thi tốt nghiệp THPT sẽ phù hợp việc dạy học trong điều kiện dịch bệnh](https://laodong.vn/giao-duc/de-thi-tot-nghiep-thpt-se-phu-hop-viec-day-hoc-trong-dieu-kien-dich-benh-885646.ldo) ([Lao Động](https://laodong.vn))
+- [Xúc động với cuộc sống của NSND Trần Hạnh những ngày cuối đời](https://laodong.vn/giai-tri/xuc-dong-voi-cuoc-song-cua-nsnd-tran-hanh-nhung-ngay-cuoi-doi-885637.ldo) ([Lao Động](https://laodong.vn))
+- [Dịch Covid-19 đang tạo ra "mỏ vàng" gần 3000 tỷ USD chờ các doanh nghiệp khai thác](https://cafebiz.vn/dich-covid-19-dang-tao-ra-mo-vang-gan-3000-ty-usd-cho-cac-doanh-nghiep-khai-thac-20210303141806162.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vết nứt khổng lồ ở Nam Cực giải phóng tảng băng trôi rộng 1270 km2](https://cafebiz.vn/vet-nut-khong-lo-o-nam-cuc-giai-phong-tang-bang-troi-rong-1270-km2-20210304083947749.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bộ phim cuối cùng của NSND Trần Hạnh - người &quot;chuyên trị&quot; vai khắc khổ](https://laodong.vn/van-hoa-giai-tri/bo-phim-cuoi-cung-cua-nsnd-tran-hanh-nguoi-chuyen-tri-vai-khac-kho-885644.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Giang  hỗ trợ hộ nghèo vay vốn chính sách làm nhà ở mới](https://laodong.vn/xa-hoi/ha-giang-ho-tro-ho-ngheo-vay-von-chinh-sach-lam-nha-o-moi-885658.ldo) ([Lao Động](https://laodong.vn))
+- [Hành hạ chó, mèo bị phạt tối đa 3 triệu đồng](https://vnexpress.net/hanh-ha-cho-meo-bi-phat-toi-da-3-trieu-dong-4243255.html) ([VNExpress](https://vnexpress.net))
+- [Bộ LĐ-TBXH đề nghị không tăng lương tối thiểu vùng năm 2021](https://tuoitre.vn/bo-ld-tbxh-de-nghi-khong-tang-luong-toi-thieu-vung-nam-2021-20210304101414934.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
