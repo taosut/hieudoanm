@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 18°C.
 - Feels Like 18.54°C.
-- Air Visual is 105.
+- Air Visual is 113.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Công viên tiền tỉ hoang lạnh giữa lòng thành phố Điện Biên Phủ](https://laodong.vn/photo/cong-vien-tien-ti-hoang-lanh-giua-long-thanh-pho-dien-bien-phu-885343.ldo) ([Lao Động](https://laodong.vn))
+- [Vĩnh Long: Tái hiện văn hóa Nam Bộ từ căn nhà được làm bằng gốm](https://laodong.vn/photo/vinh-long-tai-hien-van-hoa-nam-bo-tu-can-nha-duoc-lam-bang-gom-885563.ldo) ([Lao Động](https://laodong.vn))
+- [Đang chờ cấp lại giấy phép lái xe, có được chạy xe không?](https://laodong.vn/tu-van-phap-luat/dang-cho-cap-lai-giay-phep-lai-xe-co-duoc-chay-xe-khong-884936.ldo) ([Lao Động](https://laodong.vn))
+- [Lựa chọn sách giáo khoa lớp 2, lớp 6: Phải đảm bảo công bằng, tránh xáo trộn](https://laodong.vn/xa-hoi/lua-chon-sach-giao-khoa-lop-2-lop-6-phai-dam-bao-cong-bang-tranh-xao-tron-885492.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất xây thêm casino hơn 2 tỷ USD tại Khánh Hòa](https://cafebiz.vn/de-xuat-xay-them-casino-hon-2-ty-usd-tai-khanh-hoa-20210304135613875.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kiên Giang: Nông dân lao đao vì xoài rớt giá thê thảm](https://laodong.vn/kinh-te/kien-giang-nong-dan-lao-dao-vi-xoai-rot-gia-the-tham-885705.ldo) ([Lao Động](https://laodong.vn))
 - [Doanh thu ngày của Amazon vượt quá 1 tỷ USD trong năm 2020](https://cafebiz.vn/doanh-thu-ngay-cua-amazon-vuot-qua-1-ty-usd-trong-nam-2020-20210304134748722.chn) ([CafeBiz](https://cafebiz.vn))
+- [Công an Đà Nẵng làm thêm ca, tổ chức cấp căn cước công dân lưu động](http://vietnamnet.vn/vn/thoi-su/cong-an-da-nang-lam-them-ca-to-chuc-cap-can-cuoc-cong-dan-luu-dong-717181.html) ([VietNamNet](https://vietnamnet.vn))
 - [Triệu phú bị fan ruột bóc phốt ‘lừa đảo’: Bán khóa học làm giàu 2.500 USD nhưng giá trị đem lại bằng 0, nói dối 1.000 lần vẫn là lời nói dối!](https://cafebiz.vn/trieu-phu-bi-fan-ruot-boc-phot-lua-dao-ban-khoa-hoc-lam-giau-2500-usd-nhung-gia-tri-dem-lai-bang-0-noi-doi-1000-lan-van-la-loi-noi-doi-20210304113415619.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tiết lộ thêm về nhà máy chíp 17 tỷ USD sắp xây của Samsung tại Mỹ](https://cafebiz.vn/tiet-lo-them-ve-nha-may-chip-17-ty-usd-sap-xay-cua-samsung-tai-my-20210304134507486.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bị chỉ trích kịch liệt, TQ "chơi lớn": Tất cả người nước ngoài nhập cảnh đều phải xét nghiệm Covid qua hậu môn](https://cafebiz.vn/bi-chi-trich-kich-liet-tq-choi-lon-tat-ca-nguoi-nuoc-ngoai-nhap-canh-deu-phai-xet-nghiem-covid-qua-hau-mon-20210304134634162.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chủ tịch Quảng Nam: Nhiều dự án phân lô bán nền “quên” dành đất tái định cư](https://laodong.vn/bat-dong-san/chu-tich-quang-nam-nhieu-du-an-phan-lo-ban-nen-quen-danh-dat-tai-dinh-cu-885688.ldo) ([Lao Động](https://laodong.vn))
-- [Hôn nhân 20 năm viên mãn của Hồng Đăng &quot;Hướng dương ngược nắng&quot;](https://laodong.vn/yeu-360/hon-nhan-20-nam-vien-man-cua-hong-dang-huong-duong-nguoc-nang-885704.ldo) ([Lao Động](https://laodong.vn))
-- [Giá quá rẻ, nông dân Hà Nội vứt bỏ củ cải, cà chua...đầy đồng vì ế ẩm](https://cafebiz.vn/gia-qua-re-nong-dan-ha-noi-vut-bo-cu-cai-ca-chuaday-dong-vi-e-am-20210304134217755.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kiến nghị không phát triển thêm dự án điện than mới trong 10 năm tới](https://cafebiz.vn/kien-nghi-khong-phat-trien-them-du-an-dien-than-moi-trong-10-nam-toi-20210304134141696.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM tiếp tục đón những đợt nắng nóng kéo dài](https://laodong.vn/moi-truong/tphcm-tiep-tuc-don-nhung-dot-nang-nong-keo-dai-885701.ldo) ([Lao Động](https://laodong.vn))
-- [Đề nghị truy tố 36 bị can trong đại án cao tốc Đà Nẵng - Quảng Ngãi](https://cafebiz.vn/de-nghi-truy-to-36-bi-can-trong-dai-an-cao-toc-da-nang-quang-ngai-20210304133848076.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
