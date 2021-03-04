@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 18°C.
-- Feels Like 17.77°C.
-- Air Visual is 131.
+- Temperature is 19°C.
+- Feels Like 19.13°C.
+- Air Visual is 110.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Thiên đường du lịch Phuket của Thái Lan 'thoi thóp' tìm cách sống giữa mùa dịch Covid-19](https://cafebiz.vn/thien-duong-du-lich-phuket-cua-thai-lan-thoi-thop-tim-cach-song-giua-mua-dich-covid-19-20210303171824027.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tuyên bố sẵn sàng trả 1.000 tỷ đồng nếu ông Võ Hoàng Yên chữa được bệnh, đại gia Dũng "lò vôi" giàu cỡ nào?](https://cafebiz.vn/tuyen-bo-san-sang-tra-1000-ty-dong-neu-ong-vo-hoang-yen-chua-duoc-benh-dai-gia-dung-lo-voi-giau-co-nao-2021030414122592.chn) ([CafeBiz](https://cafebiz.vn))
+- [Miễn phí xăng trên toàn quốc cho ông Đoàn Ngọc Hải: Ai là người chỉ đạo?](https://cafebiz.vn/mien-phi-xang-tren-toan-quoc-cho-ong-doan-ngoc-hai-ai-la-nguoi-chi-dao-20210304143345673.chn) ([CafeBiz](https://cafebiz.vn))
+- [Điều gì có thể xảy ra với cơ thể nếu thường xuyên ngồi vắt chéo chân?](https://laodong.vn/suc-khoe/dieu-gi-co-the-xay-ra-voi-co-the-neu-thuong-xuyen-ngoi-vat-cheo-chan-885717.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyện buồn của Đường Tăng đẹp trai nhất Tây Du Kí ở tuổi 62 vẫn phải đi hát rong kiếm tiền: Trẻ không lựa chọn đúng đắn, già ôm hận!](https://cafebiz.vn/chuyen-buon-cua-duong-tang-dep-trai-nhat-tay-du-ki-o-tuoi-62-van-phai-di-hat-rong-kiem-tien-tre-khong-lua-chon-dung-dan-gia-om-han-20210303155428504.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nhà đầu tư có thật sự được bảo vệ khi nâng lô giao dịch tối thiểu lên 1.000 cổ phiếu?](https://cafebiz.vn/nha-dau-tu-co-that-su-duoc-bao-ve-khi-nang-lo-giao-dich-toi-thieu-len-1000-co-phieu-2021030414291524.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bộ GDĐT giải thích thông tin tiếng Hàn là ngoại ngữ &quot;bắt buộc&quot;](https://laodong.vn/giao-duc/bo-gddt-giai-thich-thong-tin-tieng-han-la-ngoai-ngu-bat-buoc-885711.ldo) ([Lao Động](https://laodong.vn))
 - [Hơn 30 nhà xe dừng chạy để phản đối 'xe dù'](https://vnexpress.net/hon-30-nha-xe-dung-chay-de-phan-doi-xe-du-4243393.html) ([VNExpress](https://vnexpress.net))
 - [Khu nhà trọ giá rẻ sang chảnh nhất Việt Nam: Miễn phí 100 số điện, "bao" nước uống trọn đời cho khách](https://cafebiz.vn/khu-nha-tro-gia-re-sang-chanh-nhat-viet-nam-mien-phi-100-so-dien-bao-nuoc-uong-tron-doi-cho-khach-20210304141733013.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chinh phục thị trường ôtô điện ở Mỹ: Vinfast có lấy &quot;trứng chọi đá&quot;?](https://laodong.vn/xe/chinh-phuc-thi-truong-oto-dien-o-my-vinfast-co-lay-trung-choi-da-885698.ldo) ([Lao Động](https://laodong.vn))
-- [Nâng lô tối thiểu lên 1.000 cổ phiếu là bước lùi của thị trường chứng khoán Việt Nam?](https://cafebiz.vn/nang-lo-toi-thieu-len-1000-co-phieu-la-buoc-lui-cua-thi-truong-chung-khoan-viet-nam-20210304141207324.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bóng dáng Sunshine trong lĩnh vực tài chính hậu "thay máu" Kienlongbank](https://cafebiz.vn/bong-dang-sunshine-trong-linh-vuc-tai-chinh-hau-thay-mau-kienlongbank-20210304140935202.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo viên tiểu học hạng IV phải học bồi dưỡng chức danh nghề nghiệp?](https://laodong.vn/ban-doc/giao-vien-tieu-hoc-hang-iv-phai-hoc-boi-duong-chuc-danh-nghe-nghiep-885712.ldo) ([Lao Động](https://laodong.vn))
-- [Công viên tiền tỉ hoang lạnh giữa lòng thành phố Điện Biên Phủ](https://laodong.vn/photo/cong-vien-tien-ti-hoang-lanh-giua-long-thanh-pho-dien-bien-phu-885343.ldo) ([Lao Động](https://laodong.vn))
-- [Vĩnh Long: Tái hiện văn hóa Nam Bộ từ căn nhà được làm bằng gốm](https://laodong.vn/photo/vinh-long-tai-hien-van-hoa-nam-bo-tu-can-nha-duoc-lam-bang-gom-885563.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -120,8 +120,8 @@
 05. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 06. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 07. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
-08. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
-09. [RAIN (비) - WHY DON’T WE (Feat. 청하 (CHUNG HA)) MV](https://www.youtube.com/watch?v=srWfDwiRVgQ) - [RAIN's Official Channel](https://www.youtube.com/channel/UCxXgIeE5hxWxHG6dz9Scg2w)
+08. [RAIN (비) - WHY DON’T WE (Feat. 청하 (CHUNG HA)) MV](https://www.youtube.com/watch?v=srWfDwiRVgQ) - [RAIN's Official Channel](https://www.youtube.com/channel/UCxXgIeE5hxWxHG6dz9Scg2w)
+09. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
 10. [GOT7 "ENCORE" OFFICIAL M/V](https://www.youtube.com/watch?v=tAe0yUEzAaI) - [GOT7](https://www.youtube.com/channel/UCNtZPzvkjjB3EuPMNY71cmA)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
