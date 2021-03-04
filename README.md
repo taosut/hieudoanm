@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 17°C.
 - Feels Like 17.2°C.
-- Air Visual is 160.
+- Air Visual is 162.
 
 **WEATHER**
 
@@ -52,22 +52,22 @@
 - [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
 - [![Barca vs Sevilla](https://img.shields.io/static/v1?label=Barca%20vs%20Sevilla&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20Sevilla)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
-- [![Bigc đổi tên](https://img.shields.io/static/v1?label=Bigc%20%C4%91%E1%BB%95i%20t%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bigc%20%C4%91%E1%BB%95i%20t%C3%AAn)
-- [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Clip Ninh-Duong-Lan-Ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh-Duong-Lan-Ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh-Duong-Lan-Ngoc)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![Lâm Khánh Chi](https://img.shields.io/static/v1?label=L%C3%A2m%20Kh%C3%A1nh%20Chi&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%A2m%20Kh%C3%A1nh%20Chi)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
+- [![Napoli](https://img.shields.io/static/v1?label=Napoli&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Napoli)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
 - [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
-- [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Hà Nội: Người dân xếp hàng để “giải cứu” gà Hải Dương](https://laodong.vn/xa-hoi/ha-noi-nguoi-dan-xep-hang-de-giai-cuu-ga-hai-duong-885786.ldo) ([Lao Động](https://laodong.vn))
-- [Theo dõi việc xác minh các vụ việc cử tri nêu với người ứng cử đại biểu Quốc hội](https://laodong.vn/thoi-su/theo-doi-viec-xac-minh-cac-vu-viec-cu-tri-neu-voi-nguoi-ung-cu-dai-bieu-quoc-hoi-885842.ldo) ([Lao Động](https://laodong.vn))
-- [Nhân viên trộm xe chủ quán để “lấy le” với bạn gái](https://laodong.vn/phap-luat/nhan-vien-trom-xe-chu-quan-de-lay-le-voi-ban-gai-885856.ldo) ([Lao Động](https://laodong.vn))
+- [Khởi tố vụ sản xuất, buôn bán phân bón giả cực lớn tại Đồng Nai](https://laodong.vn/phap-luat/khoi-to-vu-san-xuat-buon-ban-phan-bon-gia-cuc-lon-tai-dong-nai-885870.ldo) ([Lao Động](https://laodong.vn))
+- [Cháu bé 4 tuổi rơi từ tầng 2 xuống đất tử vong thương tâm](https://laodong.vn/xa-hoi/chau-be-4-tuoi-roi-tu-tang-2-xuong-dat-tu-vong-thuong-tam-885838.ldo) ([Lao Động](https://laodong.vn))
+- [Tin bóng đá tối 4.3: Rangers thắng trận, Steven Gerrard &quot;ăn thẻ đỏ&quot;](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-43-rangers-thang-tran-steven-gerrard-an-the-do-885824.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng cho phép dịch vụ làm đẹp, thể thao, vui chơi hoạt động trở lại](https://laodong.vn/xa-hoi/hai-phong-cho-phep-dich-vu-lam-dep-the-thao-vui-choi-hoat-dong-tro-lai-885853.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng cho học sinh các cấp trở lại trường từ ngày 8-3](https://tuoitre.vn/hai-phong-cho-hoc-sinh-cac-cap-tro-lai-truong-tu-ngay-8-3-2021030418372746.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tháng 6.2021 sẽ khởi công 2 dự án thành phần cao tốc Bắc-Nam](https://laodong.vn/kinh-te/thang-62021-se-khoi-cong-2-du-an-thanh-phan-cao-toc-bac-nam-885819.ldo) ([Lao Động](https://laodong.vn))
+- [TP.HCM đổi tên một số khu phố sau sắp xếp đơn vị hành chính](https://tuoitre.vn/tp-hcm-doi-ten-mot-so-khu-pho-sau-sap-xep-don-vi-hanh-chinh-20210304182057809.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Một số sở gửi công văn lên UBND TP.HCM về tình trạng một số chủ đầu tư nhà, đất 'lách luật'](https://tuoitre.vn/mot-so-so-gui-cong-van-len-ubnd-tp-hcm-ve-tinh-trang-mot-so-chu-dau-tu-nha-dat-lach-luat-20210304181713635.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [TP HCM đặt mục tiêu thu hút 5,4 tỷ USD vốn FDI](https://vnexpress.net/tp-hcm-dat-muc-tieu-thu-hut-5-4-ty-usd-von-fdi-4243651.html) ([VNExpress](https://vnexpress.net))
-- [Quảng Ninh trả lương, trợ cấp BHXH gộp 2 tháng/lần để đảm bảo phòng dịch](https://laodong.vn/cong-doan/quang-ninh-tra-luong-tro-cap-bhxh-gop-2-thanglan-de-dam-bao-phong-dich-885847.ldo) ([Lao Động](https://laodong.vn))
 - [Khát vọng biểu tượng “Hoàng mai xứ Huế”](https://laodong.vn/ban-doc/khat-vong-bieu-tuong-hoang-mai-xu-hue-885788.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều 4-3, 6 ca mắc COVID-19 mới ở Hải Dương, một nửa là bệnh nhân cộng đồng](https://tuoitre.vn/chieu-4-3-6-ca-mac-covid-19-moi-o-hai-duong-mot-nua-la-benh-nhan-cong-dong-20210304180739865.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Không Ibrahimovic, AC Milan thoát thua hú vía](https://laodong.vn/video-the-thao/khong-ibrahimovic-ac-milan-thoat-thua-hu-via-885776.ldo) ([Lao Động](https://laodong.vn))
-- [Cảnh hoang tàn tại Trung tâm phục hồi chức năng và dưỡng sinh của ‘thần y’ Võ Hoàng Yên](https://tuoitre.vn/canh-hoang-tan-tai-trung-tam-phuc-hoi-chuc-nang-va-duong-sinh-cua-than-y-vo-hoang-yen-20210304172937856.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [TP.HCM chưa quyết định ngày mở cửa lại toàn bộ hoạt động, cơ sở dịch vụ](https://tuoitre.vn/tphcm-chua-quyet-dinh-ngay-mo-cua-lai-toan-bo-hoat-dong-co-so-dich-vu-20210304174054616.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
