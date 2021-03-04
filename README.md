@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 18°C.
-- Feels Like 18.18°C.
+- Current weather is light intensity drizzle.
+- Temperature is 17°C.
+- Feels Like 17.2°C.
 - Air Visual is 156.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Đưa hơn 390 công dân Việt Nam từ Myanmar về nước](https://laodong.vn/the-gioi/dua-hon-390-cong-dan-viet-nam-tu-myanmar-ve-nuoc-885818.ldo) ([Lao Động](https://laodong.vn))
+- [Đề nghị kỷ luật Trưởng phòng khám khu vực số 5 tại Nha Trang](https://laodong.vn/xa-hoi/de-nghi-ky-luat-truong-phong-kham-khu-vuc-so-5-tai-nha-trang-885677.ldo) ([Lao Động](https://laodong.vn))
+- [Em trai đâm anh ruột tử vong](https://laodong.vn/phap-luat/em-trai-dam-anh-ruot-tu-vong-885825.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương phong tỏa thêm 3 khu dân cư ở Kim Thành](https://tuoitre.vn/hai-duong-phong-toa-them-3-khu-dan-cu-o-kim-thanh-2021030416342779.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Đại biểu HĐND TP.HCM nhiệm kỳ 2021-2026 có 95 người, 32 đơn vị bầu cử](https://tuoitre.vn/dai-bieu-hdnd-tp-hcm-nhiem-ky-2021-2026-co-95-nguoi-32-don-vi-bau-cu-20210304170450532.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nước nhiễm mặn, dùng sà lan chở nước thô về xử lý khiến giá nước Bến Tre lên 51.000/m3](https://tuoitre.vn/nuoc-nhiem-man-dung-sa-lan-cho-nuoc-tho-ve-xu-ly-khien-gia-nuoc-ben-tre-len-51-000-m3-20210304170346837.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [CDC Hải Dương: Tiếp tục lấy mẫu xét nghiệm trên diện rộng](https://laodong.vn/y-te/cdc-hai-duong-tiep-tuc-lay-mau-xet-nghiem-tren-dien-rong-885798.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội chọn đội hạng Nhất làm &quot;quân xanh&quot; trước khi V.League 2021 trở lại](https://laodong.vn/the-thao/ha-noi-chon-doi-hang-nhat-lam-quan-xanh-truoc-khi-vleague-2021-tro-lai-885771.ldo) ([Lao Động](https://laodong.vn))
-- [Hé lộ nguyên nhân khiến 4 cán bộ đất đai ở huyện Yên Bình - Yên Bái bị bắt](https://laodong.vn/phap-luat/he-lo-nguyen-nhan-khien-4-can-bo-dat-dai-o-huyen-yen-binh-yen-bai-bi-bat-885440.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương: Phong tỏa 3 khu dân cư huyện Kim Thành liên quan ca mắc COVID-19](https://laodong.vn/xa-hoi/hai-duong-phong-toa-3-khu-dan-cu-huyen-kim-thanh-lien-quan-ca-mac-covid-19-885811.ldo) ([Lao Động](https://laodong.vn))
-- [Thi tuyển viên chức giáo viên THCS hạng III cần chứng chỉ CDNN không?](https://laodong.vn/ban-doc/thi-tuyen-vien-chuc-giao-vien-thcs-hang-iii-can-chung-chi-cdnn-khong-885709.ldo) ([Lao Động](https://laodong.vn))
-- [Khám sức khoẻ miễn phí cho 600 người lao động nhân Tháng Công nhân](https://laodong.vn/cong-doan/kham-suc-khoe-mien-phi-cho-600-nguoi-lao-dong-nhan-thang-cong-nhan-885813.ldo) ([Lao Động](https://laodong.vn))
-- [Người phụ nữ tử vong khi xe chở keo bị lật](https://vnexpress.net/nguoi-phu-nu-tu-vong-khi-xe-cho-keo-bi-lat-4243623.html) ([VNExpress](https://vnexpress.net))
-- [Thúc tiến độ giải phóng mặt bằng Metro Số 2](https://vnexpress.net/thuc-tien-do-giai-phong-mat-bang-metro-so-2-4243575.html) ([VNExpress](https://vnexpress.net))
-- [Huế kêu gọi người dân trồng mai vàng trước ngõ](https://vnexpress.net/hue-keu-goi-nguoi-dan-trong-mai-vang-truoc-ngo-4243586.html) ([VNExpress](https://vnexpress.net))
-- [Khám với giáo sư tại Bệnh viện Bạch Mai: 550.000đ/lượt, giường theo yêu cầu 3,3 triệu](https://tuoitre.vn/kham-voi-giao-su-tai-benh-vien-bach-mai-550-000d-luot-giuong-theo-yeu-cau-3-3-trieu-2021030415314559.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hai chuyến bay đưa người Việt ở Myanmar về nước](https://vnexpress.net/hai-chuyen-bay-dua-nguoi-viet-o-myanmar-ve-nuoc-4243581.html) ([VNExpress](https://vnexpress.net))
+- [An Giang: Karaoke di động là bất hợp pháp, vi phạm pháp luật đều phải bị ngưng](https://tuoitre.vn/an-giang-karaoke-di-dong-la-bat-hop-phap-vi-pham-phap-luat-deu-phai-bi-ngung-20210304164229613.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
