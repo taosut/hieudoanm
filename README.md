@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 18°C.
 - Feels Like 18.18°C.
-- Air Visual is 132.
+- Air Visual is 138.
 
 **WEATHER**
 
@@ -52,13 +52,13 @@
 - [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
 - [![Barca vs Sevilla](https://img.shields.io/static/v1?label=Barca%20vs%20Sevilla&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20Sevilla)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
+- [![Bigc đổi tên](https://img.shields.io/static/v1?label=Bigc%20%C4%91%E1%BB%95i%20t%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bigc%20%C4%91%E1%BB%95i%20t%C3%AAn)
 - [![Bolivia](https://img.shields.io/static/v1?label=Bolivia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bolivia)
-- [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
-- [![Hướng dương ngược nắng phần 2 tập 6](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20ph%E1%BA%A7n%202%20t%E1%BA%ADp%206)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Khởi công hai dự án cao tốc Bắc Nam vào tháng 6](https://vnexpress.net/khoi-cong-hai-du-an-cao-toc-bac-nam-vao-thang-6-4243524.html) ([VNExpress](https://vnexpress.net))
-- [Thái Bình giới thiệu 3 cán bộ Công đoàn ứng cử đại biểu HĐND tỉnh khóa XVII](https://laodong.vn/cong-doan/thai-binh-gioi-thieu-3-can-bo-cong-doan-ung-cu-dai-bieu-hdnd-tinh-khoa-xvii-885765.ldo) ([Lao Động](https://laodong.vn))
-- [Nên hay không nên có nhiều bộ sách giáo khoa?](https://laodong.vn/ban-doc/nen-hay-khong-nen-co-nhieu-bo-sach-giao-khoa-885758.ldo) ([Lao Động](https://laodong.vn))
-- [Hành động xấu xí của cô giáo mệnh danh &quot;đẹp nhất Trung Quốc&quot; gây phẫn nộ](https://laodong.vn/the-gioi/hanh-dong-xau-xi-cua-co-giao-menh-danh-dep-nhat-trung-quoc-gay-phan-no-885750.ldo) ([Lao Động](https://laodong.vn))
-- [Cần Thơ đề nghị cá nhân, đơn vị cung tiến cây xanh tại đền thờ Vua Hùng](https://laodong.vn/xa-hoi/can-tho-de-nghi-ca-nhan-don-vi-cung-tien-cay-xanh-tai-den-tho-vua-hung-885736.ldo) ([Lao Động](https://laodong.vn))
-- [Cả nước có 1,051 triệu người tham gia BHXH tự nguyện](https://laodong.vn/xa-hoi/ca-nuoc-co-1051-trieu-nguoi-tham-gia-bhxh-tu-nguyen-885762.ldo) ([Lao Động](https://laodong.vn))
-- [Tháng 6 - 2021 khởi công 2 đoạn cao tốc Bắc - Nam qua Thanh Hóa và Nghệ An](https://tuoitre.vn/thang-6-2021-khoi-cong-2-doan-cao-toc-bac-nam-qua-thanh-hoa-va-nghe-an-20210304145631987.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cảnh hoang phế ở Trung tâm khám, chữa bệnh Võ Hoàng Yên tại Hà Tĩnh](http://vietnamnet.vn/vn/thoi-su/canh-hoang-phe-o-trung-tam-kham-chua-benh-vo-hoang-yen-tai-ha-tinh-717206.html) ([VietNamNet](https://vietnamnet.vn))
-- [Xe container bốc cháy dữ dội dưới cầu Phú Mỹ](https://tuoitre.vn/xe-container-boc-chay-du-doi-duoi-cau-phu-my-20210304145155508.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Xe đầu kéo cháy ngùn ngụt ở cầu Phú Mỹ](https://vnexpress.net/xe-dau-keo-chay-ngun-ngut-o-cau-phu-my-4243567.html) ([VNExpress](https://vnexpress.net))
+- [Thúc tiến độ giải phóng mặt bằng Metro Số 2](https://vnexpress.net/thuc-tien-do-giai-phong-mat-bang-metro-so-2-4243575.html) ([VNExpress](https://vnexpress.net))
+- [Thành lập bộ phận điều phối và 4 đội truy vết COVID-19](https://laodong.vn/xa-hoi/thanh-lap-bo-phan-dieu-phoi-va-4-doi-truy-vet-covid-19-885789.ldo) ([Lao Động](https://laodong.vn))
+- [Xử phạt người vừa đi xe máy vừa “làm xiếc” trên đường](https://laodong.vn/phap-luat/xu-phat-nguoi-vua-di-xe-may-vua-lam-xiec-tren-duong-885746.ldo) ([Lao Động](https://laodong.vn))
+- [Công đoàn Bộ Nội vụ tổ chức “Tuần lễ áo dài” năm 2021 nhân dịp 8.3](https://laodong.vn/cong-doan/cong-doan-bo-noi-vu-to-chuc-tuan-le-ao-dai-nam-2021-nhan-dip-83-885783.ldo) ([Lao Động](https://laodong.vn))
+- [Đã xác định chủ xe ôtô tông xe máy bốc cháy ở Hà Nội](https://laodong.vn/giao-thong/da-xac-dinh-chu-xe-oto-tong-xe-may-boc-chay-o-ha-noi-885790.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nam: Nước sông Nhuệ bốc mùi hôi, tiếp tục cảnh báo ô nhiễm](https://laodong.vn/xa-hoi/ha-nam-nuoc-song-nhue-boc-mui-hoi-tiep-tuc-canh-bao-o-nhiem-885695.ldo) ([Lao Động](https://laodong.vn))
+- [Huế kêu gọi người dân trồng mai vàng trước ngõ](https://vnexpress.net/hue-keu-goi-nguoi-dan-trong-mai-vang-truoc-ngo-4243586.html) ([VNExpress](https://vnexpress.net))
+- [Khám giáo sư tại Bệnh viện Bạch Mai: 550.000đ/lượt, giường theo yêu cầu 3,3 triệu](https://tuoitre.vn/kham-giao-su-tai-benh-vien-bach-mai-550-000d-luot-giuong-theo-yeu-cau-3-3-trieu-2021030415314559.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hai chuyến bay đưa người Việt ở Myanmar về nước](https://vnexpress.net/hai-chuyen-bay-dua-nguoi-viet-o-myanmar-ve-nuoc-4243581.html) ([VNExpress](https://vnexpress.net))
+- [Lập 184 đơn vị bầu cử đại biểu Quốc hội trên toàn quốc](https://vnexpress.net/lap-184-don-vi-bau-cu-dai-bieu-quoc-hoi-tren-toan-quoc-4243509.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
@@ -121,8 +121,8 @@
 06. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 07. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 08. [RAIN (비) - WHY DON’T WE (Feat. 청하 (CHUNG HA)) MV](https://www.youtube.com/watch?v=srWfDwiRVgQ) - [RAIN's Official Channel](https://www.youtube.com/channel/UCxXgIeE5hxWxHG6dz9Scg2w)
-09. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
-10. [PBN 61 | Như Quỳnh - Dù Cho Hoa Tàn Úa](https://www.youtube.com/watch?v=ig8vOipF9Rs) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+09. [PBN 61 | Như Quỳnh - Dù Cho Hoa Tàn Úa](https://www.youtube.com/watch?v=ig8vOipF9Rs) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+10. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -134,8 +134,8 @@
 02. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 03. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 04. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
-05. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-06. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
+05. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
+06. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 07. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 08. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 09. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
