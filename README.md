@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 19°C.
-- Feels Like 20.72°C.
-- Air Visual is 131.
+- Feels Like 20.36°C.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nhờ đâu vợ ông Dũng “lò vôi” nhận ra sự bất thường của ông Võ Hoàng Yên?](https://laodong.vn/video-thoi-su/nho-dau-vo-ong-dung-lo-voi-nhan-ra-su-bat-thuong-cua-ong-vo-hoang-yen-885810.ldo) ([Lao Động](https://laodong.vn))
-- [Hôm nay Nam Bộ nắng nóng diện rộng](https://laodong.vn/moi-truong/hom-nay-nam-bo-nang-nong-dien-rong-885959.ldo) ([Lao Động](https://laodong.vn))
-- [Kiến nghị bổ sung quyền xử phạt karaoke 'hung thần' cho chủ tịch xã, tăng mức phạt](https://tuoitre.vn/kien-nghi-bo-sung-quyen-xu-phat-karaoke-hung-than-cho-chu-tich-xa-tang-muc-phat-20210305080418133.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- ["Tears in Heaven": Ca khúc bất hủ chất chứa nỗi đau của người cha sau khi con trai 4 tuổi ngã từ tầng 53 tử vong, thực tế còn có ý nghĩa khác](https://cafebiz.vn/tears-in-heaven-ca-khuc-bat-hu-chat-chua-noi-dau-cua-nguoi-cha-sau-khi-con-trai-4-tuoi-nga-tu-tang-53-tu-vong-thuc-te-con-co-y-nghia-khac-20210305085803132.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vướng kỳ nghỉ Tết, nhà đầu tư cá nhân vẫn mở mới hơn 57.000 tài khoản chứng khoán trong tháng 2](https://cafebiz.vn/vuong-ky-nghi-tet-nha-dau-tu-ca-nhan-van-mo-moi-hon-57000-tai-khoan-chung-khoan-trong-thang-2-20210305085514461.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mỹ xem xét gia hạn triển khai Vệ binh Quốc gia ở Điện Capitol 2 tháng](https://laodong.vn/the-gioi/my-xem-xet-gia-han-trien-khai-ve-binh-quoc-gia-o-dien-capitol-2-thang-885957.ldo) ([Lao Động](https://laodong.vn))
-- [Cường Đô-la: Vượt qua cái bóng “công tử phố núi” để chứng minh tài năng kinh doanh, tự mở công ty BĐS riêng và chuỗi dự án nhà hàng, du lịch, rửa xe](https://cafebiz.vn/ai-nu-nha-ty-phu-tran-ba-duong-quy-co-doc-than-hap-dan-cua-lang-thoi-trang-cuoc-song-tuoi-30-ngap-tran-sang-chanh-20210226181919314.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chống nghẽn lệnh chứng khoán: Giải pháp tình thế chưa rõ, chưa thông!](https://laodong.vn/kinh-te/chong-nghen-lenh-chung-khoan-giai-phap-tinh-the-chua-ro-chua-thong-885863.ldo) ([Lao Động](https://laodong.vn))
-- [Nhập khẩu hàng triệu tấn quặng, than, Hòa Phát muốn đầu tư vào lĩnh vực khai khoáng tại Australia](https://cafebiz.vn/nhap-khau-hang-trieu-tan-quang-than-hoa-phat-muon-dau-tu-vao-linh-vuc-khai-khoang-tai-australia-20210305085006635.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thương mại điện tử nở rộ: Thu thuế tăng vọt](https://cafebiz.vn/thuong-mai-dien-tu-no-ro-thu-thue-tang-vot-20210305084647442.chn) ([CafeBiz](https://cafebiz.vn))
+- [IMF: Năm 2021, lạm phát của Việt Nam vẫn sẽ đạt khoảng 4%](https://cafebiz.vn/imf-nam-2021-lam-phat-cua-viet-nam-van-se-dat-khoang-4-2021030509435631.chn) ([CafeBiz](https://cafebiz.vn))
+- [Có thể mua gần như 'mọi thứ trên đời', nhưng các triệu phú lại tuyệt đối không chi trả cho những món đồ này](https://cafebiz.vn/co-the-mua-gan-nhu-moi-thu-tren-doi-nhung-cac-trieu-phu-lai-tuyet-doi-khong-chi-tra-cho-nhung-mon-do-nay-20210305085640605.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chiến lược chuyển đổi Big C sang GO! của Central Retail, dự kiến mở hơn 300 TTTM/siêu thị, đe dọa trực tiếp từ Vincom Retail, Aeon cho đến Saigon Co.op](https://cafebiz.vn/chien-luoc-chuyen-doi-big-c-sang-go-cua-rental-retail-du-kien-mo-hon-300-tttm-sieu-thi-de-doa-truc-tiep-tu-vincom-retail-aeon-cho-den-saigon-coop-20210305093922446.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Nguyễn Duy Hưng muốn chuyển số cổ phần SSI và PAN trị giá khoảng 340 tỷ đồng sang công ty riêng](https://cafebiz.vn/ong-nguyen-duy-hung-muon-chuyen-so-co-phan-ssi-va-pan-tri-gia-khoang-340-ty-dong-sang-cong-ty-rieng-20210305093733065.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sau loạt bê bối ở Cty Lâm nghiệp Ea Kar:Thiếu hụt trầm trọng người gác rừng](https://laodong.vn/xa-hoi/sau-loat-be-boi-o-cty-lam-nghiep-ea-karthieu-hut-tram-trong-nguoi-gac-rung-885875.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Quý bà mũ hồng&quot; chỉ dẫn vụ bạo loạn Capitol bị truy tố nhiều tội danh](https://laodong.vn/the-gioi/quy-ba-mu-hong-chi-dan-vu-bao-loan-capitol-bi-truy-to-nhieu-toi-danh-885949.ldo) ([Lao Động](https://laodong.vn))
+- [Đô thị thông minh phải đo được tiếng ồn karaoke tra tấn](https://laodong.vn/su-kien-binh-luan/do-thi-thong-minh-phai-do-duoc-tieng-on-karaoke-tra-tan-885944.ldo) ([Lao Động](https://laodong.vn))
+- [Cố vấn Bộ Y tế nói về việc phân phối vaccine COVID-19](https://laodong.vn/video-thoi-su/co-van-bo-y-te-noi-ve-viec-phan-phoi-vaccine-covid-19-885472.ldo) ([Lao Động](https://laodong.vn))
+- [Sau 5 năm, Việt Nam sẽ tự  quản lý, vận hành, bảo trì Metro](https://laodong.vn/xa-hoi/sau-5-nam-viet-nam-se-tu-quan-ly-van-hanh-bao-tri-metro-885894.ldo) ([Lao Động](https://laodong.vn))
+- [Tàu thăm dò Trung Quốc nối bước NASA tung ảnh hiếm về sao Hoả](https://laodong.vn/photo/tau-tham-do-trung-quoc-noi-buoc-nasa-tung-anh-hiem-ve-sao-hoa-885912.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [4 Lầm tưởng thường gặp về sự tập trung](https://vietcetera.com/vn/4-lam-tuong-thuong-gap-ve-su-tap-trung)
 - [Vì sao phimmoi không bao giờ cũ?](https://vietcetera.com/vn/vi-sao-phimmoi-khong-bao-gio-cu)
 - [Chữ với Nghĩa: Quần què là quần gì?](https://vietcetera.com/vn/chu-voi-nghia-quan-que-la-cai-quan-hoe)
 - [4 Kiểu sống không-truyền-thống nhưng vẫn vui](https://vietcetera.com/vn/4-kieu-song-khong-truyen-thong-nhung-van-vui)
@@ -105,7 +106,6 @@
 - ["Nhìn vào mắt con Mơ, chị bị sét đánh."](https://vietcetera.com/vn/nghe-don-kit-meo-hoi)
 - [Varilux: Tầm nhìn không-giới-hạn cho Gen X ](https://vietcetera.com/vn/varilux-tam-nhin-khong-gioi-han-cho-gen-x)
 - [Không Quan Tâm: Clip nóng hay lạnh thì cơ thể người vẫn 37°C](https://vietcetera.com/vn/khong-quan-tam-nhung-van-de-dang-sau-hai-chu-xin-link)
-- [Huỳnh Khang và những mảnh ghép cảm xúc bằng Lego](https://vietcetera.com/vn/khang-kade)
 
 [Read More](https://vietcetera.com/)
 
@@ -133,8 +133,8 @@
 01. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-04. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-05. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+04. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+05. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 06. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 07. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
 08. [Ông Võ Hoàng Yên Lý Giải Về T.ố C.á.o l.ừ.a đảo, dối trá hàng trăm tỷ đồng của vợ ông Dũng lò vôi](https://www.youtube.com/watch?v=G7PQbh2Ob4E) - [HOA LỆ SÀI GÒN](https://www.youtube.com/channel/UCJ7fUfDLagCvZGv0uD4shQA)
