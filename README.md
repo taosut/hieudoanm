@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 19°C.
 - Feels Like 19.85°C.
-- Air Visual is 124.
+- Air Visual is 121.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Quang Hải, Bùi Tiến Dũng được đề nghị ưu tiên sử dụng vaccine Covid-19](https://cafebiz.vn/quang-hai-bui-tien-dung-duoc-de-nghi-uu-tien-su-dung-vaccine-covid-19-20210305104832515.chn) ([CafeBiz](https://cafebiz.vn))
-- [LĐLĐ huyện Vĩnh Bảo (Hải Phòng): Tặng nông sản cho người lao động](https://laodong.vn/cong-doan/ldld-huyen-vinh-bao-hai-phong-tang-nong-san-cho-nguoi-lao-dong-885982.ldo) ([Lao Động](https://laodong.vn))
-- [Dồn thửa đổi ruộng ở Bình Xuyên: Nông dân &quot;thất nghiệp&quot;, xã, huyện nói gì?](https://laodong.vn/bat-dong-san/don-thua-doi-ruong-o-binh-xuyen-nong-dan-that-nghiep-xa-huyen-noi-gi-884924.ldo) ([Lao Động](https://laodong.vn))
-- [“Siêu” dự án Thanh Long Bay bị xử phạt vì khởi công trái phép](https://laodong.vn/bat-dong-san/sieu-du-an-thanh-long-bay-bi-xu-phat-vi-khoi-cong-trai-phep-885962.ldo) ([Lao Động](https://laodong.vn))
-- [Thêm nạn nhân tố bị lương y Võ Hoàng Yên lừa ký giấy vay nợ tiền tỷ, đe dọa ép giao 19ha đất](https://cafebiz.vn/them-nan-nhan-to-bi-luong-y-vo-hoang-yen-lua-ky-giay-vay-no-tien-ty-de-doa-ep-giao-19ha-dat-20210305104519834.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cháu trai của tỷ phú Warren Buffett và "mỏ vàng" mới của các gia tộc giàu nhất châu Á](https://cafebiz.vn/chau-trai-cua-ty-phu-warren-buffett-va-mo-vang-moi-cua-cac-gia-toc-giau-nhat-chau-a-20210305104030559.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tài xế Lạng Sơn không chấp hành đo nồng độ cồn bị phạt hơn 40 triệu đồng](https://laodong.vn/phap-luat/tai-xe-lang-son-khong-chap-hanh-do-nong-do-con-bi-phat-hon-40-trieu-dong-885977.ldo) ([Lao Động](https://laodong.vn))
-- [Nông dân Đắk Nông ngậm ngùi nhổ rau cho bò ăn](https://laodong.vn/kinh-te/nong-dan-dak-nong-ngam-ngui-nho-rau-cho-bo-an-885929.ldo) ([Lao Động](https://laodong.vn))
-- [Big Tech hết thời "hô mưa gọi gió"?](https://cafebiz.vn/big-tech-het-thoi-ho-mua-goi-gio-20210305090343827.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những thủ thuật giảm cân hiệu quả mà nhiều người không hay biết](https://laodong.vn/suc-khoe/nhung-thu-thuat-giam-can-hieu-qua-ma-nhieu-nguoi-khong-hay-biet-885923.ldo) ([Lao Động](https://laodong.vn))
+- [Huawei tuyên bố tham gia vào một nửa số mạng 5G toàn cầu](https://cafebiz.vn/huawei-tuyen-bo-tham-gia-vao-mot-nua-so-mang-5g-toan-cau-20210305091203904.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đầu năm ghé thăm Quy Nhơn và tận hưởng những điều đặc biệt](https://cafebiz.vn/dau-nam-ghe-tham-quy-nhon-va-tan-huong-nhung-dieu-dac-biet-20210304111623382.chn) ([CafeBiz](https://cafebiz.vn))
+- [5 loại thực phẩm tốt cho người mắc bệnh xương khớp](https://laodong.vn/suc-khoe/5-loai-thuc-pham-tot-cho-nguoi-mac-benh-xuong-khop-885777.ldo) ([Lao Động](https://laodong.vn))
+- [Thiết lập cơ chế đăng ký thuế qua cổng thông tin](https://laodong.vn/kinh-te/thiet-lap-co-che-dang-ky-thue-qua-cong-thong-tin-885888.ldo) ([Lao Động](https://laodong.vn))
+- [Trạm y tế phường, xã nào bị ngừng hợp đồng khám, chữa bệnh bảo hiểm y tế?](https://laodong.vn/ban-doc/tram-y-te-phuong-xa-nao-bi-ngung-hop-dong-kham-chua-benh-bao-hiem-y-te-885958.ldo) ([Lao Động](https://laodong.vn))
+- [Khởi tố Phan Văn Anh Vũ về tội đưa hối lộ](https://laodong.vn/phap-luat/khoi-to-phan-van-anh-vu-ve-toi-dua-hoi-lo-885998.ldo) ([Lao Động](https://laodong.vn))
+- [Super Junior ấn định ngày phát hành album](https://laodong.vn/giai-tri/super-junior-an-dinh-ngay-phat-hanh-album-885966.ldo) ([Lao Động](https://laodong.vn))
+- [8 cơ quan cùng kiểm soát tài sản, thu nhập, hạn kê khai lần đầu là 31-3](https://tuoitre.vn/8-co-quan-cung-kiem-soat-tai-san-thu-nhap-han-ke-khai-lan-dau-la-31-3-2021030507591231.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Đà Nẵng tạm dừng hoạt động các chốt kiểm soát dịch ở cửa ngõ thành phố](https://tuoitre.vn/da-nang-tam-dung-hoat-dong-cac-chot-kiem-soat-dich-o-cua-ngo-thanh-pho-20210305101510361.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Đặt đồ ăn online &quot;lên ngôi&quot; do COVID-19, đảm bảo an toàn thực phẩm ra sao?](https://laodong.vn/video-thoi-su/dat-do-an-online-len-ngoi-do-covid-19-dam-bao-an-toan-thuc-pham-ra-sao-885843.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
