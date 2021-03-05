@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 20°C.
 - Feels Like 22.16°C.
-- Air Visual is 95.
+- Air Visual is 136.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Đẳng cấp thiên tài: Elon Musk từng phải thi lại vì… điểm quá cao](https://cafebiz.vn/dang-cap-thien-tai-elon-musk-tung-phai-thi-lai-vi-diem-qua-cao-20210305103651701.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những ngày làm việc không nghỉ của ông Lê Thanh Nghị qua lời kể con gái út](https://laodong.vn/video/nhung-ngay-lam-viec-khong-nghi-cua-ong-le-thanh-nghi-qua-loi-ke-con-gai-ut-885941.ldo) ([Lao Động](https://laodong.vn))
+- [Công đoàn CDC Cao Bằng: Kịp thời hỗ trợ đoàn viên gặp hoạn nạn](https://laodong.vn/cd-y-te/cong-doan-cdc-cao-bang-kip-thoi-ho-tro-doan-vien-gap-hoan-nan-886017.ldo) ([Lao Động](https://laodong.vn))
 - [Tặng gần 34.200 vé tàu, xe cho công nhân lao động về quê đón Tết](https://laodong.vn/ldld-tphcm/tang-gan-34200-ve-tau-xe-cho-cong-nhan-lao-dong-ve-que-don-tet-886022.ldo) ([Lao Động](https://laodong.vn))
 - [Câu lạc bộ Viettel có logo mới ở V.League 2021](https://laodong.vn/bong-da/cau-lac-bo-viettel-co-logo-moi-o-vleague-2021-886016.ldo) ([Lao Động](https://laodong.vn))
 - [Vụ hỗn chiến ở Cần Thơ: Đối tượng nổ súng là một người khác](https://laodong.vn/phap-luat/vu-hon-chien-o-can-tho-doi-tuong-no-sung-la-mot-nguoi-khac-886023.ldo) ([Lao Động](https://laodong.vn))
-- [Trọng tài Trương Quốc Dũng kiểm tra online để đi điều hành World Cup](https://laodong.vn/bong-da/trong-tai-truong-quoc-dung-kiem-tra-online-de-di-dieu-hanh-world-cup-885994.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút: Ông Dũng “lò vôi” nói gì về video của ông Võ Hoàng Yên?](https://laodong.vn/video/ban-tin-1-phut-ong-dung-lo-voi-noi-gi-ve-video-cua-ong-vo-hoang-yen-885973.ldo) ([Lao Động](https://laodong.vn))
 - [Dự kiến bắt đầu tiêm vaccine COVID-19 tại Việt Nam vào ngày 8.3](https://laodong.vn/y-te/du-kien-bat-dau-tiem-vaccine-covid-19-tai-viet-nam-vao-ngay-83-886018.ldo) ([Lao Động](https://laodong.vn))
 - [Elon Musk: 'Đại học cơ bản chỉ để cho vui  chứ không phải để học'](https://cafebiz.vn/elon-musk-dai-hoc-co-ban-chi-de-cho-vui-chu-khong-phai-de-hoc-20210305104532968.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sau lệnh cấm, thủy điện Thượng Nhật đã được phép tích nước](https://tuoitre.vn/sau-lenh-cam-thuy-dien-thuong-nhat-da-duoc-phep-tich-nuoc-2021030511270495.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hải Phòng đề xuất dùng ngân sách cải tạo, xây mới chung cư cũ](https://tuoitre.vn/hai-phong-de-xuat-dung-ngan-sach-cai-tao-xay-moi-chung-cu-cu-20210305111936107.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hai ô tô tông nhau, xe chở khách nát đầu](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/hai-o-to-tong-nhau-xe-cho-khach-nat-dau-717434.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
