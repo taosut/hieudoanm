@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is drizzle.
+- Current weather is mist.
 - Temperature is 20°C.
 - Feels Like 22.16°C.
-- Air Visual is 154.
+- Air Visual is 157.
 
 **WEATHER**
 
@@ -53,6 +53,7 @@
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
@@ -67,7 +68,6 @@
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
-- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Các ngân hàng được chỉ đạo tiếp tục cơ cấu lại nợ, miễn giảm lãi vay... cho khách hàng bị ảnh hưởng bởi Covid-19](https://cafebiz.vn/cac-ngan-hang-duoc-chi-dao-tiep-tuc-co-cau-lai-no-mien-giam-lai-vay-cho-khach-hang-bi-anh-huong-boi-covid-19-2021030518371148.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bí ẩn MH370: Có bằng chứng mới tin cậy về vị trí máy bay mất tích](https://laodong.vn/the-gioi/bi-an-mh370-co-bang-chung-moi-tin-cay-ve-vi-tri-may-bay-mat-tich-886136.ldo) ([Lao Động](https://laodong.vn))
 - [Quảng cáo trên xe buýt ở TPHCM: Đề xuất để doanh nghiệp đàm phán với chủ xe](https://laodong.vn/kinh-te/quang-cao-tren-xe-buyt-o-tphcm-de-xuat-de-doanh-nghiep-dam-phan-voi-chu-xe-886162.ldo) ([Lao Động](https://laodong.vn))
 - [Sáu tướng lĩnh được giới thiệu ứng cử Quốc hội](https://vnexpress.net/sau-tuong-linh-duoc-gioi-thieu-ung-cu-quoc-hoi-4244084.html) ([VNExpress](https://vnexpress.net))
 - [Cần biết 5 thói quen buổi tối để da khoẻ đẹp](https://laodong.vn/suc-khoe/can-biet-5-thoi-quen-buoi-toi-de-da-khoe-dep-886035.ldo) ([Lao Động](https://laodong.vn))
@@ -83,8 +85,6 @@
 - [Chiều 5/3, thêm 6 ca mắc COVID-19 ở Kiên Giang và 2 tỉnh khác](https://cafebiz.vn/chieu-5-3-them-6-ca-mac-covid-19-o-kien-giang-va-2-tinh-khac-20210305183001824.chn) ([CafeBiz](https://cafebiz.vn))
 - [Phối hợp chăm lo cho người lao động, thúc đẩy doanh nghiệp phát triển](https://laodong.vn/cong-doan/phoi-hop-cham-lo-cho-nguoi-lao-dong-thuc-day-doanh-nghiep-phat-trien-886151.ldo) ([Lao Động](https://laodong.vn))
 - [Vụ cao tốc Đà Nẵng - Quảng Ngãi: 2 nguyên sĩ quan quân đội bị đề nghị truy tố](https://tuoitre.vn/vu-cao-toc-da-nang-quang-ngai-2-nguyen-si-quan-quan-doi-bi-de-nghi-truy-to-20210305172200056.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bắt giữ lô thuốc và mỹ phẩm nghi nhập lậu số lượng lớn](https://laodong.vn/phap-luat/bat-giu-lo-thuoc-va-my-pham-nghi-nhap-lau-so-luong-lon-886148.ldo) ([Lao Động](https://laodong.vn))
-- [Lịch quan sát 5 hiện tượng thiên văn kỳ thú sắp xuất hiện tại Việt Nam](https://laodong.vn/infographic/lich-quan-sat-5-hien-tuong-thien-van-ky-thu-sap-xuat-hien-tai-viet-nam-885921.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
