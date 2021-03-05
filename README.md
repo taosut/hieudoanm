@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is light intensity drizzle.
+- Current weather is drizzle.
 - Temperature is 20°C.
-- Feels Like 22.16°C.
-- Air Visual is 152.
+- Feels Like 21.79°C.
+- Air Visual is 164.
 
 **WEATHER**
 
@@ -54,20 +54,20 @@
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Clip Ninh-Duong-Lan-Ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh-Duong-Lan-Ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh-Duong-Lan-Ngoc)
+- [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
-- [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
+- [![Inter Milan](https://img.shields.io/static/v1?label=Inter%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter%20Milan)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
-- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
+- [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
+- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
-- [![TCBS](https://img.shields.io/static/v1?label=TCBS&message=google&color=red&style=flat-square)](https://www.google.com/search?q=TCBS)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
-- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Thật bất ngờ, Google tuyên bố sẽ không theo dõi lịch sử trình duyệt của bạn để quảng cáo nữa](https://cafebiz.vn/that-bat-ngo-google-tuyen-bo-se-khong-theo-doi-lich-su-trinh-duyet-cua-ban-de-quang-cao-nua-20210305141150087.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phát hiện dàn máy bay hàng trăm triệu USD của Lầu Năm Góc thành phế liệu](https://laodong.vn/the-gioi/phat-hien-dan-may-bay-hang-tram-trieu-usd-cua-lau-nam-goc-thanh-phe-lieu-886094.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương: Kết thúc cách ly y tế nhiều khu dân cư với hơn 1.500 nhân khẩu](https://laodong.vn/xa-hoi/hai-duong-ket-thuc-cach-ly-y-te-nhieu-khu-dan-cu-voi-hon-1500-nhan-khau-886091.ldo) ([Lao Động](https://laodong.vn))
-- [Những khoản tiền NLĐ được nhận khi nghỉ việc không báo trước năm 2021](https://laodong.vn/cong-doan/nhung-khoan-tien-nld-duoc-nhan-khi-nghi-viec-khong-bao-truoc-nam-2021-886095.ldo) ([Lao Động](https://laodong.vn))
-- [LĐLĐ Bình Dương trao hỗ trợ 5.000 CNLĐ có gia đình bị thiệt hại do bão lũ](https://laodong.vn/ldld-binh-duong/ldld-binh-duong-trao-ho-tro-5000-cnld-co-gia-dinh-bi-thiet-hai-do-bao-lu-886079.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang: Doanh nghiệp nợ bảo hiểm tăng 35 tỷ đồng so với cùng kỳ năm 2020](https://laodong.vn/xa-hoi/bac-giang-doanh-nghiep-no-bao-hiem-tang-35-ty-dong-so-voi-cung-ky-nam-2020-886067.ldo) ([Lao Động](https://laodong.vn))
-- [Kinh tế Thủ đô đạt nhiều kết quả tích cực, nổi bật, nhiều chỉ số tăng khá cao so với cùng kỳ](https://cafebiz.vn/kinh-te-thu-do-dat-nhieu-ket-qua-tich-cuc-noi-bat-nhieu-chi-so-tang-kha-cao-so-voi-cung-ky-20210305160807497.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xóa sổ thương hiệu Big C để mở thêm hàng trăm siêu thị với thương hiệu mới, tại sao "đại gia" Central Retail quyết tâm với thị trường Việt Nam?](https://cafebiz.vn/xoa-so-thuong-hieu-big-c-de-mo-them-hang-tram-sieu-thi-voi-thuong-hieu-moi-tai-sao-dai-gia-central-retail-quyet-tam-voi-thi-truong-viet-nam-20210305160152066.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xe container lao vào nhà ở Sài Gòn, một người chết](https://vnexpress.net/xe-container-lao-vao-nha-o-sai-gon-mot-nguoi-chet-4244118.html) ([VNExpress](https://vnexpress.net))
-- [Thời COVID-19: Món quà ý nghĩa, thiết thực dành tặng cha mẹ, người thân](https://laodong.vn/thong-tin-doanh-nghiep/thoi-covid-19-mon-qua-y-nghia-thiet-thuc-danh-tang-cha-me-nguoi-than-886038.ldo) ([Lao Động](https://laodong.vn))
+- [Chăm sóc khách hàng, sale tại nhà/từ xa vẫn hiệu quả như ở văn phòng với giải pháp tổng đài ảo sử dụng đầu số riêng](https://cafebiz.vn/cham-soc-khach-hang-sale-tai-nha-tu-xa-van-hieu-qua-nhu-o-van-phong-voi-giai-phap-tong-dai-ao-su-dung-dau-so-rieng-20210305162636907.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dàn siêu xe gần trăm tỷ hội ngộ tại Sài Gòn: Ferrari chiếm áp đảo, BMW i8 của Bùi Tiến Dũng cũng góp mặt](https://cafebiz.vn/dan-sieu-xe-gan-tram-ty-hoi-ngo-tai-sai-gon-ferrari-chiem-ap-dao-bmw-i8-cua-bui-tien-dung-cung-gop-mat-20210305161256254.chn) ([CafeBiz](https://cafebiz.vn))
+- [LĐLĐ TPHCM tuyên dương 100 tập thể, 18 cá nhân chăm lo Tết cho NLĐ](https://laodong.vn/cong-doan/ldld-tphcm-tuyen-duong-100-tap-the-18-ca-nhan-cham-lo-tet-cho-nld-886085.ldo) ([Lao Động](https://laodong.vn))
+- [Những động vật đầu tiên được tiêm vaccine COVID-19 ở Mỹ](https://laodong.vn/the-gioi/nhung-dong-vat-dau-tien-duoc-tiem-vaccine-covid-19-o-my-886112.ldo) ([Lao Động](https://laodong.vn))
+- [Sợ khỉ vàng &quot;lười nhác&quot;, tình nguyện viên quyết đóng chốt ở Sơn Trà](https://laodong.vn/nguoi-viet-tu-te/so-khi-vang-luoi-nhac-tinh-nguyen-vien-quyet-dong-chot-o-son-tra-885933.ldo) ([Lao Động](https://laodong.vn))
+- [Làm rõ vụ cháy đám cỏ lan vào 1.500m² nhà xưởng của công ty may mặc](https://laodong.vn/xa-hoi/lam-ro-vu-chay-dam-co-lan-vao-1500m-nha-xuong-cua-cong-ty-may-mac-886116.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt 'người nhện' lúc rạng sáng cùng 18 điện thoại xịn](https://tuoitre.vn/bat-nguoi-nhen-luc-rang-sang-cung-18-dien-thoai-xin-20210305144510117.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [WHO tính huỷ báo cáo sơ bộ nguồn gốc COVID-19 ở Trung Quốc](https://laodong.vn/the-gioi/who-tinh-huy-bao-cao-so-bo-nguon-goc-covid-19-o-trung-quoc-886066.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội bổ nhiệm thêm 9 lãnh đạo cấp sở, đơn vị trực thuộc Thành phố](https://laodong.vn/thoi-su/ha-noi-bo-nhiem-them-9-lanh-dao-cap-so-don-vi-truc-thuoc-thanh-pho-886117.ldo) ([Lao Động](https://laodong.vn))
+- [Triệu tập 3 nghi phạm liên quan đến vụ quấy rối tình dục người nước ngoài](https://laodong.vn/phap-luat/trieu-tap-3-nghi-pham-lien-quan-den-vu-quay-roi-tinh-duc-nguoi-nuoc-ngoai-886104.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,9 @@
 
 **VIETCETERA**
 
+- [Loay hoay tìm nguồn cơn và cách thoát khỏi hố đen trầm cảm](https://vietcetera.com/vn/loay-hoay-tim-nguon-con-va-cach-thoat-khoi-ho-den-tram-cam)
+- [4 Ứng dụng camera không chỉ để chụp ảnh](https://vietcetera.com/vn/4-ung-dung-dung-camera-khong-chi-de-song-ao)
+- [Cởi Mở: Lần đầu đối diện với sang chấn về tình dục](https://vietcetera.com/vn/lan-dau-doi-dien-voi-sang-chan-ve-tinh-duc)
 - [Lay’s biến âm thanh "giòn rụm" thành phụ đề YouTube ](https://vietcetera.com/vn/lays-bien-am-thanh-gion-rum-thanh-phu-de-youtube)
 - [Tóm Lại Là: Rich kid có phải thế hệ phô trương?](https://vietcetera.com/vn/tom-lai-la-rich-kid-la-the-he-pho-truong)
 - [Phương Vũ và những nguyên tắc cho người trẻ làm sáng tạo](https://vietcetera.com/vn/phuong-vu-va-nhung-nguyen-tac-cho-nguoi-tre-lam-sang-tao)
@@ -103,9 +106,6 @@
 - [4 Lầm tưởng thường gặp về sự tập trung](https://vietcetera.com/vn/4-lam-tuong-thuong-gap-ve-su-tap-trung)
 - [Vì sao phimmoi không bao giờ cũ?](https://vietcetera.com/vn/vi-sao-phimmoi-khong-bao-gio-cu)
 - [Chữ với Nghĩa: Quần què là quần gì?](https://vietcetera.com/vn/chu-voi-nghia-quan-que-la-cai-quan-hoe)
-- [4 Kiểu sống không-truyền-thống nhưng vẫn vui](https://vietcetera.com/vn/4-kieu-song-khong-truyen-thong-nhung-van-vui)
-- [CEO Ecomobi Trương Công Thành: “Khởi nghiệp là cuộc chiến không dành cho kẻ ngại gian nan.” ](https://vietcetera.com/vn/ceo-ecomobi-truong-cong-thanh-khoi-nghiep-la-cuoc-chien-khong-danh-cho-ke-ngai-gian-nan)
-- [Fine Dining, Bistro, Pop-up... rốt cuộc nghĩa là gì?](https://vietcetera.com/vn/fine-dining-casual-bistro-nghia-la-gi)
 
 [Read More](https://vietcetera.com/)
 
@@ -119,10 +119,10 @@
 04. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 05. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 06. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
-07. [RAIN (비) - WHY DON’T WE (Feat. 청하 (CHUNG HA)) MV](https://www.youtube.com/watch?v=srWfDwiRVgQ) - [RAIN's Official Channel](https://www.youtube.com/channel/UCxXgIeE5hxWxHG6dz9Scg2w)
-08. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
-09. [PBN 61 | Như Quỳnh - Dù Cho Hoa Tàn Úa](https://www.youtube.com/watch?v=ig8vOipF9Rs) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-10. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
+07. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
+08. [RAIN (비) - WHY DON’T WE (Feat. 청하 (CHUNG HA)) MV](https://www.youtube.com/watch?v=srWfDwiRVgQ) - [RAIN's Official Channel](https://www.youtube.com/channel/UCxXgIeE5hxWxHG6dz9Scg2w)
+09. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
+10. [PBN 61 | Như Quỳnh - Dù Cho Hoa Tàn Úa](https://www.youtube.com/watch?v=ig8vOipF9Rs) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
