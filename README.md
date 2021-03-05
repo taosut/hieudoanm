@@ -59,15 +59,15 @@
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
+- [![Lê Thanh Nghị](https://img.shields.io/static/v1?label=L%C3%AA%20Thanh%20Ngh%E1%BB%8B&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20Thanh%20Ngh%E1%BB%8B)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Maybach](https://img.shields.io/static/v1?label=Maybach&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Maybach)
+- [![Man utd](https://img.shields.io/static/v1?label=Man%20utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
-- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Hải Phòng đầu tư hơn 6.000 tỷ đồng xây mới, cải tạo chung cư cũ](https://vnexpress.net/hai-phong-dau-tu-hon-6-000-ty-dong-xay-moi-cai-tao-chung-cu-cu-4243710.html) ([VNExpress](https://vnexpress.net))
+- [Nguồn cơn nào khiến vốn ngoại vào chứng khoán hạ nhiệt?](https://cafebiz.vn/nguon-con-nao-khien-von-ngoai-vao-chung-khoan-ha-nhiet-20210305210149956.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nội: Đông người dân tới làm căn cước gắn chíp, công an phải tăng ca](https://laodong.vn/video/ha-noi-dong-nguoi-dan-toi-lam-can-cuoc-gan-chip-cong-an-phai-tang-ca-886186.ldo) ([Lao Động](https://laodong.vn))
 - [Kinh tế 24h: Giá vàng đồng loạt giảm, Dự báo giá bitcoin tăng](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-dong-loat-giam-du-bao-gia-bitcoin-tang-886200.ldo) ([Lao Động](https://laodong.vn))
 - [Không khí lạnh tràn xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-tran-xuong-mien-bac-4244227.html) ([VNExpress](https://vnexpress.net))
@@ -83,8 +85,6 @@
 - [Bất động sản Tp.HCM: Vì sao giá tăng nhưng vẫn cần... giải cứu?](https://cafebiz.vn/bat-dong-san-tphcm-vi-sao-gia-tang-nhung-van-can-giai-cuu-20210305194348087.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắt giám đốc doanh nghiệp sở hữu kho hàng giả số lượng &quot;khủng&quot;](https://laodong.vn/phap-luat/bat-giam-doc-doanh-nghiep-so-huu-kho-hang-gia-so-luong-khung-886197.ldo) ([Lao Động](https://laodong.vn))
 - [Anh lại phát hiện thêm biến thể mới của SARS-CoV-2 chưa rõ nguồn gốc](https://cafebiz.vn/anh-lai-phat-hien-them-bien-the-moi-cua-sars-cov-2-chua-ro-nguon-goc-20210305200227449.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nóng nhất hôm nay: Ông Trump chọn con gái Ivanka cùng tranh cử năm 2024?](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-ong-trump-chon-con-gai-ivanka-cung-tranh-cu-nam-2024-886161.ldo) ([Lao Động](https://laodong.vn))
-- [Cách xử lý sự cố khi gặp tai nạn giao thông](https://laodong.vn/xe/cach-xu-ly-su-co-khi-gap-tai-nan-giao-thong-886194.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
