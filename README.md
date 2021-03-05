@@ -22,7 +22,7 @@
 - Current weather is light intensity drizzle.
 - Temperature is 20°C.
 - Feels Like 22.51°C.
-- Air Visual is 140.
+- Air Visual is 122.
 
 **WEATHER**
 
