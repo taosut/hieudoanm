@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is light intensity drizzle.
 - Temperature is 20°C.
 - Feels Like 22.16°C.
-- Air Visual is 127.
+- Air Visual is 152.
 
 **WEATHER**
 
@@ -54,18 +54,18 @@
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Clip Ninh-Duong-Lan-Ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh-Duong-Lan-Ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh-Duong-Lan-Ngoc)
-- [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Maybach](https://img.shields.io/static/v1?label=Maybach&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Maybach)
+- [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
+- [![TCBS](https://img.shields.io/static/v1?label=TCBS&message=google&color=red&style=flat-square)](https://www.google.com/search?q=TCBS)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
 - [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Thật bất ngờ, Google tuyên bố sẽ không theo dõi lịch sử trình duyệt của bạn để quảng cáo nữa](https://cafebiz.vn/that-bat-ngo-google-tuyen-bo-se-khong-theo-doi-lich-su-trinh-duyet-cua-ban-de-quang-cao-nua-20210305141150087.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phát hiện dàn máy bay hàng trăm triệu USD của Lầu Năm Góc thành phế liệu](https://laodong.vn/the-gioi/phat-hien-dan-may-bay-hang-tram-trieu-usd-cua-lau-nam-goc-thanh-phe-lieu-886094.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương: Kết thúc cách ly y tế nhiều khu dân cư với hơn 1.500 nhân khẩu](https://laodong.vn/xa-hoi/hai-duong-ket-thuc-cach-ly-y-te-nhieu-khu-dan-cu-voi-hon-1500-nhan-khau-886091.ldo) ([Lao Động](https://laodong.vn))
+- [Những khoản tiền NLĐ được nhận khi nghỉ việc không báo trước năm 2021](https://laodong.vn/cong-doan/nhung-khoan-tien-nld-duoc-nhan-khi-nghi-viec-khong-bao-truoc-nam-2021-886095.ldo) ([Lao Động](https://laodong.vn))
+- [LĐLĐ Bình Dương trao hỗ trợ 5.000 CNLĐ có gia đình bị thiệt hại do bão lũ](https://laodong.vn/ldld-binh-duong/ldld-binh-duong-trao-ho-tro-5000-cnld-co-gia-dinh-bi-thiet-hai-do-bao-lu-886079.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang: Doanh nghiệp nợ bảo hiểm tăng 35 tỷ đồng so với cùng kỳ năm 2020](https://laodong.vn/xa-hoi/bac-giang-doanh-nghiep-no-bao-hiem-tang-35-ty-dong-so-voi-cung-ky-nam-2020-886067.ldo) ([Lao Động](https://laodong.vn))
+- [Kinh tế Thủ đô đạt nhiều kết quả tích cực, nổi bật, nhiều chỉ số tăng khá cao so với cùng kỳ](https://cafebiz.vn/kinh-te-thu-do-dat-nhieu-ket-qua-tich-cuc-noi-bat-nhieu-chi-so-tang-kha-cao-so-voi-cung-ky-20210305160807497.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xóa sổ thương hiệu Big C để mở thêm hàng trăm siêu thị với thương hiệu mới, tại sao "đại gia" Central Retail quyết tâm với thị trường Việt Nam?](https://cafebiz.vn/xoa-so-thuong-hieu-big-c-de-mo-them-hang-tram-sieu-thi-voi-thuong-hieu-moi-tai-sao-dai-gia-central-retail-quyet-tam-voi-thi-truong-viet-nam-20210305160152066.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xe container lao vào nhà ở Sài Gòn, một người chết](https://vnexpress.net/xe-container-lao-vao-nha-o-sai-gon-mot-nguoi-chet-4244118.html) ([VNExpress](https://vnexpress.net))
 - [Thời COVID-19: Món quà ý nghĩa, thiết thực dành tặng cha mẹ, người thân](https://laodong.vn/thong-tin-doanh-nghiep/thoi-covid-19-mon-qua-y-nghia-thiet-thuc-danh-tang-cha-me-nguoi-than-886038.ldo) ([Lao Động](https://laodong.vn))
-- [Modelez Kinh Đô hỗ trợ các địa phương chống dịch COVID-19](https://laodong.vn/thong-tin-doanh-nghiep/modelez-kinh-do-ho-tro-cac-dia-phuong-chong-dich-covid-19-885984.ldo) ([Lao Động](https://laodong.vn))
-- [Tác động của đại dịch COVID-19 nhìn từ góc độ giới](https://laodong.vn/cong-doan/tac-dong-cua-dai-dich-covid-19-nhin-tu-goc-do-gioi-886063.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM liên tiếp phát hiện phòng khám, cơ sở thẩm mỹ &quot;chui&quot;](https://laodong.vn/y-te/tphcm-lien-tiep-phat-hien-phong-kham-co-so-tham-my-chui-886070.ldo) ([Lao Động](https://laodong.vn))
-- [Con trai duy nhất ít được nhắc tới của tỷ phú Bill Gates: Cũng học IT nhưng không được thừa kế, sống cuộc đời khiêm tốn khác xa rich kid thường thấy](https://cafebiz.vn/con-trai-duy-nhat-it-duoc-nhac-toi-cua-ty-phu-bill-gates-cung-hoc-it-nhung-khong-duoc-thua-ke-song-cuoc-doi-khiem-ton-khac-xa-rich-kid-thuong-thay-20210305140949805.chn) ([CafeBiz](https://cafebiz.vn))
-- ["Bí mật" đằng sau những chiến dịch tiêm vaccine ngừa COVID-19 thành công trên thế giới](https://cafebiz.vn/bi-mat-dang-sau-nhung-chien-dich-tiem-vaccine-ngua-covid-19-thanh-cong-tren-the-gioi-2021030515452985.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bộ Tư lệnh vùng Cảnh sát biển 3 nhận Huân chương Bảo vệ Tổ quốc hạng Nhì](https://tuoitre.vn/bo-tu-lenh-vung-canh-sat-bien-3-nhan-huan-chuong-bao-ve-to-quoc-hang-nhi-20210305150549448.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bắt kẻ tổ chức cho 11 người xuất cảnh trái phép](https://laodong.vn/phap-luat/bat-ke-to-chuc-cho-11-nguoi-xuat-canh-trai-phep-886048.ldo) ([Lao Động](https://laodong.vn))
-- [Xem màn trình diễn chói sáng của Sanchez trước Parma](https://laodong.vn/video-the-thao/xem-man-trinh-dien-choi-sang-cua-sanchez-truoc-parma-886051.ldo) ([Lao Động](https://laodong.vn))
-- [Bị nhồi máu não và ung thư thận, sau hơn 15 năm vẫn khỏe mạnh, bác sĩ 98 tuổi ở Trung Quốc chia sẻ 2 bí quyết sống khỏe](https://cafebiz.vn/bi-nhoi-mau-nao-va-ung-thu-than-sau-hon-15-nam-van-khoe-manh-bac-si-98-tuoi-o-trung-quoc-chia-se-2-bi-quyet-song-khoe-20210305150522221.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
