@@ -21,8 +21,8 @@
 
 - Current weather is drizzle.
 - Temperature is 20°C.
-- Feels Like 21.79°C.
-- Air Visual is 165.
+- Feels Like 22.16°C.
+- Air Visual is 167.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Thu giữ gần 3.500 sản phẩm thuốc lá điện tử kèm phụ kiện nghi nhập lậu](https://laodong.vn/kinh-te/thu-giu-gan-3500-san-pham-thuoc-la-dien-tu-kem-phu-kien-nghi-nhap-lau-886144.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Nhiều quán trà đá vỉa hè vẫn ngang nhiên bày bán bất chấp lệnh cấm](https://laodong.vn/xa-hoi/ha-noi-nhieu-quan-tra-da-via-he-van-ngang-nhien-bay-ban-bat-chap-lenh-cam-886040.ldo) ([Lao Động](https://laodong.vn))
-- [Nghệ An: Công đoàn kêu gọi chung tay &quot;giải cứu&quot; rau xanh cho nông dân](https://laodong.vn/cong-doan/nghe-an-cong-doan-keu-goi-chung-tay-giai-cuu-rau-xanh-cho-nong-dan-886142.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Biden phải chờ nhiều tháng để bay trực thăng Marine One](https://laodong.vn/the-gioi/ong-biden-phai-cho-nhieu-thang-de-bay-truc-thang-marine-one-886140.ldo) ([Lao Động](https://laodong.vn))
-- [Cho phép thủy điện Thượng Nhật tích nước trở lại](https://laodong.vn/kinh-te/cho-phep-thuy-dien-thuong-nhat-tich-nuoc-tro-lai-886113.ldo) ([Lao Động](https://laodong.vn))
-- [Chê bánh giò nguội mặc dù miệng vẫn thổi trước khi ăn, vô tư bình luận sắc mặt chủ quán, Tiktoker Hà Nội bị chỉ trích muốn "phá" việc kinh doanh của cửa hàng](https://cafebiz.vn/che-banh-gio-nguoi-mac-du-mieng-van-thoi-truoc-khi-an-vo-tu-binh-luan-sac-mat-chu-quan-tiktoker-ha-noi-bi-chi-trich-muon-pha-viec-kinh-doanh-cua-cua-hang-20210305172607142.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội điều động, bổ nhiệm hàng loạt lãnh đạo sở ngành, quận huyện](http://vietnamnet.vn/vn/thoi-su/chinh-tri/ha-noi-dieu-dong-bo-nhiem-hang-loat-lanh-dao-so-nganh-quan-huyen-717538.html) ([VietNamNet](https://vietnamnet.vn))
-- [Chăm sóc khách hàng, sale tại nhà/từ xa vẫn hiệu quả như ở văn phòng với giải pháp tổng đài ảo sử dụng đầu số riêng](https://cafebiz.vn/cham-soc-khach-hang-sale-tai-nha-tu-xa-van-hieu-qua-nhu-o-van-phong-voi-giai-phap-tong-dai-ao-su-dung-dau-so-rieng-20210305162636907.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dàn siêu xe gần trăm tỷ hội ngộ tại Sài Gòn: Ferrari chiếm áp đảo, BMW i8 của Bùi Tiến Dũng cũng góp mặt](https://cafebiz.vn/dan-sieu-xe-gan-tram-ty-hoi-ngo-tai-sai-gon-ferrari-chiem-ap-dao-bmw-i8-cua-bui-tien-dung-cung-gop-mat-20210305161256254.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt 'người nhện' lúc rạng sáng cùng 18 điện thoại xịn](https://tuoitre.vn/bat-nguoi-nhen-luc-rang-sang-cung-18-dien-thoai-xin-20210305144510117.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chiều 5/3, thêm 6 ca mắc COVID-19 ở Kiên Giang và 2 tỉnh khác](https://cafebiz.vn/chieu-5-3-them-6-ca-mac-covid-19-o-kien-giang-va-2-tinh-khac-20210305183001824.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phối hợp chăm lo cho người lao động, thúc đẩy doanh nghiệp phát triển](https://laodong.vn/cong-doan/phoi-hop-cham-lo-cho-nguoi-lao-dong-thuc-day-doanh-nghiep-phat-trien-886151.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ cao tốc Đà Nẵng - Quảng Ngãi: 2 nguyên sĩ quan quân đội bị đề nghị truy tố](https://tuoitre.vn/vu-cao-toc-da-nang-quang-ngai-2-nguyen-si-quan-quan-doi-bi-de-nghi-truy-to-20210305172200056.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bắt giữ lô thuốc và mỹ phẩm nghi nhập lậu số lượng lớn](https://laodong.vn/phap-luat/bat-giu-lo-thuoc-va-my-pham-nghi-nhap-lau-so-luong-lon-886148.ldo) ([Lao Động](https://laodong.vn))
+- [Lịch quan sát 5 hiện tượng thiên văn kỳ thú sắp xuất hiện tại Việt Nam](https://laodong.vn/infographic/lich-quan-sat-5-hien-tuong-thien-van-ky-thu-sap-xuat-hien-tai-viet-nam-885921.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng: Điều tra vụ nữ sinh cấp 2 bị bạn đánh hội đồng](https://laodong.vn/ban-doc/hai-phong-dieu-tra-vu-nu-sinh-cap-2-bi-ban-danh-hoi-dong-886122.ldo) ([Lao Động](https://laodong.vn))
+- [Ghi nhận 6 ca mắc COVID-19 nhập cảnh trong ngày 5.3](https://laodong.vn/y-te/ghi-nhan-6-ca-mac-covid-19-nhap-canh-trong-ngay-53-886154.ldo) ([Lao Động](https://laodong.vn))
+- [Điện Biên: Một lò giết mổ gia súc, 5 phố cùng chịu ô nhiễm](https://laodong.vn/video/dien-bien-mot-lo-giet-mo-gia-suc-5-pho-cung-chiu-o-nhiem-886131.ldo) ([Lao Động](https://laodong.vn))
+- [Bảng xếp hạng vòng 25 Serie A: Inter nới rộng khoảng cách với Milan](https://laodong.vn/infographic/bang-xep-hang-vong-25-serie-a-inter-noi-rong-khoang-cach-voi-milan-886032.ldo) ([Lao Động](https://laodong.vn))
+- [Bảng xếp hạng Ngoại hạng Anh sau vòng 29: Liverpool đứng thứ 7](https://laodong.vn/infographic/bang-xep-hang-ngoai-hang-anh-sau-vong-29-liverpool-dung-thu-7-886030.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
