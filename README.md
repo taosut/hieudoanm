@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is light intensity drizzle.
 - Temperature is 20°C.
 - Feels Like 22.16°C.
-- Air Visual is 151.
+- Air Visual is 165.
 
 **WEATHER**
 
@@ -61,13 +61,13 @@
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Ngày Quốc tế Phụ nữ 8-3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208-3)
+- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
+- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Các hãng Hàng không Việt 'đòi' hỗ trợ gói 25 nghìn tỷ đồng giải cứu](https://cafebiz.vn/cac-hang-hang-khong-viet-doi-ho-tro-goi-25-nghin-ty-dong-giai-cuu-20210305184402039.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tuyển Malaysia lo không có trận giao hữu trước khi đấu tuyển Việt Nam](https://laodong.vn/bong-da/tuyen-malaysia-lo-khong-co-tran-giao-huu-truoc-khi-dau-tuyen-viet-nam-886187.ldo) ([Lao Động](https://laodong.vn))
-- [Sân bay Phan Thiết sẽ được thi công trong tháng 3](https://vnexpress.net/san-bay-phan-thiet-se-duoc-thi-cong-trong-thang-3-4244197.html) ([VNExpress](https://vnexpress.net))
-- [Champions League: Man City được đá sân nhà, Liverpool trở lại Hungary](https://laodong.vn/bong-da-quoc-te/champions-league-man-city-duoc-da-san-nha-liverpool-tro-lai-hungary-886171.ldo) ([Lao Động](https://laodong.vn))
-- [Côn Đảo hoàn thành đường 350 tỷ đồng](https://vnexpress.net/con-dao-hoan-thanh-duong-350-ty-dong-4244224.html) ([VNExpress](https://vnexpress.net))
-- [&quot;Đội tuyển Việt Nam có thể gặp bất lợi nếu thi đấu ở UAE&quot;](https://laodong.vn/bong-da/doi-tuyen-viet-nam-co-the-gap-bat-loi-neu-thi-dau-o-uae-886156.ldo) ([Lao Động](https://laodong.vn))
-- [Không tiền đạo, Real Madrid làm gì để thắng hàng xóm Atletico Madrid?](https://laodong.vn/bong-da-quoc-te/khong-tien-dao-real-madrid-lam-gi-de-thang-hang-xom-atletico-madrid-886146.ldo) ([Lao Động](https://laodong.vn))
-- [Hai Thứ trưởng Bộ Quốc phòng được giới thiệu ứng cử Quốc hội](http://vietnamnet.vn/vn/thoi-su/chinh-tri/hai-thu-truong-bo-quoc-phong-duoc-gioi-thieu-ung-cu-quoc-hoi-717556.html) ([VietNamNet](https://vietnamnet.vn))
-- [Giá hoa hồng Đà Lạt tăng vọt dịp 8/3](https://cafebiz.vn/gia-hoa-hong-da-lat-tang-vot-dip-8-3-20210305184236129.chn) ([CafeBiz](https://cafebiz.vn))
-- [COVID-19 và chuyển đổi số](https://laodong.vn/thoi-su/covid-19-va-chuyen-doi-so-886191.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
