@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 20°C.
-- Feels Like 22.51°C.
-- Air Visual is 161.
+- Feels Like 22.16°C.
+- Air Visual is 132.
 
 **WEATHER**
 
@@ -75,6 +75,9 @@
 
 **NEWS**
 
+- [Hà Nội: Đông người dân tới làm căn cước gắn chíp, công an phải tăng ca](https://laodong.vn/video/ha-noi-dong-nguoi-dan-toi-lam-can-cuoc-gan-chip-cong-an-phai-tang-ca-886186.ldo) ([Lao Động](https://laodong.vn))
+- [Kinh tế 24h: Giá vàng đồng loạt giảm, Dự báo giá bitcoin tăng](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-dong-loat-giam-du-bao-gia-bitcoin-tang-886200.ldo) ([Lao Động](https://laodong.vn))
+- [Không khí lạnh tràn xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-tran-xuong-mien-bac-4244227.html) ([VNExpress](https://vnexpress.net))
 - [Nữ tỷ phú "tô màu cho Bắc Kinh": Từ công nhân dệt may đến bà trùm bất động sản Bắc Kinh, kết hôn sau 4 ngày gặp gỡ, cùng chồng xây dựng sự nghiệp tỷ đô](https://cafebiz.vn/nu-ty-phu-to-mau-cho-bac-kinh-tu-cong-nhan-det-may-den-ba-trum-bat-dong-san-bac-kinh-ket-hon-sau-4-ngay-gap-go-cung-chong-xay-dung-su-nghiep-ty-do-2021030520180537.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bộ Y tế tặng bằng khen êkip bác sĩ tìm ra căn bệnh cho chàng trai ‘mặt quỷ’](https://tuoitre.vn/bo-y-te-tang-bang-khen-ekip-bac-si-tim-ra-can-benh-cho-chang-trai-mat-quy-20210305202425664.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bất động sản Tp.HCM: Vì sao giá tăng nhưng vẫn cần... giải cứu?](https://cafebiz.vn/bat-dong-san-tphcm-vi-sao-gia-tang-nhung-van-can-giai-cuu-20210305194348087.chn) ([CafeBiz](https://cafebiz.vn))
@@ -82,9 +85,6 @@
 - [Anh lại phát hiện thêm biến thể mới của SARS-CoV-2 chưa rõ nguồn gốc](https://cafebiz.vn/anh-lai-phat-hien-them-bien-the-moi-cua-sars-cov-2-chua-ro-nguon-goc-20210305200227449.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nóng nhất hôm nay: Ông Trump chọn con gái Ivanka cùng tranh cử năm 2024?](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-ong-trump-chon-con-gai-ivanka-cung-tranh-cu-nam-2024-886161.ldo) ([Lao Động](https://laodong.vn))
 - [Cách xử lý sự cố khi gặp tai nạn giao thông](https://laodong.vn/xe/cach-xu-ly-su-co-khi-gap-tai-nan-giao-thong-886194.ldo) ([Lao Động](https://laodong.vn))
-- [Hình ảnh cận cảnh đầu tiên về nhà ga Ba Son dưới lòng đất](https://cafebiz.vn/hinh-anh-can-canh-dau-tien-ve-nha-ga-ba-son-duoi-long-dat-20210305202311367.chn) ([CafeBiz](https://cafebiz.vn))
-- [Làm thế nào để mua bất động sản lời ngay lúc mua?](https://cafebiz.vn/lam-the-nao-de-mua-bat-dong-san-loi-ngay-luc-mua-20210305192625028.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bí thư Hà Nội: Huyện lên quận thì cán bộ cũng phải thay đổi tư duy](http://vietnamnet.vn/vn/thoi-su/chinh-tri/bi-thu-ha-noi-huyen-len-quan-thi-can-bo-cung-phai-thay-doi-tu-duy-717565.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
