@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 19°C.
-- Feels Like 19.85°C.
-- Air Visual is 121.
+- Temperature is 20°C.
+- Feels Like 22.05°C.
+- Air Visual is 128.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Huawei tuyên bố tham gia vào một nửa số mạng 5G toàn cầu](https://cafebiz.vn/huawei-tuyen-bo-tham-gia-vao-mot-nua-so-mang-5g-toan-cau-20210305091203904.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đầu năm ghé thăm Quy Nhơn và tận hưởng những điều đặc biệt](https://cafebiz.vn/dau-nam-ghe-tham-quy-nhon-va-tan-huong-nhung-dieu-dac-biet-20210304111623382.chn) ([CafeBiz](https://cafebiz.vn))
-- [5 loại thực phẩm tốt cho người mắc bệnh xương khớp](https://laodong.vn/suc-khoe/5-loai-thuc-pham-tot-cho-nguoi-mac-benh-xuong-khop-885777.ldo) ([Lao Động](https://laodong.vn))
-- [Thiết lập cơ chế đăng ký thuế qua cổng thông tin](https://laodong.vn/kinh-te/thiet-lap-co-che-dang-ky-thue-qua-cong-thong-tin-885888.ldo) ([Lao Động](https://laodong.vn))
-- [Trạm y tế phường, xã nào bị ngừng hợp đồng khám, chữa bệnh bảo hiểm y tế?](https://laodong.vn/ban-doc/tram-y-te-phuong-xa-nao-bi-ngung-hop-dong-kham-chua-benh-bao-hiem-y-te-885958.ldo) ([Lao Động](https://laodong.vn))
-- [Khởi tố Phan Văn Anh Vũ về tội đưa hối lộ](https://laodong.vn/phap-luat/khoi-to-phan-van-anh-vu-ve-toi-dua-hoi-lo-885998.ldo) ([Lao Động](https://laodong.vn))
-- [Super Junior ấn định ngày phát hành album](https://laodong.vn/giai-tri/super-junior-an-dinh-ngay-phat-hanh-album-885966.ldo) ([Lao Động](https://laodong.vn))
-- [8 cơ quan cùng kiểm soát tài sản, thu nhập, hạn kê khai lần đầu là 31-3](https://tuoitre.vn/8-co-quan-cung-kiem-soat-tai-san-thu-nhap-han-ke-khai-lan-dau-la-31-3-2021030507591231.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đà Nẵng tạm dừng hoạt động các chốt kiểm soát dịch ở cửa ngõ thành phố](https://tuoitre.vn/da-nang-tam-dung-hoat-dong-cac-chot-kiem-soat-dich-o-cua-ngo-thanh-pho-20210305101510361.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đặt đồ ăn online &quot;lên ngôi&quot; do COVID-19, đảm bảo an toàn thực phẩm ra sao?](https://laodong.vn/video-thoi-su/dat-do-an-online-len-ngoi-do-covid-19-dam-bao-an-toan-thuc-pham-ra-sao-885843.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +87,7 @@
 
 **VIETCETERA**
 
+- [Chữ Với Nghĩa: Dảk bủh - Trò đùa từ lỗi Telex](https://vietcetera.com/vn/chu-voi-nghia-dak-buh-tro-dua)
 - [4 Lầm tưởng thường gặp về sự tập trung](https://vietcetera.com/vn/4-lam-tuong-thuong-gap-ve-su-tap-trung)
 - [Vì sao phimmoi không bao giờ cũ?](https://vietcetera.com/vn/vi-sao-phimmoi-khong-bao-gio-cu)
 - [Chữ với Nghĩa: Quần què là quần gì?](https://vietcetera.com/vn/chu-voi-nghia-quan-que-la-cai-quan-hoe)
@@ -105,7 +97,6 @@
 - [Gọi vốn thành công vòng Seed từ Genesia Ventures, Vietcetera mở rộng quy mô và chuẩn bị cho Series A](https://vietcetera.com/vn/goi-von-thanh-cong-vong-seed-tu-genesia-ventures-vietcetera-mo-rong-quy-mo-va-chuan-bi-cho-series-a)
 - ["Nhìn vào mắt con Mơ, chị bị sét đánh."](https://vietcetera.com/vn/nghe-don-kit-meo-hoi)
 - [Varilux: Tầm nhìn không-giới-hạn cho Gen X ](https://vietcetera.com/vn/varilux-tam-nhin-khong-gioi-han-cho-gen-x)
-- [Không Quan Tâm: Clip nóng hay lạnh thì cơ thể người vẫn 37°C](https://vietcetera.com/vn/khong-quan-tam-nhung-van-de-dang-sau-hai-chu-xin-link)
 
 [Read More](https://vietcetera.com/)
 
