@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is drizzle.
+- Current weather is mist.
 - Temperature is 20°C.
 - Feels Like 21.79°C.
-- Air Visual is 164.
+- Air Visual is 165.
 
 **WEATHER**
 
@@ -53,21 +53,21 @@
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Clip Ninh-Duong-Lan-Ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh-Duong-Lan-Ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh-Duong-Lan-Ngoc)
-- [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
-- [![Inter Milan](https://img.shields.io/static/v1?label=Inter%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter%20Milan)
+- [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
+- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế Phụ nữ 8-3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208-3)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
+- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nghệ An: Công đoàn kêu gọi chung tay &quot;giải cứu&quot; rau xanh cho nông dân](https://laodong.vn/cong-doan/nghe-an-cong-doan-keu-goi-chung-tay-giai-cuu-rau-xanh-cho-nong-dan-886142.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Biden phải chờ nhiều tháng để bay trực thăng Marine One](https://laodong.vn/the-gioi/ong-biden-phai-cho-nhieu-thang-de-bay-truc-thang-marine-one-886140.ldo) ([Lao Động](https://laodong.vn))
+- [Cho phép thủy điện Thượng Nhật tích nước trở lại](https://laodong.vn/kinh-te/cho-phep-thuy-dien-thuong-nhat-tich-nuoc-tro-lai-886113.ldo) ([Lao Động](https://laodong.vn))
+- [Chê bánh giò nguội mặc dù miệng vẫn thổi trước khi ăn, vô tư bình luận sắc mặt chủ quán, Tiktoker Hà Nội bị chỉ trích muốn "phá" việc kinh doanh của cửa hàng](https://cafebiz.vn/che-banh-gio-nguoi-mac-du-mieng-van-thoi-truoc-khi-an-vo-tu-binh-luan-sac-mat-chu-quan-tiktoker-ha-noi-bi-chi-trich-muon-pha-viec-kinh-doanh-cua-cua-hang-20210305172607142.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội điều động, bổ nhiệm hàng loạt lãnh đạo sở ngành, quận huyện](http://vietnamnet.vn/vn/thoi-su/chinh-tri/ha-noi-dieu-dong-bo-nhiem-hang-loat-lanh-dao-so-nganh-quan-huyen-717538.html) ([VietNamNet](https://vietnamnet.vn))
+- [Tiêu thụ nông sản, hàng hóa từ vùng có dịch đang dần tốt hơn](https://laodong.vn/kinh-te/tieu-thu-nong-san-hang-hoa-tu-vung-co-dich-dang-dan-tot-hon-886138.ldo) ([Lao Động](https://laodong.vn))
 - [Chăm sóc khách hàng, sale tại nhà/từ xa vẫn hiệu quả như ở văn phòng với giải pháp tổng đài ảo sử dụng đầu số riêng](https://cafebiz.vn/cham-soc-khach-hang-sale-tai-nha-tu-xa-van-hieu-qua-nhu-o-van-phong-voi-giai-phap-tong-dai-ao-su-dung-dau-so-rieng-20210305162636907.chn) ([CafeBiz](https://cafebiz.vn))
 - [Dàn siêu xe gần trăm tỷ hội ngộ tại Sài Gòn: Ferrari chiếm áp đảo, BMW i8 của Bùi Tiến Dũng cũng góp mặt](https://cafebiz.vn/dan-sieu-xe-gan-tram-ty-hoi-ngo-tai-sai-gon-ferrari-chiem-ap-dao-bmw-i8-cua-bui-tien-dung-cung-gop-mat-20210305161256254.chn) ([CafeBiz](https://cafebiz.vn))
 - [LĐLĐ TPHCM tuyên dương 100 tập thể, 18 cá nhân chăm lo Tết cho NLĐ](https://laodong.vn/cong-doan/ldld-tphcm-tuyen-duong-100-tap-the-18-ca-nhan-cham-lo-tet-cho-nld-886085.ldo) ([Lao Động](https://laodong.vn))
-- [Những động vật đầu tiên được tiêm vaccine COVID-19 ở Mỹ](https://laodong.vn/the-gioi/nhung-dong-vat-dau-tien-duoc-tiem-vaccine-covid-19-o-my-886112.ldo) ([Lao Động](https://laodong.vn))
-- [Sợ khỉ vàng &quot;lười nhác&quot;, tình nguyện viên quyết đóng chốt ở Sơn Trà](https://laodong.vn/nguoi-viet-tu-te/so-khi-vang-luoi-nhac-tinh-nguyen-vien-quyet-dong-chot-o-son-tra-885933.ldo) ([Lao Động](https://laodong.vn))
-- [Làm rõ vụ cháy đám cỏ lan vào 1.500m² nhà xưởng của công ty may mặc](https://laodong.vn/xa-hoi/lam-ro-vu-chay-dam-co-lan-vao-1500m-nha-xuong-cua-cong-ty-may-mac-886116.ldo) ([Lao Động](https://laodong.vn))
 - [Bắt 'người nhện' lúc rạng sáng cùng 18 điện thoại xịn](https://tuoitre.vn/bat-nguoi-nhen-luc-rang-sang-cung-18-dien-thoai-xin-20210305144510117.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [WHO tính huỷ báo cáo sơ bộ nguồn gốc COVID-19 ở Trung Quốc](https://laodong.vn/the-gioi/who-tinh-huy-bao-cao-so-bo-nguon-goc-covid-19-o-trung-quoc-886066.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội bổ nhiệm thêm 9 lãnh đạo cấp sở, đơn vị trực thuộc Thành phố](https://laodong.vn/thoi-su/ha-noi-bo-nhiem-them-9-lanh-dao-cap-so-don-vi-truc-thuoc-thanh-pho-886117.ldo) ([Lao Động](https://laodong.vn))
-- [Triệu tập 3 nghi phạm liên quan đến vụ quấy rối tình dục người nước ngoài](https://laodong.vn/phap-luat/trieu-tap-3-nghi-pham-lien-quan-den-vu-quay-roi-tinh-duc-nguoi-nuoc-ngoai-886104.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -97,6 +97,7 @@
 **VIETCETERA**
 
 - [Loay hoay tìm nguồn cơn và cách thoát khỏi hố đen trầm cảm](https://vietcetera.com/vn/loay-hoay-tim-nguon-con-va-cach-thoat-khoi-ho-den-tram-cam)
+- [The Queen's Gambit: Thiên tài cô đơn trong thế giới của những người cô đơn](https://vietcetera.com/vn/the-queens-gambit-thien-tai-co-don-trong-the-gioi-cua-nhung-nguoi-co-don)
 - [4 Ứng dụng camera không chỉ để chụp ảnh](https://vietcetera.com/vn/4-ung-dung-dung-camera-khong-chi-de-song-ao)
 - [Cởi Mở: Lần đầu đối diện với sang chấn về tình dục](https://vietcetera.com/vn/lan-dau-doi-dien-voi-sang-chan-ve-tinh-duc)
 - [Lay’s biến âm thanh "giòn rụm" thành phụ đề YouTube ](https://vietcetera.com/vn/lays-bien-am-thanh-gion-rum-thanh-phu-de-youtube)
@@ -105,7 +106,6 @@
 - [Chữ Với Nghĩa: Dảk bủh - Trò đùa từ lỗi Telex](https://vietcetera.com/vn/chu-voi-nghia-dak-buh-tro-dua)
 - [4 Lầm tưởng thường gặp về sự tập trung](https://vietcetera.com/vn/4-lam-tuong-thuong-gap-ve-su-tap-trung)
 - [Vì sao phimmoi không bao giờ cũ?](https://vietcetera.com/vn/vi-sao-phimmoi-khong-bao-gio-cu)
-- [Chữ với Nghĩa: Quần què là quần gì?](https://vietcetera.com/vn/chu-voi-nghia-quan-que-la-cai-quan-hoe)
 
 [Read More](https://vietcetera.com/)
 
