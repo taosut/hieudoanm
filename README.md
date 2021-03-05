@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 20°C.
 - Feels Like 22.16°C.
-- Air Visual is 132.
+- Air Visual is 160.
 
 **WEATHER**
 
@@ -59,8 +59,8 @@
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
-- [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Maybach](https://img.shields.io/static/v1?label=Maybach&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Maybach)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Cách xử lý sự cố khi gặp tai nạn giao thông](https://laodong.vn/xe/cach-xu-ly-su-co-khi-gap-tai-nan-giao-thong-886194.ldo) ([Lao Động](https://laodong.vn))
+- [Hình ảnh cận cảnh đầu tiên về nhà ga Ba Son dưới lòng đất](https://cafebiz.vn/hinh-anh-can-canh-dau-tien-ve-nha-ga-ba-son-duoi-long-dat-20210305202311367.chn) ([CafeBiz](https://cafebiz.vn))
 - [Làm thế nào để mua bất động sản lời ngay lúc mua?](https://cafebiz.vn/lam-the-nao-de-mua-bat-dong-san-loi-ngay-luc-mua-20210305192625028.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bí thư Hà Nội: Huyện lên quận thì cán bộ cũng phải thay đổi tư duy](http://vietnamnet.vn/vn/thoi-su/chinh-tri/bi-thu-ha-noi-huyen-len-quan-thi-can-bo-cung-phai-thay-doi-tu-duy-717565.html) ([VietNamNet](https://vietnamnet.vn))
 - [Mê 'chắc trúng 100%', đặt cược hơn 140 triệu đồng rồi phải đi báo... công an](https://tuoitre.vn/me-chac-trung-100-dat-cuoc-hon-140-trieu-dong-roi-phai-di-bao-cong-an-20210305195451939.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -83,8 +85,6 @@
 - [Hải Dương ghi nhận 1 ca dương tính sau 7 lần xét nghiệm âm tính](https://laodong.vn/xa-hoi/hai-duong-ghi-nhan-1-ca-duong-tinh-sau-7-lan-xet-nghiem-am-tinh-886193.ldo) ([Lao Động](https://laodong.vn))
 - [Chiến lược đặc biệt của công ty tí hon đang sản xuất ra một nửa lượng vaccine Covid-19 trên thế giới, không ngại ngần đối đầu với những gã khổng lồ dược phẩm](https://cafebiz.vn/chien-luoc-dac-biet-cua-cong-ty-ti-hon-dang-san-xuat-ra-mot-nua-luong-vaccine-covid-19-tren-the-gioi-khong-ngai-ngan-doi-dau-voi-nhung-ga-khong-lo-duoc-pham-20210305191711512.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nóng nhất 24h: Hơn 44.000 người được ưu tiên tiêm vaccine COVID-19 ở TPHCM](https://laodong.vn/video-thoi-su/nong-nhat-24h-hon-44000-nguoi-duoc-uu-tien-tiem-vaccine-covid-19-o-tphcm-886119.ldo) ([Lao Động](https://laodong.vn))
-- [Bất ngờ trước công dụng của các loại trà phổ biến](https://laodong.vn/suc-khoe/bat-ngo-truoc-cong-dung-cua-cac-loai-tra-pho-bien-885585.ldo) ([Lao Động](https://laodong.vn))
-- [Manh mối săn tìm sự sống ngoài hành tinh ở &quot;siêu trái đất&quot; mới phát hiện](https://laodong.vn/the-gioi/manh-moi-san-tim-su-song-ngoai-hanh-tinh-o-sieu-trai-dat-moi-phat-hien-886062.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
