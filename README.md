@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 19°C.
-- Feels Like 21.08°C.
-- Air Visual is 105.
+- Feels Like 21.44°C.
+- Air Visual is 122.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [&quot;Công thần&quot; của bầu Đức xuất sắc vô địch Thai League trước 6 vòng đấu](https://laodong.vn/bong-da/cong-than-cua-bau-duc-xuat-sac-vo-dich-thai-league-truoc-6-vong-dau-885964.ldo) ([Lao Động](https://laodong.vn))
-- [Tàu vũ trụ của Elon Musk lại nổ nhưng lần này, nó khiến tất cả mừng hụt](https://cafebiz.vn/tau-vu-tru-cua-elon-musk-lai-no-nhung-lan-nay-no-khien-tat-ca-mung-hut-20210305085913953.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tự ý san lấp đất nông nghiệp sẽ bị xử lý ra sao?](https://laodong.vn/bat-dong-san/tu-y-san-lap-dat-nong-nghiep-se-bi-xu-ly-ra-sao-885846.ldo) ([Lao Động](https://laodong.vn))
-- [Bỏ chạy khi cảnh sát giao thông dừng xe bị phạt thế nào?](https://laodong.vn/xe/bo-chay-khi-canh-sat-giao-thong-dung-xe-bi-phat-the-nao-885902.ldo) ([Lao Động](https://laodong.vn))
-- [Tháng 5, Nga sẽ sản xuất tới hơn 50 triệu liều vaccine](https://laodong.vn/the-gioi/thang-5-nga-se-san-xuat-toi-hon-50-trieu-lieu-vaccine-885950.ldo) ([Lao Động](https://laodong.vn))
-- [Từng lớn hơn cả Coca Cola, vốn hóa hãng quốc tửu Trung Quốc bỗng bốc hơi 111 tỷ USD](https://cafebiz.vn/tung-lon-hon-ca-coca-cola-von-hoa-hang-quoc-tuu-trung-quoc-bong-boc-hoi-111-ty-usd-20210305095934282.chn) ([CafeBiz](https://cafebiz.vn))
-- [Việt Nam - Anh đề cao Công ước Liên Hợp Quốc về Luật biển](https://laodong.vn/thoi-su/viet-nam-anh-de-cao-cong-uoc-lien-hop-quoc-ve-luat-bien-885969.ldo) ([Lao Động](https://laodong.vn))
-- [2 xe máy bể nát ở Bình Chánh, 4 người thương vong](https://tuoitre.vn/hai-xe-may-be-nat-o-binh-chanh-4-nguoi-thuong-vong-20210305091058077.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [IMF: Năm 2021, lạm phát của Việt Nam vẫn sẽ đạt khoảng 4%](https://cafebiz.vn/imf-nam-2021-lam-phat-cua-viet-nam-van-se-dat-khoang-4-2021030509435631.chn) ([CafeBiz](https://cafebiz.vn))
-- [Có thể mua gần như 'mọi thứ trên đời', nhưng các triệu phú lại tuyệt đối không chi trả cho những món đồ này](https://cafebiz.vn/co-the-mua-gan-nhu-moi-thu-tren-doi-nhung-cac-trieu-phu-lai-tuyet-doi-khong-chi-tra-cho-nhung-mon-do-nay-20210305085640605.chn) ([CafeBiz](https://cafebiz.vn))
+- [Big Tech hết thời "hô mưa gọi gió"?](https://cafebiz.vn/big-tech-het-thoi-ho-mua-goi-gio-20210305090343827.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tạm dừng hoạt động các chốt kiểm soát dịch liên ngành ở cửa ngõ Đà Nẵng](https://laodong.vn/xa-hoi/tam-dung-hoat-dong-cac-chot-kiem-soat-dich-lien-nganh-o-cua-ngo-da-nang-885983.ldo) ([Lao Động](https://laodong.vn))
+- [Những thủ thuật giảm cân hiệu quả mà nhiều người không hay biết](https://laodong.vn/suc-khoe/nhung-thu-thuat-giam-can-hieu-qua-ma-nhieu-nguoi-khong-hay-biet-885923.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng và ngoại tệ 5.3: Áp lực đè nặng, giá vàng đổ dốc không phanh](https://laodong.vn/video/gia-vang-va-ngoai-te-53-ap-luc-de-nang-gia-vang-do-doc-khong-phanh-885986.ldo) ([Lao Động](https://laodong.vn))
+- [Lần đầu tiên một ngân hàng tại Việt Nam cho phép dùng số điện thoại làm số tài khoản](https://cafebiz.vn/lan-dau-tien-mot-ngan-hang-tai-viet-nam-cho-phep-dung-so-dien-thoai-lam-so-tai-khoan-2021030510240781.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông “bạn ruột” tiết lộ điều Cristiano Ronaldo lo sợ nhất](https://laodong.vn/the-thao/ong-ban-ruot-tiet-lo-dieu-cristiano-ronaldo-lo-so-nhat-885961.ldo) ([Lao Động](https://laodong.vn))
+- [Nạn làm giả giấy phép lái xe kiểu mới: Công khai rao bán, giả luôn cả mã QR](https://laodong.vn/xa-hoi/nan-lam-gia-giay-phep-lai-xe-kieu-moi-cong-khai-rao-ban-gia-luon-ca-ma-qr-885872.ldo) ([Lao Động](https://laodong.vn))
+- [Hàng loạt đại gia như Bill Gates, Jeff Bezos, Elon Musk, … sắp phải chi trả nhiều tỷ USD cho chính quyền Tổng thống Joe Biden?](https://cafebiz.vn/hang-loat-dai-gia-nhu-bill-gates-jeff-bezos-elon-musk-sap-phai-chi-tra-nhieu-ty-usd-cho-chinh-quyen-tong-thong-joe-biden-20210305094633287.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thói quen tốt giúp đến đích với thời gian và sức lực tối thiểu: 5 thói quen giúp tôi ưu tú hơn bạn bè cùng trang lứa](https://cafebiz.vn/thoi-quen-tot-giup-den-dich-voi-thoi-gian-va-suc-luc-toi-thieu-5-thoi-quen-giup-toi-uu-tu-hon-ban-be-cung-trang-lua-20210304153259834.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lắp camera ở các 'điểm đen' tai nạn trên đèo Bảo Lộc](https://vnexpress.net/lap-camera-o-cac-diem-den-tai-nan-tren-deo-bao-loc-4243812.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
