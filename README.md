@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 20°C.
-- Feels Like 22.16°C.
-- Air Visual is 132.
+- Feels Like 21.44°C.
+- Air Visual is 168.
 
 **WEATHER**
 
@@ -75,6 +75,9 @@
 
 **NEWS**
 
+- [Văn Hậu điều trị chấn thương phức tạp, có thể lỡ vòng loại World Cup 2022](https://laodong.vn/bong-da/van-hau-dieu-tri-chan-thuong-phuc-tap-co-the-lo-vong-loai-world-cup-2022-886198.ldo) ([Lao Động](https://laodong.vn))
+- [VAR và trọng tài cứng nhắc, luật bóng chạm tay chính thức thay đổi](https://laodong.vn/bong-da-quoc-te/var-va-trong-tai-cung-nhac-luat-bong-cham-tay-chinh-thuc-thay-doi-886199.ldo) ([Lao Động](https://laodong.vn))
+- [Hoàn thành vận hành thử robot đào hầm metro Nhổn - ga Hà Nội](https://vnexpress.net/hoan-thanh-van-hanh-thu-robot-dao-ham-metro-nhon-ga-ha-noi-4244235.html) ([VNExpress](https://vnexpress.net))
 - [Hải Phòng đầu tư hơn 6.000 tỷ đồng xây mới, cải tạo chung cư cũ](https://vnexpress.net/hai-phong-dau-tu-hon-6-000-ty-dong-xay-moi-cai-tao-chung-cu-cu-4243710.html) ([VNExpress](https://vnexpress.net))
 - [Nguồn cơn nào khiến vốn ngoại vào chứng khoán hạ nhiệt?](https://cafebiz.vn/nguon-con-nao-khien-von-ngoai-vao-chung-khoan-ha-nhiet-20210305210149956.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nội: Đông người dân tới làm căn cước gắn chíp, công an phải tăng ca](https://laodong.vn/video/ha-noi-dong-nguoi-dan-toi-lam-can-cuoc-gan-chip-cong-an-phai-tang-ca-886186.ldo) ([Lao Động](https://laodong.vn))
@@ -82,9 +85,6 @@
 - [Không khí lạnh tràn xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-tran-xuong-mien-bac-4244227.html) ([VNExpress](https://vnexpress.net))
 - [Nữ tỷ phú "tô màu cho Bắc Kinh": Từ công nhân dệt may đến bà trùm bất động sản Bắc Kinh, kết hôn sau 4 ngày gặp gỡ, cùng chồng xây dựng sự nghiệp tỷ đô](https://cafebiz.vn/nu-ty-phu-to-mau-cho-bac-kinh-tu-cong-nhan-det-may-den-ba-trum-bat-dong-san-bac-kinh-ket-hon-sau-4-ngay-gap-go-cung-chong-xay-dung-su-nghiep-ty-do-2021030520180537.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bộ Y tế tặng bằng khen êkip bác sĩ tìm ra căn bệnh cho chàng trai ‘mặt quỷ’](https://tuoitre.vn/bo-y-te-tang-bang-khen-ekip-bac-si-tim-ra-can-benh-cho-chang-trai-mat-quy-20210305202425664.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bất động sản Tp.HCM: Vì sao giá tăng nhưng vẫn cần... giải cứu?](https://cafebiz.vn/bat-dong-san-tphcm-vi-sao-gia-tang-nhung-van-can-giai-cuu-20210305194348087.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt giám đốc doanh nghiệp sở hữu kho hàng giả số lượng &quot;khủng&quot;](https://laodong.vn/phap-luat/bat-giam-doc-doanh-nghiep-so-huu-kho-hang-gia-so-luong-khung-886197.ldo) ([Lao Động](https://laodong.vn))
-- [Anh lại phát hiện thêm biến thể mới của SARS-CoV-2 chưa rõ nguồn gốc](https://cafebiz.vn/anh-lai-phat-hien-them-bien-the-moi-cua-sars-cov-2-chua-ro-nguon-goc-20210305200227449.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
