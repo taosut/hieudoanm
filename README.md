@@ -19,7 +19,7 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is drizzle.
 - Temperature is 20°C.
 - Feels Like 21.79°C.
 - Air Visual is 165.
@@ -75,15 +75,15 @@
 
 **NEWS**
 
+- [Thu giữ gần 3.500 sản phẩm thuốc lá điện tử kèm phụ kiện nghi nhập lậu](https://laodong.vn/kinh-te/thu-giu-gan-3500-san-pham-thuoc-la-dien-tu-kem-phu-kien-nghi-nhap-lau-886144.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Nhiều quán trà đá vỉa hè vẫn ngang nhiên bày bán bất chấp lệnh cấm](https://laodong.vn/xa-hoi/ha-noi-nhieu-quan-tra-da-via-he-van-ngang-nhien-bay-ban-bat-chap-lenh-cam-886040.ldo) ([Lao Động](https://laodong.vn))
 - [Nghệ An: Công đoàn kêu gọi chung tay &quot;giải cứu&quot; rau xanh cho nông dân](https://laodong.vn/cong-doan/nghe-an-cong-doan-keu-goi-chung-tay-giai-cuu-rau-xanh-cho-nong-dan-886142.ldo) ([Lao Động](https://laodong.vn))
 - [Ông Biden phải chờ nhiều tháng để bay trực thăng Marine One](https://laodong.vn/the-gioi/ong-biden-phai-cho-nhieu-thang-de-bay-truc-thang-marine-one-886140.ldo) ([Lao Động](https://laodong.vn))
 - [Cho phép thủy điện Thượng Nhật tích nước trở lại](https://laodong.vn/kinh-te/cho-phep-thuy-dien-thuong-nhat-tich-nuoc-tro-lai-886113.ldo) ([Lao Động](https://laodong.vn))
 - [Chê bánh giò nguội mặc dù miệng vẫn thổi trước khi ăn, vô tư bình luận sắc mặt chủ quán, Tiktoker Hà Nội bị chỉ trích muốn "phá" việc kinh doanh của cửa hàng](https://cafebiz.vn/che-banh-gio-nguoi-mac-du-mieng-van-thoi-truoc-khi-an-vo-tu-binh-luan-sac-mat-chu-quan-tiktoker-ha-noi-bi-chi-trich-muon-pha-viec-kinh-doanh-cua-cua-hang-20210305172607142.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nội điều động, bổ nhiệm hàng loạt lãnh đạo sở ngành, quận huyện](http://vietnamnet.vn/vn/thoi-su/chinh-tri/ha-noi-dieu-dong-bo-nhiem-hang-loat-lanh-dao-so-nganh-quan-huyen-717538.html) ([VietNamNet](https://vietnamnet.vn))
-- [Tiêu thụ nông sản, hàng hóa từ vùng có dịch đang dần tốt hơn](https://laodong.vn/kinh-te/tieu-thu-nong-san-hang-hoa-tu-vung-co-dich-dang-dan-tot-hon-886138.ldo) ([Lao Động](https://laodong.vn))
 - [Chăm sóc khách hàng, sale tại nhà/từ xa vẫn hiệu quả như ở văn phòng với giải pháp tổng đài ảo sử dụng đầu số riêng](https://cafebiz.vn/cham-soc-khach-hang-sale-tai-nha-tu-xa-van-hieu-qua-nhu-o-van-phong-voi-giai-phap-tong-dai-ao-su-dung-dau-so-rieng-20210305162636907.chn) ([CafeBiz](https://cafebiz.vn))
 - [Dàn siêu xe gần trăm tỷ hội ngộ tại Sài Gòn: Ferrari chiếm áp đảo, BMW i8 của Bùi Tiến Dũng cũng góp mặt](https://cafebiz.vn/dan-sieu-xe-gan-tram-ty-hoi-ngo-tai-sai-gon-ferrari-chiem-ap-dao-bmw-i8-cua-bui-tien-dung-cung-gop-mat-20210305161256254.chn) ([CafeBiz](https://cafebiz.vn))
-- [LĐLĐ TPHCM tuyên dương 100 tập thể, 18 cá nhân chăm lo Tết cho NLĐ](https://laodong.vn/cong-doan/ldld-tphcm-tuyen-duong-100-tap-the-18-ca-nhan-cham-lo-tet-cho-nld-886085.ldo) ([Lao Động](https://laodong.vn))
 - [Bắt 'người nhện' lúc rạng sáng cùng 18 điện thoại xịn](https://tuoitre.vn/bat-nguoi-nhen-luc-rang-sang-cung-18-dien-thoai-xin-20210305144510117.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
@@ -118,8 +118,8 @@
 03. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 04. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 05. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-06. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
-07. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
+06. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
+07. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 08. [RAIN (비) - WHY DON’T WE (Feat. 청하 (CHUNG HA)) MV](https://www.youtube.com/watch?v=srWfDwiRVgQ) - [RAIN's Official Channel](https://www.youtube.com/channel/UCxXgIeE5hxWxHG6dz9Scg2w)
 09. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 10. [PBN 61 | Như Quỳnh - Dù Cho Hoa Tàn Úa](https://www.youtube.com/watch?v=ig8vOipF9Rs) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
@@ -139,7 +139,7 @@
 07. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
 08. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 09. [Ông Võ Hoàng Yên Lý Giải Về T.ố C.á.o l.ừ.a đảo, dối trá hàng trăm tỷ đồng của vợ ông Dũng lò vôi](https://www.youtube.com/watch?v=G7PQbh2Ob4E) - [HOA LỆ SÀI GÒN](https://www.youtube.com/channel/UCJ7fUfDLagCvZGv0uD4shQA)
-10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
+10. [Thêm đoạn clip cho thấy nỗ lực cứu bé gái rơi từ tầng 12 của anh Nguyễn Ngọc Mạnh | THDT](https://www.youtube.com/watch?v=YPe9q--jnEY) - [Truyền Hình Đồng Tháp](https://www.youtube.com/channel/UCDIl_FogyBJAUI3QVyLet8w)
 
 [Read More](https://www.youtube.com/feed/trending)
 
