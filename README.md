@@ -22,7 +22,7 @@
 - Current weather is light intensity drizzle.
 - Temperature is 20°C.
 - Feels Like 21.79°C.
-- Air Visual is 97.
+- Air Visual is 161.
 
 **WEATHER**
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Lừa bán số lô đề thu lợi bất chính hàng trăm triệu đồng](https://laodong.vn/phap-luat/lua-ban-so-lo-de-thu-loi-bat-chinh-hang-tram-trieu-dong-886209.ldo) ([Lao Động](https://laodong.vn))
 - [Văn Hậu điều trị chấn thương phức tạp, có thể lỡ vòng loại World Cup 2022](https://laodong.vn/bong-da/van-hau-dieu-tri-chan-thuong-phuc-tap-co-the-lo-vong-loai-world-cup-2022-886198.ldo) ([Lao Động](https://laodong.vn))
 - [VAR và trọng tài cứng nhắc, luật bóng chạm tay chính thức thay đổi](https://laodong.vn/bong-da-quoc-te/var-va-trong-tai-cung-nhac-luat-bong-cham-tay-chinh-thuc-thay-doi-886199.ldo) ([Lao Động](https://laodong.vn))
 - [Hoàn thành vận hành thử robot đào hầm metro Nhổn - ga Hà Nội](https://vnexpress.net/hoan-thanh-van-hanh-thu-robot-dao-ham-metro-nhon-ga-ha-noi-4244235.html) ([VNExpress](https://vnexpress.net))
@@ -84,7 +85,6 @@
 - [Kinh tế 24h: Giá vàng đồng loạt giảm, Dự báo giá bitcoin tăng](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-dong-loat-giam-du-bao-gia-bitcoin-tang-886200.ldo) ([Lao Động](https://laodong.vn))
 - [Không khí lạnh tràn xuống miền Bắc](https://vnexpress.net/khong-khi-lanh-tran-xuong-mien-bac-4244227.html) ([VNExpress](https://vnexpress.net))
 - [Nữ tỷ phú "tô màu cho Bắc Kinh": Từ công nhân dệt may đến bà trùm bất động sản Bắc Kinh, kết hôn sau 4 ngày gặp gỡ, cùng chồng xây dựng sự nghiệp tỷ đô](https://cafebiz.vn/nu-ty-phu-to-mau-cho-bac-kinh-tu-cong-nhan-det-may-den-ba-trum-bat-dong-san-bac-kinh-ket-hon-sau-4-ngay-gap-go-cung-chong-xay-dung-su-nghiep-ty-do-2021030520180537.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bộ Y tế tặng bằng khen êkip bác sĩ tìm ra căn bệnh cho chàng trai ‘mặt quỷ’](https://tuoitre.vn/bo-y-te-tang-bang-khen-ekip-bac-si-tim-ra-can-benh-cho-chang-trai-mat-quy-20210305202425664.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
