@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 19°C.
-- Feels Like 21.44°C.
-- Air Visual is 122.
+- Feels Like 19.85°C.
+- Air Visual is 124.
 
 **WEATHER**
 
@@ -61,13 +61,13 @@
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
+- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Quang Hải, Bùi Tiến Dũng được đề nghị ưu tiên sử dụng vaccine Covid-19](https://cafebiz.vn/quang-hai-bui-tien-dung-duoc-de-nghi-uu-tien-su-dung-vaccine-covid-19-20210305104832515.chn) ([CafeBiz](https://cafebiz.vn))
+- [LĐLĐ huyện Vĩnh Bảo (Hải Phòng): Tặng nông sản cho người lao động](https://laodong.vn/cong-doan/ldld-huyen-vinh-bao-hai-phong-tang-nong-san-cho-nguoi-lao-dong-885982.ldo) ([Lao Động](https://laodong.vn))
+- [Dồn thửa đổi ruộng ở Bình Xuyên: Nông dân &quot;thất nghiệp&quot;, xã, huyện nói gì?](https://laodong.vn/bat-dong-san/don-thua-doi-ruong-o-binh-xuyen-nong-dan-that-nghiep-xa-huyen-noi-gi-884924.ldo) ([Lao Động](https://laodong.vn))
+- [“Siêu” dự án Thanh Long Bay bị xử phạt vì khởi công trái phép](https://laodong.vn/bat-dong-san/sieu-du-an-thanh-long-bay-bi-xu-phat-vi-khoi-cong-trai-phep-885962.ldo) ([Lao Động](https://laodong.vn))
+- [Thêm nạn nhân tố bị lương y Võ Hoàng Yên lừa ký giấy vay nợ tiền tỷ, đe dọa ép giao 19ha đất](https://cafebiz.vn/them-nan-nhan-to-bi-luong-y-vo-hoang-yen-lua-ky-giay-vay-no-tien-ty-de-doa-ep-giao-19ha-dat-20210305104519834.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cháu trai của tỷ phú Warren Buffett và "mỏ vàng" mới của các gia tộc giàu nhất châu Á](https://cafebiz.vn/chau-trai-cua-ty-phu-warren-buffett-va-mo-vang-moi-cua-cac-gia-toc-giau-nhat-chau-a-20210305104030559.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tài xế Lạng Sơn không chấp hành đo nồng độ cồn bị phạt hơn 40 triệu đồng](https://laodong.vn/phap-luat/tai-xe-lang-son-khong-chap-hanh-do-nong-do-con-bi-phat-hon-40-trieu-dong-885977.ldo) ([Lao Động](https://laodong.vn))
+- [Nông dân Đắk Nông ngậm ngùi nhổ rau cho bò ăn](https://laodong.vn/kinh-te/nong-dan-dak-nong-ngam-ngui-nho-rau-cho-bo-an-885929.ldo) ([Lao Động](https://laodong.vn))
 - [Big Tech hết thời "hô mưa gọi gió"?](https://cafebiz.vn/big-tech-het-thoi-ho-mua-goi-gio-20210305090343827.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tạm dừng hoạt động các chốt kiểm soát dịch liên ngành ở cửa ngõ Đà Nẵng](https://laodong.vn/xa-hoi/tam-dung-hoat-dong-cac-chot-kiem-soat-dich-lien-nganh-o-cua-ngo-da-nang-885983.ldo) ([Lao Động](https://laodong.vn))
 - [Những thủ thuật giảm cân hiệu quả mà nhiều người không hay biết](https://laodong.vn/suc-khoe/nhung-thu-thuat-giam-can-hieu-qua-ma-nhieu-nguoi-khong-hay-biet-885923.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng và ngoại tệ 5.3: Áp lực đè nặng, giá vàng đổ dốc không phanh](https://laodong.vn/video/gia-vang-va-ngoai-te-53-ap-luc-de-nang-gia-vang-do-doc-khong-phanh-885986.ldo) ([Lao Động](https://laodong.vn))
-- [Lần đầu tiên một ngân hàng tại Việt Nam cho phép dùng số điện thoại làm số tài khoản](https://cafebiz.vn/lan-dau-tien-mot-ngan-hang-tai-viet-nam-cho-phep-dung-so-dien-thoai-lam-so-tai-khoan-2021030510240781.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông “bạn ruột” tiết lộ điều Cristiano Ronaldo lo sợ nhất](https://laodong.vn/the-thao/ong-ban-ruot-tiet-lo-dieu-cristiano-ronaldo-lo-so-nhat-885961.ldo) ([Lao Động](https://laodong.vn))
-- [Nạn làm giả giấy phép lái xe kiểu mới: Công khai rao bán, giả luôn cả mã QR](https://laodong.vn/xa-hoi/nan-lam-gia-giay-phep-lai-xe-kieu-moi-cong-khai-rao-ban-gia-luon-ca-ma-qr-885872.ldo) ([Lao Động](https://laodong.vn))
-- [Hàng loạt đại gia như Bill Gates, Jeff Bezos, Elon Musk, … sắp phải chi trả nhiều tỷ USD cho chính quyền Tổng thống Joe Biden?](https://cafebiz.vn/hang-loat-dai-gia-nhu-bill-gates-jeff-bezos-elon-musk-sap-phai-chi-tra-nhieu-ty-usd-cho-chinh-quyen-tong-thong-joe-biden-20210305094633287.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thói quen tốt giúp đến đích với thời gian và sức lực tối thiểu: 5 thói quen giúp tôi ưu tú hơn bạn bè cùng trang lứa](https://cafebiz.vn/thoi-quen-tot-giup-den-dich-voi-thoi-gian-va-suc-luc-toi-thieu-5-thoi-quen-giup-toi-uu-tu-hon-ban-be-cung-trang-lua-20210304153259834.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lắp camera ở các 'điểm đen' tai nạn trên đèo Bảo Lộc](https://vnexpress.net/lap-camera-o-cac-diem-den-tai-nan-tren-deo-bao-loc-4243812.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
