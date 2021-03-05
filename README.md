@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 20°C.
 - Feels Like 22.16°C.
-- Air Visual is 157.
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Các ngân hàng được chỉ đạo tiếp tục cơ cấu lại nợ, miễn giảm lãi vay... cho khách hàng bị ảnh hưởng bởi Covid-19](https://cafebiz.vn/cac-ngan-hang-duoc-chi-dao-tiep-tuc-co-cau-lai-no-mien-giam-lai-vay-cho-khach-hang-bi-anh-huong-boi-covid-19-2021030518371148.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bí ẩn MH370: Có bằng chứng mới tin cậy về vị trí máy bay mất tích](https://laodong.vn/the-gioi/bi-an-mh370-co-bang-chung-moi-tin-cay-ve-vi-tri-may-bay-mat-tich-886136.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng cáo trên xe buýt ở TPHCM: Đề xuất để doanh nghiệp đàm phán với chủ xe](https://laodong.vn/kinh-te/quang-cao-tren-xe-buyt-o-tphcm-de-xuat-de-doanh-nghiep-dam-phan-voi-chu-xe-886162.ldo) ([Lao Động](https://laodong.vn))
-- [Sáu tướng lĩnh được giới thiệu ứng cử Quốc hội](https://vnexpress.net/sau-tuong-linh-duoc-gioi-thieu-ung-cu-quoc-hoi-4244084.html) ([VNExpress](https://vnexpress.net))
-- [Cần biết 5 thói quen buổi tối để da khoẻ đẹp](https://laodong.vn/suc-khoe/can-biet-5-thoi-quen-buoi-toi-de-da-khoe-dep-886035.ldo) ([Lao Động](https://laodong.vn))
-- [Dự báo thời tiết 10 ngày tới ở cả ba miền](https://laodong.vn/moi-truong/du-bao-thoi-tiet-10-ngay-toi-o-ca-ba-mien-885887.ldo) ([Lao Động](https://laodong.vn))
-- [Giới thiệu Bộ trưởng Công an Tô Lâm ứng cử Quốc hội khóa XV](http://vietnamnet.vn/vn/thoi-su/chinh-tri/gioi-thieu-bo-truong-cong-an-to-lam-ung-cu-quoc-hoi-khoa-xv-717552.html) ([VietNamNet](https://vietnamnet.vn))
-- [Chiều 5/3, thêm 6 ca mắc COVID-19 ở Kiên Giang và 2 tỉnh khác](https://cafebiz.vn/chieu-5-3-them-6-ca-mac-covid-19-o-kien-giang-va-2-tinh-khac-20210305183001824.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phối hợp chăm lo cho người lao động, thúc đẩy doanh nghiệp phát triển](https://laodong.vn/cong-doan/phoi-hop-cham-lo-cho-nguoi-lao-dong-thuc-day-doanh-nghiep-phat-trien-886151.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ cao tốc Đà Nẵng - Quảng Ngãi: 2 nguyên sĩ quan quân đội bị đề nghị truy tố](https://tuoitre.vn/vu-cao-toc-da-nang-quang-ngai-2-nguyen-si-quan-quan-doi-bi-de-nghi-truy-to-20210305172200056.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Các hãng Hàng không Việt 'đòi' hỗ trợ gói 25 nghìn tỷ đồng giải cứu](https://cafebiz.vn/cac-hang-hang-khong-viet-doi-ho-tro-goi-25-nghin-ty-dong-giai-cuu-20210305184402039.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tuyển Malaysia lo không có trận giao hữu trước khi đấu tuyển Việt Nam](https://laodong.vn/bong-da/tuyen-malaysia-lo-khong-co-tran-giao-huu-truoc-khi-dau-tuyen-viet-nam-886187.ldo) ([Lao Động](https://laodong.vn))
+- [Sân bay Phan Thiết sẽ được thi công trong tháng 3](https://vnexpress.net/san-bay-phan-thiet-se-duoc-thi-cong-trong-thang-3-4244197.html) ([VNExpress](https://vnexpress.net))
+- [Champions League: Man City được đá sân nhà, Liverpool trở lại Hungary](https://laodong.vn/bong-da-quoc-te/champions-league-man-city-duoc-da-san-nha-liverpool-tro-lai-hungary-886171.ldo) ([Lao Động](https://laodong.vn))
+- [Côn Đảo hoàn thành đường 350 tỷ đồng](https://vnexpress.net/con-dao-hoan-thanh-duong-350-ty-dong-4244224.html) ([VNExpress](https://vnexpress.net))
+- [&quot;Đội tuyển Việt Nam có thể gặp bất lợi nếu thi đấu ở UAE&quot;](https://laodong.vn/bong-da/doi-tuyen-viet-nam-co-the-gap-bat-loi-neu-thi-dau-o-uae-886156.ldo) ([Lao Động](https://laodong.vn))
+- [Không tiền đạo, Real Madrid làm gì để thắng hàng xóm Atletico Madrid?](https://laodong.vn/bong-da-quoc-te/khong-tien-dao-real-madrid-lam-gi-de-thang-hang-xom-atletico-madrid-886146.ldo) ([Lao Động](https://laodong.vn))
+- [Hai Thứ trưởng Bộ Quốc phòng được giới thiệu ứng cử Quốc hội](http://vietnamnet.vn/vn/thoi-su/chinh-tri/hai-thu-truong-bo-quoc-phong-duoc-gioi-thieu-ung-cu-quoc-hoi-717556.html) ([VietNamNet](https://vietnamnet.vn))
+- [Giá hoa hồng Đà Lạt tăng vọt dịp 8/3](https://cafebiz.vn/gia-hoa-hong-da-lat-tang-vot-dip-8-3-20210305184236129.chn) ([CafeBiz](https://cafebiz.vn))
+- [COVID-19 và chuyển đổi số](https://laodong.vn/thoi-su/covid-19-va-chuyen-doi-so-886191.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
