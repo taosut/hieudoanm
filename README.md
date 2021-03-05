@@ -19,17 +19,17 @@
 
 **CALENDAR**
 
-- Current weather is drizzle.
-- Temperature is 17°C.
-- Feels Like 17.56°C.
-- Air Visual is 91.
+- Current weather is mist.
+- Temperature is 18°C.
+- Feels Like 19.67°C.
+- Air Visual is 110.
 
 **WEATHER**
 
-- Date: 2021/03/04
-- Lunar: 2021/01/21
+- Date: 2021/03/05
+- Lunar: 2021/01/22
 - Tiet Khi: Đại tuyết.
-- năm canh tý tháng kỷ sửu ngày kỷ tỵ.
+- năm canh tý tháng kỷ sửu ngày canh ngọ.
 
 **NPM**
 
@@ -53,21 +53,21 @@
 - [![Barca vs Sevilla](https://img.shields.io/static/v1?label=Barca%20vs%20Sevilla&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20Sevilla)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
+- [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Clip Ninh-Duong-Lan-Ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh-Duong-Lan-Ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh-Duong-Lan-Ngoc)
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
+- [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
-- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
-- [![Lâm Khánh Chi](https://img.shields.io/static/v1?label=L%C3%A2m%20Kh%C3%A1nh%20Chi&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%A2m%20Kh%C3%A1nh%20Chi)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Ninh Dương Lan Ngọc](https://img.shields.io/static/v1?label=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ninh%20D%C6%B0%C6%A1ng%20Lan%20Ng%E1%BB%8Dc)
+- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
+- [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
-- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
-- [![Võ Hoàng Yên](https://img.shields.io/static/v1?label=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C3%B5%20Ho%C3%A0ng%20Y%C3%AAn)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Ô tô đâm điên loạn khiến ba người thương vong ở Hà Nội](http://vietnamnet.vn/vn/thoi-su/o-to-dam-dien-loan-khien-ba-nguoi-thuong-vong-o-ha-noi-717327.html) ([VietNamNet](https://vietnamnet.vn))
-- [Buồn ngủ, lái ôtô tông xe liên tiếp, 1 người chết, 2 người bị thương](https://tuoitre.vn/buon-ngu-lai-oto-tong-xe-lien-tiep-1-nguoi-chet-2-nguoi-bi-thuong-20210304224827889.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Kiến nghị xử lý nghiêm Cục trưởng Cục QLLĐNN giai đoạn 2000- 2016](https://laodong.vn/thoi-su/kien-nghi-xu-ly-nghiem-cuc-truong-cuc-qlldnn-giai-doan-2000-2016-885922.ldo) ([Lao Động](https://laodong.vn))
-- [Đang uống cà phê, người đàn ông lên tầng 5 nhảy xuống đất](http://vietnamnet.vn/vn/thoi-su/dang-uong-ca-phe-nguoi-dan-ong-len-tang-5-nhay-xuong-dat-717324.html) ([VietNamNet](https://vietnamnet.vn))
-- [Mâu thuẫn gia đình, thiếu nữ ở Quảng Trị treo cổ tự tử](http://vietnamnet.vn/vn/thoi-su/mau-thuan-gia-dinh-thieu-nu-o-quang-tri-treo-co-tu-tu-717318.html) ([VietNamNet](https://vietnamnet.vn))
-- [Vụ nổ súng tại Cần Thơ: Bắt thêm đối tượng dùng súng, thu giữ 1 khẩu súng](https://laodong.vn/phap-luat/vu-no-sung-tai-can-tho-bat-them-doi-tuong-dung-sung-thu-giu-1-khau-sung-885914.ldo) ([Lao Động](https://laodong.vn))
-- [Kiến nghị xử lý nghiêm cục trưởng Cục Quản lý lao động ngoài nước giai đoạn 2012-2016](https://tuoitre.vn/kien-nghi-xu-ly-nghiem-cuc-truong-cuc-quan-ly-lao-dong-ngoai-nuoc-giai-doan-2012-2016-20210304214651938.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Châu Âu tuyên bố không đàm phán mua vaccine COVID-19 của Nga](https://laodong.vn/the-gioi/chau-au-tuyen-bo-khong-dam-phan-mua-vaccine-covid-19-cua-nga-885905.ldo) ([Lao Động](https://laodong.vn))
-- [Xây 8 trạm bơm dã chiến bổ cập nước cho sông Tô Lịch](https://vnexpress.net/xay-8-tram-bom-da-chien-bo-cap-nuoc-cho-song-to-lich-4243690.html) ([VNExpress](https://vnexpress.net))
-- [Nam nhân viên Bệnh viện Giao thông Vận tải Hải Phòng lần 4 âm tính COVID-19](https://laodong.vn/xa-hoi/nam-nhan-vien-benh-vien-giao-thong-van-tai-hai-phong-lan-4-am-tinh-covid-19-885911.ldo) ([Lao Động](https://laodong.vn))
+- [Những cầu thủ có thể lỡ hẹn với đội tuyển Việt Nam ở vòng loại World Cup](https://laodong.vn/bong-da/nhung-cau-thu-co-the-lo-hen-voi-doi-tuyen-viet-nam-o-vong-loai-world-cup-885794.ldo) ([Lao Động](https://laodong.vn))
+- [Nhu cầu lao động công nghiệp xây dựng tăng 30-40%](https://laodong.vn/cong-doan/nhu-cau-lao-dong-cong-nghiep-xay-dung-tang-30-40-885876.ldo) ([Lao Động](https://laodong.vn))
+- [Doanh nghiệp tuyển dụng lao động qua mạng xã hội thành công 40% - 50%](https://laodong.vn/cong-doan/doanh-nghiep-tuyen-dung-lao-dong-qua-mang-xa-hoi-thanh-cong-40-50-885878.ldo) ([Lao Động](https://laodong.vn))
+- [Miền Trung: Hàng nghìn tấn rau ế ẩm, đành để mặc trên ruộng](https://laodong.vn/kinh-te/mien-trung-hang-nghin-tan-rau-e-am-danh-de-mac-tren-ruong-885891.ldo) ([Lao Động](https://laodong.vn))
+- [Hành vi nào bị coi là quấy rối tình dục tại nơi làm việc?](https://laodong.vn/tu-van-phap-luat/hanh-vi-nao-bi-coi-la-quay-roi-tinh-duc-tai-noi-lam-viec-885362.ldo) ([Lao Động](https://laodong.vn))
+- [Nhân sự đã sẵn sàng cho ngày vận hành đường sắt đô thị Cát Linh - Hà Đông](https://laodong.vn/giao-thong/nhan-su-da-san-sang-cho-ngay-van-hanh-duong-sat-do-thi-cat-linh-ha-dong-885892.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Định: Mỏi mắt chờ cầu, người dân lót gỗ để &quot;băng&quot; sông](https://laodong.vn/photo/binh-dinh-moi-mat-cho-cau-nguoi-dan-lot-go-de-bang-song-885865.ldo) ([Lao Động](https://laodong.vn))
+- [Quên gạc trong ngực khách hàng, cơ sở thẩm mỹ đối diện với mức phạt nào?](https://laodong.vn/video/quen-gac-trong-nguc-khach-hang-co-so-tham-my-doi-dien-voi-muc-phat-nao-885770.ldo) ([Lao Động](https://laodong.vn))
+- [2 nhóm mức độ phòng dịch tại Hải Dương sau dừng cách ly xã hội toàn tỉnh](https://laodong.vn/infographic/2-nhom-muc-do-phong-dich-tai-hai-duong-sau-dung-cach-ly-xa-hoi-toan-tinh-882734.ldo) ([Lao Động](https://laodong.vn))
+- [Sau sự việc bé gái rơi ở chung cư: Cần làm gì để bảo vệ an toàn cho trẻ?](https://laodong.vn/gia-dinh-hon-nhan/sau-su-viec-be-gai-roi-o-chung-cu-can-lam-gi-de-bao-ve-an-toan-cho-tre-885767.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -130,16 +130,16 @@
 
 **YOUTUBE TRENDS**
 
-01. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-02. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-03. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-04. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
+01. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+02. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+04. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 05. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-06. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-07. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-08. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-09. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
-10. [Ông Võ Hoàng Yên Lý Giải Về T.ố C.á.o l.ừ.a đảo, dối trá hàng trăm tỷ đồng của vợ ông Dũng lò vôi](https://www.youtube.com/watch?v=G7PQbh2Ob4E) - [HOA LỆ SÀI GÒN](https://www.youtube.com/channel/UCJ7fUfDLagCvZGv0uD4shQA)
+06. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
+07. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
+08. [Ông Võ Hoàng Yên Lý Giải Về T.ố C.á.o l.ừ.a đảo, dối trá hàng trăm tỷ đồng của vợ ông Dũng lò vôi](https://www.youtube.com/watch?v=G7PQbh2Ob4E) - [HOA LỆ SÀI GÒN](https://www.youtube.com/channel/UCJ7fUfDLagCvZGv0uD4shQA)
+09. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
