@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 20°C.
 - Feels Like 22.16°C.
-- Air Visual is 159.
+- Air Visual is 132.
 
 **WEATHER**
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Làm thế nào để mua bất động sản lời ngay lúc mua?](https://cafebiz.vn/lam-the-nao-de-mua-bat-dong-san-loi-ngay-luc-mua-20210305192625028.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bí thư Hà Nội: Huyện lên quận thì cán bộ cũng phải thay đổi tư duy](http://vietnamnet.vn/vn/thoi-su/chinh-tri/bi-thu-ha-noi-huyen-len-quan-thi-can-bo-cung-phai-thay-doi-tu-duy-717565.html) ([VietNamNet](https://vietnamnet.vn))
 - [Mê 'chắc trúng 100%', đặt cược hơn 140 triệu đồng rồi phải đi báo... công an](https://tuoitre.vn/me-chac-trung-100-dat-cuoc-hon-140-trieu-dong-roi-phai-di-bao-cong-an-20210305195451939.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [4 trường ĐH của Việt Nam lọt top thế giới về nhóm ngành: 1 trường bất ngờ đánh bật ĐH Quốc gia, Bách khoa để xếp đầu](https://cafebiz.vn/4-truong-dh-cua-viet-nam-lot-top-the-gioi-ve-nhom-nganh-1-truong-bat-ngo-danh-bat-dh-quoc-gia-bach-khoa-de-xep-dau-20210305191338601.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mưa phùn kéo dài giờ tan tầm, người Hà Nội lại gặp cảnh 'nhích từng bước'](https://tuoitre.vn/mua-phun-keo-dai-gio-tan-tam-nguoi-ha-noi-lai-gap-canh-nhich-tung-buoc-20210305195035881.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -83,8 +85,6 @@
 - [Nóng nhất 24h: Hơn 44.000 người được ưu tiên tiêm vaccine COVID-19 ở TPHCM](https://laodong.vn/video-thoi-su/nong-nhat-24h-hon-44000-nguoi-duoc-uu-tien-tiem-vaccine-covid-19-o-tphcm-886119.ldo) ([Lao Động](https://laodong.vn))
 - [Bất ngờ trước công dụng của các loại trà phổ biến](https://laodong.vn/suc-khoe/bat-ngo-truoc-cong-dung-cua-cac-loai-tra-pho-bien-885585.ldo) ([Lao Động](https://laodong.vn))
 - [Manh mối săn tìm sự sống ngoài hành tinh ở &quot;siêu trái đất&quot; mới phát hiện](https://laodong.vn/the-gioi/manh-moi-san-tim-su-song-ngoai-hanh-tinh-o-sieu-trai-dat-moi-phat-hien-886062.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 6.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-63-886125.ldo) ([Lao Động](https://laodong.vn))
-- [Các hãng Hàng không Việt 'đòi' hỗ trợ gói 25 nghìn tỷ đồng giải cứu](https://cafebiz.vn/cac-hang-hang-khong-viet-doi-ho-tro-goi-25-nghin-ty-dong-giai-cuu-20210305184402039.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
