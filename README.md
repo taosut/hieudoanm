@@ -21,7 +21,7 @@
 
 - Current weather is mist.
 - Temperature is 19°C.
-- Feels Like 20.36°C.
+- Feels Like 21.08°C.
 - Air Visual is 105.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [&quot;Công thần&quot; của bầu Đức xuất sắc vô địch Thai League trước 6 vòng đấu](https://laodong.vn/bong-da/cong-than-cua-bau-duc-xuat-sac-vo-dich-thai-league-truoc-6-vong-dau-885964.ldo) ([Lao Động](https://laodong.vn))
+- [Tàu vũ trụ của Elon Musk lại nổ nhưng lần này, nó khiến tất cả mừng hụt](https://cafebiz.vn/tau-vu-tru-cua-elon-musk-lai-no-nhung-lan-nay-no-khien-tat-ca-mung-hut-20210305085913953.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tự ý san lấp đất nông nghiệp sẽ bị xử lý ra sao?](https://laodong.vn/bat-dong-san/tu-y-san-lap-dat-nong-nghiep-se-bi-xu-ly-ra-sao-885846.ldo) ([Lao Động](https://laodong.vn))
+- [Bỏ chạy khi cảnh sát giao thông dừng xe bị phạt thế nào?](https://laodong.vn/xe/bo-chay-khi-canh-sat-giao-thong-dung-xe-bi-phat-the-nao-885902.ldo) ([Lao Động](https://laodong.vn))
+- [Tháng 5, Nga sẽ sản xuất tới hơn 50 triệu liều vaccine](https://laodong.vn/the-gioi/thang-5-nga-se-san-xuat-toi-hon-50-trieu-lieu-vaccine-885950.ldo) ([Lao Động](https://laodong.vn))
+- [Từng lớn hơn cả Coca Cola, vốn hóa hãng quốc tửu Trung Quốc bỗng bốc hơi 111 tỷ USD](https://cafebiz.vn/tung-lon-hon-ca-coca-cola-von-hoa-hang-quoc-tuu-trung-quoc-bong-boc-hoi-111-ty-usd-20210305095934282.chn) ([CafeBiz](https://cafebiz.vn))
+- [Việt Nam - Anh đề cao Công ước Liên Hợp Quốc về Luật biển](https://laodong.vn/thoi-su/viet-nam-anh-de-cao-cong-uoc-lien-hop-quoc-ve-luat-bien-885969.ldo) ([Lao Động](https://laodong.vn))
+- [2 xe máy bể nát ở Bình Chánh, 4 người thương vong](https://tuoitre.vn/hai-xe-may-be-nat-o-binh-chanh-4-nguoi-thuong-vong-20210305091058077.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [IMF: Năm 2021, lạm phát của Việt Nam vẫn sẽ đạt khoảng 4%](https://cafebiz.vn/imf-nam-2021-lam-phat-cua-viet-nam-van-se-dat-khoang-4-2021030509435631.chn) ([CafeBiz](https://cafebiz.vn))
 - [Có thể mua gần như 'mọi thứ trên đời', nhưng các triệu phú lại tuyệt đối không chi trả cho những món đồ này](https://cafebiz.vn/co-the-mua-gan-nhu-moi-thu-tren-doi-nhung-cac-trieu-phu-lai-tuyet-doi-khong-chi-tra-cho-nhung-mon-do-nay-20210305085640605.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chiến lược chuyển đổi Big C sang GO! của Central Retail, dự kiến mở hơn 300 TTTM/siêu thị, đe dọa trực tiếp từ Vincom Retail, Aeon cho đến Saigon Co.op](https://cafebiz.vn/chien-luoc-chuyen-doi-big-c-sang-go-cua-rental-retail-du-kien-mo-hon-300-tttm-sieu-thi-de-doa-truc-tiep-tu-vincom-retail-aeon-cho-den-saigon-coop-20210305093922446.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Nguyễn Duy Hưng muốn chuyển số cổ phần SSI và PAN trị giá khoảng 340 tỷ đồng sang công ty riêng](https://cafebiz.vn/ong-nguyen-duy-hung-muon-chuyen-so-co-phan-ssi-va-pan-tri-gia-khoang-340-ty-dong-sang-cong-ty-rieng-20210305093733065.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sau loạt bê bối ở Cty Lâm nghiệp Ea Kar:Thiếu hụt trầm trọng người gác rừng](https://laodong.vn/xa-hoi/sau-loat-be-boi-o-cty-lam-nghiep-ea-karthieu-hut-tram-trong-nguoi-gac-rung-885875.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Quý bà mũ hồng&quot; chỉ dẫn vụ bạo loạn Capitol bị truy tố nhiều tội danh](https://laodong.vn/the-gioi/quy-ba-mu-hong-chi-dan-vu-bao-loan-capitol-bi-truy-to-nhieu-toi-danh-885949.ldo) ([Lao Động](https://laodong.vn))
-- [Đô thị thông minh phải đo được tiếng ồn karaoke tra tấn](https://laodong.vn/su-kien-binh-luan/do-thi-thong-minh-phai-do-duoc-tieng-on-karaoke-tra-tan-885944.ldo) ([Lao Động](https://laodong.vn))
-- [Cố vấn Bộ Y tế nói về việc phân phối vaccine COVID-19](https://laodong.vn/video-thoi-su/co-van-bo-y-te-noi-ve-viec-phan-phoi-vaccine-covid-19-885472.ldo) ([Lao Động](https://laodong.vn))
-- [Sau 5 năm, Việt Nam sẽ tự  quản lý, vận hành, bảo trì Metro](https://laodong.vn/xa-hoi/sau-5-nam-viet-nam-se-tu-quan-ly-van-hanh-bao-tri-metro-885894.ldo) ([Lao Động](https://laodong.vn))
-- [Tàu thăm dò Trung Quốc nối bước NASA tung ảnh hiếm về sao Hoả](https://laodong.vn/photo/tau-tham-do-trung-quoc-noi-buoc-nasa-tung-anh-hiem-ve-sao-hoa-885912.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
