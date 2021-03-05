@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 20°C.
-- Feels Like 22.05°C.
-- Air Visual is 128.
+- Feels Like 21.79°C.
+- Air Visual is 130.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Sau lệnh cấm, thủy điện Thượng Nhật đã được phép tích nước](https://tuoitre.vn/sau-lenh-cam-thuy-dien-thuong-nhat-da-duoc-phep-tich-nuoc-2021030511270495.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bí quyết làm kim chi cuộn thịt ba chỉ thơm ngon mừng ngày 8.3](https://laodong.vn/suc-khoe/bi-quyet-lam-kim-chi-cuon-thit-ba-chi-thom-ngon-mung-ngay-83-885937.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Không cho kê khai tăng giá cước khi không có đủ cơ sở](https://laodong.vn/xa-hoi/ha-noi-khong-cho-ke-khai-tang-gia-cuoc-khi-khong-co-du-co-so-886014.ldo) ([Lao Động](https://laodong.vn))
+- [UAE đệ đơn xin đăng cai Vòng loại World Cup 2022](https://laodong.vn/the-thao/uae-de-don-xin-dang-cai-vong-loai-world-cup-2022-886003.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng đề xuất dùng ngân sách cải tạo, xây mới chung cư cũ](https://tuoitre.vn/hai-phong-de-xuat-dung-ngan-sach-cai-tao-xay-moi-chung-cu-cu-20210305111936107.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hai ô tô tông nhau, xe chở khách nát đầu](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/hai-o-to-tong-nhau-xe-cho-khach-nat-dau-717434.html) ([VietNamNet](https://vietnamnet.vn))
+- [Vụ pha chế 2,7 triệu lít xăng giả: Bắt thuyền trưởng 2 tàu trọng tải khủng](https://tuoitre.vn/vu-pha-che-2-7-trieu-lit-xang-gia-bat-thuyen-truong-2-tau-trong-tai-khung-2021030511160173.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tài xế livestream cả tiếng, lăng mạ CSGT khi được yêu cầu đo độ cồn](https://tuoitre.vn/tai-xe-livestream-ca-tieng-lang-ma-csgt-khi-duoc-yeu-cau-do-do-con-20210305111339144.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bắt được kẻ cướp đâm nữ công nhân bị thương nặng ở Quảng Nam](https://laodong.vn/phap-luat/bat-duoc-ke-cuop-dam-nu-cong-nhan-bi-thuong-nang-o-quang-nam-886010.ldo) ([Lao Động](https://laodong.vn))
+- [Lối đi mới của H'hen Niê, Tiểu Vy, Hoàng Thùy và dàn mỹ nhân Việt](https://laodong.vn/van-hoa/loi-di-moi-cua-hhen-nie-tieu-vy-hoang-thuy-va-dan-my-nhan-viet-885985.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -87,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Phương Vũ và những nguyên tắc cho người trẻ làm sáng tạo](https://vietcetera.com/vn/phuong-vu-va-nhung-nguyen-tac-cho-nguoi-tre-lam-sang-tao)
 - [Chữ Với Nghĩa: Dảk bủh - Trò đùa từ lỗi Telex](https://vietcetera.com/vn/chu-voi-nghia-dak-buh-tro-dua)
 - [4 Lầm tưởng thường gặp về sự tập trung](https://vietcetera.com/vn/4-lam-tuong-thuong-gap-ve-su-tap-trung)
 - [Vì sao phimmoi không bao giờ cũ?](https://vietcetera.com/vn/vi-sao-phimmoi-khong-bao-gio-cu)
@@ -96,7 +106,6 @@
 - [Fine Dining, Bistro, Pop-up... rốt cuộc nghĩa là gì?](https://vietcetera.com/vn/fine-dining-casual-bistro-nghia-la-gi)
 - [Gọi vốn thành công vòng Seed từ Genesia Ventures, Vietcetera mở rộng quy mô và chuẩn bị cho Series A](https://vietcetera.com/vn/goi-von-thanh-cong-vong-seed-tu-genesia-ventures-vietcetera-mo-rong-quy-mo-va-chuan-bi-cho-series-a)
 - ["Nhìn vào mắt con Mơ, chị bị sét đánh."](https://vietcetera.com/vn/nghe-don-kit-meo-hoi)
-- [Varilux: Tầm nhìn không-giới-hạn cho Gen X ](https://vietcetera.com/vn/varilux-tam-nhin-khong-gioi-han-cho-gen-x)
 
 [Read More](https://vietcetera.com/)
 
