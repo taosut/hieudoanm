@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 18°C.
-- Feels Like 19.67°C.
-- Air Visual is 110.
+- Temperature is 19°C.
+- Feels Like 20.72°C.
+- Air Visual is 131.
 
 **WEATHER**
 
@@ -58,13 +58,13 @@
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
+- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
-- [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Những cầu thủ có thể lỡ hẹn với đội tuyển Việt Nam ở vòng loại World Cup](https://laodong.vn/bong-da/nhung-cau-thu-co-the-lo-hen-voi-doi-tuyen-viet-nam-o-vong-loai-world-cup-885794.ldo) ([Lao Động](https://laodong.vn))
-- [Nhu cầu lao động công nghiệp xây dựng tăng 30-40%](https://laodong.vn/cong-doan/nhu-cau-lao-dong-cong-nghiep-xay-dung-tang-30-40-885876.ldo) ([Lao Động](https://laodong.vn))
-- [Doanh nghiệp tuyển dụng lao động qua mạng xã hội thành công 40% - 50%](https://laodong.vn/cong-doan/doanh-nghiep-tuyen-dung-lao-dong-qua-mang-xa-hoi-thanh-cong-40-50-885878.ldo) ([Lao Động](https://laodong.vn))
-- [Miền Trung: Hàng nghìn tấn rau ế ẩm, đành để mặc trên ruộng](https://laodong.vn/kinh-te/mien-trung-hang-nghin-tan-rau-e-am-danh-de-mac-tren-ruong-885891.ldo) ([Lao Động](https://laodong.vn))
-- [Hành vi nào bị coi là quấy rối tình dục tại nơi làm việc?](https://laodong.vn/tu-van-phap-luat/hanh-vi-nao-bi-coi-la-quay-roi-tinh-duc-tai-noi-lam-viec-885362.ldo) ([Lao Động](https://laodong.vn))
-- [Nhân sự đã sẵn sàng cho ngày vận hành đường sắt đô thị Cát Linh - Hà Đông](https://laodong.vn/giao-thong/nhan-su-da-san-sang-cho-ngay-van-hanh-duong-sat-do-thi-cat-linh-ha-dong-885892.ldo) ([Lao Động](https://laodong.vn))
-- [Bình Định: Mỏi mắt chờ cầu, người dân lót gỗ để &quot;băng&quot; sông](https://laodong.vn/photo/binh-dinh-moi-mat-cho-cau-nguoi-dan-lot-go-de-bang-song-885865.ldo) ([Lao Động](https://laodong.vn))
-- [Quên gạc trong ngực khách hàng, cơ sở thẩm mỹ đối diện với mức phạt nào?](https://laodong.vn/video/quen-gac-trong-nguc-khach-hang-co-so-tham-my-doi-dien-voi-muc-phat-nao-885770.ldo) ([Lao Động](https://laodong.vn))
-- [2 nhóm mức độ phòng dịch tại Hải Dương sau dừng cách ly xã hội toàn tỉnh](https://laodong.vn/infographic/2-nhom-muc-do-phong-dich-tai-hai-duong-sau-dung-cach-ly-xa-hoi-toan-tinh-882734.ldo) ([Lao Động](https://laodong.vn))
-- [Sau sự việc bé gái rơi ở chung cư: Cần làm gì để bảo vệ an toàn cho trẻ?](https://laodong.vn/gia-dinh-hon-nhan/sau-su-viec-be-gai-roi-o-chung-cu-can-lam-gi-de-bao-ve-an-toan-cho-tre-885767.ldo) ([Lao Động](https://laodong.vn))
+- [Nhờ đâu vợ ông Dũng “lò vôi” nhận ra sự bất thường của ông Võ Hoàng Yên?](https://laodong.vn/video-thoi-su/nho-dau-vo-ong-dung-lo-voi-nhan-ra-su-bat-thuong-cua-ong-vo-hoang-yen-885810.ldo) ([Lao Động](https://laodong.vn))
+- [Hôm nay Nam Bộ nắng nóng diện rộng](https://laodong.vn/moi-truong/hom-nay-nam-bo-nang-nong-dien-rong-885959.ldo) ([Lao Động](https://laodong.vn))
+- [Kiến nghị bổ sung quyền xử phạt karaoke 'hung thần' cho chủ tịch xã, tăng mức phạt](https://tuoitre.vn/kien-nghi-bo-sung-quyen-xu-phat-karaoke-hung-than-cho-chu-tich-xa-tang-muc-phat-20210305080418133.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- ["Tears in Heaven": Ca khúc bất hủ chất chứa nỗi đau của người cha sau khi con trai 4 tuổi ngã từ tầng 53 tử vong, thực tế còn có ý nghĩa khác](https://cafebiz.vn/tears-in-heaven-ca-khuc-bat-hu-chat-chua-noi-dau-cua-nguoi-cha-sau-khi-con-trai-4-tuoi-nga-tu-tang-53-tu-vong-thuc-te-con-co-y-nghia-khac-20210305085803132.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vướng kỳ nghỉ Tết, nhà đầu tư cá nhân vẫn mở mới hơn 57.000 tài khoản chứng khoán trong tháng 2](https://cafebiz.vn/vuong-ky-nghi-tet-nha-dau-tu-ca-nhan-van-mo-moi-hon-57000-tai-khoan-chung-khoan-trong-thang-2-20210305085514461.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mỹ xem xét gia hạn triển khai Vệ binh Quốc gia ở Điện Capitol 2 tháng](https://laodong.vn/the-gioi/my-xem-xet-gia-han-trien-khai-ve-binh-quoc-gia-o-dien-capitol-2-thang-885957.ldo) ([Lao Động](https://laodong.vn))
+- [Cường Đô-la: Vượt qua cái bóng “công tử phố núi” để chứng minh tài năng kinh doanh, tự mở công ty BĐS riêng và chuỗi dự án nhà hàng, du lịch, rửa xe](https://cafebiz.vn/ai-nu-nha-ty-phu-tran-ba-duong-quy-co-doc-than-hap-dan-cua-lang-thoi-trang-cuoc-song-tuoi-30-ngap-tran-sang-chanh-20210226181919314.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chống nghẽn lệnh chứng khoán: Giải pháp tình thế chưa rõ, chưa thông!](https://laodong.vn/kinh-te/chong-nghen-lenh-chung-khoan-giai-phap-tinh-the-chua-ro-chua-thong-885863.ldo) ([Lao Động](https://laodong.vn))
+- [Nhập khẩu hàng triệu tấn quặng, than, Hòa Phát muốn đầu tư vào lĩnh vực khai khoáng tại Australia](https://cafebiz.vn/nhap-khau-hang-trieu-tan-quang-than-hoa-phat-muon-dau-tu-vao-linh-vuc-khai-khoang-tai-australia-20210305085006635.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thương mại điện tử nở rộ: Thu thuế tăng vọt](https://cafebiz.vn/thuong-mai-dien-tu-no-ro-thu-thue-tang-vot-20210305084647442.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
