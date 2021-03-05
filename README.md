@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is light intensity drizzle.
+- Current weather is mist.
 - Temperature is 20°C.
 - Feels Like 22.16°C.
-- Air Visual is 165.
+- Air Visual is 159.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Mê 'chắc trúng 100%', đặt cược hơn 140 triệu đồng rồi phải đi báo... công an](https://tuoitre.vn/me-chac-trung-100-dat-cuoc-hon-140-trieu-dong-roi-phai-di-bao-cong-an-20210305195451939.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [4 trường ĐH của Việt Nam lọt top thế giới về nhóm ngành: 1 trường bất ngờ đánh bật ĐH Quốc gia, Bách khoa để xếp đầu](https://cafebiz.vn/4-truong-dh-cua-viet-nam-lot-top-the-gioi-ve-nhom-nganh-1-truong-bat-ngo-danh-bat-dh-quoc-gia-bach-khoa-de-xep-dau-20210305191338601.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mưa phùn kéo dài giờ tan tầm, người Hà Nội lại gặp cảnh 'nhích từng bước'](https://tuoitre.vn/mua-phun-keo-dai-gio-tan-tam-nguoi-ha-noi-lai-gap-canh-nhich-tung-buoc-20210305195035881.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hải Dương ghi nhận 1 ca dương tính sau 7 lần xét nghiệm âm tính](https://laodong.vn/xa-hoi/hai-duong-ghi-nhan-1-ca-duong-tinh-sau-7-lan-xet-nghiem-am-tinh-886193.ldo) ([Lao Động](https://laodong.vn))
+- [Chiến lược đặc biệt của công ty tí hon đang sản xuất ra một nửa lượng vaccine Covid-19 trên thế giới, không ngại ngần đối đầu với những gã khổng lồ dược phẩm](https://cafebiz.vn/chien-luoc-dac-biet-cua-cong-ty-ti-hon-dang-san-xuat-ra-mot-nua-luong-vaccine-covid-19-tren-the-gioi-khong-ngai-ngan-doi-dau-voi-nhung-ga-khong-lo-duoc-pham-20210305191711512.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nóng nhất 24h: Hơn 44.000 người được ưu tiên tiêm vaccine COVID-19 ở TPHCM](https://laodong.vn/video-thoi-su/nong-nhat-24h-hon-44000-nguoi-duoc-uu-tien-tiem-vaccine-covid-19-o-tphcm-886119.ldo) ([Lao Động](https://laodong.vn))
+- [Bất ngờ trước công dụng của các loại trà phổ biến](https://laodong.vn/suc-khoe/bat-ngo-truoc-cong-dung-cua-cac-loai-tra-pho-bien-885585.ldo) ([Lao Động](https://laodong.vn))
+- [Manh mối săn tìm sự sống ngoài hành tinh ở &quot;siêu trái đất&quot; mới phát hiện](https://laodong.vn/the-gioi/manh-moi-san-tim-su-song-ngoai-hanh-tinh-o-sieu-trai-dat-moi-phat-hien-886062.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 6.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-63-886125.ldo) ([Lao Động](https://laodong.vn))
+- [Các hãng Hàng không Việt 'đòi' hỗ trợ gói 25 nghìn tỷ đồng giải cứu](https://cafebiz.vn/cac-hang-hang-khong-viet-doi-ho-tro-goi-25-nghin-ty-dong-giai-cuu-20210305184402039.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
