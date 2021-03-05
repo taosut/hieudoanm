@@ -22,7 +22,7 @@
 - Current weather is light intensity drizzle.
 - Temperature is 20°C.
 - Feels Like 22.51°C.
-- Air Visual is 125.
+- Air Visual is 140.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tài năng trẻ của U22 Việt Nam và hành trình đến Nhật Bản](https://laodong.vn/video/tai-nang-tre-cua-u22-viet-nam-va-hanh-trinh-den-nhat-ban-886024.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng tạm dừng hoạt động các chốt kiểm soát dịch liên ngành tại cửa ngõ ra, vào thành phố](https://cafebiz.vn/da-nang-tam-dung-hoat-dong-cac-chot-kiem-soat-dich-lien-nganh-tai-cua-ngo-ra-vao-thanh-pho-20210305142728179.chn) ([CafeBiz](https://cafebiz.vn))
+- [CEO Microsoft: ‘Nâng nhóm mình lên, hạ người khác xuống’ không phải là lãnh đạo](https://cafebiz.vn/ceo-microsoft-nang-nhom-minh-len-ha-nguoi-khac-xuong-khong-phai-la-lanh-dao-20210305140023477.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nam Thư: &quot;Tôi tham gia Sao nhập ngũ không phải để cạnh tranh giải thưởng&quot;](https://laodong.vn/photo/nam-thu-toi-tham-gia-sao-nhap-ngu-khong-phai-de-canh-tranh-giai-thuong-885999.ldo) ([Lao Động](https://laodong.vn))
+- [Người thành đạt luôn mang theo 4 loại kính: Kính viễn vọng, nhìn xa; kính lúp, nhìn rõ; kính hiển vi, nhìn chi tiết; kính gương phẳng, nhìn thật](https://cafebiz.vn/nguoi-thanh-dat-luon-mang-theo-4-loai-kinh-kinh-vien-vong-nhin-xa-kinh-lup-nhin-ro-kinh-hien-vi-nhin-chi-tiet-kinh-guong-phang-nhin-that-20210227173948105.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đi nghĩa vụ quân sự được hưởng những quyền lợi gì?](https://laodong.vn/infographic/di-nghia-vu-quan-su-duoc-huong-nhung-quyen-loi-gi-885874.ldo) ([Lao Động](https://laodong.vn))
+- [Biên phòng ngăn chặn 35 người nhập cảnh trái phép](https://vnexpress.net/bien-phong-ngan-chan-35-nguoi-nhap-canh-trai-phep-4244004.html) ([VNExpress](https://vnexpress.net))
+- [Bộ trưởng Bộ Y tế: Dự kiến ngày 8/3 sẽ tiêm vaccine phòng Covid-19 mũi đầu tiên](https://cafebiz.vn/bo-truong-bo-y-te-du-kien-ngay-8-3-se-tiem-vaccine-phong-covid-19-mui-dau-tien-20210305141021141.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nam sinh ở Chí Linh dương tính SARS-CoV-2 sau 8 lần xét nghiệm](https://cafebiz.vn/nam-sinh-o-chi-linh-duong-tinh-sars-cov-2-sau-8-lan-xet-nghiem-20210305140231723.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tài xế không đo nồng độ cồn bị phạt hơn 40 triệu đồng](https://vnexpress.net/tai-xe-khong-do-nong-do-con-bi-phat-hon-40-trieu-dong-4244000.html) ([VNExpress](https://vnexpress.net))
-- [Hàng không xin hỗ trợ 27.000 tỷ đồng](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/hang-khong-xin-ho-tro-27-000-ty-dong-717453.html) ([VietNamNet](https://vietnamnet.vn))
-- [Chứng chỉ chức danh nghề nghiệp giáo viên là gì?](https://laodong.vn/giao-duc/chung-chi-chuc-danh-nghe-nghiep-giao-vien-la-gi-886012.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất xây 8 trạm bơm dã chiến để cải thiện ô nhiễm sông Nhuệ và sông Tô Lịch](https://cafebiz.vn/de-xuat-xay-8-tram-bom-da-chien-de-cai-thien-o-nhiem-song-nhue-va-song-to-lich-20210305135043315.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kết cục thảm dành cho những nhà đầu tư chế nhạo "cánh tay phải" của Warren Buffett trên mạng xã hội](https://cafebiz.vn/ket-cuc-tham-danh-cho-nhung-nha-dau-tu-che-nhao-canh-tay-phai-cua-warren-buffett-tren-mang-xa-hoi-20210305134945772.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sắp xuất hiện 5 hiện tượng thiên văn kỳ thú ở Việt Nam tháng 3 này](https://laodong.vn/moi-truong/sap-xuat-hien-5-hien-tuong-thien-van-ky-thu-o-viet-nam-thang-3-nay-885915.ldo) ([Lao Động](https://laodong.vn))
-- [Nam thanh niên trộm 18 điện thoại, trị giá hơn nửa tỉ đồng](https://laodong.vn/phap-luat/nam-thanh-nien-trom-18-dien-thoai-tri-gia-hon-nua-ti-dong-886036.ldo) ([Lao Động](https://laodong.vn))
-- [TP.Hạ Long cấm phương tiện thủy neo đậu vùng đệm ven bờ vịnh Hạ Long](https://laodong.vn/xa-hoi/tpha-long-cam-phuong-tien-thuy-neo-dau-vung-dem-ven-bo-vinh-ha-long-886011.ldo) ([Lao Động](https://laodong.vn))
-- [Các ngân hàng chính thức được triển khai mở tài khoản online từ hôm nay 5/3/2021](https://cafebiz.vn/cac-ngan-hang-chinh-thuc-duoc-trien-khai-mo-tai-khoan-online-tu-hom-nay-5-3-2021-2021030511014483.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Lay’s biến âm thanh "giòn rụm" thành phụ đề YouTube ](https://vietcetera.com/vn/lays-bien-am-thanh-gion-rum-thanh-phu-de-youtube)
 - [Tóm Lại Là: Rich kid có phải thế hệ phô trương?](https://vietcetera.com/vn/tom-lai-la-rich-kid-la-the-he-pho-truong)
 - [Phương Vũ và những nguyên tắc cho người trẻ làm sáng tạo](https://vietcetera.com/vn/phuong-vu-va-nhung-nguyen-tac-cho-nguoi-tre-lam-sang-tao)
 - [Chữ Với Nghĩa: Dảk bủh - Trò đùa từ lỗi Telex](https://vietcetera.com/vn/chu-voi-nghia-dak-buh-tro-dua)
@@ -105,7 +106,6 @@
 - [4 Kiểu sống không-truyền-thống nhưng vẫn vui](https://vietcetera.com/vn/4-kieu-song-khong-truyen-thong-nhung-van-vui)
 - [CEO Ecomobi Trương Công Thành: “Khởi nghiệp là cuộc chiến không dành cho kẻ ngại gian nan.” ](https://vietcetera.com/vn/ceo-ecomobi-truong-cong-thanh-khoi-nghiep-la-cuoc-chien-khong-danh-cho-ke-ngai-gian-nan)
 - [Fine Dining, Bistro, Pop-up... rốt cuộc nghĩa là gì?](https://vietcetera.com/vn/fine-dining-casual-bistro-nghia-la-gi)
-- [Gọi vốn thành công vòng Seed từ Genesia Ventures, Vietcetera mở rộng quy mô và chuẩn bị cho Series A](https://vietcetera.com/vn/goi-von-thanh-cong-vong-seed-tu-genesia-ventures-vietcetera-mo-rong-quy-mo-va-chuan-bi-cho-series-a)
 
 [Read More](https://vietcetera.com/)
 
@@ -137,8 +137,8 @@
 05. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 06. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 07. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-08. [Ông Võ Hoàng Yên Lý Giải Về T.ố C.á.o l.ừ.a đảo, dối trá hàng trăm tỷ đồng của vợ ông Dũng lò vôi](https://www.youtube.com/watch?v=G7PQbh2Ob4E) - [HOA LỆ SÀI GÒN](https://www.youtube.com/channel/UCJ7fUfDLagCvZGv0uD4shQA)
-09. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+08. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+09. [Ông Võ Hoàng Yên Lý Giải Về T.ố C.á.o l.ừ.a đảo, dối trá hàng trăm tỷ đồng của vợ ông Dũng lò vôi](https://www.youtube.com/watch?v=G7PQbh2Ob4E) - [HOA LỆ SÀI GÒN](https://www.youtube.com/channel/UCJ7fUfDLagCvZGv0uD4shQA)
 10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 
 [Read More](https://www.youtube.com/feed/trending)
