@@ -22,7 +22,7 @@
 - Current weather is light intensity drizzle.
 - Temperature is 20°C.
 - Feels Like 22.51°C.
-- Air Visual is 114.
+- Air Visual is 125.
 
 **WEATHER**
 
@@ -61,9 +61,9 @@
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nam sinh ở Chí Linh dương tính SARS-CoV-2 sau 8 lần xét nghiệm](https://cafebiz.vn/nam-sinh-o-chi-linh-duong-tinh-sars-cov-2-sau-8-lan-xet-nghiem-20210305140231723.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tài xế không đo nồng độ cồn bị phạt hơn 40 triệu đồng](https://vnexpress.net/tai-xe-khong-do-nong-do-con-bi-phat-hon-40-trieu-dong-4244000.html) ([VNExpress](https://vnexpress.net))
+- [Hàng không xin hỗ trợ 27.000 tỷ đồng](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/hang-khong-xin-ho-tro-27-000-ty-dong-717453.html) ([VietNamNet](https://vietnamnet.vn))
+- [Chứng chỉ chức danh nghề nghiệp giáo viên là gì?](https://laodong.vn/giao-duc/chung-chi-chuc-danh-nghe-nghiep-giao-vien-la-gi-886012.ldo) ([Lao Động](https://laodong.vn))
 - [Đề xuất xây 8 trạm bơm dã chiến để cải thiện ô nhiễm sông Nhuệ và sông Tô Lịch](https://cafebiz.vn/de-xuat-xay-8-tram-bom-da-chien-de-cai-thien-o-nhiem-song-nhue-va-song-to-lich-20210305135043315.chn) ([CafeBiz](https://cafebiz.vn))
 - [Kết cục thảm dành cho những nhà đầu tư chế nhạo "cánh tay phải" của Warren Buffett trên mạng xã hội](https://cafebiz.vn/ket-cuc-tham-danh-cho-nhung-nha-dau-tu-che-nhao-canh-tay-phai-cua-warren-buffett-tren-mang-xa-hoi-20210305134945772.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sắp xuất hiện 5 hiện tượng thiên văn kỳ thú ở Việt Nam tháng 3 này](https://laodong.vn/moi-truong/sap-xuat-hien-5-hien-tuong-thien-van-ky-thu-o-viet-nam-thang-3-nay-885915.ldo) ([Lao Động](https://laodong.vn))
 - [Nam thanh niên trộm 18 điện thoại, trị giá hơn nửa tỉ đồng](https://laodong.vn/phap-luat/nam-thanh-nien-trom-18-dien-thoai-tri-gia-hon-nua-ti-dong-886036.ldo) ([Lao Động](https://laodong.vn))
 - [TP.Hạ Long cấm phương tiện thủy neo đậu vùng đệm ven bờ vịnh Hạ Long](https://laodong.vn/xa-hoi/tpha-long-cam-phuong-tien-thuy-neo-dau-vung-dem-ven-bo-vinh-ha-long-886011.ldo) ([Lao Động](https://laodong.vn))
 - [Các ngân hàng chính thức được triển khai mở tài khoản online từ hôm nay 5/3/2021](https://cafebiz.vn/cac-ngan-hang-chinh-thuc-duoc-trien-khai-mo-tai-khoan-online-tu-hom-nay-5-3-2021-2021030511014483.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kiên Giang: Tiêu hủy hơn 822.000 con giống thủy sản không có giấy kiểm dịch](https://laodong.vn/xa-hoi/kien-giang-tieu-huy-hon-822000-con-giong-thuy-san-khong-co-giay-kiem-dich-886029.ldo) ([Lao Động](https://laodong.vn))
-- [Nghệ An: Khuyến cáo giáo viên chưa tham gia học chứng chỉ chức danh nghề nghiệp](https://laodong.vn/xa-hoi/nghe-an-khuyen-cao-giao-vien-chua-tham-gia-hoc-chung-chi-chuc-danh-nghe-nghiep-886031.ldo) ([Lao Động](https://laodong.vn))
-- [Green Daddy tuyển dụng nhân tài khắp toàn quốc](https://cafebiz.vn/green-daddy-tuyen-dung-nhan-tai-khap-toan-quoc-20210305114611452.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chủ đầu tư Gem Sky World ký kết hợp tác với hệ thống giáo dục đạt chuẩn quốc tế](https://cafebiz.vn/chu-dau-tu-gem-sky-world-ky-ket-hop-tac-voi-he-thong-giao-duc-dat-chuan-quoc-te-2021030511454667.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,7 +96,6 @@
 
 **VIETCETERA**
 
-- [Ngắm tranh, ăn tối, tạm quên sự đời: ghé Lavelle Library](https://vietcetera.com/vn/ngam-tranh-an-toi-tam-quen-su-doi-ghe-lavelle-library)
 - [Tóm Lại Là: Rich kid có phải thế hệ phô trương?](https://vietcetera.com/vn/tom-lai-la-rich-kid-la-the-he-pho-truong)
 - [Phương Vũ và những nguyên tắc cho người trẻ làm sáng tạo](https://vietcetera.com/vn/phuong-vu-va-nhung-nguyen-tac-cho-nguoi-tre-lam-sang-tao)
 - [Chữ Với Nghĩa: Dảk bủh - Trò đùa từ lỗi Telex](https://vietcetera.com/vn/chu-voi-nghia-dak-buh-tro-dua)
@@ -106,6 +105,7 @@
 - [4 Kiểu sống không-truyền-thống nhưng vẫn vui](https://vietcetera.com/vn/4-kieu-song-khong-truyen-thong-nhung-van-vui)
 - [CEO Ecomobi Trương Công Thành: “Khởi nghiệp là cuộc chiến không dành cho kẻ ngại gian nan.” ](https://vietcetera.com/vn/ceo-ecomobi-truong-cong-thanh-khoi-nghiep-la-cuoc-chien-khong-danh-cho-ke-ngai-gian-nan)
 - [Fine Dining, Bistro, Pop-up... rốt cuộc nghĩa là gì?](https://vietcetera.com/vn/fine-dining-casual-bistro-nghia-la-gi)
+- [Gọi vốn thành công vòng Seed từ Genesia Ventures, Vietcetera mở rộng quy mô và chuẩn bị cho Series A](https://vietcetera.com/vn/goi-von-thanh-cong-vong-seed-tu-genesia-ventures-vietcetera-mo-rong-quy-mo-va-chuan-bi-cho-series-a)
 
 [Read More](https://vietcetera.com/)
 
