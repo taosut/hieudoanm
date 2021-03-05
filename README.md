@@ -22,7 +22,7 @@
 - Current weather is light intensity drizzle.
 - Temperature is 20°C.
 - Feels Like 22.51°C.
-- Air Visual is 122.
+- Air Visual is 139.
 
 **WEATHER**
 
@@ -49,19 +49,19 @@
 **GOOGLE TRENDS**
 
 - [![AC Milan](https://img.shields.io/static/v1?label=AC%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AC%20Milan)
-- [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
 - [![Barca vs Sevilla](https://img.shields.io/static/v1?label=Barca%20vs%20Sevilla&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20Sevilla)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Clip Ninh-Duong-Lan-Ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh-Duong-Lan-Ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh-Duong-Lan-Ngoc)
+- [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Man Utd](https://img.shields.io/static/v1?label=Man%20Utd&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20Utd)
+- [![Maybach](https://img.shields.io/static/v1?label=Maybach&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Maybach)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bạc Liêu: Lần đầu tiên năng suất lúa Tài nguyên lên đến 10 tấn/ha](https://laodong.vn/kinh-te/bac-lieu-lan-dau-tien-nang-suat-lua-tai-nguyen-len-den-10-tanha-886050.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang: Tổ chức nhiều hoạt động trong Tháng Công nhân năm 2021](https://laodong.vn/ldld-bac-giang/bac-giang-to-chuc-nhieu-hoat-dong-trong-thang-cong-nhan-nam-2021-886057.ldo) ([Lao Động](https://laodong.vn))
+- [Nhặt được ví tiền, đại úy công an đăng tin trên facebook để tìm chủ nhân](https://laodong.vn/xa-hoi/nhat-duoc-vi-tien-dai-uy-cong-an-dang-tin-tren-facebook-de-tim-chu-nhan-886047.ldo) ([Lao Động](https://laodong.vn))
+- [Trên 170.000 người lao động ngành Ngân hàng được chăm lo](https://laodong.vn/cd-ngan-hang/tren-170000-nguoi-lao-dong-nganh-ngan-hang-duoc-cham-lo-886042.ldo) ([Lao Động](https://laodong.vn))
+- [Honda ra mắt xe tự lái cấp độ 3 đầu tiên trên thế giới](https://cafebiz.vn/honda-ra-mat-xe-tu-lai-cap-do-3-dau-tien-tren-the-gioi-20210305140305129.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tăng tốc nghiên cứu vaccine trong nước](https://vnexpress.net/tang-toc-nghien-cuu-vaccine-trong-nuoc-4244038.html) ([VNExpress](https://vnexpress.net))
+- [Người vùng cao giải cứu nông sản giúp nông dân Hải Dương](https://laodong.vn/xa-hoi/nguoi-vung-cao-giai-cuu-nong-san-giup-nong-dan-hai-duong-886013.ldo) ([Lao Động](https://laodong.vn))
+- [AirAsia triển khai dịch vụ giao đồ ăn nhanh tại Singapore](https://cafebiz.vn/airasia-trien-khai-dich-vu-giao-do-an-nhanh-tai-singapore-202103051419517.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tài năng trẻ của U22 Việt Nam và hành trình đến Nhật Bản](https://laodong.vn/video/tai-nang-tre-cua-u22-viet-nam-va-hanh-trinh-den-nhat-ban-886024.ldo) ([Lao Động](https://laodong.vn))
 - [Đà Nẵng tạm dừng hoạt động các chốt kiểm soát dịch liên ngành tại cửa ngõ ra, vào thành phố](https://cafebiz.vn/da-nang-tam-dung-hoat-dong-cac-chot-kiem-soat-dich-lien-nganh-tai-cua-ngo-ra-vao-thanh-pho-20210305142728179.chn) ([CafeBiz](https://cafebiz.vn))
-- [CEO Microsoft: ‘Nâng nhóm mình lên, hạ người khác xuống’ không phải là lãnh đạo](https://cafebiz.vn/ceo-microsoft-nang-nhom-minh-len-ha-nguoi-khac-xuong-khong-phai-la-lanh-dao-20210305140023477.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nam Thư: &quot;Tôi tham gia Sao nhập ngũ không phải để cạnh tranh giải thưởng&quot;](https://laodong.vn/photo/nam-thu-toi-tham-gia-sao-nhap-ngu-khong-phai-de-canh-tranh-giai-thuong-885999.ldo) ([Lao Động](https://laodong.vn))
-- [Người thành đạt luôn mang theo 4 loại kính: Kính viễn vọng, nhìn xa; kính lúp, nhìn rõ; kính hiển vi, nhìn chi tiết; kính gương phẳng, nhìn thật](https://cafebiz.vn/nguoi-thanh-dat-luon-mang-theo-4-loai-kinh-kinh-vien-vong-nhin-xa-kinh-lup-nhin-ro-kinh-hien-vi-nhin-chi-tiet-kinh-guong-phang-nhin-that-20210227173948105.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đi nghĩa vụ quân sự được hưởng những quyền lợi gì?](https://laodong.vn/infographic/di-nghia-vu-quan-su-duoc-huong-nhung-quyen-loi-gi-885874.ldo) ([Lao Động](https://laodong.vn))
-- [Biên phòng ngăn chặn 35 người nhập cảnh trái phép](https://vnexpress.net/bien-phong-ngan-chan-35-nguoi-nhap-canh-trai-phep-4244004.html) ([VNExpress](https://vnexpress.net))
-- [Bộ trưởng Bộ Y tế: Dự kiến ngày 8/3 sẽ tiêm vaccine phòng Covid-19 mũi đầu tiên](https://cafebiz.vn/bo-truong-bo-y-te-du-kien-ngay-8-3-se-tiem-vaccine-phong-covid-19-mui-dau-tien-20210305141021141.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nam sinh ở Chí Linh dương tính SARS-CoV-2 sau 8 lần xét nghiệm](https://cafebiz.vn/nam-sinh-o-chi-linh-duong-tinh-sars-cov-2-sau-8-lan-xet-nghiem-20210305140231723.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tài xế không đo nồng độ cồn bị phạt hơn 40 triệu đồng](https://vnexpress.net/tai-xe-khong-do-nong-do-con-bi-phat-hon-40-trieu-dong-4244000.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
