@@ -21,8 +21,8 @@
 
 - Current weather is light intensity drizzle.
 - Temperature is 20°C.
-- Feels Like 22.51°C.
-- Air Visual is 139.
+- Feels Like 22.16°C.
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bạc Liêu: Lần đầu tiên năng suất lúa Tài nguyên lên đến 10 tấn/ha](https://laodong.vn/kinh-te/bac-lieu-lan-dau-tien-nang-suat-lua-tai-nguyen-len-den-10-tanha-886050.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang: Tổ chức nhiều hoạt động trong Tháng Công nhân năm 2021](https://laodong.vn/ldld-bac-giang/bac-giang-to-chuc-nhieu-hoat-dong-trong-thang-cong-nhan-nam-2021-886057.ldo) ([Lao Động](https://laodong.vn))
-- [Nhặt được ví tiền, đại úy công an đăng tin trên facebook để tìm chủ nhân](https://laodong.vn/xa-hoi/nhat-duoc-vi-tien-dai-uy-cong-an-dang-tin-tren-facebook-de-tim-chu-nhan-886047.ldo) ([Lao Động](https://laodong.vn))
-- [Trên 170.000 người lao động ngành Ngân hàng được chăm lo](https://laodong.vn/cd-ngan-hang/tren-170000-nguoi-lao-dong-nganh-ngan-hang-duoc-cham-lo-886042.ldo) ([Lao Động](https://laodong.vn))
-- [Honda ra mắt xe tự lái cấp độ 3 đầu tiên trên thế giới](https://cafebiz.vn/honda-ra-mat-xe-tu-lai-cap-do-3-dau-tien-tren-the-gioi-20210305140305129.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tăng tốc nghiên cứu vaccine trong nước](https://vnexpress.net/tang-toc-nghien-cuu-vaccine-trong-nuoc-4244038.html) ([VNExpress](https://vnexpress.net))
-- [Người vùng cao giải cứu nông sản giúp nông dân Hải Dương](https://laodong.vn/xa-hoi/nguoi-vung-cao-giai-cuu-nong-san-giup-nong-dan-hai-duong-886013.ldo) ([Lao Động](https://laodong.vn))
-- [AirAsia triển khai dịch vụ giao đồ ăn nhanh tại Singapore](https://cafebiz.vn/airasia-trien-khai-dich-vu-giao-do-an-nhanh-tai-singapore-202103051419517.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tài năng trẻ của U22 Việt Nam và hành trình đến Nhật Bản](https://laodong.vn/video/tai-nang-tre-cua-u22-viet-nam-va-hanh-trinh-den-nhat-ban-886024.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng tạm dừng hoạt động các chốt kiểm soát dịch liên ngành tại cửa ngõ ra, vào thành phố](https://cafebiz.vn/da-nang-tam-dung-hoat-dong-cac-chot-kiem-soat-dich-lien-nganh-tai-cua-ngo-ra-vao-thanh-pho-20210305142728179.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xem màn trình diễn chói sáng của Sanchez trước Parma](https://laodong.vn/video-the-thao/xem-man-trinh-dien-choi-sang-cua-sanchez-truoc-parma-886051.ldo) ([Lao Động](https://laodong.vn))
+- [Bị nhồi máu não và ung thư thận, sau hơn 15 năm vẫn khỏe mạnh, bác sĩ 98 tuổi ở Trung Quốc chia sẻ 2 bí quyết sống khỏe](https://cafebiz.vn/bi-nhoi-mau-nao-va-ung-thu-than-sau-hon-15-nam-van-khoe-manh-bac-si-98-tuoi-o-trung-quoc-chia-se-2-bi-quyet-song-khoe-20210305150522221.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thời tiết dị thường dồn dập, cần cập nhật lại kịch bản biến đổi khí hậu?](https://laodong.vn/video-thoi-su/thoi-tiet-di-thuong-don-dap-can-cap-nhat-lai-kich-ban-bien-doi-khi-hau-882074.ldo) ([Lao Động](https://laodong.vn))
+- [Cà Mau: 5 năm chuyển đổi đất rừng, lợi nhuận tăng gấp 3 lần](https://laodong.vn/xa-hoi/ca-mau-5-nam-chuyen-doi-dat-rung-loi-nhuan-tang-gap-3-lan-886075.ldo) ([Lao Động](https://laodong.vn))
+- [Giá gạo xuất khẩu của Việt Nam tăng, cao hơn gạo Thái 7 USD/tấn](https://laodong.vn/kinh-te/gia-gao-xuat-khau-cua-viet-nam-tang-cao-hon-gao-thai-7-usdtan-886068.ldo) ([Lao Động](https://laodong.vn))
+- [Các tỉnh đang giám sát người từ Hải Dương thế nào?](https://vnexpress.net/cac-tinh-dang-giam-sat-nguoi-tu-hai-duong-the-nao-4244003.html) ([VNExpress](https://vnexpress.net))
+- [Xe container đâm sập nhà dân dưới gầm cầu Phú Mỹ, một người thiệt mạng](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/xe-container-dam-sap-nha-dan-duoi-gam-cau-phu-my-mot-nguoi-thiet-mang-717475.html) ([VietNamNet](https://vietnamnet.vn))
+- [Hậu Giang: Phó Trưởng ban Tuyên giáo làm Giám đốc Sở Văn hóa - Thể thao và Du lịch](https://laodong.vn/thoi-su/hau-giang-pho-truong-ban-tuyen-giao-lam-giam-doc-so-van-hoa-the-thao-va-du-lich-886043.ldo) ([Lao Động](https://laodong.vn))
+- [Một công ty sản xuất kit xét nghiệm Covid-19 báo cáo lợi nhuận tăng 6.500%/năm](https://cafebiz.vn/mot-cong-ty-san-xuat-kit-xet-nghiem-covid-19-bao-cao-loi-nhuan-tang-6500-nam-20210305151641176.chn) ([CafeBiz](https://cafebiz.vn))
+- [Con trai duy nhất ít được nhắc tới của tỷ phú Bill Gates: Cũng học IT nhưng không được thừa kế, sống cuộc đời khiêm tốn khác xa rich kid thường thấy](https://cafebiz.vn/con-trai-duy-nhat-it-duoc-nhac-toi-cua-ty-phu-bill-gates-cung-hoc-it-nhung-khong-duoc-thua-ke-song-cuoc-doi-khiem-ton-khac-xa-rich-kid-thuong-thay-20210305150231192.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -122,7 +122,7 @@
 07. [RAIN (비) - WHY DON’T WE (Feat. 청하 (CHUNG HA)) MV](https://www.youtube.com/watch?v=srWfDwiRVgQ) - [RAIN's Official Channel](https://www.youtube.com/channel/UCxXgIeE5hxWxHG6dz9Scg2w)
 08. [SHINee 샤이니 'Don't Call Me' MV](https://www.youtube.com/watch?v=p6OoY6xneI0) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
 09. [PBN 61 | Như Quỳnh - Dù Cho Hoa Tàn Úa](https://www.youtube.com/watch?v=ig8vOipF9Rs) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-10. [Two Neighbors - Y2K (Lyrics) [7clouds Release]](https://www.youtube.com/watch?v=kSd8DVnJhWI) - [7clouds](https://www.youtube.com/channel/UCNqFDjYTexJDET3rPDrmJKg)
+10. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
