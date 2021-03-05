@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is light intensity drizzle.
 - Temperature is 20°C.
-- Feels Like 21.69°C.
-- Air Visual is 140.
+- Feels Like 22.51°C.
+- Air Visual is 114.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Đề xuất xây 8 trạm bơm dã chiến để cải thiện ô nhiễm sông Nhuệ và sông Tô Lịch](https://cafebiz.vn/de-xuat-xay-8-tram-bom-da-chien-de-cai-thien-o-nhiem-song-nhue-va-song-to-lich-20210305135043315.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kết cục thảm dành cho những nhà đầu tư chế nhạo "cánh tay phải" của Warren Buffett trên mạng xã hội](https://cafebiz.vn/ket-cuc-tham-danh-cho-nhung-nha-dau-tu-che-nhao-canh-tay-phai-cua-warren-buffett-tren-mang-xa-hoi-20210305134945772.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sắp xuất hiện 5 hiện tượng thiên văn kỳ thú ở Việt Nam tháng 3 này](https://laodong.vn/moi-truong/sap-xuat-hien-5-hien-tuong-thien-van-ky-thu-o-viet-nam-thang-3-nay-885915.ldo) ([Lao Động](https://laodong.vn))
+- [Nam thanh niên trộm 18 điện thoại, trị giá hơn nửa tỉ đồng](https://laodong.vn/phap-luat/nam-thanh-nien-trom-18-dien-thoai-tri-gia-hon-nua-ti-dong-886036.ldo) ([Lao Động](https://laodong.vn))
+- [TP.Hạ Long cấm phương tiện thủy neo đậu vùng đệm ven bờ vịnh Hạ Long](https://laodong.vn/xa-hoi/tpha-long-cam-phuong-tien-thuy-neo-dau-vung-dem-ven-bo-vinh-ha-long-886011.ldo) ([Lao Động](https://laodong.vn))
+- [Các ngân hàng chính thức được triển khai mở tài khoản online từ hôm nay 5/3/2021](https://cafebiz.vn/cac-ngan-hang-chinh-thuc-duoc-trien-khai-mo-tai-khoan-online-tu-hom-nay-5-3-2021-2021030511014483.chn) ([CafeBiz](https://cafebiz.vn))
 - [Kiên Giang: Tiêu hủy hơn 822.000 con giống thủy sản không có giấy kiểm dịch](https://laodong.vn/xa-hoi/kien-giang-tieu-huy-hon-822000-con-giong-thuy-san-khong-co-giay-kiem-dich-886029.ldo) ([Lao Động](https://laodong.vn))
 - [Nghệ An: Khuyến cáo giáo viên chưa tham gia học chứng chỉ chức danh nghề nghiệp](https://laodong.vn/xa-hoi/nghe-an-khuyen-cao-giao-vien-chua-tham-gia-hoc-chung-chi-chuc-danh-nghe-nghiep-886031.ldo) ([Lao Động](https://laodong.vn))
 - [Green Daddy tuyển dụng nhân tài khắp toàn quốc](https://cafebiz.vn/green-daddy-tuyen-dung-nhan-tai-khap-toan-quoc-20210305114611452.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chủ đầu tư Gem Sky World ký kết hợp tác với hệ thống giáo dục đạt chuẩn quốc tế](https://cafebiz.vn/chu-dau-tu-gem-sky-world-ky-ket-hop-tac-voi-he-thong-giao-duc-dat-chuan-quoc-te-2021030511454667.chn) ([CafeBiz](https://cafebiz.vn))
-- [Robert Lewandowski bị cáo buộc trốn thuế](https://laodong.vn/the-thao/robert-lewandowski-bi-cao-buoc-tron-thue-885970.ldo) ([Lao Động](https://laodong.vn))
-- [Khách sạn không gian đầu tiên trên thế giới công bố thời điểm mở cửa](https://laodong.vn/the-gioi/khach-san-khong-gian-dau-tien-tren-the-gioi-cong-bo-thoi-diem-mo-cua-885978.ldo) ([Lao Động](https://laodong.vn))
-- [Bé gái sơ sinh bị bỏ rơi trên bãi biển, người đầy vết côn trùng cắn](http://vietnamnet.vn/vn/thoi-su/be-gai-so-sinh-bi-bo-roi-tren-bai-bien-nguoi-day-vet-con-trung-can-717455.html) ([VietNamNet](https://vietnamnet.vn))
-- [Việt Nam ủng hộ nỗ lực thúc đẩy đối thoại chính trị ở Venezuela](https://laodong.vn/thoi-su/viet-nam-ung-ho-no-luc-thuc-day-doi-thoai-chinh-tri-o-venezuela-886025.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ giao, ‘mượn’ đất rừng sai quy định ở Hà Tĩnh: Kỷ luật nhiều cán bộ xã](https://tuoitre.vn/vu-giao-muon-dat-rung-sai-quy-dinh-o-ha-tinh-ky-luat-nhieu-can-bo-xa-20210305125828974.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Điều xe buýt ‘giải cứu’ khách vì xe khách đồng loạt bãi bến](https://tuoitre.vn/dieu-xe-buyt-giai-cuu-khach-vi-xe-khach-dong-loat-bai-ben-2021030512451217.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,8 @@
 
 **VIETCETERA**
 
+- [Ngắm tranh, ăn tối, tạm quên sự đời: ghé Lavelle Library](https://vietcetera.com/vn/ngam-tranh-an-toi-tam-quen-su-doi-ghe-lavelle-library)
+- [Tóm Lại Là: Rich kid có phải thế hệ phô trương?](https://vietcetera.com/vn/tom-lai-la-rich-kid-la-the-he-pho-truong)
 - [Phương Vũ và những nguyên tắc cho người trẻ làm sáng tạo](https://vietcetera.com/vn/phuong-vu-va-nhung-nguyen-tac-cho-nguoi-tre-lam-sang-tao)
 - [Chữ Với Nghĩa: Dảk bủh - Trò đùa từ lỗi Telex](https://vietcetera.com/vn/chu-voi-nghia-dak-buh-tro-dua)
 - [4 Lầm tưởng thường gặp về sự tập trung](https://vietcetera.com/vn/4-lam-tuong-thuong-gap-ve-su-tap-trung)
@@ -104,8 +106,6 @@
 - [4 Kiểu sống không-truyền-thống nhưng vẫn vui](https://vietcetera.com/vn/4-kieu-song-khong-truyen-thong-nhung-van-vui)
 - [CEO Ecomobi Trương Công Thành: “Khởi nghiệp là cuộc chiến không dành cho kẻ ngại gian nan.” ](https://vietcetera.com/vn/ceo-ecomobi-truong-cong-thanh-khoi-nghiep-la-cuoc-chien-khong-danh-cho-ke-ngai-gian-nan)
 - [Fine Dining, Bistro, Pop-up... rốt cuộc nghĩa là gì?](https://vietcetera.com/vn/fine-dining-casual-bistro-nghia-la-gi)
-- [Gọi vốn thành công vòng Seed từ Genesia Ventures, Vietcetera mở rộng quy mô và chuẩn bị cho Series A](https://vietcetera.com/vn/goi-von-thanh-cong-vong-seed-tu-genesia-ventures-vietcetera-mo-rong-quy-mo-va-chuan-bi-cho-series-a)
-- ["Nhìn vào mắt con Mơ, chị bị sét đánh."](https://vietcetera.com/vn/nghe-don-kit-meo-hoi)
 
 [Read More](https://vietcetera.com/)
 
