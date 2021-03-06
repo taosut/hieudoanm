@@ -21,8 +21,8 @@
 
 - Current weather is few clouds.
 - Temperature is 26°C.
-- Feels Like 27.03°C.
-- Air Visual is 131.
+- Feels Like 28.11°C.
+- Air Visual is 119.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Độc đáo căn nhà "vảy cá" có 4 mái hiên ở Tây Ninh](https://cafebiz.vn/doc-dao-can-nha-vay-ca-co-4-mai-hien-o-tay-ninh-20210306093642629.chn) ([CafeBiz](https://cafebiz.vn))
+- [Diễn biến vụ Barcagate: Bartomeu đã ngăn cuộc điều tra nội bộ](https://laodong.vn/bong-da-quoc-te/dien-bien-vu-barcagate-bartomeu-da-ngan-cuoc-dieu-tra-noi-bo-886322.ldo) ([Lao Động](https://laodong.vn))
+- [Nuôi loài giáp xác lạ thu tiền triệu mỗi ký](https://laodong.vn/kinh-te/nuoi-loai-giap-xac-la-thu-tien-trieu-moi-ky-886291.ldo) ([Lao Động](https://laodong.vn))
 - [U22 Indonesia giành chiến thắng ở “trận cầu lịch sử”](https://laodong.vn/the-thao/u22-indonesia-gianh-chien-thang-o-tran-cau-lich-su-886323.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút: &quot;Siêu trái đất&quot; mới giúp săn tìm sự sống ngoài hành tinh](https://laodong.vn/video/ban-tin-1-phut-sieu-trai-dat-moi-giup-san-tim-su-song-ngoai-hanh-tinh-886298.ldo) ([Lao Động](https://laodong.vn))
 - [Nhà đầu tư Anh thông tin việc bị doanh nghiệp Việt kiện đòi bồi thường 20 tỉ euro](https://tuoitre.vn/nha-dau-tu-anh-thong-tin-viec-bi-doanh-nghiep-viet-kien-doi-boi-thuong-20-ti-euro-20210306120723056.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chuyển động đầu tiên của tàu vũ trụ NASA trên bề mặt sao Hỏa](https://laodong.vn/the-gioi/chuyen-dong-dau-tien-cua-tau-vu-tru-nasa-tren-be-mat-sao-hoa-886325.ldo) ([Lao Động](https://laodong.vn))
-- [Khống chế kịp thời vụ hỏa hoạn trong nhà máy tôn đang sửa chữa ở Bình Dương](https://laodong.vn/xa-hoi/khong-che-kip-thoi-vu-hoa-hoan-trong-nha-may-ton-dang-sua-chua-o-binh-duong-886315.ldo) ([Lao Động](https://laodong.vn))
-- [Hơn 110 tỉ đồng chăm lo cho công nhân lao động dịp trước và sau Tết](https://laodong.vn/cong-doan/hon-110-ti-dong-cham-lo-cho-cong-nhan-lao-dong-dip-truoc-va-sau-tet-886307.ldo) ([Lao Động](https://laodong.vn))
 - [Hộ khẩu tỉnh khác, có được làm căn cước công dân gắn chip ở Hà Nội?](https://laodong.vn/phap-luat/ho-khau-tinh-khac-co-duoc-lam-can-cuoc-cong-dan-gan-chip-o-ha-noi-886304.ldo) ([Lao Động](https://laodong.vn))
 - [Việt Nam có thể xây dựng những doanh nghiệp lớn như Hàn Quốc để nền kinh tế 'cất cánh'](https://cafebiz.vn/viet-nam-co-the-xay-dung-nhung-doanh-nghiep-lon-nhu-han-quoc-de-nen-kinh-te-cat-canh-20210306121030362.chn) ([CafeBiz](https://cafebiz.vn))
 - ['Cò' đất bay qua, nước mắt ở lại](https://cafebiz.vn/co-dat-bay-qua-nuoc-mat-o-lai-20210306120735288.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cha mẹ có 5 tầng, dạy dỗ ra 5 kiểu con cái, tạo nên 5 cuộc đời khác biệt: Bạn thuộc kiểu cha mẹ nào?](https://cafebiz.vn/cha-me-co-5-tang-day-do-ra-5-kieu-con-cai-tao-nen-5-cuoc-doi-khac-biet-ban-thuoc-kieu-cha-me-nao-20210305162400188.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
