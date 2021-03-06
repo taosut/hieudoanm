@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 24°C.
 - Feels Like 25.27°C.
-- Air Visual is 128.
+- Air Visual is 129.
 
 **WEATHER**
 
@@ -53,12 +53,12 @@
 - [![Biểu tình ở Myanmar](https://img.shields.io/static/v1?label=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
-- [![Lê Thanh Nghị](https://img.shields.io/static/v1?label=L%C3%AA%20Thanh%20Ngh%E1%BB%8B&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20Thanh%20Ngh%E1%BB%8B)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Cha mẹ có 5 tầng, dạy dỗ ra 5 kiểu con cái, tạo nên 5 cuộc đời khác biệt: Bạn thuộc kiểu cha mẹ nào?](https://cafebiz.vn/cha-me-co-5-tang-day-do-ra-5-kieu-con-cai-tao-nen-5-cuoc-doi-khac-biet-ban-thuoc-kieu-cha-me-nao-20210305162400188.chn) ([CafeBiz](https://cafebiz.vn))
+- [TP.HCM kiến nghị sớm giao đất quốc phòng để mở đường nối khu sân bay Tân Sơn Nhất](https://tuoitre.vn/tphcm-kien-nghi-som-giao-dat-quoc-phong-de-mo-duong-noi-khu-san-bay-tan-son-nhat-20210306105439084.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hà Nội: Công nhân miệt mài làm việc trên đại dự án cầu Vĩnh Tuy 2](https://laodong.vn/xa-hoi/ha-noi-cong-nhan-miet-mai-lam-viec-tren-dai-du-an-cau-vinh-tuy-2-886282.ldo) ([Lao Động](https://laodong.vn))
+- [NSƯT Chí Trung cùng nhiều nghệ sĩ ngậm ngùi tiễn biệt &quot;bố&quot; Trần Hạnh](https://laodong.vn/photo/nsut-chi-trung-cung-nhieu-nghe-si-ngam-ngui-tien-biet-bo-tran-hanh-886287.ldo) ([Lao Động](https://laodong.vn))
 - ['Tường lốp' cứu nạn trên những cung đường đèo dốc](https://vnexpress.net/tuong-lop-cuu-nan-tren-nhung-cung-duong-deo-doc-4243437.html) ([VNExpress](https://vnexpress.net))
 - [Giá giường Bệnh viện Bạch Mai lên tới 3,3 triệu đồng: Bộ Y tế chỉ đạo gì?](https://laodong.vn/y-te/gia-giuong-benh-vien-bach-mai-len-toi-33-trieu-dong-bo-y-te-chi-dao-gi-886252.ldo) ([Lao Động](https://laodong.vn))
 - [Ông Trương Gia Bình nhận thù lao 0 đồng, CEO FPT nhận lương hơn 3,5 tỷ đồng nhưng không đáng là bao so với ESOP](https://cafebiz.vn/ong-truong-gia-binh-nhan-thu-lao-0-dong-ceo-fpt-nhan-luong-hon-35-ty-dong-nhung-khong-dang-la-bao-so-voi-esop-20210306113444311.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đi làm lương "ba cọc ba đồng", ông Đoàn Ngọc Hải lấy tiền tỷ từ đâu mà đi từ thiện?](https://cafebiz.vn/di-lam-luong-ba-coc-ba-dong-ong-doan-ngoc-hai-lay-tien-ty-tu-dau-ma-di-tu-thien-20210306113435942.chn) ([CafeBiz](https://cafebiz.vn))
 - ['Ông chủ' khu du lịch sưu tập hơn 500 chiếc xe máy cổ có '1 không 2', biển đẹp hàng đầu](https://cafebiz.vn/ong-chu-khu-du-lich-suu-tap-hon-500-chiec-xe-may-co-co-1-khong-2-bien-dep-hang-dau-20210306113336357.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lễ trao giải Grammy lần thứ 63 ấn định ngày tổ chức](https://laodong.vn/giai-tri/le-trao-giai-grammy-lan-thu-63-an-dinh-ngay-to-chuc-886303.ldo) ([Lao Động](https://laodong.vn))
-- [Cấp giấy phép xây dựng chậm tại Nha Trang, Khánh Hòa: Người dân lẫn chủ đầu tư dự án bức xúc](https://laodong.vn/bat-dong-san/cap-giay-phep-xay-dung-cham-tai-nha-trang-khanh-hoa-nguoi-dan-lan-chu-dau-tu-du-an-buc-xuc-886159.ldo) ([Lao Động](https://laodong.vn))
-- [Sớm bàn giao trường nghề miễn phí dành cho 2.000 học viên](https://laodong.vn/cong-doan/som-ban-giao-truong-nghe-mien-phi-danh-cho-2000-hoc-vien-886290.ldo) ([Lao Động](https://laodong.vn))
-- [Khen thưởng nóng cho lực lượng phá vụ án nổ súng ở Cần Thơ](https://laodong.vn/phap-luat/khen-thuong-nong-cho-luc-luong-pha-vu-an-no-sung-o-can-tho-886273.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng và ngoại tệ 6.3: Giá vàng hướng đến tuần giảm thứ 3 liên tiếp](https://laodong.vn/video/gia-vang-va-ngoai-te-63-gia-vang-huong-den-tuan-giam-thu-3-lien-tiep-886261.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -135,11 +135,11 @@
 03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 04. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-06. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
-07. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-08. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-09. [Thêm đoạn clip cho thấy nỗ lực cứu bé gái rơi từ tầng 12 của anh Nguyễn Ngọc Mạnh | THDT](https://www.youtube.com/watch?v=YPe9q--jnEY) - [Truyền Hình Đồng Tháp](https://www.youtube.com/channel/UCDIl_FogyBJAUI3QVyLet8w)
-10. [Ông Võ Hoàng Yên Lý Giải Về T.ố C.á.o l.ừ.a đảo, dối trá hàng trăm tỷ đồng của vợ ông Dũng lò vôi](https://www.youtube.com/watch?v=G7PQbh2Ob4E) - [HOA LỆ SÀI GÒN](https://www.youtube.com/channel/UCJ7fUfDLagCvZGv0uD4shQA)
+06. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
+07. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
+08. [Thêm đoạn clip cho thấy nỗ lực cứu bé gái rơi từ tầng 12 của anh Nguyễn Ngọc Mạnh | THDT](https://www.youtube.com/watch?v=YPe9q--jnEY) - [Truyền Hình Đồng Tháp](https://www.youtube.com/channel/UCDIl_FogyBJAUI3QVyLet8w)
+09. [Ông Võ Hoàng Yên Lý Giải Về T.ố C.á.o l.ừ.a đảo, dối trá hàng trăm tỷ đồng của vợ ông Dũng lò vôi](https://www.youtube.com/watch?v=G7PQbh2Ob4E) - [HOA LỆ SÀI GÒN](https://www.youtube.com/channel/UCJ7fUfDLagCvZGv0uD4shQA)
+10. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 
 [Read More](https://www.youtube.com/feed/trending)
 
