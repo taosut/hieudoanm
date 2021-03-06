@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is mist.
 - Temperature is 27°C.
-- Feels Like 27.74°C.
-- Air Visual is 125.
+- Feels Like 28.21°C.
+- Air Visual is 135.
 
 **WEATHER**
 
@@ -55,13 +55,13 @@
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
-- [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
+- [![Lê Thanh Nghị](https://img.shields.io/static/v1?label=L%C3%AA%20Thanh%20Ngh%E1%BB%8B&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20Thanh%20Ngh%E1%BB%8B)
+- [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
-- [![Myanmar biểu tình](https://img.shields.io/static/v1?label=Myanmar%20bi%E1%BB%83u%20t%C3%ACnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar%20bi%E1%BB%83u%20t%C3%ACnh)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cận cảnh hoa hồng đúc vàng giá 330 triệu đồng được đại gia Hải Phòng mua làm quà tặng ngày 8/3](https://cafebiz.vn/can-canh-hoa-hong-duc-vang-gia-330-trieu-dong-duoc-dai-gia-hai-phong-mua-lam-qua-tang-ngay-8-3-20210306134137271.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mitsubishi Attrage 2021 và Honda City 2021: Xe nào đáng mua?](https://laodong.vn/xe/mitsubishi-attrage-2021-va-honda-city-2021-xe-nao-dang-mua-886274.ldo) ([Lao Động](https://laodong.vn))
-- [Gara ô tô chật ních siêu xe của nữ doanh nhân cà phê bỗng xuất hiện một Honda Dream "lạc lõng"](https://cafebiz.vn/gara-o-to-chat-nich-sieu-xe-cua-nu-doanh-nhan-ca-phe-bong-xuat-hien-mot-honda-dream-lac-long-20210306144817827.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bỏ nước Mỹ về sống bên bờ biển, đây là cách một gia đình tìm thấy hạnh phúc](https://cafebiz.vn/bo-nuoc-my-ve-song-ben-bo-bien-day-la-cach-mot-gia-dinh-tim-thay-hanh-phuc-20210306133841535.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cận kề ngày 8.3, hoa hồng được quảng cáo mạ vàng giá siêu rẻ bán tràn lan](https://laodong.vn/kinh-te/can-ke-ngay-83-hoa-hong-duoc-quang-cao-ma-vang-gia-sieu-re-ban-tran-lan-886289.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất công dân đăng ký cư trú qua mạng](https://vnexpress.net/de-xuat-cong-dan-dang-ky-cu-tru-qua-mang-4244428.html) ([VNExpress](https://vnexpress.net))
-- [Cập nhật danh sách các trường Đại học xét học bạ năm 2021](https://laodong.vn/giao-duc/cap-nhat-danh-sach-cac-truong-dai-hoc-xet-hoc-ba-nam-2021-886364.ldo) ([Lao Động](https://laodong.vn))
-- [3 mỹ nhân Việt 25 tuổi nỗ lực không ngừng, để 10 năm sau xinh đẹp, giàu sang và hơn cả là một sự nghiệp thành công khiến ai cũng ngưỡng mộ](https://cafebiz.vn/3-my-nhan-viet-25-tuoi-no-luc-khong-ngung-de-10-nam-sau-xinh-dep-giau-sang-va-hon-ca-la-mot-su-nghiep-thanh-cong-khien-ai-cung-nguong-mo-20210306144634844.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tướng bắt đầu 'Đối thoại 2045': Lắng nghe tiếng nói từ giới tinh hoa](https://tuoitre.vn/thu-tuong-bat-dau-doi-thoai-2045-lang-nghe-tieng-noi-tu-gioi-tinh-hoa-20210306151257947.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bình Dương: Làm rõ vụ tai nạn chết người ngay phía trước cảng An Sơn](https://laodong.vn/giao-thong/binh-duong-lam-ro-vu-tai-nan-chet-nguoi-ngay-phia-truoc-cang-an-son-886362.ldo) ([Lao Động](https://laodong.vn))
+- [WHO sẽ công bố kết quả điều tra nguồn gốc Covid-19 vào giữa tháng 3](https://cafebiz.vn/who-se-cong-bo-ket-qua-dieu-tra-nguon-goc-covid-19-vao-giua-thang-3-20210306135511405.chn) ([CafeBiz](https://cafebiz.vn))
+- [Arsenal thành tích kém và thua lỗ: Mikel Arteta khó được như ý](https://laodong.vn/bong-da-quoc-te/arsenal-thanh-tich-kem-va-thua-lo-mikel-arteta-kho-duoc-nhu-y-886328.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;8.3 cũng như bao ngày bình thường khác&quot;](https://laodong.vn/xa-hoi/83-cung-nhu-bao-ngay-binh-thuong-khac-886380.ldo) ([Lao Động](https://laodong.vn))
+- [Nhà khảo cổ bỏ 1.800 NDT mua lại 'bó củi' từ một cụ già: Đây là bảo vật quốc gia, giá trị không dưới 100 triệu NDT!](https://cafebiz.vn/nha-khao-co-bo-1800-ndt-mua-lai-bo-cui-tu-mot-cu-gia-day-la-bao-vat-quoc-gia-gia-tri-khong-duoi-100-trieu-ndt-20210306150518072.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội thí điểm mô hình cứu nạn, cứu hộ trên sông Hồng](https://laodong.vn/xa-hoi/ha-noi-thi-diem-mo-hinh-cuu-nan-cuu-ho-tren-song-hong-886388.ldo) ([Lao Động](https://laodong.vn))
+- [Trung Quốc đặt mục tiêu thành 'siêu cường sản xuất' vào năm 2025](https://laodong.vn/the-gioi/trung-quoc-dat-muc-tieu-thanh-sieu-cuong-san-xuat-vao-nam-2025-886382.ldo) ([Lao Động](https://laodong.vn))
+- [Tiến sĩ Nguyễn Văn Khải đề nghị bãi bỏ chứng chỉ nghề nghiệp giáo viên](https://laodong.vn/ban-doc/tien-si-nguyen-van-khai-de-nghi-bai-bo-chung-chi-nghe-nghiep-giao-vien-886269.ldo) ([Lao Động](https://laodong.vn))
+- [10 đứa trẻ tự thân giàu nhất thế giới: Khi tài không đợi tuổi, người lớn nhìn vào đều phải trầm trồ ngưỡng mộ, nhất là em bé số 2](https://cafebiz.vn/10-dua-tre-tu-than-giau-nhat-the-gioi-khi-tai-khong-doi-tuoi-nguoi-lon-nhin-vao-deu-phai-tram-tro-nguong-mo-nhat-la-em-be-so-2-20210306134924197.chn) ([CafeBiz](https://cafebiz.vn))
+- [&quot;Thợ săn MH370&quot; thỉnh cầu cuộc tìm kiếm mới](https://laodong.vn/the-gioi/tho-san-mh370-thinh-cau-cuoc-tim-kiem-moi-886368.ldo) ([Lao Động](https://laodong.vn))
+- [Đề nghị truy tố cựu Tổng Giám đốc Sagri cùng 15 bị can](https://laodong.vn/phap-luat/de-nghi-truy-to-cuu-tong-giam-doc-sagri-cung-15-bi-can-886378.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
