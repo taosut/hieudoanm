@@ -194,7 +194,7 @@ export const buildREADME = async () => {
 <p align="center">VIETNAM 🇻🇳 RESTful APIs.</p>
 <p align="center">
   <a href="https://vietnamdb.herokuapp.com/api">APIs</a> -
-  <a href="https://vietnamdb.github.io/#/">Docs</a> -
+  <a href="https://vietnamdb.herokuapp.com/docs">Docs</a> -
   <a href="${masterRepo}/docs">CSV</a> -
   <a href="${masterRepo}/docs/stacks">Stacks</a>
 </p>
