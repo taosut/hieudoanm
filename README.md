@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 27°C.
 - Feels Like 28.71°C.
-- Air Visual is 144.
+- Air Visual is 124.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bắc Giang: Khởi tố nhóm đối tượng hành hung nam công nhân](https://laodong.vn/phap-luat/bac-giang-khoi-to-nhom-doi-tuong-hanh-hung-nam-cong-nhan-886334.ldo) ([Lao Động](https://laodong.vn))
+- [Đình Tú &quot;Hướng dương ngược nắng&quot; - Sao nam điển trai, thực lực của màn ảnh](https://laodong.vn/photo/dinh-tu-huong-duong-nguoc-nang-sao-nam-dien-trai-thuc-luc-cua-man-anh-886280.ldo) ([Lao Động](https://laodong.vn))
+- [Ấm lòng &quot;Gian hàng 0 đồng&quot; cho phụ nữ nghèo](https://laodong.vn/cong-doan/am-long-gian-hang-0-dong-cho-phu-nu-ngheo-886337.ldo) ([Lao Động](https://laodong.vn))
+- [Chân dung 2 Thứ trưởng Bộ Quốc phòng được giới thiệu ứng cử ĐBQH khoá XV](https://laodong.vn/thoi-su/chan-dung-2-thu-truong-bo-quoc-phong-duoc-gioi-thieu-ung-cu-dbqh-khoa-xv-886332.ldo) ([Lao Động](https://laodong.vn))
+- [Cổ phiếu Tesla bị bán tháo, Elon Musk mất 27 tỷ USD tuần này](https://cafebiz.vn/co-phieu-tesla-bi-ban-thao-elon-musk-mat-27-ty-usd-tuan-nay-20210306112848161.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ngao chết trắng đầm](https://vnexpress.net/ngao-chet-trang-dam-4244400.html) ([VNExpress](https://vnexpress.net))
 - [13 địa phương tiêm vaccine Covid-19 đợt đầu](https://vnexpress.net/13-dia-phuong-tiem-vaccine-covid-19-dot-dau-4244427.html) ([VNExpress](https://vnexpress.net))
 - [Tesla biến thành cơn ác mộng: Vốn hóa mất hơn 230 tỷ USD trong 4 tuần, cổ phiếu lao dốc khiến một loạt công ty 'ngã gục', các quỹ ETF rớt giá 'thảm'](https://cafebiz.vn/tesla-bien-thanh-con-ac-mong-von-hoa-mat-hon-230-ty-usd-trong-4-tuan-co-phieu-lao-doc-khien-mot-loat-cong-ty-nga-guc-cac-quy-etf-rot-gia-tham-20210306112332271.chn) ([CafeBiz](https://cafebiz.vn))
 - [Khánh Hòa: Dừng cấp nước sạch 2 ngày để sửa chữa đường ống bị vỡ](https://laodong.vn/xa-hoi/khanh-hoa-dung-cap-nuoc-sach-2-ngay-de-sua-chua-duong-ong-bi-vo-886335.ldo) ([Lao Động](https://laodong.vn))
-- [Phạm Hương, Tăng Thanh Hà và mỹ nhân Việt rời showbiz để lo cho &quot;tổ ấm nhỏ&quot;](https://laodong.vn/yeu-360/pham-huong-tang-thanh-ha-va-my-nhan-viet-roi-showbiz-de-lo-cho-to-am-nho-886308.ldo) ([Lao Động](https://laodong.vn))
 - [Nghiệt ngã quá](https://laodong.vn/su-kien-binh-luan/nghiet-nga-qua-886285.ldo) ([Lao Động](https://laodong.vn))
-- [Doanh nhân Phạm Đức Tiệp ra mắt 2 cuốn sách Marketing](https://laodong.vn/thong-tin-doanh-nghiep/doanh-nhan-pham-duc-tiep-ra-mat-2-cuon-sach-marketing-885651.ldo) ([Lao Động](https://laodong.vn))
-- [Bị tố gửi clip nhạy cảm cho nhân viên nữ, hiệu trưởng bảo việc này là do vợ làm](https://tuoitre.vn/bi-to-gui-clip-nhay-cam-cho-nhan-vien-nu-hieu-truong-bao-viec-nay-la-do-vo-lam-20210306124155039.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Vẫn loay hoay giải bài toán xử lý rác thải ở Phú Quốc](https://laodong.vn/xa-hoi/van-loay-hoay-giai-bai-toan-xu-ly-rac-thai-o-phu-quoc-886309.ldo) ([Lao Động](https://laodong.vn))
-- ["Bí mật" đằng sau những chiến dịch tiêm vaccine ngừa COVID-19 thành công trên thế giới](https://cafebiz.vn/bi-mat-dang-sau-nhung-chien-dich-tiem-vaccine-ngua-covid-19-thanh-cong-tren-the-gioi-20210306133212337.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [10 Sự "lươn lẹo" để thấy đời không như là mơ](https://vietcetera.com/vn/10-loi-noi-doi-de-thay-cuoc-song-la-nhung-cu-lua)
 - [5 Phim hành động Netflix cho cuối tuần thêm "gay cấn"](https://vietcetera.com/vn/5-phim-hanh-dong-netflix-cho-cuoi-tuan-them-gay-can)
 - [Loay hoay tìm nguồn cơn và cách thoát khỏi hố đen trầm cảm](https://vietcetera.com/vn/loay-hoay-tim-nguon-con-va-cach-thoat-khoi-ho-den-tram-cam)
 - [The Queen's Gambit: Thiên tài cô đơn trong thế giới của những người cô đơn](https://vietcetera.com/vn/the-queens-gambit-thien-tai-co-don-trong-the-gioi-cua-nhung-nguoi-co-don)
@@ -105,7 +106,6 @@
 - [Tóm Lại Là: Rich kid có phải thế hệ phô trương?](https://vietcetera.com/vn/tom-lai-la-rich-kid-la-the-he-pho-truong)
 - [Phương Vũ và những nguyên tắc cho người trẻ làm sáng tạo](https://vietcetera.com/vn/phuong-vu-va-nhung-nguyen-tac-cho-nguoi-tre-lam-sang-tao)
 - [Chữ Với Nghĩa: Dảk bủh - Trò đùa từ lỗi Telex](https://vietcetera.com/vn/chu-voi-nghia-dak-buh-tro-dua)
-- [4 Lầm tưởng thường gặp về sự tập trung](https://vietcetera.com/vn/4-lam-tuong-thuong-gap-ve-su-tap-trung)
 
 [Read More](https://vietcetera.com/)
 
