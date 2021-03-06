@@ -21,8 +21,8 @@
 
 - Current weather is overcast clouds.
 - Temperature is 24°C.
-- Feels Like 25.76°C.
-- Air Visual is 95.
+- Feels Like 26.48°C.
+- Air Visual is 109.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nổi tiếng nhờ loạt clip livestream, anh nông dân được mệnh danh "Vua Táo" mở bán khóa học trồng cây trực tuyến và cái kết gây sửng sốt](https://cafebiz.vn/noi-tieng-nho-loat-clip-livestream-anh-nong-dan-duoc-menh-danh-vua-tao-mo-ban-khoa-hoc-trong-cay-truc-tuyen-va-cai-ket-gay-sung-sot-20210306191210117.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tập đoàn Hoa Sen: Vụ cháy ở nhà máy Bình Dương không ảnh hưởng đến hoạt động sản xuất kinh doanh của tập đoàn](https://vtv.vn/xa-hoi/tap-doan-hoa-sen-vu-chay-o-nha-may-binh-duong-khong-anh-huong-den-hoat-dong-san-xuat-kinh-doanh-cua-tap-doan-20210306204603357.htm) ([VTV](https://vtv.vn))
-- [Cuộc đua vào lớp 6 nóng, phụ huynh lớp 2 nháo nhào tìm &quot;lò luyện thi&quot;](https://laodong.vn/giao-duc/cuoc-dua-vao-lop-6-nong-phu-huynh-lop-2-nhao-nhao-tim-lo-luyen-thi-886339.ldo) ([Lao Động](https://laodong.vn))
-- [Nghệ An sẽ xử xe 'dù', nhưng xe khách tiếp tục 'đình công' sẽ thu hồi giấy phép](https://tuoitre.vn/nghe-an-se-xu-xe-du-nhung-xe-khach-tiep-tuc-dinh-cong-se-thu-hoi-giay-phep-20210306171741168.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Ông Đỗ Minh Phú: 4 từ khoá để 'cởi trói' cho kinh tế tư nhân](https://cafebiz.vn/ong-do-minh-phu-4-tu-khoa-de-coi-troi-cho-kinh-te-tu-nhan-202103061915596.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những thủ tục khi sang tên xe máy cũ bạn nên biết](https://laodong.vn/xe/nhung-thu-tuc-khi-sang-ten-xe-may-cu-ban-nen-biet-886369.ldo) ([Lao Động](https://laodong.vn))
-- [Biệt thự cổ xưa rộng 500m2 của gia đình ca sĩ Long Nhật tại Huế](https://laodong.vn/bat-dong-san/biet-thu-co-xua-rong-500m2-cua-gia-dinh-ca-si-long-nhat-tai-hue-886446.ldo) ([Lao Động](https://laodong.vn))
-- [Vũ Như Thành dành 3 tuần để học hỏi thầy Park Hang-seo huấn luyện](https://laodong.vn/bong-da/vu-nhu-thanh-danh-3-tuan-de-hoc-hoi-thay-park-hang-seo-huan-luyen-886417.ldo) ([Lao Động](https://laodong.vn))
-- [Có gì đặc biệt trong bảng điện mới mà HNX chạy thử cho cổ phiếu từ HOSE?](https://laodong.vn/kinh-te/co-gi-dac-biet-trong-bang-dien-moi-ma-hnx-chay-thu-cho-co-phieu-tu-hose-886443.ldo) ([Lao Động](https://laodong.vn))
-- [Phó TGĐ Vingroup Võ Quang Huệ: VinFast đang bước sang giai đoạn phát triển mới](https://cafebiz.vn/pho-tgd-vingroup-vo-quang-hue-vinfast-dang-buoc-sang-giai-doan-phat-trien-moi-20210306191900018.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tài sản tỉ phú Elon Musk “bay” 27 tỉ USD khi cổ phiếu công nghệ đổ dốc](https://laodong.vn/kinh-te/tai-san-ti-phu-elon-musk-bay-27-ti-usd-khi-co-phieu-cong-nghe-do-doc-886462.ldo) ([Lao Động](https://laodong.vn))
+- [Dự luật “siêu tỉ phú” đánh thẳng ví tiền Jeff Bezos, Elon Musk, Bill Gates](https://laodong.vn/kinh-te/du-luat-sieu-ti-phu-danh-thang-vi-tien-jeff-bezos-elon-musk-bill-gates-886454.ldo) ([Lao Động](https://laodong.vn))
+- [Đại dịch đã thay đổi thói quen tiêu xài của giới siêu giàu ra sao?](https://cafebiz.vn/dai-dich-da-thay-doi-thoi-quen-tieu-xai-cua-gioi-sieu-giau-ra-sao-20210306194313863.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hoa ban nở trắng tại Ciputra: Chụp ảnh &quot;quên&quot; phòng dịch?](https://laodong.vn/xa-hoi/hoa-ban-no-trang-tai-ciputra-chup-anh-quen-phong-dich-886428.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt giữ xe tải chở gỗ không rõ nguồn gốc](https://laodong.vn/phap-luat/bat-giu-xe-tai-cho-go-khong-ro-nguon-goc-886389.ldo) ([Lao Động](https://laodong.vn))
+- [BIDV cảm ơn khách hàng nữ với hàng ngàn quà tặng](https://laodong.vn/kinh-te/bidv-cam-on-khach-hang-nu-voi-hang-ngan-qua-tang-886404.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Phong toả khách sạn có 35 người Trung Quốc nghi nhập cảnh trái phép](https://laodong.vn/xa-hoi/tphcm-phong-toa-khach-san-co-35-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-886451.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng: Đến năm 2045 sẽ xuất hiện các tập đoàn khổng lồ của Việt Nam](https://laodong.vn/thoi-su/thu-tuong-den-nam-2045-se-xuat-hien-cac-tap-doan-khong-lo-cua-viet-nam-886456.ldo) ([Lao Động](https://laodong.vn))
+- [Biết giao thầu đất sai quy định nhưng vẫn kệ vì &quot;tập thể thống nhất cao&quot;](https://laodong.vn/bat-dong-san/biet-giao-thau-dat-sai-quy-dinh-nhung-van-ke-vi-tap-the-thong-nhat-cao-884729.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương sẽ tiêm vắc xin phòng COVID-19 cho 40.000 người](https://cafebiz.vn/hai-duong-se-tiem-vac-xin-phong-covid-19-cho-40000-nguoi-20210306194638092.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
