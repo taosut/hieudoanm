@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 24°C.
-- Feels Like 25.27°C.
-- Air Visual is 129.
+- Current weather is few clouds.
+- Temperature is 26°C.
+- Feels Like 27.03°C.
+- Air Visual is 131.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [U22 Indonesia giành chiến thắng ở “trận cầu lịch sử”](https://laodong.vn/the-thao/u22-indonesia-gianh-chien-thang-o-tran-cau-lich-su-886323.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút: &quot;Siêu trái đất&quot; mới giúp săn tìm sự sống ngoài hành tinh](https://laodong.vn/video/ban-tin-1-phut-sieu-trai-dat-moi-giup-san-tim-su-song-ngoai-hanh-tinh-886298.ldo) ([Lao Động](https://laodong.vn))
+- [Nhà đầu tư Anh thông tin việc bị doanh nghiệp Việt kiện đòi bồi thường 20 tỉ euro](https://tuoitre.vn/nha-dau-tu-anh-thong-tin-viec-bi-doanh-nghiep-viet-kien-doi-boi-thuong-20-ti-euro-20210306120723056.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chuyển động đầu tiên của tàu vũ trụ NASA trên bề mặt sao Hỏa](https://laodong.vn/the-gioi/chuyen-dong-dau-tien-cua-tau-vu-tru-nasa-tren-be-mat-sao-hoa-886325.ldo) ([Lao Động](https://laodong.vn))
+- [Khống chế kịp thời vụ hỏa hoạn trong nhà máy tôn đang sửa chữa ở Bình Dương](https://laodong.vn/xa-hoi/khong-che-kip-thoi-vu-hoa-hoan-trong-nha-may-ton-dang-sua-chua-o-binh-duong-886315.ldo) ([Lao Động](https://laodong.vn))
+- [Hơn 110 tỉ đồng chăm lo cho công nhân lao động dịp trước và sau Tết](https://laodong.vn/cong-doan/hon-110-ti-dong-cham-lo-cho-cong-nhan-lao-dong-dip-truoc-va-sau-tet-886307.ldo) ([Lao Động](https://laodong.vn))
+- [Hộ khẩu tỉnh khác, có được làm căn cước công dân gắn chip ở Hà Nội?](https://laodong.vn/phap-luat/ho-khau-tinh-khac-co-duoc-lam-can-cuoc-cong-dan-gan-chip-o-ha-noi-886304.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam có thể xây dựng những doanh nghiệp lớn như Hàn Quốc để nền kinh tế 'cất cánh'](https://cafebiz.vn/viet-nam-co-the-xay-dung-nhung-doanh-nghiep-lon-nhu-han-quoc-de-nen-kinh-te-cat-canh-20210306121030362.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Cò' đất bay qua, nước mắt ở lại](https://cafebiz.vn/co-dat-bay-qua-nuoc-mat-o-lai-20210306120735288.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cha mẹ có 5 tầng, dạy dỗ ra 5 kiểu con cái, tạo nên 5 cuộc đời khác biệt: Bạn thuộc kiểu cha mẹ nào?](https://cafebiz.vn/cha-me-co-5-tang-day-do-ra-5-kieu-con-cai-tao-nen-5-cuoc-doi-khac-biet-ban-thuoc-kieu-cha-me-nao-20210305162400188.chn) ([CafeBiz](https://cafebiz.vn))
-- [TP.HCM kiến nghị sớm giao đất quốc phòng để mở đường nối khu sân bay Tân Sơn Nhất](https://tuoitre.vn/tphcm-kien-nghi-som-giao-dat-quoc-phong-de-mo-duong-noi-khu-san-bay-tan-son-nhat-20210306105439084.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hà Nội: Công nhân miệt mài làm việc trên đại dự án cầu Vĩnh Tuy 2](https://laodong.vn/xa-hoi/ha-noi-cong-nhan-miet-mai-lam-viec-tren-dai-du-an-cau-vinh-tuy-2-886282.ldo) ([Lao Động](https://laodong.vn))
-- [NSƯT Chí Trung cùng nhiều nghệ sĩ ngậm ngùi tiễn biệt &quot;bố&quot; Trần Hạnh](https://laodong.vn/photo/nsut-chi-trung-cung-nhieu-nghe-si-ngam-ngui-tien-biet-bo-tran-hanh-886287.ldo) ([Lao Động](https://laodong.vn))
-- ['Tường lốp' cứu nạn trên những cung đường đèo dốc](https://vnexpress.net/tuong-lop-cuu-nan-tren-nhung-cung-duong-deo-doc-4243437.html) ([VNExpress](https://vnexpress.net))
-- [Giá giường Bệnh viện Bạch Mai lên tới 3,3 triệu đồng: Bộ Y tế chỉ đạo gì?](https://laodong.vn/y-te/gia-giuong-benh-vien-bach-mai-len-toi-33-trieu-dong-bo-y-te-chi-dao-gi-886252.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Trương Gia Bình nhận thù lao 0 đồng, CEO FPT nhận lương hơn 3,5 tỷ đồng nhưng không đáng là bao so với ESOP](https://cafebiz.vn/ong-truong-gia-binh-nhan-thu-lao-0-dong-ceo-fpt-nhan-luong-hon-35-ty-dong-nhung-khong-dang-la-bao-so-voi-esop-20210306113444311.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đi làm lương "ba cọc ba đồng", ông Đoàn Ngọc Hải lấy tiền tỷ từ đâu mà đi từ thiện?](https://cafebiz.vn/di-lam-luong-ba-coc-ba-dong-ong-doan-ngoc-hai-lay-tien-ty-tu-dau-ma-di-tu-thien-20210306113435942.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Ông chủ' khu du lịch sưu tập hơn 500 chiếc xe máy cổ có '1 không 2', biển đẹp hàng đầu](https://cafebiz.vn/ong-chu-khu-du-lich-suu-tap-hon-500-chiec-xe-may-co-co-1-khong-2-bien-dep-hang-dau-20210306113336357.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lễ trao giải Grammy lần thứ 63 ấn định ngày tổ chức](https://laodong.vn/giai-tri/le-trao-giai-grammy-lan-thu-63-an-dinh-ngay-to-chuc-886303.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
