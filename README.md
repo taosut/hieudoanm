@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is light intensity drizzle.
-- Temperature is 20°C.
-- Feels Like 21.79°C.
-- Air Visual is 164.
+- Current weather is mist.
+- Temperature is 21°C.
+- Feels Like 23.25°C.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Hàn Quốc mong cầu thủ Việt Nam và Thái Lan cùng sang K.League](https://laodong.vn/bong-da/han-quoc-mong-cau-thu-viet-nam-va-thai-lan-cung-sang-kleague-886192.ldo) ([Lao Động](https://laodong.vn))
-- [Giới nhà giàu như Bill Gates sợ nhất điều gì?](https://cafebiz.vn/gioi-nha-giau-nhu-bill-gates-so-nhat-dieu-gi-20210305145912424.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mất sổ hồng có được cấp lại và cần những giấy tờ gì?](https://laodong.vn/tu-van-phap-luat/mat-so-hong-co-duoc-cap-lai-va-can-nhung-giay-to-gi-885761.ldo) ([Lao Động](https://laodong.vn))
-- [TEDI khẳng định vị thế qua mỗi công trình](https://laodong.vn/doanh-nghiep-doanh-nhan/tedi-khang-dinh-vi-the-qua-moi-cong-trinh-886152.ldo) ([Lao Động](https://laodong.vn))
-- [OPEC+ gây sốc thị trường, giá dầu tăng vọt lên sát 70USD/thùng](https://cafebiz.vn/opec-gay-soc-thi-truong-gia-dau-tang-vot-len-sat-70usd-thung-20210306075448938.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tổng cục Du lịch: Xem xét mở cửa thị trường du lịch quốc tế khi điều kiện cho phép](https://cafebiz.vn/tong-cuc-du-lich-xem-xet-mo-cua-thi-truong-du-lich-quoc-te-khi-dieu-kien-cho-phep-20210306075203518.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cuối tuần tại Nam Bộ nắng nóng đỉnh điểm, nhiệt độ có thể đạt 37 độ C](https://laodong.vn/moi-truong/cuoi-tuan-tai-nam-bo-nang-nong-dinh-diem-nhiet-do-co-the-dat-37-do-c-886232.ldo) ([Lao Động](https://laodong.vn))
-- [Ngày 8/3 bắt đầu tiêm vắc-xin COVID-19](https://cafebiz.vn/ngay-8-3-bat-dau-tiem-vac-xin-covid-19-202103060749031.chn) ([CafeBiz](https://cafebiz.vn))
-- [Gió mùa đông bắc tràn xuống nước ta](https://cafebiz.vn/gio-mua-dong-bac-tran-xuong-nuoc-ta-20210306074639609.chn) ([CafeBiz](https://cafebiz.vn))
-- [Việt Nam ghi nhận 7 ca mắc Covid-19 mới, 6 ca là F1, 1 ca nhập cảnh ở Thái Nguyên](https://cafebiz.vn/viet-nam-ghi-nhan-7-ca-mac-covid-19-moi-6-ca-la-f1-1-ca-nhap-canh-o-thai-nguyen-20210306074309062.chn) ([CafeBiz](https://cafebiz.vn))
+- [GS Nguyễn Anh Trí: 'Tôi đang chuẩn bị hồ sơ tự ứng cử lần hai'](https://vnexpress.net/gs-nguyen-anh-tri-toi-dang-chuan-bi-ho-so-tu-ung-cu-lan-hai-4243958.html) ([VNExpress](https://vnexpress.net))
+- [Chân dung thế hệ F1 của 'bông hồng thép' ngành cơ điện Nguyễn Thị Mai Thanh: Giỏi giang chung vai gánh vác cơ nghiệp cùng mẹ, mẹ vừa là sếp vừa là thầy](https://cafebiz.vn/chan-dung-the-he-f1-cua-bong-hong-thep-nganh-co-dien-nguyen-thi-mai-thanh-gioi-giang-chung-vai-ganh-vac-co-nghiep-cung-me-me-vua-la-sep-vua-la-thay-20210304140233733.chn) ([CafeBiz](https://cafebiz.vn))
+- [CĐ viên chức tỉnh Ninh Bình: Chung tay giải cứu nông sản Hải Dương](https://laodong.vn/cong-doan/cd-vien-chuc-tinh-ninh-binh-chung-tay-giai-cuu-nong-san-hai-duong-886223.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Bình: Khởi tố một trạm trưởng Trạm quản lý bảo vệ rừng](https://laodong.vn/phap-luat/quang-binh-khoi-to-mot-tram-truong-tram-quan-ly-bao-ve-rung-886239.ldo) ([Lao Động](https://laodong.vn))
+- [Chứng kiến tuần tồi tệ nhất trong 6 tháng, vốn hoá cổ phiếu công nghệ 'bốc hơi' 1,6 nghìn tỷ USD](https://cafebiz.vn/chung-kien-tuan-toi-te-nhat-trong-6-thang-von-hoa-co-phieu-cong-nghe-boc-hoi-16-nghin-ty-usd-20210306084728402.chn) ([CafeBiz](https://cafebiz.vn))
+- [LĐLĐ tỉnh Điện Biên tổ chức hội nghị cán bộ, công chức năm 2021](https://laodong.vn/ldld-dien-bien/ldld-tinh-dien-bien-to-chuc-hoi-nghi-can-bo-cong-chuc-nam-2021-886208.ldo) ([Lao Động](https://laodong.vn))
+- [Thị trường BĐS 2 tháng đầu năm 2021 có những điểm sáng nào?](https://cafebiz.vn/thi-truong-bds-2-thang-dau-nam-2021-co-nhung-diem-sang-nao-20210306084204379.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quy định đóng bảo hiểm xã hội một lần để về hưu sớm](https://laodong.vn/ban-doc/quy-dinh-dong-bao-hiem-xa-hoi-mot-lan-de-ve-huu-som-886210.ldo) ([Lao Động](https://laodong.vn))
+- [Eximbank đã bị bỏ lại phía sau như thế nào?](https://cafebiz.vn/eximbank-da-bi-bo-lai-phia-sau-nhu-the-nao-20210306083909827.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuyển động nhân sự ở cao tầng Coteccons: Ông Võ Thanh Liêm chính thức rời vị trí Quyền Tổng Giám đốc, bổ sung thêm 2 Phó Tổng mới](https://cafebiz.vn/chuyen-dong-nhan-su-o-cao-tang-coteccons-ong-vo-thanh-liem-chinh-thuc-roi-vi-tri-quyen-tong-giam-doc-bo-sung-them-2-pho-tong-moi-20210305174851277.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
