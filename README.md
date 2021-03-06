@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 21°C.
-- Feels Like 23.25°C.
-- Air Visual is 109.
+- Temperature is 23°C.
+- Feels Like 24.87°C.
+- Air Visual is 138.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Vì sao Tesla vẫn chưa hoàn toàn thống trị được thị trường ô tô điện Trung Quốc?](https://cafebiz.vn/vi-sao-tesla-van-chua-hoan-toan-thong-tri-duoc-thi-truong-o-to-dien-trung-quoc-20210306085445118.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xây dựng doanh nghiệp với máy in vải kỹ thuật số của Epson](https://cafebiz.vn/xay-dung-doanh-nghiep-voi-may-in-vai-ky-thuat-so-cua-epson-20210305160429703.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mong ước trong ngày 8.3: Nữ công nhân không chỉ cần mỗi thu nhập](https://laodong.vn/cong-doan/mong-uoc-trong-ngay-83-nu-cong-nhan-khong-chi-can-moi-thu-nhap-886160.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương lập đội xử lý tình trạng khẩn cấp về y tế ở Kinh Môn để chống dịch COVID-19](https://tuoitre.vn/hai-duong-lap-doi-xu-ly-tinh-trang-khan-cap-ve-y-te-o-kinh-mon-de-chong-dich-covid-19-20210306093524029.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [La Liga giảm lương: Barcelona, Atletico chỉ biết ước khi nhìn Real Madrid](https://laodong.vn/bong-da-quoc-te/la-liga-giam-luong-barcelona-atletico-chi-biet-uoc-khi-nhin-real-madrid-886195.ldo) ([Lao Động](https://laodong.vn))
-- [Cao tốc ngàn tỉ nối Thừa Thiên Huế - Đà Nẵng dự kiến quý 2.2021 thông xe](https://laodong.vn/xa-hoi/cao-toc-ngan-ti-noi-thua-thien-hue-da-nang-du-kien-quy-22021-thong-xe-886230.ldo) ([Lao Động](https://laodong.vn))
-- [Công ty đầu tiên đề xuất chuyển giao dịch từ sàn HOSE sang HNX](https://cafebiz.vn/cong-ty-dau-tien-de-xuat-chuyen-giao-dich-tu-san-hose-sang-hnx-20210306095350812.chn) ([CafeBiz](https://cafebiz.vn))
-- [Có bị mất quyền sở hữu nếu vợ hoặc chồng một mình đứng tên sổ đỏ?](https://laodong.vn/bat-dong-san/co-bi-mat-quyen-so-huu-neu-vo-hoac-chong-mot-minh-dung-ten-so-do-886246.ldo) ([Lao Động](https://laodong.vn))
-- [Bốn trường hợp không được làm kế toán](https://laodong.vn/ban-doc/bon-truong-hop-khong-duoc-lam-ke-toan-886242.ldo) ([Lao Động](https://laodong.vn))
-- [Nhóm quỹ thuộc Dragon Capital muốn bán lượng cổ phiếu ACB trị giá hơn 3.300 tỷ đồng](https://cafebiz.vn/nhom-quy-thuoc-dragon-capital-muon-ban-luong-co-phieu-acb-tri-gia-hon-3300-ty-dong-20210306093306238.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những người phụ nữ góp phần thay đổi ngành công nghiệp xe hơi](https://cafebiz.vn/nhung-nguoiphu-nu-gop-phan-thay-doi-nganh-cong-nghiep-xe-hoi-2021030608585532.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhà khoa học nữ về virus trở thành gương mặt trẻ Thủ đô tiêu biểu năm 2020](https://laodong.vn/video/nha-khoa-hoc-nu-ve-virus-tro-thanh-guong-mat-tre-thu-do-tieu-bieu-nam-2020-885943.ldo) ([Lao Động](https://laodong.vn))
+- [Sức hút vững bền từ “thị xã trong sương” Sa Pa](https://laodong.vn/kinh-te/suc-hut-vung-ben-tu-thi-xa-trong-suong-sa-pa-886000.ldo) ([Lao Động](https://laodong.vn))
+- [Hậu Giang: Mang không khí ngày 8.3 đến với nữ CNVCLĐ huyện vùng sâu](https://laodong.vn/ldld-hau-giang/hau-giang-mang-khong-khi-ngay-83-den-voi-nu-cnvcld-huyen-vung-sau-886263.ldo) ([Lao Động](https://laodong.vn))
+- [Nguyên nhân nào dẫn tới hiện tượng rùng mình?](https://laodong.vn/suc-khoe/nguyen-nhan-nao-dan-toi-hien-tuong-rung-minh-885716.ldo) ([Lao Động](https://laodong.vn))
+- [Một số mẫu xe giá từ  700-800 triệu bạn có thể tham khảo](https://laodong.vn/xe/mot-so-mau-xe-gia-tu-700-800-trieu-ban-co-the-tham-khao-886244.ldo) ([Lao Động](https://laodong.vn))
+- [Hô hào giá lên 2.000 USD, vị tỷ phú này vừa bán 1,8 triệu cổ phiếu Tesla](https://cafebiz.vn/ho-hao-gia-len-2000-usd-vi-ty-phu-nay-vua-ban-18-trieu-co-phieu-tesla-20210306085006306.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lãi suất huy động bất ngờ tăng mạnh tại một số ngân hàng](https://cafebiz.vn/lai-suat-huy-dong-bat-ngo-tang-manh-tai-mot-so-ngan-hang-20210306101916016.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vì sao Văn Hậu phải trải qua cuộc hội chẩn chấn thương chưa từng có tiền lệ?](https://cafebiz.vn/vi-sao-van-hau-phai-trai-qua-cuoc-hoi-chan-chan-thuong-chua-tung-co-tien-le-20210306101805118.chn) ([CafeBiz](https://cafebiz.vn))
+- [Học cách yêu bản thân từ những điều giản đơn và tập mở lòng hơn vì bạn là người xứng đáng](https://cafebiz.vn/hoc-cach-yeu-ban-than-tu-nhung-dieu-gian-don-va-tap-mo-long-hon-vi-ban-la-nguoi-xung-dang-2021030511024527.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
