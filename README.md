@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is scattered clouds.
 - Temperature is 27°C.
-- Feels Like 28.36°C.
-- Air Visual is 120.
+- Feels Like 27.99°C.
+- Air Visual is 130.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Vì sao bạn thường háo hức đặt mục tiêu lớn nhưng rồi không thực hiện được?](https://cafebiz.vn/vi-sao-ban-thuong-hao-huc-dat-muc-tieu-lon-nhung-roi-khong-thuc-hien-duoc-20210305165219535.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cuộc đời thăng trầm của Thương Tín và các nghệ sĩ gạo cội đóng chung phim](https://laodong.vn/photo/cuoc-doi-thang-tram-cua-thuong-tin-va-cac-nghe-si-gao-coi-dong-chung-phim-886288.ldo) ([Lao Động](https://laodong.vn))
-- [Sự nghiệp của Phương Mỹ Chi, Erik và dàn sao &quot;Giọng hát Việt nhí&quot; sau 8 năm](https://laodong.vn/van-hoa/su-nghiep-cua-phuong-my-chi-erik-va-dan-sao-giong-hat-viet-nhi-sau-8-nam-886344.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ tịch Hội Ung thư: Người Việt có 2 thói quen cực xấu, làm cả 2 cùng lúc nguy cơ ung thư tăng rất cao](https://cafebiz.vn/chu-tich-hoi-ung-thu-nguoi-viet-co-2-thoi-quen-cuc-xau-lam-ca-2-cung-luc-nguy-co-ung-thu-tang-rat-cao-20210306145932678.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhiều trường Đại học thông báo lịch đi học trở lại của sinh viên](https://laodong.vn/giao-duc/nhieu-truong-dai-hoc-thong-bao-lich-di-hoc-tro-lai-cua-sinh-vien-886358.ldo) ([Lao Động](https://laodong.vn))
-- [Thầy Park chọn ai nếu Văn Hậu vắng mặt ở đội tuyển Việt Nam?](https://laodong.vn/bong-da/thay-park-chon-ai-neu-van-hau-vang-mat-o-doi-tuyen-viet-nam-886336.ldo) ([Lao Động](https://laodong.vn))
-- [Cà Mau: Kéo cào lưới xong, bơi về tàu, một thuyền viên tử vong](https://laodong.vn/xa-hoi/ca-mau-keo-cao-luoi-xong-boi-ve-tau-mot-thuyen-vien-tu-vong-886361.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt được trăn gấm nặng 7 kg trong đống rơm](https://vnexpress.net/bat-duoc-tran-gam-nang-7-kg-trong-dong-rom-4244395.html) ([VNExpress](https://vnexpress.net))
-- [[Đọc gấp]: Bộ sách quản trị khách sạn giúp người làm dịch vụ vượt qua khủng hoảng thời covid-19](https://cafebiz.vn/doc-gap-bo-sach-quan-tri-khach-san-giup-nguoi-lam-dich-vu-vuot-qua-khung-hoang-thoi-covid-19-20210306144107982.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hoa Sen Group (HSG) lên tiếng về vụ cháy nhà máy tại KCN Sóng Thần II](https://cafebiz.vn/hoa-sen-group-hsg-len-tieng-ve-vu-chay-nha-may-tai-kcn-song-than-ii-20210306142434894.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đề xuất công dân đăng ký cư trú qua mạng](https://vnexpress.net/de-xuat-cong-dan-dang-ky-cu-tru-qua-mang-4244428.html) ([VNExpress](https://vnexpress.net))
+- [Cập nhật danh sách các trường Đại học xét học bạ năm 2021](https://laodong.vn/giao-duc/cap-nhat-danh-sach-cac-truong-dai-hoc-xet-hoc-ba-nam-2021-886364.ldo) ([Lao Động](https://laodong.vn))
+- [3 mỹ nhân Việt 25 tuổi nỗ lực không ngừng, để 10 năm sau xinh đẹp, giàu sang và hơn cả là một sự nghiệp thành công khiến ai cũng ngưỡng mộ](https://cafebiz.vn/3-my-nhan-viet-25-tuoi-no-luc-khong-ngung-de-10-nam-sau-xinh-dep-giau-sang-va-hon-ca-la-mot-su-nghiep-thanh-cong-khien-ai-cung-nguong-mo-20210306144634844.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tướng bắt đầu 'Đối thoại 2045': Lắng nghe tiếng nói từ giới tinh hoa](https://tuoitre.vn/thu-tuong-bat-dau-doi-thoai-2045-lang-nghe-tieng-noi-tu-gioi-tinh-hoa-20210306151257947.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bình Dương: Làm rõ vụ tai nạn chết người ngay phía trước cảng An Sơn](https://laodong.vn/giao-thong/binh-duong-lam-ro-vu-tai-nan-chet-nguoi-ngay-phia-truoc-cang-an-son-886362.ldo) ([Lao Động](https://laodong.vn))
+- [Barcelona: 3 ứng viên Chủ tịch công kích nhau trước ngày bầu cử](https://laodong.vn/bong-da-quoc-te/barcelona-3-ung-vien-chu-tich-cong-kich-nhau-truoc-ngay-bau-cu-886345.ldo) ([Lao Động](https://laodong.vn))
+- [Tàu du lịch 5 sao lật nghiêng khi neo đậu](https://vnexpress.net/tau-du-lich-5-sao-lat-nghieng-khi-neo-dau-4244457.html) ([VNExpress](https://vnexpress.net))
+- [Ùn tắc kéo dài nhiều giờ trên đường ĐT 743 ở Bình Dương](https://laodong.vn/xa-hoi/un-tac-keo-dai-nhieu-gio-tren-duong-dt-743-o-binh-duong-886349.ldo) ([Lao Động](https://laodong.vn))
+- [Nhân dân tệ kỹ thuật số sẽ là "quả bom" khiến Bitcoin và thị trường tiền số rung chuyển?](https://cafebiz.vn/nhan-dan-te-ky-thuat-so-se-la-qua-bom-khien-bitcoin-va-thi-truong-tien-so-rung-chuyen-20210306133548083.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hé lộ tình tiết bất ngờ vụ nổ súng ở Cần Thơ](https://laodong.vn/phap-luat/he-lo-tinh-tiet-bat-ngo-vu-no-sung-o-can-tho-886341.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
