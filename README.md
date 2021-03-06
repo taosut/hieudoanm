@@ -49,24 +49,24 @@
 **GOOGLE TRENDS**
 
 - [![AC Milan](https://img.shields.io/static/v1?label=AC%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AC%20Milan)
-- [![Attack On Titan chap 138](https://img.shields.io/static/v1?label=Attack%20On%20Titan%20chap%20138&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Attack%20On%20Titan%20chap%20138)
 - [![Biểu tình ở Myanmar](https://img.shields.io/static/v1?label=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
-- [![Inter Milan](https://img.shields.io/static/v1?label=Inter%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter%20Milan)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
+- [![Lê Thanh Nghị](https://img.shields.io/static/v1?label=L%C3%AA%20Thanh%20Ngh%E1%BB%8B&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20Thanh%20Ngh%E1%BB%8B)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![Myanmar biểu tình](https://img.shields.io/static/v1?label=Myanmar%20bi%E1%BB%83u%20t%C3%ACnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar%20bi%E1%BB%83u%20t%C3%ACnh)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
 - [![Valencia](https://img.shields.io/static/v1?label=Valencia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Valencia)
+- [![Vietravel Airlines](https://img.shields.io/static/v1?label=Vietravel%20Airlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietravel%20Airlines)
 - [![Văn Mai Hương](https://img.shields.io/static/v1?label=V%C4%83n%20Mai%20H%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20Mai%20H%C6%B0%C6%A1ng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Vì sao bạn thường háo hức đặt mục tiêu lớn nhưng rồi không thực hiện được?](https://cafebiz.vn/vi-sao-ban-thuong-hao-huc-dat-muc-tieu-lon-nhung-roi-khong-thuc-hien-duoc-20210305165219535.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cuộc đời thăng trầm của Thương Tín và các nghệ sĩ gạo cội đóng chung phim](https://laodong.vn/photo/cuoc-doi-thang-tram-cua-thuong-tin-va-cac-nghe-si-gao-coi-dong-chung-phim-886288.ldo) ([Lao Động](https://laodong.vn))
+- [Sự nghiệp của Phương Mỹ Chi, Erik và dàn sao &quot;Giọng hát Việt nhí&quot; sau 8 năm](https://laodong.vn/van-hoa/su-nghiep-cua-phuong-my-chi-erik-va-dan-sao-giong-hat-viet-nhi-sau-8-nam-886344.ldo) ([Lao Động](https://laodong.vn))
+- [Chủ tịch Hội Ung thư: Người Việt có 2 thói quen cực xấu, làm cả 2 cùng lúc nguy cơ ung thư tăng rất cao](https://cafebiz.vn/chu-tich-hoi-ung-thu-nguoi-viet-co-2-thoi-quen-cuc-xau-lam-ca-2-cung-luc-nguy-co-ung-thu-tang-rat-cao-20210306145932678.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhiều trường Đại học thông báo lịch đi học trở lại của sinh viên](https://laodong.vn/giao-duc/nhieu-truong-dai-hoc-thong-bao-lich-di-hoc-tro-lai-cua-sinh-vien-886358.ldo) ([Lao Động](https://laodong.vn))
+- [Thầy Park chọn ai nếu Văn Hậu vắng mặt ở đội tuyển Việt Nam?](https://laodong.vn/bong-da/thay-park-chon-ai-neu-van-hau-vang-mat-o-doi-tuyen-viet-nam-886336.ldo) ([Lao Động](https://laodong.vn))
+- [Cà Mau: Kéo cào lưới xong, bơi về tàu, một thuyền viên tử vong](https://laodong.vn/xa-hoi/ca-mau-keo-cao-luoi-xong-boi-ve-tau-mot-thuyen-vien-tu-vong-886361.ldo) ([Lao Động](https://laodong.vn))
 - [Bắt được trăn gấm nặng 7 kg trong đống rơm](https://vnexpress.net/bat-duoc-tran-gam-nang-7-kg-trong-dong-rom-4244395.html) ([VNExpress](https://vnexpress.net))
 - [[Đọc gấp]: Bộ sách quản trị khách sạn giúp người làm dịch vụ vượt qua khủng hoảng thời covid-19](https://cafebiz.vn/doc-gap-bo-sach-quan-tri-khach-san-giup-nguoi-lam-dich-vu-vuot-qua-khung-hoang-thoi-covid-19-20210306144107982.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hoa Sen Group (HSG) lên tiếng về vụ cháy nhà máy tại KCN Sóng Thần II](https://cafebiz.vn/hoa-sen-group-hsg-len-tieng-ve-vu-chay-nha-may-tai-kcn-song-than-ii-20210306142434894.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lời chúc 8.3 cho phái đẹp hay và ý nghĩa nhất](https://laodong.vn/gia-dinh-hon-nhan/loi-chuc-83-cho-phai-dep-hay-va-y-nghia-nhat-886353.ldo) ([Lao Động](https://laodong.vn))
-- [Khó hình sự hoá tội danh đối với kẻ sàm sỡ phụ nữ ở Hồ Tây](https://laodong.vn/phap-luat/kho-hinh-su-hoa-toi-danh-doi-voi-ke-sam-so-phu-nu-o-ho-tay-886321.ldo) ([Lao Động](https://laodong.vn))
-- [Từ sự kêu cứu của gia đình Vân Quang Long cho thấy quyền lực của YouTuber?](https://laodong.vn/ban-doc/tu-su-keu-cuu-cua-gia-dinh-van-quang-long-cho-thay-quyen-luc-cua-youtuber-886346.ldo) ([Lao Động](https://laodong.vn))
-- [Những vai diễn làm nên tên tuổi của Ninh Dương Lan Ngọc](https://laodong.vn/photo/nhung-vai-dien-lam-nen-ten-tuoi-cua-ninh-duong-lan-ngoc-885211.ldo) ([Lao Động](https://laodong.vn))
-- [Tỷ giá ngoại tệ 6.3: USD bất ngờ tăng vụt trở lại, khi vàng hạ nhiệt](https://laodong.vn/kinh-te/ty-gia-ngoai-te-63-usd-bat-ngo-tang-vut-tro-lai-khi-vang-ha-nhiet-886352.ldo) ([Lao Động](https://laodong.vn))
-- [Cháy lớn tại công ty Tôn Hoa Sen ở Bình Dương](https://cafebiz.vn/chay-lon-tai-cong-ty-ton-hoa-sen-o-binh-duong-20210306141924683.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vì sao chỉ duy nhất The Coffee House làm được app bán hàng riêng, còn Highlands Coffee, Starbucks và các chuỗi F&B khác lại không thể?](https://cafebiz.vn/vi-sao-chi-duy-nhat-the-coffee-house-lam-duoc-app-ban-hang-rieng-con-highlands-coffee-starbucks-va-cac-chuoi-fb-khac-lai-khong-the-20210304182057122.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
