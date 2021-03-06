@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 21°C.
 - Feels Like 23.25°C.
-- Air Visual is 104.
+- Air Visual is 109.
 
 **WEATHER**
 
@@ -50,6 +50,7 @@
 
 - [![AC Milan](https://img.shields.io/static/v1?label=AC%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AC%20Milan)
 - [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
+- [![Biểu tình ở Myanmar](https://img.shields.io/static/v1?label=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
@@ -57,8 +58,8 @@
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
+- [![Lê Thanh Nghị](https://img.shields.io/static/v1?label=L%C3%AA%20Thanh%20Ngh%E1%BB%8B&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20Thanh%20Ngh%E1%BB%8B)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Maybach](https://img.shields.io/static/v1?label=Maybach&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Maybach)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
@@ -66,7 +67,6 @@
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![TCBS](https://img.shields.io/static/v1?label=TCBS&message=google&color=red&style=flat-square)](https://www.google.com/search?q=TCBS)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
-- [![Triều Tiên](https://img.shields.io/static/v1?label=Tri%E1%BB%81u%20Ti%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tri%E1%BB%81u%20Ti%C3%AAn)
 - [![Valencia](https://img.shields.io/static/v1?label=Valencia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Valencia)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [CEO sàn giao dịch tiền số lớn nhất thế giới Coinbase sẽ kiếm được hơn 1 triệu USD mỗi ngày trong 10 năm tới?](https://cafebiz.vn/ceo-san-giao-dich-tien-so-lon-nhat-the-gioi-coinbase-se-kiem-duoc-hon-1-trieu-usd-moi-ngay-trong-10-nam-toi-20210306093949589.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá vàng hôm nay 6.3: Tiếp tục sụt giảm, triển vọng u ám](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-63-tiep-tuc-sut-giam-trien-vong-u-am-886243.ldo) ([Lao Động](https://laodong.vn))
-- [Jack Ma chưa bao giờ đọc sơ yếu lí lịch của nhân viên, vì đây mới là điều ông quan tâm nhất](https://cafebiz.vn/jack-ma-chua-bao-gio-doc-so-yeu-li-lich-cua-nhan-vien-vi-day-moi-la-dieu-ong-quan-tam-nhat-20210306085648541.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cựu quan chức đầu tiên thời ông Trump bị bắt vì bạo loạn Capitol](https://laodong.vn/the-gioi/cuu-quan-chuc-dau-tien-thoi-ong-trump-bi-bat-vi-bao-loan-capitol-886237.ldo) ([Lao Động](https://laodong.vn))
-- [38 thói quen tốt giúp bạn "lột xác", chắc chắn may mắn cả sự nghiệp lẫn cuộc sống](https://cafebiz.vn/38-thoi-quen-tot-giup-ban-lot-xac-chac-chan-may-man-ca-su-nghiep-lan-cuoc-song-20210302160706786.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Phòng: Hơn 1.200 suất quà tặng công nhân lao động](https://laodong.vn/cong-doan/hai-phong-hon-1200-suat-qua-tang-cong-nhan-lao-dong-886236.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương sẽ tiêm vắc xin COVID-19 từ ngày 8.3](https://laodong.vn/y-te/hai-duong-se-tiem-vac-xin-covid-19-tu-ngay-83-886235.ldo) ([Lao Động](https://laodong.vn))
-- [An Giang: Câu chuyện đặc biệt đằng sau những chiếc gáo dừa cũ kĩ](https://laodong.vn/photo/an-giang-cau-chuyen-dac-biet-dang-sau-nhung-chiec-gao-dua-cu-ki-885932.ldo) ([Lao Động](https://laodong.vn))
-- [Thúy Ngân nóng bỏng, quyến rũ, tiết lộ lý do phải là người sống mạnh mẽ](https://laodong.vn/photo/thuy-ngan-nong-bong-quyen-ru-tiet-lo-ly-do-phai-la-nguoi-song-manh-me-886179.ldo) ([Lao Động](https://laodong.vn))
-- [GS Nguyễn Anh Trí: 'Tôi đang chuẩn bị hồ sơ tự ứng cử lần hai'](https://vnexpress.net/gs-nguyen-anh-tri-toi-dang-chuan-bi-ho-so-tu-ung-cu-lan-hai-4243958.html) ([VNExpress](https://vnexpress.net))
+- [Vì sao Tesla vẫn chưa hoàn toàn thống trị được thị trường ô tô điện Trung Quốc?](https://cafebiz.vn/vi-sao-tesla-van-chua-hoan-toan-thong-tri-duoc-thi-truong-o-to-dien-trung-quoc-20210306085445118.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xây dựng doanh nghiệp với máy in vải kỹ thuật số của Epson](https://cafebiz.vn/xay-dung-doanh-nghiep-voi-may-in-vai-ky-thuat-so-cua-epson-20210305160429703.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mong ước trong ngày 8.3: Nữ công nhân không chỉ cần mỗi thu nhập](https://laodong.vn/cong-doan/mong-uoc-trong-ngay-83-nu-cong-nhan-khong-chi-can-moi-thu-nhap-886160.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương lập đội xử lý tình trạng khẩn cấp về y tế ở Kinh Môn để chống dịch COVID-19](https://tuoitre.vn/hai-duong-lap-doi-xu-ly-tinh-trang-khan-cap-ve-y-te-o-kinh-mon-de-chong-dich-covid-19-20210306093524029.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [La Liga giảm lương: Barcelona, Atletico chỉ biết ước khi nhìn Real Madrid](https://laodong.vn/bong-da-quoc-te/la-liga-giam-luong-barcelona-atletico-chi-biet-uoc-khi-nhin-real-madrid-886195.ldo) ([Lao Động](https://laodong.vn))
+- [Cao tốc ngàn tỉ nối Thừa Thiên Huế - Đà Nẵng dự kiến quý 2.2021 thông xe](https://laodong.vn/xa-hoi/cao-toc-ngan-ti-noi-thua-thien-hue-da-nang-du-kien-quy-22021-thong-xe-886230.ldo) ([Lao Động](https://laodong.vn))
+- [Công ty đầu tiên đề xuất chuyển giao dịch từ sàn HOSE sang HNX](https://cafebiz.vn/cong-ty-dau-tien-de-xuat-chuyen-giao-dich-tu-san-hose-sang-hnx-20210306095350812.chn) ([CafeBiz](https://cafebiz.vn))
+- [Có bị mất quyền sở hữu nếu vợ hoặc chồng một mình đứng tên sổ đỏ?](https://laodong.vn/bat-dong-san/co-bi-mat-quyen-so-huu-neu-vo-hoac-chong-mot-minh-dung-ten-so-do-886246.ldo) ([Lao Động](https://laodong.vn))
+- [Bốn trường hợp không được làm kế toán](https://laodong.vn/ban-doc/bon-truong-hop-khong-duoc-lam-ke-toan-886242.ldo) ([Lao Động](https://laodong.vn))
+- [Nhóm quỹ thuộc Dragon Capital muốn bán lượng cổ phiếu ACB trị giá hơn 3.300 tỷ đồng](https://cafebiz.vn/nhom-quy-thuoc-dragon-capital-muon-ban-luong-co-phieu-acb-tri-gia-hon-3300-ty-dong-20210306093306238.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
