@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is overcast clouds.
 - Temperature is 24°C.
-- Feels Like 26.12°C.
-- Air Visual is 153.
+- Feels Like 25.76°C.
+- Air Visual is 95.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Cuộc đua vào lớp 6 nóng, phụ huynh lớp 2 nháo nhào tìm &quot;lò luyện thi&quot;](https://laodong.vn/giao-duc/cuoc-dua-vao-lop-6-nong-phu-huynh-lop-2-nhao-nhao-tim-lo-luyen-thi-886339.ldo) ([Lao Động](https://laodong.vn))
+- [Nghệ An sẽ xử xe 'dù', nhưng xe khách tiếp tục 'đình công' sẽ thu hồi giấy phép](https://tuoitre.vn/nghe-an-se-xu-xe-du-nhung-xe-khach-tiep-tuc-dinh-cong-se-thu-hoi-giay-phep-20210306171741168.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ông Đỗ Minh Phú: 4 từ khoá để 'cởi trói' cho kinh tế tư nhân](https://cafebiz.vn/ong-do-minh-phu-4-tu-khoa-de-coi-troi-cho-kinh-te-tu-nhan-202103061915596.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những thủ tục khi sang tên xe máy cũ bạn nên biết](https://laodong.vn/xe/nhung-thu-tuc-khi-sang-ten-xe-may-cu-ban-nen-biet-886369.ldo) ([Lao Động](https://laodong.vn))
 - [Biệt thự cổ xưa rộng 500m2 của gia đình ca sĩ Long Nhật tại Huế](https://laodong.vn/bat-dong-san/biet-thu-co-xua-rong-500m2-cua-gia-dinh-ca-si-long-nhat-tai-hue-886446.ldo) ([Lao Động](https://laodong.vn))
 - [Vũ Như Thành dành 3 tuần để học hỏi thầy Park Hang-seo huấn luyện](https://laodong.vn/bong-da/vu-nhu-thanh-danh-3-tuan-de-hoc-hoi-thay-park-hang-seo-huan-luyen-886417.ldo) ([Lao Động](https://laodong.vn))
 - [Có gì đặc biệt trong bảng điện mới mà HNX chạy thử cho cổ phiếu từ HOSE?](https://laodong.vn/kinh-te/co-gi-dac-biet-trong-bang-dien-moi-ma-hnx-chay-thu-cho-co-phieu-tu-hose-886443.ldo) ([Lao Động](https://laodong.vn))
 - [Phó TGĐ Vingroup Võ Quang Huệ: VinFast đang bước sang giai đoạn phát triển mới](https://cafebiz.vn/pho-tgd-vingroup-vo-quang-hue-vinfast-dang-buoc-sang-giai-doan-phat-trien-moi-20210306191900018.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tesla vẫn đang “mất tiền” từ việc bán ô tô điện](https://laodong.vn/xe/tesla-van-dang-mat-tien-tu-viec-ban-o-to-dien-886445.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương: Phạt tài xế giấu 2 người trong thùng xe, trốn kiểm soát y tế](https://laodong.vn/phap-luat/hai-duong-phat-tai-xe-giau-2-nguoi-trong-thung-xe-tron-kiem-soat-y-te-886438.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 7.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-73-886183.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: Nắng nóng đỉnh điểm ở Nam Bộ vào cuối tuần](https://laodong.vn/video/nong-nhat-24h-nang-nong-dinh-diem-o-nam-bo-vao-cuoi-tuan-886419.ldo) ([Lao Động](https://laodong.vn))
-- [Vẫn còn ca nghi mắc COVID-19, khẩn trương lấy mẫu xét nghiệm 'ổ dịch' Kim Thành và Kinh Môn](https://tuoitre.vn/van-con-ca-nghi-mac-covid-19-khan-truong-lay-mau-xet-nghiem-o-dich-kim-thanh-va-kinh-mon-20210306182236315.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thủ tướng kỳ vọng sẽ có tập đoàn khổng lồ mang tên Việt Nam trên trường quốc tế](http://vietnamnet.vn/vn/thoi-su/thu-tuong-ky-vong-se-co-tap-doan-khong-lo-mang-ten-viet-nam-tren-truong-quoc-te-717741.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
