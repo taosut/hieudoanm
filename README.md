@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 24°C.
 - Feels Like 25.76°C.
-- Air Visual is 93.
+- Air Visual is 126.
 
 **WEATHER**
 
@@ -48,8 +48,9 @@
 
 **GOOGLE TRENDS**
 
+- [![AC Milan](https://img.shields.io/static/v1?label=AC%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AC%20Milan)
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
-- [![Attack on Titan](https://img.shields.io/static/v1?label=Attack%20on%20Titan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Attack%20on%20Titan)
+- [![Attack On Titan chap 138](https://img.shields.io/static/v1?label=Attack%20On%20Titan%20chap%20138&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Attack%20On%20Titan%20chap%20138)
 - [![Biểu tình ở Myanmar](https://img.shields.io/static/v1?label=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
@@ -57,15 +58,14 @@
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Kaity Nguyễn](https://img.shields.io/static/v1?label=Kaity%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kaity%20Nguy%E1%BB%85n)
-- [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
+- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
 - [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
-- [![Valencia](https://img.shields.io/static/v1?label=Valencia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Valencia)
 - [![Vietravel Airlines](https://img.shields.io/static/v1?label=Vietravel%20Airlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietravel%20Airlines)
 - [![Văn Mai Hương](https://img.shields.io/static/v1?label=V%C4%83n%20Mai%20H%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20Mai%20H%C6%B0%C6%A1ng)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- ["Đối thoại 2045", tỷ phú Nguyễn Đăng Quang: Nâng cao năng lực cạnh tranh và định hướng tiêu dùng từ Chính phủ sẽ tạo động lực cho phát triển](https://cafebiz.vn/doi-thoai-2045-ty-phu-nguyen-dang-quang-nang-cao-nang-luc-canh-tranh-va-dinh-huong-tieu-dung-tu-chinh-phu-se-tao-dong-luc-cho-phat-trien-20210306194040676.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bé 2 tuổi thủng ruột do nuốt phải bi nam châm đồ chơi](https://laodong.vn/suc-khoe/be-2-tuoi-thung-ruot-do-nuot-phai-bi-nam-cham-do-choi-886468.ldo) ([Lao Động](https://laodong.vn))
 - [Tấn Trường tiết lộ chấn thương của Quang Hải và sự chuẩn bị CLB Hà Nội](https://laodong.vn/video-the-thao/tan-truong-tiet-lo-chan-thuong-cua-quang-hai-va-su-chuan-bi-clb-ha-noi-886458.ldo) ([Lao Động](https://laodong.vn))
 - [Quang Hải trầm tư nhìn đồng đội đại thắng câu lạc bộ hạng Nhất](https://laodong.vn/photo/quang-hai-tram-tu-nhin-dong-doi-dai-thang-cau-lac-bo-hang-nhat-886461.ldo) ([Lao Động](https://laodong.vn))
 - [Đề xuất làm sân bay Quảng Trị, nâng cấp sân bay Phú Bài](https://tuoitre.vn/de-xuat-lam-san-bay-quang-tri-nang-cap-san-bay-phu-bai-20210306210553427.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tài sản tỉ phú Elon Musk “bay” 27 tỉ USD khi cổ phiếu công nghệ đổ dốc](https://laodong.vn/kinh-te/tai-san-ti-phu-elon-musk-bay-27-ti-usd-khi-co-phieu-cong-nghe-do-doc-886462.ldo) ([Lao Động](https://laodong.vn))
 - [Dự luật “siêu tỉ phú” đánh thẳng ví tiền Jeff Bezos, Elon Musk, Bill Gates](https://laodong.vn/kinh-te/du-luat-sieu-ti-phu-danh-thang-vi-tien-jeff-bezos-elon-musk-bill-gates-886454.ldo) ([Lao Động](https://laodong.vn))
 - [Đại dịch đã thay đổi thói quen tiêu xài của giới siêu giàu ra sao?](https://cafebiz.vn/dai-dich-da-thay-doi-thoi-quen-tieu-xai-cua-gioi-sieu-giau-ra-sao-20210306194313863.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hoa ban nở trắng tại Ciputra: Chụp ảnh &quot;quên&quot; phòng dịch?](https://laodong.vn/xa-hoi/hoa-ban-no-trang-tai-ciputra-chup-anh-quen-phong-dich-886428.ldo) ([Lao Động](https://laodong.vn))
 - [TPHCM: Phong toả khách sạn có 35 người Trung Quốc nghi nhập cảnh trái phép](https://laodong.vn/xa-hoi/tphcm-phong-toa-khach-san-co-35-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-886451.ldo) ([Lao Động](https://laodong.vn))
 - [Thủ tướng: Đến năm 2045 sẽ xuất hiện các tập đoàn khổng lồ của Việt Nam](https://laodong.vn/thoi-su/thu-tuong-den-nam-2045-se-xuat-hien-cac-tap-doan-khong-lo-cua-viet-nam-886456.ldo) ([Lao Động](https://laodong.vn))
-- [Biết giao thầu đất sai quy định nhưng vẫn kệ vì &quot;tập thể thống nhất cao&quot;](https://laodong.vn/bat-dong-san/biet-giao-thau-dat-sai-quy-dinh-nhung-van-ke-vi-tap-the-thong-nhat-cao-884729.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
