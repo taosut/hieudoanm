@@ -22,7 +22,7 @@
 - Current weather is scattered clouds.
 - Temperature is 24°C.
 - Feels Like 25.76°C.
-- Air Visual is 163.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -56,13 +56,13 @@
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
-- [![Lê Thanh Nghị](https://img.shields.io/static/v1?label=L%C3%AA%20Thanh%20Ngh%E1%BB%8B&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20Thanh%20Ngh%E1%BB%8B)
+- [![Kaity Nguyễn](https://img.shields.io/static/v1?label=Kaity%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kaity%20Nguy%E1%BB%85n)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Ngày Quốc tế Phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
+- [![Raya và rồng thần cuối cùng](https://img.shields.io/static/v1?label=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
 - [![Valencia](https://img.shields.io/static/v1?label=Valencia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Valencia)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Gần 50% bệnh nhân COVID-19 ở Hải Dương khỏi bệnh](https://laodong.vn/y-te/gan-50-benh-nhan-covid-19-o-hai-duong-khoi-benh-886432.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 7.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-73-886183.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất 24h: Nắng nóng đỉnh điểm ở Nam Bộ vào cuối tuần](https://laodong.vn/video/nong-nhat-24h-nang-nong-dinh-diem-o-nam-bo-vao-cuoi-tuan-886419.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng kỳ vọng sẽ có tập đoàn khổng lồ mang tên Việt Nam trên trường quốc tế](http://vietnamnet.vn/vn/thoi-su/thu-tuong-ky-vong-se-co-tap-doan-khong-lo-mang-ten-viet-nam-tren-truong-quoc-te-717741.html) ([VietNamNet](https://vietnamnet.vn))
+- [Đại sứ Israel tấm tắc khen loại trái cây ngọt "như mật ong" của Việt Nam trên Twitter](https://cafebiz.vn/dai-su-israel-tam-tac-khen-loai-trai-cay-ngot-nhu-mat-ong-cua-viet-nam-tren-twitter-20210306193231263.chn) ([CafeBiz](https://cafebiz.vn))
+- [35 người nước ngoài nghi nhập cảnh trái phép vào TP HCM](https://vnexpress.net/35-nguoi-nuoc-ngoai-nghi-nhap-canh-trai-phep-vao-tp-hcm-4244524.html) ([VNExpress](https://vnexpress.net))
 - [Phát hiện 35 người Trung Quốc nghi nhập cảnh trái phép tại khách sạn trung tâm Sài Gòn](https://cafebiz.vn/phat-hien-35-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-tai-khach-san-trung-tam-sai-gon-20210306190832233.chn) ([CafeBiz](https://cafebiz.vn))
 - [4 nguyên nhân khiến xe máy dừng đột ngột giữa đường](https://laodong.vn/xe/4-nguyen-nhan-khien-xe-may-dung-dot-ngot-giua-duong-885919.ldo) ([Lao Động](https://laodong.vn))
 - [Khóa Huy Hoàng đồng hành cùng tỉnh Hải Dương vượt qua đại dịch Covid-19](https://cafebiz.vn/khoa-huy-hoang-dong-hanh-cung-tinh-hai-duong-vuot-qua-dai-dich-covid-19-20210306181245107.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giáo dục 24/7: Phạt tới 10 triệu đồng với người xúc phạm danh dự giáo viên](https://laodong.vn/video/giao-duc-247-phat-toi-10-trieu-dong-voi-nguoi-xuc-pham-danh-du-giao-vien-886427.ldo) ([Lao Động](https://laodong.vn))
-- [Bốn yếu tố tác động đến thị trường chứng khoán trong tháng 3](https://laodong.vn/kinh-te/bon-yeu-to-tac-dong-den-thi-truong-chung-khoan-trong-thang-3-886431.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều 6/3, thêm 6 ca mắc COVID-19 mới tại Hải Dương](https://cafebiz.vn/chieu-6-3-them-6-ca-mac-covid-19-moi-tai-hai-duong-20210306190600127.chn) ([CafeBiz](https://cafebiz.vn))
-- [1 nhân viên y tế Hải Dương dương tính COVID-19, phong tỏa 400 hộ dân liên quan](https://tuoitre.vn/1-nhan-vien-y-te-hai-duong-duong-tinh-covid-19-phong-toa-400-ho-dan-lien-quan-20210306182941306.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Gia tăng tương tác với người dùng, Tesla lập mạng xã hội riêng](https://cafebiz.vn/gia-tang-tuong-tac-voi-nguoi-dung-tesla-lap-mang-xa-hoi-rieng-20210306190330663.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quang Hải chấn thương trước khi V.League 2021 trở lại](https://laodong.vn/bong-da/quang-hai-chan-thuong-truoc-khi-vleague-2021-tro-lai-886429.ldo) ([Lao Động](https://laodong.vn))
-- [Tổng thống Joe Biden nói gì khi tàu thăm dò NASA hạ cánh xuống sao Hoả?](https://laodong.vn/photo/tong-thong-joe-biden-noi-gi-khi-tau-tham-do-nasa-ha-canh-xuong-sao-hoa-886305.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -117,8 +117,8 @@
 02. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
 03. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 04. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
-05. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-06. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
+05. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
+06. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 07. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
 09. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
