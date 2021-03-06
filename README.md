@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is broken clouds.
 - Temperature is 27°C.
-- Feels Like 29.08°C.
-- Air Visual is 127.
+- Feels Like 28.36°C.
+- Air Visual is 120.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bắt được trăn gấm nặng 7 kg trong đống rơm](https://vnexpress.net/bat-duoc-tran-gam-nang-7-kg-trong-dong-rom-4244395.html) ([VNExpress](https://vnexpress.net))
+- [[Đọc gấp]: Bộ sách quản trị khách sạn giúp người làm dịch vụ vượt qua khủng hoảng thời covid-19](https://cafebiz.vn/doc-gap-bo-sach-quan-tri-khach-san-giup-nguoi-lam-dich-vu-vuot-qua-khung-hoang-thoi-covid-19-20210306144107982.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hoa Sen Group (HSG) lên tiếng về vụ cháy nhà máy tại KCN Sóng Thần II](https://cafebiz.vn/hoa-sen-group-hsg-len-tieng-ve-vu-chay-nha-may-tai-kcn-song-than-ii-20210306142434894.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lời chúc 8.3 cho phái đẹp hay và ý nghĩa nhất](https://laodong.vn/gia-dinh-hon-nhan/loi-chuc-83-cho-phai-dep-hay-va-y-nghia-nhat-886353.ldo) ([Lao Động](https://laodong.vn))
+- [Khó hình sự hoá tội danh đối với kẻ sàm sỡ phụ nữ ở Hồ Tây](https://laodong.vn/phap-luat/kho-hinh-su-hoa-toi-danh-doi-voi-ke-sam-so-phu-nu-o-ho-tay-886321.ldo) ([Lao Động](https://laodong.vn))
+- [Từ sự kêu cứu của gia đình Vân Quang Long cho thấy quyền lực của YouTuber?](https://laodong.vn/ban-doc/tu-su-keu-cuu-cua-gia-dinh-van-quang-long-cho-thay-quyen-luc-cua-youtuber-886346.ldo) ([Lao Động](https://laodong.vn))
+- [Những vai diễn làm nên tên tuổi của Ninh Dương Lan Ngọc](https://laodong.vn/photo/nhung-vai-dien-lam-nen-ten-tuoi-cua-ninh-duong-lan-ngoc-885211.ldo) ([Lao Động](https://laodong.vn))
+- [Tỷ giá ngoại tệ 6.3: USD bất ngờ tăng vụt trở lại, khi vàng hạ nhiệt](https://laodong.vn/kinh-te/ty-gia-ngoai-te-63-usd-bat-ngo-tang-vut-tro-lai-khi-vang-ha-nhiet-886352.ldo) ([Lao Động](https://laodong.vn))
 - [Cháy lớn tại công ty Tôn Hoa Sen ở Bình Dương](https://cafebiz.vn/chay-lon-tai-cong-ty-ton-hoa-sen-o-binh-duong-20210306141924683.chn) ([CafeBiz](https://cafebiz.vn))
 - [Vì sao chỉ duy nhất The Coffee House làm được app bán hàng riêng, còn Highlands Coffee, Starbucks và các chuỗi F&B khác lại không thể?](https://cafebiz.vn/vi-sao-chi-duy-nhat-the-coffee-house-lam-duoc-app-ban-hang-rieng-con-highlands-coffee-starbucks-va-cac-chuoi-fb-khac-lai-khong-the-20210304182057122.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắc Giang: Khởi tố nhóm đối tượng hành hung nam công nhân](https://laodong.vn/phap-luat/bac-giang-khoi-to-nhom-doi-tuong-hanh-hung-nam-cong-nhan-886334.ldo) ([Lao Động](https://laodong.vn))
-- [Đình Tú &quot;Hướng dương ngược nắng&quot; - Sao nam điển trai, thực lực của màn ảnh](https://laodong.vn/photo/dinh-tu-huong-duong-nguoc-nang-sao-nam-dien-trai-thuc-luc-cua-man-anh-886280.ldo) ([Lao Động](https://laodong.vn))
-- [Ấm lòng &quot;Gian hàng 0 đồng&quot; cho phụ nữ nghèo](https://laodong.vn/cong-doan/am-long-gian-hang-0-dong-cho-phu-nu-ngheo-886337.ldo) ([Lao Động](https://laodong.vn))
-- [Chân dung 2 Thứ trưởng Bộ Quốc phòng được giới thiệu ứng cử ĐBQH khoá XV](https://laodong.vn/thoi-su/chan-dung-2-thu-truong-bo-quoc-phong-duoc-gioi-thieu-ung-cu-dbqh-khoa-xv-886332.ldo) ([Lao Động](https://laodong.vn))
-- [Cổ phiếu Tesla bị bán tháo, Elon Musk mất 27 tỷ USD tuần này](https://cafebiz.vn/co-phieu-tesla-bi-ban-thao-elon-musk-mat-27-ty-usd-tuan-nay-20210306112848161.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ngao chết trắng đầm](https://vnexpress.net/ngao-chet-trang-dam-4244400.html) ([VNExpress](https://vnexpress.net))
-- [13 địa phương tiêm vaccine Covid-19 đợt đầu](https://vnexpress.net/13-dia-phuong-tiem-vaccine-covid-19-dot-dau-4244427.html) ([VNExpress](https://vnexpress.net))
-- [Tesla biến thành cơn ác mộng: Vốn hóa mất hơn 230 tỷ USD trong 4 tuần, cổ phiếu lao dốc khiến một loạt công ty 'ngã gục', các quỹ ETF rớt giá 'thảm'](https://cafebiz.vn/tesla-bien-thanh-con-ac-mong-von-hoa-mat-hon-230-ty-usd-trong-4-tuan-co-phieu-lao-doc-khien-mot-loat-cong-ty-nga-guc-cac-quy-etf-rot-gia-tham-20210306112332271.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
