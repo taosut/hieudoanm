@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 25.76°C.
+- Feels Like 26.12°C.
 - Air Visual is 153.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Gần 50% bệnh nhân COVID-19 ở Hải Dương khỏi bệnh](https://laodong.vn/y-te/gan-50-benh-nhan-covid-19-o-hai-duong-khoi-benh-886432.ldo) ([Lao Động](https://laodong.vn))
+- [Biệt thự cổ xưa rộng 500m2 của gia đình ca sĩ Long Nhật tại Huế](https://laodong.vn/bat-dong-san/biet-thu-co-xua-rong-500m2-cua-gia-dinh-ca-si-long-nhat-tai-hue-886446.ldo) ([Lao Động](https://laodong.vn))
+- [Vũ Như Thành dành 3 tuần để học hỏi thầy Park Hang-seo huấn luyện](https://laodong.vn/bong-da/vu-nhu-thanh-danh-3-tuan-de-hoc-hoi-thay-park-hang-seo-huan-luyen-886417.ldo) ([Lao Động](https://laodong.vn))
+- [Có gì đặc biệt trong bảng điện mới mà HNX chạy thử cho cổ phiếu từ HOSE?](https://laodong.vn/kinh-te/co-gi-dac-biet-trong-bang-dien-moi-ma-hnx-chay-thu-cho-co-phieu-tu-hose-886443.ldo) ([Lao Động](https://laodong.vn))
+- [Phó TGĐ Vingroup Võ Quang Huệ: VinFast đang bước sang giai đoạn phát triển mới](https://cafebiz.vn/pho-tgd-vingroup-vo-quang-hue-vinfast-dang-buoc-sang-giai-doan-phat-trien-moi-20210306191900018.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tesla vẫn đang “mất tiền” từ việc bán ô tô điện](https://laodong.vn/xe/tesla-van-dang-mat-tien-tu-viec-ban-o-to-dien-886445.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương: Phạt tài xế giấu 2 người trong thùng xe, trốn kiểm soát y tế](https://laodong.vn/phap-luat/hai-duong-phat-tai-xe-giau-2-nguoi-trong-thung-xe-tron-kiem-soat-y-te-886438.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 7.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-73-886183.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất 24h: Nắng nóng đỉnh điểm ở Nam Bộ vào cuối tuần](https://laodong.vn/video/nong-nhat-24h-nang-nong-dinh-diem-o-nam-bo-vao-cuoi-tuan-886419.ldo) ([Lao Động](https://laodong.vn))
+- [Vẫn còn ca nghi mắc COVID-19, khẩn trương lấy mẫu xét nghiệm 'ổ dịch' Kim Thành và Kinh Môn](https://tuoitre.vn/van-con-ca-nghi-mac-covid-19-khan-truong-lay-mau-xet-nghiem-o-dich-kim-thanh-va-kinh-mon-20210306182236315.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thủ tướng kỳ vọng sẽ có tập đoàn khổng lồ mang tên Việt Nam trên trường quốc tế](http://vietnamnet.vn/vn/thoi-su/thu-tuong-ky-vong-se-co-tap-doan-khong-lo-mang-ten-viet-nam-tren-truong-quoc-te-717741.html) ([VietNamNet](https://vietnamnet.vn))
-- [Đại sứ Israel tấm tắc khen loại trái cây ngọt "như mật ong" của Việt Nam trên Twitter](https://cafebiz.vn/dai-su-israel-tam-tac-khen-loai-trai-cay-ngot-nhu-mat-ong-cua-viet-nam-tren-twitter-20210306193231263.chn) ([CafeBiz](https://cafebiz.vn))
-- [35 người nước ngoài nghi nhập cảnh trái phép vào TP HCM](https://vnexpress.net/35-nguoi-nuoc-ngoai-nghi-nhap-canh-trai-phep-vao-tp-hcm-4244524.html) ([VNExpress](https://vnexpress.net))
-- [Phát hiện 35 người Trung Quốc nghi nhập cảnh trái phép tại khách sạn trung tâm Sài Gòn](https://cafebiz.vn/phat-hien-35-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-tai-khach-san-trung-tam-sai-gon-20210306190832233.chn) ([CafeBiz](https://cafebiz.vn))
-- [4 nguyên nhân khiến xe máy dừng đột ngột giữa đường](https://laodong.vn/xe/4-nguyen-nhan-khien-xe-may-dung-dot-ngot-giua-duong-885919.ldo) ([Lao Động](https://laodong.vn))
-- [Khóa Huy Hoàng đồng hành cùng tỉnh Hải Dương vượt qua đại dịch Covid-19](https://cafebiz.vn/khoa-huy-hoang-dong-hanh-cung-tinh-hai-duong-vuot-qua-dai-dich-covid-19-20210306181245107.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo dục 24/7: Phạt tới 10 triệu đồng với người xúc phạm danh dự giáo viên](https://laodong.vn/video/giao-duc-247-phat-toi-10-trieu-dong-voi-nguoi-xuc-pham-danh-du-giao-vien-886427.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
