@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 24°C.
-- Feels Like 25.76°C.
-- Air Visual is 154.
+- Feels Like 26.71°C.
+- Air Visual is 164.
 
 **WEATHER**
 
@@ -75,11 +75,11 @@
 
 **NEWS**
 
+- [Công ty ở Bình Dương tổ chức Hội thi Nét đẹp áo dài nữ công nhân lao động](https://laodong.vn/ldld-binh-duong/cong-ty-o-binh-duong-to-chuc-hoi-thi-net-dep-ao-dai-nu-cong-nhan-lao-dong-886411.ldo) ([Lao Động](https://laodong.vn))
 - [Chủ quán cà phê: Chờ cả tiếng nhưng chỉ có đúng 1 khách hàng chiều thứ 7](https://laodong.vn/photo/chu-quan-ca-phe-cho-ca-tieng-nhung-chi-co-dung-1-khach-hang-chieu-thu-7-886402.ldo) ([Lao Động](https://laodong.vn))
 - [Hàng trăm hộ dân ở Quảng Nam khổ sở vì phải dùng nước bẩn](https://laodong.vn/ban-doc/hang-tram-ho-dan-o-quang-nam-kho-so-vi-phai-dung-nuoc-ban-886416.ldo) ([Lao Động](https://laodong.vn))
 - [Tài tử đóng &quot;Phật Tổ&quot; - Tây du ký 1986: Sống viên mãn, khỏe mạnh ở tuổi U90](https://laodong.vn/van-hoa/tai-tu-dong-phat-to-tay-du-ky-1986-song-vien-man-khoe-manh-o-tuoi-u90-886166.ldo) ([Lao Động](https://laodong.vn))
 - [Chiều 6.3, Hải Dương tiếp tục ghi nhận 6 ca mắc mới COVID-19](https://laodong.vn/y-te/chieu-63-hai-duong-tiep-tuc-ghi-nhan-6-ca-mac-moi-covid-19-886418.ldo) ([Lao Động](https://laodong.vn))
-- [Bốn lỗi vi phạm giao thông sẽ bị tước bằng lái xe đến 2 năm](https://laodong.vn/xe/bon-loi-vi-pham-giao-thong-se-bi-tuoc-bang-lai-xe-den-2-nam-886401.ldo) ([Lao Động](https://laodong.vn))
 - [Ngáo đá xách dao chém người, chém xe, công an và biên phòng cùng khống chế](https://tuoitre.vn/ngao-da-xach-dao-chem-nguoi-chem-xe-cong-an-va-bien-phong-cung-khong-che-20210306174009107.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nguyên Phó Chủ tịch UBND TPHCM sai phạm ra sao trong vụ án Sagri?](https://laodong.vn/phap-luat/nguyen-pho-chu-tich-ubnd-tphcm-sai-pham-ra-sao-trong-vu-an-sagri-886390.ldo) ([Lao Động](https://laodong.vn))
 - [Người dân Hà Nội &quot;chen chân&quot; đi làm căn cước công dân có gắn chíp](https://laodong.vn/photo/nguoi-dan-ha-noi-chen-chan-di-lam-can-cuoc-cong-dan-co-gan-chip-886386.ldo) ([Lao Động](https://laodong.vn))
