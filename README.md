@@ -21,8 +21,8 @@
 
 - Current weather is scattered clouds.
 - Temperature is 27°C.
-- Feels Like 27.99°C.
-- Air Visual is 130.
+- Feels Like 27.74°C.
+- Air Visual is 125.
 
 **WEATHER**
 
@@ -55,7 +55,7 @@
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
-- [![Lê Thanh Nghị](https://img.shields.io/static/v1?label=L%C3%AA%20Thanh%20Ngh%E1%BB%8B&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20Thanh%20Ngh%E1%BB%8B)
+- [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Bỏ nước Mỹ về sống bên bờ biển, đây là cách một gia đình tìm thấy hạnh phúc](https://cafebiz.vn/bo-nuoc-my-ve-song-ben-bo-bien-day-la-cach-mot-gia-dinh-tim-thay-hanh-phuc-20210306133841535.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cận kề ngày 8.3, hoa hồng được quảng cáo mạ vàng giá siêu rẻ bán tràn lan](https://laodong.vn/kinh-te/can-ke-ngay-83-hoa-hong-duoc-quang-cao-ma-vang-gia-sieu-re-ban-tran-lan-886289.ldo) ([Lao Động](https://laodong.vn))
 - [Đề xuất công dân đăng ký cư trú qua mạng](https://vnexpress.net/de-xuat-cong-dan-dang-ky-cu-tru-qua-mang-4244428.html) ([VNExpress](https://vnexpress.net))
 - [Cập nhật danh sách các trường Đại học xét học bạ năm 2021](https://laodong.vn/giao-duc/cap-nhat-danh-sach-cac-truong-dai-hoc-xet-hoc-ba-nam-2021-886364.ldo) ([Lao Động](https://laodong.vn))
 - [3 mỹ nhân Việt 25 tuổi nỗ lực không ngừng, để 10 năm sau xinh đẹp, giàu sang và hơn cả là một sự nghiệp thành công khiến ai cũng ngưỡng mộ](https://cafebiz.vn/3-my-nhan-viet-25-tuoi-no-luc-khong-ngung-de-10-nam-sau-xinh-dep-giau-sang-va-hon-ca-la-mot-su-nghiep-thanh-cong-khien-ai-cung-nguong-mo-20210306144634844.chn) ([CafeBiz](https://cafebiz.vn))
@@ -83,8 +85,6 @@
 - [Barcelona: 3 ứng viên Chủ tịch công kích nhau trước ngày bầu cử](https://laodong.vn/bong-da-quoc-te/barcelona-3-ung-vien-chu-tich-cong-kich-nhau-truoc-ngay-bau-cu-886345.ldo) ([Lao Động](https://laodong.vn))
 - [Tàu du lịch 5 sao lật nghiêng khi neo đậu](https://vnexpress.net/tau-du-lich-5-sao-lat-nghieng-khi-neo-dau-4244457.html) ([VNExpress](https://vnexpress.net))
 - [Ùn tắc kéo dài nhiều giờ trên đường ĐT 743 ở Bình Dương](https://laodong.vn/xa-hoi/un-tac-keo-dai-nhieu-gio-tren-duong-dt-743-o-binh-duong-886349.ldo) ([Lao Động](https://laodong.vn))
-- [Nhân dân tệ kỹ thuật số sẽ là "quả bom" khiến Bitcoin và thị trường tiền số rung chuyển?](https://cafebiz.vn/nhan-dan-te-ky-thuat-so-se-la-qua-bom-khien-bitcoin-va-thi-truong-tien-so-rung-chuyen-20210306133548083.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hé lộ tình tiết bất ngờ vụ nổ súng ở Cần Thơ](https://laodong.vn/phap-luat/he-lo-tinh-tiet-bat-ngo-vu-no-sung-o-can-tho-886341.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
