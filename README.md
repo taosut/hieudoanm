@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 23°C.
-- Feels Like 23.79°C.
-- Air Visual is 144.
+- Temperature is 24°C.
+- Feels Like 25.27°C.
+- Air Visual is 128.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bị antifan tố "ăn cắp" ý tưởng món kẹo mạch nha của Lý Tử Thất, chủ nhân Bếp Trên Đỉnh Đồi chính thức lên tiếng](https://cafebiz.vn/bi-antifan-to-an-cap-y-tuong-mon-keo-mach-nha-cua-ly-tu-that-chu-nhan-bep-tren-dinh-doi-chinh-thuc-len-tieng-20210306091602999.chn) ([CafeBiz](https://cafebiz.vn))
-- [Công dụng giờ mới khám phá ra của mái lợp kết hợp pin mặt trời Tesla: không đọng tuyết!](https://cafebiz.vn/cong-dung-gio-moi-kham-pha-ra-cua-mai-lop-ket-hop-pin-mat-troi-tesla-khong-dong-tuyet-20210306090103723.chn) ([CafeBiz](https://cafebiz.vn))
-- [VinShop tặng gói bảo hiểm sức khỏe cho 65.000 chủ tạp hóa](https://laodong.vn/doanh-nghiep-doanh-nhan/vinshop-tang-goi-bao-hiem-suc-khoe-cho-65000-chu-tap-hoa-885995.ldo) ([Lao Động](https://laodong.vn))
-- [Người nước ngoài ở TPHCM khám BHYT ở bệnh viện nào?](https://laodong.vn/ban-doc/nguoi-nuoc-ngoai-o-tphcm-kham-bhyt-o-benh-vien-nao-886027.ldo) ([Lao Động](https://laodong.vn))
-- [Lao động nữ ngành điện Quảng Trị với Tuần lễ áo dài](https://laodong.vn/photo/lao-dong-nu-nganh-dien-quang-tri-voi-tuan-le-ao-dai-886052.ldo) ([Lao Động](https://laodong.vn))
-- [TP.Hồ Chí Minh: Mỏi mòn chờ cầu kết nối Khu đô thị mới Thủ Thiêm](https://laodong.vn/xa-hoi/tpho-chi-minh-moi-mon-cho-cau-ket-noi-khu-do-thi-moi-thu-thiem-886155.ldo) ([Lao Động](https://laodong.vn))
-- [Tổng cục Hải quan nói gì về vụ đội trưởng đội kiểm soát chống buôn lậu bị bắt?](https://tuoitre.vn/tong-cuc-hai-quan-noi-gi-ve-vu-doi-truong-doi-kiem-soat-chong-buon-lau-bi-bat-20210306103805015.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [12 giảng viên đồng loạt xin nghỉ việc](https://vnexpress.net/12-giang-vien-dong-loat-xin-nghi-viec-4244275.html) ([VNExpress](https://vnexpress.net))
-- [Tổng cục Hải quan nói về vụ cán bộ bị bắt liên quan chuyên án xăng giả](https://laodong.vn/kinh-te/tong-cuc-hai-quan-noi-ve-vu-can-bo-bi-bat-lien-quan-chuyen-an-xang-gia-886276.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Chờ đợi 10 cây cầu mới bắc qua sông Hồng để giải quyết ùn tắc](https://laodong.vn/xa-hoi/ha-noi-cho-doi-10-cay-cau-moi-bac-qua-song-hong-de-giai-quyet-un-tac-886165.ldo) ([Lao Động](https://laodong.vn))
+- ['Tường lốp' cứu nạn trên những cung đường đèo dốc](https://vnexpress.net/tuong-lop-cuu-nan-tren-nhung-cung-duong-deo-doc-4243437.html) ([VNExpress](https://vnexpress.net))
+- [Giá giường Bệnh viện Bạch Mai lên tới 3,3 triệu đồng: Bộ Y tế chỉ đạo gì?](https://laodong.vn/y-te/gia-giuong-benh-vien-bach-mai-len-toi-33-trieu-dong-bo-y-te-chi-dao-gi-886252.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Trương Gia Bình nhận thù lao 0 đồng, CEO FPT nhận lương hơn 3,5 tỷ đồng nhưng không đáng là bao so với ESOP](https://cafebiz.vn/ong-truong-gia-binh-nhan-thu-lao-0-dong-ceo-fpt-nhan-luong-hon-35-ty-dong-nhung-khong-dang-la-bao-so-voi-esop-20210306113444311.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đi làm lương "ba cọc ba đồng", ông Đoàn Ngọc Hải lấy tiền tỷ từ đâu mà đi từ thiện?](https://cafebiz.vn/di-lam-luong-ba-coc-ba-dong-ong-doan-ngoc-hai-lay-tien-ty-tu-dau-ma-di-tu-thien-20210306113435942.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Ông chủ' khu du lịch sưu tập hơn 500 chiếc xe máy cổ có '1 không 2', biển đẹp hàng đầu](https://cafebiz.vn/ong-chu-khu-du-lich-suu-tap-hon-500-chiec-xe-may-co-co-1-khong-2-bien-dep-hang-dau-20210306113336357.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lễ trao giải Grammy lần thứ 63 ấn định ngày tổ chức](https://laodong.vn/giai-tri/le-trao-giai-grammy-lan-thu-63-an-dinh-ngay-to-chuc-886303.ldo) ([Lao Động](https://laodong.vn))
+- [Cấp giấy phép xây dựng chậm tại Nha Trang, Khánh Hòa: Người dân lẫn chủ đầu tư dự án bức xúc](https://laodong.vn/bat-dong-san/cap-giay-phep-xay-dung-cham-tai-nha-trang-khanh-hoa-nguoi-dan-lan-chu-dau-tu-du-an-buc-xuc-886159.ldo) ([Lao Động](https://laodong.vn))
+- [Sớm bàn giao trường nghề miễn phí dành cho 2.000 học viên](https://laodong.vn/cong-doan/som-ban-giao-truong-nghe-mien-phi-danh-cho-2000-hoc-vien-886290.ldo) ([Lao Động](https://laodong.vn))
+- [Khen thưởng nóng cho lực lượng phá vụ án nổ súng ở Cần Thơ](https://laodong.vn/phap-luat/khen-thuong-nong-cho-luc-luong-pha-vu-an-no-sung-o-can-tho-886273.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng và ngoại tệ 6.3: Giá vàng hướng đến tuần giảm thứ 3 liên tiếp](https://laodong.vn/video/gia-vang-va-ngoai-te-63-gia-vang-huong-den-tuan-giam-thu-3-lien-tiep-886261.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
