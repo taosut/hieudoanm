@@ -48,7 +48,7 @@
 
 **GOOGLE TRENDS**
 
-- [![AC Milan](https://img.shields.io/static/v1?label=AC%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AC%20Milan)
+- [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Attack on Titan](https://img.shields.io/static/v1?label=Attack%20on%20Titan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Attack%20on%20Titan)
 - [![Biểu tình ở Myanmar](https://img.shields.io/static/v1?label=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
@@ -62,9 +62,9 @@
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Raya và rồng thần cuối cùng](https://img.shields.io/static/v1?label=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
+- [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
 - [![Valencia](https://img.shields.io/static/v1?label=Valencia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Valencia)
 - [![Vietravel Airlines](https://img.shields.io/static/v1?label=Vietravel%20Airlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietravel%20Airlines)
 - [![Văn Mai Hương](https://img.shields.io/static/v1?label=V%C4%83n%20Mai%20H%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20Mai%20H%C6%B0%C6%A1ng)
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Nổi tiếng nhờ loạt clip livestream, anh nông dân được mệnh danh "Vua Táo" mở bán khóa học trồng cây trực tuyến và cái kết gây sửng sốt](https://cafebiz.vn/noi-tieng-nho-loat-clip-livestream-anh-nong-dan-duoc-menh-danh-vua-tao-mo-ban-khoa-hoc-trong-cay-truc-tuyen-va-cai-ket-gay-sung-sot-20210306191210117.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tập đoàn Hoa Sen: Vụ cháy ở nhà máy Bình Dương không ảnh hưởng đến hoạt động sản xuất kinh doanh của tập đoàn](https://vtv.vn/xa-hoi/tap-doan-hoa-sen-vu-chay-o-nha-may-binh-duong-khong-anh-huong-den-hoat-dong-san-xuat-kinh-doanh-cua-tap-doan-20210306204603357.htm) ([VTV](https://vtv.vn))
 - [Cuộc đua vào lớp 6 nóng, phụ huynh lớp 2 nháo nhào tìm &quot;lò luyện thi&quot;](https://laodong.vn/giao-duc/cuoc-dua-vao-lop-6-nong-phu-huynh-lop-2-nhao-nhao-tim-lo-luyen-thi-886339.ldo) ([Lao Động](https://laodong.vn))
 - [Nghệ An sẽ xử xe 'dù', nhưng xe khách tiếp tục 'đình công' sẽ thu hồi giấy phép](https://tuoitre.vn/nghe-an-se-xu-xe-du-nhung-xe-khach-tiep-tuc-dinh-cong-se-thu-hoi-giay-phep-20210306171741168.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Ông Đỗ Minh Phú: 4 từ khoá để 'cởi trói' cho kinh tế tư nhân](https://cafebiz.vn/ong-do-minh-phu-4-tu-khoa-de-coi-troi-cho-kinh-te-tu-nhan-202103061915596.chn) ([CafeBiz](https://cafebiz.vn))
@@ -83,8 +85,6 @@
 - [Vũ Như Thành dành 3 tuần để học hỏi thầy Park Hang-seo huấn luyện](https://laodong.vn/bong-da/vu-nhu-thanh-danh-3-tuan-de-hoc-hoi-thay-park-hang-seo-huan-luyen-886417.ldo) ([Lao Động](https://laodong.vn))
 - [Có gì đặc biệt trong bảng điện mới mà HNX chạy thử cho cổ phiếu từ HOSE?](https://laodong.vn/kinh-te/co-gi-dac-biet-trong-bang-dien-moi-ma-hnx-chay-thu-cho-co-phieu-tu-hose-886443.ldo) ([Lao Động](https://laodong.vn))
 - [Phó TGĐ Vingroup Võ Quang Huệ: VinFast đang bước sang giai đoạn phát triển mới](https://cafebiz.vn/pho-tgd-vingroup-vo-quang-hue-vinfast-dang-buoc-sang-giai-doan-phat-trien-moi-20210306191900018.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Dương: Phạt tài xế giấu 2 người trong thùng xe, trốn kiểm soát y tế](https://laodong.vn/phap-luat/hai-duong-phat-tai-xe-giau-2-nguoi-trong-thung-xe-tron-kiem-soat-y-te-886438.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 7.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-73-886183.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
