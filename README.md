@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tin bóng đá tối 6.3: Oscar muốn tái hợp với Chelsea](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-63-oscar-muon-tai-hop-voi-chelsea-886414.ldo) ([Lao Động](https://laodong.vn))
+- [Văn Quyết lập cú đúp, Hà Nội thắng Phú Thọ 5-0 trong trận giao hữu](https://laodong.vn/bong-da/van-quyet-lap-cu-dup-ha-noi-thang-phu-tho-5-0-trong-tran-giao-huu-886403.ldo) ([Lao Động](https://laodong.vn))
+- [VN-Index có thể dao động trong khoảng 1.000 - 1.400 điểm trong tháng 3](https://laodong.vn/kinh-te/vn-index-co-the-dao-dong-trong-khoang-1000-1400-diem-trong-thang-3-886420.ldo) ([Lao Động](https://laodong.vn))
+- [Điện Biên: Tai nạn tại mỏ chì, 1 công nhân tử vong](https://laodong.vn/xa-hoi/dien-bien-tai-nan-tai-mo-chi-1-cong-nhan-tu-vong-886422.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều 6-3 thêm 6 ca mắc COVID-19 mới tại Hải Dương, lại có 2 ca đã cách ly hơn 1 tháng](https://tuoitre.vn/chieu-6-3-them-6-ca-mac-covid-19-moi-tai-hai-duong-lai-co-2-ca-da-cach-ly-hon-1-thang-20210306181013892.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Công ty ở Bình Dương tổ chức Hội thi Nét đẹp áo dài nữ công nhân lao động](https://laodong.vn/ldld-binh-duong/cong-ty-o-binh-duong-to-chuc-hoi-thi-net-dep-ao-dai-nu-cong-nhan-lao-dong-886411.ldo) ([Lao Động](https://laodong.vn))
 - [Chủ quán cà phê: Chờ cả tiếng nhưng chỉ có đúng 1 khách hàng chiều thứ 7](https://laodong.vn/photo/chu-quan-ca-phe-cho-ca-tieng-nhung-chi-co-dung-1-khach-hang-chieu-thu-7-886402.ldo) ([Lao Động](https://laodong.vn))
-- [Hàng trăm hộ dân ở Quảng Nam khổ sở vì phải dùng nước bẩn](https://laodong.vn/ban-doc/hang-tram-ho-dan-o-quang-nam-kho-so-vi-phai-dung-nuoc-ban-886416.ldo) ([Lao Động](https://laodong.vn))
-- [Tài tử đóng &quot;Phật Tổ&quot; - Tây du ký 1986: Sống viên mãn, khỏe mạnh ở tuổi U90](https://laodong.vn/van-hoa/tai-tu-dong-phat-to-tay-du-ky-1986-song-vien-man-khoe-manh-o-tuoi-u90-886166.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều 6.3, Hải Dương tiếp tục ghi nhận 6 ca mắc mới COVID-19](https://laodong.vn/y-te/chieu-63-hai-duong-tiep-tuc-ghi-nhan-6-ca-mac-moi-covid-19-886418.ldo) ([Lao Động](https://laodong.vn))
 - [Ngáo đá xách dao chém người, chém xe, công an và biên phòng cùng khống chế](https://tuoitre.vn/ngao-da-xach-dao-chem-nguoi-chem-xe-cong-an-va-bien-phong-cung-khong-che-20210306174009107.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nguyên Phó Chủ tịch UBND TPHCM sai phạm ra sao trong vụ án Sagri?](https://laodong.vn/phap-luat/nguyen-pho-chu-tich-ubnd-tphcm-sai-pham-ra-sao-trong-vu-an-sagri-886390.ldo) ([Lao Động](https://laodong.vn))
 - [Người dân Hà Nội &quot;chen chân&quot; đi làm căn cước công dân có gắn chíp](https://laodong.vn/photo/nguoi-dan-ha-noi-chen-chan-di-lam-can-cuoc-cong-dan-co-gan-chip-886386.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng: Tổng động viên mọi sức mạnh tiềm ẩn trong nhân dân](https://laodong.vn/thoi-su/thu-tuong-tong-dong-vien-moi-suc-manh-tiem-an-trong-nhan-dan-886391.ldo) ([Lao Động](https://laodong.vn))
-- [35 người Trung Quốc nghi nhập cảnh trái phép, TP.HCM phong tỏa 1 khách sạn](http://vietnamnet.vn/vn/thoi-su/35-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-tp-hcm-phong-toa-1-khach-san-717732.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Raya and The Last Dragon: Thế giới đổ nát là do chính chúng ta?](https://vietcetera.com/vn/raya-and-the-last-dragon-the-gioi-do-nat-la-do-chinh-chung-ta)
 - [10 Sự "lươn lẹo" để thấy đời không như là mơ](https://vietcetera.com/vn/10-kieu-luon-leo-de-thay-doi-khong-nhu-la-mo)
 - [Vì sao 4 thành viên Blackpink được chọn làm đại sứ thương hiệu cho Dior, Chanel, Saint Laurent, và Celine? ](https://vietcetera.com/vn/cac-hang-thoi-trang-chon-ai-trong-blackpink-lam-dai-su-thuong-hieu)
 - [5 Phim hành động Netflix cho cuối tuần thêm "gay cấn"](https://vietcetera.com/vn/5-phim-hanh-dong-netflix-cho-cuoi-tuan-them-gay-can)
@@ -105,7 +106,6 @@
 - [Cởi Mở: Lần đầu đối diện với sang chấn về tình dục](https://vietcetera.com/vn/lan-dau-doi-dien-voi-sang-chan-ve-tinh-duc)
 - [Lay’s biến âm thanh "giòn rụm" thành phụ đề YouTube ](https://vietcetera.com/vn/lays-bien-am-thanh-gion-rum-thanh-phu-de-youtube)
 - [Tóm Lại Là: Rich kid có phải thế hệ phô trương?](https://vietcetera.com/vn/tom-lai-la-rich-kid-la-the-he-pho-truong)
-- [Phương Vũ và những nguyên tắc cho người trẻ làm sáng tạo](https://vietcetera.com/vn/phuong-vu-va-nhung-nguyen-tac-cho-nguoi-tre-lam-sang-tao)
 
 [Read More](https://vietcetera.com/)
 
