@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Đối tượng ngáo đá cầm dao chém xe ôtô và người rồi cố thủ trong nhà](https://laodong.vn/phap-luat/doi-tuong-ngao-da-cam-dao-chem-xe-oto-va-nguoi-roi-co-thu-trong-nha-886385.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Tĩnh: Liên đoàn lao động phối hợp tổ chức hiến máu tình nguyện](https://laodong.vn/cong-doan/ha-tinh-lien-doan-lao-dong-phoi-hop-to-chuc-hien-mau-tinh-nguyen-886399.ldo) ([Lao Động](https://laodong.vn))
-- [Những lời chúc 8.3 bằng tiếng Anh ngắn gọn và ý nghĩa nhất](https://laodong.vn/chuyen-nha-minh/nhung-loi-chuc-83-bang-tieng-anh-ngan-gon-va-y-nghia-nhat-886376.ldo) ([Lao Động](https://laodong.vn))
-- [Nguyên Phó Chủ tịch UBND TPHCM sai phạm ra sao trong vụ án Sagri?](https://laodong.vn/phap-luat/nguyen-pho-chu-tich-ubnd-tphcm-sai-pham-ra-sao-trong-vu-an-sagri-886390.ldo) ([Lao Động](https://laodong.vn))
-- [Người dân Hà Nội &quot;chen chân&quot; đi làm căn cước công dân có gắn chíp](https://laodong.vn/photo/nguoi-dan-ha-noi-chen-chan-di-lam-can-cuoc-cong-dan-co-gan-chip-886386.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng: Tổng động viên mọi sức mạnh tiềm ẩn trong nhân dân](https://laodong.vn/thoi-su/thu-tuong-tong-dong-vien-moi-suc-manh-tiem-an-trong-nhan-dan-886391.ldo) ([Lao Động](https://laodong.vn))
-- [Apple đang tạo ra ‘sự cố Y2K’ mới khiến Facebook chao đảo: Có thể thổi bay 5 tỷ USD lợi nhuận quý 2/2021 của MXH tỷ dân?](https://cafebiz.vn/apple-dang-tao-ra-su-co-y2k-moi-khien-facebook-chao-dao-co-the-thoi-bay-5-ty-usd-loi-nhuan-quy-2-2021-cua-mxh-ty-dan-2021030611213974.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tướng: 'Huy động mọi sức mạnh để Việt Nam hùng cường'](https://vnexpress.net/thu-tuong-huy-dong-moi-suc-manh-de-viet-nam-hung-cuong-4244499.html) ([VNExpress](https://vnexpress.net))
-- [CSGT dùng súng khống chế kẻ ngáo đá chém người và xe điên loạn](http://vietnamnet.vn/vn/thoi-su/csgt-dung-sung-khong-che-ke-ngao-da-chem-nguoi-va-xe-dien-loan-717720.html) ([VietNamNet](https://vietnamnet.vn))
-- [WHO sẽ công bố kết quả điều tra nguồn gốc Covid-19 vào giữa tháng 3](https://cafebiz.vn/who-se-cong-bo-ket-qua-dieu-tra-nguon-goc-covid-19-vao-giua-thang-3-20210306135511405.chn) ([CafeBiz](https://cafebiz.vn))
+
 
 [Read More](docs/news/README.md)
 
