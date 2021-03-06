@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 27°C.
-- Feels Like 29.43°C.
-- Air Visual is 140.
+- Feels Like 28.71°C.
+- Air Visual is 144.
 
 **WEATHER**
 
@@ -55,14 +55,14 @@
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
+- [![Inter Milan](https://img.shields.io/static/v1?label=Inter%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter%20Milan)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
-- [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
-- [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
+- [![Myanmar biểu tình](https://img.shields.io/static/v1?label=Myanmar%20bi%E1%BB%83u%20t%C3%ACnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar%20bi%E1%BB%83u%20t%C3%ACnh)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Ngao chết trắng đầm](https://vnexpress.net/ngao-chet-trang-dam-4244400.html) ([VNExpress](https://vnexpress.net))
+- [13 địa phương tiêm vaccine Covid-19 đợt đầu](https://vnexpress.net/13-dia-phuong-tiem-vaccine-covid-19-dot-dau-4244427.html) ([VNExpress](https://vnexpress.net))
+- [Tesla biến thành cơn ác mộng: Vốn hóa mất hơn 230 tỷ USD trong 4 tuần, cổ phiếu lao dốc khiến một loạt công ty 'ngã gục', các quỹ ETF rớt giá 'thảm'](https://cafebiz.vn/tesla-bien-thanh-con-ac-mong-von-hoa-mat-hon-230-ty-usd-trong-4-tuan-co-phieu-lao-doc-khien-mot-loat-cong-ty-nga-guc-cac-quy-etf-rot-gia-tham-20210306112332271.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khánh Hòa: Dừng cấp nước sạch 2 ngày để sửa chữa đường ống bị vỡ](https://laodong.vn/xa-hoi/khanh-hoa-dung-cap-nuoc-sach-2-ngay-de-sua-chua-duong-ong-bi-vo-886335.ldo) ([Lao Động](https://laodong.vn))
+- [Phạm Hương, Tăng Thanh Hà và mỹ nhân Việt rời showbiz để lo cho &quot;tổ ấm nhỏ&quot;](https://laodong.vn/yeu-360/pham-huong-tang-thanh-ha-va-my-nhan-viet-roi-showbiz-de-lo-cho-to-am-nho-886308.ldo) ([Lao Động](https://laodong.vn))
 - [Nghiệt ngã quá](https://laodong.vn/su-kien-binh-luan/nghiet-nga-qua-886285.ldo) ([Lao Động](https://laodong.vn))
 - [Doanh nhân Phạm Đức Tiệp ra mắt 2 cuốn sách Marketing](https://laodong.vn/thong-tin-doanh-nghiep/doanh-nhan-pham-duc-tiep-ra-mat-2-cuon-sach-marketing-885651.ldo) ([Lao Động](https://laodong.vn))
+- [Bị tố gửi clip nhạy cảm cho nhân viên nữ, hiệu trưởng bảo việc này là do vợ làm](https://tuoitre.vn/bi-to-gui-clip-nhay-cam-cho-nhan-vien-nu-hieu-truong-bao-viec-nay-la-do-vo-lam-20210306124155039.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Vẫn loay hoay giải bài toán xử lý rác thải ở Phú Quốc](https://laodong.vn/xa-hoi/van-loay-hoay-giai-bai-toan-xu-ly-rac-thai-o-phu-quoc-886309.ldo) ([Lao Động](https://laodong.vn))
 - ["Bí mật" đằng sau những chiến dịch tiêm vaccine ngừa COVID-19 thành công trên thế giới](https://cafebiz.vn/bi-mat-dang-sau-nhung-chien-dich-tiem-vaccine-ngua-covid-19-thanh-cong-tren-the-gioi-20210306133212337.chn) ([CafeBiz](https://cafebiz.vn))
-- [&quot;Đối thoại 2045&quot; giữa Thủ tướng với đại diện doanh nghiệp, trí thức](https://laodong.vn/thoi-su/doi-thoai-2045-giua-thu-tuong-voi-dai-dien-doanh-nghiep-tri-thuc-886320.ldo) ([Lao Động](https://laodong.vn))
-- [Tung số tiền khủng chưa từng có lên đến 12 tỷ đồng cho các đội tuyển, đại diện Garena nói gì?](https://cafebiz.vn/tung-so-tien-khung-chua-tung-co-len-den-12-ty-dong-cho-cac-doi-tuyen-dai-dien-garena-noi-gi-20210306120533424.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hành trình 10 năm gìn giữ nét xuân cho phụ nữ Việt của B.L.G](https://cafebiz.vn/hanh-trinh-10-nam-gin-giu-net-xuan-cho-phu-nu-viet-cua-blg-20210306114000705.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sắp tới khi bán nhà, người dân có thể bị xóa hộ khẩu?](https://laodong.vn/bat-dong-san/sap-toi-khi-ban-nha-nguoi-dan-co-the-bi-xoa-ho-khau-885784.ldo) ([Lao Động](https://laodong.vn))
-- [Vaccine COVID-19: Những lưu ý khi tiêm](https://laodong.vn/suc-khoe/vaccine-covid-19-nhung-luu-y-khi-tiem-886342.ldo) ([Lao Động](https://laodong.vn))
-- [Cháy xưởng của Công ty Tôn Hoa Sen](https://vnexpress.net/chay-xuong-cua-cong-ty-ton-hoa-sen-4244441.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
