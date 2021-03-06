@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is scattered clouds.
 - Temperature is 27°C.
-- Feels Like 28.71°C.
-- Air Visual is 124.
+- Feels Like 29.08°C.
+- Air Visual is 127.
 
 **WEATHER**
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Cháy lớn tại công ty Tôn Hoa Sen ở Bình Dương](https://cafebiz.vn/chay-lon-tai-cong-ty-ton-hoa-sen-o-binh-duong-20210306141924683.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vì sao chỉ duy nhất The Coffee House làm được app bán hàng riêng, còn Highlands Coffee, Starbucks và các chuỗi F&B khác lại không thể?](https://cafebiz.vn/vi-sao-chi-duy-nhat-the-coffee-house-lam-duoc-app-ban-hang-rieng-con-highlands-coffee-starbucks-va-cac-chuoi-fb-khac-lai-khong-the-20210304182057122.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắc Giang: Khởi tố nhóm đối tượng hành hung nam công nhân](https://laodong.vn/phap-luat/bac-giang-khoi-to-nhom-doi-tuong-hanh-hung-nam-cong-nhan-886334.ldo) ([Lao Động](https://laodong.vn))
 - [Đình Tú &quot;Hướng dương ngược nắng&quot; - Sao nam điển trai, thực lực của màn ảnh](https://laodong.vn/photo/dinh-tu-huong-duong-nguoc-nang-sao-nam-dien-trai-thuc-luc-cua-man-anh-886280.ldo) ([Lao Động](https://laodong.vn))
 - [Ấm lòng &quot;Gian hàng 0 đồng&quot; cho phụ nữ nghèo](https://laodong.vn/cong-doan/am-long-gian-hang-0-dong-cho-phu-nu-ngheo-886337.ldo) ([Lao Động](https://laodong.vn))
@@ -83,8 +85,6 @@
 - [Ngao chết trắng đầm](https://vnexpress.net/ngao-chet-trang-dam-4244400.html) ([VNExpress](https://vnexpress.net))
 - [13 địa phương tiêm vaccine Covid-19 đợt đầu](https://vnexpress.net/13-dia-phuong-tiem-vaccine-covid-19-dot-dau-4244427.html) ([VNExpress](https://vnexpress.net))
 - [Tesla biến thành cơn ác mộng: Vốn hóa mất hơn 230 tỷ USD trong 4 tuần, cổ phiếu lao dốc khiến một loạt công ty 'ngã gục', các quỹ ETF rớt giá 'thảm'](https://cafebiz.vn/tesla-bien-thanh-con-ac-mong-von-hoa-mat-hon-230-ty-usd-trong-4-tuan-co-phieu-lao-doc-khien-mot-loat-cong-ty-nga-guc-cac-quy-etf-rot-gia-tham-20210306112332271.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khánh Hòa: Dừng cấp nước sạch 2 ngày để sửa chữa đường ống bị vỡ](https://laodong.vn/xa-hoi/khanh-hoa-dung-cap-nuoc-sach-2-ngay-de-sua-chua-duong-ong-bi-vo-886335.ldo) ([Lao Động](https://laodong.vn))
-- [Nghiệt ngã quá](https://laodong.vn/su-kien-binh-luan/nghiet-nga-qua-886285.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -97,6 +97,7 @@
 **VIETCETERA**
 
 - [10 Sự "lươn lẹo" để thấy đời không như là mơ](https://vietcetera.com/vn/10-loi-noi-doi-de-thay-cuoc-song-la-nhung-cu-lua)
+- [Vì sao 4 thành viên Blackpink được chọn làm đại sứ thương hiệu cho Dior, Chanel, Saint Laurent, và Celine? ](https://vietcetera.com/vn/cac-hang-thoi-trang-chon-ai-trong-blackpink-lam-dai-su-thuong-hieu)
 - [5 Phim hành động Netflix cho cuối tuần thêm "gay cấn"](https://vietcetera.com/vn/5-phim-hanh-dong-netflix-cho-cuoi-tuan-them-gay-can)
 - [Loay hoay tìm nguồn cơn và cách thoát khỏi hố đen trầm cảm](https://vietcetera.com/vn/loay-hoay-tim-nguon-con-va-cach-thoat-khoi-ho-den-tram-cam)
 - [The Queen's Gambit: Thiên tài cô đơn trong thế giới của những người cô đơn](https://vietcetera.com/vn/the-queens-gambit-thien-tai-co-don-trong-the-gioi-cua-nhung-nguoi-co-don)
@@ -105,7 +106,6 @@
 - [Lay’s biến âm thanh "giòn rụm" thành phụ đề YouTube ](https://vietcetera.com/vn/lays-bien-am-thanh-gion-rum-thanh-phu-de-youtube)
 - [Tóm Lại Là: Rich kid có phải thế hệ phô trương?](https://vietcetera.com/vn/tom-lai-la-rich-kid-la-the-he-pho-truong)
 - [Phương Vũ và những nguyên tắc cho người trẻ làm sáng tạo](https://vietcetera.com/vn/phuong-vu-va-nhung-nguyen-tac-cho-nguoi-tre-lam-sang-tao)
-- [Chữ Với Nghĩa: Dảk bủh - Trò đùa từ lỗi Telex](https://vietcetera.com/vn/chu-voi-nghia-dak-buh-tro-dua)
 
 [Read More](https://vietcetera.com/)
 
@@ -116,8 +116,8 @@
 01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 02. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
 03. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
-04. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-05. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
+04. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
+05. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 06. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 07. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
@@ -133,13 +133,13 @@
 01. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-04. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+04. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+05. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 06. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
 07. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 08. [Thêm đoạn clip cho thấy nỗ lực cứu bé gái rơi từ tầng 12 của anh Nguyễn Ngọc Mạnh | THDT](https://www.youtube.com/watch?v=YPe9q--jnEY) - [Truyền Hình Đồng Tháp](https://www.youtube.com/channel/UCDIl_FogyBJAUI3QVyLet8w)
-09. [Ông Võ Hoàng Yên Lý Giải Về T.ố C.á.o l.ừ.a đảo, dối trá hàng trăm tỷ đồng của vợ ông Dũng lò vôi](https://www.youtube.com/watch?v=G7PQbh2Ob4E) - [HOA LỆ SÀI GÒN](https://www.youtube.com/channel/UCJ7fUfDLagCvZGv0uD4shQA)
-10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
+09. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
+10. [Ông Võ Hoàng Yên Lý Giải Về T.ố C.á.o l.ừ.a đảo, dối trá hàng trăm tỷ đồng của vợ ông Dũng lò vôi](https://www.youtube.com/watch?v=G7PQbh2Ob4E) - [HOA LỆ SÀI GÒN](https://www.youtube.com/channel/UCJ7fUfDLagCvZGv0uD4shQA)
 
 [Read More](https://www.youtube.com/feed/trending)
 
