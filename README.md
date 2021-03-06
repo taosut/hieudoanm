@@ -3,7 +3,7 @@
 <p align="center">VIETNAM 🇻🇳 RESTful APIs.</p>
 <p align="center">
   <a href="https://vietnamdb.herokuapp.com/api">APIs</a> -
-  <a href="https://vietnamdb.github.io/#/">Docs</a> -
+  <a href="https://vietnamdb.herokuapp.com/docs">Docs</a> -
   <a href="https://github.com/vietnamdb/vietnamdb/tree/master/docs">CSV</a> -
   <a href="https://github.com/vietnamdb/vietnamdb/tree/master/docs/stacks">Stacks</a>
 </p>
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [CEO công ty tổ chức Rap Việt kiến nghị phát triển công nghiệp văn hóa](https://cafebiz.vn/ceo-cong-ty-to-chuc-rap-viet-kien-nghi-phat-trien-cong-nghiep-van-hoa-20210306193703939.chn) ([CafeBiz](https://cafebiz.vn))
 - ["Đối thoại 2045", tỷ phú Nguyễn Đăng Quang: Nâng cao năng lực cạnh tranh và định hướng tiêu dùng từ Chính phủ sẽ tạo động lực cho phát triển](https://cafebiz.vn/doi-thoai-2045-ty-phu-nguyen-dang-quang-nang-cao-nang-luc-canh-tranh-va-dinh-huong-tieu-dung-tu-chinh-phu-se-tao-dong-luc-cho-phat-trien-20210306194040676.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bé 2 tuổi thủng ruột do nuốt phải bi nam châm đồ chơi](https://laodong.vn/suc-khoe/be-2-tuoi-thung-ruot-do-nuot-phai-bi-nam-cham-do-choi-886468.ldo) ([Lao Động](https://laodong.vn))
 - [Tấn Trường tiết lộ chấn thương của Quang Hải và sự chuẩn bị CLB Hà Nội](https://laodong.vn/video-the-thao/tan-truong-tiet-lo-chan-thuong-cua-quang-hai-va-su-chuan-bi-clb-ha-noi-886458.ldo) ([Lao Động](https://laodong.vn))
@@ -84,7 +85,6 @@
 - [Dự luật “siêu tỉ phú” đánh thẳng ví tiền Jeff Bezos, Elon Musk, Bill Gates](https://laodong.vn/kinh-te/du-luat-sieu-ti-phu-danh-thang-vi-tien-jeff-bezos-elon-musk-bill-gates-886454.ldo) ([Lao Động](https://laodong.vn))
 - [Đại dịch đã thay đổi thói quen tiêu xài của giới siêu giàu ra sao?](https://cafebiz.vn/dai-dich-da-thay-doi-thoi-quen-tieu-xai-cua-gioi-sieu-giau-ra-sao-20210306194313863.chn) ([CafeBiz](https://cafebiz.vn))
 - [TPHCM: Phong toả khách sạn có 35 người Trung Quốc nghi nhập cảnh trái phép](https://laodong.vn/xa-hoi/tphcm-phong-toa-khach-san-co-35-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-886451.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng: Đến năm 2045 sẽ xuất hiện các tập đoàn khổng lồ của Việt Nam](https://laodong.vn/thoi-su/thu-tuong-den-nam-2045-se-xuat-hien-cac-tap-doan-khong-lo-cua-viet-nam-886456.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
