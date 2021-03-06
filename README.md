@@ -22,7 +22,7 @@
 - Current weather is few clouds.
 - Temperature is 26°C.
 - Feels Like 28.11°C.
-- Air Visual is 119.
+- Air Visual is 138.
 
 **WEATHER**
 
@@ -49,25 +49,25 @@
 **GOOGLE TRENDS**
 
 - [![AC Milan](https://img.shields.io/static/v1?label=AC%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AC%20Milan)
-- [![Big C](https://img.shields.io/static/v1?label=Big%20C&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Big%20C)
+- [![Attack On Titan chap 138](https://img.shields.io/static/v1?label=Attack%20On%20Titan%20chap%20138&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Attack%20On%20Titan%20chap%20138)
 - [![Biểu tình ở Myanmar](https://img.shields.io/static/v1?label=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Everton](https://img.shields.io/static/v1?label=Everton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Everton)
-- [![Hướng dương ngược nắng - Tập 36](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20-%20T%E1%BA%ADp%2036)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
-- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
+- [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
-- [![TCBS](https://img.shields.io/static/v1?label=TCBS&message=google&color=red&style=flat-square)](https://www.google.com/search?q=TCBS)
 - [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
 - [![Valencia](https://img.shields.io/static/v1?label=Valencia&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Valencia)
+- [![Văn Mai Hương](https://img.shields.io/static/v1?label=V%C4%83n%20Mai%20H%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20Mai%20H%C6%B0%C6%A1ng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Độc đáo căn nhà "vảy cá" có 4 mái hiên ở Tây Ninh](https://cafebiz.vn/doc-dao-can-nha-vay-ca-co-4-mai-hien-o-tay-ninh-20210306093642629.chn) ([CafeBiz](https://cafebiz.vn))
-- [Diễn biến vụ Barcagate: Bartomeu đã ngăn cuộc điều tra nội bộ](https://laodong.vn/bong-da-quoc-te/dien-bien-vu-barcagate-bartomeu-da-ngan-cuoc-dieu-tra-noi-bo-886322.ldo) ([Lao Động](https://laodong.vn))
-- [Nuôi loài giáp xác lạ thu tiền triệu mỗi ký](https://laodong.vn/kinh-te/nuoi-loai-giap-xac-la-thu-tien-trieu-moi-ky-886291.ldo) ([Lao Động](https://laodong.vn))
-- [U22 Indonesia giành chiến thắng ở “trận cầu lịch sử”](https://laodong.vn/the-thao/u22-indonesia-gianh-chien-thang-o-tran-cau-lich-su-886323.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút: &quot;Siêu trái đất&quot; mới giúp săn tìm sự sống ngoài hành tinh](https://laodong.vn/video/ban-tin-1-phut-sieu-trai-dat-moi-giup-san-tim-su-song-ngoai-hanh-tinh-886298.ldo) ([Lao Động](https://laodong.vn))
-- [Nhà đầu tư Anh thông tin việc bị doanh nghiệp Việt kiện đòi bồi thường 20 tỉ euro](https://tuoitre.vn/nha-dau-tu-anh-thong-tin-viec-bi-doanh-nghiep-viet-kien-doi-boi-thuong-20-ti-euro-20210306120723056.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chuyển động đầu tiên của tàu vũ trụ NASA trên bề mặt sao Hỏa](https://laodong.vn/the-gioi/chuyen-dong-dau-tien-cua-tau-vu-tru-nasa-tren-be-mat-sao-hoa-886325.ldo) ([Lao Động](https://laodong.vn))
-- [Hộ khẩu tỉnh khác, có được làm căn cước công dân gắn chip ở Hà Nội?](https://laodong.vn/phap-luat/ho-khau-tinh-khac-co-duoc-lam-can-cuoc-cong-dan-gan-chip-o-ha-noi-886304.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam có thể xây dựng những doanh nghiệp lớn như Hàn Quốc để nền kinh tế 'cất cánh'](https://cafebiz.vn/viet-nam-co-the-xay-dung-nhung-doanh-nghiep-lon-nhu-han-quoc-de-nen-kinh-te-cat-canh-20210306121030362.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Cò' đất bay qua, nước mắt ở lại](https://cafebiz.vn/co-dat-bay-qua-nuoc-mat-o-lai-20210306120735288.chn) ([CafeBiz](https://cafebiz.vn))
+
 
 [Read More](docs/news/README.md)
 
@@ -139,7 +130,7 @@
 07. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 08. [Thêm đoạn clip cho thấy nỗ lực cứu bé gái rơi từ tầng 12 của anh Nguyễn Ngọc Mạnh | THDT](https://www.youtube.com/watch?v=YPe9q--jnEY) - [Truyền Hình Đồng Tháp](https://www.youtube.com/channel/UCDIl_FogyBJAUI3QVyLet8w)
 09. [Ông Võ Hoàng Yên Lý Giải Về T.ố C.á.o l.ừ.a đảo, dối trá hàng trăm tỷ đồng của vợ ông Dũng lò vôi](https://www.youtube.com/watch?v=G7PQbh2Ob4E) - [HOA LỆ SÀI GÒN](https://www.youtube.com/channel/UCJ7fUfDLagCvZGv0uD4shQA)
-10. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
