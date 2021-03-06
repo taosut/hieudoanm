@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 25°C.
-- Feels Like 26.57°C.
-- Air Visual is 151.
+- Temperature is 24°C.
+- Feels Like 25.76°C.
+- Air Visual is 154.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Chủ quán cà phê: Chờ cả tiếng nhưng chỉ có đúng 1 khách hàng chiều thứ 7](https://laodong.vn/photo/chu-quan-ca-phe-cho-ca-tieng-nhung-chi-co-dung-1-khach-hang-chieu-thu-7-886402.ldo) ([Lao Động](https://laodong.vn))
+- [Hàng trăm hộ dân ở Quảng Nam khổ sở vì phải dùng nước bẩn](https://laodong.vn/ban-doc/hang-tram-ho-dan-o-quang-nam-kho-so-vi-phai-dung-nuoc-ban-886416.ldo) ([Lao Động](https://laodong.vn))
+- [Tài tử đóng &quot;Phật Tổ&quot; - Tây du ký 1986: Sống viên mãn, khỏe mạnh ở tuổi U90](https://laodong.vn/van-hoa/tai-tu-dong-phat-to-tay-du-ky-1986-song-vien-man-khoe-manh-o-tuoi-u90-886166.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều 6.3, Hải Dương tiếp tục ghi nhận 6 ca mắc mới COVID-19](https://laodong.vn/y-te/chieu-63-hai-duong-tiep-tuc-ghi-nhan-6-ca-mac-moi-covid-19-886418.ldo) ([Lao Động](https://laodong.vn))
+- [Bốn lỗi vi phạm giao thông sẽ bị tước bằng lái xe đến 2 năm](https://laodong.vn/xe/bon-loi-vi-pham-giao-thong-se-bi-tuoc-bang-lai-xe-den-2-nam-886401.ldo) ([Lao Động](https://laodong.vn))
+- [Ngáo đá xách dao chém người, chém xe, công an và biên phòng cùng khống chế](https://tuoitre.vn/ngao-da-xach-dao-chem-nguoi-chem-xe-cong-an-va-bien-phong-cung-khong-che-20210306174009107.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nguyên Phó Chủ tịch UBND TPHCM sai phạm ra sao trong vụ án Sagri?](https://laodong.vn/phap-luat/nguyen-pho-chu-tich-ubnd-tphcm-sai-pham-ra-sao-trong-vu-an-sagri-886390.ldo) ([Lao Động](https://laodong.vn))
+- [Người dân Hà Nội &quot;chen chân&quot; đi làm căn cước công dân có gắn chíp](https://laodong.vn/photo/nguoi-dan-ha-noi-chen-chan-di-lam-can-cuoc-cong-dan-co-gan-chip-886386.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng: Tổng động viên mọi sức mạnh tiềm ẩn trong nhân dân](https://laodong.vn/thoi-su/thu-tuong-tong-dong-vien-moi-suc-manh-tiem-an-trong-nhan-dan-886391.ldo) ([Lao Động](https://laodong.vn))
+- [35 người Trung Quốc nghi nhập cảnh trái phép, TP.HCM phong tỏa 1 khách sạn](http://vietnamnet.vn/vn/thoi-su/35-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-tp-hcm-phong-toa-1-khach-san-717732.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -87,7 +96,7 @@
 
 **VIETCETERA**
 
-- [10 Sự "lươn lẹo" để thấy đời không như là mơ](https://vietcetera.com/vn/10-loi-noi-doi-de-thay-cuoc-song-la-nhung-cu-lua)
+- [10 Sự "lươn lẹo" để thấy đời không như là mơ](https://vietcetera.com/vn/10-kieu-luon-leo-de-thay-doi-khong-nhu-la-mo)
 - [Vì sao 4 thành viên Blackpink được chọn làm đại sứ thương hiệu cho Dior, Chanel, Saint Laurent, và Celine? ](https://vietcetera.com/vn/cac-hang-thoi-trang-chon-ai-trong-blackpink-lam-dai-su-thuong-hieu)
 - [5 Phim hành động Netflix cho cuối tuần thêm "gay cấn"](https://vietcetera.com/vn/5-phim-hanh-dong-netflix-cho-cuoi-tuan-them-gay-can)
 - [Loay hoay tìm nguồn cơn và cách thoát khỏi hố đen trầm cảm](https://vietcetera.com/vn/loay-hoay-tim-nguon-con-va-cach-thoat-khoi-ho-den-tram-cam)
