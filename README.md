@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 21°C.
 - Feels Like 23.25°C.
-- Air Visual is 107.
+- Air Visual is 104.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [CEO sàn giao dịch tiền số lớn nhất thế giới Coinbase sẽ kiếm được hơn 1 triệu USD mỗi ngày trong 10 năm tới?](https://cafebiz.vn/ceo-san-giao-dich-tien-so-lon-nhat-the-gioi-coinbase-se-kiem-duoc-hon-1-trieu-usd-moi-ngay-trong-10-nam-toi-20210306093949589.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá vàng hôm nay 6.3: Tiếp tục sụt giảm, triển vọng u ám](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-63-tiep-tuc-sut-giam-trien-vong-u-am-886243.ldo) ([Lao Động](https://laodong.vn))
+- [Jack Ma chưa bao giờ đọc sơ yếu lí lịch của nhân viên, vì đây mới là điều ông quan tâm nhất](https://cafebiz.vn/jack-ma-chua-bao-gio-doc-so-yeu-li-lich-cua-nhan-vien-vi-day-moi-la-dieu-ong-quan-tam-nhat-20210306085648541.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cựu quan chức đầu tiên thời ông Trump bị bắt vì bạo loạn Capitol](https://laodong.vn/the-gioi/cuu-quan-chuc-dau-tien-thoi-ong-trump-bi-bat-vi-bao-loan-capitol-886237.ldo) ([Lao Động](https://laodong.vn))
+- [38 thói quen tốt giúp bạn "lột xác", chắc chắn may mắn cả sự nghiệp lẫn cuộc sống](https://cafebiz.vn/38-thoi-quen-tot-giup-ban-lot-xac-chac-chan-may-man-ca-su-nghiep-lan-cuoc-song-20210302160706786.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng: Hơn 1.200 suất quà tặng công nhân lao động](https://laodong.vn/cong-doan/hai-phong-hon-1200-suat-qua-tang-cong-nhan-lao-dong-886236.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương sẽ tiêm vắc xin COVID-19 từ ngày 8.3](https://laodong.vn/y-te/hai-duong-se-tiem-vac-xin-covid-19-tu-ngay-83-886235.ldo) ([Lao Động](https://laodong.vn))
+- [An Giang: Câu chuyện đặc biệt đằng sau những chiếc gáo dừa cũ kĩ](https://laodong.vn/photo/an-giang-cau-chuyen-dac-biet-dang-sau-nhung-chiec-gao-dua-cu-ki-885932.ldo) ([Lao Động](https://laodong.vn))
+- [Thúy Ngân nóng bỏng, quyến rũ, tiết lộ lý do phải là người sống mạnh mẽ](https://laodong.vn/photo/thuy-ngan-nong-bong-quyen-ru-tiet-lo-ly-do-phai-la-nguoi-song-manh-me-886179.ldo) ([Lao Động](https://laodong.vn))
 - [GS Nguyễn Anh Trí: 'Tôi đang chuẩn bị hồ sơ tự ứng cử lần hai'](https://vnexpress.net/gs-nguyen-anh-tri-toi-dang-chuan-bi-ho-so-tu-ung-cu-lan-hai-4243958.html) ([VNExpress](https://vnexpress.net))
-- [Chân dung thế hệ F1 của 'bông hồng thép' ngành cơ điện Nguyễn Thị Mai Thanh: Giỏi giang chung vai gánh vác cơ nghiệp cùng mẹ, mẹ vừa là sếp vừa là thầy](https://cafebiz.vn/chan-dung-the-he-f1-cua-bong-hong-thep-nganh-co-dien-nguyen-thi-mai-thanh-gioi-giang-chung-vai-ganh-vac-co-nghiep-cung-me-me-vua-la-sep-vua-la-thay-20210304140233733.chn) ([CafeBiz](https://cafebiz.vn))
-- [CĐ viên chức tỉnh Ninh Bình: Chung tay giải cứu nông sản Hải Dương](https://laodong.vn/cong-doan/cd-vien-chuc-tinh-ninh-binh-chung-tay-giai-cuu-nong-san-hai-duong-886223.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Bình: Khởi tố một trạm trưởng Trạm quản lý bảo vệ rừng](https://laodong.vn/phap-luat/quang-binh-khoi-to-mot-tram-truong-tram-quan-ly-bao-ve-rung-886239.ldo) ([Lao Động](https://laodong.vn))
-- [Chứng kiến tuần tồi tệ nhất trong 6 tháng, vốn hoá cổ phiếu công nghệ 'bốc hơi' 1,6 nghìn tỷ USD](https://cafebiz.vn/chung-kien-tuan-toi-te-nhat-trong-6-thang-von-hoa-co-phieu-cong-nghe-boc-hoi-16-nghin-ty-usd-20210306084728402.chn) ([CafeBiz](https://cafebiz.vn))
-- [LĐLĐ tỉnh Điện Biên tổ chức hội nghị cán bộ, công chức năm 2021](https://laodong.vn/ldld-dien-bien/ldld-tinh-dien-bien-to-chuc-hoi-nghi-can-bo-cong-chuc-nam-2021-886208.ldo) ([Lao Động](https://laodong.vn))
-- [Thị trường BĐS 2 tháng đầu năm 2021 có những điểm sáng nào?](https://cafebiz.vn/thi-truong-bds-2-thang-dau-nam-2021-co-nhung-diem-sang-nao-20210306084204379.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quy định đóng bảo hiểm xã hội một lần để về hưu sớm](https://laodong.vn/ban-doc/quy-dinh-dong-bao-hiem-xa-hoi-mot-lan-de-ve-huu-som-886210.ldo) ([Lao Động](https://laodong.vn))
-- [Eximbank đã bị bỏ lại phía sau như thế nào?](https://cafebiz.vn/eximbank-da-bi-bo-lai-phia-sau-nhu-the-nao-20210306083909827.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuyển động nhân sự ở cao tầng Coteccons: Ông Võ Thanh Liêm chính thức rời vị trí Quyền Tổng Giám đốc, bổ sung thêm 2 Phó Tổng mới](https://cafebiz.vn/chuyen-dong-nhan-su-o-cao-tang-coteccons-ong-vo-thanh-liem-chinh-thuc-roi-vi-tri-quyen-tong-giam-doc-bo-sung-them-2-pho-tong-moi-20210305174851277.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -134,9 +134,9 @@
 02. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 04. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-05. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
-06. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-07. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+06. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
+07. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
 08. [Người hùng cứu bé gái rơi từ tầng 12A chung cư cảm thấy tiếc vì để cháu bé bị thương | VTC Now](https://www.youtube.com/watch?v=-FDDWF4y6vc) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 09. [Thêm đoạn clip cho thấy nỗ lực cứu bé gái rơi từ tầng 12 của anh Nguyễn Ngọc Mạnh | THDT](https://www.youtube.com/watch?v=YPe9q--jnEY) - [Truyền Hình Đồng Tháp](https://www.youtube.com/channel/UCDIl_FogyBJAUI3QVyLet8w)
 10. [Ông Võ Hoàng Yên Lý Giải Về T.ố C.á.o l.ừ.a đảo, dối trá hàng trăm tỷ đồng của vợ ông Dũng lò vôi](https://www.youtube.com/watch?v=G7PQbh2Ob4E) - [HOA LỆ SÀI GÒN](https://www.youtube.com/channel/UCJ7fUfDLagCvZGv0uD4shQA)
