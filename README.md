@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 27°C.
-- Feels Like 28.21°C.
-- Air Visual is 135.
+- Temperature is 26°C.
+- Feels Like 27.03°C.
+- Air Visual is 144.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Apple đang tạo ra ‘sự cố Y2K’ mới khiến Facebook chao đảo: Có thể thổi bay 5 tỷ USD lợi nhuận quý 2/2021 của MXH tỷ dân?](https://cafebiz.vn/apple-dang-tao-ra-su-co-y2k-moi-khien-facebook-chao-dao-co-the-thoi-bay-5-ty-usd-loi-nhuan-quy-2-2021-cua-mxh-ty-dan-2021030611213974.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lãi suất vay mượn vốn giữa các ngân hàng đồng loạt giảm](https://laodong.vn/kinh-te/lai-suat-vay-muon-von-giua-cac-ngan-hang-dong-loat-giam-886377.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng: 'Huy động mọi sức mạnh để Việt Nam hùng cường'](https://vnexpress.net/thu-tuong-huy-dong-moi-suc-manh-de-viet-nam-hung-cuong-4244499.html) ([VNExpress](https://vnexpress.net))
+- [Thủ tục thuê nhà công vụ từ năm 2021](https://laodong.vn/bat-dong-san/thu-tuc-thue-nha-cong-vu-tu-nam-2021-886225.ldo) ([Lao Động](https://laodong.vn))
+- [Tước giấy phép lái xe đối với xe máy trong trường hợp nào?](https://laodong.vn/xe/tuoc-giay-phep-lai-xe-doi-voi-xe-may-trong-truong-hop-nao-886375.ldo) ([Lao Động](https://laodong.vn))
+- [Những quy tắc tài xế xe bán tải phải biết để tránh bị xử phạt](https://laodong.vn/xe/nhung-quy-tac-tai-xe-xe-ban-tai-phai-biet-de-tranh-bi-xu-phat-886272.ldo) ([Lao Động](https://laodong.vn))
+- [Barcelona dùng Aguero và Di Maria dụ Messi, lợi hay hại?](https://laodong.vn/bong-da-quoc-te/barcelona-dung-aguero-va-di-maria-du-messi-loi-hay-hai-886366.ldo) ([Lao Động](https://laodong.vn))
+- [CSGT dùng súng khống chế kẻ ngáo đá chém người và xe điên loạn](http://vietnamnet.vn/vn/thoi-su/csgt-dung-sung-khong-che-ke-ngao-da-chem-nguoi-va-xe-dien-loan-717720.html) ([VietNamNet](https://vietnamnet.vn))
 - [WHO sẽ công bố kết quả điều tra nguồn gốc Covid-19 vào giữa tháng 3](https://cafebiz.vn/who-se-cong-bo-ket-qua-dieu-tra-nguon-goc-covid-19-vao-giua-thang-3-20210306135511405.chn) ([CafeBiz](https://cafebiz.vn))
-- [Arsenal thành tích kém và thua lỗ: Mikel Arteta khó được như ý](https://laodong.vn/bong-da-quoc-te/arsenal-thanh-tich-kem-va-thua-lo-mikel-arteta-kho-duoc-nhu-y-886328.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;8.3 cũng như bao ngày bình thường khác&quot;](https://laodong.vn/xa-hoi/83-cung-nhu-bao-ngay-binh-thuong-khac-886380.ldo) ([Lao Động](https://laodong.vn))
-- [Nhà khảo cổ bỏ 1.800 NDT mua lại 'bó củi' từ một cụ già: Đây là bảo vật quốc gia, giá trị không dưới 100 triệu NDT!](https://cafebiz.vn/nha-khao-co-bo-1800-ndt-mua-lai-bo-cui-tu-mot-cu-gia-day-la-bao-vat-quoc-gia-gia-tri-khong-duoi-100-trieu-ndt-20210306150518072.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội thí điểm mô hình cứu nạn, cứu hộ trên sông Hồng](https://laodong.vn/xa-hoi/ha-noi-thi-diem-mo-hinh-cuu-nan-cuu-ho-tren-song-hong-886388.ldo) ([Lao Động](https://laodong.vn))
-- [Trung Quốc đặt mục tiêu thành 'siêu cường sản xuất' vào năm 2025](https://laodong.vn/the-gioi/trung-quoc-dat-muc-tieu-thanh-sieu-cuong-san-xuat-vao-nam-2025-886382.ldo) ([Lao Động](https://laodong.vn))
-- [Tiến sĩ Nguyễn Văn Khải đề nghị bãi bỏ chứng chỉ nghề nghiệp giáo viên](https://laodong.vn/ban-doc/tien-si-nguyen-van-khai-de-nghi-bai-bo-chung-chi-nghe-nghiep-giao-vien-886269.ldo) ([Lao Động](https://laodong.vn))
-- [10 đứa trẻ tự thân giàu nhất thế giới: Khi tài không đợi tuổi, người lớn nhìn vào đều phải trầm trồ ngưỡng mộ, nhất là em bé số 2](https://cafebiz.vn/10-dua-tre-tu-than-giau-nhat-the-gioi-khi-tai-khong-doi-tuoi-nguoi-lon-nhin-vao-deu-phai-tram-tro-nguong-mo-nhat-la-em-be-so-2-20210306134924197.chn) ([CafeBiz](https://cafebiz.vn))
-- [&quot;Thợ săn MH370&quot; thỉnh cầu cuộc tìm kiếm mới](https://laodong.vn/the-gioi/tho-san-mh370-thinh-cau-cuoc-tim-kiem-moi-886368.ldo) ([Lao Động](https://laodong.vn))
-- [Đề nghị truy tố cựu Tổng Giám đốc Sagri cùng 15 bị can](https://laodong.vn/phap-luat/de-nghi-truy-to-cuu-tong-giam-doc-sagri-cung-15-bi-can-886378.ldo) ([Lao Động](https://laodong.vn))
+- [Đề nghị truy tố ông Trần Vĩnh Tuyến, Lê Tấn Hùng](http://vietnamnet.vn/vn/thoi-su/de-nghi-truy-to-ong-tran-vinh-tuyen-le-tan-hung-717723.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
