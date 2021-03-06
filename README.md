@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [“Sốt đất ảo” ở Bình Phước - ôm đất bạc tỉ mà “khóc”](https://laodong.vn/bat-dong-san/sot-dat-ao-o-binh-phuoc-om-dat-bac-ti-ma-khoc-886168.ldo) ([Lao Động](https://laodong.vn))
-- [Tổng cục Hải quan lên tiếng vụ Đội trưởng chống buôn lậu khu vực miền Nam bị bắt](https://cafebiz.vn/tong-cuc-hai-quan-len-tieng-vu-doi-truong-chong-buon-lau-khu-vuc-mien-nam-bi-bat-20210306104507063.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Nguyễn Đức Tài: Con người luôn hành động với 2 động lực là Tiền và Niềm vui! Nếu kết hợp được startup sẽ lớn mạnh, nếu không nhân sự sẽ bỏ đi](https://cafebiz.vn/ong-nguyen-duc-tai-con-nguoi-luon-hanh-dong-voi-2-dong-luc-la-tien-va-niem-vui-neu-ket-hop-duoc-startup-se-lon-manh-neu-khong-nhan-su-se-bo-di-20210305162539535.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bộ Y tế 'tuýt còi' việc Bệnh viện Bạch Mai tăng giá khám chữa bệnh](https://cafebiz.vn/bo-y-te-tuyt-coi-viec-benh-vien-bach-mai-tang-gia-kham-chua-benh-2021030610434402.chn) ([CafeBiz](https://cafebiz.vn))
-- [&quot;Xế hộp&quot; Camry đi loạng choạng trên đường, khiến nhiều người thót tim](https://laodong.vn/xe/xe-hop-camry-di-loang-choang-tren-duong-khien-nhieu-nguoi-thot-tim-886264.ldo) ([Lao Động](https://laodong.vn))
-- [Đang bay, phi công Boeing 737 MAX phải tắt động cơ, hạ cánh khẩn cấp](https://cafebiz.vn/dang-bay-phi-cong-boeing-737-max-phai-tat-dong-co-ha-canh-khan-cap-20210306104157988.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giải độc gan tại nhà với những loại trái cây sẵn có](https://laodong.vn/dinh-duong-am-thuc/giai-doc-gan-tai-nha-voi-nhung-loai-trai-cay-san-co-886207.ldo) ([Lao Động](https://laodong.vn))
-- [Trao &quot;Mái ấm Công đoàn&quot; cho đoàn viên không có điều kiện xây nhà ở](https://laodong.vn/cong-doan/trao-mai-am-cong-doan-cho-doan-vien-khong-co-dieu-kien-xay-nha-o-886271.ldo) ([Lao Động](https://laodong.vn))
-- [Đội trưởng chống buôn lậu Hải quan bị bắt liên quan vụ làm giả hơn 200 triệu lít xăng](https://cafebiz.vn/doi-truong-chong-buon-lau-hai-quan-bi-bat-lien-quan-vu-lam-gia-hon-200-trieu-lit-xang-20210306103905804.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nam: Vừa ra tù lại lẻn vào nhà dân trộm cắp tài sản](https://laodong.vn/phap-luat/ha-nam-vua-ra-tu-lai-len-vao-nha-dan-trom-cap-tai-san-886250.ldo) ([Lao Động](https://laodong.vn))
+- [Bị antifan tố "ăn cắp" ý tưởng món kẹo mạch nha của Lý Tử Thất, chủ nhân Bếp Trên Đỉnh Đồi chính thức lên tiếng](https://cafebiz.vn/bi-antifan-to-an-cap-y-tuong-mon-keo-mach-nha-cua-ly-tu-that-chu-nhan-bep-tren-dinh-doi-chinh-thuc-len-tieng-20210306091602999.chn) ([CafeBiz](https://cafebiz.vn))
+- [Công dụng giờ mới khám phá ra của mái lợp kết hợp pin mặt trời Tesla: không đọng tuyết!](https://cafebiz.vn/cong-dung-gio-moi-kham-pha-ra-cua-mai-lop-ket-hop-pin-mat-troi-tesla-khong-dong-tuyet-20210306090103723.chn) ([CafeBiz](https://cafebiz.vn))
+- [VinShop tặng gói bảo hiểm sức khỏe cho 65.000 chủ tạp hóa](https://laodong.vn/doanh-nghiep-doanh-nhan/vinshop-tang-goi-bao-hiem-suc-khoe-cho-65000-chu-tap-hoa-885995.ldo) ([Lao Động](https://laodong.vn))
+- [Người nước ngoài ở TPHCM khám BHYT ở bệnh viện nào?](https://laodong.vn/ban-doc/nguoi-nuoc-ngoai-o-tphcm-kham-bhyt-o-benh-vien-nao-886027.ldo) ([Lao Động](https://laodong.vn))
+- [Lao động nữ ngành điện Quảng Trị với Tuần lễ áo dài](https://laodong.vn/photo/lao-dong-nu-nganh-dien-quang-tri-voi-tuan-le-ao-dai-886052.ldo) ([Lao Động](https://laodong.vn))
+- [TP.Hồ Chí Minh: Mỏi mòn chờ cầu kết nối Khu đô thị mới Thủ Thiêm](https://laodong.vn/xa-hoi/tpho-chi-minh-moi-mon-cho-cau-ket-noi-khu-do-thi-moi-thu-thiem-886155.ldo) ([Lao Động](https://laodong.vn))
+- [Tổng cục Hải quan nói gì về vụ đội trưởng đội kiểm soát chống buôn lậu bị bắt?](https://tuoitre.vn/tong-cuc-hai-quan-noi-gi-ve-vu-doi-truong-doi-kiem-soat-chong-buon-lau-bi-bat-20210306103805015.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [12 giảng viên đồng loạt xin nghỉ việc](https://vnexpress.net/12-giang-vien-dong-loat-xin-nghi-viec-4244275.html) ([VNExpress](https://vnexpress.net))
+- [Tổng cục Hải quan nói về vụ cán bộ bị bắt liên quan chuyên án xăng giả](https://laodong.vn/kinh-te/tong-cuc-hai-quan-noi-ve-vu-can-bo-bi-bat-lien-quan-chuyen-an-xang-gia-886276.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Chờ đợi 10 cây cầu mới bắc qua sông Hồng để giải quyết ùn tắc](https://laodong.vn/xa-hoi/ha-noi-cho-doi-10-cay-cau-moi-bac-qua-song-hong-de-giai-quyet-un-tac-886165.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
