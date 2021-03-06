@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is scattered clouds.
 - Temperature is 24°C.
-- Feels Like 26.71°C.
-- Air Visual is 164.
+- Feels Like 25.76°C.
+- Air Visual is 163.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tin bóng đá tối 6.3: Oscar muốn tái hợp với Chelsea](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-63-oscar-muon-tai-hop-voi-chelsea-886414.ldo) ([Lao Động](https://laodong.vn))
-- [Văn Quyết lập cú đúp, Hà Nội thắng Phú Thọ 5-0 trong trận giao hữu](https://laodong.vn/bong-da/van-quyet-lap-cu-dup-ha-noi-thang-phu-tho-5-0-trong-tran-giao-huu-886403.ldo) ([Lao Động](https://laodong.vn))
-- [VN-Index có thể dao động trong khoảng 1.000 - 1.400 điểm trong tháng 3](https://laodong.vn/kinh-te/vn-index-co-the-dao-dong-trong-khoang-1000-1400-diem-trong-thang-3-886420.ldo) ([Lao Động](https://laodong.vn))
-- [Điện Biên: Tai nạn tại mỏ chì, 1 công nhân tử vong](https://laodong.vn/xa-hoi/dien-bien-tai-nan-tai-mo-chi-1-cong-nhan-tu-vong-886422.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều 6-3 thêm 6 ca mắc COVID-19 mới tại Hải Dương, lại có 2 ca đã cách ly hơn 1 tháng](https://tuoitre.vn/chieu-6-3-them-6-ca-mac-covid-19-moi-tai-hai-duong-lai-co-2-ca-da-cach-ly-hon-1-thang-20210306181013892.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Công ty ở Bình Dương tổ chức Hội thi Nét đẹp áo dài nữ công nhân lao động](https://laodong.vn/ldld-binh-duong/cong-ty-o-binh-duong-to-chuc-hoi-thi-net-dep-ao-dai-nu-cong-nhan-lao-dong-886411.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ quán cà phê: Chờ cả tiếng nhưng chỉ có đúng 1 khách hàng chiều thứ 7](https://laodong.vn/photo/chu-quan-ca-phe-cho-ca-tieng-nhung-chi-co-dung-1-khach-hang-chieu-thu-7-886402.ldo) ([Lao Động](https://laodong.vn))
-- [Ngáo đá xách dao chém người, chém xe, công an và biên phòng cùng khống chế](https://tuoitre.vn/ngao-da-xach-dao-chem-nguoi-chem-xe-cong-an-va-bien-phong-cung-khong-che-20210306174009107.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nguyên Phó Chủ tịch UBND TPHCM sai phạm ra sao trong vụ án Sagri?](https://laodong.vn/phap-luat/nguyen-pho-chu-tich-ubnd-tphcm-sai-pham-ra-sao-trong-vu-an-sagri-886390.ldo) ([Lao Động](https://laodong.vn))
-- [Người dân Hà Nội &quot;chen chân&quot; đi làm căn cước công dân có gắn chíp](https://laodong.vn/photo/nguoi-dan-ha-noi-chen-chan-di-lam-can-cuoc-cong-dan-co-gan-chip-886386.ldo) ([Lao Động](https://laodong.vn))
+- [Phát hiện 35 người Trung Quốc nghi nhập cảnh trái phép tại khách sạn trung tâm Sài Gòn](https://cafebiz.vn/phat-hien-35-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-tai-khach-san-trung-tam-sai-gon-20210306190832233.chn) ([CafeBiz](https://cafebiz.vn))
+- [4 nguyên nhân khiến xe máy dừng đột ngột giữa đường](https://laodong.vn/xe/4-nguyen-nhan-khien-xe-may-dung-dot-ngot-giua-duong-885919.ldo) ([Lao Động](https://laodong.vn))
+- [Khóa Huy Hoàng đồng hành cùng tỉnh Hải Dương vượt qua đại dịch Covid-19](https://cafebiz.vn/khoa-huy-hoang-dong-hanh-cung-tinh-hai-duong-vuot-qua-dai-dich-covid-19-20210306181245107.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo dục 24/7: Phạt tới 10 triệu đồng với người xúc phạm danh dự giáo viên](https://laodong.vn/video/giao-duc-247-phat-toi-10-trieu-dong-voi-nguoi-xuc-pham-danh-du-giao-vien-886427.ldo) ([Lao Động](https://laodong.vn))
+- [Bốn yếu tố tác động đến thị trường chứng khoán trong tháng 3](https://laodong.vn/kinh-te/bon-yeu-to-tac-dong-den-thi-truong-chung-khoan-trong-thang-3-886431.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều 6/3, thêm 6 ca mắc COVID-19 mới tại Hải Dương](https://cafebiz.vn/chieu-6-3-them-6-ca-mac-covid-19-moi-tai-hai-duong-20210306190600127.chn) ([CafeBiz](https://cafebiz.vn))
+- [1 nhân viên y tế Hải Dương dương tính COVID-19, phong tỏa 400 hộ dân liên quan](https://tuoitre.vn/1-nhan-vien-y-te-hai-duong-duong-tinh-covid-19-phong-toa-400-ho-dan-lien-quan-20210306182941306.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Gia tăng tương tác với người dùng, Tesla lập mạng xã hội riêng](https://cafebiz.vn/gia-tang-tuong-tac-voi-nguoi-dung-tesla-lap-mang-xa-hoi-rieng-20210306190330663.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quang Hải chấn thương trước khi V.League 2021 trở lại](https://laodong.vn/bong-da/quang-hai-chan-thuong-truoc-khi-vleague-2021-tro-lai-886429.ldo) ([Lao Động](https://laodong.vn))
+- [Tổng thống Joe Biden nói gì khi tàu thăm dò NASA hạ cánh xuống sao Hoả?](https://laodong.vn/photo/tong-thong-joe-biden-noi-gi-khi-tau-tham-do-nasa-ha-canh-xuong-sao-hoa-886305.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
