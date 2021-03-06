@@ -75,6 +75,9 @@
 
 **NEWS**
 
+- [Cận cảnh hoa hồng đúc vàng giá 330 triệu đồng được đại gia Hải Phòng mua làm quà tặng ngày 8/3](https://cafebiz.vn/can-canh-hoa-hong-duc-vang-gia-330-trieu-dong-duoc-dai-gia-hai-phong-mua-lam-qua-tang-ngay-8-3-20210306134137271.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mitsubishi Attrage 2021 và Honda City 2021: Xe nào đáng mua?](https://laodong.vn/xe/mitsubishi-attrage-2021-va-honda-city-2021-xe-nao-dang-mua-886274.ldo) ([Lao Động](https://laodong.vn))
+- [Gara ô tô chật ních siêu xe của nữ doanh nhân cà phê bỗng xuất hiện một Honda Dream "lạc lõng"](https://cafebiz.vn/gara-o-to-chat-nich-sieu-xe-cua-nu-doanh-nhan-ca-phe-bong-xuat-hien-mot-honda-dream-lac-long-20210306144817827.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bỏ nước Mỹ về sống bên bờ biển, đây là cách một gia đình tìm thấy hạnh phúc](https://cafebiz.vn/bo-nuoc-my-ve-song-ben-bo-bien-day-la-cach-mot-gia-dinh-tim-thay-hanh-phuc-20210306133841535.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cận kề ngày 8.3, hoa hồng được quảng cáo mạ vàng giá siêu rẻ bán tràn lan](https://laodong.vn/kinh-te/can-ke-ngay-83-hoa-hong-duoc-quang-cao-ma-vang-gia-sieu-re-ban-tran-lan-886289.ldo) ([Lao Động](https://laodong.vn))
 - [Đề xuất công dân đăng ký cư trú qua mạng](https://vnexpress.net/de-xuat-cong-dan-dang-ky-cu-tru-qua-mang-4244428.html) ([VNExpress](https://vnexpress.net))
@@ -82,9 +85,6 @@
 - [3 mỹ nhân Việt 25 tuổi nỗ lực không ngừng, để 10 năm sau xinh đẹp, giàu sang và hơn cả là một sự nghiệp thành công khiến ai cũng ngưỡng mộ](https://cafebiz.vn/3-my-nhan-viet-25-tuoi-no-luc-khong-ngung-de-10-nam-sau-xinh-dep-giau-sang-va-hon-ca-la-mot-su-nghiep-thanh-cong-khien-ai-cung-nguong-mo-20210306144634844.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thủ tướng bắt đầu 'Đối thoại 2045': Lắng nghe tiếng nói từ giới tinh hoa](https://tuoitre.vn/thu-tuong-bat-dau-doi-thoai-2045-lang-nghe-tieng-noi-tu-gioi-tinh-hoa-20210306151257947.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bình Dương: Làm rõ vụ tai nạn chết người ngay phía trước cảng An Sơn](https://laodong.vn/giao-thong/binh-duong-lam-ro-vu-tai-nan-chet-nguoi-ngay-phia-truoc-cang-an-son-886362.ldo) ([Lao Động](https://laodong.vn))
-- [Barcelona: 3 ứng viên Chủ tịch công kích nhau trước ngày bầu cử](https://laodong.vn/bong-da-quoc-te/barcelona-3-ung-vien-chu-tich-cong-kich-nhau-truoc-ngay-bau-cu-886345.ldo) ([Lao Động](https://laodong.vn))
-- [Tàu du lịch 5 sao lật nghiêng khi neo đậu](https://vnexpress.net/tau-du-lich-5-sao-lat-nghieng-khi-neo-dau-4244457.html) ([VNExpress](https://vnexpress.net))
-- [Ùn tắc kéo dài nhiều giờ trên đường ĐT 743 ở Bình Dương](https://laodong.vn/xa-hoi/un-tac-keo-dai-nhieu-gio-tren-duong-dt-743-o-binh-duong-886349.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
