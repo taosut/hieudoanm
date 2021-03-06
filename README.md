@@ -21,8 +21,8 @@
 
 - Current weather is overcast clouds.
 - Temperature is 24°C.
-- Feels Like 26.48°C.
-- Air Visual is 109.
+- Feels Like 25.76°C.
+- Air Visual is 93.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tấn Trường tiết lộ chấn thương của Quang Hải và sự chuẩn bị CLB Hà Nội](https://laodong.vn/video-the-thao/tan-truong-tiet-lo-chan-thuong-cua-quang-hai-va-su-chuan-bi-clb-ha-noi-886458.ldo) ([Lao Động](https://laodong.vn))
+- [Quang Hải trầm tư nhìn đồng đội đại thắng câu lạc bộ hạng Nhất](https://laodong.vn/photo/quang-hai-tram-tu-nhin-dong-doi-dai-thang-cau-lac-bo-hang-nhat-886461.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất làm sân bay Quảng Trị, nâng cấp sân bay Phú Bài](https://tuoitre.vn/de-xuat-lam-san-bay-quang-tri-nang-cap-san-bay-phu-bai-20210306210553427.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tài sản tỉ phú Elon Musk “bay” 27 tỉ USD khi cổ phiếu công nghệ đổ dốc](https://laodong.vn/kinh-te/tai-san-ti-phu-elon-musk-bay-27-ti-usd-khi-co-phieu-cong-nghe-do-doc-886462.ldo) ([Lao Động](https://laodong.vn))
 - [Dự luật “siêu tỉ phú” đánh thẳng ví tiền Jeff Bezos, Elon Musk, Bill Gates](https://laodong.vn/kinh-te/du-luat-sieu-ti-phu-danh-thang-vi-tien-jeff-bezos-elon-musk-bill-gates-886454.ldo) ([Lao Động](https://laodong.vn))
 - [Đại dịch đã thay đổi thói quen tiêu xài của giới siêu giàu ra sao?](https://cafebiz.vn/dai-dich-da-thay-doi-thoi-quen-tieu-xai-cua-gioi-sieu-giau-ra-sao-20210306194313863.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hoa ban nở trắng tại Ciputra: Chụp ảnh &quot;quên&quot; phòng dịch?](https://laodong.vn/xa-hoi/hoa-ban-no-trang-tai-ciputra-chup-anh-quen-phong-dich-886428.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt giữ xe tải chở gỗ không rõ nguồn gốc](https://laodong.vn/phap-luat/bat-giu-xe-tai-cho-go-khong-ro-nguon-goc-886389.ldo) ([Lao Động](https://laodong.vn))
-- [BIDV cảm ơn khách hàng nữ với hàng ngàn quà tặng](https://laodong.vn/kinh-te/bidv-cam-on-khach-hang-nu-voi-hang-ngan-qua-tang-886404.ldo) ([Lao Động](https://laodong.vn))
 - [TPHCM: Phong toả khách sạn có 35 người Trung Quốc nghi nhập cảnh trái phép](https://laodong.vn/xa-hoi/tphcm-phong-toa-khach-san-co-35-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-886451.ldo) ([Lao Động](https://laodong.vn))
 - [Thủ tướng: Đến năm 2045 sẽ xuất hiện các tập đoàn khổng lồ của Việt Nam](https://laodong.vn/thoi-su/thu-tuong-den-nam-2045-se-xuat-hien-cac-tap-doan-khong-lo-cua-viet-nam-886456.ldo) ([Lao Động](https://laodong.vn))
 - [Biết giao thầu đất sai quy định nhưng vẫn kệ vì &quot;tập thể thống nhất cao&quot;](https://laodong.vn/bat-dong-san/biet-giao-thau-dat-sai-quy-dinh-nhung-van-ke-vi-tap-the-thong-nhat-cao-884729.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương sẽ tiêm vắc xin phòng COVID-19 cho 40.000 người](https://cafebiz.vn/hai-duong-se-tiem-vac-xin-phong-covid-19-cho-40000-nguoi-20210306194638092.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
