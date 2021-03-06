@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 24.87°C.
-- Air Visual is 138.
+- Feels Like 23.79°C.
+- Air Visual is 144.
 
 **WEATHER**
 
@@ -62,7 +62,7 @@
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Myanmar](https://img.shields.io/static/v1?label=Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Myanmar)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
-- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![TCBS](https://img.shields.io/static/v1?label=TCBS&message=google&color=red&style=flat-square)](https://www.google.com/search?q=TCBS)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Những người phụ nữ góp phần thay đổi ngành công nghiệp xe hơi](https://cafebiz.vn/nhung-nguoiphu-nu-gop-phan-thay-doi-nganh-cong-nghiep-xe-hoi-2021030608585532.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhà khoa học nữ về virus trở thành gương mặt trẻ Thủ đô tiêu biểu năm 2020](https://laodong.vn/video/nha-khoa-hoc-nu-ve-virus-tro-thanh-guong-mat-tre-thu-do-tieu-bieu-nam-2020-885943.ldo) ([Lao Động](https://laodong.vn))
-- [Sức hút vững bền từ “thị xã trong sương” Sa Pa](https://laodong.vn/kinh-te/suc-hut-vung-ben-tu-thi-xa-trong-suong-sa-pa-886000.ldo) ([Lao Động](https://laodong.vn))
-- [Hậu Giang: Mang không khí ngày 8.3 đến với nữ CNVCLĐ huyện vùng sâu](https://laodong.vn/ldld-hau-giang/hau-giang-mang-khong-khi-ngay-83-den-voi-nu-cnvcld-huyen-vung-sau-886263.ldo) ([Lao Động](https://laodong.vn))
-- [Nguyên nhân nào dẫn tới hiện tượng rùng mình?](https://laodong.vn/suc-khoe/nguyen-nhan-nao-dan-toi-hien-tuong-rung-minh-885716.ldo) ([Lao Động](https://laodong.vn))
-- [Một số mẫu xe giá từ  700-800 triệu bạn có thể tham khảo](https://laodong.vn/xe/mot-so-mau-xe-gia-tu-700-800-trieu-ban-co-the-tham-khao-886244.ldo) ([Lao Động](https://laodong.vn))
-- [Hô hào giá lên 2.000 USD, vị tỷ phú này vừa bán 1,8 triệu cổ phiếu Tesla](https://cafebiz.vn/ho-hao-gia-len-2000-usd-vi-ty-phu-nay-vua-ban-18-trieu-co-phieu-tesla-20210306085006306.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lãi suất huy động bất ngờ tăng mạnh tại một số ngân hàng](https://cafebiz.vn/lai-suat-huy-dong-bat-ngo-tang-manh-tai-mot-so-ngan-hang-20210306101916016.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vì sao Văn Hậu phải trải qua cuộc hội chẩn chấn thương chưa từng có tiền lệ?](https://cafebiz.vn/vi-sao-van-hau-phai-trai-qua-cuoc-hoi-chan-chan-thuong-chua-tung-co-tien-le-20210306101805118.chn) ([CafeBiz](https://cafebiz.vn))
-- [Học cách yêu bản thân từ những điều giản đơn và tập mở lòng hơn vì bạn là người xứng đáng](https://cafebiz.vn/hoc-cach-yeu-ban-than-tu-nhung-dieu-gian-don-va-tap-mo-long-hon-vi-ban-la-nguoi-xung-dang-2021030511024527.chn) ([CafeBiz](https://cafebiz.vn))
+- [“Sốt đất ảo” ở Bình Phước - ôm đất bạc tỉ mà “khóc”](https://laodong.vn/bat-dong-san/sot-dat-ao-o-binh-phuoc-om-dat-bac-ti-ma-khoc-886168.ldo) ([Lao Động](https://laodong.vn))
+- [Tổng cục Hải quan lên tiếng vụ Đội trưởng chống buôn lậu khu vực miền Nam bị bắt](https://cafebiz.vn/tong-cuc-hai-quan-len-tieng-vu-doi-truong-chong-buon-lau-khu-vuc-mien-nam-bi-bat-20210306104507063.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Nguyễn Đức Tài: Con người luôn hành động với 2 động lực là Tiền và Niềm vui! Nếu kết hợp được startup sẽ lớn mạnh, nếu không nhân sự sẽ bỏ đi](https://cafebiz.vn/ong-nguyen-duc-tai-con-nguoi-luon-hanh-dong-voi-2-dong-luc-la-tien-va-niem-vui-neu-ket-hop-duoc-startup-se-lon-manh-neu-khong-nhan-su-se-bo-di-20210305162539535.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bộ Y tế 'tuýt còi' việc Bệnh viện Bạch Mai tăng giá khám chữa bệnh](https://cafebiz.vn/bo-y-te-tuyt-coi-viec-benh-vien-bach-mai-tang-gia-kham-chua-benh-2021030610434402.chn) ([CafeBiz](https://cafebiz.vn))
+- [&quot;Xế hộp&quot; Camry đi loạng choạng trên đường, khiến nhiều người thót tim](https://laodong.vn/xe/xe-hop-camry-di-loang-choang-tren-duong-khien-nhieu-nguoi-thot-tim-886264.ldo) ([Lao Động](https://laodong.vn))
+- [Đang bay, phi công Boeing 737 MAX phải tắt động cơ, hạ cánh khẩn cấp](https://cafebiz.vn/dang-bay-phi-cong-boeing-737-max-phai-tat-dong-co-ha-canh-khan-cap-20210306104157988.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giải độc gan tại nhà với những loại trái cây sẵn có](https://laodong.vn/dinh-duong-am-thuc/giai-doc-gan-tai-nha-voi-nhung-loai-trai-cay-san-co-886207.ldo) ([Lao Động](https://laodong.vn))
+- [Trao &quot;Mái ấm Công đoàn&quot; cho đoàn viên không có điều kiện xây nhà ở](https://laodong.vn/cong-doan/trao-mai-am-cong-doan-cho-doan-vien-khong-co-dieu-kien-xay-nha-o-886271.ldo) ([Lao Động](https://laodong.vn))
+- [Đội trưởng chống buôn lậu Hải quan bị bắt liên quan vụ làm giả hơn 200 triệu lít xăng](https://cafebiz.vn/doi-truong-chong-buon-lau-hai-quan-bi-bat-lien-quan-vu-lam-gia-hon-200-trieu-lit-xang-20210306103905804.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nam: Vừa ra tù lại lẻn vào nhà dân trộm cắp tài sản](https://laodong.vn/phap-luat/ha-nam-vua-ra-tu-lai-len-vao-nha-dan-trom-cap-tai-san-886250.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
