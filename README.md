@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
-- Temperature is 26°C.
-- Feels Like 28.11°C.
-- Air Visual is 138.
+- Current weather is broken clouds.
+- Temperature is 27°C.
+- Feels Like 29.43°C.
+- Air Visual is 140.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Nghiệt ngã quá](https://laodong.vn/su-kien-binh-luan/nghiet-nga-qua-886285.ldo) ([Lao Động](https://laodong.vn))
+- [Doanh nhân Phạm Đức Tiệp ra mắt 2 cuốn sách Marketing](https://laodong.vn/thong-tin-doanh-nghiep/doanh-nhan-pham-duc-tiep-ra-mat-2-cuon-sach-marketing-885651.ldo) ([Lao Động](https://laodong.vn))
+- [Vẫn loay hoay giải bài toán xử lý rác thải ở Phú Quốc](https://laodong.vn/xa-hoi/van-loay-hoay-giai-bai-toan-xu-ly-rac-thai-o-phu-quoc-886309.ldo) ([Lao Động](https://laodong.vn))
+- ["Bí mật" đằng sau những chiến dịch tiêm vaccine ngừa COVID-19 thành công trên thế giới](https://cafebiz.vn/bi-mat-dang-sau-nhung-chien-dich-tiem-vaccine-ngua-covid-19-thanh-cong-tren-the-gioi-20210306133212337.chn) ([CafeBiz](https://cafebiz.vn))
+- [&quot;Đối thoại 2045&quot; giữa Thủ tướng với đại diện doanh nghiệp, trí thức](https://laodong.vn/thoi-su/doi-thoai-2045-giua-thu-tuong-voi-dai-dien-doanh-nghiep-tri-thuc-886320.ldo) ([Lao Động](https://laodong.vn))
+- [Tung số tiền khủng chưa từng có lên đến 12 tỷ đồng cho các đội tuyển, đại diện Garena nói gì?](https://cafebiz.vn/tung-so-tien-khung-chua-tung-co-len-den-12-ty-dong-cho-cac-doi-tuyen-dai-dien-garena-noi-gi-20210306120533424.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hành trình 10 năm gìn giữ nét xuân cho phụ nữ Việt của B.L.G](https://cafebiz.vn/hanh-trinh-10-nam-gin-giu-net-xuan-cho-phu-nu-viet-cua-blg-20210306114000705.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sắp tới khi bán nhà, người dân có thể bị xóa hộ khẩu?](https://laodong.vn/bat-dong-san/sap-toi-khi-ban-nha-nguoi-dan-co-the-bi-xoa-ho-khau-885784.ldo) ([Lao Động](https://laodong.vn))
+- [Vaccine COVID-19: Những lưu ý khi tiêm](https://laodong.vn/suc-khoe/vaccine-covid-19-nhung-luu-y-khi-tiem-886342.ldo) ([Lao Động](https://laodong.vn))
+- [Cháy xưởng của Công ty Tôn Hoa Sen](https://vnexpress.net/chay-xuong-cua-cong-ty-ton-hoa-sen-4244441.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
