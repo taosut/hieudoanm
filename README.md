@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is scattered clouds.
 - Temperature is 23°C.
-- Feels Like 23.84°C.
+- Feels Like 23.95°C.
 - Air Visual is 153.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Haaland &quot;bay trên không, chạy như gió&quot;, ai có thể cản nổi?](https://laodong.vn/bong-da-quoc-te/haaland-bay-tren-khong-chay-nhu-gio-ai-co-the-can-noi-886690.ldo) ([Lao Động](https://laodong.vn))
+- [Lương Xuân Trường và ước vọng từ những ám ảnh chấn thương](https://laodong.vn/bong-da/luong-xuan-truong-va-uoc-vong-tu-nhung-am-anh-chan-thuong-886590.ldo) ([Lao Động](https://laodong.vn))
+- [Giá thực phẩm, rau, củ quả… lại tiếp tục giảm mạnh](https://laodong.vn/kinh-te/gia-thuc-pham-rau-cu-qua-lai-tiep-tuc-giam-manh-886612.ldo) ([Lao Động](https://laodong.vn))
+- [Ai là người giàu nhất trong lịch sử loài người? Câu trả lời bất ngờ về người duy nhất đủ sức tạo ra 1 chu kỳ kinh tế](https://cafebiz.vn/ai-la-nguoi-giau-nhat-trong-lich-su-loai-nguoi-cau-tra-loi-bat-ngo-ve-nguoi-duy-nhat-du-suc-tao-ra-1-chu-ky-kinh-te-20210307172327171.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bình Dương: Cháy lớn 4 căn nhà dân và một nhà xưởng lúc chiều tối](https://laodong.vn/xa-hoi/binh-duong-chay-lon-4-can-nha-dan-va-mot-nha-xuong-luc-chieu-toi-886682.ldo) ([Lao Động](https://laodong.vn))
 - [Cận cảnh dấu vết đầu tiên của tàu thám hiểm NASA trên sao Hoả](https://laodong.vn/photo/can-canh-dau-vet-dau-tien-cua-tau-tham-hiem-nasa-tren-sao-hoa-886654.ldo) ([Lao Động](https://laodong.vn))
-- [Đội bóng chuyền nữ Bamboo Vĩnh Phúc đánh bại đội bóng của Phạm Kim Huệ](https://laodong.vn/the-thao/doi-bong-chuyen-nu-bamboo-vinh-phuc-danh-bai-doi-bong-cua-pham-kim-hue-886648.ldo) ([Lao Động](https://laodong.vn))
 - [10 xe bán chạy nhất Đông Nam Á: 2 xe đầu bán chậm ở Việt Nam và nhiều cái tên gây bất ngờ](https://cafebiz.vn/10-xe-ban-chay-nhat-dong-nam-a-2-xe-dau-ban-cham-o-viet-nam-va-nhieu-cai-ten-gay-bat-ngo-20210307141305905.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nóng nhất 24h: Động thái của vợ chồng ông Dũng khi ông Võ Hoàng Yên xin lỗi](https://laodong.vn/video-thoi-su/nong-nhat-24h-dong-thai-cua-vo-chong-ong-dung-khi-ong-vo-hoang-yen-xin-loi-886665.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 8.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-83-886185.ldo) ([Lao Động](https://laodong.vn))
-- [Những &quot;bóng hồng&quot; quyền lực trên thế giới](https://laodong.vn/the-gioi/nhung-bong-hong-quyen-luc-tren-the-gioi-874576.ldo) ([Lao Động](https://laodong.vn))
-- [Đất thuộc quy hoạch, người dân được hưởng những quyền gì?](https://laodong.vn/bat-dong-san/dat-thuoc-quy-hoach-nguoi-dan-duoc-huong-nhung-quyen-gi-886474.ldo) ([Lao Động](https://laodong.vn))
 - [Sáng mai (8/3), 100 y bác sĩ Bệnh viện Bệnh nhiệt đới Trung ương Hà Nội sẽ tiêm vaccine Covid-19](https://cafebiz.vn/sang-mai-8-3-100-y-bac-si-benh-vien-benh-nhiet-doi-trung-uong-ha-noi-se-tiem-vaccine-covid-19-20210307183959645.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo dục 24/7: Sinh viên sẽ bị kỷ luật nếu khai báo y tế không trung thực](https://laodong.vn/video/giao-duc-247-sinh-vien-se-bi-ky-luat-neu-khai-bao-y-te-khong-trung-thuc-886658.ldo) ([Lao Động](https://laodong.vn))
-- [Chứng khoán: Mạch lình xình, đi ngang và nghẽn lệnh sẽ tiếp diễn?](https://laodong.vn/kinh-te/chung-khoan-mach-linh-xinh-di-ngang-va-nghen-lenh-se-tiep-dien-886685.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
