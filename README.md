@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 21.66°C.
-- Air Visual is 95.
+- Feels Like 21.31°C.
+- Air Visual is 104.
 
 **WEATHER**
 
@@ -53,20 +53,20 @@
 - [![Biểu tình ở Myanmar](https://img.shields.io/static/v1?label=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
-- [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
 - [![Em của ngày hôm qua](https://img.shields.io/static/v1?label=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Kaity Nguyễn](https://img.shields.io/static/v1?label=Kaity%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kaity%20Nguy%E1%BB%85n)
 - [![Leicester City](https://img.shields.io/static/v1?label=Leicester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester%20City)
-- [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
-- [![Penthouses Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
+- [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
+- [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
 - [![Raya và rồng thần cuối cùng](https://img.shields.io/static/v1?label=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng)
 - [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
+- [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
+- [![Trần Vĩnh Tuyến](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn)
 - [![Vietravel Airlines](https://img.shields.io/static/v1?label=Vietravel%20Airlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietravel%20Airlines)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Vui mừng với hướng đi mới của tiền vệ Lương Xuân Trường](https://laodong.vn/the-thao/vui-mung-voi-huong-di-moi-cua-tien-ve-luong-xuan-truong-886533.ldo) ([Lao Động](https://laodong.vn))
+- [Trinh sát kể về hành trình đầy hiểm nguy khi truy bắt đối tượng cướp giật](https://laodong.vn/phap-luat/trinh-sat-ke-ve-hanh-trinh-day-hiem-nguy-khi-truy-bat-doi-tuong-cuop-giat-885235.ldo) ([Lao Động](https://laodong.vn))
+- [Nhận định Man City - Man United: &quot;Quỷ đỏ&quot; buông đinh ba ở Etihad](https://laodong.vn/bong-da-quoc-te/nhan-dinh-man-city-man-united-quy-do-buong-dinh-ba-o-etihad-886532.ldo) ([Lao Động](https://laodong.vn))
+- [Anh đánh dấu bước tiến trở lại cuộc sống bình thường vào ngày 8.3](https://laodong.vn/the-gioi/anh-danh-dau-buoc-tien-tro-lai-cuoc-song-binh-thuong-vao-ngay-83-886574.ldo) ([Lao Động](https://laodong.vn))
+- [117.000 lượt người đã chung tay 'Cùng Tuổi Trẻ góc vắcxin COVID-19'](https://tuoitre.vn/117-000-luot-nguoi-da-chung-tay-cung-tuoi-tre-goc-vacxin-covid-19-20210307114544039.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hàng chục nghìn người Myanmar xuống đường biểu tình ngày chủ nhật](https://tuoitre.vn/hang-chuc-nghin-nguoi-myanmar-xuong-duong-bieu-tinh-ngay-chu-nhat-20210307113320776.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ngày mai (8.3), bị cáo Đinh La Thăng, Trịnh Xuân Thanh lại hầu toà](https://laodong.vn/phap-luat/ngay-mai-83-bi-cao-dinh-la-thang-trinh-xuan-thanh-lai-hau-toa-886566.ldo) ([Lao Động](https://laodong.vn))
+- [Người dân lo lắng: Sẽ ngưng xử lý nix thải tại Khánh Hòa?](https://tuoitre.vn/nguoi-dan-lo-lang-se-ngung-xu-ly-nix-thai-tai-khanh-hoa-2021030708551406.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Quá tự hào với 5 tiệm bánh mì "made in Vietnam" ở nước ngoài: Đắt hàng như tôm tươi, bạn bè quốc tế check in rần rần](https://cafebiz.vn/qua-tu-hao-voi-5-tiem-banh-mi-made-in-vietnam-o-nuoc-ngoai-dat-hang-nhu-tom-tuoi-ban-be-quoc-te-check-in-ran-ran-20210307110539812.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hướng dương ngược nắng: Sự &quot;lột xác&quot; của Hồng Đăng, Việt Anh, Doãn Quốc Đam](https://laodong.vn/van-hoa/huong-duong-nguoc-nang-su-lot-xac-cua-hong-dang-viet-anh-doan-quoc-dam-886485.ldo) ([Lao Động](https://laodong.vn))
 - [Những kiểu đào Bitcoin từ trước tới nay](https://cafebiz.vn/nhung-kieu-dao-bitcoin-tu-truoc-toi-nay-20210307094758461.chn) ([CafeBiz](https://cafebiz.vn))
-- [Một phụ nữ mất 360 triệu đồng sau cuộc gọi điện thoại lạ](https://laodong.vn/phap-luat/mot-phu-nu-mat-360-trieu-dong-sau-cuoc-goi-dien-thoai-la-886556.ldo) ([Lao Động](https://laodong.vn))
-- [Hành động đặc biệt của Tổng thống Biden vào ngày Quốc tế Phụ nữ 8.3](https://laodong.vn/the-gioi/hanh-dong-dac-biet-cua-tong-thong-biden-vao-ngay-quoc-te-phu-nu-83-886538.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ tịch TPBank Đỗ Minh Phú: Năm 2045, thu nhập bình quân người Việt có thể tăng lên 16.500 USD/năm, quy mô nền kinh tế tương đương Hàn Quốc năm 2018](https://cafebiz.vn/chu-tich-tpbank-do-minh-phu-nam-2045-thu-nhap-binh-quan-nguoi-viet-co-the-tang-len-16500-usd-nam-quy-mo-nen-kinh-te-tuong-duong-han-quoc-nam-2018-2021030711273168.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sức khỏe có vấn đề, khi đi ngủ thường có 5 biểu hiện](https://cafebiz.vn/suc-khoe-co-van-de-khi-di-ngu-thuong-co-5-bieu-hien-20210306153742395.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhà ngoại giao kể chuyện bình đẳng giới](https://tuoitre.vn/nha-ngoai-giao-ke-chuyen-binh-dang-gioi-20210307081703302.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Ôtô bị tàu hỏa tông, bé trai một tuổi tử vong](https://vnexpress.net/oto-bi-tau-hoa-tong-be-trai-mot-tuoi-tu-vong-4244695.html) ([VNExpress](https://vnexpress.net))
-- [Từ cơn sốt Pi, nhìn lại game miễn phí giờ chơi và sự ảo diệu của "không mất gì cả"](https://cafebiz.vn/tu-con-sot-pi-nhin-lai-game-mien-phi-gio-choi-va-su-ao-dieu-cua-khong-mat-gi-ca-20210307111215561.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: Nhiều Công đoàn cơ sở tặng quà cho lao động nữ nhân ngày lễ 8.3](https://laodong.vn/ldld-tphcm/tphcm-nhieu-cong-doan-co-so-tang-qua-cho-lao-dong-nu-nhan-ngay-le-83-886563.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
