@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 22.05°C.
-- Air Visual is 134.
+- Feels Like 22.4°C.
+- Air Visual is 129.
 
 **WEATHER**
 
@@ -58,11 +58,11 @@
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Kaity Nguyễn](https://img.shields.io/static/v1?label=Kaity%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kaity%20Nguy%E1%BB%85n)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
+- [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
 - [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
 - [![Raya](https://img.shields.io/static/v1?label=Raya&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya)
-- [![Raya và rồng thần cuối cùng](https://img.shields.io/static/v1?label=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng)
 - [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
 - [![Trần Vĩnh Tuyến](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn)
 - [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hải Phòng: 100% trường hợp liên quan chuyến bay VN1188 âm tính SARS-CoV-2](https://laodong.vn/xa-hoi/hai-phong-100-truong-hop-lien-quan-chuyen-bay-vn1188-am-tinh-sars-cov-2-886722.ldo) ([Lao Động](https://laodong.vn))
+- [Lật xe giường nằm, 19 người bị thương](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/lat-xe-giuong-nam-19-nguoi-bi-thuong-717889.html) ([VietNamNet](https://vietnamnet.vn))
 - [Giải mã từng chữ số trong tên biến thể virus SARS-CoV-2: B.1.1.7, B.1.351 nghĩa là gì?](https://cafebiz.vn/giai-ma-tung-chu-so-trong-ten-bien-the-virus-sars-cov-2-b117-b1351-nghia-la-gi-20210307140815693.chn) ([CafeBiz](https://cafebiz.vn))
+- [Màu của nước tiểu cảnh báo điều gì về sức khỏe của bạn?](https://laodong.vn/suc-khoe/mau-cua-nuoc-tieu-canh-bao-dieu-gi-ve-suc-khoe-cua-ban-886544.ldo) ([Lao Động](https://laodong.vn))
 - [Một người dân bí ẩn ở Hà Nội trả 30 triệu đồng "thuê" ông Đoàn Ngọc Hải làm việc ở hiệu thuốc](https://cafebiz.vn/mot-nguoi-dan-bi-an-o-ha-noi-tra-30-trieu-dong-thue-ong-doan-ngoc-hai-lam-viec-o-hieu-thuoc-20210307214550488.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cảnh báo: Nguồn tài nguyên quan trọng thứ 2 sau nước sắp khan hiếm vì "cơn khát" của con người](https://cafebiz.vn/canh-bao-nguon-tai-nguyen-quan-trong-thu-2-sau-nuoc-sap-khan-hiem-vi-con-khat-cua-con-nguoi-2021030718433265.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cháy 5 kiôt, lan sang nhà dân tại Bình Dương](https://tuoitre.vn/chay-5-kiot-lan-sang-nha-dan-tai-binh-duong-20210307211013718.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tiết lộ lý do bất ngờ khiến Xiaomi lọt vào danh sách đen của nước Mỹ](https://cafebiz.vn/tiet-lo-ly-do-bat-ngo-khien-xiaomi-lot-vao-danh-sach-den-cua-nuoc-my-20210307172532571.chn) ([CafeBiz](https://cafebiz.vn))
 - [2 ca COVID-19 mới tại Bắc Ninh đã được cách ly ngay sau khi nhập cảnh](https://laodong.vn/xa-hoi/2-ca-covid-19-moi-tai-bac-ninh-da-duoc-cach-ly-ngay-sau-khi-nhap-canh-886716.ldo) ([Lao Động](https://laodong.vn))
 - [Giao thông ở phố hoa lớn nhất TPHCM đông nghẹt trước ngày 8.3](https://laodong.vn/photo/giao-thong-o-pho-hoa-lon-nhat-tphcm-dong-nghet-truoc-ngay-83-886710.ldo) ([Lao Động](https://laodong.vn))
-- [Giải cứu 19 người trong xe khách bị lật](https://vnexpress.net/giai-cuu-19-nguoi-trong-xe-khach-bi-lat-4244816.html) ([VNExpress](https://vnexpress.net))
-- [2 tháng đầu năm, điện thoại 'Made in Vietnam' thu về gần 10 tỷ USD](https://cafebiz.vn/2-thang-dau-nam-dien-thoai-made-in-vietnam-thu-ve-gan-10-ty-usd-20210307184731172.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nóng nhất hôm nay: Bị dùng tên tuổi gây quỹ, ông Trump hành động cứng rắn](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bi-dung-ten-tuoi-gay-quy-ong-trump-hanh-dong-cung-ran-886647.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -135,9 +135,9 @@
 03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 04. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-06. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-07. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-08. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
+06. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
+07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+08. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
 09. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 10. [Thêm đoạn clip cho thấy nỗ lực cứu bé gái rơi từ tầng 12 của anh Nguyễn Ngọc Mạnh | THDT](https://www.youtube.com/watch?v=YPe9q--jnEY) - [Truyền Hình Đồng Tháp](https://www.youtube.com/channel/UCDIl_FogyBJAUI3QVyLet8w)
 
