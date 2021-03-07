@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 20.94°C.
-- Air Visual is 104.
+- Feels Like 21.66°C.
+- Air Visual is 102.
 
 **WEATHER**
 
@@ -53,21 +53,21 @@
 - [![Biểu tình ở Myanmar](https://img.shields.io/static/v1?label=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
+- [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
 - [![Em của ngày hôm qua](https://img.shields.io/static/v1?label=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Kaity Nguyễn](https://img.shields.io/static/v1?label=Kaity%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kaity%20Nguy%E1%BB%85n)
+- [![Leicester City](https://img.shields.io/static/v1?label=Leicester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester%20City)
 - [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
-- [![Lời chúc 8/3 cho mẹ](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20m%E1%BA%B9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20m%E1%BA%B9)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
-- [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
 - [![Penthouses Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
 - [![Raya và rồng thần cuối cùng](https://img.shields.io/static/v1?label=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng)
 - [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
 - [![Vietravel Airlines](https://img.shields.io/static/v1?label=Vietravel%20Airlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietravel%20Airlines)
-- [![Văn Mai Hương](https://img.shields.io/static/v1?label=V%C4%83n%20Mai%20H%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20Mai%20H%C6%B0%C6%A1ng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [An Giang: Phát hiện gần 5.500 vỉ tân dược vô chủ nghi nhập lậu](https://laodong.vn/phap-luat/an-giang-phat-hien-gan-5500-vi-tan-duoc-vo-chu-nghi-nhap-lau-886539.ldo) ([Lao Động](https://laodong.vn))
-- [Hoa hồng tăng giá vùn vụt, nghề giao hàng kiếm bộn tiền dịp 8/3](https://cafebiz.vn/hoa-hong-tang-gia-vun-vut-nghe-giao-hang-kiem-bon-tien-dip-8-3-20210307085719586.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bình Phước phối hợp Đăk Nông xây đường cao tốc](https://vnexpress.net/binh-phuoc-phoi-hop-dak-nong-xay-duong-cao-toc-4244216.html) ([VNExpress](https://vnexpress.net))
-- [Những điều cần biết về hồ sơ thuê nhà ở công vụ](https://laodong.vn/bat-dong-san/nhung-dieu-can-biet-ve-ho-so-thue-nha-o-cong-vu-886219.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyện cuối tuần: Tuyệt chiêu "Sập cửa vào mặt" và "Kẹt chân vào cửa" trong kinh doanh - bạn đã thử dùng?](https://cafebiz.vn/chuyen-cuoi-tuan-tuyet-chieu-sap-cua-vao-mat-va-ket-chan-vao-cua-trong-kinh-doanh-ban-da-thu-dung-20210307085446084.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phanh xe điện bị hỏng và những dấu hiệu thường gặp](https://laodong.vn/xe/phanh-xe-dien-bi-hong-va-nhung-dau-hieu-thuong-gap-886479.ldo) ([Lao Động](https://laodong.vn))
-- [Nguồn gốc và ý nghĩa của ngày Quốc tế Phụ nữ 8.3](https://laodong.vn/xa-hoi/nguon-goc-va-y-nghia-cua-ngay-quoc-te-phu-nu-83-886518.ldo) ([Lao Động](https://laodong.vn))
-- [Trở thành người giàu thứ 2 thế giới nhờ xe điện và tên lửa, nhưng ít người biết Elon Musk còn kiếm lời từ những sản phẩm 'trời ơi đất hỡi' này](https://cafebiz.vn/tro-thanh-nguoi-giau-thu-2-the-gioi-nho-xe-dien-va-ten-lua-nhung-it-nguoi-biet-elon-musk-con-kiem-loi-tu-nhung-san-pham-troi-oi-dat-hoi-nay-202103070852515.chn) ([CafeBiz](https://cafebiz.vn))
-- [Doanh nghiệp tang lễ duy nhất trên sàn: Doanh thu đều đặn trăm tỷ với cổ tức 16%/năm, hệ số PE chưa đến 2 lần](https://cafebiz.vn/doanh-nghiep-tang-le-duy-nhat-tren-san-doanh-thu-deu-dan-tram-ty-voi-co-tuc-16-nam-he-so-pe-chua-den-2-lan-20210307093300136.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hansi Flick: &quot;Bayern Munich lấy lại sự vượt trội sau bàn gỡ hòa&quot;](https://laodong.vn/bong-da-quoc-te/hansi-flick-bayern-munich-lay-lai-su-vuot-troi-sau-ban-go-hoa-886500.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương chuẩn bị sẵn sàng điều kiện tiêm vaccine phòng COVID-19](https://laodong.vn/y-te/hai-duong-chuan-bi-san-sang-dieu-kien-tiem-vaccine-phong-covid-19-886536.ldo) ([Lao Động](https://laodong.vn))
+- [Bất ngờ với thực phẩm bị đánh cắp nhiều nhất trên thế giới](https://laodong.vn/the-gioi/bat-ngo-voi-thuc-pham-bi-danh-cap-nhieu-nhat-tren-the-gioi-886516.ldo) ([Lao Động](https://laodong.vn))
+- [Mục sư bị cấm thuyết giảng do nói phụ nữ nên giảm cân nếu muốn ngoại hình đẹp như vợ ông Trump](https://tuoitre.vn/muc-su-bi-cam-thuyet-giang-do-noi-phu-nu-nen-giam-can-neu-muon-ngoai-hinh-dep-nhu-vo-ong-trump-20210307102402724.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Vợ ông Dũng "lò vôi" tiếp tục tung chứng cứ tố "thần y" Võ Hoàng Yên](https://cafebiz.vn/vo-ong-dung-lo-voi-tiep-tuc-tung-chung-cu-to-than-y-vo-hoang-yen-20210307093525888.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nam Mỹ hoãn các trận vòng loại World Cup 2022 trong tháng 3](https://laodong.vn/bong-da-quoc-te/nam-my-hoan-cac-tran-vong-loai-world-cup-2022-trong-thang-3-886540.ldo) ([Lao Động](https://laodong.vn))
+- [Hai anh em tử vong dưới hố chôn cột điện](https://vnexpress.net/hai-anh-em-tu-vong-duoi-ho-chon-cot-dien-4244675.html) ([VNExpress](https://vnexpress.net))
+- [Nghệ nhân Cơ Tu làm áo bằng vỏ cây](https://vnexpress.net/nghe-nhan-co-tu-lam-ao-bang-vo-cay-4244655.html) ([VNExpress](https://vnexpress.net))
+- [Choáng ngợp với khối tài sản của “công chúa” gia tộc giàu nhất thế giới: Liên tục giữ vị trí người phụ nữ giàu nhất thế giới, đam mê cháy bỏng với nghệ thuật và nuôi ngựa](https://cafebiz.vn/choang-ngop-voi-khoi-tai-san-cua-cong-chua-gia-toc-giau-nhat-the-gioi-lien-tuc-giu-vi-tri-nguoi-phu-nu-giau-nhat-the-gioi-dam-me-chay-bong-voi-nghe-thuat-va-nuoi-ngua-20210307085004693.chn) ([CafeBiz](https://cafebiz.vn))
+- [35 người Trung Quốc nghi nhập cảnh trái phép âm tính lần 1, gỡ phong tỏa khách sạn](https://tuoitre.vn/35-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-am-tinh-lan-1-go-phong-toa-khach-san-20210307101013409.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Vợ chồng Tổng thống Venezuela tiêm vaccine Sputnik V của Nga](https://laodong.vn/the-gioi/vo-chong-tong-thong-venezuela-tiem-vaccine-sputnik-v-cua-nga-886508.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
