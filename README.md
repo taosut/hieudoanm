@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 23°C.
 - Feels Like 21.66°C.
-- Air Visual is 94.
+- Air Visual is 95.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [TP HCM khởi động kế hoạch trồng nửa triệu cây xanh](https://vnexpress.net/tp-hcm-khoi-dong-ke-hoach-trong-nua-trieu-cay-xanh-4244663.html) ([VNExpress](https://vnexpress.net))
-- [Nước Mỹ trên đà trở thành "Đại Chúa Chổm": Dự báo nợ công của Mỹ sẽ lớn gấp đôi GDP vào năm 2051](https://cafebiz.vn/nuoc-my-tren-da-tro-thanh-dai-chua-chom-du-bao-no-cong-cua-my-se-lon-gap-doi-gdp-vao-nam-2051-20210307075658063.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nắng nóng còn kéo dài ở TPHCM, người dân tìm cách thích ứng](https://laodong.vn/moi-truong/nang-nong-con-keo-dai-o-tphcm-nguoi-dan-tim-cach-thich-ung-886372.ldo) ([Lao Động](https://laodong.vn))
-- [Chung cư Phú Hoàng Anh: Mua nhà hợp pháp vẫn bị Ban quản trị “cấm cửa”](https://laodong.vn/ban-doc/chung-cu-phu-hoang-anh-mua-nha-hop-phap-van-bi-ban-quan-tri-cam-cua-886517.ldo) ([Lao Động](https://laodong.vn))
-- [Bầu Đức phật lòng khi được hỏi về HLV Kiatisuk, có mâu thuẫn nội bộ hay ẩn tình gì khác?](https://cafebiz.vn/bau-duc-phat-long-khi-duoc-hoi-ve-hlv-kiatisuk-co-mau-thuan-noi-bo-hay-an-tinh-gi-khac-20210307094916464.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thành phố Thủ Đức trồng 1 triệu cây xanh trong 5 năm tới](https://laodong.vn/moi-truong/thanh-pho-thu-duc-trong-1-trieu-cay-xanh-trong-5-nam-toi-886529.ldo) ([Lao Động](https://laodong.vn))
-- [Mẹ nữ Giám đốc Công ty Nam Thị gửi thư vào trại giam khuyên con](https://cafebiz.vn/me-nu-giam-doc-cong-ty-nam-thi-gui-thu-vao-trai-giam-khuyen-con-20210307093745408.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Dương chuẩn bị sẵn sàng điều kiện tiêm vaccine phòng COVID-19](https://laodong.vn/y-te/hai-duong-chuan-bi-san-sang-dieu-kien-tiem-vaccine-phong-covid-19-886536.ldo) ([Lao Động](https://laodong.vn))
-- [Bất ngờ với thực phẩm bị đánh cắp nhiều nhất trên thế giới](https://laodong.vn/the-gioi/bat-ngo-voi-thuc-pham-bi-danh-cap-nhieu-nhat-tren-the-gioi-886516.ldo) ([Lao Động](https://laodong.vn))
-- [Mục sư bị cấm thuyết giảng do nói phụ nữ nên giảm cân nếu muốn ngoại hình đẹp như vợ ông Trump](https://tuoitre.vn/muc-su-bi-cam-thuyet-giang-do-noi-phu-nu-nen-giam-can-neu-muon-ngoai-hinh-dep-nhu-vo-ong-trump-20210307102402724.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Vui mừng với hướng đi mới của tiền vệ Lương Xuân Trường](https://laodong.vn/the-thao/vui-mung-voi-huong-di-moi-cua-tien-ve-luong-xuan-truong-886533.ldo) ([Lao Động](https://laodong.vn))
+- [Những kiểu đào Bitcoin từ trước tới nay](https://cafebiz.vn/nhung-kieu-dao-bitcoin-tu-truoc-toi-nay-20210307094758461.chn) ([CafeBiz](https://cafebiz.vn))
+- [Một phụ nữ mất 360 triệu đồng sau cuộc gọi điện thoại lạ](https://laodong.vn/phap-luat/mot-phu-nu-mat-360-trieu-dong-sau-cuoc-goi-dien-thoai-la-886556.ldo) ([Lao Động](https://laodong.vn))
+- [Hành động đặc biệt của Tổng thống Biden vào ngày Quốc tế Phụ nữ 8.3](https://laodong.vn/the-gioi/hanh-dong-dac-biet-cua-tong-thong-biden-vao-ngay-quoc-te-phu-nu-83-886538.ldo) ([Lao Động](https://laodong.vn))
+- [Chủ tịch TPBank Đỗ Minh Phú: Năm 2045, thu nhập bình quân người Việt có thể tăng lên 16.500 USD/năm, quy mô nền kinh tế tương đương Hàn Quốc năm 2018](https://cafebiz.vn/chu-tich-tpbank-do-minh-phu-nam-2045-thu-nhap-binh-quan-nguoi-viet-co-the-tang-len-16500-usd-nam-quy-mo-nen-kinh-te-tuong-duong-han-quoc-nam-2018-2021030711273168.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sức khỏe có vấn đề, khi đi ngủ thường có 5 biểu hiện](https://cafebiz.vn/suc-khoe-co-van-de-khi-di-ngu-thuong-co-5-bieu-hien-20210306153742395.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhà ngoại giao kể chuyện bình đẳng giới](https://tuoitre.vn/nha-ngoai-giao-ke-chuyen-binh-dang-gioi-20210307081703302.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ôtô bị tàu hỏa tông, bé trai một tuổi tử vong](https://vnexpress.net/oto-bi-tau-hoa-tong-be-trai-mot-tuoi-tu-vong-4244695.html) ([VNExpress](https://vnexpress.net))
+- [Từ cơn sốt Pi, nhìn lại game miễn phí giờ chơi và sự ảo diệu của "không mất gì cả"](https://cafebiz.vn/tu-con-sot-pi-nhin-lai-game-mien-phi-gio-choi-va-su-ao-dieu-cua-khong-mat-gi-ca-20210307111215561.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: Nhiều Công đoàn cơ sở tặng quà cho lao động nữ nhân ngày lễ 8.3](https://laodong.vn/ldld-tphcm/tphcm-nhieu-cong-doan-co-so-tang-qua-cho-lao-dong-nu-nhan-ngay-le-83-886563.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
