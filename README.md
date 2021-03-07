@@ -21,8 +21,8 @@
 
 - Current weather is scattered clouds.
 - Temperature is 24°C.
-- Feels Like 24.09°C.
-- Air Visual is 154.
+- Feels Like 24.48°C.
+- Air Visual is 135.
 
 **WEATHER**
 
@@ -50,9 +50,9 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
-- [![Burnley vs Arsenal](https://img.shields.io/static/v1?label=Burnley%20vs%20Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Burnley%20vs%20Arsenal)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
+- [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
 - [![Em của ngày hôm qua](https://img.shields.io/static/v1?label=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
@@ -62,7 +62,7 @@
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
-- [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
+- [![Raya](https://img.shields.io/static/v1?label=Raya&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya)
 - [![Raya và rồng thần cuối cùng](https://img.shields.io/static/v1?label=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng)
 - [![Rạp chiếu phim](https://img.shields.io/static/v1?label=R%E1%BA%A1p%20chi%E1%BA%BFu%20phim&message=google&color=red&style=flat-square)](https://www.google.com/search?q=R%E1%BA%A1p%20chi%E1%BA%BFu%20phim)
 - [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chiều 7/3 thêm 3 ca Covid-19 mới ở Hải Dương và Bắc Ninh](https://cafebiz.vn/chieu-7-3-them-3-ca-covid-19-moi-o-hai-duong-va-bac-ninh-20210307183603857.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tướng Chính phủ Nguyễn Xuân Phúc tiếp xúc cử tri TP.Hải Phòng](https://laodong.vn/thoi-su/thu-tuong-chinh-phu-nguyen-xuan-phuc-tiep-xuc-cu-tri-tphai-phong-886650.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Đoàn Ngọc Hải phản ánh hộ lan cao tốc bị tháo, cơ quan quản lý nói gì?](https://laodong.vn/xa-hoi/ong-doan-ngoc-hai-phan-anh-ho-lan-cao-toc-bi-thao-co-quan-quan-ly-noi-gi-886678.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương: Ưu tiên phụ nữ tiêm trước vaccine ngừa COVID-19 nhân ngày 8.3](https://laodong.vn/y-te/hai-duong-uu-tien-phu-nu-tiem-truoc-vaccine-ngua-covid-19-nhan-ngay-83-886673.ldo) ([Lao Động](https://laodong.vn))
 - [Xe khách nội tỉnh ở Nghệ An hoạt động trở lại](https://vnexpress.net/xe-khach-noi-tinh-o-nghe-an-hoat-dong-tro-lai-4244754.html) ([VNExpress](https://vnexpress.net))
+- [Xe ben quên hạ thùng, cuốn dây 'hạ gục' 6 cột điện ở Bình Dương](https://tuoitre.vn/xe-ben-quen-ha-thung-cuon-day-ha-guc-6-cot-dien-o-binh-duong-2021030718154156.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thủ tướng nhớ lần lỡ hẹn bà con cử tri Hải Phòng](https://tuoitre.vn/thu-tuong-nho-lan-lo-hen-ba-con-cu-tri-hai-phong-20210307181649077.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tối 7.3: Công bố 3 ca mắc COVID-19 mới, trong đó có 1 ca ở Hải Dương](https://laodong.vn/y-te/toi-73-cong-bo-3-ca-mac-covid-19-moi-trong-do-co-1-ca-o-hai-duong-886670.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều trường Hải Dương chưa cho học sinh đi học lại vì 'chưa đủ an toàn'](https://tuoitre.vn/nhieu-truong-hai-duong-chua-cho-hoc-sinh-di-hoc-lai-vi-chua-du-an-toan-20210307174643355.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nhiều trường ở Hải Dương chưa cho học sinh đi học lại vì 'chưa đủ an toàn'](https://tuoitre.vn/nhieu-truong-o-hai-duong-chua-cho-hoc-sinh-di-hoc-lai-vi-chua-du-an-toan-20210307174643355.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Quảng Ngãi đồng ý mở tuyến đường biển Đà Nẵng - Lý Sơn](https://vnexpress.net/quang-ngai-dong-y-mo-tuyen-duong-bien-da-nang-ly-son-4244789.html) ([VNExpress](https://vnexpress.net))
-- [Lê Dương Bảo Lâm tậu xế hộp tặng mẹ dịp Quốc tế phụ nữ với lý do xúc động](https://laodong.vn/xe/le-duong-bao-lam-tau-xe-hop-tang-me-dip-quoc-te-phu-nu-voi-ly-do-xuc-dong-886666.ldo) ([Lao Động](https://laodong.vn))
-- [Điểm tiêm vắc xin ngừa COVID-19 ở Hải Dương trước giờ G](https://tuoitre.vn/diem-tiem-vac-xin-ngua-covid-19-o-hai-duong-truoc-gio-g-20210307155617125.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bắc Ninh: Nhiều lĩnh vực được phép hoạt động trở lại từ 8.3](https://laodong.vn/xa-hoi/bac-ninh-nhieu-linh-vuc-duoc-phep-hoat-dong-tro-lai-tu-83-886649.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều nay 7-3, có 3 ca mắc COVID-19 ở Hải Dương và Bắc Ninh](https://tuoitre.vn/chieu-nay-7-3-co-3-ca-mac-covid-19-o-hai-duong-va-bac-ninh-20210305180628639.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tuyển sinh lớp 6: Nhiều trường &quot;hot&quot; ở Hà Nội tổ chức thi đánh giá năng lực](https://laodong.vn/giao-duc/tuyen-sinh-lop-6-nhieu-truong-hot-o-ha-noi-to-chuc-thi-danh-gia-nang-luc-886663.ldo) ([Lao Động](https://laodong.vn))
-- [Top vua phá lưới Bundesliga 2020/21: Lewandowski &quot;hoá thần&quot;, bỏ xa Haaland](https://laodong.vn/photo/top-vua-pha-luoi-bundesliga-202021-lewandowski-hoa-than-bo-xa-haaland-886657.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
