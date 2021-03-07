@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 25.08°C.
-- Air Visual is 152.
+- Temperature is 24°C.
+- Feels Like 24.15°C.
+- Air Visual is 109.
 
 **WEATHER**
 
@@ -53,6 +53,7 @@
 - [![Biểu tình ở Myanmar](https://img.shields.io/static/v1?label=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
 - [![Em của ngày hôm qua](https://img.shields.io/static/v1?label=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
@@ -60,7 +61,6 @@
 - [![Leicester City](https://img.shields.io/static/v1?label=Leicester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester%20City)
 - [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
-- [![Lời chúc 8/3 cho mẹ](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20m%E1%BA%B9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20m%E1%BA%B9)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
 - [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Xác minh 2 clip đen đồn đoán nhân vật nữ là nữ sinh lớp 8 ở Lao Bảo](https://laodong.vn/xa-hoi/xac-minh-2-clip-den-don-doan-nhan-vat-nu-la-nu-sinh-lop-8-o-lao-bao-886562.ldo) ([Lao Động](https://laodong.vn))
+- [2 lần thử sống bằng Bitcoin: Lần 1 trụ không nổi sau 1 tuần, lần 2 chỉ được vài ngày vì lý do bất khả kháng](https://cafebiz.vn/2-lan-thu-song-bang-bitcoin-lan-1-tru-khong-noi-sau-1-tuan-lan-2-chi-duoc-vai-ngay-vi-ly-do-bat-kha-khang-20210307131518333.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thêm trường đại học thông báo lịch đi học trở lại của sinh viên từ ngày 8.3](https://laodong.vn/giao-duc/them-truong-dai-hoc-thong-bao-lich-di-hoc-tro-lai-cua-sinh-vien-tu-ngay-83-886615.ldo) ([Lao Động](https://laodong.vn))
+- [Dự báo thời tiết 7 ngày tới: Nam Bộ nắng nóng, Bắc bộ mưa rét](https://laodong.vn/infographic/du-bao-thoi-tiet-7-ngay-toi-nam-bo-nang-nong-bac-bo-mua-ret-886575.ldo) ([Lao Động](https://laodong.vn))
+- [Sự nghiệp Naeun (April) sẽ đi về đâu sau cáo buộc bắt nạt đồng nghiệp?](https://laodong.vn/photo/su-nghiep-naeun-april-se-di-ve-dau-sau-cao-buoc-bat-nat-dong-nghiep-886543.ldo) ([Lao Động](https://laodong.vn))
+- [Trấn Thành, Tuấn Trần &quot;lột xác&quot; lịch lãm, khác hẳn vẻ khắc khổ của &quot;Bố già&quot;](https://laodong.vn/photo/tran-thanh-tuan-tran-lot-xac-lich-lam-khac-han-ve-khac-kho-cua-bo-gia-886567.ldo) ([Lao Động](https://laodong.vn))
+- [Khi nào người dân được đăng ký tiêm vắc xin COVID-19?](https://tuoitre.vn/khi-nao-nguoi-dan-duoc-dang-ky-tiem-vac-xin-covid-19-20210307142757007.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Trường ĐH Kiến trúc TPHCM tuyển sinh bằng kết quả thi đánh giá năng lực](https://laodong.vn/giao-duc/truong-dh-kien-truc-tphcm-tuyen-sinh-bang-ket-qua-thi-danh-gia-nang-luc-886606.ldo) ([Lao Động](https://laodong.vn))
+- [Không phải xuất trình xác nhận số CMND sau khi cấp thẻ căn cước mới](https://tuoitre.vn/khong-phai-xuat-trinh-xac-nhan-so-cmnd-sau-khi-cap-the-can-cuoc-moi-20210307143803224.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Sát 8/3, chợ hoa Quảng An tấp nập sau những ngày ế ẩm do COVID-19](https://cafebiz.vn/sat-8-3-cho-hoa-quang-an-tap-nap-sau-nhung-ngay-e-am-do-covid-19-20210307135228812.chn) ([CafeBiz](https://cafebiz.vn))
 - [Người đến tuổi trung niên: Đừng để tham lam che mắt, sống chân thật, điềm đạm, thì cuộc đời mới ngày càng suôn sẻ](https://cafebiz.vn/nguoi-den-tuoi-trung-nien-dung-de-tham-lam-che-mat-song-chan-that-diem-dam-thi-cuoc-doi-moi-ngay-cang-suon-se-20210303123025978.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt đối tượng buôn ma túy trong căn nhà &quot;kín tiếng&quot; ở biên giới Việt Lào](https://laodong.vn/phap-luat/bat-doi-tuong-buon-ma-tuy-trong-can-nha-kin-tieng-o-bien-gioi-viet-lao-886614.ldo) ([Lao Động](https://laodong.vn))
-- [Phát hiện người trốn cách ly ở Campuchia nhập cảnh trái phép](https://laodong.vn/xa-hoi/phat-hien-nguoi-tron-cach-ly-o-campuchia-nhap-canh-trai-phep-886605.ldo) ([Lao Động](https://laodong.vn))
-- [13 tỉnh thành đầu tiên sẽ được nhận bao nhiêu vaccine COVID-19 ở đợt 1?](https://cafebiz.vn/13-tinh-thanh-dau-tien-se-duoc-nhan-bao-nhieu-vaccine-covid-19-o-dot-1-20210307135018935.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hậu trường thi Olympic quốc tế - Kỳ 6: Cuộc tuyển chọn đặc biệt cho cú 'lội ngược dòng'](https://tuoitre.vn/hau-truong-thi-olympic-quoc-te-ky-6-cuoc-tuyen-chon-dac-biet-cho-cu-loi-nguoc-dong-20210307120724289.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hàng nghìn con gà Hải Dương tiếp tục được người dân Hà Nội giải cứu](https://laodong.vn/nguoi-viet-tu-te/hang-nghin-con-ga-hai-duong-tiep-tuc-duoc-nguoi-dan-ha-noi-giai-cuu-886592.ldo) ([Lao Động](https://laodong.vn))
-- [Điều tra nghi án cháu dùng dao bầu đâm bác tử vong](https://laodong.vn/phap-luat/dieu-tra-nghi-an-chau-dung-dao-bau-dam-bac-tu-vong-886597.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Yên trả tiền cho ông Dũng, vậy tiền của bệnh nhân thì sao?](https://laodong.vn/su-kien-binh-luan/ong-yen-tra-tien-cho-ong-dung-vay-tien-cua-benh-nhan-thi-sao-886519.ldo) ([Lao Động](https://laodong.vn))
-- [Cần Thơ: Choáng ngợp trước ngôi nhà toàn những chiếc radio, cassette cổ](https://laodong.vn/photo/can-tho-choang-ngop-truoc-ngoi-nha-toan-nhung-chiec-radio-cassette-co-886074.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
