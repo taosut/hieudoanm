@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 25.08°C.
-- Air Visual is 125.
+- Air Visual is 152.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Xác minh 2 clip đen đồn đoán nhân vật nữ là nữ sinh lớp 8 ở Lao Bảo](https://laodong.vn/xa-hoi/xac-minh-2-clip-den-don-doan-nhan-vat-nu-la-nu-sinh-lop-8-o-lao-bao-886562.ldo) ([Lao Động](https://laodong.vn))
+- [Người đến tuổi trung niên: Đừng để tham lam che mắt, sống chân thật, điềm đạm, thì cuộc đời mới ngày càng suôn sẻ](https://cafebiz.vn/nguoi-den-tuoi-trung-nien-dung-de-tham-lam-che-mat-song-chan-that-diem-dam-thi-cuoc-doi-moi-ngay-cang-suon-se-20210303123025978.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắt đối tượng buôn ma túy trong căn nhà &quot;kín tiếng&quot; ở biên giới Việt Lào](https://laodong.vn/phap-luat/bat-doi-tuong-buon-ma-tuy-trong-can-nha-kin-tieng-o-bien-gioi-viet-lao-886614.ldo) ([Lao Động](https://laodong.vn))
 - [Phát hiện người trốn cách ly ở Campuchia nhập cảnh trái phép](https://laodong.vn/xa-hoi/phat-hien-nguoi-tron-cach-ly-o-campuchia-nhap-canh-trai-phep-886605.ldo) ([Lao Động](https://laodong.vn))
 - [13 tỉnh thành đầu tiên sẽ được nhận bao nhiêu vaccine COVID-19 ở đợt 1?](https://cafebiz.vn/13-tinh-thanh-dau-tien-se-duoc-nhan-bao-nhieu-vaccine-covid-19-o-dot-1-20210307135018935.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hậu trường thi Olympic quốc tế - Kỳ 6: Cuộc tuyển chọn đặc biệt cho cú 'lội ngược dòng'](https://tuoitre.vn/hau-truong-thi-olympic-quoc-te-ky-6-cuoc-tuyen-chon-dac-biet-cho-cu-loi-nguoc-dong-20210307120724289.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hàng nghìn con gà Hải Dương tiếp tục được người dân Hà Nội giải cứu](https://laodong.vn/nguoi-viet-tu-te/hang-nghin-con-ga-hai-duong-tiep-tuc-duoc-nguoi-dan-ha-noi-giai-cuu-886592.ldo) ([Lao Động](https://laodong.vn))
 - [Điều tra nghi án cháu dùng dao bầu đâm bác tử vong](https://laodong.vn/phap-luat/dieu-tra-nghi-an-chau-dung-dao-bau-dam-bac-tu-vong-886597.ldo) ([Lao Động](https://laodong.vn))
-- [Ngày 8.3: Không mong hoa, chỉ mong dịch bệnh qua mau, công việc ổn định](https://laodong.vn/cong-doan/ngay-83-khong-mong-hoa-chi-mong-dich-benh-qua-mau-cong-viec-on-dinh-886595.ldo) ([Lao Động](https://laodong.vn))
 - [Ông Yên trả tiền cho ông Dũng, vậy tiền của bệnh nhân thì sao?](https://laodong.vn/su-kien-binh-luan/ong-yen-tra-tien-cho-ong-dung-vay-tien-cua-benh-nhan-thi-sao-886519.ldo) ([Lao Động](https://laodong.vn))
 - [Cần Thơ: Choáng ngợp trước ngôi nhà toàn những chiếc radio, cassette cổ](https://laodong.vn/photo/can-tho-choang-ngop-truoc-ngoi-nha-toan-nhung-chiec-radio-cassette-co-886074.ldo) ([Lao Động](https://laodong.vn))
-- [Xác định 41 người đi cùng chuyến bay với ca nghi tái dương tính](https://vnexpress.net/xac-dinh-41-nguoi-di-cung-chuyen-bay-voi-ca-nghi-tai-duong-tinh-4244715.html) ([VNExpress](https://vnexpress.net))
-- [Hải Phòng xác định 41 người trên chuyến bay từ TP.HCM liên quan bệnh nhân tái dương tính](https://cafebiz.vn/hai-phong-xac-dinh-41-nguoi-tren-chuyen-bay-tu-tphcm-lien-quan-benh-nhan-tai-duong-tinh-20210307134711362.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
