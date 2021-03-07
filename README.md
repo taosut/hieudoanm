@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 22°C.
 - Feels Like 22.19°C.
-- Air Visual is 93.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -50,24 +50,24 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
-- [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
 - [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
-- [![Em của ngày hôm qua](https://img.shields.io/static/v1?label=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
-- [![Kaity Nguyễn](https://img.shields.io/static/v1?label=Kaity%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kaity%20Nguy%E1%BB%85n)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Liverpool vs Fulham](https://img.shields.io/static/v1?label=Liverpool%20vs%20Fulham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool%20vs%20Fulham)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
+- [![Man City vs MU](https://img.shields.io/static/v1?label=Man%20City%20vs%20MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20MU)
 - [![Ngày 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208/3)
 - [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
 - [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
 - [![Raya](https://img.shields.io/static/v1?label=Raya&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya)
+- [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
 - [![Trần Vĩnh Tuyến](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn)
 - [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
 - [![UFC 259](https://img.shields.io/static/v1?label=UFC%20259&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UFC%20259)
+- [![Đặng Thu Huyền](https://img.shields.io/static/v1?label=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Thêm 16 người Trung Quốc nhập cảnh trái phép vào TP.HCM - Tây Ninh](http://vietnamnet.vn/vn/thoi-su/them-16-nguoi-trung-quoc-nhap-canh-trai-phep-vao-tp-hcm-tay-ninh-717893.html) ([VietNamNet](https://vietnamnet.vn))
 - [Hải Phòng: 100% trường hợp liên quan chuyến bay VN1188 âm tính SARS-CoV-2](https://laodong.vn/xa-hoi/hai-phong-100-truong-hop-lien-quan-chuyen-bay-vn1188-am-tinh-sars-cov-2-886722.ldo) ([Lao Động](https://laodong.vn))
 - [Lật xe giường nằm, 19 người bị thương](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/lat-xe-giuong-nam-19-nguoi-bi-thuong-717889.html) ([VietNamNet](https://vietnamnet.vn))
 - [Giải mã từng chữ số trong tên biến thể virus SARS-CoV-2: B.1.1.7, B.1.351 nghĩa là gì?](https://cafebiz.vn/giai-ma-tung-chu-so-trong-ten-bien-the-virus-sars-cov-2-b117-b1351-nghia-la-gi-20210307140815693.chn) ([CafeBiz](https://cafebiz.vn))
@@ -84,7 +85,6 @@
 - [Cháy 5 kiôt, lan sang nhà dân tại Bình Dương](https://tuoitre.vn/chay-5-kiot-lan-sang-nha-dan-tai-binh-duong-20210307211013718.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tiết lộ lý do bất ngờ khiến Xiaomi lọt vào danh sách đen của nước Mỹ](https://cafebiz.vn/tiet-lo-ly-do-bat-ngo-khien-xiaomi-lot-vao-danh-sach-den-cua-nuoc-my-20210307172532571.chn) ([CafeBiz](https://cafebiz.vn))
 - [2 ca COVID-19 mới tại Bắc Ninh đã được cách ly ngay sau khi nhập cảnh](https://laodong.vn/xa-hoi/2-ca-covid-19-moi-tai-bac-ninh-da-duoc-cach-ly-ngay-sau-khi-nhap-canh-886716.ldo) ([Lao Động](https://laodong.vn))
-- [Giao thông ở phố hoa lớn nhất TPHCM đông nghẹt trước ngày 8.3](https://laodong.vn/photo/giao-thong-o-pho-hoa-lon-nhat-tphcm-dong-nghet-truoc-ngay-83-886710.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -132,8 +132,8 @@
 
 01. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-04. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
+03. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
+04. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 06. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
