@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 23°C.
 - Feels Like 23.84°C.
-- Air Visual is 151.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -57,7 +57,6 @@
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Kaity Nguyễn](https://img.shields.io/static/v1?label=Kaity%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kaity%20Nguy%E1%BB%85n)
-- [![Leicester City](https://img.shields.io/static/v1?label=Leicester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester%20City)
 - [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
@@ -67,6 +66,7 @@
 - [![Rạp chiếu phim](https://img.shields.io/static/v1?label=R%E1%BA%A1p%20chi%E1%BA%BFu%20phim&message=google&color=red&style=flat-square)](https://www.google.com/search?q=R%E1%BA%A1p%20chi%E1%BA%BFu%20phim)
 - [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
 - [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
+- [![UFC 259](https://img.shields.io/static/v1?label=UFC%20259&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UFC%20259)
 - [![Đặng Thu Huyền](https://img.shields.io/static/v1?label=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Cận cảnh dấu vết đầu tiên của tàu thám hiểm NASA trên sao Hoả](https://laodong.vn/photo/can-canh-dau-vet-dau-tien-cua-tau-tham-hiem-nasa-tren-sao-hoa-886654.ldo) ([Lao Động](https://laodong.vn))
+- [Đội bóng chuyền nữ Bamboo Vĩnh Phúc đánh bại đội bóng của Phạm Kim Huệ](https://laodong.vn/the-thao/doi-bong-chuyen-nu-bamboo-vinh-phuc-danh-bai-doi-bong-cua-pham-kim-hue-886648.ldo) ([Lao Động](https://laodong.vn))
+- [10 xe bán chạy nhất Đông Nam Á: 2 xe đầu bán chậm ở Việt Nam và nhiều cái tên gây bất ngờ](https://cafebiz.vn/10-xe-ban-chay-nhat-dong-nam-a-2-xe-dau-ban-cham-o-viet-nam-va-nhieu-cai-ten-gay-bat-ngo-20210307141305905.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nóng nhất 24h: Động thái của vợ chồng ông Dũng khi ông Võ Hoàng Yên xin lỗi](https://laodong.vn/video-thoi-su/nong-nhat-24h-dong-thai-cua-vo-chong-ong-dung-khi-ong-vo-hoang-yen-xin-loi-886665.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 8.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-83-886185.ldo) ([Lao Động](https://laodong.vn))
+- [Những &quot;bóng hồng&quot; quyền lực trên thế giới](https://laodong.vn/the-gioi/nhung-bong-hong-quyen-luc-tren-the-gioi-874576.ldo) ([Lao Động](https://laodong.vn))
+- [Đất thuộc quy hoạch, người dân được hưởng những quyền gì?](https://laodong.vn/bat-dong-san/dat-thuoc-quy-hoach-nguoi-dan-duoc-huong-nhung-quyen-gi-886474.ldo) ([Lao Động](https://laodong.vn))
 - [Sáng mai (8/3), 100 y bác sĩ Bệnh viện Bệnh nhiệt đới Trung ương Hà Nội sẽ tiêm vaccine Covid-19](https://cafebiz.vn/sang-mai-8-3-100-y-bac-si-benh-vien-benh-nhiet-doi-trung-uong-ha-noi-se-tiem-vaccine-covid-19-20210307183959645.chn) ([CafeBiz](https://cafebiz.vn))
-- [Klopp: &quot;Liverpool không buông Premier League vì Champions League&quot;](https://laodong.vn/bong-da-quoc-te/klopp-liverpool-khong-buong-premier-league-vi-champions-league-886680.ldo) ([Lao Động](https://laodong.vn))
-- [BTS có thêm thành tích khủng, khoảng cách với Blackpink ngày càng xa?](https://laodong.vn/giai-tri/bts-co-them-thanh-tich-khung-khoang-cach-voi-blackpink-ngay-cang-xa-886679.ldo) ([Lao Động](https://laodong.vn))
-- [Căn hộ cao cấp 200m2 có thang máy riêng ở Phú Mỹ Hưng - TPHCM của Khánh My](https://laodong.vn/bat-dong-san/can-ho-cao-cap-200m2-co-thang-may-rieng-o-phu-my-hung-tphcm-cua-khanh-my-886676.ldo) ([Lao Động](https://laodong.vn))
 - [Giáo dục 24/7: Sinh viên sẽ bị kỷ luật nếu khai báo y tế không trung thực](https://laodong.vn/video/giao-duc-247-sinh-vien-se-bi-ky-luat-neu-khai-bao-y-te-khong-trung-thuc-886658.ldo) ([Lao Động](https://laodong.vn))
-- [Bình Dương: Xe ben quên hạ thùng, kéo đổ 7 cột điện](https://laodong.vn/xa-hoi/binh-duong-xe-ben-quen-ha-thung-keo-do-7-cot-dien-886689.ldo) ([Lao Động](https://laodong.vn))
 - [Chứng khoán: Mạch lình xình, đi ngang và nghẽn lệnh sẽ tiếp diễn?](https://laodong.vn/kinh-te/chung-khoan-mach-linh-xinh-di-ngang-va-nghen-lenh-se-tiep-dien-886685.ldo) ([Lao Động](https://laodong.vn))
-- [Vaccine phòng Covid-19 từ kho TP.HCM đã đến Hà Nội, sẵn sàng cho buổi tiêm đầu tiên vào ngày mai](https://cafebiz.vn/vaccine-phong-covid-19-tu-kho-tphcm-da-den-ha-noi-san-sang-cho-buoi-tiem-dau-tien-vao-ngay-mai-20210307183829425.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kon Tum: Lật xe giường nằm trên quốc lộ, 19 người bị thương](https://tuoitre.vn/kon-tum-lat-xe-giuong-nam-tren-quoc-lo-19-nguoi-bi-thuong-20210307185011469.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hải Dương sẽ tiêm vaccine Covid-19 như thế nào?](https://vnexpress.net/hai-duong-se-tiem-vaccine-covid-19-nhu-the-nao-4244799.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
@@ -135,8 +135,8 @@
 03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 04. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-06. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+06. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+07. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
 08. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 09. [Thêm đoạn clip cho thấy nỗ lực cứu bé gái rơi từ tầng 12 của anh Nguyễn Ngọc Mạnh | THDT](https://www.youtube.com/watch?v=YPe9q--jnEY) - [Truyền Hình Đồng Tháp](https://www.youtube.com/channel/UCDIl_FogyBJAUI3QVyLet8w)
 10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
