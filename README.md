@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 24.41°C.
+- Feels Like 23.95°C.
 - Air Visual is 152.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Giải cứu 20 người trong xe khách bị lật](https://vnexpress.net/giai-cuu-20-nguoi-trong-xe-khach-bi-lat-4244816.html) ([VNExpress](https://vnexpress.net))
+- [Tiết lộ lý do bất ngờ khiến Xiaomi lọt vào danh sách đen của nước Mỹ](https://cafebiz.vn/tiet-lo-ly-do-bat-ngo-khien-xiaomi-lot-vao-danh-sach-den-cua-nuoc-my-20210307172532571.chn) ([CafeBiz](https://cafebiz.vn))
+- [2 ca COVID-19 mới tại Bắc Ninh đã được cách ly ngay sau khi nhập cảnh](https://laodong.vn/xa-hoi/2-ca-covid-19-moi-tai-bac-ninh-da-duoc-cach-ly-ngay-sau-khi-nhap-canh-886716.ldo) ([Lao Động](https://laodong.vn))
+- [Giao thông ở phố hoa lớn nhất TPHCM đông nghẹt trước ngày 8.3](https://laodong.vn/photo/giao-thong-o-pho-hoa-lon-nhat-tphcm-dong-nghet-truoc-ngay-83-886710.ldo) ([Lao Động](https://laodong.vn))
+- [Giải cứu 19 người trong xe khách bị lật](https://vnexpress.net/giai-cuu-19-nguoi-trong-xe-khach-bi-lat-4244816.html) ([VNExpress](https://vnexpress.net))
 - [2 tháng đầu năm, điện thoại 'Made in Vietnam' thu về gần 10 tỷ USD](https://cafebiz.vn/2-thang-dau-nam-dien-thoai-made-in-vietnam-thu-ve-gan-10-ty-usd-20210307184731172.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nóng nhất hôm nay: Bị dùng tên tuổi gây quỹ, ông Trump hành động cứng rắn](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bi-dung-ten-tuoi-gay-quy-ong-trump-hanh-dong-cung-ran-886647.ldo) ([Lao Động](https://laodong.vn))
 - [Tin nhắn trên Facebook, Zalo có được coi là bằng chứng để đòi nợ?](https://laodong.vn/ban-doc/tin-nhan-tren-facebook-zalo-co-duoc-coi-la-bang-chung-de-doi-no-886535.ldo) ([Lao Động](https://laodong.vn))
 - [Có hẹn với bầu trời, cùng nàng đi muôn nơi trên tàu bay Vietjet](https://laodong.vn/kinh-te/co-hen-voi-bau-troi-cung-nang-di-muon-noi-tren-tau-bay-vietjet-886713.ldo) ([Lao Động](https://laodong.vn))
 - [Gói kích thích 1,9 nghìn tỷ USD của Mỹ sẽ tác động thế nào đến thế giới và Việt Nam?](https://cafebiz.vn/goi-kich-thich-19-nghin-ty-usd-cua-my-se-tac-dong-the-nao-den-the-gioi-va-viet-nam-20210307184533265.chn) ([CafeBiz](https://cafebiz.vn))
-- [Haaland &quot;bay trên không, chạy như gió&quot;, ai có thể cản nổi?](https://laodong.vn/bong-da-quoc-te/haaland-bay-tren-khong-chay-nhu-gio-ai-co-the-can-noi-886690.ldo) ([Lao Động](https://laodong.vn))
-- [Lương Xuân Trường và ước vọng từ những ám ảnh chấn thương](https://laodong.vn/bong-da/luong-xuan-truong-va-uoc-vong-tu-nhung-am-anh-chan-thuong-886590.ldo) ([Lao Động](https://laodong.vn))
-- [Nữ bác sĩ 'nhiều lần hoãn cưới' sẽ tiêm vắc xin ngừa COVID-19 đầu tiên ở TP.HCM](https://tuoitre.vn/nu-bac-si-nhieu-lan-hoan-cuoi-se-tiem-vac-xin-ngua-covid-19-dau-tien-o-tp-hcm-20210307195736361.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Ai là người giàu nhất trong lịch sử loài người? Câu trả lời bất ngờ về người duy nhất đủ sức tạo ra 1 chu kỳ kinh tế](https://cafebiz.vn/ai-la-nguoi-giau-nhat-trong-lich-su-loai-nguoi-cau-tra-loi-bat-ngo-ve-nguoi-duy-nhat-du-suc-tao-ra-1-chu-ky-kinh-te-20210307172327171.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cháy lớn thiêu rụi nhiều ki-ốt ở Bình Dương, cả khu dân cư náo loạn](http://vietnamnet.vn/vn/thoi-su/chay-lon-thieu-rui-nhieu-ki-ot-o-binh-duong-ca-khu-dan-cu-nao-loan-717885.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -137,9 +137,9 @@
 05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 06. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 07. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-08. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
-09. [Thêm đoạn clip cho thấy nỗ lực cứu bé gái rơi từ tầng 12 của anh Nguyễn Ngọc Mạnh | THDT](https://www.youtube.com/watch?v=YPe9q--jnEY) - [Truyền Hình Đồng Tháp](https://www.youtube.com/channel/UCDIl_FogyBJAUI3QVyLet8w)
-10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
+08. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
+09. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
+10. [Thêm đoạn clip cho thấy nỗ lực cứu bé gái rơi từ tầng 12 của anh Nguyễn Ngọc Mạnh | THDT](https://www.youtube.com/watch?v=YPe9q--jnEY) - [Truyền Hình Đồng Tháp](https://www.youtube.com/channel/UCDIl_FogyBJAUI3QVyLet8w)
 
 [Read More](https://www.youtube.com/feed/trending)
 
