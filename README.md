@@ -20,8 +20,8 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 22°C.
-- Feels Like 19.97°C.
+- Temperature is 23°C.
+- Feels Like 21.31°C.
 - Air Visual is 99.
 
 **WEATHER**
@@ -60,8 +60,8 @@
 - [![Kaity Nguyễn](https://img.shields.io/static/v1?label=Kaity%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kaity%20Nguy%E1%BB%85n)
 - [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
+- [![Lời chúc 8/3 cho mẹ](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20m%E1%BA%B9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20m%E1%BA%B9)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
-- [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
 - [![Penthouses Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
 - [![Raya và rồng thần cuối cùng](https://img.shields.io/static/v1?label=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [40 câu nói về mẹo bán sản phẩm, dân sales cần khắc cốt ghi tâm: Khách hàng tiềm năng không biết khách hàng hiện tại yêu thích sản phẩm của bạn, trừ khi bạn nói với họ!](https://cafebiz.vn/40-cau-noi-ve-meo-ban-san-pham-dan-sales-can-khac-cot-ghi-tam-khach-hang-tiem-nang-khong-biet-khach-hang-hien-tai-yeu-thich-san-pham-cua-ban-tru-khi-ban-noi-voi-ho-20210220113449358.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dịp lễ 30/4 và 1/5 năm nay người lao động được nghỉ mấy ngày?](https://cafebiz.vn/dip-le-30-4-va-1-5-nam-nay-nguoi-lao-dong-duoc-nghi-may-ngay-20210307081829196.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thêm điểm mới trong chính sách nhập cư Mỹ của ông Biden](https://laodong.vn/the-gioi/them-diem-moi-trong-chinh-sach-nhap-cu-my-cua-ong-biden-886509.ldo) ([Lao Động](https://laodong.vn))
+- [Cần Thơ: Tái diễn tình trạng bôi đen để vô hiệu hóa biển báo giao thông](https://laodong.vn/ban-doc/can-tho-tai-dien-tinh-trang-boi-den-de-vo-hieu-hoa-bien-bao-giao-thong-886355.ldo) ([Lao Động](https://laodong.vn))
+- [Tham ô 13 tỷ đồng, cựu Tổng giám đốc SAGRI Lê Tấn Hùng đối diện với án tử hình?](https://cafebiz.vn/tham-o-13-ty-dong-cuu-tong-giam-doc-sagri-le-tan-hung-doi-dien-voi-an-tu-hinh-20210307080342529.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lời chúc ý nghĩa dành tặng cô giáo nhân ngày 8.3](https://laodong.vn/xa-hoi/loi-chuc-y-nghia-danh-tang-co-giao-nhan-ngay-83-886520.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng và ngoại tệ 7.3:  Giá vàng chạm đáy, không có tín hiệu hồi phục](https://laodong.vn/video-thoi-su/gia-vang-va-ngoai-te-73-gia-vang-cham-day-khong-co-tin-hieu-hoi-phuc-886527.ldo) ([Lao Động](https://laodong.vn))
 - [Đề xuất 30 tỷ đồng sửa hồ chứa nước Tuyền Lâm](https://vnexpress.net/de-xuat-30-ty-dong-sua-ho-chua-nuoc-tuyen-lam-4244659.html) ([VNExpress](https://vnexpress.net))
 - [2 nhân vật được Từ Thứ tiến cử đều "nổi như cồn" dưới thời Tam Quốc: 1 người đại trung, 1 người đại gian](https://cafebiz.vn/2-nhan-vat-duoc-tu-thu-tien-cu-deu-noi-nhu-con-duoi-thoi-tam-quoc-1-nguoi-dai-trung-1-nguoi-dai-gian-20210307014240776.chn) ([CafeBiz](https://cafebiz.vn))
 - [TP.HCM không đánh đổi môi trường lấy kinh tế](https://tuoitre.vn/tphcm-khong-danh-doi-moi-truong-lay-kinh-te-2021030709100905.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Lưỡng hội Trung Quốc; Muốn mạnh tay kiểm soát hoàn toàn Hong Kong](https://tuoitre.vn/luong-hoi-trung-quoc-muon-manh-tay-kiem-soat-hoan-toan-hong-kong-20210307080309087.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sẽ có 3 'bóng hồng' cầm còi ở giải hạng nhất bóng đá nam](https://tuoitre.vn/se-co-3-bong-hong-cam-coi-o-giai-hang-nhat-bong-da-nam-20210307091449788.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [WHO: Đại dịch Covid-19 gây ra nhiều tổn thất hơn cả Chiến tranh Thế giới thứ Hai](https://cafebiz.vn/who-dai-dich-covid-19-gay-ra-nhieu-ton-that-hon-ca-chien-tranh-the-gioi-thu-hai-20210307080733096.chn) ([CafeBiz](https://cafebiz.vn))
-- [AirAsia tính mở ‘taxi bay’](https://cafebiz.vn/airasia-tinh-mo-taxi-bay-2021030709324634.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hotgirl bóng chuyền Đặng Thu Huyền giải nghệ ở tuổi 19](https://laodong.vn/the-thao/hotgirl-bong-chuyen-dang-thu-huyen-giai-nghe-o-tuoi-19-886482.ldo) ([Lao Động](https://laodong.vn))
-- [Chân dung đại gia kín tiếng bán phụ gia làm bánh, kem cho Kido, Tous Les Jours, Lotte trong 1/4 thế kỷ tại Việt Nam](https://cafebiz.vn/chan-dung-dai-gia-kin-tieng-ban-phu-gia-lam-banh-kem-cho-kido-tous-les-jours-lotte-trong-1-4-the-ky-tai-viet-nam-2021030510085382.chn) ([CafeBiz](https://cafebiz.vn))
-- [Viettel tặng miễn phí gói tích hợp kênh K+ trên di động](https://laodong.vn/kinh-te/viettel-tang-mien-phi-goi-tich-hop-kenh-k-tren-di-dong-886440.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
