@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 24.36°C.
-- Air Visual is 139.
+- Feels Like 25.08°C.
+- Air Visual is 125.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Phát hiện người trốn cách ly ở Campuchia nhập cảnh trái phép](https://laodong.vn/xa-hoi/phat-hien-nguoi-tron-cach-ly-o-campuchia-nhap-canh-trai-phep-886605.ldo) ([Lao Động](https://laodong.vn))
+- [13 tỉnh thành đầu tiên sẽ được nhận bao nhiêu vaccine COVID-19 ở đợt 1?](https://cafebiz.vn/13-tinh-thanh-dau-tien-se-duoc-nhan-bao-nhieu-vaccine-covid-19-o-dot-1-20210307135018935.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hậu trường thi Olympic quốc tế - Kỳ 6: Cuộc tuyển chọn đặc biệt cho cú 'lội ngược dòng'](https://tuoitre.vn/hau-truong-thi-olympic-quoc-te-ky-6-cuoc-tuyen-chon-dac-biet-cho-cu-loi-nguoc-dong-20210307120724289.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hàng nghìn con gà Hải Dương tiếp tục được người dân Hà Nội giải cứu](https://laodong.vn/nguoi-viet-tu-te/hang-nghin-con-ga-hai-duong-tiep-tuc-duoc-nguoi-dan-ha-noi-giai-cuu-886592.ldo) ([Lao Động](https://laodong.vn))
+- [Điều tra nghi án cháu dùng dao bầu đâm bác tử vong](https://laodong.vn/phap-luat/dieu-tra-nghi-an-chau-dung-dao-bau-dam-bac-tu-vong-886597.ldo) ([Lao Động](https://laodong.vn))
+- [Ngày 8.3: Không mong hoa, chỉ mong dịch bệnh qua mau, công việc ổn định](https://laodong.vn/cong-doan/ngay-83-khong-mong-hoa-chi-mong-dich-benh-qua-mau-cong-viec-on-dinh-886595.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Yên trả tiền cho ông Dũng, vậy tiền của bệnh nhân thì sao?](https://laodong.vn/su-kien-binh-luan/ong-yen-tra-tien-cho-ong-dung-vay-tien-cua-benh-nhan-thi-sao-886519.ldo) ([Lao Động](https://laodong.vn))
+- [Cần Thơ: Choáng ngợp trước ngôi nhà toàn những chiếc radio, cassette cổ](https://laodong.vn/photo/can-tho-choang-ngop-truoc-ngoi-nha-toan-nhung-chiec-radio-cassette-co-886074.ldo) ([Lao Động](https://laodong.vn))
 - [Xác định 41 người đi cùng chuyến bay với ca nghi tái dương tính](https://vnexpress.net/xac-dinh-41-nguoi-di-cung-chuyen-bay-voi-ca-nghi-tai-duong-tinh-4244715.html) ([VNExpress](https://vnexpress.net))
-- [Những dấu hiệu cho thấy người ấy đang yêu “giả tạo”](https://laodong.vn/yeu-360/nhung-dau-hieu-cho-thay-nguoi-ay-dang-yeu-gia-tao-886557.ldo) ([Lao Động](https://laodong.vn))
-- [Dàn sao tuyển Việt Nam đến chúc mừng dự án ý nghĩa của Lương Xuân Trường](https://laodong.vn/photo/dan-sao-tuyen-viet-nam-den-chuc-mung-du-an-y-nghia-cua-luong-xuan-truong-886596.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng xác định 41 người trên chuyến bay từ TP.HCM liên quan bệnh nhân tái dương tính](https://cafebiz.vn/hai-phong-xac-dinh-41-nguoi-tren-chuyen-bay-tu-tphcm-lien-quan-benh-nhan-tai-duong-tinh-20210307134711362.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ở thời đại này, vóc dáng cân đối là lợi thế đáng quý: Trước 18 tuổi, cơ thể là ba mẹ cho; sau 18 tuổi, vóc dáng là tự rèn luyện](https://cafebiz.vn/o-thoi-dai-nay-voc-dang-can-doi-la-loi-the-dang-quy-truoc-18-tuoi-co-the-la-ba-me-cho-sau-18-tuoi-voc-dang-la-tu-ren-luyen-20210305211024426.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tỏa sáng thay Ronaldo, Morata giúp Juventus ngược dòng](https://laodong.vn/video-the-thao/toa-sang-thay-ronaldo-morata-giup-juventus-nguoc-dong-886573.ldo) ([Lao Động](https://laodong.vn))
-- [Bảo vật quốc gia ở Yên Tử](https://vnexpress.net/bao-vat-quoc-gia-o-yen-tu-4244672.html) ([VNExpress](https://vnexpress.net))
-- [Cần Thơ: Hơn 500 đơn vị máu hưởng ứng Ngày &quot;Chủ nhật Đỏ&quot; năm 2021](https://laodong.vn/nguoi-viet-tu-te/can-tho-hon-500-don-vi-mau-huong-ung-ngay-chu-nhat-do-nam-2021-886546.ldo) ([Lao Động](https://laodong.vn))
-- [Người khác chơi golf để giải trí, tôi đã chơi golf và thay đổi cả cuộc sống](https://cafebiz.vn/nguoi-khac-choi-golf-de-giai-tri-toi-da-choi-golf-va-thay-doi-ca-cuoc-song-20210307110408639.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khám phá kinh ngạc về mặt trăng](https://laodong.vn/the-gioi/kham-pha-kinh-ngac-ve-mat-trang-886534.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -121,8 +121,8 @@
 06. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 07. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
-09. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
-10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
+09. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
+10. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -133,8 +133,8 @@
 01. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-04. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-05. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
+04. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
+05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 06. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
 07. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 08. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
