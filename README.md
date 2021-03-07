@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 23°C.
-- Feels Like 21.29°C.
-- Air Visual is 90.
+- Temperature is 24°C.
+- Feels Like 23.8°C.
+- Air Visual is 93.
 
 **WEATHER**
 
@@ -53,20 +53,20 @@
 - [![Biểu tình ở Myanmar](https://img.shields.io/static/v1?label=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Em của ngày hôm qua](https://img.shields.io/static/v1?label=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Kaity Nguyễn](https://img.shields.io/static/v1?label=Kaity%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kaity%20Nguy%E1%BB%85n)
 - [![Leicester City](https://img.shields.io/static/v1?label=Leicester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester%20City)
+- [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
+- [![Lời chúc 8/3 cho mẹ](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20m%E1%BA%B9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20m%E1%BA%B9)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
+- [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
 - [![Raya và rồng thần cuối cùng](https://img.shields.io/static/v1?label=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng)
-- [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
-- [![Tiếng Hàn trở thành môn học bắt buộc](https://img.shields.io/static/v1?label=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ti%E1%BA%BFng%20H%C3%A0n%20tr%E1%BB%9F%20th%C3%A0nh%20m%C3%B4n%20h%E1%BB%8Dc%20b%E1%BA%AFt%20bu%E1%BB%99c)
-- [![Trần Vĩnh Tuyến](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn)
+- [![Rạp chiếu phim](https://img.shields.io/static/v1?label=R%E1%BA%A1p%20chi%E1%BA%BFu%20phim&message=google&color=red&style=flat-square)](https://www.google.com/search?q=R%E1%BA%A1p%20chi%E1%BA%BFu%20phim)
 - [![Vietravel Airlines](https://img.shields.io/static/v1?label=Vietravel%20Airlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietravel%20Airlines)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Vượt rào chắn, ôtô bị tàu hỏa tông khiến 3 người thương vong](https://laodong.vn/xa-hoi/vuot-rao-chan-oto-bi-tau-hoa-tong-khien-3-nguoi-thuong-vong-886581.ldo) ([Lao Động](https://laodong.vn))
+- [Thầy Park phải làm mới đội tuyển Việt Nam tại vòng loại World Cup 2022](https://laodong.vn/bong-da/thay-park-phai-lam-moi-doi-tuyen-viet-nam-tai-vong-loai-world-cup-2022-886515.ldo) ([Lao Động](https://laodong.vn))
 - [Hé lộ khối tài sản "khủng" của 5 gia tộc giàu nhất nước Mỹ](https://cafebiz.vn/he-lo-khoi-tai-san-khung-cua-5-gia-toc-giau-nhat-nuoc-my-20210307110817675.chn) ([CafeBiz](https://cafebiz.vn))
 - [Trước thềm 8.3: Hoa tươi đẹp, “rẻ như cho” vẫn ế khách](https://laodong.vn/kinh-te/truoc-them-83-hoa-tuoi-dep-re-nhu-cho-van-e-khach-886577.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút: Bác sĩ nói gì về việc ông Võ Hoàng Yên vỗ tai chữa điếc?](https://laodong.vn/video/ban-tin-1-phut-bac-si-noi-gi-ve-viec-ong-vo-hoang-yen-vo-tai-chua-diec-886549.ldo) ([Lao Động](https://laodong.vn))
 - [Điều tra kẻ giả danh ngân hàng lấy mã OTP](https://cafebiz.vn/dieu-tra-ke-gia-danh-ngan-hang-lay-ma-otp-20210307093351764.chn) ([CafeBiz](https://cafebiz.vn))
 - [Trinh sát kể về hành trình đầy hiểm nguy khi truy bắt đối tượng cướp giật](https://laodong.vn/phap-luat/trinh-sat-ke-ve-hanh-trinh-day-hiem-nguy-khi-truy-bat-doi-tuong-cuop-giat-885235.ldo) ([Lao Động](https://laodong.vn))
 - [Nhận định Man City - Man United: &quot;Quỷ đỏ&quot; buông đinh ba ở Etihad](https://laodong.vn/bong-da-quoc-te/nhan-dinh-man-city-man-united-quy-do-buong-dinh-ba-o-etihad-886532.ldo) ([Lao Động](https://laodong.vn))
-- [Anh đánh dấu bước tiến trở lại cuộc sống bình thường vào ngày 8.3](https://laodong.vn/the-gioi/anh-danh-dau-buoc-tien-tro-lai-cuoc-song-binh-thuong-vao-ngay-83-886574.ldo) ([Lao Động](https://laodong.vn))
 - [117.000 lượt người đã chung tay 'Cùng Tuổi Trẻ góp vắc xin COVID-19'](https://tuoitre.vn/117-000-luot-nguoi-da-chung-tay-cung-tuoi-tre-goc-vacxin-covid-19-20210307114544039.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hàng chục nghìn người Myanmar xuống đường biểu tình ngày chủ nhật](https://tuoitre.vn/hang-chuc-nghin-nguoi-myanmar-xuong-duong-bieu-tinh-ngay-chu-nhat-20210307113320776.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Người dân lo lắng: Sẽ ngưng xử lý nix thải tại Khánh Hòa?](https://tuoitre.vn/nguoi-dan-lo-lang-se-ngung-xu-ly-nix-thai-tai-khanh-hoa-2021030708551406.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
