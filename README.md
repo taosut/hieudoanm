@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 23°C.
 - Feels Like 23.95°C.
-- Air Visual is 152.
+- Air Visual is 134.
 
 **WEATHER**
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Cảnh báo: Nguồn tài nguyên quan trọng thứ 2 sau nước sắp khan hiếm vì "cơn khát" của con người](https://cafebiz.vn/canh-bao-nguon-tai-nguyen-quan-trong-thu-2-sau-nuoc-sap-khan-hiem-vi-con-khat-cua-con-nguoi-2021030718433265.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cháy 5 kiôt, lan sang nhà dân tại Bình Dương](https://tuoitre.vn/chay-5-kiot-lan-sang-nha-dan-tai-binh-duong-20210307211013718.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tiết lộ lý do bất ngờ khiến Xiaomi lọt vào danh sách đen của nước Mỹ](https://cafebiz.vn/tiet-lo-ly-do-bat-ngo-khien-xiaomi-lot-vao-danh-sach-den-cua-nuoc-my-20210307172532571.chn) ([CafeBiz](https://cafebiz.vn))
 - [2 ca COVID-19 mới tại Bắc Ninh đã được cách ly ngay sau khi nhập cảnh](https://laodong.vn/xa-hoi/2-ca-covid-19-moi-tai-bac-ninh-da-duoc-cach-ly-ngay-sau-khi-nhap-canh-886716.ldo) ([Lao Động](https://laodong.vn))
 - [Giao thông ở phố hoa lớn nhất TPHCM đông nghẹt trước ngày 8.3](https://laodong.vn/photo/giao-thong-o-pho-hoa-lon-nhat-tphcm-dong-nghet-truoc-ngay-83-886710.ldo) ([Lao Động](https://laodong.vn))
@@ -83,8 +85,6 @@
 - [Nóng nhất hôm nay: Bị dùng tên tuổi gây quỹ, ông Trump hành động cứng rắn](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bi-dung-ten-tuoi-gay-quy-ong-trump-hanh-dong-cung-ran-886647.ldo) ([Lao Động](https://laodong.vn))
 - [Tin nhắn trên Facebook, Zalo có được coi là bằng chứng để đòi nợ?](https://laodong.vn/ban-doc/tin-nhan-tren-facebook-zalo-co-duoc-coi-la-bang-chung-de-doi-no-886535.ldo) ([Lao Động](https://laodong.vn))
 - [Có hẹn với bầu trời, cùng nàng đi muôn nơi trên tàu bay Vietjet](https://laodong.vn/kinh-te/co-hen-voi-bau-troi-cung-nang-di-muon-noi-tren-tau-bay-vietjet-886713.ldo) ([Lao Động](https://laodong.vn))
-- [Gói kích thích 1,9 nghìn tỷ USD của Mỹ sẽ tác động thế nào đến thế giới và Việt Nam?](https://cafebiz.vn/goi-kich-thich-19-nghin-ty-usd-cua-my-se-tac-dong-the-nao-den-the-gioi-va-viet-nam-20210307184533265.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cháy lớn thiêu rụi nhiều ki-ốt ở Bình Dương, cả khu dân cư náo loạn](http://vietnamnet.vn/vn/thoi-su/chay-lon-thieu-rui-nhieu-ki-ot-o-binh-duong-ca-khu-dan-cu-nao-loan-717885.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
