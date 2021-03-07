@@ -55,11 +55,12 @@
 - [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
 - [![Em của ngày hôm qua](https://img.shields.io/static/v1?label=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
-- [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
+- [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Kaity Nguyễn](https://img.shields.io/static/v1?label=Kaity%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kaity%20Nguy%E1%BB%85n)
-- [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
-- [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
+- [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Liverpool vs Fulham](https://img.shields.io/static/v1?label=Liverpool%20vs%20Fulham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool%20vs%20Fulham)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
+- [![Ngày 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208/3)
 - [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
 - [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
 - [![Raya](https://img.shields.io/static/v1?label=Raya&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya)
@@ -67,7 +68,6 @@
 - [![Trần Vĩnh Tuyến](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn)
 - [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
 - [![UFC 259](https://img.shields.io/static/v1?label=UFC%20259&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UFC%20259)
-- [![Đặng Thu Huyền](https://img.shields.io/static/v1?label=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
