@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
+- Current weather is scattered clouds.
 - Temperature is 24°C.
 - Feels Like 24.09°C.
-- Air Visual is 152.
+- Air Visual is 144.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tối 7.3: Công bố 3 ca mắc COVID-19 mới, trong đó có 1 ca ở Hải Dương](https://laodong.vn/y-te/toi-73-cong-bo-3-ca-mac-covid-19-moi-trong-do-co-1-ca-o-hai-duong-886670.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Ngãi đồng ý mở tuyến đường biển Đà Nẵng - Lý Sơn](https://vnexpress.net/quang-ngai-dong-y-mo-tuyen-duong-bien-da-nang-ly-son-4244789.html) ([VNExpress](https://vnexpress.net))
+- [Lê Dương Bảo Lâm tậu xế hộp tặng mẹ dịp Quốc tế phụ nữ với lý do xúc động](https://laodong.vn/xe/le-duong-bao-lam-tau-xe-hop-tang-me-dip-quoc-te-phu-nu-voi-ly-do-xuc-dong-886666.ldo) ([Lao Động](https://laodong.vn))
+- [Điểm tiêm vắc xin ngừa COVID-19 ở Hải Dương trước giờ G](https://tuoitre.vn/diem-tiem-vac-xin-ngua-covid-19-o-hai-duong-truoc-gio-g-20210307155617125.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bắc Ninh: Nhiều lĩnh vực được phép hoạt động trở lại từ 8.3](https://laodong.vn/xa-hoi/bac-ninh-nhieu-linh-vuc-duoc-phep-hoat-dong-tro-lai-tu-83-886649.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều nay 7-3, có 3 ca mắc COVID-19 ở Hải Dương và Bắc Ninh](https://tuoitre.vn/chieu-nay-7-3-co-3-ca-mac-covid-19-o-hai-duong-va-bac-ninh-20210305180628639.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tuyển sinh lớp 6: Nhiều trường &quot;hot&quot; ở Hà Nội tổ chức thi đánh giá năng lực](https://laodong.vn/giao-duc/tuyen-sinh-lop-6-nhieu-truong-hot-o-ha-noi-to-chuc-thi-danh-gia-nang-luc-886663.ldo) ([Lao Động](https://laodong.vn))
 - [Top vua phá lưới Bundesliga 2020/21: Lewandowski &quot;hoá thần&quot;, bỏ xa Haaland](https://laodong.vn/photo/top-vua-pha-luoi-bundesliga-202021-lewandowski-hoa-than-bo-xa-haaland-886657.ldo) ([Lao Động](https://laodong.vn))
-- [Hé lộ tình tiết bất ngờ có thể sáng tỏ bí ẩn MH370](https://laodong.vn/the-gioi/he-lo-tinh-tiet-bat-ngo-co-the-sang-to-bi-an-mh370-886662.ldo) ([Lao Động](https://laodong.vn))
-- [Lãi suất trái phiếu đang gấp đôi lãi suất ngân hàng](https://laodong.vn/kinh-te/lai-suat-trai-phieu-dang-gap-doi-lai-suat-ngan-hang-886671.ldo) ([Lao Động](https://laodong.vn))
-- [Đại biểu Quốc hội chuyên trách phải trong quy hoạch tương đương Thứ trưởng](https://laodong.vn/thoi-su/dai-bieu-quoc-hoi-chuyen-trach-phai-trong-quy-hoach-tuong-duong-thu-truong-886653.ldo) ([Lao Động](https://laodong.vn))
 - [Thủ tướng Nguyễn Xuân Phúc tiếp xúc cử tri Thành phố Hải Phòng](http://vietnamnet.vn/vn/thoi-su/chinh-tri/thu-tuong-nguyen-xuan-phuc-tiep-xuc-cu-tri-thanh-pho-hai-phong-717869.html) ([VietNamNet](https://vietnamnet.vn))
 - [Loạn thị trường bất động sản: Thủ phạm là dự án phân lô bán nền?](https://cafebiz.vn/loan-thi-truong-bat-dong-san-thu-pham-la-du-an-phan-lo-ban-nen-20210307170305501.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tàu hỏa tông ô tô, 3 người thương vong: Đèn đỏ bật nhưng gác chắn chưa kéo](https://laodong.vn/xa-hoi/tau-hoa-tong-o-to-3-nguoi-thuong-vong-den-do-bat-nhung-gac-chan-chua-keo-886660.ldo) ([Lao Động](https://laodong.vn))
-- [MC Trác Thuý Miêu phát ngôn "đàn bà không làm việc nhà thì làm được cái gì", tiến sĩ Nguyễn Phương Mai phản biện sâu sắc, thâm thuý dậy sóng cộng đồng mạng](https://cafebiz.vn/mc-trac-thuy-mieu-phat-ngon-dan-ba-khong-lam-viec-nha-thi-lam-duoc-cai-gi-tien-si-nguyen-phuong-mai-phan-bien-sau-sac-tham-thuy-day-song-cong-dong-mang-20210307171631033.chn) ([CafeBiz](https://cafebiz.vn))
-- [10 thói quen tạo điều kiện cho vi khuẩn lây lan mà bạn cần bỏ ngay](https://cafebiz.vn/10-thoi-quen-tao-dieu-kien-cho-vi-khuan-lay-lan-ma-ban-can-bo-ngay-20210307160937152.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
