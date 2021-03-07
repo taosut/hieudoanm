@@ -21,7 +21,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 22°C.
-- Feels Like 20.34°C.
+- Feels Like 19.97°C.
 - Air Visual is 99.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [KHẨN: Tìm hành khách trên chuyến bay VN1188 từ TP.HCM ra Hải Phòng](https://cafebiz.vn/khan-tim-hanh-khach-tren-chuyen-bay-vn1188-tu-tphcm-ra-hai-phong-20210307084843326.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vì sao người Phần Lan thường cho trẻ sơ sinh ngủ trong hộp các tông thay vì nôi ?](https://cafebiz.vn/vi-sao-nguoi-phan-lan-thuong-cho-tre-so-sinh-ngu-trong-hop-cac-tong-thay-vi-noi--20210305150857715.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hai cháu nhỏ là anh em ruột chết dưới hố chôn cột điện thi công dang dở, không rào chắn](https://tuoitre.vn/hai-chau-nho-la-anh-em-ruot-chet-duoi-ho-chon-cot-dien-thi-cong-dang-do-khong-rao-chan-20210307080955594.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hiện thực hóa khát vọng 'Việt Nam hùng cường'](https://tuoitre.vn/hien-thuc-hoa-khat-vong-viet-nam-hung-cuong-20210307084431243.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [MC thể thao Tú Linh: Sáng làm broker chứng khoán, chiều bán bảo hiểm, tối lên trường quay](https://cafebiz.vn/mc-the-thao-tu-linh-sang-lam-broker-chung-khoan-chieu-ban-bao-hiem-toi-len-truong-quay-20210307085103799.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vụ đội trưởng chống buôn lậu liên quan đường dây 200 triệu lít xăng giả: Tầng hầm bí mật dưới căn nhà nuôi yến](https://cafebiz.vn/vu-doi-truong-chong-buon-lau-lien-quan-duong-day-200-trieu-lit-xang-gia-tang-ham-bi-mat-duoi-can-nha-nuoi-yen-20210307081357164.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá vàng hôm nay 7.3: Lao dốc không phanh, quá rủi ro để mua vào](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-73-lao-doc-khong-phanh-qua-rui-ro-de-mua-vao-886494.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ đại gia Dũng "lò vôi" nói gì khi ông Võ Hoàng Yên có thư xin trả lại tiền?](https://cafebiz.vn/vo-dai-gia-dung-lo-voi-noi-gi-khi-ong-vo-hoang-yen-co-thu-xin-tra-lai-tien-20210307081705128.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Trump yêu cầu Đảng Cộng hòa ngừng sử dụng tên tuổi ông để gây quỹ](https://laodong.vn/the-gioi/ong-trump-yeu-cau-dang-cong-hoa-ngung-su-dung-ten-tuoi-ong-de-gay-quy-886505.ldo) ([Lao Động](https://laodong.vn))
-- [Bí thư đoàn bị kết án cướp giật oan, phải ngồi tù hơn 2 năm](https://tuoitre.vn/bi-thu-doan-bi-ket-an-cuop-giat-oan-phai-ngoi-tu-hon-2-nam-20210307081128945.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Đề xuất 30 tỷ đồng sửa hồ chứa nước Tuyền Lâm](https://vnexpress.net/de-xuat-30-ty-dong-sua-ho-chua-nuoc-tuyen-lam-4244659.html) ([VNExpress](https://vnexpress.net))
+- [2 nhân vật được Từ Thứ tiến cử đều "nổi như cồn" dưới thời Tam Quốc: 1 người đại trung, 1 người đại gian](https://cafebiz.vn/2-nhan-vat-duoc-tu-thu-tien-cu-deu-noi-nhu-con-duoi-thoi-tam-quoc-1-nguoi-dai-trung-1-nguoi-dai-gian-20210307014240776.chn) ([CafeBiz](https://cafebiz.vn))
+- [TP.HCM không đánh đổi môi trường lấy kinh tế](https://tuoitre.vn/tphcm-khong-danh-doi-moi-truong-lay-kinh-te-2021030709100905.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Lưỡng hội Trung Quốc; Muốn mạnh tay kiểm soát hoàn toàn Hong Kong](https://tuoitre.vn/luong-hoi-trung-quoc-muon-manh-tay-kiem-soat-hoan-toan-hong-kong-20210307080309087.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Sẽ có 3 'bóng hồng' cầm còi ở giải hạng nhất bóng đá nam](https://tuoitre.vn/se-co-3-bong-hong-cam-coi-o-giai-hang-nhat-bong-da-nam-20210307091449788.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [WHO: Đại dịch Covid-19 gây ra nhiều tổn thất hơn cả Chiến tranh Thế giới thứ Hai](https://cafebiz.vn/who-dai-dich-covid-19-gay-ra-nhieu-ton-that-hon-ca-chien-tranh-the-gioi-thu-hai-20210307080733096.chn) ([CafeBiz](https://cafebiz.vn))
+- [AirAsia tính mở ‘taxi bay’](https://cafebiz.vn/airasia-tinh-mo-taxi-bay-2021030709324634.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hotgirl bóng chuyền Đặng Thu Huyền giải nghệ ở tuổi 19](https://laodong.vn/the-thao/hotgirl-bong-chuyen-dang-thu-huyen-giai-nghe-o-tuoi-19-886482.ldo) ([Lao Động](https://laodong.vn))
+- [Chân dung đại gia kín tiếng bán phụ gia làm bánh, kem cho Kido, Tous Les Jours, Lotte trong 1/4 thế kỷ tại Việt Nam](https://cafebiz.vn/chan-dung-dai-gia-kin-tieng-ban-phu-gia-lam-banh-kem-cho-kido-tous-les-jours-lotte-trong-1-4-the-ky-tai-viet-nam-2021030510085382.chn) ([CafeBiz](https://cafebiz.vn))
+- [Viettel tặng miễn phí gói tích hợp kênh K+ trên di động](https://laodong.vn/kinh-te/viettel-tang-mien-phi-goi-tich-hop-kenh-k-tren-di-dong-886440.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -134,8 +134,8 @@
 02. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 03. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 04. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-05. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-06. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
+05. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
+06. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
 07. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 08. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 09. [Thêm đoạn clip cho thấy nỗ lực cứu bé gái rơi từ tầng 12 của anh Nguyễn Ngọc Mạnh | THDT](https://www.youtube.com/watch?v=YPe9q--jnEY) - [Truyền Hình Đồng Tháp](https://www.youtube.com/channel/UCDIl_FogyBJAUI3QVyLet8w)
