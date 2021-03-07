@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 22°C.
-- Feels Like 20.33°C.
-- Air Visual is 114.
+- Feels Like 20.34°C.
+- Air Visual is 99.
 
 **WEATHER**
 
@@ -58,14 +58,14 @@
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Kaity Nguyễn](https://img.shields.io/static/v1?label=Kaity%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kaity%20Nguy%E1%BB%85n)
-- [![Leicester City](https://img.shields.io/static/v1?label=Leicester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester%20City)
 - [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
+- [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
 - [![Penthouses Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
 - [![Raya và rồng thần cuối cùng](https://img.shields.io/static/v1?label=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng)
-- [![Tottenham](https://img.shields.io/static/v1?label=Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tottenham)
+- [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
 - [![Vietravel Airlines](https://img.shields.io/static/v1?label=Vietravel%20Airlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietravel%20Airlines)
 - [![Văn Mai Hương](https://img.shields.io/static/v1?label=V%C4%83n%20Mai%20H%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C4%83n%20Mai%20H%C6%B0%C6%A1ng)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cựu Phó Chủ tịch TP. HCM phạm tội một phần do nể nang em trai cựu Bí thư thành ủy](https://cafebiz.vn/cuu-pho-chu-tich-tp-hcm-pham-toi-mot-phan-do-ne-nang-em-trai-cuu-bi-thu-thanh-uy-2021030707555479.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đội TPHCM, Sài Gòn thắng trận giao hữu trước khi V.League nối lại](https://laodong.vn/bong-da/doi-tphcm-sai-gon-thang-tran-giao-huu-truoc-khi-vleague-noi-lai-886503.ldo) ([Lao Động](https://laodong.vn))
-- [Đi tìm hình tướng của Phật hoàng Trần Nhân Tông](https://laodong.vn/lao-dong-cuoi-tuan/di-tim-hinh-tuong-cua-phat-hoang-tran-nhan-tong-885474.ldo) ([Lao Động](https://laodong.vn))
-- ["Đối thoại 2045": 25 năm để xuất hiện những tập đoàn khổng lồ của Việt Nam](https://cafebiz.vn/doi-thoai-2045-25-nam-de-xuat-hien-nhung-tap-doan-khong-lo-cua-viet-nam-20210307075836664.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nữ đoàn viên ngành Đường sắt hưởng ứng Tuần lễ áo dài](https://laodong.vn/cd-duong-sat/nu-doan-vien-nganh-duong-sat-huong-ung-tuan-le-ao-dai-886465.ldo) ([Lao Động](https://laodong.vn))
-- [Lãi suất vay tiêu dùng của công ty tài chính là bao nhiêu?](https://laodong.vn/tu-van-phap-luat/lai-suat-vay-tieu-dung-cua-cong-ty-tai-chinh-la-bao-nhieu-885956.ldo) ([Lao Động](https://laodong.vn))
-- [Chiến thắng quan trọng của ông Biden sau 6 tuần tại nhiệm](https://laodong.vn/the-gioi/chien-thang-quan-trong-cua-ong-biden-sau-6-tuan-tai-nhiem-886506.ldo) ([Lao Động](https://laodong.vn))
-- [Bee You Fitness&amp;Yoga bất ngờ đóng cửa, hàng trăm học viên muốn đòi lại tiền](https://laodong.vn/video/bee-you-fitnessyoga-bat-ngo-dong-cua-hang-tram-hoc-vien-muon-doi-lai-tien-886471.ldo) ([Lao Động](https://laodong.vn))
-- [Những câu chuyện bạo lực thường xuyên ám ảnh nhân viên tư vấn tâm lý](https://laodong.vn/xa-hoi/nhung-cau-chuyen-bao-luc-thuong-xuyen-am-anh-nhan-vien-tu-van-tam-ly-886497.ldo) ([Lao Động](https://laodong.vn))
-- [“Nhà virus học’ Nguyễn Lê Khánh Hằng: Để thành công, bạn cần có mục đích rõ ràng và niềm đam mê mạnh mẽ thúc đẩy bạn tiến về phía trước](https://cafebiz.vn/nha-virus-hoc-nguyen-le-khanh-hang-de-thanh-cong-ban-can-co-muc-dich-ro-rang-va-niem-dam-me-manh-me-thuc-day-ban-tien-ve-phia-truoc-20210306172834262.chn) ([CafeBiz](https://cafebiz.vn))
+- [KHẨN: Tìm hành khách trên chuyến bay VN1188 từ TP.HCM ra Hải Phòng](https://cafebiz.vn/khan-tim-hanh-khach-tren-chuyen-bay-vn1188-tu-tphcm-ra-hai-phong-20210307084843326.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vì sao người Phần Lan thường cho trẻ sơ sinh ngủ trong hộp các tông thay vì nôi ?](https://cafebiz.vn/vi-sao-nguoi-phan-lan-thuong-cho-tre-so-sinh-ngu-trong-hop-cac-tong-thay-vi-noi--20210305150857715.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hai cháu nhỏ là anh em ruột chết dưới hố chôn cột điện thi công dang dở, không rào chắn](https://tuoitre.vn/hai-chau-nho-la-anh-em-ruot-chet-duoi-ho-chon-cot-dien-thi-cong-dang-do-khong-rao-chan-20210307080955594.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hiện thực hóa khát vọng 'Việt Nam hùng cường'](https://tuoitre.vn/hien-thuc-hoa-khat-vong-viet-nam-hung-cuong-20210307084431243.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [MC thể thao Tú Linh: Sáng làm broker chứng khoán, chiều bán bảo hiểm, tối lên trường quay](https://cafebiz.vn/mc-the-thao-tu-linh-sang-lam-broker-chung-khoan-chieu-ban-bao-hiem-toi-len-truong-quay-20210307085103799.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vụ đội trưởng chống buôn lậu liên quan đường dây 200 triệu lít xăng giả: Tầng hầm bí mật dưới căn nhà nuôi yến](https://cafebiz.vn/vu-doi-truong-chong-buon-lau-lien-quan-duong-day-200-trieu-lit-xang-gia-tang-ham-bi-mat-duoi-can-nha-nuoi-yen-20210307081357164.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá vàng hôm nay 7.3: Lao dốc không phanh, quá rủi ro để mua vào](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-73-lao-doc-khong-phanh-qua-rui-ro-de-mua-vao-886494.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ đại gia Dũng "lò vôi" nói gì khi ông Võ Hoàng Yên có thư xin trả lại tiền?](https://cafebiz.vn/vo-dai-gia-dung-lo-voi-noi-gi-khi-ong-vo-hoang-yen-co-thu-xin-tra-lai-tien-20210307081705128.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Trump yêu cầu Đảng Cộng hòa ngừng sử dụng tên tuổi ông để gây quỹ](https://laodong.vn/the-gioi/ong-trump-yeu-cau-dang-cong-hoa-ngung-su-dung-ten-tuoi-ong-de-gay-quy-886505.ldo) ([Lao Động](https://laodong.vn))
+- [Bí thư đoàn bị kết án cướp giật oan, phải ngồi tù hơn 2 năm](https://tuoitre.vn/bi-thu-doan-bi-ket-an-cuop-giat-oan-phai-ngoi-tu-hon-2-nam-20210307081128945.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
