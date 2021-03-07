@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 24.15°C.
-- Air Visual is 109.
+- Current weather is scattered clouds.
+- Temperature is 25°C.
+- Feels Like 25.86°C.
+- Air Visual is 136.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [2 lần thử sống bằng Bitcoin: Lần 1 trụ không nổi sau 1 tuần, lần 2 chỉ được vài ngày vì lý do bất khả kháng](https://cafebiz.vn/2-lan-thu-song-bang-bitcoin-lan-1-tru-khong-noi-sau-1-tuan-lan-2-chi-duoc-vai-ngay-vi-ly-do-bat-kha-khang-20210307131518333.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thêm trường đại học thông báo lịch đi học trở lại của sinh viên từ ngày 8.3](https://laodong.vn/giao-duc/them-truong-dai-hoc-thong-bao-lich-di-hoc-tro-lai-cua-sinh-vien-tu-ngay-83-886615.ldo) ([Lao Động](https://laodong.vn))
-- [Dự báo thời tiết 7 ngày tới: Nam Bộ nắng nóng, Bắc bộ mưa rét](https://laodong.vn/infographic/du-bao-thoi-tiet-7-ngay-toi-nam-bo-nang-nong-bac-bo-mua-ret-886575.ldo) ([Lao Động](https://laodong.vn))
-- [Sự nghiệp Naeun (April) sẽ đi về đâu sau cáo buộc bắt nạt đồng nghiệp?](https://laodong.vn/photo/su-nghiep-naeun-april-se-di-ve-dau-sau-cao-buoc-bat-nat-dong-nghiep-886543.ldo) ([Lao Động](https://laodong.vn))
-- [Trấn Thành, Tuấn Trần &quot;lột xác&quot; lịch lãm, khác hẳn vẻ khắc khổ của &quot;Bố già&quot;](https://laodong.vn/photo/tran-thanh-tuan-tran-lot-xac-lich-lam-khac-han-ve-khac-kho-cua-bo-gia-886567.ldo) ([Lao Động](https://laodong.vn))
-- [Khi nào người dân được đăng ký tiêm vắc xin COVID-19?](https://tuoitre.vn/khi-nao-nguoi-dan-duoc-dang-ky-tiem-vac-xin-covid-19-20210307142757007.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Trường ĐH Kiến trúc TPHCM tuyển sinh bằng kết quả thi đánh giá năng lực](https://laodong.vn/giao-duc/truong-dh-kien-truc-tphcm-tuyen-sinh-bang-ket-qua-thi-danh-gia-nang-luc-886606.ldo) ([Lao Động](https://laodong.vn))
-- [Không phải xuất trình xác nhận số CMND sau khi cấp thẻ căn cước mới](https://tuoitre.vn/khong-phai-xuat-trinh-xac-nhan-so-cmnd-sau-khi-cap-the-can-cuoc-moi-20210307143803224.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sát 8/3, chợ hoa Quảng An tấp nập sau những ngày ế ẩm do COVID-19](https://cafebiz.vn/sat-8-3-cho-hoa-quang-an-tap-nap-sau-nhung-ngay-e-am-do-covid-19-20210307135228812.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người đến tuổi trung niên: Đừng để tham lam che mắt, sống chân thật, điềm đạm, thì cuộc đời mới ngày càng suôn sẻ](https://cafebiz.vn/nguoi-den-tuoi-trung-nien-dung-de-tham-lam-che-mat-song-chan-that-diem-dam-thi-cuoc-doi-moi-ngay-cang-suon-se-20210303123025978.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội bỏ giãn cách trên xe khách công cộng từ ngày 8/3](https://cafebiz.vn/ha-noi-bo-gian-cach-tren-xe-khach-cong-cong-tu-ngay-8-3-20210307135841349.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mâu thuẫn tình cảm, nam thanh niên dùng kéo đâm bạn gái](https://laodong.vn/phap-luat/mau-thuan-tinh-cam-nam-thanh-nien-dung-keo-dam-ban-gai-886618.ldo) ([Lao Động](https://laodong.vn))
+- [16 người Trung Quốc nhập cảnh trái phép](https://vnexpress.net/16-nguoi-trung-quoc-nhap-canh-trai-phep-4244747.html) ([VNExpress](https://vnexpress.net))
+- [Derby Atletico Madrid - Real Madrid: Những cuộc so tài quyết định](https://laodong.vn/bong-da-quoc-te/derby-atletico-madrid-real-madrid-nhung-cuoc-so-tai-quyet-dinh-886620.ldo) ([Lao Động](https://laodong.vn))
+- [Chủ xe Mercedes bị va quẹt tặng tiền sửa xe và xe máy mới cho người tông mình!](https://tuoitre.vn/chu-xe-mercedes-bi-va-quet-tang-tien-sua-xe-va-xe-may-moi-cho-nguoi-tong-minh-202103071316027.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bên trong khu cách ly BV Nhiệt đới TƯ trước ngày tiêm vaccine COVID-19](https://laodong.vn/photo/ben-trong-khu-cach-ly-bv-nhiet-doi-tu-truoc-ngay-tiem-vaccine-covid-19-886604.ldo) ([Lao Động](https://laodong.vn))
+- [Bị tên lửa tấn công, nhà máy lọc dầu Syria cháy ngút trời](https://laodong.vn/the-gioi/bi-ten-lua-tan-cong-nha-may-loc-dau-syria-chay-ngut-troi-886622.ldo) ([Lao Động](https://laodong.vn))
+- [LĐLĐ tỉnh Yên Bái: Sôi nổi các hoạt động chào mừng Ngày Quốc tế Phụ nữ 8.3](https://laodong.vn/ldld-yen-bai/ldld-tinh-yen-bai-soi-noi-cac-hoat-dong-chao-mung-ngay-quoc-te-phu-nu-83-886625.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ chồng ông Dũng “lò vôi” nói gì khi nhận thư xin lỗi từ ông Võ Hoàng Yên?](https://laodong.vn/video/vo-chong-ong-dung-lo-voi-noi-gi-khi-nhan-thu-xin-loi-tu-ong-vo-hoang-yen-886580.ldo) ([Lao Động](https://laodong.vn))
+- [Trung Quốc tranh cãi nảy lửa về đề xuất bỏ học tiếng Anh](https://cafebiz.vn/trung-quoc-tranh-cai-nay-lua-ve-de-xuat-bo-hoc-tieng-anh-20210307135649388.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -121,8 +121,8 @@
 06. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 07. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
-09. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
-10. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
+09. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
+10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
