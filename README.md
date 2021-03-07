@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 23°C.
 - Feels Like 21.29°C.
-- Air Visual is 110.
+- Air Visual is 90.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hé lộ khối tài sản "khủng" của 5 gia tộc giàu nhất nước Mỹ](https://cafebiz.vn/he-lo-khoi-tai-san-khung-cua-5-gia-toc-giau-nhat-nuoc-my-20210307110817675.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trước thềm 8.3: Hoa tươi đẹp, “rẻ như cho” vẫn ế khách](https://laodong.vn/kinh-te/truoc-them-83-hoa-tuoi-dep-re-nhu-cho-van-e-khach-886577.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút: Bác sĩ nói gì về việc ông Võ Hoàng Yên vỗ tai chữa điếc?](https://laodong.vn/video/ban-tin-1-phut-bac-si-noi-gi-ve-viec-ong-vo-hoang-yen-vo-tai-chua-diec-886549.ldo) ([Lao Động](https://laodong.vn))
 - [Điều tra kẻ giả danh ngân hàng lấy mã OTP](https://cafebiz.vn/dieu-tra-ke-gia-danh-ngan-hang-lay-ma-otp-20210307093351764.chn) ([CafeBiz](https://cafebiz.vn))
 - [Trinh sát kể về hành trình đầy hiểm nguy khi truy bắt đối tượng cướp giật](https://laodong.vn/phap-luat/trinh-sat-ke-ve-hanh-trinh-day-hiem-nguy-khi-truy-bat-doi-tuong-cuop-giat-885235.ldo) ([Lao Động](https://laodong.vn))
 - [Nhận định Man City - Man United: &quot;Quỷ đỏ&quot; buông đinh ba ở Etihad](https://laodong.vn/bong-da-quoc-te/nhan-dinh-man-city-man-united-quy-do-buong-dinh-ba-o-etihad-886532.ldo) ([Lao Động](https://laodong.vn))
 - [Anh đánh dấu bước tiến trở lại cuộc sống bình thường vào ngày 8.3](https://laodong.vn/the-gioi/anh-danh-dau-buoc-tien-tro-lai-cuoc-song-binh-thuong-vao-ngay-83-886574.ldo) ([Lao Động](https://laodong.vn))
 - [117.000 lượt người đã chung tay 'Cùng Tuổi Trẻ góp vắc xin COVID-19'](https://tuoitre.vn/117-000-luot-nguoi-da-chung-tay-cung-tuoi-tre-goc-vacxin-covid-19-20210307114544039.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hàng chục nghìn người Myanmar xuống đường biểu tình ngày chủ nhật](https://tuoitre.vn/hang-chuc-nghin-nguoi-myanmar-xuong-duong-bieu-tinh-ngay-chu-nhat-20210307113320776.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Ngày mai (8.3), bị cáo Đinh La Thăng, Trịnh Xuân Thanh lại hầu toà](https://laodong.vn/phap-luat/ngay-mai-83-bi-cao-dinh-la-thang-trinh-xuan-thanh-lai-hau-toa-886566.ldo) ([Lao Động](https://laodong.vn))
 - [Người dân lo lắng: Sẽ ngưng xử lý nix thải tại Khánh Hòa?](https://tuoitre.vn/nguoi-dan-lo-lang-se-ngung-xu-ly-nix-thai-tai-khanh-hoa-2021030708551406.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Quá tự hào với 5 tiệm bánh mì "made in Vietnam" ở nước ngoài: Đắt hàng như tôm tươi, bạn bè quốc tế check in rần rần](https://cafebiz.vn/qua-tu-hao-voi-5-tiem-banh-mi-made-in-vietnam-o-nuoc-ngoai-dat-hang-nhu-tom-tuoi-ban-be-quoc-te-check-in-ran-ran-20210307110539812.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hướng dương ngược nắng: Sự &quot;lột xác&quot; của Hồng Đăng, Việt Anh, Doãn Quốc Đam](https://laodong.vn/van-hoa/huong-duong-nguoc-nang-su-lot-xac-cua-hong-dang-viet-anh-doan-quoc-dam-886485.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
