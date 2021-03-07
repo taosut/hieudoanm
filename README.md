@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
-- Temperature is 25°C.
-- Feels Like 25.86°C.
-- Air Visual is 136.
+- Current weather is clear sky.
+- Temperature is 24°C.
+- Feels Like 24.15°C.
+- Air Visual is 127.
 
 **WEATHER**
 
@@ -51,7 +51,6 @@
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Biểu tình ở Myanmar](https://img.shields.io/static/v1?label=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar)
-- [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
 - [![Em của ngày hôm qua](https://img.shields.io/static/v1?label=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua)
@@ -65,9 +64,10 @@
 - [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
 - [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
 - [![Raya và rồng thần cuối cùng](https://img.shields.io/static/v1?label=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng)
-- [![Rạp chiếu phim](https://img.shields.io/static/v1?label=R%E1%BA%A1p%20chi%E1%BA%BFu%20phim&message=google&color=red&style=flat-square)](https://www.google.com/search?q=R%E1%BA%A1p%20chi%E1%BA%BFu%20phim)
 - [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
+- [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
 - [![Vietravel Airlines](https://img.shields.io/static/v1?label=Vietravel%20Airlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietravel%20Airlines)
+- [![Đặng Thu Huyền](https://img.shields.io/static/v1?label=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,14 +75,14 @@
 
 **NEWS**
 
+- [Bệnh viện Trung ương Huế hưởng ứng phong trào &quot;Mai vàng trước ngõ&quot;](https://laodong.vn/cong-doan/benh-vien-trung-uong-hue-huong-ung-phong-trao-mai-vang-truoc-ngo-886631.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội bỏ giãn cách trên xe khách công cộng từ ngày 8/3](https://cafebiz.vn/ha-noi-bo-gian-cach-tren-xe-khach-cong-cong-tu-ngay-8-3-20210307135841349.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mâu thuẫn tình cảm, nam thanh niên dùng kéo đâm bạn gái](https://laodong.vn/phap-luat/mau-thuan-tinh-cam-nam-thanh-nien-dung-keo-dam-ban-gai-886618.ldo) ([Lao Động](https://laodong.vn))
 - [16 người Trung Quốc nhập cảnh trái phép](https://vnexpress.net/16-nguoi-trung-quoc-nhap-canh-trai-phep-4244747.html) ([VNExpress](https://vnexpress.net))
 - [Derby Atletico Madrid - Real Madrid: Những cuộc so tài quyết định](https://laodong.vn/bong-da-quoc-te/derby-atletico-madrid-real-madrid-nhung-cuoc-so-tai-quyet-dinh-886620.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ xe Mercedes bị va quẹt tặng tiền sửa xe và xe máy mới cho người tông mình!](https://tuoitre.vn/chu-xe-mercedes-bi-va-quet-tang-tien-sua-xe-va-xe-may-moi-cho-nguoi-tong-minh-202103071316027.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chủ xe Mercedes bị va quẹt không bắt đền mà còn tặng tiền và xe máy cho người tông mình!](https://tuoitre.vn/chu-xe-mercedes-bi-va-quet-khong-bat-den-ma-con-tang-tien-va-xe-may-cho-nguoi-tong-minh-202103071316027.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bên trong khu cách ly BV Nhiệt đới TƯ trước ngày tiêm vaccine COVID-19](https://laodong.vn/photo/ben-trong-khu-cach-ly-bv-nhiet-doi-tu-truoc-ngay-tiem-vaccine-covid-19-886604.ldo) ([Lao Động](https://laodong.vn))
 - [Bị tên lửa tấn công, nhà máy lọc dầu Syria cháy ngút trời](https://laodong.vn/the-gioi/bi-ten-lua-tan-cong-nha-may-loc-dau-syria-chay-ngut-troi-886622.ldo) ([Lao Động](https://laodong.vn))
-- [LĐLĐ tỉnh Yên Bái: Sôi nổi các hoạt động chào mừng Ngày Quốc tế Phụ nữ 8.3](https://laodong.vn/ldld-yen-bai/ldld-tinh-yen-bai-soi-noi-cac-hoat-dong-chao-mung-ngay-quoc-te-phu-nu-83-886625.ldo) ([Lao Động](https://laodong.vn))
 - [Vợ chồng ông Dũng “lò vôi” nói gì khi nhận thư xin lỗi từ ông Võ Hoàng Yên?](https://laodong.vn/video/vo-chong-ong-dung-lo-voi-noi-gi-khi-nhan-thu-xin-loi-tu-ong-vo-hoang-yen-886580.ldo) ([Lao Động](https://laodong.vn))
 - [Trung Quốc tranh cãi nảy lửa về đề xuất bỏ học tiếng Anh](https://cafebiz.vn/trung-quoc-tranh-cai-nay-lua-ve-de-xuat-bo-hoc-tieng-anh-20210307135649388.chn) ([CafeBiz](https://cafebiz.vn))
 
