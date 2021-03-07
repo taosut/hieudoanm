@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is few clouds.
 - Temperature is 24°C.
-- Feels Like 24.45°C.
-- Air Visual is 132.
+- Feels Like 24.09°C.
+- Air Visual is 152.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hé lộ tình tiết bất ngờ có thể sáng tỏ bí ẩn MH370](https://laodong.vn/the-gioi/he-lo-tinh-tiet-bat-ngo-co-the-sang-to-bi-an-mh370-886662.ldo) ([Lao Động](https://laodong.vn))
+- [Lãi suất trái phiếu đang gấp đôi lãi suất ngân hàng](https://laodong.vn/kinh-te/lai-suat-trai-phieu-dang-gap-doi-lai-suat-ngan-hang-886671.ldo) ([Lao Động](https://laodong.vn))
+- [Đại biểu Quốc hội chuyên trách phải trong quy hoạch tương đương Thứ trưởng](https://laodong.vn/thoi-su/dai-bieu-quoc-hoi-chuyen-trach-phai-trong-quy-hoach-tuong-duong-thu-truong-886653.ldo) ([Lao Động](https://laodong.vn))
+- [Các doanh nghiệp tại Đồng Nai cần tuyển dụng 40.000 lao động](https://laodong.vn/cong-doan/cac-doanh-nghiep-tai-dong-nai-can-tuyen-dung-40000-lao-dong-886652.ldo) ([Lao Động](https://laodong.vn))
+- [Nhận định Atletico Madrid - Real Madrid: Derby vì vương quyền](https://laodong.vn/bong-da-quoc-te/nhan-dinh-atletico-madrid-real-madrid-derby-vi-vuong-quyen-886655.ldo) ([Lao Động](https://laodong.vn))
 - [Loạn thị trường bất động sản: Thủ phạm là dự án phân lô bán nền?](https://cafebiz.vn/loan-thi-truong-bat-dong-san-thu-pham-la-du-an-phan-lo-ban-nen-20210307170305501.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lâm Đồng: Hơn 600 người lao động hiến máu tình nguyện](https://laodong.vn/cong-doan/lam-dong-hon-600-nguoi-lao-dong-hien-mau-tinh-nguyen-886659.ldo) ([Lao Động](https://laodong.vn))
 - [Tàu hỏa tông ô tô, 3 người thương vong: Đèn đỏ bật nhưng gác chắn chưa kéo](https://laodong.vn/xa-hoi/tau-hoa-tong-o-to-3-nguoi-thuong-vong-den-do-bat-nhung-gac-chan-chua-keo-886660.ldo) ([Lao Động](https://laodong.vn))
 - [MC Trác Thuý Miêu phát ngôn "đàn bà không làm việc nhà thì làm được cái gì", tiến sĩ Nguyễn Phương Mai phản biện sâu sắc, thâm thuý dậy sóng cộng đồng mạng](https://cafebiz.vn/mc-trac-thuy-mieu-phat-ngon-dan-ba-khong-lam-viec-nha-thi-lam-duoc-cai-gi-tien-si-nguyen-phuong-mai-phan-bien-sau-sac-tham-thuy-day-song-cong-dong-mang-20210307171631033.chn) ([CafeBiz](https://cafebiz.vn))
-- [100 % CĐCS ngành giáo dục Khánh Hòa hưởng ứng Tuần lễ Áo dài](https://laodong.vn/ldld-khanh-hoa/100--cdcs-nganh-giao-duc-khanh-hoa-huong-ung-tuan-le-ao-dai-886636.ldo) ([Lao Động](https://laodong.vn))
-- [Cận cảnh trục vớt tàu du lịch hạng sang bị lật trên vịnh Hạ Long](https://laodong.vn/xa-hoi/can-canh-truc-vot-tau-du-lich-hang-sang-bi-lat-tren-vinh-ha-long-886642.ldo) ([Lao Động](https://laodong.vn))
-- [Xuất khẩu Trung Quốc tăng vọt mức cao nhất trong 20 năm](https://laodong.vn/the-gioi/xuat-khau-trung-quoc-tang-vot-muc-cao-nhat-trong-20-nam-886624.ldo) ([Lao Động](https://laodong.vn))
 - [10 thói quen tạo điều kiện cho vi khuẩn lây lan mà bạn cần bỏ ngay](https://cafebiz.vn/10-thoi-quen-tao-dieu-kien-cho-vi-khuan-lay-lan-ma-ban-can-bo-ngay-20210307160937152.chn) ([CafeBiz](https://cafebiz.vn))
 - [Từ con số 0 đến trường đi đầu về dạy học trực tuyến](https://laodong.vn/video/tu-con-so-0-den-truong-di-dau-ve-day-hoc-truc-tuyen-886447.ldo) ([Lao Động](https://laodong.vn))
-- [CEO Vietjet: Vụ quá tải của HoSE chỉ cần khoảng 2 tháng và 60 tỷ để giải quyết, doanh nghiệp trong nước hoàn toàn làm được!](https://cafebiz.vn/ceo-vietjet-vu-qua-tai-cua-hose-chi-can-khoang-2-thang-va-60-ty-de-giai-quyet-doanh-nghiep-trong-nuoc-hoan-toan-lam-duoc-20210307165926694.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
