@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is clear sky.
-- Temperature is 24°C.
-- Feels Like 24.15°C.
-- Air Visual is 104.
+- Current weather is few clouds.
+- Temperature is 25°C.
+- Feels Like 25.08°C.
+- Air Visual is 110.
 
 **WEATHER**
 
@@ -53,6 +53,7 @@
 - [![Biểu tình ở Myanmar](https://img.shields.io/static/v1?label=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
+- [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
 - [![Em của ngày hôm qua](https://img.shields.io/static/v1?label=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
@@ -62,7 +63,6 @@
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
-- [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
 - [![Raya và rồng thần cuối cùng](https://img.shields.io/static/v1?label=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng)
 - [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
 - [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Triệu phú một thời John McAfee bị cáo buộc lừa đảo bơm thổi tiền ảo](https://cafebiz.vn/trieu-phu-mot-thoi-john-mcafee-bi-cao-buoc-lua-dao-bom-thoi-tien-ao-20210307140211263.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nam Bộ nắng nóng diện rộng, chỉ số UV báo động đỏ](https://laodong.vn/moi-truong/nam-bo-nang-nong-dien-rong-chi-so-uv-bao-dong-do-886512.ldo) ([Lao Động](https://laodong.vn))
-- [Nick Jonas gửi lời cảm ơn “đặc biệt” tới BTS](https://laodong.vn/giai-tri/nick-jonas-gui-loi-cam-on-dac-biet-toi-bts-886531.ldo) ([Lao Động](https://laodong.vn))
-- [Bến Tre: Tiếp tục hưởng ứng trồng 1 tỉ cây xanh](https://laodong.vn/ban-doc/ben-tre-tiep-tuc-huong-ung-trong-1-ti-cay-xanh-886609.ldo) ([Lao Động](https://laodong.vn))
-- [Đời người tu dưỡng tạo bản lĩnh, sau 50 mới thấu đáo 5 sự thật: Nhân sinh chẳng vẹn tròn, kẻ cầu toàn là người thua cuộc!](https://cafebiz.vn/doi-nguoi-tu-duong-tao-ban-linh-sau-50-moi-thau-dao-5-su-that-nhan-sinh-chang-ven-tron-ke-cau-toan-la-nguoi-thua-cuoc-20210307155524327.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trải lòng của những nữ điều dưỡng viên chống dịch COVID-19 trước ngày 8.3](https://laodong.vn/y-te/trai-long-cua-nhung-nu-dieu-duong-vien-chong-dich-covid-19-truoc-ngay-83-886450.ldo) ([Lao Động](https://laodong.vn))
-- [Bệnh viện Trung ương Huế hưởng ứng phong trào &quot;Mai vàng trước ngõ&quot;](https://laodong.vn/cong-doan/benh-vien-trung-uong-hue-huong-ung-phong-trao-mai-vang-truoc-ngo-886631.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội bỏ giãn cách trên xe khách công cộng từ ngày 8/3](https://cafebiz.vn/ha-noi-bo-gian-cach-tren-xe-khach-cong-cong-tu-ngay-8-3-20210307135841349.chn) ([CafeBiz](https://cafebiz.vn))
-- [16 người Trung Quốc nhập cảnh trái phép](https://vnexpress.net/16-nguoi-trung-quoc-nhap-canh-trai-phep-4244747.html) ([VNExpress](https://vnexpress.net))
-- [Chủ xe Mercedes bị va quẹt không bắt đền mà còn tặng tiền và xe máy cho người tông mình!](https://tuoitre.vn/chu-xe-mercedes-bi-va-quet-khong-bat-den-ma-con-tang-tien-va-xe-may-cho-nguoi-tong-minh-202103071316027.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [10 thói quen tạo điều kiện cho vi khuẩn lây lan mà bạn cần bỏ ngay](https://cafebiz.vn/10-thoi-quen-tao-dieu-kien-cho-vi-khuan-lay-lan-ma-ban-can-bo-ngay-20210307160937152.chn) ([CafeBiz](https://cafebiz.vn))
+- [Từ con số 0 đến trường đi đầu về dạy học trực tuyến](https://laodong.vn/video/tu-con-so-0-den-truong-di-dau-ve-day-hoc-truc-tuyen-886447.ldo) ([Lao Động](https://laodong.vn))
+- [4 cách trị mụn đầu đen bằng kem đánh răng hiệu quả](https://laodong.vn/lam-dep/4-cach-tri-mun-dau-den-bang-kem-danh-rang-hieu-qua-886496.ldo) ([Lao Động](https://laodong.vn))
+- [CEO Vietjet: Vụ quá tải của HoSE chỉ cần khoảng 2 tháng và 60 tỷ để giải quyết, doanh nghiệp trong nước hoàn toàn làm được!](https://cafebiz.vn/ceo-vietjet-vu-qua-tai-cua-hose-chi-can-khoang-2-thang-va-60-ty-de-giai-quyet-doanh-nghiep-trong-nuoc-hoan-toan-lam-duoc-20210307165926694.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá dưa tăng gấp 3 sau dịch COVID-19, nông dân phấn khởi ra đồng](https://laodong.vn/kinh-te/gia-dua-tang-gap-3-sau-dich-covid-19-nong-dan-phan-khoi-ra-dong-886523.ldo) ([Lao Động](https://laodong.vn))
+- [Cách ngâm chanh đào trị ho cho thời tiết giao mùa](https://laodong.vn/dinh-duong-am-thuc/cach-ngam-chanh-dao-tri-ho-cho-thoi-tiet-giao-mua-886473.ldo) ([Lao Động](https://laodong.vn))
+- [Kỷ niệm 8.3: Muôn mặt cuộc sống nữ công nhân khu công nghiệp](https://laodong.vn/cong-doan/ky-niem-83-muon-mat-cuoc-song-nu-cong-nhan-khu-cong-nghiep-886599.ldo) ([Lao Động](https://laodong.vn))
+- [Mai bắt đầu tiêm những mũi vaccine COVID-19 AstraZeneca đầu tiên tại Việt Nam](https://laodong.vn/y-te/mai-bat-dau-tiem-nhung-mui-vaccine-covid-19-astrazeneca-dau-tien-tai-viet-nam-886640.ldo) ([Lao Động](https://laodong.vn))
+- [Chủ tịch Hội vật lý trị liệu Việt Nam: Cách điều trị của "thần y" Võ Hoàng Yên không ổn, can thiệp rất thô bạo!](https://cafebiz.vn/chu-tich-hoi-vat-ly-tri-lieu-viet-nam-cach-dieu-tri-cua-than-y-vo-hoang-yen-khong-on-can-thiep-rat-tho-bao-20210307160636126.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kế hoạch phân bổ lô vaccine COVID-19 nhập khẩu đầu tiên](https://laodong.vn/y-te/ke-hoach-phan-bo-lo-vaccine-covid-19-nhap-khau-dau-tien-886617.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -98,7 +98,6 @@
 
 - [Bóc Term: Định nghĩa lại Bimbo trong thế kỷ 21!](https://vietcetera.com/vn/boc-term-dinh-nghia-lai-bimbo-trong-the-ky-21)
 - [Nhung Lê và những bức minh họa phụ nữ truyền cảm hứng](https://vietcetera.com/vn/nhung-le-va-nhung-buc-minh-hoa-phu-nu-truyen-cam-hung)
-- [Ngắm tranh, ăn tối, tạm quên sự đời: ghé Lavelle Library](https://vietcetera.com/vn/ngam-tranh-an-toi-tam-quen-su-doi-ghe-lavelle-library)
 - [Raya and The Last Dragon: Thế giới đổ nát là do chính chúng ta?](https://vietcetera.com/vn/raya-and-the-last-dragon-the-gioi-do-nat-la-do-chinh-chung-ta)
 - [10 Sự "lươn lẹo" để thấy đời không như là mơ](https://vietcetera.com/vn/10-kieu-luon-leo-de-thay-doi-khong-nhu-la-mo)
 - [Vì sao 4 thành viên Blackpink được chọn làm đại sứ thương hiệu cho Dior, Chanel, Saint Laurent, và Celine? ](https://vietcetera.com/vn/cac-hang-thoi-trang-chon-ai-trong-blackpink-lam-dai-su-thuong-hieu)
@@ -106,6 +105,7 @@
 - [Loay hoay tìm nguồn cơn và cách thoát khỏi hố đen trầm cảm](https://vietcetera.com/vn/loay-hoay-tim-nguon-con-va-cach-thoat-khoi-ho-den-tram-cam)
 - [The Queen's Gambit: Thiên tài cô đơn trong thế giới của những người cô đơn](https://vietcetera.com/vn/the-queens-gambit-thien-tai-co-don-trong-the-gioi-cua-nhung-nguoi-co-don)
 - [4 Ứng dụng camera không chỉ để chụp ảnh](https://vietcetera.com/vn/4-ung-dung-dung-camera-khong-chi-de-song-ao)
+- [Cởi Mở: Lần đầu đối diện với sang chấn về tình dục](https://vietcetera.com/vn/lan-dau-doi-dien-voi-sang-chan-ve-tinh-duc)
 
 [Read More](https://vietcetera.com/)
 
@@ -115,14 +115,14 @@
 
 01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 02. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
-03. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
-04. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
+03. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
+04. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 05. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 06. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 07. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
-09. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
-10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
+09. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
+10. [Sầu Tím Thiệp Hồng Karaoke Tone Nữ Nhạc Sống | Trọng Hiếu](https://www.youtube.com/watch?v=BRMjeHz412Q) - [Hiếu Organ](https://www.youtube.com/channel/UCWEYgC77_ZlbDxStQyzOwfA)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -136,8 +136,8 @@
 04. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 06. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-07. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
-08. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+08. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 09. [Thêm đoạn clip cho thấy nỗ lực cứu bé gái rơi từ tầng 12 của anh Nguyễn Ngọc Mạnh | THDT](https://www.youtube.com/watch?v=YPe9q--jnEY) - [Truyền Hình Đồng Tháp](https://www.youtube.com/channel/UCDIl_FogyBJAUI3QVyLet8w)
 10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 
