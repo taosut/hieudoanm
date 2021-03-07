@@ -22,7 +22,7 @@
 - Current weather is clear sky.
 - Temperature is 24°C.
 - Feels Like 24.15°C.
-- Air Visual is 127.
+- Air Visual is 104.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Triệu phú một thời John McAfee bị cáo buộc lừa đảo bơm thổi tiền ảo](https://cafebiz.vn/trieu-phu-mot-thoi-john-mcafee-bi-cao-buoc-lua-dao-bom-thoi-tien-ao-20210307140211263.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nam Bộ nắng nóng diện rộng, chỉ số UV báo động đỏ](https://laodong.vn/moi-truong/nam-bo-nang-nong-dien-rong-chi-so-uv-bao-dong-do-886512.ldo) ([Lao Động](https://laodong.vn))
+- [Nick Jonas gửi lời cảm ơn “đặc biệt” tới BTS](https://laodong.vn/giai-tri/nick-jonas-gui-loi-cam-on-dac-biet-toi-bts-886531.ldo) ([Lao Động](https://laodong.vn))
+- [Bến Tre: Tiếp tục hưởng ứng trồng 1 tỉ cây xanh](https://laodong.vn/ban-doc/ben-tre-tiep-tuc-huong-ung-trong-1-ti-cay-xanh-886609.ldo) ([Lao Động](https://laodong.vn))
+- [Đời người tu dưỡng tạo bản lĩnh, sau 50 mới thấu đáo 5 sự thật: Nhân sinh chẳng vẹn tròn, kẻ cầu toàn là người thua cuộc!](https://cafebiz.vn/doi-nguoi-tu-duong-tao-ban-linh-sau-50-moi-thau-dao-5-su-that-nhan-sinh-chang-ven-tron-ke-cau-toan-la-nguoi-thua-cuoc-20210307155524327.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trải lòng của những nữ điều dưỡng viên chống dịch COVID-19 trước ngày 8.3](https://laodong.vn/y-te/trai-long-cua-nhung-nu-dieu-duong-vien-chong-dich-covid-19-truoc-ngay-83-886450.ldo) ([Lao Động](https://laodong.vn))
 - [Bệnh viện Trung ương Huế hưởng ứng phong trào &quot;Mai vàng trước ngõ&quot;](https://laodong.vn/cong-doan/benh-vien-trung-uong-hue-huong-ung-phong-trao-mai-vang-truoc-ngo-886631.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội bỏ giãn cách trên xe khách công cộng từ ngày 8/3](https://cafebiz.vn/ha-noi-bo-gian-cach-tren-xe-khach-cong-cong-tu-ngay-8-3-20210307135841349.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mâu thuẫn tình cảm, nam thanh niên dùng kéo đâm bạn gái](https://laodong.vn/phap-luat/mau-thuan-tinh-cam-nam-thanh-nien-dung-keo-dam-ban-gai-886618.ldo) ([Lao Động](https://laodong.vn))
 - [16 người Trung Quốc nhập cảnh trái phép](https://vnexpress.net/16-nguoi-trung-quoc-nhap-canh-trai-phep-4244747.html) ([VNExpress](https://vnexpress.net))
-- [Derby Atletico Madrid - Real Madrid: Những cuộc so tài quyết định](https://laodong.vn/bong-da-quoc-te/derby-atletico-madrid-real-madrid-nhung-cuoc-so-tai-quyet-dinh-886620.ldo) ([Lao Động](https://laodong.vn))
 - [Chủ xe Mercedes bị va quẹt không bắt đền mà còn tặng tiền và xe máy cho người tông mình!](https://tuoitre.vn/chu-xe-mercedes-bi-va-quet-khong-bat-den-ma-con-tang-tien-va-xe-may-cho-nguoi-tong-minh-202103071316027.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bên trong khu cách ly BV Nhiệt đới TƯ trước ngày tiêm vaccine COVID-19](https://laodong.vn/photo/ben-trong-khu-cach-ly-bv-nhiet-doi-tu-truoc-ngay-tiem-vaccine-covid-19-886604.ldo) ([Lao Động](https://laodong.vn))
-- [Bị tên lửa tấn công, nhà máy lọc dầu Syria cháy ngút trời](https://laodong.vn/the-gioi/bi-ten-lua-tan-cong-nha-may-loc-dau-syria-chay-ngut-troi-886622.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ chồng ông Dũng “lò vôi” nói gì khi nhận thư xin lỗi từ ông Võ Hoàng Yên?](https://laodong.vn/video/vo-chong-ong-dung-lo-voi-noi-gi-khi-nhan-thu-xin-loi-tu-ong-vo-hoang-yen-886580.ldo) ([Lao Động](https://laodong.vn))
-- [Trung Quốc tranh cãi nảy lửa về đề xuất bỏ học tiếng Anh](https://cafebiz.vn/trung-quoc-tranh-cai-nay-lua-ve-de-xuat-bo-hoc-tieng-anh-20210307135649388.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,9 @@
 
 **VIETCETERA**
 
+- [Bóc Term: Định nghĩa lại Bimbo trong thế kỷ 21!](https://vietcetera.com/vn/boc-term-dinh-nghia-lai-bimbo-trong-the-ky-21)
+- [Nhung Lê và những bức minh họa phụ nữ truyền cảm hứng](https://vietcetera.com/vn/nhung-le-va-nhung-buc-minh-hoa-phu-nu-truyen-cam-hung)
+- [Ngắm tranh, ăn tối, tạm quên sự đời: ghé Lavelle Library](https://vietcetera.com/vn/ngam-tranh-an-toi-tam-quen-su-doi-ghe-lavelle-library)
 - [Raya and The Last Dragon: Thế giới đổ nát là do chính chúng ta?](https://vietcetera.com/vn/raya-and-the-last-dragon-the-gioi-do-nat-la-do-chinh-chung-ta)
 - [10 Sự "lươn lẹo" để thấy đời không như là mơ](https://vietcetera.com/vn/10-kieu-luon-leo-de-thay-doi-khong-nhu-la-mo)
 - [Vì sao 4 thành viên Blackpink được chọn làm đại sứ thương hiệu cho Dior, Chanel, Saint Laurent, và Celine? ](https://vietcetera.com/vn/cac-hang-thoi-trang-chon-ai-trong-blackpink-lam-dai-su-thuong-hieu)
@@ -103,9 +106,6 @@
 - [Loay hoay tìm nguồn cơn và cách thoát khỏi hố đen trầm cảm](https://vietcetera.com/vn/loay-hoay-tim-nguon-con-va-cach-thoat-khoi-ho-den-tram-cam)
 - [The Queen's Gambit: Thiên tài cô đơn trong thế giới của những người cô đơn](https://vietcetera.com/vn/the-queens-gambit-thien-tai-co-don-trong-the-gioi-cua-nhung-nguoi-co-don)
 - [4 Ứng dụng camera không chỉ để chụp ảnh](https://vietcetera.com/vn/4-ung-dung-dung-camera-khong-chi-de-song-ao)
-- [Cởi Mở: Lần đầu đối diện với sang chấn về tình dục](https://vietcetera.com/vn/lan-dau-doi-dien-voi-sang-chan-ve-tinh-duc)
-- [Lay’s biến âm thanh "giòn rụm" thành phụ đề YouTube ](https://vietcetera.com/vn/lays-bien-am-thanh-gion-rum-thanh-phu-de-youtube)
-- [Tóm Lại Là: Rich kid có phải thế hệ phô trương?](https://vietcetera.com/vn/tom-lai-la-rich-kid-la-the-he-pho-truong)
 
 [Read More](https://vietcetera.com/)
 
