@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
-- Temperature is 24°C.
-- Feels Like 24.48°C.
-- Air Visual is 135.
+- Current weather is broken clouds.
+- Temperature is 23°C.
+- Feels Like 23.84°C.
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Chiều 7/3 thêm 3 ca Covid-19 mới ở Hải Dương và Bắc Ninh](https://cafebiz.vn/chieu-7-3-them-3-ca-covid-19-moi-o-hai-duong-va-bac-ninh-20210307183603857.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tướng Chính phủ Nguyễn Xuân Phúc tiếp xúc cử tri TP.Hải Phòng](https://laodong.vn/thoi-su/thu-tuong-chinh-phu-nguyen-xuan-phuc-tiep-xuc-cu-tri-tphai-phong-886650.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Đoàn Ngọc Hải phản ánh hộ lan cao tốc bị tháo, cơ quan quản lý nói gì?](https://laodong.vn/xa-hoi/ong-doan-ngoc-hai-phan-anh-ho-lan-cao-toc-bi-thao-co-quan-quan-ly-noi-gi-886678.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương: Ưu tiên phụ nữ tiêm trước vaccine ngừa COVID-19 nhân ngày 8.3](https://laodong.vn/y-te/hai-duong-uu-tien-phu-nu-tiem-truoc-vaccine-ngua-covid-19-nhan-ngay-83-886673.ldo) ([Lao Động](https://laodong.vn))
-- [Xe khách nội tỉnh ở Nghệ An hoạt động trở lại](https://vnexpress.net/xe-khach-noi-tinh-o-nghe-an-hoat-dong-tro-lai-4244754.html) ([VNExpress](https://vnexpress.net))
-- [Xe ben quên hạ thùng, cuốn dây 'hạ gục' 6 cột điện ở Bình Dương](https://tuoitre.vn/xe-ben-quen-ha-thung-cuon-day-ha-guc-6-cot-dien-o-binh-duong-2021030718154156.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thủ tướng nhớ lần lỡ hẹn bà con cử tri Hải Phòng](https://tuoitre.vn/thu-tuong-nho-lan-lo-hen-ba-con-cu-tri-hai-phong-20210307181649077.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tối 7.3: Công bố 3 ca mắc COVID-19 mới, trong đó có 1 ca ở Hải Dương](https://laodong.vn/y-te/toi-73-cong-bo-3-ca-mac-covid-19-moi-trong-do-co-1-ca-o-hai-duong-886670.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều trường ở Hải Dương chưa cho học sinh đi học lại vì 'chưa đủ an toàn'](https://tuoitre.vn/nhieu-truong-o-hai-duong-chua-cho-hoc-sinh-di-hoc-lai-vi-chua-du-an-toan-20210307174643355.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Quảng Ngãi đồng ý mở tuyến đường biển Đà Nẵng - Lý Sơn](https://vnexpress.net/quang-ngai-dong-y-mo-tuyen-duong-bien-da-nang-ly-son-4244789.html) ([VNExpress](https://vnexpress.net))
+- [Sáng mai (8/3), 100 y bác sĩ Bệnh viện Bệnh nhiệt đới Trung ương Hà Nội sẽ tiêm vaccine Covid-19](https://cafebiz.vn/sang-mai-8-3-100-y-bac-si-benh-vien-benh-nhiet-doi-trung-uong-ha-noi-se-tiem-vaccine-covid-19-20210307183959645.chn) ([CafeBiz](https://cafebiz.vn))
+- [Klopp: &quot;Liverpool không buông Premier League vì Champions League&quot;](https://laodong.vn/bong-da-quoc-te/klopp-liverpool-khong-buong-premier-league-vi-champions-league-886680.ldo) ([Lao Động](https://laodong.vn))
+- [BTS có thêm thành tích khủng, khoảng cách với Blackpink ngày càng xa?](https://laodong.vn/giai-tri/bts-co-them-thanh-tich-khung-khoang-cach-voi-blackpink-ngay-cang-xa-886679.ldo) ([Lao Động](https://laodong.vn))
+- [Căn hộ cao cấp 200m2 có thang máy riêng ở Phú Mỹ Hưng - TPHCM của Khánh My](https://laodong.vn/bat-dong-san/can-ho-cao-cap-200m2-co-thang-may-rieng-o-phu-my-hung-tphcm-cua-khanh-my-886676.ldo) ([Lao Động](https://laodong.vn))
+- [Giáo dục 24/7: Sinh viên sẽ bị kỷ luật nếu khai báo y tế không trung thực](https://laodong.vn/video/giao-duc-247-sinh-vien-se-bi-ky-luat-neu-khai-bao-y-te-khong-trung-thuc-886658.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Dương: Xe ben quên hạ thùng, kéo đổ 7 cột điện](https://laodong.vn/xa-hoi/binh-duong-xe-ben-quen-ha-thung-keo-do-7-cot-dien-886689.ldo) ([Lao Động](https://laodong.vn))
+- [Chứng khoán: Mạch lình xình, đi ngang và nghẽn lệnh sẽ tiếp diễn?](https://laodong.vn/kinh-te/chung-khoan-mach-linh-xinh-di-ngang-va-nghen-lenh-se-tiep-dien-886685.ldo) ([Lao Động](https://laodong.vn))
+- [Vaccine phòng Covid-19 từ kho TP.HCM đã đến Hà Nội, sẵn sàng cho buổi tiêm đầu tiên vào ngày mai](https://cafebiz.vn/vaccine-phong-covid-19-tu-kho-tphcm-da-den-ha-noi-san-sang-cho-buoi-tiem-dau-tien-vao-ngay-mai-20210307183829425.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kon Tum: Lật xe giường nằm trên quốc lộ, 19 người bị thương](https://tuoitre.vn/kon-tum-lat-xe-giuong-nam-tren-quoc-lo-19-nguoi-bi-thuong-20210307185011469.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hải Dương sẽ tiêm vaccine Covid-19 như thế nào?](https://vnexpress.net/hai-duong-se-tiem-vaccine-covid-19-nhu-the-nao-4244799.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
