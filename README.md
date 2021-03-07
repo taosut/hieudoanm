@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 24.72°C.
-- Air Visual is 99.
+- Feels Like 24.36°C.
+- Air Visual is 139.
 
 **WEATHER**
 
@@ -53,20 +53,20 @@
 - [![Biểu tình ở Myanmar](https://img.shields.io/static/v1?label=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bi%E1%BB%83u%20t%C3%ACnh%20%E1%BB%9F%20Myanmar)
 - [![Bố già](https://img.shields.io/static/v1?label=B%E1%BB%91%20gi%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BB%91%20gi%C3%A0)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Em của ngày hôm qua](https://img.shields.io/static/v1?label=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Em%20c%E1%BB%A7a%20ng%C3%A0y%20h%C3%B4m%20qua)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
-- [![Ji Soo](https://img.shields.io/static/v1?label=Ji%20Soo&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ji%20Soo)
 - [![Kaity Nguyễn](https://img.shields.io/static/v1?label=Kaity%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kaity%20Nguy%E1%BB%85n)
 - [![Leicester City](https://img.shields.io/static/v1?label=Leicester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester%20City)
 - [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Lời chúc 8/3 cho mẹ](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20m%E1%BA%B9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20m%E1%BA%B9)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
-- [![NSND Trần Hạnh](https://img.shields.io/static/v1?label=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Tr%E1%BA%A7n%20H%E1%BA%A1nh)
 - [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
 - [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
 - [![Raya và rồng thần cuối cùng](https://img.shields.io/static/v1?label=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng)
 - [![Rạp chiếu phim](https://img.shields.io/static/v1?label=R%E1%BA%A1p%20chi%E1%BA%BFu%20phim&message=google&color=red&style=flat-square)](https://www.google.com/search?q=R%E1%BA%A1p%20chi%E1%BA%BFu%20phim)
+- [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
 - [![Vietravel Airlines](https://img.shields.io/static/v1?label=Vietravel%20Airlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietravel%20Airlines)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Dàn sao tuyển Việt Nam đến chúc mừng dự án ý nghĩa của Lương Xuân Trường](https://laodong.vn/photo/dan-sao-tuyen-viet-nam-den-chuc-mung-du-an-y-nghia-cua-luong-xuan-truong-886596.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng xác định 41 người trên chuyến bay từ TP.HCM liên quan bệnh nhân tái dương tính](https://cafebiz.vn/hai-phong-xac-dinh-41-nguoi-tren-chuyen-bay-tu-tphcm-lien-quan-benh-nhan-tai-duong-tinh-20210307134711362.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ở thời đại này, vóc dáng cân đối là lợi thế đáng quý: Trước 18 tuổi, cơ thể là ba mẹ cho; sau 18 tuổi, vóc dáng là tự rèn luyện](https://cafebiz.vn/o-thoi-dai-nay-voc-dang-can-doi-la-loi-the-dang-quy-truoc-18-tuoi-co-the-la-ba-me-cho-sau-18-tuoi-voc-dang-la-tu-ren-luyen-20210305211024426.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tỏa sáng thay Ronaldo, Morata giúp Juventus ngược dòng](https://laodong.vn/video-the-thao/toa-sang-thay-ronaldo-morata-giup-juventus-nguoc-dong-886573.ldo) ([Lao Động](https://laodong.vn))
+- [Bảo vật quốc gia ở Yên Tử](https://vnexpress.net/bao-vat-quoc-gia-o-yen-tu-4244672.html) ([VNExpress](https://vnexpress.net))
+- [Cần Thơ: Hơn 500 đơn vị máu hưởng ứng Ngày &quot;Chủ nhật Đỏ&quot; năm 2021](https://laodong.vn/nguoi-viet-tu-te/can-tho-hon-500-don-vi-mau-huong-ung-ngay-chu-nhat-do-nam-2021-886546.ldo) ([Lao Động](https://laodong.vn))
 - [Người khác chơi golf để giải trí, tôi đã chơi golf và thay đổi cả cuộc sống](https://cafebiz.vn/nguoi-khac-choi-golf-de-giai-tri-toi-da-choi-golf-va-thay-doi-ca-cuoc-song-20210307110408639.chn) ([CafeBiz](https://cafebiz.vn))
 - [Khám phá kinh ngạc về mặt trăng](https://laodong.vn/the-gioi/kham-pha-kinh-ngac-ve-mat-trang-886534.ldo) ([Lao Động](https://laodong.vn))
 - [Khán giả tranh cãi về nhân vật Hoàng trong phim &quot;Hướng dương ngược nắng&quot;](https://laodong.vn/giai-tri/khan-gia-tranh-cai-ve-nhan-vat-hoang-trong-phim-huong-duong-nguoc-nang-886541.ldo) ([Lao Động](https://laodong.vn))
-- [Chống nghẽn giao dịch chứng khoán: Không nên bỏ lệnh hủy/sửa](https://laodong.vn/kinh-te/chong-nghen-giao-dich-chung-khoan-khong-nen-bo-lenh-huysua-886571.ldo) ([Lao Động](https://laodong.vn))
-- [40 người Trung Quốc nhập cảnh trái phép: Công an TPHCM vào cuộc điều tra](https://laodong.vn/phap-luat/40-nguoi-trung-quoc-nhap-canh-trai-phep-cong-an-tphcm-vao-cuoc-dieu-tra-886588.ldo) ([Lao Động](https://laodong.vn))
-- [Tiêu chuẩn, điều kiện để đảng viên tự ứng cử ĐBQH, HĐND các cấp](https://laodong.vn/thoi-su/tieu-chuan-dieu-kien-de-dang-vien-tu-ung-cu-dbqh-hdnd-cac-cap-886593.ldo) ([Lao Động](https://laodong.vn))
 - [Kinh doanh mặt bằng cho thuê ở TPHCM đang có dấu hiệu phục hồi](https://cafebiz.vn/kinh-doanh-mat-bang-cho-thue-o-tphcm-dang-co-dau-hieu-phuc-hoi-20210307111812825.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cầu thủ Xuân Trường cùng “cánh tay trái” của HLV Park Hang Seo mở trung tâm phục hồi chấn thương cho VĐV Việt Nam](https://cafebiz.vn/cau-thu-xuan-truong-cung-canh-tay-trai-cua-hlv-park-hang-seo-mo-trung-tam-phuc-hoi-chan-thuong-cho-vdv-viet-nam-20210307131112278.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bật mí Shark Tank mùa 4: Startup “biết điều” hơn sau khi bị Shark Bình chê ngáo giá; founder già nhất đã ngoài 80 tuổi](https://cafebiz.vn/bat-mi-shark-tank-mua-4-startup-biet-dieu-hon-sau-khi-bi-shark-binh-che-ngao-gia-founder-gia-nhat-da-ngoai-80-tuoi-20210307112706529.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ngày mai (8.3), xét xử phúc thẩm vụ án giết người xảy ra ở Đồng Tâm](https://laodong.vn/phap-luat/ngay-mai-83-xet-xu-phuc-tham-vu-an-giet-nguoi-xay-ra-o-dong-tam-883223.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
