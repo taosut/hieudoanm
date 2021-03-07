@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 21.31°C.
-- Air Visual is 99.
+- Feels Like 20.94°C.
+- Air Visual is 104.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [40 câu nói về mẹo bán sản phẩm, dân sales cần khắc cốt ghi tâm: Khách hàng tiềm năng không biết khách hàng hiện tại yêu thích sản phẩm của bạn, trừ khi bạn nói với họ!](https://cafebiz.vn/40-cau-noi-ve-meo-ban-san-pham-dan-sales-can-khac-cot-ghi-tam-khach-hang-tiem-nang-khong-biet-khach-hang-hien-tai-yeu-thich-san-pham-cua-ban-tru-khi-ban-noi-voi-ho-20210220113449358.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dịp lễ 30/4 và 1/5 năm nay người lao động được nghỉ mấy ngày?](https://cafebiz.vn/dip-le-30-4-va-1-5-nam-nay-nguoi-lao-dong-duoc-nghi-may-ngay-20210307081829196.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thêm điểm mới trong chính sách nhập cư Mỹ của ông Biden](https://laodong.vn/the-gioi/them-diem-moi-trong-chinh-sach-nhap-cu-my-cua-ong-biden-886509.ldo) ([Lao Động](https://laodong.vn))
-- [Cần Thơ: Tái diễn tình trạng bôi đen để vô hiệu hóa biển báo giao thông](https://laodong.vn/ban-doc/can-tho-tai-dien-tinh-trang-boi-den-de-vo-hieu-hoa-bien-bao-giao-thong-886355.ldo) ([Lao Động](https://laodong.vn))
-- [Tham ô 13 tỷ đồng, cựu Tổng giám đốc SAGRI Lê Tấn Hùng đối diện với án tử hình?](https://cafebiz.vn/tham-o-13-ty-dong-cuu-tong-giam-doc-sagri-le-tan-hung-doi-dien-voi-an-tu-hinh-20210307080342529.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lời chúc ý nghĩa dành tặng cô giáo nhân ngày 8.3](https://laodong.vn/xa-hoi/loi-chuc-y-nghia-danh-tang-co-giao-nhan-ngay-83-886520.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng và ngoại tệ 7.3:  Giá vàng chạm đáy, không có tín hiệu hồi phục](https://laodong.vn/video-thoi-su/gia-vang-va-ngoai-te-73-gia-vang-cham-day-khong-co-tin-hieu-hoi-phuc-886527.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất 30 tỷ đồng sửa hồ chứa nước Tuyền Lâm](https://vnexpress.net/de-xuat-30-ty-dong-sua-ho-chua-nuoc-tuyen-lam-4244659.html) ([VNExpress](https://vnexpress.net))
-- [2 nhân vật được Từ Thứ tiến cử đều "nổi như cồn" dưới thời Tam Quốc: 1 người đại trung, 1 người đại gian](https://cafebiz.vn/2-nhan-vat-duoc-tu-thu-tien-cu-deu-noi-nhu-con-duoi-thoi-tam-quoc-1-nguoi-dai-trung-1-nguoi-dai-gian-20210307014240776.chn) ([CafeBiz](https://cafebiz.vn))
-- [TP.HCM không đánh đổi môi trường lấy kinh tế](https://tuoitre.vn/tphcm-khong-danh-doi-moi-truong-lay-kinh-te-2021030709100905.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [An Giang: Phát hiện gần 5.500 vỉ tân dược vô chủ nghi nhập lậu](https://laodong.vn/phap-luat/an-giang-phat-hien-gan-5500-vi-tan-duoc-vo-chu-nghi-nhap-lau-886539.ldo) ([Lao Động](https://laodong.vn))
+- [Hoa hồng tăng giá vùn vụt, nghề giao hàng kiếm bộn tiền dịp 8/3](https://cafebiz.vn/hoa-hong-tang-gia-vun-vut-nghe-giao-hang-kiem-bon-tien-dip-8-3-20210307085719586.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bình Phước phối hợp Đăk Nông xây đường cao tốc](https://vnexpress.net/binh-phuoc-phoi-hop-dak-nong-xay-duong-cao-toc-4244216.html) ([VNExpress](https://vnexpress.net))
+- [Những điều cần biết về hồ sơ thuê nhà ở công vụ](https://laodong.vn/bat-dong-san/nhung-dieu-can-biet-ve-ho-so-thue-nha-o-cong-vu-886219.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyện cuối tuần: Tuyệt chiêu "Sập cửa vào mặt" và "Kẹt chân vào cửa" trong kinh doanh - bạn đã thử dùng?](https://cafebiz.vn/chuyen-cuoi-tuan-tuyet-chieu-sap-cua-vao-mat-va-ket-chan-vao-cua-trong-kinh-doanh-ban-da-thu-dung-20210307085446084.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phanh xe điện bị hỏng và những dấu hiệu thường gặp](https://laodong.vn/xe/phanh-xe-dien-bi-hong-va-nhung-dau-hieu-thuong-gap-886479.ldo) ([Lao Động](https://laodong.vn))
+- [Nguồn gốc và ý nghĩa của ngày Quốc tế Phụ nữ 8.3](https://laodong.vn/xa-hoi/nguon-goc-va-y-nghia-cua-ngay-quoc-te-phu-nu-83-886518.ldo) ([Lao Động](https://laodong.vn))
+- [Trở thành người giàu thứ 2 thế giới nhờ xe điện và tên lửa, nhưng ít người biết Elon Musk còn kiếm lời từ những sản phẩm 'trời ơi đất hỡi' này](https://cafebiz.vn/tro-thanh-nguoi-giau-thu-2-the-gioi-nho-xe-dien-va-ten-lua-nhung-it-nguoi-biet-elon-musk-con-kiem-loi-tu-nhung-san-pham-troi-oi-dat-hoi-nay-202103070852515.chn) ([CafeBiz](https://cafebiz.vn))
+- [Doanh nghiệp tang lễ duy nhất trên sàn: Doanh thu đều đặn trăm tỷ với cổ tức 16%/năm, hệ số PE chưa đến 2 lần](https://cafebiz.vn/doanh-nghiep-tang-le-duy-nhat-tren-san-doanh-thu-deu-dan-tram-ty-voi-co-tuc-16-nam-he-so-pe-chua-den-2-lan-20210307093300136.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hansi Flick: &quot;Bayern Munich lấy lại sự vượt trội sau bàn gỡ hòa&quot;](https://laodong.vn/bong-da-quoc-te/hansi-flick-bayern-munich-lay-lai-su-vuot-troi-sau-ban-go-hoa-886500.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
