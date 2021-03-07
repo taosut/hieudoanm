@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 23.8°C.
-- Air Visual is 93.
+- Temperature is 25°C.
+- Feels Like 24.72°C.
+- Air Visual is 99.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Vượt rào chắn, ôtô bị tàu hỏa tông khiến 3 người thương vong](https://laodong.vn/xa-hoi/vuot-rao-chan-oto-bi-tau-hoa-tong-khien-3-nguoi-thuong-vong-886581.ldo) ([Lao Động](https://laodong.vn))
-- [Thầy Park phải làm mới đội tuyển Việt Nam tại vòng loại World Cup 2022](https://laodong.vn/bong-da/thay-park-phai-lam-moi-doi-tuyen-viet-nam-tai-vong-loai-world-cup-2022-886515.ldo) ([Lao Động](https://laodong.vn))
-- [Hé lộ khối tài sản "khủng" của 5 gia tộc giàu nhất nước Mỹ](https://cafebiz.vn/he-lo-khoi-tai-san-khung-cua-5-gia-toc-giau-nhat-nuoc-my-20210307110817675.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trước thềm 8.3: Hoa tươi đẹp, “rẻ như cho” vẫn ế khách](https://laodong.vn/kinh-te/truoc-them-83-hoa-tuoi-dep-re-nhu-cho-van-e-khach-886577.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút: Bác sĩ nói gì về việc ông Võ Hoàng Yên vỗ tai chữa điếc?](https://laodong.vn/video/ban-tin-1-phut-bac-si-noi-gi-ve-viec-ong-vo-hoang-yen-vo-tai-chua-diec-886549.ldo) ([Lao Động](https://laodong.vn))
-- [Điều tra kẻ giả danh ngân hàng lấy mã OTP](https://cafebiz.vn/dieu-tra-ke-gia-danh-ngan-hang-lay-ma-otp-20210307093351764.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trinh sát kể về hành trình đầy hiểm nguy khi truy bắt đối tượng cướp giật](https://laodong.vn/phap-luat/trinh-sat-ke-ve-hanh-trinh-day-hiem-nguy-khi-truy-bat-doi-tuong-cuop-giat-885235.ldo) ([Lao Động](https://laodong.vn))
-- [Nhận định Man City - Man United: &quot;Quỷ đỏ&quot; buông đinh ba ở Etihad](https://laodong.vn/bong-da-quoc-te/nhan-dinh-man-city-man-united-quy-do-buong-dinh-ba-o-etihad-886532.ldo) ([Lao Động](https://laodong.vn))
-- [117.000 lượt người đã chung tay 'Cùng Tuổi Trẻ góp vắc xin COVID-19'](https://tuoitre.vn/117-000-luot-nguoi-da-chung-tay-cung-tuoi-tre-goc-vacxin-covid-19-20210307114544039.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hàng chục nghìn người Myanmar xuống đường biểu tình ngày chủ nhật](https://tuoitre.vn/hang-chuc-nghin-nguoi-myanmar-xuong-duong-bieu-tinh-ngay-chu-nhat-20210307113320776.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Người khác chơi golf để giải trí, tôi đã chơi golf và thay đổi cả cuộc sống](https://cafebiz.vn/nguoi-khac-choi-golf-de-giai-tri-toi-da-choi-golf-va-thay-doi-ca-cuoc-song-20210307110408639.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khám phá kinh ngạc về mặt trăng](https://laodong.vn/the-gioi/kham-pha-kinh-ngac-ve-mat-trang-886534.ldo) ([Lao Động](https://laodong.vn))
+- [Khán giả tranh cãi về nhân vật Hoàng trong phim &quot;Hướng dương ngược nắng&quot;](https://laodong.vn/giai-tri/khan-gia-tranh-cai-ve-nhan-vat-hoang-trong-phim-huong-duong-nguoc-nang-886541.ldo) ([Lao Động](https://laodong.vn))
+- [Chống nghẽn giao dịch chứng khoán: Không nên bỏ lệnh hủy/sửa](https://laodong.vn/kinh-te/chong-nghen-giao-dich-chung-khoan-khong-nen-bo-lenh-huysua-886571.ldo) ([Lao Động](https://laodong.vn))
+- [40 người Trung Quốc nhập cảnh trái phép: Công an TPHCM vào cuộc điều tra](https://laodong.vn/phap-luat/40-nguoi-trung-quoc-nhap-canh-trai-phep-cong-an-tphcm-vao-cuoc-dieu-tra-886588.ldo) ([Lao Động](https://laodong.vn))
+- [Tiêu chuẩn, điều kiện để đảng viên tự ứng cử ĐBQH, HĐND các cấp](https://laodong.vn/thoi-su/tieu-chuan-dieu-kien-de-dang-vien-tu-ung-cu-dbqh-hdnd-cac-cap-886593.ldo) ([Lao Động](https://laodong.vn))
+- [Kinh doanh mặt bằng cho thuê ở TPHCM đang có dấu hiệu phục hồi](https://cafebiz.vn/kinh-doanh-mat-bang-cho-thue-o-tphcm-dang-co-dau-hieu-phuc-hoi-20210307111812825.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cầu thủ Xuân Trường cùng “cánh tay trái” của HLV Park Hang Seo mở trung tâm phục hồi chấn thương cho VĐV Việt Nam](https://cafebiz.vn/cau-thu-xuan-truong-cung-canh-tay-trai-cua-hlv-park-hang-seo-mo-trung-tam-phuc-hoi-chan-thuong-cho-vdv-viet-nam-20210307131112278.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bật mí Shark Tank mùa 4: Startup “biết điều” hơn sau khi bị Shark Bình chê ngáo giá; founder già nhất đã ngoài 80 tuổi](https://cafebiz.vn/bat-mi-shark-tank-mua-4-startup-biet-dieu-hon-sau-khi-bi-shark-binh-che-ngao-gia-founder-gia-nhat-da-ngoai-80-tuoi-20210307112706529.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ngày mai (8.3), xét xử phúc thẩm vụ án giết người xảy ra ở Đồng Tâm](https://laodong.vn/phap-luat/ngay-mai-83-xet-xu-phuc-tham-vu-an-giet-nguoi-xay-ra-o-dong-tam-883223.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
