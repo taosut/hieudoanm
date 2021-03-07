@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Xác định 41 người đi cùng chuyến bay với ca nghi tái dương tính](https://vnexpress.net/xac-dinh-41-nguoi-di-cung-chuyen-bay-voi-ca-nghi-tai-duong-tinh-4244715.html) ([VNExpress](https://vnexpress.net))
+- [Những dấu hiệu cho thấy người ấy đang yêu “giả tạo”](https://laodong.vn/yeu-360/nhung-dau-hieu-cho-thay-nguoi-ay-dang-yeu-gia-tao-886557.ldo) ([Lao Động](https://laodong.vn))
 - [Dàn sao tuyển Việt Nam đến chúc mừng dự án ý nghĩa của Lương Xuân Trường](https://laodong.vn/photo/dan-sao-tuyen-viet-nam-den-chuc-mung-du-an-y-nghia-cua-luong-xuan-truong-886596.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng xác định 41 người trên chuyến bay từ TP.HCM liên quan bệnh nhân tái dương tính](https://cafebiz.vn/hai-phong-xac-dinh-41-nguoi-tren-chuyen-bay-tu-tphcm-lien-quan-benh-nhan-tai-duong-tinh-20210307134711362.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ở thời đại này, vóc dáng cân đối là lợi thế đáng quý: Trước 18 tuổi, cơ thể là ba mẹ cho; sau 18 tuổi, vóc dáng là tự rèn luyện](https://cafebiz.vn/o-thoi-dai-nay-voc-dang-can-doi-la-loi-the-dang-quy-truoc-18-tuoi-co-the-la-ba-me-cho-sau-18-tuoi-voc-dang-la-tu-ren-luyen-20210305211024426.chn) ([CafeBiz](https://cafebiz.vn))
@@ -83,8 +85,6 @@
 - [Cần Thơ: Hơn 500 đơn vị máu hưởng ứng Ngày &quot;Chủ nhật Đỏ&quot; năm 2021](https://laodong.vn/nguoi-viet-tu-te/can-tho-hon-500-don-vi-mau-huong-ung-ngay-chu-nhat-do-nam-2021-886546.ldo) ([Lao Động](https://laodong.vn))
 - [Người khác chơi golf để giải trí, tôi đã chơi golf và thay đổi cả cuộc sống](https://cafebiz.vn/nguoi-khac-choi-golf-de-giai-tri-toi-da-choi-golf-va-thay-doi-ca-cuoc-song-20210307110408639.chn) ([CafeBiz](https://cafebiz.vn))
 - [Khám phá kinh ngạc về mặt trăng](https://laodong.vn/the-gioi/kham-pha-kinh-ngac-ve-mat-trang-886534.ldo) ([Lao Động](https://laodong.vn))
-- [Khán giả tranh cãi về nhân vật Hoàng trong phim &quot;Hướng dương ngược nắng&quot;](https://laodong.vn/giai-tri/khan-gia-tranh-cai-ve-nhan-vat-hoang-trong-phim-huong-duong-nguoc-nang-886541.ldo) ([Lao Động](https://laodong.vn))
-- [Kinh doanh mặt bằng cho thuê ở TPHCM đang có dấu hiệu phục hồi](https://cafebiz.vn/kinh-doanh-mat-bang-cho-thue-o-tphcm-dang-co-dau-hieu-phuc-hoi-20210307111812825.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
