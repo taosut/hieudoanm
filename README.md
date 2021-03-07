@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
-- Temperature is 25°C.
-- Feels Like 25.08°C.
-- Air Visual is 110.
+- Current weather is scattered clouds.
+- Temperature is 24°C.
+- Feels Like 24.45°C.
+- Air Visual is 132.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Loạn thị trường bất động sản: Thủ phạm là dự án phân lô bán nền?](https://cafebiz.vn/loan-thi-truong-bat-dong-san-thu-pham-la-du-an-phan-lo-ban-nen-20210307170305501.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lâm Đồng: Hơn 600 người lao động hiến máu tình nguyện](https://laodong.vn/cong-doan/lam-dong-hon-600-nguoi-lao-dong-hien-mau-tinh-nguyen-886659.ldo) ([Lao Động](https://laodong.vn))
+- [Tàu hỏa tông ô tô, 3 người thương vong: Đèn đỏ bật nhưng gác chắn chưa kéo](https://laodong.vn/xa-hoi/tau-hoa-tong-o-to-3-nguoi-thuong-vong-den-do-bat-nhung-gac-chan-chua-keo-886660.ldo) ([Lao Động](https://laodong.vn))
+- [MC Trác Thuý Miêu phát ngôn "đàn bà không làm việc nhà thì làm được cái gì", tiến sĩ Nguyễn Phương Mai phản biện sâu sắc, thâm thuý dậy sóng cộng đồng mạng](https://cafebiz.vn/mc-trac-thuy-mieu-phat-ngon-dan-ba-khong-lam-viec-nha-thi-lam-duoc-cai-gi-tien-si-nguyen-phuong-mai-phan-bien-sau-sac-tham-thuy-day-song-cong-dong-mang-20210307171631033.chn) ([CafeBiz](https://cafebiz.vn))
+- [100 % CĐCS ngành giáo dục Khánh Hòa hưởng ứng Tuần lễ Áo dài](https://laodong.vn/ldld-khanh-hoa/100--cdcs-nganh-giao-duc-khanh-hoa-huong-ung-tuan-le-ao-dai-886636.ldo) ([Lao Động](https://laodong.vn))
+- [Cận cảnh trục vớt tàu du lịch hạng sang bị lật trên vịnh Hạ Long](https://laodong.vn/xa-hoi/can-canh-truc-vot-tau-du-lich-hang-sang-bi-lat-tren-vinh-ha-long-886642.ldo) ([Lao Động](https://laodong.vn))
+- [Xuất khẩu Trung Quốc tăng vọt mức cao nhất trong 20 năm](https://laodong.vn/the-gioi/xuat-khau-trung-quoc-tang-vot-muc-cao-nhat-trong-20-nam-886624.ldo) ([Lao Động](https://laodong.vn))
 - [10 thói quen tạo điều kiện cho vi khuẩn lây lan mà bạn cần bỏ ngay](https://cafebiz.vn/10-thoi-quen-tao-dieu-kien-cho-vi-khuan-lay-lan-ma-ban-can-bo-ngay-20210307160937152.chn) ([CafeBiz](https://cafebiz.vn))
 - [Từ con số 0 đến trường đi đầu về dạy học trực tuyến](https://laodong.vn/video/tu-con-so-0-den-truong-di-dau-ve-day-hoc-truc-tuyen-886447.ldo) ([Lao Động](https://laodong.vn))
-- [4 cách trị mụn đầu đen bằng kem đánh răng hiệu quả](https://laodong.vn/lam-dep/4-cach-tri-mun-dau-den-bang-kem-danh-rang-hieu-qua-886496.ldo) ([Lao Động](https://laodong.vn))
 - [CEO Vietjet: Vụ quá tải của HoSE chỉ cần khoảng 2 tháng và 60 tỷ để giải quyết, doanh nghiệp trong nước hoàn toàn làm được!](https://cafebiz.vn/ceo-vietjet-vu-qua-tai-cua-hose-chi-can-khoang-2-thang-va-60-ty-de-giai-quyet-doanh-nghiep-trong-nuoc-hoan-toan-lam-duoc-20210307165926694.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá dưa tăng gấp 3 sau dịch COVID-19, nông dân phấn khởi ra đồng](https://laodong.vn/kinh-te/gia-dua-tang-gap-3-sau-dich-covid-19-nong-dan-phan-khoi-ra-dong-886523.ldo) ([Lao Động](https://laodong.vn))
-- [Cách ngâm chanh đào trị ho cho thời tiết giao mùa](https://laodong.vn/dinh-duong-am-thuc/cach-ngam-chanh-dao-tri-ho-cho-thoi-tiet-giao-mua-886473.ldo) ([Lao Động](https://laodong.vn))
-- [Kỷ niệm 8.3: Muôn mặt cuộc sống nữ công nhân khu công nghiệp](https://laodong.vn/cong-doan/ky-niem-83-muon-mat-cuoc-song-nu-cong-nhan-khu-cong-nghiep-886599.ldo) ([Lao Động](https://laodong.vn))
-- [Mai bắt đầu tiêm những mũi vaccine COVID-19 AstraZeneca đầu tiên tại Việt Nam](https://laodong.vn/y-te/mai-bat-dau-tiem-nhung-mui-vaccine-covid-19-astrazeneca-dau-tien-tai-viet-nam-886640.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ tịch Hội vật lý trị liệu Việt Nam: Cách điều trị của "thần y" Võ Hoàng Yên không ổn, can thiệp rất thô bạo!](https://cafebiz.vn/chu-tich-hoi-vat-ly-tri-lieu-viet-nam-cach-dieu-tri-cua-than-y-vo-hoang-yen-khong-on-can-thiep-rat-tho-bao-20210307160636126.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kế hoạch phân bổ lô vaccine COVID-19 nhập khẩu đầu tiên](https://laodong.vn/y-te/ke-hoach-phan-bo-lo-vaccine-covid-19-nhap-khau-dau-tien-886617.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
