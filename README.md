@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 23°C.
 - Feels Like 21.66°C.
-- Air Visual is 102.
+- Air Visual is 94.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [TP HCM khởi động kế hoạch trồng nửa triệu cây xanh](https://vnexpress.net/tp-hcm-khoi-dong-ke-hoach-trong-nua-trieu-cay-xanh-4244663.html) ([VNExpress](https://vnexpress.net))
+- [Nước Mỹ trên đà trở thành "Đại Chúa Chổm": Dự báo nợ công của Mỹ sẽ lớn gấp đôi GDP vào năm 2051](https://cafebiz.vn/nuoc-my-tren-da-tro-thanh-dai-chua-chom-du-bao-no-cong-cua-my-se-lon-gap-doi-gdp-vao-nam-2051-20210307075658063.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nắng nóng còn kéo dài ở TPHCM, người dân tìm cách thích ứng](https://laodong.vn/moi-truong/nang-nong-con-keo-dai-o-tphcm-nguoi-dan-tim-cach-thich-ung-886372.ldo) ([Lao Động](https://laodong.vn))
+- [Chung cư Phú Hoàng Anh: Mua nhà hợp pháp vẫn bị Ban quản trị “cấm cửa”](https://laodong.vn/ban-doc/chung-cu-phu-hoang-anh-mua-nha-hop-phap-van-bi-ban-quan-tri-cam-cua-886517.ldo) ([Lao Động](https://laodong.vn))
+- [Bầu Đức phật lòng khi được hỏi về HLV Kiatisuk, có mâu thuẫn nội bộ hay ẩn tình gì khác?](https://cafebiz.vn/bau-duc-phat-long-khi-duoc-hoi-ve-hlv-kiatisuk-co-mau-thuan-noi-bo-hay-an-tinh-gi-khac-20210307094916464.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thành phố Thủ Đức trồng 1 triệu cây xanh trong 5 năm tới](https://laodong.vn/moi-truong/thanh-pho-thu-duc-trong-1-trieu-cay-xanh-trong-5-nam-toi-886529.ldo) ([Lao Động](https://laodong.vn))
+- [Mẹ nữ Giám đốc Công ty Nam Thị gửi thư vào trại giam khuyên con](https://cafebiz.vn/me-nu-giam-doc-cong-ty-nam-thi-gui-thu-vao-trai-giam-khuyen-con-20210307093745408.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Dương chuẩn bị sẵn sàng điều kiện tiêm vaccine phòng COVID-19](https://laodong.vn/y-te/hai-duong-chuan-bi-san-sang-dieu-kien-tiem-vaccine-phong-covid-19-886536.ldo) ([Lao Động](https://laodong.vn))
 - [Bất ngờ với thực phẩm bị đánh cắp nhiều nhất trên thế giới](https://laodong.vn/the-gioi/bat-ngo-voi-thuc-pham-bi-danh-cap-nhieu-nhat-tren-the-gioi-886516.ldo) ([Lao Động](https://laodong.vn))
 - [Mục sư bị cấm thuyết giảng do nói phụ nữ nên giảm cân nếu muốn ngoại hình đẹp như vợ ông Trump](https://tuoitre.vn/muc-su-bi-cam-thuyet-giang-do-noi-phu-nu-nen-giam-can-neu-muon-ngoai-hinh-dep-nhu-vo-ong-trump-20210307102402724.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Vợ ông Dũng "lò vôi" tiếp tục tung chứng cứ tố "thần y" Võ Hoàng Yên](https://cafebiz.vn/vo-ong-dung-lo-voi-tiep-tuc-tung-chung-cu-to-than-y-vo-hoang-yen-20210307093525888.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nam Mỹ hoãn các trận vòng loại World Cup 2022 trong tháng 3](https://laodong.vn/bong-da-quoc-te/nam-my-hoan-cac-tran-vong-loai-world-cup-2022-trong-thang-3-886540.ldo) ([Lao Động](https://laodong.vn))
-- [Hai anh em tử vong dưới hố chôn cột điện](https://vnexpress.net/hai-anh-em-tu-vong-duoi-ho-chon-cot-dien-4244675.html) ([VNExpress](https://vnexpress.net))
-- [Nghệ nhân Cơ Tu làm áo bằng vỏ cây](https://vnexpress.net/nghe-nhan-co-tu-lam-ao-bang-vo-cay-4244655.html) ([VNExpress](https://vnexpress.net))
-- [Choáng ngợp với khối tài sản của “công chúa” gia tộc giàu nhất thế giới: Liên tục giữ vị trí người phụ nữ giàu nhất thế giới, đam mê cháy bỏng với nghệ thuật và nuôi ngựa](https://cafebiz.vn/choang-ngop-voi-khoi-tai-san-cua-cong-chua-gia-toc-giau-nhat-the-gioi-lien-tuc-giu-vi-tri-nguoi-phu-nu-giau-nhat-the-gioi-dam-me-chay-bong-voi-nghe-thuat-va-nuoi-ngua-20210307085004693.chn) ([CafeBiz](https://cafebiz.vn))
-- [35 người Trung Quốc nghi nhập cảnh trái phép âm tính lần 1, gỡ phong tỏa khách sạn](https://tuoitre.vn/35-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-am-tinh-lan-1-go-phong-toa-khach-san-20210307101013409.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Vợ chồng Tổng thống Venezuela tiêm vaccine Sputnik V của Nga](https://laodong.vn/the-gioi/vo-chong-tong-thong-venezuela-tiem-vaccine-sputnik-v-cua-nga-886508.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
