@@ -21,7 +21,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 23.95°C.
+- Feels Like 22.05°C.
 - Air Visual is 134.
 
 **WEATHER**
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Giải mã từng chữ số trong tên biến thể virus SARS-CoV-2: B.1.1.7, B.1.351 nghĩa là gì?](https://cafebiz.vn/giai-ma-tung-chu-so-trong-ten-bien-the-virus-sars-cov-2-b117-b1351-nghia-la-gi-20210307140815693.chn) ([CafeBiz](https://cafebiz.vn))
+- [Một người dân bí ẩn ở Hà Nội trả 30 triệu đồng "thuê" ông Đoàn Ngọc Hải làm việc ở hiệu thuốc](https://cafebiz.vn/mot-nguoi-dan-bi-an-o-ha-noi-tra-30-trieu-dong-thue-ong-doan-ngoc-hai-lam-viec-o-hieu-thuoc-20210307214550488.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cảnh báo: Nguồn tài nguyên quan trọng thứ 2 sau nước sắp khan hiếm vì "cơn khát" của con người](https://cafebiz.vn/canh-bao-nguon-tai-nguyen-quan-trong-thu-2-sau-nuoc-sap-khan-hiem-vi-con-khat-cua-con-nguoi-2021030718433265.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cháy 5 kiôt, lan sang nhà dân tại Bình Dương](https://tuoitre.vn/chay-5-kiot-lan-sang-nha-dan-tai-binh-duong-20210307211013718.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tiết lộ lý do bất ngờ khiến Xiaomi lọt vào danh sách đen của nước Mỹ](https://cafebiz.vn/tiet-lo-ly-do-bat-ngo-khien-xiaomi-lot-vao-danh-sach-den-cua-nuoc-my-20210307172532571.chn) ([CafeBiz](https://cafebiz.vn))
@@ -83,8 +85,6 @@
 - [Giải cứu 19 người trong xe khách bị lật](https://vnexpress.net/giai-cuu-19-nguoi-trong-xe-khach-bi-lat-4244816.html) ([VNExpress](https://vnexpress.net))
 - [2 tháng đầu năm, điện thoại 'Made in Vietnam' thu về gần 10 tỷ USD](https://cafebiz.vn/2-thang-dau-nam-dien-thoai-made-in-vietnam-thu-ve-gan-10-ty-usd-20210307184731172.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nóng nhất hôm nay: Bị dùng tên tuổi gây quỹ, ông Trump hành động cứng rắn](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bi-dung-ten-tuoi-gay-quy-ong-trump-hanh-dong-cung-ran-886647.ldo) ([Lao Động](https://laodong.vn))
-- [Tin nhắn trên Facebook, Zalo có được coi là bằng chứng để đòi nợ?](https://laodong.vn/ban-doc/tin-nhan-tren-facebook-zalo-co-duoc-coi-la-bang-chung-de-doi-no-886535.ldo) ([Lao Động](https://laodong.vn))
-- [Có hẹn với bầu trời, cùng nàng đi muôn nơi trên tàu bay Vietjet](https://laodong.vn/kinh-te/co-hen-voi-bau-troi-cung-nang-di-muon-noi-tren-tau-bay-vietjet-886713.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
