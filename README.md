@@ -57,14 +57,14 @@
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Kaity Nguyễn](https://img.shields.io/static/v1?label=Kaity%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kaity%20Nguy%E1%BB%85n)
-- [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
+- [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
 - [![Raya](https://img.shields.io/static/v1?label=Raya&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya)
 - [![Raya và rồng thần cuối cùng](https://img.shields.io/static/v1?label=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya%20v%C3%A0%20r%E1%BB%93ng%20th%E1%BA%A7n%20cu%E1%BB%91i%20c%C3%B9ng)
-- [![Rạp chiếu phim](https://img.shields.io/static/v1?label=R%E1%BA%A1p%20chi%E1%BA%BFu%20phim&message=google&color=red&style=flat-square)](https://www.google.com/search?q=R%E1%BA%A1p%20chi%E1%BA%BFu%20phim)
 - [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
+- [![Trần Vĩnh Tuyến](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn)
 - [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
 - [![UFC 259](https://img.shields.io/static/v1?label=UFC%20259&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UFC%20259)
 - [![Đặng Thu Huyền](https://img.shields.io/static/v1?label=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Giải cứu 20 người trong xe khách bị lật](https://vnexpress.net/giai-cuu-20-nguoi-trong-xe-khach-bi-lat-4244816.html) ([VNExpress](https://vnexpress.net))
+- [2 tháng đầu năm, điện thoại 'Made in Vietnam' thu về gần 10 tỷ USD](https://cafebiz.vn/2-thang-dau-nam-dien-thoai-made-in-vietnam-thu-ve-gan-10-ty-usd-20210307184731172.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nóng nhất hôm nay: Bị dùng tên tuổi gây quỹ, ông Trump hành động cứng rắn](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bi-dung-ten-tuoi-gay-quy-ong-trump-hanh-dong-cung-ran-886647.ldo) ([Lao Động](https://laodong.vn))
+- [Tin nhắn trên Facebook, Zalo có được coi là bằng chứng để đòi nợ?](https://laodong.vn/ban-doc/tin-nhan-tren-facebook-zalo-co-duoc-coi-la-bang-chung-de-doi-no-886535.ldo) ([Lao Động](https://laodong.vn))
+- [Có hẹn với bầu trời, cùng nàng đi muôn nơi trên tàu bay Vietjet](https://laodong.vn/kinh-te/co-hen-voi-bau-troi-cung-nang-di-muon-noi-tren-tau-bay-vietjet-886713.ldo) ([Lao Động](https://laodong.vn))
 - [Gói kích thích 1,9 nghìn tỷ USD của Mỹ sẽ tác động thế nào đến thế giới và Việt Nam?](https://cafebiz.vn/goi-kich-thich-19-nghin-ty-usd-cua-my-se-tac-dong-the-nao-den-the-gioi-va-viet-nam-20210307184533265.chn) ([CafeBiz](https://cafebiz.vn))
 - [Haaland &quot;bay trên không, chạy như gió&quot;, ai có thể cản nổi?](https://laodong.vn/bong-da-quoc-te/haaland-bay-tren-khong-chay-nhu-gio-ai-co-the-can-noi-886690.ldo) ([Lao Động](https://laodong.vn))
 - [Lương Xuân Trường và ước vọng từ những ám ảnh chấn thương](https://laodong.vn/bong-da/luong-xuan-truong-va-uoc-vong-tu-nhung-am-anh-chan-thuong-886590.ldo) ([Lao Động](https://laodong.vn))
-- [Giá thực phẩm, rau, củ quả… lại tiếp tục giảm mạnh](https://laodong.vn/kinh-te/gia-thuc-pham-rau-cu-qua-lai-tiep-tuc-giam-manh-886612.ldo) ([Lao Động](https://laodong.vn))
 - [Nữ bác sĩ 'nhiều lần hoãn cưới' sẽ tiêm vắc xin ngừa COVID-19 đầu tiên ở TP.HCM](https://tuoitre.vn/nu-bac-si-nhieu-lan-hoan-cuoi-se-tiem-vac-xin-ngua-covid-19-dau-tien-o-tp-hcm-20210307195736361.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Ai là người giàu nhất trong lịch sử loài người? Câu trả lời bất ngờ về người duy nhất đủ sức tạo ra 1 chu kỳ kinh tế](https://cafebiz.vn/ai-la-nguoi-giau-nhat-trong-lich-su-loai-nguoi-cau-tra-loi-bat-ngo-ve-nguoi-duy-nhat-du-suc-tao-ra-1-chu-ky-kinh-te-20210307172327171.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bình Dương: Cháy lớn 4 căn nhà dân và một nhà xưởng lúc chiều tối](https://laodong.vn/xa-hoi/binh-duong-chay-lon-4-can-nha-dan-va-mot-nha-xuong-luc-chieu-toi-886682.ldo) ([Lao Động](https://laodong.vn))
-- [Cận cảnh dấu vết đầu tiên của tàu thám hiểm NASA trên sao Hoả](https://laodong.vn/photo/can-canh-dau-vet-dau-tien-cua-tau-tham-hiem-nasa-tren-sao-hoa-886654.ldo) ([Lao Động](https://laodong.vn))
-- [10 xe bán chạy nhất Đông Nam Á: 2 xe đầu bán chậm ở Việt Nam và nhiều cái tên gây bất ngờ](https://cafebiz.vn/10-xe-ban-chay-nhat-dong-nam-a-2-xe-dau-ban-cham-o-viet-nam-va-nhieu-cai-ten-gay-bat-ngo-20210307141305905.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nóng nhất 24h: Động thái của vợ chồng ông Dũng khi ông Võ Hoàng Yên xin lỗi](https://laodong.vn/video-thoi-su/nong-nhat-24h-dong-thai-cua-vo-chong-ong-dung-khi-ong-vo-hoang-yen-xin-loi-886665.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 

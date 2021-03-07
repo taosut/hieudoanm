@@ -1,13 +1,13 @@
 # TECHSTACKS (29)
 
-(Top) Languages: `JavaScript (12)`, `C (5)`, `TypeScript (5)`, `Ruby (2)`, `C++ (1)`, `Go (1)`, `Java (1)`, `Python (1)`
+(Top) Languages: `JavaScript (12)`, `C (5)`, `TypeScript (5)`, `Go (2)`, `Ruby (2)`, `C++ (1)`, `Java (1)`, `Python (1)`
 
 ## LANGUAGES
 
 | No |Name | Logo | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[javascript](https://github.com/airbnb/javascript) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/javascript.svg" alt="javascript" width="36px" height="36px" /> | javascript | 106,182 | 3,868 | 20,529 | 130,579|
-|2|[go](https://github.com/golang/go) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/go.svg" alt="go" width="36px" height="36px" /> | go | 83,036 | 3,522 | 12,043 | 98,601|
+|1|[javascript](https://github.com/airbnb/javascript) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/javascript.svg" alt="javascript" width="36px" height="36px" /> | javascript | 106,184 | 3,867 | 20,529 | 130,580|
+|2|[go](https://github.com/golang/go) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/go.svg" alt="go" width="36px" height="36px" /> | go | 83,036 | 3,522 | 12,044 | 98,602|
 |3|[typescript](https://github.com/microsoft/TypeScript) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/typescript.svg" alt="typescript" width="36px" height="36px" /> | typescript | 69,118 | 2,160 | 9,162 | 80,440|
 
 ## PACKAGE MANAGERS
@@ -15,14 +15,14 @@
 | No |Name | Logo | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  --- |
 |1|[homebrew](https://github.com/Homebrew/homebrew-core) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/homebrew.svg" alt="homebrew" width="36px" height="36px" /> | ruby | 8,944 | 265 | 9,029 | 18,238|
-|2|[npm](https://github.com/npm/cli) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/npm.svg" alt="npm" width="36px" height="36px" /> | javascript | 4,170 | 155 | 1,117 | 5,442|
+|2|[npm](https://github.com/npm/cli) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/npm.svg" alt="npm" width="36px" height="36px" /> | javascript | 4,171 | 155 | 1,117 | 5,443|
 |3|[yarn](https://github.com/yarnpkg/berry) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/yarn.svg" alt="yarn" width="36px" height="36px" /> | typescript | 2,985 | 44 | 390 | 3,419|
 
 ## RUNTIME
 
 | No |Name | Logo | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[node.js](https://github.com/nodejs/node) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/nodejs.svg" alt="nodejs" width="36px" height="36px" /> | javascript | 77,463 | 2,980 | 19,531 | 99,974|
+|1|[node.js](https://github.com/nodejs/node) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/nodejs.svg" alt="nodejs" width="36px" height="36px" /> | javascript | 77,464 | 2,980 | 19,531 | 99,975|
 
 ## CSS PREPROCESSORS
 
@@ -34,13 +34,13 @@
 
 | No |Name | Logo | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[bootstrap](https://github.com/twbs/bootstrap) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/bootstrap.svg" alt="bootstrap" width="36px" height="36px" /> | javascript | 148,639 | 7,128 | 72,504 | 228,271|
+|1|[bootstrap](https://github.com/twbs/bootstrap) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/bootstrap.svg" alt="bootstrap" width="36px" height="36px" /> | javascript | 148,640 | 7,128 | 72,504 | 228,272|
 
 ## FRONT-END FRAMEWORKS
 
 | No |Name | Logo | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[react](https://github.com/facebook/react) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/react.svg" alt="react" width="36px" height="36px" /> | javascript | 164,726 | 6,734 | 33,055 | 204,515|
+|1|[react](https://github.com/facebook/react) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/react.svg" alt="react" width="36px" height="36px" /> | javascript | 164,726 | 6,734 | 33,056 | 204,516|
 |2|[angular](https://github.com/angular/angular) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/angular.svg" alt="angular" width="36px" height="36px" /> | typescript | 71,150 | 3,196 | 18,714 | 93,060|
 
 ## MOBILE FRAMEWORKS
@@ -62,17 +62,17 @@
 |1|[elasticsearch](https://github.com/elastic/elasticsearch) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/elasticsearch.svg" alt="elasticsearch" width="36px" height="36px" /> | java | 53,973 | 2,778 | 19,371 | 76,122|
 |2|[redis](https://github.com/redis/redis) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/redis.svg" alt="redis" width="36px" height="36px" /> | c | 47,760 | 2,705 | 18,895 | 69,360|
 |3|[mongodb](https://github.com/mongodb/mongo) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/mongodb.svg" alt="mongodb" width="36px" height="36px" /> | c++ | 19,406 | 1,237 | 4,735 | 25,378|
-|4|[postgresql](https://github.com/postgres/postgres) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/postgresql.svg" alt="postgresql" width="36px" height="36px" /> | c | 7,998 | 476 | 2,621 | 11,095|
+|4|[postgresql](https://github.com/postgres/postgres) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/postgresql.svg" alt="postgresql" width="36px" height="36px" /> | c | 7,998 | 475 | 2,621 | 11,094|
 
 ## DEVOPS
 
 | No |Name | Logo | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[visual-studio-code](https://github.com/microsoft/vscode) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/visual-studio-code.svg" alt="visual-studio-code" width="36px" height="36px" /> | typescript | 112,323 | 3,093 | 18,222 | 133,638|
-|2|[git](https://github.com/git/git) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/git.svg" alt="git" width="36px" height="36px" /> | c | 36,827 | 2,297 | 21,043 | 60,167|
+|1|[visual-studio-code](https://github.com/microsoft/vscode) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/visual-studio-code.svg" alt="visual-studio-code" width="36px" height="36px" /> | typescript | 112,326 | 3,092 | 18,223 | 133,641|
+|2|[git](https://github.com/git/git) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/git.svg" alt="git" width="36px" height="36px" /> | c | 36,829 | 2,297 | 21,043 | 60,169|
 |3|[vagrant](https://github.com/hashicorp/vagrant) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/vagrant.svg" alt="vagrant" width="36px" height="36px" /> | ruby | 21,579 | 756 | 4,050 | 26,385|
-|4|[docker-compose](https://github.com/docker/compose) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/docker.svg" alt="docker" width="36px" height="36px" /> | python | 22,012 | 691 | 3,667 | 26,370|
-|5|[docker](https://github.com/) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/docker.svg" alt="docker" width="36px" height="36px" /> |  |  |  |  | |
+|4|[docker-compose](https://github.com/docker/compose) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/docker.svg" alt="docker" width="36px" height="36px" /> | python | 22,012 | 691 | 3,669 | 26,372|
+|5|[docker](https://github.com/docker/cli) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/docker.svg" alt="docker" width="36px" height="36px" /> | go | 2,714 | 113 | 1,251 | 4,078|
 
 ## SERVERS
 
@@ -85,7 +85,7 @@
 
 | No |Name | Logo | Language | Stars | Subscribers | Forks | Points|
 | --- | ---  |  ---  |  ---  |  ---  |  ---  |  ---  |  --- |
-|1|[redux](https://github.com/reduxjs/redux) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/redux.svg" alt="redux" width="36px" height="36px" /> | typescript | 55,444 | 1,404 | 14,584 | 71,432|
+|1|[redux](https://github.com/reduxjs/redux) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/redux.svg" alt="redux" width="36px" height="36px" /> | typescript | 55,445 | 1,404 | 14,585 | 71,434|
 |2|[lodash](https://github.com/lodash/lodash) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/lodash.svg" alt="lodash" width="36px" height="36px" /> | javascript | 48,485 | 882 | 5,581 | 54,948|
 |3|[prettier](https://github.com/prettier/prettier) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/prettier.svg" alt="prettier" width="36px" height="36px" /> | javascript | 39,092 | 409 | 2,679 | 42,180|
 |4|[eslint](https://github.com/eslint/eslint) | <img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/techstack/square/eslint.svg" alt="eslint" width="36px" height="36px" /> | javascript | 18,088 | 301 | 3,215 | 21,604|
