@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is light intensity drizzle.
-- Temperature is 20°C.
-- Feels Like 22.98°C.
-- Air Visual is 160.
+- Temperature is 21°C.
+- Feels Like 24.11°C.
+- Air Visual is 152.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Huấn luyện viên Kiatisak chúc mừng Dusit và nhà vô địch Thai League](https://laodong.vn/bong-da/huan-luyen-vien-kiatisak-chuc-mung-dusit-va-nha-vo-dich-thai-league-886772.ldo) ([Lao Động](https://laodong.vn))
-- [Những mũi vaccine đầu tiên tiêm cho nhân viên y tế tại TPHCM](https://laodong.vn/y-te/nhung-mui-vaccine-dau-tien-tiem-cho-nhan-vien-y-te-tai-tphcm-886757.ldo) ([Lao Động](https://laodong.vn))
-- [SHB liệu có bứt phá toàn diện sau “cú hích” ấn tượng năm 2020?](https://laodong.vn/kinh-te/shb-lieu-co-but-pha-toan-dien-sau-cu-hich-an-tuong-nam-2020-886481.ldo) ([Lao Động](https://laodong.vn))
-- [Những trường hợp được miễn thuế sử dụng đất nông nghiệp](https://laodong.vn/bat-dong-san/nhung-truong-hop-duoc-mien-thue-su-dung-dat-nong-nghiep-886712.ldo) ([Lao Động](https://laodong.vn))
-- [Đồng bitcoin đang đương đầu với thách thức gì lớn nhất?](https://cafebiz.vn/dong-bitcoin-dang-duong-dau-voi-thach-thuc-gi-lon-nhat-20210308085859174.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nữ bác sĩ được tiêm vắc xin ngừa Covid-19 đầu tiên tại TP.HCM: “Đây là "món quà" 8/3 ý nghĩa nhất mà mình nhận được”](https://cafebiz.vn/nu-bac-si-duoc-tiem-vac-xin-ngua-covid-19-dau-tien-tai-tphcm-day-la-mon-qua-8-3-y-nghia-nhat-ma-minh-nhan-duoc-20210308085353543.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuyện về người phụ nữ vĩ đại trong trụ sở bí mật của C.I.A: Nữ "điệp viên" quan trọng của cả Trái đất nhưng chẳng được ai ghi nhận](https://cafebiz.vn/chuyen-ve-nguoi-phu-nu-vi-dai-trong-tru-so-bi-mat-cua-cia-nu-diep-vien-quan-trong-cua-ca-trai-dat-nhung-chang-duoc-ai-ghi-nhan-20210308085236149.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chứng khoán Việt Nam từ vực sâu trở lại đỉnh cao sau 1 năm Covid](https://cafebiz.vn/chung-khoan-viet-nam-tu-vuc-sau-tro-lai-dinh-cao-sau-1-nam-covid-20210308085234976.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sáng 8/3, không có ca mắc COVID-19 mới, hơn 45.000 người vẫn phải cách ly](https://cafebiz.vn/sang-8-3-khong-co-ca-mac-covid-19-moi-hon-45000-nguoi-van-phai-cach-ly-20210308085208442.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giao lưu trực tuyến: Khi nào người dân được đăng ký tiêm vắc xin COVID-19?](https://tuoitre.vn/giao-luu-truc-tuyen-khi-nao-nguoi-dan-duoc-dang-ky-tiem-vac-xin-covid-19-20210307142757007.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [8 sai lầm trong đầu tư ai cũng một lần mắc phải!](https://cafebiz.vn/8-sai-lam-trong-dau-tu-ai-cung-mot-lan-mac-phai-2021030808525664.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tư vấn độc lập thứ 3 vào điều tra sự cố gối cầu metro số 1](https://tuoitre.vn/tu-van-doc-lap-thu-3-vao-dieu-tra-su-co-goi-cau-metro-so-1-20210308091523589.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [“Việt Nam 2045” và mục tiêu tự do kinh tế](https://laodong.vn/su-kien-binh-luan/viet-nam-2045-va-muc-tieu-tu-do-kinh-te-886688.ldo) ([Lao Động](https://laodong.vn))
+- [Khi &quot;thần y&quot; Võ Hoàng Yên chữa bệnh, cơ quan chức năng ở đâu?](https://laodong.vn/su-kien-binh-luan/khi-than-y-vo-hoang-yen-chua-benh-co-quan-chuc-nang-o-dau-886724.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng và ngoại tệ 8.3: Vì sao giá vàng thế giới tiếp tục giảm sâu?](https://laodong.vn/video/gia-vang-va-ngoai-te-83-vi-sao-gia-vang-the-gioi-tiep-tuc-giam-sau-886789.ldo) ([Lao Động](https://laodong.vn))
+- [“UAE là quốc gia xứng đáng nhất đăng cai vòng loại World Cup 2022”](https://laodong.vn/bong-da/uae-la-quoc-gia-xung-dang-nhat-dang-cai-vong-loai-world-cup-2022-886782.ldo) ([Lao Động](https://laodong.vn))
+- [Tặng 1.000 bộ áo dài cho phụ nữ có hoàn cảnh khó khăn](https://laodong.vn/ldld-thai-nguyen/tang-1000-bo-ao-dai-cho-phu-nu-co-hoan-canh-kho-khan-886797.ldo) ([Lao Động](https://laodong.vn))
+- [Lương Xuân Trường khởi nghiệp làm ông chủ](https://cafebiz.vn/luong-xuan-truong-khoi-nghiep-lam-ong-chu-20210308093640597.chn) ([CafeBiz](https://cafebiz.vn))
+- [Các sân bay vắng tanh, ngành bán lẻ miễn thuế “chật vật” tìm hướng đi mới](https://cafebiz.vn/cac-san-bay-vang-tanh-nganh-ban-le-mien-thue-chat-vat-tim-huong-di-moi-20210308085102691.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ngày 8-3 của những nữ cửu vạn chợ Long Biên](https://tuoitre.vn/ngay-8-3-cua-nhung-nu-cuu-van-cho-long-bien-20210308085934702.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Nguyễn Thị Thiên Thanh - CEO Edelman Việt Nam: Hãy lấy con người làm kim chỉ nam](https://vietcetera.com/vn/nguyen-thi-thien-thanh-ceo-edelman-hay-lay-con-nguoi-lam-kim-chi-nam)
 - ["Chị mong con trai chị hiểu rằng..."](https://vietcetera.com/vn/chi-mong-con-trai-chi-hieu-rang)
 - [Bóc Term: Định nghĩa lại Bimbo trong thế kỷ 21!](https://vietcetera.com/vn/boc-term-dinh-nghia-lai-bimbo-trong-the-ky-21)
 - [Nhung Lê và những bức minh họa phụ nữ truyền cảm hứng](https://vietcetera.com/vn/nhung-le-va-nhung-buc-minh-hoa-phu-nu-truyen-cam-hung)
@@ -105,7 +106,6 @@
 - [5 Phim hành động Netflix cho cuối tuần thêm "gay cấn"](https://vietcetera.com/vn/5-phim-hanh-dong-netflix-cho-cuoi-tuan-them-gay-can)
 - [Loay hoay tìm nguồn cơn và cách thoát khỏi hố đen trầm cảm](https://vietcetera.com/vn/loay-hoay-tim-nguon-con-va-cach-thoat-khoi-ho-den-tram-cam)
 - [The Queen's Gambit: Thiên tài cô đơn trong thế giới của những người cô đơn](https://vietcetera.com/vn/the-queens-gambit-thien-tai-co-don-trong-the-gioi-cua-nhung-nguoi-co-don)
-- [4 Ứng dụng camera không chỉ để chụp ảnh](https://vietcetera.com/vn/4-ung-dung-dung-camera-khong-chi-de-song-ao)
 
 [Read More](https://vietcetera.com/)
 
