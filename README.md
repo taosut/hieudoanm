@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 23°C.
 - Feels Like 25.53°C.
-- Air Visual is 148.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Cách kiểm tra mình có dính nợ xấu từ “trên trời rơi xuống” hay không](https://cafebiz.vn/cach-kiem-tra-minh-co-dinh-no-xau-tu-tren-troi-roi-xuong-hay-khong-20210308175221508.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sếp cần phê bình như thế nào để nhân viên tâm phục khẩu phục?](https://cafebiz.vn/sep-can-phe-binh-nhu-the-nao-de-nhan-vien-tam-phuc-khau-phuc-20210308172020857.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kinh tế 24h: Giá vàng rơi tự do, nên mua vào hay bán gấp?](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-roi-tu-do-nen-mua-vao-hay-ban-gap-887074.ldo) ([Lao Động](https://laodong.vn))
 - [Phật giáo chỉ ra 4 kiểu người phúc mỏng mệnh khổ: Hãy xem bạn có nằm trong số đó hay không](https://cafebiz.vn/phat-giao-chi-ra-4-kieu-nguoi-phuc-mong-menh-kho-hay-xem-ban-co-nam-trong-so-do-hay-khong-20210308164203301.chn) ([CafeBiz](https://cafebiz.vn))
 - [Dự đoán chi tiết tổng quan cuộc sống của 12 con giáp trong tuần mới 8/3 - 14/3: Tuổi Tỵ tìm được mục tiêu mới, tuổi Hợi gặp được người thương yêu](https://cafebiz.vn/du-doan-chi-tiet-tong-quan-cuoc-song-cua-12-con-giap-trong-tuan-moi-8-3-14-3-tuoi-ty-tim-duoc-muc-tieu-moi-tuoi-hoi-gap-duoc-nguoi-thuong-yeu-20210308170344876.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắt đối tượng vận chuyển 30.000 viên hồng phiến](https://laodong.vn/phap-luat/bat-doi-tuong-van-chuyen-30000-vien-hong-phien-887080.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất hôm nay:Lãnh đạo nước ngoài đầu tiên đến Nhà Trắng thời ông Biden](https://laodong.vn/video-the-gioi/nong-nhat-hom-naylanh-dao-nuoc-ngoai-dau-tien-den-nha-trang-thoi-ong-biden-887014.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất hôm nay: Lãnh đạo nước ngoài đầu tiên đến Nhà Trắng thời ông Biden](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-lanh-dao-nuoc-ngoai-dau-tien-den-nha-trang-thoi-ong-biden-887014.ldo) ([Lao Động](https://laodong.vn))
 - [Xem máy bay Israel hộ tống B-52 Mỹ để &quot;thị uy&quot; Iran](https://laodong.vn/the-gioi/xem-may-bay-israel-ho-tong-b-52-my-de-thi-uy-iran-887000.ldo) ([Lao Động](https://laodong.vn))
 - [Vụ Ethanol Phú Thọ: Bị cáo Bình đề nghị giao dự án vì &quot;nghĩ chẳng chết ai&quot;](https://laodong.vn/phap-luat/vu-ethanol-phu-tho-bi-cao-binh-de-nghi-giao-du-an-vi-nghi-chang-chet-ai-887077.ldo) ([Lao Động](https://laodong.vn))
 - [Tháng sinh tiết lộ điều gì về tính cách và tài vận của bạn trong năm 2021 Tân Sửu?](https://cafebiz.vn/thang-sinh-tiet-lo-dieu-gi-ve-tinh-cach-va-tai-van-cua-ban-trong-nam-2021-tan-suu-20210308171132494.chn) ([CafeBiz](https://cafebiz.vn))
-- [Apple ngừng sản xuất iMac Pro](https://laodong.vn/cong-nghe/apple-ngung-san-xuat-imac-pro-886981.ldo) ([Lao Động](https://laodong.vn))
-- [Nếu năm xưa không phát động trận Di Lăng đánh Tôn Quyền, liệu Lưu Bị có thể bảo toàn được lực lượng và thống nhất thiên hạ?](https://cafebiz.vn/neu-nam-xua-khong-phat-dong-tran-di-lang-danh-ton-quyen-lieu-luu-bi-co-the-bao-toan-duoc-luc-luong-va-thong-nhat-thien-ha-20210308163700563.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
