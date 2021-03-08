@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 23°C.
 - Feels Like 24.81°C.
-- Air Visual is 160.
+- Air Visual is 155.
 
 **WEATHER**
 
@@ -49,25 +49,25 @@
 **GOOGLE TRENDS**
 
 - [![8-3 là ngày gì](https://img.shields.io/static/v1?label=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC)
-- [![AC Milan](https://img.shields.io/static/v1?label=AC%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AC%20Milan)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
+- [![Bayern Munich](https://img.shields.io/static/v1?label=Bayern%20Munich&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern%20Munich)
 - [![Bó hoa tiền](https://img.shields.io/static/v1?label=B%C3%B3%20hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3%20hoa%20ti%E1%BB%81n)
 - [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
-- [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hoa tiền](https://img.shields.io/static/v1?label=Hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20ti%E1%BB%81n)
-- [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
-- [![Ngày 8-3](https://img.shields.io/static/v1?label=Ng%C3%A0y%208-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208-3)
-- [![Penthouses Cuộc chiến thượng lưu phần 2 Tập 6](https://img.shields.io/static/v1?label=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%20ph%E1%BA%A7n%202%20T%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%20ph%E1%BA%A7n%202%20T%E1%BA%ADp%206)
+- [![Ngày 8-3 là ngày gì](https://img.shields.io/static/v1?label=Ng%C3%A0y%208-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC)
+- [![Ngày 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208/3)
+- [![Phùng Xuân Nhạ](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1)
 - [![Qua tang 8/3](https://img.shields.io/static/v1?label=Qua%20tang%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qua%20tang%208/3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Truc tiep ngoai hang Anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20Anh)
-- [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Công ty đầu tiên chi chục triệu USD mua tiền số Ehtereum](https://cafebiz.vn/cong-ty-dau-tien-chi-chuc-trieu-usd-mua-tien-so-ehtereum-20210308144520368.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hơn 8.000 đơn vị máu tiếp nhận trong Lễ hội Xuân hồng 2021](https://laodong.vn/suc-khoe/hon-8000-don-vi-mau-tiep-nhan-trong-le-hoi-xuan-hong-2021-886917.ldo) ([Lao Động](https://laodong.vn))
-- [Laporta đắc cử Chủ tịch Barcelona: Chiến thắng của “nỗi sợ mất Messi&quot;](https://laodong.vn/bong-da-quoc-te/laporta-dac-cu-chu-tich-barcelona-chien-thang-cua-noi-so-mat-messi-886890.ldo) ([Lao Động](https://laodong.vn))
-- [Đồng Nai: Hơn 80 đơn vị tham gia cuộc thi ảnh “Tự hào áo dài Việt Nam”](https://laodong.vn/cong-doan/dong-nai-hon-80-don-vi-tham-gia-cuoc-thi-anh-tu-hao-ao-dai-viet-nam-886910.ldo) ([Lao Động](https://laodong.vn))
-- [Cảm xúc người được tiêm vắc xin COVID-19 đầu tiên ở Hải Dương](https://cafebiz.vn/cam-xuc-nguoi-duoc-tiem-vac-xin-covid-19-dau-tien-o-hai-duong-20210308143550917.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tại sao "thần y" Võ Hoàng Yên không đủ điều kiện vẫn được đặc cách cấp giấy phép hoạt động Trung tâm phục hồi chức năng ở Hà Tĩnh?](https://cafebiz.vn/tai-sao-than-y-vo-hoang-yen-khong-du-dieu-kien-van-duoc-dac-cach-cap-giay-phep-hoat-dong-trung-tam-phuc-hoi-chuc-nang-o-ha-tinh-20210308143037192.chn) ([CafeBiz](https://cafebiz.vn))
-- [NCB phát hành thẻ Chip ghi nợ nội địa đạt chuẩn VCCS](https://laodong.vn/doanh-nghiep-doanh-nhan/ncb-phat-hanh-the-chip-ghi-no-noi-dia-dat-chuan-vccs-886838.ldo) ([Lao Động](https://laodong.vn))
-- [Cách tính thời điểm nghỉ hưu và hưởng lương hưu thế nào?](https://laodong.vn/ban-doc/cach-tinh-thoi-diem-nghi-huu-va-huong-luong-huu-the-nao-886870.ldo) ([Lao Động](https://laodong.vn))
-- [Vietjet Air khởi động lại kế hoạch bán toàn bộ 17,8 triệu cổ phiếu quỹ, dự kiến thu hơn 2.400 tỷ đồng bổ sung vốn lưu động](https://cafebiz.vn/vietjet-air-khoi-dong-lai-ke-hoach-ban-toan-bo-178-trieu-co-phieu-quy-du-kien-thu-hon-2400-ty-dong-bo-sung-von-luu-dong-2021030814244655.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Dì ơi, con gọi dì bằng mẹ được không'](https://tuoitre.vn/di-oi-con-goi-di-bang-me-duoc-khong-20210308010833428.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Phú Yên: Doanh nghiệp mở rộng sản xuất nhưng khó tuyển lao động](https://laodong.vn/cong-doan/phu-yen-doanh-nghiep-mo-rong-san-xuat-nhung-kho-tuyen-lao-dong-886902.ldo) ([Lao Động](https://laodong.vn))
+- [Cao tốc đoạn Tân Phú - Bảo Lộc: Lựa chọn phương án nào?](https://laodong.vn/xa-hoi/cao-toc-doan-tan-phu-bao-loc-lua-chon-phuong-an-nao-886909.ldo) ([Lao Động](https://laodong.vn))
+- [VNVC phối hợp Bộ Y tế tổ chức tiêm vaccine COVID-19 đợt đầu tiên](https://laodong.vn/suc-khoe/vnvc-phoi-hop-bo-y-te-to-chuc-tiem-vaccine-covid-19-dot-dau-tien-886920.ldo) ([Lao Động](https://laodong.vn))
+- [Sài Gòn nắng nóng 38 độ C](https://vnexpress.net/sai-gon-nang-nong-38-do-c-4245110.html) ([VNExpress](https://vnexpress.net))
+- [Muối Bạc Liêu đầu vụ được giá](https://laodong.vn/kinh-te/muoi-bac-lieu-dau-vu-duoc-gia-886921.ldo) ([Lao Động](https://laodong.vn))
+- [Chính trị gia tỷ phú người Pháp thiệt mạng trong vụ rơi trực thăng](https://cafebiz.vn/chinh-tri-gia-ty-phu-nguoi-phap-thiet-mang-trong-vu-roi-truc-thang-20210308135808595.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những trường hợp bị thu hồi đất do vi phạm pháp luật về đất đai](https://laodong.vn/bat-dong-san/nhung-truong-hop-bi-thu-hoi-dat-do-vi-pham-phap-luat-ve-dat-dai-886643.ldo) ([Lao Động](https://laodong.vn))
+- [13 tỉnh, thành tiêm vaccine Covid-19 đợt đầu tiên](https://vnexpress.net/13-tinh-thanh-tiem-vaccine-covid-19-dot-dau-tien-4245215.html) ([VNExpress](https://vnexpress.net))
+- [Tài tử hạng A bỏ 1000 tỷ tậu siêu biệt thự nhưng 7 năm bỏ trống, bà giúp việc bỗng hưởng lợi cả "vương quốc"](https://cafebiz.vn/tai-tu-hang-a-bo-1000-ty-tau-sieu-biet-thu-nhung-7-nam-bo-trong-ba-giup-viec-bong-huong-loi-ca-vuong-quoc-20210308145628516.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bí ẩn Metropole Hà Nội - khách sạn 5 sao vừa tròn 120 tuổi: Ghi dấu chân toàn nhân vật nổi tiếng, cứ 3 đồng doanh thu nhận về 1 đồng lãi, có cả hầm tránh bom](https://cafebiz.vn/bi-an-metropole-ha-noi-khach-san-5-sao-vua-tron-120-tuoi-ghi-dau-chan-toan-nhan-vat-noi-tieng-cu-3-dong-doanh-thu-nhan-ve-1-dong-lai-co-ca-ham-tranh-bom-20210308095235303.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
