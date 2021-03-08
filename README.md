@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 24°C.
-- Feels Like 25.04°C.
-- Air Visual is 148.
+- Temperature is 23°C.
+- Feels Like 25.17°C.
+- Air Visual is 155.
 
 **WEATHER**
 
@@ -48,22 +48,22 @@
 
 **GOOGLE TRENDS**
 
-- [![AC Milan](https://img.shields.io/static/v1?label=AC%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AC%20Milan)
+- [![8-3 là ngày gì](https://img.shields.io/static/v1?label=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
-- [![Bó hoa tiền](https://img.shields.io/static/v1?label=B%C3%B3%20hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3%20hoa%20ti%E1%BB%81n)
+- [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
 - [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
+- [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hoa tiền](https://img.shields.io/static/v1?label=Hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20ti%E1%BB%81n)
-- [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
-- [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
+- [![Lịch sử ngày 8/3](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20s%E1%BB%AD%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20s%E1%BB%AD%20ng%C3%A0y%208/3)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
-- [![Ngày 8-3 là ngày gì](https://img.shields.io/static/v1?label=Ng%C3%A0y%208-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC)
 - [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Phùng Xuân Nhạ](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1)
+- [![Qua tang 8/3](https://img.shields.io/static/v1?label=Qua%20tang%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qua%20tang%208/3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Truc tiep ngoai hang Anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20Anh)
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Nhà đầu tư F0 đổ xô vào bất động sản, trước khi xuống tiền cần phải làm gì?](https://cafebiz.vn/nha-dau-tu-f0-do-xo-vao-bat-dong-san-truoc-khi-xuong-tien-can-phai-lam-gi-20210308170321316.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vụ Ethanol Phú Thọ: Bị cáo nói chống lại chủ trương của PVN là nghỉ việc](https://laodong.vn/phap-luat/vu-ethanol-phu-tho-bi-cao-noi-chong-lai-chu-truong-cua-pvn-la-nghi-viec-886962.ldo) ([Lao Động](https://laodong.vn))
+- [Trường hợp nào có thể ủy quyền cho vợ nhận lương thay chồng?](https://cafebiz.vn/truong-hop-nao-co-the-uy-quyen-cho-vo-nhan-luong-thay-chong-20210308170216052.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đà Nẵng: Đầu tư 8.000 tỉ đồng xây nhà ở xã hội cho NLĐ khó khăn](https://laodong.vn/cong-doan/da-nang-dau-tu-8000-ti-dong-xay-nha-o-xa-hoi-cho-nld-kho-khan-886970.ldo) ([Lao Động](https://laodong.vn))
+- [Nổ mìn tại miền Trung Syria gây thương vong lớn](https://laodong.vn/the-gioi/no-min-tai-mien-trung-syria-gay-thuong-vong-lon-886973.ldo) ([Lao Động](https://laodong.vn))
+- ["Bố già" lập kỷ lục doanh thu 30 tỷ đồng trong ngày đầu ra mắt, công ty đứng sau được sáng lập và góp 80% vốn bởi Chủ tịch Trấn Thành](https://cafebiz.vn/bo-gia-lap-ky-luc-doanh-thu-30-ty-dong-trong-ngay-dau-ra-mat-cong-ty-dung-sau-duoc-sang-lap-va-gop-80-von-boi-chu-tich-tran-thanh-20210308170040002.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Ngôi sao' Huawei đang lụi tàn trên thị trường smartphone Trung Quốc](https://cafebiz.vn/ngoi-sao-huawei-dang-lui-tan-tren-thi-truong-smartphone-trung-quoc-20210308161142015.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo viên tiểu học &quot;kêu khổ&quot; vì tiêu chuẩn bằng cấp hạng I quá cao](https://laodong.vn/ban-doc/giao-vien-tieu-hoc-keu-kho-vi-tieu-chuan-bang-cap-hang-i-qua-cao-886969.ldo) ([Lao Động](https://laodong.vn))
+- [Sóc Trăng: Khởi động Tổ công tác tháo gỡ khó khăn, vướng mắc cho DN](https://laodong.vn/kinh-te/soc-trang-khoi-dong-to-cong-tac-thao-go-kho-khan-vuong-mac-cho-dn-886972.ldo) ([Lao Động](https://laodong.vn))
+- [Ăn tiệc "tết chuồng trâu", 6 người mắc bệnh lạ, 3 người tử vong](https://cafebiz.vn/an-tiec-tet-chuong-trau-6-nguoi-mac-benh-la-3-nguoi-tu-vong-20210308164236558.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
