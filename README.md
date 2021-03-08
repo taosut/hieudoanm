@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is light intensity drizzle.
+- Current weather is fog.
 - Temperature is 21°C.
 - Feels Like 24.11°C.
-- Air Visual is 152.
+- Air Visual is 154.
 
 **WEATHER**
 
@@ -48,26 +48,26 @@
 
 **GOOGLE TRENDS**
 
+- [![8.3](https://img.shields.io/static/v1?label=8.3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8.3)
 - [![AC Milan](https://img.shields.io/static/v1?label=AC%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AC%20Milan)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Bayern Munich](https://img.shields.io/static/v1?label=Bayern%20Munich&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern%20Munich)
 - [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
+- [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
+- [![Hoa tiền](https://img.shields.io/static/v1?label=Hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20ti%E1%BB%81n)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Lịch sử ngày 8/3](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20s%E1%BB%AD%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20s%E1%BB%AD%20ng%C3%A0y%208/3)
+- [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
-- [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
-- [![Penthouses Cuộc chiến thượng lưu tập 6](https://img.shields.io/static/v1?label=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%20t%E1%BA%ADp%206)
-- [![Raya](https://img.shields.io/static/v1?label=Raya&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya)
+- [![Ngay 8/3](https://img.shields.io/static/v1?label=Ngay%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ngay%208/3)
+- [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
+- [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
 - [![Thế Giới Di dong](https://img.shields.io/static/v1?label=Th%E1%BA%BF%20Gi%E1%BB%9Bi%20Di%20dong&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BA%BF%20Gi%E1%BB%9Bi%20Di%20dong)
-- [![Trần Vĩnh Tuyến](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn)
 - [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
-- [![UFC 259](https://img.shields.io/static/v1?label=UFC%20259&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UFC%20259)
-- [![Đặng Thu Huyền](https://img.shields.io/static/v1?label=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [8 sai lầm trong đầu tư ai cũng một lần mắc phải!](https://cafebiz.vn/8-sai-lam-trong-dau-tu-ai-cung-mot-lan-mac-phai-2021030808525664.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tư vấn độc lập thứ 3 vào điều tra sự cố gối cầu metro số 1](https://tuoitre.vn/tu-van-doc-lap-thu-3-vao-dieu-tra-su-co-goi-cau-metro-so-1-20210308091523589.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [“Việt Nam 2045” và mục tiêu tự do kinh tế](https://laodong.vn/su-kien-binh-luan/viet-nam-2045-va-muc-tieu-tu-do-kinh-te-886688.ldo) ([Lao Động](https://laodong.vn))
-- [Khi &quot;thần y&quot; Võ Hoàng Yên chữa bệnh, cơ quan chức năng ở đâu?](https://laodong.vn/su-kien-binh-luan/khi-than-y-vo-hoang-yen-chua-benh-co-quan-chuc-nang-o-dau-886724.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng và ngoại tệ 8.3: Vì sao giá vàng thế giới tiếp tục giảm sâu?](https://laodong.vn/video/gia-vang-va-ngoai-te-83-vi-sao-gia-vang-the-gioi-tiep-tuc-giam-sau-886789.ldo) ([Lao Động](https://laodong.vn))
-- [“UAE là quốc gia xứng đáng nhất đăng cai vòng loại World Cup 2022”](https://laodong.vn/bong-da/uae-la-quoc-gia-xung-dang-nhat-dang-cai-vong-loai-world-cup-2022-886782.ldo) ([Lao Động](https://laodong.vn))
-- [Tặng 1.000 bộ áo dài cho phụ nữ có hoàn cảnh khó khăn](https://laodong.vn/ldld-thai-nguyen/tang-1000-bo-ao-dai-cho-phu-nu-co-hoan-canh-kho-khan-886797.ldo) ([Lao Động](https://laodong.vn))
-- [Lương Xuân Trường khởi nghiệp làm ông chủ](https://cafebiz.vn/luong-xuan-truong-khoi-nghiep-lam-ong-chu-20210308093640597.chn) ([CafeBiz](https://cafebiz.vn))
-- [Các sân bay vắng tanh, ngành bán lẻ miễn thuế “chật vật” tìm hướng đi mới](https://cafebiz.vn/cac-san-bay-vang-tanh-nganh-ban-le-mien-thue-chat-vat-tim-huong-di-moi-20210308085102691.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ngày 8-3 của những nữ cửu vạn chợ Long Biên](https://tuoitre.vn/ngay-8-3-cua-nhung-nu-cuu-van-cho-long-bien-20210308085934702.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bà - Mẹ của 7 tiến sĩ và 2 thạc sĩ](https://laodong.vn/lao-dong-cuoi-tuan/ba-me-cua-7-tien-si-va-2-thac-si-885496.ldo) ([Lao Động](https://laodong.vn))
+- [Trình Trung ương quyết định việc giới thiệu nhân sự lãnh đạo cấp cao các cơ quan nhà nước](https://laodong.vn/thoi-su/trinh-trung-uong-quyet-dinh-viec-gioi-thieu-nhan-su-lanh-dao-cap-cao-cac-co-quan-nha-nuoc-886794.ldo) ([Lao Động](https://laodong.vn))
+- [Cha Lạc Long Quân và kinh đô Rồng bên hồ Dâm Đàm](https://laodong.vn/lao-dong-cuoi-tuan/cha-lac-long-quan-va-kinh-do-rong-ben-ho-dam-dam-885488.ldo) ([Lao Động](https://laodong.vn))
+- [SpaceX lên kế hoạch xây dựng nhà máy sản xuất vệ tinh Starlink thứ hai ở Mỹ](https://cafebiz.vn/spacex-len-ke-hoach-xay-dung-nha-may-san-xuat-ve-tinh-starlink-thu-hai-o-my-20210308085757908.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những ngày trực 24/24, những bữa cơm dang dở của bóng hồng Kovalevskaia](https://laodong.vn/video-thoi-su/nhung-ngay-truc-2424-nhung-bua-com-dang-do-cua-bong-hong-kovalevskaia-886607.ldo) ([Lao Động](https://laodong.vn))
+- [Phóng xạ khi chụp X quang có nguy hiểm đến sức khỏe không?](https://laodong.vn/suc-khoe/phong-xa-khi-chup-x-quang-co-nguy-hiem-den-suc-khoe-khong-885643.ldo) ([Lao Động](https://laodong.vn))
+- [Người nghỉ hưu trước tuổi hưởng chế độ hưu trí thế nào?](https://laodong.vn/ban-doc/nguoi-nghi-huu-truoc-tuoi-huong-che-do-huu-tri-the-nao-886513.ldo) ([Lao Động](https://laodong.vn))
+- [Elon Musk bị đồn qua đời, hashtag #RIPELON lan tràn khắp Twitter](https://cafebiz.vn/elon-musk-bi-don-qua-doi-hashtag-ripelon-lan-tran-khap-twitter-20210308095456094.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cảnh báo mới: COVID-19 có thể chặn oxy đến não, kích hoạt một “tác dụng phụ đáng sợ”](https://cafebiz.vn/canh-bao-moi-covid-19-co-the-chan-oxy-den-nao-kich-hoat-mot-tac-dung-phu-dang-so-20210308095245711.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bà xã Shark Hưng xinh đẹp mơ màng bên hoa lê đón ngày 8/3, nhưng câu chốt của vị tổng tài U50 mới khiến dân tình phát sốt](https://cafebiz.vn/ba-xa-shark-hung-xinh-dep-mo-mang-ben-hoa-le-don-ngay-8-3-nhung-cau-chot-cua-vi-tong-tai-u50-moi-khien-dan-tinh-phat-sot-2021030809511105.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Ask A Senior: “Vượt qua cú sốc mất việc, mất người thân, chị dấn thân giúp hàng trăm bạn trẻ tìm việc mới.” ](https://vietcetera.com/vn/ask-a-senior-vuot-qua-cu-soc-mat-viec-mat-nguoi-than-chi-dan-than-giup-hang-tram-ban-tre-tim-viec-moi)
 - [Nguyễn Thị Thiên Thanh - CEO Edelman Việt Nam: Hãy lấy con người làm kim chỉ nam](https://vietcetera.com/vn/nguyen-thi-thien-thanh-ceo-edelman-hay-lay-con-nguoi-lam-kim-chi-nam)
 - ["Chị mong con trai chị hiểu rằng..."](https://vietcetera.com/vn/chi-mong-con-trai-chi-hieu-rang)
 - [Bóc Term: Định nghĩa lại Bimbo trong thế kỷ 21!](https://vietcetera.com/vn/boc-term-dinh-nghia-lai-bimbo-trong-the-ky-21)
@@ -105,7 +106,6 @@
 - [Vì sao 4 thành viên Blackpink được chọn làm đại sứ thương hiệu cho Dior, Chanel, Saint Laurent, và Celine? ](https://vietcetera.com/vn/cac-hang-thoi-trang-chon-ai-trong-blackpink-lam-dai-su-thuong-hieu)
 - [5 Phim hành động Netflix cho cuối tuần thêm "gay cấn"](https://vietcetera.com/vn/5-phim-hanh-dong-netflix-cho-cuoi-tuan-them-gay-can)
 - [Loay hoay tìm nguồn cơn và cách thoát khỏi hố đen trầm cảm](https://vietcetera.com/vn/loay-hoay-tim-nguon-con-va-cach-thoat-khoi-ho-den-tram-cam)
-- [The Queen's Gambit: Thiên tài cô đơn trong thế giới của những người cô đơn](https://vietcetera.com/vn/the-queens-gambit-thien-tai-co-don-trong-the-gioi-cua-nhung-nguoi-co-don)
 
 [Read More](https://vietcetera.com/)
 
