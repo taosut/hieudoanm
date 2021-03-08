@@ -49,13 +49,12 @@
 **GOOGLE TRENDS**
 
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
-- [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
 - [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
-- [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
 - [![Hoa 'tiền](https://img.shields.io/static/v1?label=Hoa%20'ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20'ti%E1%BB%81n)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Lời chúc 8/3 cho cô giáo](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20c%C3%B4%20gi%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20c%C3%B4%20gi%C3%A1o)
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
@@ -65,6 +64,7 @@
 - [![Ngày 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208/3)
 - [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Phùng Xuân Nhạ](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1)
+- [![Quà 8/3 cho vợ](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3%20cho%20v%E1%BB%A3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3%20cho%20v%E1%BB%A3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Truc tiep ngoai hang anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20anh)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Gây va chạm nhưng không bị bắt đền, còn được chủ Mercedes tặng xe máy mới, người đàn ông nghèo khổ từ lo lắng đến biết ơn](https://cafebiz.vn/gay-va-cham-nhung-khong-bi-bat-den-con-duoc-chu-mercedes-tang-xe-may-moi-nguoi-dan-ong-ngheo-kho-tu-lo-lang-den-biet-on-20210308181234228.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dàn mỹ nhân phim Tây du ký 1986: Người lận đận, người an yên tuổi già](https://laodong.vn/van-hoa/dan-my-nhan-phim-tay-du-ky-1986-nguoi-lan-dan-nguoi-an-yen-tuoi-gia-887023.ldo) ([Lao Động](https://laodong.vn))
+- [Chuẩn bị kiện toàn các chức danh lãnh đạo Nhà nước](https://vnexpress.net/chuan-bi-kien-toan-cac-chuc-danh-lanh-dao-nha-nuoc-4245280.html) ([VNExpress](https://vnexpress.net))
+- [Ngày mai, TP.HCM họp nghe báo cáo đề xuất xử lý vi phạm về tiếng ồn](https://tuoitre.vn/ngay-mai-tp-hcm-hop-nghe-bao-cao-de-xuat-xu-ly-vi-pham-ve-tieng-on-20210308175921618.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hà Tĩnh: Công đoàn tặng quà cho nữ đoàn viên khó khăn](https://laodong.vn/cong-doan/ha-tinh-cong-doan-tang-qua-cho-nu-doan-vien-kho-khan-886997.ldo) ([Lao Động](https://laodong.vn))
 - [Dỡ phong tỏa, BV Giao thông Vận tải Hải Phòng hoạt động trở lại từ 9.3](https://laodong.vn/xa-hoi/do-phong-toa-bv-giao-thong-van-tai-hai-phong-hoat-dong-tro-lai-tu-93-886967.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương lùi thời gian giao nhận quân do dịch COVID-19](https://laodong.vn/xa-hoi/hai-duong-lui-thoi-gian-giao-nhan-quan-do-dich-covid-19-887012.ldo) ([Lao Động](https://laodong.vn))
 - [100% người tiêm vaccine COVID-19 trong ngày đầu tiên chưa ghi nhận phản ứng](https://laodong.vn/y-te/100-nguoi-tiem-vaccine-covid-19-trong-ngay-dau-tien-chua-ghi-nhan-phan-ung-887044.ldo) ([Lao Động](https://laodong.vn))
-- [Sinh viên từ Hải Dương trở lại Hà Nội phải cách ly tại nhà 14 ngày](https://laodong.vn/xa-hoi/sinh-vien-tu-hai-duong-tro-lai-ha-noi-phai-cach-ly-tai-nha-14-ngay-887041.ldo) ([Lao Động](https://laodong.vn))
+- [TP.HCM có “ATM” nhận và trả hồ sơ tự động đầu tiên](http://vietnamnet.vn/vn/thoi-su/tp-hcm-co-atm-nhan-va-tra-ho-so-tu-dong-dau-tien-718092.html) ([VietNamNet](https://vietnamnet.vn))
 - [Hải Phòng dỡ bỏ điểm phong tỏa cuối cùng](https://vnexpress.net/hai-phong-do-bo-diem-phong-toa-cuoi-cung-4245351.html) ([VNExpress](https://vnexpress.net))
-- [Vụ tiếp viên hàng không làm lây lan dịch: Xử lý sai phạm tại khu cách ly](https://laodong.vn/xa-hoi/vu-tiep-vien-hang-khong-lam-lay-lan-dich-xu-ly-sai-pham-tai-khu-cach-ly-887002.ldo) ([Lao Động](https://laodong.vn))
-- [Sau bữa tiệc, 6 người suy hô hấp, viêm não: 3 người đã tử vong](https://laodong.vn/xa-hoi/sau-bua-tiec-6-nguoi-suy-ho-hap-viem-nao-3-nguoi-da-tu-vong-887011.ldo) ([Lao Động](https://laodong.vn))
-- [Tập đoàn Trung Thủy trở lại thị trường bất động sản Hà Nội với dự án phức hợp "bắt tay" với ông lớn Nhật Takashimaya](https://cafebiz.vn/tap-doan-trung-thuy-tro-lai-thi-truong-bat-dong-san-ha-noi-voi-du-an-phuc-hop-bat-tay-voi-ong-lon-nhat-takashimaya-20210308173323646.chn) ([CafeBiz](https://cafebiz.vn))
-- [4 lời khuyên khởi nghiệp từ người sáng lập công ty tỷ USD](https://cafebiz.vn/4-loi-khuyen-khoi-nghiep-tu-nguoi-sang-lap-cong-ty-ty-usd-20210308161256084.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -121,8 +121,8 @@
 06. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 07. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
-09. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
-10. [Sub Urban - Cirque [Official Music Video]](https://www.youtube.com/watch?v=6vNh-QW6Hlc) - [Sub Urban](https://www.youtube.com/channel/UCqAil6_A1dWHdFXzOwVLqlg)
+09. [Sub Urban - Cirque [Official Music Video]](https://www.youtube.com/watch?v=6vNh-QW6Hlc) - [Sub Urban](https://www.youtube.com/channel/UCqAil6_A1dWHdFXzOwVLqlg)
+10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
