@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is fog.
+- Current weather is mist.
 - Temperature is 21°C.
-- Feels Like 24.11°C.
-- Air Visual is 154.
+- Feels Like 23.74°C.
+- Air Visual is 152.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bà - Mẹ của 7 tiến sĩ và 2 thạc sĩ](https://laodong.vn/lao-dong-cuoi-tuan/ba-me-cua-7-tien-si-va-2-thac-si-885496.ldo) ([Lao Động](https://laodong.vn))
-- [Trình Trung ương quyết định việc giới thiệu nhân sự lãnh đạo cấp cao các cơ quan nhà nước](https://laodong.vn/thoi-su/trinh-trung-uong-quyet-dinh-viec-gioi-thieu-nhan-su-lanh-dao-cap-cao-cac-co-quan-nha-nuoc-886794.ldo) ([Lao Động](https://laodong.vn))
-- [Cha Lạc Long Quân và kinh đô Rồng bên hồ Dâm Đàm](https://laodong.vn/lao-dong-cuoi-tuan/cha-lac-long-quan-va-kinh-do-rong-ben-ho-dam-dam-885488.ldo) ([Lao Động](https://laodong.vn))
-- [SpaceX lên kế hoạch xây dựng nhà máy sản xuất vệ tinh Starlink thứ hai ở Mỹ](https://cafebiz.vn/spacex-len-ke-hoach-xay-dung-nha-may-san-xuat-ve-tinh-starlink-thu-hai-o-my-20210308085757908.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những ngày trực 24/24, những bữa cơm dang dở của bóng hồng Kovalevskaia](https://laodong.vn/video-thoi-su/nhung-ngay-truc-2424-nhung-bua-com-dang-do-cua-bong-hong-kovalevskaia-886607.ldo) ([Lao Động](https://laodong.vn))
-- [Phóng xạ khi chụp X quang có nguy hiểm đến sức khỏe không?](https://laodong.vn/suc-khoe/phong-xa-khi-chup-x-quang-co-nguy-hiem-den-suc-khoe-khong-885643.ldo) ([Lao Động](https://laodong.vn))
-- [Người nghỉ hưu trước tuổi hưởng chế độ hưu trí thế nào?](https://laodong.vn/ban-doc/nguoi-nghi-huu-truoc-tuoi-huong-che-do-huu-tri-the-nao-886513.ldo) ([Lao Động](https://laodong.vn))
-- [Elon Musk bị đồn qua đời, hashtag #RIPELON lan tràn khắp Twitter](https://cafebiz.vn/elon-musk-bi-don-qua-doi-hashtag-ripelon-lan-tran-khap-twitter-20210308095456094.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cảnh báo mới: COVID-19 có thể chặn oxy đến não, kích hoạt một “tác dụng phụ đáng sợ”](https://cafebiz.vn/canh-bao-moi-covid-19-co-the-chan-oxy-den-nao-kich-hoat-mot-tac-dung-phu-dang-so-20210308095245711.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bà xã Shark Hưng xinh đẹp mơ màng bên hoa lê đón ngày 8/3, nhưng câu chốt của vị tổng tài U50 mới khiến dân tình phát sốt](https://cafebiz.vn/ba-xa-shark-hung-xinh-dep-mo-mang-ben-hoa-le-don-ngay-8-3-nhung-cau-chot-cua-vi-tong-tai-u50-moi-khien-dan-tinh-phat-sot-2021030809511105.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng sẽ đón nhiều dự án đầu tư tỉ đô](https://cafebiz.vn/hai-phong-se-don-nhieu-du-an-dau-tu-ti-do-20210308103223657.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thay lốp ôtô dự phòng và những điều cần lưu ý](https://laodong.vn/xe/thay-lop-oto-du-phong-va-nhung-dieu-can-luu-y-886747.ldo) ([Lao Động](https://laodong.vn))
+- [Doppelmayr và thương vụ 13 năm với Sun Group](https://laodong.vn/kinh-te/doppelmayr-va-thuong-vu-13-nam-voi-sun-group-886798.ldo) ([Lao Động](https://laodong.vn))
+- [Bố cục cuộc chơi ở mảng game của “cha đẻ” TikTok đã dần hé mở](https://cafebiz.vn/bo-cuc-cuoc-choi-o-mang-game-cua-cha-de-tiktok-da-dan-he-mo-20210308085959936.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giàu có bắt nguồn từ tư duy khác biệt: 5 kiểu suy nghĩ "đáng tiền" của người khôn ngoan](https://cafebiz.vn/giau-co-bat-nguon-tu-tu-duy-khac-biet-5-kieu-suy-nghi-dang-tien-cua-nguoi-khon-ngoan-202103081028556.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bỏ phụ cấp thâm niên, lương của giáo viên thay đổi ra sao?](https://laodong.vn/giao-duc/bo-phu-cap-tham-nien-luong-cua-giao-vien-thay-doi-ra-sao-886811.ldo) ([Lao Động](https://laodong.vn))
+- [Những bộ phim hài hay đáng xem nhân ngày 8.3](https://laodong.vn/giai-tri/nhung-bo-phim-hai-hay-dang-xem-nhan-ngay-83-886820.ldo) ([Lao Động](https://laodong.vn))
+- [Trung vệ Đức Chiến ổn sau ca phẫu thuật dây chằng](https://laodong.vn/bong-da/trung-ve-duc-chien-on-sau-ca-phau-thuat-day-chang-886813.ldo) ([Lao Động](https://laodong.vn))
+- ["Cô Trúc" Mai Thu Huyền: "Giờ tôi là CEO rồi nhưng vẫn có người bảo, sao hồi đấy nổi tiếng thế mà dại dột bỏ ngang"](https://cafebiz.vn/co-truc-mai-thu-huyen-gio-toi-la-ceo-roi-nhung-van-co-nguoi-bao-sao-hoi-day-noi-tieng-the-ma-dai-dot-bo-ngang-20210308095915821.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vợ cũ cưới giáo viên khoa học, tỷ phú Jeff Bezos liền nói một câu gây chú ý](https://cafebiz.vn/vo-cu-cuoi-giao-vien-khoa-hoc-ty-phu-jeff-bezos-lien-noi-mot-cau-gay-chu-y-20210308100459882.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
