@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 21°C.
-- Feels Like 23.02°C.
-- Air Visual is 156.
+- Temperature is 22°C.
+- Feels Like 23.66°C.
+- Air Visual is 154.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [TKL Media - Từ hành trình chuyển đổi số đến giải vàng MM APAC 2020](https://cafebiz.vn/tkl-media-tu-hanh-trinh-chuyen-doi-so-den-giai-vang-mm-apac-2020-20210305160937065.chn) ([CafeBiz](https://cafebiz.vn))
-- [Làm thế nào để biết mình có đang mắc nợ xấu ngân hàng/công ty tài chính hay không?](https://cafebiz.vn/lam-the-nao-de-biet-minh-co-dang-mac-no-xau-ngan-hang-cong-ty-tai-chinh-hay-khong-20210308095913674.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chính thức tiêm mũi vaccine COVID-19 đầu tiên tại BV Bệnh Nhiệt đới TƯ](https://laodong.vn/photo/chinh-thuc-tiem-mui-vaccine-covid-19-dau-tien-tai-bv-benh-nhiet-doi-tu-886542.ldo) ([Lao Động](https://laodong.vn))
-- [Làm thủ tục hành chính dễ dàng 24/7 nhờ 'ATM' nhận trả hồ sơ tự động](https://tuoitre.vn/lam-thu-tuc-hanh-chinh-de-dang-24-7-nho-atm-nhan-tra-ho-so-tu-dong-20210308103742673.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Giấc mơ đã trở thành hiện thực của một nữ Chủ tịch CĐCS ở Đồng Tháp](https://laodong.vn/ldld-dong-thap/giac-mo-da-tro-thanh-hien-thuc-cua-mot-nu-chu-tich-cdcs-o-dong-thap-886821.ldo) ([Lao Động](https://laodong.vn))
-- [Cửa hàng lẩu buffet nổi tiếng Hà Nội bị tố thức ăn có gián, phi lê cá còn xương khiến KH bị hóc phải mổ nội soi, dịch vụ chậm](https://cafebiz.vn/cua-hang-lau-buffet-noi-tieng-ha-noi-bi-to-thuc-an-co-gian-phi-le-ca-con-xuong-khien-kh-bi-hoc-phai-mo-noi-soi-dich-vu-cham-20210308104026021.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bị cáo Trịnh Xuân Thanh đề nghị cho gia đình tham gia phiên tòa](https://laodong.vn/phap-luat/bi-cao-trinh-xuan-thanh-de-nghi-cho-gia-dinh-tham-gia-phien-toa-886827.ldo) ([Lao Động](https://laodong.vn))
-- [Tại sao phụ nữ không nên nhận quà ngày 8/3?](https://cafebiz.vn/tai-sao-phu-nu-khong-nen-nhan-qua-ngay-8-3-20210308102051394.chn) ([CafeBiz](https://cafebiz.vn))
-- [The Economist: Giới công nghệ đang thay đổi và giờ là thời cơ của những kẻ muốn phá vỡ thế độc quyền!](https://cafebiz.vn/the-economist-gioi-cong-nghe-dang-thay-doi-va-gio-la-thoi-co-cua-nhung-ke-muon-pha-vo-the-doc-quyen-20210308102430793.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đại học Chính trị công bố phương thức tuyển sinh năm 2021](https://laodong.vn/giao-duc/dai-hoc-chinh-tri-cong-bo-phuong-thuc-tuyen-sinh-nam-2021-886826.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng tuyển sinh đầu cấp: Sai lầm nếu cứ chạy theo trường &quot;hot&quot;](https://laodong.vn/giao-duc/nong-tuyen-sinh-dau-cap-sai-lam-neu-cu-chay-theo-truong-hot-886835.ldo) ([Lao Động](https://laodong.vn))
+- [Nữ lao động ngành điện - &quot;vẹn cả đôi đường&quot;...](https://laodong.vn/cong-doan/nu-lao-dong-nganh-dien-ven-ca-doi-duong-886837.ldo) ([Lao Động](https://laodong.vn))
+- [MH370: Thân nhân khắc khoải chờ câu trả lời vụ mất tích bí ẩn](https://laodong.vn/the-gioi/mh370-than-nhan-khac-khoai-cho-cau-tra-loi-vu-mat-tich-bi-an-886805.ldo) ([Lao Động](https://laodong.vn))
+- [Mỹ bắt đầu điều tra những cáo buộc nhắm vào Samsung](https://cafebiz.vn/my-bat-dau-dieu-tra-nhung-cao-buoc-nham-vao-samsung-20210308102741597.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cú thoát hiểm ngoạn mục 6 năm trước của An Gia Group: Dùng sự chân thành để kêu gọi vốn từ quỹ đầu tư, sau khi bị ngân hàng từ chối vì... cạn sạch tiền](https://cafebiz.vn/cu-thoat-hiem-ngoan-muc-6-nam-truoc-cua-an-gia-group-dung-su-chan-thanh-de-keu-goi-von-tu-quy-dau-tu-sau-khi-bi-ngan-hang-tu-choi-vi-can-sach-tien-20210307122034147.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Trương Việt Dũng giữ chức Chánh Văn phòng Đoàn ĐBQH và HĐND TP Hà Nội](https://laodong.vn/thoi-su/ong-truong-viet-dung-giu-chuc-chanh-van-phong-doan-dbqh-va-hdnd-tp-ha-noi-886854.ldo) ([Lao Động](https://laodong.vn))
+- [2 tháng đầu năm, điện thoại 'Made in Vietnam' thu về gần 10 tỷ USD](https://cafebiz.vn/2-thang-dau-nam-dien-thoai-made-in-vietnam-thu-ve-gan-10-ty-usd-20210308112355277.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trên 80% lao động nữ đạt danh hiệu thi đua “Giỏi việc nước, Đảm việc nhà&quot;](https://laodong.vn/cd-gtvt/tren-80-lao-dong-nu-dat-danh-hieu-thi-dua-gioi-viec-nuoc-dam-viec-nha-886846.ldo) ([Lao Động](https://laodong.vn))
+- [Bảng xếp hạng vòng 24 Bundesliga: Dortmund đứng thứ 6](https://laodong.vn/infographic/bang-xep-hang-vong-24-bundesliga-dortmund-dung-thu-6-886786.ldo) ([Lao Động](https://laodong.vn))
+- [Đường sắt Việt Nam: Làm gì để thoát khỏi tình thế "một mất một còn"?](https://cafebiz.vn/duong-sat-viet-nam-lam-gi-de-thoat-khoi-tinh-the-mot-mat-mot-con-20210308111519257.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,8 +96,9 @@
 
 **VIETCETERA**
 
+- [Ngắm tranh, ăn tối, tạm quên sự đời: ghé Lavelle Library](https://vietcetera.com/vn/ngam-tranh-an-toi-tam-quen-su-doi-ghe-lavelle-library)
 - [Đi một dặm trong đôi giày nhân gian](https://vietcetera.com/vn/thau-hieu-va-thau-cam-khac-nhau-cho-nao)
-- [Ask A Senior: “Vượt qua cú sốc mất việc, mất người thân, chị dấn thân giúp hàng trăm bạn trẻ tìm việc mới.” ](https://vietcetera.com/vn/ask-a-senior-vuot-qua-cu-soc-mat-viec-mat-nguoi-than-chi-dan-than-giup-hang-tram-ban-tre-tim-viec-moi)
+- ["Vượt qua những cú sốc, chị dấn thân giúp hàng trăm bạn trẻ tìm việc mới.”](https://vietcetera.com/vn/vuot-qua-nhung-cu-soc-chi-dan-than-giup-hang-tram-ban-tre-tim-viec-moi)
 - [Nguyễn Thị Thiên Thanh - CEO Edelman Việt Nam: Hãy lấy con người làm kim chỉ nam](https://vietcetera.com/vn/nguyen-thi-thien-thanh-ceo-edelman-hay-lay-con-nguoi-lam-kim-chi-nam)
 - ["Chị mong con trai chị hiểu rằng..."](https://vietcetera.com/vn/chi-mong-con-trai-chi-hieu-rang)
 - [Bóc Term: Định nghĩa lại Bimbo trong thế kỷ 21!](https://vietcetera.com/vn/boc-term-dinh-nghia-lai-bimbo-trong-the-ky-21)
@@ -105,7 +106,6 @@
 - [Raya and The Last Dragon: Thế giới đổ nát là do chính chúng ta?](https://vietcetera.com/vn/raya-and-the-last-dragon-the-gioi-do-nat-la-do-chinh-chung-ta)
 - [10 Sự "lươn lẹo" để thấy đời không như là mơ](https://vietcetera.com/vn/10-kieu-luon-leo-de-thay-doi-khong-nhu-la-mo)
 - [Vì sao 4 thành viên Blackpink được chọn làm đại sứ thương hiệu cho Dior, Chanel, Saint Laurent, và Celine? ](https://vietcetera.com/vn/cac-hang-thoi-trang-chon-ai-trong-blackpink-lam-dai-su-thuong-hieu)
-- [5 Phim hành động Netflix cho cuối tuần thêm "gay cấn"](https://vietcetera.com/vn/5-phim-hanh-dong-netflix-cho-cuoi-tuan-them-gay-can)
 
 [Read More](https://vietcetera.com/)
 
