@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 23°C.
 - Feels Like 26.25°C.
-- Air Visual is 141.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -48,13 +48,13 @@
 
 **GOOGLE TRENDS**
 
+- [![8.3](https://img.shields.io/static/v1?label=8.3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8.3)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
-- [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
+- [![Bó hoa tiền](https://img.shields.io/static/v1?label=B%C3%B3%20hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3%20hoa%20ti%E1%BB%81n)
+- [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
-- [![Hoa 'tiền](https://img.shields.io/static/v1?label=Hoa%20'ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20'ti%E1%BB%81n)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Lời chúc 8/3 cho cô giáo](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20c%C3%B4%20gi%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20c%C3%B4%20gi%C3%A1o)
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
@@ -64,10 +64,10 @@
 - [![Ngày 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208/3)
 - [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Phùng Xuân Nhạ](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1)
-- [![Quà 8/3 cho vợ](https://img.shields.io/static/v1?label=Qu%C3%A0%208/3%20cho%20v%E1%BB%A3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%208/3%20cho%20v%E1%BB%A3)
+- [![Qua tang 8/3](https://img.shields.io/static/v1?label=Qua%20tang%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qua%20tang%208/3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
-- [![Truc tiep ngoai hang anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20anh)
+- [![Truc tiep ngoai hang Anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20Anh)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bắc Giang sẽ triển khai tiêm vaccine COVID-19 đảm bảo khoa học, hiệu quả](https://laodong.vn/xa-hoi/bac-giang-se-trien-khai-tiem-vaccine-covid-19-dam-bao-khoa-hoc-hieu-qua-887068.ldo) ([Lao Động](https://laodong.vn))
+- [Công an Đồng Nai kêu gọi 2 đối tượng có dấu hiệu lừa đảo ra trình diện](https://laodong.vn/phap-luat/cong-an-dong-nai-keu-goi-2-doi-tuong-co-dau-hieu-lua-dao-ra-trinh-dien-887067.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 9.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-93-886912.ldo) ([Lao Động](https://laodong.vn))
+- [Cuối cùng, việc gì khó cũng phải đến tay Man United](https://laodong.vn/bong-da-quoc-te/cuoi-cung-viec-gi-kho-cung-phai-den-tay-man-united-886913.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất 24h: Có nên đầu tư khi giá vàng đang giảm sâu?](https://laodong.vn/video/nong-nhat-24h-co-nen-dau-tu-khi-gia-vang-dang-giam-sau-887047.ldo) ([Lao Động](https://laodong.vn))
+- [Sổ đỏ 50 năm hết hạn có bị thu hồi không?](https://laodong.vn/bat-dong-san/so-do-50-nam-het-han-co-bi-thu-hoi-khong-886801.ldo) ([Lao Động](https://laodong.vn))
+- [Nhận định Chelsea - Everton: Đại chiến vì Top 4](https://laodong.vn/bong-da-quoc-te/nhan-dinh-chelsea-everton-dai-chien-vi-top-4-887070.ldo) ([Lao Động](https://laodong.vn))
+- [Tác hại khủng khiếp của nhịn tiểu: Bạn chỉ nên nhịn tiểu trong bao lâu?](https://cafebiz.vn/tac-hai-khung-khiep-cua-nhin-tieu-ban-chi-nen-nhin-tieu-trong-bao-lau-20210308165705389.chn) ([CafeBiz](https://cafebiz.vn))
+- [NTK nổi tiếng Thái Công tuyên bố: Ai tìm việc mà hỏi lương bao nhiêu trên Facebook, tôi cho vào danh sách đen lập tức](https://cafebiz.vn/ntk-noi-tieng-thai-cong-tuyen-bo-ai-tim-viec-ma-hoi-luong-bao-nhieu-tren-facebook-toi-cho-vao-danh-sach-den-lap-tuc-20210308195509216.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giáo dục 24/7: Chuyên gia mách nước chọn trường, chuyển cấp](https://laodong.vn/video/giao-duc-247-chuyen-gia-mach-nuoc-chon-truong-chuyen-cap-887065.ldo) ([Lao Động](https://laodong.vn))
-- [Bị cáo Đinh La Thăng: Triển khai gói thầu, trách nhiệm của chủ đầu tư](https://laodong.vn/phap-luat/bi-cao-dinh-la-thang-trien-khai-goi-thau-trach-nhiem-cua-chu-dau-tu-887062.ldo) ([Lao Động](https://laodong.vn))
-- [Sở Y tế Cần Thơ có thêm phó giám đốc sau vụ giám đốc sở bị khởi tố](https://laodong.vn/thoi-su/so-y-te-can-tho-co-them-pho-giam-doc-sau-vu-giam-doc-so-bi-khoi-to-887063.ldo) ([Lao Động](https://laodong.vn))
-- [Trường hợp nào người lao động làm việc ngày 30/4 và 1/5 được hưởng tối thiểu 490% lương?](https://cafebiz.vn/truong-hop-nao-nguoi-lao-dong-lam-viec-ngay-30-4-va-1-5-duoc-huong-toi-thieu-490-luong-20210308192517264.chn) ([CafeBiz](https://cafebiz.vn))
-- [TP HCM cho phòng gym, nhà hàng tiệc cưới mở cửa](https://vnexpress.net/tp-hcm-cho-phong-gym-nha-hang-tiec-cuoi-mo-cua-4245393.html) ([VNExpress](https://vnexpress.net))
-- [Dừng giãn cách trên phương tiện công cộng, lượng khách đi xe buýt thế nào?](https://laodong.vn/video/dung-gian-cach-tren-phuong-tien-cong-cong-luong-khach-di-xe-buyt-the-nao-887060.ldo) ([Lao Động](https://laodong.vn))
-- [Nữ ca sĩ giàu bậc nhất thế giới - Rihanna: Trưởng thành từ tuổi thơ ngập trong bạo lực, làm khuynh đảo giới thời trang rồi trở thành biểu tượng nữ doanh nhân đáng ngưỡng mộ](https://cafebiz.vn/nu-ca-si-giau-bac-nhat-the-gioi-rihanna-truong-thanh-tu-tuoi-tho-ngap-trong-bao-luc-lam-khuynh-dao-gioi-thoi-trang-roi-tro-thanh-bieu-tuong-nu-doanh-nhan-dang-nguong-mo-20210308192128747.chn) ([CafeBiz](https://cafebiz.vn))
-- [3 quán nhậu làm ồn bị phạt](https://vnexpress.net/3-quan-nhau-lam-on-bi-phat-4245367.html) ([VNExpress](https://vnexpress.net))
-- [&quot;Cò&quot; đất lừa đảo người đặt cọc hàng chục tỉ đồng sa lưới](https://laodong.vn/phap-luat/co-dat-lua-dao-nguoi-dat-coc-hang-chuc-ti-dong-sa-luoi-887054.ldo) ([Lao Động](https://laodong.vn))
-- [Cả làng ở Kon Tum có 3 người chết, 21 người nhập viện với cùng triệu chứng](https://tuoitre.vn/ca-lang-o-kon-tum-co-3-nguoi-chet-21-nguoi-nhap-vien-voi-cung-trieu-chung-20210308185225147.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -137,8 +137,8 @@
 05. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-08. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-09. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
+08. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
+09. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
 10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 
 [Read More](https://www.youtube.com/feed/trending)
