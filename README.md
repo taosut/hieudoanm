@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 23°C.
 - Feels Like 25.53°C.
-- Air Visual is 151.
+- Air Visual is 152.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hà Tĩnh: Công đoàn tặng quà cho nữ đoàn viên khó khăn](https://laodong.vn/cong-doan/ha-tinh-cong-doan-tang-qua-cho-nu-doan-vien-kho-khan-886997.ldo) ([Lao Động](https://laodong.vn))
+- [Dỡ phong tỏa, BV Giao thông Vận tải Hải Phòng hoạt động trở lại từ 9.3](https://laodong.vn/xa-hoi/do-phong-toa-bv-giao-thong-van-tai-hai-phong-hoat-dong-tro-lai-tu-93-886967.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương lùi thời gian giao nhận quân do dịch COVID-19](https://laodong.vn/xa-hoi/hai-duong-lui-thoi-gian-giao-nhan-quan-do-dich-covid-19-887012.ldo) ([Lao Động](https://laodong.vn))
+- [100% người tiêm vaccine COVID-19 trong ngày đầu tiên chưa ghi nhận phản ứng](https://laodong.vn/y-te/100-nguoi-tiem-vaccine-covid-19-trong-ngay-dau-tien-chua-ghi-nhan-phan-ung-887044.ldo) ([Lao Động](https://laodong.vn))
 - [Sinh viên từ Hải Dương trở lại Hà Nội phải cách ly tại nhà 14 ngày](https://laodong.vn/xa-hoi/sinh-vien-tu-hai-duong-tro-lai-ha-noi-phai-cach-ly-tai-nha-14-ngay-887041.ldo) ([Lao Động](https://laodong.vn))
-- [Phố đi bộ Hồ Gươm được hoạt động trở lại từ ngày 12.3](https://laodong.vn/xa-hoi/pho-di-bo-ho-guom-duoc-hoat-dong-tro-lai-tu-ngay-123-886999.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng dỡ bỏ điểm phong tỏa cuối cùng](https://vnexpress.net/hai-phong-do-bo-diem-phong-toa-cuoi-cung-4245351.html) ([VNExpress](https://vnexpress.net))
-- [12 ca mắc COVID-19, trong đó 11 ca nhập cảnh](https://laodong.vn/y-te/12-ca-mac-covid-19-trong-do-11-ca-nhap-canh-887003.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: 3 quán bia bị xử phạt vì mở nhạc gây ồn sau 22h](https://laodong.vn/ban-doc/tphcm-3-quan-bia-bi-xu-phat-vi-mo-nhac-gay-on-sau-22h-887016.ldo) ([Lao Động](https://laodong.vn))
-- [Khám, chữa bệnh bảo hiểm y tế trái tuyến được hỗ trợ bao nhiêu?](https://laodong.vn/ban-doc/kham-chua-benh-bao-hiem-y-te-trai-tuyen-duoc-ho-tro-bao-nhieu-887006.ldo) ([Lao Động](https://laodong.vn))
 - [Vụ tiếp viên hàng không làm lây lan dịch: Xử lý sai phạm tại khu cách ly](https://laodong.vn/xa-hoi/vu-tiep-vien-hang-khong-lam-lay-lan-dich-xu-ly-sai-pham-tai-khu-cach-ly-887002.ldo) ([Lao Động](https://laodong.vn))
 - [Sau bữa tiệc, 6 người suy hô hấp, viêm não: 3 người đã tử vong](https://laodong.vn/xa-hoi/sau-bua-tiec-6-nguoi-suy-ho-hap-viem-nao-3-nguoi-da-tu-vong-887011.ldo) ([Lao Động](https://laodong.vn))
 - [Tập đoàn Trung Thủy trở lại thị trường bất động sản Hà Nội với dự án phức hợp "bắt tay" với ông lớn Nhật Takashimaya](https://cafebiz.vn/tap-doan-trung-thuy-tro-lai-thi-truong-bat-dong-san-ha-noi-voi-du-an-phuc-hop-bat-tay-voi-ong-lon-nhat-takashimaya-20210308173323646.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trung ương thảo luận về nhân sự một số chức danh lãnh đạo cơ quan Nhà nước](https://laodong.vn/thoi-su/trung-uong-thao-luan-ve-nhan-su-mot-so-chuc-danh-lanh-dao-co-quan-nha-nuoc-886987.ldo) ([Lao Động](https://laodong.vn))
+- [4 lời khuyên khởi nghiệp từ người sáng lập công ty tỷ USD](https://cafebiz.vn/4-loi-khuyen-khoi-nghiep-tu-nguoi-sang-lap-cong-ty-ty-usd-20210308161256084.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
