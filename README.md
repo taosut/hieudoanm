@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 23°C.
-- Feels Like 24.81°C.
-- Air Visual is 155.
+- Temperature is 24°C.
+- Feels Like 25.76°C.
+- Air Visual is 157.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Phú Yên: Doanh nghiệp mở rộng sản xuất nhưng khó tuyển lao động](https://laodong.vn/cong-doan/phu-yen-doanh-nghiep-mo-rong-san-xuat-nhung-kho-tuyen-lao-dong-886902.ldo) ([Lao Động](https://laodong.vn))
-- [Cao tốc đoạn Tân Phú - Bảo Lộc: Lựa chọn phương án nào?](https://laodong.vn/xa-hoi/cao-toc-doan-tan-phu-bao-loc-lua-chon-phuong-an-nao-886909.ldo) ([Lao Động](https://laodong.vn))
-- [VNVC phối hợp Bộ Y tế tổ chức tiêm vaccine COVID-19 đợt đầu tiên](https://laodong.vn/suc-khoe/vnvc-phoi-hop-bo-y-te-to-chuc-tiem-vaccine-covid-19-dot-dau-tien-886920.ldo) ([Lao Động](https://laodong.vn))
-- [Sài Gòn nắng nóng 38 độ C](https://vnexpress.net/sai-gon-nang-nong-38-do-c-4245110.html) ([VNExpress](https://vnexpress.net))
-- [Muối Bạc Liêu đầu vụ được giá](https://laodong.vn/kinh-te/muoi-bac-lieu-dau-vu-duoc-gia-886921.ldo) ([Lao Động](https://laodong.vn))
-- [Chính trị gia tỷ phú người Pháp thiệt mạng trong vụ rơi trực thăng](https://cafebiz.vn/chinh-tri-gia-ty-phu-nguoi-phap-thiet-mang-trong-vu-roi-truc-thang-20210308135808595.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những trường hợp bị thu hồi đất do vi phạm pháp luật về đất đai](https://laodong.vn/bat-dong-san/nhung-truong-hop-bi-thu-hoi-dat-do-vi-pham-phap-luat-ve-dat-dai-886643.ldo) ([Lao Động](https://laodong.vn))
-- [13 tỉnh, thành tiêm vaccine Covid-19 đợt đầu tiên](https://vnexpress.net/13-tinh-thanh-tiem-vaccine-covid-19-dot-dau-tien-4245215.html) ([VNExpress](https://vnexpress.net))
-- [Tài tử hạng A bỏ 1000 tỷ tậu siêu biệt thự nhưng 7 năm bỏ trống, bà giúp việc bỗng hưởng lợi cả "vương quốc"](https://cafebiz.vn/tai-tu-hang-a-bo-1000-ty-tau-sieu-biet-thu-nhung-7-nam-bo-trong-ba-giup-viec-bong-huong-loi-ca-vuong-quoc-20210308145628516.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bí ẩn Metropole Hà Nội - khách sạn 5 sao vừa tròn 120 tuổi: Ghi dấu chân toàn nhân vật nổi tiếng, cứ 3 đồng doanh thu nhận về 1 đồng lãi, có cả hầm tránh bom](https://cafebiz.vn/bi-an-metropole-ha-noi-khach-san-5-sao-vua-tron-120-tuoi-ghi-dau-chan-toan-nhan-vat-noi-tieng-cu-3-dong-doanh-thu-nhan-ve-1-dong-lai-co-ca-ham-tranh-bom-20210308095235303.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bán nệm kiểu Ru9: 90% đơn hàng là bán online, không phụ thuộc showroom, tặng miễn phí 100 đêm ngủ thử, doanh số tăng 300% năm Covid 2020](https://cafebiz.vn/ban-nem-kieu-ru9-90-don-hang-la-ban-online-khong-phu-thuoc-showroom-tang-mien-phi-100-dem-ngu-thu-doanh-so-tang-300-nam-covid-2020-2021030815145339.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cổ phiếu Tesla thủng 600 USD, điều gì xảy ra với "con cưng" của Elon Musk](https://cafebiz.vn/co-phieu-tesla-thung-600-usd-dieu-gi-xay-ra-voi-con-cung-cua-elon-musk-20210308153339081.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người dân đăng ký tiêm vắc xin COVID-19 như thế nào?](https://cafebiz.vn/nguoi-dan-dang-ky-tiem-vac-xin-covid-19-nhu-the-nao-20210308153537286.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đề xuất đầu tư 15 dự án giao thông trọng điểm](https://vnexpress.net/de-xuat-dau-tu-15-du-an-giao-thong-trong-diem-4245209.html) ([VNExpress](https://vnexpress.net))
+- [Những điều cần lưu ý trước và sau khi tiêm vaccine COVID-19](https://laodong.vn/infographic/nhung-dieu-can-luu-y-truoc-va-sau-khi-tiem-vaccine-covid-19-886903.ldo) ([Lao Động](https://laodong.vn))
+- [Nhà sáng lập Twitter rao bán dòng tweet đầu tiên dưới dạng token độc nhất, đã có người trả giá tới 2,5 triệu USD](https://cafebiz.vn/nha-sang-lap-twitter-rao-ban-dong-tweet-dau-tien-duoi-dang-token-doc-nhat-da-co-nguoi-tra-gia-toi-25-trieu-usd-20210308134552278.chn) ([CafeBiz](https://cafebiz.vn))
+- [Manulife: Lợi ích từ gia tăng nữ trong bộ máy lãnh đạo](https://laodong.vn/thong-tin-doanh-nghiep/manulife-loi-ich-tu-gia-tang-nu-trong-bo-may-lanh-dao-886141.ldo) ([Lao Động](https://laodong.vn))
+- [Đi làm 9 năm không thăng tiến trong khi đồng nghiệp mới vào 6 tháng đã được trọng dụng: Tôi bẽ bàng phát hiện ra 8 "vật cản" vô hình đẩy lùi sự nghiệp](https://cafebiz.vn/di-lam-9-nam-khong-thang-tien-trong-khi-dong-nghiep-moi-vao-6-thang-da-duoc-trong-dung-toi-be-bang-phat-hien-ra-8-vat-can-vo-hinh-day-lui-su-nghiep-20210308152838935.chn) ([CafeBiz](https://cafebiz.vn))
+- [An Giang: Đầu mùa khô, đã có hơn 7.000ha rừng nguy cơ cháy](https://laodong.vn/xa-hoi/an-giang-dau-mua-kho-da-co-hon-7000ha-rung-nguy-co-chay-886918.ldo) ([Lao Động](https://laodong.vn))
+- [Cây di sản cổ nhất tỉnh Long An đang “khát nước”](https://laodong.vn/ban-doc/cay-di-san-co-nhat-tinh-long-an-dang-khat-nuoc-886916.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -121,8 +121,8 @@
 06. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 07. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
-09. [Sub Urban - Cirque [Official Music Video]](https://www.youtube.com/watch?v=6vNh-QW6Hlc) - [Sub Urban](https://www.youtube.com/channel/UCqAil6_A1dWHdFXzOwVLqlg)
-10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
+09. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
+10. [Sub Urban - Cirque [Official Music Video]](https://www.youtube.com/watch?v=6vNh-QW6Hlc) - [Sub Urban](https://www.youtube.com/channel/UCqAil6_A1dWHdFXzOwVLqlg)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
