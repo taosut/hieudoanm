@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 21°C.
-- Feels Like 23.74°C.
-- Air Visual is 152.
+- Feels Like 23.02°C.
+- Air Visual is 156.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bị cáo Trịnh Xuân Thanh đề nghị cho gia đình tham gia phiên tòa](https://laodong.vn/phap-luat/bi-cao-trinh-xuan-thanh-de-nghi-cho-gia-dinh-tham-gia-phien-toa-886827.ldo) ([Lao Động](https://laodong.vn))
+- [Tại sao phụ nữ không nên nhận quà ngày 8/3?](https://cafebiz.vn/tai-sao-phu-nu-khong-nen-nhan-qua-ngay-8-3-20210308102051394.chn) ([CafeBiz](https://cafebiz.vn))
+- [The Economist: Giới công nghệ đang thay đổi và giờ là thời cơ của những kẻ muốn phá vỡ thế độc quyền!](https://cafebiz.vn/the-economist-gioi-cong-nghe-dang-thay-doi-va-gio-la-thoi-co-cua-nhung-ke-muon-pha-vo-the-doc-quyen-20210308102430793.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đại học Chính trị công bố phương thức tuyển sinh năm 2021](https://laodong.vn/giao-duc/dai-hoc-chinh-tri-cong-bo-phuong-thuc-tuyen-sinh-nam-2021-886826.ldo) ([Lao Động](https://laodong.vn))
+- [Nghị lực phi thường của người phụ nữ chạy xe ôm](https://laodong.vn/ban-doc/nghi-luc-phi-thuong-cua-nguoi-phu-nu-chay-xe-om-886701.ldo) ([Lao Động](https://laodong.vn))
+- [Nghệ An: Công đoàn chung tay “giải cứu” gần 500 tấn rau cho nông dân](https://laodong.vn/cong-doan/nghe-an-cong-doan-chung-tay-giai-cuu-gan-500-tan-rau-cho-nong-dan-886830.ldo) ([Lao Động](https://laodong.vn))
+- [Diễn viên Minh Tiệp tiết lộ lý do chưa bao giờ tặng quà 8.3 cho vợ](https://laodong.vn/emagazine/dien-vien-minh-tiep-tiet-lo-ly-do-chua-bao-gio-tang-qua-83-cho-vo-886452.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng sẽ đón nhiều dự án đầu tư tỉ đô](https://cafebiz.vn/hai-phong-se-don-nhieu-du-an-dau-tu-ti-do-20210308103223657.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thay lốp ôtô dự phòng và những điều cần lưu ý](https://laodong.vn/xe/thay-lop-oto-du-phong-va-nhung-dieu-can-luu-y-886747.ldo) ([Lao Động](https://laodong.vn))
-- [Doppelmayr và thương vụ 13 năm với Sun Group](https://laodong.vn/kinh-te/doppelmayr-va-thuong-vu-13-nam-voi-sun-group-886798.ldo) ([Lao Động](https://laodong.vn))
 - [Bố cục cuộc chơi ở mảng game của “cha đẻ” TikTok đã dần hé mở](https://cafebiz.vn/bo-cuc-cuoc-choi-o-mang-game-cua-cha-de-tiktok-da-dan-he-mo-20210308085959936.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giàu có bắt nguồn từ tư duy khác biệt: 5 kiểu suy nghĩ "đáng tiền" của người khôn ngoan](https://cafebiz.vn/giau-co-bat-nguon-tu-tu-duy-khac-biet-5-kieu-suy-nghi-dang-tien-cua-nguoi-khon-ngoan-202103081028556.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bỏ phụ cấp thâm niên, lương của giáo viên thay đổi ra sao?](https://laodong.vn/giao-duc/bo-phu-cap-tham-nien-luong-cua-giao-vien-thay-doi-ra-sao-886811.ldo) ([Lao Động](https://laodong.vn))
-- [Những bộ phim hài hay đáng xem nhân ngày 8.3](https://laodong.vn/giai-tri/nhung-bo-phim-hai-hay-dang-xem-nhan-ngay-83-886820.ldo) ([Lao Động](https://laodong.vn))
-- [Trung vệ Đức Chiến ổn sau ca phẫu thuật dây chằng](https://laodong.vn/bong-da/trung-ve-duc-chien-on-sau-ca-phau-thuat-day-chang-886813.ldo) ([Lao Động](https://laodong.vn))
-- ["Cô Trúc" Mai Thu Huyền: "Giờ tôi là CEO rồi nhưng vẫn có người bảo, sao hồi đấy nổi tiếng thế mà dại dột bỏ ngang"](https://cafebiz.vn/co-truc-mai-thu-huyen-gio-toi-la-ceo-roi-nhung-van-co-nguoi-bao-sao-hoi-day-noi-tieng-the-ma-dai-dot-bo-ngang-20210308095915821.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vợ cũ cưới giáo viên khoa học, tỷ phú Jeff Bezos liền nói một câu gây chú ý](https://cafebiz.vn/vo-cu-cuoi-giao-vien-khoa-hoc-ty-phu-jeff-bezos-lien-noi-mot-cau-gay-chu-y-20210308100459882.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Đi một dặm trong đôi giày nhân gian](https://vietcetera.com/vn/thau-hieu-va-thau-cam-khac-nhau-cho-nao)
 - [Ask A Senior: “Vượt qua cú sốc mất việc, mất người thân, chị dấn thân giúp hàng trăm bạn trẻ tìm việc mới.” ](https://vietcetera.com/vn/ask-a-senior-vuot-qua-cu-soc-mat-viec-mat-nguoi-than-chi-dan-than-giup-hang-tram-ban-tre-tim-viec-moi)
 - [Nguyễn Thị Thiên Thanh - CEO Edelman Việt Nam: Hãy lấy con người làm kim chỉ nam](https://vietcetera.com/vn/nguyen-thi-thien-thanh-ceo-edelman-hay-lay-con-nguoi-lam-kim-chi-nam)
 - ["Chị mong con trai chị hiểu rằng..."](https://vietcetera.com/vn/chi-mong-con-trai-chi-hieu-rang)
@@ -105,7 +106,6 @@
 - [10 Sự "lươn lẹo" để thấy đời không như là mơ](https://vietcetera.com/vn/10-kieu-luon-leo-de-thay-doi-khong-nhu-la-mo)
 - [Vì sao 4 thành viên Blackpink được chọn làm đại sứ thương hiệu cho Dior, Chanel, Saint Laurent, và Celine? ](https://vietcetera.com/vn/cac-hang-thoi-trang-chon-ai-trong-blackpink-lam-dai-su-thuong-hieu)
 - [5 Phim hành động Netflix cho cuối tuần thêm "gay cấn"](https://vietcetera.com/vn/5-phim-hanh-dong-netflix-cho-cuoi-tuan-them-gay-can)
-- [Loay hoay tìm nguồn cơn và cách thoát khỏi hố đen trầm cảm](https://vietcetera.com/vn/loay-hoay-tim-nguon-con-va-cach-thoat-khoi-ho-den-tram-cam)
 
 [Read More](https://vietcetera.com/)
 
