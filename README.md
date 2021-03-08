@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 22°C.
-- Feels Like 24.02°C.
-- Air Visual is 155.
+- Temperature is 23°C.
+- Feels Like 24.97°C.
+- Air Visual is 154.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [7 năm sau vụ MH370 mất tích: Cuộc tìm kiếm chưa có hồi kết](https://cafebiz.vn/7-nam-sau-vu-mh370-mat-tich-cuoc-tim-kiem-chua-co-hoi-ket-20210308135246919.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nguy cơ bùng nổ "bong bóng" tài sản trên toàn cầu](https://cafebiz.vn/nguy-co-bung-no-bong-bong-tai-san-tren-toan-cau-20210308134332667.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vợ ông Dũng "lò vôi" tiết lộ chuyện 15 năm trước: "Tôi sống nghĩa khí nên lao vào cứu anh Dũng mà một thời tôi bị thị phi"](https://cafebiz.vn/vo-ong-dung-lo-voi-tiet-lo-chuyen-15-nam-truoc-toi-song-nghia-khi-nen-lao-vao-cuu-anh-dung-ma-mot-thoi-toi-bi-thi-phi-20210308134841052.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dàn ái nữ "tứ nữ bất bần" giàu có và bí ẩn nhà "vua tôm" Minh Phú](https://cafebiz.vn/dan-ai-nu-tu-nu-bat-ban-giau-co-va-bi-an-nha-vua-tom-minh-phu-20210308134839064.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cận cảnh những mũi tiêm vắc xin COVID-19 đầu tiên ở "điểm nóng" Hải Dương](https://cafebiz.vn/can-canh-nhung-mui-tiem-vac-xin-covid-19-dau-tien-o-diem-nong-hai-duong-20210308134405056.chn) ([CafeBiz](https://cafebiz.vn))
+- [Danh tính chủ xe "Mẹc" hào phóng: Bị va quệt không bắt đền mà còn tặng tiền và xe máy cho người tông mình](https://cafebiz.vn/danh-tinh-chu-xe-mec-hao-phong-bi-va-quet-khong-bat-den-ma-con-tang-tien-va-xe-may-cho-nguoi-tong-minh-20210308114212936.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mất 2 năm giải mã khoản lỗ nghìn tỷ, ông "trùm giải cứu" Mai Hữu Tín kỳ vọng gì ở Gỗ Trường Thành?](https://cafebiz.vn/mat-2-nam-giai-ma-khoan-lo-nghin-ty-ong-trum-giai-cuu-mai-huu-tin-ky-vong-gi-o-go-truong-thanh-20210308134156692.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nhân viên y tế đầu tiên được tiêm vaccine COVID-19 nói gì sau khi tiêm?](https://laodong.vn/video/nhan-vien-y-te-dau-tien-duoc-tiem-vaccine-covid-19-noi-gi-sau-khi-tiem-886753.ldo) ([Lao Động](https://laodong.vn))
 - [Đại học Huế công bố 5 phương thức xét tuyển đại học năm 2021](https://laodong.vn/giao-duc/dai-hoc-hue-cong-bo-5-phuong-thuc-xet-tuyen-dai-hoc-nam-2021-886888.ldo) ([Lao Động](https://laodong.vn))
 - [Tăng cường thanh tra các lĩnh vực có nhiều nguy cơ về tiêu cực, tham nhũng](https://laodong.vn/thoi-su/tang-cuong-thanh-tra-cac-linh-vuc-co-nhieu-nguy-co-ve-tieu-cuc-tham-nhung-886884.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương: Bé gái 6 tuổi bị mẹ nhốt trong phòng, bạo hành nhiều lần](https://laodong.vn/phap-luat/hai-duong-be-gai-6-tuoi-bi-me-nhot-trong-phong-bao-hanh-nhieu-lan-886868.ldo) ([Lao Động](https://laodong.vn))
-- [Rồng nhỏ Kim Tiểu Long và những nỗ lực của một doanh nhân](https://cafebiz.vn/rong-nho-kim-tieu-long-va-nhung-no-luc-cua-mot-doanh-nhan-20210308121325422.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ý tưởng hộ chiếu vaccine: Cuộc tranh luận chưa có hồi kết](https://laodong.vn/the-gioi/y-tuong-ho-chieu-vaccine-cuoc-tranh-luan-chua-co-hoi-ket-886681.ldo) ([Lao Động](https://laodong.vn))
-- [Đã tiến hành kỷ luật 21 ủy viên, nguyên ủy viên trung ương, 22 tướng công an, quân đội](https://laodong.vn/thoi-su/da-tien-hanh-ky-luat-21-uy-vien-nguyen-uy-vien-trung-uong-22-tuong-cong-an-quan-doi-886869.ldo) ([Lao Động](https://laodong.vn))
-- [MH370: Những người chọn quên đi thảm kịch để sống tiếp](https://laodong.vn/the-gioi/mh370-nhung-nguoi-chon-quen-di-tham-kich-de-song-tiep-886861.ldo) ([Lao Động](https://laodong.vn))
-- [Hé lộ lập trường của chính quyền ông Biden về rút lính Mỹ khỏi Afghanistan](https://laodong.vn/the-gioi/he-lo-lap-truong-cua-chinh-quyen-ong-biden-ve-rut-linh-my-khoi-afghanistan-886876.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút: Mức lệ phí làm thẻ căn cước công dân gắn chip trước 30.6](https://laodong.vn/video/ban-tin-1-phut-muc-le-phi-lam-the-can-cuoc-cong-dan-gan-chip-truoc-306-886863.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
