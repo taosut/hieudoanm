@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is fog.
+- Current weather is light intensity drizzle.
 - Temperature is 20°C.
 - Feels Like 22.98°C.
-- Air Visual is 169.
+- Air Visual is 160.
 
 **WEATHER**
 
@@ -52,19 +52,19 @@
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Bayern Munich](https://img.shields.io/static/v1?label=Bayern%20Munich&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern%20Munich)
 - [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
-- [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
-- [![Hoa tiền](https://img.shields.io/static/v1?label=Hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20ti%E1%BB%81n)
+- [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
+- [![Lịch sử ngày 8/3](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20s%E1%BB%AD%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20s%E1%BB%AD%20ng%C3%A0y%208/3)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
-- [![MU vs Man City](https://img.shields.io/static/v1?label=MU%20vs%20Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20Man%20City)
-- [![Ngày 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208/3)
+- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
 - [![Penthouses Cuộc chiến thượng lưu tập 6](https://img.shields.io/static/v1?label=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%20t%E1%BA%ADp%206)
 - [![Raya](https://img.shields.io/static/v1?label=Raya&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Southampton](https://img.shields.io/static/v1?label=Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Southampton)
+- [![Thế Giới Di dong](https://img.shields.io/static/v1?label=Th%E1%BA%BF%20Gi%E1%BB%9Bi%20Di%20dong&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BA%BF%20Gi%E1%BB%9Bi%20Di%20dong)
+- [![Trần Vĩnh Tuyến](https://img.shields.io/static/v1?label=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A7n%20V%C4%A9nh%20Tuy%E1%BA%BFn)
 - [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
 - [![UFC 259](https://img.shields.io/static/v1?label=UFC%20259&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UFC%20259)
 - [![Đặng Thu Huyền](https://img.shields.io/static/v1?label=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [4 thái độ đúng đắn của người BIẾT ĐỌC: Đọc sách mù quáng chỉ ôm thất bại](https://cafebiz.vn/4-thai-do-dung-dan-cua-nguoi-biet-doc-doc-sach-mu-quang-chi-om-that-bai-20210220193129384.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ngô Thanh Vân, Trương Ngọc Ánh và các nữ đạo diễn, nhà sản xuất tài năng](https://laodong.vn/van-hoa/ngo-thanh-van-truong-ngoc-anh-va-cac-nu-dao-dien-nha-san-xuat-tai-nang-886736.ldo) ([Lao Động](https://laodong.vn))
-- [Dấu hiệu giúp nhận biết xe ôtô sử dụng xăng kém chất lượng](https://laodong.vn/xe/dau-hieu-giup-nhan-biet-xe-oto-su-dung-xang-kem-chat-luong-886740.ldo) ([Lao Động](https://laodong.vn))
-- [Chuẩn bị cho SEA Games 31, U22 Indonesia tiếp tục thắng giòn giã](https://laodong.vn/bong-da/chuan-bi-cho-sea-games-31-u22-indonesia-tiep-tuc-thang-gion-gia-886735.ldo) ([Lao Động](https://laodong.vn))
-- [Lịch thi đấu bóng đá ngày 8.3: Tâm điểm Chelsea - Everton](https://laodong.vn/lich-thi-dau/lich-thi-dau-bong-da-ngay-83-tam-diem-chelsea-everton-886758.ldo) ([Lao Động](https://laodong.vn))
-- [Một ngày làm việc của nữ điều dưỡng tại &quot;điểm nóng&quot; điều trị COVID-19](https://laodong.vn/video-thoi-su/mot-ngay-lam-viec-cua-nu-dieu-duong-tai-diem-nong-dieu-tri-covid-19-886627.ldo) ([Lao Động](https://laodong.vn))
-- [Lao động nước ngoài làm việc tại Việt Nam, cần điều kiện gì?](https://laodong.vn/tu-van-phap-luat/lao-dong-nuoc-ngoai-lam-viec-tai-viet-nam-can-dieu-kien-gi-886105.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ cũ tỉ phú Jeff Bezos cưới giáo viên khoa học](https://laodong.vn/the-gioi/vo-cu-ti-phu-jeff-bezos-cuoi-giao-vien-khoa-hoc-886754.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Quà tặng 8.3 là điều rất xa vời, chỉ mong có nhiều sức khoẻ để mưu sinh&quot;](https://laodong.vn/xa-hoi/qua-tang-83-la-dieu-rat-xa-voi-chi-mong-co-nhieu-suc-khoe-de-muu-sinh-886705.ldo) ([Lao Động](https://laodong.vn))
-- [Google Doodle có video đặc biệt tôn vinh ngày Quốc tế phụ nữ 8.3](https://laodong.vn/the-gioi/google-doodle-co-video-dac-biet-ton-vinh-ngay-quoc-te-phu-nu-83-886756.ldo) ([Lao Động](https://laodong.vn))
+- [Huấn luyện viên Kiatisak chúc mừng Dusit và nhà vô địch Thai League](https://laodong.vn/bong-da/huan-luyen-vien-kiatisak-chuc-mung-dusit-va-nha-vo-dich-thai-league-886772.ldo) ([Lao Động](https://laodong.vn))
+- [Những mũi vaccine đầu tiên tiêm cho nhân viên y tế tại TPHCM](https://laodong.vn/y-te/nhung-mui-vaccine-dau-tien-tiem-cho-nhan-vien-y-te-tai-tphcm-886757.ldo) ([Lao Động](https://laodong.vn))
+- [SHB liệu có bứt phá toàn diện sau “cú hích” ấn tượng năm 2020?](https://laodong.vn/kinh-te/shb-lieu-co-but-pha-toan-dien-sau-cu-hich-an-tuong-nam-2020-886481.ldo) ([Lao Động](https://laodong.vn))
+- [Những trường hợp được miễn thuế sử dụng đất nông nghiệp](https://laodong.vn/bat-dong-san/nhung-truong-hop-duoc-mien-thue-su-dung-dat-nong-nghiep-886712.ldo) ([Lao Động](https://laodong.vn))
+- [Đồng bitcoin đang đương đầu với thách thức gì lớn nhất?](https://cafebiz.vn/dong-bitcoin-dang-duong-dau-voi-thach-thuc-gi-lon-nhat-20210308085859174.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nữ bác sĩ được tiêm vắc xin ngừa Covid-19 đầu tiên tại TP.HCM: “Đây là "món quà" 8/3 ý nghĩa nhất mà mình nhận được”](https://cafebiz.vn/nu-bac-si-duoc-tiem-vac-xin-ngua-covid-19-dau-tien-tai-tphcm-day-la-mon-qua-8-3-y-nghia-nhat-ma-minh-nhan-duoc-20210308085353543.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuyện về người phụ nữ vĩ đại trong trụ sở bí mật của C.I.A: Nữ "điệp viên" quan trọng của cả Trái đất nhưng chẳng được ai ghi nhận](https://cafebiz.vn/chuyen-ve-nguoi-phu-nu-vi-dai-trong-tru-so-bi-mat-cua-cia-nu-diep-vien-quan-trong-cua-ca-trai-dat-nhung-chang-duoc-ai-ghi-nhan-20210308085236149.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chứng khoán Việt Nam từ vực sâu trở lại đỉnh cao sau 1 năm Covid](https://cafebiz.vn/chung-khoan-viet-nam-tu-vuc-sau-tro-lai-dinh-cao-sau-1-nam-covid-20210308085234976.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sáng 8/3, không có ca mắc COVID-19 mới, hơn 45.000 người vẫn phải cách ly](https://cafebiz.vn/sang-8-3-khong-co-ca-mac-covid-19-moi-hon-45000-nguoi-van-phai-cach-ly-20210308085208442.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giao lưu trực tuyến: Khi nào người dân được đăng ký tiêm vắc xin COVID-19?](https://tuoitre.vn/giao-luu-truc-tuyen-khi-nao-nguoi-dan-duoc-dang-ky-tiem-vac-xin-covid-19-20210307142757007.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
