@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 25.17°C.
-- Air Visual is 139.
+- Feels Like 25.53°C.
+- Air Visual is 148.
 
 **WEATHER**
 
@@ -48,14 +48,11 @@
 
 **GOOGLE TRENDS**
 
-- [![8.3](https://img.shields.io/static/v1?label=8.3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8.3)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
-- [![Bó hoa tiền](https://img.shields.io/static/v1?label=B%C3%B3%20hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3%20hoa%20ti%E1%BB%81n)
-- [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Lời chúc 8/3 cho cô giáo](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20c%C3%B4%20gi%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20c%C3%B4%20gi%C3%A1o)
+- [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
@@ -67,7 +64,10 @@
 - [![Qua tang 8/3](https://img.shields.io/static/v1?label=Qua%20tang%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qua%20tang%208/3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
+- [![Thế Giới Di dong](https://img.shields.io/static/v1?label=Th%E1%BA%BF%20Gi%E1%BB%9Bi%20Di%20dong&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BA%BF%20Gi%E1%BB%9Bi%20Di%20dong)
 - [![Truc tiep ngoai hang Anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20Anh)
+- [![Trưc tiep bong da](https://img.shields.io/static/v1?label=Tr%C6%B0c%20tiep%20bong%20da&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0c%20tiep%20bong%20da)
+- [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,6 +75,9 @@
 
 **NEWS**
 
+- [Sếp cần phê bình như thế nào để nhân viên tâm phục khẩu phục?](https://cafebiz.vn/sep-can-phe-binh-nhu-the-nao-de-nhan-vien-tam-phuc-khau-phuc-20210308172020857.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phật giáo chỉ ra 4 kiểu người phúc mỏng mệnh khổ: Hãy xem bạn có nằm trong số đó hay không](https://cafebiz.vn/phat-giao-chi-ra-4-kieu-nguoi-phuc-mong-menh-kho-hay-xem-ban-co-nam-trong-so-do-hay-khong-20210308164203301.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dự đoán chi tiết tổng quan cuộc sống của 12 con giáp trong tuần mới 8/3 - 14/3: Tuổi Tỵ tìm được mục tiêu mới, tuổi Hợi gặp được người thương yêu](https://cafebiz.vn/du-doan-chi-tiet-tong-quan-cuoc-song-cua-12-con-giap-trong-tuan-moi-8-3-14-3-tuoi-ty-tim-duoc-muc-tieu-moi-tuoi-hoi-gap-duoc-nguoi-thuong-yeu-20210308170344876.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắt đối tượng vận chuyển 30.000 viên hồng phiến](https://laodong.vn/phap-luat/bat-doi-tuong-van-chuyen-30000-vien-hong-phien-887080.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất hôm nay:Lãnh đạo nước ngoài đầu tiên đến Nhà Trắng thời ông Biden](https://laodong.vn/video-the-gioi/nong-nhat-hom-naylanh-dao-nuoc-ngoai-dau-tien-den-nha-trang-thoi-ong-biden-887014.ldo) ([Lao Động](https://laodong.vn))
 - [Xem máy bay Israel hộ tống B-52 Mỹ để &quot;thị uy&quot; Iran](https://laodong.vn/the-gioi/xem-may-bay-israel-ho-tong-b-52-my-de-thi-uy-iran-887000.ldo) ([Lao Động](https://laodong.vn))
@@ -82,9 +85,6 @@
 - [Tháng sinh tiết lộ điều gì về tính cách và tài vận của bạn trong năm 2021 Tân Sửu?](https://cafebiz.vn/thang-sinh-tiet-lo-dieu-gi-ve-tinh-cach-va-tai-van-cua-ban-trong-nam-2021-tan-suu-20210308171132494.chn) ([CafeBiz](https://cafebiz.vn))
 - [Apple ngừng sản xuất iMac Pro](https://laodong.vn/cong-nghe/apple-ngung-san-xuat-imac-pro-886981.ldo) ([Lao Động](https://laodong.vn))
 - [Nếu năm xưa không phát động trận Di Lăng đánh Tôn Quyền, liệu Lưu Bị có thể bảo toàn được lực lượng và thống nhất thiên hạ?](https://cafebiz.vn/neu-nam-xua-khong-phat-dong-tran-di-lang-danh-ton-quyen-lieu-luu-bi-co-the-bao-toan-duoc-luc-luong-va-thong-nhat-thien-ha-20210308163700563.chn) ([CafeBiz](https://cafebiz.vn))
-- [Con gái Minh Nhựa: ‘Một đứa 21 tuổi như em sao tự mua chiếc xe đắt như Porsche 911 được’](https://cafebiz.vn/con-gai-minh-nhua-mot-dua-21-tuoi-nhu-em-sao-tu-mua-chiec-xe-dat-nhu-porsche-911-duoc-2021030820252319.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chỉ cách chức nguyên Bí thư Thành ủy TP.HCM với ông Lê Thanh Hải là chưa "quyết liệt"](http://vietnamnet.vn/vn/thoi-su/chinh-tri/chi-cach-chuc-nguyen-bi-thu-thanh-uy-tp-hcm-voi-ong-le-thanh-hai-la-chua-quyet-liet-718112.html) ([VietNamNet](https://vietnamnet.vn))
-- [Biết rõ dấu hiệu ung thư vòm họng giai đoạn đầu, cơ hội sống sót lên tới 72%: Đâu là cách phòng ngừa?](https://cafebiz.vn/biet-ro-dau-hieu-ung-thu-vom-hong-giai-doan-dau-co-hoi-song-sot-len-toi-72-dau-la-cach-phong-ngua-20210308165939981.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -139,7 +139,7 @@
 07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 08. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
 09. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
+10. [Highlights Bayern Munich vs Dortmund | Haaland gọi cú đúp - Lewandowski trả lời bằng hat-trick](https://www.youtube.com/watch?v=fVtAlF8ylxE) - [MÃN NHÃN TV](https://www.youtube.com/channel/UCoqrrrfDpWOgdqw1vRoiG_A)
 
 [Read More](https://www.youtube.com/feed/trending)
 
