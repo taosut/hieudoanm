@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 24.81°C.
-- Air Visual is 154.
+- Feels Like 25.53°C.
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Sinh viên từ Hải Dương trở lại Hà Nội phải cách ly tại nhà 14 ngày](https://laodong.vn/xa-hoi/sinh-vien-tu-hai-duong-tro-lai-ha-noi-phai-cach-ly-tai-nha-14-ngay-887041.ldo) ([Lao Động](https://laodong.vn))
+- [Phố đi bộ Hồ Gươm được hoạt động trở lại từ ngày 12.3](https://laodong.vn/xa-hoi/pho-di-bo-ho-guom-duoc-hoat-dong-tro-lai-tu-ngay-123-886999.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng dỡ bỏ điểm phong tỏa cuối cùng](https://vnexpress.net/hai-phong-do-bo-diem-phong-toa-cuoi-cung-4245351.html) ([VNExpress](https://vnexpress.net))
+- [12 ca mắc COVID-19, trong đó 11 ca nhập cảnh](https://laodong.vn/y-te/12-ca-mac-covid-19-trong-do-11-ca-nhap-canh-887003.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: 3 quán bia bị xử phạt vì mở nhạc gây ồn sau 22h](https://laodong.vn/ban-doc/tphcm-3-quan-bia-bi-xu-phat-vi-mo-nhac-gay-on-sau-22h-887016.ldo) ([Lao Động](https://laodong.vn))
+- [Khám, chữa bệnh bảo hiểm y tế trái tuyến được hỗ trợ bao nhiêu?](https://laodong.vn/ban-doc/kham-chua-benh-bao-hiem-y-te-trai-tuyen-duoc-ho-tro-bao-nhieu-887006.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ tiếp viên hàng không làm lây lan dịch: Xử lý sai phạm tại khu cách ly](https://laodong.vn/xa-hoi/vu-tiep-vien-hang-khong-lam-lay-lan-dich-xu-ly-sai-pham-tai-khu-cach-ly-887002.ldo) ([Lao Động](https://laodong.vn))
+- [Sau bữa tiệc, 6 người suy hô hấp, viêm não: 3 người đã tử vong](https://laodong.vn/xa-hoi/sau-bua-tiec-6-nguoi-suy-ho-hap-viem-nao-3-nguoi-da-tu-vong-887011.ldo) ([Lao Động](https://laodong.vn))
 - [Tập đoàn Trung Thủy trở lại thị trường bất động sản Hà Nội với dự án phức hợp "bắt tay" với ông lớn Nhật Takashimaya](https://cafebiz.vn/tap-doan-trung-thuy-tro-lai-thi-truong-bat-dong-san-ha-noi-voi-du-an-phuc-hop-bat-tay-voi-ong-lon-nhat-takashimaya-20210308173323646.chn) ([CafeBiz](https://cafebiz.vn))
-- [Gãy đà tăng, giá vàng tiếp tục chìm sâu](https://laodong.vn/kinh-te/gay-da-tang-gia-vang-tiep-tuc-chim-sau-887004.ldo) ([Lao Động](https://laodong.vn))
 - [Trung ương thảo luận về nhân sự một số chức danh lãnh đạo cơ quan Nhà nước](https://laodong.vn/thoi-su/trung-uong-thao-luan-ve-nhan-su-mot-so-chuc-danh-lanh-dao-co-quan-nha-nuoc-886987.ldo) ([Lao Động](https://laodong.vn))
-- [4 lời khuyên khởi nghiệp từ người sáng lập công ty tỷ USD](https://cafebiz.vn/4-loi-khuyen-khoi-nghiep-tu-nguoi-sang-lap-cong-ty-ty-usd-20210308161256084.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chùa Hương mở cửa đón khách](https://vnexpress.net/chua-huong-mo-cua-don-khach-4245345.html) ([VNExpress](https://vnexpress.net))
-- [Nhiệm kỳ đầu của Laporta ở Barcelona có phải toàn màu hồng?](https://laodong.vn/bong-da-quoc-te/nhiem-ky-dau-cua-laporta-o-barcelona-co-phai-toan-mau-hong-886934.ldo) ([Lao Động](https://laodong.vn))
-- [Được đóng bảo hiểm xã hội tự nguyện 1 lần 9 năm để nghỉ hưu sớm không?](https://laodong.vn/ban-doc/duoc-dong-bao-hiem-xa-hoi-tu-nguyen-1-lan-9-nam-de-nghi-huu-som-khong-886993.ldo) ([Lao Động](https://laodong.vn))
-- [Nghẹn ngào nhớ lại giây phút chống dịch của nữ bác sĩ ở Chí Linh, Hải Dương](https://laodong.vn/xa-hoi/nghen-ngao-nho-lai-giay-phut-chong-dich-cua-nu-bac-si-o-chi-linh-hai-duong-886926.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương tiếp tục lùi lịch giao tân binh](https://vnexpress.net/hai-duong-tiep-tuc-lui-lich-giao-tan-binh-4245290.html) ([VNExpress](https://vnexpress.net))
-- [Thiên thạch này có giá cao hơn cả vàng: nó nắm giữ bí mật về sự sống](https://cafebiz.vn/thien-thach-nay-co-gia-cao-hon-ca-vang-no-nam-giu-bi-mat-ve-su-song-20210308134828993.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Tóm Lại Là: 8/3 nói chuyện vai trò đàn bà và đàn ông](https://vietcetera.com/vn/tom-lai-la-83-noi-chuyen-vai-tro-dan-ba-va-dan-ong)
 - [Promising Young Woman: Cuộc báo thù hoang dại. Và đau đớn](https://vietcetera.com/vn/promising-young-woman-cuoc-bao-thu-hoang-dai-va-dau-don)
 - [Ngắm tranh, ăn tối, tạm quên sự đời: ghé Lavelle Library](https://vietcetera.com/vn/ngam-tranh-an-toi-tam-quen-su-doi-ghe-lavelle-library)
 - [Đi một dặm trong đôi giày nhân gian](https://vietcetera.com/vn/thau-hieu-va-thau-cam-khac-nhau-cho-nao)
@@ -105,7 +106,6 @@
 - [Bóc Term: Định nghĩa lại Bimbo trong thế kỷ 21!](https://vietcetera.com/vn/boc-term-dinh-nghia-lai-bimbo-trong-the-ky-21)
 - [Nhung Lê và những bức minh họa phụ nữ truyền cảm hứng](https://vietcetera.com/vn/nhung-le-va-nhung-buc-minh-hoa-phu-nu-truyen-cam-hung)
 - [Raya and The Last Dragon: Thế giới đổ nát là do chính chúng ta?](https://vietcetera.com/vn/raya-and-the-last-dragon-the-gioi-do-nat-la-do-chinh-chung-ta)
-- [10 Sự "lươn lẹo" để thấy đời không như là mơ](https://vietcetera.com/vn/10-kieu-luon-leo-de-thay-doi-khong-nhu-la-mo)
 
 [Read More](https://vietcetera.com/)
 
