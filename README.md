@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 22°C.
 - Feels Like 24.54°C.
-- Air Visual is 105.
+- Air Visual is 95.
 
 **WEATHER**
 
@@ -48,25 +48,25 @@
 
 **GOOGLE TRENDS**
 
-- [![8-3 là ngày gì](https://img.shields.io/static/v1?label=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC)
 - [![8.3](https://img.shields.io/static/v1?label=8.3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8.3)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
-- [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
+- [![Bó hoa](https://img.shields.io/static/v1?label=B%C3%B3%20hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3%20hoa)
+- [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
+- [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
+- [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
-- [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
 - [![Mina (AOA](https://img.shields.io/static/v1?label=Mina%20(AOA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mina%20(AOA)
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
-- [![Ngày 8-3](https://img.shields.io/static/v1?label=Ng%C3%A0y%208-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208-3)
+- [![Ngay 8/3](https://img.shields.io/static/v1?label=Ngay%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ngay%208/3)
 - [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Truc tiep ngoai hang Anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20Anh)
-- [![Trưc tiep bong da](https://img.shields.io/static/v1?label=Tr%C6%B0c%20tiep%20bong%20da&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0c%20tiep%20bong%20da)
 - [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -121,8 +121,8 @@
 06. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 07. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
-09. [Sub Urban - Cirque [Official Music Video]](https://www.youtube.com/watch?v=6vNh-QW6Hlc) - [Sub Urban](https://www.youtube.com/channel/UCqAil6_A1dWHdFXzOwVLqlg)
-10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
+09. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+10. [Sub Urban - Cirque [Official Music Video]](https://www.youtube.com/watch?v=6vNh-QW6Hlc) - [Sub Urban](https://www.youtube.com/channel/UCqAil6_A1dWHdFXzOwVLqlg)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -133,8 +133,8 @@
 01. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 03. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-04. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-05. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
+04. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
+05. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 08. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
