@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 22°C.
 - Feels Like 24.54°C.
-- Air Visual is 131.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Nhà thờ ở Sài Gòn được tổ chức thánh lễ trở lại](https://vnexpress.net/nha-tho-o-sai-gon-duoc-to-chuc-thanh-le-tro-lai-4245415.html) ([VNExpress](https://vnexpress.net))
 - [Bình Phước: Nữ đoàn viên Công đoàn duyên dáng trong tà áo dài đến làm việc](https://laodong.vn/ldld-binh-phuoc/binh-phuoc-nu-doan-vien-cong-doan-duyen-dang-trong-ta-ao-dai-den-lam-viec-887083.ldo) ([Lao Động](https://laodong.vn))
 - [Có đường dây đưa người Trung Quốc vào Việt Nam để sang Campuchia?](https://tuoitre.vn/co-duong-day-dua-nguoi-trung-quoc-vao-viet-nam-de-sang-campuchia-20210308221503855.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Đi xe máy điện gây tai nạn chết người rồi bỏ trốn](https://laodong.vn/phap-luat/di-xe-may-dien-gay-tai-nan-chet-nguoi-roi-bo-tron-887084.ldo) ([Lao Động](https://laodong.vn))
@@ -84,7 +85,6 @@
 - [Kinh tế 24h: Giá vàng rơi tự do, nên mua vào hay bán gấp?](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-roi-tu-do-nen-mua-vao-hay-ban-gap-887074.ldo) ([Lao Động](https://laodong.vn))
 - [Phật giáo chỉ ra 4 kiểu người phúc mỏng mệnh khổ: Hãy xem bạn có nằm trong số đó hay không](https://cafebiz.vn/phat-giao-chi-ra-4-kieu-nguoi-phuc-mong-menh-kho-hay-xem-ban-co-nam-trong-so-do-hay-khong-20210308164203301.chn) ([CafeBiz](https://cafebiz.vn))
 - [Dự đoán chi tiết tổng quan cuộc sống của 12 con giáp trong tuần mới 8/3 - 14/3: Tuổi Tỵ tìm được mục tiêu mới, tuổi Hợi gặp được người thương yêu](https://cafebiz.vn/du-doan-chi-tiet-tong-quan-cuoc-song-cua-12-con-giap-trong-tuan-moi-8-3-14-3-tuoi-ty-tim-duoc-muc-tieu-moi-tuoi-hoi-gap-duoc-nguoi-thuong-yeu-20210308170344876.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt đối tượng vận chuyển 30.000 viên hồng phiến](https://laodong.vn/phap-luat/bat-doi-tuong-van-chuyen-30000-vien-hong-phien-887080.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
