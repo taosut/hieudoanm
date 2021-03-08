@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 24.09°C.
-- Air Visual is 159.
+- Feels Like 24.81°C.
+- Air Visual is 154.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tây Ninh: CĐCS tặng quà cho 100 nữ đoàn viên, công nhân lao động khó khăn](https://laodong.vn/cong-doan/tay-ninh-cdcs-tang-qua-cho-100-nu-doan-vien-cong-nhan-lao-dong-kho-khan-886974.ldo) ([Lao Động](https://laodong.vn))
+- [Nghẹn ngào nhớ lại giây phút chống dịch của nữ bác sĩ ở Chí Linh, Hải Dương](https://laodong.vn/xa-hoi/nghen-ngao-nho-lai-giay-phut-chong-dich-cua-nu-bac-si-o-chi-linh-hai-duong-886926.ldo) ([Lao Động](https://laodong.vn))
+- [Lịch nghỉ lễ 30.4 và 1.5 năm 2021 của công chức, người lao động](https://laodong.vn/cong-doan/lich-nghi-le-304-va-15-nam-2021-cua-cong-chuc-nguoi-lao-dong-886979.ldo) ([Lao Động](https://laodong.vn))
+- [Tây Ninh: Tặng quà cho 2.383 nữ công nhân lao động ngày Quốc tế Phụ nữ](https://laodong.vn/cong-doan/tay-ninh-tang-qua-cho-2383-nu-cong-nhan-lao-dong-ngay-quoc-te-phu-nu-886991.ldo) ([Lao Động](https://laodong.vn))
+- [Những ca khúc nữ quyền của Kpop: Blackpink, SNSD, 2NE1 để lại dấu ấn](https://laodong.vn/giai-tri/nhung-ca-khuc-nu-quyen-cua-kpop-blackpink-snsd-2ne1-de-lai-dau-an-886744.ldo) ([Lao Động](https://laodong.vn))
+- [Cựu tuyển thủ Vũ Như Thành chỉ ra điểm mình giống Đình Trọng](https://laodong.vn/bong-da/cuu-tuyen-thu-vu-nhu-thanh-chi-ra-diem-minh-giong-dinh-trong-886963.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương tiếp tục lùi lịch giao tân binh](https://vnexpress.net/hai-duong-tiep-tuc-lui-lich-giao-tan-binh-4245290.html) ([VNExpress](https://vnexpress.net))
 - [Thiên thạch này có giá cao hơn cả vàng: nó nắm giữ bí mật về sự sống](https://cafebiz.vn/thien-thach-nay-co-gia-cao-hon-ca-vang-no-nam-giu-bi-mat-ve-su-song-20210308134828993.chn) ([CafeBiz](https://cafebiz.vn))
 - [Xu hướng giải trí mùa dịch: Esports lên ngôi, cơ hội vàng cho các nhà tài trợ](https://cafebiz.vn/xu-huong-giai-tri-mua-dich-esports-len-ngoi-co-hoi-vang-cho-cac-nha-tai-tro-20210308164038197.chn) ([CafeBiz](https://cafebiz.vn))
 - [CEO Nhất Tín Logistics: Trong đại dịch, con người vẫn luôn là ưu tiên hàng đầu của chúng tôi](https://cafebiz.vn/ceo-nhat-tin-logistics-trong-dai-dich-con-nguoi-van-luon-la-uu-tien-hang-dau-cua-chung-toi-20210308154304427.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đồng Nai: Phấn đấu đến cuối năm 2021 có 2.800 sáng kiến cải tiến kỹ thuật](https://laodong.vn/cong-doan/dong-nai-phan-dau-den-cuoi-nam-2021-co-2800-sang-kien-cai-tien-ky-thuat-886976.ldo) ([Lao Động](https://laodong.vn))
-- [Bạc Liêu: Lần đầu tiên DN đặt hàng LĐ khi cơ sở đào tạo mới tuyển sinh](https://laodong.vn/viec-lam/bac-lieu-lan-dau-tien-dn-dat-hang-ld-khi-co-so-dao-tao-moi-tuyen-sinh-886983.ldo) ([Lao Động](https://laodong.vn))
-- [Lãi suất huy động tại ngân hàng vượt 7%/năm](https://laodong.vn/kinh-te/lai-suat-huy-dong-tai-ngan-hang-vuot-7nam-886982.ldo) ([Lao Động](https://laodong.vn))
-- [CĐ Viên chức Thái Bình tặng quà 8.3 nữ CNVCLĐ ở đơn vị đặc thù](https://laodong.vn/cong-doan/cd-vien-chuc-thai-binh-tang-qua-83-nu-cnvcld-o-don-vi-dac-thu-886971.ldo) ([Lao Động](https://laodong.vn))
-- [Toàn văn phát biểu khai mạc Hội nghị Trung ương 2 của Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng](https://tuoitre.vn/toan-van-phat-bieu-khai-mac-hoi-nghi-trung-uong-2-cua-tong-bi-thu-chu-tich-nuoc-nguyen-phu-trong-20210308170538746.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [“Chia tay” khu đất vàng Hàng Bài, Tân Hoàng Minh rót 900 tỷ đồng hồi sinh 1 công ty âm vốn hàng trăm tỷ nhưng nắm giữ nhiều BĐS](https://cafebiz.vn/chia-tay-khu-dat-vang-hang-bai-tan-hoang-minh-rot-900-ty-dong-hoi-sinh-1-cong-ty-am-von-hang-tram-ty-nhung-nam-giu-nhieu-bds-2021030817122314.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chỉ đạo khẩn về xử lý tiếp vụ sai phạm tại khu cách ly của Vietnam Airlines.](http://vietnamnet.vn/vn/thoi-su/chi-dao-khan-ve-xu-ly-tiep-vu-sai-pham-tai-khu-cach-ly-cua-vietnam-airlines-718084.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Promising Young Woman: Cuộc báo thù hoang dại. Và đau đớn](https://vietcetera.com/vn/promising-young-woman-cuoc-bao-thu-hoang-dai-va-dau-don)
 - [Ngắm tranh, ăn tối, tạm quên sự đời: ghé Lavelle Library](https://vietcetera.com/vn/ngam-tranh-an-toi-tam-quen-su-doi-ghe-lavelle-library)
 - [Đi một dặm trong đôi giày nhân gian](https://vietcetera.com/vn/thau-hieu-va-thau-cam-khac-nhau-cho-nao)
 - ["Vượt qua những cú sốc, chị dấn thân giúp hàng trăm bạn trẻ tìm việc mới.”](https://vietcetera.com/vn/vuot-qua-nhung-cu-soc-chi-dan-than-giup-hang-tram-ban-tre-tim-viec-moi)
@@ -105,7 +106,6 @@
 - [Nhung Lê và những bức minh họa phụ nữ truyền cảm hứng](https://vietcetera.com/vn/nhung-le-va-nhung-buc-minh-hoa-phu-nu-truyen-cam-hung)
 - [Raya and The Last Dragon: Thế giới đổ nát là do chính chúng ta?](https://vietcetera.com/vn/raya-and-the-last-dragon-the-gioi-do-nat-la-do-chinh-chung-ta)
 - [10 Sự "lươn lẹo" để thấy đời không như là mơ](https://vietcetera.com/vn/10-kieu-luon-leo-de-thay-doi-khong-nhu-la-mo)
-- [Vì sao 4 thành viên Blackpink được chọn làm đại sứ thương hiệu cho Dior, Chanel, Saint Laurent, và Celine? ](https://vietcetera.com/vn/cac-hang-thoi-trang-chon-ai-trong-blackpink-lam-dai-su-thuong-hieu)
 
 [Read More](https://vietcetera.com/)
 
