@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 25.17°C.
-- Air Visual is 155.
+- Feels Like 24.09°C.
+- Air Visual is 159.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nhà đầu tư F0 đổ xô vào bất động sản, trước khi xuống tiền cần phải làm gì?](https://cafebiz.vn/nha-dau-tu-f0-do-xo-vao-bat-dong-san-truoc-khi-xuong-tien-can-phai-lam-gi-20210308170321316.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vụ Ethanol Phú Thọ: Bị cáo nói chống lại chủ trương của PVN là nghỉ việc](https://laodong.vn/phap-luat/vu-ethanol-phu-tho-bi-cao-noi-chong-lai-chu-truong-cua-pvn-la-nghi-viec-886962.ldo) ([Lao Động](https://laodong.vn))
-- [Trường hợp nào có thể ủy quyền cho vợ nhận lương thay chồng?](https://cafebiz.vn/truong-hop-nao-co-the-uy-quyen-cho-vo-nhan-luong-thay-chong-20210308170216052.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đà Nẵng: Đầu tư 8.000 tỉ đồng xây nhà ở xã hội cho NLĐ khó khăn](https://laodong.vn/cong-doan/da-nang-dau-tu-8000-ti-dong-xay-nha-o-xa-hoi-cho-nld-kho-khan-886970.ldo) ([Lao Động](https://laodong.vn))
-- [Nổ mìn tại miền Trung Syria gây thương vong lớn](https://laodong.vn/the-gioi/no-min-tai-mien-trung-syria-gay-thuong-vong-lon-886973.ldo) ([Lao Động](https://laodong.vn))
-- ["Bố già" lập kỷ lục doanh thu 30 tỷ đồng trong ngày đầu ra mắt, công ty đứng sau được sáng lập và góp 80% vốn bởi Chủ tịch Trấn Thành](https://cafebiz.vn/bo-gia-lap-ky-luc-doanh-thu-30-ty-dong-trong-ngay-dau-ra-mat-cong-ty-dung-sau-duoc-sang-lap-va-gop-80-von-boi-chu-tich-tran-thanh-20210308170040002.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Ngôi sao' Huawei đang lụi tàn trên thị trường smartphone Trung Quốc](https://cafebiz.vn/ngoi-sao-huawei-dang-lui-tan-tren-thi-truong-smartphone-trung-quoc-20210308161142015.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo viên tiểu học &quot;kêu khổ&quot; vì tiêu chuẩn bằng cấp hạng I quá cao](https://laodong.vn/ban-doc/giao-vien-tieu-hoc-keu-kho-vi-tieu-chuan-bang-cap-hang-i-qua-cao-886969.ldo) ([Lao Động](https://laodong.vn))
-- [Sóc Trăng: Khởi động Tổ công tác tháo gỡ khó khăn, vướng mắc cho DN](https://laodong.vn/kinh-te/soc-trang-khoi-dong-to-cong-tac-thao-go-kho-khan-vuong-mac-cho-dn-886972.ldo) ([Lao Động](https://laodong.vn))
-- [Ăn tiệc "tết chuồng trâu", 6 người mắc bệnh lạ, 3 người tử vong](https://cafebiz.vn/an-tiec-tet-chuong-trau-6-nguoi-mac-benh-la-3-nguoi-tu-vong-20210308164236558.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tây Ninh: CĐCS tặng quà cho 100 nữ đoàn viên, công nhân lao động khó khăn](https://laodong.vn/cong-doan/tay-ninh-cdcs-tang-qua-cho-100-nu-doan-vien-cong-nhan-lao-dong-kho-khan-886974.ldo) ([Lao Động](https://laodong.vn))
+- [Thiên thạch này có giá cao hơn cả vàng: nó nắm giữ bí mật về sự sống](https://cafebiz.vn/thien-thach-nay-co-gia-cao-hon-ca-vang-no-nam-giu-bi-mat-ve-su-song-20210308134828993.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xu hướng giải trí mùa dịch: Esports lên ngôi, cơ hội vàng cho các nhà tài trợ](https://cafebiz.vn/xu-huong-giai-tri-mua-dich-esports-len-ngoi-co-hoi-vang-cho-cac-nha-tai-tro-20210308164038197.chn) ([CafeBiz](https://cafebiz.vn))
+- [CEO Nhất Tín Logistics: Trong đại dịch, con người vẫn luôn là ưu tiên hàng đầu của chúng tôi](https://cafebiz.vn/ceo-nhat-tin-logistics-trong-dai-dich-con-nguoi-van-luon-la-uu-tien-hang-dau-cua-chung-toi-20210308154304427.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đồng Nai: Phấn đấu đến cuối năm 2021 có 2.800 sáng kiến cải tiến kỹ thuật](https://laodong.vn/cong-doan/dong-nai-phan-dau-den-cuoi-nam-2021-co-2800-sang-kien-cai-tien-ky-thuat-886976.ldo) ([Lao Động](https://laodong.vn))
+- [Bạc Liêu: Lần đầu tiên DN đặt hàng LĐ khi cơ sở đào tạo mới tuyển sinh](https://laodong.vn/viec-lam/bac-lieu-lan-dau-tien-dn-dat-hang-ld-khi-co-so-dao-tao-moi-tuyen-sinh-886983.ldo) ([Lao Động](https://laodong.vn))
+- [Lãi suất huy động tại ngân hàng vượt 7%/năm](https://laodong.vn/kinh-te/lai-suat-huy-dong-tai-ngan-hang-vuot-7nam-886982.ldo) ([Lao Động](https://laodong.vn))
+- [CĐ Viên chức Thái Bình tặng quà 8.3 nữ CNVCLĐ ở đơn vị đặc thù](https://laodong.vn/cong-doan/cd-vien-chuc-thai-binh-tang-qua-83-nu-cnvcld-o-don-vi-dac-thu-886971.ldo) ([Lao Động](https://laodong.vn))
+- [Toàn văn phát biểu khai mạc Hội nghị Trung ương 2 của Tổng Bí thư, Chủ tịch nước Nguyễn Phú Trọng](https://tuoitre.vn/toan-van-phat-bieu-khai-mac-hoi-nghi-trung-uong-2-cua-tong-bi-thu-chu-tich-nuoc-nguyen-phu-trong-20210308170538746.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [“Chia tay” khu đất vàng Hàng Bài, Tân Hoàng Minh rót 900 tỷ đồng hồi sinh 1 công ty âm vốn hàng trăm tỷ nhưng nắm giữ nhiều BĐS](https://cafebiz.vn/chia-tay-khu-dat-vang-hang-bai-tan-hoang-minh-rot-900-ty-dong-hoi-sinh-1-cong-ty-am-von-hang-tram-ty-nhung-nam-giu-nhieu-bds-2021030817122314.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
