@@ -21,7 +21,7 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 24.97°C.
+- Feels Like 24.62°C.
 - Air Visual is 154.
 
 **WEATHER**
@@ -49,23 +49,23 @@
 **GOOGLE TRENDS**
 
 - [![8-3 là ngày gì](https://img.shields.io/static/v1?label=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC)
+- [![AC Milan](https://img.shields.io/static/v1?label=AC%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AC%20Milan)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
-- [![Bayern Munich](https://img.shields.io/static/v1?label=Bayern%20Munich&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern%20Munich)
 - [![Bó hoa tiền](https://img.shields.io/static/v1?label=B%C3%B3%20hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3%20hoa%20ti%E1%BB%81n)
 - [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
-- [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hoa tiền](https://img.shields.io/static/v1?label=Hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20ti%E1%BB%81n)
+- [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
-- [![NBA All-Star 2021](https://img.shields.io/static/v1?label=NBA%20All-Star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-Star%202021)
-- [![Ngay 8/3](https://img.shields.io/static/v1?label=Ngay%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ngay%208/3)
+- [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
+- [![Ngày 8-3](https://img.shields.io/static/v1?label=Ng%C3%A0y%208-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208-3)
+- [![Penthouses Cuộc chiến thượng lưu phần 2 Tập 6](https://img.shields.io/static/v1?label=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%20ph%E1%BA%A7n%202%20T%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouses%20Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%20ph%E1%BA%A7n%202%20T%E1%BA%ADp%206)
+- [![Qua tang 8/3](https://img.shields.io/static/v1?label=Qua%20tang%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qua%20tang%208/3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
-- [![Thế Giới Di dong](https://img.shields.io/static/v1?label=Th%E1%BA%BF%20Gi%E1%BB%9Bi%20Di%20dong&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BA%BF%20Gi%E1%BB%9Bi%20Di%20dong)
 - [![Truc tiep ngoai hang Anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20Anh)
 - [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [7 năm sau vụ MH370 mất tích: Cuộc tìm kiếm chưa có hồi kết](https://cafebiz.vn/7-nam-sau-vu-mh370-mat-tich-cuoc-tim-kiem-chua-co-hoi-ket-20210308135246919.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nguy cơ bùng nổ "bong bóng" tài sản trên toàn cầu](https://cafebiz.vn/nguy-co-bung-no-bong-bong-tai-san-tren-toan-cau-20210308134332667.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vợ ông Dũng "lò vôi" tiết lộ chuyện 15 năm trước: "Tôi sống nghĩa khí nên lao vào cứu anh Dũng mà một thời tôi bị thị phi"](https://cafebiz.vn/vo-ong-dung-lo-voi-tiet-lo-chuyen-15-nam-truoc-toi-song-nghia-khi-nen-lao-vao-cuu-anh-dung-ma-mot-thoi-toi-bi-thi-phi-20210308134841052.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dàn ái nữ "tứ nữ bất bần" giàu có và bí ẩn nhà "vua tôm" Minh Phú](https://cafebiz.vn/dan-ai-nu-tu-nu-bat-ban-giau-co-va-bi-an-nha-vua-tom-minh-phu-20210308134839064.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cận cảnh những mũi tiêm vắc xin COVID-19 đầu tiên ở "điểm nóng" Hải Dương](https://cafebiz.vn/can-canh-nhung-mui-tiem-vac-xin-covid-19-dau-tien-o-diem-nong-hai-duong-20210308134405056.chn) ([CafeBiz](https://cafebiz.vn))
-- [Danh tính chủ xe "Mẹc" hào phóng: Bị va quệt không bắt đền mà còn tặng tiền và xe máy cho người tông mình](https://cafebiz.vn/danh-tinh-chu-xe-mec-hao-phong-bi-va-quet-khong-bat-den-ma-con-tang-tien-va-xe-may-cho-nguoi-tong-minh-20210308114212936.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mất 2 năm giải mã khoản lỗ nghìn tỷ, ông "trùm giải cứu" Mai Hữu Tín kỳ vọng gì ở Gỗ Trường Thành?](https://cafebiz.vn/mat-2-nam-giai-ma-khoan-lo-nghin-ty-ong-trum-giai-cuu-mai-huu-tin-ky-vong-gi-o-go-truong-thanh-20210308134156692.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhân viên y tế đầu tiên được tiêm vaccine COVID-19 nói gì sau khi tiêm?](https://laodong.vn/video/nhan-vien-y-te-dau-tien-duoc-tiem-vaccine-covid-19-noi-gi-sau-khi-tiem-886753.ldo) ([Lao Động](https://laodong.vn))
-- [Đại học Huế công bố 5 phương thức xét tuyển đại học năm 2021](https://laodong.vn/giao-duc/dai-hoc-hue-cong-bo-5-phuong-thuc-xet-tuyen-dai-hoc-nam-2021-886888.ldo) ([Lao Động](https://laodong.vn))
-- [Tăng cường thanh tra các lĩnh vực có nhiều nguy cơ về tiêu cực, tham nhũng](https://laodong.vn/thoi-su/tang-cuong-thanh-tra-cac-linh-vuc-co-nhieu-nguy-co-ve-tieu-cuc-tham-nhung-886884.ldo) ([Lao Động](https://laodong.vn))
+- [Tại sao "thần y" Võ Hoàng Yên không đủ điều kiện vẫn được đặc cách cấp giấy phép hoạt động Trung tâm phục hồi chức năng ở Hà Tĩnh?](https://cafebiz.vn/tai-sao-than-y-vo-hoang-yen-khong-du-dieu-kien-van-duoc-dac-cach-cap-giay-phep-hoat-dong-trung-tam-phuc-hoi-chuc-nang-o-ha-tinh-20210308143037192.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đồng Nai kiểm tra liên ngành doanh nghiệp có nhiều nguy cơ tai nạn lao động](https://laodong.vn/cong-doan/dong-nai-kiem-tra-lien-nganh-doanh-nghiep-co-nhieu-nguy-co-tai-nan-lao-dong-886896.ldo) ([Lao Động](https://laodong.vn))
+- [Vietjet Air khởi động lại kế hoạch bán toàn bộ 17,8 triệu cổ phiếu quỹ, dự kiến thu hơn 2.400 tỷ đồng bổ sung vốn lưu động](https://cafebiz.vn/vietjet-air-khoi-dong-lai-ke-hoach-ban-toan-bo-178-trieu-co-phieu-quy-du-kien-thu-hon-2400-ty-dong-bo-sung-von-luu-dong-2021030814244655.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Trump sắp đến New York lần đầu kể từ khi rời Nhà Trắng](https://laodong.vn/the-gioi/ong-trump-sap-den-new-york-lan-dau-ke-tu-khi-roi-nha-trang-886882.ldo) ([Lao Động](https://laodong.vn))
+- ['Dì ơi, con gọi dì bằng mẹ được không'](https://tuoitre.vn/di-oi-con-goi-di-bang-me-duoc-khong-20210308010833428.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Đức tính chung mà những người thành công từ Bill Gates đến Warren Buffett đều có](https://cafebiz.vn/duc-tinh-chung-ma-nhung-nguoi-thanh-cong-tu-bill-gates-den-warren-buffett-deu-co-20210308142335381.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lâm Đồng dự kiến trồng 50 triệu cây xanh](https://laodong.vn/xa-hoi/lam-dong-du-kien-trong-50-trieu-cay-xanh-886738.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam được hỗ trợ 86,3 triệu USD để thúc đẩy đầu tư vào tiết kiệm năng lượng](https://cafebiz.vn/viet-nam-duoc-ho-tro-863-trieu-usd-de-thuc-day-dau-tu-vao-tiet-kiem-nang-luong-2021030813485737.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tuyển sinh 2021: Danh sách các trường Đại học xét học bạ](https://laodong.vn/giao-duc/tuyen-sinh-2021-danh-sach-cac-truong-dai-hoc-xet-hoc-ba-886893.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyện gì đang xảy ra với cổ phiếu GameStop?](https://cafebiz.vn/chuyen-gi-dang-xay-ra-voi-co-phieu-gamestop-20210308134005574.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -138,8 +138,8 @@
 06. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 08. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-09. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
-10. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
+09. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
+10. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 
 [Read More](https://www.youtube.com/feed/trending)
 
