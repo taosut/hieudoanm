@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 24°C.
 - Feels Like 25.04°C.
-- Air Visual is 139.
+- Air Visual is 148.
 
 **WEATHER**
 
@@ -48,13 +48,13 @@
 
 **GOOGLE TRENDS**
 
-- [![8-3 là ngày gì](https://img.shields.io/static/v1?label=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC)
+- [![AC Milan](https://img.shields.io/static/v1?label=AC%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AC%20Milan)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
-- [![Bayern Munich](https://img.shields.io/static/v1?label=Bayern%20Munich&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern%20Munich)
 - [![Bó hoa tiền](https://img.shields.io/static/v1?label=B%C3%B3%20hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3%20hoa%20ti%E1%BB%81n)
 - [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hoa tiền](https://img.shields.io/static/v1?label=Hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20ti%E1%BB%81n)
+- [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
@@ -62,12 +62,12 @@
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
 - [![Ngày 8-3 là ngày gì](https://img.shields.io/static/v1?label=Ng%C3%A0y%208-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC)
-- [![Ngày 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208/3)
+- [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Phùng Xuân Nhạ](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1)
-- [![Qua tang 8/3](https://img.shields.io/static/v1?label=Qua%20tang%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qua%20tang%208/3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Truc tiep ngoai hang Anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20Anh)
+- [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Meghan Markle đấu tố trực diện chị dâu Kate, tiết lộ hàng loạt bí mật gây sốc về Hoàng gia Anh và khẳng định mình bị chèn ép đến trầm cảm](https://cafebiz.vn/meghan-markle-dau-to-truc-dien-chi-dau-kate-tiet-lo-hang-loat-bi-mat-gay-soc-ve-hoang-gia-anh-va-khang-dinh-minh-bi-chen-ep-den-tram-cam-2021030815532748.chn) ([CafeBiz](https://cafebiz.vn))
-- [Meghan Markle tung cáo buộc "bom tấn" nhằm vào Hoàng gia Anh: Tôi không muốn sống nữa!](https://cafebiz.vn/meghan-markle-tung-cao-buoc-bom-tan-nham-vao-hoang-gia-anh-toi-khong-muon-song-nua-20210308155120193.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xét nghiệm COVID-19 bằng... tiếng hét](https://cafebiz.vn/xet-nghiem-covid-19-bang-tieng-het-20210308155034553.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sau khi thay Chủ tịch, Vietbank chính thức bổ nhiệm ông Lê Huy Dũng làm Tổng giám đốc](https://cafebiz.vn/sau-khi-thay-chu-tich-vietbank-co-tong-giam-doc-moi-20210308154903425.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vườn chim Bạc Liêu báo động cháy cấp IV, hạn chế người dân vào rừng](https://laodong.vn/xa-hoi/vuon-chim-bac-lieu-bao-dong-chay-cap-iv-han-che-nguoi-dan-vao-rung-886925.ldo) ([Lao Động](https://laodong.vn))
-- [Siêu mẫu Hà Anh: "Muốn giải phóng phụ nữ hãy lắng nghe họ"](https://cafebiz.vn/sieu-mau-ha-anh-muon-giai-phong-phu-nu-hay-lang-nghe-ho-20210308150048633.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bán nệm kiểu Ru9: 90% đơn hàng là bán online, không phụ thuộc showroom, tặng miễn phí 100 đêm ngủ thử, doanh số tăng 300% năm Covid 2020](https://cafebiz.vn/ban-nem-kieu-ru9-90-don-hang-la-ban-online-khong-phu-thuoc-showroom-tang-mien-phi-100-dem-ngu-thu-doanh-so-tang-300-nam-covid-2020-2021030815145339.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cổ phiếu Tesla thủng 600 USD, điều gì xảy ra với "con cưng" của Elon Musk](https://cafebiz.vn/co-phieu-tesla-thung-600-usd-dieu-gi-xay-ra-voi-con-cung-cua-elon-musk-20210308153339081.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dân đăng ký tiêm vắc xin COVID-19 như thế nào?](https://cafebiz.vn/nguoi-dan-dang-ky-tiem-vac-xin-covid-19-nhu-the-nao-20210308153537286.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đề xuất đầu tư 15 dự án giao thông trọng điểm](https://vnexpress.net/de-xuat-dau-tu-15-du-an-giao-thong-trong-diem-4245209.html) ([VNExpress](https://vnexpress.net))
+
 
 [Read More](docs/news/README.md)
 
