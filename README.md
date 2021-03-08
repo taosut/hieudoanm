@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 23.66°C.
-- Air Visual is 154.
+- Feels Like 24.02°C.
+- Air Visual is 155.
 
 **WEATHER**
 
@@ -48,13 +48,12 @@
 
 **GOOGLE TRENDS**
 
-- [![8.3](https://img.shields.io/static/v1?label=8.3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8.3)
 - [![AC Milan](https://img.shields.io/static/v1?label=AC%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=AC%20Milan)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Bayern Munich](https://img.shields.io/static/v1?label=Bayern%20Munich&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern%20Munich)
 - [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
-- [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
-- [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
+- [![Cuộc chiến thượng lưu 2 tập 6](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202%20t%E1%BA%ADp%206)
+- [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hoa tiền](https://img.shields.io/static/v1?label=Hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20ti%E1%BB%81n)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
@@ -62,9 +61,10 @@
 - [![Lịch sử ngày 8/3](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20s%E1%BB%AD%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20s%E1%BB%AD%20ng%C3%A0y%208/3)
 - [![Lời chúc 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
-- [![Nicolas Cage](https://img.shields.io/static/v1?label=Nicolas%20Cage&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nicolas%20Cage)
-- [![Penthouse tập 6](https://img.shields.io/static/v1?label=Penthouse%20t%E1%BA%ADp%206&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Penthouse%20t%E1%BA%ADp%206)
-- [![Raya](https://img.shields.io/static/v1?label=Raya&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Raya)
+- [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
+- [![Ngày 8-3 là ngày gì](https://img.shields.io/static/v1?label=Ng%C3%A0y%208-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC)
+- [![Qua tang 8/3](https://img.shields.io/static/v1?label=Qua%20tang%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qua%20tang%208/3)
+- [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
 - [![Đặng Thu Huyền](https://img.shields.io/static/v1?label=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%B7ng%20Thu%20Huy%E1%BB%81n)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Pep Guardiola: &quot;Man United đá hay nhưng Man City không đáng thua&quot;](https://laodong.vn/bong-da-quoc-te/pep-guardiola-man-united-da-hay-nhung-man-city-khong-dang-thua-886858.ldo) ([Lao Động](https://laodong.vn))
+- [Đi làm ngày Giỗ Tổ Hùng Vương được hưởng lương bao nhiêu?](https://laodong.vn/cong-doan/di-lam-ngay-gio-to-hung-vuong-duoc-huong-luong-bao-nhieu-886864.ldo) ([Lao Động](https://laodong.vn))
+- [Những nhân viên y tế đầu tiên tại TPHCM được tiêm vaccine phòng COVID-19](https://laodong.vn/photo/nhung-nhan-vien-y-te-dau-tien-tai-tphcm-duoc-tiem-vaccine-phong-covid-19-886839.ldo) ([Lao Động](https://laodong.vn))
+- [Ngày 8.3: Hình ảnh của những nữ công nhân lao động cực nhọc mưu sinh](https://laodong.vn/xa-hoi/ngay-83-hinh-anh-cua-nhung-nu-cong-nhan-lao-dong-cuc-nhoc-muu-sinh-886842.ldo) ([Lao Động](https://laodong.vn))
+- [TP HCM có 'ATM nhận trả hồ sơ' đầu tiên](https://vnexpress.net/tp-hcm-co-atm-nhan-tra-ho-so-dau-tien-4245106.html) ([VNExpress](https://vnexpress.net))
+- [Rùng mình 'lò mổ' thẩm mỹ chui](https://cafebiz.vn/rung-minh-lo-mo-tham-my-chui-20210308114439228.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kiến nghị cho máy bay Boeing 737 Max bay quá cảnh qua Việt Nam](https://tuoitre.vn/kien-nghi-cho-may-bay-boeing-737-max-bay-qua-canh-qua-viet-nam-20210308110101255.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Emas Fintech sập, người đứng đầu biệt tăm, hàng nghìn nhà đầu tư nguy cơ trắng tay](https://cafebiz.vn/emas-fintech-sap-nguoi-dung-dau-biet-tam-hang-nghin-nha-dau-tu-nguy-co-trang-tay-20210308114223441.chn) ([CafeBiz](https://cafebiz.vn))
+- [Học sinh Hải Phòng phấn khởi trong ngày trở lại trường](https://tuoitre.vn/hoc-sinh-hai-phong-phan-khoi-trong-ngay-tro-lai-truong-20210308113006886.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nóng tuyển sinh đầu cấp: Sai lầm nếu cứ chạy theo trường &quot;hot&quot;](https://laodong.vn/giao-duc/nong-tuyen-sinh-dau-cap-sai-lam-neu-cu-chay-theo-truong-hot-886835.ldo) ([Lao Động](https://laodong.vn))
-- [Nữ lao động ngành điện - &quot;vẹn cả đôi đường&quot;...](https://laodong.vn/cong-doan/nu-lao-dong-nganh-dien-ven-ca-doi-duong-886837.ldo) ([Lao Động](https://laodong.vn))
-- [MH370: Thân nhân khắc khoải chờ câu trả lời vụ mất tích bí ẩn](https://laodong.vn/the-gioi/mh370-than-nhan-khac-khoai-cho-cau-tra-loi-vu-mat-tich-bi-an-886805.ldo) ([Lao Động](https://laodong.vn))
-- [Mỹ bắt đầu điều tra những cáo buộc nhắm vào Samsung](https://cafebiz.vn/my-bat-dau-dieu-tra-nhung-cao-buoc-nham-vao-samsung-20210308102741597.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cú thoát hiểm ngoạn mục 6 năm trước của An Gia Group: Dùng sự chân thành để kêu gọi vốn từ quỹ đầu tư, sau khi bị ngân hàng từ chối vì... cạn sạch tiền](https://cafebiz.vn/cu-thoat-hiem-ngoan-muc-6-nam-truoc-cua-an-gia-group-dung-su-chan-thanh-de-keu-goi-von-tu-quy-dau-tu-sau-khi-bi-ngan-hang-tu-choi-vi-can-sach-tien-20210307122034147.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Trương Việt Dũng giữ chức Chánh Văn phòng Đoàn ĐBQH và HĐND TP Hà Nội](https://laodong.vn/thoi-su/ong-truong-viet-dung-giu-chuc-chanh-van-phong-doan-dbqh-va-hdnd-tp-ha-noi-886854.ldo) ([Lao Động](https://laodong.vn))
-- [2 tháng đầu năm, điện thoại 'Made in Vietnam' thu về gần 10 tỷ USD](https://cafebiz.vn/2-thang-dau-nam-dien-thoai-made-in-vietnam-thu-ve-gan-10-ty-usd-20210308112355277.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trên 80% lao động nữ đạt danh hiệu thi đua “Giỏi việc nước, Đảm việc nhà&quot;](https://laodong.vn/cd-gtvt/tren-80-lao-dong-nu-dat-danh-hieu-thi-dua-gioi-viec-nuoc-dam-viec-nha-886846.ldo) ([Lao Động](https://laodong.vn))
-- [Bảng xếp hạng vòng 24 Bundesliga: Dortmund đứng thứ 6](https://laodong.vn/infographic/bang-xep-hang-vong-24-bundesliga-dortmund-dung-thu-6-886786.ldo) ([Lao Động](https://laodong.vn))
-- [Đường sắt Việt Nam: Làm gì để thoát khỏi tình thế "một mất một còn"?](https://cafebiz.vn/duong-sat-viet-nam-lam-gi-de-thoat-khoi-tinh-the-mot-mat-mot-con-20210308111519257.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
