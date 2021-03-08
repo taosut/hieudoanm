@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 26.25°C.
-- Air Visual is 153.
+- Feels Like 25.53°C.
+- Air Visual is 145.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Biết rõ dấu hiệu ung thư vòm họng giai đoạn đầu, cơ hội sống sót lên tới 72%: Đâu là cách phòng ngừa?](https://cafebiz.vn/biet-ro-dau-hieu-ung-thu-vom-hong-giai-doan-dau-co-hoi-song-sot-len-toi-72-dau-la-cach-phong-ngua-20210308165939981.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chân dung ông chủ xe Mercedes không bắt đền còn tặng xe máy cho người va chạm giao thông](https://cafebiz.vn/chan-dung-ong-chu-xe-mercedes-khong-bat-den-con-tang-xe-may-cho-nguoi-va-cham-giao-thong-20210308202136003.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM mở cửa thêm một số dịch vụ, vẫn cấm karaoke, vũ trường, bar](https://laodong.vn/xa-hoi/tphcm-mo-cua-them-mot-so-dich-vu-van-cam-karaoke-vu-truong-bar-887076.ldo) ([Lao Động](https://laodong.vn))
+- [Nhân ngày Quốc tế Phụ nữ: Lắng nghe đàn ông lên tiếng về bình đẳng giới](https://laodong.vn/the-gioi/nhan-ngay-quoc-te-phu-nu-lang-nghe-dan-ong-len-tieng-ve-binh-dang-gioi-886965.ldo) ([Lao Động](https://laodong.vn))
+- [Kinh tế học cho nhà đầu tư: Tại sao đầu tư chứng khoán cần cảnh giác với lạm phát?](https://cafebiz.vn/kinh-te-hoc-cho-nha-dau-tu-tai-sao-dau-tu-chung-khoan-can-canh-giac-voi-lam-phat-20210308200142261.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tạm giam 8 đối tượng trong đường dây mua bán trẻ sơ sinh](https://laodong.vn/phap-luat/tam-giam-8-doi-tuong-trong-duong-day-mua-ban-tre-so-sinh-887073.ldo) ([Lao Động](https://laodong.vn))
 - [Bắc Giang sẽ triển khai tiêm vaccine COVID-19 đảm bảo khoa học, hiệu quả](https://laodong.vn/xa-hoi/bac-giang-se-trien-khai-tiem-vaccine-covid-19-dam-bao-khoa-hoc-hieu-qua-887068.ldo) ([Lao Động](https://laodong.vn))
 - [Công an Đồng Nai kêu gọi 2 đối tượng có dấu hiệu lừa đảo ra trình diện](https://laodong.vn/phap-luat/cong-an-dong-nai-keu-goi-2-doi-tuong-co-dau-hieu-lua-dao-ra-trinh-dien-887067.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 9.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-93-886912.ldo) ([Lao Động](https://laodong.vn))
 - [Cuối cùng, việc gì khó cũng phải đến tay Man United](https://laodong.vn/bong-da-quoc-te/cuoi-cung-viec-gi-kho-cung-phai-den-tay-man-united-886913.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: Có nên đầu tư khi giá vàng đang giảm sâu?](https://laodong.vn/video/nong-nhat-24h-co-nen-dau-tu-khi-gia-vang-dang-giam-sau-887047.ldo) ([Lao Động](https://laodong.vn))
-- [Sổ đỏ 50 năm hết hạn có bị thu hồi không?](https://laodong.vn/bat-dong-san/so-do-50-nam-het-han-co-bi-thu-hoi-khong-886801.ldo) ([Lao Động](https://laodong.vn))
-- [Nhận định Chelsea - Everton: Đại chiến vì Top 4](https://laodong.vn/bong-da-quoc-te/nhan-dinh-chelsea-everton-dai-chien-vi-top-4-887070.ldo) ([Lao Động](https://laodong.vn))
-- [Tác hại khủng khiếp của nhịn tiểu: Bạn chỉ nên nhịn tiểu trong bao lâu?](https://cafebiz.vn/tac-hai-khung-khiep-cua-nhin-tieu-ban-chi-nen-nhin-tieu-trong-bao-lau-20210308165705389.chn) ([CafeBiz](https://cafebiz.vn))
-- [NTK nổi tiếng Thái Công tuyên bố: Ai tìm việc mà hỏi lương bao nhiêu trên Facebook, tôi cho vào danh sách đen lập tức](https://cafebiz.vn/ntk-noi-tieng-thai-cong-tuyen-bo-ai-tim-viec-ma-hoi-luong-bao-nhieu-tren-facebook-toi-cho-vao-danh-sach-den-lap-tuc-20210308195509216.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo dục 24/7: Chuyên gia mách nước chọn trường, chuyển cấp](https://laodong.vn/video/giao-duc-247-chuyen-gia-mach-nuoc-chon-truong-chuyen-cap-887065.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
