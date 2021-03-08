@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nhân viên y tế đầu tiên được tiêm vaccine COVID-19 nói gì sau khi tiêm?](https://laodong.vn/video/nhan-vien-y-te-dau-tien-duoc-tiem-vaccine-covid-19-noi-gi-sau-khi-tiem-886753.ldo) ([Lao Động](https://laodong.vn))
+- [Đại học Huế công bố 5 phương thức xét tuyển đại học năm 2021](https://laodong.vn/giao-duc/dai-hoc-hue-cong-bo-5-phuong-thuc-xet-tuyen-dai-hoc-nam-2021-886888.ldo) ([Lao Động](https://laodong.vn))
+- [Tăng cường thanh tra các lĩnh vực có nhiều nguy cơ về tiêu cực, tham nhũng](https://laodong.vn/thoi-su/tang-cuong-thanh-tra-cac-linh-vuc-co-nhieu-nguy-co-ve-tieu-cuc-tham-nhung-886884.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương: Bé gái 6 tuổi bị mẹ nhốt trong phòng, bạo hành nhiều lần](https://laodong.vn/phap-luat/hai-duong-be-gai-6-tuoi-bi-me-nhot-trong-phong-bao-hanh-nhieu-lan-886868.ldo) ([Lao Động](https://laodong.vn))
+- [Rồng nhỏ Kim Tiểu Long và những nỗ lực của một doanh nhân](https://cafebiz.vn/rong-nho-kim-tieu-long-va-nhung-no-luc-cua-mot-doanh-nhan-20210308121325422.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ý tưởng hộ chiếu vaccine: Cuộc tranh luận chưa có hồi kết](https://laodong.vn/the-gioi/y-tuong-ho-chieu-vaccine-cuoc-tranh-luan-chua-co-hoi-ket-886681.ldo) ([Lao Động](https://laodong.vn))
+- [Đã tiến hành kỷ luật 21 ủy viên, nguyên ủy viên trung ương, 22 tướng công an, quân đội](https://laodong.vn/thoi-su/da-tien-hanh-ky-luat-21-uy-vien-nguyen-uy-vien-trung-uong-22-tuong-cong-an-quan-doi-886869.ldo) ([Lao Động](https://laodong.vn))
 - [MH370: Những người chọn quên đi thảm kịch để sống tiếp](https://laodong.vn/the-gioi/mh370-nhung-nguoi-chon-quen-di-tham-kich-de-song-tiep-886861.ldo) ([Lao Động](https://laodong.vn))
 - [Hé lộ lập trường của chính quyền ông Biden về rút lính Mỹ khỏi Afghanistan](https://laodong.vn/the-gioi/he-lo-lap-truong-cua-chinh-quyen-ong-biden-ve-rut-linh-my-khoi-afghanistan-886876.ldo) ([Lao Động](https://laodong.vn))
-- [12.000 căn cước công dân cấp cho người Đà Nẵng trong vòng 1 tuần](https://laodong.vn/xa-hoi/12000-can-cuoc-cong-dan-cap-cho-nguoi-da-nang-trong-vong-1-tuan-886866.ldo) ([Lao Động](https://laodong.vn))
-- [Thứ Trưởng Bộ Y tế Trần Văn Thuấn: &quot;Không có vaccine nào hiệu quả 100%&quot;](https://laodong.vn/xa-hoi/thu-truong-bo-y-te-tran-van-thuan-khong-co-vaccine-nao-hieu-qua-100-886788.ldo) ([Lao Động](https://laodong.vn))
-- [Từ MH370: Điểm lại 9 vụ tai nạn liên quan tới Boeing 777](https://laodong.vn/the-gioi/tu-mh370-diem-lai-9-vu-tai-nan-lien-quan-toi-boeing-777-886816.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút: Mức lệ phí làm thẻ căn cước công dân gắn chip trước 30.6](https://laodong.vn/video/ban-tin-1-phut-muc-le-phi-lam-the-can-cuoc-cong-dan-gan-chip-truoc-306-886863.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyện sốt đất 30 năm qua: Cứ có sân bay là tăng giá?](https://cafebiz.vn/chuyen-sot-dat-30-nam-qua-cu-co-san-bay-la-tang-gia-20210308103538459.chn) ([CafeBiz](https://cafebiz.vn))
-- [“Chia tay” khu đất vàng Hàng Bài, Tân Hoàng Minh rót 900 tỷ đồng “hồi sinh” 1 công ty âm vốn hàng trăm tỷ nhưng nắm giữ nhiều BĐS](https://cafebiz.vn/chia-tay-khu-dat-vang-hang-bai-tan-hoang-minh-rot-900-ty-dong-hoi-sinh-1-cong-ty-am-von-hang-tram-ty-nhung-nam-giu-nhieu-bds-20210308122140105.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những nhân viên y tế đầu tiên tại TPHCM được tiêm vaccine phòng COVID-19](https://laodong.vn/photo/nhung-nhan-vien-y-te-dau-tien-tai-tphcm-duoc-tiem-vaccine-phong-covid-19-886839.ldo) ([Lao Động](https://laodong.vn))
-- [TP HCM có 'ATM nhận trả hồ sơ'](https://vnexpress.net/tp-hcm-co-atm-nhan-tra-ho-so-4245106.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
