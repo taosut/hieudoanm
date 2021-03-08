@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 25.53°C.
-- Air Visual is 152.
+- Feels Like 26.25°C.
+- Air Visual is 141.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Gây va chạm nhưng không bị bắt đền, còn được chủ Mercedes tặng xe máy mới, người đàn ông nghèo khổ từ lo lắng đến biết ơn](https://cafebiz.vn/gay-va-cham-nhung-khong-bi-bat-den-con-duoc-chu-mercedes-tang-xe-may-moi-nguoi-dan-ong-ngheo-kho-tu-lo-lang-den-biet-on-20210308181234228.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dàn mỹ nhân phim Tây du ký 1986: Người lận đận, người an yên tuổi già](https://laodong.vn/van-hoa/dan-my-nhan-phim-tay-du-ky-1986-nguoi-lan-dan-nguoi-an-yen-tuoi-gia-887023.ldo) ([Lao Động](https://laodong.vn))
-- [Chuẩn bị kiện toàn các chức danh lãnh đạo Nhà nước](https://vnexpress.net/chuan-bi-kien-toan-cac-chuc-danh-lanh-dao-nha-nuoc-4245280.html) ([VNExpress](https://vnexpress.net))
-- [Ngày mai, TP.HCM họp nghe báo cáo đề xuất xử lý vi phạm về tiếng ồn](https://tuoitre.vn/ngay-mai-tp-hcm-hop-nghe-bao-cao-de-xuat-xu-ly-vi-pham-ve-tieng-on-20210308175921618.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hà Tĩnh: Công đoàn tặng quà cho nữ đoàn viên khó khăn](https://laodong.vn/cong-doan/ha-tinh-cong-doan-tang-qua-cho-nu-doan-vien-kho-khan-886997.ldo) ([Lao Động](https://laodong.vn))
-- [Dỡ phong tỏa, BV Giao thông Vận tải Hải Phòng hoạt động trở lại từ 9.3](https://laodong.vn/xa-hoi/do-phong-toa-bv-giao-thong-van-tai-hai-phong-hoat-dong-tro-lai-tu-93-886967.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương lùi thời gian giao nhận quân do dịch COVID-19](https://laodong.vn/xa-hoi/hai-duong-lui-thoi-gian-giao-nhan-quan-do-dich-covid-19-887012.ldo) ([Lao Động](https://laodong.vn))
-- [100% người tiêm vaccine COVID-19 trong ngày đầu tiên chưa ghi nhận phản ứng](https://laodong.vn/y-te/100-nguoi-tiem-vaccine-covid-19-trong-ngay-dau-tien-chua-ghi-nhan-phan-ung-887044.ldo) ([Lao Động](https://laodong.vn))
-- [TP.HCM có “ATM” nhận và trả hồ sơ tự động đầu tiên](http://vietnamnet.vn/vn/thoi-su/tp-hcm-co-atm-nhan-va-tra-ho-so-tu-dong-dau-tien-718092.html) ([VietNamNet](https://vietnamnet.vn))
-- [Hải Phòng dỡ bỏ điểm phong tỏa cuối cùng](https://vnexpress.net/hai-phong-do-bo-diem-phong-toa-cuoi-cung-4245351.html) ([VNExpress](https://vnexpress.net))
+- [Giáo dục 24/7: Chuyên gia mách nước chọn trường, chuyển cấp](https://laodong.vn/video/giao-duc-247-chuyen-gia-mach-nuoc-chon-truong-chuyen-cap-887065.ldo) ([Lao Động](https://laodong.vn))
+- [Bị cáo Đinh La Thăng: Triển khai gói thầu, trách nhiệm của chủ đầu tư](https://laodong.vn/phap-luat/bi-cao-dinh-la-thang-trien-khai-goi-thau-trach-nhiem-cua-chu-dau-tu-887062.ldo) ([Lao Động](https://laodong.vn))
+- [Sở Y tế Cần Thơ có thêm phó giám đốc sau vụ giám đốc sở bị khởi tố](https://laodong.vn/thoi-su/so-y-te-can-tho-co-them-pho-giam-doc-sau-vu-giam-doc-so-bi-khoi-to-887063.ldo) ([Lao Động](https://laodong.vn))
+- [Trường hợp nào người lao động làm việc ngày 30/4 và 1/5 được hưởng tối thiểu 490% lương?](https://cafebiz.vn/truong-hop-nao-nguoi-lao-dong-lam-viec-ngay-30-4-va-1-5-duoc-huong-toi-thieu-490-luong-20210308192517264.chn) ([CafeBiz](https://cafebiz.vn))
+- [TP HCM cho phòng gym, nhà hàng tiệc cưới mở cửa](https://vnexpress.net/tp-hcm-cho-phong-gym-nha-hang-tiec-cuoi-mo-cua-4245393.html) ([VNExpress](https://vnexpress.net))
+- [Dừng giãn cách trên phương tiện công cộng, lượng khách đi xe buýt thế nào?](https://laodong.vn/video/dung-gian-cach-tren-phuong-tien-cong-cong-luong-khach-di-xe-buyt-the-nao-887060.ldo) ([Lao Động](https://laodong.vn))
+- [Nữ ca sĩ giàu bậc nhất thế giới - Rihanna: Trưởng thành từ tuổi thơ ngập trong bạo lực, làm khuynh đảo giới thời trang rồi trở thành biểu tượng nữ doanh nhân đáng ngưỡng mộ](https://cafebiz.vn/nu-ca-si-giau-bac-nhat-the-gioi-rihanna-truong-thanh-tu-tuoi-tho-ngap-trong-bao-luc-lam-khuynh-dao-gioi-thoi-trang-roi-tro-thanh-bieu-tuong-nu-doanh-nhan-dang-nguong-mo-20210308192128747.chn) ([CafeBiz](https://cafebiz.vn))
+- [3 quán nhậu làm ồn bị phạt](https://vnexpress.net/3-quan-nhau-lam-on-bi-phat-4245367.html) ([VNExpress](https://vnexpress.net))
+- [&quot;Cò&quot; đất lừa đảo người đặt cọc hàng chục tỉ đồng sa lưới](https://laodong.vn/phap-luat/co-dat-lua-dao-nguoi-dat-coc-hang-chuc-ti-dong-sa-luoi-887054.ldo) ([Lao Động](https://laodong.vn))
+- [Cả làng ở Kon Tum có 3 người chết, 21 người nhập viện với cùng triệu chứng](https://tuoitre.vn/ca-lang-o-kon-tum-co-3-nguoi-chet-21-nguoi-nhap-vien-voi-cung-trieu-chung-20210308185225147.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
