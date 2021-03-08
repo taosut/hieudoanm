@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 24.38°C.
-- Air Visual is 156.
+- Feels Like 24.02°C.
+- Air Visual is 154.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [MH370: Những người chọn quên đi thảm kịch để sống tiếp](https://laodong.vn/the-gioi/mh370-nhung-nguoi-chon-quen-di-tham-kich-de-song-tiep-886861.ldo) ([Lao Động](https://laodong.vn))
+- [Hé lộ lập trường của chính quyền ông Biden về rút lính Mỹ khỏi Afghanistan](https://laodong.vn/the-gioi/he-lo-lap-truong-cua-chinh-quyen-ong-biden-ve-rut-linh-my-khoi-afghanistan-886876.ldo) ([Lao Động](https://laodong.vn))
+- [12.000 căn cước công dân cấp cho người Đà Nẵng trong vòng 1 tuần](https://laodong.vn/xa-hoi/12000-can-cuoc-cong-dan-cap-cho-nguoi-da-nang-trong-vong-1-tuan-886866.ldo) ([Lao Động](https://laodong.vn))
+- [Thứ Trưởng Bộ Y tế Trần Văn Thuấn: &quot;Không có vaccine nào hiệu quả 100%&quot;](https://laodong.vn/xa-hoi/thu-truong-bo-y-te-tran-van-thuan-khong-co-vaccine-nao-hieu-qua-100-886788.ldo) ([Lao Động](https://laodong.vn))
+- [Từ MH370: Điểm lại 9 vụ tai nạn liên quan tới Boeing 777](https://laodong.vn/the-gioi/tu-mh370-diem-lai-9-vu-tai-nan-lien-quan-toi-boeing-777-886816.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút: Mức lệ phí làm thẻ căn cước công dân gắn chip trước 30.6](https://laodong.vn/video/ban-tin-1-phut-muc-le-phi-lam-the-can-cuoc-cong-dan-gan-chip-truoc-306-886863.ldo) ([Lao Động](https://laodong.vn))
 - [Chuyện sốt đất 30 năm qua: Cứ có sân bay là tăng giá?](https://cafebiz.vn/chuyen-sot-dat-30-nam-qua-cu-co-san-bay-la-tang-gia-20210308103538459.chn) ([CafeBiz](https://cafebiz.vn))
-- [Các cơ sở thờ tự ở Hà Nội nơi mở cửa, chỗ vẫn &quot;cửa đóng, then cài&quot;](https://laodong.vn/xa-hoi/cac-co-so-tho-tu-o-ha-noi-noi-mo-cua-cho-van-cua-dong-then-cai-886852.ldo) ([Lao Động](https://laodong.vn))
 - [“Chia tay” khu đất vàng Hàng Bài, Tân Hoàng Minh rót 900 tỷ đồng “hồi sinh” 1 công ty âm vốn hàng trăm tỷ nhưng nắm giữ nhiều BĐS](https://cafebiz.vn/chia-tay-khu-dat-vang-hang-bai-tan-hoang-minh-rot-900-ty-dong-hoi-sinh-1-cong-ty-am-von-hang-tram-ty-nhung-nam-giu-nhieu-bds-20210308122140105.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tổng thống Biden mời lãnh đạo nước ngoài đầu tiên đến Nhà Trắng](https://laodong.vn/the-gioi/tong-thong-biden-moi-lanh-dao-nuoc-ngoai-dau-tien-den-nha-trang-886865.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Bà bầu&quot; Tracy Thư Lương: “Bóng rổ giúp tôi khẳng định mình&quot;](https://laodong.vn/the-thao/ba-bau-tracy-thu-luong-bong-ro-giup-toi-khang-dinh-minh-886726.ldo) ([Lao Động](https://laodong.vn))
-- [Pep Guardiola: &quot;Man United đá hay nhưng Man City không đáng thua&quot;](https://laodong.vn/bong-da-quoc-te/pep-guardiola-man-united-da-hay-nhung-man-city-khong-dang-thua-886858.ldo) ([Lao Động](https://laodong.vn))
-- [Đi làm ngày Giỗ Tổ Hùng Vương được hưởng lương bao nhiêu?](https://laodong.vn/cong-doan/di-lam-ngay-gio-to-hung-vuong-duoc-huong-luong-bao-nhieu-886864.ldo) ([Lao Động](https://laodong.vn))
 - [Những nhân viên y tế đầu tiên tại TPHCM được tiêm vaccine phòng COVID-19](https://laodong.vn/photo/nhung-nhan-vien-y-te-dau-tien-tai-tphcm-duoc-tiem-vaccine-phong-covid-19-886839.ldo) ([Lao Động](https://laodong.vn))
 - [TP HCM có 'ATM nhận trả hồ sơ'](https://vnexpress.net/tp-hcm-co-atm-nhan-tra-ho-so-4245106.html) ([VNExpress](https://vnexpress.net))
-- [Rùng mình 'lò mổ' thẩm mỹ chui](https://cafebiz.vn/rung-minh-lo-mo-tham-my-chui-20210308114439228.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
