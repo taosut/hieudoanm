@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 23°C.
-- Feels Like 25.17°C.
-- Air Visual is 118.
+- Temperature is 22°C.
+- Feels Like 24.54°C.
+- Air Visual is 131.
 
 **WEATHER**
 
@@ -48,6 +48,8 @@
 
 **GOOGLE TRENDS**
 
+- [![8-3 là ngày gì](https://img.shields.io/static/v1?label=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC)
+- [![8.3](https://img.shields.io/static/v1?label=8.3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8.3)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
@@ -56,15 +58,13 @@
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
+- [![Mina (AOA](https://img.shields.io/static/v1?label=Mina%20(AOA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mina%20(AOA)
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
-- [![Ngày 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208/3)
+- [![Ngày 8-3](https://img.shields.io/static/v1?label=Ng%C3%A0y%208-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208-3)
 - [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
-- [![Phùng Xuân Nhạ](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1)
-- [![Qua tang 8/3](https://img.shields.io/static/v1?label=Qua%20tang%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qua%20tang%208/3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
-- [![Thế Giới Di dong](https://img.shields.io/static/v1?label=Th%E1%BA%BF%20Gi%E1%BB%9Bi%20Di%20dong&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BA%BF%20Gi%E1%BB%9Bi%20Di%20dong)
 - [![Truc tiep ngoai hang Anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20Anh)
 - [![Trưc tiep bong da](https://img.shields.io/static/v1?label=Tr%C6%B0c%20tiep%20bong%20da&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0c%20tiep%20bong%20da)
 - [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Bình Phước: Nữ đoàn viên Công đoàn duyên dáng trong tà áo dài đến làm việc](https://laodong.vn/ldld-binh-phuoc/binh-phuoc-nu-doan-vien-cong-doan-duyen-dang-trong-ta-ao-dai-den-lam-viec-887083.ldo) ([Lao Động](https://laodong.vn))
+- [Có đường dây đưa người Trung Quốc vào Việt Nam để sang Campuchia?](https://tuoitre.vn/co-duong-day-dua-nguoi-trung-quoc-vao-viet-nam-de-sang-campuchia-20210308221503855.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Đi xe máy điện gây tai nạn chết người rồi bỏ trốn](https://laodong.vn/phap-luat/di-xe-may-dien-gay-tai-nan-chet-nguoi-roi-bo-tron-887084.ldo) ([Lao Động](https://laodong.vn))
 - [Bamboo Airways vượt anh cả Vietnam Airlines, dẫn đầu về số đường bay nội địa](https://cafebiz.vn/bamboo-airways-vuot-anh-ca-vietnam-airlines-dan-dau-ve-so-duong-bay-noi-dia-20210308215024592.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cách kiểm tra mình có dính nợ xấu từ “trên trời rơi xuống” hay không](https://cafebiz.vn/cach-kiem-tra-minh-co-dinh-no-xau-tu-tren-troi-roi-xuong-hay-khong-20210308175221508.chn) ([CafeBiz](https://cafebiz.vn))
@@ -83,8 +85,6 @@
 - [Phật giáo chỉ ra 4 kiểu người phúc mỏng mệnh khổ: Hãy xem bạn có nằm trong số đó hay không](https://cafebiz.vn/phat-giao-chi-ra-4-kieu-nguoi-phuc-mong-menh-kho-hay-xem-ban-co-nam-trong-so-do-hay-khong-20210308164203301.chn) ([CafeBiz](https://cafebiz.vn))
 - [Dự đoán chi tiết tổng quan cuộc sống của 12 con giáp trong tuần mới 8/3 - 14/3: Tuổi Tỵ tìm được mục tiêu mới, tuổi Hợi gặp được người thương yêu](https://cafebiz.vn/du-doan-chi-tiet-tong-quan-cuoc-song-cua-12-con-giap-trong-tuan-moi-8-3-14-3-tuoi-ty-tim-duoc-muc-tieu-moi-tuoi-hoi-gap-duoc-nguoi-thuong-yeu-20210308170344876.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắt đối tượng vận chuyển 30.000 viên hồng phiến](https://laodong.vn/phap-luat/bat-doi-tuong-van-chuyen-30000-vien-hong-phien-887080.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất hôm nay: Lãnh đạo nước ngoài đầu tiên đến Nhà Trắng thời ông Biden](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-lanh-dao-nuoc-ngoai-dau-tien-den-nha-trang-thoi-ong-biden-887014.ldo) ([Lao Động](https://laodong.vn))
-- [Xem máy bay Israel hộ tống B-52 Mỹ để &quot;thị uy&quot; Iran](https://laodong.vn/the-gioi/xem-may-bay-israel-ho-tong-b-52-my-de-thi-uy-iran-887000.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -138,8 +138,8 @@
 06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 08. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
-09. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
-10. [Highlights Bayern Munich vs Dortmund | Haaland gọi cú đúp - Lewandowski trả lời bằng hat-trick](https://www.youtube.com/watch?v=fVtAlF8ylxE) - [MÃN NHÃN TV](https://www.youtube.com/channel/UCoqrrrfDpWOgdqw1vRoiG_A)
+09. [Highlights Bayern Munich vs Dortmund | Haaland gọi cú đúp - Lewandowski trả lời bằng hat-trick](https://www.youtube.com/watch?v=fVtAlF8ylxE) - [MÃN NHÃN TV](https://www.youtube.com/channel/UCoqrrrfDpWOgdqw1vRoiG_A)
+10. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
 
 [Read More](https://www.youtube.com/feed/trending)
 
