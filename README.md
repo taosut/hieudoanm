@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 25.53°C.
-- Air Visual is 145.
+- Feels Like 25.17°C.
+- Air Visual is 127.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hải Phòng: Cháy lớn tại cửa hàng thiết bị điện phố Thiên Lôi](https://laodong.vn/xa-hoi/hai-phong-chay-lon-tai-cua-hang-thiet-bi-dien-pho-thien-loi-887078.ldo) ([Lao Động](https://laodong.vn))
+- [Nếu năm xưa không phát động trận Di Lăng đánh Tôn Quyền, liệu Lưu Bị có thể bảo toàn được lực lượng và thống nhất thiên hạ?](https://cafebiz.vn/neu-nam-xua-khong-phat-dong-tran-di-lang-danh-ton-quyen-lieu-luu-bi-co-the-bao-toan-duoc-luc-luong-va-thong-nhat-thien-ha-20210308163700563.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chứng khoán tiếp tục lình xình, cần kiên trì chờ tới giờ G?](https://laodong.vn/kinh-te/chung-khoan-tiep-tuc-linh-xinh-can-kien-tri-cho-toi-gio-g-887072.ldo) ([Lao Động](https://laodong.vn))
+- [Con gái Minh Nhựa: ‘Một đứa 21 tuổi như em sao tự mua chiếc xe đắt như Porsche 911 được’](https://cafebiz.vn/con-gai-minh-nhua-mot-dua-21-tuoi-nhu-em-sao-tu-mua-chiec-xe-dat-nhu-porsche-911-duoc-2021030820252319.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chỉ cách chức nguyên Bí thư Thành ủy TP.HCM với ông Lê Thanh Hải là chưa "quyết liệt"](http://vietnamnet.vn/vn/thoi-su/chinh-tri/chi-cach-chuc-nguyen-bi-thu-thanh-uy-tp-hcm-voi-ong-le-thanh-hai-la-chua-quyet-liet-718112.html) ([VietNamNet](https://vietnamnet.vn))
 - [Biết rõ dấu hiệu ung thư vòm họng giai đoạn đầu, cơ hội sống sót lên tới 72%: Đâu là cách phòng ngừa?](https://cafebiz.vn/biet-ro-dau-hieu-ung-thu-vom-hong-giai-doan-dau-co-hoi-song-sot-len-toi-72-dau-la-cach-phong-ngua-20210308165939981.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chân dung ông chủ xe Mercedes không bắt đền còn tặng xe máy cho người va chạm giao thông](https://cafebiz.vn/chan-dung-ong-chu-xe-mercedes-khong-bat-den-con-tang-xe-may-cho-nguoi-va-cham-giao-thong-20210308202136003.chn) ([CafeBiz](https://cafebiz.vn))
 - [TPHCM mở cửa thêm một số dịch vụ, vẫn cấm karaoke, vũ trường, bar](https://laodong.vn/xa-hoi/tphcm-mo-cua-them-mot-so-dich-vu-van-cam-karaoke-vu-truong-bar-887076.ldo) ([Lao Động](https://laodong.vn))
 - [Nhân ngày Quốc tế Phụ nữ: Lắng nghe đàn ông lên tiếng về bình đẳng giới](https://laodong.vn/the-gioi/nhan-ngay-quoc-te-phu-nu-lang-nghe-dan-ong-len-tieng-ve-binh-dang-gioi-886965.ldo) ([Lao Động](https://laodong.vn))
 - [Kinh tế học cho nhà đầu tư: Tại sao đầu tư chứng khoán cần cảnh giác với lạm phát?](https://cafebiz.vn/kinh-te-hoc-cho-nha-dau-tu-tai-sao-dau-tu-chung-khoan-can-canh-giac-voi-lam-phat-20210308200142261.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tạm giam 8 đối tượng trong đường dây mua bán trẻ sơ sinh](https://laodong.vn/phap-luat/tam-giam-8-doi-tuong-trong-duong-day-mua-ban-tre-so-sinh-887073.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang sẽ triển khai tiêm vaccine COVID-19 đảm bảo khoa học, hiệu quả](https://laodong.vn/xa-hoi/bac-giang-se-trien-khai-tiem-vaccine-covid-19-dam-bao-khoa-hoc-hieu-qua-887068.ldo) ([Lao Động](https://laodong.vn))
-- [Công an Đồng Nai kêu gọi 2 đối tượng có dấu hiệu lừa đảo ra trình diện](https://laodong.vn/phap-luat/cong-an-dong-nai-keu-goi-2-doi-tuong-co-dau-hieu-lua-dao-ra-trinh-dien-887067.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 9.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-93-886912.ldo) ([Lao Động](https://laodong.vn))
-- [Cuối cùng, việc gì khó cũng phải đến tay Man United](https://laodong.vn/bong-da-quoc-te/cuoi-cung-viec-gi-kho-cung-phai-den-tay-man-united-886913.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
