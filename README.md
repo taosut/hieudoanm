@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 24.62°C.
-- Air Visual is 154.
+- Feels Like 24.81°C.
+- Air Visual is 160.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Công ty đầu tiên chi chục triệu USD mua tiền số Ehtereum](https://cafebiz.vn/cong-ty-dau-tien-chi-chuc-trieu-usd-mua-tien-so-ehtereum-20210308144520368.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hơn 8.000 đơn vị máu tiếp nhận trong Lễ hội Xuân hồng 2021](https://laodong.vn/suc-khoe/hon-8000-don-vi-mau-tiep-nhan-trong-le-hoi-xuan-hong-2021-886917.ldo) ([Lao Động](https://laodong.vn))
+- [Laporta đắc cử Chủ tịch Barcelona: Chiến thắng của “nỗi sợ mất Messi&quot;](https://laodong.vn/bong-da-quoc-te/laporta-dac-cu-chu-tich-barcelona-chien-thang-cua-noi-so-mat-messi-886890.ldo) ([Lao Động](https://laodong.vn))
+- [Đồng Nai: Hơn 80 đơn vị tham gia cuộc thi ảnh “Tự hào áo dài Việt Nam”](https://laodong.vn/cong-doan/dong-nai-hon-80-don-vi-tham-gia-cuoc-thi-anh-tu-hao-ao-dai-viet-nam-886910.ldo) ([Lao Động](https://laodong.vn))
+- [Cảm xúc người được tiêm vắc xin COVID-19 đầu tiên ở Hải Dương](https://cafebiz.vn/cam-xuc-nguoi-duoc-tiem-vac-xin-covid-19-dau-tien-o-hai-duong-20210308143550917.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tại sao "thần y" Võ Hoàng Yên không đủ điều kiện vẫn được đặc cách cấp giấy phép hoạt động Trung tâm phục hồi chức năng ở Hà Tĩnh?](https://cafebiz.vn/tai-sao-than-y-vo-hoang-yen-khong-du-dieu-kien-van-duoc-dac-cach-cap-giay-phep-hoat-dong-trung-tam-phuc-hoi-chuc-nang-o-ha-tinh-20210308143037192.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đồng Nai kiểm tra liên ngành doanh nghiệp có nhiều nguy cơ tai nạn lao động](https://laodong.vn/cong-doan/dong-nai-kiem-tra-lien-nganh-doanh-nghiep-co-nhieu-nguy-co-tai-nan-lao-dong-886896.ldo) ([Lao Động](https://laodong.vn))
+- [NCB phát hành thẻ Chip ghi nợ nội địa đạt chuẩn VCCS](https://laodong.vn/doanh-nghiep-doanh-nhan/ncb-phat-hanh-the-chip-ghi-no-noi-dia-dat-chuan-vccs-886838.ldo) ([Lao Động](https://laodong.vn))
+- [Cách tính thời điểm nghỉ hưu và hưởng lương hưu thế nào?](https://laodong.vn/ban-doc/cach-tinh-thoi-diem-nghi-huu-va-huong-luong-huu-the-nao-886870.ldo) ([Lao Động](https://laodong.vn))
 - [Vietjet Air khởi động lại kế hoạch bán toàn bộ 17,8 triệu cổ phiếu quỹ, dự kiến thu hơn 2.400 tỷ đồng bổ sung vốn lưu động](https://cafebiz.vn/vietjet-air-khoi-dong-lai-ke-hoach-ban-toan-bo-178-trieu-co-phieu-quy-du-kien-thu-hon-2400-ty-dong-bo-sung-von-luu-dong-2021030814244655.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Trump sắp đến New York lần đầu kể từ khi rời Nhà Trắng](https://laodong.vn/the-gioi/ong-trump-sap-den-new-york-lan-dau-ke-tu-khi-roi-nha-trang-886882.ldo) ([Lao Động](https://laodong.vn))
 - ['Dì ơi, con gọi dì bằng mẹ được không'](https://tuoitre.vn/di-oi-con-goi-di-bang-me-duoc-khong-20210308010833428.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đức tính chung mà những người thành công từ Bill Gates đến Warren Buffett đều có](https://cafebiz.vn/duc-tinh-chung-ma-nhung-nguoi-thanh-cong-tu-bill-gates-den-warren-buffett-deu-co-20210308142335381.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lâm Đồng dự kiến trồng 50 triệu cây xanh](https://laodong.vn/xa-hoi/lam-dong-du-kien-trong-50-trieu-cay-xanh-886738.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam được hỗ trợ 86,3 triệu USD để thúc đẩy đầu tư vào tiết kiệm năng lượng](https://cafebiz.vn/viet-nam-duoc-ho-tro-863-trieu-usd-de-thuc-day-dau-tu-vao-tiet-kiem-nang-luong-2021030813485737.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tuyển sinh 2021: Danh sách các trường Đại học xét học bạ](https://laodong.vn/giao-duc/tuyen-sinh-2021-danh-sach-cac-truong-dai-hoc-xet-hoc-ba-886893.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyện gì đang xảy ra với cổ phiếu GameStop?](https://cafebiz.vn/chuyen-gi-dang-xay-ra-voi-co-phieu-gamestop-20210308134005574.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
