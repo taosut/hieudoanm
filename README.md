@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 24°C.
-- Feels Like 25.76°C.
-- Air Visual is 157.
+- Feels Like 25.04°C.
+- Air Visual is 139.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Meghan Markle đấu tố trực diện chị dâu Kate, tiết lộ hàng loạt bí mật gây sốc về Hoàng gia Anh và khẳng định mình bị chèn ép đến trầm cảm](https://cafebiz.vn/meghan-markle-dau-to-truc-dien-chi-dau-kate-tiet-lo-hang-loat-bi-mat-gay-soc-ve-hoang-gia-anh-va-khang-dinh-minh-bi-chen-ep-den-tram-cam-2021030815532748.chn) ([CafeBiz](https://cafebiz.vn))
+- [Meghan Markle tung cáo buộc "bom tấn" nhằm vào Hoàng gia Anh: Tôi không muốn sống nữa!](https://cafebiz.vn/meghan-markle-tung-cao-buoc-bom-tan-nham-vao-hoang-gia-anh-toi-khong-muon-song-nua-20210308155120193.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xét nghiệm COVID-19 bằng... tiếng hét](https://cafebiz.vn/xet-nghiem-covid-19-bang-tieng-het-20210308155034553.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sau khi thay Chủ tịch, Vietbank chính thức bổ nhiệm ông Lê Huy Dũng làm Tổng giám đốc](https://cafebiz.vn/sau-khi-thay-chu-tich-vietbank-co-tong-giam-doc-moi-20210308154903425.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vườn chim Bạc Liêu báo động cháy cấp IV, hạn chế người dân vào rừng](https://laodong.vn/xa-hoi/vuon-chim-bac-lieu-bao-dong-chay-cap-iv-han-che-nguoi-dan-vao-rung-886925.ldo) ([Lao Động](https://laodong.vn))
+- [Siêu mẫu Hà Anh: "Muốn giải phóng phụ nữ hãy lắng nghe họ"](https://cafebiz.vn/sieu-mau-ha-anh-muon-giai-phong-phu-nu-hay-lang-nghe-ho-20210308150048633.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bán nệm kiểu Ru9: 90% đơn hàng là bán online, không phụ thuộc showroom, tặng miễn phí 100 đêm ngủ thử, doanh số tăng 300% năm Covid 2020](https://cafebiz.vn/ban-nem-kieu-ru9-90-don-hang-la-ban-online-khong-phu-thuoc-showroom-tang-mien-phi-100-dem-ngu-thu-doanh-so-tang-300-nam-covid-2020-2021030815145339.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cổ phiếu Tesla thủng 600 USD, điều gì xảy ra với "con cưng" của Elon Musk](https://cafebiz.vn/co-phieu-tesla-thung-600-usd-dieu-gi-xay-ra-voi-con-cung-cua-elon-musk-20210308153339081.chn) ([CafeBiz](https://cafebiz.vn))
 - [Người dân đăng ký tiêm vắc xin COVID-19 như thế nào?](https://cafebiz.vn/nguoi-dan-dang-ky-tiem-vac-xin-covid-19-nhu-the-nao-20210308153537286.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đề xuất đầu tư 15 dự án giao thông trọng điểm](https://vnexpress.net/de-xuat-dau-tu-15-du-an-giao-thong-trong-diem-4245209.html) ([VNExpress](https://vnexpress.net))
-- [Những điều cần lưu ý trước và sau khi tiêm vaccine COVID-19](https://laodong.vn/infographic/nhung-dieu-can-luu-y-truoc-va-sau-khi-tiem-vaccine-covid-19-886903.ldo) ([Lao Động](https://laodong.vn))
-- [Nhà sáng lập Twitter rao bán dòng tweet đầu tiên dưới dạng token độc nhất, đã có người trả giá tới 2,5 triệu USD](https://cafebiz.vn/nha-sang-lap-twitter-rao-ban-dong-tweet-dau-tien-duoi-dang-token-doc-nhat-da-co-nguoi-tra-gia-toi-25-trieu-usd-20210308134552278.chn) ([CafeBiz](https://cafebiz.vn))
-- [Manulife: Lợi ích từ gia tăng nữ trong bộ máy lãnh đạo](https://laodong.vn/thong-tin-doanh-nghiep/manulife-loi-ich-tu-gia-tang-nu-trong-bo-may-lanh-dao-886141.ldo) ([Lao Động](https://laodong.vn))
-- [Đi làm 9 năm không thăng tiến trong khi đồng nghiệp mới vào 6 tháng đã được trọng dụng: Tôi bẽ bàng phát hiện ra 8 "vật cản" vô hình đẩy lùi sự nghiệp](https://cafebiz.vn/di-lam-9-nam-khong-thang-tien-trong-khi-dong-nghiep-moi-vao-6-thang-da-duoc-trong-dung-toi-be-bang-phat-hien-ra-8-vat-can-vo-hinh-day-lui-su-nghiep-20210308152838935.chn) ([CafeBiz](https://cafebiz.vn))
-- [An Giang: Đầu mùa khô, đã có hơn 7.000ha rừng nguy cơ cháy](https://laodong.vn/xa-hoi/an-giang-dau-mua-kho-da-co-hon-7000ha-rung-nguy-co-chay-886918.ldo) ([Lao Động](https://laodong.vn))
-- [Cây di sản cổ nhất tỉnh Long An đang “khát nước”](https://laodong.vn/ban-doc/cay-di-san-co-nhat-tinh-long-an-dang-khat-nuoc-886916.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
