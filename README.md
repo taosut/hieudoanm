@@ -48,26 +48,26 @@
 
 **GOOGLE TRENDS**
 
-- [![8-3 là ngày gì](https://img.shields.io/static/v1?label=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8-3%20l%C3%A0%20ng%C3%A0y%20g%C3%AC)
 - [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
 - [![Cuộc chiến thượng lưu 2](https://img.shields.io/static/v1?label=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Cu%E1%BB%99c%20chi%E1%BA%BFn%20th%C6%B0%E1%BB%A3ng%20l%C6%B0u%202)
 - [![Genshin Impact](https://img.shields.io/static/v1?label=Genshin%20Impact&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Genshin%20Impact)
+- [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
+- [![Hoa 'tiền](https://img.shields.io/static/v1?label=Hoa%20'ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20'ti%E1%BB%81n)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
-- [![Hoa tiền](https://img.shields.io/static/v1?label=Hoa%20ti%E1%BB%81n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20ti%E1%BB%81n)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Lê Tấn Hùng](https://img.shields.io/static/v1?label=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20T%E1%BA%A5n%20H%C3%B9ng)
-- [![Lịch sử ngày 8/3](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20s%E1%BB%AD%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20s%E1%BB%AD%20ng%C3%A0y%208/3)
+- [![Lời chúc 8/3 cho cô giáo](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20c%C3%B4%20gi%C3%A1o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%208/3%20cho%20c%C3%B4%20gi%C3%A1o)
+- [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
+- [![Ngày 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%208/3)
 - [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Phùng Xuân Nhạ](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1)
-- [![Qua tang 8/3](https://img.shields.io/static/v1?label=Qua%20tang%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qua%20tang%208/3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
-- [![Truc tiep ngoai hang Anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20Anh)
-- [![Tuấn Trần](https://img.shields.io/static/v1?label=Tu%E1%BA%A5n%20Tr%E1%BA%A7n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tu%E1%BA%A5n%20Tr%E1%BA%A7n)
+- [![Truc tiep ngoai hang anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20anh)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tập đoàn Trung Thủy trở lại thị trường bất động sản Hà Nội với dự án phức hợp "bắt tay" với ông lớn Nhật Takashimaya](https://cafebiz.vn/tap-doan-trung-thuy-tro-lai-thi-truong-bat-dong-san-ha-noi-voi-du-an-phuc-hop-bat-tay-voi-ong-lon-nhat-takashimaya-20210308173323646.chn) ([CafeBiz](https://cafebiz.vn))
+- [Gãy đà tăng, giá vàng tiếp tục chìm sâu](https://laodong.vn/kinh-te/gay-da-tang-gia-vang-tiep-tuc-chim-sau-887004.ldo) ([Lao Động](https://laodong.vn))
+- [Trung ương thảo luận về nhân sự một số chức danh lãnh đạo cơ quan Nhà nước](https://laodong.vn/thoi-su/trung-uong-thao-luan-ve-nhan-su-mot-so-chuc-danh-lanh-dao-co-quan-nha-nuoc-886987.ldo) ([Lao Động](https://laodong.vn))
+- [4 lời khuyên khởi nghiệp từ người sáng lập công ty tỷ USD](https://cafebiz.vn/4-loi-khuyen-khoi-nghiep-tu-nguoi-sang-lap-cong-ty-ty-usd-20210308161256084.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chùa Hương mở cửa đón khách](https://vnexpress.net/chua-huong-mo-cua-don-khach-4245345.html) ([VNExpress](https://vnexpress.net))
+- [Nhiệm kỳ đầu của Laporta ở Barcelona có phải toàn màu hồng?](https://laodong.vn/bong-da-quoc-te/nhiem-ky-dau-cua-laporta-o-barcelona-co-phai-toan-mau-hong-886934.ldo) ([Lao Động](https://laodong.vn))
+- [Được đóng bảo hiểm xã hội tự nguyện 1 lần 9 năm để nghỉ hưu sớm không?](https://laodong.vn/ban-doc/duoc-dong-bao-hiem-xa-hoi-tu-nguyen-1-lan-9-nam-de-nghi-huu-som-khong-886993.ldo) ([Lao Động](https://laodong.vn))
 - [Nghẹn ngào nhớ lại giây phút chống dịch của nữ bác sĩ ở Chí Linh, Hải Dương](https://laodong.vn/xa-hoi/nghen-ngao-nho-lai-giay-phut-chong-dich-cua-nu-bac-si-o-chi-linh-hai-duong-886926.ldo) ([Lao Động](https://laodong.vn))
-- [Lịch nghỉ lễ 30.4 và 1.5 năm 2021 của công chức, người lao động](https://laodong.vn/cong-doan/lich-nghi-le-304-va-15-nam-2021-cua-cong-chuc-nguoi-lao-dong-886979.ldo) ([Lao Động](https://laodong.vn))
-- [Tây Ninh: Tặng quà cho 2.383 nữ công nhân lao động ngày Quốc tế Phụ nữ](https://laodong.vn/cong-doan/tay-ninh-tang-qua-cho-2383-nu-cong-nhan-lao-dong-ngay-quoc-te-phu-nu-886991.ldo) ([Lao Động](https://laodong.vn))
-- [Những ca khúc nữ quyền của Kpop: Blackpink, SNSD, 2NE1 để lại dấu ấn](https://laodong.vn/giai-tri/nhung-ca-khuc-nu-quyen-cua-kpop-blackpink-snsd-2ne1-de-lai-dau-an-886744.ldo) ([Lao Động](https://laodong.vn))
-- [Cựu tuyển thủ Vũ Như Thành chỉ ra điểm mình giống Đình Trọng](https://laodong.vn/bong-da/cuu-tuyen-thu-vu-nhu-thanh-chi-ra-diem-minh-giong-dinh-trong-886963.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương tiếp tục lùi lịch giao tân binh](https://vnexpress.net/hai-duong-tiep-tuc-lui-lich-giao-tan-binh-4245290.html) ([VNExpress](https://vnexpress.net))
 - [Thiên thạch này có giá cao hơn cả vàng: nó nắm giữ bí mật về sự sống](https://cafebiz.vn/thien-thach-nay-co-gia-cao-hon-ca-vang-no-nam-giu-bi-mat-ve-su-song-20210308134828993.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xu hướng giải trí mùa dịch: Esports lên ngôi, cơ hội vàng cho các nhà tài trợ](https://cafebiz.vn/xu-huong-giai-tri-mua-dich-esports-len-ngoi-co-hoi-vang-cho-cac-nha-tai-tro-20210308164038197.chn) ([CafeBiz](https://cafebiz.vn))
-- [CEO Nhất Tín Logistics: Trong đại dịch, con người vẫn luôn là ưu tiên hàng đầu của chúng tôi](https://cafebiz.vn/ceo-nhat-tin-logistics-trong-dai-dich-con-nguoi-van-luon-la-uu-tien-hang-dau-cua-chung-toi-20210308154304427.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chỉ đạo khẩn về xử lý tiếp vụ sai phạm tại khu cách ly của Vietnam Airlines.](http://vietnamnet.vn/vn/thoi-su/chi-dao-khan-ve-xu-ly-tiep-vu-sai-pham-tai-khu-cach-ly-cua-vietnam-airlines-718084.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -134,12 +134,12 @@
 02. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 03. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 04. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-06. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
+05. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
+06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 08. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
 09. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
-10. [Kinh ngạc Thế giới dưới lòng đất - Trung Quốc xây ngay tại Lạng Sơn](https://www.youtube.com/watch?v=mpuudi8AMIU) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
+10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
