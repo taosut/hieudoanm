@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 22°C.
-- Feels Like 24.02°C.
-- Air Visual is 155.
+- Feels Like 24.38°C.
+- Air Visual is 156.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chuyện sốt đất 30 năm qua: Cứ có sân bay là tăng giá?](https://cafebiz.vn/chuyen-sot-dat-30-nam-qua-cu-co-san-bay-la-tang-gia-20210308103538459.chn) ([CafeBiz](https://cafebiz.vn))
+- [Các cơ sở thờ tự ở Hà Nội nơi mở cửa, chỗ vẫn &quot;cửa đóng, then cài&quot;](https://laodong.vn/xa-hoi/cac-co-so-tho-tu-o-ha-noi-noi-mo-cua-cho-van-cua-dong-then-cai-886852.ldo) ([Lao Động](https://laodong.vn))
+- [“Chia tay” khu đất vàng Hàng Bài, Tân Hoàng Minh rót 900 tỷ đồng “hồi sinh” 1 công ty âm vốn hàng trăm tỷ nhưng nắm giữ nhiều BĐS](https://cafebiz.vn/chia-tay-khu-dat-vang-hang-bai-tan-hoang-minh-rot-900-ty-dong-hoi-sinh-1-cong-ty-am-von-hang-tram-ty-nhung-nam-giu-nhieu-bds-20210308122140105.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tổng thống Biden mời lãnh đạo nước ngoài đầu tiên đến Nhà Trắng](https://laodong.vn/the-gioi/tong-thong-biden-moi-lanh-dao-nuoc-ngoai-dau-tien-den-nha-trang-886865.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Bà bầu&quot; Tracy Thư Lương: “Bóng rổ giúp tôi khẳng định mình&quot;](https://laodong.vn/the-thao/ba-bau-tracy-thu-luong-bong-ro-giup-toi-khang-dinh-minh-886726.ldo) ([Lao Động](https://laodong.vn))
 - [Pep Guardiola: &quot;Man United đá hay nhưng Man City không đáng thua&quot;](https://laodong.vn/bong-da-quoc-te/pep-guardiola-man-united-da-hay-nhung-man-city-khong-dang-thua-886858.ldo) ([Lao Động](https://laodong.vn))
 - [Đi làm ngày Giỗ Tổ Hùng Vương được hưởng lương bao nhiêu?](https://laodong.vn/cong-doan/di-lam-ngay-gio-to-hung-vuong-duoc-huong-luong-bao-nhieu-886864.ldo) ([Lao Động](https://laodong.vn))
 - [Những nhân viên y tế đầu tiên tại TPHCM được tiêm vaccine phòng COVID-19](https://laodong.vn/photo/nhung-nhan-vien-y-te-dau-tien-tai-tphcm-duoc-tiem-vaccine-phong-covid-19-886839.ldo) ([Lao Động](https://laodong.vn))
-- [Ngày 8.3: Hình ảnh của những nữ công nhân lao động cực nhọc mưu sinh](https://laodong.vn/xa-hoi/ngay-83-hinh-anh-cua-nhung-nu-cong-nhan-lao-dong-cuc-nhoc-muu-sinh-886842.ldo) ([Lao Động](https://laodong.vn))
-- [TP HCM có 'ATM nhận trả hồ sơ' đầu tiên](https://vnexpress.net/tp-hcm-co-atm-nhan-tra-ho-so-dau-tien-4245106.html) ([VNExpress](https://vnexpress.net))
+- [TP HCM có 'ATM nhận trả hồ sơ'](https://vnexpress.net/tp-hcm-co-atm-nhan-tra-ho-so-4245106.html) ([VNExpress](https://vnexpress.net))
 - [Rùng mình 'lò mổ' thẩm mỹ chui](https://cafebiz.vn/rung-minh-lo-mo-tham-my-chui-20210308114439228.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kiến nghị cho máy bay Boeing 737 Max bay quá cảnh qua Việt Nam](https://tuoitre.vn/kien-nghi-cho-may-bay-boeing-737-max-bay-qua-canh-qua-viet-nam-20210308110101255.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Emas Fintech sập, người đứng đầu biệt tăm, hàng nghìn nhà đầu tư nguy cơ trắng tay](https://cafebiz.vn/emas-fintech-sap-nguoi-dung-dau-biet-tam-hang-nghin-nha-dau-tu-nguy-co-trang-tay-20210308114223441.chn) ([CafeBiz](https://cafebiz.vn))
-- [Học sinh Hải Phòng phấn khởi trong ngày trở lại trường](https://tuoitre.vn/hoc-sinh-hai-phong-phan-khoi-trong-ngay-tro-lai-truong-20210308113006886.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nóng tuyển sinh đầu cấp: Sai lầm nếu cứ chạy theo trường &quot;hot&quot;](https://laodong.vn/giao-duc/nong-tuyen-sinh-dau-cap-sai-lam-neu-cu-chay-theo-truong-hot-886835.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
