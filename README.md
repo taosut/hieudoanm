@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 25.89°C.
-- Air Visual is 82.
+- Feels Like 25.53°C.
+- Air Visual is 75.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Mâu thuẫn vặt, 2 thanh niên cầm dao xông vào nhà người khác chém người](https://laodong.vn/phap-luat/mau-thuan-vat-2-thanh-nien-cam-dao-xong-vao-nha-nguoi-khac-chem-nguoi-887343.ldo) ([Lao Động](https://laodong.vn))
-- [Xét nghiệm COVID-19 toàn bộ công nhân công ty POYUN trước khi trở lại làm việc](https://tuoitre.vn/xet-nghiem-covid-19-toan-bo-cong-nhan-cong-ty-poyun-truoc-khi-tro-lai-lam-viec-20210309163802853.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Người phụ nữ ở TP HCM mất 1,2 tỉ đồng chỉ vì nhấp vào đường link trên Zalo](https://cafebiz.vn/nguoi-phu-nu-o-tp-hcm-mat-12-ti-dong-chi-vi-nhap-vao-duong-link-tren-zalo-20210309165533455.chn) ([CafeBiz](https://cafebiz.vn))
-- [Các triệu phú luôn có đến 7 nguồn thu nhập: Đây là 10 thói quen khiến bạn muôn đời không giàu có nổi](https://cafebiz.vn/cac-trieu-phu-luon-co-den-7-nguon-thu-nhap-day-la-10-thoi-quen-khien-ban-muon-doi-khong-giau-co-noi-20210308200802052.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bí ẩn những doanh nhân 9X 'ôm' dự án hàng nghìn tỷ đồng](https://cafebiz.vn/bi-an-nhung-doanh-nhan-9x-om-du-an-hang-nghin-ty-dong-20210309165136891.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo viên hưởng phụ cấp thâm niên vượt khung được xếp lương mới](https://laodong.vn/cong-doan/giao-vien-huong-phu-cap-tham-nien-vuot-khung-duoc-xep-luong-moi-887345.ldo) ([Lao Động](https://laodong.vn))
-- [Khánh Hòa cần sớm triển khai, hoàn thiện bản đồ an toàn COVID-19](https://laodong.vn/cong-doan/khanh-hoa-can-som-trien-khai-hoan-thien-ban-do-an-toan-covid-19-887355.ldo) ([Lao Động](https://laodong.vn))
-- [Những lợi ích tuyệt vời từ chế độ ăn Keto](https://laodong.vn/suc-khoe/nhung-loi-ich-tuyet-voi-tu-che-do-an-keto-887321.ldo) ([Lao Động](https://laodong.vn))
-- [8 mẹo khi mua đồ ăn ở siêu thị giúp tiết kiệm được kha khá tiền mà chắc chắn nhiều người không để ý](https://cafebiz.vn/8-meo-khi-mua-do-an-o-sieu-thi-giup-tiet-kiem-duoc-kha-kha-tien-ma-chac-chan-nhieu-nguoi-khong-de-y-20210309150754521.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những công việc nào lương 80-100 triệu/tháng, đang "khát" nhân sự ở Việt Nam?](https://cafebiz.vn/nhung-cong-viec-nao-luong-80-100-trieu-thang-dang-khat-nhan-su-o-viet-nam-20210309164441045.chn) ([CafeBiz](https://cafebiz.vn))
+- [Triết lý kinh doanh đơn giản giúp nữ CEO phòng gym trẻ em biến thị trường không khách hàng thành “mỏ vàng”](https://cafebiz.vn/triet-ly-kinh-doanh-don-gian-giup-nu-ceo-phong-gym-tre-em-bien-thi-truong-khong-khach-hang-thanh-mo-vang-20210309151741888.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhật thông báo viện trợ khẩn cấp kho lạnh chứa vắc xin COVID-19 cho Việt Nam](https://tuoitre.vn/nhat-thong-bao-vien-tro-khan-cap-kho-lanh-chua-vac-xin-covid-19-cho-viet-nam-20210309170952094.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Đóng BHXH tự nguyện 10 năm được hưởng trợ cấp mai táng thế nào](https://laodong.vn/ban-doc/dong-bhxh-tu-nguyen-10-nam-duoc-huong-tro-cap-mai-tang-the-nao-887330.ldo) ([Lao Động](https://laodong.vn))
+- [Nghi án chồng sát hại vợ và con gái rồi tự tử](https://laodong.vn/xa-hoi/nghi-an-chong-sat-hai-vo-va-con-gai-roi-tu-tu-887363.ldo) ([Lao Động](https://laodong.vn))
+- [Thúy Diễm – Lương Thế Thành: &quot;Đóng cặp với nhau khó hơn với bạn diễn khác&quot;](https://laodong.vn/van-hoa-giai-tri/thuy-diem--luong-the-thanh-dong-cap-voi-nhau-kho-hon-voi-ban-dien-khac-887347.ldo) ([Lao Động](https://laodong.vn))
+- [Mua đất chỉ có giấy viết tay có được cấp sổ đỏ không?](https://laodong.vn/bat-dong-san/mua-dat-chi-co-giay-viet-tay-co-duoc-cap-so-do-khong-887356.ldo) ([Lao Động](https://laodong.vn))
+- [Tin xấu cho người đội mũ sừng bò gây bạo loạn Capitol](https://laodong.vn/the-gioi/tin-xau-cho-nguoi-doi-mu-sung-bo-gay-bao-loan-capitol-887338.ldo) ([Lao Động](https://laodong.vn))
+- [Chùa Hương rục rịch chuẩn bị đón khách trở lại sau thời gian đóng cửa](https://laodong.vn/photo/chua-huong-ruc-rich-chuan-bi-don-khach-tro-lai-sau-thoi-gian-dong-cua-887271.ldo) ([Lao Động](https://laodong.vn))
+- [Công nghệ sản xuất chip ngày càng hiện đại, tại sao thế giới lại bị "hạn hán" chip như hiện nay?](https://cafebiz.vn/cong-nghe-san-xuat-chip-ngay-cang-hien-dai-tai-sao-the-gioi-lai-bi-han-han-chip-nhu-hien-nay-20210309164513584.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nữ sinh rơi từ tầng 9 chung cư: Có một vỉ thuốc ngủ trong phòng nạn nhân](https://tuoitre.vn/nu-sinh-roi-tu-tang-9-chung-cu-co-mot-vi-thuoc-ngu-trong-phong-nan-nhan-20210309165824538.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
