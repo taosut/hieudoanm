@@ -48,22 +48,22 @@
 
 **GOOGLE TRENDS**
 
-- [![8.3](https://img.shields.io/static/v1?label=8.3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8.3)
+- [![8-3](https://img.shields.io/static/v1?label=8-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8-3)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Chúc mẹ 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BA%B9%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BA%B9%208/3)
 - [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
+- [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
 - [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
-- [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Joan Laporta](https://img.shields.io/static/v1?label=Joan%20Laporta&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joan%20Laporta)
 - [![Loi chuc vo 8/3](https://img.shields.io/static/v1?label=Loi%20chuc%20vo%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Loi%20chuc%20vo%208/3)
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
-- [![Mina (AOA](https://img.shields.io/static/v1?label=Mina%20(AOA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mina%20(AOA)
+- [![Mina AOA](https://img.shields.io/static/v1?label=Mina%20AOA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mina%20AOA)
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
-- [![Ngay 8-3](https://img.shields.io/static/v1?label=Ngay%208-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ngay%208-3)
-- [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế Phụ nữ 8-3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208-3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [TTCP &quot;giục&quot; Hà Nội thông báo kết quả xử vụ trù dập người tố cáo sai phạm](https://laodong.vn/phap-luat/ttcp-giuc-ha-noi-thong-bao-ket-qua-xu-vu-tru-dap-nguoi-to-cao-sai-pham-887218.ldo) ([Lao Động](https://laodong.vn))
+- [TP.HCM mở đợt cao điểm chặn đứng ô nhiễm tiếng ồn trong khu dân cư](https://tuoitre.vn/tp-hcm-mo-dot-cao-diem-chan-dung-o-nhiem-tieng-on-trong-khu-dan-cu-20210309105930541.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [TPHCM: Nhiều thiếu sót trong cấp giấy phép và quản lý xây dựng ở quận 11](https://laodong.vn/bat-dong-san/tphcm-nhieu-thieu-sot-trong-cap-giay-phep-va-quan-ly-xay-dung-o-quan-11-887200.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Rơi từ tầng cao chung cư xuống, thiếu nữ 16 tuổi tử vong](https://laodong.vn/xa-hoi/ha-noi-roi-tu-tang-cao-chung-cu-xuong-thieu-nu-16-tuoi-tu-vong-887221.ldo) ([Lao Động](https://laodong.vn))
+- [Bệnh viện đầu tiên tại Hà Nội tiêm vắc xin COVID-19 cho 30 người](https://tuoitre.vn/benh-vien-dau-tien-tai-ha-noi-tiem-vac-xin-covid-19-cho-30-nguoi-20210309104111129.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [34 người Trung Quốc nhập cảnh trái phép](https://vnexpress.net/34-nguoi-trung-quoc-nhap-canh-trai-phep-4245670.html) ([VNExpress](https://vnexpress.net))
+- [Thanh tra Chính phủ 'thúc' Hà Nội báo cáo vụ trù dập người tố cáo dự án Nhổn - ga Hà Nội](https://tuoitre.vn/thanh-tra-chinh-phu-thuc-ha-noi-bao-cao-vu-tru-dap-nguoi-to-cao-du-an-nhon-ga-ha-noi-20210309110847244.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Lao động nữ trong giai đoạn phát triển “chuyển đổi số”](https://laodong.vn/cd-dien-luc/lao-dong-nu-trong-giai-doan-phat-trien-chuyen-doi-so-887101.ldo) ([Lao Động](https://laodong.vn))
 - [TP HCM đặt mục tiêu chấm dứt tiếng ồn karaoke cuối năm nay](https://vnexpress.net/tp-hcm-dat-muc-tieu-cham-dut-tieng-on-karaoke-cuoi-nam-nay-4245696.html) ([VNExpress](https://vnexpress.net))
 - [Người dân Hải Phòng ăn mừng hết cách ly](https://vnexpress.net/nguoi-dan-hai-phong-an-mung-het-cach-ly-4245584.html) ([VNExpress](https://vnexpress.net))
-- [Cuộc đời là chuỗi những trò chơi, bạn đã biết cách chơi game và thắng game chưa?](https://cafebiz.vn/cuoc-doi-la-chuoi-nhung-tro-choi-ban-da-biet-cach-choi-game-va-thang-game-chua-2021030911310771.chn) ([CafeBiz](https://cafebiz.vn))
-- [An Giang: Khởi tố người phụ nữ đánh người vì mâu thuẫn tranh chấp ranh đất](https://laodong.vn/phap-luat/an-giang-khoi-to-nguoi-phu-nu-danh-nguoi-vi-mau-thuan-tranh-chap-ranh-dat-887215.ldo) ([Lao Động](https://laodong.vn))
-- [Xuân Trường: “Chúng tôi đã qua tuổi thanh xuân, chín chắn và trưởng thành&quot;](https://laodong.vn/bong-da/xuan-truong-chung-toi-da-qua-tuoi-thanh-xuan-chin-chan-va-truong-thanh-887204.ldo) ([Lao Động](https://laodong.vn))
-- [Hộ gia đình mua đất: Sổ đỏ đứng tên cha mẹ hay ghi cả các con?](https://laodong.vn/bat-dong-san/ho-gia-dinh-mua-dat-so-do-dung-ten-cha-me-hay-ghi-ca-cac-con-886966.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Biden lần đầu tiên phát biểu khung giờ vàng đánh dấu dịp đặc biệt](https://laodong.vn/the-gioi/ong-biden-lan-dau-tien-phat-bieu-khung-gio-vang-danh-dau-dip-dac-biet-887150.ldo) ([Lao Động](https://laodong.vn))
-- [Trấn Thành: Nghệ sĩ lắm tài, nhiều tật và những lần vạ miệng nhớ đời!](https://cafebiz.vn/tran-thanh-nghe-si-lam-tai-nhieu-tat-va-nhung-lan-va-mieng-nho-doi-20210309112530256.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vợ chồng Harry - Meghan ký 'deal hời' với Netflix: Nhận 100 triệu USD để 'kể chuyện gia đình qua lăng kính trung thực'](https://cafebiz.vn/vo-chong-harry-meghan-ky-deal-hoi-voi-netflix-nhan-100-trieu-usd-de-ke-chuyen-gia-dinh-qua-lang-kinh-trung-thuc-20210309110834436.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -139,7 +139,7 @@
 07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 08. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
 09. [Highlights Bayern Munich vs Dortmund | Haaland gọi cú đúp - Lewandowski trả lời bằng hat-trick](https://www.youtube.com/watch?v=fVtAlF8ylxE) - [MÃN NHÃN TV](https://www.youtube.com/channel/UCoqrrrfDpWOgdqw1vRoiG_A)
-10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
+10. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 
 [Read More](https://www.youtube.com/feed/trending)
 
