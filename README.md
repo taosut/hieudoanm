@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 25.69°C.
-- Air Visual is 104.
+- Temperature is 26°C.
+- Feels Like 26.11°C.
+- Air Visual is 87.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [F88 lãi gần 45 tỷ đồng năm 2020, lợi nhuận dồn hết vào 6 tháng cuối năm](https://cafebiz.vn/f88-lai-gan-45-ty-dong-nam-2020-loi-nhuan-don-het-vao-6-thang-cuoi-nam-20210309153439153.chn) ([CafeBiz](https://cafebiz.vn))
-- [LĐLĐ tỉnh Bình Phước triển khai hoạt động trọng tâm trong Tháng CN năm 2021](https://laodong.vn/ldld-binh-phuoc/ldld-tinh-binh-phuoc-trien-khai-hoat-dong-trong-tam-trong-thang-cn-nam-2021-887295.ldo) ([Lao Động](https://laodong.vn))
-- [Maserati MC20 sắp về Việt Nam khoe sức mạnh trên trường đua](https://cafebiz.vn/maserati-mc20-sap-ve-viet-nam-khoe-suc-manh-tren-truong-dua-20210309135054278.chn) ([CafeBiz](https://cafebiz.vn))
-- [UNIQLO ra mắt BST Xuân Hè 2021 cùng chuỗi talk show đặc biệt](https://cafebiz.vn/uniqlo-ra-mat-bst-xuan-he-2021-cung-chuoi-talk-show-dac-biet-2021030915181855.chn) ([CafeBiz](https://cafebiz.vn))
-- [3 phim hoạt hình đáng mong chờ trong nửa đầu năm 2021](https://laodong.vn/giai-tri/3-phim-hoat-hinh-dang-mong-cho-trong-nua-dau-nam-2021-887192.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương: Xe chở bật lửa bốc cháy ngùn ngụt trên Quốc lộ 18](https://laodong.vn/xa-hoi/hai-duong-xe-cho-bat-lua-boc-chay-ngun-ngut-tren-quoc-lo-18-887316.ldo) ([Lao Động](https://laodong.vn))
-- [Khối thi đua CĐ ngành Hải Phòng: Triển khai 9 nhiệm vụ chính năm 2021](https://laodong.vn/cong-doan/khoi-thi-dua-cd-nganh-hai-phong-trien-khai-9-nhiem-vu-chinh-nam-2021-887309.ldo) ([Lao Động](https://laodong.vn))
-- [Phóng sự ảnh: Ưu tiên hàng đầu của Thủ tướng với 'đất chín rồng’](https://cafebiz.vn/phong-su-anh-uu-tien-hang-dau-cua-thu-tuong-voi-dat-chin-rong-2021030915260273.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đàn vọoc tấn công hơn 20 người: Thống nhất phương án bắt giữ và di dời](https://laodong.vn/ban-doc/dan-vooc-tan-cong-hon-20-nguoi-thong-nhat-phuong-an-bat-giu-va-di-doi-887302.ldo) ([Lao Động](https://laodong.vn))
-- [Đại sứ Israel khen hồng xiêm là "bất ngờ tuyệt nhất của Việt Nam": 6 công dụng của hồng xiêm bạn chưa biết](https://cafebiz.vn/dai-su-israel-khen-hong-xiem-la-bat-ngo-tuyet-nhat-cua-viet-nam-6-cong-dung-cua-hong-xiem-ban-chua-biet-20210309152428872.chn) ([CafeBiz](https://cafebiz.vn))
+- [FBI lùng sục kho vàng bí ẩn hàng trăm triệu USD thời nội chiến?](https://laodong.vn/the-gioi/fbi-lung-suc-kho-vang-bi-an-hang-tram-trieu-usd-thoi-noi-chien-887317.ldo) ([Lao Động](https://laodong.vn))
+- [Phát biểu bế mạc Hội nghị Trung ương 2 của Tổng Bí thư, Chủ tịch Nước](https://laodong.vn/thoi-su/phat-bieu-be-mac-hoi-nghi-trung-uong-2-cua-tong-bi-thu-chu-tich-nuoc-887322.ldo) ([Lao Động](https://laodong.vn))
+- [Truy tìm người Trung Quốc cưa song sắt trốn khỏi khu cách ly tại Bình Dương](https://laodong.vn/xa-hoi/truy-tim-nguoi-trung-quoc-cua-song-sat-tron-khoi-khu-cach-ly-tai-binh-duong-887312.ldo) ([Lao Động](https://laodong.vn))
+- [Hậu Giang: Đoàn viên Công đoàn huyện Châu Thành A hiến 210 đơn vị máu](https://laodong.vn/ldld-hau-giang/hau-giang-doan-vien-cong-doan-huyen-chau-thanh-a-hien-210-don-vi-mau-887318.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ cũ tỷ phú Amazon gây bất ngờ khi tái hôn với một giáo viên bình thường, chồng cũ ngay lập tức có động thái lên tiếng](https://cafebiz.vn/vo-cu-ty-phu-amazon-gay-bat-ngo-khi-tai-hon-voi-mot-giao-vien-binh-thuong-chong-cu-ngay-lap-tuc-co-dong-thai-len-tieng-20210309154705931.chn) ([CafeBiz](https://cafebiz.vn))
+- [Từng mắc 2 bệnh ung thư, vị giáo sư 83 tuổi vẫn gây sốt vì sự hồng hào, khỏe khoắn, 20 năm chưa hề tái phát bệnh nhờ 3 bí quyết sống rất đáng học hỏi](https://cafebiz.vn/tung-mac-2-benh-ung-thu-vi-giao-su-83-tuoi-van-gay-sot-vi-su-hong-hao-khoe-khoan-20-nam-chua-he-tai-phat-benh-nho-3-bi-quyet-song-rat-dang-hoc-hoi-20210309113916762.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những sự thật bất ngờ sau ly hôn, không phải phụ nữ nào cũng biết](https://laodong.vn/chuyen-nha-minh/nhung-su-that-bat-ngo-sau-ly-hon-khong-phai-phu-nu-nao-cung-biet-887140.ldo) ([Lao Động](https://laodong.vn))
+- [Từ 10-3: Sinh 2 con 1 bề có thể được miễn giảm học phí, bảo hiểm y tế, sữa học đường](https://tuoitre.vn/tu-10-3-sinh-2-con-1-be-co-the-duoc-mien-giam-hoc-phi-bao-hiem-y-te-sua-hoc-duong-20210309151642931.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [TPHCM: Người dân lần đầu trải nghiệm &quot;ATM&quot; nhận và trả hồ sơ tự động](https://laodong.vn/video-thoi-su/tphcm-nguoi-dan-lan-dau-trai-nghiem-atm-nhan-va-tra-ho-so-tu-dong-887261.ldo) ([Lao Động](https://laodong.vn))
+- [Thêm một công ty xem xét việc chuyển sàn từ HoSE sang HNX](https://cafebiz.vn/them-mot-cong-ty-xem-xet-viec-chuyen-san-tu-hose-sang-hnx-20210309153907808.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
