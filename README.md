@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 23°C.
 - Feels Like 24.81°C.
-- Air Visual is 65.
+- Air Visual is 98.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bị nhắc đeo khẩu trang, người nhà bệnh nhân hỗn chiến với bảo vệ bệnh viện](http://vietnamnet.vn/vn/thoi-su/bi-nhac-deo-khau-trang-nguoi-nha-benh-nhan-hon-chien-voi-bao-ve-benh-vien-718440.html) ([VietNamNet](https://vietnamnet.vn))
 - [Bị Mỹ, Ấn Độ tẩy chay, TikTok vẫn là “vua download” toàn cầu](https://cafebiz.vn/bi-my-an-do-tay-chay-tiktok-van-la-vua-download-toan-cau-20210309202632164.chn) ([CafeBiz](https://cafebiz.vn))
 - [Khoẻ, thông minh, giàu có nhờ ngủ đúng cách: 6 thói quen nhỏ trước khi ngủ nên thay đổi](https://cafebiz.vn/khoe-thong-minh-giau-co-nho-ngu-dung-cach-6-thoi-quen-nho-truoc-khi-ngu-nen-thay-doi-20210309161152866.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đỉnh cao ứng xử của kẻ trí tuệ: Nhìn thấu không nói, biết người không bình, hiểu lý không tranh](https://cafebiz.vn/dinh-cao-ung-xu-cua-ke-tri-tue-nhin-thau-khong-noi-biet-nguoi-khong-binh-hieu-ly-khong-tranh-20210309094252495.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tướng đồng ý thành lập Phòng Khoa học - Công nghệ tại TP Thủ Đức](http://vietnamnet.vn/vn/thoi-su/thu-tuong-dong-y-thanh-lap-phong-khoa-hoc-cong-nghe-tai-tp-thu-duc-718427.html) ([VietNamNet](https://vietnamnet.vn))
 - [Pháp và Tây Ban Nha thu thuế kỹ thuật số, Google sẽ tăng phí quảng cáo](https://cafebiz.vn/phap-va-tay-ban-nha-thu-thue-ky-thuat-so-google-se-tang-phi-quang-cao-20210309185118483.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bài học kinh doanh từ cuộc trò chuyện giữa blogger triệu người theo dõi và “thiên tài” kinh doanh 17 tuổi: Khi biết cách yêu cầu cơ hội, bạn đã có 1 nửa chiến thắng](https://cafebiz.vn/bai-hoc-kinh-doanh-tu-cuoc-tro-chuyen-giua-blogger-trieu-nguoi-theo-doi-va-thien-tai-kinh-doanh-17-tuoi-khi-biet-cach-yeu-cau-co-hoi-ban-da-co-1-nua-chien-thang-20210309155439623.chn) ([CafeBiz](https://cafebiz.vn))
 - [Văn Quyết được vinh danh Gương mặt trẻ Việt Nam tiêu biểu năm 2020](https://laodong.vn/bong-da/van-quyet-duoc-vinh-danh-guong-mat-tre-viet-nam-tieu-bieu-nam-2020-887467.ldo) ([Lao Động](https://laodong.vn))
 - [An Giang: Bắt quả tang đối tượng cho vay nặng lãi](https://laodong.vn/phap-luat/an-giang-bat-qua-tang-doi-tuong-cho-vay-nang-lai-887465.ldo) ([Lao Động](https://laodong.vn))
 - [Nhiều tiền để làm gì: Dân Mỹ sử dụng phần lớn khoản trợ cấp Covid-19 để đầu tư chứng khoán](https://cafebiz.vn/nhieu-tien-de-lam-gi-dan-my-su-dung-phan-lon-khoan-tro-cap-covid-19-de-dau-tu-chung-khoan-20210309202310102.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ra giá 20 tỉ để “chạy” điều chuyển Giám đốc Công an tỉnh An Giang](https://laodong.vn/phap-luat/ra-gia-20-ti-de-chay-dieu-chuyen-giam-doc-cong-an-tinh-an-giang-887461.ldo) ([Lao Động](https://laodong.vn))
-- [Đưa ra 1 lời khuyên mà đắc tội với quá nhiều người, Triệu Vân tự chặn đường thăng tiến của bản thân dù được Lưu Bị vô cùng ưu ái](https://cafebiz.vn/dua-ra-1-loi-khuyen-ma-dac-toi-voi-qua-nhieu-nguoi-trieu-van-tu-chan-duong-thang-tien-cua-ban-than-du-duoc-luu-bi-vo-cung-uu-ai-20210309153837198.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
