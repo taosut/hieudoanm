@@ -15,8 +15,10 @@
   "dependencies": {
     "date-fns": "^2.19.0",
     "gray-matter": "^4.0.2",
+    "js-yaml": "^4.0.0",
     "lodash": "^4.17.21",
     "next": "10.0.8",
+    "node-fetch": "^2.6.1",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "remark": "^13.0.0",
