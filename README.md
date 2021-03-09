@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 25.04°C.
-- Air Visual is 81.
+- Feels Like 25.76°C.
+- Air Visual is 78.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Xe khách chở 53 người Trung Quốc nhập cảnh trái phép](https://vnexpress.net/xe-khach-cho-53-nguoi-trung-quoc-nhap-canh-trai-phep-4246009.html) ([VNExpress](https://vnexpress.net))
+- [4 bệnh ung thư nguy hiểm nhất do thói quen ăn uống mà ra: Càng chậm thay đổi thì càng dễ mắc](https://cafebiz.vn/4-benh-ung-thu-nguy-hiem-nhat-do-thoi-quen-an-uong-ma-ra-cang-cham-thay-doi-thi-cang-de-mac-20210309153048411.chn) ([CafeBiz](https://cafebiz.vn))
+- [Oppo soán ngôi vương của Huawei tại Trung Quốc](https://cafebiz.vn/oppo-soan-ngoi-vuong-cua-huawei-tai-trung-quoc-20210309184755492.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắt khẩn cấp vợ chồng chủ công ty xăng dầu Vân Trúc liên quan vụ xăng giả "khủng"](https://cafebiz.vn/bat-khan-cap-vo-chong-chu-cong-ty-xang-dau-van-truc-lien-quan-vu-xang-gia-khung-20210309203809231.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xử phạt tăng nặng nếu tái phạm nồng độ cồn](https://laodong.vn/phap-luat/xu-phat-tang-nang-neu-tai-pham-nong-do-con-887459.ldo) ([Lao Động](https://laodong.vn))
 - [5 điểm mới trên thẻ BHYT từ ngày 1.4.2021 người dân cần biết](https://laodong.vn/ban-doc/5-diem-moi-tren-the-bhyt-tu-ngay-142021-nguoi-dan-can-biet-887457.ldo) ([Lao Động](https://laodong.vn))
 - [Công ty Chứng khoán BIDV nghiên cứu phương án chuyển BSI sang HNX](https://laodong.vn/kinh-te/cong-ty-chung-khoan-bidv-nghien-cuu-phuong-an-chuyen-bsi-sang-hnx-887449.ldo) ([Lao Động](https://laodong.vn))
 - [Nga khởi kiện 5 nền tảng mạng xã hội đình đám](https://laodong.vn/the-gioi/nga-khoi-kien-5-nen-tang-mang-xa-hoi-dinh-dam-887454.ldo) ([Lao Động](https://laodong.vn))
 - [Elon Musk và Tesla sẽ lấn sân sang lĩnh vực smartphone?](https://cafebiz.vn/elon-musk-va-tesla-se-lan-san-sang-linh-vuc-smartphone-20210309184621241.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nhận định Dortmund - Sevilla: Không có bất ngờ](https://laodong.vn/bong-da-quoc-te/nhan-dinh-dortmund-sevilla-khong-co-bat-ngo-887442.ldo) ([Lao Động](https://laodong.vn))
-- [LĐLĐ tỉnh Nghệ An tổ chức gặp mặt các cơ quan báo chí trên địa bàn](https://laodong.vn/cong-doan/ldld-tinh-nghe-an-to-chuc-gap-mat-cac-co-quan-bao-chi-tren-dia-ban-887406.ldo) ([Lao Động](https://laodong.vn))
-- [Chu Nguyên Chương khét tiếng tàn bạo, gây thù chuốc oán với không ít người, tại sao về sau không một ai dám động đến lăng mộ của ông?](https://cafebiz.vn/chu-nguyen-chuong-khet-tieng-tan-bao-gay-thu-chuoc-oan-voi-khong-it-nguoi-tai-sao-ve-sau-khong-mot-ai-dam-dong-den-lang-mo-cua-ong-2021030915132976.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trung Quốc tung hộ chiếu Covid-19](https://cafebiz.vn/trung-quoc-tung-ho-chieu-covid-19-20210309184249327.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 10.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-103-887313.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: Ông Dũng “lò vôi” hé lộ khối tài sản của ông Võ Hoàng Yên](https://laodong.vn/video-thoi-su/nong-nhat-24h-ong-dung-lo-voi-he-lo-khoi-tai-san-cua-ong-vo-hoang-yen-887378.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
