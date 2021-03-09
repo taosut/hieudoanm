@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 25.76°C.
-- Air Visual is 94.
+- Air Visual is 103.
 
 **WEATHER**
 
@@ -48,12 +48,10 @@
 
 **GOOGLE TRENDS**
 
-- [![8-3](https://img.shields.io/static/v1?label=8-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8-3)
 - [![8.3](https://img.shields.io/static/v1?label=8.3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8.3)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Chúc 8-3 mẹ](https://img.shields.io/static/v1?label=Ch%C3%BAc%208-3%20m%E1%BA%B9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%208-3%20m%E1%BA%B9)
+- [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
-- [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
 - [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
@@ -64,8 +62,10 @@
 - [![Mina (AOA](https://img.shields.io/static/v1?label=Mina%20(AOA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mina%20(AOA)
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
+- [![Ngay 8-3](https://img.shields.io/static/v1?label=Ngay%208-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ngay%208-3)
 - [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
+- [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
 - [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nhân viên Samsung Việt Nam chung tay hiến máu, chia sẻ yêu thương](https://laodong.vn/xa-hoi/nhan-vien-samsung-viet-nam-chung-tay-hien-mau-chia-se-yeu-thuong-887187.ldo) ([Lao Động](https://laodong.vn))
+- [Giới thiệu nhân sự ứng cử các chức danh Chủ tịch Nước, Thủ tướng Chính phủ, Chủ tịch Quốc hội với số phiếu tập trung cao](https://laodong.vn/thoi-su/gioi-thieu-nhan-su-ung-cu-cac-chuc-danh-chu-tich-nuoc-thu-tuong-chinh-phu-chu-tich-quoc-hoi-voi-so-phieu-tap-trung-cao-887190.ldo) ([Lao Động](https://laodong.vn))
+- [Thị trường nhiều biến động, dòng tiền đầu tư bất động sản năm 2021 sẽ đổ về đâu?](https://cafebiz.vn/thi-truong-nhieu-bien-dong-dong-tien-dau-tu-bat-dong-san-nam-2021-se-do-ve-dau-20210309102614135.chn) ([CafeBiz](https://cafebiz.vn))
+- [​Hơn 100  cột đèn “nở hoa” giữa trung tâm Hà Nội](https://cafebiz.vn/hon-100-cot-den-no-hoa-giua-trung-tam-ha-noi-20210309100210613.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hồ sơ sang tên sổ đỏ đất nông nghiệp gồm những gì?](https://laodong.vn/bat-dong-san/ho-so-sang-ten-so-do-dat-nong-nghiep-gom-nhung-gi-887087.ldo) ([Lao Động](https://laodong.vn))
+- [Sao băng phát nổ rung chuyển bầu trời Mỹ với sức mạnh 200kg TNT](https://laodong.vn/the-gioi/sao-bang-phat-no-rung-chuyen-bau-troi-my-voi-suc-manh-200kg-tnt-887168.ldo) ([Lao Động](https://laodong.vn))
+- [Bất ngờ với lý do khiến trẻ con trở nên nghịch ngợm khi ở bên cạnh mẹ](https://laodong.vn/chuyen-nha-minh/bat-ngo-voi-ly-do-khien-tre-con-tro-nen-nghich-ngom-khi-o-ben-canh-me-887086.ldo) ([Lao Động](https://laodong.vn))
+- [Bạo phát bạo tàn, Elon Musk đang mất tiền với tốc độ khủng khiếp](https://cafebiz.vn/bao-phat-bao-tan-elon-musk-dang-mat-tien-voi-toc-do-khung-khiep-20210309105416033.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bế mạc Hội nghị Trung ương 2: Kiện toàn các chức danh lãnh đạo cơ quan nhà nước](https://tuoitre.vn/be-mac-hoi-nghi-trung-uong-2-kien-toan-cac-chuc-danh-lanh-dao-co-quan-nha-nuoc-2021030910451399.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bảng xếp hạng vòng 26 Serie A: Inter xây chắc ngôi đầu](https://laodong.vn/infographic/bang-xep-hang-vong-26-serie-a-inter-xay-chac-ngoi-dau-887178.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Bùi Cao Nhật Quân, con trai Chủ tịch Bùi Thành Nhơn vừa mua thêm cổ phiếu Novaland, nâng tài sản trên sàn chứng khoán lên trên 3.700 tỷ đồng](https://cafebiz.vn/ong-bui-cao-nhat-quan-con-trai-chu-tich-bui-thanh-nhon-vua-mua-them-co-phieu-novaland-nang-tai-san-tren-san-chung-khoan-len-tren-3700-ty-dong-20210309104244347.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đào tạo lái ôtô kiểu ‘tay không bắt giặc’ ở Đắk Lắk](https://tuoitre.vn/dao-tao-lai-oto-kieu-tay-khong-bat-giac-o-dak-lak-20210309101653712.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đề xuất Tiên Lãng là sân bay thứ hai vùng thủ đô](https://vnexpress.net/de-xuat-tien-lang-la-san-bay-thu-hai-vung-thu-do-4245601.html) ([VNExpress](https://vnexpress.net))
-- [Ba chức danh lãnh đạo chủ chốt được giới thiệu với số phiếu tập trung cao](https://vnexpress.net/ba-chuc-danh-lanh-dao-chu-chot-duoc-gioi-thieu-voi-so-phieu-tap-trung-cao-4245551.html) ([VNExpress](https://vnexpress.net))
-- [12 bang khởi kiện ông Biden vì sắc lệnh khí hậu bị tố lấn quyền Quốc hội, gây thiệt hại hàng nghìn tỷ USD](https://cafebiz.vn/12-bang-khoi-kien-ong-biden-vi-sac-lenh-khi-hau-bi-to-lan-quyen-quoc-hoi-gay-thiet-hai-hang-nghin-ty-usd-20210309103253399.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cận cảnh tiêm vaccine COVID-19 cho 30 nhân viên y tế đầu tiên của Hà Nội](https://laodong.vn/photo/can-canh-tiem-vaccine-covid-19-cho-30-nhan-vien-y-te-dau-tien-cua-ha-noi-887170.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam đặt mục tiêu cung cấp nông sản cho thế giới](https://laodong.vn/kinh-te/viet-nam-dat-muc-tieu-cung-cap-nong-san-cho-the-gioi-887053.ldo) ([Lao Động](https://laodong.vn))
-- [Bế mạc Hội nghị Trung ương 2, khoá XIII](https://laodong.vn/thoi-su/be-mac-hoi-nghi-trung-uong-2-khoa-xiii-887179.ldo) ([Lao Động](https://laodong.vn))
-- [Nhu cầu dịch vụ bảo hiểm COVID-19 cho khách du lịch gia tăng mạnh](https://cafebiz.vn/nhu-cau-dich-vu-bao-hiem-covid-19-cho-khach-du-lich-gia-tang-manh-20210309090210753.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
