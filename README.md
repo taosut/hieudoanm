@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 26.11°C.
-- Air Visual is 87.
+- Air Visual is 101.
 
 **WEATHER**
 
@@ -48,24 +48,24 @@
 
 **GOOGLE TRENDS**
 
-- [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
+- [![Bó hoa](https://img.shields.io/static/v1?label=B%C3%B3%20hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3%20hoa)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Chúc mẹ 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BA%B9%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BA%B9%208/3)
+- [![Chúc 8/3 mẹ](https://img.shields.io/static/v1?label=Ch%C3%BAc%208/3%20m%E1%BA%B9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%208/3%20m%E1%BA%B9)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Due](https://img.shields.io/static/v1?label=Due&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Due)
 - [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
-- [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
+- [![Hoa hậu Đỗ Thị Hà](https://img.shields.io/static/v1?label=Hoa%20h%E1%BA%ADu%20%C4%90%E1%BB%97%20Th%E1%BB%8B%20H%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BA%ADu%20%C4%90%E1%BB%97%20Th%E1%BB%8B%20H%C3%A0)
 - [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Loi chuc vo 8/3](https://img.shields.io/static/v1?label=Loi%20chuc%20vo%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Loi%20chuc%20vo%208/3)
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
+- [![Mina (AOA](https://img.shields.io/static/v1?label=Mina%20(AOA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mina%20(AOA)
 - [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
+- [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
 - [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
-- [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
-- [![Trưc tiep bong da](https://img.shields.io/static/v1?label=Tr%C6%B0c%20tiep%20bong%20da&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0c%20tiep%20bong%20da)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
 - [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [FBI lùng sục kho vàng bí ẩn hàng trăm triệu USD thời nội chiến?](https://laodong.vn/the-gioi/fbi-lung-suc-kho-vang-bi-an-hang-tram-trieu-usd-thoi-noi-chien-887317.ldo) ([Lao Động](https://laodong.vn))
+- [Barcelona, Joan Laporta với 4 bài toán khó đang chờ đợi](https://laodong.vn/bong-da-quoc-te/barcelona-joan-laporta-voi-4-bai-toan-kho-dang-cho-doi-887238.ldo) ([Lao Động](https://laodong.vn))
+- [HLV Kiatisak muốn cầu thủ Hoàng Anh Gia Lai sang Hàn Quốc, Nhật Bản thi đấu](https://laodong.vn/video/hlv-kiatisak-muon-cau-thu-hoang-anh-gia-lai-sang-han-quoc-nhat-ban-thi-dau-887286.ldo) ([Lao Động](https://laodong.vn))
+- [Trước vòng 3 LS V.League 2021: Hà Nội tìm cảm giác chiến thắng](https://laodong.vn/bong-da/truoc-vong-3-ls-vleague-2021-ha-noi-tim-cam-giac-chien-thang-887310.ldo) ([Lao Động](https://laodong.vn))
+- [Bitcoin tăng trở lại, đang bước vào chu kỳ tăng giá mới?](https://laodong.vn/kinh-te/bitcoin-tang-tro-lai-dang-buoc-vao-chu-ky-tang-gia-moi-887315.ldo) ([Lao Động](https://laodong.vn))
+- [5 loại thực phẩm tốt nhất để xoa dịu chứng trầm cảm theo mùa](https://laodong.vn/suc-khoe/5-loai-thuc-pham-tot-nhat-de-xoa-diu-chung-tram-cam-theo-mua-887180.ldo) ([Lao Động](https://laodong.vn))
 - [Phát biểu bế mạc Hội nghị Trung ương 2 của Tổng Bí thư, Chủ tịch Nước](https://laodong.vn/thoi-su/phat-bieu-be-mac-hoi-nghi-trung-uong-2-cua-tong-bi-thu-chu-tich-nuoc-887322.ldo) ([Lao Động](https://laodong.vn))
-- [Truy tìm người Trung Quốc cưa song sắt trốn khỏi khu cách ly tại Bình Dương](https://laodong.vn/xa-hoi/truy-tim-nguoi-trung-quoc-cua-song-sat-tron-khoi-khu-cach-ly-tai-binh-duong-887312.ldo) ([Lao Động](https://laodong.vn))
-- [Hậu Giang: Đoàn viên Công đoàn huyện Châu Thành A hiến 210 đơn vị máu](https://laodong.vn/ldld-hau-giang/hau-giang-doan-vien-cong-doan-huyen-chau-thanh-a-hien-210-don-vi-mau-887318.ldo) ([Lao Động](https://laodong.vn))
 - [Vợ cũ tỷ phú Amazon gây bất ngờ khi tái hôn với một giáo viên bình thường, chồng cũ ngay lập tức có động thái lên tiếng](https://cafebiz.vn/vo-cu-ty-phu-amazon-gay-bat-ngo-khi-tai-hon-voi-mot-giao-vien-binh-thuong-chong-cu-ngay-lap-tuc-co-dong-thai-len-tieng-20210309154705931.chn) ([CafeBiz](https://cafebiz.vn))
 - [Từng mắc 2 bệnh ung thư, vị giáo sư 83 tuổi vẫn gây sốt vì sự hồng hào, khỏe khoắn, 20 năm chưa hề tái phát bệnh nhờ 3 bí quyết sống rất đáng học hỏi](https://cafebiz.vn/tung-mac-2-benh-ung-thu-vi-giao-su-83-tuoi-van-gay-sot-vi-su-hong-hao-khoe-khoan-20-nam-chua-he-tai-phat-benh-nho-3-bi-quyet-song-rat-dang-hoc-hoi-20210309113916762.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những sự thật bất ngờ sau ly hôn, không phải phụ nữ nào cũng biết](https://laodong.vn/chuyen-nha-minh/nhung-su-that-bat-ngo-sau-ly-hon-khong-phai-phu-nu-nao-cung-biet-887140.ldo) ([Lao Động](https://laodong.vn))
-- [Từ 10-3: Sinh 2 con 1 bề có thể được miễn giảm học phí, bảo hiểm y tế, sữa học đường](https://tuoitre.vn/tu-10-3-sinh-2-con-1-be-co-the-duoc-mien-giam-hoc-phi-bao-hiem-y-te-sua-hoc-duong-20210309151642931.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Từ 10-3: Sinh 2 con một bề có thể được miễn giảm học phí, bảo hiểm y tế, sữa học đường](https://tuoitre.vn/tu-10-3-sinh-2-con-1-be-co-the-duoc-mien-giam-hoc-phi-bao-hiem-y-te-sua-hoc-duong-20210309151642931.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [TPHCM: Người dân lần đầu trải nghiệm &quot;ATM&quot; nhận và trả hồ sơ tự động](https://laodong.vn/video-thoi-su/tphcm-nguoi-dan-lan-dau-trai-nghiem-atm-nhan-va-tra-ho-so-tu-dong-887261.ldo) ([Lao Động](https://laodong.vn))
-- [Thêm một công ty xem xét việc chuyển sàn từ HoSE sang HNX](https://cafebiz.vn/them-mot-cong-ty-xem-xet-viec-chuyen-san-tu-hose-sang-hnx-20210309153907808.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
