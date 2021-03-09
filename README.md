@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 23°C.
 - Feels Like 24.81°C.
-- Air Visual is 98.
+- Air Visual is 65.
 
 **WEATHER**
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Quảng Ninh truy trách nhiệm vụ san lấp trái phép 16.000 m2 ở vịnh Bái Tự Long](https://vnexpress.net/quang-ninh-truy-trach-nhiem-vu-san-lap-trai-phep-16-000-m2-o-vinh-bai-tu-long-4245982.html) ([VNExpress](https://vnexpress.net))
 - [Bị nhắc đeo khẩu trang, người nhà bệnh nhân hỗn chiến với bảo vệ bệnh viện](http://vietnamnet.vn/vn/thoi-su/bi-nhac-deo-khau-trang-nguoi-nha-benh-nhan-hon-chien-voi-bao-ve-benh-vien-718440.html) ([VietNamNet](https://vietnamnet.vn))
 - [Bị Mỹ, Ấn Độ tẩy chay, TikTok vẫn là “vua download” toàn cầu](https://cafebiz.vn/bi-my-an-do-tay-chay-tiktok-van-la-vua-download-toan-cau-20210309202632164.chn) ([CafeBiz](https://cafebiz.vn))
 - [Khoẻ, thông minh, giàu có nhờ ngủ đúng cách: 6 thói quen nhỏ trước khi ngủ nên thay đổi](https://cafebiz.vn/khoe-thong-minh-giau-co-nho-ngu-dung-cach-6-thoi-quen-nho-truoc-khi-ngu-nen-thay-doi-20210309161152866.chn) ([CafeBiz](https://cafebiz.vn))
@@ -84,7 +85,6 @@
 - [Bài học kinh doanh từ cuộc trò chuyện giữa blogger triệu người theo dõi và “thiên tài” kinh doanh 17 tuổi: Khi biết cách yêu cầu cơ hội, bạn đã có 1 nửa chiến thắng](https://cafebiz.vn/bai-hoc-kinh-doanh-tu-cuoc-tro-chuyen-giua-blogger-trieu-nguoi-theo-doi-va-thien-tai-kinh-doanh-17-tuoi-khi-biet-cach-yeu-cau-co-hoi-ban-da-co-1-nua-chien-thang-20210309155439623.chn) ([CafeBiz](https://cafebiz.vn))
 - [Văn Quyết được vinh danh Gương mặt trẻ Việt Nam tiêu biểu năm 2020](https://laodong.vn/bong-da/van-quyet-duoc-vinh-danh-guong-mat-tre-viet-nam-tieu-bieu-nam-2020-887467.ldo) ([Lao Động](https://laodong.vn))
 - [An Giang: Bắt quả tang đối tượng cho vay nặng lãi](https://laodong.vn/phap-luat/an-giang-bat-qua-tang-doi-tuong-cho-vay-nang-lai-887465.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều tiền để làm gì: Dân Mỹ sử dụng phần lớn khoản trợ cấp Covid-19 để đầu tư chứng khoán](https://cafebiz.vn/nhieu-tien-de-lam-gi-dan-my-su-dung-phan-lon-khoan-tro-cap-covid-19-de-dau-tu-chung-khoan-20210309202310102.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
