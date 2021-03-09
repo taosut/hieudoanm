@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 26.47°C.
-- Air Visual is 110.
+- Feels Like 26.83°C.
+- Air Visual is 99.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hơn 9.300 tỷ đồng cải tạo rạch Xuyên Tâm](https://vnexpress.net/hon-9-300-ty-dong-cai-tao-rach-xuyen-tam-4245781.html) ([VNExpress](https://vnexpress.net))
+- [Chủ tịch FPT IS: Có 2 cách để xử lý sự cố "nghẽn" lệnh chứng khoán, nếu được phối hợp cùng HoSE cần khoảng 3 tháng là giải quyết xong!](https://cafebiz.vn/chu-tich-fpt-is-co-2-cach-de-xu-ly-su-co-nghen-lenh-chung-khoan-neu-duoc-phoi-hop-cung-hose-can-khoang-3-thang-la-giai-quyet-xong-20210309144156456.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đâu là những mẫu xe có động cơ mạnh mẽ nhất phân khúc](https://laodong.vn/xe/dau-la-nhung-mau-xe-co-dong-co-manh-me-nhat-phan-khuc-887203.ldo) ([Lao Động](https://laodong.vn))
+- [Nữ môi giới bất động sản đổi nhà, tậu xe, kiếm vài tỷ dễ như trở bàn tay](https://cafebiz.vn/nu-moi-gioi-bat-dong-san-doi-nha-tau-xe-kiem-vai-ty-de-nhu-tro-ban-tay-20210309143900758.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bình Phước: Đưa 9 người Trung Quốc nhập cảnh trái phép đi cách ly y tế](https://laodong.vn/phap-luat/binh-phuoc-dua-9-nguoi-trung-quoc-nhap-canh-trai-phep-di-cach-ly-y-te-887279.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ chồng ông Dũng Lò vôi: Tài trí hơn người sao lại lầm tin, chi tiền tỷ chỉ từ clip Võ Hoàng Yên chữa bệnh trên mạng?](https://cafebiz.vn/vo-chong-ong-dung-lo-voi-tai-tri-hon-nguoi-sao-lai-lam-tin-chi-tien-ty-chi-tu-clip-vo-hoang-yen-chua-benh-tren-mang-20210309143138593.chn) ([CafeBiz](https://cafebiz.vn))
 - [5 nguyên tắc cấp giấy chứng nhận quyền sử dụng đất](https://laodong.vn/bat-dong-san/5-nguyen-tac-cap-giay-chung-nhan-quyen-su-dung-dat-886727.ldo) ([Lao Động](https://laodong.vn))
 - [Cháy ôtô chở bật lửa](https://vnexpress.net/chay-oto-cho-bat-lua-4245785.html) ([VNExpress](https://vnexpress.net))
 - [Nhiều người phải hoàn thành kê khai tài sản, thu nhập lần đầu trước 31.3](https://laodong.vn/thoi-su/nhieu-nguoi-phai-hoan-thanh-ke-khai-tai-san-thu-nhap-lan-dau-truoc-313-887278.ldo) ([Lao Động](https://laodong.vn))
 - [Masayoshi Son mắc một sai lầm khác giống WeWork, nguy cơ mất trắng 1,5 tỷ USD](https://cafebiz.vn/masayoshi-son-mac-mot-sai-lam-khac-giong-wework-nguy-co-mat-trang-15-ty-usd-20210309142023441.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Dũng &quot;lò vôi&quot;: Ông Yên chữa bệnh miễn phí, lấy đâu ra 100 triệu đô?](https://laodong.vn/video/ong-dung-lo-voi-ong-yen-chua-benh-mien-phi-lay-dau-ra-100-trieu-do-887057.ldo) ([Lao Động](https://laodong.vn))
-- [Tiền số tăng vọt, vốn hóa Bitcoin lại vượt 1.000 tỷ USD](https://cafebiz.vn/tien-so-tang-vot-von-hoa-bitcoin-lai-vuot-1000-ty-usd-20210309133808826.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhiều trường đại học thông báo tuyển thẳng thí sinh có chứng chỉ IELTS](https://laodong.vn/giao-duc/nhieu-truong-dai-hoc-thong-bao-tuyen-thang-thi-sinh-co-chung-chi-ielts-887274.ldo) ([Lao Động](https://laodong.vn))
-- [Bình Dương: 6 bệnh nhân mắc COVID-19 trong cộng đồng đã xuất viện](https://laodong.vn/xa-hoi/binh-duong-6-benh-nhan-mac-covid-19-trong-cong-dong-da-xuat-vien-887275.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội muốn các xe taxi sử dụng 5 màu sơn và phần mềm quản lý dùng chung](https://cafebiz.vn/ha-noi-muon-cac-xe-taxi-su-dung-5-mau-son-va-phan-mem-quan-ly-dung-chung-202103091412135.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chiến lược giúp Toyota ‘ung dung’ trong khủng hoảng chip toàn cầu](https://cafebiz.vn/chien-luoc-giup-toyota-ung-dung-trong-khung-hoang-chip-toan-cau-20210309134307318.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -119,8 +119,8 @@
 04. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 05. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 06. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-07. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-08. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+07. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+08. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 09. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
 10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
 
@@ -136,10 +136,10 @@
 04. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 05. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-08. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
-09. [Highlights Bayern Munich vs Dortmund | Haaland gọi cú đúp - Lewandowski trả lời bằng hat-trick](https://www.youtube.com/watch?v=fVtAlF8ylxE) - [MÃN NHÃN TV](https://www.youtube.com/channel/UCoqrrrfDpWOgdqw1vRoiG_A)
-10. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+07. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+08. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+09. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
+10. [Highlights Bayern Munich vs Dortmund | Haaland gọi cú đúp - Lewandowski trả lời bằng hat-trick](https://www.youtube.com/watch?v=fVtAlF8ylxE) - [MÃN NHÃN TV](https://www.youtube.com/channel/UCoqrrrfDpWOgdqw1vRoiG_A)
 
 [Read More](https://www.youtube.com/feed/trending)
 
