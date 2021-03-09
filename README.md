@@ -58,9 +58,9 @@
 - [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Loi chuc vo 8/3](https://img.shields.io/static/v1?label=Loi%20chuc%20vo%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Loi%20chuc%20vo%208/3)
+- [![Lời chúc ngày 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%20ng%C3%A0y%208/3)
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
-- [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
 - [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tây Ninh: 300 CNVCLĐ hưởng ứng hiến máu tình nguyện năm 2021](https://laodong.vn/cong-doan/tay-ninh-300-cnvcld-huong-ung-hien-mau-tinh-nguyen-nam-2021-887375.ldo) ([Lao Động](https://laodong.vn))
+- [Những trường hợp bị thu hồi đất nhưng không được đền bù](https://laodong.vn/bat-dong-san/nhung-truong-hop-bi-thu-hoi-dat-nhung-khong-duoc-den-bu-887377.ldo) ([Lao Động](https://laodong.vn))
+- [Vĩnh Phúc: Cận cảnh nhóm đất tặc công khai móc ruột dự án nghìn tỉ vốn ODA](https://laodong.vn/bat-dong-san/vinh-phuc-can-canh-nhom-dat-tac-cong-khai-moc-ruot-du-an-nghin-ti-von-oda-887081.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyên gia nói về việc xây 8 trạm bơm dã chiến bổ cập nước cho sông Tô Lịch](https://laodong.vn/xa-hoi/chuyen-gia-noi-ve-viec-xay-8-tram-bom-da-chien-bo-cap-nuoc-cho-song-to-lich-887362.ldo) ([Lao Động](https://laodong.vn))
+- [Người giàu nhất Trung Quốc soán ngôi tỉ phú Jack Ma như thế nào?](https://laodong.vn/the-gioi/nguoi-giau-nhat-trung-quoc-soan-ngoi-ti-phu-jack-ma-nhu-the-nao-887365.ldo) ([Lao Động](https://laodong.vn))
 - [TP Thủ Đức sẽ có phòng Khoa học - Công nghệ](https://vnexpress.net/tp-thu-duc-se-co-phong-khoa-hoc-cong-nghe-4245966.html) ([VNExpress](https://vnexpress.net))
 - [Thức ăn bán trước cổng trường, có an toàn?](https://laodong.vn/xa-hoi/thuc-an-ban-truoc-cong-truong-co-an-toan-887305.ldo) ([Lao Động](https://laodong.vn))
-- [Tiết lộ dòng tweet đắt giá nhất thế giới](https://laodong.vn/the-gioi/tiet-lo-dong-tweet-dat-gia-nhat-the-gioi-887369.ldo) ([Lao Động](https://laodong.vn))
-- [Điều chỉnh quy hoạch các tuyến cao tốc vùng Đồng bằng sông Cửu Long](https://laodong.vn/xa-hoi/dieu-chinh-quy-hoach-cac-tuyen-cao-toc-vung-dong-bang-song-cuu-long-887370.ldo) ([Lao Động](https://laodong.vn))
-- [5 vấn đề các cặp vợ chồng trẻ cần lưu ý trước khi sinh con thứ hai](https://laodong.vn/chuyen-nha-minh/5-van-de-cac-cap-vo-chong-tre-can-luu-y-truoc-khi-sinh-con-thu-hai-887282.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng: 2 chiến sĩ công an bị thương khi khống chế đối tượng tâm thần](https://laodong.vn/phap-luat/da-nang-2-chien-si-cong-an-bi-thuong-khi-khong-che-doi-tuong-tam-than-887364.ldo) ([Lao Động](https://laodong.vn))
 - [Triết lý kinh doanh đơn giản giúp nữ CEO phòng gym trẻ em biến thị trường không khách hàng thành “mỏ vàng”](https://cafebiz.vn/triet-ly-kinh-doanh-don-gian-giup-nu-ceo-phong-gym-tre-em-bien-thi-truong-khong-khach-hang-thanh-mo-vang-20210309151741888.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nhật thông báo viện trợ khẩn cấp kho lạnh chứa vắc xin COVID-19 cho Việt Nam](https://tuoitre.vn/nhat-thong-bao-vien-tro-khan-cap-kho-lanh-chua-vac-xin-covid-19-cho-viet-nam-20210309170952094.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chùa Hương rục rịch chuẩn bị đón khách trở lại sau thời gian đóng cửa](https://laodong.vn/photo/chua-huong-ruc-rich-chuan-bi-don-khach-tro-lai-sau-thoi-gian-dong-cua-887271.ldo) ([Lao Động](https://laodong.vn))
-- [Công nghệ sản xuất chip ngày càng hiện đại, tại sao thế giới lại bị "hạn hán" chip như hiện nay?](https://cafebiz.vn/cong-nghe-san-xuat-chip-ngay-cang-hien-dai-tai-sao-the-gioi-lai-bi-han-han-chip-nhu-hien-nay-20210309164513584.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
