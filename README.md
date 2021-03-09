@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 26.83°C.
-- Air Visual is 99.
+- Air Visual is 110.
 
 **WEATHER**
 
@@ -48,24 +48,24 @@
 
 **GOOGLE TRENDS**
 
-- [![Bó hoa](https://img.shields.io/static/v1?label=B%C3%B3%20hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3%20hoa)
+- [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Chúc mẹ 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BA%B9%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BA%B9%208/3)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Due](https://img.shields.io/static/v1?label=Due&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Due)
 - [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
+- [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Loi chuc vo 8/3](https://img.shields.io/static/v1?label=Loi%20chuc%20vo%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Loi%20chuc%20vo%208/3)
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
-- [![Mina AOA](https://img.shields.io/static/v1?label=Mina%20AOA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mina%20AOA)
 - [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
-- [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
 - [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
-- [![Qua tang 8/3](https://img.shields.io/static/v1?label=Qua%20tang%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qua%20tang%208/3)
+- [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
+- [![Trưc tiep bong da](https://img.shields.io/static/v1?label=Tr%C6%B0c%20tiep%20bong%20da&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0c%20tiep%20bong%20da)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
 - [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Hơn 9.300 tỷ đồng cải tạo rạch Xuyên Tâm](https://vnexpress.net/hon-9-300-ty-dong-cai-tao-rach-xuyen-tam-4245781.html) ([VNExpress](https://vnexpress.net))
-- [Chủ tịch FPT IS: Có 2 cách để xử lý sự cố "nghẽn" lệnh chứng khoán, nếu được phối hợp cùng HoSE cần khoảng 3 tháng là giải quyết xong!](https://cafebiz.vn/chu-tich-fpt-is-co-2-cach-de-xu-ly-su-co-nghen-lenh-chung-khoan-neu-duoc-phoi-hop-cung-hose-can-khoang-3-thang-la-giai-quyet-xong-20210309144156456.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đâu là những mẫu xe có động cơ mạnh mẽ nhất phân khúc](https://laodong.vn/xe/dau-la-nhung-mau-xe-co-dong-co-manh-me-nhat-phan-khuc-887203.ldo) ([Lao Động](https://laodong.vn))
-- [Nữ môi giới bất động sản đổi nhà, tậu xe, kiếm vài tỷ dễ như trở bàn tay](https://cafebiz.vn/nu-moi-gioi-bat-dong-san-doi-nha-tau-xe-kiem-vai-ty-de-nhu-tro-ban-tay-20210309143900758.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bình Phước: Đưa 9 người Trung Quốc nhập cảnh trái phép đi cách ly y tế](https://laodong.vn/phap-luat/binh-phuoc-dua-9-nguoi-trung-quoc-nhap-canh-trai-phep-di-cach-ly-y-te-887279.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ chồng ông Dũng Lò vôi: Tài trí hơn người sao lại lầm tin, chi tiền tỷ chỉ từ clip Võ Hoàng Yên chữa bệnh trên mạng?](https://cafebiz.vn/vo-chong-ong-dung-lo-voi-tai-tri-hon-nguoi-sao-lai-lam-tin-chi-tien-ty-chi-tu-clip-vo-hoang-yen-chua-benh-tren-mang-20210309143138593.chn) ([CafeBiz](https://cafebiz.vn))
-- [5 nguyên tắc cấp giấy chứng nhận quyền sử dụng đất](https://laodong.vn/bat-dong-san/5-nguyen-tac-cap-giay-chung-nhan-quyen-su-dung-dat-886727.ldo) ([Lao Động](https://laodong.vn))
-- [Cháy ôtô chở bật lửa](https://vnexpress.net/chay-oto-cho-bat-lua-4245785.html) ([VNExpress](https://vnexpress.net))
-- [Nhiều người phải hoàn thành kê khai tài sản, thu nhập lần đầu trước 31.3](https://laodong.vn/thoi-su/nhieu-nguoi-phai-hoan-thanh-ke-khai-tai-san-thu-nhap-lan-dau-truoc-313-887278.ldo) ([Lao Động](https://laodong.vn))
-- [Masayoshi Son mắc một sai lầm khác giống WeWork, nguy cơ mất trắng 1,5 tỷ USD](https://cafebiz.vn/masayoshi-son-mac-mot-sai-lam-khac-giong-wework-nguy-co-mat-trang-15-ty-usd-20210309142023441.chn) ([CafeBiz](https://cafebiz.vn))
+- [Muốn biết nguyên nhân tại sao cuộc đời bạn luôn không thuận lợi, sự nghiệp chưa thăng tiến, xem xong 3 câu chuyện này sẽ rõ](https://cafebiz.vn/muon-biet-nguyen-nhan-tai-sao-cuoc-doi-ban-luon-khong-thuan-loi-su-nghiep-chua-thang-tien-xem-xong-3-cau-chuyen-nay-se-ro-20210309092928756.chn) ([CafeBiz](https://cafebiz.vn))
+- [Các chính phủ trên thế giới điều tiết tiền ảo như thế nào?](https://cafebiz.vn/cac-chinh-phu-tren-the-gioi-dieu-tiet-tien-ao-nhu-the-nao-2021030913405323.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những con số &quot;khốn khổ&quot; về sự sụp đổ của Liverpool](https://laodong.vn/bong-da-quoc-te/nhung-con-so-khon-kho-ve-su-sup-do-cua-liverpool-887201.ldo) ([Lao Động](https://laodong.vn))
+- [Giá tiêu giảm mạnh, dân Phú Quốc trăn trở giữ hay bỏ nghề truyền thống](https://laodong.vn/video/gia-tieu-giam-manh-dan-phu-quoc-tran-tro-giu-hay-bo-nghe-truyen-thong-887231.ldo) ([Lao Động](https://laodong.vn))
+- [Hoa hậu Khánh Vân, NSND Bạch Tuyết uy quyền khi hóa thái hậu Dương Vân Nga](https://laodong.vn/photo/hoa-hau-khanh-van-nsnd-bach-tuyet-uy-quyen-khi-hoa-thai-hau-duong-van-nga-887154.ldo) ([Lao Động](https://laodong.vn))
+- [Xem &quot;Hướng dương ngược nắng&quot;, tôi chỉ khao khát được hạnh phúc!](https://laodong.vn/ban-doc/xem-huong-duong-nguoc-nang-toi-chi-khao-khat-duoc-hanh-phuc-887198.ldo) ([Lao Động](https://laodong.vn))
+- [Hòa Bình - điểm đến nghỉ dưỡng ven đô lý tưởng](https://laodong.vn/bat-dong-san/hoa-binh-diem-den-nghi-duong-ven-do-ly-tuong-887250.ldo) ([Lao Động](https://laodong.vn))
+- [Xe tải chở bật lửa bốc cháy dữ dội trên đường Hải Dương](https://tuoitre.vn/xe-tai-cho-bat-lua-boc-chay-du-doi-tren-duong-hai-duong-20210309144048848.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Doanh nghiệp chưa đầy 1 năm tuổi có CEO là 9x "rót" hơn 4.500 tỷ đầu tư hạ tầng KCN quy mô lớn tại Quảng Trị](https://cafebiz.vn/doanh-nghiep-chua-day-1-nam-tuoi-co-ceo-la-9x-rot-hon-4500-ty-dau-tu-ha-tang-kcn-quy-mo-lon-tai-quang-tri-20210309144636532.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cả làng nhiều người bệnh cùng triệu chứng, 2 người chết: Vẫn chưa biết bị nhiễm độc gì](https://tuoitre.vn/ca-lang-nhieu-nguoi-benh-cung-trieu-chung-2-nguoi-chet-van-chua-biet-bi-nhiem-doc-gi-20210309121940045.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
