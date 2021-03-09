@@ -48,18 +48,18 @@
 
 **GOOGLE TRENDS**
 
+- [![8-3](https://img.shields.io/static/v1?label=8-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8-3)
 - [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
-- [![Due](https://img.shields.io/static/v1?label=Due&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Due)
 - [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
 - [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Loi chuc vo 8/3](https://img.shields.io/static/v1?label=Loi%20chuc%20vo%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Loi%20chuc%20vo%208/3)
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
+- [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
-- [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
 - [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
 - [![Phùng Xuân Nhạ](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Mobile Money được Thủ tướng đồng ý cho triển khai thí điểm trong 2 năm](https://laodong.vn/kinh-te/mobile-money-duoc-thu-tuong-dong-y-cho-trien-khai-thi-diem-trong-2-nam-887458.ldo) ([Lao Động](https://laodong.vn))
+- [Tấm séc kích cầu 1.400 USD là quá ít so với chi tiêu của người dân Mỹ?](https://cafebiz.vn/tam-sec-kich-cau-1400-usd-la-qua-it-so-voi-chi-tieu-cua-nguoi-dan-my-20210309184936072.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nóng nhất hôm nay: Cuộc phỏng vấn của Harry – Meghan bùng nổ tranh cãi](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-cuoc-phong-van-cua-harry--meghan-bung-no-tranh-cai-887396.ldo) ([Lao Động](https://laodong.vn))
+- [Sập máng nước mưa tu việnc cổ dòng Franciscaines Đà Lạt, chết 2 người](https://tuoitre.vn/sap-mang-nuoc-mua-tu-vienc-co-dong-franciscaines-da-lat-chet-2-nguoi-20210309203558376.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tỷ giá ngoại tệ 9.3: USD chợ đen tăng không ngừng, thời điểm vàng chốt lời](https://laodong.vn/kinh-te/ty-gia-ngoai-te-93-usd-cho-den-tang-khong-ngung-thoi-diem-vang-chot-loi-887455.ldo) ([Lao Động](https://laodong.vn))
+- [Sập tường công trình thời Pháp, 2 người chết](https://vnexpress.net/sap-tuong-cong-trinh-thoi-phap-2-nguoi-chet-4246012.html) ([VNExpress](https://vnexpress.net))
 - [Xe khách chở 53 người Trung Quốc nhập cảnh trái phép](https://vnexpress.net/xe-khach-cho-53-nguoi-trung-quoc-nhap-canh-trai-phep-4246009.html) ([VNExpress](https://vnexpress.net))
 - [4 bệnh ung thư nguy hiểm nhất do thói quen ăn uống mà ra: Càng chậm thay đổi thì càng dễ mắc](https://cafebiz.vn/4-benh-ung-thu-nguy-hiem-nhat-do-thoi-quen-an-uong-ma-ra-cang-cham-thay-doi-thi-cang-de-mac-20210309153048411.chn) ([CafeBiz](https://cafebiz.vn))
 - [Oppo soán ngôi vương của Huawei tại Trung Quốc](https://cafebiz.vn/oppo-soan-ngoi-vuong-cua-huawei-tai-trung-quoc-20210309184755492.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắt khẩn cấp vợ chồng chủ công ty xăng dầu Vân Trúc liên quan vụ xăng giả "khủng"](https://cafebiz.vn/bat-khan-cap-vo-chong-chu-cong-ty-xang-dau-van-truc-lien-quan-vu-xang-gia-khung-20210309203809231.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xử phạt tăng nặng nếu tái phạm nồng độ cồn](https://laodong.vn/phap-luat/xu-phat-tang-nang-neu-tai-pham-nong-do-con-887459.ldo) ([Lao Động](https://laodong.vn))
-- [5 điểm mới trên thẻ BHYT từ ngày 1.4.2021 người dân cần biết](https://laodong.vn/ban-doc/5-diem-moi-tren-the-bhyt-tu-ngay-142021-nguoi-dan-can-biet-887457.ldo) ([Lao Động](https://laodong.vn))
-- [Công ty Chứng khoán BIDV nghiên cứu phương án chuyển BSI sang HNX](https://laodong.vn/kinh-te/cong-ty-chung-khoan-bidv-nghien-cuu-phuong-an-chuyen-bsi-sang-hnx-887449.ldo) ([Lao Động](https://laodong.vn))
-- [Nga khởi kiện 5 nền tảng mạng xã hội đình đám](https://laodong.vn/the-gioi/nga-khoi-kien-5-nen-tang-mang-xa-hoi-dinh-dam-887454.ldo) ([Lao Động](https://laodong.vn))
-- [Elon Musk và Tesla sẽ lấn sân sang lĩnh vực smartphone?](https://cafebiz.vn/elon-musk-va-tesla-se-lan-san-sang-linh-vuc-smartphone-20210309184621241.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhận định Dortmund - Sevilla: Không có bất ngờ](https://laodong.vn/bong-da-quoc-te/nhan-dinh-dortmund-sevilla-khong-co-bat-ngo-887442.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
