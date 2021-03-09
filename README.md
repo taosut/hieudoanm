@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is overcast clouds.
+- Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 24.55°C.
-- Air Visual is 79.
+- Feels Like 25.04°C.
+- Air Visual is 81.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [5 điểm mới trên thẻ BHYT từ ngày 1.4.2021 người dân cần biết](https://laodong.vn/ban-doc/5-diem-moi-tren-the-bhyt-tu-ngay-142021-nguoi-dan-can-biet-887457.ldo) ([Lao Động](https://laodong.vn))
+- [Công ty Chứng khoán BIDV nghiên cứu phương án chuyển BSI sang HNX](https://laodong.vn/kinh-te/cong-ty-chung-khoan-bidv-nghien-cuu-phuong-an-chuyen-bsi-sang-hnx-887449.ldo) ([Lao Động](https://laodong.vn))
+- [Nga khởi kiện 5 nền tảng mạng xã hội đình đám](https://laodong.vn/the-gioi/nga-khoi-kien-5-nen-tang-mang-xa-hoi-dinh-dam-887454.ldo) ([Lao Động](https://laodong.vn))
+- [Elon Musk và Tesla sẽ lấn sân sang lĩnh vực smartphone?](https://cafebiz.vn/elon-musk-va-tesla-se-lan-san-sang-linh-vuc-smartphone-20210309184621241.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhận định Dortmund - Sevilla: Không có bất ngờ](https://laodong.vn/bong-da-quoc-te/nhan-dinh-dortmund-sevilla-khong-co-bat-ngo-887442.ldo) ([Lao Động](https://laodong.vn))
+- [LĐLĐ tỉnh Nghệ An tổ chức gặp mặt các cơ quan báo chí trên địa bàn](https://laodong.vn/cong-doan/ldld-tinh-nghe-an-to-chuc-gap-mat-cac-co-quan-bao-chi-tren-dia-ban-887406.ldo) ([Lao Động](https://laodong.vn))
+- [Chu Nguyên Chương khét tiếng tàn bạo, gây thù chuốc oán với không ít người, tại sao về sau không một ai dám động đến lăng mộ của ông?](https://cafebiz.vn/chu-nguyen-chuong-khet-tieng-tan-bao-gay-thu-chuoc-oan-voi-khong-it-nguoi-tai-sao-ve-sau-khong-mot-ai-dam-dong-den-lang-mo-cua-ong-2021030915132976.chn) ([CafeBiz](https://cafebiz.vn))
 - [Trung Quốc tung hộ chiếu Covid-19](https://cafebiz.vn/trung-quoc-tung-ho-chieu-covid-19-20210309184249327.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phát động 75.000 sáng kiến vượt khó phát triển trong công nhân lao động](https://laodong.vn/video-thoi-su/phat-dong-75000-sang-kien-vuot-kho-phat-trien-trong-cong-nhan-lao-dong-887372.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội mở lại phố đi bộ quanh Hồ Gươm từ 12/3, đón khách tới Chùa Hương từ 13/3](https://cafebiz.vn/ha-noi-mo-lai-pho-di-bo-quanh-ho-guom-tu-12-3-don-khach-toi-chua-huong-tu-13-3-20210309184038416.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vụ Đồng Tâm: Y án tử hình bị cáo Lê Đình Công, Lê Đình Chức](https://laodong.vn/phap-luat/vu-dong-tam-y-an-tu-hinh-bi-cao-le-dinh-cong-le-dinh-chuc-887445.ldo) ([Lao Động](https://laodong.vn))
-- [Phó Chủ tịch Nước tặng quà cho công nhân lao động ở Quảng Nam](https://laodong.vn/thoi-su/pho-chu-tich-nuoc-tang-qua-cho-cong-nhan-lao-dong-o-quang-nam-887366.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Đưa người lang thang về trung tâm bảo trợ để phòng dịch COVID-19](https://laodong.vn/xa-hoi/ha-noi-dua-nguoi-lang-thang-ve-trung-tam-bao-tro-de-phong-dich-covid-19-887446.ldo) ([Lao Động](https://laodong.vn))
-- [Quán cơm phá rào cao tốc Hà Nội - Lào Cai](https://vnexpress.net/quan-com-pha-rao-cao-toc-ha-noi-lao-cai-4245957.html) ([VNExpress](https://vnexpress.net))
-- [Câu chuyện kinh doanh của Văn Thị Thúy Kiều với bản lĩnh vững vàng](https://cafebiz.vn/cau-chuyen-kinh-doanh-cua-van-thi-thuy-kieu-voi-ban-linh-vung-vang-20210309162040307.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo dục 24/7: Chi tiết chỉ tiêu tuyển sinh 2021 khối công an](https://laodong.vn/video-thoi-su/giao-duc-247-chi-tiet-chi-tieu-tuyen-sinh-2021-khoi-cong-an-887394.ldo) ([Lao Động](https://laodong.vn))
-- [Hàng quán Sài Gòn mở cửa, không quên COVID-19](https://tuoitre.vn/hang-quan-sai-gon-mo-cua-khong-quen-covid-19-20210309183942122.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 10.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-103-887313.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất 24h: Ông Dũng “lò vôi” hé lộ khối tài sản của ông Võ Hoàng Yên](https://laodong.vn/video-thoi-su/nong-nhat-24h-ong-dung-lo-voi-he-lo-khoi-tai-san-cua-ong-vo-hoang-yen-887378.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
