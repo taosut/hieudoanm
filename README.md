@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 26.12°C.
-- Air Visual is 122.
+- Temperature is 25°C.
+- Feels Like 26.41°C.
+- Air Visual is 96.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bị cáo Đỗ Văn Hồng lấy tiền dự án mua đất rồi bán lại cho Trịnh Xuân Thanh](https://laodong.vn/phap-luat/bi-cao-do-van-hong-lay-tien-du-an-mua-dat-roi-ban-lai-cho-trinh-xuan-thanh-887242.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút 9.3: Thông tin về bài phát biểu khung giờ vàng của ông Biden](https://laodong.vn/video-thoi-su/ban-tin-1-phut-93-thong-tin-ve-bai-phat-bieu-khung-gio-vang-cua-ong-biden-887220.ldo) ([Lao Động](https://laodong.vn))
+- [Cựu &quot;phó tướng&quot; của ông Trump sắp phát biểu công khai lần đầu](https://laodong.vn/the-gioi/cuu-pho-tuong-cua-ong-trump-sap-phat-bieu-cong-khai-lan-dau-887171.ldo) ([Lao Động](https://laodong.vn))
 - [Đồng chí Trần Quốc Vượng thăm Trường DTNT huyện Mù Cang Chải](https://laodong.vn/thoi-su/dong-chi-tran-quoc-vuong-tham-truong-dtnt-huyen-mu-cang-chai-887237.ldo) ([Lao Động](https://laodong.vn))
 - [34 người Trung Quốc nghi nhập cảnh trái phép âm tính lần 1 với COVID-19](https://tuoitre.vn/34-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-am-tinh-lan-1-voi-covid-19-2021030911060154.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chỉ có cây xăng mới tiêu thụ được hàng triệu lít xăng giả](https://laodong.vn/su-kien-binh-luan/chi-co-cay-xang-moi-tieu-thu-duoc-hang-trieu-lit-xang-gia-887186.ldo) ([Lao Động](https://laodong.vn))
-- [Bình Dương: Thêm cây xăng bị khám xét liên quan vụ án xăng giả ở Đồng Nai](https://laodong.vn/phap-luat/binh-duong-them-cay-xang-bi-kham-xet-lien-quan-vu-an-xang-gia-o-dong-nai-887207.ldo) ([Lao Động](https://laodong.vn))
-- [Kiatisak, Tuấn Anh thận trọng trước “ngựa ô” Bình Định](https://laodong.vn/bong-da/kiatisak-tuan-anh-than-trong-truoc-ngua-o-binh-dinh-887233.ldo) ([Lao Động](https://laodong.vn))
 - [Tiêm vaccine COVID-19 để nhân viên y tế yên tâm, phục vụ người bệnh tốt hơn](https://laodong.vn/video-thoi-su/tiem-vaccine-covid-19-de-nhan-vien-y-te-yen-tam-phuc-vu-nguoi-benh-tot-hon-887234.ldo) ([Lao Động](https://laodong.vn))
 - [HLV Kiatisak: &quot;Tuyển Việt Nam có cơ hội lớn tại vòng loại World Cup 2022&quot;](https://laodong.vn/bong-da/hlv-kiatisak-tuyen-viet-nam-co-co-hoi-lon-tai-vong-loai-world-cup-2022-887206.ldo) ([Lao Động](https://laodong.vn))
 - [Chào giá cung cấp cuộn HDPE phục vụ sản xuất bao bì](https://laodong.vn/thong-tin-doanh-nghiep/chao-gia-cung-cap-cuon-hdpe-phuc-vu-san-xuat-bao-bi-887208.ldo) ([Lao Động](https://laodong.vn))
 - [TP.HCM mở cao điểm xử lý vấn nạn tiếng ồn, gây bức xúc trong dân](http://vietnamnet.vn/vn/thoi-su/tp-hcm-mo-cao-diem-xu-ly-van-nan-tieng-on-gay-buc-xuc-trong-dan-718260.html) ([VietNamNet](https://vietnamnet.vn))
-- [Thanh tra Chính phủ &quot;giục&quot; Hà Nội thông báo kết quả xử lý vụ trù dập người tố cáo sai phạm](https://laodong.vn/phap-luat/thanh-tra-chinh-phu-giuc-ha-noi-thong-bao-ket-qua-xu-ly-vu-tru-dap-nguoi-to-cao-sai-pham-887218.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
