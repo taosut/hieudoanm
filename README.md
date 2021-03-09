@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 23°C.
-- Feels Like 24.81°C.
-- Air Visual is 90.
+- Current weather is broken clouds.
+- Temperature is 24°C.
+- Feels Like 25.76°C.
+- Air Visual is 94.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bảng xếp hạng vòng 26 Serie A: Inter xây chắc ngôi đầu](https://laodong.vn/infographic/bang-xep-hang-vong-26-serie-a-inter-xay-chac-ngoi-dau-887178.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Bùi Cao Nhật Quân, con trai Chủ tịch Bùi Thành Nhơn vừa mua thêm cổ phiếu Novaland, nâng tài sản trên sàn chứng khoán lên trên 3.700 tỷ đồng](https://cafebiz.vn/ong-bui-cao-nhat-quan-con-trai-chu-tich-bui-thanh-nhon-vua-mua-them-co-phieu-novaland-nang-tai-san-tren-san-chung-khoan-len-tren-3700-ty-dong-20210309104244347.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đào tạo lái ôtô kiểu ‘tay không bắt giặc’ ở Đắk Lắk](https://tuoitre.vn/dao-tao-lai-oto-kieu-tay-khong-bat-giac-o-dak-lak-20210309101653712.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Đề xuất Tiên Lãng là sân bay thứ hai vùng thủ đô](https://vnexpress.net/de-xuat-tien-lang-la-san-bay-thu-hai-vung-thu-do-4245601.html) ([VNExpress](https://vnexpress.net))
+- [Ba chức danh lãnh đạo chủ chốt được giới thiệu với số phiếu tập trung cao](https://vnexpress.net/ba-chuc-danh-lanh-dao-chu-chot-duoc-gioi-thieu-voi-so-phieu-tap-trung-cao-4245551.html) ([VNExpress](https://vnexpress.net))
 - [12 bang khởi kiện ông Biden vì sắc lệnh khí hậu bị tố lấn quyền Quốc hội, gây thiệt hại hàng nghìn tỷ USD](https://cafebiz.vn/12-bang-khoi-kien-ong-biden-vi-sac-lenh-khi-hau-bi-to-lan-quyen-quoc-hoi-gay-thiet-hai-hang-nghin-ty-usd-20210309103253399.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cận cảnh tiêm vaccine COVID-19 cho 30 nhân viên y tế đầu tiên của Hà Nội](https://laodong.vn/photo/can-canh-tiem-vaccine-covid-19-cho-30-nhan-vien-y-te-dau-tien-cua-ha-noi-887170.ldo) ([Lao Động](https://laodong.vn))
 - [Việt Nam đặt mục tiêu cung cấp nông sản cho thế giới](https://laodong.vn/kinh-te/viet-nam-dat-muc-tieu-cung-cap-nong-san-cho-the-gioi-887053.ldo) ([Lao Động](https://laodong.vn))
 - [Bế mạc Hội nghị Trung ương 2, khoá XIII](https://laodong.vn/thoi-su/be-mac-hoi-nghi-trung-uong-2-khoa-xiii-887179.ldo) ([Lao Động](https://laodong.vn))
 - [Nhu cầu dịch vụ bảo hiểm COVID-19 cho khách du lịch gia tăng mạnh](https://cafebiz.vn/nhu-cau-dich-vu-bao-hiem-covid-19-cho-khach-du-lich-gia-tang-manh-20210309090210753.chn) ([CafeBiz](https://cafebiz.vn))
-- [Yên Bái xây dựng kế hoạch tiêm chủng vaccine COVID-19](https://laodong.vn/xa-hoi/yen-bai-xay-dung-ke-hoach-tiem-chung-vaccine-covid-19-887143.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng và ngoại tệ 9.3: Vàng thế giới tiếp tục lao dốc](https://laodong.vn/video/gia-vang-va-ngoai-te-93-vang-the-gioi-tiep-tuc-lao-doc-887175.ldo) ([Lao Động](https://laodong.vn))
-- [Chân dung thầy giáo hóa học kín tiếng vừa cưới vợ cũ tỉ phú Jeff Bezos](https://laodong.vn/the-gioi/chan-dung-thay-giao-hoa-hoc-kin-tieng-vua-cuoi-vo-cu-ti-phu-jeff-bezos-887134.ldo) ([Lao Động](https://laodong.vn))
-- ["Bố không phải vừa sinh ra đã làm bố, bố cũng là lần đầu tiên làm bố"](https://cafebiz.vn/bo-khong-phai-vua-sinh-ra-da-lam-bo-bo-cung-la-lan-dau-tien-lam-bo-20210309100645515.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người từng khen ông Võ Hoàng Yên là tài năng: Kỹ thuật chữa bệnh của ông Yên hơi tàn bạo, có tính lừa đảo](https://cafebiz.vn/nguoi-tung-khen-ong-vo-hoang-yen-la-tai-nang-ky-thuat-chua-benh-cua-ong-yen-hoi-tan-bao-co-tinh-lua-dao-20210309100634955.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Câu chuyện chuyển đổi số: Xây dựng thương hiệu trên Facebook - Có còn khó không?](https://vietcetera.com/vn/xay-dung-thuong-hieu-tren-facebook-co-hoi-va-thach-thuc-trong-cong-cuoc-chuyen-doi-so)
 - [Thử Rồi Thích: Lập ngân sách chi tiêu bắt đầu từ mốc số 0](https://vietcetera.com/vn/zero-based-budgeting-lap-ngan-sach-chi-tieu-bat-dau-tu-moc-so-0)
 - [Mất cân bằng chút. Tại sao không?](https://vietcetera.com/vn/mat-can-bang-chut-tai-sao-khong)
 - [Tóm Lại Là: 8/3 nói chuyện vai trò đàn bà và đàn ông](https://vietcetera.com/vn/tom-lai-la-83-noi-chuyen-vai-tro-dan-ba-va-dan-ong)
@@ -105,7 +106,6 @@
 - [Đi một dặm trong đôi giày nhân gian](https://vietcetera.com/vn/thau-hieu-va-thau-cam-khac-nhau-cho-nao)
 - ["Vượt qua những cú sốc, chị dấn thân giúp hàng trăm bạn trẻ tìm việc mới.”](https://vietcetera.com/vn/vuot-qua-nhung-cu-soc-chi-dan-than-giup-hang-tram-ban-tre-tim-viec-moi)
 - [Nguyễn Thị Thiên Thanh - CEO Edelman Việt Nam: Hãy lấy con người làm kim chỉ nam](https://vietcetera.com/vn/nguyen-thi-thien-thanh-ceo-edelman-hay-lay-con-nguoi-lam-kim-chi-nam)
-- ["Chị mong con trai chị hiểu rằng..."](https://vietcetera.com/vn/chi-mong-con-trai-chi-hieu-rang)
 
 [Read More](https://vietcetera.com/)
 
