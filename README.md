@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 26.11°C.
-- Air Visual is 101.
+- Temperature is 25°C.
+- Feels Like 25.89°C.
+- Air Visual is 82.
 
 **WEATHER**
 
@@ -48,24 +48,24 @@
 
 **GOOGLE TRENDS**
 
-- [![Bó hoa](https://img.shields.io/static/v1?label=B%C3%B3%20hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3%20hoa)
+- [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Chúc 8/3 mẹ](https://img.shields.io/static/v1?label=Ch%C3%BAc%208/3%20m%E1%BA%B9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%208/3%20m%E1%BA%B9)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Due](https://img.shields.io/static/v1?label=Due&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Due)
 - [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
-- [![Hoa hậu Đỗ Thị Hà](https://img.shields.io/static/v1?label=Hoa%20h%E1%BA%ADu%20%C4%90%E1%BB%97%20Th%E1%BB%8B%20H%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BA%ADu%20%C4%90%E1%BB%97%20Th%E1%BB%8B%20H%C3%A0)
+- [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Loi chuc vo 8/3](https://img.shields.io/static/v1?label=Loi%20chuc%20vo%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Loi%20chuc%20vo%208/3)
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
-- [![Mina (AOA](https://img.shields.io/static/v1?label=Mina%20(AOA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mina%20(AOA)
+- [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
-- [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
 - [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
+- [![Trưc tiep bong da](https://img.shields.io/static/v1?label=Tr%C6%B0c%20tiep%20bong%20da&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0c%20tiep%20bong%20da)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
 - [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Barcelona, Joan Laporta với 4 bài toán khó đang chờ đợi](https://laodong.vn/bong-da-quoc-te/barcelona-joan-laporta-voi-4-bai-toan-kho-dang-cho-doi-887238.ldo) ([Lao Động](https://laodong.vn))
-- [HLV Kiatisak muốn cầu thủ Hoàng Anh Gia Lai sang Hàn Quốc, Nhật Bản thi đấu](https://laodong.vn/video/hlv-kiatisak-muon-cau-thu-hoang-anh-gia-lai-sang-han-quoc-nhat-ban-thi-dau-887286.ldo) ([Lao Động](https://laodong.vn))
-- [Trước vòng 3 LS V.League 2021: Hà Nội tìm cảm giác chiến thắng](https://laodong.vn/bong-da/truoc-vong-3-ls-vleague-2021-ha-noi-tim-cam-giac-chien-thang-887310.ldo) ([Lao Động](https://laodong.vn))
-- [Bitcoin tăng trở lại, đang bước vào chu kỳ tăng giá mới?](https://laodong.vn/kinh-te/bitcoin-tang-tro-lai-dang-buoc-vao-chu-ky-tang-gia-moi-887315.ldo) ([Lao Động](https://laodong.vn))
-- [5 loại thực phẩm tốt nhất để xoa dịu chứng trầm cảm theo mùa](https://laodong.vn/suc-khoe/5-loai-thuc-pham-tot-nhat-de-xoa-diu-chung-tram-cam-theo-mua-887180.ldo) ([Lao Động](https://laodong.vn))
-- [Phát biểu bế mạc Hội nghị Trung ương 2 của Tổng Bí thư, Chủ tịch Nước](https://laodong.vn/thoi-su/phat-bieu-be-mac-hoi-nghi-trung-uong-2-cua-tong-bi-thu-chu-tich-nuoc-887322.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ cũ tỷ phú Amazon gây bất ngờ khi tái hôn với một giáo viên bình thường, chồng cũ ngay lập tức có động thái lên tiếng](https://cafebiz.vn/vo-cu-ty-phu-amazon-gay-bat-ngo-khi-tai-hon-voi-mot-giao-vien-binh-thuong-chong-cu-ngay-lap-tuc-co-dong-thai-len-tieng-20210309154705931.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từng mắc 2 bệnh ung thư, vị giáo sư 83 tuổi vẫn gây sốt vì sự hồng hào, khỏe khoắn, 20 năm chưa hề tái phát bệnh nhờ 3 bí quyết sống rất đáng học hỏi](https://cafebiz.vn/tung-mac-2-benh-ung-thu-vi-giao-su-83-tuoi-van-gay-sot-vi-su-hong-hao-khoe-khoan-20-nam-chua-he-tai-phat-benh-nho-3-bi-quyet-song-rat-dang-hoc-hoi-20210309113916762.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ 10-3: Sinh 2 con một bề có thể được miễn giảm học phí, bảo hiểm y tế, sữa học đường](https://tuoitre.vn/tu-10-3-sinh-2-con-1-be-co-the-duoc-mien-giam-hoc-phi-bao-hiem-y-te-sua-hoc-duong-20210309151642931.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [TPHCM: Người dân lần đầu trải nghiệm &quot;ATM&quot; nhận và trả hồ sơ tự động](https://laodong.vn/video-thoi-su/tphcm-nguoi-dan-lan-dau-trai-nghiem-atm-nhan-va-tra-ho-so-tu-dong-887261.ldo) ([Lao Động](https://laodong.vn))
+- [Mâu thuẫn vặt, 2 thanh niên cầm dao xông vào nhà người khác chém người](https://laodong.vn/phap-luat/mau-thuan-vat-2-thanh-nien-cam-dao-xong-vao-nha-nguoi-khac-chem-nguoi-887343.ldo) ([Lao Động](https://laodong.vn))
+- [Xét nghiệm COVID-19 toàn bộ công nhân công ty POYUN trước khi trở lại làm việc](https://tuoitre.vn/xet-nghiem-covid-19-toan-bo-cong-nhan-cong-ty-poyun-truoc-khi-tro-lai-lam-viec-20210309163802853.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Người phụ nữ ở TP HCM mất 1,2 tỉ đồng chỉ vì nhấp vào đường link trên Zalo](https://cafebiz.vn/nguoi-phu-nu-o-tp-hcm-mat-12-ti-dong-chi-vi-nhap-vao-duong-link-tren-zalo-20210309165533455.chn) ([CafeBiz](https://cafebiz.vn))
+- [Các triệu phú luôn có đến 7 nguồn thu nhập: Đây là 10 thói quen khiến bạn muôn đời không giàu có nổi](https://cafebiz.vn/cac-trieu-phu-luon-co-den-7-nguon-thu-nhap-day-la-10-thoi-quen-khien-ban-muon-doi-khong-giau-co-noi-20210308200802052.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bí ẩn những doanh nhân 9X 'ôm' dự án hàng nghìn tỷ đồng](https://cafebiz.vn/bi-an-nhung-doanh-nhan-9x-om-du-an-hang-nghin-ty-dong-20210309165136891.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo viên hưởng phụ cấp thâm niên vượt khung được xếp lương mới](https://laodong.vn/cong-doan/giao-vien-huong-phu-cap-tham-nien-vuot-khung-duoc-xep-luong-moi-887345.ldo) ([Lao Động](https://laodong.vn))
+- [Khánh Hòa cần sớm triển khai, hoàn thiện bản đồ an toàn COVID-19](https://laodong.vn/cong-doan/khanh-hoa-can-som-trien-khai-hoan-thien-ban-do-an-toan-covid-19-887355.ldo) ([Lao Động](https://laodong.vn))
+- [Những lợi ích tuyệt vời từ chế độ ăn Keto](https://laodong.vn/suc-khoe/nhung-loi-ich-tuyet-voi-tu-che-do-an-keto-887321.ldo) ([Lao Động](https://laodong.vn))
+- [8 mẹo khi mua đồ ăn ở siêu thị giúp tiết kiệm được kha khá tiền mà chắc chắn nhiều người không để ý](https://cafebiz.vn/8-meo-khi-mua-do-an-o-sieu-thi-giup-tiet-kiem-duoc-kha-kha-tien-ma-chac-chan-nhieu-nguoi-khong-de-y-20210309150754521.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những công việc nào lương 80-100 triệu/tháng, đang "khát" nhân sự ở Việt Nam?](https://cafebiz.vn/nhung-cong-viec-nao-luong-80-100-trieu-thang-dang-khat-nhan-su-o-viet-nam-20210309164441045.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
