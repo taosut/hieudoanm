@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is light intensity drizzle.
+- Current weather is mist.
 - Temperature is 22°C.
 - Feels Like 24.18°C.
-- Air Visual is 98.
+- Air Visual is 93.
 
 **WEATHER**
 
@@ -51,13 +51,13 @@
 - [![8.3](https://img.shields.io/static/v1?label=8.3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8.3)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Chúc 8-3 mẹ](https://img.shields.io/static/v1?label=Ch%C3%BAc%208-3%20m%E1%BA%B9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%208-3%20m%E1%BA%B9)
-- [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
 - [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Joan Laporta](https://img.shields.io/static/v1?label=Joan%20Laporta&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joan%20Laporta)
+- [![Loi chuc vo 8/3](https://img.shields.io/static/v1?label=Loi%20chuc%20vo%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Loi%20chuc%20vo%208/3)
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
 - [![Mina (AOA](https://img.shields.io/static/v1?label=Mina%20(AOA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mina%20(AOA)
@@ -65,7 +65,7 @@
 - [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
 - [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
-- [![Trưc tiep bong da](https://img.shields.io/static/v1?label=Tr%C6%B0c%20tiep%20bong%20da&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0c%20tiep%20bong%20da)
+- [![Truc tiep ngoai hang Anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20Anh)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
 - [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Sáng 9/3, không ca mắc mới, Hà Nội và Gia Lai triển khai tiêm vắc xin phòng COVID-19](https://cafebiz.vn/sang-9-3-khong-ca-mac-moi-ha-noi-va-gia-lai-trien-khai-tiem-vac-xin-phong-covid-19-20210309081404349.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tại sao xe sang ở Mỹ được "người nghèo" mua hết, người giàu lại chuộng Honda hoặc Toyota](https://cafebiz.vn/tai-sao-xe-sang-o-my-duoc-nguoi-ngheo-mua-het-nguoi-giau-lai-chuong-honda-hoac-toyota-20210308182830171.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trên 1000 đoàn viên Đan Phượng hiến máu tình nguyện năm 2021](https://laodong.vn/cong-doan/tren-1000-doan-vien-dan-phuong-hien-mau-tinh-nguyen-nam-2021-887119.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng nâng tần suất xét nghiệm SARS-CoV-2 nhằm phát hiện sớm ca mắc](https://laodong.vn/y-te/hai-phong-nang-tan-suat-xet-nghiem-sars-cov-2-nham-phat-hien-som-ca-mac-887109.ldo) ([Lao Động](https://laodong.vn))
-- [Những cụ già làm nghề "đồng nát" kiếm bạc lẻ để sinh tồn giữa Seoul hoa lệ: Góc khuất bị lãng quên của một đất nước giàu có](https://cafebiz.vn/nhung-cu-gia-lam-nghe-dong-nat-kiem-bac-le-de-sinh-ton-giua-seoul-hoa-le-goc-khuat-bi-lang-quen-cua-mot-dat-nuoc-giau-co-20210309080628287.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Phòng dỡ phong tỏa 2 khu dân cư liên quan đến chùm ca bệnh COVID-19](https://laodong.vn/xa-hoi/hai-phong-do-phong-toa-2-khu-dan-cu-lien-quan-den-chum-ca-benh-covid-19-887093.ldo) ([Lao Động](https://laodong.vn))
-- [7 sai lầm thường gặp dẫn đến rạn nứt mối quan hệ vợ chồng](https://laodong.vn/chuyen-nha-minh/7-sai-lam-thuong-gap-dan-den-ran-nut-moi-quan-he-vo-chong-887095.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt người tố cáo con gái ông Trần Quí Thanh](https://cafebiz.vn/bat-nguoi-to-cao-con-gai-ong-tran-qui-thanh-20210309080129077.chn) ([CafeBiz](https://cafebiz.vn))
-- [Gọi vốn đến vòng Serie C, Co-founder kiêm CEO Loship khuyên startup: Không nên nói dối nhà đầu tư, hãy tin vào bản thân và đi trên đôi chân mình!](https://cafebiz.vn/goi-von-den-vong-serie-c-co-founder-kiem-ceo-loship-khuyen-startup-khong-nen-noi-doi-nha-dau-tu-hay-tin-vao-ban-than-va-di-tren-doi-chan-minh-20210308162257981.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phe Cộng hòa hối luận tội Thống đốc New York vì nghi quấy rối tình dục](https://laodong.vn/the-gioi/phe-cong-hoa-hoi-luan-toi-thong-doc-new-york-vi-nghi-quay-roi-tinh-duc-887116.ldo) ([Lao Động](https://laodong.vn))
+- [Kết quả - lịch thi đấu bóng đá ngày 9.3: Tâm điểm Juventus - Porto](https://laodong.vn/lich-thi-dau/ket-qua-lich-thi-dau-bong-da-ngay-93-tam-diem-juventus-porto-887126.ldo) ([Lao Động](https://laodong.vn))
+- [Chính phủ Mỹ tổ chức bán đấu giá 0,7501 Bitcoin](https://cafebiz.vn/chinh-phu-my-to-chuc-ban-dau-gia-07501-bitcoin-20210309085131279.chn) ([CafeBiz](https://cafebiz.vn))
+- [60 năm làm vợ chồng, ông vẫn giặt đồ, tắm gội cho bà lúc ốm đau, bệnh tật: "Tui không có con, cả đời này có mình bả thôi"](https://cafebiz.vn/60-nam-lam-vo-chong-ong-van-giat-do-tam-goi-cho-ba-luc-om-dau-benh-tat-tui-khong-co-con-ca-doi-nay-co-minh-ba-thoi-20210309085518796.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chi tiết lộ trình 34 người Trung Quốc nhập cảnh trái phép để sang Campuchia](https://laodong.vn/phap-luat/chi-tiet-lo-trinh-34-nguoi-trung-quoc-nhap-canh-trai-phep-de-sang-campuchia-887124.ldo) ([Lao Động](https://laodong.vn))
+- [Nam Bộ nắng nóng có thể đạt 38 độ C](https://laodong.vn/moi-truong/nam-bo-nang-nong-co-the-dat-38-do-c-887132.ldo) ([Lao Động](https://laodong.vn))
+- [Gần 1.500 người lao động được hỗ trợ từ Quỹ trợ vốn của LĐLĐ TP.Hải Phòng](https://laodong.vn/cong-doan/gan-1500-nguoi-lao-dong-duoc-ho-tro-tu-quy-tro-von-cua-ldld-tphai-phong-887128.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Giúp người lao động nhận hơn 2,63 tỉ đồng trợ cấp thôi việc](https://laodong.vn/cong-doan/tphcm-giup-nguoi-lao-dong-nhan-hon-263-ti-dong-tro-cap-thoi-viec-887040.ldo) ([Lao Động](https://laodong.vn))
+- [Được trả ít nhất 7 triệu USD để 'bóc phốt' nhà chồng, Meghan bị cả nước Anh lên án](https://cafebiz.vn/duoc-tra-it-nhat-7-trieu-usd-de-boc-phot-nha-chong-meghan-bi-ca-nuoc-anh-len-an-20210308224805316.chn) ([CafeBiz](https://cafebiz.vn))
+- [Maye Musk: Người mẹ đơn thân nuôi dạy nên 1 tỷ phú và 2 triệu phú đôla](https://cafebiz.vn/maye-musk-nguoi-me-don-than-nuoi-day-nen-1-ty-phu-va-2-trieu-phu-dola-20210308165315077.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá vàng lún sâu](https://cafebiz.vn/gia-vang-lun-sau-20210309083756279.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
