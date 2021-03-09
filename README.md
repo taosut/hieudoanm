@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 25.76°C.
-- Air Visual is 103.
+- Air Visual is 108.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nhân viên Samsung Việt Nam chung tay hiến máu, chia sẻ yêu thương](https://laodong.vn/xa-hoi/nhan-vien-samsung-viet-nam-chung-tay-hien-mau-chia-se-yeu-thuong-887187.ldo) ([Lao Động](https://laodong.vn))
-- [Giới thiệu nhân sự ứng cử các chức danh Chủ tịch Nước, Thủ tướng Chính phủ, Chủ tịch Quốc hội với số phiếu tập trung cao](https://laodong.vn/thoi-su/gioi-thieu-nhan-su-ung-cu-cac-chuc-danh-chu-tich-nuoc-thu-tuong-chinh-phu-chu-tich-quoc-hoi-voi-so-phieu-tap-trung-cao-887190.ldo) ([Lao Động](https://laodong.vn))
-- [Thị trường nhiều biến động, dòng tiền đầu tư bất động sản năm 2021 sẽ đổ về đâu?](https://cafebiz.vn/thi-truong-nhieu-bien-dong-dong-tien-dau-tu-bat-dong-san-nam-2021-se-do-ve-dau-20210309102614135.chn) ([CafeBiz](https://cafebiz.vn))
-- [​Hơn 100  cột đèn “nở hoa” giữa trung tâm Hà Nội](https://cafebiz.vn/hon-100-cot-den-no-hoa-giua-trung-tam-ha-noi-20210309100210613.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hồ sơ sang tên sổ đỏ đất nông nghiệp gồm những gì?](https://laodong.vn/bat-dong-san/ho-so-sang-ten-so-do-dat-nong-nghiep-gom-nhung-gi-887087.ldo) ([Lao Động](https://laodong.vn))
-- [Sao băng phát nổ rung chuyển bầu trời Mỹ với sức mạnh 200kg TNT](https://laodong.vn/the-gioi/sao-bang-phat-no-rung-chuyen-bau-troi-my-voi-suc-manh-200kg-tnt-887168.ldo) ([Lao Động](https://laodong.vn))
-- [Bất ngờ với lý do khiến trẻ con trở nên nghịch ngợm khi ở bên cạnh mẹ](https://laodong.vn/chuyen-nha-minh/bat-ngo-voi-ly-do-khien-tre-con-tro-nen-nghich-ngom-khi-o-ben-canh-me-887086.ldo) ([Lao Động](https://laodong.vn))
-- [Bạo phát bạo tàn, Elon Musk đang mất tiền với tốc độ khủng khiếp](https://cafebiz.vn/bao-phat-bao-tan-elon-musk-dang-mat-tien-voi-toc-do-khung-khiep-20210309105416033.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bế mạc Hội nghị Trung ương 2: Kiện toàn các chức danh lãnh đạo cơ quan nhà nước](https://tuoitre.vn/be-mac-hoi-nghi-trung-uong-2-kien-toan-cac-chuc-danh-lanh-dao-co-quan-nha-nuoc-2021030910451399.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bảng xếp hạng vòng 26 Serie A: Inter xây chắc ngôi đầu](https://laodong.vn/infographic/bang-xep-hang-vong-26-serie-a-inter-xay-chac-ngoi-dau-887178.ldo) ([Lao Động](https://laodong.vn))
+- [Lao động nữ trong giai đoạn phát triển “chuyển đổi số”](https://laodong.vn/cd-dien-luc/lao-dong-nu-trong-giai-doan-phat-trien-chuyen-doi-so-887101.ldo) ([Lao Động](https://laodong.vn))
+- [TP HCM đặt mục tiêu chấm dứt tiếng ồn karaoke cuối năm nay](https://vnexpress.net/tp-hcm-dat-muc-tieu-cham-dut-tieng-on-karaoke-cuoi-nam-nay-4245696.html) ([VNExpress](https://vnexpress.net))
+- [Người dân Hải Phòng ăn mừng hết cách ly](https://vnexpress.net/nguoi-dan-hai-phong-an-mung-het-cach-ly-4245584.html) ([VNExpress](https://vnexpress.net))
+- [Cuộc đời là chuỗi những trò chơi, bạn đã biết cách chơi game và thắng game chưa?](https://cafebiz.vn/cuoc-doi-la-chuoi-nhung-tro-choi-ban-da-biet-cach-choi-game-va-thang-game-chua-2021030911310771.chn) ([CafeBiz](https://cafebiz.vn))
+- [An Giang: Khởi tố người phụ nữ đánh người vì mâu thuẫn tranh chấp ranh đất](https://laodong.vn/phap-luat/an-giang-khoi-to-nguoi-phu-nu-danh-nguoi-vi-mau-thuan-tranh-chap-ranh-dat-887215.ldo) ([Lao Động](https://laodong.vn))
+- [Xuân Trường: “Chúng tôi đã qua tuổi thanh xuân, chín chắn và trưởng thành&quot;](https://laodong.vn/bong-da/xuan-truong-chung-toi-da-qua-tuoi-thanh-xuan-chin-chan-va-truong-thanh-887204.ldo) ([Lao Động](https://laodong.vn))
+- [Hộ gia đình mua đất: Sổ đỏ đứng tên cha mẹ hay ghi cả các con?](https://laodong.vn/bat-dong-san/ho-gia-dinh-mua-dat-so-do-dung-ten-cha-me-hay-ghi-ca-cac-con-886966.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Biden lần đầu tiên phát biểu khung giờ vàng đánh dấu dịp đặc biệt](https://laodong.vn/the-gioi/ong-biden-lan-dau-tien-phat-bieu-khung-gio-vang-danh-dau-dip-dac-biet-887150.ldo) ([Lao Động](https://laodong.vn))
+- [Trấn Thành: Nghệ sĩ lắm tài, nhiều tật và những lần vạ miệng nhớ đời!](https://cafebiz.vn/tran-thanh-nghe-si-lam-tai-nhieu-tat-va-nhung-lan-va-mieng-nho-doi-20210309112530256.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vợ chồng Harry - Meghan ký 'deal hời' với Netflix: Nhận 100 triệu USD để 'kể chuyện gia đình qua lăng kính trung thực'](https://cafebiz.vn/vo-chong-harry-meghan-ky-deal-hoi-voi-netflix-nhan-100-trieu-usd-de-ke-chuyen-gia-dinh-qua-lang-kinh-trung-thuc-20210309110834436.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
