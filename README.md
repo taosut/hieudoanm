@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 25.76°C.
-- Air Visual is 80.
+- Air Visual is 65.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Pháp và Tây Ban Nha thu thuế kỹ thuật số, Google sẽ tăng phí quảng cáo](https://cafebiz.vn/phap-va-tay-ban-nha-thu-thue-ky-thuat-so-google-se-tang-phi-quang-cao-20210309185118483.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bài học kinh doanh từ cuộc trò chuyện giữa blogger triệu người theo dõi và “thiên tài” kinh doanh 17 tuổi: Khi biết cách yêu cầu cơ hội, bạn đã có 1 nửa chiến thắng](https://cafebiz.vn/bai-hoc-kinh-doanh-tu-cuoc-tro-chuyen-giua-blogger-trieu-nguoi-theo-doi-va-thien-tai-kinh-doanh-17-tuoi-khi-biet-cach-yeu-cau-co-hoi-ban-da-co-1-nua-chien-thang-20210309155439623.chn) ([CafeBiz](https://cafebiz.vn))
 - [Văn Quyết được vinh danh Gương mặt trẻ Việt Nam tiêu biểu năm 2020](https://laodong.vn/bong-da/van-quyet-duoc-vinh-danh-guong-mat-tre-viet-nam-tieu-bieu-nam-2020-887467.ldo) ([Lao Động](https://laodong.vn))
 - [An Giang: Bắt quả tang đối tượng cho vay nặng lãi](https://laodong.vn/phap-luat/an-giang-bat-qua-tang-doi-tuong-cho-vay-nang-lai-887465.ldo) ([Lao Động](https://laodong.vn))
 - [Nhiều tiền để làm gì: Dân Mỹ sử dụng phần lớn khoản trợ cấp Covid-19 để đầu tư chứng khoán](https://cafebiz.vn/nhieu-tien-de-lam-gi-dan-my-su-dung-phan-lon-khoan-tro-cap-covid-19-de-dau-tu-chung-khoan-20210309202310102.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ra giá 20 tỉ để “chạy” điều chuyển Giám đốc Công an tỉnh An Giang](https://laodong.vn/phap-luat/ra-gia-20-ti-de-chay-dieu-chuyen-giam-doc-cong-an-tinh-an-giang-887461.ldo) ([Lao Động](https://laodong.vn))
+- [Sáu tướng lĩnh các quân khu được giới thiệu ứng cử Quốc hội](http://vietnamnet.vn/vn/thoi-su/quoc-phong/sau-tuong-linh-cac-quan-khu-duoc-gioi-thieu-ung-cu-quoc-hoi-718420.html) ([VietNamNet](https://vietnamnet.vn))
 - [Đưa ra 1 lời khuyên mà đắc tội với quá nhiều người, Triệu Vân tự chặn đường thăng tiến của bản thân dù được Lưu Bị vô cùng ưu ái](https://cafebiz.vn/dua-ra-1-loi-khuyen-ma-dac-toi-voi-qua-nhieu-nguoi-trieu-van-tu-chan-duong-thang-tien-cua-ban-than-du-duoc-luu-bi-vo-cung-uu-ai-20210309153837198.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mobile Money được Thủ tướng đồng ý cho triển khai thí điểm trong 2 năm](https://laodong.vn/kinh-te/mobile-money-duoc-thu-tuong-dong-y-cho-trien-khai-thi-diem-trong-2-nam-887458.ldo) ([Lao Động](https://laodong.vn))
 - [Tấm séc kích cầu 1.400 USD là quá ít so với chi tiêu của người dân Mỹ?](https://cafebiz.vn/tam-sec-kich-cau-1400-usd-la-qua-it-so-voi-chi-tieu-cua-nguoi-dan-my-20210309184936072.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nóng nhất hôm nay: Cuộc phỏng vấn của Harry – Meghan bùng nổ tranh cãi](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-cuoc-phong-van-cua-harry--meghan-bung-no-tranh-cai-887396.ldo) ([Lao Động](https://laodong.vn))
-- [Sập máng nước mưa tu viện cổ dòng Franciscaines Đà Lạt, chết 2 người](https://tuoitre.vn/sap-mang-nuoc-mua-tu-vien-co-dong-franciscaines-da-lat-chet-2-nguoi-20210309203558376.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
