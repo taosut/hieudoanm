@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 26.41°C.
-- Air Visual is 97.
+- Feels Like 25.69°C.
+- Air Visual is 120.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Chung cư Phú Hoàng Anh: Ban Quản trị cản trở dân là không đúng thẩm quyền](https://laodong.vn/bat-dong-san/chung-cu-phu-hoang-anh-ban-quan-tri-can-tro-dan-la-khong-dung-tham-quyen-886603.ldo) ([Lao Động](https://laodong.vn))
-- [Tuyển sinh 2021: 8 trường khối công an tuyển 2080 chỉ tiêu](https://laodong.vn/giao-duc/tuyen-sinh-2021-8-truong-khoi-cong-an-tuyen-2080-chi-tieu-887251.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM mở đợt cao điểm chấm dứt nạn ô nhiễm tiếng ồn trong năm 2021](https://laodong.vn/xa-hoi/tphcm-mo-dot-cao-diem-cham-dut-nan-o-nhiem-tieng-on-trong-nam-2021-887245.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội sẽ xét nghiệm SARS-CoV-2 cho 4.000 người nguy cơ cao](https://laodong.vn/xa-hoi/ha-noi-se-xet-nghiem-sars-cov-2-cho-4000-nguoi-nguy-co-cao-887249.ldo) ([Lao Động](https://laodong.vn))
-- [Yêu nhau một tháng, bị lừa tiền tỷ: Cạm bẫy núp bóng "tình nhân hoàn hảo", chuyên "nuôi để thịt" phụ nữ độc thân có kinh tế](https://cafebiz.vn/yeu-nhau-mot-thang-bi-lua-tien-ty-cam-bay-nup-bong-tinh-nhan-hoan-hao-chuyen-nuoi-de-thit-phu-nu-doc-than-co-kinh-te-2021030911364099.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đường xóm chưa được nâng cấp dù dân đã hiến đất](https://laodong.vn/ban-doc/duong-xom-chua-duoc-nang-cap-du-dan-da-hien-dat-886928.ldo) ([Lao Động](https://laodong.vn))
-- [Vỡ đập trên đảo ở Hawaii, người dân sơ tán khẩn](https://laodong.vn/the-gioi/vo-dap-tren-dao-o-hawaii-nguoi-dan-so-tan-khan-887229.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút 9.3: Thông tin về bài phát biểu khung giờ vàng của ông Biden](https://laodong.vn/video-thoi-su/ban-tin-1-phut-93-thong-tin-ve-bai-phat-bieu-khung-gio-vang-cua-ong-biden-887220.ldo) ([Lao Động](https://laodong.vn))
-- [34 người Trung Quốc nghi nhập cảnh trái phép âm tính lần 1 với COVID-19](https://tuoitre.vn/34-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-am-tinh-lan-1-voi-covid-19-2021030911060154.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tiêm vaccine COVID-19 để nhân viên y tế yên tâm, phục vụ người bệnh tốt hơn](https://laodong.vn/video-thoi-su/tiem-vaccine-covid-19-de-nhan-vien-y-te-yen-tam-phuc-vu-nguoi-benh-tot-hon-887234.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
@@ -114,8 +105,8 @@
 **MUSIC TRENDS**
 
 01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-02. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
-03. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
+02. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
+03. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
 04. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 05. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 06. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
@@ -132,8 +123,8 @@
 
 01. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
-03. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-04. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
+03. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
+04. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 05. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
