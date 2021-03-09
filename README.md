@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 26.83°C.
-- Air Visual is 110.
+- Temperature is 25°C.
+- Feels Like 25.69°C.
+- Air Visual is 104.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Muốn biết nguyên nhân tại sao cuộc đời bạn luôn không thuận lợi, sự nghiệp chưa thăng tiến, xem xong 3 câu chuyện này sẽ rõ](https://cafebiz.vn/muon-biet-nguyen-nhan-tai-sao-cuoc-doi-ban-luon-khong-thuan-loi-su-nghiep-chua-thang-tien-xem-xong-3-cau-chuyen-nay-se-ro-20210309092928756.chn) ([CafeBiz](https://cafebiz.vn))
-- [Các chính phủ trên thế giới điều tiết tiền ảo như thế nào?](https://cafebiz.vn/cac-chinh-phu-tren-the-gioi-dieu-tiet-tien-ao-nhu-the-nao-2021030913405323.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những con số &quot;khốn khổ&quot; về sự sụp đổ của Liverpool](https://laodong.vn/bong-da-quoc-te/nhung-con-so-khon-kho-ve-su-sup-do-cua-liverpool-887201.ldo) ([Lao Động](https://laodong.vn))
-- [Giá tiêu giảm mạnh, dân Phú Quốc trăn trở giữ hay bỏ nghề truyền thống](https://laodong.vn/video/gia-tieu-giam-manh-dan-phu-quoc-tran-tro-giu-hay-bo-nghe-truyen-thong-887231.ldo) ([Lao Động](https://laodong.vn))
-- [Hoa hậu Khánh Vân, NSND Bạch Tuyết uy quyền khi hóa thái hậu Dương Vân Nga](https://laodong.vn/photo/hoa-hau-khanh-van-nsnd-bach-tuyet-uy-quyen-khi-hoa-thai-hau-duong-van-nga-887154.ldo) ([Lao Động](https://laodong.vn))
-- [Xem &quot;Hướng dương ngược nắng&quot;, tôi chỉ khao khát được hạnh phúc!](https://laodong.vn/ban-doc/xem-huong-duong-nguoc-nang-toi-chi-khao-khat-duoc-hanh-phuc-887198.ldo) ([Lao Động](https://laodong.vn))
-- [Hòa Bình - điểm đến nghỉ dưỡng ven đô lý tưởng](https://laodong.vn/bat-dong-san/hoa-binh-diem-den-nghi-duong-ven-do-ly-tuong-887250.ldo) ([Lao Động](https://laodong.vn))
-- [Xe tải chở bật lửa bốc cháy dữ dội trên đường Hải Dương](https://tuoitre.vn/xe-tai-cho-bat-lua-boc-chay-du-doi-tren-duong-hai-duong-20210309144048848.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Doanh nghiệp chưa đầy 1 năm tuổi có CEO là 9x "rót" hơn 4.500 tỷ đầu tư hạ tầng KCN quy mô lớn tại Quảng Trị](https://cafebiz.vn/doanh-nghiep-chua-day-1-nam-tuoi-co-ceo-la-9x-rot-hon-4500-ty-dau-tu-ha-tang-kcn-quy-mo-lon-tai-quang-tri-20210309144636532.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cả làng nhiều người bệnh cùng triệu chứng, 2 người chết: Vẫn chưa biết bị nhiễm độc gì](https://tuoitre.vn/ca-lang-nhieu-nguoi-benh-cung-trieu-chung-2-nguoi-chet-van-chua-biet-bi-nhiem-doc-gi-20210309121940045.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [F88 lãi gần 45 tỷ đồng năm 2020, lợi nhuận dồn hết vào 6 tháng cuối năm](https://cafebiz.vn/f88-lai-gan-45-ty-dong-nam-2020-loi-nhuan-don-het-vao-6-thang-cuoi-nam-20210309153439153.chn) ([CafeBiz](https://cafebiz.vn))
+- [LĐLĐ tỉnh Bình Phước triển khai hoạt động trọng tâm trong Tháng CN năm 2021](https://laodong.vn/ldld-binh-phuoc/ldld-tinh-binh-phuoc-trien-khai-hoat-dong-trong-tam-trong-thang-cn-nam-2021-887295.ldo) ([Lao Động](https://laodong.vn))
+- [Maserati MC20 sắp về Việt Nam khoe sức mạnh trên trường đua](https://cafebiz.vn/maserati-mc20-sap-ve-viet-nam-khoe-suc-manh-tren-truong-dua-20210309135054278.chn) ([CafeBiz](https://cafebiz.vn))
+- [UNIQLO ra mắt BST Xuân Hè 2021 cùng chuỗi talk show đặc biệt](https://cafebiz.vn/uniqlo-ra-mat-bst-xuan-he-2021-cung-chuoi-talk-show-dac-biet-2021030915181855.chn) ([CafeBiz](https://cafebiz.vn))
+- [3 phim hoạt hình đáng mong chờ trong nửa đầu năm 2021](https://laodong.vn/giai-tri/3-phim-hoat-hinh-dang-mong-cho-trong-nua-dau-nam-2021-887192.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương: Xe chở bật lửa bốc cháy ngùn ngụt trên Quốc lộ 18](https://laodong.vn/xa-hoi/hai-duong-xe-cho-bat-lua-boc-chay-ngun-ngut-tren-quoc-lo-18-887316.ldo) ([Lao Động](https://laodong.vn))
+- [Khối thi đua CĐ ngành Hải Phòng: Triển khai 9 nhiệm vụ chính năm 2021](https://laodong.vn/cong-doan/khoi-thi-dua-cd-nganh-hai-phong-trien-khai-9-nhiem-vu-chinh-nam-2021-887309.ldo) ([Lao Động](https://laodong.vn))
+- [Phóng sự ảnh: Ưu tiên hàng đầu của Thủ tướng với 'đất chín rồng’](https://cafebiz.vn/phong-su-anh-uu-tien-hang-dau-cua-thu-tuong-voi-dat-chin-rong-2021030915260273.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đàn vọoc tấn công hơn 20 người: Thống nhất phương án bắt giữ và di dời](https://laodong.vn/ban-doc/dan-vooc-tan-cong-hon-20-nguoi-thong-nhat-phuong-an-bat-giu-va-di-doi-887302.ldo) ([Lao Động](https://laodong.vn))
+- [Đại sứ Israel khen hồng xiêm là "bất ngờ tuyệt nhất của Việt Nam": 6 công dụng của hồng xiêm bạn chưa biết](https://cafebiz.vn/dai-su-israel-khen-hong-xiem-la-bat-ngo-tuyet-nhat-cua-viet-nam-6-cong-dung-cua-hong-xiem-ban-chua-biet-20210309152428872.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
