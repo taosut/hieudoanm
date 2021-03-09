@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 25.53°C.
-- Air Visual is 75.
+- Feels Like 25.17°C.
+- Air Visual is 73.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [TP Thủ Đức sẽ có phòng Khoa học - Công nghệ](https://vnexpress.net/tp-thu-duc-se-co-phong-khoa-hoc-cong-nghe-4245966.html) ([VNExpress](https://vnexpress.net))
+- [Thức ăn bán trước cổng trường, có an toàn?](https://laodong.vn/xa-hoi/thuc-an-ban-truoc-cong-truong-co-an-toan-887305.ldo) ([Lao Động](https://laodong.vn))
+- [Tiết lộ dòng tweet đắt giá nhất thế giới](https://laodong.vn/the-gioi/tiet-lo-dong-tweet-dat-gia-nhat-the-gioi-887369.ldo) ([Lao Động](https://laodong.vn))
+- [Điều chỉnh quy hoạch các tuyến cao tốc vùng Đồng bằng sông Cửu Long](https://laodong.vn/xa-hoi/dieu-chinh-quy-hoach-cac-tuyen-cao-toc-vung-dong-bang-song-cuu-long-887370.ldo) ([Lao Động](https://laodong.vn))
+- [5 vấn đề các cặp vợ chồng trẻ cần lưu ý trước khi sinh con thứ hai](https://laodong.vn/chuyen-nha-minh/5-van-de-cac-cap-vo-chong-tre-can-luu-y-truoc-khi-sinh-con-thu-hai-887282.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng: 2 chiến sĩ công an bị thương khi khống chế đối tượng tâm thần](https://laodong.vn/phap-luat/da-nang-2-chien-si-cong-an-bi-thuong-khi-khong-che-doi-tuong-tam-than-887364.ldo) ([Lao Động](https://laodong.vn))
 - [Triết lý kinh doanh đơn giản giúp nữ CEO phòng gym trẻ em biến thị trường không khách hàng thành “mỏ vàng”](https://cafebiz.vn/triet-ly-kinh-doanh-don-gian-giup-nu-ceo-phong-gym-tre-em-bien-thi-truong-khong-khach-hang-thanh-mo-vang-20210309151741888.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nhật thông báo viện trợ khẩn cấp kho lạnh chứa vắc xin COVID-19 cho Việt Nam](https://tuoitre.vn/nhat-thong-bao-vien-tro-khan-cap-kho-lanh-chua-vac-xin-covid-19-cho-viet-nam-20210309170952094.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đóng BHXH tự nguyện 10 năm được hưởng trợ cấp mai táng thế nào](https://laodong.vn/ban-doc/dong-bhxh-tu-nguyen-10-nam-duoc-huong-tro-cap-mai-tang-the-nao-887330.ldo) ([Lao Động](https://laodong.vn))
-- [Nghi án chồng sát hại vợ và con gái rồi tự tử](https://laodong.vn/xa-hoi/nghi-an-chong-sat-hai-vo-va-con-gai-roi-tu-tu-887363.ldo) ([Lao Động](https://laodong.vn))
-- [Thúy Diễm – Lương Thế Thành: &quot;Đóng cặp với nhau khó hơn với bạn diễn khác&quot;](https://laodong.vn/van-hoa-giai-tri/thuy-diem--luong-the-thanh-dong-cap-voi-nhau-kho-hon-voi-ban-dien-khac-887347.ldo) ([Lao Động](https://laodong.vn))
-- [Mua đất chỉ có giấy viết tay có được cấp sổ đỏ không?](https://laodong.vn/bat-dong-san/mua-dat-chi-co-giay-viet-tay-co-duoc-cap-so-do-khong-887356.ldo) ([Lao Động](https://laodong.vn))
-- [Tin xấu cho người đội mũ sừng bò gây bạo loạn Capitol](https://laodong.vn/the-gioi/tin-xau-cho-nguoi-doi-mu-sung-bo-gay-bao-loan-capitol-887338.ldo) ([Lao Động](https://laodong.vn))
 - [Chùa Hương rục rịch chuẩn bị đón khách trở lại sau thời gian đóng cửa](https://laodong.vn/photo/chua-huong-ruc-rich-chuan-bi-don-khach-tro-lai-sau-thoi-gian-dong-cua-887271.ldo) ([Lao Động](https://laodong.vn))
 - [Công nghệ sản xuất chip ngày càng hiện đại, tại sao thế giới lại bị "hạn hán" chip như hiện nay?](https://cafebiz.vn/cong-nghe-san-xuat-chip-ngay-cang-hien-dai-tai-sao-the-gioi-lai-bi-han-han-chip-nhu-hien-nay-20210309164513584.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nữ sinh rơi từ tầng 9 chung cư: Có một vỉ thuốc ngủ trong phòng nạn nhân](https://tuoitre.vn/nu-sinh-roi-tu-tang-9-chung-cu-co-mot-vi-thuoc-ngu-trong-phong-nan-nhan-20210309165824538.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
