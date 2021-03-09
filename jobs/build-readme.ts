@@ -88,10 +88,11 @@ export const getGoogleTrends = async (): Promise<string> => {
   if (!trends.length) return '';
   const md: string = trends
     .map((trend: string) => {
-      const encode: string = encodeURI(trend);
+      const text = trend.replace(/(|)/g, '');
+      const encode: string = encodeURI(text);
       const url: string = `https://www.google.com/search?q=${encode}`;
       const src: string = `https://img.shields.io/static/v1?label=${encode}&message=google&color=red&style=flat-square`;
-      const img = `![${trend}](${src})`;
+      const img = `![${text}](${src})`;
       return `- [${img}](${url})`;
     })
     .join('\n');
