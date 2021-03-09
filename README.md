@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 24.81°C.
-- Air Visual is 74.
+- Air Visual is 79.
 
 **WEATHER**
 
@@ -50,22 +50,22 @@
 
 - [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Chúc 8/3 mẹ](https://img.shields.io/static/v1?label=Ch%C3%BAc%208/3%20m%E1%BA%B9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%208/3%20m%E1%BA%B9)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Due](https://img.shields.io/static/v1?label=Due&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Due)
 - [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
-- [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
+- [![Hoa hậu Đỗ Thị Hà](https://img.shields.io/static/v1?label=Hoa%20h%E1%BA%ADu%20%C4%90%E1%BB%97%20Th%E1%BB%8B%20H%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BA%ADu%20%C4%90%E1%BB%97%20Th%E1%BB%8B%20H%C3%A0)
 - [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Loi chuc vo 8/3](https://img.shields.io/static/v1?label=Loi%20chuc%20vo%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Loi%20chuc%20vo%208/3)
-- [![Lời chúc ngày 8/3](https://img.shields.io/static/v1?label=L%E1%BB%9Di%20ch%C3%BAc%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%9Di%20ch%C3%BAc%20ng%C3%A0y%208/3)
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
 - [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
+- [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
 - [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
+- [![Phùng Xuân Nhạ](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
-- [![Trưc tiep bong da](https://img.shields.io/static/v1?label=Tr%C6%B0c%20tiep%20bong%20da&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0c%20tiep%20bong%20da)
+- [![Taeyeon](https://img.shields.io/static/v1?label=Taeyeon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Taeyeon)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
 - [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Thủ tướng đồng ý thành lập phòng Khoa học - Công nghệ thuộc TP.Thủ Đức](https://laodong.vn/xa-hoi/thu-tuong-dong-y-thanh-lap-phong-khoa-hoc-cong-nghe-thuoc-tpthu-duc-887405.ldo) ([Lao Động](https://laodong.vn))
-- [Nghẽn lệnh chứng khoán: Bộ Tài chính sớm báo cáo Thủ tướng phương án xử lý](https://laodong.vn/kinh-te/nghen-lenh-chung-khoan-bo-tai-chinh-som-bao-cao-thu-tuong-phuong-an-xu-ly-887417.ldo) ([Lao Động](https://laodong.vn))
+- [So thực lực Ninh Dương Lan Ngọc, Diễm My, Nhã Phương: &quot;Cuộc chiến&quot; màn ảnh?](https://laodong.vn/photo/so-thuc-luc-ninh-duong-lan-ngoc-diem-my-nha-phuong-cuoc-chien-man-anh-887359.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt khẩn cấp 2 vợ chồng điều hành đường dây 2,7 triệu lít xăng giả](https://tuoitre.vn/bat-khan-cap-2-vo-chong-dieu-hanh-duong-day-2-7-trieu-lit-xang-gia-20210309182317479.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Kết luận vụ cảnh sát Philippines giết nhầm thị trưởng](https://laodong.vn/the-gioi/ket-luan-vu-canh-sat-philippines-giet-nham-thi-truong-887379.ldo) ([Lao Động](https://laodong.vn))
+- [Ngày 25-3, thêm 1,3 triệu liều vắcxin COVID-19 về Việt Nam](https://tuoitre.vn/ngay-25-3-them-1-3-trieu-lieu-vacxin-covid-19-ve-viet-nam-20210309183730567.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Cục Đường sắt yêu cầu làm rõ trách nhiệm vụ tàu đâm ô tô khiến bé trai tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/cuc-duong-sat-yeu-cau-lam-ro-trach-nhiem-vu-tau-dam-o-to-khien-be-trai-tu-vong-718406.html) ([VietNamNet](https://vietnamnet.vn))
+- [Trường ĐH Sư phạm kỹ thuật TP.HCM tuyển thẳng thí sinh đạt giải quốc gia](https://laodong.vn/giao-duc/truong-dh-su-pham-ky-thuat-tphcm-tuyen-thang-thi-sinh-dat-giai-quoc-gia-887418.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam sẽ có 5,657 triệu liều vaccine phòng Covid-19 trong tháng 3-4 tới](https://cafebiz.vn/viet-nam-se-co-5657-trieu-lieu-vaccine-phong-covid-19-trong-thang-3-4-toi-2021030918354115.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Dương lấy mẫu xét nghiệm toàn bộ công nhân Công ty POYUN](https://laodong.vn/cong-doan/hai-duong-lay-mau-xet-nghiem-toan-bo-cong-nhan-cong-ty-poyun-887342.ldo) ([Lao Động](https://laodong.vn))
+- [Khởi công hàng loạt dự án công nghệ cao, nền kinh tế đang hồi phục](https://laodong.vn/kinh-te/khoi-cong-hang-loat-du-an-cong-nghe-cao-nen-kinh-te-dang-hoi-phuc-887427.ldo) ([Lao Động](https://laodong.vn))
 - [Cưa song sắt trốn khỏi khu cách ly](https://vnexpress.net/cua-song-sat-tron-khoi-khu-cach-ly-4245989.html) ([VNExpress](https://vnexpress.net))
-- [Kế hoạch tiêm vaccine COVID-19 của tỉnh Bắc Giang](https://laodong.vn/y-te/ke-hoach-tiem-vaccine-covid-19-cua-tinh-bac-giang-887393.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao cá tầm Trung Quốc vẫn ồ ạt về Việt Nam bất chấp nỗi lo COVID-19?](https://laodong.vn/kinh-te/vi-sao-ca-tam-trung-quoc-van-o-at-ve-viet-nam-bat-chap-noi-lo-covid-19-887281.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM thi tuyển quy hoạch không gian ngầm khu trung tâm và Thủ Thiêm](https://laodong.vn/xa-hoi/tphcm-thi-tuyen-quy-hoach-khong-gian-ngam-khu-trung-tam-va-thu-thiem-887386.ldo) ([Lao Động](https://laodong.vn))
-- [Công an Đồng Nai khám xét 10 kho chứa, bắt vợ chồng &quot;trùm&quot; xăng giả](https://laodong.vn/phap-luat/cong-an-dong-nai-kham-xet-10-kho-chua-bat-vo-chong-trum-xang-gia-887400.ldo) ([Lao Động](https://laodong.vn))
-- [Thêm 6 tướng lĩnh được giới thiệu ứng cử Quốc hội](https://vnexpress.net/them-6-tuong-linh-duoc-gioi-thieu-ung-cu-quoc-hoi-4245981.html) ([VNExpress](https://vnexpress.net))
-- [Đỗ Mỹ Linh, Hoàng Anh đồng hành cùng Tiền Phong Marathon 2021](https://laodong.vn/photo/do-my-linh-hoang-anh-dong-hanh-cung-tien-phong-marathon-2021-887361.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyên gia nói về việc xây 8 trạm bơm dã chiến bổ cập nước cho sông Tô Lịch](https://laodong.vn/xa-hoi/chuyen-gia-noi-ve-viec-xay-8-tram-bom-da-chien-bo-cap-nuoc-cho-song-to-lich-887362.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
