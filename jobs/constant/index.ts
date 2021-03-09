@@ -20,4 +20,5 @@ export {
   openPersonal
 } from './open';
 
-export const api: string = 'https://vietnamdb.herokuapp.com/api';
+export const vietnamAPI: string = 'https://vietnamdb.herokuapp.com/api';
+export const hieudoanAPI: string = 'https://hieudoan.vercel.app/api';

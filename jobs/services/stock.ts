@@ -1,6 +1,6 @@
 'use strict';
 
-import { api } from '../constant';
+import { vietnamAPI } from '../constant';
 import { request, getTime, addZero, convertJSONtoCSV } from '../libs';
 
 const fields: Array<string> = [
@@ -27,7 +27,7 @@ const fields: Array<string> = [
 ];
 
 export const syncCompanies = async (): Promise<Array<any>> => {
-  const url: string = `${api}/finance/companies`;
+  const url: string = `${vietnamAPI}/finance/companies`;
   const companies = await request(url);
   const fields: Array<string> = [
     'symbol',
@@ -49,7 +49,7 @@ export const syncCompanies = async (): Promise<Array<any>> => {
 export const syncPotentials = async (): Promise<void> => {
   const to: number = Date.now();
   const from: number = to - 1000 * 60 * 60 * 24 * 30;
-  const url: string = `${api}/finance/potentials`;
+  const url: string = `${vietnamAPI}/finance/potentials`;
   const potentials: Array<string> = await request(url, 'POST', { from, to });
   console.log(`Sync Stock - Potentials - From ${from} - To ${to}`, potentials.length);
   const path: string = '../docs/finance/stock/potentials.csv';
@@ -59,7 +59,7 @@ export const syncPotentials = async (): Promise<void> => {
 export const syncHighlights = async (): Promise<void> => {
   const to: number = Date.now();
   const from: number = to - 1000 * 60 * 60 * 24 * 30;
-  const url: string = `${api}/finance/highlights`;
+  const url: string = `${vietnamAPI}/finance/highlights`;
   const highlights: Array<string> = await request(url, 'POST', { from, to });
   console.log(`Sync Stock - Highlights - From ${from} - To ${to}`, highlights.length);
   const path: string = '../docs/finance/stock/highlights.csv';
@@ -69,7 +69,7 @@ export const syncHighlights = async (): Promise<void> => {
 export const syncHistory = async (companies: Array<any>): Promise<void> => {
   for (const company of companies) {
     const { symbol } = company;
-    const url: string = `${api}/finance/history/sync`;
+    const url: string = `${vietnamAPI}/finance/history/sync`;
     try {
       const { status = 'ERROR' } = await request(url, 'POST', { symbol });
       console.log('Sync Stock - History', symbol, status);

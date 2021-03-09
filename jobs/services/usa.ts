@@ -2,13 +2,13 @@
 
 import _ from 'lodash';
 
-import { api } from '../constant';
+import { hieudoanAPI } from '../constant';
 import { request, convertJSONtoCSV } from '../libs';
 
 const prefix: string = `usa/congress`;
 
 export const syncMembers = async (chamber: string, congress: number): Promise<void> => {
-  const url: string = `${api}/${prefix}/members?chamber=${chamber}&congress=${congress}`;
+  const url: string = `${hieudoanAPI}/${prefix}/members?chamber=${chamber}&congress=${congress}`;
   const members = await request(url, 'GET');
   if (!members.length) return;
   const [member = {}] = members;
@@ -18,7 +18,7 @@ export const syncMembers = async (chamber: string, congress: number): Promise<vo
 };
 
 export const syncCommittees = async (chamber: string, congress: number): Promise<void> => {
-  const url: string = `${api}/${prefix}/committees?chamber=${chamber}&congress=${congress}`;
+  const url: string = `${hieudoanAPI}/${prefix}/committees?chamber=${chamber}&congress=${congress}`;
   const committees = await request(url, 'GET');
   if (!committees.length) return;
   const [committee = {}] = committees;

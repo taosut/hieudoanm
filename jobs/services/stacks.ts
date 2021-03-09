@@ -6,10 +6,17 @@ dotenv.config();
 import fs from 'fs';
 
 import { numberFormatter, capitalize, convertJSONtoCSV, request } from '../libs';
-import { open, openPersonal, operatingSystems, cloudProviders, cicd, api } from '../constant';
+import {
+  open,
+  openPersonal,
+  operatingSystems,
+  cloudProviders,
+  cicd,
+  hieudoanAPI
+} from '../constant';
 
 export const getRepository = async (repo: string): Promise<Record<string, any>> => {
-  const url: string = `${api}/information/github/repository?repo=${repo}`;
+  const url: string = `${hieudoanAPI}/github/repository?repo=${repo}`;
   return await request(url);
 };
 
@@ -238,7 +245,7 @@ export const syncStacks = async (): Promise<void> => {
 };
 
 export const syncLanguages = async (): Promise<void> => {
-  const url: string = `${api}/information/github/languages`;
+  const url: string = `${hieudoanAPI}/github/languages`;
   const languages = await request(url);
   const fields: Array<string> = ['language', 'color', 'extensions'];
   const path: string = '../docs/stacks/languages.csv';
