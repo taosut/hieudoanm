@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 26.66°C.
-- Air Visual is 107.
+- Feels Like 26.47°C.
+- Air Visual is 110.
 
 **WEATHER**
 
@@ -48,24 +48,24 @@
 
 **GOOGLE TRENDS**
 
-- [![8.3](https://img.shields.io/static/v1?label=8.3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8.3)
+- [![Bó hoa](https://img.shields.io/static/v1?label=B%C3%B3%20hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3%20hoa)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Chúc mẹ 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BA%B9%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BA%B9%208/3)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Due](https://img.shields.io/static/v1?label=Due&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Due)
 - [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
-- [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Loi chuc vo 8/3](https://img.shields.io/static/v1?label=Loi%20chuc%20vo%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Loi%20chuc%20vo%208/3)
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
+- [![Mina AOA](https://img.shields.io/static/v1?label=Mina%20AOA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mina%20AOA)
+- [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
 - [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
-- [![Ngay 8-3](https://img.shields.io/static/v1?label=Ngay%208-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ngay%208-3)
-- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
-- [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
+- [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
+- [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
+- [![Qua tang 8/3](https://img.shields.io/static/v1?label=Qua%20tang%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qua%20tang%208/3)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
-- [![Truc tiep ngoai hang Anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20Anh)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
 - [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cảnh báo doanh nghiệp giao dịch với đối tác có trụ sở tại UAE](https://cafebiz.vn/canh-bao-doanh-nghiep-giao-dich-voi-doi-tac-co-tru-so-tai-uae-20210309134731687.chn) ([CafeBiz](https://cafebiz.vn))
-- [Harry - Meghan làm gì để kiếm sống sau khi rời Hoàng gia?](https://cafebiz.vn/harry-meghan-lam-gi-de-kiem-song-sau-khi-roi-hoang-gia-2021030911025629.chn) ([CafeBiz](https://cafebiz.vn))
-- [TP.HCM: Đề xuất đầu tư 15 dự án giao thông trọng điểm, tổng vốn hơn 100.000 tỷ đồng](https://cafebiz.vn/tphcm-de-xuat-dau-tu-15-du-an-giao-thong-trong-diem-tong-von-hon-100000-ty-dong-20210309134252645.chn) ([CafeBiz](https://cafebiz.vn))
-- ["Vì sao lại cười khẩy giấc mơ Việt Nam sẽ là nền kinh tế lớn thứ 20 thế giới vào năm 2050?"](https://cafebiz.vn/vi-sao-lai-cuoi-khay-giac-mo-viet-nam-se-la-nen-kinh-te-lon-thu-20-the-gioi-vao-nam-2050-20210309134048262.chn) ([CafeBiz](https://cafebiz.vn))
-- [Elon Musk đăng ảnh đi chơi 8/3, ‘tiểu Elon Musk’ chiếm trọn 'spotlight' của bố mẹ](https://cafebiz.vn/elon-musk-dang-anh-di-choi-8-3-tieu-elon-musk-chiem-tron-spotlight-cua-bo-me-202103091157162.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: Nhiều người dân đến nơi công cộng chủ quan không đeo khẩu trang](https://laodong.vn/ban-doc/tphcm-nhieu-nguoi-dan-den-noi-cong-cong-chu-quan-khong-deo-khau-trang-887258.ldo) ([Lao Động](https://laodong.vn))
-- [Từ học sinh lười biếng, bị đuổi học năm nhất ĐH, Trấn Thành vững vàng trải qua scandal và trở thành người đọc vị công chúng qua "Bố già"](https://cafebiz.vn/tu-hoc-sinh-luoi-bieng-bi-duoi-hoc-nam-nhat-dh-tran-thanh-vung-vang-trai-qua-scandal-va-tro-thanh-nguoi-doc-vi-cong-chung-qua-bo-gia-20210309113213264.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhan sắc của nàng hoa hậu khiến Trấn Thành - Tuấn Trần &quot;đấu đá&quot; ở &quot;Bố già&quot;](https://laodong.vn/photo/nhan-sac-cua-nang-hoa-hau-khien-tran-thanh-tuan-tran-dau-da-o-bo-gia-887135.ldo) ([Lao Động](https://laodong.vn))
-- [Bảng xếp hạng vòng 26 La Liga: Barca đón niềm vui](https://laodong.vn/infographic/bang-xep-hang-vong-26-la-liga-barca-don-niem-vui-887183.ldo) ([Lao Động](https://laodong.vn))
-- [Thuê phòng karaoke để dùng ma túy và đánh bạc](https://laodong.vn/phap-luat/thue-phong-karaoke-de-dung-ma-tuy-va-danh-bac-887246.ldo) ([Lao Động](https://laodong.vn))
+- [5 nguyên tắc cấp giấy chứng nhận quyền sử dụng đất](https://laodong.vn/bat-dong-san/5-nguyen-tac-cap-giay-chung-nhan-quyen-su-dung-dat-886727.ldo) ([Lao Động](https://laodong.vn))
+- [Cháy ôtô chở bật lửa](https://vnexpress.net/chay-oto-cho-bat-lua-4245785.html) ([VNExpress](https://vnexpress.net))
+- [Nhiều người phải hoàn thành kê khai tài sản, thu nhập lần đầu trước 31.3](https://laodong.vn/thoi-su/nhieu-nguoi-phai-hoan-thanh-ke-khai-tai-san-thu-nhap-lan-dau-truoc-313-887278.ldo) ([Lao Động](https://laodong.vn))
+- [Masayoshi Son mắc một sai lầm khác giống WeWork, nguy cơ mất trắng 1,5 tỷ USD](https://cafebiz.vn/masayoshi-son-mac-mot-sai-lam-khac-giong-wework-nguy-co-mat-trang-15-ty-usd-20210309142023441.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Dũng &quot;lò vôi&quot;: Ông Yên chữa bệnh miễn phí, lấy đâu ra 100 triệu đô?](https://laodong.vn/video/ong-dung-lo-voi-ong-yen-chua-benh-mien-phi-lay-dau-ra-100-trieu-do-887057.ldo) ([Lao Động](https://laodong.vn))
+- [Tiền số tăng vọt, vốn hóa Bitcoin lại vượt 1.000 tỷ USD](https://cafebiz.vn/tien-so-tang-vot-von-hoa-bitcoin-lai-vuot-1000-ty-usd-20210309133808826.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhiều trường đại học thông báo tuyển thẳng thí sinh có chứng chỉ IELTS](https://laodong.vn/giao-duc/nhieu-truong-dai-hoc-thong-bao-tuyen-thang-thi-sinh-co-chung-chi-ielts-887274.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Dương: 6 bệnh nhân mắc COVID-19 trong cộng đồng đã xuất viện](https://laodong.vn/xa-hoi/binh-duong-6-benh-nhan-mac-covid-19-trong-cong-dong-da-xuat-vien-887275.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội muốn các xe taxi sử dụng 5 màu sơn và phần mềm quản lý dùng chung](https://cafebiz.vn/ha-noi-muon-cac-xe-taxi-su-dung-5-mau-son-va-phan-mem-quan-ly-dung-chung-202103091412135.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chiến lược giúp Toyota ‘ung dung’ trong khủng hoảng chip toàn cầu](https://cafebiz.vn/chien-luoc-giup-toyota-ung-dung-trong-khung-hoang-chip-toan-cau-20210309134307318.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
