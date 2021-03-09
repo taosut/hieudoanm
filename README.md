@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 25.76°C.
-- Air Visual is 108.
+- Feels Like 26.12°C.
+- Air Visual is 122.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [TTCP &quot;giục&quot; Hà Nội thông báo kết quả xử vụ trù dập người tố cáo sai phạm](https://laodong.vn/phap-luat/ttcp-giuc-ha-noi-thong-bao-ket-qua-xu-vu-tru-dap-nguoi-to-cao-sai-pham-887218.ldo) ([Lao Động](https://laodong.vn))
-- [TP.HCM mở đợt cao điểm chặn đứng ô nhiễm tiếng ồn trong khu dân cư](https://tuoitre.vn/tp-hcm-mo-dot-cao-diem-chan-dung-o-nhiem-tieng-on-trong-khu-dan-cu-20210309105930541.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [TPHCM: Nhiều thiếu sót trong cấp giấy phép và quản lý xây dựng ở quận 11](https://laodong.vn/bat-dong-san/tphcm-nhieu-thieu-sot-trong-cap-giay-phep-va-quan-ly-xay-dung-o-quan-11-887200.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Rơi từ tầng cao chung cư xuống, thiếu nữ 16 tuổi tử vong](https://laodong.vn/xa-hoi/ha-noi-roi-tu-tang-cao-chung-cu-xuong-thieu-nu-16-tuoi-tu-vong-887221.ldo) ([Lao Động](https://laodong.vn))
-- [Bệnh viện đầu tiên tại Hà Nội tiêm vắc xin COVID-19 cho 30 người](https://tuoitre.vn/benh-vien-dau-tien-tai-ha-noi-tiem-vac-xin-covid-19-cho-30-nguoi-20210309104111129.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [34 người Trung Quốc nhập cảnh trái phép](https://vnexpress.net/34-nguoi-trung-quoc-nhap-canh-trai-phep-4245670.html) ([VNExpress](https://vnexpress.net))
-- [Thanh tra Chính phủ 'thúc' Hà Nội báo cáo vụ trù dập người tố cáo dự án Nhổn - ga Hà Nội](https://tuoitre.vn/thanh-tra-chinh-phu-thuc-ha-noi-bao-cao-vu-tru-dap-nguoi-to-cao-du-an-nhon-ga-ha-noi-20210309110847244.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Lao động nữ trong giai đoạn phát triển “chuyển đổi số”](https://laodong.vn/cd-dien-luc/lao-dong-nu-trong-giai-doan-phat-trien-chuyen-doi-so-887101.ldo) ([Lao Động](https://laodong.vn))
-- [TP HCM đặt mục tiêu chấm dứt tiếng ồn karaoke cuối năm nay](https://vnexpress.net/tp-hcm-dat-muc-tieu-cham-dut-tieng-on-karaoke-cuoi-nam-nay-4245696.html) ([VNExpress](https://vnexpress.net))
-- [Người dân Hải Phòng ăn mừng hết cách ly](https://vnexpress.net/nguoi-dan-hai-phong-an-mung-het-cach-ly-4245584.html) ([VNExpress](https://vnexpress.net))
+- [Đồng chí Trần Quốc Vượng thăm Trường DTNT huyện Mù Cang Chải](https://laodong.vn/thoi-su/dong-chi-tran-quoc-vuong-tham-truong-dtnt-huyen-mu-cang-chai-887237.ldo) ([Lao Động](https://laodong.vn))
+- [34 người Trung Quốc nghi nhập cảnh trái phép âm tính lần 1 với COVID-19](https://tuoitre.vn/34-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-am-tinh-lan-1-voi-covid-19-2021030911060154.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chỉ có cây xăng mới tiêu thụ được hàng triệu lít xăng giả](https://laodong.vn/su-kien-binh-luan/chi-co-cay-xang-moi-tieu-thu-duoc-hang-trieu-lit-xang-gia-887186.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Dương: Thêm cây xăng bị khám xét liên quan vụ án xăng giả ở Đồng Nai](https://laodong.vn/phap-luat/binh-duong-them-cay-xang-bi-kham-xet-lien-quan-vu-an-xang-gia-o-dong-nai-887207.ldo) ([Lao Động](https://laodong.vn))
+- [Kiatisak, Tuấn Anh thận trọng trước “ngựa ô” Bình Định](https://laodong.vn/bong-da/kiatisak-tuan-anh-than-trong-truoc-ngua-o-binh-dinh-887233.ldo) ([Lao Động](https://laodong.vn))
+- [Tiêm vaccine COVID-19 để nhân viên y tế yên tâm, phục vụ người bệnh tốt hơn](https://laodong.vn/video-thoi-su/tiem-vaccine-covid-19-de-nhan-vien-y-te-yen-tam-phuc-vu-nguoi-benh-tot-hon-887234.ldo) ([Lao Động](https://laodong.vn))
+- [HLV Kiatisak: &quot;Tuyển Việt Nam có cơ hội lớn tại vòng loại World Cup 2022&quot;](https://laodong.vn/bong-da/hlv-kiatisak-tuyen-viet-nam-co-co-hoi-lon-tai-vong-loai-world-cup-2022-887206.ldo) ([Lao Động](https://laodong.vn))
+- [Chào giá cung cấp cuộn HDPE phục vụ sản xuất bao bì](https://laodong.vn/thong-tin-doanh-nghiep/chao-gia-cung-cap-cuon-hdpe-phuc-vu-san-xuat-bao-bi-887208.ldo) ([Lao Động](https://laodong.vn))
+- [TP.HCM mở cao điểm xử lý vấn nạn tiếng ồn, gây bức xúc trong dân](http://vietnamnet.vn/vn/thoi-su/tp-hcm-mo-cao-diem-xu-ly-van-nan-tieng-on-gay-buc-xuc-trong-dan-718260.html) ([VietNamNet](https://vietnamnet.vn))
+- [Thanh tra Chính phủ &quot;giục&quot; Hà Nội thông báo kết quả xử lý vụ trù dập người tố cáo sai phạm](https://laodong.vn/phap-luat/thanh-tra-chinh-phu-giuc-ha-noi-thong-bao-ket-qua-xu-ly-vu-tru-dap-nguoi-to-cao-sai-pham-887218.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
