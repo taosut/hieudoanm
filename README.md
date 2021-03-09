@@ -20,8 +20,8 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 24.81°C.
+- Temperature is 24°C.
+- Feels Like 24.91°C.
 - Air Visual is 79.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [So thực lực Ninh Dương Lan Ngọc, Diễm My, Nhã Phương: &quot;Cuộc chiến&quot; màn ảnh?](https://laodong.vn/photo/so-thuc-luc-ninh-duong-lan-ngoc-diem-my-nha-phuong-cuoc-chien-man-anh-887359.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt khẩn cấp 2 vợ chồng điều hành đường dây 2,7 triệu lít xăng giả](https://tuoitre.vn/bat-khan-cap-2-vo-chong-dieu-hanh-duong-day-2-7-trieu-lit-xang-gia-20210309182317479.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Kết luận vụ cảnh sát Philippines giết nhầm thị trưởng](https://laodong.vn/the-gioi/ket-luan-vu-canh-sat-philippines-giet-nham-thi-truong-887379.ldo) ([Lao Động](https://laodong.vn))
-- [Ngày 25-3, thêm 1,3 triệu liều vắcxin COVID-19 về Việt Nam](https://tuoitre.vn/ngay-25-3-them-1-3-trieu-lieu-vacxin-covid-19-ve-viet-nam-20210309183730567.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cục Đường sắt yêu cầu làm rõ trách nhiệm vụ tàu đâm ô tô khiến bé trai tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/cuc-duong-sat-yeu-cau-lam-ro-trach-nhiem-vu-tau-dam-o-to-khien-be-trai-tu-vong-718406.html) ([VietNamNet](https://vietnamnet.vn))
-- [Trường ĐH Sư phạm kỹ thuật TP.HCM tuyển thẳng thí sinh đạt giải quốc gia](https://laodong.vn/giao-duc/truong-dh-su-pham-ky-thuat-tphcm-tuyen-thang-thi-sinh-dat-giai-quoc-gia-887418.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam sẽ có 5,657 triệu liều vaccine phòng Covid-19 trong tháng 3-4 tới](https://cafebiz.vn/viet-nam-se-co-5657-trieu-lieu-vaccine-phong-covid-19-trong-thang-3-4-toi-2021030918354115.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Dương lấy mẫu xét nghiệm toàn bộ công nhân Công ty POYUN](https://laodong.vn/cong-doan/hai-duong-lay-mau-xet-nghiem-toan-bo-cong-nhan-cong-ty-poyun-887342.ldo) ([Lao Động](https://laodong.vn))
-- [Khởi công hàng loạt dự án công nghệ cao, nền kinh tế đang hồi phục](https://laodong.vn/kinh-te/khoi-cong-hang-loat-du-an-cong-nghe-cao-nen-kinh-te-dang-hoi-phuc-887427.ldo) ([Lao Động](https://laodong.vn))
-- [Cưa song sắt trốn khỏi khu cách ly](https://vnexpress.net/cua-song-sat-tron-khoi-khu-cach-ly-4245989.html) ([VNExpress](https://vnexpress.net))
+- [Vụ Đồng Tâm: Y án tử hình bị cáo Lê Đình Công, Lê Đình Chức](https://laodong.vn/phap-luat/vu-dong-tam-y-an-tu-hinh-bi-cao-le-dinh-cong-le-dinh-chuc-887445.ldo) ([Lao Động](https://laodong.vn))
+- [Phó Chủ tịch Nước tặng quà cho công nhân lao động ở Quảng Nam](https://laodong.vn/thoi-su/pho-chu-tich-nuoc-tang-qua-cho-cong-nhan-lao-dong-o-quang-nam-887366.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Đưa người lang thang về trung tâm bảo trợ để phòng dịch COVID-19](https://laodong.vn/xa-hoi/ha-noi-dua-nguoi-lang-thang-ve-trung-tam-bao-tro-de-phong-dich-covid-19-887446.ldo) ([Lao Động](https://laodong.vn))
+- [Quán cơm phá rào cao tốc Hà Nội - Lào Cai](https://vnexpress.net/quan-com-pha-rao-cao-toc-ha-noi-lao-cai-4245957.html) ([VNExpress](https://vnexpress.net))
+- [Câu chuyện kinh doanh của Văn Thị Thúy Kiều với bản lĩnh vững vàng](https://cafebiz.vn/cau-chuyen-kinh-doanh-cua-van-thi-thuy-kieu-voi-ban-linh-vung-vang-20210309162040307.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo dục 24/7: Chi tiết chỉ tiêu tuyển sinh 2021 khối công an](https://laodong.vn/video-thoi-su/giao-duc-247-chi-tiet-chi-tieu-tuyen-sinh-2021-khoi-cong-an-887394.ldo) ([Lao Động](https://laodong.vn))
+- [Hàng quán Sài Gòn mở cửa, không quên COVID-19](https://tuoitre.vn/hang-quan-sai-gon-mo-cua-khong-quen-covid-19-20210309183942122.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Mỗi sáng bỏ 10 trứng vào giỏ, đêm tới lại lấy ra 9 quả, cuối cùng điều gì sẽ xảy ra? Câu trả lời là nguyên tắc đầu tiên của việc làm giàu ai cũng phải biết](https://cafebiz.vn/moi-sang-bo-10-trung-vao-gio-dem-toi-lai-lay-ra-9-qua-cuoi-cung-dieu-gi-se-xay-ra-cau-tra-loi-la-nguyen-tac-dau-tien-cua-viec-lam-giau-ai-cung-phai-biet-20210309151900964.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bộ Tài chính: Có thể áp dụng phần mềm vận hành HNX cho HOSE](https://laodong.vn/kinh-te/bo-tai-chinh-co-the-ap-dung-phan-mem-van-hanh-hnx-cho-hose-887434.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều 9-3 thêm 2 ca COVID-19 mới ở Hải Dương, Tiền Giang](https://tuoitre.vn/chieu-9-3-them-2-ca-covid-19-moi-o-hai-duong-tien-giang-20210309190956358.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,8 @@
 
 **VIETCETERA**
 
+- [Meme học: Tại sao người phụ nữ này lại mắng chú mèo?](https://vietcetera.com/vn/meme-hoc-co-gai-la-chu-meo)
+- [Tóm Lại Là: Chuyện cổ tích từ đầu đã không tồn tại ở hoàng gia Anh](https://vietcetera.com/vn/tom-lai-la-chuyen-co-tich-tu-dau-da-khong-ton-tai-o-hoang-gia-anh)
 - [Câu chuyện chuyển đổi số: Xây dựng thương hiệu trên Facebook - Có còn khó không?](https://vietcetera.com/vn/xay-dung-thuong-hieu-tren-facebook-co-hoi-va-thach-thuc-trong-cong-cuoc-chuyen-doi-so)
 - [Thử Rồi Thích: Lập ngân sách chi tiêu bắt đầu từ mốc số 0](https://vietcetera.com/vn/zero-based-budgeting-lap-ngan-sach-chi-tieu-bat-dau-tu-moc-so-0)
 - [Mất cân bằng chút. Tại sao không?](https://vietcetera.com/vn/mat-can-bang-chut-tai-sao-khong)
@@ -104,8 +106,6 @@
 - ["Chẳng có chuyện gì là quá nghiêm trọng trong mắt mẹ anh."](https://vietcetera.com/vn/chang-co-chuyen-gi-la-qua-nghiem-trong-trong-mat-me-anh)
 - [Ngắm tranh, ăn tối, tạm quên sự đời: ghé Lavelle Library](https://vietcetera.com/vn/ngam-tranh-an-toi-tam-quen-su-doi-ghe-lavelle-library)
 - [Đi một dặm trong đôi giày nhân gian](https://vietcetera.com/vn/thau-hieu-va-thau-cam-khac-nhau-cho-nao)
-- ["Vượt qua những cú sốc, chị dấn thân giúp hàng trăm bạn trẻ tìm việc mới.”](https://vietcetera.com/vn/vuot-qua-nhung-cu-soc-chi-dan-than-giup-hang-tram-ban-tre-tim-viec-moi)
-- [Nguyễn Thị Thiên Thanh - CEO Edelman Việt Nam: Hãy lấy con người làm kim chỉ nam](https://vietcetera.com/vn/nguyen-thi-thien-thanh-ceo-edelman-hay-lay-con-nguoi-lam-kim-chi-nam)
 
 [Read More](https://vietcetera.com/)
 
