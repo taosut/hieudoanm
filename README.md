@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 26.41°C.
-- Air Visual is 96.
+- Air Visual is 97.
 
 **WEATHER**
 
@@ -48,24 +48,24 @@
 
 **GOOGLE TRENDS**
 
-- [![8-3](https://img.shields.io/static/v1?label=8-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8-3)
+- [![8.3](https://img.shields.io/static/v1?label=8.3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8.3)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Chúc mẹ 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BA%B9%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BA%B9%208/3)
-- [![Chúc mừng 8/3](https://img.shields.io/static/v1?label=Ch%C3%BAc%20m%E1%BB%ABng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%20m%E1%BB%ABng%208/3)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
+- [![Due](https://img.shields.io/static/v1?label=Due&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Due)
 - [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
+- [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
-- [![Joan Laporta](https://img.shields.io/static/v1?label=Joan%20Laporta&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joan%20Laporta)
 - [![Loi chuc vo 8/3](https://img.shields.io/static/v1?label=Loi%20chuc%20vo%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Loi%20chuc%20vo%208/3)
 - [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
-- [![Mina AOA](https://img.shields.io/static/v1?label=Mina%20AOA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mina%20AOA)
-- [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
-- [![Ngày Quốc tế Phụ nữ 8-3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208-3)
+- [![Ngay 8-3](https://img.shields.io/static/v1?label=Ngay%208-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ngay%208-3)
+- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
+- [![Truc tiep ngoai hang Anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20Anh)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
 - [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bị cáo Đỗ Văn Hồng lấy tiền dự án mua đất rồi bán lại cho Trịnh Xuân Thanh](https://laodong.vn/phap-luat/bi-cao-do-van-hong-lay-tien-du-an-mua-dat-roi-ban-lai-cho-trinh-xuan-thanh-887242.ldo) ([Lao Động](https://laodong.vn))
+- [Chung cư Phú Hoàng Anh: Ban Quản trị cản trở dân là không đúng thẩm quyền](https://laodong.vn/bat-dong-san/chung-cu-phu-hoang-anh-ban-quan-tri-can-tro-dan-la-khong-dung-tham-quyen-886603.ldo) ([Lao Động](https://laodong.vn))
+- [Tuyển sinh 2021: 8 trường khối công an tuyển 2080 chỉ tiêu](https://laodong.vn/giao-duc/tuyen-sinh-2021-8-truong-khoi-cong-an-tuyen-2080-chi-tieu-887251.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM mở đợt cao điểm chấm dứt nạn ô nhiễm tiếng ồn trong năm 2021](https://laodong.vn/xa-hoi/tphcm-mo-dot-cao-diem-cham-dut-nan-o-nhiem-tieng-on-trong-nam-2021-887245.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội sẽ xét nghiệm SARS-CoV-2 cho 4.000 người nguy cơ cao](https://laodong.vn/xa-hoi/ha-noi-se-xet-nghiem-sars-cov-2-cho-4000-nguoi-nguy-co-cao-887249.ldo) ([Lao Động](https://laodong.vn))
+- [Yêu nhau một tháng, bị lừa tiền tỷ: Cạm bẫy núp bóng "tình nhân hoàn hảo", chuyên "nuôi để thịt" phụ nữ độc thân có kinh tế](https://cafebiz.vn/yeu-nhau-mot-thang-bi-lua-tien-ty-cam-bay-nup-bong-tinh-nhan-hoan-hao-chuyen-nuoi-de-thit-phu-nu-doc-than-co-kinh-te-2021030911364099.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đường xóm chưa được nâng cấp dù dân đã hiến đất](https://laodong.vn/ban-doc/duong-xom-chua-duoc-nang-cap-du-dan-da-hien-dat-886928.ldo) ([Lao Động](https://laodong.vn))
+- [Vỡ đập trên đảo ở Hawaii, người dân sơ tán khẩn](https://laodong.vn/the-gioi/vo-dap-tren-dao-o-hawaii-nguoi-dan-so-tan-khan-887229.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút 9.3: Thông tin về bài phát biểu khung giờ vàng của ông Biden](https://laodong.vn/video-thoi-su/ban-tin-1-phut-93-thong-tin-ve-bai-phat-bieu-khung-gio-vang-cua-ong-biden-887220.ldo) ([Lao Động](https://laodong.vn))
-- [Cựu &quot;phó tướng&quot; của ông Trump sắp phát biểu công khai lần đầu](https://laodong.vn/the-gioi/cuu-pho-tuong-cua-ong-trump-sap-phat-bieu-cong-khai-lan-dau-887171.ldo) ([Lao Động](https://laodong.vn))
-- [Đồng chí Trần Quốc Vượng thăm Trường DTNT huyện Mù Cang Chải](https://laodong.vn/thoi-su/dong-chi-tran-quoc-vuong-tham-truong-dtnt-huyen-mu-cang-chai-887237.ldo) ([Lao Động](https://laodong.vn))
 - [34 người Trung Quốc nghi nhập cảnh trái phép âm tính lần 1 với COVID-19](https://tuoitre.vn/34-nguoi-trung-quoc-nghi-nhap-canh-trai-phep-am-tinh-lan-1-voi-covid-19-2021030911060154.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chỉ có cây xăng mới tiêu thụ được hàng triệu lít xăng giả](https://laodong.vn/su-kien-binh-luan/chi-co-cay-xang-moi-tieu-thu-duoc-hang-trieu-lit-xang-gia-887186.ldo) ([Lao Động](https://laodong.vn))
 - [Tiêm vaccine COVID-19 để nhân viên y tế yên tâm, phục vụ người bệnh tốt hơn](https://laodong.vn/video-thoi-su/tiem-vaccine-covid-19-de-nhan-vien-y-te-yen-tam-phuc-vu-nguoi-benh-tot-hon-887234.ldo) ([Lao Động](https://laodong.vn))
-- [HLV Kiatisak: &quot;Tuyển Việt Nam có cơ hội lớn tại vòng loại World Cup 2022&quot;](https://laodong.vn/bong-da/hlv-kiatisak-tuyen-viet-nam-co-co-hoi-lon-tai-vong-loai-world-cup-2022-887206.ldo) ([Lao Động](https://laodong.vn))
-- [Chào giá cung cấp cuộn HDPE phục vụ sản xuất bao bì](https://laodong.vn/thong-tin-doanh-nghiep/chao-gia-cung-cap-cuon-hdpe-phuc-vu-san-xuat-bao-bi-887208.ldo) ([Lao Động](https://laodong.vn))
-- [TP.HCM mở cao điểm xử lý vấn nạn tiếng ồn, gây bức xúc trong dân](http://vietnamnet.vn/vn/thoi-su/tp-hcm-mo-cao-diem-xu-ly-van-nan-tieng-on-gay-buc-xuc-trong-dan-718260.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
