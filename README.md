@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 25.69°C.
-- Air Visual is 120.
+- Temperature is 26°C.
+- Feels Like 26.66°C.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Cảnh báo doanh nghiệp giao dịch với đối tác có trụ sở tại UAE](https://cafebiz.vn/canh-bao-doanh-nghiep-giao-dich-voi-doi-tac-co-tru-so-tai-uae-20210309134731687.chn) ([CafeBiz](https://cafebiz.vn))
+- [Harry - Meghan làm gì để kiếm sống sau khi rời Hoàng gia?](https://cafebiz.vn/harry-meghan-lam-gi-de-kiem-song-sau-khi-roi-hoang-gia-2021030911025629.chn) ([CafeBiz](https://cafebiz.vn))
+- [TP.HCM: Đề xuất đầu tư 15 dự án giao thông trọng điểm, tổng vốn hơn 100.000 tỷ đồng](https://cafebiz.vn/tphcm-de-xuat-dau-tu-15-du-an-giao-thong-trong-diem-tong-von-hon-100000-ty-dong-20210309134252645.chn) ([CafeBiz](https://cafebiz.vn))
+- ["Vì sao lại cười khẩy giấc mơ Việt Nam sẽ là nền kinh tế lớn thứ 20 thế giới vào năm 2050?"](https://cafebiz.vn/vi-sao-lai-cuoi-khay-giac-mo-viet-nam-se-la-nen-kinh-te-lon-thu-20-the-gioi-vao-nam-2050-20210309134048262.chn) ([CafeBiz](https://cafebiz.vn))
+- [Elon Musk đăng ảnh đi chơi 8/3, ‘tiểu Elon Musk’ chiếm trọn 'spotlight' của bố mẹ](https://cafebiz.vn/elon-musk-dang-anh-di-choi-8-3-tieu-elon-musk-chiem-tron-spotlight-cua-bo-me-202103091157162.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: Nhiều người dân đến nơi công cộng chủ quan không đeo khẩu trang](https://laodong.vn/ban-doc/tphcm-nhieu-nguoi-dan-den-noi-cong-cong-chu-quan-khong-deo-khau-trang-887258.ldo) ([Lao Động](https://laodong.vn))
+- [Từ học sinh lười biếng, bị đuổi học năm nhất ĐH, Trấn Thành vững vàng trải qua scandal và trở thành người đọc vị công chúng qua "Bố già"](https://cafebiz.vn/tu-hoc-sinh-luoi-bieng-bi-duoi-hoc-nam-nhat-dh-tran-thanh-vung-vang-trai-qua-scandal-va-tro-thanh-nguoi-doc-vi-cong-chung-qua-bo-gia-20210309113213264.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhan sắc của nàng hoa hậu khiến Trấn Thành - Tuấn Trần &quot;đấu đá&quot; ở &quot;Bố già&quot;](https://laodong.vn/photo/nhan-sac-cua-nang-hoa-hau-khien-tran-thanh-tuan-tran-dau-da-o-bo-gia-887135.ldo) ([Lao Động](https://laodong.vn))
+- [Bảng xếp hạng vòng 26 La Liga: Barca đón niềm vui](https://laodong.vn/infographic/bang-xep-hang-vong-26-la-liga-barca-don-niem-vui-887183.ldo) ([Lao Động](https://laodong.vn))
+- [Thuê phòng karaoke để dùng ma túy và đánh bạc](https://laodong.vn/phap-luat/thue-phong-karaoke-de-dung-ma-tuy-va-danh-bac-887246.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
