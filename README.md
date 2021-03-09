@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is overcast clouds.
 - Temperature is 24°C.
-- Feels Like 24.91°C.
+- Feels Like 24.55°C.
 - Air Visual is 79.
 
 **WEATHER**
@@ -53,7 +53,6 @@
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Due](https://img.shields.io/static/v1?label=Due&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Due)
 - [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
-- [![Hoa hậu Đỗ Thị Hà](https://img.shields.io/static/v1?label=Hoa%20h%E1%BA%ADu%20%C4%90%E1%BB%97%20Th%E1%BB%8B%20H%C3%A0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BA%ADu%20%C4%90%E1%BB%97%20Th%E1%BB%8B%20H%C3%A0)
 - [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Loi chuc vo 8/3](https://img.shields.io/static/v1?label=Loi%20chuc%20vo%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Loi%20chuc%20vo%208/3)
@@ -66,6 +65,7 @@
 - [![Phùng Xuân Nhạ](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![Taeyeon](https://img.shields.io/static/v1?label=Taeyeon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Taeyeon)
+- [![Trưc tiep bong da](https://img.shields.io/static/v1?label=Tr%C6%B0c%20tiep%20bong%20da&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0c%20tiep%20bong%20da)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
 - [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
@@ -75,6 +75,9 @@
 
 **NEWS**
 
+- [Trung Quốc tung hộ chiếu Covid-19](https://cafebiz.vn/trung-quoc-tung-ho-chieu-covid-19-20210309184249327.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phát động 75.000 sáng kiến vượt khó phát triển trong công nhân lao động](https://laodong.vn/video-thoi-su/phat-dong-75000-sang-kien-vuot-kho-phat-trien-trong-cong-nhan-lao-dong-887372.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội mở lại phố đi bộ quanh Hồ Gươm từ 12/3, đón khách tới Chùa Hương từ 13/3](https://cafebiz.vn/ha-noi-mo-lai-pho-di-bo-quanh-ho-guom-tu-12-3-don-khach-toi-chua-huong-tu-13-3-20210309184038416.chn) ([CafeBiz](https://cafebiz.vn))
 - [Vụ Đồng Tâm: Y án tử hình bị cáo Lê Đình Công, Lê Đình Chức](https://laodong.vn/phap-luat/vu-dong-tam-y-an-tu-hinh-bi-cao-le-dinh-cong-le-dinh-chuc-887445.ldo) ([Lao Động](https://laodong.vn))
 - [Phó Chủ tịch Nước tặng quà cho công nhân lao động ở Quảng Nam](https://laodong.vn/thoi-su/pho-chu-tich-nuoc-tang-qua-cho-cong-nhan-lao-dong-o-quang-nam-887366.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội: Đưa người lang thang về trung tâm bảo trợ để phòng dịch COVID-19](https://laodong.vn/xa-hoi/ha-noi-dua-nguoi-lang-thang-ve-trung-tam-bao-tro-de-phong-dich-covid-19-887446.ldo) ([Lao Động](https://laodong.vn))
@@ -82,9 +85,6 @@
 - [Câu chuyện kinh doanh của Văn Thị Thúy Kiều với bản lĩnh vững vàng](https://cafebiz.vn/cau-chuyen-kinh-doanh-cua-van-thi-thuy-kieu-voi-ban-linh-vung-vang-20210309162040307.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giáo dục 24/7: Chi tiết chỉ tiêu tuyển sinh 2021 khối công an](https://laodong.vn/video-thoi-su/giao-duc-247-chi-tiet-chi-tieu-tuyen-sinh-2021-khoi-cong-an-887394.ldo) ([Lao Động](https://laodong.vn))
 - [Hàng quán Sài Gòn mở cửa, không quên COVID-19](https://tuoitre.vn/hang-quan-sai-gon-mo-cua-khong-quen-covid-19-20210309183942122.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Mỗi sáng bỏ 10 trứng vào giỏ, đêm tới lại lấy ra 9 quả, cuối cùng điều gì sẽ xảy ra? Câu trả lời là nguyên tắc đầu tiên của việc làm giàu ai cũng phải biết](https://cafebiz.vn/moi-sang-bo-10-trung-vao-gio-dem-toi-lai-lay-ra-9-qua-cuoi-cung-dieu-gi-se-xay-ra-cau-tra-loi-la-nguyen-tac-dau-tien-cua-viec-lam-giau-ai-cung-phai-biet-20210309151900964.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bộ Tài chính: Có thể áp dụng phần mềm vận hành HNX cho HOSE](https://laodong.vn/kinh-te/bo-tai-chinh-co-the-ap-dung-phan-mem-van-hanh-hnx-cho-hose-887434.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều 9-3 thêm 2 ca COVID-19 mới ở Hải Dương, Tiền Giang](https://tuoitre.vn/chieu-9-3-them-2-ca-covid-19-moi-o-hai-duong-tien-giang-20210309190956358.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
