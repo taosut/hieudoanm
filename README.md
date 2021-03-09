@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 25.17°C.
-- Air Visual is 94.
+- Feels Like 24.81°C.
+- Air Visual is 90.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Vợ chồng sinh hai con gái được hỗ trợ từ khi nào?](https://laodong.vn/ban-doc/vo-chong-sinh-hai-con-gai-duoc-ho-tro-tu-khi-nao-887153.ldo) ([Lao Động](https://laodong.vn))
-- [CDC Mỹ ban hành hướng dẫn cho người đã tiêm vaccine COVID-19](https://laodong.vn/the-gioi/cdc-my-ban-hanh-huong-dan-cho-nguoi-da-tiem-vaccine-covid-19-887147.ldo) ([Lao Động](https://laodong.vn))
-- [Israel phát triển một loại pin xe hơi điện sạc đầy trong 5 phút](https://cafebiz.vn/israel-phat-trien-mot-loai-pin-xe-hoi-dien-sac-day-trong-5-phut-20210309085741713.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lựa chọn nhà ở tiêu biểu tại thị trường vùng ven khu Tây TP.HCM năm 2021](https://cafebiz.vn/lua-chon-nha-o-tieu-bieu-tai-thi-truong-vung-ven-khu-tay-tphcm-nam-2021-20210308164012115.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chelsea thắng Everton, Tuchel có tên trong sách kỷ lục Premier League](https://laodong.vn/bong-da-quoc-te/chelsea-thang-everton-tuchel-co-ten-trong-sach-ky-luc-premier-league-887162.ldo) ([Lao Động](https://laodong.vn))
-- [Tập đoàn Trung Thủy hợp tác Takashimaya đầu tư Dự án Lancaster Luminaire](https://laodong.vn/thong-tin-doanh-nghiep/tap-doan-trung-thuy-hop-tac-takashimaya-dau-tu-du-an-lancaster-luminaire-887112.ldo) ([Lao Động](https://laodong.vn))
-- [Chức vụ càng cao, càng phải viết nhật ký hàng ngày: Việc tưởng chừng đơn giản nhưng không mấy người làm được](https://cafebiz.vn/chuc-vu-cang-cao-cang-phai-viet-nhat-ky-hang-ngay-viec-tuong-chung-don-gian-nhung-khong-may-nguoi-lam-duoc-20210308004138038.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thắng 7 trận liên tiếp, Inter Milan vững ngôi đầu Serie A](https://laodong.vn/video-the-thao/thang-7-tran-lien-tiep-inter-milan-vung-ngoi-dau-serie-a-887148.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ GTVT 'chạy nước rút’ bàn giao tuyến đường sắt Cát Linh- Hà Đông](https://cafebiz.vn/bo-gtvt-chay-nuoc-rut-ban-giao-tuyen-duong-sat-cat-linh-ha-dong-20210309093557285.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quy trình tiêm những liều vaccine COVID-19 đầu tiên tại BV Thanh Nhàn](https://laodong.vn/y-te/quy-trinh-tiem-nhung-lieu-vaccine-covid-19-dau-tien-tai-bv-thanh-nhan-887145.ldo) ([Lao Động](https://laodong.vn))
+- [12 bang khởi kiện ông Biden vì sắc lệnh khí hậu bị tố lấn quyền Quốc hội, gây thiệt hại hàng nghìn tỷ USD](https://cafebiz.vn/12-bang-khoi-kien-ong-biden-vi-sac-lenh-khi-hau-bi-to-lan-quyen-quoc-hoi-gay-thiet-hai-hang-nghin-ty-usd-20210309103253399.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cận cảnh tiêm vaccine COVID-19 cho 30 nhân viên y tế đầu tiên của Hà Nội](https://laodong.vn/photo/can-canh-tiem-vaccine-covid-19-cho-30-nhan-vien-y-te-dau-tien-cua-ha-noi-887170.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam đặt mục tiêu cung cấp nông sản cho thế giới](https://laodong.vn/kinh-te/viet-nam-dat-muc-tieu-cung-cap-nong-san-cho-the-gioi-887053.ldo) ([Lao Động](https://laodong.vn))
+- [Bế mạc Hội nghị Trung ương 2, khoá XIII](https://laodong.vn/thoi-su/be-mac-hoi-nghi-trung-uong-2-khoa-xiii-887179.ldo) ([Lao Động](https://laodong.vn))
+- [Nhu cầu dịch vụ bảo hiểm COVID-19 cho khách du lịch gia tăng mạnh](https://cafebiz.vn/nhu-cau-dich-vu-bao-hiem-covid-19-cho-khach-du-lich-gia-tang-manh-20210309090210753.chn) ([CafeBiz](https://cafebiz.vn))
+- [Yên Bái xây dựng kế hoạch tiêm chủng vaccine COVID-19](https://laodong.vn/xa-hoi/yen-bai-xay-dung-ke-hoach-tiem-chung-vaccine-covid-19-887143.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng và ngoại tệ 9.3: Vàng thế giới tiếp tục lao dốc](https://laodong.vn/video/gia-vang-va-ngoai-te-93-vang-the-gioi-tiep-tuc-lao-doc-887175.ldo) ([Lao Động](https://laodong.vn))
+- [Chân dung thầy giáo hóa học kín tiếng vừa cưới vợ cũ tỉ phú Jeff Bezos](https://laodong.vn/the-gioi/chan-dung-thay-giao-hoa-hoc-kin-tieng-vua-cuoi-vo-cu-ti-phu-jeff-bezos-887134.ldo) ([Lao Động](https://laodong.vn))
+- ["Bố không phải vừa sinh ra đã làm bố, bố cũng là lần đầu tiên làm bố"](https://cafebiz.vn/bo-khong-phai-vua-sinh-ra-da-lam-bo-bo-cung-la-lan-dau-tien-lam-bo-20210309100645515.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người từng khen ông Võ Hoàng Yên là tài năng: Kỹ thuật chữa bệnh của ông Yên hơi tàn bạo, có tính lừa đảo](https://cafebiz.vn/nguoi-tung-khen-ong-vo-hoang-yen-la-tai-nang-ky-thuat-chua-benh-cua-ong-yen-hoi-tan-bao-co-tinh-lua-dao-20210309100634955.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Thử Rồi Thích: Lập ngân sách chi tiêu bắt đầu từ mốc số 0](https://vietcetera.com/vn/zero-based-budgeting-lap-ngan-sach-chi-tieu-bat-dau-tu-moc-so-0)
 - [Mất cân bằng chút. Tại sao không?](https://vietcetera.com/vn/mat-can-bang-chut-tai-sao-khong)
 - [Tóm Lại Là: 8/3 nói chuyện vai trò đàn bà và đàn ông](https://vietcetera.com/vn/tom-lai-la-83-noi-chuyen-vai-tro-dan-ba-va-dan-ong)
 - [Promising Young Woman: Cuộc báo thù hoang dại. Và đau đớn](https://vietcetera.com/vn/promising-young-woman-cuoc-bao-thu-hoang-dai-va-dau-don)
@@ -105,7 +106,6 @@
 - ["Vượt qua những cú sốc, chị dấn thân giúp hàng trăm bạn trẻ tìm việc mới.”](https://vietcetera.com/vn/vuot-qua-nhung-cu-soc-chi-dan-than-giup-hang-tram-ban-tre-tim-viec-moi)
 - [Nguyễn Thị Thiên Thanh - CEO Edelman Việt Nam: Hãy lấy con người làm kim chỉ nam](https://vietcetera.com/vn/nguyen-thi-thien-thanh-ceo-edelman-hay-lay-con-nguoi-lam-kim-chi-nam)
 - ["Chị mong con trai chị hiểu rằng..."](https://vietcetera.com/vn/chi-mong-con-trai-chi-hieu-rang)
-- [Bóc Term: Định nghĩa lại Bimbo trong thế kỷ 21!](https://vietcetera.com/vn/boc-term-dinh-nghia-lai-bimbo-trong-the-ky-21)
 
 [Read More](https://vietcetera.com/)
 
