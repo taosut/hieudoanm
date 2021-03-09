@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 25.76°C.
-- Air Visual is 78.
+- Air Visual is 80.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bài học kinh doanh từ cuộc trò chuyện giữa blogger triệu người theo dõi và “thiên tài” kinh doanh 17 tuổi: Khi biết cách yêu cầu cơ hội, bạn đã có 1 nửa chiến thắng](https://cafebiz.vn/bai-hoc-kinh-doanh-tu-cuoc-tro-chuyen-giua-blogger-trieu-nguoi-theo-doi-va-thien-tai-kinh-doanh-17-tuoi-khi-biet-cach-yeu-cau-co-hoi-ban-da-co-1-nua-chien-thang-20210309155439623.chn) ([CafeBiz](https://cafebiz.vn))
+- [Văn Quyết được vinh danh Gương mặt trẻ Việt Nam tiêu biểu năm 2020](https://laodong.vn/bong-da/van-quyet-duoc-vinh-danh-guong-mat-tre-viet-nam-tieu-bieu-nam-2020-887467.ldo) ([Lao Động](https://laodong.vn))
+- [An Giang: Bắt quả tang đối tượng cho vay nặng lãi](https://laodong.vn/phap-luat/an-giang-bat-qua-tang-doi-tuong-cho-vay-nang-lai-887465.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiều tiền để làm gì: Dân Mỹ sử dụng phần lớn khoản trợ cấp Covid-19 để đầu tư chứng khoán](https://cafebiz.vn/nhieu-tien-de-lam-gi-dan-my-su-dung-phan-lon-khoan-tro-cap-covid-19-de-dau-tu-chung-khoan-20210309202310102.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ra giá 20 tỉ để “chạy” điều chuyển Giám đốc Công an tỉnh An Giang](https://laodong.vn/phap-luat/ra-gia-20-ti-de-chay-dieu-chuyen-giam-doc-cong-an-tinh-an-giang-887461.ldo) ([Lao Động](https://laodong.vn))
+- [Đưa ra 1 lời khuyên mà đắc tội với quá nhiều người, Triệu Vân tự chặn đường thăng tiến của bản thân dù được Lưu Bị vô cùng ưu ái](https://cafebiz.vn/dua-ra-1-loi-khuyen-ma-dac-toi-voi-qua-nhieu-nguoi-trieu-van-tu-chan-duong-thang-tien-cua-ban-than-du-duoc-luu-bi-vo-cung-uu-ai-20210309153837198.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mobile Money được Thủ tướng đồng ý cho triển khai thí điểm trong 2 năm](https://laodong.vn/kinh-te/mobile-money-duoc-thu-tuong-dong-y-cho-trien-khai-thi-diem-trong-2-nam-887458.ldo) ([Lao Động](https://laodong.vn))
 - [Tấm séc kích cầu 1.400 USD là quá ít so với chi tiêu của người dân Mỹ?](https://cafebiz.vn/tam-sec-kich-cau-1400-usd-la-qua-it-so-voi-chi-tieu-cua-nguoi-dan-my-20210309184936072.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nóng nhất hôm nay: Cuộc phỏng vấn của Harry – Meghan bùng nổ tranh cãi](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-cuoc-phong-van-cua-harry--meghan-bung-no-tranh-cai-887396.ldo) ([Lao Động](https://laodong.vn))
-- [Sập máng nước mưa tu việnc cổ dòng Franciscaines Đà Lạt, chết 2 người](https://tuoitre.vn/sap-mang-nuoc-mua-tu-vienc-co-dong-franciscaines-da-lat-chet-2-nguoi-20210309203558376.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tỷ giá ngoại tệ 9.3: USD chợ đen tăng không ngừng, thời điểm vàng chốt lời](https://laodong.vn/kinh-te/ty-gia-ngoai-te-93-usd-cho-den-tang-khong-ngung-thoi-diem-vang-chot-loi-887455.ldo) ([Lao Động](https://laodong.vn))
-- [Sập tường công trình thời Pháp, 2 người chết](https://vnexpress.net/sap-tuong-cong-trinh-thoi-phap-2-nguoi-chet-4246012.html) ([VNExpress](https://vnexpress.net))
-- [Xe khách chở 53 người Trung Quốc nhập cảnh trái phép](https://vnexpress.net/xe-khach-cho-53-nguoi-trung-quoc-nhap-canh-trai-phep-4246009.html) ([VNExpress](https://vnexpress.net))
-- [4 bệnh ung thư nguy hiểm nhất do thói quen ăn uống mà ra: Càng chậm thay đổi thì càng dễ mắc](https://cafebiz.vn/4-benh-ung-thu-nguy-hiem-nhat-do-thoi-quen-an-uong-ma-ra-cang-cham-thay-doi-thi-cang-de-mac-20210309153048411.chn) ([CafeBiz](https://cafebiz.vn))
-- [Oppo soán ngôi vương của Huawei tại Trung Quốc](https://cafebiz.vn/oppo-soan-ngoi-vuong-cua-huawei-tai-trung-quoc-20210309184755492.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt khẩn cấp vợ chồng chủ công ty xăng dầu Vân Trúc liên quan vụ xăng giả "khủng"](https://cafebiz.vn/bat-khan-cap-vo-chong-chu-cong-ty-xang-dau-van-truc-lien-quan-vu-xang-gia-khung-20210309203809231.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sập máng nước mưa tu viện cổ dòng Franciscaines Đà Lạt, chết 2 người](https://tuoitre.vn/sap-mang-nuoc-mua-tu-vien-co-dong-franciscaines-da-lat-chet-2-nguoi-20210309203558376.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- ["Bố Già" và hành trình nguôi giận để tin yêu của tôi](https://vietcetera.com/vn/bo-gia-hanh-trinh-nguoi-gian-de-tin-yeu)
 - [Meme học: Tại sao người phụ nữ này lại mắng chú mèo?](https://vietcetera.com/vn/meme-hoc-co-gai-la-chu-meo)
 - [Tóm Lại Là: Chuyện cổ tích từ đầu đã không tồn tại ở hoàng gia Anh](https://vietcetera.com/vn/tom-lai-la-chuyen-co-tich-tu-dau-da-khong-ton-tai-o-hoang-gia-anh)
 - [Câu chuyện chuyển đổi số: Xây dựng thương hiệu trên Facebook - Có còn khó không?](https://vietcetera.com/vn/xay-dung-thuong-hieu-tren-facebook-co-hoi-va-thach-thuc-trong-cong-cuoc-chuyen-doi-so)
@@ -105,7 +106,6 @@
 - [Promising Young Woman: Cuộc báo thù hoang dại. Và đau đớn](https://vietcetera.com/vn/promising-young-woman-cuoc-bao-thu-hoang-dai-va-dau-don)
 - ["Chẳng có chuyện gì là quá nghiêm trọng trong mắt mẹ anh."](https://vietcetera.com/vn/chang-co-chuyen-gi-la-qua-nghiem-trong-trong-mat-me-anh)
 - [Ngắm tranh, ăn tối, tạm quên sự đời: ghé Lavelle Library](https://vietcetera.com/vn/ngam-tranh-an-toi-tam-quen-su-doi-ghe-lavelle-library)
-- [Đi một dặm trong đôi giày nhân gian](https://vietcetera.com/vn/thau-hieu-va-thau-cam-khac-nhau-cho-nao)
 
 [Read More](https://vietcetera.com/)
 
