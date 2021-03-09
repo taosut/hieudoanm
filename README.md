@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 22°C.
-- Feels Like 24.18°C.
-- Air Visual is 93.
+- Temperature is 23°C.
+- Feels Like 25.17°C.
+- Air Visual is 89.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Kết quả - lịch thi đấu bóng đá ngày 9.3: Tâm điểm Juventus - Porto](https://laodong.vn/lich-thi-dau/ket-qua-lich-thi-dau-bong-da-ngay-93-tam-diem-juventus-porto-887126.ldo) ([Lao Động](https://laodong.vn))
-- [Chính phủ Mỹ tổ chức bán đấu giá 0,7501 Bitcoin](https://cafebiz.vn/chinh-phu-my-to-chuc-ban-dau-gia-07501-bitcoin-20210309085131279.chn) ([CafeBiz](https://cafebiz.vn))
-- [60 năm làm vợ chồng, ông vẫn giặt đồ, tắm gội cho bà lúc ốm đau, bệnh tật: "Tui không có con, cả đời này có mình bả thôi"](https://cafebiz.vn/60-nam-lam-vo-chong-ong-van-giat-do-tam-goi-cho-ba-luc-om-dau-benh-tat-tui-khong-co-con-ca-doi-nay-co-minh-ba-thoi-20210309085518796.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chi tiết lộ trình 34 người Trung Quốc nhập cảnh trái phép để sang Campuchia](https://laodong.vn/phap-luat/chi-tiet-lo-trinh-34-nguoi-trung-quoc-nhap-canh-trai-phep-de-sang-campuchia-887124.ldo) ([Lao Động](https://laodong.vn))
-- [Nam Bộ nắng nóng có thể đạt 38 độ C](https://laodong.vn/moi-truong/nam-bo-nang-nong-co-the-dat-38-do-c-887132.ldo) ([Lao Động](https://laodong.vn))
-- [Gần 1.500 người lao động được hỗ trợ từ Quỹ trợ vốn của LĐLĐ TP.Hải Phòng](https://laodong.vn/cong-doan/gan-1500-nguoi-lao-dong-duoc-ho-tro-tu-quy-tro-von-cua-ldld-tphai-phong-887128.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Giúp người lao động nhận hơn 2,63 tỉ đồng trợ cấp thôi việc](https://laodong.vn/cong-doan/tphcm-giup-nguoi-lao-dong-nhan-hon-263-ti-dong-tro-cap-thoi-viec-887040.ldo) ([Lao Động](https://laodong.vn))
-- [Được trả ít nhất 7 triệu USD để 'bóc phốt' nhà chồng, Meghan bị cả nước Anh lên án](https://cafebiz.vn/duoc-tra-it-nhat-7-trieu-usd-de-boc-phot-nha-chong-meghan-bi-ca-nuoc-anh-len-an-20210308224805316.chn) ([CafeBiz](https://cafebiz.vn))
-- [Maye Musk: Người mẹ đơn thân nuôi dạy nên 1 tỷ phú và 2 triệu phú đôla](https://cafebiz.vn/maye-musk-nguoi-me-don-than-nuoi-day-nen-1-ty-phu-va-2-trieu-phu-dola-20210308165315077.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá vàng lún sâu](https://cafebiz.vn/gia-vang-lun-sau-20210309083756279.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đồng chí Trần Quốc Vượng kiểm tra mô hình sản xuất tại Yên Bái](https://laodong.vn/thoi-su/dong-chi-tran-quoc-vuong-kiem-tra-mo-hinh-san-xuat-tai-yen-bai-887137.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Khủng hoảng tuổi 30 &quot; của Ninh Dương Lan Ngọc, Diễm My 9x, Nhã Phương](https://laodong.vn/van-hoa/khung-hoang-tuoi-30--cua-ninh-duong-lan-ngoc-diem-my-9x-nha-phuong-887100.ldo) ([Lao Động](https://laodong.vn))
+- [Tin bóng đá sáng 9.3: “Ronaldo đã sẵn sàng bùng nổ trước Porto&quot;](https://laodong.vn/bong-da-quoc-te/tin-bong-da-sang-93-ronaldo-da-san-sang-bung-no-truoc-porto-887131.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ GTVT 'chạy nước rút’ bàn giao tuyến đường sắt Cát Linh- Hà Đông](https://cafebiz.vn/bo-gtvt-chay-nuoc-rut-ban-giao-tuyen-duong-sat-cat-linh-ha-dong-20210309093557285.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quy trình tiêm những liều vaccine COVID-19 đầu tiên tại BV Thanh Nhàn](https://laodong.vn/y-te/quy-trinh-tiem-nhung-lieu-vaccine-covid-19-dau-tien-tai-bv-thanh-nhan-887145.ldo) ([Lao Động](https://laodong.vn))
+- [Quyết định của ông Biden cứu giúp hàng trăm nghìn người nhập cư Venezuela](https://laodong.vn/the-gioi/quyet-dinh-cua-ong-biden-cuu-giup-hang-tram-nghin-nguoi-nhap-cu-venezuela-887120.ldo) ([Lao Động](https://laodong.vn))
+- [NFT là gì mà đột nhiên khiến giới truyền thông xôn xao?](https://cafebiz.vn/nft-la-gi-ma-dot-nhien-khien-gioi-truyen-thong-xon-xao-20210309090544935.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tác giả "Cha giàu, Cha nghèo" bày cách để 'giàu' hơn nhiều người trên TG: Đơn giản đến mức ai cũng làm được!](https://cafebiz.vn/tac-gia-cha-giau-cha-ngheo-bay-cach-de-giau-hon-nhieu-nguoi-tren-tg-don-gian-den-muc-ai-cung-lam-duoc-20210307205437049.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhìn lại thời kì khó khăn của Red Bull tại Mỹ: Đừng né tránh rắc rối, thay vào đó hãy tìm cách biến nó thành yếu tố thuận lợi mới mong "đổi chiều gió"](https://cafebiz.vn/nhin-lai-thoi-ki-kho-khan-cua-red-bull-tai-my-dung-ne-tranh-rac-roi-thay-vao-do-hay-tim-cach-bien-no-thanh-yeu-to-thuan-loi-moi-mong-doi-chieu-gio-20210308182331868.chn) ([CafeBiz](https://cafebiz.vn))
+- [VEFAC muốn tăng vốn thêm hơn 11.000 tỷ đồng triển khai 4 đại dự án](https://cafebiz.vn/vefac-muon-tang-von-them-hon-11000-ty-dong-trien-khai-4-dai-du-an-20210309091558007.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Mất cân bằng chút. Tại sao không?](https://vietcetera.com/vn/mat-can-bang-chut-tai-sao-khong)
 - [Tóm Lại Là: 8/3 nói chuyện vai trò đàn bà và đàn ông](https://vietcetera.com/vn/tom-lai-la-83-noi-chuyen-vai-tro-dan-ba-va-dan-ong)
 - [Promising Young Woman: Cuộc báo thù hoang dại. Và đau đớn](https://vietcetera.com/vn/promising-young-woman-cuoc-bao-thu-hoang-dai-va-dau-don)
 - ["Chẳng có chuyện gì là quá nghiêm trọng trong mắt mẹ anh."](https://vietcetera.com/vn/chang-co-chuyen-gi-la-qua-nghiem-trong-trong-mat-me-anh)
@@ -105,7 +106,6 @@
 - [Nguyễn Thị Thiên Thanh - CEO Edelman Việt Nam: Hãy lấy con người làm kim chỉ nam](https://vietcetera.com/vn/nguyen-thi-thien-thanh-ceo-edelman-hay-lay-con-nguoi-lam-kim-chi-nam)
 - ["Chị mong con trai chị hiểu rằng..."](https://vietcetera.com/vn/chi-mong-con-trai-chi-hieu-rang)
 - [Bóc Term: Định nghĩa lại Bimbo trong thế kỷ 21!](https://vietcetera.com/vn/boc-term-dinh-nghia-lai-bimbo-trong-the-ky-21)
-- [Nhung Lê và những bức minh họa phụ nữ truyền cảm hứng](https://vietcetera.com/vn/nhung-le-va-nhung-buc-minh-hoa-phu-nu-truyen-cam-hung)
 
 [Read More](https://vietcetera.com/)
 
@@ -120,9 +120,9 @@
 05. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 06. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 07. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-08. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
-09. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-10. [Sub Urban - Cirque [Official Music Video]](https://www.youtube.com/watch?v=6vNh-QW6Hlc) - [Sub Urban](https://www.youtube.com/channel/UCqAil6_A1dWHdFXzOwVLqlg)
+08. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+09. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
+10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -139,7 +139,7 @@
 07. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 08. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
 09. [Highlights Bayern Munich vs Dortmund | Haaland gọi cú đúp - Lewandowski trả lời bằng hat-trick](https://www.youtube.com/watch?v=fVtAlF8ylxE) - [MÃN NHÃN TV](https://www.youtube.com/channel/UCoqrrrfDpWOgdqw1vRoiG_A)
-10. [Xót xa với Căn nhà trọ của NS Thương Tín | Trịnh Kim Chi Official](https://www.youtube.com/watch?v=f4tB1LJSgLw) - [Trịnh Kim Chi Official](https://www.youtube.com/channel/UCGEkSDuWgWwRZVZfi3gP1pw)
+10. [CAFE KHÔNG ĐƯỜNG || JOMBIE x TKAN & BEAN || OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=LImkI9UvJCY) - [G5R Squad](https://www.youtube.com/channel/UCqamjdcGALEjPreSrxwK9IQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
