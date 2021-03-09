@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 25.76°C.
+- Current weather is overcast clouds.
+- Temperature is 23°C.
+- Feels Like 24.81°C.
 - Air Visual is 65.
 
 **WEATHER**
@@ -48,11 +48,11 @@
 
 **GOOGLE TRENDS**
 
-- [![8-3](https://img.shields.io/static/v1?label=8-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8-3)
-- [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Chúc 8/3 mẹ](https://img.shields.io/static/v1?label=Ch%C3%BAc%208/3%20m%E1%BA%B9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%208/3%20m%E1%BA%B9)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
+- [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Loi chuc vo 8/3](https://img.shields.io/static/v1?label=Loi%20chuc%20vo%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Loi%20chuc%20vo%208/3)
@@ -60,9 +60,9 @@
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
-- [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
+- [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
+- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
-- [![Phùng Xuân Nhạ](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![Taeyeon](https://img.shields.io/static/v1?label=Taeyeon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Taeyeon)
 - [![Trưc tiep bong da](https://img.shields.io/static/v1?label=Tr%C6%B0c%20tiep%20bong%20da&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0c%20tiep%20bong%20da)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bị Mỹ, Ấn Độ tẩy chay, TikTok vẫn là “vua download” toàn cầu](https://cafebiz.vn/bi-my-an-do-tay-chay-tiktok-van-la-vua-download-toan-cau-20210309202632164.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khoẻ, thông minh, giàu có nhờ ngủ đúng cách: 6 thói quen nhỏ trước khi ngủ nên thay đổi](https://cafebiz.vn/khoe-thong-minh-giau-co-nho-ngu-dung-cach-6-thoi-quen-nho-truoc-khi-ngu-nen-thay-doi-20210309161152866.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đỉnh cao ứng xử của kẻ trí tuệ: Nhìn thấu không nói, biết người không bình, hiểu lý không tranh](https://cafebiz.vn/dinh-cao-ung-xu-cua-ke-tri-tue-nhin-thau-khong-noi-biet-nguoi-khong-binh-hieu-ly-khong-tranh-20210309094252495.chn) ([CafeBiz](https://cafebiz.vn))
 - [Pháp và Tây Ban Nha thu thuế kỹ thuật số, Google sẽ tăng phí quảng cáo](https://cafebiz.vn/phap-va-tay-ban-nha-thu-thue-ky-thuat-so-google-se-tang-phi-quang-cao-20210309185118483.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bài học kinh doanh từ cuộc trò chuyện giữa blogger triệu người theo dõi và “thiên tài” kinh doanh 17 tuổi: Khi biết cách yêu cầu cơ hội, bạn đã có 1 nửa chiến thắng](https://cafebiz.vn/bai-hoc-kinh-doanh-tu-cuoc-tro-chuyen-giua-blogger-trieu-nguoi-theo-doi-va-thien-tai-kinh-doanh-17-tuoi-khi-biet-cach-yeu-cau-co-hoi-ban-da-co-1-nua-chien-thang-20210309155439623.chn) ([CafeBiz](https://cafebiz.vn))
 - [Văn Quyết được vinh danh Gương mặt trẻ Việt Nam tiêu biểu năm 2020](https://laodong.vn/bong-da/van-quyet-duoc-vinh-danh-guong-mat-tre-viet-nam-tieu-bieu-nam-2020-887467.ldo) ([Lao Động](https://laodong.vn))
 - [An Giang: Bắt quả tang đối tượng cho vay nặng lãi](https://laodong.vn/phap-luat/an-giang-bat-qua-tang-doi-tuong-cho-vay-nang-lai-887465.ldo) ([Lao Động](https://laodong.vn))
 - [Nhiều tiền để làm gì: Dân Mỹ sử dụng phần lớn khoản trợ cấp Covid-19 để đầu tư chứng khoán](https://cafebiz.vn/nhieu-tien-de-lam-gi-dan-my-su-dung-phan-lon-khoan-tro-cap-covid-19-de-dau-tu-chung-khoan-20210309202310102.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ra giá 20 tỉ để “chạy” điều chuyển Giám đốc Công an tỉnh An Giang](https://laodong.vn/phap-luat/ra-gia-20-ti-de-chay-dieu-chuyen-giam-doc-cong-an-tinh-an-giang-887461.ldo) ([Lao Động](https://laodong.vn))
-- [Sáu tướng lĩnh các quân khu được giới thiệu ứng cử Quốc hội](http://vietnamnet.vn/vn/thoi-su/quoc-phong/sau-tuong-linh-cac-quan-khu-duoc-gioi-thieu-ung-cu-quoc-hoi-718420.html) ([VietNamNet](https://vietnamnet.vn))
 - [Đưa ra 1 lời khuyên mà đắc tội với quá nhiều người, Triệu Vân tự chặn đường thăng tiến của bản thân dù được Lưu Bị vô cùng ưu ái](https://cafebiz.vn/dua-ra-1-loi-khuyen-ma-dac-toi-voi-qua-nhieu-nguoi-trieu-van-tu-chan-duong-thang-tien-cua-ban-than-du-duoc-luu-bi-vo-cung-uu-ai-20210309153837198.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mobile Money được Thủ tướng đồng ý cho triển khai thí điểm trong 2 năm](https://laodong.vn/kinh-te/mobile-money-duoc-thu-tuong-dong-y-cho-trien-khai-thi-diem-trong-2-nam-887458.ldo) ([Lao Động](https://laodong.vn))
-- [Tấm séc kích cầu 1.400 USD là quá ít so với chi tiêu của người dân Mỹ?](https://cafebiz.vn/tam-sec-kich-cau-1400-usd-la-qua-it-so-voi-chi-tieu-cua-nguoi-dan-my-20210309184936072.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
