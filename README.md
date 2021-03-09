@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 25.69°C.
-- Air Visual is 84.
+- Feels Like 24.81°C.
+- Air Visual is 74.
 
 **WEATHER**
 
@@ -75,14 +75,14 @@
 
 **NEWS**
 
-- [Công đoàn Tuyên Quang: Nhiều hoạt động thiết thực chăm lo đoàn viên](https://laodong.vn/ldld-tuyen-quang/cong-doan-tuyen-quang-nhieu-hoat-dong-thiet-thuc-cham-lo-doan-vien-887408.ldo) ([Lao Động](https://laodong.vn))
-- [Tin bóng đá tối 9.3: Mbappe ra điều kiệu để gia hạn với PSG](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-93-mbappe-ra-dieu-kieu-de-gia-han-voi-psg-887380.ldo) ([Lao Động](https://laodong.vn))
-- [Du khách đến chùa Hương phải khai báo y tế bằng ứng dụng QR code](https://laodong.vn/xa-hoi/du-khach-den-chua-huong-phai-khai-bao-y-te-bang-ung-dung-qr-code-887391.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng đồng ý thành lập phòng Khoa học - Công nghệ thuộc TP.Thủ Đức](https://laodong.vn/xa-hoi/thu-tuong-dong-y-thanh-lap-phong-khoa-hoc-cong-nghe-thuoc-tpthu-duc-887405.ldo) ([Lao Động](https://laodong.vn))
+- [Nghẽn lệnh chứng khoán: Bộ Tài chính sớm báo cáo Thủ tướng phương án xử lý](https://laodong.vn/kinh-te/nghen-lenh-chung-khoan-bo-tai-chinh-som-bao-cao-thu-tuong-phuong-an-xu-ly-887417.ldo) ([Lao Động](https://laodong.vn))
+- [Cưa song sắt trốn khỏi khu cách ly](https://vnexpress.net/cua-song-sat-tron-khoi-khu-cach-ly-4245989.html) ([VNExpress](https://vnexpress.net))
+- [Kế hoạch tiêm vaccine COVID-19 của tỉnh Bắc Giang](https://laodong.vn/y-te/ke-hoach-tiem-vaccine-covid-19-cua-tinh-bac-giang-887393.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao cá tầm Trung Quốc vẫn ồ ạt về Việt Nam bất chấp nỗi lo COVID-19?](https://laodong.vn/kinh-te/vi-sao-ca-tam-trung-quoc-van-o-at-ve-viet-nam-bat-chap-noi-lo-covid-19-887281.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM thi tuyển quy hoạch không gian ngầm khu trung tâm và Thủ Thiêm](https://laodong.vn/xa-hoi/tphcm-thi-tuyen-quy-hoach-khong-gian-ngam-khu-trung-tam-va-thu-thiem-887386.ldo) ([Lao Động](https://laodong.vn))
 - [Công an Đồng Nai khám xét 10 kho chứa, bắt vợ chồng &quot;trùm&quot; xăng giả](https://laodong.vn/phap-luat/cong-an-dong-nai-kham-xet-10-kho-chua-bat-vo-chong-trum-xang-gia-887400.ldo) ([Lao Động](https://laodong.vn))
-- [Giá điện mặt trời áp mái sẽ giảm mạnh, chỉ còn 5,2 - 5,8 cent/kWh](https://laodong.vn/kinh-te/gia-dien-mat-troi-ap-mai-se-giam-manh-chi-con-52-58-centkwh-887398.ldo) ([Lao Động](https://laodong.vn))
-- [Bầu Đức giao Kiatisak tuyển mộ nhân tài đường phố cho Hoàng Anh Gia Lai](https://laodong.vn/the-thao/bau-duc-giao-kiatisak-tuyen-mo-nhan-tai-duong-pho-cho-hoang-anh-gia-lai-887311.ldo) ([Lao Động](https://laodong.vn))
 - [Thêm 6 tướng lĩnh được giới thiệu ứng cử Quốc hội](https://vnexpress.net/them-6-tuong-linh-duoc-gioi-thieu-ung-cu-quoc-hoi-4245981.html) ([VNExpress](https://vnexpress.net))
-- [Vụ tàu hất văng ô tô ở Quảng Ngãi: Tài xế đã qua cơn nguy kịch](http://vietnamnet.vn/vn/thoi-su/vu-tau-hat-vang-o-to-o-quang-ngai-tai-xe-da-qua-con-nguy-kich-718387.html) ([VietNamNet](https://vietnamnet.vn))
 - [Đỗ Mỹ Linh, Hoàng Anh đồng hành cùng Tiền Phong Marathon 2021](https://laodong.vn/photo/do-my-linh-hoang-anh-dong-hanh-cung-tien-phong-marathon-2021-887361.ldo) ([Lao Động](https://laodong.vn))
 - [Chuyên gia nói về việc xây 8 trạm bơm dã chiến bổ cập nước cho sông Tô Lịch](https://laodong.vn/xa-hoi/chuyen-gia-noi-ve-viec-xay-8-tram-bom-da-chien-bo-cap-nuoc-cho-song-to-lich-887362.ldo) ([Lao Động](https://laodong.vn))
 
