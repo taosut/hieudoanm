@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 23°C.
 - Feels Like 25.17°C.
-- Air Visual is 89.
+- Air Visual is 94.
 
 **WEATHER**
 
@@ -48,6 +48,7 @@
 
 **GOOGLE TRENDS**
 
+- [![8-3](https://img.shields.io/static/v1?label=8-3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8-3)
 - [![8.3](https://img.shields.io/static/v1?label=8.3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=8.3)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Chúc 8-3 mẹ](https://img.shields.io/static/v1?label=Ch%C3%BAc%208-3%20m%E1%BA%B9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%C3%BAc%208-3%20m%E1%BA%B9)
@@ -63,9 +64,8 @@
 - [![Mina (AOA](https://img.shields.io/static/v1?label=Mina%20(AOA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mina%20(AOA)
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![NBA All-star 2021](https://img.shields.io/static/v1?label=NBA%20All-star%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NBA%20All-star%202021)
-- [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
+- [![Ngày quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Quà tặng 8/3](https://img.shields.io/static/v1?label=Qu%C3%A0%20t%E1%BA%B7ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Qu%C3%A0%20t%E1%BA%B7ng%208/3)
-- [![Truc tiep ngoai hang Anh](https://img.shields.io/static/v1?label=Truc%20tiep%20ngoai%20hang%20Anh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Truc%20tiep%20ngoai%20hang%20Anh)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
 - [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Đồng chí Trần Quốc Vượng kiểm tra mô hình sản xuất tại Yên Bái](https://laodong.vn/thoi-su/dong-chi-tran-quoc-vuong-kiem-tra-mo-hinh-san-xuat-tai-yen-bai-887137.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Khủng hoảng tuổi 30 &quot; của Ninh Dương Lan Ngọc, Diễm My 9x, Nhã Phương](https://laodong.vn/van-hoa/khung-hoang-tuoi-30--cua-ninh-duong-lan-ngoc-diem-my-9x-nha-phuong-887100.ldo) ([Lao Động](https://laodong.vn))
-- [Tin bóng đá sáng 9.3: “Ronaldo đã sẵn sàng bùng nổ trước Porto&quot;](https://laodong.vn/bong-da-quoc-te/tin-bong-da-sang-93-ronaldo-da-san-sang-bung-no-truoc-porto-887131.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ chồng sinh hai con gái được hỗ trợ từ khi nào?](https://laodong.vn/ban-doc/vo-chong-sinh-hai-con-gai-duoc-ho-tro-tu-khi-nao-887153.ldo) ([Lao Động](https://laodong.vn))
+- [CDC Mỹ ban hành hướng dẫn cho người đã tiêm vaccine COVID-19](https://laodong.vn/the-gioi/cdc-my-ban-hanh-huong-dan-cho-nguoi-da-tiem-vaccine-covid-19-887147.ldo) ([Lao Động](https://laodong.vn))
+- [Israel phát triển một loại pin xe hơi điện sạc đầy trong 5 phút](https://cafebiz.vn/israel-phat-trien-mot-loai-pin-xe-hoi-dien-sac-day-trong-5-phut-20210309085741713.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lựa chọn nhà ở tiêu biểu tại thị trường vùng ven khu Tây TP.HCM năm 2021](https://cafebiz.vn/lua-chon-nha-o-tieu-bieu-tai-thi-truong-vung-ven-khu-tay-tphcm-nam-2021-20210308164012115.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chelsea thắng Everton, Tuchel có tên trong sách kỷ lục Premier League](https://laodong.vn/bong-da-quoc-te/chelsea-thang-everton-tuchel-co-ten-trong-sach-ky-luc-premier-league-887162.ldo) ([Lao Động](https://laodong.vn))
+- [Tập đoàn Trung Thủy hợp tác Takashimaya đầu tư Dự án Lancaster Luminaire](https://laodong.vn/thong-tin-doanh-nghiep/tap-doan-trung-thuy-hop-tac-takashimaya-dau-tu-du-an-lancaster-luminaire-887112.ldo) ([Lao Động](https://laodong.vn))
+- [Chức vụ càng cao, càng phải viết nhật ký hàng ngày: Việc tưởng chừng đơn giản nhưng không mấy người làm được](https://cafebiz.vn/chuc-vu-cang-cao-cang-phai-viet-nhat-ky-hang-ngay-viec-tuong-chung-don-gian-nhung-khong-may-nguoi-lam-duoc-20210308004138038.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thắng 7 trận liên tiếp, Inter Milan vững ngôi đầu Serie A](https://laodong.vn/video-the-thao/thang-7-tran-lien-tiep-inter-milan-vung-ngoi-dau-serie-a-887148.ldo) ([Lao Động](https://laodong.vn))
 - [Bộ GTVT 'chạy nước rút’ bàn giao tuyến đường sắt Cát Linh- Hà Đông](https://cafebiz.vn/bo-gtvt-chay-nuoc-rut-ban-giao-tuyen-duong-sat-cat-linh-ha-dong-20210309093557285.chn) ([CafeBiz](https://cafebiz.vn))
 - [Quy trình tiêm những liều vaccine COVID-19 đầu tiên tại BV Thanh Nhàn](https://laodong.vn/y-te/quy-trinh-tiem-nhung-lieu-vaccine-covid-19-dau-tien-tai-bv-thanh-nhan-887145.ldo) ([Lao Động](https://laodong.vn))
-- [Quyết định của ông Biden cứu giúp hàng trăm nghìn người nhập cư Venezuela](https://laodong.vn/the-gioi/quyet-dinh-cua-ong-biden-cuu-giup-hang-tram-nghin-nguoi-nhap-cu-venezuela-887120.ldo) ([Lao Động](https://laodong.vn))
-- [NFT là gì mà đột nhiên khiến giới truyền thông xôn xao?](https://cafebiz.vn/nft-la-gi-ma-dot-nhien-khien-gioi-truyen-thong-xon-xao-20210309090544935.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tác giả "Cha giàu, Cha nghèo" bày cách để 'giàu' hơn nhiều người trên TG: Đơn giản đến mức ai cũng làm được!](https://cafebiz.vn/tac-gia-cha-giau-cha-ngheo-bay-cach-de-giau-hon-nhieu-nguoi-tren-tg-don-gian-den-muc-ai-cung-lam-duoc-20210307205437049.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhìn lại thời kì khó khăn của Red Bull tại Mỹ: Đừng né tránh rắc rối, thay vào đó hãy tìm cách biến nó thành yếu tố thuận lợi mới mong "đổi chiều gió"](https://cafebiz.vn/nhin-lai-thoi-ki-kho-khan-cua-red-bull-tai-my-dung-ne-tranh-rac-roi-thay-vao-do-hay-tim-cach-bien-no-thanh-yeu-to-thuan-loi-moi-mong-doi-chieu-gio-20210308182331868.chn) ([CafeBiz](https://cafebiz.vn))
-- [VEFAC muốn tăng vốn thêm hơn 11.000 tỷ đồng triển khai 4 đại dự án](https://cafebiz.vn/vefac-muon-tang-von-them-hon-11000-ty-dong-trien-khai-4-dai-du-an-20210309091558007.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
