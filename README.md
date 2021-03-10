@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is scattered clouds.
-- Temperature is 27°C.
-- Feels Like 25.84°C.
-- Air Visual is 69.
+- Temperature is 26°C.
+- Feels Like 24.51°C.
+- Air Visual is 75.
 
 **WEATHER**
 
@@ -51,6 +51,7 @@
 - [![Barca vs PSG](https://img.shields.io/static/v1?label=Barca%20vs%20PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20PSG)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
+- [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Khai báo y tế online](https://img.shields.io/static/v1?label=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online)
 - [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
@@ -62,7 +63,6 @@
 - [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
-- [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![Taeyeon](https://img.shields.io/static/v1?label=Taeyeon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Taeyeon)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [4 xu hướng công nghệ các doanh nghiệp cần có trong năm 2021 để đối phó với “bình thường mới”](https://cafebiz.vn/4-xu-huong-cong-nghe-cac-doanh-nghiep-can-co-trong-nam-2021-de-doi-pho-voi-binh-thuong-moi-20210310153034395.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bệnh nhân mắc COVID-19: Kiểm soát tâm trạng để chiến thắng bệnh dịch](https://laodong.vn/xa-hoi/benh-nhan-mac-covid-19-kiem-soat-tam-trang-de-chien-thang-benh-dich-887708.ldo) ([Lao Động](https://laodong.vn))
+- [Đắk Lắk trao thưởng cho những cá nhân, tập thể hiến kế xây dựng quê hương](https://laodong.vn/xa-hoi/dak-lak-trao-thuong-cho-nhung-ca-nhan-tap-the-hien-ke-xay-dung-que-huong-887755.ldo) ([Lao Động](https://laodong.vn))
+- [10 năm thảm họa Fukushima: Những nỗ lực hồi sinh vùng đất chết](https://laodong.vn/the-gioi/10-nam-tham-hoa-fukushima-nhung-no-luc-hoi-sinh-vung-dat-chet-887650.ldo) ([Lao Động](https://laodong.vn))
+- [Học sinh lớp 8 bị đánh hội đồng ngay trước cổng trường, phải nhập viện cấp cứu](https://tuoitre.vn/hoc-sinh-lop-8-bi-danh-hoi-dong-ngay-truoc-cong-truong-phai-nhap-vien-cap-cuu-20210310165703.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [3 kịch bản định hướng phục hồi du lịch Khánh Hòa trong năm 2021](https://laodong.vn/kinh-te/3-kich-ban-dinh-huong-phuc-hoi-du-lich-khanh-hoa-trong-nam-2021-887746.ldo) ([Lao Động](https://laodong.vn))
+- [Lá đu đủ có ích cho sức khỏe hơn bạn nghĩ](https://laodong.vn/suc-khoe/la-du-du-co-ich-cho-suc-khoe-hon-ban-nghi-887625.ldo) ([Lao Động](https://laodong.vn))
 - [Tesla bốc hơi 300 tỷ USD giá trị thị trường do đầu cơ Bitcoin?](https://cafebiz.vn/tesla-boc-hoi-300-ty-usd-gia-tri-thi-truong-do-dau-co-bitcoin-2021031016124422.chn) ([CafeBiz](https://cafebiz.vn))
-- [Muốn tranh vé dự Olympic nhưng Thanh Phúc &quot;lực bất tòng tâm&quot;](https://laodong.vn/the-thao/muon-tranh-ve-du-olympic-nhung-thanh-phuc-luc-bat-tong-tam-887648.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng hôm nay 10.3: Bất ngờ đảo chiều tăng](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-103-bat-ngo-dao-chieu-tang-887729.ldo) ([Lao Động](https://laodong.vn))
 - [Daphale Studios truyền cảm hứng đến phái đẹp, tự tin khoe cá tính](https://cafebiz.vn/daphale-studios-truyen-cam-hung-den-phai-dep-tu-tin-khoe-ca-tinh-20210310155526117.chn) ([CafeBiz](https://cafebiz.vn))
 - ['Nữ tướng' đưa Daikin Việt Nam vượt “cơn bão” đe dọa doanh nghiệp toàn cầu](https://cafebiz.vn/nu-tuong-dua-daikin-viet-nam-vuot-con-bao-de-doa-doanh-nghiep-toan-cau-2021031015190748.chn) ([CafeBiz](https://cafebiz.vn))
-- [Điện thoại Pixel đã có thể đo nhịp tim, nhịp thở bằng camera](https://laodong.vn/cong-nghe/dien-thoai-pixel-da-co-the-do-nhip-tim-nhip-tho-bang-camera-887477.ldo) ([Lao Động](https://laodong.vn))
-- [Chứng khoán: Vì sao hơn 8 năm HoSE chưa xong được dự án 5 năm?](https://laodong.vn/kinh-te/chung-khoan-vi-sao-hon-8-nam-hose-chua-xong-duoc-du-an-5-nam-887744.ldo) ([Lao Động](https://laodong.vn))
-- [Gần 40 tuổi, 14 tháng nghỉ chấn thương, Federer vẫn không đầu hàng](https://laodong.vn/the-thao/gan-40-tuoi-14-thang-nghi-chan-thuong-federer-van-khong-dau-hang-887656.ldo) ([Lao Động](https://laodong.vn))
-- [Công ty giải mã gen của cựu CEO Mekong Capital vừa huy động 2,5 triệu USD từ các nhà đầu tư Silicon Valley](https://cafebiz.vn/cong-ty-giai-ma-gen-cua-cuu-ceo-mekong-capital-vua-huy-dong-25-trieu-usd-tu-cac-nha-dau-tu-silicon-valley-20210310171815035.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chào giá cung cấp vật tư phục vụ sản xuất bao bì và nhà máy phân bón](https://laodong.vn/thong-tin-doanh-nghiep/chao-gia-cung-cap-vat-tu-phuc-vu-san-xuat-bao-bi-va-nha-may-phan-bon-887728.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
