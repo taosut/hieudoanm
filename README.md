@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Cầu thủ đi làm công nhân, đội Sơn La sẽ làm mới từ giải U19 nữ Quốc gia](https://laodong.vn/the-thao/cau-thu-di-lam-cong-nhan-doi-son-la-se-lam-moi-tu-giai-u19-nu-quoc-gia-887660.ldo) ([Lao Động](https://laodong.vn))
+- [Hệ thống camera trong các nhà máy Tesla bị tin tặc xâm phạm](https://cafebiz.vn/he-thong-camera-trong-cac-nha-may-tesla-bi-tin-tac-xam-pham-20210310134753292.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhiều phản hồi tích cực sau học kỳ sử dụng sách giáo khoa Cánh diều lớp 1](https://laodong.vn/video/nhieu-phan-hoi-tich-cuc-sau-hoc-ky-su-dung-sach-giao-khoa-canh-dieu-lop-1-887351.ldo) ([Lao Động](https://laodong.vn))
+- [Tàu cá bị đâm chìm, hai người mất tích](https://vnexpress.net/tau-ca-bi-dam-chim-hai-nguoi-mat-tich-4246465.html) ([VNExpress](https://vnexpress.net))
+- [Hoàng tử William lần đầu lộ diện đầy mệt mỏi sau khi vợ chồng em trai Harry làm cả gia tộc rúng động bằng buổi phỏng vấn “kể hết sự thật"](https://cafebiz.vn/hoang-tu-william-lan-dau-lo-dien-day-met-moi-sau-khi-vo-chong-em-trai-harry-lam-ca-gia-toc-rung-dong-bang-buoi-phong-van-ke-het-su-that-20210310155822656.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nắng nóng gay gắt ở TPHCM kéo dài đến bao giờ?](https://laodong.vn/moi-truong/nang-nong-gay-gat-o-tphcm-keo-dai-den-bao-gio-887670.ldo) ([Lao Động](https://laodong.vn))
+- [Lô vaccine COVID-19 đã về tới Long An](https://laodong.vn/xa-hoi/lo-vaccine-covid-19-da-ve-toi-long-an-887690.ldo) ([Lao Động](https://laodong.vn))
+- [Từ 20.3, giáo viên nào sẽ không được bổ nhiệm sang hạng mới tương ứng?](https://laodong.vn/giao-duc/tu-203-giao-vien-nao-se-khong-duoc-bo-nhiem-sang-hang-moi-tuong-ung-887654.ldo) ([Lao Động](https://laodong.vn))
 - [VAFI đề xuất cổ phần hóa Sở Giao dịch chứng khoán](https://cafebiz.vn/vafi-de-xuat-co-phan-hoa-so-giao-dich-chung-khoan-2021031015534163.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ngoại binh tiền tỉ hứa giúp đội TPHCM đạt thành tích tốt tại V.League](https://laodong.vn/bong-da/ngoai-binh-tien-ti-hua-giup-doi-tphcm-dat-thanh-tich-tot-tai-vleague-887685.ldo) ([Lao Động](https://laodong.vn))
 - [Xếp hàng làm căn cước công dân gắn chip](https://vnexpress.net/xep-hang-lam-can-cuoc-cong-dan-gan-chip-4246328.html) ([VNExpress](https://vnexpress.net))
-- [Làng bóng chuyền xôn xao khi Như Quỳnh bị tố vô kỷ luật](https://laodong.vn/the-thao/lang-bong-chuyen-xon-xao-khi-nhu-quynh-bi-to-vo-ky-luat-887647.ldo) ([Lao Động](https://laodong.vn))
-- [Điện Biên có thêm 2 di sản văn hóa phi vật thể quốc gia](https://laodong.vn/van-hoa-giai-tri/dien-bien-co-them-2-di-san-van-hoa-phi-vat-the-quoc-gia-887682.ldo) ([Lao Động](https://laodong.vn))
-- [Trẻ chưa được cấp giấy khai sinh hưởng bảo hiểm y tế thế nào?](https://laodong.vn/ban-doc/tre-chua-duoc-cap-giay-khai-sinh-huong-bao-hiem-y-te-the-nao-887679.ldo) ([Lao Động](https://laodong.vn))
-- [Hiện trạng sông Tô Lịch trước khi được bổ cập nước cải thiện ô nhiễm](https://laodong.vn/photo/hien-trang-song-to-lich-truoc-khi-duoc-bo-cap-nuoc-cai-thien-o-nhiem-887657.ldo) ([Lao Động](https://laodong.vn))
-- [Sẽ "siết" giá điện mặt trời áp mái tới 30%?](https://cafebiz.vn/se-siet-gia-dien-mat-troi-ap-mai-toi-30-20210310154035959.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ferrari bất ngờ ‘tụt hậu’, ngày càng được ít người quan tâm?](https://cafebiz.vn/ferrari-bat-ngo-tut-hau-ngay-cang-duoc-it-nguoi-quan-tam-20210310135920521.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Gót chân A-sin' của Bitcoin hóa ra lại là tính năng tuyệt vời nhất của nó](https://cafebiz.vn/got-chan-a-sin-cua-bitcoin-hoa-ra-lai-la-tinh-nang-tuyet-voi-nhat-cua-no-20210310151714105.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
