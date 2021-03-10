@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 27°C.
-- Feels Like 26.19°C.
-- Air Visual is 88.
+- Feels Like 25.84°C.
+- Air Visual is 72.
 
 **WEATHER**
 
@@ -51,13 +51,13 @@
 - [![Barca vs PSG](https://img.shields.io/static/v1?label=Barca%20vs%20PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20PSG)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
+- [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
-- [![Khai báo y tế online](https://img.shields.io/static/v1?label=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online)
 - [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
-- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
 - [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [EU lên tiếng bác bỏ sau khi bị cáo buộc ''chủ nghĩa dân tộc vaccine''](https://laodong.vn/the-gioi/eu-len-tieng-bac-bo-sau-khi-bi-cao-buoc-chu-nghia-dan-toc-vaccine-887613.ldo) ([Lao Động](https://laodong.vn))
-- [Phòng chống COVID-19 từ mô hình “Ghế đá thông điệp”](https://laodong.vn/ban-doc/phong-chong-covid-19-tu-mo-hinh-ghe-da-thong-diep-887672.ldo) ([Lao Động](https://laodong.vn))
-- [Công đoàn tổ chức chương trình “Lắng nghe – Thấu hiểu – Chia sẻ”](https://laodong.vn/cd-cong-thuong/cong-doan-to-chuc-chuong-trinh-lang-nghe--thau-hieu--chia-se-887686.ldo) ([Lao Động](https://laodong.vn))
-- [Nam sinh viên suýt mất mạng vì bị đứt đôi khí quản do tai nạn giao thông](https://laodong.vn/suc-khoe/nam-sinh-vien-suyt-mat-mang-vi-bi-dut-doi-khi-quan-do-tai-nan-giao-thong-887658.ldo) ([Lao Động](https://laodong.vn))
-- [Sặc hạt điều, bé trai 2 tuổi nguy kịch đến tính mạng](https://laodong.vn/suc-khoe/sac-hat-dieu-be-trai-2-tuoi-nguy-kich-den-tinh-mang-887681.ldo) ([Lao Động](https://laodong.vn))
+- [VAFI đề xuất cổ phần hóa Sở Giao dịch chứng khoán](https://cafebiz.vn/vafi-de-xuat-co-phan-hoa-so-giao-dich-chung-khoan-2021031015534163.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ngoại binh tiền tỉ hứa giúp đội TPHCM đạt thành tích tốt tại V.League](https://laodong.vn/bong-da/ngoai-binh-tien-ti-hua-giup-doi-tphcm-dat-thanh-tich-tot-tai-vleague-887685.ldo) ([Lao Động](https://laodong.vn))
+- [Xếp hàng làm căn cước công dân gắn chip](https://vnexpress.net/xep-hang-lam-can-cuoc-cong-dan-gan-chip-4246328.html) ([VNExpress](https://vnexpress.net))
+- [Làng bóng chuyền xôn xao khi Như Quỳnh bị tố vô kỷ luật](https://laodong.vn/the-thao/lang-bong-chuyen-xon-xao-khi-nhu-quynh-bi-to-vo-ky-luat-887647.ldo) ([Lao Động](https://laodong.vn))
+- [Điện Biên có thêm 2 di sản văn hóa phi vật thể quốc gia](https://laodong.vn/van-hoa-giai-tri/dien-bien-co-them-2-di-san-van-hoa-phi-vat-the-quoc-gia-887682.ldo) ([Lao Động](https://laodong.vn))
+- [Trẻ chưa được cấp giấy khai sinh hưởng bảo hiểm y tế thế nào?](https://laodong.vn/ban-doc/tre-chua-duoc-cap-giay-khai-sinh-huong-bao-hiem-y-te-the-nao-887679.ldo) ([Lao Động](https://laodong.vn))
+- [Hiện trạng sông Tô Lịch trước khi được bổ cập nước cải thiện ô nhiễm](https://laodong.vn/photo/hien-trang-song-to-lich-truoc-khi-duoc-bo-cap-nuoc-cai-thien-o-nhiem-887657.ldo) ([Lao Động](https://laodong.vn))
+- [Sẽ "siết" giá điện mặt trời áp mái tới 30%?](https://cafebiz.vn/se-siet-gia-dien-mat-troi-ap-mai-toi-30-20210310154035959.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ferrari bất ngờ ‘tụt hậu’, ngày càng được ít người quan tâm?](https://cafebiz.vn/ferrari-bat-ngo-tut-hau-ngay-cang-duoc-it-nguoi-quan-tam-20210310135920521.chn) ([CafeBiz](https://cafebiz.vn))
 - ['Gót chân A-sin' của Bitcoin hóa ra lại là tính năng tuyệt vời nhất của nó](https://cafebiz.vn/got-chan-a-sin-cua-bitcoin-hoa-ra-lai-la-tinh-nang-tuyet-voi-nhat-cua-no-20210310151714105.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cứu hộ tàu cá bị chìm trên đường vào bờ](https://tuoitre.vn/cuu-ho-tau-ca-bi-chim-tren-duong-vao-bo-20210310131232875.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thơ Nguyễn ôm kumathong xin vía học giỏi, fanpage Bệnh viện Nhi Đồng Thành Phố chia sẻ: "Cần lắm chiếc gậy của nhà chức trách để những thứ tiêu cực không làm méo mó tâm hồn trẻ thơ nữa..."](https://cafebiz.vn/tho-nguyen-om-kumathong-xin-via-hoc-gioi-fanpage-benh-vien-nhi-dong-thanh-pho-chia-se-can-lam-chiec-gay-cua-nha-chuc-trach-de-nhung-thu-tieu-cuc-khong-lam-meo-mo-tam-hon-tre-tho-nua-20210310152647369.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cháy nhà trong ngõ sâu phố cổ Hà Nội, người dân tháo chạy](https://tuoitre.vn/chay-nha-trong-ngo-sau-pho-co-ha-noi-nguoi-dan-thao-chay-20210310143232895.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
