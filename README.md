@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 25.4°C.
-- Air Visual is 104.
+- Current weather is mist.
+- Temperature is 23°C.
+- Feels Like 24.81°C.
+- Air Visual is 103.
 
 **WEATHER**
 
@@ -61,7 +61,7 @@
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
-- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
 - [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Youtuber triệu subscribes Mr. Vịt: “Máu kinh doanh chưa bao giờ mất đi trong tôi”](https://cafebiz.vn/youtuber-trieu-subscribes-mr-vit-mau-kinh-doanh-chua-bao-gio-mat-di-trong-toi-20210310091156133.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những mẫu xe ô tô phổ thông khoẻ nhất trong từng phân khúc](https://cafebiz.vn/nhung-mau-xe-o-to-pho-thong-khoe-nhat-trong-tung-phan-khuc-20210310085655704.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chọn điều hoà không khí tiết kiệm điện năng nhờ nhãn năng lượng](https://cafebiz.vn/chon-dieu-hoa-khong-khi-tiet-kiem-dien-nang-nho-nhan-nang-luong-20210309114346188.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mua đất có thông tin chuyển nhượng nhưng sổ đỏ vẫn tên chủ cũ được không?](https://laodong.vn/bat-dong-san/mua-dat-co-thong-tin-chuyen-nhuong-nhung-so-do-van-ten-chu-cu-duoc-khong-886952.ldo) ([Lao Động](https://laodong.vn))
-- [Hệ thống điều khiển hành trình không hoạt động, đâu là nguyên nhân?](https://laodong.vn/xe/he-thong-dieu-khien-hanh-trinh-khong-hoat-dong-dau-la-nguyen-nhan-887488.ldo) ([Lao Động](https://laodong.vn))
-- [Giá vàng và ngoại tệ 10.3: USD rời đỉnh, nhường đà tăng cho vàng](https://laodong.vn/video/gia-vang-va-ngoai-te-103-usd-roi-dinh-nhuong-da-tang-cho-vang-887538.ldo) ([Lao Động](https://laodong.vn))
-- [Giáo viên không nhất thiết phải có chứng chỉ chức danh nghề nghiệp](https://laodong.vn/xa-hoi/giao-vien-khong-nhat-thiet-phai-co-chung-chi-chuc-danh-nghe-nghiep-887451.ldo) ([Lao Động](https://laodong.vn))
-- [Công bố danh sách 184 đơn vị bầu cử đại biểu Quốc hội khóa XV](https://laodong.vn/infographic/cong-bo-danh-sach-184-don-vi-bau-cu-dai-bieu-quoc-hoi-khoa-xv-885726.ldo) ([Lao Động](https://laodong.vn))
-- [Unilever loại bỏ 1 từ trong nhãn mác của 200 sản phẩm gồm cả Dove, Sunsilk](https://cafebiz.vn/unilever-loai-bo-1-tu-trong-nhan-mac-cua-200-san-pham-gom-ca-dove-sunsilk-20210310095538181.chn) ([CafeBiz](https://cafebiz.vn))
-- [53 người Trung Quốc nhập cảnh trái phép âm tính với Covid-19](http://vietnamnet.vn/vn/thoi-su/53-nguoi-trung-quoc-nhap-canh-trai-phep-am-tinh-voi-covid-19-718514.html) ([VietNamNet](https://vietnamnet.vn))
+- [Jack Dorsey, Elon Musk và những dòng tweet đem bán đấu giá thời 4.0](https://cafebiz.vn/jack-dorsey-elon-musk-va-nhung-dong-tweet-dem-ban-dau-gia-thoi-40-20210310085843297.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tin bóng đá sáng 10.3: Liverpool vẫn tin tưởng Klopp](https://laodong.vn/bong-da-quoc-te/tin-bong-da-sang-103-liverpool-van-tin-tuong-klopp-887525.ldo) ([Lao Động](https://laodong.vn))
+- [Cô giáo nhảy lầu sau khi bị phụ huynh phản ánh đánh học sinh?](https://tuoitre.vn/co-giao-nhay-lau-sau-khi-bi-phu-huynh-phan-anh-danh-hoc-sinh-20210310100424415.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ba Thủ tướng Việt Nam, Lào, Campuchia hội đàm trực tuyến](https://laodong.vn/thoi-su/ba-thu-tuong-viet-nam-lao-campuchia-hoi-dam-truc-tuyen-887541.ldo) ([Lao Động](https://laodong.vn))
+- [Từ ACB, nhìn lại các thương vụ thoái vốn đình đám của Dragon Capital](https://cafebiz.vn/tu-acb-nhin-lai-cac-thuong-vu-thoai-von-dinh-dam-cua-dragon-capital-20210310101728224.chn) ([CafeBiz](https://cafebiz.vn))
+- [Công nương Meghan làm dậy sóng tranh luận việc người dân phải đóng thuế nuôi Hoàng gia](https://cafebiz.vn/cong-nuong-meghan-lam-day-song-tranh-luan-viec-nguoi-dan-phai-dong-thue-nuoi-hoang-gia-20210310093909248.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sử dụng mạng xã hội để giải quyết thủ tục hành chính: Bước đi hiệu quả](https://laodong.vn/ban-doc/su-dung-mang-xa-hoi-de-giai-quyet-thu-tuc-hanh-chinh-buoc-di-hieu-qua-887536.ldo) ([Lao Động](https://laodong.vn))
+- [Kỳ tích gọi vốn: 30 ngày gọi thành công 2,5 triệu từ các nhà đầu tư chuyên đi săn ‘kỳ lân’, startup Genetica có bí quyết gì?](https://cafebiz.vn/ky-tich-goi-von-30-ngay-goi-thanh-cong-25-trieu-tu-cac-nha-dau-tu-chuyen-di-san-ky-lan-startup-genetica-co-bi-quyet-gi-20210309231340547.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sinh 2 con một bề được miễn, giảm học phí từ 10.3](https://laodong.vn/ban-doc/sinh-2-con-mot-be-duoc-mien-giam-hoc-phi-tu-103-887537.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Bàn giao Công đoàn cơ sở](https://laodong.vn/cong-doan/ha-noi-ban-giao-cong-doan-co-so-887539.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
