@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 27°C.
 - Feels Like 25.84°C.
-- Air Visual is 72.
+- Air Visual is 79.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cầu thủ đi làm công nhân, đội Sơn La sẽ làm mới từ giải U19 nữ Quốc gia](https://laodong.vn/the-thao/cau-thu-di-lam-cong-nhan-doi-son-la-se-lam-moi-tu-giai-u19-nu-quoc-gia-887660.ldo) ([Lao Động](https://laodong.vn))
-- [Hệ thống camera trong các nhà máy Tesla bị tin tặc xâm phạm](https://cafebiz.vn/he-thong-camera-trong-cac-nha-may-tesla-bi-tin-tac-xam-pham-20210310134753292.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhiều phản hồi tích cực sau học kỳ sử dụng sách giáo khoa Cánh diều lớp 1](https://laodong.vn/video/nhieu-phan-hoi-tich-cuc-sau-hoc-ky-su-dung-sach-giao-khoa-canh-dieu-lop-1-887351.ldo) ([Lao Động](https://laodong.vn))
-- [Tàu cá bị đâm chìm, hai người mất tích](https://vnexpress.net/tau-ca-bi-dam-chim-hai-nguoi-mat-tich-4246465.html) ([VNExpress](https://vnexpress.net))
-- [Hoàng tử William lần đầu lộ diện đầy mệt mỏi sau khi vợ chồng em trai Harry làm cả gia tộc rúng động bằng buổi phỏng vấn “kể hết sự thật"](https://cafebiz.vn/hoang-tu-william-lan-dau-lo-dien-day-met-moi-sau-khi-vo-chong-em-trai-harry-lam-ca-gia-toc-rung-dong-bang-buoi-phong-van-ke-het-su-that-20210310155822656.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nắng nóng gay gắt ở TPHCM kéo dài đến bao giờ?](https://laodong.vn/moi-truong/nang-nong-gay-gat-o-tphcm-keo-dai-den-bao-gio-887670.ldo) ([Lao Động](https://laodong.vn))
-- [Lô vaccine COVID-19 đã về tới Long An](https://laodong.vn/xa-hoi/lo-vaccine-covid-19-da-ve-toi-long-an-887690.ldo) ([Lao Động](https://laodong.vn))
-- [Từ 20.3, giáo viên nào sẽ không được bổ nhiệm sang hạng mới tương ứng?](https://laodong.vn/giao-duc/tu-203-giao-vien-nao-se-khong-duoc-bo-nhiem-sang-hang-moi-tuong-ung-887654.ldo) ([Lao Động](https://laodong.vn))
-- [VAFI đề xuất cổ phần hóa Sở Giao dịch chứng khoán](https://cafebiz.vn/vafi-de-xuat-co-phan-hoa-so-giao-dich-chung-khoan-2021031015534163.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xếp hàng làm căn cước công dân gắn chip](https://vnexpress.net/xep-hang-lam-can-cuoc-cong-dan-gan-chip-4246328.html) ([VNExpress](https://vnexpress.net))
+- [BHXH Việt Nam tổ chức Lễ phát động Tết trồng cây Xuân Tân Sửu năm 2021](https://laodong.vn/xa-hoi/bhxh-viet-nam-to-chuc-le-phat-dong-tet-trong-cay-xuan-tan-suu-nam-2021-887718.ldo) ([Lao Động](https://laodong.vn))
+- [Có được phép bán lại nhà ở xã hội không?](https://laodong.vn/bat-dong-san/co-duoc-phep-ban-lai-nha-o-xa-hoi-khong-887484.ldo) ([Lao Động](https://laodong.vn))
+- [Chủ sở hữu có mất trắng khi chung cư 50 năm hết thời hạn sử dụng?](https://laodong.vn/bat-dong-san/chu-so-huu-co-mat-trang-khi-chung-cu-50-nam-het-thoi-han-su-dung-887367.ldo) ([Lao Động](https://laodong.vn))
+- [Nhận định PSG - Barcelona: Ronaldo đang đợi Messi để nhường chỗ cho Mbappe](https://laodong.vn/the-thao/nhan-dinh-psg-barcelona-ronaldo-dang-doi-messi-de-nhuong-cho-cho-mbappe-887698.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Dũng ''lò vôi'' nói về thông tin từng được ông Yên chữa khỏi bệnh](https://laodong.vn/xa-hoi/ong-dung-lo-voi-noi-ve-thong-tin-tung-duoc-ong-yen-chua-khoi-benh-887590.ldo) ([Lao Động](https://laodong.vn))
+- [Xây phố ẩm thực đêm ven biển Nha Trang](https://vnexpress.net/xay-pho-am-thuc-dem-ven-bien-nha-trang-4246335.html) ([VNExpress](https://vnexpress.net))
+- [Bất ngờ "khám phá" ra Milo, người Nhật đang phát cuồng với thứ đồ uống vị chocolate này](https://cafebiz.vn/bat-ngo-kham-pha-ra-milo-nguoi-nhat-dang-phat-cuong-voi-thu-do-uong-vi-chocolate-nay-20210310161823181.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đường dây xăng giả "khủng" ở Đồng Nai: 500.000 lít xăng lậu, xăng giả ra thị trường mỗi ngày](https://cafebiz.vn/duong-day-xang-gia-khung-o-dong-nai-500000-lit-xang-lau-xang-gia-ra-thi-truong-moi-ngay-2021031016170205.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giảm nhiệt được vài ngày, từ mai TP.HCM lại nóng 37 độ C](https://tuoitre.vn/giam-nhiet-duoc-vai-ngay-tu-mai-tphcm-lai-nong-37-do-c-20210310155732356.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thương hiệu đồ trang sức nổi tiếng Pandora đóng cửa 1/4 số cửa hàng bán lẻ do Covid-19](https://cafebiz.vn/thuong-hieu-do-trang-suc-noi-tieng-pandora-dong-cua-1-4-so-cua-hang-ban-le-do-covid-19-20210310160915038.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
