@@ -1,0 +1,30 @@
+<ng-container *ngFor="let bank of banks">
+  <div class="mb-3">
+    <div class="card">
+      <div class="card-body">
+        <h6 class="card-title m-0">{{ bank.name }}</h6>
+        <p class="card-text text-muted mb-3">{{ bank.code }} - {{ bank.number }}</p>
+        <div class="row">
+          <div class="col-sm-6">
+            <div class="dropdown">
+              <button class="btn w-100 dropdown-toggle" [ngClass]="buttonOutline" type="button" id="topUpButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Top Up
+              </button>
+              <div class="dropdown-menu" aria-labelledby="topUpButton">
+                <ng-container *ngFor="let amount of amounts">
+                  <span class="dropdown-item cursor-pointer" href="#" (click)="topUp(amount.number)">{{ amount.text }} VND</span>
+                </ng-container>
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-6">
+            <button type="button" class="btn w-100" [ngClass]="button" (click)="deleteBank(bank.code)">
+              <fa-icon [icon]="faTrash" class="mr-1"></fa-icon>
+              <span>Delete</span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</ng-container>

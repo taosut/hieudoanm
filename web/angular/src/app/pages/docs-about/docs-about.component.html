@@ -1,0 +1,23 @@
+<div class="container pt-3">
+  <h1>About</h1>
+  <div class="mb-3">
+    <p class="m-0">
+      <span>Developer: HIEU</span>
+      <a href="https://github.com/vietnamdb" target="_blank" class="ml-1" [ngClass]="linkColor">(GitHub)</a>
+      <a href="https://www.linkedin.com/in/hieudoanm/" target="_blank" class="ml-1" [ngClass]="linkColor">(LinkedIn)</a>
+    </p>
+    <p class="m-0">
+      <span>Build with:</span>
+      <a href="https://www.npmjs.com/package/vnapis" target="_blank" class="ml-1" [ngClass]="linkColor">vnapis</a>
+      <a href="https://vietnamdb.github.io/#/" target="_blank" class="ml-1" [ngClass]="linkColor">(Documents)</a>
+    </p>
+  </div>
+  <button class="btn dropdown-toggle" [ngClass]="buttonOutline" type="button" id="themeButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+    Theme
+  </button>
+  <div class="dropdown-menu" aria-labelledby="themeButton">
+    <ng-container *ngFor="let theme of themes">
+      <span class="dropdown-item cursor-pointer" (click)="change(theme)">{{ theme.toUpperCase() }}</span>
+    </ng-container>
+  </div>
+</div>

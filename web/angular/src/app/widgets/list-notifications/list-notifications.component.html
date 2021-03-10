@@ -1,0 +1,42 @@
+<div class="list-group">
+  <ng-container *ngIf="loading">
+    <app-spinner></app-spinner>
+  </ng-container>
+  <ng-container *ngIf="!loading">
+    <ng-container *ngIf="notifications.length === 0">
+      <div class="list-group-item text-center">
+        <div class="p-3">
+          <h3 class="m-0 font-weight-normal">No notifications yet.</h3>
+          <!-- <p class="m-0">Want to try again with different dates?</p> -->
+        </div>
+      </div>
+    </ng-container>
+    <ng-container *ngIf="notifications.length > 0">
+      <ng-container *ngFor="let notification of notifications">
+        <div class="list-group-item">
+          <div class="row">
+            <div class="col-sm-3">
+              <p class="m-0">{{ notification.dateTime }}</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="m-0">{{ notification.description }}</p>
+            </div>
+            <div class="col-sm-3">
+              <div class="text-right">
+                <button type="button" class="btn btn-sm" [ngClass]="button" name="confirmContactRequest" (click)="confirmContactRequest(notification.id)" [disabled]="confirmLoading">
+                  <ng-container *ngIf="confirmLoading">
+                    <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                    <span class="sr-only">Loading...</span>
+                  </ng-container>
+                  <ng-container *ngIf="!confirmLoading">
+                    Confirm
+                  </ng-container>
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </ng-container>
+    </ng-container>
+  </ng-container>
+</div>

@@ -1,0 +1,12 @@
+app-toast-notifications {
+  display:block;
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+  z-index: 1;
+
+  section {
+    position: relative;
+    max-height: calc(100vh - 2rem);
+  }
+}

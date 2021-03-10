@@ -1,0 +1,29 @@
+<div class="mb-3">
+  <app-card-search (onSearchResultsChanged)="updateSearchResults($event)"></app-card-search>
+</div>
+<div class="card bg-white">
+  <div class="card-body">
+    <h5 class="card-title font-weight-normal">Send Request</h5>
+    <form [formGroup]="requestForm" (ngSubmit)="sendRequest()">
+      <div class="form-group">
+        <input type="email" name="email" placeholder="Email" formControlName="email" class="form-control" [disabled]="true" required>
+      </div>
+      <div class="form-group">
+        <div class="input-group">
+          <input type="number" step="0.01" name="amount" placeholder="Amount" formControlName="amount" class="form-control" required>
+          <div class="input-group-append">
+            <span class="input-group-text">VND</span>
+          </div>
+        </div>
+      </div>
+      <div class="form-group">
+        <textarea name="description" placeholder="Description" formControlName="description" class="form-control" required></textarea>
+      </div>
+      <div class="row">
+        <div class="offset-sm-6 col-sm-6 offset-md-9 col-md-3">
+          <button type="submit" name="sendMoney" class="btn w-100" [ngClass]="button" [disabled]="requestForm.invalid">Send Request</button>
+        </div>
+      </div>
+    </form>
+  </div>
+</div>

@@ -1,0 +1,64 @@
+<div class="container pt-3 pb-3">
+  <div class="input-group mb-3">
+    <input type="text" name="bank" aria-label="Bank" placeholder="Bank" class="form-control" [(ngModel)]="bank" (ngModelChange)="filterRates()">
+    <select name="currency" aria-label="Currency" class="custom-select" [(ngModel)]="currency" [disabled]="currencies.length === 0" (ngModelChange)="filterRates()">
+      <option [value]="''">Currency</option>
+      <ng-container *ngIf="currencies.length">
+        <ng-container *ngFor="let currency of currencies">
+          <option [value]="currency">{{ currency }}</option>
+        </ng-container>
+      </ng-container>
+    </select>
+  </div>
+  <ng-container *ngIf="loading">
+    <app-spinner></app-spinner>
+  </ng-container>
+  <ng-container *ngIf="!loading">
+    <div class="card rounded-lg overflow-hidden">
+      <div class="table-responsive">
+        <table class="table mb-0">
+          <caption class="text-center text-white" [ngClass]="background">
+            <span>Forex Rates</span>
+            <span> - </span>
+            <span *ngIf="currency">{{ currency }}</span>
+            <span *ngIf="rates.length"> ({{ rates.length }})</span>
+          </caption>
+          <thead>
+            <tr>
+              <td>
+                <span class="cursor-pointer" (click)="sortRates('bank')">Bank</span>
+              </td>
+              <td>Code</td>
+              <td>
+                <span class="cursor-pointer" (click)="sortRates('buyCash')">Buy (Cash)</span>
+              </td>
+              <td>
+                <span class="cursor-pointer" (click)="sortRates('buyTransfer')">Buy (Transfer)</span>
+              </td>
+              <td>
+                <span class="cursor-pointer" (click)="sortRates('sellCash')">Sell (Cash)</span>
+              </td>
+              <td>
+                <span class="cursor-pointer" (click)="sortRates('sellTransfer')">Sell (Transfer)</span>
+              </td>
+              <td>Last Updated At</td>
+            </tr>
+          </thead>
+          <tbody>
+            <ng-container *ngFor="let rate of rates">
+              <tr>
+                <td>{{ rate.bank }}</td>
+                <td>{{ rate.bank }}</td>
+                <td>{{ rate.buyCash }}</td>
+                <td>{{ rate.buyTransfer }}</td>
+                <td>{{ rate.sellCash }}</td>
+                <td>{{ rate.sellTransfer }}</td>
+                <td>{{ rate.time }}</td>
+              </tr>
+            </ng-container>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </ng-container>
+</div>;

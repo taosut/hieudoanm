@@ -1,0 +1,38 @@
+<ng-container *ngIf="loading">
+  <app-spinner></app-spinner>
+</ng-container>
+<ng-container *ngIf="!loading">
+  <ng-container *ngIf="!existFlag">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title text-center text-uppercase m-0">No User</h5>
+      </div>
+    </div>
+  </ng-container>
+  <ng-container *ngIf="existFlag">
+    <div class="card overflow-hidden">
+      <div class="rectangle-50 position-relative" [ngClass]="backgroundCover">
+        <div class="w-100 h-100 position-absolute d-flex justify-content-center top-50">
+          <div class="rounded-circle square bg-white w-50">
+            <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_87237.png&f=1&nofb=1" class="w-100 h-100" alt="Avatar">
+          </div>
+        </div>
+      </div>
+      <div class="rectangle-25"></div>
+      <div class="card-body">
+        <h5 class="card-title text-center text-uppercase">{{ user.name }}</h5>
+        <form [formGroup]="payForm" (ngSubmit)="pay(user.primaryEmail)">
+          <div class="input-group">
+            <div class="input-group-prepend">
+              <span class="input-group-text">VND</span>
+            </div>
+            <input type="number"  formControlName="amount" class="form-control" placeholder="Amount" aria-label="Amount" required>
+            <div class="input-group-append">
+              <button class="btn" [ngClass]="button" type="submit">Transfer</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </ng-container>
+</ng-container>

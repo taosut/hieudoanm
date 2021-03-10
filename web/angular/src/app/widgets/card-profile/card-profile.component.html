@@ -1,0 +1,43 @@
+<div class="card shadow-sm bg-white">
+  <div class="card-body">
+    <h5 class="card-title font-weight-normal">Profile</h5>
+    <div class="row">
+      <div class="col-sm-4">
+        <div class="mb-3">
+          <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_87237.png&f=1&nofb=1" alt="Profile" class="w-100 rounded">
+        </div>
+      </div>
+      <div class="col-sm-8">
+        <div class="input-group mb-3">
+          <input type="text" name="name" class="form-control" placeholder="Name" aria-label="Name" [(ngModel)]="name">
+          <div class="input-group-append">
+            <button class="btn" [ngClass]="button" type="button" (click)="updateProfile()">
+              <fa-icon [icon]="faPencilAlt"></fa-icon>
+            </button>
+          </div>
+        </div>
+        <ng-container *ngIf="year">
+          <p class="text-muted">Join in {{ year }}</p>
+        </ng-container>
+        <div class="input-group mb-3">
+          <input type="text" name="username" class="form-control" placeholder="Username" aria-label="Username" [(ngModel)]="username">
+          <div class="input-group-append">
+            <button class="btn" [ngClass]="button" type="button" (click)="updateProfile()">
+              <fa-icon [icon]="faPencilAlt"></fa-icon>
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="col-sm-12 text-right">
+        <a routerLink="/me" class="w-100 btn" [ngClass]="buttonOutline" type="button">
+          Manage
+        </a>
+        <hr class="mb-3" />
+        <button class="w-100 btn" [ngClass]="button" type="button" (click)="deleteProfile()">
+          <fa-icon [icon]="faTrash" class="mr-1"></fa-icon>
+          Close Your Account
+        </button>
+      </div>
+    </div>
+  </div>
+</div>

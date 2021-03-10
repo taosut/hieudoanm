@@ -1,0 +1,36 @@
+<div class="container pt-3 pb-3">
+  <div class="input-group mb-3">
+    <select name="period" aria-label="period" class="custom-select" [(ngModel)]="period" [disabled]="periods.length === 0" (ngModelChange)="getStockHistory()">
+      <option [value]="''">period</option>
+      <ng-container *ngIf="periods.length">
+        <ng-container *ngFor="let item of periods">
+          <option [value]="item.value">{{ item.label }}</option>
+        </ng-container>
+      </ng-container>
+    </select>
+    <select name="symbol" aria-label="symbol" class="custom-select" [(ngModel)]="symbol" [disabled]="companies.length === 0" (ngModelChange)="getStockHistory()">
+      <option [value]="''">Symbol</option>
+      <ng-container *ngIf="companies.length">
+        <ng-container *ngFor="let company of companies">
+          <option [value]="company.symbol">{{ company.symbol }} ({{ company.name }})</option>
+        </ng-container>
+      </ng-container>
+    </select>
+  </div>
+  <ng-container *ngIf="loading">
+    <app-spinner></app-spinner>
+  </ng-container>
+  <ng-container *ngIf="!loading">
+    <div class="chartjs-block">
+      <canvas baseChart
+          [datasets]="chartData"
+          [labels]="chartLabels"
+          [options]="chartOptions"
+          [colors]="chartColors"
+          [legend]="true"
+          chartType="line"
+          [plugins]="chartPlugins">
+      </canvas>
+    </div>
+  </ng-container>
+</div>

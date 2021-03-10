@@ -1,0 +1,46 @@
+name: Heroku Deploy
+
+on:
+  push:
+    paths:
+      - "web/angular/**"
+      - "web/express/**"
+      - ".github/workflows/heroku.yml"
+    branches:
+      - master
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Set up Node
+        uses: actions/setup-node@v1
+        with:
+          node-version: "14.15.4"
+      - name: Set up Yarn
+        uses: borales/actions-yarn@v2.0.0
+      - name: App - Build Express
+        working-directory: ./web/express
+        run: yarn install && yarn build
+      - name: App - Build Angular
+        working-directory: ./web/angular
+        run: yarn install && yarn build
+      - name: Heroku - Login to Container registry
+        working-directory: ./web/express
+        env:
+          HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+        run: heroku container:login
+      - name: Heroku - Build and push
+        working-directory: ./web/express
+        env:
+          HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+        run: heroku container:push web --app vietnamdb
+      - name: Heroku - Release
+        working-directory: ./web/express
+        env:
+          HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
+        run: heroku container:release web --app vietnamdb

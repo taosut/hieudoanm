@@ -1,0 +1,29 @@
+app-card-me {
+  .top-50 {
+    top: 50%;
+  }
+
+  .rectangle-25 {
+    &:after {
+      content: "";
+      display: block;
+      padding-bottom: 25%;
+    }
+  }
+
+  .rectangle-50 {
+    &:after {
+      content: "";
+      display: block;
+      padding-bottom: 50%;
+    }
+  }
+
+  .square {
+    &:after {
+      content: "";
+      display: block;
+      padding-bottom: 100%;
+    }
+  }
+}

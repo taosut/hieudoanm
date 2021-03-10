@@ -1,0 +1,7 @@
+<ul class="nav nav-pills pt-3 pb-3 d-flex justify-content-center bg-white">
+  <ng-container *ngFor="let item of items">
+    <li class="nav-item">
+      <a class="nav-link" [ngClass]="linkColor" [routerLink]="item.link">{{ item.text }}</a>
+    </li>
+  </ng-container>
+</ul>

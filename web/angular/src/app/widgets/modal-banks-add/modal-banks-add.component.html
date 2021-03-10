@@ -1,0 +1,32 @@
+<div class="modal fade" id="addBankModal" tabindex="-1" role="dialog" aria-labelledby="addBankModal" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="addBankModalTitle">Add Bank</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <form [formGroup]="addBankForm" (ngSubmit)="addBank()">
+        <div class="modal-body">
+          <div class="form-group">
+            <select class="form-control" name="code" placeholder="Code" formControlName="code" class="form-control" required>
+              <option value="">Code</option>
+              <ng-container *ngFor="let bank of banks">
+                <option [value]="bank.code">{{ bank.code }} - {{ bank.name }}</option>
+              </ng-container>
+            </select>
+          </div>
+          <div class="w-100">
+            <input type="text" name="number" placeholder="Number" formControlName="number" class="form-control" required>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <app-button type=submit [icon]="faPlus" [disabled]="addBankForm.invalid">
+            Add
+          </app-button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

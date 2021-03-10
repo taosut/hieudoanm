@@ -1,0 +1,44 @@
+<app-card-auth title="Sign In">
+  <form [formGroup]="signInForm" (ngSubmit)="signIn()">
+    <div class="form-group">
+      <input type="text" name="username" placeholder="Email Address" class="form-control" formControlName="username" required>
+    </div>
+    <div class="form-group">
+      <div class="input-group">
+        <input [type]="showPassword ? 'text' : 'password'" name="password" placeholder="Password" class="form-control" formControlName="password">
+        <div class="input-group-append">
+          <button class="btn" [ngClass]="button" type="button" (click)="toggleShowPassword()">
+            <fa-icon [icon]="showPassword ? faEye : faEyeSlash"></fa-icon>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div class="form-group">
+      <app-button type="submit" [disabled]="loading || signInForm.invalid">
+        <ng-container *ngIf="loading">
+          <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+          <span class="sr-only">Loading...</span>
+        </ng-container>
+        <ng-container *ngIf="!loading">
+          Sign In
+        </ng-container>
+      </app-button>
+    </div>
+    <hr class="mb-3">
+    <div class="w-100 text-center">
+      <div class="form-group">
+        <a [href]="googleAuthURL" class="btn form-control" [ngClass]="button">Sign In with Google</a>
+      </div>
+      <div class="form-group">
+        <a [href]="facebookAuthURL" class="btn form-control" [ngClass]="button">Sign In with Facebook</a>
+      </div>
+    </div>
+    <hr class="mb-3">
+    <div class="w-100 text-center">
+      <div class="form-group">
+        <a routerLink="/sign-up" class="btn form-control" [ngClass]="buttonOutline">Sign Up</a>
+      </div>
+      <a routerLink="/forget-password" [ngClass]="linkColor">Forget Password?</a>
+    </div>
+  </form>
+</app-card-auth>

@@ -1,0 +1,43 @@
+<div class="card bg-white">
+  <div class="card-body">
+    <h5 class="card-title font-weight-normal">Search</h5>
+    <div class="position-relative">
+      <form [formGroup]="searchForm" (ngSubmit)="search()">
+        <div class="input-group">
+          <input type="text" name="query" placeholder="@username, email, or mobile" formControlName="query" (change)="onChange()" class="form-control" required>
+          <div class="input-group-append">
+            <button type="submit" class="btn" [ngClass]="button" [disabled]="loading || searchForm.invalid">
+              <ng-container *ngIf="loading">
+                <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                <span class="sr-only">Loading...</span>
+              </ng-container>
+              <ng-container *ngIf="!loading">
+                <fa-icon [icon]="faSearch"></fa-icon>
+              </ng-container>
+            </button>
+          </div>
+        </div>
+      </form>
+      <ng-container *ngIf="completed">
+        <div class="rounded search-results shadow position-absolute mt-1 w-100">
+          <div class="list-group">
+            <ng-container *ngIf="searchResults.length === 0">
+              <div class="list-group-item">
+                <h4 class="text-center m-0">No Results</h4>
+              </div>
+            </ng-container>
+            <ng-container *ngIf="searchResults.length > 0">
+              <ng-container *ngFor="let searchResult of searchResults">
+                <div class="list-group-item">
+                  <button type="button" class="w-100 btn" [ngClass]="buttonOutline" (click)="choose(searchResult)">
+                    {{ searchResult.email }}
+                  </button>
+                </div>
+              </ng-container>
+            </ng-container>
+          </div>
+        </div>
+      </ng-container>
+    </div>
+  </div>
+</div>

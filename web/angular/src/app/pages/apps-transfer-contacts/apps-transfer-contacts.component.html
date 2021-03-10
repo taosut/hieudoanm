@@ -1,0 +1,15 @@
+<div class="container pt-3">
+  <div class="row">
+    <div class="col-sm-6">
+      <app-list-contacts></app-list-contacts>
+    </div>
+    <div class="col-sm-6">
+      <div class="mb-3">
+        <app-card-search (onSearchResultsChanged)="updateSearchResults($event)"></app-card-search>
+      </div>
+      <div class="mb-3">
+        <app-list-suggestions [suggestions]="suggestions"></app-list-suggestions>
+      </div>
+    </div>
+  </div>
+</div>

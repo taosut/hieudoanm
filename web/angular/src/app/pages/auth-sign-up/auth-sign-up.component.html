@@ -1,0 +1,34 @@
+<app-card-auth title="Sign Up">
+  <form [formGroup]="signUpForm" (ngSubmit)="signUp()">
+    <div class="form-group">
+      <input type="tel" name="phoneNumber" placeholder="Phone Number" class="form-control" formControlName="phoneNumber">
+    </div>
+    <div class="form-group">
+      <input type="email" name="email" placeholder="Email Address" class="form-control" formControlName="email">
+    </div>
+    <div class="form-group">
+      <input type="password" name="password" placeholder="Password" class="form-control" formControlName="password">
+    </div>
+    <div class="form-group">
+      <input type="password" name="confirmPassword" placeholder="Confirm Password" class="form-control" formControlName="confirmPassword">
+    </div>
+    <div class="form-group">
+      <app-button type="submit" [disabled]="loading || signUpForm.invalid">
+        <ng-container *ngIf="loading">
+          <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+          <span class="sr-only">Loading...</span>
+        </ng-container>
+        <ng-container *ngIf="!loading">
+          Sign Up
+        </ng-container>
+      </app-button>
+    </div>
+    <hr class="mb-3">
+    <div class="w-100 text-center">
+      <div class="mb-3">
+        <a routerLink="/sign-in" class="btn form-control" [ngClass]="buttonOutline">Sign In</a>
+      </div>
+      <a routerLink="/forget-password" [ngClass]="linkColor">Forget Password?</a>
+    </div>
+  </form>
+</app-card-auth>

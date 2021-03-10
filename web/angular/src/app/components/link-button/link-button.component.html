@@ -1,0 +1,10 @@
+<ng-container *ngIf="href && !routerLink">
+  <a [href]="href" class="w-100 btn" [ngClass]="buttonOutline">
+    <ng-content></ng-content>
+  </a>
+</ng-container>
+<ng-container *ngIf="!href && routerLink">
+  <a [routerLink]="routerLink"  class="w-100 btn" [ngClass]="buttonOutline">
+    <ng-content></ng-content>
+  </a>
+</ng-container>

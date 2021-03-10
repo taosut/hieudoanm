@@ -1,0 +1,22 @@
+<div class="modal fade" id="addEmailModal" tabindex="-1" role="dialog" aria-labelledby="addEmailModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="addEmailModalLabel">New Email</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <form [formGroup]="addEmailForm" (ngSubmit)="addEmail()">
+        <div class="modal-body">
+          <input type="text" name="email" placeholder="Email" formControlName="email" class="form-control" required>
+        </div>
+        <div class="modal-footer">
+          <app-button type=submit [icon]="faPlus" [disabled]="addEmailForm.invalid">
+            Add
+          </app-button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,22 @@
+<div class="modal fade" id="addPhoneNumberModal" tabindex="-1" role="dialog" aria-labelledby="addPhoneNumberModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="addPhoneNumberModalLabel">Phone Number</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <form [formGroup]="addPhoneNumberForm" (ngSubmit)="addPhoneNumber()">
+        <div class="modal-body">
+          <input type="tel" name="phoneNumber" placeholder="Phone Number" formControlName="phoneNumber" class="form-control" required>
+        </div>
+        <div class="modal-footer">
+          <app-button type=submit [icon]="faPlus" [disabled]="addPhoneNumberForm.invalid">
+            Add
+          </app-button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,29 @@
+<div class="container pt-3">
+  <ng-container *ngIf="loading">
+    <app-spinner></app-spinner>
+  </ng-container>
+  <ng-container *ngIf="!loading">
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="mb-3">
+          <app-card-profile [name]="name" [year]="year" [username]="username"></app-card-profile>
+        </div>
+      </div>
+      <div class="col-sm-6">
+        <ng-container *ngIf="primaryEmail || emails.length > 0">
+          <div class="mb-3">
+            <app-card-emails [primaryEmail]="primaryEmail" [emails]="emails"></app-card-emails>
+          </div>
+        </ng-container>
+        <ng-container *ngIf="primaryPhoneNumber || phoneNumbers.length > 0">
+          <div class="mb-3">
+            <app-card-phone-numbers [primaryPhoneNumber]="primaryPhoneNumber" [phoneNumbers]="phoneNumbers"></app-card-phone-numbers>
+          </div>
+        </ng-container>
+        <div class="mb-3">
+          <app-card-addresses [addresses]="addresses"></app-card-addresses>
+        </div>
+      </div>
+    </div>
+  </ng-container>
+</div>

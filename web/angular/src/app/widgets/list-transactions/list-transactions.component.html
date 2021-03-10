@@ -1,0 +1,50 @@
+<div class="list-group">
+  <ng-container *ngIf="loading">
+    <app-spinner></app-spinner>
+  </ng-container>
+  <ng-container *ngIf="!loading">
+    <ng-container *ngIf="transactions.length === 0">
+      <div class="list-group-item text-center">
+        <div class="p-3">
+          <h3 class="m-0 font-weight-normal">No transactions yet.</h3>
+          <p class="m-0">Want to try again with different dates?</p>
+        </div>
+      </div>
+    </ng-container>
+    <ng-container *ngIf="transactions.length > 0">
+      <ng-container *ngFor="let transaction of transactions">
+        <div class="list-group-item">
+          <div class="row">
+            <div class="col-sm-3">
+              <p class="m-0">{{ transaction.dateTime }}</p>
+            </div>
+            <div class="col-sm-6">
+              <p class="m-0">{{ transaction.description }}</p>
+              <p class="m-0"><b>{{ transaction.status }}</b></p>
+            </div>
+            <div class="col-sm-3">
+              <div class="text-right">
+                <p class="mb-3">
+                  <ng-container *ngIf="transaction.fromId === id">- </ng-container>
+                  <ng-container *ngIf="transaction.toId === id">+ </ng-container>
+                  <span>{{ transaction.amount | number }} VND</span>
+                </p>
+                <ng-container *ngIf="transaction.fromId === id && transaction.status === 'Pending'">
+                  <button type="button" class="btn btn-sm" [ngClass]="button" name="confirmTransferRequest" (click)="confirmTransferRequest(transaction.id)" [disabled]="confirmLoading">
+                    <ng-container *ngIf="confirmLoading">
+                      <span class="spinner-border spinner-border-sm" role="status" aria-hidden="true"></span>
+                      <span class="sr-only">Loading...</span>
+                    </ng-container>
+                    <ng-container *ngIf="!confirmLoading">
+                      Confirm
+                    </ng-container>
+                  </button>
+                </ng-container>
+              </div>
+            </div>
+          </div>
+        </div>
+      </ng-container>
+    </ng-container>
+  </ng-container>
+</div>

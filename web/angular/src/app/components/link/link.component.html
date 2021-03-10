@@ -1,0 +1,10 @@
+<ng-container *ngIf="href && !routerLink">
+  <a [href]="href" [ngClass]="linkColor">
+    <ng-content></ng-content>
+  </a>
+</ng-container>
+<ng-container *ngIf="!href && routerLink">
+  <a [routerLink]="routerLink" [ngClass]="linkColor">
+    <ng-content></ng-content>
+  </a>
+</ng-container>

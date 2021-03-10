@@ -1,0 +1,17 @@
+.content-height {
+  height: calc(100vh - 57px - 57px);
+}
+
+.min-content-height {
+  min-height: calc(100vh - 57px - 57px);
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+table {
+  caption {
+    caption-side: top;
+  }
+}

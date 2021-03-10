@@ -1,0 +1,6 @@
+<button [type]="type" class="w-100 btn" [ngClass]="button" (click)='click' [disabled]="disabled" [attr.data-toggle]="dataToggle" [attr.data-target]="dataTarget">
+  <ng-container *ngIf="icon">
+    <fa-icon [icon]="icon" class="mr-1"></fa-icon>
+  </ng-container>
+  <ng-content></ng-content>
+</button>

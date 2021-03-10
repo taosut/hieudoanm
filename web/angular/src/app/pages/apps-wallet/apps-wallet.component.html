@@ -1,0 +1,20 @@
+<div class="container pt-3 pb-3">
+  <div class="row">
+    <div class="col-sm-6">
+      <div class="mb-3">
+        <app-card-balance [balance]="balance"></app-card-balance>
+      </div>
+    </div>
+    <div class="col-sm-6">
+      <div class="mb-3">
+        <div class="form-group">
+          <app-button type="button" dataToggle="modal" dataTarget="#addBankModal" [icon]="faPlus">
+            <span>Add Bank</span>
+          </app-button>
+        </div>
+      </div>
+      <app-card-banks (onBalanceChanged)="updateBalance($event)" [banks]="banks"></app-card-banks>
+    </div>
+  </div>
+</div>
+<app-modal-banks-add (onBanksChanged)="updateBanks($event)"></app-modal-banks-add>

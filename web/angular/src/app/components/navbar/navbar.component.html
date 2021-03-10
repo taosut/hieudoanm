@@ -1,0 +1,63 @@
+<nav class="navbar navbar-expand-sm navbar-dark border-bottom border-light" [ngClass]="navbar">
+  <div class="container">
+    <ng-container *ngIf="!isAuthenticated">
+      <a class="navbar-brand" routerLink="/">
+        <fa-icon [icon]="faTimes"></fa-icon>
+      </a>
+    </ng-container>
+    <ng-container *ngIf="isAuthenticated">
+      <a class="navbar-brand" routerLink="/summary">
+        <fa-icon [icon]="faTimes"></fa-icon>
+      </a>
+    </ng-container>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarContent">
+      <ul class="navbar-nav mr-auto">
+        <ng-container *ngIf="isAuthenticated">
+          <ng-container *ngFor="let item of leftAppsNavItems">
+            <li class="nav-item">
+              <a [routerLink]="item.link" class="nav-link text-white">
+                <fa-icon [icon]="item.icon"></fa-icon>
+                <span class="ml-1 d-inline-block d-sm-none">{{ item.text }}</span></a>
+            </li>
+          </ng-container>
+        </ng-container>
+        <ng-container *ngFor="let item of globalAppsNavItems">
+          <li class="nav-item">
+            <a [routerLink]="item.link" class="nav-link text-white">
+              <fa-icon [icon]="item.icon"></fa-icon>
+              <span class="ml-1 d-inline-block d-sm-none">{{ item.text }}</span></a>
+          </li>
+        </ng-container>
+      </ul>
+      <ul class="navbar-nav ml-auto">
+        <ng-container *ngIf="isAuthenticated">
+          <ng-container *ngFor="let item of rightAppsNavItems">
+            <li class="nav-item">
+              <a [routerLink]="item.link" class="nav-link text-white">
+                <fa-icon [icon]="item.icon"></fa-icon>
+                <span class="ml-1 d-inline-block d-sm-none">{{ item.text }}</span></a>
+            </li>
+          </ng-container>
+          <li class="nav-item">
+            <button class="btn btn-outline-light" (click)='logOut($event)'>
+              <fa-icon [icon]="faSignOutAlt"></fa-icon>
+              <span class="ml-1 d-inline-block d-sm-none">Log Out</span>
+            </button>
+          </li>
+        </ng-container>
+        <ng-container *ngIf="!isAuthenticated">
+          <ng-container *ngFor="let item of rightBasicNavItems; let i = index">
+            <li class="nav-item ml-3">
+              <a [routerLink]="item.link" class="btn btn-outline-light">
+                <fa-icon [icon]="item.icon"></fa-icon>
+                <span class="ml-1 d-inline-block d-sm-none">{{ item.text }}</span></a>
+            </li>
+          </ng-container>
+        </ng-container>
+      </ul>
+    </div>
+  </div>
+</nav>
