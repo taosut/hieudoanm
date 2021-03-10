@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
-- Temperature is 24°C.
-- Feels Like 24.91°C.
+- Current weather is broken clouds.
+- Temperature is 23°C.
+- Feels Like 23.54°C.
 - Air Visual is 68.
 
 **WEATHER**
@@ -50,6 +50,7 @@
 
 - [![Barca vs PSG](https://img.shields.io/static/v1?label=Barca%20vs%20PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20PSG)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Cây xăng Vân Trúc](https://img.shields.io/static/v1?label=C%C3%A2y%20x%C4%83ng%20V%C3%A2n%20Tr%C3%BAc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%A2y%20x%C4%83ng%20V%C3%A2n%20Tr%C3%BAc)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Hướng dương ngược nắng tập 38](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2038&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2038)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
@@ -63,7 +64,6 @@
 - [![ROG Phone 5](https://img.shields.io/static/v1?label=ROG%20Phone%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=ROG%20Phone%205)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
-- [![Taeyeon](https://img.shields.io/static/v1?label=Taeyeon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Taeyeon)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
 - [![Yoona](https://img.shields.io/static/v1?label=Yoona&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Yoona)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chàng chăn cừu đổi 200 con cừu lấy chiếc tách pha lê, bị vợ đòi ly hôn - Chuyên gia kiểm định: Đừng lo nữa, anh phát tài rồi!](https://cafebiz.vn/chang-chan-cuu-doi-200-con-cuu-lay-chiec-tach-pha-le-bi-vo-doi-ly-hon-chuyen-gia-kiem-dinh-dung-lo-nua-anh-phat-tai-roi-2021031018011953.chn) ([CafeBiz](https://cafebiz.vn))
+- [Được bật đèn xanh, nhà mạng chạy đua cung cấp dịch vụ Mobile Money](https://cafebiz.vn/duoc-bat-den-xanh-nha-mang-chay-dua-cung-cap-dich-vu-mobile-money-20210310215601048.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuyên gia cảnh báo: 5 tác hại cho sức khoẻ khi hát karaoke "giải" rượu bia](https://cafebiz.vn/chuyen-gia-canh-bao-5-tac-hai-cho-suc-khoe-khi-hat-karaoke-giai-ruou-bia-2021031021461108.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chứng khoán: 1 phiên tăng chưa rõ xu hướng, khả năng giằng co tiếp diễn](https://laodong.vn/kinh-te/chung-khoan-1-phien-tang-chua-ro-xu-huong-kha-nang-giang-co-tiep-dien-887845.ldo) ([Lao Động](https://laodong.vn))
+- [Hai mẹ con dương tính COVID-19 khi sang Úc, Hải Phòng thông báo khẩn](https://tuoitre.vn/hai-me-con-duong-tinh-covid-19-khi-sang-uc-hai-phong-thong-bao-khan-20210310211616196.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tiến sĩ tâm lý: Hôm nay có Thơ Nguyễn, ngày mai lại có Nguyễn Thơ, rồi Thơ Nguyễn 2](https://cafebiz.vn/tien-si-tam-ly-hom-nay-co-tho-nguyen-ngay-mai-lai-co-nguyen-tho-roi-tho-nguyen-2-20210310214243339.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bảo vệ đánh người ở bệnh viện Tuyên Quang: Người trong cuộc nói gì?](https://laodong.vn/xa-hoi/bao-ve-danh-nguoi-o-benh-vien-tuyen-quang-nguoi-trong-cuoc-noi-gi-887793.ldo) ([Lao Động](https://laodong.vn))
 - [Đà Nẵng: Công an điều tra vụ nhân viên ngân chiếm dụng 800 triệu](https://laodong.vn/phap-luat/da-nang-cong-an-dieu-tra-vu-nhan-vien-ngan-chiem-dung-800-trieu-887844.ldo) ([Lao Động](https://laodong.vn))
 - [2 trẻ đuối nước dưới hố chôn cột điện: Chủ đầu tư trả lời cũng… như không](https://laodong.vn/xa-hoi/2-tre-duoi-nuoc-duoi-ho-chon-cot-dien-chu-dau-tu-tra-loi-cung-nhu-khong-887843.ldo) ([Lao Động](https://laodong.vn))
 - [Tài năng vượt xa Gia Cát Lượng, nếu nhân vật này không chết, Tào Tháo không dám xưng vương (Phần 1)](https://cafebiz.vn/tai-nang-vuot-xa-gia-cat-luong-neu-nhan-vat-nay-khong-chet-tao-thao-khong-dam-xung-vuong-phan-1-2021031017574615.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người tố cáo sai phạm metro Nhổn - ga Hà Nội từ chối làm viên chức văn phòng](https://tuoitre.vn/nguoi-to-cao-sai-pham-metro-nhon-ga-ha-noi-tu-choi-lam-vien-chuc-van-phong-20210310205312193.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hải Phòng phong tỏa nơi ở 2 ca dương tính COVID-19 khi sang Úc](https://laodong.vn/xa-hoi/hai-phong-phong-toa-noi-o-2-ca-duong-tinh-covid-19-khi-sang-uc-887842.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất hôm nay: Thông tin về hố đen siêu lớn nuốt chửng thiên hà](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-thong-tin-ve-ho-den-sieu-lon-nuot-chung-thien-ha-887788.ldo) ([Lao Động](https://laodong.vn))
-- ["Lọ Lem đời thực" Georgina: Từ nhân viên vô danh của Gucci thành hot girl quyền lực, được vào danh sách thừa hưởng khối tài sản 10 nghìn tỷ đồng của CR7](https://cafebiz.vn/lo-lem-doi-thuc-georgina-tu-nhan-vien-vo-danh-cua-gucci-thanh-hot-girl-quyen-luc-duoc-vao-danh-sach-thua-huong-khoi-tai-san-10-nghin-ty-dong-cua-cr7-2021031017544527.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quỹ Tấm lòng Vàng Lao Động dâng hương tưởng nhớ các anh hùng liệt sĩ Gạc Ma](https://laodong.vn/video/quy-tam-long-vang-lao-dong-dang-huong-tuong-nho-cac-anh-hung-liet-si-gac-ma-887840.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
