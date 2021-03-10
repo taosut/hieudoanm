@@ -22,7 +22,7 @@
 - Current weather is scattered clouds.
 - Temperature is 24°C.
 - Feels Like 24.91°C.
-- Air Visual is 83.
+- Air Visual is 68.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tiến sĩ tâm lý: Hôm nay có Thơ Nguyễn, ngày mai lại có Nguyễn Thơ, rồi Thơ Nguyễn 2](https://cafebiz.vn/tien-si-tam-ly-hom-nay-co-tho-nguyen-ngay-mai-lai-co-nguyen-tho-roi-tho-nguyen-2-20210310214243339.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bảo vệ đánh người ở bệnh viện Tuyên Quang: Người trong cuộc nói gì?](https://laodong.vn/xa-hoi/bao-ve-danh-nguoi-o-benh-vien-tuyen-quang-nguoi-trong-cuoc-noi-gi-887793.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng: Công an điều tra vụ nhân viên ngân chiếm dụng 800 triệu](https://laodong.vn/phap-luat/da-nang-cong-an-dieu-tra-vu-nhan-vien-ngan-chiem-dung-800-trieu-887844.ldo) ([Lao Động](https://laodong.vn))
+- [2 trẻ đuối nước dưới hố chôn cột điện: Chủ đầu tư trả lời cũng… như không](https://laodong.vn/xa-hoi/2-tre-duoi-nuoc-duoi-ho-chon-cot-dien-chu-dau-tu-tra-loi-cung-nhu-khong-887843.ldo) ([Lao Động](https://laodong.vn))
 - [Tài năng vượt xa Gia Cát Lượng, nếu nhân vật này không chết, Tào Tháo không dám xưng vương (Phần 1)](https://cafebiz.vn/tai-nang-vuot-xa-gia-cat-luong-neu-nhan-vat-nay-khong-chet-tao-thao-khong-dam-xung-vuong-phan-1-2021031017574615.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người tố cáo sai phạm metro Nhổn - ga Hà Nội từ chối làm viên chức văn phòng](https://tuoitre.vn/nguoi-to-cao-sai-pham-metro-nhon-ga-ha-noi-tu-choi-lam-vien-chuc-van-phong-20210310205312193.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hải Phòng phong tỏa nơi ở 2 ca dương tính COVID-19 khi sang Úc](https://laodong.vn/xa-hoi/hai-phong-phong-toa-noi-o-2-ca-duong-tinh-covid-19-khi-sang-uc-887842.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất hôm nay: Thông tin về hố đen siêu lớn nuốt chửng thiên hà](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-thong-tin-ve-ho-den-sieu-lon-nuot-chung-thien-ha-887788.ldo) ([Lao Động](https://laodong.vn))
 - ["Lọ Lem đời thực" Georgina: Từ nhân viên vô danh của Gucci thành hot girl quyền lực, được vào danh sách thừa hưởng khối tài sản 10 nghìn tỷ đồng của CR7](https://cafebiz.vn/lo-lem-doi-thuc-georgina-tu-nhan-vien-vo-danh-cua-gucci-thanh-hot-girl-quyen-luc-duoc-vao-danh-sach-thua-huong-khoi-tai-san-10-nghin-ty-dong-cua-cr7-2021031017544527.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đoàn công tác Quỹ XHTT Tấm lòng vàng Lao Động dâng hương tại Khu tưởng niệm chiến sĩ Gạc Ma](https://laodong.vn/thoi-su/doan-cong-tac-quy-xhtt-tam-long-vang-lao-dong-dang-huong-tai-khu-tuong-niem-chien-si-gac-ma-887813.ldo) ([Lao Động](https://laodong.vn))
 - [Quỹ Tấm lòng Vàng Lao Động dâng hương tưởng nhớ các anh hùng liệt sĩ Gạc Ma](https://laodong.vn/video/quy-tam-long-vang-lao-dong-dang-huong-tuong-nho-cac-anh-hung-liet-si-gac-ma-887840.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Ninh mở lại hoạt động xe khách liên tỉnh, cơ sở kinh doanh dịch vụ](https://laodong.vn/xa-hoi/quang-ninh-mo-lai-hoat-dong-xe-khach-lien-tinh-co-so-kinh-doanh-dich-vu-887832.ldo) ([Lao Động](https://laodong.vn))
-- [FLC thua kiện nhà thầu Hòa Bình, sẽ phải thanh toán số tiền hơn 276 tỷ đồng](https://cafebiz.vn/flc-thua-kien-nha-thau-hoa-binh-se-phai-thanh-toan-so-tien-hon-276-ty-dong-20210310204822402.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lời cảnh báo của chuyên gia Thái Lan 20 năm trước và thế khó của HOSE](https://cafebiz.vn/loi-canh-bao-cua-chuyen-gia-thai-lan-20-nam-truoc-va-the-kho-cua-hose-20210310204430965.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Cơ cấu cán bộ diện Trung ương quản lý ngày càng trẻ hóa'](https://vnexpress.net/co-cau-can-bo-dien-trung-uong-quan-ly-ngay-cang-tre-hoa-4246342.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
