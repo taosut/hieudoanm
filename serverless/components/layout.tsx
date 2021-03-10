@@ -1,14 +1,32 @@
 import Head from 'next/head';
 import Image from 'next/image';
 import Link from 'next/link';
+import { createUseStyles } from 'react-jss';
 
-import styles from './layout.module.scss';
 import utilStyles from '../styles/utils.module.scss';
 
 const name = 'HIEU';
 export const siteTitle = 'HIEU';
 
+const useStyles = createUseStyles({
+  container: {
+    maxWidth: '36rem',
+    padding: '0 1rem',
+    margin: '3rem auto 6rem'
+  },
+  header: {
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center'
+  },
+  backToHome: {
+    margin: '3rem 0 0'
+  }
+});
+
 export default function Layout({ children, home }) {
+  const styles = useStyles();
+
   return (
     <div className={styles.container}>
       <Head>

@@ -2,6 +2,7 @@ import { useState } from 'react';
 import Container from 'react-bootstrap/Container';
 import Table from 'react-bootstrap/Table';
 import Form from 'react-bootstrap/Form';
+import Card from 'react-bootstrap/Card';
 import fetch from 'node-fetch';
 import Head from 'next/head';
 import { createUseStyles } from 'react-jss';
@@ -41,32 +42,34 @@ export default function Languages({ languages = [] }) {
         <title>HIEU - GitHub Languages</title>
       </Head>
       <Container className="pt-3 pb-3">
-        <div className="mb-3">
-          <Form>
-            <Form.Group>
-              <Form.Label>Query</Form.Label>
-              <Form.Control type="text" placeholder="Query" onChange={filter} />
-            </Form.Group>
-          </Form>
-        </div>
-        <div className="table-container table-responsive">
-          <Table>
-            <caption className={styles.caption}>
-              GitHub Languages ({filteredLanguages.length})
-            </caption>
-            <tbody>
-              {filteredLanguages.map((item, index) => {
-                const { language, extensions } = item;
-                return (
-                  <tr key={`language-${index}`}>
-                    <td className={styles.cell}>{language}</td>
-                    <td className={styles.cell}>{extensions}</td>
-                  </tr>
-                );
-              })}
-            </tbody>
-          </Table>
-        </div>
+        <Card>
+          <Card.Body>
+            <div className="mb-3">
+              <Form>
+                <Form.Group>
+                  <Form.Label>Query</Form.Label>
+                  <Form.Control type="text" placeholder="Query" onChange={filter} />
+                </Form.Group>
+              </Form>
+            </div>
+            <div className="table-container table-responsive">
+              <Table>
+                <caption className={styles.caption}>Languages ({filteredLanguages.length})</caption>
+                <tbody>
+                  {filteredLanguages.map((item, index) => {
+                    const { language, extensions } = item;
+                    return (
+                      <tr key={`language-${index}`}>
+                        <td className={styles.cell}>{language}</td>
+                        <td className={styles.cell}>{extensions}</td>
+                      </tr>
+                    );
+                  })}
+                </tbody>
+              </Table>
+            </div>
+          </Card.Body>
+        </Card>
       </Container>
     </>
   );
