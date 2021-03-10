@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is scattered clouds.
 - Temperature is 24°C.
-- Feels Like 23.7°C.
-- Air Visual is 82.
+- Feels Like 24.91°C.
+- Air Visual is 83.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tài năng vượt xa Gia Cát Lượng, nếu nhân vật này không chết, Tào Tháo không dám xưng vương (Phần 1)](https://cafebiz.vn/tai-nang-vuot-xa-gia-cat-luong-neu-nhan-vat-nay-khong-chet-tao-thao-khong-dam-xung-vuong-phan-1-2021031017574615.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng phong tỏa nơi ở 2 ca dương tính COVID-19 khi sang Úc](https://laodong.vn/xa-hoi/hai-phong-phong-toa-noi-o-2-ca-duong-tinh-covid-19-khi-sang-uc-887842.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất hôm nay: Thông tin về hố đen siêu lớn nuốt chửng thiên hà](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-thong-tin-ve-ho-den-sieu-lon-nuot-chung-thien-ha-887788.ldo) ([Lao Động](https://laodong.vn))
 - ["Lọ Lem đời thực" Georgina: Từ nhân viên vô danh của Gucci thành hot girl quyền lực, được vào danh sách thừa hưởng khối tài sản 10 nghìn tỷ đồng của CR7](https://cafebiz.vn/lo-lem-doi-thuc-georgina-tu-nhan-vien-vo-danh-cua-gucci-thanh-hot-girl-quyen-luc-duoc-vao-danh-sach-thua-huong-khoi-tai-san-10-nghin-ty-dong-cua-cr7-2021031017544527.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đoàn công tác Quỹ XHTT Tấm lòng vàng Lao Động dâng hương tại Khu tưởng niệm chiến sĩ Gạc Ma](https://laodong.vn/thoi-su/doan-cong-tac-quy-xhtt-tam-long-vang-lao-dong-dang-huong-tai-khu-tuong-niem-chien-si-gac-ma-887813.ldo) ([Lao Động](https://laodong.vn))
 - [Quỹ Tấm lòng Vàng Lao Động dâng hương tưởng nhớ các anh hùng liệt sĩ Gạc Ma](https://laodong.vn/video/quy-tam-long-vang-lao-dong-dang-huong-tuong-nho-cac-anh-hung-liet-si-gac-ma-887840.ldo) ([Lao Động](https://laodong.vn))
 - [Quảng Ninh mở lại hoạt động xe khách liên tỉnh, cơ sở kinh doanh dịch vụ](https://laodong.vn/xa-hoi/quang-ninh-mo-lai-hoat-dong-xe-khach-lien-tinh-co-so-kinh-doanh-dich-vu-887832.ldo) ([Lao Động](https://laodong.vn))
-- [Tỉ phú Elon Musk giải thích lý do nguyên mẫu tàu vũ trụ SpaceX nổ tung](https://laodong.vn/the-gioi/ti-phu-elon-musk-giai-thich-ly-do-nguyen-mau-tau-vu-tru-spacex-no-tung-887776.ldo) ([Lao Động](https://laodong.vn))
-- [Công an tỉnh Thanh Hoá nói gì về việc mai táng nạn nhân TNGT trong đêm](https://laodong.vn/phap-luat/cong-an-tinh-thanh-hoa-noi-gi-ve-viec-mai-tang-nan-nhan-tngt-trong-dem-887837.ldo) ([Lao Động](https://laodong.vn))
 - [FLC thua kiện nhà thầu Hòa Bình, sẽ phải thanh toán số tiền hơn 276 tỷ đồng](https://cafebiz.vn/flc-thua-kien-nha-thau-hoa-binh-se-phai-thanh-toan-so-tien-hon-276-ty-dong-20210310204822402.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lời cảnh báo của chuyên gia Thái Lan 20 năm trước và thế khó của HOSE](https://cafebiz.vn/loi-canh-bao-cua-chuyen-gia-thai-lan-20-nam-truoc-va-the-kho-cua-hose-20210310204430965.chn) ([CafeBiz](https://cafebiz.vn))
 - ['Cơ cấu cán bộ diện Trung ương quản lý ngày càng trẻ hóa'](https://vnexpress.net/co-cau-can-bo-dien-trung-uong-quan-ly-ngay-cang-tre-hoa-4246342.html) ([VNExpress](https://vnexpress.net))
-- [Vì sao danh hiệu Cúp Quốc gia ngày càng có giá?](https://laodong.vn/video/vi-sao-danh-hieu-cup-quoc-gia-ngay-cang-co-gia-887781.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -134,9 +134,9 @@
 02. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 03. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 04. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
-05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-06. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-07. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+05. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+07. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 08. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 09. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
 10. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
