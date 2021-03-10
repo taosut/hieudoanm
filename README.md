@@ -54,12 +54,9 @@
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
+- [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
-- [![Lịch C1](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20C1)
-- [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
-- [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
-- [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
 - [![Nancy](https://img.shields.io/static/v1?label=Nancy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nancy)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
 - [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
@@ -67,7 +64,10 @@
 - [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![Taeyeon](https://img.shields.io/static/v1?label=Taeyeon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Taeyeon)
+- [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
+- [![Yoona](https://img.shields.io/static/v1?label=Yoona&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Yoona)
+- [![Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20V%C4%83n%20N%C6%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Trong tháng 4.2021 sẽ đấu thầu đoạn cao tốc Nghi Sơn-Diễn Châu](https://laodong.vn/xa-hoi/trong-thang-42021-se-dau-thau-doan-cao-toc-nghi-son-dien-chau-887603.ldo) ([Lao Động](https://laodong.vn))
-- [Nghị quyết &quot;Thuận thiên&quot;: Hóa giải thách thức, phát triển bền vững ĐBSCL](https://laodong.vn/moi-truong/nghi-quyet-thuan-thien-hoa-giai-thach-thuc-phat-trien-ben-vung-dbscl-887585.ldo) ([Lao Động](https://laodong.vn))
+- [Công dân đầu tiên có 'hộ chiếu vắc xin' về nước.](https://tuoitre.vn/cong-dan-dau-tien-co-ho-chieu-vac-xin-ve-nuoc-20210310112346323.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [LĐLĐ TPHCM: Triển khai công tác tuyên giáo năm 2021](https://laodong.vn/ldld-tphcm/ldld-tphcm-trien-khai-cong-tac-tuyen-giao-nam-2021-887612.ldo) ([Lao Động](https://laodong.vn))
+- [Đại tá Đinh Văn Nơi và “viên đạn bọc tiền 20 tỉ”](https://laodong.vn/su-kien-binh-luan/dai-ta-dinh-van-noi-va-vien-dan-boc-tien-20-ti-887535.ldo) ([Lao Động](https://laodong.vn))
+- [CĐ Xây dựng Việt Nam: Triển khi thực hiện Bộ luật Lao động 2019](https://laodong.vn/cd-xay-dung/cd-xay-dung-viet-nam-trien-khi-thuc-hien-bo-luat-lao-dong-2019-887586.ldo) ([Lao Động](https://laodong.vn))
+- [Công đoàn Điện Biên với công tác thực hiện an toàn giao thông năm 2021](https://laodong.vn/ldld-dien-bien/cong-doan-dien-bien-voi-cong-tac-thuc-hien-an-toan-giao-thong-nam-2021-887575.ldo) ([Lao Động](https://laodong.vn))
+- [Viettel chỉ được đón 2.000 khán giả/trận ở sân Hàng Đẫy](https://laodong.vn/bong-da/viettel-chi-duoc-don-2000-khan-giatran-o-san-hang-day-887605.ldo) ([Lao Động](https://laodong.vn))
+- [Nguyên phó ban đường sắt đô thị bị phân công về tổ giúp việc](https://vnexpress.net/nguyen-pho-ban-duong-sat-do-thi-bi-phan-cong-ve-to-giup-viec-4245111.html) ([VNExpress](https://vnexpress.net))
 - [Bản tin 1 phút: Thực hư cách chữa bệnh nan y của &quot;thần y&quot; Võ Hoàng Yên?](https://laodong.vn/video/ban-tin-1-phut-thuc-hu-cach-chua-benh-nan-y-cua-than-y-vo-hoang-yen-887597.ldo) ([Lao Động](https://laodong.vn))
-- [HOSE nghẽn lệnh, công nghệ Việt xử lý được trong 3 tháng?](https://laodong.vn/kinh-te/hose-nghen-lenh-cong-nghe-viet-xu-ly-duoc-trong-3-thang-887426.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng: Tường trường cấp 2 nứt nghiêng, nguy hiểm ngõ dân sinh](https://laodong.vn/ban-doc/hai-phong-tuong-truong-cap-2-nut-nghieng-nguy-hiem-ngo-dan-sinh-887564.ldo) ([Lao Động](https://laodong.vn))
 - ["Đại tiểu thư nhà họ Cao" đang gây bão màn ảnh Việt: Gương mặt vàng của VTV và các nhãn hàng, thành công từ diễn xuất đến đời thực nhưng cực kỳ kín tiếng chuyện riêng tư](https://cafebiz.vn/dai-tieu-thu-nha-ho-cao-dang-gay-bao-man-anh-viet-guong-mat-vang-cua-vtv-va-cac-nhan-hang-thanh-cong-tu-dien-xuat-den-doi-thuc-nhung-cuc-ky-kin-tieng-chuyen-rieng-tu-20210310122240642.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mobile Money chính thức được triển khai, thị trường dịch vụ thanh toán Việt Nam sẽ thay đổi ra sao?](https://cafebiz.vn/mobile-money-chinh-thuc-duoc-trien-khai-thi-truong-dich-vu-thanh-toan-viet-nam-se-thay-doi-ra-sao-20210310121707614.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dân đi làm căn cước công dân gắn chíp cần chuẩn bị gì](http://vietnamnet.vn/vn/thoi-su/nguoi-dan-di-lam-can-cuoc-cong-dan-gan-chip-can-chuan-bi-gi-718560.html) ([VietNamNet](https://vietnamnet.vn))
-- [Dự án xử lý điểm đen tai nạn chậm tiến độ](https://vnexpress.net/du-an-xu-ly-diem-den-tai-nan-cham-tien-do-4246214.html) ([VNExpress](https://vnexpress.net))
-- [TPHCM: Tài xế ngơ ngác khi bị CSGT tuýt còi khi vừa đi qua hầm Thủ Thiêm](https://laodong.vn/video-thoi-su/tphcm-tai-xe-ngo-ngac-khi-bi-csgt-tuyt-coi-khi-vua-di-qua-ham-thu-thiem-887563.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
