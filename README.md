@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is few clouds.
 - Temperature is 26°C.
-- Feels Like 24.51°C.
+- Feels Like 24.87°C.
 - Air Visual is 75.
 
 **WEATHER**
@@ -58,7 +58,7 @@
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![Nguyễn Phương Hằng Dũng lò vôi](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Ph%C6%B0%C6%A1ng%20H%E1%BA%B1ng%20D%C5%A9ng%20l%C3%B2%20v%C3%B4i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Ph%C6%B0%C6%A1ng%20H%E1%BA%B1ng%20D%C5%A9ng%20l%C3%B2%20v%C3%B4i)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
-- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
 - [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Thủ tướng Chính phủ chỉ đạo kiểm tra xử lý vụ phá rừng Suối Tân, Khánh Hòa](https://laodong.vn/xa-hoi/thu-tuong-chinh-phu-chi-dao-kiem-tra-xu-ly-vu-pha-rung-suoi-tan-khanh-hoa-887777.ldo) ([Lao Động](https://laodong.vn))
+- [New Zealand đánh giá cao các kết quả Việt Nam thực hiện mục tiêu &quot;kép&quot;](https://laodong.vn/thoi-su/new-zealand-danh-gia-cao-cac-ket-qua-viet-nam-thuc-hien-muc-tieu-kep-887753.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam-Singapore nhất trí hợp tác tiếp cận vaccine COVID-19 an toàn](https://laodong.vn/thoi-su/viet-nam-singapore-nhat-tri-hop-tac-tiep-can-vaccine-covid-19-an-toan-887758.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam-Lào-Campuchia nhất trí duy trì hòa bình ở Biển Đông](https://laodong.vn/thoi-su/viet-nam-lao-campuchia-nhat-tri-duy-tri-hoa-binh-o-bien-dong-887749.ldo) ([Lao Động](https://laodong.vn))
+- [Thêm 3 ca mắc mới COVID-19, trong đó 1 ca ở Hải Dương](https://cafebiz.vn/them-3-ca-mac-moi-covid-19-trong-do-1-ca-o-hai-duong-20210310182624.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bình Định: Nguyên Phó Bí thư Tỉnh đoàn làm Chủ tịch huyện](https://laodong.vn/xa-hoi/binh-dinh-nguyen-pho-bi-thu-tinh-doan-lam-chu-tich-huyen-887735.ldo) ([Lao Động](https://laodong.vn))
 - [Thanh niên chạy ô tô loạn xạ trên đường rồi cầm dao cố thủ trong xe](https://tuoitre.vn/thanh-nien-chay-o-to-loan-xa-tren-duong-roi-cam-dao-co-thu-trong-xe-20210310165836179.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cuộc sống hạnh phúc của NSND Tự Long bên người vợ xinh đẹp kém 12 tuổi](https://laodong.vn/chuyen-nha-minh/cuoc-song-hanh-phuc-cua-nsnd-tu-long-ben-nguoi-vo-xinh-dep-kem-12-tuoi-887710.ldo) ([Lao Động](https://laodong.vn))
 - [HSBC hạ dự báo tăng trưởng GDP Việt Nam năm 2021 từ 7,6% xuống 7%, tỷ lệ lạm phát 3%](https://cafebiz.vn/hsbc-ha-du-bao-tang-truong-gdp-viet-nam-nam-2021-tu-76-xuong-7-ty-le-lam-phat-3-20210310173334895.chn) ([CafeBiz](https://cafebiz.vn))
-- [EU đặt ra các mục tiêu phát triển kỹ thuật số đến năm 2030](https://laodong.vn/the-gioi/eu-dat-ra-cac-muc-tieu-phat-trien-ky-thuat-so-den-nam-2030-887702.ldo) ([Lao Động](https://laodong.vn))
 - [Cựu cán bộ và sinh viên ĐH Bách Khoa góp vốn lập quỹ đầu tư startup: Mục tiêu quy mô 10 triệu USD](https://cafebiz.vn/cuu-can-bo-va-sinh-vien-dh-bach-khoa-gop-von-lap-quy-dau-tu-startup-muc-tieu-quy-mo-10-trieu-usd-20210310172123692.chn) ([CafeBiz](https://cafebiz.vn))
 - [4 xu hướng công nghệ các doanh nghiệp cần có trong năm 2021 để đối phó với “bình thường mới”](https://cafebiz.vn/4-xu-huong-cong-nghe-cac-doanh-nghiep-can-co-trong-nam-2021-de-doi-pho-voi-binh-thuong-moi-20210310153034395.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bệnh nhân mắc COVID-19: Kiểm soát tâm trạng để chiến thắng bệnh dịch](https://laodong.vn/xa-hoi/benh-nhan-mac-covid-19-kiem-soat-tam-trang-de-chien-thang-benh-dich-887708.ldo) ([Lao Động](https://laodong.vn))
-- [Đắk Lắk trao thưởng cho những cá nhân, tập thể hiến kế xây dựng quê hương](https://laodong.vn/xa-hoi/dak-lak-trao-thuong-cho-nhung-ca-nhan-tap-the-hien-ke-xay-dung-que-huong-887755.ldo) ([Lao Động](https://laodong.vn))
-- [10 năm thảm họa Fukushima: Những nỗ lực hồi sinh vùng đất chết](https://laodong.vn/the-gioi/10-nam-tham-hoa-fukushima-nhung-no-luc-hoi-sinh-vung-dat-chet-887650.ldo) ([Lao Động](https://laodong.vn))
-- [Học sinh lớp 8 bị đánh hội đồng ngay trước cổng trường, phải nhập viện cấp cứu](https://tuoitre.vn/hoc-sinh-lop-8-bi-danh-hoi-dong-ngay-truoc-cong-truong-phai-nhap-vien-cap-cuu-20210310165703.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
