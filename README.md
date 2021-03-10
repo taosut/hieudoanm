@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 22°C.
-- Feels Like 24.02°C.
-- Air Visual is 84.
+- Temperature is 23°C.
+- Feels Like 24.81°C.
+- Air Visual is 97.
 
 **WEATHER**
 
@@ -61,9 +61,9 @@
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
-- [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
+- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
-- [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![Taeyeon](https://img.shields.io/static/v1?label=Taeyeon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Taeyeon)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [20 dấu hiệu cho thấy bạn sẽ trở thành một người “tiền vào như nước”: Không hài lòng với điểm B, không hút thuốc, mặt dày…](https://cafebiz.vn/20-dau-hieu-cho-thay-ban-se-tro-thanh-mot-nguoi-tien-vao-nhu-nuoc-khong-hai-long-voi-diem-b-khong-hut-thuoc-mat-day-20210308181433575.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phân hạng giáo viên là không phù hợp với thực tế](https://laodong.vn/ban-doc/phan-hang-giao-vien-la-khong-phu-hop-voi-thuc-te-887500.ldo) ([Lao Động](https://laodong.vn))
-- [Lấy khỉ nhà để dụ bắt con khỉ vàng quý hiếm “đại náo” khu dân cư](https://laodong.vn/xa-hoi/lay-khi-nha-de-du-bat-con-khi-vang-quy-hiem-dai-nao-khu-dan-cu-887506.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng tiếp tục cưỡng chế công trình vi phạm của Mường Thanh](https://tuoitre.vn/da-nang-tiep-tuc-cuong-che-cong-trinh-vi-pham-cua-muong-thanh-20210310071131972.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hướng dương ngược nắng tập 39: Kiên hả hê khi thấy bà Cúc đau khổ](https://laodong.vn/giai-tri/huong-duong-nguoc-nang-tap-39-kien-ha-he-khi-thay-ba-cuc-dau-kho-887482.ldo) ([Lao Động](https://laodong.vn))
-- [3 bộ phim Hàn Quốc đặc biệt được sản xuất bởi các nữ đạo diễn](https://laodong.vn/giai-tri/3-bo-phim-han-quoc-dac-biet-duoc-san-xuat-boi-cac-nu-dao-dien-887357.ldo) ([Lao Động](https://laodong.vn))
-- [Khát khao sở hữu mảnh đất trên đảo Phú Quốc](https://cafebiz.vn/khat-khao-so-huu-manh-dat-tren-dao-phu-quoc-202103091659348.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vận hội mới của bất động sản Long An](https://cafebiz.vn/van-hoi-moi-cua-bat-dong-san-long-an-20210309151846635.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tọa đàm: “Những điểm ưu việt của bộ SGK lớp 2, lớp 6 xã hội hóa đầu tiên&quot;](https://laodong.vn/giao-duc/toa-dam-nhung-diem-uu-viet-cua-bo-sgk-lop-2-lop-6-xa-hoi-hoa-dau-tien-887466.ldo) ([Lao Động](https://laodong.vn))
-- [Thanh Hóa: Vẻ đẹp đầy hoang sơ, tĩnh lặng bên dòng thác Ma Hao](https://laodong.vn/photo/thanh-hoa-ve-dep-day-hoang-so-tinh-lang-ben-dong-thac-ma-hao-887191.ldo) ([Lao Động](https://laodong.vn))
+- [Sau tiêm vắc-xin Covid-19, nhiều người phản ứng thường, 2 người có phản vệ độ 2](https://cafebiz.vn/sau-tiem-vac-xin-covid-19-nhieu-nguoi-phan-ung-thuong-2-nguoi-co-phan-ve-do-2-20210310090630764.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kế hoạch năm Covid thứ 2 của Starbucks Việt Nam: Tìm đến nguồn khách nội nhiều hơn, vươn đến các quận mới thay vì co cụm quận trung tâm](https://cafebiz.vn/ke-hoach-nam-covid-thu-2-cua-starbucks-viet-nam-tim-den-nguon-khach-noi-nhieu-hon-vuon-den-cac-quan-moi-thay-vi-co-cum-quan-trung-tam-2021030922224757.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nữ thủ quỹ xinh đẹp làm thủ tục cho khách vay tiền xong mang đi đánh bạc](https://cafebiz.vn/nu-thu-quy-xinh-dep-lam-thu-tuc-cho-khach-vay-tien-xong-mang-di-danh-bac-20210310090538919.chn) ([CafeBiz](https://cafebiz.vn))
+- [23.000 học sinh tư thục ở TP HCM được hỗ trợ học phí?](https://cafebiz.vn/23000-hoc-sinh-tu-thuc-o-tp-hcm-duoc-ho-tro-hoc-phi-20210310085909175.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bá đạo như Elon Musk: Không xin được việc ở đâu nên đành tự mở công ty](https://cafebiz.vn/ba-dao-nhu-elon-musk-khong-xin-duoc-viec-o-dau-nen-danh-tu-mo-cong-ty-20210309164110428.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giúp Foxconn kiếm hàng chục tỷ USD mỗi năm nhưng bị đuổi việc chỉ vì nghỉ một ngày, người đàn ông này tự ra thành lập công ty riêng và thành công vang dội](https://cafebiz.vn/giup-foxconn-kiem-hang-chuc-ty-usd-moi-nam-nhung-bi-duoi-viec-chi-vi-nghi-mot-ngay-nguoi-dan-ong-nay-tu-ra-thanh-lap-cong-ty-rieng-va-thanh-cong-vang-doi-20210310085148136.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hoàng gia Anh không thể im lặng về cuộc phỏng vấn của vợ chồng Hoàng tử Harry](https://cafebiz.vn/hoang-gia-anh-khong-the-im-lang-ve-cuoc-phong-van-cua-vo-chong-hoang-tu-harry-20210310085235124.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất](https://laodong.vn/bat-dong-san/thoi-han-su-dung-dat-khi-chuyen-muc-dich-su-dung-dat-887058.ldo) ([Lao Động](https://laodong.vn))
+- [“Tết chuồng trâu” ở Kon Plông, bắc Tây Nguyên](https://laodong.vn/xa-hoi/tet-chuong-trau-o-kon-plong-bac-tay-nguyen-887474.ldo) ([Lao Động](https://laodong.vn))
+- [Đàn ông kết hôn với phụ nữ khác quốc tịch có hạnh phúc hơn?](https://laodong.vn/chuyen-nha-minh/dan-ong-ket-hon-voi-phu-nu-khac-quoc-tich-co-hanh-phuc-hon-887244.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
