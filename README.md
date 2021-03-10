@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 23.7°C.
-- Air Visual is 78.
+- Air Visual is 82.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Lời cảnh báo của chuyên gia Thái Lan 20 năm trước và thế khó của HOSE](https://cafebiz.vn/loi-canh-bao-cua-chuyen-gia-thai-lan-20-nam-truoc-va-the-kho-cua-hose-20210310204430965.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Cơ cấu cán bộ diện Trung ương quản lý ngày càng trẻ hóa'](https://vnexpress.net/co-cau-can-bo-dien-trung-uong-quan-ly-ngay-cang-tre-hoa-4246342.html) ([VNExpress](https://vnexpress.net))
+- [Hưng Yên: Từ ngày 10.3, các di tích lịch sử mở cửa đón khách](https://laodong.vn/xa-hoi/hung-yen-tu-ngay-103-cac-di-tich-lich-su-mo-cua-don-khach-887831.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao danh hiệu Cúp Quốc gia ngày càng có giá?](https://laodong.vn/video/vi-sao-danh-hieu-cup-quoc-gia-ngay-cang-co-gia-887781.ldo) ([Lao Động](https://laodong.vn))
+- [Kiên Giang: Ôtô tông dải phân cách, lật giữa đường](https://laodong.vn/xa-hoi/kien-giang-oto-tong-dai-phan-cach-lat-giua-duong-887830.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt đối tượng liên quan đường dây đưa người Trung Quốc nhập cảnh](https://laodong.vn/phap-luat/bat-doi-tuong-lien-quan-duong-day-dua-nguoi-trung-quoc-nhap-canh-887818.ldo) ([Lao Động](https://laodong.vn))
 - [Sản xuất ô tô truyền thống đã qua thời hoàng kim, tại sao Nhật Bản vẫn chần chừ khi bước vào thị trường xe điện?](https://cafebiz.vn/san-xuat-o-to-truyen-thong-da-qua-thoi-hoang-kim-tai-sao-nhat-ban-van-chan-chu-khi-buoc-vao-thi-truong-xe-dien-20210310195211533.chn) ([CafeBiz](https://cafebiz.vn))
 - [Huấn luyện viên Park Hang-seo &quot;đột kích&quot; buổi tập của Hà Nội](https://laodong.vn/bong-da/huan-luyen-vien-park-hang-seo-dot-kich-buoi-tap-cua-ha-noi-887825.ldo) ([Lao Động](https://laodong.vn))
 - [Cảnh báo tình trạng lừa đảo vắc xin ngừa COVID-19](https://tuoitre.vn/canh-bao-tinh-trang-lua-dao-vac-xin-ngua-covid-19-20210310192819798.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Đặng Thu Huyền, &quot;thế giới bên ngoài&quot; có gì hấp dẫn vậy?](https://laodong.vn/bong-da/dang-thu-huyen-the-gioi-ben-ngoai-co-gi-hap-dan-vay-887645.ldo) ([Lao Động](https://laodong.vn))
-- [HSBC đưa ra nhiều dự báo về định hướng chính sách tiền tệ, lạm phát và tăng trưởng GDP Việt Nam](https://cafebiz.vn/hsbc-dua-ra-nhieu-du-bao-ve-dinh-huong-chinh-sach-tien-te-lam-phat-va-tang-truong-gdp-viet-nam-20210310185628025.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tai nạn liên hoàn, 2 phụ nữ bị thương nặng, quốc lộ 51 ùn ứ kéo dài](https://tuoitre.vn/tai-nan-lien-hoan-2-phu-nu-bi-thuong-nang-quoc-lo-51-un-u-keo-dai-20210310190319996.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thừa Thiên Huế tiếp tục tìm kiếm 11 công nhân mất tích](https://vnexpress.net/thua-thien-hue-tiep-tuc-tim-kiem-11-cong-nhan-mat-tich-4246567.html) ([VNExpress](https://vnexpress.net))
-- [Ai cũng thấy Coca và Pepsi vị khác nhau nhưng không rõ vì sao? Sự khác biệt gây “chia rẽ 2 nửa thế giới” thật ra chỉ do một bí mật đơn giản](https://cafebiz.vn/ai-cung-thay-coca-va-pepsi-vi-khac-nhau-nhung-khong-ro-vi-sao-su-khac-biet-gay-chia-re-2-nua-the-gioi-that-ra-chi-do-mot-bi-mat-don-gian-20210310175148255.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Dương chốt 3 môn thi vào lớp 10 THPT](https://laodong.vn/giao-duc/hai-duong-chot-3-mon-thi-vao-lop-10-thpt-887811.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng đề xuất xây sân bay thứ 2 vùng Thủ đô ở Tiên Lãng](https://cafebiz.vn/hai-phong-de-xuat-xay-san-bay-thu-2-vung-thu-do-o-tien-lang-20210310185257399.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
