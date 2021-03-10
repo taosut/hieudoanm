@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Thanh niên chạy ô tô loạn xạ trên đường rồi cầm dao cố thủ trong xe](https://tuoitre.vn/thanh-nien-chay-o-to-loan-xa-tren-duong-roi-cam-dao-co-thu-trong-xe-20210310165836179.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Cuộc sống hạnh phúc của NSND Tự Long bên người vợ xinh đẹp kém 12 tuổi](https://laodong.vn/chuyen-nha-minh/cuoc-song-hanh-phuc-cua-nsnd-tu-long-ben-nguoi-vo-xinh-dep-kem-12-tuoi-887710.ldo) ([Lao Động](https://laodong.vn))
+- [HSBC hạ dự báo tăng trưởng GDP Việt Nam năm 2021 từ 7,6% xuống 7%, tỷ lệ lạm phát 3%](https://cafebiz.vn/hsbc-ha-du-bao-tang-truong-gdp-viet-nam-nam-2021-tu-76-xuong-7-ty-le-lam-phat-3-20210310173334895.chn) ([CafeBiz](https://cafebiz.vn))
+- [EU đặt ra các mục tiêu phát triển kỹ thuật số đến năm 2030](https://laodong.vn/the-gioi/eu-dat-ra-cac-muc-tieu-phat-trien-ky-thuat-so-den-nam-2030-887702.ldo) ([Lao Động](https://laodong.vn))
+- [Cựu cán bộ và sinh viên ĐH Bách Khoa góp vốn lập quỹ đầu tư startup: Mục tiêu quy mô 10 triệu USD](https://cafebiz.vn/cuu-can-bo-va-sinh-vien-dh-bach-khoa-gop-von-lap-quy-dau-tu-startup-muc-tieu-quy-mo-10-trieu-usd-20210310172123692.chn) ([CafeBiz](https://cafebiz.vn))
 - [4 xu hướng công nghệ các doanh nghiệp cần có trong năm 2021 để đối phó với “bình thường mới”](https://cafebiz.vn/4-xu-huong-cong-nghe-cac-doanh-nghiep-can-co-trong-nam-2021-de-doi-pho-voi-binh-thuong-moi-20210310153034395.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bệnh nhân mắc COVID-19: Kiểm soát tâm trạng để chiến thắng bệnh dịch](https://laodong.vn/xa-hoi/benh-nhan-mac-covid-19-kiem-soat-tam-trang-de-chien-thang-benh-dich-887708.ldo) ([Lao Động](https://laodong.vn))
 - [Đắk Lắk trao thưởng cho những cá nhân, tập thể hiến kế xây dựng quê hương](https://laodong.vn/xa-hoi/dak-lak-trao-thuong-cho-nhung-ca-nhan-tap-the-hien-ke-xay-dung-que-huong-887755.ldo) ([Lao Động](https://laodong.vn))
 - [10 năm thảm họa Fukushima: Những nỗ lực hồi sinh vùng đất chết](https://laodong.vn/the-gioi/10-nam-tham-hoa-fukushima-nhung-no-luc-hoi-sinh-vung-dat-chet-887650.ldo) ([Lao Động](https://laodong.vn))
 - [Học sinh lớp 8 bị đánh hội đồng ngay trước cổng trường, phải nhập viện cấp cứu](https://tuoitre.vn/hoc-sinh-lop-8-bi-danh-hoi-dong-ngay-truoc-cong-truong-phai-nhap-vien-cap-cuu-20210310165703.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [3 kịch bản định hướng phục hồi du lịch Khánh Hòa trong năm 2021](https://laodong.vn/kinh-te/3-kich-ban-dinh-huong-phuc-hoi-du-lich-khanh-hoa-trong-nam-2021-887746.ldo) ([Lao Động](https://laodong.vn))
-- [Lá đu đủ có ích cho sức khỏe hơn bạn nghĩ](https://laodong.vn/suc-khoe/la-du-du-co-ich-cho-suc-khoe-hon-ban-nghi-887625.ldo) ([Lao Động](https://laodong.vn))
-- [Tesla bốc hơi 300 tỷ USD giá trị thị trường do đầu cơ Bitcoin?](https://cafebiz.vn/tesla-boc-hoi-300-ty-usd-gia-tri-thi-truong-do-dau-co-bitcoin-2021031016124422.chn) ([CafeBiz](https://cafebiz.vn))
-- [Daphale Studios truyền cảm hứng đến phái đẹp, tự tin khoe cá tính](https://cafebiz.vn/daphale-studios-truyen-cam-hung-den-phai-dep-tu-tin-khoe-ca-tinh-20210310155526117.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Nữ tướng' đưa Daikin Việt Nam vượt “cơn bão” đe dọa doanh nghiệp toàn cầu](https://cafebiz.vn/nu-tuong-dua-daikin-viet-nam-vuot-con-bao-de-doa-doanh-nghiep-toan-cau-2021031015190748.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -121,8 +121,8 @@
 06. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 07. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 08. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-09. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
-10. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
+09. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
+10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
