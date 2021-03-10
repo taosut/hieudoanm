@@ -58,7 +58,7 @@
 - [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
-- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
 - [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Sản xuất ô tô truyền thống đã qua thời hoàng kim, tại sao Nhật Bản vẫn chần chừ khi bước vào thị trường xe điện?](https://cafebiz.vn/san-xuat-o-to-truyen-thong-da-qua-thoi-hoang-kim-tai-sao-nhat-ban-van-chan-chu-khi-buoc-vao-thi-truong-xe-dien-20210310195211533.chn) ([CafeBiz](https://cafebiz.vn))
+- [Huấn luyện viên Park Hang-seo &quot;đột kích&quot; buổi tập của Hà Nội](https://laodong.vn/bong-da/huan-luyen-vien-park-hang-seo-dot-kich-buoi-tap-cua-ha-noi-887825.ldo) ([Lao Động](https://laodong.vn))
+- [Cảnh báo tình trạng lừa đảo vắc xin ngừa COVID-19](https://tuoitre.vn/canh-bao-tinh-trang-lua-dao-vac-xin-ngua-covid-19-20210310192819798.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Đặng Thu Huyền, &quot;thế giới bên ngoài&quot; có gì hấp dẫn vậy?](https://laodong.vn/bong-da/dang-thu-huyen-the-gioi-ben-ngoai-co-gi-hap-dan-vay-887645.ldo) ([Lao Động](https://laodong.vn))
+- [HSBC đưa ra nhiều dự báo về định hướng chính sách tiền tệ, lạm phát và tăng trưởng GDP Việt Nam](https://cafebiz.vn/hsbc-dua-ra-nhieu-du-bao-ve-dinh-huong-chinh-sach-tien-te-lam-phat-va-tang-truong-gdp-viet-nam-20210310185628025.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tai nạn liên hoàn, 2 phụ nữ bị thương nặng, quốc lộ 51 ùn ứ kéo dài](https://tuoitre.vn/tai-nan-lien-hoan-2-phu-nu-bi-thuong-nang-quoc-lo-51-un-u-keo-dai-20210310190319996.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thừa Thiên Huế tiếp tục tìm kiếm 11 công nhân mất tích](https://vnexpress.net/thua-thien-hue-tiep-tuc-tim-kiem-11-cong-nhan-mat-tich-4246567.html) ([VNExpress](https://vnexpress.net))
 - [Ai cũng thấy Coca và Pepsi vị khác nhau nhưng không rõ vì sao? Sự khác biệt gây “chia rẽ 2 nửa thế giới” thật ra chỉ do một bí mật đơn giản](https://cafebiz.vn/ai-cung-thay-coca-va-pepsi-vi-khac-nhau-nhung-khong-ro-vi-sao-su-khac-biet-gay-chia-re-2-nua-the-gioi-that-ra-chi-do-mot-bi-mat-don-gian-20210310175148255.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Dương chốt 3 môn thi vào lớp 10 THPT](https://laodong.vn/giao-duc/hai-duong-chot-3-mon-thi-vao-lop-10-thpt-887811.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng đề xuất xây sân bay thứ 2 vùng Thủ đô ở Tiên Lãng](https://cafebiz.vn/hai-phong-de-xuat-xay-san-bay-thu-2-vung-thu-do-o-tien-lang-20210310185257399.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nóng nhất 24h: Ông Dũng “lò vôi” không uống thuốc của ông Võ Hoàng Yên](https://laodong.vn/video/nong-nhat-24h-ong-dung-lo-voi-khong-uong-thuoc-cua-ong-vo-hoang-yen-887739.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 11.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-113-887521.ldo) ([Lao Động](https://laodong.vn))
-- [Khán giả phản ứng trái chiều xung quanh bộ phim “Bố già” của Trấn Thành](https://laodong.vn/giai-tri/khan-gia-phan-ung-trai-chieu-xung-quanh-bo-phim-bo-gia-cua-tran-thanh-887805.ldo) ([Lao Động](https://laodong.vn))
-- [Làm clip xin 'vía' học giỏi từ búp bê ma, YouTuber Thơ Nguyễn nhận mưa ‘gạch đá’](https://tuoitre.vn/lam-clip-xin-via-hoc-gioi-tu-bup-be-ma-youtuber-tho-nguyen-nhan-mua-gach-da-2021031017025907.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Các VĐV nữ Việt Nam từng lao đao chống đỡ pha bóng của Manganang](https://laodong.vn/the-thao/cac-vdv-nu-viet-nam-tung-lao-dao-chong-do-pha-bong-cua-manganang-887719.ldo) ([Lao Động](https://laodong.vn))
-- [Gần 40% nhà đầu tư Mỹ thừa nhận đã thực hiện giao dịch dựa trên các dòng tweet của Elon Musk](https://cafebiz.vn/gan-40-nha-dau-tu-my-thua-nhan-da-thuc-hien-giao-dich-dua-tren-cac-dong-tweet-cua-elon-musk-20210310190504876.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bàn giao đường sắt Cát Linh - Hà Đông vào cuối tháng 3](https://cafebiz.vn/ban-giao-duong-sat-cat-linh-ha-dong-vao-cuoi-thang-3-202103101848493.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
