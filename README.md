@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 27°C.
-- Feels Like 27.03°C.
-- Air Visual is 96.
+- Temperature is 28°C.
+- Feels Like 26.77°C.
+- Air Visual is 91.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Khởi tố vụ án chồng sát hại vợ và con gái ngày 8.3](https://laodong.vn/phap-luat/khoi-to-vu-an-chong-sat-hai-vo-va-con-gai-ngay-83-887608.ldo) ([Lao Động](https://laodong.vn))
+- [Harry Charles: Từ đứa trẻ ai cũng thương sau cái chết ám ảnh của Công nương tới "Hoàng tử ếch" bị cả thế giới chê cười vì "để vợ dắt mũi"](https://cafebiz.vn/harry-charles-tu-dua-tre-ai-cung-thuong-sau-cai-chet-am-anh-cua-cong-nuong-toi-hoang-tu-ech-bi-ca-the-gioi-che-cuoi-vi-de-vo-dat-mui-20210310134714923.chn) ([CafeBiz](https://cafebiz.vn))
+- [Từ hôm nay, cho người khác mượn văn bằng bị phạt tới 10 triệu đồng](https://cafebiz.vn/tu-hom-nay-cho-nguoi-khac-muon-van-bang-bi-phat-toi-10-trieu-dong-20210310134444279.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tọa đàm: “Những điểm ưu việt của bộ SGK lớp 2, lớp 6 xã hội hóa đầu tiên&quot;](https://laodong.vn/giao-duc/toa-dam-nhung-diem-uu-viet-cua-bo-sgk-lop-2-lop-6-xa-hoi-hoa-dau-tien-887578.ldo) ([Lao Động](https://laodong.vn))
+- [Gặp cụ bà 100 tuổi có ảnh thời thanh xuân đang &quot;nổi sóng&quot; trên mạng xã hội](https://laodong.vn/xa-hoi/gap-cu-ba-100-tuoi-co-anh-thoi-thanh-xuan-dang-noi-song-tren-mang-xa-hoi-887604.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ Ethanol Phú Thọ: Ông Đinh La Thăng bị đề nghị 12-13 năm tù, Trịnh Xuân Thanh 21-22 năm tù](https://cafebiz.vn/vu-ethanol-phu-tho-ong-dinh-la-thang-bi-de-nghi-12-13-nam-tu-trinh-xuan-thanh-21-22-nam-tu-20210310134108283.chn) ([CafeBiz](https://cafebiz.vn))
+- [Toàn cảnh triệt phá đường dây xăng giả 200 triệu lít của Công an Đồng Nai](https://laodong.vn/phap-luat/toan-canh-triet-pha-duong-day-xang-gia-200-trieu-lit-cua-cong-an-dong-nai-887614.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương có 2 phó chủ tịch UBND tỉnh mới](https://tuoitre.vn/hai-duong-co-2-pho-chu-tich-ubnd-tinh-moi-20210310123044797.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bố mẹ bán đất sổ đỏ có cần chữ ký của các con?](https://laodong.vn/bat-dong-san/bo-me-ban-dat-so-do-co-can-chu-ky-cua-cac-con-887197.ldo) ([Lao Động](https://laodong.vn))
-- [Đâm vào xe ôtô đang đỗ, trách nhiệm các bên ra sao?](https://laodong.vn/xe/dam-vao-xe-oto-dang-do-trach-nhiem-cac-ben-ra-sao-887478.ldo) ([Lao Động](https://laodong.vn))
-- [Bến Tre không tắt đèn vào Giờ Trái đất 2021 nhằm đảm bảo an toàn](https://laodong.vn/xa-hoi/ben-tre-khong-tat-den-vao-gio-trai-dat-2021-nham-dam-bao-an-toan-887634.ldo) ([Lao Động](https://laodong.vn))
 - [Siêu dự án giải trí, nghỉ dưỡng lớn bậc nhất Việt Nam trên quy mô 24.000h tại Thanh Hóa sẽ về tay ông lớn nào?](https://cafebiz.vn/sieu-du-an-giai-tri-nghi-duong-lon-bac-nhat-viet-nam-tren-quy-mo-24000h-tai-thanh-hoa-se-ve-tay-ong-lon-nao-20210310133309383.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhà vô địch Cúp Quốc gia sẽ được nhận thưởng 1 tỉ đồng](https://laodong.vn/bong-da/nha-vo-dich-cup-quoc-gia-se-duoc-nhan-thuong-1-ti-dong-887550.ldo) ([Lao Động](https://laodong.vn))
-- [Pháp tập trận lần đầu tiên trong không gian vũ trụ](https://laodong.vn/the-gioi/phap-tap-tran-lan-dau-tien-trong-khong-gian-vu-tru-887598.ldo) ([Lao Động](https://laodong.vn))
-- [Những màn ngược dòng kinh điển ở Champions League](https://laodong.vn/bong-da-quoc-te/nhung-man-nguoc-dong-kinh-dien-o-champions-league-887615.ldo) ([Lao Động](https://laodong.vn))
-- [Một tờ giấy trắng đổi lấy một tấm séc trị giá 25.000 đô la: Phương pháp kiếm được nhiều tiền nhất bắt nguồn từ chi tiết nhỏ](https://cafebiz.vn/mot-to-giay-trang-doi-lay-mot-tam-sec-tri-gia-25000-do-la-phuong-phap-kiem-duoc-nhieu-tien-nhat-bat-nguon-tu-chi-tiet-nho-20210309170019628.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thơ Nguyễn: Tốt nghiệp cử nhân Luật, kiếm hàng chục tỷ từ YouTube, từng chịu làn sóng tẩy chay dữ dội](https://cafebiz.vn/tho-nguyen-tot-nghiep-cu-nhan-luat-kiem-hang-chuc-ty-tu-youtube-tung-chiu-lan-song-tay-chay-du-doi-20210310130857369.chn) ([CafeBiz](https://cafebiz.vn))
-- [Công dân đầu tiên có 'hộ chiếu vắc xin' về nước](https://tuoitre.vn/cong-dan-dau-tien-co-ho-chieu-vac-xin-ve-nuoc-20210310112346323.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Bóc Term: Normie - Làm người bình thường thì đã sao?](https://vietcetera.com/vn/boc-term-normie-lam-nguoi-binh-thuong-thi-co-gi-khong-on)
 - [Sẽ có cách mạng ở phố Wall?](https://vietcetera.com/vn/se-co-cach-mang-o-pho-wall)
 - [“Anh không muốn uống thuốc cầm chừng hoài.”](https://vietcetera.com/vn/anh-khong-muon-uong-thuoc-cam-chung-hoai)
 - ["Bố Già" và hành trình nguôi giận để tin yêu của tôi](https://vietcetera.com/vn/bo-gia-hanh-trinh-nguoi-gian-de-tin-yeu)
@@ -105,7 +106,6 @@
 - [Thử Rồi Thích: Lập ngân sách chi tiêu bắt đầu từ mốc số 0](https://vietcetera.com/vn/zero-based-budgeting-lap-ngan-sach-chi-tieu-bat-dau-tu-moc-so-0)
 - [Mất cân bằng chút. Tại sao không?](https://vietcetera.com/vn/mat-can-bang-chut-tai-sao-khong)
 - [Tóm Lại Là: 8/3 nói chuyện vai trò đàn bà và đàn ông](https://vietcetera.com/vn/tom-lai-la-83-noi-chuyen-vai-tro-dan-ba-va-dan-ong)
-- [Promising Young Woman: Cuộc báo thù hoang dại. Và đau đớn](https://vietcetera.com/vn/promising-young-woman-cuoc-bao-thu-hoang-dai-va-dau-don)
 
 [Read More](https://vietcetera.com/)
 
