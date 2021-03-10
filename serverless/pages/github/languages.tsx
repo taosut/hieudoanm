@@ -38,7 +38,7 @@ export default function Languages({ languages = [] }) {
   return (
     <>
       <Head>
-        <title>GitHub Languages</title>
+        <title>HIEU - GitHub Languages</title>
       </Head>
       <Container className="pt-3 pb-3">
         <div className="mb-3">

@@ -18,11 +18,11 @@
 - packages
 - q
 - r
-- server (node)
+- serverless (react & next)
 - t
 - u
 - v
-- web (angular && react)
+- web (angular && express)
 - x
 - y
 - z
