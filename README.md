@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is scattered clouds.
 - Temperature is 27°C.
 - Feels Like 25.84°C.
-- Air Visual is 79.
+- Air Visual is 69.
 
 **WEATHER**
 
@@ -51,13 +51,13 @@
 - [![Barca vs PSG](https://img.shields.io/static/v1?label=Barca%20vs%20PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20PSG)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
-- [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
-- [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Khai báo y tế online](https://img.shields.io/static/v1?label=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online)
 - [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
+- [![Nguyễn Phương Hằng Dũng lò vôi](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Ph%C6%B0%C6%A1ng%20H%E1%BA%B1ng%20D%C5%A9ng%20l%C3%B2%20v%C3%B4i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Ph%C6%B0%C6%A1ng%20H%E1%BA%B1ng%20D%C5%A9ng%20l%C3%B2%20v%C3%B4i)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
-- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
 - [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [BHXH Việt Nam tổ chức Lễ phát động Tết trồng cây Xuân Tân Sửu năm 2021](https://laodong.vn/xa-hoi/bhxh-viet-nam-to-chuc-le-phat-dong-tet-trong-cay-xuan-tan-suu-nam-2021-887718.ldo) ([Lao Động](https://laodong.vn))
-- [Có được phép bán lại nhà ở xã hội không?](https://laodong.vn/bat-dong-san/co-duoc-phep-ban-lai-nha-o-xa-hoi-khong-887484.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ sở hữu có mất trắng khi chung cư 50 năm hết thời hạn sử dụng?](https://laodong.vn/bat-dong-san/chu-so-huu-co-mat-trang-khi-chung-cu-50-nam-het-thoi-han-su-dung-887367.ldo) ([Lao Động](https://laodong.vn))
-- [Nhận định PSG - Barcelona: Ronaldo đang đợi Messi để nhường chỗ cho Mbappe](https://laodong.vn/the-thao/nhan-dinh-psg-barcelona-ronaldo-dang-doi-messi-de-nhuong-cho-cho-mbappe-887698.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Dũng ''lò vôi'' nói về thông tin từng được ông Yên chữa khỏi bệnh](https://laodong.vn/xa-hoi/ong-dung-lo-voi-noi-ve-thong-tin-tung-duoc-ong-yen-chua-khoi-benh-887590.ldo) ([Lao Động](https://laodong.vn))
-- [Xây phố ẩm thực đêm ven biển Nha Trang](https://vnexpress.net/xay-pho-am-thuc-dem-ven-bien-nha-trang-4246335.html) ([VNExpress](https://vnexpress.net))
-- [Bất ngờ "khám phá" ra Milo, người Nhật đang phát cuồng với thứ đồ uống vị chocolate này](https://cafebiz.vn/bat-ngo-kham-pha-ra-milo-nguoi-nhat-dang-phat-cuong-voi-thu-do-uong-vi-chocolate-nay-20210310161823181.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đường dây xăng giả "khủng" ở Đồng Nai: 500.000 lít xăng lậu, xăng giả ra thị trường mỗi ngày](https://cafebiz.vn/duong-day-xang-gia-khung-o-dong-nai-500000-lit-xang-lau-xang-gia-ra-thi-truong-moi-ngay-2021031016170205.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giảm nhiệt được vài ngày, từ mai TP.HCM lại nóng 37 độ C](https://tuoitre.vn/giam-nhiet-duoc-vai-ngay-tu-mai-tphcm-lai-nong-37-do-c-20210310155732356.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thương hiệu đồ trang sức nổi tiếng Pandora đóng cửa 1/4 số cửa hàng bán lẻ do Covid-19](https://cafebiz.vn/thuong-hieu-do-trang-suc-noi-tieng-pandora-dong-cua-1-4-so-cua-hang-ban-le-do-covid-19-20210310160915038.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tesla bốc hơi 300 tỷ USD giá trị thị trường do đầu cơ Bitcoin?](https://cafebiz.vn/tesla-boc-hoi-300-ty-usd-gia-tri-thi-truong-do-dau-co-bitcoin-2021031016124422.chn) ([CafeBiz](https://cafebiz.vn))
+- [Muốn tranh vé dự Olympic nhưng Thanh Phúc &quot;lực bất tòng tâm&quot;](https://laodong.vn/the-thao/muon-tranh-ve-du-olympic-nhung-thanh-phuc-luc-bat-tong-tam-887648.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng hôm nay 10.3: Bất ngờ đảo chiều tăng](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-103-bat-ngo-dao-chieu-tang-887729.ldo) ([Lao Động](https://laodong.vn))
+- [Daphale Studios truyền cảm hứng đến phái đẹp, tự tin khoe cá tính](https://cafebiz.vn/daphale-studios-truyen-cam-hung-den-phai-dep-tu-tin-khoe-ca-tinh-20210310155526117.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Nữ tướng' đưa Daikin Việt Nam vượt “cơn bão” đe dọa doanh nghiệp toàn cầu](https://cafebiz.vn/nu-tuong-dua-daikin-viet-nam-vuot-con-bao-de-doa-doanh-nghiep-toan-cau-2021031015190748.chn) ([CafeBiz](https://cafebiz.vn))
+- [Điện thoại Pixel đã có thể đo nhịp tim, nhịp thở bằng camera](https://laodong.vn/cong-nghe/dien-thoai-pixel-da-co-the-do-nhip-tim-nhip-tho-bang-camera-887477.ldo) ([Lao Động](https://laodong.vn))
+- [Chứng khoán: Vì sao hơn 8 năm HoSE chưa xong được dự án 5 năm?](https://laodong.vn/kinh-te/chung-khoan-vi-sao-hon-8-nam-hose-chua-xong-duoc-du-an-5-nam-887744.ldo) ([Lao Động](https://laodong.vn))
+- [Gần 40 tuổi, 14 tháng nghỉ chấn thương, Federer vẫn không đầu hàng](https://laodong.vn/the-thao/gan-40-tuoi-14-thang-nghi-chan-thuong-federer-van-khong-dau-hang-887656.ldo) ([Lao Động](https://laodong.vn))
+- [Công ty giải mã gen của cựu CEO Mekong Capital vừa huy động 2,5 triệu USD từ các nhà đầu tư Silicon Valley](https://cafebiz.vn/cong-ty-giai-ma-gen-cua-cuu-ceo-mekong-capital-vua-huy-dong-25-trieu-usd-tu-cac-nha-dau-tu-silicon-valley-20210310171815035.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chào giá cung cấp vật tư phục vụ sản xuất bao bì và nhà máy phân bón](https://laodong.vn/thong-tin-doanh-nghiep/chao-gia-cung-cap-vat-tu-phuc-vu-san-xuat-bao-bi-va-nha-may-phan-bon-887728.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [5 Thương hiệu board game Việt Nam cho những ngày cai điện thoại](https://vietcetera.com/vn/5-thuong-hieu-board-game-viet-nam-cho-nhung-ngay-cai-dien-thoai)
 - [Vì sao ta xem lại phim cũ mà không bao giờ chán?](https://vietcetera.com/vn/vi-sao-ta-xem-lai-phim-cu-ma-khong-bao-gio-chan)
 - [Trịnh Hương Anh và tình yêu cho những điều nhỏ bé](https://vietcetera.com/vn/trinh-huong-anh-va-tinh-yeu-cho-nhung-dieu-nho-be)
 - [Bóc Term: Normie - Làm người bình thường thì đã sao?](https://vietcetera.com/vn/boc-term-normie-lam-nguoi-binh-thuong-thi-co-gi-khong-on)
@@ -105,7 +106,6 @@
 - [Meme học: Tại sao người phụ nữ này lại mắng chú mèo?](https://vietcetera.com/vn/meme-hoc-co-gai-la-chu-meo)
 - [Tóm Lại Là: Chuyện cổ tích từ đầu đã không tồn tại ở hoàng gia Anh](https://vietcetera.com/vn/tom-lai-la-chuyen-co-tich-tu-dau-da-khong-ton-tai-o-hoang-gia-anh)
 - [Câu chuyện chuyển đổi số: Xây dựng thương hiệu trên Facebook - Có còn khó không?](https://vietcetera.com/vn/xay-dung-thuong-hieu-tren-facebook-co-hoi-va-thach-thuc-trong-cong-cuoc-chuyen-doi-so)
-- [Thử Rồi Thích: Lập ngân sách chi tiêu bắt đầu từ mốc số 0](https://vietcetera.com/vn/zero-based-budgeting-lap-ngan-sach-chi-tieu-bat-dau-tu-moc-so-0)
 
 [Read More](https://vietcetera.com/)
 
@@ -138,8 +138,8 @@
 06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 07. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 08. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-09. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
-10. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
+09. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
+10. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
