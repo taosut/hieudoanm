@@ -21,7 +21,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 23.54°C.
+- Feels Like 23.89°C.
 - Air Visual is 68.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Củ cải làng trồng rau xã Tráng Việt tăng giá trở lại](https://tuoitre.vn/cu-cai-lang-trong-rau-xa-trang-viet-da-tang-gia-tro-lai-20210310202513677.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Cung ứng 60 triệu liều vaccine phòng COVID-19 tại Việt Nam](https://laodong.vn/y-te/cung-ung-60-trieu-lieu-vaccine-phong-covid-19-tai-viet-nam-887853.ldo) ([Lao Động](https://laodong.vn))
+- [Bị xử thua kiện và phải thanh toán gần 300 tỷ cho Hòa Bình, FLC nói gì?](https://cafebiz.vn/bi-xu-thua-kien-va-phai-thanh-toan-gan-300-ty-cho-hoa-binh-flc-noi-gi-20210310222332166.chn) ([CafeBiz](https://cafebiz.vn))
+- [Champions League: Chốt địa điểm đá trận lượt về của Man City](https://laodong.vn/bong-da-quoc-te/champions-league-chot-dia-diem-da-tran-luot-ve-cua-man-city-887839.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất 7 doanh nghiệp nhà nước giữ vai trò “sếu đầu đàn”](https://cafebiz.vn/de-xuat-7-doanh-nghiep-nha-nuoc-giu-vai-tro-seu-dau-dan-20210310220045187.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chàng chăn cừu đổi 200 con cừu lấy chiếc tách pha lê, bị vợ đòi ly hôn - Chuyên gia kiểm định: Đừng lo nữa, anh phát tài rồi!](https://cafebiz.vn/chang-chan-cuu-doi-200-con-cuu-lay-chiec-tach-pha-le-bi-vo-doi-ly-hon-chuyen-gia-kiem-dinh-dung-lo-nua-anh-phat-tai-roi-2021031018011953.chn) ([CafeBiz](https://cafebiz.vn))
 - [Được bật đèn xanh, nhà mạng chạy đua cung cấp dịch vụ Mobile Money](https://cafebiz.vn/duoc-bat-den-xanh-nha-mang-chay-dua-cung-cap-dich-vu-mobile-money-20210310215601048.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chuyên gia cảnh báo: 5 tác hại cho sức khoẻ khi hát karaoke "giải" rượu bia](https://cafebiz.vn/chuyen-gia-canh-bao-5-tac-hai-cho-suc-khoe-khi-hat-karaoke-giai-ruou-bia-2021031021461108.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chứng khoán: 1 phiên tăng chưa rõ xu hướng, khả năng giằng co tiếp diễn](https://laodong.vn/kinh-te/chung-khoan-1-phien-tang-chua-ro-xu-huong-kha-nang-giang-co-tiep-dien-887845.ldo) ([Lao Động](https://laodong.vn))
 - [Hai mẹ con dương tính COVID-19 khi sang Úc, Hải Phòng thông báo khẩn](https://tuoitre.vn/hai-me-con-duong-tinh-covid-19-khi-sang-uc-hai-phong-thong-bao-khan-20210310211616196.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tiến sĩ tâm lý: Hôm nay có Thơ Nguyễn, ngày mai lại có Nguyễn Thơ, rồi Thơ Nguyễn 2](https://cafebiz.vn/tien-si-tam-ly-hom-nay-co-tho-nguyen-ngay-mai-lai-co-nguyen-tho-roi-tho-nguyen-2-20210310214243339.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bảo vệ đánh người ở bệnh viện Tuyên Quang: Người trong cuộc nói gì?](https://laodong.vn/xa-hoi/bao-ve-danh-nguoi-o-benh-vien-tuyen-quang-nguoi-trong-cuoc-noi-gi-887793.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng: Công an điều tra vụ nhân viên ngân chiếm dụng 800 triệu](https://laodong.vn/phap-luat/da-nang-cong-an-dieu-tra-vu-nhan-vien-ngan-chiem-dung-800-trieu-887844.ldo) ([Lao Động](https://laodong.vn))
-- [2 trẻ đuối nước dưới hố chôn cột điện: Chủ đầu tư trả lời cũng… như không](https://laodong.vn/xa-hoi/2-tre-duoi-nuoc-duoi-ho-chon-cot-dien-chu-dau-tu-tra-loi-cung-nhu-khong-887843.ldo) ([Lao Động](https://laodong.vn))
-- [Tài năng vượt xa Gia Cát Lượng, nếu nhân vật này không chết, Tào Tháo không dám xưng vương (Phần 1)](https://cafebiz.vn/tai-nang-vuot-xa-gia-cat-luong-neu-nhan-vat-nay-khong-chet-tao-thao-khong-dam-xung-vuong-phan-1-2021031017574615.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -137,9 +137,9 @@
 05. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 07. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-08. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-09. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
-10. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
+08. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
+09. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+10. [ROSÉ - 'On The Ground' M/V TEASER](https://www.youtube.com/watch?v=_W8y2A9sK6s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 
 [Read More](https://www.youtube.com/feed/trending)
 
