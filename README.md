@@ -19,17 +19,17 @@
 
 **CALENDAR**
 
-- Current weather is overcast clouds.
-- Temperature is 23°C.
-- Feels Like 24.81°C.
-- Air Visual is 65.
+- Current weather is mist.
+- Temperature is 22°C.
+- Feels Like 24.02°C.
+- Air Visual is 84.
 
 **WEATHER**
 
-- Date: 2021/03/09
-- Lunar: 2021/01/26
+- Date: 2021/03/10
+- Lunar: 2021/01/27
 - Tiet Khi: Đại tuyết.
-- năm canh tý tháng kỷ sửu ngày giáp tuất.
+- năm canh tý tháng kỷ sửu ngày ất hợi.
 
 **NPM**
 
@@ -51,23 +51,23 @@
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Cây xăng Vân Trúc](https://img.shields.io/static/v1?label=C%C3%A2y%20x%C4%83ng%20V%C3%A2n%20Tr%C3%BAc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%A2y%20x%C4%83ng%20V%C3%A2n%20Tr%C3%BAc)
-- [![Hoa](https://img.shields.io/static/v1?label=Hoa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa)
+- [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
-- [![Hoa đẹp](https://img.shields.io/static/v1?label=Hoa%20%C4%91%E1%BA%B9p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20%C4%91%E1%BA%B9p)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
-- [![Juventus vs Porto](https://img.shields.io/static/v1?label=Juventus%20vs%20Porto&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus%20vs%20Porto)
-- [![Loi chuc vo 8/3](https://img.shields.io/static/v1?label=Loi%20chuc%20vo%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Loi%20chuc%20vo%208/3)
-- [![MH370](https://img.shields.io/static/v1?label=MH370&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MH370)
+- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Lee Ji Eun](https://img.shields.io/static/v1?label=Lee%20Ji%20Eun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Ji%20Eun)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
+- [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
-- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
-- [![Phùng Xuân Nhạ](https://img.shields.io/static/v1?label=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%C3%B9ng%20Xu%C3%A2n%20Nh%E1%BA%A1)
+- [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![Taeyeon](https://img.shields.io/static/v1?label=Taeyeon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Taeyeon)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
+- [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Quảng Ninh truy trách nhiệm vụ san lấp trái phép 16.000 m2 ở vịnh Bái Tự Long](https://vnexpress.net/quang-ninh-truy-trach-nhiem-vu-san-lap-trai-phep-16-000-m2-o-vinh-bai-tu-long-4245982.html) ([VNExpress](https://vnexpress.net))
-- [Bị nhắc đeo khẩu trang, người nhà bệnh nhân hỗn chiến với bảo vệ bệnh viện](http://vietnamnet.vn/vn/thoi-su/bi-nhac-deo-khau-trang-nguoi-nha-benh-nhan-hon-chien-voi-bao-ve-benh-vien-718440.html) ([VietNamNet](https://vietnamnet.vn))
-- [Bị Mỹ, Ấn Độ tẩy chay, TikTok vẫn là “vua download” toàn cầu](https://cafebiz.vn/bi-my-an-do-tay-chay-tiktok-van-la-vua-download-toan-cau-20210309202632164.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khoẻ, thông minh, giàu có nhờ ngủ đúng cách: 6 thói quen nhỏ trước khi ngủ nên thay đổi](https://cafebiz.vn/khoe-thong-minh-giau-co-nho-ngu-dung-cach-6-thoi-quen-nho-truoc-khi-ngu-nen-thay-doi-20210309161152866.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đỉnh cao ứng xử của kẻ trí tuệ: Nhìn thấu không nói, biết người không bình, hiểu lý không tranh](https://cafebiz.vn/dinh-cao-ung-xu-cua-ke-tri-tue-nhin-thau-khong-noi-biet-nguoi-khong-binh-hieu-ly-khong-tranh-20210309094252495.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tướng đồng ý thành lập Phòng Khoa học - Công nghệ tại TP Thủ Đức](http://vietnamnet.vn/vn/thoi-su/thu-tuong-dong-y-thanh-lap-phong-khoa-hoc-cong-nghe-tai-tp-thu-duc-718427.html) ([VietNamNet](https://vietnamnet.vn))
-- [Pháp và Tây Ban Nha thu thuế kỹ thuật số, Google sẽ tăng phí quảng cáo](https://cafebiz.vn/phap-va-tay-ban-nha-thu-thue-ky-thuat-so-google-se-tang-phi-quang-cao-20210309185118483.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bài học kinh doanh từ cuộc trò chuyện giữa blogger triệu người theo dõi và “thiên tài” kinh doanh 17 tuổi: Khi biết cách yêu cầu cơ hội, bạn đã có 1 nửa chiến thắng](https://cafebiz.vn/bai-hoc-kinh-doanh-tu-cuoc-tro-chuyen-giua-blogger-trieu-nguoi-theo-doi-va-thien-tai-kinh-doanh-17-tuoi-khi-biet-cach-yeu-cau-co-hoi-ban-da-co-1-nua-chien-thang-20210309155439623.chn) ([CafeBiz](https://cafebiz.vn))
-- [Văn Quyết được vinh danh Gương mặt trẻ Việt Nam tiêu biểu năm 2020](https://laodong.vn/bong-da/van-quyet-duoc-vinh-danh-guong-mat-tre-viet-nam-tieu-bieu-nam-2020-887467.ldo) ([Lao Động](https://laodong.vn))
-- [An Giang: Bắt quả tang đối tượng cho vay nặng lãi](https://laodong.vn/phap-luat/an-giang-bat-qua-tang-doi-tuong-cho-vay-nang-lai-887465.ldo) ([Lao Động](https://laodong.vn))
+- [20 dấu hiệu cho thấy bạn sẽ trở thành một người “tiền vào như nước”: Không hài lòng với điểm B, không hút thuốc, mặt dày…](https://cafebiz.vn/20-dau-hieu-cho-thay-ban-se-tro-thanh-mot-nguoi-tien-vao-nhu-nuoc-khong-hai-long-voi-diem-b-khong-hut-thuoc-mat-day-20210308181433575.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phân hạng giáo viên là không phù hợp với thực tế](https://laodong.vn/ban-doc/phan-hang-giao-vien-la-khong-phu-hop-voi-thuc-te-887500.ldo) ([Lao Động](https://laodong.vn))
+- [Lấy khỉ nhà để dụ bắt con khỉ vàng quý hiếm “đại náo” khu dân cư](https://laodong.vn/xa-hoi/lay-khi-nha-de-du-bat-con-khi-vang-quy-hiem-dai-nao-khu-dan-cu-887506.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng tiếp tục cưỡng chế công trình vi phạm của Mường Thanh](https://tuoitre.vn/da-nang-tiep-tuc-cuong-che-cong-trinh-vi-pham-cua-muong-thanh-20210310071131972.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hướng dương ngược nắng tập 39: Kiên hả hê khi thấy bà Cúc đau khổ](https://laodong.vn/giai-tri/huong-duong-nguoc-nang-tap-39-kien-ha-he-khi-thay-ba-cuc-dau-kho-887482.ldo) ([Lao Động](https://laodong.vn))
+- [3 bộ phim Hàn Quốc đặc biệt được sản xuất bởi các nữ đạo diễn](https://laodong.vn/giai-tri/3-bo-phim-han-quoc-dac-biet-duoc-san-xuat-boi-cac-nu-dao-dien-887357.ldo) ([Lao Động](https://laodong.vn))
+- [Khát khao sở hữu mảnh đất trên đảo Phú Quốc](https://cafebiz.vn/khat-khao-so-huu-manh-dat-tren-dao-phu-quoc-202103091659348.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vận hội mới của bất động sản Long An](https://cafebiz.vn/van-hoi-moi-cua-bat-dong-san-long-an-20210309151846635.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tọa đàm: “Những điểm ưu việt của bộ SGK lớp 2, lớp 6 xã hội hóa đầu tiên&quot;](https://laodong.vn/giao-duc/toa-dam-nhung-diem-uu-viet-cua-bo-sgk-lop-2-lop-6-xa-hoi-hoa-dau-tien-887466.ldo) ([Lao Động](https://laodong.vn))
+- [Thanh Hóa: Vẻ đẹp đầy hoang sơ, tĩnh lặng bên dòng thác Ma Hao](https://laodong.vn/photo/thanh-hoa-ve-dep-day-hoang-so-tinh-lang-ben-dong-thac-ma-hao-887191.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [“Anh không muốn uống thuốc cầm chừng hoài.”](https://vietcetera.com/vn/anh-khong-muon-uong-thuoc-cam-chung-hoai)
 - ["Bố Già" và hành trình nguôi giận để tin yêu của tôi](https://vietcetera.com/vn/bo-gia-hanh-trinh-nguoi-gian-de-tin-yeu)
 - [Meme học: Tại sao người phụ nữ này lại mắng chú mèo?](https://vietcetera.com/vn/meme-hoc-co-gai-la-chu-meo)
 - [Tóm Lại Là: Chuyện cổ tích từ đầu đã không tồn tại ở hoàng gia Anh](https://vietcetera.com/vn/tom-lai-la-chuyen-co-tich-tu-dau-da-khong-ton-tai-o-hoang-gia-anh)
@@ -105,7 +106,6 @@
 - [Tóm Lại Là: 8/3 nói chuyện vai trò đàn bà và đàn ông](https://vietcetera.com/vn/tom-lai-la-83-noi-chuyen-vai-tro-dan-ba-va-dan-ong)
 - [Promising Young Woman: Cuộc báo thù hoang dại. Và đau đớn](https://vietcetera.com/vn/promising-young-woman-cuoc-bao-thu-hoang-dai-va-dau-don)
 - ["Chẳng có chuyện gì là quá nghiêm trọng trong mắt mẹ anh."](https://vietcetera.com/vn/chang-co-chuyen-gi-la-qua-nghiem-trong-trong-mat-me-anh)
-- [Ngắm tranh, ăn tối, tạm quên sự đời: ghé Lavelle Library](https://vietcetera.com/vn/ngam-tranh-an-toi-tam-quen-su-doi-ghe-lavelle-library)
 
 [Read More](https://vietcetera.com/)
 
@@ -134,12 +134,12 @@
 02. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 03. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 04. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-05. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+06. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 07. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 08. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-09. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
-10. [Highlights Bayern Munich vs Dortmund | Haaland gọi cú đúp - Lewandowski trả lời bằng hat-trick](https://www.youtube.com/watch?v=fVtAlF8ylxE) - [MÃN NHÃN TV](https://www.youtube.com/channel/UCoqrrrfDpWOgdqw1vRoiG_A)
+09. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
+10. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
