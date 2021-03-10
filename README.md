@@ -21,7 +21,7 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 24.81°C.
+- Feels Like 25.17°C.
 - Air Visual is 97.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Sau tiêm vắc-xin Covid-19, nhiều người phản ứng thường, 2 người có phản vệ độ 2](https://cafebiz.vn/sau-tiem-vac-xin-covid-19-nhieu-nguoi-phan-ung-thuong-2-nguoi-co-phan-ve-do-2-20210310090630764.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kế hoạch năm Covid thứ 2 của Starbucks Việt Nam: Tìm đến nguồn khách nội nhiều hơn, vươn đến các quận mới thay vì co cụm quận trung tâm](https://cafebiz.vn/ke-hoach-nam-covid-thu-2-cua-starbucks-viet-nam-tim-den-nguon-khach-noi-nhieu-hon-vuon-den-cac-quan-moi-thay-vi-co-cum-quan-trung-tam-2021030922224757.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nữ thủ quỹ xinh đẹp làm thủ tục cho khách vay tiền xong mang đi đánh bạc](https://cafebiz.vn/nu-thu-quy-xinh-dep-lam-thu-tuc-cho-khach-vay-tien-xong-mang-di-danh-bac-20210310090538919.chn) ([CafeBiz](https://cafebiz.vn))
-- [23.000 học sinh tư thục ở TP HCM được hỗ trợ học phí?](https://cafebiz.vn/23000-hoc-sinh-tu-thuc-o-tp-hcm-duoc-ho-tro-hoc-phi-20210310085909175.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bá đạo như Elon Musk: Không xin được việc ở đâu nên đành tự mở công ty](https://cafebiz.vn/ba-dao-nhu-elon-musk-khong-xin-duoc-viec-o-dau-nen-danh-tu-mo-cong-ty-20210309164110428.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giúp Foxconn kiếm hàng chục tỷ USD mỗi năm nhưng bị đuổi việc chỉ vì nghỉ một ngày, người đàn ông này tự ra thành lập công ty riêng và thành công vang dội](https://cafebiz.vn/giup-foxconn-kiem-hang-chuc-ty-usd-moi-nam-nhung-bi-duoi-viec-chi-vi-nghi-mot-ngay-nguoi-dan-ong-nay-tu-ra-thanh-lap-cong-ty-rieng-va-thanh-cong-vang-doi-20210310085148136.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hoàng gia Anh không thể im lặng về cuộc phỏng vấn của vợ chồng Hoàng tử Harry](https://cafebiz.vn/hoang-gia-anh-khong-the-im-lang-ve-cuoc-phong-van-cua-vo-chong-hoang-tu-harry-20210310085235124.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thời hạn sử dụng đất khi chuyển mục đích sử dụng đất](https://laodong.vn/bat-dong-san/thoi-han-su-dung-dat-khi-chuyen-muc-dich-su-dung-dat-887058.ldo) ([Lao Động](https://laodong.vn))
-- [“Tết chuồng trâu” ở Kon Plông, bắc Tây Nguyên](https://laodong.vn/xa-hoi/tet-chuong-trau-o-kon-plong-bac-tay-nguyen-887474.ldo) ([Lao Động](https://laodong.vn))
-- [Đàn ông kết hôn với phụ nữ khác quốc tịch có hạnh phúc hơn?](https://laodong.vn/chuyen-nha-minh/dan-ong-ket-hon-voi-phu-nu-khac-quoc-tich-co-hanh-phuc-hon-887244.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt tạm giam đối tượng đâm 10 nhát dao vào thanh niên trong quán nhậu](https://laodong.vn/phap-luat/bat-tam-giam-doi-tuong-dam-10-nhat-dao-vao-thanh-nien-trong-quan-nhau-887531.ldo) ([Lao Động](https://laodong.vn))
+- [Kết quả - lịch thi đấu bóng đá ngày 10.3: Tâm điểm PSG - Barcelona](https://laodong.vn/lich-thi-dau/ket-qua-lich-thi-dau-bong-da-ngay-103-tam-diem-psg-barcelona-887510.ldo) ([Lao Động](https://laodong.vn))
+- [Từ 10/3: Mang phao vào phòng thi bị phạt 1-2 triệu đồng, nhờ người thi hộ bị phạt 14-16 triệu đồng](https://cafebiz.vn/tu-10-3-mang-phao-vao-phong-thi-bi-phat-1-2-trieu-dong-nho-nguoi-thi-ho-bi-phat-14-16-trieu-dong-20210310093751705.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ronaldo bị châm chọc với hành động khiến Juventus bị loại](https://laodong.vn/bong-da-quoc-te/ronaldo-bi-cham-choc-voi-hanh-dong-khien-juventus-bi-loai-887522.ldo) ([Lao Động](https://laodong.vn))
+- [Hé lộ nhà rộng 2000 m2 của Bằng Kiều tại Mỹ, cây quý bằng cả gia tài, phải xích lại](https://cafebiz.vn/he-lo-nha-rong-2000-m2-cua-bang-kieu-tai-my-cay-quy-bang-ca-gia-tai-phai-xich-lai-20210310093206154.chn) ([CafeBiz](https://cafebiz.vn))
+- [Điểm nóng COVID-19 tại khu đô thị Việt Mỹ được gỡ phong tỏa sau 40 ngày](https://tuoitre.vn/diem-nong-covid-19-tai-khu-do-thi-viet-my-duoc-go-phong-toa-sau-40-ngay-20210310082505189.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Mỹ chấp thuận gia hạn triển khai Vệ binh Quốc gia tại Điện Capitol](https://laodong.vn/the-gioi/my-chap-thuan-gia-han-trien-khai-ve-binh-quoc-gia-tai-dien-capitol-887512.ldo) ([Lao Động](https://laodong.vn))
+- [Triệu chứng &quot;đau nửa đầu&quot; nguy hiểm như thế nào?](https://laodong.vn/suc-khoe/trieu-chung-dau-nua-dau-nguy-hiem-nhu-the-nao-887105.ldo) ([Lao Động](https://laodong.vn))
+- [Ninh Bình: Hơn 40 cột điện &quot;mọc&quot; giữa đường giăng bẫy người đi đường](https://laodong.vn/ban-doc/ninh-binh-hon-40-cot-dien-moc-giua-duong-giang-bay-nguoi-di-duong-887516.ldo) ([Lao Động](https://laodong.vn))
+- [9 dấu hiệu NÓI bạn "không có duyên" trong giao tiếp](https://cafebiz.vn/9-dau-hieu-noi-ban-khong-co-duyen-trong-giao-tiep-20210309170128854.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -120,9 +120,9 @@
 05. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 06. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 07. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-08. [Tuổi Nàng Mười Lăm - Giọng Ca Bolero Nhí Thu Hường (Official MV)](https://www.youtube.com/watch?v=qodYHeNYvtk) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-09. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
-10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
+08. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+09. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
+10. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -137,8 +137,8 @@
 05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 06. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 07. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
-08. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-09. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
+08. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
+09. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 10. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
 
 [Read More](https://www.youtube.com/feed/trending)
