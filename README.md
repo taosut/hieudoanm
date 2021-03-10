@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 27°C.
 - Feels Like 25.11°C.
-- Air Visual is 95.
+- Air Visual is 72.
 
 **WEATHER**
 
@@ -58,7 +58,7 @@
 - [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
 - [![Lịch thi đấu bóng đá C1](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20b%C3%B3ng%20%C4%91%C3%A1%20C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20b%C3%B3ng%20%C4%91%C3%A1%20C1)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
-- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
 - [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Hải Phòng: Khởi tố kẻ hành hung, vu khống nam thanh niên 17 tuổi](https://laodong.vn/phap-luat/hai-phong-khoi-to-ke-hanh-hung-vu-khong-nam-thanh-nien-17-tuoi-887638.ldo) ([Lao Động](https://laodong.vn))
+- [Burger King gây phẫn nộ vì tuyên bố ‘Phụ nữ thuộc về cái bếp’ trong ngày 8/3, dù mục đích ban đầu vốn mang ý tốt](https://cafebiz.vn/burger-king-gay-phan-no-khap-mang-xa-hoi-vi-tuyen-bo-phu-nu-thuoc-ve-cai-bep-trong-ngay-8-3-20210310103609797.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chi 36 triệu USD để mua hàng nghìn tấn đồng, một công ty chết lặng khi chỉ nhận về… những khối đá sơn màu](https://cafebiz.vn/chi-36-trieu-usd-de-mua-hang-nghin-tan-dong-mot-cong-ty-chet-lang-khi-chi-nhan-ve-nhung-khoi-da-son-mau-20210310135228069.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sự thật "thỉnh" Kumanthong để cầu tài lộc và những lời quảng cáo năng lực "trên trời" khiến nhiều người mù quáng](https://cafebiz.vn/su-that-thinh-kumanthong-de-cau-tai-loc-va-nhung-loi-quang-cao-nang-luc-tren-troi-khien-nhieu-nguoi-mu-quang-20210310142805225.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bang đầu tiên ở Mỹ tiêm vaccine COVID-19 cho hầu hết người dân](https://laodong.vn/the-gioi/bang-dau-tien-o-my-tiem-vaccine-covid-19-cho-hau-het-nguoi-dan-887646.ldo) ([Lao Động](https://laodong.vn))
@@ -83,8 +85,6 @@
 - [TS. Cấn Văn Lực: 6 kênh đầu tư đáng lưu ý trong năm 2021](https://cafebiz.vn/ts-can-van-luc-6-kenh-dau-tu-dang-luu-y-trong-nam-2021-2021031014183878.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nghiên cứu tâm lý học: Con cái của gia đình có tiền thường thông minh hơn. Vì sao?](https://cafebiz.vn/nghien-cuu-tam-ly-hoc-con-cai-cua-gia-dinh-co-tien-thuong-thong-minh-hon-vi-sao-20210309171930159.chn) ([CafeBiz](https://cafebiz.vn))
 - [TPHCM: Tổ chức Hội thi “Nét đẹp áo dài Việt Nam”](https://laodong.vn/ldld-tphcm/tphcm-to-chuc-hoi-thi-net-dep-ao-dai-viet-nam-887642.ldo) ([Lao Động](https://laodong.vn))
-- [Long An: Tập huấn tiêm vắc xin COVID-19](https://laodong.vn/xa-hoi/long-an-tap-huan-tiem-vac-xin-covid-19-887641.ldo) ([Lao Động](https://laodong.vn))
-- [Sức hút của Tiêu Chiến, Vương Nhất Bác, Đặng Luân, Cung Tuấn](https://laodong.vn/giai-tri/suc-hut-cua-tieu-chien-vuong-nhat-bac-dang-luan-cung-tuan-887633.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Vì sao ta xem lại phim cũ mà không bao giờ chán?](https://vietcetera.com/vn/vi-sao-ta-xem-lai-phim-cu-ma-khong-bao-gio-chan)
 - [Trịnh Hương Anh và tình yêu cho những điều nhỏ bé](https://vietcetera.com/vn/trinh-huong-anh-va-tinh-yeu-cho-nhung-dieu-nho-be)
 - [Bóc Term: Normie - Làm người bình thường thì đã sao?](https://vietcetera.com/vn/boc-term-normie-lam-nguoi-binh-thuong-thi-co-gi-khong-on)
 - [Sẽ có cách mạng ở phố Wall?](https://vietcetera.com/vn/se-co-cach-mang-o-pho-wall)
@@ -105,7 +106,6 @@
 - [Tóm Lại Là: Chuyện cổ tích từ đầu đã không tồn tại ở hoàng gia Anh](https://vietcetera.com/vn/tom-lai-la-chuyen-co-tich-tu-dau-da-khong-ton-tai-o-hoang-gia-anh)
 - [Câu chuyện chuyển đổi số: Xây dựng thương hiệu trên Facebook - Có còn khó không?](https://vietcetera.com/vn/xay-dung-thuong-hieu-tren-facebook-co-hoi-va-thach-thuc-trong-cong-cuoc-chuyen-doi-so)
 - [Thử Rồi Thích: Lập ngân sách chi tiêu bắt đầu từ mốc số 0](https://vietcetera.com/vn/zero-based-budgeting-lap-ngan-sach-chi-tieu-bat-dau-tu-moc-so-0)
-- [Mất cân bằng chút. Tại sao không?](https://vietcetera.com/vn/mat-can-bang-chut-tai-sao-khong)
 
 [Read More](https://vietcetera.com/)
 
