@@ -11,3 +11,32 @@ Ideas for [LinkedIn Post](https://www.linkedin.com/feed) and [BizFly Cloud Tech 
 - [ ] Docker
 - [ ] Kubernetes
 - [ ] Virtual DOM
+
+## Projects
+
+- addons
+- b
+- cli (command line interface)
+- docs
+- examples
+- functions (serverless)
+- github
+- h
+- images
+- jobs
+- k
+- l
+- mobiles (react native)
+- n
+- o
+- packages
+- q
+- r
+- serverless (react & next)
+- t
+- u
+- v
+- web (angular && express)
+- x
+- y
+- z

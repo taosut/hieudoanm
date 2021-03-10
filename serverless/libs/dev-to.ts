@@ -1,14 +1,5 @@
-'use strict';
-
-import fetch from 'node-fetch';
-
 export default class DevTo {
-  private apiKey: string;
   private base: string = 'https://dev.to/api';
-
-  constructor(apiKey: string) {
-    this.apiKey = apiKey;
-  }
 
   public async getArticles(skip: number = 1, limit: number = 10, tags: Array<string> = []) {
     const { base } = this;

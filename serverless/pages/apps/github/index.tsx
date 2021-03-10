@@ -6,7 +6,7 @@ import fetch from 'node-fetch';
 import Head from 'next/head';
 import { createUseStyles } from 'react-jss';
 
-import { api } from '../../constant';
+import { api } from '../../../constant';
 
 const useStyles = createUseStyles({
   caption: {
