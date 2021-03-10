@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 27°C.
-- Feels Like 25.84°C.
-- Air Visual is 72.
+- Feels Like 26.19°C.
+- Air Visual is 88.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Khối tài sản trăm triệu USD của Nữ hoàng Anh và các thành viên trong gia đình tới từ đâu?](https://cafebiz.vn/khoi-tai-san-tram-trieu-usd-cua-nu-hoang-anh-va-cac-thanh-vien-trong-gia-dinh-toi-tu-dau-20210310150234264.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khởi nghiệp bằng ý tưởng nuôi cấy gà trong phòng thí nghiệm, công ty thực phẩm được định giá tỷ USD](https://cafebiz.vn/khoi-nghiep-bang-y-tuong-nuoi-cay-ga-trong-phong-thi-nghiem-cong-ty-thuc-pham-duoc-dinh-gia-ty-usd-2021031013422764.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lợi ích không ngờ của Starlink: đưa internet tốc độ cao lên máy bay, tàu thủy và xe tải](https://cafebiz.vn/loi-ich-khong-ngo-cua-starlink-dua-internet-toc-do-cao-len-may-bay-tau-thuy-va-xe-tai-20210310134608417.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cà Mau: Trao 50 căn nhà cho người dân tộc thiểu số khó khăn về nhà ở](https://laodong.vn/xa-hoi/ca-mau-trao-50-can-nha-cho-nguoi-dan-toc-thieu-so-kho-khan-ve-nha-o-887662.ldo) ([Lao Động](https://laodong.vn))
-- [Im lặng với nhân viên đang mong muốn được thăng tiến: Chính là cách sếp tồi đẩy người tài của mình sang tay đối thủ](https://cafebiz.vn/im-lang-voi-nhan-vien-dang-mong-muon-duoc-thang-tien-chinh-la-cach-sep-toi-day-nguoi-tai-cua-minh-sang-tay-doi-thu-2021030819205017.chn) ([CafeBiz](https://cafebiz.vn))
-- [Triệt xóa đường dây lập công ty ‘ma’ buôn lậu qua cảng Tiên Sa](https://tuoitre.vn/triet-xoa-duong-day-lap-cong-ty-ma-buon-lau-qua-cang-tien-sa-20210310140642782.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chưa có phương án bảo vệ, hộ lan cao tốc Nội Bài - Lào Cai vẫn bị phá](https://laodong.vn/xa-hoi/chua-co-phuong-an-bao-ve-ho-lan-cao-toc-noi-bai-lao-cai-van-bi-pha-887301.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng: Khởi tố kẻ hành hung, vu khống nam thanh niên 17 tuổi](https://laodong.vn/phap-luat/hai-phong-khoi-to-ke-hanh-hung-vu-khong-nam-thanh-nien-17-tuoi-887638.ldo) ([Lao Động](https://laodong.vn))
-- [Burger King gây phẫn nộ vì tuyên bố ‘Phụ nữ thuộc về cái bếp’ trong ngày 8/3, dù mục đích ban đầu vốn mang ý tốt](https://cafebiz.vn/burger-king-gay-phan-no-khap-mang-xa-hoi-vi-tuyen-bo-phu-nu-thuoc-ve-cai-bep-trong-ngay-8-3-20210310103609797.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chi 36 triệu USD để mua hàng nghìn tấn đồng, một công ty chết lặng khi chỉ nhận về… những khối đá sơn màu](https://cafebiz.vn/chi-36-trieu-usd-de-mua-hang-nghin-tan-dong-mot-cong-ty-chet-lang-khi-chi-nhan-ve-nhung-khoi-da-son-mau-20210310135228069.chn) ([CafeBiz](https://cafebiz.vn))
+- [EU lên tiếng bác bỏ sau khi bị cáo buộc ''chủ nghĩa dân tộc vaccine''](https://laodong.vn/the-gioi/eu-len-tieng-bac-bo-sau-khi-bi-cao-buoc-chu-nghia-dan-toc-vaccine-887613.ldo) ([Lao Động](https://laodong.vn))
+- [Phòng chống COVID-19 từ mô hình “Ghế đá thông điệp”](https://laodong.vn/ban-doc/phong-chong-covid-19-tu-mo-hinh-ghe-da-thong-diep-887672.ldo) ([Lao Động](https://laodong.vn))
+- [Công đoàn tổ chức chương trình “Lắng nghe – Thấu hiểu – Chia sẻ”](https://laodong.vn/cd-cong-thuong/cong-doan-to-chuc-chuong-trinh-lang-nghe--thau-hieu--chia-se-887686.ldo) ([Lao Động](https://laodong.vn))
+- [Nam sinh viên suýt mất mạng vì bị đứt đôi khí quản do tai nạn giao thông](https://laodong.vn/suc-khoe/nam-sinh-vien-suyt-mat-mang-vi-bi-dut-doi-khi-quan-do-tai-nan-giao-thong-887658.ldo) ([Lao Động](https://laodong.vn))
+- [Sặc hạt điều, bé trai 2 tuổi nguy kịch đến tính mạng](https://laodong.vn/suc-khoe/sac-hat-dieu-be-trai-2-tuoi-nguy-kich-den-tinh-mang-887681.ldo) ([Lao Động](https://laodong.vn))
+- [Ferrari bất ngờ ‘tụt hậu’, ngày càng được ít người quan tâm?](https://cafebiz.vn/ferrari-bat-ngo-tut-hau-ngay-cang-duoc-it-nguoi-quan-tam-20210310135920521.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Gót chân A-sin' của Bitcoin hóa ra lại là tính năng tuyệt vời nhất của nó](https://cafebiz.vn/got-chan-a-sin-cua-bitcoin-hoa-ra-lai-la-tinh-nang-tuyet-voi-nhat-cua-no-20210310151714105.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cứu hộ tàu cá bị chìm trên đường vào bờ](https://tuoitre.vn/cuu-ho-tau-ca-bi-chim-tren-duong-vao-bo-20210310131232875.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thơ Nguyễn ôm kumathong xin vía học giỏi, fanpage Bệnh viện Nhi Đồng Thành Phố chia sẻ: "Cần lắm chiếc gậy của nhà chức trách để những thứ tiêu cực không làm méo mó tâm hồn trẻ thơ nữa..."](https://cafebiz.vn/tho-nguyen-om-kumathong-xin-via-hoc-gioi-fanpage-benh-vien-nhi-dong-thanh-pho-chia-se-can-lam-chiec-gay-cua-nha-chuc-trach-de-nhung-thu-tieu-cuc-khong-lam-meo-mo-tam-hon-tre-tho-nua-20210310152647369.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cháy nhà trong ngõ sâu phố cổ Hà Nội, người dân tháo chạy](https://tuoitre.vn/chay-nha-trong-ngo-sau-pho-co-ha-noi-nguoi-dan-thao-chay-20210310143232895.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -122,7 +122,7 @@
 07. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 08. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 09. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
-10. [DJ Snake & Selena Gomez - Selfish Love (Official Video)](https://www.youtube.com/watch?v=gQG_2O9Bu6c) - [DJSnakeVEVO](https://www.youtube.com/channel/UCGkSXL5saM8y3VvJD_PdMFQ)
+10. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -133,13 +133,13 @@
 01. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 03. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
-04. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-06. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
+04. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
+05. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+06. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 07. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 08. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 09. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
-10. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
+10. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
