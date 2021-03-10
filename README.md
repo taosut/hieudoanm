@@ -21,7 +21,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 27°C.
-- Feels Like 25.11°C.
+- Feels Like 25.84°C.
 - Air Visual is 72.
 
 **WEATHER**
@@ -50,19 +50,19 @@
 
 - [![Barca vs PSG](https://img.shields.io/static/v1?label=Barca%20vs%20PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20PSG)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
-- [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Khai báo y tế online](https://img.shields.io/static/v1?label=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online)
 - [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
-- [![Lịch thi đấu bóng đá C1](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20b%C3%B3ng%20%C4%91%C3%A1%20C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20b%C3%B3ng%20%C4%91%C3%A1%20C1)
+- [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
 - [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
 - [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
+- [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![Taeyeon](https://img.shields.io/static/v1?label=Taeyeon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Taeyeon)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Khối tài sản trăm triệu USD của Nữ hoàng Anh và các thành viên trong gia đình tới từ đâu?](https://cafebiz.vn/khoi-tai-san-tram-trieu-usd-cua-nu-hoang-anh-va-cac-thanh-vien-trong-gia-dinh-toi-tu-dau-20210310150234264.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khởi nghiệp bằng ý tưởng nuôi cấy gà trong phòng thí nghiệm, công ty thực phẩm được định giá tỷ USD](https://cafebiz.vn/khoi-nghiep-bang-y-tuong-nuoi-cay-ga-trong-phong-thi-nghiem-cong-ty-thuc-pham-duoc-dinh-gia-ty-usd-2021031013422764.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lợi ích không ngờ của Starlink: đưa internet tốc độ cao lên máy bay, tàu thủy và xe tải](https://cafebiz.vn/loi-ich-khong-ngo-cua-starlink-dua-internet-toc-do-cao-len-may-bay-tau-thuy-va-xe-tai-20210310134608417.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cà Mau: Trao 50 căn nhà cho người dân tộc thiểu số khó khăn về nhà ở](https://laodong.vn/xa-hoi/ca-mau-trao-50-can-nha-cho-nguoi-dan-toc-thieu-so-kho-khan-ve-nha-o-887662.ldo) ([Lao Động](https://laodong.vn))
+- [Im lặng với nhân viên đang mong muốn được thăng tiến: Chính là cách sếp tồi đẩy người tài của mình sang tay đối thủ](https://cafebiz.vn/im-lang-voi-nhan-vien-dang-mong-muon-duoc-thang-tien-chinh-la-cach-sep-toi-day-nguoi-tai-cua-minh-sang-tay-doi-thu-2021030819205017.chn) ([CafeBiz](https://cafebiz.vn))
+- [Triệt xóa đường dây lập công ty ‘ma’ buôn lậu qua cảng Tiên Sa](https://tuoitre.vn/triet-xoa-duong-day-lap-cong-ty-ma-buon-lau-qua-cang-tien-sa-20210310140642782.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chưa có phương án bảo vệ, hộ lan cao tốc Nội Bài - Lào Cai vẫn bị phá](https://laodong.vn/xa-hoi/chua-co-phuong-an-bao-ve-ho-lan-cao-toc-noi-bai-lao-cai-van-bi-pha-887301.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng: Khởi tố kẻ hành hung, vu khống nam thanh niên 17 tuổi](https://laodong.vn/phap-luat/hai-phong-khoi-to-ke-hanh-hung-vu-khong-nam-thanh-nien-17-tuoi-887638.ldo) ([Lao Động](https://laodong.vn))
 - [Burger King gây phẫn nộ vì tuyên bố ‘Phụ nữ thuộc về cái bếp’ trong ngày 8/3, dù mục đích ban đầu vốn mang ý tốt](https://cafebiz.vn/burger-king-gay-phan-no-khap-mang-xa-hoi-vi-tuyen-bo-phu-nu-thuoc-ve-cai-bep-trong-ngay-8-3-20210310103609797.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chi 36 triệu USD để mua hàng nghìn tấn đồng, một công ty chết lặng khi chỉ nhận về… những khối đá sơn màu](https://cafebiz.vn/chi-36-trieu-usd-de-mua-hang-nghin-tan-dong-mot-cong-ty-chet-lang-khi-chi-nhan-ve-nhung-khoi-da-son-mau-20210310135228069.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sự thật "thỉnh" Kumanthong để cầu tài lộc và những lời quảng cáo năng lực "trên trời" khiến nhiều người mù quáng](https://cafebiz.vn/su-that-thinh-kumanthong-de-cau-tai-loc-va-nhung-loi-quang-cao-nang-luc-tren-troi-khien-nhieu-nguoi-mu-quang-20210310142805225.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bang đầu tiên ở Mỹ tiêm vaccine COVID-19 cho hầu hết người dân](https://laodong.vn/the-gioi/bang-dau-tien-o-my-tiem-vaccine-covid-19-cho-hau-het-nguoi-dan-887646.ldo) ([Lao Động](https://laodong.vn))
-- [Tuyển sinh lớp 10 TPHCM: Môn Toán, Văn không còn nhân hệ số 2](https://laodong.vn/giao-duc/tuyen-sinh-lop-10-tphcm-mon-toan-van-khong-con-nhan-he-so-2-887640.ldo) ([Lao Động](https://laodong.vn))
-- [Cú lội ngược dòng của startup từng bị các Shark Việt Nam chê “ngáo giá”, sản phẩm chỉ là “mấy thanh sắt”: Tuyên bố được “cá mập” Mỹ hỗ trợ, nhận hàng trăm đánh giá 5 sao trên Amazon](https://cafebiz.vn/cu-loi-nguoc-dong-cua-startup-tung-bi-cac-shark-viet-nam-che-ngao-gia-san-pham-chi-la-may-thanh-sat-tuyen-bo-duoc-ca-map-my-ho-tro-nhan-hang-tram-danh-gia-5-sao-tren-amazon-20210310141036441.chn) ([CafeBiz](https://cafebiz.vn))
-- [TS. Cấn Văn Lực: 6 kênh đầu tư đáng lưu ý trong năm 2021](https://cafebiz.vn/ts-can-van-luc-6-kenh-dau-tu-dang-luu-y-trong-nam-2021-2021031014183878.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nghiên cứu tâm lý học: Con cái của gia đình có tiền thường thông minh hơn. Vì sao?](https://cafebiz.vn/nghien-cuu-tam-ly-hoc-con-cai-cua-gia-dinh-co-tien-thuong-thong-minh-hon-vi-sao-20210309171930159.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: Tổ chức Hội thi “Nét đẹp áo dài Việt Nam”](https://laodong.vn/ldld-tphcm/tphcm-to-chuc-hoi-thi-net-dep-ao-dai-viet-nam-887642.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
