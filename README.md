@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 23.87°C.
-- Air Visual is 70.
+- Air Visual is 74.
 
 **WEATHER**
 
@@ -53,8 +53,8 @@
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
-- [![Khai báo y tế online](https://img.shields.io/static/v1?label=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online)
 - [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
+- [![Lịch C1](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20C1)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![Nguyễn Phương Hằng Dũng lò vôi](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Ph%C6%B0%C6%A1ng%20H%E1%BA%B1ng%20D%C5%A9ng%20l%C3%B2%20v%C3%B4i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Ph%C6%B0%C6%A1ng%20H%E1%BA%B1ng%20D%C5%A9ng%20l%C3%B2%20v%C3%B4i)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Kỉ lục mới của Rosé - Blackpink: Xứng đáng vị trí top 1 idol nữ Kpop?](https://laodong.vn/giai-tri/ki-luc-moi-cua-rose-blackpink-xung-dang-vi-tri-top-1-idol-nu-kpop-887790.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Hàng trăm hộ dân lo lắng vì kênh thủy lợi ô nhiễm nghiêm trọng](https://laodong.vn/ban-doc/ha-noi-hang-tram-ho-dan-lo-lang-vi-kenh-thuy-loi-o-nhiem-nghiem-trong-887709.ldo) ([Lao Động](https://laodong.vn))
-- [229 sáng kiến đã được cập nhật trong ngày đầu khởi động](https://laodong.vn/cong-doan/229-sang-kien-da-duoc-cap-nhat-trong-ngay-dau-khoi-dong-887791.ldo) ([Lao Động](https://laodong.vn))
-- [Thêm 2 ca COVID-19 mới nhập cảnh ở TP.HCM, Long An, 1 ca Hải Dương](https://tuoitre.vn/them-2-ca-covid-19-moi-nhap-canh-o-tp-hcm-long-an-1-ca-hai-duong-20210310180948761.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thủ tướng Chính phủ chỉ đạo kiểm tra xử lý vụ phá rừng Suối Tân, Khánh Hòa](https://laodong.vn/xa-hoi/thu-tuong-chinh-phu-chi-dao-kiem-tra-xu-ly-vu-pha-rung-suoi-tan-khanh-hoa-887777.ldo) ([Lao Động](https://laodong.vn))
-- [New Zealand đánh giá cao các kết quả Việt Nam thực hiện mục tiêu &quot;kép&quot;](https://laodong.vn/thoi-su/new-zealand-danh-gia-cao-cac-ket-qua-viet-nam-thuc-hien-muc-tieu-kep-887753.ldo) ([Lao Động](https://laodong.vn))
-- [Thêm 3 ca mắc mới COVID-19, trong đó 1 ca ở Hải Dương](https://cafebiz.vn/them-3-ca-mac-moi-covid-19-trong-do-1-ca-o-hai-duong-20210310182624.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thanh niên chạy ô tô loạn xạ trên đường rồi cầm dao cố thủ trong xe](https://tuoitre.vn/thanh-nien-chay-o-to-loan-xa-tren-duong-roi-cam-dao-co-thu-trong-xe-20210310165836179.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [HSBC hạ dự báo tăng trưởng GDP Việt Nam năm 2021 từ 7,6% xuống 7%, tỷ lệ lạm phát 3%](https://cafebiz.vn/hsbc-ha-du-bao-tang-truong-gdp-viet-nam-nam-2021-tu-76-xuong-7-ty-le-lam-phat-3-20210310173334895.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cựu cán bộ và sinh viên ĐH Bách Khoa góp vốn lập quỹ đầu tư startup: Mục tiêu quy mô 10 triệu USD](https://cafebiz.vn/cuu-can-bo-va-sinh-vien-dh-bach-khoa-gop-von-lap-quy-dau-tu-startup-muc-tieu-quy-mo-10-trieu-usd-20210310172123692.chn) ([CafeBiz](https://cafebiz.vn))
+- ["Phù thủy trang điểm" Phan Minh Lộc qua đời vì suy tim: Người mắc bệnh này cần chú ý gì?](https://cafebiz.vn/phu-thuy-trang-diem-phan-minh-loc-qua-doi-vi-suy-tim-nguoi-mac-benh-nay-can-chu-y-gi-20210310180326872.chn) ([CafeBiz](https://cafebiz.vn))
+- ["Mỹ sẽ biến thành Zimbabwe vì Fed in tiền vô tội vạ": Kinh tế học meme và cách "trẻ trâu Internet" ảnh hưởng đến quyết định của NHTW](https://cafebiz.vn/my-se-bien-thanh-zimbabwe-vi-fed-in-tien-vo-toi-va-kinh-te-hoc-meme-va-cach-tre-trau-internet-anh-huong-den-quyet-dinh-cua-nhtw-20210310182729243.chn) ([CafeBiz](https://cafebiz.vn))
+- [Meghan Markle: Tự ví mình với Nàng tiên cá, từ bỏ tự do để đến với Hoàng tử](https://cafebiz.vn/meghan-markle-tu-vi-minh-voi-nang-tien-ca-tu-bo-tu-do-de-den-voi-hoang-tu-20210310154112577.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tập đoàn T&amp;T Group hợp tác chiến lược với 2 tỉnh Lào Cai và Cà Mau](https://laodong.vn/bat-dong-san/tap-doan-tt-group-hop-tac-chien-luoc-voi-2-tinh-lao-cai-va-ca-mau-887748.ldo) ([Lao Động](https://laodong.vn))
+- [Đại tá Đinh Văn Nơi nói về vụ tội phạm bỏ 20 tỉ “chạy” để điều chuyển mình](https://laodong.vn/phap-luat/dai-ta-dinh-van-noi-noi-ve-vu-toi-pham-bo-20-ti-chay-de-dieu-chuyen-minh-887785.ldo) ([Lao Động](https://laodong.vn))
+- [Kiến nghị Thủ tướng chấp thuận đầu tư mở rộng sân bay Điện Biên](https://tuoitre.vn/kien-nghi-thu-tuong-chap-thuan-dau-tu-mo-rong-san-bay-dien-bien-20210310173734014.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Trộm cắp điện đào tiền ảo Bitcoin nở rộ ở Đắk Lắk](https://laodong.vn/xa-hoi/trom-cap-dien-dao-tien-ao-bitcoin-no-ro-o-dak-lak-887696.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng xét nghiệm SARS-CoV-2 có thu phí cho người xuất cảnh](https://laodong.vn/y-te/hai-phong-xet-nghiem-sars-cov-2-co-thu-phi-cho-nguoi-xuat-canh-887783.ldo) ([Lao Động](https://laodong.vn))
+- [Công viên Tuổi trẻ hoang hóa rỉ sét: Nghìn tỉ phơi nắng mưa gần 2 thập kỷ](https://laodong.vn/bat-dong-san/cong-vien-tuoi-tre-hoang-hoa-ri-set-nghin-ti-phoi-nang-mua-gan-2-thap-ky-887740.ldo) ([Lao Động](https://laodong.vn))
+- [Hiệu trưởng chưa khẳng định được cô giáo nhảy lầu hay tự té](https://tuoitre.vn/hieu-truong-chua-khang-dinh-duoc-co-giao-nhay-lau-hay-tu-te-2021031017311158.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
