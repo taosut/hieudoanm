@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Trong tháng 4.2021 sẽ đấu thầu đoạn cao tốc Nghi Sơn-Diễn Châu](https://laodong.vn/xa-hoi/trong-thang-42021-se-dau-thau-doan-cao-toc-nghi-son-dien-chau-887603.ldo) ([Lao Động](https://laodong.vn))
+- [Nghị quyết &quot;Thuận thiên&quot;: Hóa giải thách thức, phát triển bền vững ĐBSCL](https://laodong.vn/moi-truong/nghi-quyet-thuan-thien-hoa-giai-thach-thuc-phat-trien-ben-vung-dbscl-887585.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút: Thực hư cách chữa bệnh nan y của &quot;thần y&quot; Võ Hoàng Yên?](https://laodong.vn/video/ban-tin-1-phut-thuc-hu-cach-chua-benh-nan-y-cua-than-y-vo-hoang-yen-887597.ldo) ([Lao Động](https://laodong.vn))
+- [HOSE nghẽn lệnh, công nghệ Việt xử lý được trong 3 tháng?](https://laodong.vn/kinh-te/hose-nghen-lenh-cong-nghe-viet-xu-ly-duoc-trong-3-thang-887426.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng: Tường trường cấp 2 nứt nghiêng, nguy hiểm ngõ dân sinh](https://laodong.vn/ban-doc/hai-phong-tuong-truong-cap-2-nut-nghieng-nguy-hiem-ngo-dan-sinh-887564.ldo) ([Lao Động](https://laodong.vn))
-- [Đề nghị tuyên phạt bị cáo Đinh La Thăng 12-13 năm tù](https://laodong.vn/phap-luat/de-nghi-tuyen-phat-bi-cao-dinh-la-thang-12-13-nam-tu-887602.ldo) ([Lao Động](https://laodong.vn))
-- [Hai giám đốc sở ở Hải Dương được bầu Phó Chủ tịch UBND tỉnh](https://laodong.vn/thoi-su/hai-giam-doc-so-o-hai-duong-duoc-bau-pho-chu-tich-ubnd-tinh-887601.ldo) ([Lao Động](https://laodong.vn))
 - ["Đại tiểu thư nhà họ Cao" đang gây bão màn ảnh Việt: Gương mặt vàng của VTV và các nhãn hàng, thành công từ diễn xuất đến đời thực nhưng cực kỳ kín tiếng chuyện riêng tư](https://cafebiz.vn/dai-tieu-thu-nha-ho-cao-dang-gay-bao-man-anh-viet-guong-mat-vang-cua-vtv-va-cac-nhan-hang-thanh-cong-tu-dien-xuat-den-doi-thuc-nhung-cuc-ky-kin-tieng-chuyen-rieng-tu-20210310122240642.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mobile Money chính thức được triển khai, thị trường dịch vụ thanh toán Việt Nam sẽ thay đổi ra sao?](https://cafebiz.vn/mobile-money-chinh-thuc-duoc-trien-khai-thi-truong-dich-vu-thanh-toan-viet-nam-se-thay-doi-ra-sao-20210310121707614.chn) ([CafeBiz](https://cafebiz.vn))
 - [Người dân đi làm căn cước công dân gắn chíp cần chuẩn bị gì](http://vietnamnet.vn/vn/thoi-su/nguoi-dan-di-lam-can-cuoc-cong-dan-gan-chip-can-chuan-bi-gi-718560.html) ([VietNamNet](https://vietnamnet.vn))
 - [Dự án xử lý điểm đen tai nạn chậm tiến độ](https://vnexpress.net/du-an-xu-ly-diem-den-tai-nan-cham-tien-do-4246214.html) ([VNExpress](https://vnexpress.net))
 - [TPHCM: Tài xế ngơ ngác khi bị CSGT tuýt còi khi vừa đi qua hầm Thủ Thiêm](https://laodong.vn/video-thoi-su/tphcm-tai-xe-ngo-ngac-khi-bi-csgt-tuyt-coi-khi-vua-di-qua-ham-thu-thiem-887563.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ TT&TT đề nghị điều tra, xử lý dứt điểm vụ phụ nữ nước ngoài bị sàm sỡ](http://vietnamnet.vn/vn/thoi-su/bo-tt-tt-de-nghi-dieu-tra-xu-ly-dut-diem-vu-phu-nu-nuoc-ngoai-bi-sam-so-718558.html) ([VietNamNet](https://vietnamnet.vn))
-- ['Đại gia chân đất' ở Quảng Trị bị phạt vì xúc phạm công an trên Facebook](http://vietnamnet.vn/vn/thoi-su/dai-gia-chan-dat-o-quang-tri-bi-phat-vi-xuc-pham-cong-an-tren-facebook-718574.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
