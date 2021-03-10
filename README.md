@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 23°C.
-- Feels Like 25.17°C.
-- Air Visual is 97.
+- Current weather is broken clouds.
+- Temperature is 24°C.
+- Feels Like 25.4°C.
+- Air Visual is 104.
 
 **WEATHER**
 
@@ -50,24 +50,24 @@
 
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
-- [![Cây xăng Vân Trúc](https://img.shields.io/static/v1?label=C%C3%A2y%20x%C4%83ng%20V%C3%A2n%20Tr%C3%BAc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C3%A2y%20x%C4%83ng%20V%C3%A2n%20Tr%C3%BAc)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
 - [![Lee Ji Eun](https://img.shields.io/static/v1?label=Lee%20Ji%20Eun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Ji%20Eun)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
 - [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
-- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
+- [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
+- [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![Taeyeon](https://img.shields.io/static/v1?label=Taeyeon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Taeyeon)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
-- [![Đinh La Thăng](https://img.shields.io/static/v1?label=%C4%90inh%20La%20Th%C4%83ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20La%20Th%C4%83ng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bắt tạm giam đối tượng đâm 10 nhát dao vào thanh niên trong quán nhậu](https://laodong.vn/phap-luat/bat-tam-giam-doi-tuong-dam-10-nhat-dao-vao-thanh-nien-trong-quan-nhau-887531.ldo) ([Lao Động](https://laodong.vn))
-- [Kết quả - lịch thi đấu bóng đá ngày 10.3: Tâm điểm PSG - Barcelona](https://laodong.vn/lich-thi-dau/ket-qua-lich-thi-dau-bong-da-ngay-103-tam-diem-psg-barcelona-887510.ldo) ([Lao Động](https://laodong.vn))
-- [Từ 10/3: Mang phao vào phòng thi bị phạt 1-2 triệu đồng, nhờ người thi hộ bị phạt 14-16 triệu đồng](https://cafebiz.vn/tu-10-3-mang-phao-vao-phong-thi-bi-phat-1-2-trieu-dong-nho-nguoi-thi-ho-bi-phat-14-16-trieu-dong-20210310093751705.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ronaldo bị châm chọc với hành động khiến Juventus bị loại](https://laodong.vn/bong-da-quoc-te/ronaldo-bi-cham-choc-voi-hanh-dong-khien-juventus-bi-loai-887522.ldo) ([Lao Động](https://laodong.vn))
-- [Hé lộ nhà rộng 2000 m2 của Bằng Kiều tại Mỹ, cây quý bằng cả gia tài, phải xích lại](https://cafebiz.vn/he-lo-nha-rong-2000-m2-cua-bang-kieu-tai-my-cay-quy-bang-ca-gia-tai-phai-xich-lai-20210310093206154.chn) ([CafeBiz](https://cafebiz.vn))
-- [Điểm nóng COVID-19 tại khu đô thị Việt Mỹ được gỡ phong tỏa sau 40 ngày](https://tuoitre.vn/diem-nong-covid-19-tai-khu-do-thi-viet-my-duoc-go-phong-toa-sau-40-ngay-20210310082505189.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Mỹ chấp thuận gia hạn triển khai Vệ binh Quốc gia tại Điện Capitol](https://laodong.vn/the-gioi/my-chap-thuan-gia-han-trien-khai-ve-binh-quoc-gia-tai-dien-capitol-887512.ldo) ([Lao Động](https://laodong.vn))
-- [Triệu chứng &quot;đau nửa đầu&quot; nguy hiểm như thế nào?](https://laodong.vn/suc-khoe/trieu-chung-dau-nua-dau-nguy-hiem-nhu-the-nao-887105.ldo) ([Lao Động](https://laodong.vn))
-- [Ninh Bình: Hơn 40 cột điện &quot;mọc&quot; giữa đường giăng bẫy người đi đường](https://laodong.vn/ban-doc/ninh-binh-hon-40-cot-dien-moc-giua-duong-giang-bay-nguoi-di-duong-887516.ldo) ([Lao Động](https://laodong.vn))
-- [9 dấu hiệu NÓI bạn "không có duyên" trong giao tiếp](https://cafebiz.vn/9-dau-hieu-noi-ban-khong-co-duyen-trong-giao-tiep-20210309170128854.chn) ([CafeBiz](https://cafebiz.vn))
+- [Youtuber triệu subscribes Mr. Vịt: “Máu kinh doanh chưa bao giờ mất đi trong tôi”](https://cafebiz.vn/youtuber-trieu-subscribes-mr-vit-mau-kinh-doanh-chua-bao-gio-mat-di-trong-toi-20210310091156133.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những mẫu xe ô tô phổ thông khoẻ nhất trong từng phân khúc](https://cafebiz.vn/nhung-mau-xe-o-to-pho-thong-khoe-nhat-trong-tung-phan-khuc-20210310085655704.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chọn điều hoà không khí tiết kiệm điện năng nhờ nhãn năng lượng](https://cafebiz.vn/chon-dieu-hoa-khong-khi-tiet-kiem-dien-nang-nho-nhan-nang-luong-20210309114346188.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mua đất có thông tin chuyển nhượng nhưng sổ đỏ vẫn tên chủ cũ được không?](https://laodong.vn/bat-dong-san/mua-dat-co-thong-tin-chuyen-nhuong-nhung-so-do-van-ten-chu-cu-duoc-khong-886952.ldo) ([Lao Động](https://laodong.vn))
+- [Hệ thống điều khiển hành trình không hoạt động, đâu là nguyên nhân?](https://laodong.vn/xe/he-thong-dieu-khien-hanh-trinh-khong-hoat-dong-dau-la-nguyen-nhan-887488.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng và ngoại tệ 10.3: USD rời đỉnh, nhường đà tăng cho vàng](https://laodong.vn/video/gia-vang-va-ngoai-te-103-usd-roi-dinh-nhuong-da-tang-cho-vang-887538.ldo) ([Lao Động](https://laodong.vn))
+- [Giáo viên không nhất thiết phải có chứng chỉ chức danh nghề nghiệp](https://laodong.vn/xa-hoi/giao-vien-khong-nhat-thiet-phai-co-chung-chi-chuc-danh-nghe-nghiep-887451.ldo) ([Lao Động](https://laodong.vn))
+- [Công bố danh sách 184 đơn vị bầu cử đại biểu Quốc hội khóa XV](https://laodong.vn/infographic/cong-bo-danh-sach-184-don-vi-bau-cu-dai-bieu-quoc-hoi-khoa-xv-885726.ldo) ([Lao Động](https://laodong.vn))
+- [Unilever loại bỏ 1 từ trong nhãn mác của 200 sản phẩm gồm cả Dove, Sunsilk](https://cafebiz.vn/unilever-loai-bo-1-tu-trong-nhan-mac-cua-200-san-pham-gom-ca-dove-sunsilk-20210310095538181.chn) ([CafeBiz](https://cafebiz.vn))
+- [53 người Trung Quốc nhập cảnh trái phép âm tính với Covid-19](http://vietnamnet.vn/vn/thoi-su/53-nguoi-trung-quoc-nhap-canh-trai-phep-am-tinh-voi-covid-19-718514.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
