@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 28°C.
 - Feels Like 26.77°C.
-- Air Visual is 91.
+- Air Visual is 92.
 
 **WEATHER**
 
@@ -54,15 +54,15 @@
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
-- [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
-- [![Nancy](https://img.shields.io/static/v1?label=Nancy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nancy)
+- [![Lịch thi đấu bóng đá C1](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20b%C3%B3ng%20%C4%91%C3%A1%20C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20b%C3%B3ng%20%C4%91%C3%A1%20C1)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
-- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
 - [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
-- [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
+- [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
+- [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
 - [![Taeyeon](https://img.shields.io/static/v1?label=Taeyeon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Taeyeon)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nghệ An: Bệnh viện Phổi xả thải ra môi trường, dân lo lắng](https://laodong.vn/ban-doc/nghe-an-benh-vien-phoi-xa-thai-ra-moi-truong-dan-lo-lang-887503.ldo) ([Lao Động](https://laodong.vn))
+- [Dịch COVID-19: Khiến cuộc sống người dân chùa Hương bị xáo trộn như nào?](https://laodong.vn/photo/dich-covid-19-khien-cuoc-song-nguoi-dan-chua-huong-bi-xao-tron-nhu-nao-887473.ldo) ([Lao Động](https://laodong.vn))
+- [Có được thu tiền của người lao động khi tuyển dụng?](https://laodong.vn/tu-van-phap-luat/co-duoc-thu-tien-cua-nguoi-lao-dong-khi-tuyen-dung-886990.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyện lạ ở Hà Nội: Cụ ông U80 dùng cân đếm tiền, có 11 vợ, người trẻ nhất mới hơn 20 tuổi](https://cafebiz.vn/chuyen-la-o-ha-noi-cu-ong-u80-dung-can-dem-tien-co-11-vo-nguoi-tre-nhat-moi-hon-20-tuoi-20210310135616666.chn) ([CafeBiz](https://cafebiz.vn))
 - [Khởi tố vụ án chồng sát hại vợ và con gái ngày 8.3](https://laodong.vn/phap-luat/khoi-to-vu-an-chong-sat-hai-vo-va-con-gai-ngay-83-887608.ldo) ([Lao Động](https://laodong.vn))
+- [Hai thanh niên chết tại mương nước nội đồng](https://tuoitre.vn/hai-thanh-nien-chet-tai-muong-nuoc-noi-dong-20210310130621579.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Harry Charles: Từ đứa trẻ ai cũng thương sau cái chết ám ảnh của Công nương tới "Hoàng tử ếch" bị cả thế giới chê cười vì "để vợ dắt mũi"](https://cafebiz.vn/harry-charles-tu-dua-tre-ai-cung-thuong-sau-cai-chet-am-anh-cua-cong-nuong-toi-hoang-tu-ech-bi-ca-the-gioi-che-cuoi-vi-de-vo-dat-mui-20210310134714923.chn) ([CafeBiz](https://cafebiz.vn))
 - [Từ hôm nay, cho người khác mượn văn bằng bị phạt tới 10 triệu đồng](https://cafebiz.vn/tu-hom-nay-cho-nguoi-khac-muon-van-bang-bi-phat-toi-10-trieu-dong-20210310134444279.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tọa đàm: “Những điểm ưu việt của bộ SGK lớp 2, lớp 6 xã hội hóa đầu tiên&quot;](https://laodong.vn/giao-duc/toa-dam-nhung-diem-uu-viet-cua-bo-sgk-lop-2-lop-6-xa-hoi-hoa-dau-tien-887578.ldo) ([Lao Động](https://laodong.vn))
 - [Gặp cụ bà 100 tuổi có ảnh thời thanh xuân đang &quot;nổi sóng&quot; trên mạng xã hội](https://laodong.vn/xa-hoi/gap-cu-ba-100-tuoi-co-anh-thoi-thanh-xuan-dang-noi-song-tren-mang-xa-hoi-887604.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ Ethanol Phú Thọ: Ông Đinh La Thăng bị đề nghị 12-13 năm tù, Trịnh Xuân Thanh 21-22 năm tù](https://cafebiz.vn/vu-ethanol-phu-tho-ong-dinh-la-thang-bi-de-nghi-12-13-nam-tu-trinh-xuan-thanh-21-22-nam-tu-20210310134108283.chn) ([CafeBiz](https://cafebiz.vn))
-- [Toàn cảnh triệt phá đường dây xăng giả 200 triệu lít của Công an Đồng Nai](https://laodong.vn/phap-luat/toan-canh-triet-pha-duong-day-xang-gia-200-trieu-lit-cua-cong-an-dong-nai-887614.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương có 2 phó chủ tịch UBND tỉnh mới](https://tuoitre.vn/hai-duong-co-2-pho-chu-tich-ubnd-tinh-moi-20210310123044797.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bố mẹ bán đất sổ đỏ có cần chữ ký của các con?](https://laodong.vn/bat-dong-san/bo-me-ban-dat-so-do-co-can-chu-ky-cua-cac-con-887197.ldo) ([Lao Động](https://laodong.vn))
-- [Siêu dự án giải trí, nghỉ dưỡng lớn bậc nhất Việt Nam trên quy mô 24.000h tại Thanh Hóa sẽ về tay ông lớn nào?](https://cafebiz.vn/sieu-du-an-giai-tri-nghi-duong-lon-bac-nhat-viet-nam-tren-quy-mo-24000h-tai-thanh-hoa-se-ve-tay-ong-lon-nao-20210310133309383.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
