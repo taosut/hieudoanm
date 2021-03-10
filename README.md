@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 26.03°C.
-- Air Visual is 93.
+- Temperature is 27°C.
+- Feels Like 27.03°C.
+- Air Visual is 96.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Công dân đầu tiên có 'hộ chiếu vắc xin' về nước.](https://tuoitre.vn/cong-dan-dau-tien-co-ho-chieu-vac-xin-ve-nuoc-20210310112346323.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [LĐLĐ TPHCM: Triển khai công tác tuyên giáo năm 2021](https://laodong.vn/ldld-tphcm/ldld-tphcm-trien-khai-cong-tac-tuyen-giao-nam-2021-887612.ldo) ([Lao Động](https://laodong.vn))
-- [Đại tá Đinh Văn Nơi và “viên đạn bọc tiền 20 tỉ”](https://laodong.vn/su-kien-binh-luan/dai-ta-dinh-van-noi-va-vien-dan-boc-tien-20-ti-887535.ldo) ([Lao Động](https://laodong.vn))
-- [CĐ Xây dựng Việt Nam: Triển khi thực hiện Bộ luật Lao động 2019](https://laodong.vn/cd-xay-dung/cd-xay-dung-viet-nam-trien-khi-thuc-hien-bo-luat-lao-dong-2019-887586.ldo) ([Lao Động](https://laodong.vn))
-- [Công đoàn Điện Biên với công tác thực hiện an toàn giao thông năm 2021](https://laodong.vn/ldld-dien-bien/cong-doan-dien-bien-voi-cong-tac-thuc-hien-an-toan-giao-thong-nam-2021-887575.ldo) ([Lao Động](https://laodong.vn))
-- [Viettel chỉ được đón 2.000 khán giả/trận ở sân Hàng Đẫy](https://laodong.vn/bong-da/viettel-chi-duoc-don-2000-khan-giatran-o-san-hang-day-887605.ldo) ([Lao Động](https://laodong.vn))
-- [Nguyên phó ban đường sắt đô thị bị phân công về tổ giúp việc](https://vnexpress.net/nguyen-pho-ban-duong-sat-do-thi-bi-phan-cong-ve-to-giup-viec-4245111.html) ([VNExpress](https://vnexpress.net))
-- [Bản tin 1 phút: Thực hư cách chữa bệnh nan y của &quot;thần y&quot; Võ Hoàng Yên?](https://laodong.vn/video/ban-tin-1-phut-thuc-hu-cach-chua-benh-nan-y-cua-than-y-vo-hoang-yen-887597.ldo) ([Lao Động](https://laodong.vn))
-- ["Đại tiểu thư nhà họ Cao" đang gây bão màn ảnh Việt: Gương mặt vàng của VTV và các nhãn hàng, thành công từ diễn xuất đến đời thực nhưng cực kỳ kín tiếng chuyện riêng tư](https://cafebiz.vn/dai-tieu-thu-nha-ho-cao-dang-gay-bao-man-anh-viet-guong-mat-vang-cua-vtv-va-cac-nhan-hang-thanh-cong-tu-dien-xuat-den-doi-thuc-nhung-cuc-ky-kin-tieng-chuyen-rieng-tu-20210310122240642.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mobile Money chính thức được triển khai, thị trường dịch vụ thanh toán Việt Nam sẽ thay đổi ra sao?](https://cafebiz.vn/mobile-money-chinh-thuc-duoc-trien-khai-thi-truong-dich-vu-thanh-toan-viet-nam-se-thay-doi-ra-sao-20210310121707614.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bố mẹ bán đất sổ đỏ có cần chữ ký của các con?](https://laodong.vn/bat-dong-san/bo-me-ban-dat-so-do-co-can-chu-ky-cua-cac-con-887197.ldo) ([Lao Động](https://laodong.vn))
+- [Đâm vào xe ôtô đang đỗ, trách nhiệm các bên ra sao?](https://laodong.vn/xe/dam-vao-xe-oto-dang-do-trach-nhiem-cac-ben-ra-sao-887478.ldo) ([Lao Động](https://laodong.vn))
+- [Bến Tre không tắt đèn vào Giờ Trái đất 2021 nhằm đảm bảo an toàn](https://laodong.vn/xa-hoi/ben-tre-khong-tat-den-vao-gio-trai-dat-2021-nham-dam-bao-an-toan-887634.ldo) ([Lao Động](https://laodong.vn))
+- [Siêu dự án giải trí, nghỉ dưỡng lớn bậc nhất Việt Nam trên quy mô 24.000h tại Thanh Hóa sẽ về tay ông lớn nào?](https://cafebiz.vn/sieu-du-an-giai-tri-nghi-duong-lon-bac-nhat-viet-nam-tren-quy-mo-24000h-tai-thanh-hoa-se-ve-tay-ong-lon-nao-20210310133309383.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhà vô địch Cúp Quốc gia sẽ được nhận thưởng 1 tỉ đồng](https://laodong.vn/bong-da/nha-vo-dich-cup-quoc-gia-se-duoc-nhan-thuong-1-ti-dong-887550.ldo) ([Lao Động](https://laodong.vn))
+- [Pháp tập trận lần đầu tiên trong không gian vũ trụ](https://laodong.vn/the-gioi/phap-tap-tran-lan-dau-tien-trong-khong-gian-vu-tru-887598.ldo) ([Lao Động](https://laodong.vn))
+- [Những màn ngược dòng kinh điển ở Champions League](https://laodong.vn/bong-da-quoc-te/nhung-man-nguoc-dong-kinh-dien-o-champions-league-887615.ldo) ([Lao Động](https://laodong.vn))
+- [Một tờ giấy trắng đổi lấy một tấm séc trị giá 25.000 đô la: Phương pháp kiếm được nhiều tiền nhất bắt nguồn từ chi tiết nhỏ](https://cafebiz.vn/mot-to-giay-trang-doi-lay-mot-tam-sec-tri-gia-25000-do-la-phuong-phap-kiem-duoc-nhieu-tien-nhat-bat-nguon-tu-chi-tiet-nho-20210309170019628.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thơ Nguyễn: Tốt nghiệp cử nhân Luật, kiếm hàng chục tỷ từ YouTube, từng chịu làn sóng tẩy chay dữ dội](https://cafebiz.vn/tho-nguyen-tot-nghiep-cu-nhan-luat-kiem-hang-chuc-ty-tu-youtube-tung-chiu-lan-song-tay-chay-du-doi-20210310130857369.chn) ([CafeBiz](https://cafebiz.vn))
+- [Công dân đầu tiên có 'hộ chiếu vắc xin' về nước](https://tuoitre.vn/cong-dan-dau-tien-co-ho-chieu-vac-xin-ve-nuoc-20210310112346323.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
