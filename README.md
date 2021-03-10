@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 26.41°C.
-- Air Visual is 80.
+- Temperature is 26°C.
+- Feels Like 26.66°C.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -62,7 +62,7 @@
 - [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
 - [![Nancy](https://img.shields.io/static/v1?label=Nancy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nancy)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
-- [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
+- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
 - [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Vẫn thiếu giáo viên, tại sao tốt nghiệp sư phạm không xin được việc?](https://laodong.vn/ban-doc/van-thieu-giao-vien-tai-sao-tot-nghiep-su-pham-khong-xin-duoc-viec-887591.ldo) ([Lao Động](https://laodong.vn))
-- [Bạn muốn hẹn hò: Chàng giám đốc cưới mẹ đơn thân sau 2 tháng được mai mối](https://laodong.vn/yeu-360/ban-muon-hen-ho-chang-giam-doc-cuoi-me-don-than-sau-2-thang-duoc-mai-moi-887576.ldo) ([Lao Động](https://laodong.vn))
-- [Cần làm rõ hai xe phế liệu hiện diện bất thường tại cửa khẩu Ma Lù Thàng](https://laodong.vn/xa-hoi/can-lam-ro-hai-xe-phe-lieu-hien-dien-bat-thuong-tai-cua-khau-ma-lu-thang-887243.ldo) ([Lao Động](https://laodong.vn))
-- [Thái Lan đua nước rút cùng UAE để đăng cai vòng loại World Cup 2022](https://laodong.vn/bong-da/thai-lan-dua-nuoc-rut-cung-uae-de-dang-cai-vong-loai-world-cup-2022-887593.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyên gia quốc tế khuyên tận dụng cơ hội giá vàng giảm](https://laodong.vn/the-gioi/chuyen-gia-quoc-te-khuyen-tan-dung-co-hoi-gia-vang-giam-887574.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng tháo dỡ sai phạm của Mường Thanh từ tháng 4](https://vnexpress.net/da-nang-thao-do-sai-pham-cua-muong-thanh-tu-thang-4-4246272.html) ([VNExpress](https://vnexpress.net))
-- [Công bố mới: khoa học đã có thể chế tạo động cơ warp, mang khả năng bẻ cong không gian để du hành vũ trụ](https://cafebiz.vn/cong-bo-moi-khoa-hoc-da-co-the-che-tao-dong-co-warp-mang-kha-nang-be-cong-khong-gian-de-du-hanh-vu-tru-20210310090532798.chn) ([CafeBiz](https://cafebiz.vn))
-- [CSGT TP.HCM mở đợt cao điểm xử lý xe cũ nát](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/csgt-tp-hcm-mo-dot-cao-diem-xu-ly-xe-cu-nat-718551.html) ([VietNamNet](https://vietnamnet.vn))
-- [Chuỗi nhà thuốc An Khang vừa có lợi nhuận trở lại sau gần 2 năm thua lỗ triền miên](https://cafebiz.vn/chuoi-nha-thuoc-an-khang-vua-co-loi-nhuan-tro-lai-sau-gan-2-nam-thua-lo-trien-mien-20210310105201742.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thái độ của chủ tiệm đối với ông già ăn xin rách rưới và bài học: Một nhà kinh doanh giỏi, trong quá trình kiếm tiền, không bao giờ quên giá trị của 2 từ ĐẠO ĐỨC](https://cafebiz.vn/thai-do-cua-chu-tiem-doi-voi-ong-gia-an-xin-rach-ruoi-va-bai-hoc-mot-nha-kinh-doanh-gioi-trong-qua-trinh-kiem-tien-khong-bao-gio-quen-gia-tri-cua-2-tu-dao-duc-20210308102121758.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng: Tường trường cấp 2 nứt nghiêng, nguy hiểm ngõ dân sinh](https://laodong.vn/ban-doc/hai-phong-tuong-truong-cap-2-nut-nghieng-nguy-hiem-ngo-dan-sinh-887564.ldo) ([Lao Động](https://laodong.vn))
+- [Đề nghị tuyên phạt bị cáo Đinh La Thăng 12-13 năm tù](https://laodong.vn/phap-luat/de-nghi-tuyen-phat-bi-cao-dinh-la-thang-12-13-nam-tu-887602.ldo) ([Lao Động](https://laodong.vn))
+- [Hai giám đốc sở ở Hải Dương được bầu Phó Chủ tịch UBND tỉnh](https://laodong.vn/thoi-su/hai-giam-doc-so-o-hai-duong-duoc-bau-pho-chu-tich-ubnd-tinh-887601.ldo) ([Lao Động](https://laodong.vn))
+- ["Đại tiểu thư nhà họ Cao" đang gây bão màn ảnh Việt: Gương mặt vàng của VTV và các nhãn hàng, thành công từ diễn xuất đến đời thực nhưng cực kỳ kín tiếng chuyện riêng tư](https://cafebiz.vn/dai-tieu-thu-nha-ho-cao-dang-gay-bao-man-anh-viet-guong-mat-vang-cua-vtv-va-cac-nhan-hang-thanh-cong-tu-dien-xuat-den-doi-thuc-nhung-cuc-ky-kin-tieng-chuyen-rieng-tu-20210310122240642.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mobile Money chính thức được triển khai, thị trường dịch vụ thanh toán Việt Nam sẽ thay đổi ra sao?](https://cafebiz.vn/mobile-money-chinh-thuc-duoc-trien-khai-thi-truong-dich-vu-thanh-toan-viet-nam-se-thay-doi-ra-sao-20210310121707614.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người dân đi làm căn cước công dân gắn chíp cần chuẩn bị gì](http://vietnamnet.vn/vn/thoi-su/nguoi-dan-di-lam-can-cuoc-cong-dan-gan-chip-can-chuan-bi-gi-718560.html) ([VietNamNet](https://vietnamnet.vn))
+- [Dự án xử lý điểm đen tai nạn chậm tiến độ](https://vnexpress.net/du-an-xu-ly-diem-den-tai-nan-cham-tien-do-4246214.html) ([VNExpress](https://vnexpress.net))
+- [TPHCM: Tài xế ngơ ngác khi bị CSGT tuýt còi khi vừa đi qua hầm Thủ Thiêm](https://laodong.vn/video-thoi-su/tphcm-tai-xe-ngo-ngac-khi-bi-csgt-tuyt-coi-khi-vua-di-qua-ham-thu-thiem-887563.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ TT&TT đề nghị điều tra, xử lý dứt điểm vụ phụ nữ nước ngoài bị sàm sỡ](http://vietnamnet.vn/vn/thoi-su/bo-tt-tt-de-nghi-dieu-tra-xu-ly-dut-diem-vu-phu-nu-nuoc-ngoai-bi-sam-so-718558.html) ([VietNamNet](https://vietnamnet.vn))
+- ['Đại gia chân đất' ở Quảng Trị bị phạt vì xúc phạm công an trên Facebook](http://vietnamnet.vn/vn/thoi-su/dai-gia-chan-dat-o-quang-tri-bi-phat-vi-xuc-pham-cong-an-tren-facebook-718574.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Sẽ có cách mạng ở phố Wall?](https://vietcetera.com/vn/se-co-cach-mang-o-pho-wall)
 - [“Anh không muốn uống thuốc cầm chừng hoài.”](https://vietcetera.com/vn/anh-khong-muon-uong-thuoc-cam-chung-hoai)
 - ["Bố Già" và hành trình nguôi giận để tin yêu của tôi](https://vietcetera.com/vn/bo-gia-hanh-trinh-nguoi-gian-de-tin-yeu)
 - [Meme học: Tại sao người phụ nữ này lại mắng chú mèo?](https://vietcetera.com/vn/meme-hoc-co-gai-la-chu-meo)
@@ -105,7 +106,6 @@
 - [Mất cân bằng chút. Tại sao không?](https://vietcetera.com/vn/mat-can-bang-chut-tai-sao-khong)
 - [Tóm Lại Là: 8/3 nói chuyện vai trò đàn bà và đàn ông](https://vietcetera.com/vn/tom-lai-la-83-noi-chuyen-vai-tro-dan-ba-va-dan-ong)
 - [Promising Young Woman: Cuộc báo thù hoang dại. Và đau đớn](https://vietcetera.com/vn/promising-young-woman-cuoc-bao-thu-hoang-dai-va-dau-don)
-- ["Chẳng có chuyện gì là quá nghiêm trọng trong mắt mẹ anh."](https://vietcetera.com/vn/chang-co-chuyen-gi-la-qua-nghiem-trong-trong-mat-me-anh)
 
 [Read More](https://vietcetera.com/)
 
