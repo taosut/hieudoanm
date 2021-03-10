@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 28°C.
-- Feels Like 26.77°C.
-- Air Visual is 92.
+- Temperature is 27°C.
+- Feels Like 25.11°C.
+- Air Visual is 95.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nghệ An: Bệnh viện Phổi xả thải ra môi trường, dân lo lắng](https://laodong.vn/ban-doc/nghe-an-benh-vien-phoi-xa-thai-ra-moi-truong-dan-lo-lang-887503.ldo) ([Lao Động](https://laodong.vn))
-- [Dịch COVID-19: Khiến cuộc sống người dân chùa Hương bị xáo trộn như nào?](https://laodong.vn/photo/dich-covid-19-khien-cuoc-song-nguoi-dan-chua-huong-bi-xao-tron-nhu-nao-887473.ldo) ([Lao Động](https://laodong.vn))
-- [Có được thu tiền của người lao động khi tuyển dụng?](https://laodong.vn/tu-van-phap-luat/co-duoc-thu-tien-cua-nguoi-lao-dong-khi-tuyen-dung-886990.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyện lạ ở Hà Nội: Cụ ông U80 dùng cân đếm tiền, có 11 vợ, người trẻ nhất mới hơn 20 tuổi](https://cafebiz.vn/chuyen-la-o-ha-noi-cu-ong-u80-dung-can-dem-tien-co-11-vo-nguoi-tre-nhat-moi-hon-20-tuoi-20210310135616666.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khởi tố vụ án chồng sát hại vợ và con gái ngày 8.3](https://laodong.vn/phap-luat/khoi-to-vu-an-chong-sat-hai-vo-va-con-gai-ngay-83-887608.ldo) ([Lao Động](https://laodong.vn))
-- [Hai thanh niên chết tại mương nước nội đồng](https://tuoitre.vn/hai-thanh-nien-chet-tai-muong-nuoc-noi-dong-20210310130621579.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Harry Charles: Từ đứa trẻ ai cũng thương sau cái chết ám ảnh của Công nương tới "Hoàng tử ếch" bị cả thế giới chê cười vì "để vợ dắt mũi"](https://cafebiz.vn/harry-charles-tu-dua-tre-ai-cung-thuong-sau-cai-chet-am-anh-cua-cong-nuong-toi-hoang-tu-ech-bi-ca-the-gioi-che-cuoi-vi-de-vo-dat-mui-20210310134714923.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ hôm nay, cho người khác mượn văn bằng bị phạt tới 10 triệu đồng](https://cafebiz.vn/tu-hom-nay-cho-nguoi-khac-muon-van-bang-bi-phat-toi-10-trieu-dong-20210310134444279.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tọa đàm: “Những điểm ưu việt của bộ SGK lớp 2, lớp 6 xã hội hóa đầu tiên&quot;](https://laodong.vn/giao-duc/toa-dam-nhung-diem-uu-viet-cua-bo-sgk-lop-2-lop-6-xa-hoi-hoa-dau-tien-887578.ldo) ([Lao Động](https://laodong.vn))
-- [Gặp cụ bà 100 tuổi có ảnh thời thanh xuân đang &quot;nổi sóng&quot; trên mạng xã hội](https://laodong.vn/xa-hoi/gap-cu-ba-100-tuoi-co-anh-thoi-thanh-xuan-dang-noi-song-tren-mang-xa-hoi-887604.ldo) ([Lao Động](https://laodong.vn))
+- [Chi 36 triệu USD để mua hàng nghìn tấn đồng, một công ty chết lặng khi chỉ nhận về… những khối đá sơn màu](https://cafebiz.vn/chi-36-trieu-usd-de-mua-hang-nghin-tan-dong-mot-cong-ty-chet-lang-khi-chi-nhan-ve-nhung-khoi-da-son-mau-20210310135228069.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sự thật "thỉnh" Kumanthong để cầu tài lộc và những lời quảng cáo năng lực "trên trời" khiến nhiều người mù quáng](https://cafebiz.vn/su-that-thinh-kumanthong-de-cau-tai-loc-va-nhung-loi-quang-cao-nang-luc-tren-troi-khien-nhieu-nguoi-mu-quang-20210310142805225.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bang đầu tiên ở Mỹ tiêm vaccine COVID-19 cho hầu hết người dân](https://laodong.vn/the-gioi/bang-dau-tien-o-my-tiem-vaccine-covid-19-cho-hau-het-nguoi-dan-887646.ldo) ([Lao Động](https://laodong.vn))
+- [Tuyển sinh lớp 10 TPHCM: Môn Toán, Văn không còn nhân hệ số 2](https://laodong.vn/giao-duc/tuyen-sinh-lop-10-tphcm-mon-toan-van-khong-con-nhan-he-so-2-887640.ldo) ([Lao Động](https://laodong.vn))
+- [Cú lội ngược dòng của startup từng bị các Shark Việt Nam chê “ngáo giá”, sản phẩm chỉ là “mấy thanh sắt”: Tuyên bố được “cá mập” Mỹ hỗ trợ, nhận hàng trăm đánh giá 5 sao trên Amazon](https://cafebiz.vn/cu-loi-nguoc-dong-cua-startup-tung-bi-cac-shark-viet-nam-che-ngao-gia-san-pham-chi-la-may-thanh-sat-tuyen-bo-duoc-ca-map-my-ho-tro-nhan-hang-tram-danh-gia-5-sao-tren-amazon-20210310141036441.chn) ([CafeBiz](https://cafebiz.vn))
+- [TS. Cấn Văn Lực: 6 kênh đầu tư đáng lưu ý trong năm 2021](https://cafebiz.vn/ts-can-van-luc-6-kenh-dau-tu-dang-luu-y-trong-nam-2021-2021031014183878.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nghiên cứu tâm lý học: Con cái của gia đình có tiền thường thông minh hơn. Vì sao?](https://cafebiz.vn/nghien-cuu-tam-ly-hoc-con-cai-cua-gia-dinh-co-tien-thuong-thong-minh-hon-vi-sao-20210309171930159.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: Tổ chức Hội thi “Nét đẹp áo dài Việt Nam”](https://laodong.vn/ldld-tphcm/tphcm-to-chuc-hoi-thi-net-dep-ao-dai-viet-nam-887642.ldo) ([Lao Động](https://laodong.vn))
+- [Long An: Tập huấn tiêm vắc xin COVID-19](https://laodong.vn/xa-hoi/long-an-tap-huan-tiem-vac-xin-covid-19-887641.ldo) ([Lao Động](https://laodong.vn))
+- [Sức hút của Tiêu Chiến, Vương Nhất Bác, Đặng Luân, Cung Tuấn](https://laodong.vn/giai-tri/suc-hut-cua-tieu-chien-vuong-nhat-bac-dang-luan-cung-tuan-887633.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Trịnh Hương Anh và tình yêu cho những điều nhỏ bé](https://vietcetera.com/vn/trinh-huong-anh-va-tinh-yeu-cho-nhung-dieu-nho-be)
 - [Bóc Term: Normie - Làm người bình thường thì đã sao?](https://vietcetera.com/vn/boc-term-normie-lam-nguoi-binh-thuong-thi-co-gi-khong-on)
 - [Sẽ có cách mạng ở phố Wall?](https://vietcetera.com/vn/se-co-cach-mang-o-pho-wall)
 - [“Anh không muốn uống thuốc cầm chừng hoài.”](https://vietcetera.com/vn/anh-khong-muon-uong-thuoc-cam-chung-hoai)
@@ -105,7 +106,6 @@
 - [Câu chuyện chuyển đổi số: Xây dựng thương hiệu trên Facebook - Có còn khó không?](https://vietcetera.com/vn/xay-dung-thuong-hieu-tren-facebook-co-hoi-va-thach-thuc-trong-cong-cuoc-chuyen-doi-so)
 - [Thử Rồi Thích: Lập ngân sách chi tiêu bắt đầu từ mốc số 0](https://vietcetera.com/vn/zero-based-budgeting-lap-ngan-sach-chi-tieu-bat-dau-tu-moc-so-0)
 - [Mất cân bằng chút. Tại sao không?](https://vietcetera.com/vn/mat-can-bang-chut-tai-sao-khong)
-- [Tóm Lại Là: 8/3 nói chuyện vai trò đàn bà và đàn ông](https://vietcetera.com/vn/tom-lai-la-83-noi-chuyen-vai-tro-dan-ba-va-dan-ong)
 
 [Read More](https://vietcetera.com/)
 
@@ -135,11 +135,11 @@
 03. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 04. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 05. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-06. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+06. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
 07. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
-08. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
-09. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
-10. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
+08. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+09. [Nữ Sinh Ngày Đầu Vào Bar Làm Phục Vụ Đụng Nhầm Anh Lưu Manh Nào Ngờ Là Thầy Giáo Chủ Nhiệm | 🎱🎱🎱TV](https://www.youtube.com/watch?v=g5Qfh6tGroQ) - [888TV](https://www.youtube.com/channel/UCba4BKjh0eElxNIToYvFPlQ)
+10. [Vụ bé gái rơi từ tầng 12A chung cư: Mẹ “người hùng” bật khóc xúc động | VTC Now](https://www.youtube.com/watch?v=LmwjBu-WBgQ) - [VTC NOW](https://www.youtube.com/channel/UCL9-pEHNBs3N4r2bMoXdLJA)
 
 [Read More](https://www.youtube.com/feed/trending)
 
