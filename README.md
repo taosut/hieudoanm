@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 23.87°C.
-- Air Visual is 74.
+- Temperature is 24°C.
+- Feels Like 23.7°C.
+- Air Visual is 78.
 
 **WEATHER**
 
@@ -58,7 +58,7 @@
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![Nguyễn Phương Hằng Dũng lò vôi](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Ph%C6%B0%C6%A1ng%20H%E1%BA%B1ng%20D%C5%A9ng%20l%C3%B2%20v%C3%B4i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Ph%C6%B0%C6%A1ng%20H%E1%BA%B1ng%20D%C5%A9ng%20l%C3%B2%20v%C3%B4i)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
-- [![Ngày Quốc tế phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%208/3)
+- [![Ngày Quốc tế Phụ nữ 8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20Ph%E1%BB%A5%20n%E1%BB%AF%208/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
 - [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- ["Phù thủy trang điểm" Phan Minh Lộc qua đời vì suy tim: Người mắc bệnh này cần chú ý gì?](https://cafebiz.vn/phu-thuy-trang-diem-phan-minh-loc-qua-doi-vi-suy-tim-nguoi-mac-benh-nay-can-chu-y-gi-20210310180326872.chn) ([CafeBiz](https://cafebiz.vn))
-- ["Mỹ sẽ biến thành Zimbabwe vì Fed in tiền vô tội vạ": Kinh tế học meme và cách "trẻ trâu Internet" ảnh hưởng đến quyết định của NHTW](https://cafebiz.vn/my-se-bien-thanh-zimbabwe-vi-fed-in-tien-vo-toi-va-kinh-te-hoc-meme-va-cach-tre-trau-internet-anh-huong-den-quyet-dinh-cua-nhtw-20210310182729243.chn) ([CafeBiz](https://cafebiz.vn))
-- [Meghan Markle: Tự ví mình với Nàng tiên cá, từ bỏ tự do để đến với Hoàng tử](https://cafebiz.vn/meghan-markle-tu-vi-minh-voi-nang-tien-ca-tu-bo-tu-do-de-den-voi-hoang-tu-20210310154112577.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tập đoàn T&amp;T Group hợp tác chiến lược với 2 tỉnh Lào Cai và Cà Mau](https://laodong.vn/bat-dong-san/tap-doan-tt-group-hop-tac-chien-luoc-voi-2-tinh-lao-cai-va-ca-mau-887748.ldo) ([Lao Động](https://laodong.vn))
-- [Đại tá Đinh Văn Nơi nói về vụ tội phạm bỏ 20 tỉ “chạy” để điều chuyển mình](https://laodong.vn/phap-luat/dai-ta-dinh-van-noi-noi-ve-vu-toi-pham-bo-20-ti-chay-de-dieu-chuyen-minh-887785.ldo) ([Lao Động](https://laodong.vn))
-- [Kiến nghị Thủ tướng chấp thuận đầu tư mở rộng sân bay Điện Biên](https://tuoitre.vn/kien-nghi-thu-tuong-chap-thuan-dau-tu-mo-rong-san-bay-dien-bien-20210310173734014.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Trộm cắp điện đào tiền ảo Bitcoin nở rộ ở Đắk Lắk](https://laodong.vn/xa-hoi/trom-cap-dien-dao-tien-ao-bitcoin-no-ro-o-dak-lak-887696.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng xét nghiệm SARS-CoV-2 có thu phí cho người xuất cảnh](https://laodong.vn/y-te/hai-phong-xet-nghiem-sars-cov-2-co-thu-phi-cho-nguoi-xuat-canh-887783.ldo) ([Lao Động](https://laodong.vn))
-- [Công viên Tuổi trẻ hoang hóa rỉ sét: Nghìn tỉ phơi nắng mưa gần 2 thập kỷ](https://laodong.vn/bat-dong-san/cong-vien-tuoi-tre-hoang-hoa-ri-set-nghin-ti-phoi-nang-mua-gan-2-thap-ky-887740.ldo) ([Lao Động](https://laodong.vn))
-- [Hiệu trưởng chưa khẳng định được cô giáo nhảy lầu hay tự té](https://tuoitre.vn/hieu-truong-chua-khang-dinh-duoc-co-giao-nhay-lau-hay-tu-te-2021031017311158.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bàn giao đường sắt Cát Linh - Hà Đông vào cuối tháng 3](https://cafebiz.vn/ban-giao-duong-sat-cat-linh-ha-dong-vao-cuoi-thang-3-202103101848493.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo dục 24/7: Một trường THPT tại Hải Dương đóng cửa do lơ là phòng dịch](https://laodong.vn/video/giao-duc-247-mot-truong-thpt-tai-hai-duong-dong-cua-do-lo-la-phong-dich-887649.ldo) ([Lao Động](https://laodong.vn))
+- [Những điều cần biết về loại hình thanh toán Mobile Money](https://cafebiz.vn/nhung-dieu-can-biet-ve-loai-hinh-thanh-toan-mobile-money-20210310190331311.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cậu bé Tam Mao đình đám ngày ấy: Hồi bé học nhiều trường nổi tiếng, lớn lên sống chật vật, còn mắc bệnh lạ khiến ai cũng thương](https://cafebiz.vn/cau-be-tam-mao-dinh-dam-ngay-ay-hoi-be-hoc-nhieu-truong-noi-tieng-lon-len-song-chat-vat-con-mac-benh-la-khien-ai-cung-thuong-20210310174746444.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thí điểm dịch vụ Mobile Money, doanh nghiệp cần những điều kiện gì?](https://cafebiz.vn/thi-diem-dich-vu-mobile-money-doanh-nghiep-can-nhung-dieu-kien-gi-20210310190201068.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kinh tế 24h: Vàng hừng hực tăng giá; Lập đoàn kiểm tra về điện mặt trời](https://laodong.vn/thi-truong/kinh-te-24h-vang-hung-huc-tang-gia-lap-doan-kiem-tra-ve-dien-mat-troi-887731.ldo) ([Lao Động](https://laodong.vn))
+- [Xây dựng lại ngọn tháp của Nhà thờ Đức Bà Paris với 1.000 cây sồi hàng trăm năm tuổi](https://cafebiz.vn/xay-dung-lai-ngon-thap-cua-nha-tho-duc-ba-paris-voi-1000-cay-soi-hang-tram-nam-tuoi-20210310184530881.chn) ([CafeBiz](https://cafebiz.vn))
+- [Với sản phẩm mới “FWD Nâng tầm vị thế”, số tiền bảo hiểm sẽ tự động tăng 15% mỗi 3 năm](https://cafebiz.vn/voi-san-pham-moi-fwd-nang-tam-vi-the-so-tien-bao-hiem-se-tu-dong-tang-15-moi-3-nam-20210310175006951.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hé lộ kế hoạch giải ngân 10 tỉ USD của tỉ phú giàu nhất thế giới Jeff Bezos](https://laodong.vn/the-gioi/he-lo-ke-hoach-giai-ngan-10-ti-usd-cua-ti-phu-giau-nhat-the-gioi-jeff-bezos-887706.ldo) ([Lao Động](https://laodong.vn))
+- [Xe đầu kéo tông liên hoàn](https://vnexpress.net/xe-dau-keo-tong-lien-hoan-4246572.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
