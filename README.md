@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 23°C.
-- Feels Like 24.81°C.
-- Air Visual is 103.
+- Current weather is broken clouds.
+- Temperature is 25°C.
+- Feels Like 26.41°C.
+- Air Visual is 80.
 
 **WEATHER**
 
@@ -48,22 +48,22 @@
 
 **GOOGLE TRENDS**
 
+- [![Barca vs PSG](https://img.shields.io/static/v1?label=Barca%20vs%20PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20PSG)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Clip Ninh duong Lan ngoc](https://img.shields.io/static/v1?label=Clip%20Ninh%20duong%20Lan%20ngoc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Clip%20Ninh%20duong%20Lan%20ngoc)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Hoa hồng](https://img.shields.io/static/v1?label=Hoa%20h%E1%BB%93ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20h%E1%BB%93ng)
 - [![Hướng dương ngược nắng tập 37](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2037)
-- [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
-- [![Lee Ji Eun](https://img.shields.io/static/v1?label=Lee%20Ji%20Eun&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Ji%20Eun)
+- [![Lịch C1](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20C1)
 - [![Meghan Markle](https://img.shields.io/static/v1?label=Meghan%20Markle&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Meghan%20Markle)
 - [![Mùng 8/3](https://img.shields.io/static/v1?label=M%C3%B9ng%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B9ng%208/3)
 - [![Mừng ngày 8/3](https://img.shields.io/static/v1?label=M%E1%BB%ABng%20ng%C3%A0y%208/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%E1%BB%ABng%20ng%C3%A0y%208/3)
+- [![Nancy](https://img.shields.io/static/v1?label=Nancy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nancy)
 - [![Ngày 9/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%209/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%209/3)
 - [![Ngày Quốc tế phụ nữ (8/3](https://img.shields.io/static/v1?label=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%A0y%20Qu%E1%BB%91c%20t%E1%BA%BF%20ph%E1%BB%A5%20n%E1%BB%AF%20(8/3)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
-- [![PSG](https://img.shields.io/static/v1?label=PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=PSG)
 - [![Phan Minh Lộc](https://img.shields.io/static/v1?label=Phan%20Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Phan%20Minh%20L%E1%BB%99c)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![Taeyeon](https://img.shields.io/static/v1?label=Taeyeon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Taeyeon)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Jack Dorsey, Elon Musk và những dòng tweet đem bán đấu giá thời 4.0](https://cafebiz.vn/jack-dorsey-elon-musk-va-nhung-dong-tweet-dem-ban-dau-gia-thoi-40-20210310085843297.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tin bóng đá sáng 10.3: Liverpool vẫn tin tưởng Klopp](https://laodong.vn/bong-da-quoc-te/tin-bong-da-sang-103-liverpool-van-tin-tuong-klopp-887525.ldo) ([Lao Động](https://laodong.vn))
-- [Cô giáo nhảy lầu sau khi bị phụ huynh phản ánh đánh học sinh?](https://tuoitre.vn/co-giao-nhay-lau-sau-khi-bi-phu-huynh-phan-anh-danh-hoc-sinh-20210310100424415.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Ba Thủ tướng Việt Nam, Lào, Campuchia hội đàm trực tuyến](https://laodong.vn/thoi-su/ba-thu-tuong-viet-nam-lao-campuchia-hoi-dam-truc-tuyen-887541.ldo) ([Lao Động](https://laodong.vn))
-- [Từ ACB, nhìn lại các thương vụ thoái vốn đình đám của Dragon Capital](https://cafebiz.vn/tu-acb-nhin-lai-cac-thuong-vu-thoai-von-dinh-dam-cua-dragon-capital-20210310101728224.chn) ([CafeBiz](https://cafebiz.vn))
-- [Công nương Meghan làm dậy sóng tranh luận việc người dân phải đóng thuế nuôi Hoàng gia](https://cafebiz.vn/cong-nuong-meghan-lam-day-song-tranh-luan-viec-nguoi-dan-phai-dong-thue-nuoi-hoang-gia-20210310093909248.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sử dụng mạng xã hội để giải quyết thủ tục hành chính: Bước đi hiệu quả](https://laodong.vn/ban-doc/su-dung-mang-xa-hoi-de-giai-quyet-thu-tuc-hanh-chinh-buoc-di-hieu-qua-887536.ldo) ([Lao Động](https://laodong.vn))
-- [Kỳ tích gọi vốn: 30 ngày gọi thành công 2,5 triệu từ các nhà đầu tư chuyên đi săn ‘kỳ lân’, startup Genetica có bí quyết gì?](https://cafebiz.vn/ky-tich-goi-von-30-ngay-goi-thanh-cong-25-trieu-tu-cac-nha-dau-tu-chuyen-di-san-ky-lan-startup-genetica-co-bi-quyet-gi-20210309231340547.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sinh 2 con một bề được miễn, giảm học phí từ 10.3](https://laodong.vn/ban-doc/sinh-2-con-mot-be-duoc-mien-giam-hoc-phi-tu-103-887537.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Bàn giao Công đoàn cơ sở](https://laodong.vn/cong-doan/ha-noi-ban-giao-cong-doan-co-so-887539.ldo) ([Lao Động](https://laodong.vn))
+- [Vẫn thiếu giáo viên, tại sao tốt nghiệp sư phạm không xin được việc?](https://laodong.vn/ban-doc/van-thieu-giao-vien-tai-sao-tot-nghiep-su-pham-khong-xin-duoc-viec-887591.ldo) ([Lao Động](https://laodong.vn))
+- [Bạn muốn hẹn hò: Chàng giám đốc cưới mẹ đơn thân sau 2 tháng được mai mối](https://laodong.vn/yeu-360/ban-muon-hen-ho-chang-giam-doc-cuoi-me-don-than-sau-2-thang-duoc-mai-moi-887576.ldo) ([Lao Động](https://laodong.vn))
+- [Cần làm rõ hai xe phế liệu hiện diện bất thường tại cửa khẩu Ma Lù Thàng](https://laodong.vn/xa-hoi/can-lam-ro-hai-xe-phe-lieu-hien-dien-bat-thuong-tai-cua-khau-ma-lu-thang-887243.ldo) ([Lao Động](https://laodong.vn))
+- [Thái Lan đua nước rút cùng UAE để đăng cai vòng loại World Cup 2022](https://laodong.vn/bong-da/thai-lan-dua-nuoc-rut-cung-uae-de-dang-cai-vong-loai-world-cup-2022-887593.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyên gia quốc tế khuyên tận dụng cơ hội giá vàng giảm](https://laodong.vn/the-gioi/chuyen-gia-quoc-te-khuyen-tan-dung-co-hoi-gia-vang-giam-887574.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng tháo dỡ sai phạm của Mường Thanh từ tháng 4](https://vnexpress.net/da-nang-thao-do-sai-pham-cua-muong-thanh-tu-thang-4-4246272.html) ([VNExpress](https://vnexpress.net))
+- [Công bố mới: khoa học đã có thể chế tạo động cơ warp, mang khả năng bẻ cong không gian để du hành vũ trụ](https://cafebiz.vn/cong-bo-moi-khoa-hoc-da-co-the-che-tao-dong-co-warp-mang-kha-nang-be-cong-khong-gian-de-du-hanh-vu-tru-20210310090532798.chn) ([CafeBiz](https://cafebiz.vn))
+- [CSGT TP.HCM mở đợt cao điểm xử lý xe cũ nát](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/csgt-tp-hcm-mo-dot-cao-diem-xu-ly-xe-cu-nat-718551.html) ([VietNamNet](https://vietnamnet.vn))
+- [Chuỗi nhà thuốc An Khang vừa có lợi nhuận trở lại sau gần 2 năm thua lỗ triền miên](https://cafebiz.vn/chuoi-nha-thuoc-an-khang-vua-co-loi-nhuan-tro-lai-sau-gan-2-nam-thua-lo-trien-mien-20210310105201742.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thái độ của chủ tiệm đối với ông già ăn xin rách rưới và bài học: Một nhà kinh doanh giỏi, trong quá trình kiếm tiền, không bao giờ quên giá trị của 2 từ ĐẠO ĐỨC](https://cafebiz.vn/thai-do-cua-chu-tiem-doi-voi-ong-gia-an-xin-rach-ruoi-va-bai-hoc-mot-nha-kinh-doanh-gioi-trong-qua-trinh-kiem-tien-khong-bao-gio-quen-gia-tri-cua-2-tu-dao-duc-20210308102121758.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
