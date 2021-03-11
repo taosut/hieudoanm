@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 27.13°C.
-- Air Visual is 102.
+- Feels Like 26.25°C.
+- Air Visual is 100.
 
 **WEATHER**
 
@@ -51,9 +51,9 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
+- [![Hướng dương ngược nắng tập 38](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2038&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2038)
 - [![Hướng dương ngược nắng' tập 39](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng'%20t%E1%BA%ADp%2039&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng'%20t%E1%BA%ADp%2039)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
@@ -64,10 +64,10 @@
 - [![ROG Phone 5](https://img.shields.io/static/v1?label=ROG%20Phone%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=ROG%20Phone%205)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
-- [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
+- [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![UEFA Champions League](https://img.shields.io/static/v1?label=UEFA%20Champions%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UEFA%20Champions%20League)
 - [![Yoona](https://img.shields.io/static/v1?label=Yoona&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Yoona)
-- [![Đại tá Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i)
+- [![Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20V%C4%83n%20N%C6%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Top router Wifi 6 đáng mua nhất năm 2021](https://laodong.vn/cong-nghe/top-router-wifi-6-dang-mua-nhat-nam-2021-887935.ldo) ([Lao Động](https://laodong.vn))
-- [Barca dừng bước trước PSG: Leo Messi, buồn làm chi!](https://laodong.vn/bong-da-quoc-te/barca-dung-buoc-truoc-psg-leo-messi-buon-lam-chi-887987.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: 28.757 mẫu xét nghiệm ngẫu nhiên tầm soát COVID-19 âm tính](https://laodong.vn/xa-hoi/tphcm-28757-mau-xet-nghiem-ngau-nhien-tam-soat-covid-19-am-tinh-888048.ldo) ([Lao Động](https://laodong.vn))
+- [Không ai an toàn 100% trước các vụ tấn công của hacker](https://laodong.vn/kinh-te/khong-ai-an-toan-100-truoc-cac-vu-tan-cong-cua-hacker-888024.ldo) ([Lao Động](https://laodong.vn))
+- [Honda City giá chỉ còn 365 triệu đồng, có nên "quất" vì quá hời?](https://cafebiz.vn/honda-city-gia-chi-con-365-trieu-dong-co-nen-quat-vi-qua-hoi-20210311140817703.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tục cấp thẻ căn cước công dân cho Việt kiều](https://laodong.vn/xa-hoi/thu-tuc-cap-the-can-cuoc-cong-dan-cho-viet-kieu-888001.ldo) ([Lao Động](https://laodong.vn))
+- [Bát nháo chợ tân dược lớn nhất nước: Mua gì cũng bán](https://cafebiz.vn/bat-nhao-cho-tan-duoc-lon-nhat-nuoc-mua-gi-cung-ban-20210311145732354.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bình Dương: Thanh tra Sở TTTT làm việc với Thơ Nguyễn](https://laodong.vn/xa-hoi/binh-duong-thanh-tra-so-tttt-lam-viec-voi-tho-nguyen-888030.ldo) ([Lao Động](https://laodong.vn))
+- [BHXH Việt Nam hoàn thành việc cung cấp các dịch vụ công mức độ 4](https://laodong.vn/xa-hoi/bhxh-viet-nam-hoan-thanh-viec-cung-cap-cac-dich-vu-cong-muc-do-4-888038.ldo) ([Lao Động](https://laodong.vn))
+- [Giảm hàng nghìn tỷ đồng vốn đầu tư cao tốc Bắc Nam](https://vnexpress.net/giam-hang-nghin-ty-dong-von-dau-tu-cao-toc-bac-nam-4246895.html) ([VNExpress](https://vnexpress.net))
+- [Công an đang tìm kiếm Thơ Nguyễn, chủ nhân clip dùng búp bê Kumanthong](https://tuoitre.vn/cong-an-dang-tim-kiem-tho-nguyen-chu-nhan-clip-dung-bup-be-kumanthong-20210311130033575.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Những chiếc xe ô tô điện giá chỉ 4.000 USD đang chiếm lấy thị trường mà Tesla không thể chạm tới](https://cafebiz.vn/nhung-chiec-xe-o-to-dien-gia-chi-4000-usd-dang-chiem-lay-thi-truong-ma-tesla-khong-the-cham-toi-20210311133540566.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xăng giả lộng hành, lỗ hổng từ đâu?](https://tuoitre.vn/xang-gia-long-hanh-lo-hong-tu-dau-20210311081057268.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Ông Lê Hoàng Châu: Không thể chấp nhận người mua nhà trả tiền nhưng không được nhận nhà vào ở](https://cafebiz.vn/ong-le-hoang-chau-khong-the-chap-nhan-nguoi-mua-nha-tra-tien-nhung-khong-duoc-nhan-nha-vao-o-20210311143538642.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nắm 11,6 triệu khách hàng cá nhân, BIDV lên kế hoạch lợi nhuận 13.000 tỷ đồng năm 2021](https://cafebiz.vn/nam-116-trieu-khach-hang-ca-nhan-bidv-len-ke-hoach-loi-nhuan-13000-ty-dong-nam-2021-20210311143329255.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tạo đột phá cho phát triển Thủ đô khi quy hoạch hai bên bờ sông Hồng](https://laodong.vn/xa-hoi/tao-dot-pha-cho-phat-trien-thu-do-khi-quy-hoach-hai-ben-bo-song-hong-888015.ldo) ([Lao Động](https://laodong.vn))
-- [Diệp Bảo Ngọc khâm phục người phụ nữ nuôi gần 100 chú chó mèo bị bỏ rơi](https://laodong.vn/giai-tri/diep-bao-ngoc-kham-phuc-nguoi-phu-nu-nuoi-gan-100-chu-cho-meo-bi-bo-roi-887981.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Lạt sẽ lắp đèn xanh đèn đỏ](https://vnexpress.net/da-lat-se-lap-den-xanh-den-do-4246962.html) ([VNExpress](https://vnexpress.net))
-- [Đâm chết cha vì không cho hút thuốc lá, con trai lãnh 12 năm tù](https://laodong.vn/phap-luat/dam-chet-cha-vi-khong-cho-hut-thuoc-la-con-trai-lanh-12-nam-tu-888004.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
