@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Khánh Hòa tiếp tục yêu cầu kiểm tra Sân vận động Cam Ranh](https://laodong.vn/bat-dong-san/khanh-hoa-tiep-tuc-yeu-cau-kiem-tra-san-van-dong-cam-ranh-888126.ldo) ([Lao Động](https://laodong.vn))
-- [Công an Thừa Thiên Huế phối hợp làm việc với 2 Sở An ninh nước bạn Lào](https://laodong.vn/xa-hoi/cong-an-thua-thien-hue-phoi-hop-lam-viec-voi-2-so-an-ninh-nuoc-ban-lao-888115.ldo) ([Lao Động](https://laodong.vn))
+- [Đảng đoàn Quốc hội giới thiệu 86 người ứng cử ĐBQH chuyên trách ở T.Ư](https://laodong.vn/thoi-su/dang-doan-quoc-hoi-gioi-thieu-86-nguoi-ung-cu-dbqh-chuyen-trach-o-tu-888147.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng đánh sập 29 hầm vàng trái phép](https://vnexpress.net/da-nang-danh-sap-29-ham-vang-trai-phep-4247134.html) ([VNExpress](https://vnexpress.net))
+- [Tài xế chạy xe mô tô với tốc độ kinh hoàng trên đại lộ đã ra trình diện](https://laodong.vn/xa-hoi/tai-xe-chay-xe-mo-to-voi-toc-do-kinh-hoang-tren-dai-lo-da-ra-trinh-dien-888148.ldo) ([Lao Động](https://laodong.vn))
+- [Những dự án đầu tư thuộc diện thu hồi đất](https://laodong.vn/bat-dong-san/nhung-du-an-dau-tu-thuoc-dien-thu-hoi-dat-887556.ldo) ([Lao Động](https://laodong.vn))
+- [Khám phá căn hộ gần 3,5 tỉ đồng của diễn viên Đoàn Minh Tài &quot;Dốc sương mù&quot;](https://laodong.vn/bat-dong-san/kham-pha-can-ho-gan-35-ti-dong-cua-dien-vien-doan-minh-tai-doc-suong-mu-888113.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam nêu quan điểm về cuộc họp của nhóm &quot;Bộ tứ&quot;](https://laodong.vn/the-gioi/viet-nam-neu-quan-diem-ve-cuoc-hop-cua-nhom-bo-tu-888112.ldo) ([Lao Động](https://laodong.vn))
+- [FLC: Tỷ lệ sở hữu của tập đoàn và các đơn vị, cá nhân liên quan tại Bamboo Airways vẫn gần 85%](https://cafebiz.vn/flc-ty-le-so-huu-cua-tap-doan-va-cac-don-vi-ca-nhan-lien-quan-tai-bamboo-airways-van-gan-85-2021031117514984.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ý kiến trái chiều về đề xuất bỏ nhân hệ số 2 môn Toán, Văn kỳ thi lớp 10](https://laodong.vn/video-thoi-su/y-kien-trai-chieu-ve-de-xuat-bo-nhan-he-so-2-mon-toan-van-ky-thi-lop-10-888109.ldo) ([Lao Động](https://laodong.vn))
-- [Champions League vắng Ronaldo và Messi: Chuyện thời thế, chuyện tương lai](https://laodong.vn/bong-da-quoc-te/champions-league-vang-ronaldo-va-messi-chuyen-thoi-the-chuyen-tuong-lai-888043.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Nam: Sạt lở bờ sông, &quot;nuốt chửng&quot; hàng chục hecta đất của người dân](https://laodong.vn/ban-doc/quang-nam-sat-lo-bo-song-nuot-chung-hang-chuc-hecta-dat-cua-nguoi-dan-888105.ldo) ([Lao Động](https://laodong.vn))
 - [Chủ nhiệm Ủy ban Kiểm tra Trung ương được giới thiệu ứng cử Quốc hội](https://vnexpress.net/chu-nhiem-uy-ban-kiem-tra-trung-uong-duoc-gioi-thieu-ung-cu-quoc-hoi-4246592.html) ([VNExpress](https://vnexpress.net))
 - [Greensill - đế chế sụp đổ gây chấn động ngành tài chính: Credit Suisse phải đóng băng hàng loạt quỹ đầu tư, tỷ phú thép lừng lẫy một thời bỗng điêu đứng](https://cafebiz.vn/greensill-de-che-sup-do-gay-chan-dong-nganh-tai-chinh-credit-suisse-phai-dong-bang-hang-loat-quy-dau-tu-ty-phu-thep-lung-lay-mot-thoi-bong-dieu-dung-20210311160635885.chn) ([CafeBiz](https://cafebiz.vn))
-- [Apple Watch cứu sống người dùng bị rơi xuống sông băng](https://cafebiz.vn/apple-watch-cuu-song-nguoi-dung-bi-roi-xuong-song-bang-20210311160245373.chn) ([CafeBiz](https://cafebiz.vn))
-- [Săn lùng ngay 3 Item hot tại Fancy Boutique khiến chị em mê đắm](https://cafebiz.vn/san-lung-ngay-3-item-hot-tai-fancy-boutique-khien-chi-em-me-dam-20210311144339917.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhà đầu tư Gem Sky World giai đoạn đầu thắng lớn](https://cafebiz.vn/nha-dau-tu-gem-sky-world-giai-doan-dau-thang-lon-20210311113220061.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
