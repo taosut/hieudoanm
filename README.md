@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 26.25°C.
-- Air Visual is 98.
+- Feels Like 26.61°C.
+- Air Visual is 108.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Đà Nẵng: Tiêm 100 liều vaccine COVID-19 đầu tiên cho nhân viên y tế](https://laodong.vn/xa-hoi/da-nang-tiem-100-lieu-vaccine-covid-19-dau-tien-cho-nhan-vien-y-te-887997.ldo) ([Lao Động](https://laodong.vn))
+- [Đội ngũ những người làm Báo Nhân dân luôn đồng hành cùng dân tộc](https://laodong.vn/thoi-su/doi-ngu-nhung-nguoi-lam-bao-nhan-dan-luon-dong-hanh-cung-dan-toc-888000.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút 11.3: Thêm trường Đại học công bố đề án tuyển sinh](https://laodong.vn/video-thoi-su/ban-tin-1-phut-113-them-truong-dai-hoc-cong-bo-de-an-tuyen-sinh-887968.ldo) ([Lao Động](https://laodong.vn))
+- [Australia công bố gói hỗ trợ du lịch trị giá 928 triệu USD](https://laodong.vn/the-gioi/australia-cong-bo-goi-ho-tro-du-lich-tri-gia-928-trieu-usd-887958.ldo) ([Lao Động](https://laodong.vn))
+- [BCTC hợp nhất 2020: FLC lãi trên 420 tỷ đồng, vượt xa kế hoạch năm](https://laodong.vn/kinh-te/bctc-hop-nhat-2020-flc-lai-tren-420-ty-dong-vuot-xa-ke-hoach-nam-887975.ldo) ([Lao Động](https://laodong.vn))
+- [Mặt trận Tổ quốc giới thiệu 4 người ứng cử đại biểu Quốc hội](https://vnexpress.net/mat-tran-to-quoc-gioi-thieu-4-nguoi-ung-cu-dai-bieu-quoc-hoi-4246925.html) ([VNExpress](https://vnexpress.net))
 - [Bộ Thông tin và Truyền thông mời Thơ Nguyễn lên làm việc, không hợp tác sẽ khoá Youtube](https://cafebiz.vn/bo-thong-tin-va-truyen-thong-moi-tho-nguyen-len-lam-viec-khong-hop-tac-se-khoa-youtube-20210311120039892.chn) ([CafeBiz](https://cafebiz.vn))
-- [Việt Nam ủng hộ tăng cường hợp tác giữa Liên Hợp Quốc và OSCE](https://laodong.vn/thoi-su/viet-nam-ung-ho-tang-cuong-hop-tac-giua-lien-hop-quoc-va-osce-887980.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng bắt đầu tiêm vaccine COVID-19 đợt 1](https://laodong.vn/y-te/hai-phong-bat-dau-tiem-vaccine-covid-19-dot-1-887880.ldo) ([Lao Động](https://laodong.vn))
+- [Xác định được tài xế phóng mô tô 'tốc độ bàn thờ' 299 km/h trên đại lộ Thăng Long](https://tuoitre.vn/xac-dinh-duoc-tai-xe-phong-mo-to-toc-do-ban-tho-299-km-h-tren-dai-lo-thang-long-20210311112235767.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nữ danh hài giàu nhất Vbiz Việt Hương: Cho thuê 8 căn hộ V.homes, thường xuyên thay đổi xế hộp, mua quá nhiều hột xoàn tới mức không muốn đeo](https://cafebiz.vn/nu-danh-hai-giau-nhat-vbiz-viet-huong-cho-thue-8-can-ho-vhomes-thuong-xuyen-thay-doi-xe-hop-mua-qua-nhieu-hot-xoan-toi-muc-khong-muon-deo-2021031111375697.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thua lỗ triền miên, Shopee tiếp tục 'đốt tiền' mở rộng hoạt động sang châu Mỹ Latin, đối đầu Amazon](https://cafebiz.vn/thua-lo-trien-mien-shopee-tiep-tuc-dot-tien-mo-rong-hoat-dong-sang-chau-my-latin-doi-dau-amazon-20210311114720733.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Phòng bố trí mỗi quận, huyện có một lãnh đạo dưới 35 tuổi](https://laodong.vn/thoi-su/hai-phong-bo-tri-moi-quan-huyen-co-mot-lanh-dao-duoi-35-tuoi-887971.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Tom &amp; Jerry: Quậy tung New York&quot; bị chê nhiều hơn khen](https://laodong.vn/giai-tri/tom--jerry-quay-tung-new-york-bi-che-nhieu-hon-khen-887939.ldo) ([Lao Động](https://laodong.vn))
-- [Daisuke Matsui: “Bóng đá Việt Nam sẽ vươn lên trong vài năm tới”](https://laodong.vn/bong-da/daisuke-matsui-bong-da-viet-nam-se-vuon-len-trong-vai-nam-toi-887960.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM thay đổi hệ số các môn thi vào lớp 10: Học sinh vừa mừng vừa lo](https://laodong.vn/video/tphcm-thay-doi-he-so-cac-mon-thi-vao-lop-10-hoc-sinh-vua-mung-vua-lo-887924.ldo) ([Lao Động](https://laodong.vn))
-- [Tỷ sở hữu giảm xuống còn 39,4%, Bamboo Airways không còn là công ty con của FLC?](https://cafebiz.vn/ty-so-huu-giam-xuong-con-394-bamboo-airways-khong-con-la-cong-ty-con-cua-flc-20210311113459622.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
