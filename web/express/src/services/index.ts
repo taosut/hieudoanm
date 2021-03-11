@@ -11,8 +11,6 @@ import LicensePlatesService from './license-plates';
 import MusicService from './music';
 import NewsService from './news';
 import OpenAPIsService from './open-apis';
-import ProxyService from './proxy';
-import StatusService from './status';
 import TelegramService from './telegram';
 import USAService from './usa';
 import VisasService from './visas';
@@ -31,8 +29,6 @@ export const licensePlatesService: LicensePlatesService = new LicensePlatesServi
 export const musicService: MusicService = new MusicService();
 export const newsService: NewsService = new NewsService();
 export const openAPIsService: OpenAPIsService = new OpenAPIsService();
-export const proxyService: ProxyService = new ProxyService();
-export const statusService: StatusService = new StatusService();
 export const telegramService: TelegramService = new TelegramService();
 export const usaService: USAService = new USAService();
 export const visasService: VisasService = new VisasService();

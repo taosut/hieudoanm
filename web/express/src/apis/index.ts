@@ -2,26 +2,24 @@
 
 import { Request, Response } from 'express';
 
-import { logger } from '../libs';
+import { logger, statuses } from '../libs';
 import routes from '../routes';
 
 export default app => {
   const base: string = '/api';
-  app.get(
-    `${base}`,
-    (req: Request, res: Response): Response<any> => {
-      const prefixes: Array<string> = routes
-        .map(route => {
-          const { path } = route;
-          const [prefix] = path.split('/');
-          return prefix;
-        })
-        .filter((value, index, array) => {
-          return array.indexOf(value) === index;
-        });
-      return res.json({ status: 'OK', prefixes });
-    }
-  );
+  app.get(`${base}`, async (req: Request, res: Response) => {
+    const prefixes: Array<string> = routes
+      .map(route => {
+        const { path } = route;
+        const [prefix] = path.split('/');
+        return prefix;
+      })
+      .filter((value, index, array) => {
+        return array.indexOf(value) === index;
+      });
+    const heroku = await statuses.getHerokuStatus();
+    return res.json({ status: 'OK', heroku, prefixes });
+  });
 
   routes.forEach(route => {
     const { method, path, middlewares = [] } = route;

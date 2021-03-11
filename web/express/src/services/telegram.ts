@@ -9,7 +9,6 @@ import CultureService from './culture';
 import InformationService from './information';
 import LicensePlatesService from './license-plates';
 import NewsService from './news';
-import StatusService from './status';
 import WeatherService from './weather';
 import YouTubeService from './youtube';
 
@@ -35,7 +34,6 @@ export default class TelegramService {
   private informationService: InformationService = new InformationService();
   private licensePlatesService: LicensePlatesService = new LicensePlatesService();
   private newsService: NewsService = new NewsService();
-  private statusService: StatusService = new StatusService();
   private weatherService: WeatherService = new WeatherService();
   private youTubeService: YouTubeService = new YouTubeService();
 
@@ -46,9 +44,6 @@ export default class TelegramService {
     switch (command) {
       case 'help':
         await this.getHelp(chatId);
-        break;
-      case 'get_status':
-        await this.getStatus(chatId);
         break;
       case 'get_movies':
         await this.getMovies(chatId);
@@ -105,18 +100,6 @@ export default class TelegramService {
       .sort()
       .join('\n');
     await telegramClient.sendMessage(chatId, message);
-  }
-
-  private async getStatus(chatId: number): Promise<void> {
-    const statuses: Record<string, any> = await this.statusService.getStatuses();
-    const keys = Object.keys(statuses);
-    const message: string = keys
-      .map((key: string) => {
-        const value: string = statuses[key];
-        return `${key.toUpperCase()} - ${value.toUpperCase()}`;
-      })
-      .join('\n');
-    await telegramClient.sendMarkdownMessage(chatId, message);
   }
 
   private async getMovies(chatId: number): Promise<void> {

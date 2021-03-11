@@ -7,9 +7,7 @@ import { dictionary, ethnicMinorities, finance } from './def';
 import { government, hooks, information } from './ghi';
 import { justice, korea, licensePlates } from './jkl';
 import { music, news, openAPIs } from './mno';
-import { proxy, status } from './pqrs';
-import { visas } from './tuv';
-import { weather, x, youtube } from './wxyz';
+import { visas, weather, x, youtube } from './vwxy';
 
 const routes: Array<IRoute> = [].concat(
   administrativeDivisions,
@@ -27,8 +25,6 @@ const routes: Array<IRoute> = [].concat(
   music,
   news,
   openAPIs,
-  proxy,
-  status,
   visas,
   weather,
   x,
