@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is clear sky.
+- Current weather is scattered clouds.
 - Temperature is 24°C.
 - Feels Like 25.99°C.
-- Air Visual is 95.
+- Air Visual is 151.
 
 **WEATHER**
 
@@ -75,7 +75,9 @@
 
 **NEWS**
 
+- [Giới thiệu Tổng bí thư, Chủ tịch nước ứng cử đại biểu Quốc hội khóa XV](https://vnexpress.net/gioi-thieu-tong-bi-thu-chu-tich-nuoc-ung-cu-dai-bieu-quoc-hoi-khoa-xv-4247133.html) ([VNExpress](https://vnexpress.net))
 - [Những cách tạo động lực cho nhân viên mà không cần dùng tiền, ai ;à, lãnh đạo cũng cần biết](https://cafebiz.vn/nhung-cach-tao-dong-luc-cho-nhan-vien-ma-khong-can-dung-tien-ai-a-lanh-dao-cung-can-biet-20210308201438021.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chứng chỉ hành nghề của ông Võ Hoàng Yên chỉ là giúp việc chuyên môn](https://tuoitre.vn/chung-chi-hanh-nghe-cua-ong-vo-hoang-yen-chi-la-giup-viec-chuyen-mon-20210311214008419.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Điều tra 2 đối tượng trói người phụ nữ cướp tài sản ở Quảng Nam](https://laodong.vn/phap-luat/dieu-tra-2-doi-tuong-troi-nguoi-phu-nu-cuop-tai-san-o-quang-nam-888227.ldo) ([Lao Động](https://laodong.vn))
 - [Chuyện lạ ở Mỹ: Bị các ông lớn o ép, đến giờ nhiều tạp hóa vẫn không có giấy vệ sinh để bán](https://cafebiz.vn/chuyen-la-o-my-bi-cac-ong-lon-o-ep-den-gio-nhieu-tap-hoa-van-khong-co-giay-ve-sinh-de-ban-2021031121165621.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cách tôi giảm thời gian làm việc xuống 2 giờ mỗi ngày nhưng tăng hiệu quả gấp 3: Nếu bạn thử một lần, bạn sẽ ước giá như mình biết điều này sớm hơn!](https://cafebiz.vn/cach-toi-giam-thoi-gian-lam-viec-xuong-2-gio-moi-ngay-nhung-tang-hieu-qua-gap-3-neu-ban-thu-mot-lan-ban-se-uoc-gia-nhu-minh-biet-dieu-nay-som-hon-20210308191235839.chn) ([CafeBiz](https://cafebiz.vn))
@@ -83,8 +85,6 @@
 - [NÓNG: Hoàng tử William chính thức lên tiếng về cuộc phỏng vấn của nhà Sussex, chỉ bằng một câu ngắn gọn đủ khiến Harry phải ngẫm lại mình](https://cafebiz.vn/nong-hoang-tu-william-chinh-thuc-len-tieng-ve-cuoc-phong-van-cua-nha-sussex-chi-bang-mot-cau-ngan-gon-du-khien-harry-phai-ngam-lai-minh-20210311211226603.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cặp vợ chồng với siêu xe gây tò mò: Chồng buôn lan đột biến, vợ bán đông trùng hạ thảo](https://cafebiz.vn/cap-vo-chong-voi-sieu-xe-gay-to-mo-chong-buon-lan-dot-bien-vo-ban-dong-trung-ha-thao-20210311212932414.chn) ([CafeBiz](https://cafebiz.vn))
 - [Từ cuộc phỏng vấn chấn động hoàng gia của Harry - Meghan nhìn về mối quan hệ muôn thuở: Nhà chồng - Nàng dâu liệu có thể yêu thương nhau?](https://cafebiz.vn/tu-cuoc-phong-van-chan-dong-hoang-gia-cua-harry-meghan-nhin-ve-moi-quan-he-muon-thuo-nha-chong-nang-dau-lieu-co-the-yeu-thuong-nhau-20210311175619457.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tập đoàn 3M dự kiến đầu tư 1 tỷ USD trong vòng 20 năm tới để thực hiện các mục tiêu bảo vệ môi trường](https://cafebiz.vn/tap-doan-3m-du-kien-dau-tu-1-ty-usd-trong-vong-20-nam-toi-de-thuc-hien-cac-muc-tieu-bao-ve-moi-truong-20210311170801259.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vận may của 12 con giáp trong tháng 2 âm lịch: Người bội thu về tài vận, người chịu khó gồng gánh, tháng sau mọi thứ sẽ cải thiện](https://cafebiz.vn/van-may-cua-12-con-giap-trong-thang-2-am-lich-nguoi-boi-thu-ve-tai-van-nguoi-chiu-kho-gong-ganh-thang-sau-moi-thu-se-cai-thien-20210311171017565.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -137,9 +137,9 @@
 05. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
 06. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 07. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-08. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-09. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-10. [Chàng ca sĩ "mất hàng tiền đạo" đi bộ từ Sài Gòn về đất Mẹ miền Trung](https://www.youtube.com/watch?v=K-3tsQtd7R0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
+08. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
+09. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+10. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
 
 [Read More](https://www.youtube.com/feed/trending)
 
