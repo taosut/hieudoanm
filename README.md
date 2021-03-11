@@ -22,7 +22,7 @@
 - Current weather is clear sky.
 - Temperature is 25°C.
 - Feels Like 26.45°C.
-- Air Visual is 88.
+- Air Visual is 90.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Mẹo giặt và phơi quần áo nhanh khô khi trời nồm](https://cafebiz.vn/meo-giat-va-phoi-quan-ao-nhanh-kho-khi-troi-nom-20210311171348284.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vietravel Airlines nối liền hệ thống phòng vé chính hãng toàn quốc](https://laodong.vn/doanh-nghiep-doanh-nhan/vietravel-airlines-noi-lien-he-thong-phong-ve-chinh-hang-toan-quoc-888202.ldo) ([Lao Động](https://laodong.vn))
+- [Warren Buffett và Bill Gates chứng minh rằng bỏ thói quen xấu này sẽ giúp bạn thành công hơn trong cuộc sống](https://cafebiz.vn/warren-buffett-va-bill-gates-chung-minh-rang-bo-thoi-quen-xau-nay-se-giup-ban-thanh-cong-hon-trong-cuoc-song-20210311151700966.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vũ trụ kỳ thú: Giải mã bất ngờ vụ nổ sao bí ẩn](https://laodong.vn/the-gioi/vu-tru-ky-thu-giai-ma-bat-ngo-vu-no-sao-bi-an-887967.ldo) ([Lao Động](https://laodong.vn))
+- [Căn nhà nhỏ yên bình bên núi Ngự được con gái cải tạo dành tặng mẹ về hưu ở Huế](https://cafebiz.vn/can-nha-nho-yen-binh-ben-nui-ngu-duoc-con-gai-cai-tao-danh-tang-me-ve-huu-o-hue-20210311172207012.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đấu tranh đòi tài sản từ tay “tiểu tam” của người cha tỷ phú suốt 15 năm, con trai chính thất cuối cùng nhận được... 3000 VNĐ tiền thừa kế](https://cafebiz.vn/dau-tranh-doi-tai-san-tu-tay-tieu-tam-cua-nguoi-cha-ty-phu-suot-15-nam-con-trai-chinh-that-cuoi-cung-nhan-duoc-3000-vnd-tien-thua-ke-20210311165430486.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bài thuốc chữa ho có đờm hiệu quả chỉ với 2 nguyên liệu có sẵn trong bếp](https://cafebiz.vn/bai-thuoc-chua-ho-co-dom-hieu-qua-chi-voi-2-nguyen-lieu-co-san-trong-bep-20210311165906504.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chùa Hương mở cửa trở lại: Giá nhà nghỉ, dịch vụ đò dự kiến tăng gấp đôi](https://laodong.vn/thi-truong/chua-huong-mo-cua-tro-lai-gia-nha-nghi-dich-vu-do-du-kien-tang-gap-doi-888169.ldo) ([Lao Động](https://laodong.vn))
 - [Kinh tế 24h: Giá vàng vẫn bật tăng; Giá xăng sắp nhảy vọt](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-van-bat-tang-gia-xang-sap-nhay-vot-888214.ldo) ([Lao Động](https://laodong.vn))
 - [Nếu Võ Hoàng Yên trả lại toàn bộ số tiền bị tố lừa đảo cho vợ chồng ông Dũng "lò vôi" thì có "hết chuyện"?](https://cafebiz.vn/neu-vo-hoang-yen-tra-lai-toan-bo-so-tien-bi-to-lua-dao-cho-vo-chong-ong-dung-lo-voi-thi-co-het-chuyen-20210311164922236.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 12.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-123-887932.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: Giá xăng có thể tăng mạnh vào ngày mai 12.3](https://laodong.vn/video-thoi-su/nong-nhat-24h-gia-xang-co-the-tang-manh-vao-ngay-mai-123-888171.ldo) ([Lao Động](https://laodong.vn))
-- [Cảnh giác với 4 loại trà gây hại cho sức khỏe](https://laodong.vn/dinh-duong-am-thuc/canh-giac-voi-4-loai-tra-gay-hai-cho-suc-khoe-887651.ldo) ([Lao Động](https://laodong.vn))
-- [Nhìn lại thảm họa động đất - sóng thần làm nghiêng trục Trái Đất 10 năm trước](https://cafebiz.vn/nhin-lai-tham-hoa-dong-dat-song-than-lam-nghieng-truc-trai-dat-10-nam-truoc-20210311164412474.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bình Dương đã xác định nơi ở của YouTuber Thơ Nguyễn, yêu cầu lên làm việc](https://tuoitre.vn/binh-duong-da-xac-dinh-noi-o-cua-youtuber-tho-nguyen-yeu-cau-len-lam-viec-20210311185029786.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [4 món đồ phong thủy bỏ túi giúp bạn hút tài lộc, giá chỉ từ 205 nghìn đồng](https://cafebiz.vn/4-mon-do-phong-thuy-bo-tui-giup-ban-hut-tai-loc-gia-chi-tu-205-nghin-dong-20210311155924362.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo dục 24/7: NXB Giáo dục lý giải việc hợp nhất 4 bộ SGK thành 2 bộ SGK](https://laodong.vn/video/giao-duc-247-nxb-giao-duc-ly-giai-viec-hop-nhat-4-bo-sgk-thanh-2-bo-sgk-888211.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,7 +96,7 @@
 
 **VIETCETERA**
 
-- [Tóm Lại Là: "Hú vía" trẻ không dùng điện thoại một mình](https://vietcetera.com/vn/tom-lai-la)
+- [Tóm Lại Là: "Hú vía" trẻ không dùng điện thoại một mình](https://vietcetera.com/vn/tom-lai-la-hu-via-tre-khong-dung-dien-thoai-mot-minh)
 - [Câu chuyện về chiếc áo dài 48-tiếng-may của Kelly Marie Trần](https://vietcetera.com/vn/cau-chuyen-ve-chiec-ao-dai-48-tieng-may-cua-kelly-marie-tran)
 - [Chữ Với Nghĩa: Chằm Zn là gì mà Gen Z thuộc lòng?](https://vietcetera.com/vn/chu-voi-nghia-cham-zn-la-gi-ma-gen-z-thuoc-long)
 - [SoundCloud - Cứu tinh của nghệ sĩ indie?](https://vietcetera.com/vn/soundcloud-cuu-tinh-cua-nghe-si-indie)
