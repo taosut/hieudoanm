@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 26.25°C.
-- Air Visual is 101.
+- Temperature is 26°C.
+- Feels Like 25.23°C.
+- Air Visual is 84.
 
 **WEATHER**
 
@@ -53,7 +53,6 @@
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
-- [![Hướng dương ngược nắng tập 38](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2038&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2038)
 - [![Hướng dương ngược nắng' tập 39](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng'%20t%E1%BA%ADp%2039&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng'%20t%E1%BA%ADp%2039)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
@@ -62,12 +61,13 @@
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![ROG Phone 5](https://img.shields.io/static/v1?label=ROG%20Phone%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=ROG%20Phone%205)
+- [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
-- [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
+- [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![UEFA Champions League](https://img.shields.io/static/v1?label=UEFA%20Champions%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UEFA%20Champions%20League)
 - [![Yoona](https://img.shields.io/static/v1?label=Yoona&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Yoona)
-- [![Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20V%C4%83n%20N%C6%A1i)
+- [![Đại tá Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Giá xăng sẽ tăng lần thứ 8 liên tiếp vào ngày mai](https://cafebiz.vn/gia-xang-se-tang-lan-thu-8-lien-tiep-vao-ngay-mai-20210311155104463.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chạy xe máy gần 300 km/h trên đại lộ Thăng Long](https://vnexpress.net/chay-xe-may-gan-300-km-h-tren-dai-lo-thang-long-4246995.html) ([VNExpress](https://vnexpress.net))
+- [Kỳ công phục chế xác ướp Ai Cập 2.500 năm tuổi](https://laodong.vn/the-gioi/ky-cong-phuc-che-xac-uop-ai-cap-2500-nam-tuoi-888075.ldo) ([Lao Động](https://laodong.vn))
+- [Những phát ngôn đáng chú ý của Giám đốc Công an tỉnh An Giang Đinh Văn Nơi](https://laodong.vn/infographic/nhung-phat-ngon-dang-chu-y-cua-giam-doc-cong-an-tinh-an-giang-dinh-van-noi-887533.ldo) ([Lao Động](https://laodong.vn))
+- [Ngày mai 12.3, giá xăng có khả năng tăng mạnh](https://laodong.vn/thi-truong/ngay-mai-123-gia-xang-co-kha-nang-tang-manh-888074.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Người dân khai báo y tế bằng mã QR Code khi tới cơ quan hành chính](https://laodong.vn/xa-hoi/ha-noi-nguoi-dan-khai-bao-y-te-bang-ma-qr-code-khi-toi-co-quan-hanh-chinh-888023.ldo) ([Lao Động](https://laodong.vn))
+- [Sống chung với Covid-19, "hộ chiếu vaccine" có trở thành "thần chú" phục hồi ngành du lịch?](https://cafebiz.vn/song-chung-voi-covid-19-ho-chieu-vaccine-co-tro-thanh-than-chu-phuc-hoi-nganh-du-lich-20210311153829523.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: Giải quyết ô nhiễm tiếng ồn, đừng quên tiếng nẹt pô](https://laodong.vn/ban-doc/tphcm-giai-quyet-o-nhiem-tieng-on-dung-quen-tieng-net-po-888052.ldo) ([Lao Động](https://laodong.vn))
 - [HAGL lên tiếng về việc bất ngờ xuất hiện khoản lỗ 5.000 tỷ](https://cafebiz.vn/hagl-len-tieng-ve-viec-bat-ngo-xuat-hien-khoan-lo-5000-ty-20210311153459438.chn) ([CafeBiz](https://cafebiz.vn))
 - [VinFast bán 1.718 ô tô trong tháng Tết](https://cafebiz.vn/vinfast-ban-1718-o-to-trong-thang-tet-20210311153339826.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cô gái tình cờ hóa giải được nỗi đau canh cánh hàng chục năm của cả đại gia đình nhờ... lướt clip TikTok](https://cafebiz.vn/co-gai-tinh-co-hoa-giai-duoc-noi-dau-canh-canh-hang-chuc-nam-cua-ca-dai-gia-dinh-nho-luot-clip-tiktok-20210311135024776.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cụ bà 103 tuổi vẫy tay tiễn con gái 80 tuổi lên xe: "Lần này nữa thôi, lần sau về không còn mẹ..."](https://cafebiz.vn/cu-ba-103-tuoi-vay-tay-tien-con-gai-80-tuoi-len-xe-lan-nay-nua-thoi-lan-sau-ve-khong-con-me-20210311153031272.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đây, lý do Liverpool &quot;vui như hội&quot; khi Ronaldo, Messi cùng bị loại](https://laodong.vn/bong-da-quoc-te/day-ly-do-liverpool-vui-nhu-hoi-khi-ronaldo-messi-cung-bi-loai-888034.ldo) ([Lao Động](https://laodong.vn))
-- [Viettel IDC tiên phong giải quyết các vấn đề của xã hội thời đại số](https://cafebiz.vn/viettel-idc-tien-phong-giai-quyet-cac-van-de-cua-xa-hoi-thoi-dai-so-20210311151929224.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt đối tượng cướp giật vé số của người mù ở Bình Dương](https://laodong.vn/phap-luat/bat-doi-tuong-cuop-giat-ve-so-cua-nguoi-mu-o-binh-duong-888055.ldo) ([Lao Động](https://laodong.vn))
-- [Sơn La: Mưa đá làm thủng mái nhà dân, gây thiệt hại trên 170 ha cây trồng](https://laodong.vn/xa-hoi/son-la-mua-da-lam-thung-mai-nha-dan-gay-thiet-hai-tren-170-ha-cay-trong-888047.ldo) ([Lao Động](https://laodong.vn))
-- [Dân khốn khổ vì Tỉnh lộ 109 ở Sơn La xuống cấp nghiêm trọng](https://laodong.vn/photo/dan-khon-kho-vi-tinh-lo-109-o-son-la-xuong-cap-nghiem-trong-887856.ldo) ([Lao Động](https://laodong.vn))
-- [Tổng bí thư - Chủ tịch nước Nguyễn Phú Trọng chúc mừng báo Nhân Dân kỷ niệm 70 năm ra số đầu tiên](https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-nguyen-phu-trong-chuc-mung-bao-nhan-dan-ky-niem-70-nam-ra-so-dau-tien-20210311141444744.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -119,8 +119,8 @@
 04. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 05. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 06. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
-07. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-08. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+07. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+08. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 09. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
 
