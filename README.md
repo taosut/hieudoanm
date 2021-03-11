@@ -76,7 +76,7 @@
 **NEWS**
 
 - [Giới thiệu Tổng bí thư, Chủ tịch nước ứng cử đại biểu Quốc hội khóa XV](https://vnexpress.net/gioi-thieu-tong-bi-thu-chu-tich-nuoc-ung-cu-dai-bieu-quoc-hoi-khoa-xv-4247133.html) ([VNExpress](https://vnexpress.net))
-- [Những cách tạo động lực cho nhân viên mà không cần dùng tiền, ai ;à, lãnh đạo cũng cần biết](https://cafebiz.vn/nhung-cach-tao-dong-luc-cho-nhan-vien-ma-khong-can-dung-tien-ai-a-lanh-dao-cung-can-biet-20210308201438021.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những cách tạo động lực cho nhân viên mà không cần dùng tiền, ai làm lãnh đạo cũng cần biết](https://cafebiz.vn/nhung-cach-tao-dong-luc-cho-nhan-vien-ma-khong-can-dung-tien-ai-a-lanh-dao-cung-can-biet-20210308201438021.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chứng chỉ hành nghề của ông Võ Hoàng Yên chỉ là giúp việc chuyên môn](https://tuoitre.vn/chung-chi-hanh-nghe-cua-ong-vo-hoang-yen-chi-la-giup-viec-chuyen-mon-20210311214008419.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Điều tra 2 đối tượng trói người phụ nữ cướp tài sản ở Quảng Nam](https://laodong.vn/phap-luat/dieu-tra-2-doi-tuong-troi-nguoi-phu-nu-cuop-tai-san-o-quang-nam-888227.ldo) ([Lao Động](https://laodong.vn))
 - [Chuyện lạ ở Mỹ: Bị các ông lớn o ép, đến giờ nhiều tạp hóa vẫn không có giấy vệ sinh để bán](https://cafebiz.vn/chuyen-la-o-my-bi-cac-ong-lon-o-ep-den-gio-nhieu-tap-hoa-van-khong-co-giay-ve-sinh-de-ban-2021031121165621.chn) ([CafeBiz](https://cafebiz.vn))
