@@ -22,7 +22,7 @@
 - Current weather is scattered clouds.
 - Temperature is 25°C.
 - Feels Like 27.13°C.
-- Air Visual is 97.
+- Air Visual is 102.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Muốn sở hữu một căn nhà trong dự án Thành phố Cà phê của ông Đặng Lê Nguyên Vũ, người mua phải xuống tiền ít nhất 7 tỷ đồng](https://cafebiz.vn/muon-so-huu-mot-can-nha-trong-du-an-thanh-pho-ca-phe-cua-ong-dang-le-nguyen-vu-nguoi-mua-phai-xuong-tien-it-nhat-7-ty-dong-can-2021031113493048.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kinh nghiệm &quot;vàng&quot; khi mua đất nền phân lô](https://laodong.vn/bat-dong-san/kinh-nghiem-vang-khi-mua-dat-nen-phan-lo-887954.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt Giám đốc lừa bán đất ảo, chiếm đoạt gần 17 tỷ đồng tiền cọc](https://cafebiz.vn/bat-giam-doc-lua-ban-dat-ao-chiem-doat-gan-17-ty-dong-tien-coc-2021031114243155.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sau thông báo chính thức của hoàng gia, Meghan Markle đưa ra phản hồi đầy ngạo mạn, quyết không hạ mình](https://cafebiz.vn/sau-thong-bao-chinh-thuc-cua-hoang-gia-meghan-markle-dua-ra-phan-hoi-day-ngao-man-quyet-khong-ha-minh-20210311142248901.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bí thư Hà Nội: ‘Quy hoạch phân khu đô thị sông Hồng theo nguyên tắc thuận thiên’](https://tuoitre.vn/bi-thu-ha-noi-quy-hoach-phan-khu-do-thi-song-hong-theo-nguyen-tac-thuan-thien-20210311122126613.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bầu Bình khẳng định bước tiến của đội Sài Gòn](https://laodong.vn/video-the-thao/bau-binh-khang-dinh-buoc-tien-cua-doi-sai-gon-888006.ldo) ([Lao Động](https://laodong.vn))
-- [Gần 19 triệu đồng ủng hộ Quỹ &quot;Vì biển, đảo Việt Nam&quot;](https://laodong.vn/cong-doan/gan-19-trieu-dong-ung-ho-quy-vi-bien-dao-viet-nam-888016.ldo) ([Lao Động](https://laodong.vn))
-- [Ghép thận thành công cho trẻ suy thận giai đoạn cuối, đột biến gene hiếm gặp](https://laodong.vn/y-te/ghep-than-thanh-cong-cho-tre-suy-than-giai-doan-cuoi-dot-bien-gene-hiem-gap-888019.ldo) ([Lao Động](https://laodong.vn))
-- [Giàu "nứt khố đổ vách" nhưng người đàn ông này vẫn chỉ mua ô tô cũ, đi máy bay hạng phổ thông và không ngại đi xe 3 bánh từ sân bay về nhà](https://cafebiz.vn/giau-nut-kho-do-vach-nhung-nguoi-dan-ong-nay-van-chi-mua-o-to-cu-di-may-bay-hang-pho-thong-va-khong-ngai-di-xe-3-banh-tu-san-bay-ve-nha-2021031114055702.chn) ([CafeBiz](https://cafebiz.vn))
-- [Làm sao để không gục ngã trước khó khăn? Bỏ túi 6 "thần chú" của kẻ làm chủ cuộc chơi!](https://cafebiz.vn/lam-sao-de-khong-guc-nga-truoc-kho-khan-bo-tui-6-than-chu-cua-ke-lam-chu-cuoc-choi-20210311134006484.chn) ([CafeBiz](https://cafebiz.vn))
+- [Top router Wifi 6 đáng mua nhất năm 2021](https://laodong.vn/cong-nghe/top-router-wifi-6-dang-mua-nhat-nam-2021-887935.ldo) ([Lao Động](https://laodong.vn))
+- [Barca dừng bước trước PSG: Leo Messi, buồn làm chi!](https://laodong.vn/bong-da-quoc-te/barca-dung-buoc-truoc-psg-leo-messi-buon-lam-chi-887987.ldo) ([Lao Động](https://laodong.vn))
+- [Những chiếc xe ô tô điện giá chỉ 4.000 USD đang chiếm lấy thị trường mà Tesla không thể chạm tới](https://cafebiz.vn/nhung-chiec-xe-o-to-dien-gia-chi-4000-usd-dang-chiem-lay-thi-truong-ma-tesla-khong-the-cham-toi-20210311133540566.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xăng giả lộng hành, lỗ hổng từ đâu?](https://tuoitre.vn/xang-gia-long-hanh-lo-hong-tu-dau-20210311081057268.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ông Lê Hoàng Châu: Không thể chấp nhận người mua nhà trả tiền nhưng không được nhận nhà vào ở](https://cafebiz.vn/ong-le-hoang-chau-khong-the-chap-nhan-nguoi-mua-nha-tra-tien-nhung-khong-duoc-nhan-nha-vao-o-20210311143538642.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nắm 11,6 triệu khách hàng cá nhân, BIDV lên kế hoạch lợi nhuận 13.000 tỷ đồng năm 2021](https://cafebiz.vn/nam-116-trieu-khach-hang-ca-nhan-bidv-len-ke-hoach-loi-nhuan-13000-ty-dong-nam-2021-20210311143329255.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tạo đột phá cho phát triển Thủ đô khi quy hoạch hai bên bờ sông Hồng](https://laodong.vn/xa-hoi/tao-dot-pha-cho-phat-trien-thu-do-khi-quy-hoach-hai-ben-bo-song-hong-888015.ldo) ([Lao Động](https://laodong.vn))
+- [Diệp Bảo Ngọc khâm phục người phụ nữ nuôi gần 100 chú chó mèo bị bỏ rơi](https://laodong.vn/giai-tri/diep-bao-ngoc-kham-phuc-nguoi-phu-nu-nuoi-gan-100-chu-cho-meo-bi-bo-roi-887981.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Lạt sẽ lắp đèn xanh đèn đỏ](https://vnexpress.net/da-lat-se-lap-den-xanh-den-do-4246962.html) ([VNExpress](https://vnexpress.net))
+- [Đâm chết cha vì không cho hút thuốc lá, con trai lãnh 12 năm tù](https://laodong.vn/phap-luat/dam-chet-cha-vi-khong-cho-hut-thuoc-la-con-trai-lanh-12-nam-tu-888004.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -118,8 +118,8 @@
 03. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
 04. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 05. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
-06. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-07. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
+06. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
+07. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 08. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 09. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
@@ -139,7 +139,7 @@
 07. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 08. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 09. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
-10. [ROSÉ - 'On The Ground' M/V TEASER](https://www.youtube.com/watch?v=_W8y2A9sK6s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+10. [Chàng ca sĩ "mất hàng tiền đạo" đi bộ từ Sài Gòn về đất Mẹ miền Trung](https://www.youtube.com/watch?v=K-3tsQtd7R0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
