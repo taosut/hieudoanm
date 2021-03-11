@@ -21,7 +21,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 26.3°C.
+- Feels Like 25.15°C.
 - Air Visual is 86.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Đảng đoàn Quốc hội giới thiệu 86 người ứng cử ĐBQH chuyên trách ở T.Ư](https://laodong.vn/thoi-su/dang-doan-quoc-hoi-gioi-thieu-86-nguoi-ung-cu-dbqh-chuyen-trach-o-tu-888147.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều 11-3: Thêm 4 ca mắc COVID-19 mới ở Bình Dương, Hà Nội, Ninh Thuận](https://tuoitre.vn/chieu-11-3-them-4-ca-mac-covid-19-moi-o-binh-duong-ha-noi-ninh-thuan-20210311180828538.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Sau Thương Tín, Hoàng Lan được sao Việt quyên góp hàng trăm triệu giúp đỡ](https://laodong.vn/van-hoa/sau-thuong-tin-hoang-lan-duoc-sao-viet-quyen-gop-hang-tram-trieu-giup-do-888141.ldo) ([Lao Động](https://laodong.vn))
+- [Giới thiệu Tổng Bí thư Nguyễn Phú Trọng ứng cử Quốc hội khóa XV](http://vietnamnet.vn/vn/thoi-su/chinh-tri/gioi-thieu-tong-bi-thu-nguyen-phu-trong-ung-cu-quoc-hoi-khoa-xv-718964.html) ([VietNamNet](https://vietnamnet.vn))
+- [Ghi nhận 4 ca mắc COVID-19 mới](https://laodong.vn/y-te/ghi-nhan-4-ca-mac-covid-19-moi-886871.ldo) ([Lao Động](https://laodong.vn))
+- [Từ các clip gây phản ứng của Thơ Nguyễn: Phụ huynh lo lắng con bị nguy hiểm](https://laodong.vn/video/tu-cac-clip-gay-phan-ung-cua-tho-nguyen-phu-huynh-lo-lang-con-bi-nguy-hiem-888110.ldo) ([Lao Động](https://laodong.vn))
+- [Văn phòng Trung ương Đảng giới thiệu 5 đồng chí ứng cử đại biểu Quốc hội](https://laodong.vn/thoi-su/van-phong-trung-uong-dang-gioi-thieu-5-dong-chi-ung-cu-dai-bieu-quoc-hoi-888159.ldo) ([Lao Động](https://laodong.vn))
+- [TP Thủ Đức: 3 căn nhà bị thiêu rụi sau vụ cháy lớn](https://laodong.vn/xa-hoi/tp-thu-duc-3-can-nha-bi-thieu-rui-sau-vu-chay-lon-888164.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiều đoạn đường ở TPHCM “bỏng rát” dưới nắng vì thiếu cây xanh](https://laodong.vn/ban-doc/nhieu-doan-duong-o-tphcm-bong-rat-duoi-nang-vi-thieu-cay-xanh-888131.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyên gia tài chính: Không bao giờ là quá sớm để dạy con cái về tiền bạc](https://cafebiz.vn/chuyen-gia-tai-chinh-khong-bao-gio-la-qua-som-de-day-con-cai-ve-tien-bac-20210311155751629.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đà Nẵng đánh sập 29 hầm vàng trái phép](https://vnexpress.net/da-nang-danh-sap-29-ham-vang-trai-phep-4247134.html) ([VNExpress](https://vnexpress.net))
-- [Tài xế chạy xe mô tô với tốc độ kinh hoàng trên đại lộ đã ra trình diện](https://laodong.vn/xa-hoi/tai-xe-chay-xe-mo-to-voi-toc-do-kinh-hoang-tren-dai-lo-da-ra-trinh-dien-888148.ldo) ([Lao Động](https://laodong.vn))
-- [Những dự án đầu tư thuộc diện thu hồi đất](https://laodong.vn/bat-dong-san/nhung-du-an-dau-tu-thuoc-dien-thu-hoi-dat-887556.ldo) ([Lao Động](https://laodong.vn))
-- [Khám phá căn hộ gần 3,5 tỉ đồng của diễn viên Đoàn Minh Tài &quot;Dốc sương mù&quot;](https://laodong.vn/bat-dong-san/kham-pha-can-ho-gan-35-ti-dong-cua-dien-vien-doan-minh-tai-doc-suong-mu-888113.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam nêu quan điểm về cuộc họp của nhóm &quot;Bộ tứ&quot;](https://laodong.vn/the-gioi/viet-nam-neu-quan-diem-ve-cuoc-hop-cua-nhom-bo-tu-888112.ldo) ([Lao Động](https://laodong.vn))
-- [FLC: Tỷ lệ sở hữu của tập đoàn và các đơn vị, cá nhân liên quan tại Bamboo Airways vẫn gần 85%](https://cafebiz.vn/flc-ty-le-so-huu-cua-tap-doan-va-cac-don-vi-ca-nhan-lien-quan-tai-bamboo-airways-van-gan-85-2021031117514984.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ý kiến trái chiều về đề xuất bỏ nhân hệ số 2 môn Toán, Văn kỳ thi lớp 10](https://laodong.vn/video-thoi-su/y-kien-trai-chieu-ve-de-xuat-bo-nhan-he-so-2-mon-toan-van-ky-thi-lop-10-888109.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ nhiệm Ủy ban Kiểm tra Trung ương được giới thiệu ứng cử Quốc hội](https://vnexpress.net/chu-nhiem-uy-ban-kiem-tra-trung-uong-duoc-gioi-thieu-ung-cu-quoc-hoi-4246592.html) ([VNExpress](https://vnexpress.net))
-- [Greensill - đế chế sụp đổ gây chấn động ngành tài chính: Credit Suisse phải đóng băng hàng loạt quỹ đầu tư, tỷ phú thép lừng lẫy một thời bỗng điêu đứng](https://cafebiz.vn/greensill-de-che-sup-do-gay-chan-dong-nganh-tai-chinh-credit-suisse-phai-dong-bang-hang-loat-quy-dau-tu-ty-phu-thep-lung-lay-mot-thoi-bong-dieu-dung-20210311160635885.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
