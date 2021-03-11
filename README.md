@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 22°C.
-- Feels Like 23.66°C.
-- Air Visual is 95.
+- Temperature is 23°C.
+- Feels Like 24.62°C.
+- Air Visual is 96.
 
 **WEATHER**
 
@@ -52,8 +52,7 @@
 - [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
-- [![Hướng dương ngược nắng tập 39](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2039&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2039)
-- [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
+- [![Hướng dương ngược nắng' tập 39](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng'%20t%E1%BA%ADp%2039&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng'%20t%E1%BA%ADp%2039)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
@@ -65,6 +64,7 @@
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
+- [![UEFA Champions League](https://img.shields.io/static/v1?label=UEFA%20Champions%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UEFA%20Champions%20League)
 - [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
 - [![Yoona](https://img.shields.io/static/v1?label=Yoona&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Yoona)
 - [![Đại tá Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Người da màu đầu tiên lãnh đạo cơ quan Bảo vệ Môi trường Mỹ sau nửa thế kỷ](https://laodong.vn/the-gioi/nguoi-da-mau-dau-tien-lanh-dao-co-quan-bao-ve-moi-truong-my-sau-nua-the-ky-887871.ldo) ([Lao Động](https://laodong.vn))
-- [8 đặc điểm chung ở các triệu phú dưới 30: MƠ LỚN là bước đầu tiên tới thành công, LÀM LỚN là cách để tận dụng tối đa tài năng của bạn](https://cafebiz.vn/8-dac-diem-chung-o-cac-trieu-phu-duoi-30-mo-lon-la-buoc-dau-tien-toi-thanh-cong-lam-lon-la-cach-de-tan-dung-toi-da-tai-nang-cua-ban-20210308181850917.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tỉ phú giàu nhất Nga nộp phạt kỷ lục 2 tỉ USD](https://laodong.vn/the-gioi/ti-phu-giau-nhat-nga-nop-phat-ky-luc-2-ti-usd-887879.ldo) ([Lao Động](https://laodong.vn))
-- [Kpop tháng 3: Sau Blackpink, Red Velvet và IZ*ONE lại gây bất ngờ](https://laodong.vn/giai-tri/kpop-thang-3-sau-blackpink-red-velvet-va-izone-lai-gay-bat-ngo-887857.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng: Toàn bộ F1 của 2 ca mắc COVID-19 đều âm tính SARS-CoV-2](https://laodong.vn/y-te/hai-phong-toan-bo-f1-cua-2-ca-mac-covid-19-deu-am-tinh-sars-cov-2-887877.ldo) ([Lao Động](https://laodong.vn))
-- [An Gia (AGG) mang phong cách resort về khu biệt lập The Standard](https://cafebiz.vn/an-gia-agg-mang-phong-cach-resort-ve-khu-biet-lap-the-standard-20210310164641029.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chỉ trong 6 tháng, cô nhân viên văn phòng được sếp tự tăng lương thêm 50% nhờ chăm chỉ áp dụng một nguyên tắc làm việc](https://cafebiz.vn/chi-trong-6-thang-co-nhan-vien-van-phong-duoc-sep-tu-tang-luong-them-50-nho-cham-chi-ap-dung-mot-nguyen-tac-lam-viec-20210310160801475.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tiến sĩ Stanford: “Học tiếng Anh bằng trải nghiệm thực tế”](https://cafebiz.vn/tien-si-stanford-hoc-tieng-anh-bang-trai-nghiem-thuc-te-20210310155451782.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tiêu Chiến: Mỹ nam nỗ lực để vươn lên vị trí hàng đầu showbiz Hoa ngữ](https://laodong.vn/photo/tieu-chien-my-nam-no-luc-de-vuon-len-vi-tri-hang-dau-showbiz-hoa-ngu-887631.ldo) ([Lao Động](https://laodong.vn))
-- [Mắc bệnh gì thì được hưởng bảo hiểm xã hội một lần?](https://laodong.vn/tu-van-phap-luat/mac-benh-gi-thi-duoc-huong-bao-hiem-xa-hoi-mot-lan-887304.ldo) ([Lao Động](https://laodong.vn))
+- [5 dấu hiệu cảnh báo các bệnh về tim mạch mọi người cần lưu ý](https://laodong.vn/suc-khoe/5-dau-hieu-canh-bao-cac-benh-ve-tim-mach-moi-nguoi-can-luu-y-887534.ldo) ([Lao Động](https://laodong.vn))
+- [Quyết định gây tranh cãi của ông Biden trước làn sóng nhập cư tăng cao](https://laodong.vn/the-gioi/quyet-dinh-gay-tranh-cai-cua-ong-biden-truoc-lan-song-nhap-cu-tang-cao-887875.ldo) ([Lao Động](https://laodong.vn))
+- [Học phí đại học quá cao, Bộ GDĐT nói gì?](https://laodong.vn/ban-doc/hoc-phi-dai-hoc-qua-cao-bo-gddt-noi-gi-887876.ldo) ([Lao Động](https://laodong.vn))
+- [7 doanh nghiệp “tỉ USD” sẽ đóng vai trò dẫn dắt, mở đường](https://laodong.vn/kinh-te/7-doanh-nghiep-ti-usd-se-dong-vai-tro-dan-dat-mo-duong-887810.ldo) ([Lao Động](https://laodong.vn))
+- [Nam Bộ đón thêm đợt nắng nóng mới vào hôm nay](https://laodong.vn/moi-truong/nam-bo-don-them-dot-nang-nong-moi-vao-hom-nay-887888.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ Y tế cảnh báo tình trạng giả mạo trong cung ứng - mua bán vắc xin phòng Covid-19](https://cafebiz.vn/bo-y-te-canh-bao-tinh-trang-gia-mao-trong-cung-ung-mua-ban-vac-xin-phong-covid-19-20210311084612446.chn) ([CafeBiz](https://cafebiz.vn))
+- [Điều ít biết về chuỗi Aha Cafe: Thương hiệu có từ năm 1997 nhưng 11 năm sau mới mở cửa hàng đầu tiên, công ty quản lý lỗ triền miên](https://cafebiz.vn/dieu-it-biet-ve-chuoi-aha-cafe-thuong-hieu-co-tu-nam-1997-nhung-11-nam-sau-moi-mo-cua-hang-dau-tien-cong-ty-quan-ly-lo-trien-mien-20210310180951739.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đại tướng Lương Cường được giới thiệu ứng cử đại biểu Quốc hội](https://vnexpress.net/dai-tuong-luong-cuong-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-4246702.html) ([VNExpress](https://vnexpress.net))
+- [Lời cảnh báo của chuyên gia Thái Lan 20 năm trước và thế khó của HOSE](https://cafebiz.vn/loi-canh-bao-cua-chuyen-gia-thai-lan-20-nam-truoc-va-the-kho-cua-hose-20210311083817069.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hai mẹ con dương tính COVID-19 khi sang Úc: Hải Phòng xác định 5F1, nhiều trường hợp liên quan](https://cafebiz.vn/hai-me-con-duong-tinh-covid-19-khi-sang-uc-hai-phong-xac-dinh-5f1-nhieu-truong-hop-lien-quan-20210311083746128.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
