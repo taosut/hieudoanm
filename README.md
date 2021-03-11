@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is undefined.
-- Temperature is 0°C.
-- Feels Like 0°C.
-- Air Visual is 93.
+- Current weather is broken clouds.
+- Temperature is 25°C.
+- Feels Like 26.97°C.
+- Air Visual is 94.
 
 **WEATHER**
 
@@ -55,7 +55,7 @@
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Lịch C1](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20C1)
+- [![Lê Huỳnh Đức](https://img.shields.io/static/v1?label=L%C3%AA%20Hu%E1%BB%B3nh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20Hu%E1%BB%B3nh%20%C4%90%E1%BB%A9c)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Sân bay có phải "đũa thần" cho phát triển?](https://cafebiz.vn/san-bay-co-phai-dua-than-cho-phat-trien-20210311104539004.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nikkei: Động thái mới cho thấy Foxconn sử dụng cùng một chiến lược với cả Việt Nam và Ấn Độ](https://cafebiz.vn/nikkei-dong-thai-moi-cho-thay-foxconn-su-dung-cung-mot-chien-luoc-voi-ca-viet-nam-va-an-do-20210311104308653.chn) ([CafeBiz](https://cafebiz.vn))
+- [Huyền thoại đầu tư Warren Buffett vừa gia nhập "Câu lạc bộ 100 tỷ USD" cùng "ông bạn thân" Bill Gates](https://cafebiz.vn/huyen-thoai-dau-tu-warren-buffett-vua-gia-nhap-cau-lac-bo-100-ty-usd-cung-ong-ban-than-bill-gates-20210311101725248.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bộ Công Thương sẽ tước giấy phép nhiều doanh nghiệp xăng dầu](https://cafebiz.vn/bo-cong-thuong-se-tuoc-giay-phep-nhieu-doanh-nghiep-xang-dau-20210311104126078.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sau Viettel, VNPT, đến lượt MobiFone được cấp giấy phép trung gian thanh toán](https://cafebiz.vn/sau-viettel-vnpt-den-luot-mobifone-duoc-cap-giay-phep-trung-gian-thanh-toan-2021031110363151.chn) ([CafeBiz](https://cafebiz.vn))
+- [Công nhân, viên chức, lao động tỉnh Điện Biên nói không với ma túy](https://laodong.vn/ldld-dien-bien/cong-nhan-vien-chuc-lao-dong-tinh-dien-bien-noi-khong-voi-ma-tuy-887919.ldo) ([Lao Động](https://laodong.vn))
+- [Thi lớp 10 tại TPHCM có thể bỏ nhân 2 hệ số Toán, Văn: Học sinh nghĩ gì?](https://laodong.vn/giao-duc/thi-lop-10-tai-tphcm-co-the-bo-nhan-2-he-so-toan-van-hoc-sinh-nghi-gi-887907.ldo) ([Lao Động](https://laodong.vn))
 - [Elon Musk hứa sẽ đưa người lên định cư Sao Hỏa vào năm 2026, đây là 3 trở ngại lớn khiến kế hoạch này vẫn phi thực tế](https://cafebiz.vn/elon-musk-hua-se-dua-nguoi-len-dinh-cu-sao-hoa-vao-nam-2026-day-la-3-tro-ngai-lon-khien-ke-hoach-nay-van-phi-thuc-te-2021031109090555.chn) ([CafeBiz](https://cafebiz.vn))
 - [Trải lòng của người dân ở nơi “nước quý hơn vàng”](https://laodong.vn/video/trai-long-cua-nguoi-dan-o-noi-nuoc-quy-hon-vang-887557.ldo) ([Lao Động](https://laodong.vn))
 - [Vợ ông Dũng Lò vôi “tố” một đại gia ngành tiêu dùng ở Bình Dương cho vay nặng lãi siêu cao cấp, vô cảm, vô ơn](https://cafebiz.vn/vo-ong-dung-lo-voi-to-mot-dai-gia-nganh-tieu-dung-o-binh-duong-cho-vay-nang-lai-sieu-cao-cap-vo-cam-vo-on-20210311102555691.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đà Nẵng: Thanh tra tài chính loạt dự án tiền tỉ trong năm 2021](https://laodong.vn/xa-hoi/da-nang-thanh-tra-tai-chinh-loat-du-an-tien-ti-trong-nam-2021-887917.ldo) ([Lao Động](https://laodong.vn))
-- [9 loại virus “chết chóc” nhất thế giới](https://laodong.vn/suc-khoe/9-loai-virus-chet-choc-nhat-the-gioi-887745.ldo) ([Lao Động](https://laodong.vn))
-- [Hãy chú ý những tới những con muỗi: Nguyên tắc thành công chưa ai từng nói với bạn](https://cafebiz.vn/hay-chu-y-nhung-toi-nhung-con-muoi-nguyen-tac-thanh-cong-chua-ai-tung-noi-voi-ban-2021031110243479.chn) ([CafeBiz](https://cafebiz.vn))
-- ["Tai bay vạ gió": Giữa làn sóng tẩy chay dữ dội, một nhãn sữa nổi tiếng do Thơ Nguyễn làm KOL bị vạ lây](https://cafebiz.vn/tai-bay-va-gio-giua-lan-song-tay-chay-mot-nhan-sua-noi-tieng-do-tho-nguyen-lam-kol-bi-va-lay-20210311102258928.chn) ([CafeBiz](https://cafebiz.vn))
-- [Syria trong cơn ác mộng tồi tệ sau 10 năm chiến tranh](https://laodong.vn/the-gioi/syria-trong-con-ac-mong-toi-te-sau-10-nam-chien-tranh-887926.ldo) ([Lao Động](https://laodong.vn))
-- [Cùng nghe ca khúc “Bình minh SEA Games” của Nhà hát Vũ kịch Việt Nam](https://laodong.vn/giai-tri/cung-nghe-ca-khuc-binh-minh-sea-games-cua-nha-hat-vu-kich-viet-nam-887902.ldo) ([Lao Động](https://laodong.vn))
-- [Đảm nhiệm hơn 20 vai trong "Tây du ký 1986", nam diễn viên này từng khiến Chư Bát Giới và đạo diện mâu thuẫn nội bộ](https://cafebiz.vn/dam-nhiem-hon-20-vai-trong-tay-du-ky-1986-nam-dien-vien-nay-tung-khien-chu-bat-gioi-va-dao-dien-mau-thuan-noi-bo-20210310170107932.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -134,8 +134,8 @@
 02. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 03. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 04. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
-05. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
-06. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
+05. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
+06. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 07. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 08. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 09. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
