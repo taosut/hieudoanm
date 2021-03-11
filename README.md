@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nghe theo khẩu hiệu ‘Còn trẻ mà, cứ tiêu đi, chỉ cần đi vay’ của Jack Ma, hàng triệu người Trung Quốc lâm cảnh nợ nần, bế tắc, có người muốn tự sát](https://cafebiz.vn/nghe-theo-khau-hieu-con-tre-ma-cu-tieu-di-chi-can-di-vay-cua-jack-ma-hang-trieu-nguoi-trung-quoc-lam-canh-no-nan-be-tac-co-nguoi-muon-tu-sat-2021031111022858.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người Việt duy nhất lọt danh sách "100 phụ nữ của năm 2020 trên toàn thế giới", kể về cuộc gọi kỳ lạ từ phóng viên đài BBC làm nên cột mốc quan trọng trong sự nghiệp](https://cafebiz.vn/nguoi-viet-duy-nhat-lot-danh-sach-100-phu-nu-cua-nam-2020-tren-toan-the-gioi-ke-ve-cuoc-goi-ky-la-tu-phong-vien-dai-bbc-lam-nen-cot-moc-quan-trong-trong-su-nghiep-20210311110204943.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kêu gọi chấm dứt ngay bạo lực ở Myanmar](https://laodong.vn/the-gioi/keu-goi-cham-dut-ngay-bao-luc-o-myanmar-887931.ldo) ([Lao Động](https://laodong.vn))
+- [Ông chủ Facebook tiết lộ tham vọng về VR và giao diện não-máy tính](https://cafebiz.vn/ong-chu-facebook-tiet-lo-tham-vong-ve-vr-va-giao-dien-nao-may-tinh-20210311091311019.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tháng 3 hoa gạo đỏ rực giữa lòng Hà Nội](https://laodong.vn/photo/thang-3-hoa-gao-do-ruc-giua-long-ha-noi-887199.ldo) ([Lao Động](https://laodong.vn))
+- [Bủa lưới dài 450 m bắt cá đù](https://vnexpress.net/bua-luoi-dai-450-m-bat-ca-du-4246632.html) ([VNExpress](https://vnexpress.net))
+- [Đổi sang CCCD gắn chíp, thay đổi thông tin đăng ký thuế ra sao?](https://laodong.vn/xa-hoi/doi-sang-cccd-gan-chip-thay-doi-thong-tin-dang-ky-thue-ra-sao-887936.ldo) ([Lao Động](https://laodong.vn))
+- [Rác thải bủa vây dự án nghìn tỷ ‘đắp chiếu’ hàng chục năm, dân tận dụng trồng rau](https://cafebiz.vn/rac-thai-bua-vay-du-an-nghin-ty-dap-chieu-hang-chuc-nam-dan-tan-dung-trong-rau-20210311105628605.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lắp lại rào chắn trên cao tốc Hà Nội - Lào Cai](https://vnexpress.net/lap-lai-rao-chan-tren-cao-toc-ha-noi-lao-cai-4246803.html) ([VNExpress](https://vnexpress.net))
 - [Sân bay có phải "đũa thần" cho phát triển?](https://cafebiz.vn/san-bay-co-phai-dua-than-cho-phat-trien-20210311104539004.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nikkei: Động thái mới cho thấy Foxconn sử dụng cùng một chiến lược với cả Việt Nam và Ấn Độ](https://cafebiz.vn/nikkei-dong-thai-moi-cho-thay-foxconn-su-dung-cung-mot-chien-luoc-voi-ca-viet-nam-va-an-do-20210311104308653.chn) ([CafeBiz](https://cafebiz.vn))
-- [Huyền thoại đầu tư Warren Buffett vừa gia nhập "Câu lạc bộ 100 tỷ USD" cùng "ông bạn thân" Bill Gates](https://cafebiz.vn/huyen-thoai-dau-tu-warren-buffett-vua-gia-nhap-cau-lac-bo-100-ty-usd-cung-ong-ban-than-bill-gates-20210311101725248.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bộ Công Thương sẽ tước giấy phép nhiều doanh nghiệp xăng dầu](https://cafebiz.vn/bo-cong-thuong-se-tuoc-giay-phep-nhieu-doanh-nghiep-xang-dau-20210311104126078.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sau Viettel, VNPT, đến lượt MobiFone được cấp giấy phép trung gian thanh toán](https://cafebiz.vn/sau-viettel-vnpt-den-luot-mobifone-duoc-cap-giay-phep-trung-gian-thanh-toan-2021031110363151.chn) ([CafeBiz](https://cafebiz.vn))
-- [Công nhân, viên chức, lao động tỉnh Điện Biên nói không với ma túy](https://laodong.vn/ldld-dien-bien/cong-nhan-vien-chuc-lao-dong-tinh-dien-bien-noi-khong-voi-ma-tuy-887919.ldo) ([Lao Động](https://laodong.vn))
-- [Thi lớp 10 tại TPHCM có thể bỏ nhân 2 hệ số Toán, Văn: Học sinh nghĩ gì?](https://laodong.vn/giao-duc/thi-lop-10-tai-tphcm-co-the-bo-nhan-2-he-so-toan-van-hoc-sinh-nghi-gi-887907.ldo) ([Lao Động](https://laodong.vn))
-- [Elon Musk hứa sẽ đưa người lên định cư Sao Hỏa vào năm 2026, đây là 3 trở ngại lớn khiến kế hoạch này vẫn phi thực tế](https://cafebiz.vn/elon-musk-hua-se-dua-nguoi-len-dinh-cu-sao-hoa-vao-nam-2026-day-la-3-tro-ngai-lon-khien-ke-hoach-nay-van-phi-thuc-te-2021031109090555.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trải lòng của người dân ở nơi “nước quý hơn vàng”](https://laodong.vn/video/trai-long-cua-nguoi-dan-o-noi-nuoc-quy-hon-vang-887557.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ ông Dũng Lò vôi “tố” một đại gia ngành tiêu dùng ở Bình Dương cho vay nặng lãi siêu cao cấp, vô cảm, vô ơn](https://cafebiz.vn/vo-ong-dung-lo-voi-to-mot-dai-gia-nganh-tieu-dung-o-binh-duong-cho-vay-nang-lai-sieu-cao-cap-vo-cam-vo-on-20210311102555691.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
