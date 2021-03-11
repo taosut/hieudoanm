@@ -8,7 +8,7 @@ import { government, hooks, information } from './ghi';
 import { justice, korea, licensePlates } from './jkl';
 import { music, news, openAPIs } from './mno';
 import { proxy, quotes, reddit, status } from './pqrs';
-import { tools, visas } from './tuv';
+import { visas } from './tuv';
 import { weather, x, youtube, zalo } from './wxyz';
 
 const routes: Array<IRoute> = [].concat(
@@ -31,7 +31,6 @@ const routes: Array<IRoute> = [].concat(
   quotes,
   reddit,
   status,
-  tools,
   visas,
   weather,
   x,
