@@ -1,5 +1,5 @@
-<p align="center"><img src="https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/profile/avatar.png" alt="VIETNAM" height="60"/></p>
-<h1 align="center">VIETNAMDB</h1>
+<p align="center"><img src="https://raw.githubusercontent.com/hieudoanm/hieudoanm/master/images/hieudoanm/profile.jpg" alt="VIETNAM" height="60"/></p>
+<h1 align="center">HIEU</h1>
 <p align="center">VIETNAM 🇻🇳 RESTful APIs.</p>
 <p align="center">
   <a href="https://vietnamdb.herokuapp.com/api">APIs</a> -
@@ -22,7 +22,7 @@
 - Current weather is undefined.
 - Temperature is 0°C.
 - Feels Like 0°C.
-- Air Visual is 93.
+- Air Visual is 89.
 
 **WEATHER**
 
@@ -48,7 +48,6 @@
 
 **GOOGLE TRENDS**
 
-- [![Atletico Madrid](https://img.shields.io/static/v1?label=Atletico%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Atletico%20Madrid)
 - [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
@@ -56,6 +55,7 @@
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Lịch C1](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20C1)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Những bộ đồ chơi Lego đắt hàng nhờ đại dịch, Trung Quốc góp công lớn](https://cafebiz.vn/nhung-bo-do-choi-lego-dat-hang-nho-dai-dich-trung-quoc-gop-cong-lon-20210311090223757.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tỉ lệ ủng hộ rộng rãi cho gói giải cứu 1,9 nghìn tỉ USD của ông Biden](https://laodong.vn/the-gioi/ti-le-ung-ho-rong-rai-cho-goi-giai-cuu-19-nghin-ti-usd-cua-ong-biden-887881.ldo) ([Lao Động](https://laodong.vn))
+- [Tập huấn cài đặt bảo hiểm xã hội số cho cán bộ Công đoàn](https://laodong.vn/ldld-tphcm/tap-huan-cai-dat-bao-hiem-xa-hoi-so-cho-can-bo-cong-doan-887908.ldo) ([Lao Động](https://laodong.vn))
+- [Cô dâu xinh như hoa hậu với dàn xe rước dâu trị giá 50 tỷ: Vợ thích ăn lẩu, chồng mở cả chuỗi nhà hàng, mẹ chồng luôn khen con dâu vì một điều đặc biệt!](https://cafebiz.vn/co-dau-xinh-nhu-hoa-hau-voi-dan-xe-ruoc-dau-tri-gia-50-ty-vo-thich-an-lau-chong-mo-ca-chuoi-nha-hang-me-chong-luon-khen-con-dau-vi-mot-dieu-dac-biet-20210311095213856.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá vàng và ngoại tệ 11.3: Vàng tăng mạnh, dự báo tiếp tục đà tăng](https://laodong.vn/video-thoi-su/gia-vang-va-ngoai-te-113-vang-tang-manh-du-bao-tiep-tuc-da-tang-887911.ldo) ([Lao Động](https://laodong.vn))
+- [Quản lý yếu kém, sai phạm trật tự xây dựng kéo dài tại Bình Xuyên-Vĩnh Phúc](https://laodong.vn/bat-dong-san/quan-ly-yeu-kem-sai-pham-trat-tu-xay-dung-keo-dai-tai-binh-xuyen-vinh-phuc-887733.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng hôm nay 11.3: Tiếp tục nhảy vọt rồi diễn biến ra sao?](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-113-tiep-tuc-nhay-vot-roi-dien-bien-ra-sao-887754.ldo) ([Lao Động](https://laodong.vn))
 - [Jeff Bezos: ‘Ai không thích logo Amazon hẳn là người không yêu cún con’](https://cafebiz.vn/jeff-bezos-ai-khong-thich-logo-amazon-han-la-nguoi-khong-yeu-cun-con-20210310173726775.chn) ([CafeBiz](https://cafebiz.vn))
-- [Học viện Ngoại giao công bố đề án tuyển sinh 2021](https://laodong.vn/giao-duc/hoc-vien-ngoai-giao-cong-bo-de-an-tuyen-sinh-2021-887901.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nam: Xử lý đối tượng tổ chức nhập cảnh trái phép qua biên giới](https://laodong.vn/phap-luat/ha-nam-xu-ly-doi-tuong-to-chuc-nhap-canh-trai-phep-qua-bien-gioi-887828.ldo) ([Lao Động](https://laodong.vn))
 - [Lập đề án xây dựng Đà Nẵng thành trung tâm tài chính quy mô khu vực](https://laodong.vn/xa-hoi/lap-de-an-xay-dung-da-nang-thanh-trung-tam-tai-chinh-quy-mo-khu-vuc-887893.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng: 50.000 người đăng ký sử dụng ứng dụng BHXH số - VssID](https://laodong.vn/cong-doan/da-nang-50000-nguoi-dang-ky-su-dung-ung-dung-bhxh-so-vssid-887897.ldo) ([Lao Động](https://laodong.vn))
-- [Tin vui cho Real Madrid, Ramos và Hazard đã trở lại](https://laodong.vn/bong-da-quoc-te/tin-vui-cho-real-madrid-ramos-va-hazard-da-tro-lai-887851.ldo) ([Lao Động](https://laodong.vn))
 - [Một startup giao hàng gọi vốn thành công 170 triệu USD](https://cafebiz.vn/mot-startup-giao-hang-goi-von-thanh-cong-170-trieu-usd-20210311090413964.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chỉ ăn khoai lang và dứa, cô gái 26 tuổi tiết kiệm 2 tỷ đồng sau 3,5 năm](https://cafebiz.vn/chi-an-khoai-lang-va-dua-co-gai-26-tuoi-tiet-kiem-2-ty-dong-sau-35-nam-20210311091502768.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chưa ai nhận trách nhiệm vụ 2 cháu bé chết đuối dưới hố chôn cột điện](http://vietnamnet.vn/vn/thoi-su/chua-ai-nhan-trach-nhiem-vu-2-chau-be-chet-duoi-duoi-ho-chon-cot-dien-718768.html) ([VietNamNet](https://vietnamnet.vn))
-- [Con gái ngã quỵ ôm thi thể cha bị tai nạn ở cầu Phú Mỹ.](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/con-gai-nga-quy-om-thi-the-cha-bi-tai-nan-o-cau-phu-my-718772.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
