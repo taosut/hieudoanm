@@ -8,40 +8,6 @@ const hooks: Array<IRoute> = [
   {
     public: false,
     tags: ['Hooks'],
-    summary: 'Get Status',
-    description: '',
-    method: 'GET',
-    request: {
-      query: [],
-      body: []
-    },
-    path: `${prefix}`,
-    middlewares: [],
-    responses: {
-      200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
-    }
-  },
-  {
-    public: false,
-    tags: ['Hooks'],
-    summary: 'GitHub Hook',
-    description: '',
-    method: 'POST',
-    request: {
-      query: [],
-      body: []
-    },
-    path: `${prefix}/github`,
-    middlewares: [],
-    responses: {
-      200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
-    }
-  },
-  {
-    public: false,
-    tags: ['Hooks'],
     summary: 'Heroku Hook',
     description: '',
     method: 'POST',

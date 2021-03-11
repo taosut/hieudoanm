@@ -14,7 +14,6 @@
   - Cabinet (Ministries)
   - National Assembly Members
 - Hooks
-  - GitHub
   - Heroku
   - Telegram
 - Information
@@ -26,14 +25,13 @@
 - News
 - Open APIs
 - Proxy
-- Quotes
-- Reddit
+- Q
+- R
 - Status
-- Tools
-  - MD5
+- T
 - U
 - Visas
 - Weather
 - X (Bank)
 - YouTube
-- Zalo
+- Z
