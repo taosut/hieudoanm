@@ -21,8 +21,8 @@
 
 - Current weather is clear sky.
 - Temperature is 24°C.
-- Feels Like 25.5°C.
-- Air Visual is 87.
+- Feels Like 25.99°C.
+- Air Visual is 95.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Savills: Đổ xô đi lắp lưới bảo hộ không đủ để đảm bảo an toàn cho nhà chung cư](https://cafebiz.vn/savills-do-xo-di-lap-luoi-bao-ho-khong-du-de-dam-bao-an-toan-cho-nha-chung-cu-20210311181738742.chn) ([CafeBiz](https://cafebiz.vn))
-- [NÓNG: Hoàng tử William chính thức lên tiếng về cuộc phỏng vấn của nhà Sussex, chỉ bằng một câu ngắn gọn đủ khiến Harry phải ngẫm lại mình](https://cafebiz.vn/nong-hoang-tu-william-chinh-thuc-len-tieng-ve-cuoc-phong-van-cua-nha-sussex-chi-bang-mot-cau-ngan-gon-du-khien-harry-phai-ngam-lai-minh-20210311211226603.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cặp vợ chồng với siêu xe gây tò mò: Chồng buôn lan đột biến, vợ bán đông trùng hạ thảo](https://cafebiz.vn/cap-vo-chong-voi-sieu-xe-gay-to-mo-chong-buon-lan-dot-bien-vo-ban-dong-trung-ha-thao-20210311212932414.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ cuộc phỏng vấn chấn động hoàng gia của Harry - Meghan nhìn về mối quan hệ muôn thuở: Nhà chồng - Nàng dâu liệu có thể yêu thương nhau?](https://cafebiz.vn/tu-cuoc-phong-van-chan-dong-hoang-gia-cua-harry-meghan-nhin-ve-moi-quan-he-muon-thuo-nha-chong-nang-dau-lieu-co-the-yeu-thuong-nhau-20210311175619457.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tập đoàn 3M dự kiến đầu tư 1 tỷ USD trong vòng 20 năm tới để thực hiện các mục tiêu bảo vệ môi trường](https://cafebiz.vn/tap-doan-3m-du-kien-dau-tu-1-ty-usd-trong-vong-20-nam-toi-de-thuc-hien-cac-muc-tieu-bao-ve-moi-truong-20210311170801259.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vận may của 12 con giáp trong tháng 2 âm lịch: Người bội thu về tài vận, người chịu khó gồng gánh, tháng sau mọi thứ sẽ cải thiện](https://cafebiz.vn/van-may-cua-12-con-giap-trong-thang-2-am-lich-nguoi-boi-thu-ve-tai-van-nguoi-chiu-kho-gong-ganh-thang-sau-moi-thu-se-cai-thien-20210311171017565.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bỏ 150 triệu mua filler về nhờ bạn tiêm để 'tiết kiệm', cô gái phải mổ khẩn cấp](https://tuoitre.vn/bo-150-trieu-mua-filler-ve-nho-ban-tiem-de-tiet-kiem-co-gai-phai-mo-khan-cap-20210311164902754.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chiều 11/3, thêm 4 ca mắc mới COVID-19 là người nhập cảnh](https://cafebiz.vn/chieu-11-3-them-4-ca-mac-moi-covid-19-la-nguoi-nhap-canh-20210311210923222.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bác sĩ khẳng định ông Võ Hoàng Yên kéo lưỡi chữa câm là phản khoa học](https://laodong.vn/ban-doc/bac-si-khang-dinh-ong-vo-hoang-yen-keo-luoi-chua-cam-la-phan-khoa-hoc-888041.ldo) ([Lao Động](https://laodong.vn))
-- [Phân biệt nhiệt miệng và ung thư khoang miệng: 3 gạch đầu dòng quan trọng cần biết](https://cafebiz.vn/phan-biet-nhiet-mieng-va-ung-thu-khoang-mieng-3-gach-dau-dong-quan-trong-can-biet-20210311170127927.chn) ([CafeBiz](https://cafebiz.vn))
+
 
 [Read More](docs/news/README.md)
 
