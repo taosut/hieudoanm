@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 25.15°C.
-- Air Visual is 78.
+- Current weather is clear sky.
+- Temperature is 25°C.
+- Feels Like 25.31°C.
+- Air Visual is 82.
 
 **WEATHER**
 
@@ -49,14 +49,13 @@
 **GOOGLE TRENDS**
 
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
-- [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
-- [![Chiesa](https://img.shields.io/static/v1?label=Chiesa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chiesa)
+- [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Khánh Phương](https://img.shields.io/static/v1?label=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng)
-- [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Liverpool vs Leipzig](https://img.shields.io/static/v1?label=Liverpool%20vs%20Leipzig&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool%20vs%20Leipzig)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
@@ -64,10 +63,11 @@
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
+- [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![UEFA Champions League](https://img.shields.io/static/v1?label=UEFA%20Champions%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UEFA%20Champions%20League)
 - [![Yoona](https://img.shields.io/static/v1?label=Yoona&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Yoona)
-- [![Đại tá Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i)
+- [![Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20V%C4%83n%20N%C6%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Cháy dãy trọ, hơn chục người mất trắng tài sản](https://vnexpress.net/chay-day-tro-hon-chuc-nguoi-mat-trang-tai-san-4247170.html) ([VNExpress](https://vnexpress.net))
+- [Báo Anh phỏng vấn nhanh: Dân Anh nghĩ gì về việc vợ chồng Harry thẳng tay “dội bom” vào gia tộc, khiến Hoàng gia khủng hoảng cục bộ?](https://cafebiz.vn/bao-anh-phong-van-nhanh-dan-anh-nghi-gi-ve-viec-vo-chong-harry-thang-tay-doi-bom-vao-gia-toc-khien-hoang-gia-khung-hoang-cuc-bo-20210311162944256.chn) ([CafeBiz](https://cafebiz.vn))
+- [Huấn luyện viên Phan Thanh Hùng “cẩn thận củi lửa” trước Viettel](https://laodong.vn/bong-da/huan-luyen-vien-phan-thanh-hung-can-than-cui-lua-truoc-viettel-888185.ldo) ([Lao Động](https://laodong.vn))
+- [Phá rừng để gắn tên 'Thị Xã Hoài Nhơn': Sẽ trồng cây, phủ xanh lại rừng](https://tuoitre.vn/pha-rung-de-gan-ten-thi-xa-hoai-nhon-se-trong-cay-phu-xanh-lai-rung-20210311145319692.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nhận định Man United - AC Milan: Quỷ đỏ gặp Đỏ - đen](https://laodong.vn/bong-da-quoc-te/nhan-dinh-man-united-ac-milan-quy-do-gap-do-den-888143.ldo) ([Lao Động](https://laodong.vn))
+- [Công an phát thông báo tìm nữ sinh 14 tuổi mất liên lạc hơn nửa tháng](https://tuoitre.vn/cong-an-phat-thong-bao-tim-nu-sinh-14-tuoi-mat-lien-lac-hon-nua-thang-20210311163245003.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Vietnam Airlines đề xuất vận chuyển miễn phí 5 triệu liều vaccine Covid-19](https://cafebiz.vn/vietnam-airlines-de-xuat-van-chuyen-mien-phi-5-trieu-lieu-vaccine-covid-19-2021031117375394.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tài xế phóng xe máy 299km/h trên đại lộ Thăng Long bị phạt 10,5 triệu](https://tuoitre.vn/tai-xe-phong-xe-may-299km-h-tren-dai-lo-thang-long-bi-phat-10-5-trieu-2021031118152876.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thêm 9 địa điểm ở Cẩm Giàng hết phong tỏa](https://vnexpress.net/them-9-dia-diem-o-cam-giang-het-phong-toa-4247154.html) ([VNExpress](https://vnexpress.net))
 - [Chứng chỉ chức danh nghề nghiệp giáo viên:  Học lại kiến thức cũ](https://laodong.vn/ban-doc/chung-chi-chuc-danh-nghe-nghiep-giao-vien-hoc-lai-kien-thuc-cu-888175.ldo) ([Lao Động](https://laodong.vn))
-- [Thơ Nguyễn làm clip &quot;xin vía&quot; học giỏi từ búp bê ma: Tiktok lên tiếng](https://laodong.vn/xa-hoi/tho-nguyen-lam-clip-xin-via-hoc-gioi-tu-bup-be-ma-tiktok-len-tieng-888146.ldo) ([Lao Động](https://laodong.vn))
-- [Thói quen ngủ chung, hôn chó mèo cực nguy hiểm với sức khỏe của bạn](https://laodong.vn/suc-khoe/thoi-quen-ngu-chung-hon-cho-meo-cuc-nguy-hiem-voi-suc-khoe-cua-ban-888137.ldo) ([Lao Động](https://laodong.vn))
-- [4 sự thật bất ngờ về giảm cân có thể bạn chưa biết](https://laodong.vn/lam-dep/4-su-that-bat-ngo-ve-giam-can-co-the-ban-chua-biet-887530.ldo) ([Lao Động](https://laodong.vn))
-- [Xử lý nghiêm các vụ quấy rối người nước ngoài ở Hà Nội](https://laodong.vn/the-gioi/xu-ly-nghiem-cac-vu-quay-roi-nguoi-nuoc-ngoai-o-ha-noi-888140.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều 11-3: Thêm 4 ca mắc COVID-19 mới ở Bình Dương, Hà Nội, Ninh Thuận](https://tuoitre.vn/chieu-11-3-them-4-ca-mac-covid-19-moi-o-binh-duong-ha-noi-ninh-thuan-20210311180828538.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Từ các clip gây phản ứng của Thơ Nguyễn: Phụ huynh lo lắng con bị nguy hiểm](https://laodong.vn/video/tu-cac-clip-gay-phan-ung-cua-tho-nguyen-phu-huynh-lo-lang-con-bi-nguy-hiem-888110.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều đoạn đường ở TPHCM “bỏng rát” dưới nắng vì thiếu cây xanh](https://laodong.vn/ban-doc/nhieu-doan-duong-o-tphcm-bong-rat-duoi-nang-vi-thieu-cay-xanh-888131.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyên gia tài chính: Không bao giờ là quá sớm để dạy con cái về tiền bạc](https://cafebiz.vn/chuyen-gia-tai-chinh-khong-bao-gio-la-qua-som-de-day-con-cai-ve-tien-bac-20210311155751629.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
