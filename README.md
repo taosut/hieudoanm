@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [TikTok lên tiếng vụ Thơ Nguyễn làm clip "xin vía búp bê học giỏi"](https://cafebiz.vn/tiktok-len-tieng-vu-tho-nguyen-lam-clip-xin-via-bup-be-hoc-gioi-20210311140143254.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ môn Bùi Tiến Dũng đầu tư 10 tỷ đồng kinh doanh quần áo: “Không có tiền khổ lắm, ai chửi tôi cũng kệ!”](https://cafebiz.vn/thu-mon-bui-tien-dung-chi-10-ty-dong-de-ban-quan-ao-khong-co-tien-kho-lam-ai-chui-toi-cung-ke-20210311114225161.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội xét nghiệm sàng lọc tại cộng đồng](https://vnexpress.net/ha-noi-xet-nghiem-sang-loc-tai-cong-dong-4246965.html) ([VNExpress](https://vnexpress.net))
+- [Nguồn gốc bùng phát dịch Covid-19 sắp được tiết lộ?](https://cafebiz.vn/nguon-goc-bung-phat-dich-covid-19-sap-duoc-tiet-lo-20210311135958619.chn) ([CafeBiz](https://cafebiz.vn))
+- [Rà soát việc rao bán hoá đơn trên Facebook, chuyển hồ sơ cho công an điều tra](https://cafebiz.vn/ra-soat-viec-rao-ban-hoa-don-tren-facebook-chuyen-ho-so-cho-cong-an-dieu-tra-20210311135843469.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trường hợp bắt buộc phải ký hợp đồng lao động bằng văn bản](https://laodong.vn/cong-doan/truong-hop-bat-buoc-phai-ky-hop-dong-lao-dong-bang-van-ban-887977.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội dự kiến phê duyệt Quy hoạch phân khu đô thị sông Hồng vào tháng 6](https://cafebiz.vn/ha-noi-du-kien-phe-duyet-quy-hoach-phan-khu-do-thi-song-hong-vao-thang-6-20210311135553064.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vũng Tàu: Hàng chục học sinh phải cấp cứu, nghi ngộ độc thức ăn](https://laodong.vn/xa-hoi/vung-tau-hang-chuc-hoc-sinh-phai-cap-cuu-nghi-ngo-doc-thuc-an-888013.ldo) ([Lao Động](https://laodong.vn))
 - [Tuyển sinh lớp 10: Chuyên Khoa học Xã hội và Nhân văn tuyển 150 chỉ tiêu](https://laodong.vn/giao-duc/tuyen-sinh-lop-10-chuyen-khoa-hoc-xa-hoi-va-nhan-van-tuyen-150-chi-tieu-888003.ldo) ([Lao Động](https://laodong.vn))
 - [Mobile Money mở đường để áp dụng Sandbox cho các dịch vụ mới](https://cafebiz.vn/mobile-money-mo-duong-de-ap-dung-sandbox-cho-cac-dich-vu-moi-20210311134715077.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhà giàu thì nhiều nhưng nhân tài 'hiếm như lá mùa thu', các quỹ đầu cơ Singapore đào tạo cả học sinh cấp 3 để quản lý tài sản](https://cafebiz.vn/nha-giau-thi-nhieu-nhung-nhan-tai-hiem-nhu-la-mua-thu-cac-quy-dau-co-singapore-dao-tao-ca-hoc-sinh-cap-3-de-quan-ly-tai-san-20210311133754855.chn) ([CafeBiz](https://cafebiz.vn))
-- ["Thiên thần tỷ tỷ" Lưu Diệc Phi: 20 năm lăn lộn showbiz, từ đại sứ Louis Vuitton đến bà trùm bất động sản, sở hữu BST siêu xe khiến cánh mày râu "thèm thuồng"](https://cafebiz.vn/thien-than-ty-ty-luu-diec-phi-20-nam-lan-lon-showbiz-tu-dai-su-louis-vuitton-den-ba-trum-bat-dong-san-so-huu-bst-sieu-xe-khien-canh-may-rau-them-thuong-20210311134219028.chn) ([CafeBiz](https://cafebiz.vn))
-- [Metro Số 1 dỡ rào chắn trên đường Lê Lợi trước 30/4](https://vnexpress.net/metro-so-1-do-rao-chan-tren-duong-le-loi-truoc-30-4-4246954.html) ([VNExpress](https://vnexpress.net))
-- [MB ra mắt tính năng "Chuyển tiền quốc tế Online" trên APP MBBank.](https://cafebiz.vn/mb-ra-mat-tinh-nang-chuyen-tien-quoc-te-online-tren-app-mbbank-20210311113256345.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sắc vóc gợi cảm của Hoàng Yến - cô Xuyến trong &quot;Về nhà đi con&quot;](https://laodong.vn/photo/sac-voc-goi-cam-cua-hoang-yen-co-xuyen-trong-ve-nha-di-con-887890.ldo) ([Lao Động](https://laodong.vn))
-- [Những công dụng bất ngờ đến từ vỏ chuối](https://laodong.vn/suc-khoe/nhung-cong-dung-bat-ngo-den-tu-vo-chuoi-887470.ldo) ([Lao Động](https://laodong.vn))
-- [Bị cha đánh, thiếu niên chống cự khiến cha tử vong](https://laodong.vn/phap-luat/bi-cha-danh-thieu-nien-chong-cu-khien-cha-tu-vong-887994.ldo) ([Lao Động](https://laodong.vn))
-- [Ngược dòng ngoạn mục, tỉ phú Buffett vươn lên thứ 6 trong CLB 100 tỉ USD](https://laodong.vn/the-gioi/nguoc-dong-ngoan-muc-ti-phu-buffett-vuon-len-thu-6-trong-clb-100-ti-usd-887965.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
