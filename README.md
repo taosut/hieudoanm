@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is scattered clouds.
 - Temperature is 25°C.
-- Feels Like 25.89°C.
+- Feels Like 27.13°C.
 - Air Visual is 97.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [TikTok lên tiếng vụ Thơ Nguyễn làm clip "xin vía búp bê học giỏi"](https://cafebiz.vn/tiktok-len-tieng-vu-tho-nguyen-lam-clip-xin-via-bup-be-hoc-gioi-20210311140143254.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ môn Bùi Tiến Dũng đầu tư 10 tỷ đồng kinh doanh quần áo: “Không có tiền khổ lắm, ai chửi tôi cũng kệ!”](https://cafebiz.vn/thu-mon-bui-tien-dung-chi-10-ty-dong-de-ban-quan-ao-khong-co-tien-kho-lam-ai-chui-toi-cung-ke-20210311114225161.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội xét nghiệm sàng lọc tại cộng đồng](https://vnexpress.net/ha-noi-xet-nghiem-sang-loc-tai-cong-dong-4246965.html) ([VNExpress](https://vnexpress.net))
-- [Nguồn gốc bùng phát dịch Covid-19 sắp được tiết lộ?](https://cafebiz.vn/nguon-goc-bung-phat-dich-covid-19-sap-duoc-tiet-lo-20210311135958619.chn) ([CafeBiz](https://cafebiz.vn))
-- [Rà soát việc rao bán hoá đơn trên Facebook, chuyển hồ sơ cho công an điều tra](https://cafebiz.vn/ra-soat-viec-rao-ban-hoa-don-tren-facebook-chuyen-ho-so-cho-cong-an-dieu-tra-20210311135843469.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trường hợp bắt buộc phải ký hợp đồng lao động bằng văn bản](https://laodong.vn/cong-doan/truong-hop-bat-buoc-phai-ky-hop-dong-lao-dong-bang-van-ban-887977.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội dự kiến phê duyệt Quy hoạch phân khu đô thị sông Hồng vào tháng 6](https://cafebiz.vn/ha-noi-du-kien-phe-duyet-quy-hoach-phan-khu-do-thi-song-hong-vao-thang-6-20210311135553064.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vũng Tàu: Hàng chục học sinh phải cấp cứu, nghi ngộ độc thức ăn](https://laodong.vn/xa-hoi/vung-tau-hang-chuc-hoc-sinh-phai-cap-cuu-nghi-ngo-doc-thuc-an-888013.ldo) ([Lao Động](https://laodong.vn))
-- [Tuyển sinh lớp 10: Chuyên Khoa học Xã hội và Nhân văn tuyển 150 chỉ tiêu](https://laodong.vn/giao-duc/tuyen-sinh-lop-10-chuyen-khoa-hoc-xa-hoi-va-nhan-van-tuyen-150-chi-tieu-888003.ldo) ([Lao Động](https://laodong.vn))
-- [Mobile Money mở đường để áp dụng Sandbox cho các dịch vụ mới](https://cafebiz.vn/mobile-money-mo-duong-de-ap-dung-sandbox-cho-cac-dich-vu-moi-20210311134715077.chn) ([CafeBiz](https://cafebiz.vn))
+- [Muốn sở hữu một căn nhà trong dự án Thành phố Cà phê của ông Đặng Lê Nguyên Vũ, người mua phải xuống tiền ít nhất 7 tỷ đồng](https://cafebiz.vn/muon-so-huu-mot-can-nha-trong-du-an-thanh-pho-ca-phe-cua-ong-dang-le-nguyen-vu-nguoi-mua-phai-xuong-tien-it-nhat-7-ty-dong-can-2021031113493048.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kinh nghiệm &quot;vàng&quot; khi mua đất nền phân lô](https://laodong.vn/bat-dong-san/kinh-nghiem-vang-khi-mua-dat-nen-phan-lo-887954.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt Giám đốc lừa bán đất ảo, chiếm đoạt gần 17 tỷ đồng tiền cọc](https://cafebiz.vn/bat-giam-doc-lua-ban-dat-ao-chiem-doat-gan-17-ty-dong-tien-coc-2021031114243155.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sau thông báo chính thức của hoàng gia, Meghan Markle đưa ra phản hồi đầy ngạo mạn, quyết không hạ mình](https://cafebiz.vn/sau-thong-bao-chinh-thuc-cua-hoang-gia-meghan-markle-dua-ra-phan-hoi-day-ngao-man-quyet-khong-ha-minh-20210311142248901.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bí thư Hà Nội: ‘Quy hoạch phân khu đô thị sông Hồng theo nguyên tắc thuận thiên’](https://tuoitre.vn/bi-thu-ha-noi-quy-hoach-phan-khu-do-thi-song-hong-theo-nguyen-tac-thuan-thien-20210311122126613.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bầu Bình khẳng định bước tiến của đội Sài Gòn](https://laodong.vn/video-the-thao/bau-binh-khang-dinh-buoc-tien-cua-doi-sai-gon-888006.ldo) ([Lao Động](https://laodong.vn))
+- [Gần 19 triệu đồng ủng hộ Quỹ &quot;Vì biển, đảo Việt Nam&quot;](https://laodong.vn/cong-doan/gan-19-trieu-dong-ung-ho-quy-vi-bien-dao-viet-nam-888016.ldo) ([Lao Động](https://laodong.vn))
+- [Ghép thận thành công cho trẻ suy thận giai đoạn cuối, đột biến gene hiếm gặp](https://laodong.vn/y-te/ghep-than-thanh-cong-cho-tre-suy-than-giai-doan-cuoi-dot-bien-gene-hiem-gap-888019.ldo) ([Lao Động](https://laodong.vn))
+- [Giàu "nứt khố đổ vách" nhưng người đàn ông này vẫn chỉ mua ô tô cũ, đi máy bay hạng phổ thông và không ngại đi xe 3 bánh từ sân bay về nhà](https://cafebiz.vn/giau-nut-kho-do-vach-nhung-nguoi-dan-ong-nay-van-chi-mua-o-to-cu-di-may-bay-hang-pho-thong-va-khong-ngai-di-xe-3-banh-tu-san-bay-ve-nha-2021031114055702.chn) ([CafeBiz](https://cafebiz.vn))
+- [Làm sao để không gục ngã trước khó khăn? Bỏ túi 6 "thần chú" của kẻ làm chủ cuộc chơi!](https://cafebiz.vn/lam-sao-de-khong-guc-nga-truoc-kho-khan-bo-tui-6-than-chu-cua-ke-lam-chu-cuoc-choi-20210311134006484.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
