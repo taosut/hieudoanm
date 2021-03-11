@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [5 câu hỏi tại sao (5 Whys): Bí quyết thiết lập mục tiêu hiệu quả, đẩy nhanh tiến độ gấp 21 lần](https://cafebiz.vn/5-cau-hoi-tai-sao-5-whys-bi-quyet-thiet-lap-muc-tieu-hieu-qua-day-nhanh-tien-do-gap-21-lan-20210311112854771.chn) ([CafeBiz](https://cafebiz.vn))
+- [Fan Hoàng Anh Gia Lai háo hức với Công Phượng, Xuân Trường](https://laodong.vn/the-thao/fan-hoang-anh-gia-lai-hao-huc-voi-cong-phuong-xuan-truong-887887.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội sẽ thay thế cán bộ trì trệ, năng lực hạn chế không chờ hết nhiệm kỳ](https://laodong.vn/thoi-su/ha-noi-se-thay-the-can-bo-tri-tre-nang-luc-han-che-khong-cho-het-nhiem-ky-887999.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội: Đã xác định được xe máy chạy gần 300km/h trên đại lộ Thăng Long](https://laodong.vn/phap-luat/ha-noi-da-xac-dinh-duoc-xe-may-chay-gan-300kmh-tren-dai-lo-thang-long-887991.ldo) ([Lao Động](https://laodong.vn))
 - [Bình Phước: Tăng cường kiểm soát các nguy cơ về an toàn, vệ sinh lao động](https://laodong.vn/ldld-binh-phuoc/binh-phuoc-tang-cuong-kiem-soat-cac-nguy-co-ve-an-toan-ve-sinh-lao-dong-887983.ldo) ([Lao Động](https://laodong.vn))
 - [Đà Nẵng: Tiêm 100 liều vaccine COVID-19 đầu tiên cho nhân viên y tế](https://laodong.vn/xa-hoi/da-nang-tiem-100-lieu-vaccine-covid-19-dau-tien-cho-nhan-vien-y-te-887997.ldo) ([Lao Động](https://laodong.vn))
-- [Đội ngũ những người làm Báo Nhân dân luôn đồng hành cùng dân tộc](https://laodong.vn/thoi-su/doi-ngu-nhung-nguoi-lam-bao-nhan-dan-luon-dong-hanh-cung-dan-toc-888000.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút 11.3: Thêm trường Đại học công bố đề án tuyển sinh](https://laodong.vn/video-thoi-su/ban-tin-1-phut-113-them-truong-dai-hoc-cong-bo-de-an-tuyen-sinh-887968.ldo) ([Lao Động](https://laodong.vn))
-- [Australia công bố gói hỗ trợ du lịch trị giá 928 triệu USD](https://laodong.vn/the-gioi/australia-cong-bo-goi-ho-tro-du-lich-tri-gia-928-trieu-usd-887958.ldo) ([Lao Động](https://laodong.vn))
 - [Mặt trận Tổ quốc giới thiệu 4 người ứng cử đại biểu Quốc hội](https://vnexpress.net/mat-tran-to-quoc-gioi-thieu-4-nguoi-ung-cu-dai-bieu-quoc-hoi-4246925.html) ([VNExpress](https://vnexpress.net))
 - [Bộ Thông tin và Truyền thông mời Thơ Nguyễn lên làm việc, không hợp tác sẽ khoá Youtube](https://cafebiz.vn/bo-thong-tin-va-truyen-thong-moi-tho-nguyen-len-lam-viec-khong-hop-tac-se-khoa-youtube-20210311120039892.chn) ([CafeBiz](https://cafebiz.vn))
 - [Xác định được tài xế phóng mô tô 'tốc độ bàn thờ' 299 km/h trên đại lộ Thăng Long](https://tuoitre.vn/xac-dinh-duoc-tai-xe-phong-mo-to-toc-do-ban-tho-299-km-h-tren-dai-lo-thang-long-20210311112235767.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nữ danh hài giàu nhất Vbiz Việt Hương: Cho thuê 8 căn hộ V.homes, thường xuyên thay đổi xế hộp, mua quá nhiều hột xoàn tới mức không muốn đeo](https://cafebiz.vn/nu-danh-hai-giau-nhat-vbiz-viet-huong-cho-thue-8-can-ho-vhomes-thuong-xuyen-thay-doi-xe-hop-mua-qua-nhieu-hot-xoan-toi-muc-khong-muon-deo-2021031111375697.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
