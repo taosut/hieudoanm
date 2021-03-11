@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bác sĩ khẳng định ông Võ Hoàng Yên kéo lưỡi chữa câm là phản khoa học](https://laodong.vn/ban-doc/bac-si-khang-dinh-ong-vo-hoang-yen-keo-luoi-chua-cam-la-phan-khoa-hoc-888041.ldo) ([Lao Động](https://laodong.vn))
+- [Phân biệt nhiệt miệng và ung thư khoang miệng: 3 gạch đầu dòng quan trọng cần biết](https://cafebiz.vn/phan-biet-nhiet-mieng-va-ung-thu-khoang-mieng-3-gach-dau-dong-quan-trong-can-biet-20210311170127927.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ứng dụng phát hiện COVID-19 nhờ tiếng ho cho độ chính xác tới 98%](https://cafebiz.vn/ung-dung-phat-hien-covid-19-nho-tieng-ho-cho-do-chinh-xac-toi-98-20210311170123482.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nóng nhất hôm nay: Sự kiện đặc biệt có sự góp mặt của 4 cựu tổng thống Mỹ](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-su-kien-dac-biet-co-su-gop-mat-cua-4-cuu-tong-thong-my-888127.ldo) ([Lao Động](https://laodong.vn))
+- [Chân tướng đằng sau cái chết đáng ngờ của Bao Thanh Thiên: Phát bệnh vỏn vẹn 13 ngày đã qua đời, liệu có phải do Hoàng đế đầu độc?](https://cafebiz.vn/chan-tuong-dang-sau-cai-chet-dang-ngo-cua-bao-thanh-thien-phat-benh-von-ven-13-ngay-da-qua-doi-lieu-co-phai-do-hoang-de-dau-doc-20210311165201539.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lưu Bị cả đời bồi dưỡng 5 danh tướng, tiếc là chỉ 2 người có kết cục tốt đẹp, nếu không đã có thể thay đổi lịch sử Tam Quốc](https://cafebiz.vn/luu-bi-ca-doi-boi-duong-5-danh-tuong-tiec-la-chi-2-nguoi-co-ket-cuc-tot-dep-neu-khong-da-co-the-thay-doi-lich-su-tam-quoc-20210311164827839.chn) ([CafeBiz](https://cafebiz.vn))
 - [Người nhập cảnh đã tiêm vắc-xin Covid-19 có còn phải cách ly 14 ngày?](https://cafebiz.vn/nguoi-nhap-canh-da-tiem-vac-xin-covid-19-co-con-phai-cach-ly-14-ngay-20210311165838155.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mẹo giặt và phơi quần áo nhanh khô khi trời nồm](https://cafebiz.vn/meo-giat-va-phoi-quan-ao-nhanh-kho-khi-troi-nom-20210311171348284.chn) ([CafeBiz](https://cafebiz.vn))
 - [Vietravel Airlines nối liền hệ thống phòng vé chính hãng toàn quốc](https://laodong.vn/doanh-nghiep-doanh-nhan/vietravel-airlines-noi-lien-he-thong-phong-ve-chinh-hang-toan-quoc-888202.ldo) ([Lao Động](https://laodong.vn))
 - [Warren Buffett và Bill Gates chứng minh rằng bỏ thói quen xấu này sẽ giúp bạn thành công hơn trong cuộc sống](https://cafebiz.vn/warren-buffett-va-bill-gates-chung-minh-rang-bo-thoi-quen-xau-nay-se-giup-ban-thanh-cong-hon-trong-cuoc-song-20210311151700966.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vũ trụ kỳ thú: Giải mã bất ngờ vụ nổ sao bí ẩn](https://laodong.vn/the-gioi/vu-tru-ky-thu-giai-ma-bat-ngo-vu-no-sao-bi-an-887967.ldo) ([Lao Động](https://laodong.vn))
-- [Căn nhà nhỏ yên bình bên núi Ngự được con gái cải tạo dành tặng mẹ về hưu ở Huế](https://cafebiz.vn/can-nha-nho-yen-binh-ben-nui-ngu-duoc-con-gai-cai-tao-danh-tang-me-ve-huu-o-hue-20210311172207012.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đấu tranh đòi tài sản từ tay “tiểu tam” của người cha tỷ phú suốt 15 năm, con trai chính thất cuối cùng nhận được... 3000 VNĐ tiền thừa kế](https://cafebiz.vn/dau-tranh-doi-tai-san-tu-tay-tieu-tam-cua-nguoi-cha-ty-phu-suot-15-nam-con-trai-chinh-that-cuoi-cung-nhan-duoc-3000-vnd-tien-thua-ke-20210311165430486.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bài thuốc chữa ho có đờm hiệu quả chỉ với 2 nguyên liệu có sẵn trong bếp](https://cafebiz.vn/bai-thuoc-chua-ho-co-dom-hieu-qua-chi-voi-2-nguyen-lieu-co-san-trong-bep-20210311165906504.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chùa Hương mở cửa trở lại: Giá nhà nghỉ, dịch vụ đò dự kiến tăng gấp đôi](https://laodong.vn/thi-truong/chua-huong-mo-cua-tro-lai-gia-nha-nghi-dich-vu-do-du-kien-tang-gap-doi-888169.ldo) ([Lao Động](https://laodong.vn))
-- [Kinh tế 24h: Giá vàng vẫn bật tăng; Giá xăng sắp nhảy vọt](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-van-bat-tang-gia-xang-sap-nhay-vot-888214.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
