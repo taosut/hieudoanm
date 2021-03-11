@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 24°C.
-- Feels Like 25.76°C.
-- Air Visual is 89.
+- Current weather is undefined.
+- Temperature is 0°C.
+- Feels Like 0°C.
+- Air Visual is 93.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Erling Haaland nắm họng súng của “Kẻ hủy diệt”](https://laodong.vn/the-thao/erling-haaland-nam-hong-sung-cua-ke-huy-diet-887803.ldo) ([Lao Động](https://laodong.vn))
-- [Những bộ đồ chơi Lego đắt hàng nhờ đại dịch, Trung Quốc góp công lớn](https://cafebiz.vn/nhung-bo-do-choi-lego-dat-hang-nho-dai-dich-trung-quoc-gop-cong-lon-20210311090223757.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tỉ lệ ủng hộ rộng rãi cho gói giải cứu 1,9 nghìn tỉ USD của ông Biden](https://laodong.vn/the-gioi/ti-le-ung-ho-rong-rai-cho-goi-giai-cuu-19-nghin-ti-usd-cua-ong-biden-887881.ldo) ([Lao Động](https://laodong.vn))
-- [Tập huấn cài đặt bảo hiểm xã hội số cho cán bộ Công đoàn](https://laodong.vn/ldld-tphcm/tap-huan-cai-dat-bao-hiem-xa-hoi-so-cho-can-bo-cong-doan-887908.ldo) ([Lao Động](https://laodong.vn))
-- [Cô dâu xinh như hoa hậu với dàn xe rước dâu trị giá 50 tỷ: Vợ thích ăn lẩu, chồng mở cả chuỗi nhà hàng, mẹ chồng luôn khen con dâu vì một điều đặc biệt!](https://cafebiz.vn/co-dau-xinh-nhu-hoa-hau-voi-dan-xe-ruoc-dau-tri-gia-50-ty-vo-thich-an-lau-chong-mo-ca-chuoi-nha-hang-me-chong-luon-khen-con-dau-vi-mot-dieu-dac-biet-20210311095213856.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá vàng và ngoại tệ 11.3: Vàng tăng mạnh, dự báo tiếp tục đà tăng](https://laodong.vn/video-thoi-su/gia-vang-va-ngoai-te-113-vang-tang-manh-du-bao-tiep-tuc-da-tang-887911.ldo) ([Lao Động](https://laodong.vn))
-- [Quản lý yếu kém, sai phạm trật tự xây dựng kéo dài tại Bình Xuyên-Vĩnh Phúc](https://laodong.vn/bat-dong-san/quan-ly-yeu-kem-sai-pham-trat-tu-xay-dung-keo-dai-tai-binh-xuyen-vinh-phuc-887733.ldo) ([Lao Động](https://laodong.vn))
-- [Jeff Bezos: ‘Ai không thích logo Amazon hẳn là người không yêu cún con’](https://cafebiz.vn/jeff-bezos-ai-khong-thich-logo-amazon-han-la-nguoi-khong-yeu-cun-con-20210310173726775.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lập đề án xây dựng Đà Nẵng thành trung tâm tài chính quy mô khu vực](https://laodong.vn/xa-hoi/lap-de-an-xay-dung-da-nang-thanh-trung-tam-tai-chinh-quy-mo-khu-vuc-887893.ldo) ([Lao Động](https://laodong.vn))
-- [Một startup giao hàng gọi vốn thành công 170 triệu USD](https://cafebiz.vn/mot-startup-giao-hang-goi-von-thanh-cong-170-trieu-usd-20210311090413964.chn) ([CafeBiz](https://cafebiz.vn))
+- [Elon Musk hứa sẽ đưa người lên định cư Sao Hỏa vào năm 2026, đây là 3 trở ngại lớn khiến kế hoạch này vẫn phi thực tế](https://cafebiz.vn/elon-musk-hua-se-dua-nguoi-len-dinh-cu-sao-hoa-vao-nam-2026-day-la-3-tro-ngai-lon-khien-ke-hoach-nay-van-phi-thuc-te-2021031109090555.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trải lòng của người dân ở nơi “nước quý hơn vàng”](https://laodong.vn/video/trai-long-cua-nguoi-dan-o-noi-nuoc-quy-hon-vang-887557.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ ông Dũng Lò vôi “tố” một đại gia ngành tiêu dùng ở Bình Dương cho vay nặng lãi siêu cao cấp, vô cảm, vô ơn](https://cafebiz.vn/vo-ong-dung-lo-voi-to-mot-dai-gia-nganh-tieu-dung-o-binh-duong-cho-vay-nang-lai-sieu-cao-cap-vo-cam-vo-on-20210311102555691.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đà Nẵng: Thanh tra tài chính loạt dự án tiền tỉ trong năm 2021](https://laodong.vn/xa-hoi/da-nang-thanh-tra-tai-chinh-loat-du-an-tien-ti-trong-nam-2021-887917.ldo) ([Lao Động](https://laodong.vn))
+- [9 loại virus “chết chóc” nhất thế giới](https://laodong.vn/suc-khoe/9-loai-virus-chet-choc-nhat-the-gioi-887745.ldo) ([Lao Động](https://laodong.vn))
+- [Hãy chú ý những tới những con muỗi: Nguyên tắc thành công chưa ai từng nói với bạn](https://cafebiz.vn/hay-chu-y-nhung-toi-nhung-con-muoi-nguyen-tac-thanh-cong-chua-ai-tung-noi-voi-ban-2021031110243479.chn) ([CafeBiz](https://cafebiz.vn))
+- ["Tai bay vạ gió": Giữa làn sóng tẩy chay dữ dội, một nhãn sữa nổi tiếng do Thơ Nguyễn làm KOL bị vạ lây](https://cafebiz.vn/tai-bay-va-gio-giua-lan-song-tay-chay-mot-nhan-sua-noi-tieng-do-tho-nguyen-lam-kol-bi-va-lay-20210311102258928.chn) ([CafeBiz](https://cafebiz.vn))
+- [Syria trong cơn ác mộng tồi tệ sau 10 năm chiến tranh](https://laodong.vn/the-gioi/syria-trong-con-ac-mong-toi-te-sau-10-nam-chien-tranh-887926.ldo) ([Lao Động](https://laodong.vn))
+- [Cùng nghe ca khúc “Bình minh SEA Games” của Nhà hát Vũ kịch Việt Nam](https://laodong.vn/giai-tri/cung-nghe-ca-khuc-binh-minh-sea-games-cua-nha-hat-vu-kich-viet-nam-887902.ldo) ([Lao Động](https://laodong.vn))
+- [Đảm nhiệm hơn 20 vai trong "Tây du ký 1986", nam diễn viên này từng khiến Chư Bát Giới và đạo diện mâu thuẫn nội bộ](https://cafebiz.vn/dam-nhiem-hon-20-vai-trong-tay-du-ky-1986-nam-dien-vien-nay-tung-khien-chu-bat-gioi-va-dao-dien-mau-thuan-noi-bo-20210310170107932.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
