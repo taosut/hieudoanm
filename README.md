@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 26.25°C.
-- Air Visual is 100.
+- Air Visual is 101.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [TPHCM: 28.757 mẫu xét nghiệm ngẫu nhiên tầm soát COVID-19 âm tính](https://laodong.vn/xa-hoi/tphcm-28757-mau-xet-nghiem-ngau-nhien-tam-soat-covid-19-am-tinh-888048.ldo) ([Lao Động](https://laodong.vn))
-- [Không ai an toàn 100% trước các vụ tấn công của hacker](https://laodong.vn/kinh-te/khong-ai-an-toan-100-truoc-cac-vu-tan-cong-cua-hacker-888024.ldo) ([Lao Động](https://laodong.vn))
-- [Honda City giá chỉ còn 365 triệu đồng, có nên "quất" vì quá hời?](https://cafebiz.vn/honda-city-gia-chi-con-365-trieu-dong-co-nen-quat-vi-qua-hoi-20210311140817703.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tục cấp thẻ căn cước công dân cho Việt kiều](https://laodong.vn/xa-hoi/thu-tuc-cap-the-can-cuoc-cong-dan-cho-viet-kieu-888001.ldo) ([Lao Động](https://laodong.vn))
-- [Bát nháo chợ tân dược lớn nhất nước: Mua gì cũng bán](https://cafebiz.vn/bat-nhao-cho-tan-duoc-lon-nhat-nuoc-mua-gi-cung-ban-20210311145732354.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bình Dương: Thanh tra Sở TTTT làm việc với Thơ Nguyễn](https://laodong.vn/xa-hoi/binh-duong-thanh-tra-so-tttt-lam-viec-voi-tho-nguyen-888030.ldo) ([Lao Động](https://laodong.vn))
-- [BHXH Việt Nam hoàn thành việc cung cấp các dịch vụ công mức độ 4](https://laodong.vn/xa-hoi/bhxh-viet-nam-hoan-thanh-viec-cung-cap-cac-dich-vu-cong-muc-do-4-888038.ldo) ([Lao Động](https://laodong.vn))
-- [Giảm hàng nghìn tỷ đồng vốn đầu tư cao tốc Bắc Nam](https://vnexpress.net/giam-hang-nghin-ty-dong-von-dau-tu-cao-toc-bac-nam-4246895.html) ([VNExpress](https://vnexpress.net))
-- [Công an đang tìm kiếm Thơ Nguyễn, chủ nhân clip dùng búp bê Kumanthong](https://tuoitre.vn/cong-an-dang-tim-kiem-tho-nguyen-chu-nhan-clip-dung-bup-be-kumanthong-20210311130033575.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Những chiếc xe ô tô điện giá chỉ 4.000 USD đang chiếm lấy thị trường mà Tesla không thể chạm tới](https://cafebiz.vn/nhung-chiec-xe-o-to-dien-gia-chi-4000-usd-dang-chiem-lay-thi-truong-ma-tesla-khong-the-cham-toi-20210311133540566.chn) ([CafeBiz](https://cafebiz.vn))
+- [HAGL lên tiếng về việc bất ngờ xuất hiện khoản lỗ 5.000 tỷ](https://cafebiz.vn/hagl-len-tieng-ve-viec-bat-ngo-xuat-hien-khoan-lo-5000-ty-20210311153459438.chn) ([CafeBiz](https://cafebiz.vn))
+- [VinFast bán 1.718 ô tô trong tháng Tết](https://cafebiz.vn/vinfast-ban-1718-o-to-trong-thang-tet-20210311153339826.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cô gái tình cờ hóa giải được nỗi đau canh cánh hàng chục năm của cả đại gia đình nhờ... lướt clip TikTok](https://cafebiz.vn/co-gai-tinh-co-hoa-giai-duoc-noi-dau-canh-canh-hang-chuc-nam-cua-ca-dai-gia-dinh-nho-luot-clip-tiktok-20210311135024776.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cụ bà 103 tuổi vẫy tay tiễn con gái 80 tuổi lên xe: "Lần này nữa thôi, lần sau về không còn mẹ..."](https://cafebiz.vn/cu-ba-103-tuoi-vay-tay-tien-con-gai-80-tuoi-len-xe-lan-nay-nua-thoi-lan-sau-ve-khong-con-me-20210311153031272.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đây, lý do Liverpool &quot;vui như hội&quot; khi Ronaldo, Messi cùng bị loại](https://laodong.vn/bong-da-quoc-te/day-ly-do-liverpool-vui-nhu-hoi-khi-ronaldo-messi-cung-bi-loai-888034.ldo) ([Lao Động](https://laodong.vn))
+- [Viettel IDC tiên phong giải quyết các vấn đề của xã hội thời đại số](https://cafebiz.vn/viettel-idc-tien-phong-giai-quyet-cac-van-de-cua-xa-hoi-thoi-dai-so-20210311151929224.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắt đối tượng cướp giật vé số của người mù ở Bình Dương](https://laodong.vn/phap-luat/bat-doi-tuong-cuop-giat-ve-so-cua-nguoi-mu-o-binh-duong-888055.ldo) ([Lao Động](https://laodong.vn))
+- [Sơn La: Mưa đá làm thủng mái nhà dân, gây thiệt hại trên 170 ha cây trồng](https://laodong.vn/xa-hoi/son-la-mua-da-lam-thung-mai-nha-dan-gay-thiet-hai-tren-170-ha-cay-trong-888047.ldo) ([Lao Động](https://laodong.vn))
+- [Dân khốn khổ vì Tỉnh lộ 109 ở Sơn La xuống cấp nghiêm trọng](https://laodong.vn/photo/dan-khon-kho-vi-tinh-lo-109-o-son-la-xuong-cap-nghiem-trong-887856.ldo) ([Lao Động](https://laodong.vn))
+- [Tổng bí thư - Chủ tịch nước Nguyễn Phú Trọng chúc mừng báo Nhân Dân kỷ niệm 70 năm ra số đầu tiên](https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-nguyen-phu-trong-chuc-mung-bao-nhan-dan-ky-niem-70-nam-ra-so-dau-tien-20210311141444744.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [SoundCloud - Cứu tinh của nghệ sĩ indie?](https://vietcetera.com/vn/soundcloud-cuu-tinh-cua-nghe-si-indie)
 - ["Như đang rơi tự do xuống vực, và có 500 vì sao rớt xuống cùng mình."](https://vietcetera.com/vn/du-co-lam-gi-di-nua-bao-boc-quanh-anh-van-la-cam-giac-minh-thieu)
 - [Sơn Đoàn: "Năm 20 tuổi, anh không biết nói "không", cũng không biết buông bỏ. Giờ thì khác..."](https://vietcetera.com/vn/son-doan-mot-chuyen-di-ve-nhung-ngay-20)
 - [5 Thương hiệu board game Việt Nam cho những ngày cai điện thoại](https://vietcetera.com/vn/5-thuong-hieu-board-game-viet-nam-cho-nhung-ngay-cai-dien-thoai)
@@ -105,7 +106,6 @@
 - [Sẽ có cách mạng ở phố Wall?](https://vietcetera.com/vn/se-co-cach-mang-o-pho-wall)
 - [“Anh không muốn uống thuốc cầm chừng hoài.”](https://vietcetera.com/vn/anh-khong-muon-uong-thuoc-cam-chung-hoai)
 - ["Bố Già" và hành trình nguôi giận để tin yêu của tôi](https://vietcetera.com/vn/bo-gia-hanh-trinh-nguoi-gian-de-tin-yeu)
-- [Meme học: Tại sao người phụ nữ này lại mắng chú mèo?](https://vietcetera.com/vn/meme-hoc-co-gai-la-chu-meo)
 
 [Read More](https://vietcetera.com/)
 
