@@ -49,11 +49,11 @@
 **GOOGLE TRENDS**
 
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
-- [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
+- [![Chiesa](https://img.shields.io/static/v1?label=Chiesa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chiesa)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
-- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Khánh Phương](https://img.shields.io/static/v1?label=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng)
+- [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Liverpool vs Leipzig](https://img.shields.io/static/v1?label=Liverpool%20vs%20Leipzig&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool%20vs%20Leipzig)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
@@ -67,7 +67,7 @@
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![UEFA Champions League](https://img.shields.io/static/v1?label=UEFA%20Champions%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UEFA%20Champions%20League)
 - [![Yoona](https://img.shields.io/static/v1?label=Yoona&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Yoona)
-- [![Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20V%C4%83n%20N%C6%A1i)
+- [![Đại tá Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chùa Hương mở cửa trở lại: Giá nhà nghỉ, dịch vụ đò dự kiến tăng gấp đôi](https://laodong.vn/thi-truong/chua-huong-mo-cua-tro-lai-gia-nha-nghi-dich-vu-do-du-kien-tang-gap-doi-888169.ldo) ([Lao Động](https://laodong.vn))
+- [Kinh tế 24h: Giá vàng vẫn bật tăng; Giá xăng sắp nhảy vọt](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-van-bat-tang-gia-xang-sap-nhay-vot-888214.ldo) ([Lao Động](https://laodong.vn))
+- [Nếu Võ Hoàng Yên trả lại toàn bộ số tiền bị tố lừa đảo cho vợ chồng ông Dũng "lò vôi" thì có "hết chuyện"?](https://cafebiz.vn/neu-vo-hoang-yen-tra-lai-toan-bo-so-tien-bi-to-lua-dao-cho-vo-chong-ong-dung-lo-voi-thi-co-het-chuyen-20210311164922236.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 12.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-123-887932.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất 24h: Giá xăng có thể tăng mạnh vào ngày mai 12.3](https://laodong.vn/video-thoi-su/nong-nhat-24h-gia-xang-co-the-tang-manh-vao-ngay-mai-123-888171.ldo) ([Lao Động](https://laodong.vn))
+- [Cảnh giác với 4 loại trà gây hại cho sức khỏe](https://laodong.vn/dinh-duong-am-thuc/canh-giac-voi-4-loai-tra-gay-hai-cho-suc-khoe-887651.ldo) ([Lao Động](https://laodong.vn))
 - [Nhìn lại thảm họa động đất - sóng thần làm nghiêng trục Trái Đất 10 năm trước](https://cafebiz.vn/nhin-lai-tham-hoa-dong-dat-song-than-lam-nghieng-truc-trai-dat-10-nam-truoc-20210311164412474.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bình Dương đã xác định nơi ở của Youtuber Thơ Nguyễn, yêu cầu lên làm việc](https://tuoitre.vn/binh-duong-da-xac-dinh-noi-o-cua-youtuber-tho-nguyen-yeu-cau-len-lam-viec-20210311185029786.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bình Dương đã xác định nơi ở của YouTuber Thơ Nguyễn, yêu cầu lên làm việc](https://tuoitre.vn/binh-duong-da-xac-dinh-noi-o-cua-youtuber-tho-nguyen-yeu-cau-len-lam-viec-20210311185029786.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [4 món đồ phong thủy bỏ túi giúp bạn hút tài lộc, giá chỉ từ 205 nghìn đồng](https://cafebiz.vn/4-mon-do-phong-thuy-bo-tui-giup-ban-hut-tai-loc-gia-chi-tu-205-nghin-dong-20210311155924362.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bộ trưởng Bộ Y tế Nguyễn Thanh Long ứng cử Đại biểu Quốc hội khóa XV](https://laodong.vn/thoi-su/bo-truong-bo-y-te-nguyen-thanh-long-ung-cu-dai-bieu-quoc-hoi-khoa-xv-888209.ldo) ([Lao Động](https://laodong.vn))
 - [Giáo dục 24/7: NXB Giáo dục lý giải việc hợp nhất 4 bộ SGK thành 2 bộ SGK](https://laodong.vn/video/giao-duc-247-nxb-giao-duc-ly-giai-viec-hop-nhat-4-bo-sgk-thanh-2-bo-sgk-888211.ldo) ([Lao Động](https://laodong.vn))
-- [Nữ Tiến sĩ vác bụng bầu lang thang ngoài đường, hé lộ thực trạng nhức nhối của 90 triệu cô gái độc thân tại Trung Quốc](https://cafebiz.vn/nu-tien-si-vac-bung-bau-lang-thang-ngoai-duong-he-lo-thuc-trang-nhuc-nhoi-cua-90-trieu-co-gai-doc-than-tai-trung-quoc-20210311164212019.chn) ([CafeBiz](https://cafebiz.vn))
-- [“Toàn cảnh 24h”: Bản tin hàng ngày thu hút khán giả](https://cafebiz.vn/toan-canh-24h-ban-tin-hang-ngay-thu-hut-khan-gia-20210311185933236.chn) ([CafeBiz](https://cafebiz.vn))
-- [Startup Việt và nỗ lực hỗ trợ người lao động tạo thu nhập trong COVID-19](https://cafebiz.vn/startup-viet-va-no-luc-ho-tro-nguoi-lao-dong-tao-thu-nhap-trong-covid-19-20210311160354427.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chứng khoán: Mua tích lũy thêm cổ phiếu chờ phá đỉnh 1.200 điểm?](https://laodong.vn/kinh-te/chung-khoan-mua-tich-luy-them-co-phieu-cho-pha-dinh-1200-diem-888206.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng Nguyễn Xuân Phúc được giới thiệu ứng cử Quốc hội khóa mới](http://vietnamnet.vn/vn/thoi-su/chinh-tri/thu-tuong-nguyen-xuan-phuc-duoc-gioi-thieu-ung-cu-quoc-hoi-khoa-moi-718986.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
