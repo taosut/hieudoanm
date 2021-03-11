@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 26.61°C.
-- Air Visual is 108.
+- Feels Like 26.41°C.
+- Air Visual is 88.
 
 **WEATHER**
 
@@ -49,23 +49,23 @@
 **GOOGLE TRENDS**
 
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Hướng dương ngược nắng tập 39](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2039&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2039)
-- [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Lịch thi đấu bóng đá C1](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20b%C3%B3ng%20%C4%91%C3%A1%20C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20b%C3%B3ng%20%C4%91%C3%A1%20C1)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
-- [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
 - [![ROG Phone 5](https://img.shields.io/static/v1?label=ROG%20Phone%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=ROG%20Phone%205)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
 - [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![UEFA Champions League](https://img.shields.io/static/v1?label=UEFA%20Champions%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UEFA%20Champions%20League)
-- [![West Ham](https://img.shields.io/static/v1?label=West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=West%20Ham)
 - [![Yoona](https://img.shields.io/static/v1?label=Yoona&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Yoona)
 - [![Đại tá Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hà Nội: Đã xác định được xe máy chạy gần 300km/h trên đại lộ Thăng Long](https://laodong.vn/phap-luat/ha-noi-da-xac-dinh-duoc-xe-may-chay-gan-300kmh-tren-dai-lo-thang-long-887991.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Phước: Tăng cường kiểm soát các nguy cơ về an toàn, vệ sinh lao động](https://laodong.vn/ldld-binh-phuoc/binh-phuoc-tang-cuong-kiem-soat-cac-nguy-co-ve-an-toan-ve-sinh-lao-dong-887983.ldo) ([Lao Động](https://laodong.vn))
 - [Đà Nẵng: Tiêm 100 liều vaccine COVID-19 đầu tiên cho nhân viên y tế](https://laodong.vn/xa-hoi/da-nang-tiem-100-lieu-vaccine-covid-19-dau-tien-cho-nhan-vien-y-te-887997.ldo) ([Lao Động](https://laodong.vn))
 - [Đội ngũ những người làm Báo Nhân dân luôn đồng hành cùng dân tộc](https://laodong.vn/thoi-su/doi-ngu-nhung-nguoi-lam-bao-nhan-dan-luon-dong-hanh-cung-dan-toc-888000.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút 11.3: Thêm trường Đại học công bố đề án tuyển sinh](https://laodong.vn/video-thoi-su/ban-tin-1-phut-113-them-truong-dai-hoc-cong-bo-de-an-tuyen-sinh-887968.ldo) ([Lao Động](https://laodong.vn))
 - [Australia công bố gói hỗ trợ du lịch trị giá 928 triệu USD](https://laodong.vn/the-gioi/australia-cong-bo-goi-ho-tro-du-lich-tri-gia-928-trieu-usd-887958.ldo) ([Lao Động](https://laodong.vn))
-- [BCTC hợp nhất 2020: FLC lãi trên 420 tỷ đồng, vượt xa kế hoạch năm](https://laodong.vn/kinh-te/bctc-hop-nhat-2020-flc-lai-tren-420-ty-dong-vuot-xa-ke-hoach-nam-887975.ldo) ([Lao Động](https://laodong.vn))
 - [Mặt trận Tổ quốc giới thiệu 4 người ứng cử đại biểu Quốc hội](https://vnexpress.net/mat-tran-to-quoc-gioi-thieu-4-nguoi-ung-cu-dai-bieu-quoc-hoi-4246925.html) ([VNExpress](https://vnexpress.net))
 - [Bộ Thông tin và Truyền thông mời Thơ Nguyễn lên làm việc, không hợp tác sẽ khoá Youtube](https://cafebiz.vn/bo-thong-tin-va-truyen-thong-moi-tho-nguyen-len-lam-viec-khong-hop-tac-se-khoa-youtube-20210311120039892.chn) ([CafeBiz](https://cafebiz.vn))
 - [Xác định được tài xế phóng mô tô 'tốc độ bàn thờ' 299 km/h trên đại lộ Thăng Long](https://tuoitre.vn/xac-dinh-duoc-tai-xe-phong-mo-to-toc-do-ban-tho-299-km-h-tren-dai-lo-thang-long-20210311112235767.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nữ danh hài giàu nhất Vbiz Việt Hương: Cho thuê 8 căn hộ V.homes, thường xuyên thay đổi xế hộp, mua quá nhiều hột xoàn tới mức không muốn đeo](https://cafebiz.vn/nu-danh-hai-giau-nhat-vbiz-viet-huong-cho-thue-8-can-ho-vhomes-thuong-xuyen-thay-doi-xe-hop-mua-qua-nhieu-hot-xoan-toi-muc-khong-muon-deo-2021031111375697.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thua lỗ triền miên, Shopee tiếp tục 'đốt tiền' mở rộng hoạt động sang châu Mỹ Latin, đối đầu Amazon](https://cafebiz.vn/thua-lo-trien-mien-shopee-tiep-tuc-dot-tien-mo-rong-hoat-dong-sang-chau-my-latin-doi-dau-amazon-20210311114720733.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
