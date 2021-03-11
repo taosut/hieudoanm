@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 25.89°C.
-- Air Visual is 99.
+- Air Visual is 97.
 
 **WEATHER**
 
@@ -51,19 +51,19 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
-- [![Hướng dương ngược nắng tập 39](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2039&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2039)
+- [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
+- [![Hướng dương ngược nắng' tập 39](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng'%20t%E1%BA%ADp%2039&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng'%20t%E1%BA%ADp%2039)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Lịch thi đấu bóng đá C1](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20b%C3%B3ng%20%C4%91%C3%A1%20C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20b%C3%B3ng%20%C4%91%C3%A1%20C1)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![ROG Phone 5](https://img.shields.io/static/v1?label=ROG%20Phone%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=ROG%20Phone%205)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
-- [![Suga](https://img.shields.io/static/v1?label=Suga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Suga)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![UEFA Champions League](https://img.shields.io/static/v1?label=UEFA%20Champions%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UEFA%20Champions%20League)
 - [![Yoona](https://img.shields.io/static/v1?label=Yoona&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Yoona)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tuyển sinh lớp 10: Chuyên Khoa học Xã hội và Nhân văn tuyển 150 chỉ tiêu](https://laodong.vn/giao-duc/tuyen-sinh-lop-10-chuyen-khoa-hoc-xa-hoi-va-nhan-van-tuyen-150-chi-tieu-888003.ldo) ([Lao Động](https://laodong.vn))
+- [Mobile Money mở đường để áp dụng Sandbox cho các dịch vụ mới](https://cafebiz.vn/mobile-money-mo-duong-de-ap-dung-sandbox-cho-cac-dich-vu-moi-20210311134715077.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhà giàu thì nhiều nhưng nhân tài 'hiếm như lá mùa thu', các quỹ đầu cơ Singapore đào tạo cả học sinh cấp 3 để quản lý tài sản](https://cafebiz.vn/nha-giau-thi-nhieu-nhung-nhan-tai-hiem-nhu-la-mua-thu-cac-quy-dau-co-singapore-dao-tao-ca-hoc-sinh-cap-3-de-quan-ly-tai-san-20210311133754855.chn) ([CafeBiz](https://cafebiz.vn))
+- ["Thiên thần tỷ tỷ" Lưu Diệc Phi: 20 năm lăn lộn showbiz, từ đại sứ Louis Vuitton đến bà trùm bất động sản, sở hữu BST siêu xe khiến cánh mày râu "thèm thuồng"](https://cafebiz.vn/thien-than-ty-ty-luu-diec-phi-20-nam-lan-lon-showbiz-tu-dai-su-louis-vuitton-den-ba-trum-bat-dong-san-so-huu-bst-sieu-xe-khien-canh-may-rau-them-thuong-20210311134219028.chn) ([CafeBiz](https://cafebiz.vn))
+- [Metro Số 1 dỡ rào chắn trên đường Lê Lợi trước 30/4](https://vnexpress.net/metro-so-1-do-rao-chan-tren-duong-le-loi-truoc-30-4-4246954.html) ([VNExpress](https://vnexpress.net))
 - [MB ra mắt tính năng "Chuyển tiền quốc tế Online" trên APP MBBank.](https://cafebiz.vn/mb-ra-mat-tinh-nang-chuyen-tien-quoc-te-online-tren-app-mbbank-20210311113256345.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sắc vóc gợi cảm của Hoàng Yến - cô Xuyến trong &quot;Về nhà đi con&quot;](https://laodong.vn/photo/sac-voc-goi-cam-cua-hoang-yen-co-xuyen-trong-ve-nha-di-con-887890.ldo) ([Lao Động](https://laodong.vn))
 - [Những công dụng bất ngờ đến từ vỏ chuối](https://laodong.vn/suc-khoe/nhung-cong-dung-bat-ngo-den-tu-vo-chuoi-887470.ldo) ([Lao Động](https://laodong.vn))
 - [Bị cha đánh, thiếu niên chống cự khiến cha tử vong](https://laodong.vn/phap-luat/bi-cha-danh-thieu-nien-chong-cu-khien-cha-tu-vong-887994.ldo) ([Lao Động](https://laodong.vn))
 - [Ngược dòng ngoạn mục, tỉ phú Buffett vươn lên thứ 6 trong CLB 100 tỉ USD](https://laodong.vn/the-gioi/nguoc-dong-ngoan-muc-ti-phu-buffett-vuon-len-thu-6-trong-clb-100-ti-usd-887965.ldo) ([Lao Động](https://laodong.vn))
-- [Lai Châu tạm dừng 4 chốt kiểm soát dịch COVID-19](https://laodong.vn/xa-hoi/lai-chau-tam-dung-4-chot-kiem-soat-dich-covid-19-888008.ldo) ([Lao Động](https://laodong.vn))
-- [Giám đốc công an bị nhóm lừa hứa điều chuyển ông với giá 20 tỉ nói gì?](https://tuoitre.vn/giam-doc-cong-an-bi-nhom-lua-hua-dieu-chuyen-ong-voi-gia-20-ti-noi-gi-20210311114949506.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [5 câu hỏi tại sao (5 Whys): Bí quyết thiết lập mục tiêu hiệu quả, đẩy nhanh tiến độ gấp 21 lần](https://cafebiz.vn/5-cau-hoi-tai-sao-5-whys-bi-quyet-thiet-lap-muc-tieu-hieu-qua-day-nhanh-tien-do-gap-21-lan-20210311112854771.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội sẽ thay thế cán bộ trì trệ, năng lực hạn chế không chờ hết nhiệm kỳ](https://laodong.vn/thoi-su/ha-noi-se-thay-the-can-bo-tri-tre-nang-luc-han-che-khong-cho-het-nhiem-ky-887999.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút 11.3: Thêm trường Đại học công bố đề án tuyển sinh](https://laodong.vn/video-thoi-su/ban-tin-1-phut-113-them-truong-dai-hoc-cong-bo-de-an-tuyen-sinh-887968.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
