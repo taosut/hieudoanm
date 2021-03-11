@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 26.97°C.
-- Air Visual is 94.
+- Current weather is undefined.
+- Temperature is 0°C.
+- Feels Like 0°C.
+- Air Visual is 98.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nghe theo khẩu hiệu ‘Còn trẻ mà, cứ tiêu đi, chỉ cần đi vay’ của Jack Ma, hàng triệu người Trung Quốc lâm cảnh nợ nần, bế tắc, có người muốn tự sát](https://cafebiz.vn/nghe-theo-khau-hieu-con-tre-ma-cu-tieu-di-chi-can-di-vay-cua-jack-ma-hang-trieu-nguoi-trung-quoc-lam-canh-no-nan-be-tac-co-nguoi-muon-tu-sat-2021031111022858.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người Việt duy nhất lọt danh sách "100 phụ nữ của năm 2020 trên toàn thế giới", kể về cuộc gọi kỳ lạ từ phóng viên đài BBC làm nên cột mốc quan trọng trong sự nghiệp](https://cafebiz.vn/nguoi-viet-duy-nhat-lot-danh-sach-100-phu-nu-cua-nam-2020-tren-toan-the-gioi-ke-ve-cuoc-goi-ky-la-tu-phong-vien-dai-bbc-lam-nen-cot-moc-quan-trong-trong-su-nghiep-20210311110204943.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kêu gọi chấm dứt ngay bạo lực ở Myanmar](https://laodong.vn/the-gioi/keu-goi-cham-dut-ngay-bao-luc-o-myanmar-887931.ldo) ([Lao Động](https://laodong.vn))
-- [Ông chủ Facebook tiết lộ tham vọng về VR và giao diện não-máy tính](https://cafebiz.vn/ong-chu-facebook-tiet-lo-tham-vong-ve-vr-va-giao-dien-nao-may-tinh-20210311091311019.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tháng 3 hoa gạo đỏ rực giữa lòng Hà Nội](https://laodong.vn/photo/thang-3-hoa-gao-do-ruc-giua-long-ha-noi-887199.ldo) ([Lao Động](https://laodong.vn))
-- [Bủa lưới dài 450 m bắt cá đù](https://vnexpress.net/bua-luoi-dai-450-m-bat-ca-du-4246632.html) ([VNExpress](https://vnexpress.net))
-- [Đổi sang CCCD gắn chíp, thay đổi thông tin đăng ký thuế ra sao?](https://laodong.vn/xa-hoi/doi-sang-cccd-gan-chip-thay-doi-thong-tin-dang-ky-thue-ra-sao-887936.ldo) ([Lao Động](https://laodong.vn))
-- [Rác thải bủa vây dự án nghìn tỷ ‘đắp chiếu’ hàng chục năm, dân tận dụng trồng rau](https://cafebiz.vn/rac-thai-bua-vay-du-an-nghin-ty-dap-chieu-hang-chuc-nam-dan-tan-dung-trong-rau-20210311105628605.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lắp lại rào chắn trên cao tốc Hà Nội - Lào Cai](https://vnexpress.net/lap-lai-rao-chan-tren-cao-toc-ha-noi-lao-cai-4246803.html) ([VNExpress](https://vnexpress.net))
-- [Sân bay có phải "đũa thần" cho phát triển?](https://cafebiz.vn/san-bay-co-phai-dua-than-cho-phat-trien-20210311104539004.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM thay đổi hệ số các môn thi vào lớp 10: Học sinh vừa mừng vừa lo](https://laodong.vn/video/tphcm-thay-doi-he-so-cac-mon-thi-vao-lop-10-hoc-sinh-vua-mung-vua-lo-887924.ldo) ([Lao Động](https://laodong.vn))
+- [Tỷ sở hữu giảm xuống còn 39,4%, Bamboo Airways không còn là công ty con của FLC?](https://cafebiz.vn/ty-so-huu-giam-xuong-con-394-bamboo-airways-khong-con-la-cong-ty-con-cua-flc-20210311113459622.chn) ([CafeBiz](https://cafebiz.vn))
+- [Câu lạc bộ Thanh Hoá tăng cường trợ lý ngoại cho huấn luyện viên Petrovic](https://laodong.vn/bong-da/cau-lac-bo-thanh-hoa-tang-cuong-tro-ly-ngoai-cho-huan-luyen-vien-petrovic-887963.ldo) ([Lao Động](https://laodong.vn))
+- [Tượng ông Trump ngồi thiền gây sốt ở Trung Quốc, dân tình đổ xô mua với hy vọng sự nghiệp sẽ "vĩ đại trở lại"](https://cafebiz.vn/tuong-ong-trump-ngoi-thien-gay-sot-o-trung-quoc-dan-tinh-do-xo-mua-voi-hy-vong-su-nghiep-se-vi-dai-tro-lai-20210311113333222.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sau kiểm toán, lợi nhuận FLC tăng gần 70% so với báo cáo tài chính tự lập](https://cafebiz.vn/sau-kiem-toan-loi-nhuan-flc-tang-gan-70-so-voi-bao-cao-tai-chinh-tu-lap-20210311113219207.chn) ([CafeBiz](https://cafebiz.vn))
+- [5 nguyên nhân khiến người trẻ dễ mắc bệnh trĩ](https://laodong.vn/suc-khoe/5-nguyen-nhan-khien-nguoi-tre-de-mac-benh-tri-874533.ldo) ([Lao Động](https://laodong.vn))
+- [Thăm dò khoáng sản đồi Sạc Ly: Không được làm ảnh hưởng đến cảnh quan môi trường](https://laodong.vn/kinh-te/tham-do-khoang-san-doi-sac-ly-khong-duoc-lam-anh-huong-den-canh-quan-moi-truong-887762.ldo) ([Lao Động](https://laodong.vn))
+- [Tăng tốc thi công metro số 1, hoàn trả mặt bằng trên đường Lê Lợi trước 30-4](https://tuoitre.vn/tang-toc-thi-cong-metro-so-1-hoan-tra-mat-bang-tren-duong-le-loi-truoc-30-4-2021031110070371.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [VFF nghiêm túc nâng cao chất lượng trọng tài giải nữ, giải trẻ năm 2021](https://laodong.vn/bong-da/vff-nghiem-tuc-nang-cao-chat-luong-trong-tai-giai-nu-giai-tre-nam-2021-887938.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: 200 công nhân đầu tiên được xét nghiệm COVID-19 diện rộng](https://laodong.vn/photo/ha-noi-200-cong-nhan-dau-tien-duoc-xet-nghiem-covid-19-dien-rong-887916.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
