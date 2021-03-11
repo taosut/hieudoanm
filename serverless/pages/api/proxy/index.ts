@@ -1,9 +1,10 @@
+import _ from 'lodash';
 import url from 'url';
 import request from 'request';
 
 export default async (req, res) => {
   try {
-    const requestPath = getRequestedUrl(req);
+    const requestPath = _.get(req, 'query.url', '');
     console.log(`requestUrl ${requestPath}`);
     const headers = getHeaders(req);
     console.log(`headers ${JSON.stringify(headers)}`);
@@ -22,14 +23,10 @@ export default async (req, res) => {
   }
 };
 
-const getRequestedUrl = (req): string => {
-  const requestUrl: string = req.url.split('?url=')[1];
-  return requestUrl || url.parse(req.url, true).query.url || req.url;
-};
-
 const getHeaders = (req: any): any => {
   const { headers = {} } = req;
-  const requestedHost = url.parse(getRequestedUrl(req)).hostname;
+  const requestURL: string = _.get(req, 'query.url', '');
+  const requestedHost = url.parse(requestURL).hostname;
   headers['Host'] = requestedHost;
   return headers;
 };
