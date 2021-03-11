@@ -21,8 +21,8 @@
 
 - Current weather is clear sky.
 - Temperature is 25°C.
-- Feels Like 25.31°C.
-- Air Visual is 82.
+- Feels Like 26.45°C.
+- Air Visual is 88.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cháy dãy trọ, hơn chục người mất trắng tài sản](https://vnexpress.net/chay-day-tro-hon-chuc-nguoi-mat-trang-tai-san-4247170.html) ([VNExpress](https://vnexpress.net))
-- [Báo Anh phỏng vấn nhanh: Dân Anh nghĩ gì về việc vợ chồng Harry thẳng tay “dội bom” vào gia tộc, khiến Hoàng gia khủng hoảng cục bộ?](https://cafebiz.vn/bao-anh-phong-van-nhanh-dan-anh-nghi-gi-ve-viec-vo-chong-harry-thang-tay-doi-bom-vao-gia-toc-khien-hoang-gia-khung-hoang-cuc-bo-20210311162944256.chn) ([CafeBiz](https://cafebiz.vn))
-- [Huấn luyện viên Phan Thanh Hùng “cẩn thận củi lửa” trước Viettel](https://laodong.vn/bong-da/huan-luyen-vien-phan-thanh-hung-can-than-cui-lua-truoc-viettel-888185.ldo) ([Lao Động](https://laodong.vn))
-- [Phá rừng để gắn tên 'Thị Xã Hoài Nhơn': Sẽ trồng cây, phủ xanh lại rừng](https://tuoitre.vn/pha-rung-de-gan-ten-thi-xa-hoai-nhon-se-trong-cay-phu-xanh-lai-rung-20210311145319692.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nhận định Man United - AC Milan: Quỷ đỏ gặp Đỏ - đen](https://laodong.vn/bong-da-quoc-te/nhan-dinh-man-united-ac-milan-quy-do-gap-do-den-888143.ldo) ([Lao Động](https://laodong.vn))
-- [Công an phát thông báo tìm nữ sinh 14 tuổi mất liên lạc hơn nửa tháng](https://tuoitre.vn/cong-an-phat-thong-bao-tim-nu-sinh-14-tuoi-mat-lien-lac-hon-nua-thang-20210311163245003.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Vietnam Airlines đề xuất vận chuyển miễn phí 5 triệu liều vaccine Covid-19](https://cafebiz.vn/vietnam-airlines-de-xuat-van-chuyen-mien-phi-5-trieu-lieu-vaccine-covid-19-2021031117375394.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tài xế phóng xe máy 299km/h trên đại lộ Thăng Long bị phạt 10,5 triệu](https://tuoitre.vn/tai-xe-phong-xe-may-299km-h-tren-dai-lo-thang-long-bi-phat-10-5-trieu-2021031118152876.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thêm 9 địa điểm ở Cẩm Giàng hết phong tỏa](https://vnexpress.net/them-9-dia-diem-o-cam-giang-het-phong-toa-4247154.html) ([VNExpress](https://vnexpress.net))
-- [Chứng chỉ chức danh nghề nghiệp giáo viên:  Học lại kiến thức cũ](https://laodong.vn/ban-doc/chung-chi-chuc-danh-nghe-nghiep-giao-vien-hoc-lai-kien-thuc-cu-888175.ldo) ([Lao Động](https://laodong.vn))
+- [Nhìn lại thảm họa động đất - sóng thần làm nghiêng trục Trái Đất 10 năm trước](https://cafebiz.vn/nhin-lai-tham-hoa-dong-dat-song-than-lam-nghieng-truc-trai-dat-10-nam-truoc-20210311164412474.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bình Dương đã xác định nơi ở của Youtuber Thơ Nguyễn, yêu cầu lên làm việc](https://tuoitre.vn/binh-duong-da-xac-dinh-noi-o-cua-youtuber-tho-nguyen-yeu-cau-len-lam-viec-20210311185029786.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [4 món đồ phong thủy bỏ túi giúp bạn hút tài lộc, giá chỉ từ 205 nghìn đồng](https://cafebiz.vn/4-mon-do-phong-thuy-bo-tui-giup-ban-hut-tai-loc-gia-chi-tu-205-nghin-dong-20210311155924362.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bộ trưởng Bộ Y tế Nguyễn Thanh Long ứng cử Đại biểu Quốc hội khóa XV](https://laodong.vn/thoi-su/bo-truong-bo-y-te-nguyen-thanh-long-ung-cu-dai-bieu-quoc-hoi-khoa-xv-888209.ldo) ([Lao Động](https://laodong.vn))
+- [Giáo dục 24/7: NXB Giáo dục lý giải việc hợp nhất 4 bộ SGK thành 2 bộ SGK](https://laodong.vn/video/giao-duc-247-nxb-giao-duc-ly-giai-viec-hop-nhat-4-bo-sgk-thanh-2-bo-sgk-888211.ldo) ([Lao Động](https://laodong.vn))
+- [Nữ Tiến sĩ vác bụng bầu lang thang ngoài đường, hé lộ thực trạng nhức nhối của 90 triệu cô gái độc thân tại Trung Quốc](https://cafebiz.vn/nu-tien-si-vac-bung-bau-lang-thang-ngoai-duong-he-lo-thuc-trang-nhuc-nhoi-cua-90-trieu-co-gai-doc-than-tai-trung-quoc-20210311164212019.chn) ([CafeBiz](https://cafebiz.vn))
+- [“Toàn cảnh 24h”: Bản tin hàng ngày thu hút khán giả](https://cafebiz.vn/toan-canh-24h-ban-tin-hang-ngay-thu-hut-khan-gia-20210311185933236.chn) ([CafeBiz](https://cafebiz.vn))
+- [Startup Việt và nỗ lực hỗ trợ người lao động tạo thu nhập trong COVID-19](https://cafebiz.vn/startup-viet-va-no-luc-ho-tro-nguoi-lao-dong-tao-thu-nhap-trong-covid-19-20210311160354427.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chứng khoán: Mua tích lũy thêm cổ phiếu chờ phá đỉnh 1.200 điểm?](https://laodong.vn/kinh-te/chung-khoan-mua-tich-luy-them-co-phieu-cho-pha-dinh-1200-diem-888206.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng Nguyễn Xuân Phúc được giới thiệu ứng cử Quốc hội khóa mới](http://vietnamnet.vn/vn/thoi-su/chinh-tri/thu-tuong-nguyen-xuan-phuc-duoc-gioi-thieu-ung-cu-quoc-hoi-khoa-moi-718986.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Tóm Lại Là: "Hú vía" trẻ không dùng điện thoại một mình](https://vietcetera.com/vn/tom-lai-la)
 - [Câu chuyện về chiếc áo dài 48-tiếng-may của Kelly Marie Trần](https://vietcetera.com/vn/cau-chuyen-ve-chiec-ao-dai-48-tieng-may-cua-kelly-marie-tran)
 - [Chữ Với Nghĩa: Chằm Zn là gì mà Gen Z thuộc lòng?](https://vietcetera.com/vn/chu-voi-nghia-cham-zn-la-gi-ma-gen-z-thuoc-long)
 - [SoundCloud - Cứu tinh của nghệ sĩ indie?](https://vietcetera.com/vn/soundcloud-cuu-tinh-cua-nghe-si-indie)
@@ -105,7 +106,6 @@
 - [Vì sao ta xem lại phim cũ mà không bao giờ chán?](https://vietcetera.com/vn/vi-sao-ta-xem-lai-phim-cu-ma-khong-bao-gio-chan)
 - [Trịnh Hương Anh và tình yêu cho những điều nhỏ bé](https://vietcetera.com/vn/trinh-huong-anh-va-tinh-yeu-cho-nhung-dieu-nho-be)
 - [Bóc Term: Normie - Làm người bình thường thì đã sao?](https://vietcetera.com/vn/boc-term-normie-lam-nguoi-binh-thuong-thi-co-gi-khong-on)
-- [Sẽ có cách mạng ở phố Wall?](https://vietcetera.com/vn/se-co-cach-mang-o-pho-wall)
 
 [Read More](https://vietcetera.com/)
 
