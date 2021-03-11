@@ -1,5 +1,7 @@
 # News
 
+- [Những cách tạo động lực cho nhân viên mà không cần dùng tiền, ai ;à, lãnh đạo cũng cần biết](https://cafebiz.vn/nhung-cach-tao-dong-luc-cho-nhan-vien-ma-khong-can-dung-tien-ai-a-lanh-dao-cung-can-biet-20210308201438021.chn) ([CafeBiz](https://cafebiz.vn))
+- [Điều tra 2 đối tượng trói người phụ nữ cướp tài sản ở Quảng Nam](https://laodong.vn/phap-luat/dieu-tra-2-doi-tuong-troi-nguoi-phu-nu-cuop-tai-san-o-quang-nam-888227.ldo) ([Lao Động](https://laodong.vn))
 - [Chuyện lạ ở Mỹ: Bị các ông lớn o ép, đến giờ nhiều tạp hóa vẫn không có giấy vệ sinh để bán](https://cafebiz.vn/chuyen-la-o-my-bi-cac-ong-lon-o-ep-den-gio-nhieu-tap-hoa-van-khong-co-giay-ve-sinh-de-ban-2021031121165621.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cách tôi giảm thời gian làm việc xuống 2 giờ mỗi ngày nhưng tăng hiệu quả gấp 3: Nếu bạn thử một lần, bạn sẽ ước giá như mình biết điều này sớm hơn!](https://cafebiz.vn/cach-toi-giam-thoi-gian-lam-viec-xuong-2-gio-moi-ngay-nhung-tang-hieu-qua-gap-3-neu-ban-thu-mot-lan-ban-se-uoc-gia-nhu-minh-biet-dieu-nay-som-hon-20210308191235839.chn) ([CafeBiz](https://cafebiz.vn))
 - [Savills: Đổ xô đi lắp lưới bảo hộ không đủ để đảm bảo an toàn cho nhà chung cư](https://cafebiz.vn/savills-do-xo-di-lap-luoi-bao-ho-khong-du-de-dam-bao-an-toan-cho-nha-chung-cu-20210311181738742.chn) ([CafeBiz](https://cafebiz.vn))
@@ -92,11 +94,9 @@
 - [Sống chung với Covid-19, "hộ chiếu vaccine" có trở thành "thần chú" phục hồi ngành du lịch?](https://cafebiz.vn/song-chung-voi-covid-19-ho-chieu-vaccine-co-tro-thanh-than-chu-phuc-hoi-nganh-du-lich-20210311153829523.chn) ([CafeBiz](https://cafebiz.vn))
 - [HAGL lên tiếng về việc bất ngờ xuất hiện khoản lỗ 5.000 tỷ](https://cafebiz.vn/hagl-len-tieng-ve-viec-bat-ngo-xuat-hien-khoan-lo-5000-ty-20210311153459438.chn) ([CafeBiz](https://cafebiz.vn))
 - [VinFast bán 1.718 ô tô trong tháng Tết, Fadil trở thành xe bán chạy nhất thị trường Việt](https://cafebiz.vn/vinfast-ban-1718-o-to-trong-thang-tet-20210311153339826.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cô gái tình cờ hóa giải được nỗi đau canh cánh hàng chục năm của cả đại gia đình nhờ... lướt clip TikTok](https://cafebiz.vn/co-gai-tinh-co-hoa-giai-duoc-noi-dau-canh-canh-hang-chuc-nam-cua-ca-dai-gia-dinh-nho-luot-clip-tiktok-20210311135024776.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tổng bí thư, Chủ tịch nước Nguyễn Phú Trọng chúc mừng báo Nhân Dân kỷ niệm 70 năm ra số đầu tiên](https://tuoitre.vn/tong-bi-thu-chu-tich-nuoc-nguyen-phu-trong-chuc-mung-bao-nhan-dan-ky-niem-70-nam-ra-so-dau-tien-20210311141444744.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Dân miền Tây trữ nước cho mùa hạn mặn](https://vnexpress.net/dan-mien-tay-tru-nuoc-cho-mua-han-man-4245752.html) ([VNExpress](https://vnexpress.net))
-- [Giảm hàng nghìn tỷ đồng vốn đầu tư cao tốc Bắc Nam](https://vnexpress.net/giam-hang-nghin-ty-dong-von-dau-tu-cao-toc-bac-nam-4246895.html) ([VNExpress](https://vnexpress.net))
-- [Isaac Newton - Cậu bé sinh non đã "đứng trên vai người khổng lồ" để trở thành vĩ nhân như thế nào?](https://tinhte.vn/thread/isaac-newton-cau-be-sinh-non-da-dung-tren-vai-nguoi-khong-lo-de-tro-thanh-vi-nhan-nhu-the-nao.3291553/) ([Tinh Tế](https://tinhte.vn))
+- [Đại dịch đến 11/3: Nước giàu từ chối đề nghị bỏ quyền sở hữu trí tuệ với vaccine từ phía nước nghèo](https://tinhte.vn/thread/dai-dich-den-11-3-nuoc-giau-tu-choi-de-nghi-bo-quyen-so-huu-tri-tue-voi-vaccine-tu-phia-nuoc-ngheo.3291651/) ([Tinh Tế](https://tinhte.vn))
 - [Ride 4: Không có tiền mua CBR1000RR-R vít ga lên 299 km/h ngoài đại lộ thì phải làm gì?](https://tinhte.vn/thread/ride-4-khong-co-tien-mua-cbr1000rr-r-vit-ga-len-299-km-h-ngoai-dai-lo-thi-phai-lam-gi.3291692/) ([Tinh Tế](https://tinhte.vn))
-- [Mở hộp quà Samsung, tiết lộ thế hệ Galaxy A 2021 được trang bị những gì?](https://tinhte.vn/thread/mo-hop-qua-samsung-tiet-lo-the-he-galaxy-a-2021-duoc-trang-bi-nhung-gi.3291682/) ([Tinh Tế](https://tinhte.vn))
-- [OPPO Find X3 chính thức: ba phiên bản, bản Pro có camera "microlens", kháng nước IP68](https://tinhte.vn/thread/oppo-find-x3-chinh-thuc-ba-phien-ban-ban-pro-co-camera-microlens-khang-nuoc-ip68.3291773/) ([Tinh Tế](https://tinhte.vn))
+- [Mobile money là gì, nó khác gì ví điện tử](https://tinhte.vn/thread/mobile-money-la-gi-no-khac-gi-vi-dien-tu.3291100/) ([Tinh Tế](https://tinhte.vn))
+- [Kon Tum: Nghi vấn bí thư xã say xỉn lái ô tô gây tai nạn chết người](https://thanhnien.vn/thoi-su/kon-tum-nghi-van-bi-thu-xa-say-xin-lai-o-to-gay-tai-nan-chet-nguoi-1352843.html) ([Thanh Niên](https://thanhnien.vn))

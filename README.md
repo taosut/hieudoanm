@@ -48,16 +48,15 @@
 
 **GOOGLE TRENDS**
 
+- [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
 - [![Chiesa](https://img.shields.io/static/v1?label=Chiesa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chiesa)
 - [![Chị Thơ Nguyễn](https://img.shields.io/static/v1?label=Ch%E1%BB%8B%20Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%E1%BB%8B%20Th%C6%A1%20Nguy%E1%BB%85n)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
-- [![Khai báo y tế online](https://img.shields.io/static/v1?label=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online)
 - [![Khánh Phương](https://img.shields.io/static/v1?label=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Liverpool vs Leipzig](https://img.shields.io/static/v1?label=Liverpool%20vs%20Leipzig&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool%20vs%20Leipzig)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
@@ -65,6 +64,7 @@
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
+- [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![UEFA Champions League](https://img.shields.io/static/v1?label=UEFA%20Champions%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UEFA%20Champions%20League)
 - [![Đại tá Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i)
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Những cách tạo động lực cho nhân viên mà không cần dùng tiền, ai ;à, lãnh đạo cũng cần biết](https://cafebiz.vn/nhung-cach-tao-dong-luc-cho-nhan-vien-ma-khong-can-dung-tien-ai-a-lanh-dao-cung-can-biet-20210308201438021.chn) ([CafeBiz](https://cafebiz.vn))
+- [Điều tra 2 đối tượng trói người phụ nữ cướp tài sản ở Quảng Nam](https://laodong.vn/phap-luat/dieu-tra-2-doi-tuong-troi-nguoi-phu-nu-cuop-tai-san-o-quang-nam-888227.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyện lạ ở Mỹ: Bị các ông lớn o ép, đến giờ nhiều tạp hóa vẫn không có giấy vệ sinh để bán](https://cafebiz.vn/chuyen-la-o-my-bi-cac-ong-lon-o-ep-den-gio-nhieu-tap-hoa-van-khong-co-giay-ve-sinh-de-ban-2021031121165621.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cách tôi giảm thời gian làm việc xuống 2 giờ mỗi ngày nhưng tăng hiệu quả gấp 3: Nếu bạn thử một lần, bạn sẽ ước giá như mình biết điều này sớm hơn!](https://cafebiz.vn/cach-toi-giam-thoi-gian-lam-viec-xuong-2-gio-moi-ngay-nhung-tang-hieu-qua-gap-3-neu-ban-thu-mot-lan-ban-se-uoc-gia-nhu-minh-biet-dieu-nay-som-hon-20210308191235839.chn) ([CafeBiz](https://cafebiz.vn))
+- [Savills: Đổ xô đi lắp lưới bảo hộ không đủ để đảm bảo an toàn cho nhà chung cư](https://cafebiz.vn/savills-do-xo-di-lap-luoi-bao-ho-khong-du-de-dam-bao-an-toan-cho-nha-chung-cu-20210311181738742.chn) ([CafeBiz](https://cafebiz.vn))
+- [NÓNG: Hoàng tử William chính thức lên tiếng về cuộc phỏng vấn của nhà Sussex, chỉ bằng một câu ngắn gọn đủ khiến Harry phải ngẫm lại mình](https://cafebiz.vn/nong-hoang-tu-william-chinh-thuc-len-tieng-ve-cuoc-phong-van-cua-nha-sussex-chi-bang-mot-cau-ngan-gon-du-khien-harry-phai-ngam-lai-minh-20210311211226603.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cặp vợ chồng với siêu xe gây tò mò: Chồng buôn lan đột biến, vợ bán đông trùng hạ thảo](https://cafebiz.vn/cap-vo-chong-voi-sieu-xe-gay-to-mo-chong-buon-lan-dot-bien-vo-ban-dong-trung-ha-thao-20210311212932414.chn) ([CafeBiz](https://cafebiz.vn))
+- [Từ cuộc phỏng vấn chấn động hoàng gia của Harry - Meghan nhìn về mối quan hệ muôn thuở: Nhà chồng - Nàng dâu liệu có thể yêu thương nhau?](https://cafebiz.vn/tu-cuoc-phong-van-chan-dong-hoang-gia-cua-harry-meghan-nhin-ve-moi-quan-he-muon-thuo-nha-chong-nang-dau-lieu-co-the-yeu-thuong-nhau-20210311175619457.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tập đoàn 3M dự kiến đầu tư 1 tỷ USD trong vòng 20 năm tới để thực hiện các mục tiêu bảo vệ môi trường](https://cafebiz.vn/tap-doan-3m-du-kien-dau-tu-1-ty-usd-trong-vong-20-nam-toi-de-thuc-hien-cac-muc-tieu-bao-ve-moi-truong-20210311170801259.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vận may của 12 con giáp trong tháng 2 âm lịch: Người bội thu về tài vận, người chịu khó gồng gánh, tháng sau mọi thứ sẽ cải thiện](https://cafebiz.vn/van-may-cua-12-con-giap-trong-thang-2-am-lich-nguoi-boi-thu-ve-tai-van-nguoi-chiu-kho-gong-ganh-thang-sau-moi-thu-se-cai-thien-20210311171017565.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
