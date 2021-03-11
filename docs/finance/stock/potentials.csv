@@ -1,19 +1,13 @@
 "symbol","name","industry","subsector","group","latest","start","latestDate","startDate","diffToMin","diffToMax","diff","min","minDate","median","average","max","maxDate","low","numberOfDates"
-"DL1","Công ty Cổ phần Tập đoàn Năng lượng Tái tạo Việt Nam","Công nghiệp","Kho bãi, hậu cần và bảo dưỡng","HNX",14,20.3,"2021-03-10","2021-02-18",0,6.3,6.3,14,"2021-03-10",17,16.97,20.3,"2021-02-18",true,7
-"DNC","Công ty Cổ phần Điện nước Lắp máy Hải Phòng","Tiện ích Cộng đồng","Sản xuất & Phân phối Điện","HNX",41.2,46.2,"2021-03-10","2021-02-22",0,8.8,8.8,41.2,"2021-03-10",46.2,46.87,50,"2021-02-24",true,7
-"DNM","Tổng Công ty Cổ phần Y tế Danameco","Dược phẩm và Y tế","Dụng cụ y tế","HNX",37.8,43,"2021-03-10","2021-02-09",0.3,5.2,5.5,37.5,"2021-03-08",39.4,39.96,43,"2021-02-09",true,19
-"GDW","Công ty Cổ phần Cấp nước Gia Định","Tiện ích Cộng đồng","Nước","HNX",26.9,27.4,"2021-03-04","2021-02-09",0,3,3,26.9,"2021-03-04",27.4,28.07,29.9,"2021-02-18",true,9
-"GKM","Công ty Cổ phần Khang Minh Group","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",16.2,19.1,"2021-03-10","2021-02-09",0.4,2.9,3.3,15.8,"2021-03-08",16.8,17.09,19.1,"2021-02-09",true,19
-"HLY","Công ty Cổ phần Viglacera Hạ Long I","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",15.9,44.6,"2021-03-10","2021-02-24",0,28.7,28.7,15.9,"2021-03-10",26.5,28,44.6,"2021-02-24",true,11
-"HRC","Công ty Cổ phần Cao su Hòa Bình","Nguyên vật liệu","Nhựa, cao su & sợi","HOSE",53,59.5,"2021-03-10","2021-02-22",0,6.5,6.5,53,"2021-03-03",55.5,55.28,59.5,"2021-02-22",true,9
-"INN","Công ty Cổ phần Bao bì và In Nông nghiệp","Công nghiệp","Containers & Đóng gói","HNX",30.8,31.9,"2021-03-10","2021-02-09",0,3.2,3.2,30.8,"2021-03-10",31.9,32.03,34,"2021-03-04",true,19
-"LGC","Công ty Cổ phần Đầu tư Cầu đường CII","Công nghiệp","Thiết bị điện","HOSE",67.5,74.7,"2021-03-10","2021-02-17",0,17.5,17.5,67.5,"2021-03-10",77.9,77.13,85,"2021-02-24",true,11
-"LHC","Công ty Cổ phần Đầu tư và Xây dựng Thủy lợi Lâm Đồng","Công nghiệp","Xây dựng","HNX30",83.5,84.49,"2021-03-10","2021-02-09",0.5,4.87,5.37,83,"2021-03-09",86,85.51,88.37,"2021-02-17",true,18
-"MED","Công ty Cổ phần Dược Trung ương Mediplantex","Dược phẩm và Y tế","Dược phẩm","HNX",38.3,50.1,"2021-03-10","2021-02-18",0,11.8,11.8,38.3,"2021-03-10",40.15,42.11,50.1,"2021-02-18",true,10
-"SC5","Công ty Cổ phần Xây dựng số 5","Công nghiệp","Xây dựng","HOSE",19.8,23.25,"2021-03-10","2021-02-17",0,3.45,3.45,19.8,"2021-03-10",21,21.11,23.25,"2021-02-17",true,13
-"SEB","Công ty Cổ phần Đầu tư và Phát triển Điện Miền Trung","Tiện ích Cộng đồng","Sản xuất & Phân phối Điện","HNX",41.4,42,"2021-03-10","2021-02-18",0,8.6,8.6,41.4,"2021-03-10",45.5,45.07,50,"2021-02-24",true,6
+"DL1","Công ty Cổ phần Tập đoàn Năng lượng Tái tạo Việt Nam","Công nghiệp","Kho bãi, hậu cần và bảo dưỡng","HNX",13.7,20.3,"2021-03-11","2021-02-18",0,6.6,6.6,13.7,"2021-03-11",16.7,16.56,20.3,"2021-02-18",true,8
+"DNM","Tổng Công ty Cổ phần Y tế Danameco","Dược phẩm và Y tế","Dụng cụ y tế","HNX",37.5,43,"2021-03-11","2021-02-15",0,5.5,5.5,37.5,"2021-03-08",39.1,39.67,43,"2021-02-15",true,19
+"GDW","Công ty Cổ phần Cấp nước Gia Định","Tiện ích Cộng đồng","Nước","HNX",26.9,27.4,"2021-03-04","2021-02-15",0,3,3,26.9,"2021-03-04",28.05,28.15,29.9,"2021-02-18",true,8
+"GKM","Công ty Cổ phần Khang Minh Group","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",16.2,19.1,"2021-03-11","2021-02-15",0.4,2.9,3.3,15.8,"2021-03-08",16.5,16.94,19.1,"2021-02-15",true,19
+"HLY","Công ty Cổ phần Viglacera Hạ Long I","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",14.4,44.6,"2021-03-11","2021-02-24",0,30.2,30.2,14.4,"2021-03-11",25.2,26.87,44.6,"2021-02-24",true,12
+"LGC","Công ty Cổ phần Đầu tư Cầu đường CII","Công nghiệp","Thiết bị điện","HOSE",62.8,74.7,"2021-03-11","2021-02-17",0,22.2,22.2,62.8,"2021-03-11",76.3,75.93,85,"2021-02-24",true,12
+"LHC","Công ty Cổ phần Đầu tư và Xây dựng Thủy lợi Lâm Đồng","Công nghiệp","Xây dựng","HNX30",83.5,87,"2021-03-11","2021-02-15",0.5,4.87,5.37,83,"2021-03-09",86,85.45,88.37,"2021-02-17",true,18
 "SGH","Công ty Cổ phần Khách sạn Sài Gòn","Dịch vụ Tiêu dùng","Khách sạn","HNX",37,40.9,"2021-03-09","2021-02-22",0,3.9,3.9,37,"2021-03-09",38.95,38.95,40.9,"2021-02-22",true,2
 "SVC","Công ty Cổ phần Dịch vụ tổng hợp Sài Gòn","Hàng Tiêu dùng","Sản xuất ô tô","HOSE",70,74,"2021-03-04","2021-02-23",0,4,4,70,"2021-03-01",70,71,74,"2021-02-23",true,4
 "TV3","Công ty Cổ phần Tư vấn Xây dựng Điện 3","Công nghiệp","Xây dựng","HNX",24.1,25.5,"2021-03-01","2021-02-17",0.4,3.3,3.7,23.7,"2021-02-23",25.25,25.2,27.4,"2021-02-19",true,6
-"UNI","Công ty Cổ phần Viễn Liên","Công nghệ Thông tin","Dịch vụ Máy tính","HNX",12.3,12.3,"2021-03-10","2021-02-09",0.1,7.2,7.3,12.2,"2021-03-05",13.5,14.39,19.5,"2021-02-24",true,19
-"VTS","Công ty Cổ phần Viglacera Từ Sơn","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",18.7,25.4,"2021-03-10","2021-03-02",0,6.7,6.7,18.7,"2021-03-10",21.8,21.93,25.4,"2021-03-02",true,4
+"UNI","Công ty Cổ phần Viễn Liên","Công nghệ Thông tin","Dịch vụ Máy tính","HNX",12.1,12.3,"2021-03-11","2021-02-15",0,7.4,7.4,12.1,"2021-03-11",13.5,14.38,19.5,"2021-02-24",true,19
+"VTS","Công ty Cổ phần Viglacera Từ Sơn","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",16.9,25.4,"2021-03-11","2021-03-02",0,8.5,8.5,16.9,"2021-03-11",20.7,20.92,25.4,"2021-03-02",true,5

@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
-- Temperature is 27°C.
-- Feels Like 26.19°C.
-- Air Visual is 90.
+- Current weather is broken clouds.
+- Temperature is 26°C.
+- Feels Like 25.95°C.
+- Air Visual is 87.
 
 **WEATHER**
 
@@ -48,15 +48,14 @@
 
 **GOOGLE TRENDS**
 
-- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
-- [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
-- [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
+- [![Chiesa](https://img.shields.io/static/v1?label=Chiesa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chiesa)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
-- [![Hướng dương ngược nắng' tập 39](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng'%20t%E1%BA%ADp%2039&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng'%20t%E1%BA%ADp%2039)
-- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
+- [![Khánh Phương](https://img.shields.io/static/v1?label=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng)
+- [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Liverpool vs Leipzig](https://img.shields.io/static/v1?label=Liverpool%20vs%20Leipzig&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool%20vs%20Leipzig)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
@@ -64,6 +63,7 @@
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
+- [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![UEFA Champions League](https://img.shields.io/static/v1?label=UEFA%20Champions%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UEFA%20Champions%20League)
 - [![Yoona](https://img.shields.io/static/v1?label=Yoona&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Yoona)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bí ẩn về thành phố của Trung Quốc có tỉ lệ nhiễm COVID-19 thấp kỷ lục: Nhờ 1 "bí kíp" ẩn trong đất?](https://cafebiz.vn/bi-an-ve-thanh-pho-cua-trung-quoc-co-ti-le-nhiem-covid-19-thap-ky-luc-nho-1-bi-kip-an-trong-dat-20210311140220474.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tăng sức đề kháng từ những loại gia vị quen thuộc trong nhà bếp](https://laodong.vn/suc-khoe/tang-suc-de-khang-tu-nhung-loai-gia-vi-quen-thuoc-trong-nha-bep-887722.ldo) ([Lao Động](https://laodong.vn))
-- [Phát động cuộc thi về phụ nữ ngành y](https://laodong.vn/cd-y-te/phat-dong-cuoc-thi-ve-phu-nu-nganh-y-888085.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam xuất siêu sang UAE 2 tháng đầu năm 2021](https://laodong.vn/thi-truong/viet-nam-xuat-sieu-sang-uae-2-thang-dau-nam-2021-888096.ldo) ([Lao Động](https://laodong.vn))
-- [Đoàn viên công đoàn tham gia trồng 405 cây xanh](https://laodong.vn/cong-doan/doan-vien-cong-doan-tham-gia-trong-405-cay-xanh-888088.ldo) ([Lao Động](https://laodong.vn))
-- [Mục tiêu phát triển đoàn viên ở khối thi đua LĐLĐ huyện của Hải Phòng](https://laodong.vn/cong-doan/muc-tieu-phat-trien-doan-vien-o-khoi-thi-dua-ldld-huyen-cua-hai-phong-888087.ldo) ([Lao Động](https://laodong.vn))
-- [Văn Quyết hứa hẹn toả sáng trận &quot;đại chiến&quot; Hải Phòng - Hà Nội](https://laodong.vn/video/van-quyet-hua-hen-toa-sang-tran-dai-chien-hai-phong-ha-noi-888069.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ 3 kém 16 tuổi của Chi Bảo: Xinh đẹp sexy, chủ chuỗi thẩm mỹ, giàu nức tiếng và thân với cả dàn sao Vbiz](https://cafebiz.vn/vo-3-kem-16-tuoi-cua-chi-bao-xinh-dep-sexy-chu-chuoi-tham-my-giau-nuc-tieng-va-than-voi-ca-dan-sao-vbiz-2021031116113224.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cháy lớn, nhiều tiếng nổ phát ra từ nhà dân ở TP Thủ Đức](https://tuoitre.vn/chay-lon-nhieu-tieng-no-phat-ra-tu-nha-dan-o-tp-thu-duc-20210311155631978.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Vùng biển quanh Côn Đảo: Điểm 'nóng' của xăng dầu lậu](https://tuoitre.vn/vung-bien-quanh-con-dao-diem-nong-cua-xang-dau-lau-20210311081738126.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Greensill - đế chế sụp đổ gây chấn động ngành tài chính: Credit Suisse phải đóng băng hàng loạt quỹ đầu tư, tỷ phú thép lừng lẫy một thời bỗng điêu đứng](https://cafebiz.vn/greensill-de-che-sup-do-gay-chan-dong-nganh-tai-chinh-credit-suisse-phai-dong-bang-hang-loat-quy-dau-tu-ty-phu-thep-lung-lay-mot-thoi-bong-dieu-dung-20210311160635885.chn) ([CafeBiz](https://cafebiz.vn))
+- [Campuchia có ca tử vong đầu tiên do COVID-19](https://laodong.vn/the-gioi/campuchia-co-ca-tu-vong-dau-tien-do-covid-19-888054.ldo) ([Lao Động](https://laodong.vn))
+- [Thắp đèn xanh kỉ niệm ngày quốc khánh Ireland](https://laodong.vn/xa-hoi/thap-den-xanh-ki-niem-ngay-quoc-khanh-ireland-888123.ldo) ([Lao Động](https://laodong.vn))
+- [Apple Watch cứu sống người dùng bị rơi xuống sông băng](https://cafebiz.vn/apple-watch-cuu-song-nguoi-dung-bi-roi-xuong-song-bang-20210311160245373.chn) ([CafeBiz](https://cafebiz.vn))
+- [Săn lùng ngay 3 Item hot tại Fancy Boutique khiến chị em mê đắm](https://cafebiz.vn/san-lung-ngay-3-item-hot-tai-fancy-boutique-khien-chi-em-me-dam-20210311144339917.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhà đầu tư Gem Sky World giai đoạn đầu thắng lớn](https://cafebiz.vn/nha-dau-tu-gem-sky-world-giai-doan-dau-thang-lon-20210311113220061.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá vàng tăng nhanh ngày thứ ba liên tiếp](https://laodong.vn/kinh-te/gia-vang-tang-nhanh-ngay-thu-ba-lien-tiep-888138.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam phản ứng việc Trung Quốc diễn tập trái phép trên đảo Tri Tôn](https://laodong.vn/the-gioi/viet-nam-phan-ung-viec-trung-quoc-dien-tap-trai-phep-tren-dao-tri-ton-888114.ldo) ([Lao Động](https://laodong.vn))
+- [Văn phòng Trung ương Đảng lấy ý kiến với người được giới thiệu ứng cử ĐBQH](https://laodong.vn/thoi-su/van-phong-trung-uong-dang-lay-y-kien-voi-nguoi-duoc-gioi-thieu-ung-cu-dbqh-888124.ldo) ([Lao Động](https://laodong.vn))
+- [Nghiên cứu đề xuất 'hộ chiếu vaccine' Covid-19](https://vnexpress.net/nghien-cuu-de-xuat-ho-chieu-vaccine-covid-19-4246997.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
