@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 23°C.
-- Feels Like 24.62°C.
-- Air Visual is 96.
+- Current weather is undefined.
+- Temperature is 0°C.
+- Feels Like 0°C.
+- Air Visual is 93.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [5 dấu hiệu cảnh báo các bệnh về tim mạch mọi người cần lưu ý](https://laodong.vn/suc-khoe/5-dau-hieu-canh-bao-cac-benh-ve-tim-mach-moi-nguoi-can-luu-y-887534.ldo) ([Lao Động](https://laodong.vn))
-- [Quyết định gây tranh cãi của ông Biden trước làn sóng nhập cư tăng cao](https://laodong.vn/the-gioi/quyet-dinh-gay-tranh-cai-cua-ong-biden-truoc-lan-song-nhap-cu-tang-cao-887875.ldo) ([Lao Động](https://laodong.vn))
-- [Học phí đại học quá cao, Bộ GDĐT nói gì?](https://laodong.vn/ban-doc/hoc-phi-dai-hoc-qua-cao-bo-gddt-noi-gi-887876.ldo) ([Lao Động](https://laodong.vn))
-- [7 doanh nghiệp “tỉ USD” sẽ đóng vai trò dẫn dắt, mở đường](https://laodong.vn/kinh-te/7-doanh-nghiep-ti-usd-se-dong-vai-tro-dan-dat-mo-duong-887810.ldo) ([Lao Động](https://laodong.vn))
-- [Nam Bộ đón thêm đợt nắng nóng mới vào hôm nay](https://laodong.vn/moi-truong/nam-bo-don-them-dot-nang-nong-moi-vao-hom-nay-887888.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ Y tế cảnh báo tình trạng giả mạo trong cung ứng - mua bán vắc xin phòng Covid-19](https://cafebiz.vn/bo-y-te-canh-bao-tinh-trang-gia-mao-trong-cung-ung-mua-ban-vac-xin-phong-covid-19-20210311084612446.chn) ([CafeBiz](https://cafebiz.vn))
-- [Điều ít biết về chuỗi Aha Cafe: Thương hiệu có từ năm 1997 nhưng 11 năm sau mới mở cửa hàng đầu tiên, công ty quản lý lỗ triền miên](https://cafebiz.vn/dieu-it-biet-ve-chuoi-aha-cafe-thuong-hieu-co-tu-nam-1997-nhung-11-nam-sau-moi-mo-cua-hang-dau-tien-cong-ty-quan-ly-lo-trien-mien-20210310180951739.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đại tướng Lương Cường được giới thiệu ứng cử đại biểu Quốc hội](https://vnexpress.net/dai-tuong-luong-cuong-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-4246702.html) ([VNExpress](https://vnexpress.net))
-- [Lời cảnh báo của chuyên gia Thái Lan 20 năm trước và thế khó của HOSE](https://cafebiz.vn/loi-canh-bao-cua-chuyen-gia-thai-lan-20-nam-truoc-va-the-kho-cua-hose-20210311083817069.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hai mẹ con dương tính COVID-19 khi sang Úc: Hải Phòng xác định 5F1, nhiều trường hợp liên quan](https://cafebiz.vn/hai-me-con-duong-tinh-covid-19-khi-sang-uc-hai-phong-xac-dinh-5f1-nhieu-truong-hop-lien-quan-20210311083746128.chn) ([CafeBiz](https://cafebiz.vn))
+- [Jeff Bezos: ‘Ai không thích logo Amazon hẳn là người không yêu cún con’](https://cafebiz.vn/jeff-bezos-ai-khong-thich-logo-amazon-han-la-nguoi-khong-yeu-cun-con-20210310173726775.chn) ([CafeBiz](https://cafebiz.vn))
+- [Học viện Ngoại giao công bố đề án tuyển sinh 2021](https://laodong.vn/giao-duc/hoc-vien-ngoai-giao-cong-bo-de-an-tuyen-sinh-2021-887901.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nam: Xử lý đối tượng tổ chức nhập cảnh trái phép qua biên giới](https://laodong.vn/phap-luat/ha-nam-xu-ly-doi-tuong-to-chuc-nhap-canh-trai-phep-qua-bien-gioi-887828.ldo) ([Lao Động](https://laodong.vn))
+- [Lập đề án xây dựng Đà Nẵng thành trung tâm tài chính quy mô khu vực](https://laodong.vn/xa-hoi/lap-de-an-xay-dung-da-nang-thanh-trung-tam-tai-chinh-quy-mo-khu-vuc-887893.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng: 50.000 người đăng ký sử dụng ứng dụng BHXH số - VssID](https://laodong.vn/cong-doan/da-nang-50000-nguoi-dang-ky-su-dung-ung-dung-bhxh-so-vssid-887897.ldo) ([Lao Động](https://laodong.vn))
+- [Tin vui cho Real Madrid, Ramos và Hazard đã trở lại](https://laodong.vn/bong-da-quoc-te/tin-vui-cho-real-madrid-ramos-va-hazard-da-tro-lai-887851.ldo) ([Lao Động](https://laodong.vn))
+- [Một startup giao hàng gọi vốn thành công 170 triệu USD](https://cafebiz.vn/mot-startup-giao-hang-goi-von-thanh-cong-170-trieu-usd-20210311090413964.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chỉ ăn khoai lang và dứa, cô gái 26 tuổi tiết kiệm 2 tỷ đồng sau 3,5 năm](https://cafebiz.vn/chi-an-khoai-lang-va-dua-co-gai-26-tuoi-tiet-kiem-2-ty-dong-sau-35-nam-20210311091502768.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chưa ai nhận trách nhiệm vụ 2 cháu bé chết đuối dưới hố chôn cột điện](http://vietnamnet.vn/vn/thoi-su/chua-ai-nhan-trach-nhiem-vu-2-chau-be-chet-duoi-duoi-ho-chon-cot-dien-718768.html) ([VietNamNet](https://vietnamnet.vn))
+- [Con gái ngã quỵ ôm thi thể cha bị tai nạn ở cầu Phú Mỹ.](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/con-gai-nga-quy-om-thi-the-cha-bi-tai-nan-o-cau-phu-my-718772.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
