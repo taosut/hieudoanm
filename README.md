@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 25.23°C.
-- Air Visual is 84.
+- Air Visual is 90.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Thế giới tìm cách sống chung với COVID-19 bằng "hộ chiếu vaccine"](https://cafebiz.vn/the-gioi-tim-cach-song-chung-voi-covid-19-bang-ho-chieu-vaccine-20210311134424714.chn) ([CafeBiz](https://cafebiz.vn))
+- [Yên Bái: Ông Trần Quốc Vượng tiếp xúc cử tri huyện Văn Chấn](https://laodong.vn/thoi-su/yen-bai-ong-tran-quoc-vuong-tiep-xuc-cu-tri-huyen-van-chan-887955.ldo) ([Lao Động](https://laodong.vn))
+- [Danh sách trường Đại học, Học viện nhận hồ sơ xét học bạ THPT 2021](https://laodong.vn/giao-duc/danh-sach-truong-dai-hoc-hoc-vien-nhan-ho-so-xet-hoc-ba-thpt-2021-888051.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ Nội vụ giới thiệu bà Phạm Thị Thanh Trà ứng cử đại biểu Quốc hội khoá XV](https://laodong.vn/thoi-su/bo-noi-vu-gioi-thieu-ba-pham-thi-thanh-tra-ung-cu-dai-bieu-quoc-hoi-khoa-xv-888068.ldo) ([Lao Động](https://laodong.vn))
+- [Người nhập cảnh đã tiêm vắc-xin Covid-19 có còn phải cách ly 14 ngày?](https://cafebiz.vn/nguoi-nhap-canh-da-tiem-vac-xin-covid-19-co-con-phai-cach-ly-14-ngay-20210311155330131.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giá xăng sẽ tăng lần thứ 8 liên tiếp vào ngày mai](https://cafebiz.vn/gia-xang-se-tang-lan-thu-8-lien-tiep-vao-ngay-mai-20210311155104463.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chạy xe máy gần 300 km/h trên đại lộ Thăng Long](https://vnexpress.net/chay-xe-may-gan-300-km-h-tren-dai-lo-thang-long-4246995.html) ([VNExpress](https://vnexpress.net))
 - [Kỳ công phục chế xác ướp Ai Cập 2.500 năm tuổi](https://laodong.vn/the-gioi/ky-cong-phuc-che-xac-uop-ai-cap-2500-nam-tuoi-888075.ldo) ([Lao Động](https://laodong.vn))
 - [Những phát ngôn đáng chú ý của Giám đốc Công an tỉnh An Giang Đinh Văn Nơi](https://laodong.vn/infographic/nhung-phat-ngon-dang-chu-y-cua-giam-doc-cong-an-tinh-an-giang-dinh-van-noi-887533.ldo) ([Lao Động](https://laodong.vn))
 - [Ngày mai 12.3, giá xăng có khả năng tăng mạnh](https://laodong.vn/thi-truong/ngay-mai-123-gia-xang-co-kha-nang-tang-manh-888074.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Người dân khai báo y tế bằng mã QR Code khi tới cơ quan hành chính](https://laodong.vn/xa-hoi/ha-noi-nguoi-dan-khai-bao-y-te-bang-ma-qr-code-khi-toi-co-quan-hanh-chinh-888023.ldo) ([Lao Động](https://laodong.vn))
-- [Sống chung với Covid-19, "hộ chiếu vaccine" có trở thành "thần chú" phục hồi ngành du lịch?](https://cafebiz.vn/song-chung-voi-covid-19-ho-chieu-vaccine-co-tro-thanh-than-chu-phuc-hoi-nganh-du-lich-20210311153829523.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: Giải quyết ô nhiễm tiếng ồn, đừng quên tiếng nẹt pô](https://laodong.vn/ban-doc/tphcm-giai-quyet-o-nhiem-tieng-on-dung-quen-tieng-net-po-888052.ldo) ([Lao Động](https://laodong.vn))
-- [HAGL lên tiếng về việc bất ngờ xuất hiện khoản lỗ 5.000 tỷ](https://cafebiz.vn/hagl-len-tieng-ve-viec-bat-ngo-xuat-hien-khoan-lo-5000-ty-20210311153459438.chn) ([CafeBiz](https://cafebiz.vn))
-- [VinFast bán 1.718 ô tô trong tháng Tết](https://cafebiz.vn/vinfast-ban-1718-o-to-trong-thang-tet-20210311153339826.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
