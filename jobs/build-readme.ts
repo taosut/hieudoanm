@@ -188,10 +188,10 @@ export const buildREADME = async () => {
   const { description, temp, feelsLike } = currentWeather;
   const npm: string = buildNPM();
 
-  const avatar: string = `https://raw.githubusercontent.com/vietnamdb/vietnamdb/master/images/profile/avatar.png`;
+  const avatar: string = `https://raw.githubusercontent.com/hieudoanm/hieudoanm/master/images/hieudoanm/profile.jpg`;
 
   const md: string = `<p align="center"><img src="${avatar}" alt="VIETNAM" height="60"/></p>
-<h1 align="center">VIETNAMDB</h1>
+<h1 align="center">HIEU</h1>
 <p align="center">VIETNAM 🇻🇳 RESTful APIs.</p>
 <p align="center">
   <a href="https://vietnamdb.herokuapp.com/api">APIs</a> -
