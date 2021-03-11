@@ -21,8 +21,8 @@
 
 - Current weather is clear sky.
 - Temperature is 25°C.
-- Feels Like 26.45°C.
-- Air Visual is 90.
+- Feels Like 25.67°C.
+- Air Visual is 85.
 
 **WEATHER**
 
@@ -48,10 +48,12 @@
 
 **GOOGLE TRENDS**
 
-- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Chiesa](https://img.shields.io/static/v1?label=Chiesa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chiesa)
+- [![Chị Thơ Nguyễn](https://img.shields.io/static/v1?label=Ch%E1%BB%8B%20Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%E1%BB%8B%20Th%C6%A1%20Nguy%E1%BB%85n)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
+- [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
+- [![Khai báo y tế online](https://img.shields.io/static/v1?label=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Khai%20b%C3%A1o%20y%20t%E1%BA%BF%20online)
 - [![Khánh Phương](https://img.shields.io/static/v1?label=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
@@ -63,10 +65,8 @@
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
-- [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![UEFA Champions League](https://img.shields.io/static/v1?label=UEFA%20Champions%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UEFA%20Champions%20League)
-- [![Yoona](https://img.shields.io/static/v1?label=Yoona&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Yoona)
 - [![Đại tá Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%E1%BA%A1i%20t%C3%A1%20%C4%90inh%20V%C4%83n%20N%C6%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Người nhập cảnh đã tiêm vắc-xin Covid-19 có còn phải cách ly 14 ngày?](https://cafebiz.vn/nguoi-nhap-canh-da-tiem-vac-xin-covid-19-co-con-phai-cach-ly-14-ngay-20210311165838155.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mẹo giặt và phơi quần áo nhanh khô khi trời nồm](https://cafebiz.vn/meo-giat-va-phoi-quan-ao-nhanh-kho-khi-troi-nom-20210311171348284.chn) ([CafeBiz](https://cafebiz.vn))
 - [Vietravel Airlines nối liền hệ thống phòng vé chính hãng toàn quốc](https://laodong.vn/doanh-nghiep-doanh-nhan/vietravel-airlines-noi-lien-he-thong-phong-ve-chinh-hang-toan-quoc-888202.ldo) ([Lao Động](https://laodong.vn))
 - [Warren Buffett và Bill Gates chứng minh rằng bỏ thói quen xấu này sẽ giúp bạn thành công hơn trong cuộc sống](https://cafebiz.vn/warren-buffett-va-bill-gates-chung-minh-rang-bo-thoi-quen-xau-nay-se-giup-ban-thanh-cong-hon-trong-cuoc-song-20210311151700966.chn) ([CafeBiz](https://cafebiz.vn))
@@ -84,7 +85,6 @@
 - [Bài thuốc chữa ho có đờm hiệu quả chỉ với 2 nguyên liệu có sẵn trong bếp](https://cafebiz.vn/bai-thuoc-chua-ho-co-dom-hieu-qua-chi-voi-2-nguyen-lieu-co-san-trong-bep-20210311165906504.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chùa Hương mở cửa trở lại: Giá nhà nghỉ, dịch vụ đò dự kiến tăng gấp đôi](https://laodong.vn/thi-truong/chua-huong-mo-cua-tro-lai-gia-nha-nghi-dich-vu-do-du-kien-tang-gap-doi-888169.ldo) ([Lao Động](https://laodong.vn))
 - [Kinh tế 24h: Giá vàng vẫn bật tăng; Giá xăng sắp nhảy vọt](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-van-bat-tang-gia-xang-sap-nhay-vot-888214.ldo) ([Lao Động](https://laodong.vn))
-- [Nếu Võ Hoàng Yên trả lại toàn bộ số tiền bị tố lừa đảo cho vợ chồng ông Dũng "lò vôi" thì có "hết chuyện"?](https://cafebiz.vn/neu-vo-hoang-yen-tra-lai-toan-bo-so-tien-bi-to-lua-dao-cho-vo-chong-ong-dung-lo-voi-thi-co-het-chuyen-20210311164922236.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 

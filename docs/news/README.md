@@ -1,5 +1,6 @@
 # News
 
+- [Người nhập cảnh đã tiêm vắc-xin Covid-19 có còn phải cách ly 14 ngày?](https://cafebiz.vn/nguoi-nhap-canh-da-tiem-vac-xin-covid-19-co-con-phai-cach-ly-14-ngay-20210311165838155.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mẹo giặt và phơi quần áo nhanh khô khi trời nồm](https://cafebiz.vn/meo-giat-va-phoi-quan-ao-nhanh-kho-khi-troi-nom-20210311171348284.chn) ([CafeBiz](https://cafebiz.vn))
 - [Vietravel Airlines nối liền hệ thống phòng vé chính hãng toàn quốc](https://laodong.vn/doanh-nghiep-doanh-nhan/vietravel-airlines-noi-lien-he-thong-phong-ve-chinh-hang-toan-quoc-888202.ldo) ([Lao Động](https://laodong.vn))
 - [Warren Buffett và Bill Gates chứng minh rằng bỏ thói quen xấu này sẽ giúp bạn thành công hơn trong cuộc sống](https://cafebiz.vn/warren-buffett-va-bill-gates-chung-minh-rang-bo-thoi-quen-xau-nay-se-giup-ban-thanh-cong-hon-trong-cuoc-song-20210311151700966.chn) ([CafeBiz](https://cafebiz.vn))
@@ -99,4 +100,3 @@
 - [Sau thông báo chính thức của hoàng gia, Meghan Markle đưa ra phản hồi đầy ngạo mạn, quyết không hạ mình](https://cafebiz.vn/sau-thong-bao-chinh-thuc-cua-hoang-gia-meghan-markle-dua-ra-phan-hoi-day-ngao-man-quyet-khong-ha-minh-20210311142248901.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bí thư Hà Nội: ‘Quy hoạch phân khu đô thị sông Hồng theo nguyên tắc thuận thiên’](https://tuoitre.vn/bi-thu-ha-noi-quy-hoach-phan-khu-do-thi-song-hong-theo-nguyen-tac-thuan-thien-20210311122126613.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Giàu "nứt khố đổ vách" nhưng người đàn ông này vẫn chỉ mua ô tô cũ, đi máy bay hạng phổ thông và không ngại đi xe 3 bánh từ sân bay về nhà](https://cafebiz.vn/giau-nut-kho-do-vach-nhung-nguoi-dan-ong-nay-van-chi-mua-o-to-cu-di-may-bay-hang-pho-thong-va-khong-ngai-di-xe-3-banh-tu-san-bay-ve-nha-2021031114055702.chn) ([CafeBiz](https://cafebiz.vn))
-- [Làm sao để không gục ngã trước khó khăn? Bỏ túi 6 "thần chú" của kẻ làm chủ cuộc chơi!](https://cafebiz.vn/lam-sao-de-khong-guc-nga-truoc-kho-khan-bo-tui-6-than-chu-cua-ke-lam-chu-cuoc-choi-20210311134006484.chn) ([CafeBiz](https://cafebiz.vn))
