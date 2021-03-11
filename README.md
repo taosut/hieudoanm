@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is undefined.
-- Temperature is 0°C.
-- Feels Like 0°C.
+- Current weather is broken clouds.
+- Temperature is 25°C.
+- Feels Like 26.25°C.
 - Air Visual is 98.
 
 **WEATHER**
@@ -48,14 +48,14 @@
 
 **GOOGLE TRENDS**
 
-- [![C1](https://img.shields.io/static/v1?label=C1&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C1)
+- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
-- [![Hướng dương ngược nắng' tập 39](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng'%20t%E1%BA%ADp%2039&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng'%20t%E1%BA%ADp%2039)
+- [![Hướng dương ngược nắng tập 39](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2039&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2039)
+- [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
-- [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Lê Huỳnh Đức](https://img.shields.io/static/v1?label=L%C3%AA%20Hu%E1%BB%B3nh%20%C4%90%E1%BB%A9c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%AA%20Hu%E1%BB%B3nh%20%C4%90%E1%BB%A9c)
+- [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![Nhân sự Chủ tịch nước](https://img.shields.io/static/v1?label=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nh%C3%A2n%20s%E1%BB%B1%20Ch%E1%BB%A7%20t%E1%BB%8Bch%20n%C6%B0%E1%BB%9Bc)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bộ Thông tin và Truyền thông mời Thơ Nguyễn lên làm việc, không hợp tác sẽ khoá Youtube](https://cafebiz.vn/bo-thong-tin-va-truyen-thong-moi-tho-nguyen-len-lam-viec-khong-hop-tac-se-khoa-youtube-20210311120039892.chn) ([CafeBiz](https://cafebiz.vn))
+- [Việt Nam ủng hộ tăng cường hợp tác giữa Liên Hợp Quốc và OSCE](https://laodong.vn/thoi-su/viet-nam-ung-ho-tang-cuong-hop-tac-giua-lien-hop-quoc-va-osce-887980.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng bắt đầu tiêm vaccine COVID-19 đợt 1](https://laodong.vn/y-te/hai-phong-bat-dau-tiem-vaccine-covid-19-dot-1-887880.ldo) ([Lao Động](https://laodong.vn))
+- [Nữ danh hài giàu nhất Vbiz Việt Hương: Cho thuê 8 căn hộ V.homes, thường xuyên thay đổi xế hộp, mua quá nhiều hột xoàn tới mức không muốn đeo](https://cafebiz.vn/nu-danh-hai-giau-nhat-vbiz-viet-huong-cho-thue-8-can-ho-vhomes-thuong-xuyen-thay-doi-xe-hop-mua-qua-nhieu-hot-xoan-toi-muc-khong-muon-deo-2021031111375697.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thua lỗ triền miên, Shopee tiếp tục 'đốt tiền' mở rộng hoạt động sang châu Mỹ Latin, đối đầu Amazon](https://cafebiz.vn/thua-lo-trien-mien-shopee-tiep-tuc-dot-tien-mo-rong-hoat-dong-sang-chau-my-latin-doi-dau-amazon-20210311114720733.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng bố trí mỗi quận, huyện có một lãnh đạo dưới 35 tuổi](https://laodong.vn/thoi-su/hai-phong-bo-tri-moi-quan-huyen-co-mot-lanh-dao-duoi-35-tuoi-887971.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Tom &amp; Jerry: Quậy tung New York&quot; bị chê nhiều hơn khen](https://laodong.vn/giai-tri/tom--jerry-quay-tung-new-york-bi-che-nhieu-hon-khen-887939.ldo) ([Lao Động](https://laodong.vn))
+- [Daisuke Matsui: “Bóng đá Việt Nam sẽ vươn lên trong vài năm tới”](https://laodong.vn/bong-da/daisuke-matsui-bong-da-viet-nam-se-vuon-len-trong-vai-nam-toi-887960.ldo) ([Lao Động](https://laodong.vn))
 - [TPHCM thay đổi hệ số các môn thi vào lớp 10: Học sinh vừa mừng vừa lo](https://laodong.vn/video/tphcm-thay-doi-he-so-cac-mon-thi-vao-lop-10-hoc-sinh-vua-mung-vua-lo-887924.ldo) ([Lao Động](https://laodong.vn))
 - [Tỷ sở hữu giảm xuống còn 39,4%, Bamboo Airways không còn là công ty con của FLC?](https://cafebiz.vn/ty-so-huu-giam-xuong-con-394-bamboo-airways-khong-con-la-cong-ty-con-cua-flc-20210311113459622.chn) ([CafeBiz](https://cafebiz.vn))
-- [Câu lạc bộ Thanh Hoá tăng cường trợ lý ngoại cho huấn luyện viên Petrovic](https://laodong.vn/bong-da/cau-lac-bo-thanh-hoa-tang-cuong-tro-ly-ngoai-cho-huan-luyen-vien-petrovic-887963.ldo) ([Lao Động](https://laodong.vn))
-- [Tượng ông Trump ngồi thiền gây sốt ở Trung Quốc, dân tình đổ xô mua với hy vọng sự nghiệp sẽ "vĩ đại trở lại"](https://cafebiz.vn/tuong-ong-trump-ngoi-thien-gay-sot-o-trung-quoc-dan-tinh-do-xo-mua-voi-hy-vong-su-nghiep-se-vi-dai-tro-lai-20210311113333222.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sau kiểm toán, lợi nhuận FLC tăng gần 70% so với báo cáo tài chính tự lập](https://cafebiz.vn/sau-kiem-toan-loi-nhuan-flc-tang-gan-70-so-voi-bao-cao-tai-chinh-tu-lap-20210311113219207.chn) ([CafeBiz](https://cafebiz.vn))
-- [5 nguyên nhân khiến người trẻ dễ mắc bệnh trĩ](https://laodong.vn/suc-khoe/5-nguyen-nhan-khien-nguoi-tre-de-mac-benh-tri-874533.ldo) ([Lao Động](https://laodong.vn))
-- [Thăm dò khoáng sản đồi Sạc Ly: Không được làm ảnh hưởng đến cảnh quan môi trường](https://laodong.vn/kinh-te/tham-do-khoang-san-doi-sac-ly-khong-duoc-lam-anh-huong-den-canh-quan-moi-truong-887762.ldo) ([Lao Động](https://laodong.vn))
-- [Tăng tốc thi công metro số 1, hoàn trả mặt bằng trên đường Lê Lợi trước 30-4](https://tuoitre.vn/tang-toc-thi-cong-metro-so-1-hoan-tra-mat-bang-tren-duong-le-loi-truoc-30-4-2021031110070371.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [VFF nghiêm túc nâng cao chất lượng trọng tài giải nữ, giải trẻ năm 2021](https://laodong.vn/bong-da/vff-nghiem-tuc-nang-cao-chat-luong-trong-tai-giai-nu-giai-tre-nam-2021-887938.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: 200 công nhân đầu tiên được xét nghiệm COVID-19 diện rộng](https://laodong.vn/photo/ha-noi-200-cong-nhan-dau-tien-duoc-xet-nghiem-covid-19-dien-rong-887916.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
