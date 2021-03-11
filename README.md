@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 25.95°C.
-- Air Visual is 87.
+- Feels Like 26.3°C.
+- Air Visual is 86.
 
 **WEATHER**
 
@@ -48,14 +48,15 @@
 
 **GOOGLE TRENDS**
 
+- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
 - [![Chiesa](https://img.shields.io/static/v1?label=Chiesa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chiesa)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
+- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Khánh Phương](https://img.shields.io/static/v1?label=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng)
-- [![Kon Tum](https://img.shields.io/static/v1?label=Kon%20Tum&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kon%20Tum)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Liverpool vs Leipzig](https://img.shields.io/static/v1?label=Liverpool%20vs%20Leipzig&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool%20vs%20Leipzig)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
@@ -63,7 +64,6 @@
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
-- [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![UEFA Champions League](https://img.shields.io/static/v1?label=UEFA%20Champions%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UEFA%20Champions%20League)
 - [![Yoona](https://img.shields.io/static/v1?label=Yoona&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Yoona)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Khánh Hòa tiếp tục yêu cầu kiểm tra Sân vận động Cam Ranh](https://laodong.vn/bat-dong-san/khanh-hoa-tiep-tuc-yeu-cau-kiem-tra-san-van-dong-cam-ranh-888126.ldo) ([Lao Động](https://laodong.vn))
+- [Công an Thừa Thiên Huế phối hợp làm việc với 2 Sở An ninh nước bạn Lào](https://laodong.vn/xa-hoi/cong-an-thua-thien-hue-phoi-hop-lam-viec-voi-2-so-an-ninh-nuoc-ban-lao-888115.ldo) ([Lao Động](https://laodong.vn))
+- [Ý kiến trái chiều về đề xuất bỏ nhân hệ số 2 môn Toán, Văn kỳ thi lớp 10](https://laodong.vn/video-thoi-su/y-kien-trai-chieu-ve-de-xuat-bo-nhan-he-so-2-mon-toan-van-ky-thi-lop-10-888109.ldo) ([Lao Động](https://laodong.vn))
+- [Champions League vắng Ronaldo và Messi: Chuyện thời thế, chuyện tương lai](https://laodong.vn/bong-da-quoc-te/champions-league-vang-ronaldo-va-messi-chuyen-thoi-the-chuyen-tuong-lai-888043.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Nam: Sạt lở bờ sông, &quot;nuốt chửng&quot; hàng chục hecta đất của người dân](https://laodong.vn/ban-doc/quang-nam-sat-lo-bo-song-nuot-chung-hang-chuc-hecta-dat-cua-nguoi-dan-888105.ldo) ([Lao Động](https://laodong.vn))
+- [Chủ nhiệm Ủy ban Kiểm tra Trung ương được giới thiệu ứng cử Quốc hội](https://vnexpress.net/chu-nhiem-uy-ban-kiem-tra-trung-uong-duoc-gioi-thieu-ung-cu-quoc-hoi-4246592.html) ([VNExpress](https://vnexpress.net))
 - [Greensill - đế chế sụp đổ gây chấn động ngành tài chính: Credit Suisse phải đóng băng hàng loạt quỹ đầu tư, tỷ phú thép lừng lẫy một thời bỗng điêu đứng](https://cafebiz.vn/greensill-de-che-sup-do-gay-chan-dong-nganh-tai-chinh-credit-suisse-phai-dong-bang-hang-loat-quy-dau-tu-ty-phu-thep-lung-lay-mot-thoi-bong-dieu-dung-20210311160635885.chn) ([CafeBiz](https://cafebiz.vn))
-- [Campuchia có ca tử vong đầu tiên do COVID-19](https://laodong.vn/the-gioi/campuchia-co-ca-tu-vong-dau-tien-do-covid-19-888054.ldo) ([Lao Động](https://laodong.vn))
-- [Thắp đèn xanh kỉ niệm ngày quốc khánh Ireland](https://laodong.vn/xa-hoi/thap-den-xanh-ki-niem-ngay-quoc-khanh-ireland-888123.ldo) ([Lao Động](https://laodong.vn))
 - [Apple Watch cứu sống người dùng bị rơi xuống sông băng](https://cafebiz.vn/apple-watch-cuu-song-nguoi-dung-bi-roi-xuong-song-bang-20210311160245373.chn) ([CafeBiz](https://cafebiz.vn))
 - [Săn lùng ngay 3 Item hot tại Fancy Boutique khiến chị em mê đắm](https://cafebiz.vn/san-lung-ngay-3-item-hot-tai-fancy-boutique-khien-chi-em-me-dam-20210311144339917.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nhà đầu tư Gem Sky World giai đoạn đầu thắng lớn](https://cafebiz.vn/nha-dau-tu-gem-sky-world-giai-doan-dau-thang-lon-20210311113220061.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá vàng tăng nhanh ngày thứ ba liên tiếp](https://laodong.vn/kinh-te/gia-vang-tang-nhanh-ngay-thu-ba-lien-tiep-888138.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam phản ứng việc Trung Quốc diễn tập trái phép trên đảo Tri Tôn](https://laodong.vn/the-gioi/viet-nam-phan-ung-viec-trung-quoc-dien-tap-trai-phep-tren-dao-tri-ton-888114.ldo) ([Lao Động](https://laodong.vn))
-- [Văn phòng Trung ương Đảng lấy ý kiến với người được giới thiệu ứng cử ĐBQH](https://laodong.vn/thoi-su/van-phong-trung-uong-dang-lay-y-kien-voi-nguoi-duoc-gioi-thieu-ung-cu-dbqh-888124.ldo) ([Lao Động](https://laodong.vn))
-- [Nghiên cứu đề xuất 'hộ chiếu vaccine' Covid-19](https://vnexpress.net/nghien-cuu-de-xuat-ho-chieu-vaccine-covid-19-4246997.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Chữ Với Nghĩa: Chằm Zn là gì mà Gen Z thuộc lòng?](https://vietcetera.com/vn/chu-voi-nghia-cham-zn-la-gi-ma-gen-z-thuoc-long)
 - [SoundCloud - Cứu tinh của nghệ sĩ indie?](https://vietcetera.com/vn/soundcloud-cuu-tinh-cua-nghe-si-indie)
 - ["Như đang rơi tự do xuống vực, và có 500 vì sao rớt xuống cùng mình."](https://vietcetera.com/vn/du-co-lam-gi-di-nua-bao-boc-quanh-anh-van-la-cam-giac-minh-thieu)
 - [Sơn Đoàn: "Năm 20 tuổi, anh không biết nói "không", cũng không biết buông bỏ. Giờ thì khác..."](https://vietcetera.com/vn/son-doan-mot-chuyen-di-ve-nhung-ngay-20)
@@ -105,7 +106,6 @@
 - [Bóc Term: Normie - Làm người bình thường thì đã sao?](https://vietcetera.com/vn/boc-term-normie-lam-nguoi-binh-thuong-thi-co-gi-khong-on)
 - [Sẽ có cách mạng ở phố Wall?](https://vietcetera.com/vn/se-co-cach-mang-o-pho-wall)
 - [“Anh không muốn uống thuốc cầm chừng hoài.”](https://vietcetera.com/vn/anh-khong-muon-uong-thuoc-cam-chung-hoai)
-- ["Bố Già" và hành trình nguôi giận để tin yêu của tôi](https://vietcetera.com/vn/bo-gia-hanh-trinh-nguoi-gian-de-tin-yeu)
 
 [Read More](https://vietcetera.com/)
 
