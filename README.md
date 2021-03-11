@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 25.15°C.
-- Air Visual is 86.
+- Air Visual is 78.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Thêm 9 địa điểm ở Cẩm Giàng hết phong tỏa](https://vnexpress.net/them-9-dia-diem-o-cam-giang-het-phong-toa-4247154.html) ([VNExpress](https://vnexpress.net))
+- [Chứng chỉ chức danh nghề nghiệp giáo viên:  Học lại kiến thức cũ](https://laodong.vn/ban-doc/chung-chi-chuc-danh-nghe-nghiep-giao-vien-hoc-lai-kien-thuc-cu-888175.ldo) ([Lao Động](https://laodong.vn))
+- [Thơ Nguyễn làm clip &quot;xin vía&quot; học giỏi từ búp bê ma: Tiktok lên tiếng](https://laodong.vn/xa-hoi/tho-nguyen-lam-clip-xin-via-hoc-gioi-tu-bup-be-ma-tiktok-len-tieng-888146.ldo) ([Lao Động](https://laodong.vn))
+- [Thói quen ngủ chung, hôn chó mèo cực nguy hiểm với sức khỏe của bạn](https://laodong.vn/suc-khoe/thoi-quen-ngu-chung-hon-cho-meo-cuc-nguy-hiem-voi-suc-khoe-cua-ban-888137.ldo) ([Lao Động](https://laodong.vn))
+- [4 sự thật bất ngờ về giảm cân có thể bạn chưa biết](https://laodong.vn/lam-dep/4-su-that-bat-ngo-ve-giam-can-co-the-ban-chua-biet-887530.ldo) ([Lao Động](https://laodong.vn))
+- [Xử lý nghiêm các vụ quấy rối người nước ngoài ở Hà Nội](https://laodong.vn/the-gioi/xu-ly-nghiem-cac-vu-quay-roi-nguoi-nuoc-ngoai-o-ha-noi-888140.ldo) ([Lao Động](https://laodong.vn))
 - [Chiều 11-3: Thêm 4 ca mắc COVID-19 mới ở Bình Dương, Hà Nội, Ninh Thuận](https://tuoitre.vn/chieu-11-3-them-4-ca-mac-covid-19-moi-o-binh-duong-ha-noi-ninh-thuan-20210311180828538.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sau Thương Tín, Hoàng Lan được sao Việt quyên góp hàng trăm triệu giúp đỡ](https://laodong.vn/van-hoa/sau-thuong-tin-hoang-lan-duoc-sao-viet-quyen-gop-hang-tram-trieu-giup-do-888141.ldo) ([Lao Động](https://laodong.vn))
-- [Giới thiệu Tổng Bí thư Nguyễn Phú Trọng ứng cử Quốc hội khóa XV](http://vietnamnet.vn/vn/thoi-su/chinh-tri/gioi-thieu-tong-bi-thu-nguyen-phu-trong-ung-cu-quoc-hoi-khoa-xv-718964.html) ([VietNamNet](https://vietnamnet.vn))
-- [Ghi nhận 4 ca mắc COVID-19 mới](https://laodong.vn/y-te/ghi-nhan-4-ca-mac-covid-19-moi-886871.ldo) ([Lao Động](https://laodong.vn))
 - [Từ các clip gây phản ứng của Thơ Nguyễn: Phụ huynh lo lắng con bị nguy hiểm](https://laodong.vn/video/tu-cac-clip-gay-phan-ung-cua-tho-nguyen-phu-huynh-lo-lang-con-bi-nguy-hiem-888110.ldo) ([Lao Động](https://laodong.vn))
-- [Văn phòng Trung ương Đảng giới thiệu 5 đồng chí ứng cử đại biểu Quốc hội](https://laodong.vn/thoi-su/van-phong-trung-uong-dang-gioi-thieu-5-dong-chi-ung-cu-dai-bieu-quoc-hoi-888159.ldo) ([Lao Động](https://laodong.vn))
-- [TP Thủ Đức: 3 căn nhà bị thiêu rụi sau vụ cháy lớn](https://laodong.vn/xa-hoi/tp-thu-duc-3-can-nha-bi-thieu-rui-sau-vu-chay-lon-888164.ldo) ([Lao Động](https://laodong.vn))
 - [Nhiều đoạn đường ở TPHCM “bỏng rát” dưới nắng vì thiếu cây xanh](https://laodong.vn/ban-doc/nhieu-doan-duong-o-tphcm-bong-rat-duoi-nang-vi-thieu-cay-xanh-888131.ldo) ([Lao Động](https://laodong.vn))
 - [Chuyên gia tài chính: Không bao giờ là quá sớm để dạy con cái về tiền bạc](https://cafebiz.vn/chuyen-gia-tai-chinh-khong-bao-gio-la-qua-som-de-day-con-cai-ve-tien-bac-20210311155751629.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đà Nẵng đánh sập 29 hầm vàng trái phép](https://vnexpress.net/da-nang-danh-sap-29-ham-vang-trai-phep-4247134.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Câu chuyện về chiếc áo dài 48-tiếng-may của Kelly Marie Trần](https://vietcetera.com/vn/cau-chuyen-ve-chiec-ao-dai-48-tieng-may-cua-kelly-marie-tran)
 - [Chữ Với Nghĩa: Chằm Zn là gì mà Gen Z thuộc lòng?](https://vietcetera.com/vn/chu-voi-nghia-cham-zn-la-gi-ma-gen-z-thuoc-long)
 - [SoundCloud - Cứu tinh của nghệ sĩ indie?](https://vietcetera.com/vn/soundcloud-cuu-tinh-cua-nghe-si-indie)
 - ["Như đang rơi tự do xuống vực, và có 500 vì sao rớt xuống cùng mình."](https://vietcetera.com/vn/du-co-lam-gi-di-nua-bao-boc-quanh-anh-van-la-cam-giac-minh-thieu)
@@ -105,7 +106,6 @@
 - [Trịnh Hương Anh và tình yêu cho những điều nhỏ bé](https://vietcetera.com/vn/trinh-huong-anh-va-tinh-yeu-cho-nhung-dieu-nho-be)
 - [Bóc Term: Normie - Làm người bình thường thì đã sao?](https://vietcetera.com/vn/boc-term-normie-lam-nguoi-binh-thuong-thi-co-gi-khong-on)
 - [Sẽ có cách mạng ở phố Wall?](https://vietcetera.com/vn/se-co-cach-mang-o-pho-wall)
-- [“Anh không muốn uống thuốc cầm chừng hoài.”](https://vietcetera.com/vn/anh-khong-muon-uong-thuoc-cam-chung-hoai)
 
 [Read More](https://vietcetera.com/)
 
