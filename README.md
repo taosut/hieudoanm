@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
+- Current weather is mist.
 - Temperature is 23°C.
 - Feels Like 24.45°C.
-- Air Visual is 146.
+- Air Visual is 148.
 
 **WEATHER**
 
@@ -75,8 +75,9 @@
 
 **NEWS**
 
+- [Sự thật về chuyên môn khám, trị bệnh của ông Võ Hoàng Yên](http://vietnamnet.vn/vn/thoi-su/su-that-ve-chuyen-mon-kham-tri-benh-cua-ong-vo-hoang-yen-719292.html) ([VietNamNet](https://vietnamnet.vn))
+- [Hai mẹ con dương tính COVID-19 khi sang Úc: Nguồn lây không phải từ Việt Nam](https://tuoitre.vn/hai-me-con-duong-tinh-covid-19-khi-sang-uc-nguon-lay-khong-phai-tu-viet-nam-2021031222021589.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hà Nội: Phố đi bộ Hồ Gươm vắng vẻ trong ngày đầu mở cửa trở lại](https://laodong.vn/xa-hoi/ha-noi-pho-di-bo-ho-guom-vang-ve-trong-ngay-dau-mo-cua-tro-lai-888602.ldo) ([Lao Động](https://laodong.vn))
-- [Mất 2,5 tỷ đồng vì món quà từ người yêu ngoại quốc](https://vnexpress.net/mat-2-5-ty-dong-vi-mon-qua-tu-nguoi-yeu-ngoai-quoc-4247775.html) ([VNExpress](https://vnexpress.net))
 - [Thêm một dự án điện mặt trời về tay BB Group](https://cafebiz.vn/them-mot-du-an-dien-mat-troi-ve-tay-bb-group-20210312210146833.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Dương: 7 bệnh nhân COVID-19 tái dương tính sau khi xuất viện](https://laodong.vn/xa-hoi/hai-duong-7-benh-nhan-covid-19-tai-duong-tinh-sau-khi-xuat-vien-888606.ldo) ([Lao Động](https://laodong.vn))
 - [Phó Ban Quản lý Khu kinh tế Hà Tĩnh làm Chủ tịch huyện Thạch Hà](https://laodong.vn/thoi-su/pho-ban-quan-ly-khu-kinh-te-ha-tinh-lam-chu-tich-huyen-thach-ha-888604.ldo) ([Lao Động](https://laodong.vn))
@@ -84,7 +85,6 @@
 - [Thành phố Thủ Đức: Đề xuất thay đổi trụ sở làm việc của nhiều cơ quan](https://laodong.vn/xa-hoi/thanh-pho-thu-duc-de-xuat-thay-doi-tru-so-lam-viec-cua-nhieu-co-quan-888603.ldo) ([Lao Động](https://laodong.vn))
 - [Bắt đối tượng cướp xe ôm của tài xế lớn tuổi vào ban đêm](https://laodong.vn/phap-luat/bat-doi-tuong-cuop-xe-om-cua-tai-xe-lon-tuoi-vao-ban-dem-888601.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương cách ly tại nhà 21 ngày với người hết mắc Covid-19](https://vnexpress.net/hai-duong-cach-ly-tai-nha-21-ngay-voi-nguoi-het-mac-covid-19-4247762.html) ([VNExpress](https://vnexpress.net))
-- [Xác định nguồn lây của 3 mẹ con người Hải Phòng mắc COVID-19 khi sang Úc](https://laodong.vn/y-te/xac-dinh-nguon-lay-cua-3-me-con-nguoi-hai-phong-mac-covid-19-khi-sang-uc-888600.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
