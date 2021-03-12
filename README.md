@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is clear sky.
+- Current weather is few clouds.
 - Temperature is 28°C.
-- Feels Like 27.82°C.
-- Air Visual is 103.
+- Feels Like 27.46°C.
+- Air Visual is 94.
 
 **WEATHER**
 
@@ -52,22 +52,22 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
-- [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Liverpool vs Leipzig](https://img.shields.io/static/v1?label=Liverpool%20vs%20Leipzig&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool%20vs%20Leipzig)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
+- [![ROG Phone 5](https://img.shields.io/static/v1?label=ROG%20Phone%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=ROG%20Phone%205)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
+- [![Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20V%C4%83n%20N%C6%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Sẽ tước giấy phép một số doanh nghiệp vi phạm trong kinh doanh xăng dầu](https://laodong.vn/kinh-te/se-tuoc-giay-phep-mot-so-doanh-nghiep-vi-pham-trong-kinh-doanh-xang-dau-888358.ldo) ([Lao Động](https://laodong.vn))
+- [Trung Quốc phóng thành công tên lửa đẩy Long Mach-7A mới](https://laodong.vn/the-gioi/trung-quoc-phong-thanh-cong-ten-lua-day-long-mach-7a-moi-888447.ldo) ([Lao Động](https://laodong.vn))
+- [Dự báo mới nhất diễn biến không khí lạnh trong vòng một tháng tới](https://laodong.vn/moi-truong/du-bao-moi-nhat-dien-bien-khong-khi-lanh-trong-vong-mot-thang-toi-888058.ldo) ([Lao Động](https://laodong.vn))
+- [Hưng Yên: Hơn 160 trường hợp được tiêm vaccine phòng COVID-19](https://laodong.vn/xa-hoi/hung-yen-hon-160-truong-hop-duoc-tiem-vaccine-phong-covid-19-888455.ldo) ([Lao Động](https://laodong.vn))
+- [40 ngày cao điểm của Chương trình “75 nghìn sáng kiến vượt khó, phát triển&quot;](https://laodong.vn/ldld-long-an/40-ngay-cao-diem-cua-chuong-trinh-75-nghin-sang-kien-vuot-kho-phat-trien-888451.ldo) ([Lao Động](https://laodong.vn))
+- [CĐ KKT Đông Nam Nghệ An: Nhiều hoạt động thiết thực trong Tháng Công nhân](https://laodong.vn/cong-doan/cd-kkt-dong-nam-nghe-an-nhieu-hoat-dong-thiet-thuc-trong-thang-cong-nhan-888452.ldo) ([Lao Động](https://laodong.vn))
 - [Việt Nam tiếp tục triển khai tiêm vắc xin AstraZeneca](https://tuoitre.vn/viet-nam-tiep-tuc-trien-khai-tiem-vac-xin-astrazeneca-20210312150551756.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nhà văn Hoàng Anh Tú: Thơ Nguyễn đang "dạy" các bố mẹ điều gì?](https://cafebiz.vn/nha-van-hoang-anh-tu-tho-nguyen-dang-day-cac-bo-me-dieu-gi-20210312153437264.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhiều thú rừng ở Tà Đùng được giải cứu... trước khi lên bàn nhậu](https://laodong.vn/xa-hoi/nhieu-thu-rung-o-ta-dung-duoc-giai-cuu-truoc-khi-len-ban-nhau-888430.ldo) ([Lao Động](https://laodong.vn))
 - [Sức nóng lan tỏa từ lễ Kick-off dự án Elite Life](https://cafebiz.vn/suc-nong-lan-toa-tu-le-kick-off-du-an-elite-life-2021031215153088.chn) ([CafeBiz](https://cafebiz.vn))
-- [HDBank đạt Top 10 ngân hàng có khối lượng giao dịch ngoại hối hàng đầu VN](https://laodong.vn/kinh-te/hdbank-dat-top-10-ngan-hang-co-khoi-luong-giao-dich-ngoai-hoi-hang-dau-vn-888420.ldo) ([Lao Động](https://laodong.vn))
-- [200 ngày đêm gấp rút hoàn thành tiến độ dự án cao tốc Cao Bồ - Mai Sơn](https://laodong.vn/xa-hoi/200-ngay-dem-gap-rut-hoan-thanh-tien-do-du-an-cao-toc-cao-bo-mai-son-888375.ldo) ([Lao Động](https://laodong.vn))
-- [BIDV tổ chức Đại hội đồng cổ đông thường niên năm 2021](https://laodong.vn/kinh-te/bidv-to-chuc-dai-hoi-dong-co-dong-thuong-nien-nam-2021-888417.ldo) ([Lao Động](https://laodong.vn))
+- [Hé lộ lịch trình của tỉ phú Jack Ma trong nhiều tháng vắng bóng](https://laodong.vn/the-gioi/he-lo-lich-trinh-cua-ti-phu-jack-ma-trong-nhieu-thang-vang-bong-888416.ldo) ([Lao Động](https://laodong.vn))
 - [Tiếp tục xả mạnh quỹ bình ổn, giá xăng trong nước tăng bao nhiêu?](https://laodong.vn/thi-truong/tiep-tuc-xa-manh-quy-binh-on-gia-xang-trong-nuoc-tang-bao-nhieu-888265.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Hoàng Hữu Phước lại tự ứng cử đại biểu Quốc hội khóa XV](https://tuoitre.vn/ong-hoang-huu-phuoc-lai-tu-ung-cu-dai-bieu-quoc-hoi-khoa-xv-20210312125316304.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -134,11 +134,11 @@
 02. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 03. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 04. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
-05. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
-06. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
-07. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
-08. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
-09. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
+05. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
+06. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
+07. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
+08. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
+09. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 10. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 
 [Read More](https://www.youtube.com/feed/trending)
