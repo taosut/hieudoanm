@@ -21,7 +21,7 @@
 
 - Current weather is scattered clouds.
 - Temperature is 26°C.
-- Feels Like 26.67°C.
+- Feels Like 26.23°C.
 - Air Visual is 103.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Lai Châu: Phấn đấu xây dựng tổ chức Công đoàn tỉnh ngày càng vững mạnh](https://laodong.vn/ldld-lai-chau/lai-chau-phan-dau-xay-dung-to-chuc-cong-doan-tinh-ngay-cang-vung-manh-888380.ldo) ([Lao Động](https://laodong.vn))
+- [Lý do khiến đàn ông Việt Nam &quot;lười&quot; nấu nướng, ngại việc nhà?](https://laodong.vn/chuyen-nha-minh/ly-do-khien-dan-ong-viet-nam-luoi-nau-nuong-ngai-viec-nha-888288.ldo) ([Lao Động](https://laodong.vn))
+- [Quy định chứng chỉ chức danh nghề nghiệp không phù hợp thì phải sửa đổi](https://laodong.vn/giao-duc/quy-dinh-chung-chi-chuc-danh-nghe-nghiep-khong-phu-hop-thi-phai-sua-doi-888362.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội yêu cầu xác minh việc cô giáo đánh học sinh bằng thước sắt](https://laodong.vn/xa-hoi/ha-noi-yeu-cau-xac-minh-viec-co-giao-danh-hoc-sinh-bang-thuoc-sat-888397.ldo) ([Lao Động](https://laodong.vn))
 - [Bạn muốn hẹn hò: Thích mẫu người yêu mập mạp, tiêu chí lạ nhưng hay!](https://laodong.vn/chuyen-nha-minh/ban-muon-hen-ho-thich-mau-nguoi-yeu-map-map-tieu-chi-la-nhung-hay-888366.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Ngưng hoạt động cơ sở phẫu thuật thẩm mỹ &quot;chui&quot;](https://laodong.vn/y-te/tphcm-ngung-hoat-dong-co-so-phau-thuat-tham-my-chui-888388.ldo) ([Lao Động](https://laodong.vn))
-- [4 chiếc răng giả “lạc trôi” vào dạ dày](https://laodong.vn/suc-khoe/4-chiec-rang-gia-lac-troi-vao-da-day-888311.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Thay thế vòng xuyến nút giao quảng trường Cách mạng Tháng Tám](https://laodong.vn/giao-thong/ha-noi-thay-the-vong-xuyen-nut-giao-quang-truong-cach-mang-thang-tam-888379.ldo) ([Lao Động](https://laodong.vn))
+- [TP.HCM tuyên dương 129 tấm gương 'thầm lặng mà cao cả'](http://vietnamnet.vn/vn/thoi-su/tp-hcm-tuyen-duong-129-tam-guong-tham-lang-ma-cao-ca-719127.html) ([VietNamNet](https://vietnamnet.vn))
 - [Cảnh báo xuất hiện thuốc diệt chuột độc hại từ Trung Quốc đã bị cấm từ 20 năm trước](https://tuoitre.vn/canh-bao-xuat-hien-thuoc-diet-chuot-doc-hai-tu-trung-quoc-da-bi-cam-tu-20-nam-truoc-20210312112644002.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [TP.HCM: 5 doanh nhân ứng cử đại biểu Quốc hội, HĐND](https://tuoitre.vn/tphcm-5-doanh-nhan-ung-cu-dai-bieu-quoc-hoi-hdnd-2021031211595546.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bản tin 1 phút 12.3: Bộ Y tế ra công văn yêu cầu khẩn vụ ông Võ Hoàng Yên](https://laodong.vn/video/ban-tin-1-phut-123-bo-y-te-ra-cong-van-yeu-cau-khan-vu-ong-vo-hoang-yen-888339.ldo) ([Lao Động](https://laodong.vn))
+- [TP.HCM: 5 doanh nhân ứng cử đại biểu Quốc hội, HĐND](https://tuoitre.vn/tphcm-5-doanh-nhan-ung-cu-dai-bieu-quoc-hoi-hdnd-2021031211595546.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Những điểm chính trong Quy hoạch phân khu đô thị sông Hồng](http://vietnamnet.vn/vn/thoi-su/nhung-diem-chinh-trong-quy-hoach-phan-khu-do-thi-song-hong-719121.html) ([VietNamNet](https://vietnamnet.vn))
-- [Cà Mau: Bài toán giữ đất, giữ nước, giữ người trước biến đổi khí hậu](http://vietnamnet.vn/vn/thoi-su/ca-mau-bai-toan-giu-dat-giu-nuoc-giu-nguoi-truoc-bien-doi-khi-hau-719131.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
