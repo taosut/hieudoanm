@@ -22,7 +22,7 @@
 - Current weather is scattered clouds.
 - Temperature is 26°C.
 - Feels Like 26.67°C.
-- Air Visual is 111.
+- Air Visual is 103.
 
 **WEATHER**
 
@@ -50,21 +50,21 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
-- [![Chị Thơ Nguyễn](https://img.shields.io/static/v1?label=Ch%E1%BB%8B%20Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%E1%BB%8B%20Th%C6%A1%20Nguy%E1%BB%85n)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
-- [![Khánh Phương](https://img.shields.io/static/v1?label=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
+- [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![ROG Phone 5](https://img.shields.io/static/v1?label=ROG%20Phone%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=ROG%20Phone%205)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
+- [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20V%C4%83n%20N%C6%A1i)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hà Nội yêu cầu xác minh việc cô giáo đánh học sinh bằng thước sắt](https://laodong.vn/xa-hoi/ha-noi-yeu-cau-xac-minh-viec-co-giao-danh-hoc-sinh-bang-thuoc-sat-888397.ldo) ([Lao Động](https://laodong.vn))
+- [Bạn muốn hẹn hò: Thích mẫu người yêu mập mạp, tiêu chí lạ nhưng hay!](https://laodong.vn/chuyen-nha-minh/ban-muon-hen-ho-thich-mau-nguoi-yeu-map-map-tieu-chi-la-nhung-hay-888366.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Ngưng hoạt động cơ sở phẫu thuật thẩm mỹ &quot;chui&quot;](https://laodong.vn/y-te/tphcm-ngung-hoat-dong-co-so-phau-thuat-tham-my-chui-888388.ldo) ([Lao Động](https://laodong.vn))
+- [4 chiếc răng giả “lạc trôi” vào dạ dày](https://laodong.vn/suc-khoe/4-chiec-rang-gia-lac-troi-vao-da-day-888311.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Thay thế vòng xuyến nút giao quảng trường Cách mạng Tháng Tám](https://laodong.vn/giao-thong/ha-noi-thay-the-vong-xuyen-nut-giao-quang-truong-cach-mang-thang-tam-888379.ldo) ([Lao Động](https://laodong.vn))
+- [Cảnh báo xuất hiện thuốc diệt chuột độc hại từ Trung Quốc đã bị cấm từ 20 năm trước](https://tuoitre.vn/canh-bao-xuat-hien-thuoc-diet-chuot-doc-hai-tu-trung-quoc-da-bi-cam-tu-20-nam-truoc-20210312112644002.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [TP.HCM: 5 doanh nhân ứng cử đại biểu Quốc hội, HĐND](https://tuoitre.vn/tphcm-5-doanh-nhan-ung-cu-dai-bieu-quoc-hoi-hdnd-2021031211595546.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bản tin 1 phút 12.3: Bộ Y tế ra công văn yêu cầu khẩn vụ ông Võ Hoàng Yên](https://laodong.vn/video/ban-tin-1-phut-123-bo-y-te-ra-cong-van-yeu-cau-khan-vu-ong-vo-hoang-yen-888339.ldo) ([Lao Động](https://laodong.vn))
-- [Chanathip báo tin vui, Thái Lan &quot;thở phào nhẹ nhõm&quot;](https://laodong.vn/bong-da/chanathip-bao-tin-vui-thai-lan-tho-phao-nhe-nhom-888372.ldo) ([Lao Động](https://laodong.vn))
-- [Sáp nhập Cao đẳng Sư phạm Ninh Thuận vào Đại học Nông Lâm TPHCM](https://laodong.vn/giao-duc/sap-nhap-cao-dang-su-pham-ninh-thuan-vao-dai-hoc-nong-lam-tphcm-888378.ldo) ([Lao Động](https://laodong.vn))
-- [Tuyển sinh 2021: Học viện Cảnh sát nhân dân tuyển 530 chỉ tiêu](https://laodong.vn/giao-duc/tuyen-sinh-2021-hoc-vien-canh-sat-nhan-dan-tuyen-530-chi-tieu-888359.ldo) ([Lao Động](https://laodong.vn))
-- [Nghệ An chính thức bỏ môn thi thứ 4 trong kỳ thi tuyển sinh lớp 10](https://laodong.vn/giao-duc/nghe-an-chinh-thuc-bo-mon-thi-thu-4-trong-ky-thi-tuyen-sinh-lop-10-888367.ldo) ([Lao Động](https://laodong.vn))
-- ['Hà Nội sẽ không dồn công trình vào hai bờ sông Hồng'](https://vnexpress.net/ha-noi-se-khong-don-cong-trinh-vao-hai-bo-song-hong-4247340.html) ([VNExpress](https://vnexpress.net))
-- [Trao quyết định của Chủ tịch nước cho sỹ quan làm việc tại trụ sở Liên hợp quốc](http://vietnamnet.vn/vn/thoi-su/chinh-tri/trao-quyet-dinh-cua-chu-tich-nuoc-cho-sy-quan-lam-viec-tai-tru-so-lien-hop-quoc-719126.html) ([VietNamNet](https://vietnamnet.vn))
-- [Cơ quan Thuế đang kiểm tra chấp hành thuế của Youtuber Thơ Nguyễn](https://cafebiz.vn/co-quan-thue-dang-kiem-tra-chap-hanh-thue-cua-youtuber-tho-nguyen-20210312114855455.chn) ([CafeBiz](https://cafebiz.vn))
-- [100 nhân viên y tế đầu tiên ở Khánh Hòa được tiêm vaccine COVID-19](https://laodong.vn/photo/100-nhan-vien-y-te-dau-tien-o-khanh-hoa-duoc-tiem-vaccine-covid-19-888312.ldo) ([Lao Động](https://laodong.vn))
-- [Tuyển sinh 2021: Chọn ngành để không bị thất nghiệp](https://laodong.vn/giao-duc/tuyen-sinh-2021-chon-nganh-de-khong-bi-that-nghiep-888291.ldo) ([Lao Động](https://laodong.vn))
+- [Những điểm chính trong Quy hoạch phân khu đô thị sông Hồng](http://vietnamnet.vn/vn/thoi-su/nhung-diem-chinh-trong-quy-hoach-phan-khu-do-thi-song-hong-719121.html) ([VietNamNet](https://vietnamnet.vn))
+- [Cà Mau: Bài toán giữ đất, giữ nước, giữ người trước biến đổi khí hậu](http://vietnamnet.vn/vn/thoi-su/ca-mau-bai-toan-giu-dat-giu-nuoc-giu-nguoi-truoc-bien-doi-khi-hau-719131.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
