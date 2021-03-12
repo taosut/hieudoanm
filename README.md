@@ -19,17 +19,17 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
-- Temperature is 24°C.
-- Feels Like 25.76°C.
-- Air Visual is 114.
+- Current weather is mist.
+- Temperature is 23°C.
+- Feels Like 25.34°C.
+- Air Visual is 132.
 
 **WEATHER**
 
-- Date: 2021/03/11
-- Lunar: 2021/01/28
+- Date: 2021/03/12
+- Lunar: 2021/01/29
 - Tiet Khi: Đại tuyết.
-- năm canh tý tháng kỷ sửu ngày bính tý.
+- năm canh tý tháng kỷ sửu ngày đinh sửu.
 
 **NPM**
 
@@ -48,14 +48,14 @@
 
 **GOOGLE TRENDS**
 
+- [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
-- [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
+- [![Barca vs PSG](https://img.shields.io/static/v1?label=Barca%20vs%20PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20PSG)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
-- [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
+- [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
-- [![Khánh Phương](https://img.shields.io/static/v1?label=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng)
-- [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Giới thiệu Tổng bí thư, Chủ tịch nước ứng cử đại biểu Quốc hội khóa XV](https://vnexpress.net/gioi-thieu-tong-bi-thu-chu-tich-nuoc-ung-cu-dai-bieu-quoc-hoi-khoa-xv-4247133.html) ([VNExpress](https://vnexpress.net))
-- [Những cách tạo động lực cho nhân viên mà không cần dùng tiền, ai làm lãnh đạo cũng cần biết](https://cafebiz.vn/nhung-cach-tao-dong-luc-cho-nhan-vien-ma-khong-can-dung-tien-ai-a-lanh-dao-cung-can-biet-20210308201438021.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chứng chỉ hành nghề của ông Võ Hoàng Yên chỉ là giúp việc chuyên môn](https://tuoitre.vn/chung-chi-hanh-nghe-cua-ong-vo-hoang-yen-chi-la-giup-viec-chuyen-mon-20210311214008419.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Điều tra 2 đối tượng trói người phụ nữ cướp tài sản ở Quảng Nam](https://laodong.vn/phap-luat/dieu-tra-2-doi-tuong-troi-nguoi-phu-nu-cuop-tai-san-o-quang-nam-888227.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyện lạ ở Mỹ: Bị các ông lớn o ép, đến giờ nhiều tạp hóa vẫn không có giấy vệ sinh để bán](https://cafebiz.vn/chuyen-la-o-my-bi-cac-ong-lon-o-ep-den-gio-nhieu-tap-hoa-van-khong-co-giay-ve-sinh-de-ban-2021031121165621.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cách tôi giảm thời gian làm việc xuống 2 giờ mỗi ngày nhưng tăng hiệu quả gấp 3: Nếu bạn thử một lần, bạn sẽ ước giá như mình biết điều này sớm hơn!](https://cafebiz.vn/cach-toi-giam-thoi-gian-lam-viec-xuong-2-gio-moi-ngay-nhung-tang-hieu-qua-gap-3-neu-ban-thu-mot-lan-ban-se-uoc-gia-nhu-minh-biet-dieu-nay-som-hon-20210308191235839.chn) ([CafeBiz](https://cafebiz.vn))
-- [Savills: Đổ xô đi lắp lưới bảo hộ không đủ để đảm bảo an toàn cho nhà chung cư](https://cafebiz.vn/savills-do-xo-di-lap-luoi-bao-ho-khong-du-de-dam-bao-an-toan-cho-nha-chung-cu-20210311181738742.chn) ([CafeBiz](https://cafebiz.vn))
-- [NÓNG: Hoàng tử William chính thức lên tiếng về cuộc phỏng vấn của nhà Sussex, chỉ bằng một câu ngắn gọn đủ khiến Harry phải ngẫm lại mình](https://cafebiz.vn/nong-hoang-tu-william-chinh-thuc-len-tieng-ve-cuoc-phong-van-cua-nha-sussex-chi-bang-mot-cau-ngan-gon-du-khien-harry-phai-ngam-lai-minh-20210311211226603.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cặp vợ chồng với siêu xe gây tò mò: Chồng buôn lan đột biến, vợ bán đông trùng hạ thảo](https://cafebiz.vn/cap-vo-chong-voi-sieu-xe-gay-to-mo-chong-buon-lan-dot-bien-vo-ban-dong-trung-ha-thao-20210311212932414.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ cuộc phỏng vấn chấn động hoàng gia của Harry - Meghan nhìn về mối quan hệ muôn thuở: Nhà chồng - Nàng dâu liệu có thể yêu thương nhau?](https://cafebiz.vn/tu-cuoc-phong-van-chan-dong-hoang-gia-cua-harry-meghan-nhin-ve-moi-quan-he-muon-thuo-nha-chong-nang-dau-lieu-co-the-yeu-thuong-nhau-20210311175619457.chn) ([CafeBiz](https://cafebiz.vn))
+- [V.League 2021 đón khán giả trở lại](https://laodong.vn/the-thao/vleague-2021-don-khan-gia-tro-lai-888180.ldo) ([Lao Động](https://laodong.vn))
+- [Dự án thuỷ lợi nghìn tỉ đồng ở Tây Nguyên: Di dân trong cảnh “nước đến chân mới nhảy”](https://laodong.vn/xa-hoi/du-an-thuy-loi-nghin-ti-dong-o-tay-nguyen-di-dan-trong-canh-nuoc-den-chan-moi-nhay-888173.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao người giàu ở Nhật Bản, bao gồm cả chủ tịch của UNIQLO cũng chỉ thích dùng xe hơi tầm trung? Câu trả lời bất ngờ!](https://cafebiz.vn/vi-sao-nguoi-giau-o-nhat-ban-bao-gom-ca-chu-tich-cua-uniqlo-cung-chi-thich-dung-xe-hoi-tam-trung-cau-tra-loi-bat-ngo-20210311195306789.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắc Ninh: Tạm giữ 6 đối tượng đưa người nước ngoài nhập cảnh trái phép](https://laodong.vn/phap-luat/bac-ninh-tam-giu-6-doi-tuong-dua-nguoi-nuoc-ngoai-nhap-canh-trai-phep-888264.ldo) ([Lao Động](https://laodong.vn))
+- [Kết luận sai phạm vụ xâm nhập căn cứ đặt chuyên cơ Air Force One](https://laodong.vn/the-gioi/ket-luan-sai-pham-vu-xam-nhap-can-cu-dat-chuyen-co-air-force-one-888266.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ Tài Chính giới thiệu Bộ trưởng Đinh Tiến Dũng ứng cử ĐBQH khoá XV](https://laodong.vn/thoi-su/bo-tai-chinh-gioi-thieu-bo-truong-dinh-tien-dung-ung-cu-dbqh-khoa-xv-888246.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Võ Hoàng Yên tuyên bố &quot;đã chữa câm cho 4.000&quot;, nhưng kết quả thế nào?](https://laodong.vn/ban-doc/ong-vo-hoang-yen-tuyen-bo-da-chua-cam-cho-4000-nhung-ket-qua-the-nao-888263.ldo) ([Lao Động](https://laodong.vn))
+- [Xu hướng đầu tư tiềm năng 2021: Nhà hàng Online phi truyền thống](https://cafebiz.vn/xu-huong-dau-tu-tiem-nang-2021-nha-hang-online-phi-truyen-thong-20210311200948003.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những lĩnh vực kinh doanh sử dụng mùi hương để tiếp thị và gia tăng trải nghiệm](https://cafebiz.vn/nhung-linh-vuc-kinh-doanh-su-dung-mui-huong-de-tiep-thi-va-gia-tang-trai-nghiem-20210311200930105.chn) ([CafeBiz](https://cafebiz.vn))
+- [“Bữa tiệc” có nhiều ca tử vong tại Kon Tum: Tập trung điều trị những bệnh nhân còn lại](https://laodong.vn/xa-hoi/bua-tiec-co-nhieu-ca-tu-vong-tai-kon-tum-tap-trung-dieu-tri-nhung-benh-nhan-con-lai-888154.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -113,8 +113,8 @@
 
 **MUSIC TRENDS**
 
-01. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-02. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
+01. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
+02. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 03. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
 04. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 05. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
@@ -122,7 +122,7 @@
 07. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 09. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
+10. [Miley Cyrus - Angels Like You (Official Video)](https://www.youtube.com/watch?v=Y0ORhLyJWuc) - [MileyCyrusVEVO](https://www.youtube.com/channel/UCdI8evszfZvyAl2UVCypkTA)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -130,16 +130,16 @@
 
 **YOUTUBE TRENDS**
 
-01. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-02. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
-03. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
-04. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
+01. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+02. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+03. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
+04. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 05. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
-06. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
-07. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-08. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
-09. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-10. [AI Ở TRÊN VÕNG LÂU NHẤT LÀM ĐẠI CA | Hai Anh Em Phần 176 | Phim Học Đường Hài Hước Hay Nhất Gãy TV](https://www.youtube.com/watch?v=1jTlsqadb9M) - [Gãy Media](https://www.youtube.com/channel/UCTp_WPPxWCjdlXK9kqzxm0A)
+06. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
+07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
+08. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+09. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+10. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 
 [Read More](https://www.youtube.com/feed/trending)
 
