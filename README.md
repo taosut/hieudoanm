@@ -50,24 +50,24 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
-- [![Chị Thơ Nguyễn](https://img.shields.io/static/v1?label=Ch%E1%BB%8B%20Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%E1%BB%8B%20Th%C6%A1%20Nguy%E1%BB%85n)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
+- [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Liverpool vs Leipzig](https://img.shields.io/static/v1?label=Liverpool%20vs%20Leipzig&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool%20vs%20Leipzig)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
-- [![On The Ground](https://img.shields.io/static/v1?label=On%20The%20Ground&message=google&color=red&style=flat-square)](https://www.google.com/search?q=On%20The%20Ground)
-- [![ROG Phone 5](https://img.shields.io/static/v1?label=ROG%20Phone%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=ROG%20Phone%205)
+- [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
+- [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
-- [![Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20V%C4%83n%20N%C6%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Kiên Giang triển khai chương trình “75 nghìn sáng kiến vượt khó phát triển&quot;](https://laodong.vn/cong-doan-toan-quoc/kien-giang-trien-khai-chuong-trinh-75-nghin-sang-kien-vuot-kho-phat-trien-888419.ldo) ([Lao Động](https://laodong.vn))
+- [Những ngôi sao "trăm tỷ" của điện ảnh Việt: Trấn Thành vẫn chưa chính thức vượt qua nhân vật đứng đầu?](https://cafebiz.vn/nhung-ngoi-sao-tram-ty-cua-dien-anh-viet-tran-thanh-van-chua-chinh-thuc-vuot-qua-nhan-vat-dung-dau-20210312144841627.chn) ([CafeBiz](https://cafebiz.vn))
+- [3 yếu tố của người đồng hành giúp bạn làm nên việc lớn!](https://cafebiz.vn/3-yeu-to-cua-nguoi-dong-hanh-giup-ban-lam-nen-viec-lon-20210312110442815.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội: Cận cảnh lấy mẫu xét nghiệm COVID-19 miễn phí cho người dân](https://laodong.vn/photo/ha-noi-can-canh-lay-mau-xet-nghiem-covid-19-mien-phi-cho-nguoi-dan-888394.ldo) ([Lao Động](https://laodong.vn))
 - [Chùa Hương ngày mở cửa trở lại: Giá dịch vụ được niêm yết, công khai](https://laodong.vn/thi-truong/chua-huong-ngay-mo-cua-tro-lai-gia-dich-vu-duoc-niem-yet-cong-khai-888324.ldo) ([Lao Động](https://laodong.vn))
 - [Sau khi chê Tesla 'không có hoạt động kinh doanh thực', chủ tịch Toyota ngầm cảnh báo Apple 'làm ô tô không dễ xơi'](https://cafebiz.vn/sau-khi-che-tesla-khong-co-hoat-dong-kinh-doanh-thuc-chu-tich-toyota-ngam-canh-bao-apple-lam-o-to-khong-de-xoi-20210312143248845.chn) ([CafeBiz](https://cafebiz.vn))
 - [KĐN vượt kế hoạch trồng cây trên công trình khí năm 2021](https://laodong.vn/thong-tin-doanh-nghiep/kdn-vuot-ke-hoach-trong-cay-tren-cong-trinh-khi-nam-2021-888240.ldo) ([Lao Động](https://laodong.vn))
 - [Kiên Giang: Xâm nhập mặn tăng cao, hơn 1.200ha lúa bị thiệt hại](https://laodong.vn/xa-hoi/kien-giang-xam-nhap-man-tang-cao-hon-1200ha-lua-bi-thiet-hai-888413.ldo) ([Lao Động](https://laodong.vn))
-- [Mạo danh nhà chùa, trục lợi bạc tỉ: Sẽ bị xử lý như thế nào?](https://laodong.vn/xa-hoi/mao-danh-nha-chua-truc-loi-bac-ti-se-bi-xu-ly-nhu-the-nao-887071.ldo) ([Lao Động](https://laodong.vn))
 - [40 cột điện nằm giữa đường](https://vnexpress.net/40-cot-dien-nam-giua-duong-4247498.html) ([VNExpress](https://vnexpress.net))
-- [10 xe ôtô bán chạy nhất tháng 2:  Nhiều xáo trộn, đa số ở mức dưới 1.000 xe](https://laodong.vn/xe/10-xe-oto-ban-chay-nhat-thang-2-nhieu-xao-tron-da-so-o-muc-duoi-1000-xe-888217.ldo) ([Lao Động](https://laodong.vn))
 - [Nhà đầu tư lại đua giá, Bitcoin áp sát đỉnh kỷ lục](https://cafebiz.vn/nha-dau-tu-lai-dua-gia-bitcoin-ap-sat-dinh-ky-luc-2021031214172268.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tư duy quyết định bạn đứng ở tầng lớp nào: 3 nguyên nhân khiến người giàu ngày ngày càng giàu, còn người nghèo thì "nghèo bền vững"](https://cafebiz.vn/tu-duy-quyet-dinh-ban-dung-o-tang-lop-nao-3-nguyen-nhan-khien-nguoi-giau-ngay-ngay-cang-giau-con-nguoi-ngheo-thi-ngheo-ben-vung-20210311115617538.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vì sao các ông lớn địa ốc đổ về Long An?](https://cafebiz.vn/vi-sao-cac-ong-lon-dia-oc-do-ve-long-an-20210312141028392.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
