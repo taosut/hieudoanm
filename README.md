@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 28°C.
-- Feels Like 26.74°C.
-- Air Visual is 94.
+- Temperature is 27°C.
+- Feels Like 26.09°C.
+- Air Visual is 103.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [60 triệu liều vaccine COVID-19 tại Việt Nam sẽ về Việt Nam khi nào?](https://laodong.vn/infographic/60-trieu-lieu-vaccine-covid-19-tai-viet-nam-se-ve-viet-nam-khi-nao-886851.ldo) ([Lao Động](https://laodong.vn))
+- [Australia nỗ lực chống lại thuế carbon của EU](https://laodong.vn/the-gioi/australia-no-luc-chong-lai-thue-carbon-cua-eu-888484.ldo) ([Lao Động](https://laodong.vn))
+- [Naturenz Gold nâng tầm dược liệu giải độc gan bằng thành tựu khoa học mới](https://cafebiz.vn/naturenz-gold-nang-tam-duoc-lieu-giai-doc-gan-bang-thanh-tuu-khoa-hoc-moi-20210312165103577.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ngoại hạng Anh cuối tuần: Tâm điểm  Derby London](https://laodong.vn/the-thao/ngoai-hang-anh-cuoi-tuan-tam-diem-derby-london-888181.ldo) ([Lao Động](https://laodong.vn))
+- [Say rượu đấm vào mặt 2 cảnh sát giao thông ở Quảng Ninh](https://laodong.vn/phap-luat/say-ruou-dam-vao-mat-2-canh-sat-giao-thong-o-quang-ninh-888497.ldo) ([Lao Động](https://laodong.vn))
+- [Đại diện MRB lí giải việc phân công vị trí công tác cho ông Lương Xuân Bình](https://laodong.vn/xa-hoi/dai-dien-mrb-li-giai-viec-phan-cong-vi-tri-cong-tac-cho-ong-luong-xuan-binh-888442.ldo) ([Lao Động](https://laodong.vn))
+- [Sân bay thứ 2 cho Vùng Thủ đô: chọn Tiên Lãng hay Ứng Hoà?](https://cafebiz.vn/san-bay-thu-2-cho-vung-thu-do-chon-tien-lang-hay-ung-hoa-20210312172433827.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: 22 tuyến xe dừng đón khách ở bến xe Miền Đông cũ từ ngày mai](https://laodong.vn/xa-hoi/tphcm-22-tuyen-xe-dung-don-khach-o-ben-xe-mien-dong-cu-tu-ngay-mai-888489.ldo) ([Lao Động](https://laodong.vn))
+- [Vi phạm đạo đức lối sống, Bí thư thị trấn bị điều sang Phó ban dân vận](http://vietnamnet.vn/vn/thoi-su/vi-pha-m-da-o-du-c-lo-i-so-ng-bi-thu-thi-tra-n-bi-die-u-sang-pho-ban-da-n-van-719236.html) ([VietNamNet](https://vietnamnet.vn))
 - [Hà Nội: Xét nghiệm sàng lọc COVID-19 cho nhân viên bến xe Mỹ Đình](https://laodong.vn/photo/ha-noi-xet-nghiem-sang-loc-covid-19-cho-nhan-vien-ben-xe-my-dinh-888457.ldo) ([Lao Động](https://laodong.vn))
-- [Kinh tế trưởng World Bank tại Việt Nam: Để hỗ trợ trực tiếp đối tượng bị ảnh hưởng bởi Covid-19, Mobile Money sẽ là một giải pháp đáng chú ý](https://cafebiz.vn/kinh-te-truong-world-bank-tai-viet-nam-de-ho-tro-truc-tiep-doi-tuong-bi-anh-huong-boi-covid-19-mobile-money-se-la-mot-giai-phap-dang-chu-y-20210312170136905.chn) ([CafeBiz](https://cafebiz.vn))
-- [Báo động tình trạng cháy cây hành lang cao tốc Cầu Giẽ – Ninh Bình](https://laodong.vn/video/bao-dong-tinh-trang-chay-cay-hanh-lang-cao-toc-cau-gie--ninh-binh-888344.ldo) ([Lao Động](https://laodong.vn))
-- [Trường hợp được thanh toán trực tiếp chi phí KCB bảo hiểm y tế](https://laodong.vn/ban-doc/truong-hop-duoc-thanh-toan-truc-tiep-chi-phi-kcb-bao-hiem-y-te-888425.ldo) ([Lao Động](https://laodong.vn))
-- [YouTuber Thơ Nguyễn đã nộp thuế hơn 2 tỉ đồng ở Bình Dương](https://laodong.vn/kinh-te/youtuber-tho-nguyen-da-nop-thue-hon-2-ti-dong-o-binh-duong-888474.ldo) ([Lao Động](https://laodong.vn))
-- [Luôn bị chê tơi bời về phong cách "làm lố", nhưng TVC mới của bột giặt Aba vừa cán mốc hơn 2 triệu view Youtube chỉ sau 1 ngày](https://cafebiz.vn/du-luon-bi-che-toi-boi-ve-phong-cach-quang-cao-lam-lo-va-le-the-tvc-moi-cua-bot-giat-aba-vua-can-moc-hon-2-trieu-view-youtube-chi-sau-1-ngay-20210312164013083.chn) ([CafeBiz](https://cafebiz.vn))
-- [Một số nước dừng vaccine COVID-19 AstraZenneca, Việt Nam có dừng tiêm?](https://laodong.vn/y-te/mot-so-nuoc-dung-vaccine-covid-19-astrazenneca-viet-nam-co-dung-tiem-888490.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Tĩnh có tân Chủ tịch UBND thành phố](http://vietnamnet.vn/vn/thoi-su/chinh-tri/ha-tinh-co-tan-chu-tich-ubnd-thanh-pho-719150.html) ([VietNamNet](https://vietnamnet.vn))
-- [Bộ Y tế thông tin về sự cố sau tiêm vaccine COVID-19](https://laodong.vn/y-te/bo-y-te-thong-tin-ve-su-co-sau-tiem-vaccine-covid-19-888487.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang dỡ bỏ chốt phòng chống dịch với Hải Dương, Quảng Ninh](https://tuoitre.vn/bac-giang-do-bo-chot-phong-chong-dich-voi-hai-duong-quang-ninh-20210312160918683.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
