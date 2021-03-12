@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 26.97°C.
-- Air Visual is 113.
+- Feels Like 27.33°C.
+- Air Visual is 110.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Đổ xô lắp lưới an toàn chung cư, coi chừng khiến cả gia đình gặp nguy hiểm](https://cafebiz.vn/do-xo-lap-luoi-an-toan-chung-cu-coi-chung-khien-ca-gia-dinh-gap-nguy-hiem-20210312110128494.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phúc Long lấn sân mảng co-working space, ra mắt mô hình vừa bán cà phê vừa làm việc chung](https://cafebiz.vn/phuc-long-lan-san-mang-co-working-space-ra-mat-mo-hinh-vua-ban-ca-phe-vua-lam-viec-chung-20210312094321003.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hiệu quả vaccine Pfizer-BioNtech trong thực tế cao hơn kết quả nghiên cứu](https://laodong.vn/the-gioi/hieu-qua-vaccine-pfizer-biontech-trong-thuc-te-cao-hon-ket-qua-nghien-cuu-888326.ldo) ([Lao Động](https://laodong.vn))
-- [3 phương pháp giúp trẻ học nhớ nhanh nhất](https://laodong.vn/gia-dinh-hon-nhan/3-phuong-phap-giup-tre-hoc-nho-nhanh-nhat-888320.ldo) ([Lao Động](https://laodong.vn))
-- [YouTuber Việt sẽ bị Google đánh thuế thu nhập lên tới 30%](https://cafebiz.vn/youtuber-viet-se-bi-google-danh-thue-thu-nhap-len-toi-30-20210312105125013.chn) ([CafeBiz](https://cafebiz.vn))
-- [Biến đổi khí hậu có thể &quot;kéo giãn&quot; mùa hè đến 6 tháng](https://laodong.vn/moi-truong/bien-doi-khi-hau-co-the-keo-gian-mua-he-den-6-thang-888026.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Cuối tuần, một số khu vực ở TP. Thủ Đức và 4 quận sẽ bị cắt nước](https://laodong.vn/ban-doc/tphcm-cuoi-tuan-mot-so-khu-vuc-o-tp-thu-duc-va-4-quan-se-bi-cat-nuoc-888332.ldo) ([Lao Động](https://laodong.vn))
-- [Thừa Thiên - Huế thí điểm dạy nữ công gia chánh trong trường học](https://laodong.vn/van-hoa-giai-tri/thua-thien-hue-thi-diem-day-nu-cong-gia-chanh-trong-truong-hoc-888330.ldo) ([Lao Động](https://laodong.vn))
-- [Sĩ quan Việt Nam được cử đi làm việc tại trụ sở Liên Hợp Quốc](https://vnexpress.net/si-quan-viet-nam-duoc-cu-di-lam-viec-tai-tru-so-lien-hop-quoc-4247357.html) ([VNExpress](https://vnexpress.net))
-- [155.000 tỷ đồng sắp chảy ra thị trường?](https://cafebiz.vn/155000-ty-dong-sap-chay-ra-thi-truong-20210312104515475.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tuyển sinh 2021: Chọn ngành để không bị thất nghiệp](https://laodong.vn/giao-duc/tuyen-sinh-2021-chon-nganh-de-khong-bi-that-nghiep-888291.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam kêu gọi bảo vệ dân thường trước nạn đói do xung đột](https://laodong.vn/the-gioi/viet-nam-keu-goi-bao-ve-dan-thuong-truoc-nan-doi-do-xung-dot-888328.ldo) ([Lao Động](https://laodong.vn))
+- [Công an TP. Huế bắt hàng trăm &quot;quái xế&quot;](https://laodong.vn/phap-luat/cong-an-tp-hue-bat-hang-tram-quai-xe-888349.ldo) ([Lao Động](https://laodong.vn))
+- [Ngộ độc hoá chất diệt chuột đã bị cấm 20 năm](https://laodong.vn/suc-khoe/ngo-doc-hoa-chat-diet-chuot-da-bi-cam-20-nam-888356.ldo) ([Lao Động](https://laodong.vn))
+- [Kiểm tra xe cũ nát, nếu không vi phạm, CSGT trả giấy tờ, cảm ơn người dân](https://tuoitre.vn/kiem-tra-xe-cu-nat-neu-khong-vi-pham-csgt-tra-giay-to-cam-on-nguoi-dan-20210312104258771.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Xe vi phạm tốc độ 299 km/h trên Đại lộ Thăng Long: siêu mô tô giá 1 tỷ đồng](https://cafebiz.vn/xe-vi-pham-toc-do-299-km-h-tren-dai-lo-thang-long-sieu-mo-to-gia-1-ty-dong-20210312112633759.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sao nam lấy vợ trẻ hơn chục tuổi và bí quyết giữ hôn nhân nhờ sự thấu hiểu](https://laodong.vn/yeu-360/sao-nam-lay-vo-tre-hon-chuc-tuoi-va-bi-quyet-giu-hon-nhan-nho-su-thau-hieu-888327.ldo) ([Lao Động](https://laodong.vn))
+- [Cột mốc 23 tuổi đánh dấu số mệnh giàu sang, an nhàn sau này của bạn: Có 7 mục tiêu tài chính bạn cần đạt trước khi bỏ lỡ!](https://cafebiz.vn/cot-moc-23-tuoi-danh-dau-so-menh-giau-sang-an-nhan-sau-nay-cua-ban-co-7-muc-tieu-tai-chinh-ban-can-dat-truoc-khi-bo-lo-2021031200441208.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lễ tang trực tuyến và ứng dụng thiền - "phát kiến" giúp các ngôi đền ở Nhật Bản sống sót thời Covid-19](https://cafebiz.vn/le-tang-truc-tuyen-va-ung-dung-thien-phat-kien-giup-cac-ngoi-den-o-nhat-ban-song-sot-thoi-covid-19-20210312111013281.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khám xét 3 kho hàng lậu 'gửi' tại nhà thượng tá biên phòng chống buôn lậu](https://tuoitre.vn/kham-xet-3-kho-hang-lau-gui-tai-nha-thuong-ta-bien-phong-chong-buon-lau-20210312095225183.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Đính chính 4 hiểu lầm thường gặp về kombucha](https://vietcetera.com/vn/dinh-chinh-4-loi-don-noi-tieng-ve-kombucha)
 - [Đến LSE, Oxford và Stanford rồi vỡ ra mình học tiếng Anh chưa... "tới" ](https://vietcetera.com/vn/den-lse-oxford-va-stanford-roi-vo-ra-minh-hoc-tieng-anh-sai-cach)
 - [CEO Ru9, Đặng Thuỳ Trang và 3 giá trị làm nên hạnh phúc và thành công](https://vietcetera.com/vn/ceo-ru9-dang-thuy-trang-va-3-gia-tri-lam-nen-hanh-phuc-va-thanh-cong)
 - [Tóm Lại Là: "Hú vía" trẻ không dùng điện thoại một mình](https://vietcetera.com/vn/tom-lai-la-hu-via-tre-khong-dung-dien-thoai-mot-minh)
@@ -105,7 +106,6 @@
 - ["Như đang rơi tự do xuống vực, và có 500 vì sao rớt xuống cùng mình."](https://vietcetera.com/vn/du-co-lam-gi-di-nua-bao-boc-quanh-anh-van-la-cam-giac-minh-thieu)
 - [Sơn Đoàn: "Năm 20 tuổi, anh không biết nói "không", cũng không biết buông bỏ. Giờ thì khác..."](https://vietcetera.com/vn/son-doan-mot-chuyen-di-ve-nhung-ngay-20)
 - [5 Thương hiệu board game Việt Nam cho những ngày cai điện thoại](https://vietcetera.com/vn/5-thuong-hieu-board-game-viet-nam-cho-nhung-ngay-cai-dien-thoai)
-- [Vì sao ta xem lại phim cũ mà không bao giờ chán?](https://vietcetera.com/vn/vi-sao-ta-xem-lai-phim-cu-ma-khong-bao-gio-chan)
 
 [Read More](https://vietcetera.com/)
 
