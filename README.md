@@ -22,7 +22,7 @@
 - Current weather is few clouds.
 - Temperature is 27°C.
 - Feels Like 26.8°C.
-- Air Visual is 111.
+- Air Visual is 106.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Người dân &quot;chen chân&quot; đi làm căn cước công dân, mức lệ phí cụ thể thế nào?](https://laodong.vn/phap-luat/nguoi-dan-chen-chan-di-lam-can-cuoc-cong-dan-muc-le-phi-cu-the-the-nao-888392.ldo) ([Lao Động](https://laodong.vn))
+- [Bất cập trong quy hoạch 3 loại rừng ở Điện Biên](https://laodong.vn/video/bat-cap-trong-quy-hoach-3-loai-rung-o-dien-bien-888005.ldo) ([Lao Động](https://laodong.vn))
+- [Quy hoạch sông Hồng: Cần những &quot;thị trưởng máy ủi&quot;](https://laodong.vn/su-kien-binh-luan/quy-hoach-song-hong-can-nhung-thi-truong-may-ui-888337.ldo) ([Lao Động](https://laodong.vn))
+- [Sử dụng lao động nước ngoài, có cần báo cáo không?](https://laodong.vn/tu-van-phap-luat/su-dung-lao-dong-nuoc-ngoai-co-can-bao-cao-khong-886978.ldo) ([Lao Động](https://laodong.vn))
+- [Khói bụi bốc cao hàng trăm mét do đốt cỏ trong sân bay Biên Hòa](https://tuoitre.vn/khoi-bui-boc-cao-hang-tram-met-do-dot-co-trong-san-bay-bien-hoa-20210312134357491.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Truất ngôi Huawei, nhà sản xuất điện thoại Trung Quốc này nhắm tới Samsung, Apple](https://cafebiz.vn/truat-ngoi-huawei-nha-san-xuat-dien-thoai-trung-quoc-nay-nham-toi-samsung-apple-20210312135738493.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thuỷ điện Nậm Bú: Người dân &quot;thấp thỏm&quot; với nỗi sợ tích nước, xả lũ](https://laodong.vn/xa-hoi/thuy-dien-nam-bu-nguoi-dan-thap-thom-voi-noi-so-tich-nuoc-xa-lu-888395.ldo) ([Lao Động](https://laodong.vn))
 - [Masan Group "mất" 25.200 tỷ đồng vốn chủ do chi mạnh cho thương vụ hợp nhất Vincommerce](https://cafebiz.vn/masan-group-mat-25200-ty-dong-von-chu-do-chi-manh-cho-thuong-vu-hop-nhat-vincommerce-20210312135509996.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ban Tuyên giáo Trung ương giới thiệu hai người ứng cử đại biểu Quốc hội](https://laodong.vn/thoi-su/ban-tuyen-giao-trung-uong-gioi-thieu-hai-nguoi-ung-cu-dai-bieu-quoc-hoi-888412.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiễm trùng, áp xe cổ do điều trị thoát vị đĩa đệm bằng châm cứu](https://laodong.vn/suc-khoe/nhiem-trung-ap-xe-co-do-dieu-tri-thoat-vi-dia-dem-bang-cham-cuu-888390.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM tuyên dương 129 tấm gương thầm lặng cao cả](https://laodong.vn/thoi-su/tphcm-tuyen-duong-129-tam-guong-tham-lang-cao-ca-888409.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương: Bệnh nhân COVID-19 khỏi bệnh phải cách ly tại nhà 21 ngày](https://laodong.vn/y-te/hai-duong-benh-nhan-covid-19-khoi-benh-phai-cach-ly-tai-nha-21-ngay-888407.ldo) ([Lao Động](https://laodong.vn))
 - [Nữ hoàng Anh và dư luận phản ứng ra sao trước lời tuyên bố đanh thép của Hoàng tử William khiến Harry phải xấu hổ?](https://cafebiz.vn/nu-hoang-anh-va-du-luan-phan-ung-ra-sao-truoc-loi-tuyen-bo-danh-thep-cua-hoang-tu-william-khien-harry-phai-xau-ho-20210312134732875.chn) ([CafeBiz](https://cafebiz.vn))
 - [Doanh nghiệp mong chờ gì từ các hỗ trợ mới hậu Covid-19?](https://cafebiz.vn/doanh-nghiep-mong-cho-gi-tu-cac-ho-tro-moi-hau-covid-19-20210312134547633.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đề xuất xác minh bổ sung vụ tố cáo Trưởng phòng khám ở Khánh Hoà](https://laodong.vn/xa-hoi/de-xuat-xac-minh-bo-sung-vu-to-cao-truong-phong-kham-o-khanh-hoa-888300.ldo) ([Lao Động](https://laodong.vn))
-- [Hagrimex hậu cổ phần hóa: Doanh thu lao dốc, mập mờ công bố thông tin](https://laodong.vn/kinh-te/hagrimex-hau-co-phan-hoa-doanh-thu-lao-doc-map-mo-cong-bo-thong-tin-888310.ldo) ([Lao Động](https://laodong.vn))
-- [Người bán vé số lẻn vào phòng bệnh nhân Covid-19](https://vnexpress.net/nguoi-ban-ve-so-len-vao-phong-benh-nhan-covid-19-4247528.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
