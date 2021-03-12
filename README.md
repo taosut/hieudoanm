@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 23°C.
-- Feels Like 24.97°C.
-- Air Visual is 107.
+- Temperature is 24°C.
+- Feels Like 26.12°C.
+- Air Visual is 101.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Xe tải bị lật trên đường HCM, 2 người tử vong](https://laodong.vn/giao-thong/xe-tai-bi-lat-tren-duong-hcm-2-nguoi-tu-vong-888277.ldo) ([Lao Động](https://laodong.vn))
-- [Ngày hội Hiến máu nhân đạo tại PV GAS](https://laodong.vn/thong-tin-doanh-nghiep/ngay-hoi-hien-mau-nhan-dao-tai-pv-gas-888237.ldo) ([Lao Động](https://laodong.vn))
-- [Xe ôtô kinh doanh vận tải nhưng không đăng ký bị phạt thế nào?](https://laodong.vn/xe/xe-oto-kinh-doanh-van-tai-nhung-khong-dang-ky-bi-phat-the-nao-888255.ldo) ([Lao Động](https://laodong.vn))
-- [Chi tiết gói cứu trợ khổng lồ trị giá 1.900 USD có sức mua cả thị trường tiền số của ông Biden](https://cafebiz.vn/chi-tiet-goi-cuu-tro-khong-lo-tri-gia-1900-usd-co-suc-mua-ca-thi-truong-tien-so-cua-ong-biden-20210312084347959.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quy đổi tờ tiền 1000 đồng để đánh bạc tiền tỷ](https://cafebiz.vn/quy-doi-to-tien-1000-dong-de-danh-bac-tien-ty-20210312085712295.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Biden chỉ thị tiêm vaccine cho toàn bộ người lớn trước tháng 5](https://laodong.vn/the-gioi/ong-biden-chi-thi-tiem-vaccine-cho-toan-bo-nguoi-lon-truoc-thang-5-888269.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng: Tạm giữ đối tượng bán ma túy, chứa chấp con nghiện tại nhà](https://laodong.vn/phap-luat/hai-phong-tam-giu-doi-tuong-ban-ma-tuy-chua-chap-con-nghien-tai-nha-888268.ldo) ([Lao Động](https://laodong.vn))
-- [Những ngôi nhà "kì dị" ở Hà Nội: Nhà hẳn... 4 mặt tiền, nhà thì siêu mỏng siêu nhỏ](https://cafebiz.vn/nhung-ngoi-nha-ki-di-o-ha-noi-nha-han-4-mat-tien-nha-thi-sieu-mong-sieu-nho-20210312085134854.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hàng loạt nhà hàng tên tuổi đóng cửa vì COVID-19, ngay cả công ty số 1 Golden Gate cũng đang khốn đốn đi vay phục vụ hoạt động kinh doanh](https://cafebiz.vn/hang-loat-nha-hang-ten-tuoi-dong-cua-vi-covid-19-ngay-ca-cong-ty-so-1-golden-gate-cung-dang-khon-don-di-vay-phuc-vu-hoat-dong-kinh-doanh-20210312082715891.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những tỷ phú sở hữu tài sản từ 100 tỷ USD làm giàu như thế nào?](https://cafebiz.vn/nhung-ty-phu-so-huu-tai-san-tu-100-ty-usd-lam-giau-nhu-the-nao-20210312084628206.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cựu Giám đốc kinh doanh Tập đoàn IPP của tỷ phú Johnathan Hạnh Nguyễn đi startup, vừa được VNG đầu tư 6 triệu USD](https://cafebiz.vn/cuu-giam-doc-kinh-doanh-tap-doan-ipp-cua-ty-phu-johnathan-hanh-nguyen-di-startup-vua-duoc-vng-dau-tu-6-trieu-usd-20210312093843524.chn) ([CafeBiz](https://cafebiz.vn))
+- [21 phòng vắt, trữ sữa đang hoạt động tại các KCN tỉnh Bắc Giang](https://laodong.vn/ldld-bac-giang/21-phong-vat-tru-sua-dang-hoat-dong-tai-cac-kcn-tinh-bac-giang-888292.ldo) ([Lao Động](https://laodong.vn))
+- [Cần Thơ chính thức cho phép mở cửa karaoke, bar, vũ trường từ ngày 13.3](https://laodong.vn/xa-hoi/can-tho-chinh-thuc-cho-phep-mo-cua-karaoke-bar-vu-truong-tu-ngay-133-888289.ldo) ([Lao Động](https://laodong.vn))
+- [CĐ Xây dựng Việt Nam: Nhiều hoạt động trong Tháng Công nhân 2021](https://laodong.vn/cd-xay-dung/cd-xay-dung-viet-nam-nhieu-hoat-dong-trong-thang-cong-nhan-2021-888284.ldo) ([Lao Động](https://laodong.vn))
+- [Người nhà Glazer bán cổ phần, Man United không được đồng xu nào](https://laodong.vn/bong-da-quoc-te/nguoi-nha-glazer-ban-co-phan-man-united-khong-duoc-dong-xu-nao-888283.ldo) ([Lao Động](https://laodong.vn))
+- [Vinamilk sắp bán thịt bò](https://cafebiz.vn/vinamilk-sap-ban-thit-bo-20210312092756053.chn) ([CafeBiz](https://cafebiz.vn))
+- [Roger Federer chia tay Qatar Open 2021 bởi tay vợt hạng 42 thế giới](https://laodong.vn/the-thao/roger-federer-chia-tay-qatar-open-2021-boi-tay-vot-hang-42-the-gioi-888275.ldo) ([Lao Động](https://laodong.vn))
+- [Quy tắc 5% bất kỳ ai đang phân vân nên thuê hay mua nhà đều cần phải biết](https://cafebiz.vn/quy-tac-5-bat-ky-ai-dang-phan-van-nen-thue-hay-mua-nha-deu-can-phai-biet-20210311155011614.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xe tải chở gà lật bẹp dúm, tài xế cùng phụ xe tử nạn](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/xe-tai-cho-ga-lat-bep-dum-tai-xe-cung-phu-xe-tu-nan-719055.html) ([VietNamNet](https://vietnamnet.vn))
+- [Cuộc sống hiện tại của người bố địu con bán bọc chân chống xe máy ở Hà Nội: Bé gái đã được đến trường](https://cafebiz.vn/cuoc-song-hien-tai-cua-nguoi-bo-diu-con-ban-boc-chan-chong-xe-may-o-ha-noi-be-gai-da-duoc-den-truong-20210312091637991.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -122,7 +122,7 @@
 07. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 09. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-10. [Miley Cyrus - Angels Like You (Official Video)](https://www.youtube.com/watch?v=Y0ORhLyJWuc) - [MileyCyrusVEVO](https://www.youtube.com/channel/UCdI8evszfZvyAl2UVCypkTA)
+10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
