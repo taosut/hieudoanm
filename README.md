@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
-- Temperature is 26°C.
-- Feels Like 26.23°C.
-- Air Visual is 103.
+- Current weather is few clouds.
+- Temperature is 27°C.
+- Feels Like 26.8°C.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Lai Châu: Phấn đấu xây dựng tổ chức Công đoàn tỉnh ngày càng vững mạnh](https://laodong.vn/ldld-lai-chau/lai-chau-phan-dau-xay-dung-to-chuc-cong-doan-tinh-ngay-cang-vung-manh-888380.ldo) ([Lao Động](https://laodong.vn))
-- [Lý do khiến đàn ông Việt Nam &quot;lười&quot; nấu nướng, ngại việc nhà?](https://laodong.vn/chuyen-nha-minh/ly-do-khien-dan-ong-viet-nam-luoi-nau-nuong-ngai-viec-nha-888288.ldo) ([Lao Động](https://laodong.vn))
-- [Quy định chứng chỉ chức danh nghề nghiệp không phù hợp thì phải sửa đổi](https://laodong.vn/giao-duc/quy-dinh-chung-chi-chuc-danh-nghe-nghiep-khong-phu-hop-thi-phai-sua-doi-888362.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội yêu cầu xác minh việc cô giáo đánh học sinh bằng thước sắt](https://laodong.vn/xa-hoi/ha-noi-yeu-cau-xac-minh-viec-co-giao-danh-hoc-sinh-bang-thuoc-sat-888397.ldo) ([Lao Động](https://laodong.vn))
-- [Bạn muốn hẹn hò: Thích mẫu người yêu mập mạp, tiêu chí lạ nhưng hay!](https://laodong.vn/chuyen-nha-minh/ban-muon-hen-ho-thich-mau-nguoi-yeu-map-map-tieu-chi-la-nhung-hay-888366.ldo) ([Lao Động](https://laodong.vn))
-- [TP.HCM tuyên dương 129 tấm gương 'thầm lặng mà cao cả'](http://vietnamnet.vn/vn/thoi-su/tp-hcm-tuyen-duong-129-tam-guong-tham-lang-ma-cao-ca-719127.html) ([VietNamNet](https://vietnamnet.vn))
-- [Cảnh báo xuất hiện thuốc diệt chuột độc hại từ Trung Quốc đã bị cấm từ 20 năm trước](https://tuoitre.vn/canh-bao-xuat-hien-thuoc-diet-chuot-doc-hai-tu-trung-quoc-da-bi-cam-tu-20-nam-truoc-20210312112644002.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bản tin 1 phút 12.3: Bộ Y tế ra công văn yêu cầu khẩn vụ ông Võ Hoàng Yên](https://laodong.vn/video/ban-tin-1-phut-123-bo-y-te-ra-cong-van-yeu-cau-khan-vu-ong-vo-hoang-yen-888339.ldo) ([Lao Động](https://laodong.vn))
-- [TP.HCM: 5 doanh nhân ứng cử đại biểu Quốc hội, HĐND](https://tuoitre.vn/tphcm-5-doanh-nhan-ung-cu-dai-bieu-quoc-hoi-hdnd-2021031211595546.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Những điểm chính trong Quy hoạch phân khu đô thị sông Hồng](http://vietnamnet.vn/vn/thoi-su/nhung-diem-chinh-trong-quy-hoach-phan-khu-do-thi-song-hong-719121.html) ([VietNamNet](https://vietnamnet.vn))
+- [Yêu cầu chủ đầu tư dự án tiến di dời 40 cột điện nằm giữa lòng đường](https://laodong.vn/ban-doc/yeu-cau-chu-dau-tu-du-an-tien-di-doi-40-cot-dien-nam-giua-long-duong-888338.ldo) ([Lao Động](https://laodong.vn))
+- [Lịch Sử là môn thi thứ 4 trong Kỳ thi vào lớp 10 tại Hà Nội](https://laodong.vn/giao-duc/lich-su-la-mon-thi-thu-4-trong-ky-thi-vao-lop-10-tai-ha-noi-888406.ldo) ([Lao Động](https://laodong.vn))
+- [Hyundai SantaFe soán ngôi vương bán chạy trong phân khúc bởi 3 lý do này](https://cafebiz.vn/hyundai-santafe-soan-ngoi-vuong-ban-chay-trong-phan-khuc-boi-3-ly-do-nay-20210312123544399.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trà Ô Long cao cấp lần đầu được bán take-away](https://cafebiz.vn/tra-o-long-cao-cap-lan-dau-duoc-ban-take-away-20210312120823654.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chỉ 1 chiếc màn hình này là đủ cho mọi nhu cầu từ học tập đến giải trí tại gia](https://cafebiz.vn/chi-1-chiec-man-hinh-nay-la-du-cho-moi-nhu-cau-tu-hoc-tap-den-giai-tri-tai-gia-20210312105055392.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hành trình của Cung Tuấn: Sao nam có thể vượt Tiêu Chiến, Vương Nhất Bác?](https://laodong.vn/photo/hanh-trinh-cua-cung-tuan-sao-nam-co-the-vuot-tieu-chien-vuong-nhat-bac-888161.ldo) ([Lao Động](https://laodong.vn))
+- [Cổ động viên Hải Phòng đổ xô mua vé trận tiếp đón Hà Nội](https://laodong.vn/bong-da/co-dong-vien-hai-phong-do-xo-mua-ve-tran-tiep-don-ha-noi-888393.ldo) ([Lao Động](https://laodong.vn))
+- [Vĩnh Phúc: Thượng úy CSGT bị tông gãy chân, tay khi ra hiệu lệnh dừng xe](https://laodong.vn/phap-luat/vinh-phuc-thuong-uy-csgt-bi-tong-gay-chan-tay-khi-ra-hieu-lenh-dung-xe-888404.ldo) ([Lao Động](https://laodong.vn))
+- [Một đại biểu HĐND tỉnh Bến Tre bị phát hiện tàng trữ súng ngắn](https://tuoitre.vn/mot-dai-bieu-hdnd-tinh-ben-tre-bi-phat-hien-tang-tru-sung-ngan-20210312121545323.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Cần Thơ cho quán bar, vũ trường hoạt động trở lại](https://vnexpress.net/can-tho-cho-quan-bar-vu-truong-hoat-dong-tro-lai-4247522.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
@@ -135,8 +135,8 @@
 03. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 04. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 05. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
-06. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
-07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
+06. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
+07. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
 08. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 09. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 10. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
