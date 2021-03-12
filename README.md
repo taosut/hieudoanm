@@ -50,14 +50,14 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
-- [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
+- [![CBR1000RR](https://img.shields.io/static/v1?label=CBR1000RR&message=google&color=red&style=flat-square)](https://www.google.com/search?q=CBR1000RR)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
-- [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Lịch thi đấu V-League 2021](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League%202021)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hà Nội: Phố đi bộ Hồ Gươm vắng vẻ trong ngày đầu mở cửa trở lại](https://laodong.vn/xa-hoi/ha-noi-pho-di-bo-ho-guom-vang-ve-trong-ngay-dau-mo-cua-tro-lai-888602.ldo) ([Lao Động](https://laodong.vn))
+- [Mất 2,5 tỷ đồng vì món quà từ người yêu ngoại quốc](https://vnexpress.net/mat-2-5-ty-dong-vi-mon-qua-tu-nguoi-yeu-ngoai-quoc-4247775.html) ([VNExpress](https://vnexpress.net))
+- [Thêm một dự án điện mặt trời về tay BB Group](https://cafebiz.vn/them-mot-du-an-dien-mat-troi-ve-tay-bb-group-20210312210146833.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Dương: 7 bệnh nhân COVID-19 tái dương tính sau khi xuất viện](https://laodong.vn/xa-hoi/hai-duong-7-benh-nhan-covid-19-tai-duong-tinh-sau-khi-xuat-vien-888606.ldo) ([Lao Động](https://laodong.vn))
 - [Phó Ban Quản lý Khu kinh tế Hà Tĩnh làm Chủ tịch huyện Thạch Hà](https://laodong.vn/thoi-su/pho-ban-quan-ly-khu-kinh-te-ha-tinh-lam-chu-tich-huyen-thach-ha-888604.ldo) ([Lao Động](https://laodong.vn))
 - [Alibaba có thể bị phạt tới 1 tỷ USD vì kinh doanh độc quyền](https://cafebiz.vn/alibaba-co-the-bi-phat-toi-1-ty-usd-vi-kinh-doanh-doc-quyen-20210312203500416.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thành phố Thủ Đức: Đề xuất thay đổi trụ sở làm việc của nhiều cơ quan](https://laodong.vn/xa-hoi/thanh-pho-thu-duc-de-xuat-thay-doi-tru-so-lam-viec-cua-nhieu-co-quan-888603.ldo) ([Lao Động](https://laodong.vn))
 - [Bắt đối tượng cướp xe ôm của tài xế lớn tuổi vào ban đêm](https://laodong.vn/phap-luat/bat-doi-tuong-cuop-xe-om-cua-tai-xe-lon-tuoi-vao-ban-dem-888601.ldo) ([Lao Động](https://laodong.vn))
-- [Kinh tế 24h: Giá vàng rớt thảm; Giá điện mặt trời áp mái giảm sâu](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-rot-tham-gia-dien-mat-troi-ap-mai-giam-sau-888597.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương cách ly tại nhà 21 ngày với người hết mắc Covid-19](https://vnexpress.net/hai-duong-cach-ly-tai-nha-21-ngay-voi-nguoi-het-mac-covid-19-4247762.html) ([VNExpress](https://vnexpress.net))
 - [Xác định nguồn lây của 3 mẹ con người Hải Phòng mắc COVID-19 khi sang Úc](https://laodong.vn/y-te/xac-dinh-nguon-lay-cua-3-me-con-nguoi-hai-phong-mac-covid-19-khi-sang-uc-888600.ldo) ([Lao Động](https://laodong.vn))
-- [22 tuyến đón khách cố định ở bến xe Miền Đông mới từ 13/3](https://vnexpress.net/22-tuyen-don-khach-co-dinh-o-ben-xe-mien-dong-moi-tu-13-3-4247738.html) ([VNExpress](https://vnexpress.net))
-- [Tốc độ ôtô trên cầu Thanh Trì giảm còn 60km/h](https://vnexpress.net/toc-do-oto-tren-cau-thanh-tri-giam-con-60km-h-4247742.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
