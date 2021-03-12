@@ -21,8 +21,8 @@
 
 - Current weather is clear sky.
 - Temperature is 28°C.
-- Feels Like 28.18°C.
-- Air Visual is 101.
+- Feels Like 27.82°C.
+- Air Visual is 103.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Kiên Giang triển khai chương trình “75 nghìn sáng kiến vượt khó phát triển&quot;](https://laodong.vn/cong-doan-toan-quoc/kien-giang-trien-khai-chuong-trinh-75-nghin-sang-kien-vuot-kho-phat-trien-888419.ldo) ([Lao Động](https://laodong.vn))
-- [Những ngôi sao "trăm tỷ" của điện ảnh Việt: Trấn Thành vẫn chưa chính thức vượt qua nhân vật đứng đầu?](https://cafebiz.vn/nhung-ngoi-sao-tram-ty-cua-dien-anh-viet-tran-thanh-van-chua-chinh-thuc-vuot-qua-nhan-vat-dung-dau-20210312144841627.chn) ([CafeBiz](https://cafebiz.vn))
-- [3 yếu tố của người đồng hành giúp bạn làm nên việc lớn!](https://cafebiz.vn/3-yeu-to-cua-nguoi-dong-hanh-giup-ban-lam-nen-viec-lon-20210312110442815.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội: Cận cảnh lấy mẫu xét nghiệm COVID-19 miễn phí cho người dân](https://laodong.vn/photo/ha-noi-can-canh-lay-mau-xet-nghiem-covid-19-mien-phi-cho-nguoi-dan-888394.ldo) ([Lao Động](https://laodong.vn))
-- [Chùa Hương ngày mở cửa trở lại: Giá dịch vụ được niêm yết, công khai](https://laodong.vn/thi-truong/chua-huong-ngay-mo-cua-tro-lai-gia-dich-vu-duoc-niem-yet-cong-khai-888324.ldo) ([Lao Động](https://laodong.vn))
-- [Sau khi chê Tesla 'không có hoạt động kinh doanh thực', chủ tịch Toyota ngầm cảnh báo Apple 'làm ô tô không dễ xơi'](https://cafebiz.vn/sau-khi-che-tesla-khong-co-hoat-dong-kinh-doanh-thuc-chu-tich-toyota-ngam-canh-bao-apple-lam-o-to-khong-de-xoi-20210312143248845.chn) ([CafeBiz](https://cafebiz.vn))
-- [KĐN vượt kế hoạch trồng cây trên công trình khí năm 2021](https://laodong.vn/thong-tin-doanh-nghiep/kdn-vuot-ke-hoach-trong-cay-tren-cong-trinh-khi-nam-2021-888240.ldo) ([Lao Động](https://laodong.vn))
-- [Kiên Giang: Xâm nhập mặn tăng cao, hơn 1.200ha lúa bị thiệt hại](https://laodong.vn/xa-hoi/kien-giang-xam-nhap-man-tang-cao-hon-1200ha-lua-bi-thiet-hai-888413.ldo) ([Lao Động](https://laodong.vn))
-- [40 cột điện nằm giữa đường](https://vnexpress.net/40-cot-dien-nam-giua-duong-4247498.html) ([VNExpress](https://vnexpress.net))
-- [Nhà đầu tư lại đua giá, Bitcoin áp sát đỉnh kỷ lục](https://cafebiz.vn/nha-dau-tu-lai-dua-gia-bitcoin-ap-sat-dinh-ky-luc-2021031214172268.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sẽ tước giấy phép một số doanh nghiệp vi phạm trong kinh doanh xăng dầu](https://laodong.vn/kinh-te/se-tuoc-giay-phep-mot-so-doanh-nghiep-vi-pham-trong-kinh-doanh-xang-dau-888358.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam tiếp tục triển khai tiêm vắc xin AstraZeneca](https://tuoitre.vn/viet-nam-tiep-tuc-trien-khai-tiem-vac-xin-astrazeneca-20210312150551756.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nhà văn Hoàng Anh Tú: Thơ Nguyễn đang "dạy" các bố mẹ điều gì?](https://cafebiz.vn/nha-van-hoang-anh-tu-tho-nguyen-dang-day-cac-bo-me-dieu-gi-20210312153437264.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhiều thú rừng ở Tà Đùng được giải cứu... trước khi lên bàn nhậu](https://laodong.vn/xa-hoi/nhieu-thu-rung-o-ta-dung-duoc-giai-cuu-truoc-khi-len-ban-nhau-888430.ldo) ([Lao Động](https://laodong.vn))
+- [Sức nóng lan tỏa từ lễ Kick-off dự án Elite Life](https://cafebiz.vn/suc-nong-lan-toa-tu-le-kick-off-du-an-elite-life-2021031215153088.chn) ([CafeBiz](https://cafebiz.vn))
+- [HDBank đạt Top 10 ngân hàng có khối lượng giao dịch ngoại hối hàng đầu VN](https://laodong.vn/kinh-te/hdbank-dat-top-10-ngan-hang-co-khoi-luong-giao-dich-ngoai-hoi-hang-dau-vn-888420.ldo) ([Lao Động](https://laodong.vn))
+- [200 ngày đêm gấp rút hoàn thành tiến độ dự án cao tốc Cao Bồ - Mai Sơn](https://laodong.vn/xa-hoi/200-ngay-dem-gap-rut-hoan-thanh-tien-do-du-an-cao-toc-cao-bo-mai-son-888375.ldo) ([Lao Động](https://laodong.vn))
+- [BIDV tổ chức Đại hội đồng cổ đông thường niên năm 2021](https://laodong.vn/kinh-te/bidv-to-chuc-dai-hoi-dong-co-dong-thuong-nien-nam-2021-888417.ldo) ([Lao Động](https://laodong.vn))
+- [Tiếp tục xả mạnh quỹ bình ổn, giá xăng trong nước tăng bao nhiêu?](https://laodong.vn/thi-truong/tiep-tuc-xa-manh-quy-binh-on-gia-xang-trong-nuoc-tang-bao-nhieu-888265.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Hoàng Hữu Phước lại tự ứng cử đại biểu Quốc hội khóa XV](https://tuoitre.vn/ong-hoang-huu-phuoc-lai-tu-ung-cu-dai-bieu-quoc-hoi-khoa-xv-20210312125316304.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
