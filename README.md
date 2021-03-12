@@ -21,7 +21,7 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 24.45°C.
+- Feels Like 24.25°C.
 - Air Visual is 137.
 
 **WEATHER**
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [3 đội bóng tại V.League 2021 được xin ưu tiên tiêm vaccine COVID-19](https://laodong.vn/video/3-doi-bong-tai-vleague-2021-duoc-xin-uu-tien-tiem-vaccine-covid-19-888465.ldo) ([Lao Động](https://laodong.vn))
 - [Sự thật về chuyên môn khám, trị bệnh của ông Võ Hoàng Yên](http://vietnamnet.vn/vn/thoi-su/su-that-ve-chuyen-mon-kham-tri-benh-cua-ong-vo-hoang-yen-719292.html) ([VietNamNet](https://vietnamnet.vn))
 - [Hai mẹ con mắc COVID-19 khi sang Úc: Nguồn lây không phải từ Việt Nam](https://tuoitre.vn/hai-me-con-mac-covid-19-khi-sang-uc-nguon-lay-khong-phai-tu-viet-nam-2021031222021589.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hà Nội: Phố đi bộ Hồ Gươm vắng vẻ trong ngày đầu mở cửa trở lại](https://laodong.vn/xa-hoi/ha-noi-pho-di-bo-ho-guom-vang-ve-trong-ngay-dau-mo-cua-tro-lai-888602.ldo) ([Lao Động](https://laodong.vn))
@@ -83,7 +84,6 @@
 - [Phó Ban Quản lý Khu kinh tế Hà Tĩnh làm Chủ tịch huyện Thạch Hà](https://laodong.vn/thoi-su/pho-ban-quan-ly-khu-kinh-te-ha-tinh-lam-chu-tich-huyen-thach-ha-888604.ldo) ([Lao Động](https://laodong.vn))
 - [Alibaba có thể bị phạt tới 1 tỷ USD vì kinh doanh độc quyền](https://cafebiz.vn/alibaba-co-the-bi-phat-toi-1-ty-usd-vi-kinh-doanh-doc-quyen-20210312203500416.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thành phố Thủ Đức: Đề xuất thay đổi trụ sở làm việc của nhiều cơ quan](https://laodong.vn/xa-hoi/thanh-pho-thu-duc-de-xuat-thay-doi-tru-so-lam-viec-cua-nhieu-co-quan-888603.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt đối tượng cướp xe ôm của tài xế lớn tuổi vào ban đêm](https://laodong.vn/phap-luat/bat-doi-tuong-cuop-xe-om-cua-tai-xe-lon-tuoi-vao-ban-dem-888601.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương cách ly tại nhà 21 ngày với người hết mắc Covid-19](https://vnexpress.net/hai-duong-cach-ly-tai-nha-21-ngay-voi-nguoi-het-mac-covid-19-4247762.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
@@ -131,15 +131,15 @@
 **YOUTUBE TRENDS**
 
 01. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-02. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
-03. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-04. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
-05. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
-06. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
-07. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
-08. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
-09. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
-10. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
+02. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+03. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
+04. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+05. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
+06. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
+07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
+08. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
+09. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+10. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
