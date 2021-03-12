@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is clear sky.
 - Temperature is 27°C.
-- Feels Like 26.09°C.
-- Air Visual is 103.
+- Feels Like 26.44°C.
+- Air Visual is 102.
 
 **WEATHER**
 
@@ -55,6 +55,7 @@
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
+- [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
@@ -67,7 +68,6 @@
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
-- [![Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20V%C4%83n%20N%C6%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chủ tịch xã bị kỷ luật vì cho thuê đất trái thẩm quyền](https://vnexpress.net/chu-tich-xa-bi-ky-luat-vi-cho-thue-dat-trai-tham-quyen-4247708.html) ([VNExpress](https://vnexpress.net))
+- [Tọa đàm trực tuyến về hoạt động Tháng Công nhân năm 2021](https://laodong.vn/cong-doan/toa-dam-truc-tuyen-ve-hoat-dong-thang-cong-nhan-nam-2021-888508.ldo) ([Lao Động](https://laodong.vn))
+- [Xét nghiệm ngẫu nhiên cho người dân Hà Nội](https://vnexpress.net/xet-nghiem-ngau-nhien-cho-nguoi-dan-ha-noi-4247684.html) ([VNExpress](https://vnexpress.net))
+- [Phân viện thú y Miền Trung ký kết bản ghi nhớ thực hiện 75 nghìn sáng kiến](https://laodong.vn/cong-doan/phan-vien-thu-y-mien-trung-ky-ket-ban-ghi-nho-thuc-hien-75-nghin-sang-kien-888459.ldo) ([Lao Động](https://laodong.vn))
 - [60 triệu liều vaccine COVID-19 tại Việt Nam sẽ về Việt Nam khi nào?](https://laodong.vn/infographic/60-trieu-lieu-vaccine-covid-19-tai-viet-nam-se-ve-viet-nam-khi-nao-886851.ldo) ([Lao Động](https://laodong.vn))
 - [Australia nỗ lực chống lại thuế carbon của EU](https://laodong.vn/the-gioi/australia-no-luc-chong-lai-thue-carbon-cua-eu-888484.ldo) ([Lao Động](https://laodong.vn))
 - [Naturenz Gold nâng tầm dược liệu giải độc gan bằng thành tựu khoa học mới](https://cafebiz.vn/naturenz-gold-nang-tam-duoc-lieu-giai-doc-gan-bang-thanh-tuu-khoa-hoc-moi-20210312165103577.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ngoại hạng Anh cuối tuần: Tâm điểm  Derby London](https://laodong.vn/the-thao/ngoai-hang-anh-cuoi-tuan-tam-diem-derby-london-888181.ldo) ([Lao Động](https://laodong.vn))
-- [Say rượu đấm vào mặt 2 cảnh sát giao thông ở Quảng Ninh](https://laodong.vn/phap-luat/say-ruou-dam-vao-mat-2-canh-sat-giao-thong-o-quang-ninh-888497.ldo) ([Lao Động](https://laodong.vn))
-- [Đại diện MRB lí giải việc phân công vị trí công tác cho ông Lương Xuân Bình](https://laodong.vn/xa-hoi/dai-dien-mrb-li-giai-viec-phan-cong-vi-tri-cong-tac-cho-ong-luong-xuan-binh-888442.ldo) ([Lao Động](https://laodong.vn))
 - [Sân bay thứ 2 cho Vùng Thủ đô: chọn Tiên Lãng hay Ứng Hoà?](https://cafebiz.vn/san-bay-thu-2-cho-vung-thu-do-chon-tien-lang-hay-ung-hoa-20210312172433827.chn) ([CafeBiz](https://cafebiz.vn))
 - [TPHCM: 22 tuyến xe dừng đón khách ở bến xe Miền Đông cũ từ ngày mai](https://laodong.vn/xa-hoi/tphcm-22-tuyen-xe-dung-don-khach-o-ben-xe-mien-dong-cu-tu-ngay-mai-888489.ldo) ([Lao Động](https://laodong.vn))
-- [Vi phạm đạo đức lối sống, Bí thư thị trấn bị điều sang Phó ban dân vận](http://vietnamnet.vn/vn/thoi-su/vi-pha-m-da-o-du-c-lo-i-so-ng-bi-thu-thi-tra-n-bi-die-u-sang-pho-ban-da-n-van-719236.html) ([VietNamNet](https://vietnamnet.vn))
-- [Hà Nội: Xét nghiệm sàng lọc COVID-19 cho nhân viên bến xe Mỹ Đình](https://laodong.vn/photo/ha-noi-xet-nghiem-sang-loc-covid-19-cho-nhan-vien-ben-xe-my-dinh-888457.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
