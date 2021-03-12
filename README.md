@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 24°C.
-- Feels Like 26.12°C.
-- Air Visual is 102.
+- Current weather is broken clouds.
+- Temperature is 25°C.
+- Feels Like 26.41°C.
+- Air Visual is 118.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Smartphone quan trọng hơn laptop - xu thế không còn xa lạ với dân văn phòng thời nay](https://cafebiz.vn/smartphone-quan-trong-hon-laptop-xu-the-khong-con-xa-la-voi-dan-van-phong-thoi-nay-20210311150827279.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tràn lan “thần y”, lương y online, ai quản?](https://laodong.vn/xa-hoi/tran-lan-than-y-luong-y-online-ai-quan-888176.ldo) ([Lao Động](https://laodong.vn))
-- [Doanh nghiệp ở Bình Dương “đỏ mắt” ngóng tuyển lao động dịp đầu năm](https://laodong.vn/video/doanh-nghiep-o-binh-duong-do-mat-ngong-tuyen-lao-dong-dip-dau-nam-888250.ldo) ([Lao Động](https://laodong.vn))
-- [Tập đoàn Masan muốn lên Sa Pa họp Đại hội cổ đông, tại một khách sạn 5 sao theo phong cách Tây đẹp ngất ngây](https://cafebiz.vn/tap-doan-masan-muon-len-sa-pa-hop-dai-hoi-co-dong-tai-mot-khach-san-5-sao-theo-phong-cach-tay-dep-ngat-ngay-20210312095019789.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ vụ Thơ Nguyễn: Tác hại khủng khiếp khi trẻ nhỏ dán mắt xem 'mặt tối của YouTube' ngay trên YouTube Kids](https://cafebiz.vn/tu-vu-tho-nguyen-tac-hai-khung-khiep-khi-tre-nho-dan-mat-xem-mat-toi-cua-youtube-ngay-tren-youtube-kids-20210312095514551.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tài khoản tiện ích hỗ trợ vận hành doanh nghiệp hiệu quả](https://laodong.vn/kinh-te/tai-khoan-tien-ich-ho-tro-van-hanh-doanh-nghiep-hieu-qua-888282.ldo) ([Lao Động](https://laodong.vn))
-- [Cần Thơ mở lại hoạt động quán karaoke, vũ trường, massage](http://vietnamnet.vn/vn/thoi-su/can-tho-mo-lai-hoat-dong-quan-karaoke-vu-truong-massage-719078.html) ([VietNamNet](https://vietnamnet.vn))
-- [Cựu Giám đốc kinh doanh Tập đoàn IPP của tỷ phú Johnathan Hạnh Nguyễn đi startup, vừa được VNG đầu tư 6 triệu USD](https://cafebiz.vn/cuu-giam-doc-kinh-doanh-tap-doan-ipp-cua-ty-phu-johnathan-hanh-nguyen-di-startup-vua-duoc-vng-dau-tu-6-trieu-usd-20210312093843524.chn) ([CafeBiz](https://cafebiz.vn))
-- [21 phòng vắt, trữ sữa đang hoạt động tại các KCN tỉnh Bắc Giang](https://laodong.vn/ldld-bac-giang/21-phong-vat-tru-sua-dang-hoat-dong-tai-cac-kcn-tinh-bac-giang-888292.ldo) ([Lao Động](https://laodong.vn))
-- [Cần Thơ chính thức cho phép mở cửa karaoke, bar, vũ trường từ ngày 13.3](https://laodong.vn/xa-hoi/can-tho-chinh-thuc-cho-phep-mo-cua-karaoke-bar-vu-truong-tu-ngay-133-888289.ldo) ([Lao Động](https://laodong.vn))
+- [Đạo diễn Lê Hoàng mách kỹ nghệ "săn" đàn ông: Con gái muốn có người yêu, cứ đi cà phê sang chảnh!](https://cafebiz.vn/dao-dien-le-hoang-mach-ky-nghe-san-dan-ong-con-gai-muon-co-nguoi-yeu-cu-di-ca-phe-sang-chanh-20210312102225937.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những y bác sĩ Đà Nẵng đầu tiên được tiêm vaccine COVID-19](https://laodong.vn/photo/nhung-y-bac-si-da-nang-dau-tien-duoc-tiem-vaccine-covid-19-888287.ldo) ([Lao Động](https://laodong.vn))
+- [Phó chủ tịch CenGroup Phạm Thanh Hưng: Một lượng lớn nhà đầu tư đang sẵn sàng vào thị trường bất động sản](https://cafebiz.vn/pho-chu-tich-cengroup-pham-thanh-hung-mot-luong-lon-nha-dau-tu-dang-san-sang-vao-thi-truong-bat-dong-san-20210312094219386.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cháy lớn kho xưởng lan sang dãy trọ, nhiều tài sản bị thiêu rụi](https://tuoitre.vn/chay-lon-kho-xuong-lan-sang-day-tro-nhieu-tai-san-bi-thieu-rui-20210312094509219.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Vietcombank cảnh báo hàng loạt thủ đoạn lừa đảo mới](https://laodong.vn/kinh-te/vietcombank-canh-bao-hang-loat-thu-doan-lua-dao-moi-888296.ldo) ([Lao Động](https://laodong.vn))
+- [Công dụng bất ngờ của hoa đậu biếc trong việc làm đẹp làn da, mái tóc](https://laodong.vn/dinh-duong-am-thuc/cong-dung-bat-ngo-cua-hoa-dau-biec-trong-viec-lam-dep-lan-da-mai-toc-888299.ldo) ([Lao Động](https://laodong.vn))
+- [Giới trẻ định nghĩa &quot;thế nào là một môi trường làm việc lý tưởng&quot;](https://laodong.vn/kinh-te/gioi-tre-dinh-nghia-the-nao-la-mot-moi-truong-lam-viec-ly-tuong-888286.ldo) ([Lao Động](https://laodong.vn))
+- [Hộ chiếu vắc xin sẽ là giải pháp 'phá băng' cho ngành du lịch Việt Nam trong thời gian tới?](https://cafebiz.vn/ho-chieu-vac-xin-se-la-giai-phap-pha-bang-cho-nganh-du-lich-viet-nam-trong-thoi-gian-toi-20210312102544838.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khám phá ngôi mộ Ai Cập cổ đại bí ẩn bằng trải nghiệm cực mới](https://laodong.vn/the-gioi/kham-pha-ngoi-mo-ai-cap-co-dai-bi-an-bang-trai-nghiem-cuc-moi-888313.ldo) ([Lao Động](https://laodong.vn))
+- [Chủ tịch VCCI: 90% doanh nghiệp bị tác động nặng nề do Covid-19, số lượng rút khỏi thị trường đạt kỷ lục, vượt ngưỡng 100 ngàn](https://cafebiz.vn/chu-tich-vcci-90-doanh-nghiep-bi-tac-dong-nang-ne-do-covid-19-so-luong-rut-khoi-thi-truong-dat-ky-luc-vuot-nguong-100-ngan-20210312094318426.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
