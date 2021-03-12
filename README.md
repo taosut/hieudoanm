@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 23°C.
 - Feels Like 24.45°C.
-- Air Visual is 148.
+- Air Visual is 137.
 
 **WEATHER**
 
@@ -55,6 +55,7 @@
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
+- [![Joe Biden](https://img.shields.io/static/v1?label=Joe%20Biden&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joe%20Biden)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Lịch thi đấu V-League 2021](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League%202021)
@@ -63,7 +64,6 @@
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
-- [![Rose](https://img.shields.io/static/v1?label=Rose&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Rose)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
@@ -76,7 +76,7 @@
 **NEWS**
 
 - [Sự thật về chuyên môn khám, trị bệnh của ông Võ Hoàng Yên](http://vietnamnet.vn/vn/thoi-su/su-that-ve-chuyen-mon-kham-tri-benh-cua-ong-vo-hoang-yen-719292.html) ([VietNamNet](https://vietnamnet.vn))
-- [Hai mẹ con dương tính COVID-19 khi sang Úc: Nguồn lây không phải từ Việt Nam](https://tuoitre.vn/hai-me-con-duong-tinh-covid-19-khi-sang-uc-nguon-lay-khong-phai-tu-viet-nam-2021031222021589.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hai mẹ con mắc COVID-19 khi sang Úc: Nguồn lây không phải từ Việt Nam](https://tuoitre.vn/hai-me-con-mac-covid-19-khi-sang-uc-nguon-lay-khong-phai-tu-viet-nam-2021031222021589.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hà Nội: Phố đi bộ Hồ Gươm vắng vẻ trong ngày đầu mở cửa trở lại](https://laodong.vn/xa-hoi/ha-noi-pho-di-bo-ho-guom-vang-ve-trong-ngay-dau-mo-cua-tro-lai-888602.ldo) ([Lao Động](https://laodong.vn))
 - [Thêm một dự án điện mặt trời về tay BB Group](https://cafebiz.vn/them-mot-du-an-dien-mat-troi-ve-tay-bb-group-20210312210146833.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hải Dương: 7 bệnh nhân COVID-19 tái dương tính sau khi xuất viện](https://laodong.vn/xa-hoi/hai-duong-7-benh-nhan-covid-19-tai-duong-tinh-sau-khi-xuat-vien-888606.ldo) ([Lao Động](https://laodong.vn))
