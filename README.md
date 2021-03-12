@@ -22,7 +22,7 @@
 - Current weather is scattered clouds.
 - Temperature is 25°C.
 - Feels Like 26.61°C.
-- Air Visual is 120.
+- Air Visual is 138.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Đạo luật đa bang của Mỹ phá vỡ thế độc quyền kho ứng dụng Apple và Google](https://cafebiz.vn/dao-luat-da-bang-cua-my-pha-vo-the-doc-quyen-kho-ung-dung-apple-va-google-20210312193818959.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nóng nhất hôm nay: Thông tin về cuộc gặp Thủ tướng Suga và Tổng thống Biden](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-thong-tin-ve-cuoc-gap-thu-tuong-suga-va-tong-thong-biden-888588.ldo) ([Lao Động](https://laodong.vn))
+- [Loài côn trùng đặc hữu New Zealand đặt theo tên Thủ tướng Jacinda Ardern](https://laodong.vn/the-gioi/loai-con-trung-dac-huu-new-zealand-dat-theo-ten-thu-tuong-jacinda-ardern-888488.ldo) ([Lao Động](https://laodong.vn))
+- [Điểm danh 4 kiểu người không nên ăn khoai lang](https://laodong.vn/suc-khoe/diem-danh-4-kieu-nguoi-khong-nen-an-khoai-lang-888576.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ Ngoại giao có tân Thứ trưởng](https://vnexpress.net/bo-ngoai-giao-co-tan-thu-truong-4247765.html) ([VNExpress](https://vnexpress.net))
+- [Đà Nẵng: Ngôi nhà có sàn bê tông, trát bằng cát thô, vữa xi măng xuất hiện lạ lẫm trên báo](https://cafebiz.vn/da-nang-ngoi-nha-co-san-be-tong-trat-bang-cat-tho-vua-xi-mang-xuat-hien-la-lam-tren-bao-20210312193312444.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người dùng dồn dập nhận tin nhắn ‘giả’ tên thương hiệu ngân hàng](https://tuoitre.vn/nguoi-dung-don-dap-nhan-tin-nhan-gia-ten-thuong-hieu-ngan-hang-2021031220125072.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Trong 3 năm, Youtuber Thơ Nguyễn đã nộp bao nhiêu tiền thuế thu nhập?](https://cafebiz.vn/trong-3-nam-youtuber-tho-nguyen-da-nop-bao-nhieu-tien-thue-thu-nhap-20210312203946367.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sau gần 2 năm rưỡi phụ trách Ban Điều hành BIDV, ông Lê Ngọc Lâm chính thức ngồi ghế CEO ngân hàng có tài sản lớn nhất Việt Nam](https://cafebiz.vn/sau-gan-2-nam-ruoi-phu-trach-ban-dieu-hanh-bidv-ong-le-ngoc-lam-chinh-thuc-ngoi-ghe-ceo-ngan-hang-co-tai-san-lon-nhat-viet-nam-20210312203030622.chn) ([CafeBiz](https://cafebiz.vn))
 - [Quyền và nghĩa vụ gì người sử dụng đất nên biết](https://laodong.vn/bat-dong-san/quyen-va-nghia-vu-gi-nguoi-su-dung-dat-nen-biet-887253.ldo) ([Lao Động](https://laodong.vn))
-- [Những mẫu sedan hạng B mới ra mắt có giá lăn bánh ra sao?](https://laodong.vn/xe/nhung-mau-sedan-hang-b-moi-ra-mat-co-gia-lan-banh-ra-sao-888346.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Tiềm ẩn nguy cơ cháy nổ từ những kiot chứa hàng ở phố Gầm Cầu](https://laodong.vn/ban-doc/ha-noi-tiem-an-nguy-co-chay-no-tu-nhung-kiot-chua-hang-o-pho-gam-cau-888432.ldo) ([Lao Động](https://laodong.vn))
-- [Từ 13-3, xe khách tuyến TP.HCM đi Quảng Trị trở ra hoạt động ở Bến xe Miền Đông mới](https://tuoitre.vn/tu-13-3-xe-khach-tuyen-tp-hcm-di-quang-tri-tro-ra-hoat-dong-o-ben-xe-mien-dong-moi-20210312200215386.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [EVNHANOI ra mắt “Hệ sinh thái chăm sóc khách hàng”](https://laodong.vn/kinh-te/evnhanoi-ra-mat-he-sinh-thai-cham-soc-khach-hang-888560.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất 6 dự án hơn 21.000 tỉ đồng kết nối giao thông TPHCM và Long An](https://laodong.vn/xa-hoi/de-xuat-6-du-an-hon-21000-ti-dong-ket-noi-giao-thong-tphcm-va-long-an-888591.ldo) ([Lao Động](https://laodong.vn))
-- [Mobile Money có an toàn và bảo mật?](https://cafebiz.vn/mobile-money-co-an-toan-va-bao-mat-20210312192257409.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nghi tái dương tính COVID-19, Hải Dương yêu cầu F0 cách ly 21 ngày sau khi ra viện](https://tuoitre.vn/nghi-tai-duong-tinh-covid-19-hai-duong-yeu-cau-f0-cach-ly-21-ngay-sau-khi-ra-vien-20210312193826271.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
