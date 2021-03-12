@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 27.33°C.
-- Air Visual is 110.
+- Current weather is few clouds.
+- Temperature is 26°C.
+- Feels Like 27.83°C.
+- Air Visual is 109.
 
 **WEATHER**
 
@@ -50,19 +50,19 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![Chị Thơ Nguyễn](https://img.shields.io/static/v1?label=Ch%E1%BB%8B%20Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%E1%BB%8B%20Th%C6%A1%20Nguy%E1%BB%85n)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
+- [![Khánh Phương](https://img.shields.io/static/v1?label=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
-- [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![ROG Phone 5](https://img.shields.io/static/v1?label=ROG%20Phone%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=ROG%20Phone%205)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
-- [![Sakura](https://img.shields.io/static/v1?label=Sakura&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sakura)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- ['Hà Nội sẽ không dồn công trình vào hai bờ sông Hồng'](https://vnexpress.net/ha-noi-se-khong-don-cong-trinh-vao-hai-bo-song-hong-4247340.html) ([VNExpress](https://vnexpress.net))
+- [Cơ quan Thuế đang kiểm tra chấp hành thuế của Youtuber Thơ Nguyễn](https://cafebiz.vn/co-quan-thue-dang-kiem-tra-chap-hanh-thue-cua-youtuber-tho-nguyen-20210312114855455.chn) ([CafeBiz](https://cafebiz.vn))
+- [100 nhân viên y tế đầu tiên ở Khánh Hòa được tiêm vaccine COVID-19](https://laodong.vn/photo/100-nhan-vien-y-te-dau-tien-o-khanh-hoa-duoc-tiem-vaccine-covid-19-888312.ldo) ([Lao Động](https://laodong.vn))
+- [Cơ sở của NASA có thể làm nơi cư trú cho trẻ nhập cư Mỹ](https://laodong.vn/the-gioi/co-so-cua-nasa-co-the-lam-noi-cu-tru-cho-tre-nhap-cu-my-888352.ldo) ([Lao Động](https://laodong.vn))
+- [Nhật Bản thông báo cuộc gặp trực tiếp Thủ tướng Suga và Tổng thống Biden](https://laodong.vn/the-gioi/nhat-ban-thong-bao-cuoc-gap-truc-tiep-thu-tuong-suga-va-tong-thong-biden-888355.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Nhiều hộ dân vẫn &quot;bám víu&quot; trong những chung cư chờ sập](https://laodong.vn/xa-hoi/ha-noi-nhieu-ho-dan-van-bam-viu-trong-nhung-chung-cu-cho-sap-888231.ldo) ([Lao Động](https://laodong.vn))
 - [Tuyển sinh 2021: Chọn ngành để không bị thất nghiệp](https://laodong.vn/giao-duc/tuyen-sinh-2021-chon-nganh-de-khong-bi-that-nghiep-888291.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam kêu gọi bảo vệ dân thường trước nạn đói do xung đột](https://laodong.vn/the-gioi/viet-nam-keu-goi-bao-ve-dan-thuong-truoc-nan-doi-do-xung-dot-888328.ldo) ([Lao Động](https://laodong.vn))
-- [Công an TP. Huế bắt hàng trăm &quot;quái xế&quot;](https://laodong.vn/phap-luat/cong-an-tp-hue-bat-hang-tram-quai-xe-888349.ldo) ([Lao Động](https://laodong.vn))
-- [Ngộ độc hoá chất diệt chuột đã bị cấm 20 năm](https://laodong.vn/suc-khoe/ngo-doc-hoa-chat-diet-chuot-da-bi-cam-20-nam-888356.ldo) ([Lao Động](https://laodong.vn))
 - [Kiểm tra xe cũ nát, nếu không vi phạm, CSGT trả giấy tờ, cảm ơn người dân](https://tuoitre.vn/kiem-tra-xe-cu-nat-neu-khong-vi-pham-csgt-tra-giay-to-cam-on-nguoi-dan-20210312104258771.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Xe vi phạm tốc độ 299 km/h trên Đại lộ Thăng Long: siêu mô tô giá 1 tỷ đồng](https://cafebiz.vn/xe-vi-pham-toc-do-299-km-h-tren-dai-lo-thang-long-sieu-mo-to-gia-1-ty-dong-20210312112633759.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sao nam lấy vợ trẻ hơn chục tuổi và bí quyết giữ hôn nhân nhờ sự thấu hiểu](https://laodong.vn/yeu-360/sao-nam-lay-vo-tre-hon-chuc-tuoi-va-bi-quyet-giu-hon-nhan-nho-su-thau-hieu-888327.ldo) ([Lao Động](https://laodong.vn))
-- [Cột mốc 23 tuổi đánh dấu số mệnh giàu sang, an nhàn sau này của bạn: Có 7 mục tiêu tài chính bạn cần đạt trước khi bỏ lỡ!](https://cafebiz.vn/cot-moc-23-tuoi-danh-dau-so-menh-giau-sang-an-nhan-sau-nay-cua-ban-co-7-muc-tieu-tai-chinh-ban-can-dat-truoc-khi-bo-lo-2021031200441208.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lễ tang trực tuyến và ứng dụng thiền - "phát kiến" giúp các ngôi đền ở Nhật Bản sống sót thời Covid-19](https://cafebiz.vn/le-tang-truc-tuyen-va-ung-dung-thien-phat-kien-giup-cac-ngoi-den-o-nhat-ban-song-sot-thoi-covid-19-20210312111013281.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khám xét 3 kho hàng lậu 'gửi' tại nhà thượng tá biên phòng chống buôn lậu](https://tuoitre.vn/kham-xet-3-kho-hang-lau-gui-tai-nha-thuong-ta-bien-phong-chong-buon-lau-20210312095225183.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hỏa hoạn thiêu rụi 21 phòng trọ ở ngoại ô Sài Gòn](http://vietnamnet.vn/vn/thoi-su/hoa-hoan-thieu-rui-21-phong-tro-o-ngoai-o-sai-gon-719110.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -131,8 +131,8 @@
 **YOUTUBE TRENDS**
 
 01. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-02. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-03. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
+02. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
+03. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 04. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 05. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
 06. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
