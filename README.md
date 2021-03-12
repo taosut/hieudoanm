@@ -22,7 +22,7 @@
 - Current weather is few clouds.
 - Temperature is 27°C.
 - Feels Like 26.8°C.
-- Air Visual is 105.
+- Air Visual is 111.
 
 **WEATHER**
 
@@ -50,20 +50,20 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![Chị Thơ Nguyễn](https://img.shields.io/static/v1?label=Ch%E1%BB%8B%20Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%E1%BB%8B%20Th%C6%A1%20Nguy%E1%BB%85n)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
+- [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
-- [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
+- [![On The Ground](https://img.shields.io/static/v1?label=On%20The%20Ground&message=google&color=red&style=flat-square)](https://www.google.com/search?q=On%20The%20Ground)
 - [![ROG Phone 5](https://img.shields.io/static/v1?label=ROG%20Phone%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=ROG%20Phone%205)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
-- [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
-- [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Yêu cầu chủ đầu tư dự án tiến di dời 40 cột điện nằm giữa lòng đường](https://laodong.vn/ban-doc/yeu-cau-chu-dau-tu-du-an-tien-di-doi-40-cot-dien-nam-giua-long-duong-888338.ldo) ([Lao Động](https://laodong.vn))
-- [Lịch Sử là môn thi thứ 4 trong Kỳ thi vào lớp 10 tại Hà Nội](https://laodong.vn/giao-duc/lich-su-la-mon-thi-thu-4-trong-ky-thi-vao-lop-10-tai-ha-noi-888406.ldo) ([Lao Động](https://laodong.vn))
-- [Hyundai SantaFe soán ngôi vương bán chạy trong phân khúc bởi 3 lý do này](https://cafebiz.vn/hyundai-santafe-soan-ngoi-vuong-ban-chay-trong-phan-khuc-boi-3-ly-do-nay-20210312123544399.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trà Ô Long cao cấp lần đầu được bán take-away](https://cafebiz.vn/tra-o-long-cao-cap-lan-dau-duoc-ban-take-away-20210312120823654.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chỉ 1 chiếc màn hình này là đủ cho mọi nhu cầu từ học tập đến giải trí tại gia](https://cafebiz.vn/chi-1-chiec-man-hinh-nay-la-du-cho-moi-nhu-cau-tu-hoc-tap-den-giai-tri-tai-gia-20210312105055392.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hành trình của Cung Tuấn: Sao nam có thể vượt Tiêu Chiến, Vương Nhất Bác?](https://laodong.vn/photo/hanh-trinh-cua-cung-tuan-sao-nam-co-the-vuot-tieu-chien-vuong-nhat-bac-888161.ldo) ([Lao Động](https://laodong.vn))
-- [Cổ động viên Hải Phòng đổ xô mua vé trận tiếp đón Hà Nội](https://laodong.vn/bong-da/co-dong-vien-hai-phong-do-xo-mua-ve-tran-tiep-don-ha-noi-888393.ldo) ([Lao Động](https://laodong.vn))
-- [Vĩnh Phúc: Thượng úy CSGT bị tông gãy chân, tay khi ra hiệu lệnh dừng xe](https://laodong.vn/phap-luat/vinh-phuc-thuong-uy-csgt-bi-tong-gay-chan-tay-khi-ra-hieu-lenh-dung-xe-888404.ldo) ([Lao Động](https://laodong.vn))
-- [Một đại biểu HĐND tỉnh Bến Tre bị phát hiện tàng trữ súng ngắn](https://tuoitre.vn/mot-dai-bieu-hdnd-tinh-ben-tre-bi-phat-hien-tang-tru-sung-ngan-20210312121545323.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cần Thơ cho quán bar, vũ trường hoạt động trở lại](https://vnexpress.net/can-tho-cho-quan-bar-vu-truong-hoat-dong-tro-lai-4247522.html) ([VNExpress](https://vnexpress.net))
+- [Masan Group "mất" 25.200 tỷ đồng vốn chủ do chi mạnh cho thương vụ hợp nhất Vincommerce](https://cafebiz.vn/masan-group-mat-25200-ty-dong-von-chu-do-chi-manh-cho-thuong-vu-hop-nhat-vincommerce-20210312135509996.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ban Tuyên giáo Trung ương giới thiệu hai người ứng cử đại biểu Quốc hội](https://laodong.vn/thoi-su/ban-tuyen-giao-trung-uong-gioi-thieu-hai-nguoi-ung-cu-dai-bieu-quoc-hoi-888412.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiễm trùng, áp xe cổ do điều trị thoát vị đĩa đệm bằng châm cứu](https://laodong.vn/suc-khoe/nhiem-trung-ap-xe-co-do-dieu-tri-thoat-vi-dia-dem-bang-cham-cuu-888390.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM tuyên dương 129 tấm gương thầm lặng cao cả](https://laodong.vn/thoi-su/tphcm-tuyen-duong-129-tam-guong-tham-lang-cao-ca-888409.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương: Bệnh nhân COVID-19 khỏi bệnh phải cách ly tại nhà 21 ngày](https://laodong.vn/y-te/hai-duong-benh-nhan-covid-19-khoi-benh-phai-cach-ly-tai-nha-21-ngay-888407.ldo) ([Lao Động](https://laodong.vn))
+- [Nữ hoàng Anh và dư luận phản ứng ra sao trước lời tuyên bố đanh thép của Hoàng tử William khiến Harry phải xấu hổ?](https://cafebiz.vn/nu-hoang-anh-va-du-luan-phan-ung-ra-sao-truoc-loi-tuyen-bo-danh-thep-cua-hoang-tu-william-khien-harry-phai-xau-ho-20210312134732875.chn) ([CafeBiz](https://cafebiz.vn))
+- [Doanh nghiệp mong chờ gì từ các hỗ trợ mới hậu Covid-19?](https://cafebiz.vn/doanh-nghiep-mong-cho-gi-tu-cac-ho-tro-moi-hau-covid-19-20210312134547633.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đề xuất xác minh bổ sung vụ tố cáo Trưởng phòng khám ở Khánh Hoà](https://laodong.vn/xa-hoi/de-xuat-xac-minh-bo-sung-vu-to-cao-truong-phong-kham-o-khanh-hoa-888300.ldo) ([Lao Động](https://laodong.vn))
+- [Hagrimex hậu cổ phần hóa: Doanh thu lao dốc, mập mờ công bố thông tin](https://laodong.vn/kinh-te/hagrimex-hau-co-phan-hoa-doanh-thu-lao-doc-map-mo-cong-bo-thong-tin-888310.ldo) ([Lao Động](https://laodong.vn))
+- [Người bán vé số lẻn vào phòng bệnh nhân Covid-19](https://vnexpress.net/nguoi-ban-ve-so-len-vao-phong-benh-nhan-covid-19-4247528.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
