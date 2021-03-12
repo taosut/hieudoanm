@@ -21,8 +21,8 @@
 
 - Current weather is scattered clouds.
 - Temperature is 25°C.
-- Feels Like 26.03°C.
-- Air Visual is 149.
+- Feels Like 26.09°C.
+- Air Visual is 113.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Đại học Văn hóa Hà Nội cộng điểm ưu tiên IELTS khi xét học bạ](https://laodong.vn/giao-duc/dai-hoc-van-hoa-ha-noi-cong-diem-uu-tien-ielts-khi-xet-hoc-ba-888481.ldo) ([Lao Động](https://laodong.vn))
+- [Sau gần 2 năm rưỡi phụ trách Ban Điều hành BIDV, ông Lê Ngọc Lâm chính thức ngồi ghế CEO ngân hàng có tài sản lớn nhất Việt Nam](https://cafebiz.vn/sau-gan-2-nam-ruoi-phu-trach-ban-dieu-hanh-bidv-ong-le-ngoc-lam-chinh-thuc-ngoi-ghe-ceo-ngan-hang-co-tai-san-lon-nhat-viet-nam-20210312203030622.chn) ([CafeBiz](https://cafebiz.vn))
+- [EVNHANOI ra mắt “Hệ sinh thái chăm sóc khách hàng”](https://laodong.vn/kinh-te/evnhanoi-ra-mat-he-sinh-thai-cham-soc-khach-hang-888560.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất 6 dự án hơn 21.000 tỉ đồng kết nối giao thông TPHCM và Long An](https://laodong.vn/xa-hoi/de-xuat-6-du-an-hon-21000-ti-dong-ket-noi-giao-thong-tphcm-va-long-an-888591.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nam: Một lượng lớn hàng hóa nghi thuốc chữa bệnh giả bị thu giữ](https://laodong.vn/phap-luat/ha-nam-mot-luong-lon-hang-hoa-nghi-thuoc-chua-benh-gia-bi-thu-giu-888590.ldo) ([Lao Động](https://laodong.vn))
+- [Mobile Money có an toàn và bảo mật?](https://cafebiz.vn/mobile-money-co-an-toan-va-bao-mat-20210312192257409.chn) ([CafeBiz](https://cafebiz.vn))
+- [Huấn luyện viên Đức Thắng: “Đá với Hoàng Anh Gia Lai khó hơn gặp Sài Gòn&quot;](https://laodong.vn/bong-da/huan-luyen-vien-duc-thang-da-voi-hoang-anh-gia-lai-kho-hon-gap-sai-gon-888589.ldo) ([Lao Động](https://laodong.vn))
+- [Nghi tái dương tính COVID-19, Hải Dương yêu cầu F0 cách ly 21 ngày sau khi ra viện](https://tuoitre.vn/nghi-tai-duong-tinh-covid-19-hai-duong-yeu-cau-f0-cach-ly-21-ngay-sau-khi-ra-vien-20210312193826271.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Điểm sáng từ du lịch “thuận thiên”: Nói không với “bêtông hóa”](https://laodong.vn/xa-hoi/diem-sang-tu-du-lich-thuan-thien-noi-khong-voi-betong-hoa-888462.ldo) ([Lao Động](https://laodong.vn))
 - [Rầm rộ tin giả về việc một đại gia BĐS đầu tư 2 dự án lớn tại Quốc Oai, Hà Nội](https://cafebiz.vn/ram-ro-tin-gia-ve-viec-mot-dai-gia-bds-dau-tu-2-du-an-lon-tai-quoc-oai-ha-noi-20210312191421857.chn) ([CafeBiz](https://cafebiz.vn))
-- [Học viện Báo chí và Tuyên truyền tuyển thẳng thí sinh đạt giải quốc gia](https://laodong.vn/giao-duc/hoc-vien-bao-chi-va-tuyen-truyen-tuyen-thang-thi-sinh-dat-giai-quoc-gia-888582.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 13.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-133-888510.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: YouTuber Thơ Nguyễn đã nộp thuế hơn 2 tỉ đồng](https://laodong.vn/video/nong-nhat-24h-youtuber-tho-nguyen-da-nop-thue-hon-2-ti-dong-888567.ldo) ([Lao Động](https://laodong.vn))
-- [Trung Quốc bác tin phạt Alibaba của tỉ phú Jack Ma gần 1 tỉ USD](https://laodong.vn/the-gioi/trung-quoc-bac-tin-phat-alibaba-cua-ti-phu-jack-ma-gan-1-ti-usd-888527.ldo) ([Lao Động](https://laodong.vn))
-- [Cơ sở để giảm giá điện mặt trời mái nhà đến 30%](https://laodong.vn/video-thoi-su/co-so-de-giam-gia-dien-mat-troi-mai-nha-den-30-888596.ldo) ([Lao Động](https://laodong.vn))
-- [Giáo dục 24/7: Thí sinh cận thị được thi vào Học viện Cảnh sát](https://laodong.vn/video/giao-duc-247-thi-sinh-can-thi-duoc-thi-vao-hoc-vien-canh-sat-888438.ldo) ([Lao Động](https://laodong.vn))
-- ['Tất cả người tiêm vaccine Covid-19 ở Việt Nam sức khỏe ổn định'](https://vnexpress.net/tat-ca-nguoi-tiem-vaccine-covid-19-o-viet-nam-suc-khoe-on-dinh-4247759.html) ([VNExpress](https://vnexpress.net))
-- [Ông Phạm Minh Chính: Xử lý nghiêm cán bộ có động cơ sai trái, bè phái](http://vietnamnet.vn/vn/thoi-su/chinh-tri/ong-pham-minh-chinh-xu-ly-nghiem-can-bo-co-dong-co-sai-trai-be-phai-719273.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
