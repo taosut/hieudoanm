@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 25.86°C.
-- Air Visual is 115.
+- Current weather is scattered clouds.
+- Temperature is 25°C.
+- Feels Like 26.03°C.
+- Air Visual is 117.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Lấy cơ sở nào để giảm giá điện mặt trời mái nhà đến 30%?](https://cafebiz.vn/lay-co-so-nao-de-giam-gia-dien-mat-troi-mai-nha-den-30-20210312173205187.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ôtô chỉ được phép chạy tối đa 60km/h trên cầu Thanh Trì](https://laodong.vn/xa-hoi/oto-chi-duoc-phep-chay-toi-da-60kmh-tren-cau-thanh-tri-888535.ldo) ([Lao Động](https://laodong.vn))
-- [Lưu ý 4 kiểu người không nên ăn tỏi](https://laodong.vn/suc-khoe/luu-y-4-kieu-nguoi-khong-nen-an-toi-887859.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Nam: Ngành du lịch &quot;chuyển mình&quot; với những tín hiệu đáng mừng](https://laodong.vn/thi-truong/quang-nam-nganh-du-lich-chuyen-minh-voi-nhung-tin-hieu-dang-mung-888454.ldo) ([Lao Động](https://laodong.vn))
-- [Sáng mai (13.3), Thủ tướng chủ trì hội nghị lần 3 đánh giá Nghị quyết &quot;thuận thiên&quot;](https://laodong.vn/thoi-su/sang-mai-133-thu-tuong-chu-tri-hoi-nghi-lan-3-danh-gia-nghi-quyet-thuan-thien-888566.ldo) ([Lao Động](https://laodong.vn))
-- [15 ca mắc mới COVID-19, trong đó 13 ca nhập cảnh](https://laodong.vn/y-te/15-ca-mac-moi-covid-19-trong-do-13-ca-nhap-canh-888532.ldo) ([Lao Động](https://laodong.vn))
-- [Hạ thuỷ những con thuyền cuối cùng trước giờ đón khách ở Chùa Hương](https://laodong.vn/photo/ha-thuy-nhung-con-thuyen-cuoi-cung-truoc-gio-don-khach-o-chua-huong-888519.ldo) ([Lao Động](https://laodong.vn))
-- [Lý Sơn đề nghị VNPT ngăn chở tỏi ra đảo](https://vnexpress.net/ly-son-de-nghi-vnpt-ngan-cho-toi-ra-dao-4247714.html) ([VNExpress](https://vnexpress.net))
-- [Bộ Công Thương nói về việc giá xăng tăng liên tiếp](https://laodong.vn/video-thoi-su/bo-cong-thuong-noi-ve-viec-gia-xang-tang-lien-tiep-888545.ldo) ([Lao Động](https://laodong.vn))
-- [Một thi thể đang phân hủy trôi dạt vào bãi biển Bình Định](https://tuoitre.vn/mot-thi-the-dang-phan-huy-troi-dat-vao-bai-bien-binh-dinh-20210312183349176.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bị cáo Đinh La Thăng xin cho cấp dưới khi nói lời sau cùng](https://laodong.vn/phap-luat/bi-cao-dinh-la-thang-xin-cho-cap-duoi-khi-noi-loi-sau-cung-888581.ldo) ([Lao Động](https://laodong.vn))
+- [Liên đoàn bóng đá UAE: “Tuyển Việt Nam sẽ được biệt đãi tại UAE&quot;](https://laodong.vn/bong-da/lien-doan-bong-da-uae-tuyen-viet-nam-se-duoc-biet-dai-tai-uae-888568.ldo) ([Lao Động](https://laodong.vn))
+- [Đồng Nai chi gần 6 tỉ đồng xét nghiệm COVID-19 miễn phí cho nhân viên y tế](https://tuoitre.vn/dong-nai-chi-gan-6-ti-dong-xet-nghiem-covid-19-mien-phi-cho-nhan-vien-y-te-20210312192044762.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Đề xuất đầu tư đường sắt nhẹ Thủ Thiêm kết nối sân bay Long Thành](https://tuoitre.vn/de-xuat-dau-tu-duong-sat-nhe-thu-thiem-ket-noi-san-bay-long-thanh-20210312182015697.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [&quot;Đội tuyển Việt Nam không gặp bất lợi khi thi đấu ở UAE&quot;](https://laodong.vn/bong-da/doi-tuyen-viet-nam-khong-gap-bat-loi-khi-thi-dau-o-uae-888547.ldo) ([Lao Động](https://laodong.vn))
+- [Nguyễn Được: Từ cậu bé nghèo bán vé số trở thành cái tên sáng giá trong nghề nail](https://cafebiz.vn/nguyen-duoc-tu-cau-be-ngheo-ban-ve-so-tro-thanh-cai-ten-sang-gia-trong-nghe-nail-20210310203621546.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đại biểu Quốc hội Ksor H’Bơ Khăp không tái ứng cử khóa XV](https://tuoitre.vn/dai-bieu-quoc-hoi-ksor-hbo-khap-khong-tai-ung-cu-khoa-xv-20210312185920187.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thành ủy Thủ Đức được đề xuất đặt tại nơi mới](https://vnexpress.net/thanh-uy-thu-duc-duoc-de-xuat-dat-tai-noi-moi-4247716.html) ([VNExpress](https://vnexpress.net))
+- [Việt Nam sẽ 'xây dựng cơ chế phù hợp với hộ chiếu vaccine'](https://vnexpress.net/viet-nam-se-xay-dung-co-che-phu-hop-voi-ho-chieu-vaccine-4247741.html) ([VNExpress](https://vnexpress.net))
+- [Chiều 12/3, có 2 ca mắc COVID-19 tại Hải Dương và 13 ca nhập cảnh](https://cafebiz.vn/chieu-12-3-co-2-ca-mac-covid-19-tai-hai-duong-va-13-ca-nhap-canh-2021031219113026.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
