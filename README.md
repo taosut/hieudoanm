@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is clear sky.
+- Current weather is broken clouds.
 - Temperature is 27°C.
 - Feels Like 26.44°C.
-- Air Visual is 102.
+- Air Visual is 113.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cùng lập cú đúp thành tích, BTS vượt hẳn Blackpink, TWICE, Red Velvet](https://laodong.vn/giai-tri/cung-lap-cu-dup-thanh-tich-bts-vuot-han-blackpink-twice-red-velvet-888518.ldo) ([Lao Động](https://laodong.vn))
-- [Trung Quốc: Thiếu phụ sốc vì đi khám mắt cá chân phát hiện ra giới tính nam](https://laodong.vn/the-gioi/trung-quoc-thieu-phu-soc-vi-di-kham-mat-ca-chan-phat-hien-ra-gioi-tinh-nam-888512.ldo) ([Lao Động](https://laodong.vn))
-- [Phát hiện một thi thể đang phân hủy trôi dạt vào bờ biển Bình Định](https://laodong.vn/phap-luat/phat-hien-mot-thi-the-dang-phan-huy-troi-dat-vao-bo-bien-binh-dinh-888511.ldo) ([Lao Động](https://laodong.vn))
-- [Triển khai kế hoạch phát triển đoàn viên, thành lập Công đoàn cơ sở](https://laodong.vn/cong-doan/trien-khai-ke-hoach-phat-trien-doan-vien-thanh-lap-cong-doan-co-so-888504.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Tĩnh từng “trải thảm đỏ” đón ông Võ Hoàng Yên ra sao?](https://laodong.vn/ban-doc/ha-tinh-tung-trai-tham-do-don-ong-vo-hoang-yen-ra-sao-888479.ldo) ([Lao Động](https://laodong.vn))
+- [Bến Tre: Họp báo thông tin tình hình cung cấp nước sạch trong mùa khô](https://laodong.vn/xa-hoi/ben-tre-hop-bao-thong-tin-tinh-hinh-cung-cap-nuoc-sach-trong-mua-kho-888517.ldo) ([Lao Động](https://laodong.vn))
+- [Sở Y tế Bình Thuận báo cáo việc cấp chứng chỉ hành nghề cho Võ Hoàng Yên](https://laodong.vn/xa-hoi/so-y-te-binh-thuan-bao-cao-viec-cap-chung-chi-hanh-nghe-cho-vo-hoang-yen-888477.ldo) ([Lao Động](https://laodong.vn))
+- [Giải thể trường trung cấp Nghiệp vụ Công đoàn Giao thông Vận tải](https://laodong.vn/cong-doan/giai-the-truong-trung-cap-nghiep-vu-cong-doan-giao-thong-van-tai-888536.ldo) ([Lao Động](https://laodong.vn))
+- [Các tỉnh công bố môn thi, lịch thi tuyển sinh vào lớp 10 với nhiều đổi mới](https://laodong.vn/giao-duc/cac-tinh-cong-bo-mon-thi-lich-thi-tuyen-sinh-vao-lop-10-voi-nhieu-doi-moi-888513.ldo) ([Lao Động](https://laodong.vn))
+- [Viettel quyết tâm giành 3 điểm trước Bình Dương](https://laodong.vn/bong-da/viettel-quyet-tam-gianh-3-diem-truoc-binh-duong-888501.ldo) ([Lao Động](https://laodong.vn))
+- [Khánh thành ký túc xá tại Học viện Chính trị quốc gia khu vực IV](https://tuoitre.vn/khanh-thanh-ky-tuc-xa-tai-hoc-vien-chinh-tri-quoc-gia-khu-vuc-iv-20210312164729982.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [YouTuber Thơ Nguyễn đã nộp khoảng 2 tỉ tiền thuế trong ba năm, tiếp tục rà soát](https://tuoitre.vn/youtuber-tho-nguyen-da-nop-khoang-2-ti-tien-thue-trong-ba-nam-tiep-tuc-ra-soat-20210312174732772.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Sở Y tế Bình Thuận báo cáo vụ 'thần y' Võ Hoàng Yên](https://tuoitre.vn/so-y-te-binh-thuan-bao-cao-vu-than-y-vo-hoang-yen-20210312174813708.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ủy ban kiểm tra Thành ủy TP Thủ Đức có 1 chủ nhiệm và 4 phó chủ nhiệm](https://tuoitre.vn/uy-ban-kiem-tra-thanh-uy-tp-thu-duc-co-1-chu-nhiem-va-4-pho-chu-nhiem-20210312174004692.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chủ tịch xã bị kỷ luật vì cho thuê đất trái thẩm quyền](https://vnexpress.net/chu-tich-xa-bi-ky-luat-vi-cho-thue-dat-trai-tham-quyen-4247708.html) ([VNExpress](https://vnexpress.net))
-- [Xét nghiệm ngẫu nhiên cho người dân Hà Nội](https://vnexpress.net/xet-nghiem-ngau-nhien-cho-nguoi-dan-ha-noi-4247684.html) ([VNExpress](https://vnexpress.net))
-- [60 triệu liều vaccine COVID-19 tại Việt Nam sẽ về Việt Nam khi nào?](https://laodong.vn/infographic/60-trieu-lieu-vaccine-covid-19-tai-viet-nam-se-ve-viet-nam-khi-nao-886851.ldo) ([Lao Động](https://laodong.vn))
-- [Naturenz Gold nâng tầm dược liệu giải độc gan bằng thành tựu khoa học mới](https://cafebiz.vn/naturenz-gold-nang-tam-duoc-lieu-giai-doc-gan-bang-thanh-tuu-khoa-hoc-moi-20210312165103577.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sân bay thứ 2 cho Vùng Thủ đô: chọn Tiên Lãng hay Ứng Hoà?](https://cafebiz.vn/san-bay-thu-2-cho-vung-thu-do-chon-tien-lang-hay-ung-hoa-20210312172433827.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
