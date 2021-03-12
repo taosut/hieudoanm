@@ -20,8 +20,8 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 27°C.
-- Feels Like 26.44°C.
+- Temperature is 26°C.
+- Feels Like 25.86°C.
 - Air Visual is 113.
 
 **WEATHER**
@@ -75,11 +75,11 @@
 
 **NEWS**
 
+- [&quot;Phù thuỷ&quot; Troussier triệu tập 34 cầu thủ U18 Việt Nam](https://laodong.vn/bong-da/phu-thuy-troussier-trieu-tap-34-cau-thu-u18-viet-nam-888482.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam - Anh ký Biên bản ghi nhớ hợp tác chống kháng kháng sinh](https://laodong.vn/thoi-su/viet-nam-anh-ky-bien-ban-ghi-nho-hop-tac-chong-khang-khang-sinh-888516.ldo) ([Lao Động](https://laodong.vn))
+- [Vĩnh Long: Đoàn viên Công đoàn, người lao động hiến được 268 đơn vị máu](https://laodong.vn/cong-doan/vinh-long-doan-vien-cong-doan-nguoi-lao-dong-hien-duoc-268-don-vi-mau-888522.ldo) ([Lao Động](https://laodong.vn))
+- [Phấn đấu thực hiện khoảng 1.500 sáng kiến vượt khó phát triển](https://laodong.vn/ldld-an-giang/phan-dau-thuc-hien-khoang-1500-sang-kien-vuot-kho-phat-trien-888503.ldo) ([Lao Động](https://laodong.vn))
 - [Bến Tre: Họp báo thông tin tình hình cung cấp nước sạch trong mùa khô](https://laodong.vn/xa-hoi/ben-tre-hop-bao-thong-tin-tinh-hinh-cung-cap-nuoc-sach-trong-mua-kho-888517.ldo) ([Lao Động](https://laodong.vn))
-- [Sở Y tế Bình Thuận báo cáo việc cấp chứng chỉ hành nghề cho Võ Hoàng Yên](https://laodong.vn/xa-hoi/so-y-te-binh-thuan-bao-cao-viec-cap-chung-chi-hanh-nghe-cho-vo-hoang-yen-888477.ldo) ([Lao Động](https://laodong.vn))
-- [Giải thể trường trung cấp Nghiệp vụ Công đoàn Giao thông Vận tải](https://laodong.vn/cong-doan/giai-the-truong-trung-cap-nghiep-vu-cong-doan-giao-thong-van-tai-888536.ldo) ([Lao Động](https://laodong.vn))
-- [Các tỉnh công bố môn thi, lịch thi tuyển sinh vào lớp 10 với nhiều đổi mới](https://laodong.vn/giao-duc/cac-tinh-cong-bo-mon-thi-lich-thi-tuyen-sinh-vao-lop-10-voi-nhieu-doi-moi-888513.ldo) ([Lao Động](https://laodong.vn))
-- [Viettel quyết tâm giành 3 điểm trước Bình Dương](https://laodong.vn/bong-da/viettel-quyet-tam-gianh-3-diem-truoc-binh-duong-888501.ldo) ([Lao Động](https://laodong.vn))
 - [Khánh thành ký túc xá tại Học viện Chính trị quốc gia khu vực IV](https://tuoitre.vn/khanh-thanh-ky-tuc-xa-tai-hoc-vien-chinh-tri-quoc-gia-khu-vuc-iv-20210312164729982.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [YouTuber Thơ Nguyễn đã nộp khoảng 2 tỉ tiền thuế trong ba năm, tiếp tục rà soát](https://tuoitre.vn/youtuber-tho-nguyen-da-nop-khoang-2-ti-tien-thue-trong-ba-nam-tiep-tuc-ra-soat-20210312174732772.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Sở Y tế Bình Thuận báo cáo vụ 'thần y' Võ Hoàng Yên](https://tuoitre.vn/so-y-te-binh-thuan-bao-cao-vu-than-y-vo-hoang-yen-20210312174813708.htm) ([Tuổi Trẻ](https://tuoitre.vn))
