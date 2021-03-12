@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 24°C.
 - Feels Like 26.12°C.
-- Air Visual is 101.
+- Air Visual is 102.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Smartphone quan trọng hơn laptop - xu thế không còn xa lạ với dân văn phòng thời nay](https://cafebiz.vn/smartphone-quan-trong-hon-laptop-xu-the-khong-con-xa-la-voi-dan-van-phong-thoi-nay-20210311150827279.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tràn lan “thần y”, lương y online, ai quản?](https://laodong.vn/xa-hoi/tran-lan-than-y-luong-y-online-ai-quan-888176.ldo) ([Lao Động](https://laodong.vn))
+- [Doanh nghiệp ở Bình Dương “đỏ mắt” ngóng tuyển lao động dịp đầu năm](https://laodong.vn/video/doanh-nghiep-o-binh-duong-do-mat-ngong-tuyen-lao-dong-dip-dau-nam-888250.ldo) ([Lao Động](https://laodong.vn))
+- [Tập đoàn Masan muốn lên Sa Pa họp Đại hội cổ đông, tại một khách sạn 5 sao theo phong cách Tây đẹp ngất ngây](https://cafebiz.vn/tap-doan-masan-muon-len-sa-pa-hop-dai-hoi-co-dong-tai-mot-khach-san-5-sao-theo-phong-cach-tay-dep-ngat-ngay-20210312095019789.chn) ([CafeBiz](https://cafebiz.vn))
+- [Từ vụ Thơ Nguyễn: Tác hại khủng khiếp khi trẻ nhỏ dán mắt xem 'mặt tối của YouTube' ngay trên YouTube Kids](https://cafebiz.vn/tu-vu-tho-nguyen-tac-hai-khung-khiep-khi-tre-nho-dan-mat-xem-mat-toi-cua-youtube-ngay-tren-youtube-kids-20210312095514551.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tài khoản tiện ích hỗ trợ vận hành doanh nghiệp hiệu quả](https://laodong.vn/kinh-te/tai-khoan-tien-ich-ho-tro-van-hanh-doanh-nghiep-hieu-qua-888282.ldo) ([Lao Động](https://laodong.vn))
+- [Cần Thơ mở lại hoạt động quán karaoke, vũ trường, massage](http://vietnamnet.vn/vn/thoi-su/can-tho-mo-lai-hoat-dong-quan-karaoke-vu-truong-massage-719078.html) ([VietNamNet](https://vietnamnet.vn))
 - [Cựu Giám đốc kinh doanh Tập đoàn IPP của tỷ phú Johnathan Hạnh Nguyễn đi startup, vừa được VNG đầu tư 6 triệu USD](https://cafebiz.vn/cuu-giam-doc-kinh-doanh-tap-doan-ipp-cua-ty-phu-johnathan-hanh-nguyen-di-startup-vua-duoc-vng-dau-tu-6-trieu-usd-20210312093843524.chn) ([CafeBiz](https://cafebiz.vn))
 - [21 phòng vắt, trữ sữa đang hoạt động tại các KCN tỉnh Bắc Giang](https://laodong.vn/ldld-bac-giang/21-phong-vat-tru-sua-dang-hoat-dong-tai-cac-kcn-tinh-bac-giang-888292.ldo) ([Lao Động](https://laodong.vn))
 - [Cần Thơ chính thức cho phép mở cửa karaoke, bar, vũ trường từ ngày 13.3](https://laodong.vn/xa-hoi/can-tho-chinh-thuc-cho-phep-mo-cua-karaoke-bar-vu-truong-tu-ngay-133-888289.ldo) ([Lao Động](https://laodong.vn))
-- [CĐ Xây dựng Việt Nam: Nhiều hoạt động trong Tháng Công nhân 2021](https://laodong.vn/cd-xay-dung/cd-xay-dung-viet-nam-nhieu-hoat-dong-trong-thang-cong-nhan-2021-888284.ldo) ([Lao Động](https://laodong.vn))
-- [Người nhà Glazer bán cổ phần, Man United không được đồng xu nào](https://laodong.vn/bong-da-quoc-te/nguoi-nha-glazer-ban-co-phan-man-united-khong-duoc-dong-xu-nao-888283.ldo) ([Lao Động](https://laodong.vn))
-- [Vinamilk sắp bán thịt bò](https://cafebiz.vn/vinamilk-sap-ban-thit-bo-20210312092756053.chn) ([CafeBiz](https://cafebiz.vn))
-- [Roger Federer chia tay Qatar Open 2021 bởi tay vợt hạng 42 thế giới](https://laodong.vn/the-thao/roger-federer-chia-tay-qatar-open-2021-boi-tay-vot-hang-42-the-gioi-888275.ldo) ([Lao Động](https://laodong.vn))
-- [Quy tắc 5% bất kỳ ai đang phân vân nên thuê hay mua nhà đều cần phải biết](https://cafebiz.vn/quy-tac-5-bat-ky-ai-dang-phan-van-nen-thue-hay-mua-nha-deu-can-phai-biet-20210311155011614.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xe tải chở gà lật bẹp dúm, tài xế cùng phụ xe tử nạn](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/xe-tai-cho-ga-lat-bep-dum-tai-xe-cung-phu-xe-tu-nan-719055.html) ([VietNamNet](https://vietnamnet.vn))
-- [Cuộc sống hiện tại của người bố địu con bán bọc chân chống xe máy ở Hà Nội: Bé gái đã được đến trường](https://cafebiz.vn/cuoc-song-hien-tai-cua-nguoi-bo-diu-con-ban-boc-chan-chong-xe-may-o-ha-noi-be-gai-da-duoc-den-truong-20210312091637991.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [CEO Ru9, Đặng Thuỳ Trang và 3 giá trị làm nên hạnh phúc và thành công](https://vietcetera.com/vn/ceo-ru9-dang-thuy-trang-va-3-gia-tri-lam-nen-hanh-phuc-va-thanh-cong)
 - [Tóm Lại Là: "Hú vía" trẻ không dùng điện thoại một mình](https://vietcetera.com/vn/tom-lai-la-hu-via-tre-khong-dung-dien-thoai-mot-minh)
 - [Câu chuyện về chiếc áo dài 48-tiếng-may của Kelly Marie Trần](https://vietcetera.com/vn/cau-chuyen-ve-chiec-ao-dai-48-tieng-may-cua-kelly-marie-tran)
 - [Chữ Với Nghĩa: Chằm Zn là gì mà Gen Z thuộc lòng?](https://vietcetera.com/vn/chu-voi-nghia-cham-zn-la-gi-ma-gen-z-thuoc-long)
@@ -105,7 +106,6 @@
 - [5 Thương hiệu board game Việt Nam cho những ngày cai điện thoại](https://vietcetera.com/vn/5-thuong-hieu-board-game-viet-nam-cho-nhung-ngay-cai-dien-thoai)
 - [Vì sao ta xem lại phim cũ mà không bao giờ chán?](https://vietcetera.com/vn/vi-sao-ta-xem-lai-phim-cu-ma-khong-bao-gio-chan)
 - [Trịnh Hương Anh và tình yêu cho những điều nhỏ bé](https://vietcetera.com/vn/trinh-huong-anh-va-tinh-yeu-cho-nhung-dieu-nho-be)
-- [Bóc Term: Normie - Làm người bình thường thì đã sao?](https://vietcetera.com/vn/boc-term-normie-lam-nguoi-binh-thuong-thi-co-gi-khong-on)
 
 [Read More](https://vietcetera.com/)
 
