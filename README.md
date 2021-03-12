@@ -21,8 +21,8 @@
 
 - Current weather is few clouds.
 - Temperature is 28°C.
-- Feels Like 27.46°C.
-- Air Visual is 94.
+- Feels Like 26.6°C.
+- Air Visual is 103.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Trung Quốc phóng thành công tên lửa đẩy Long Mach-7A mới](https://laodong.vn/the-gioi/trung-quoc-phong-thanh-cong-ten-lua-day-long-mach-7a-moi-888447.ldo) ([Lao Động](https://laodong.vn))
-- [Dự báo mới nhất diễn biến không khí lạnh trong vòng một tháng tới](https://laodong.vn/moi-truong/du-bao-moi-nhat-dien-bien-khong-khi-lanh-trong-vong-mot-thang-toi-888058.ldo) ([Lao Động](https://laodong.vn))
-- [Hưng Yên: Hơn 160 trường hợp được tiêm vaccine phòng COVID-19](https://laodong.vn/xa-hoi/hung-yen-hon-160-truong-hop-duoc-tiem-vaccine-phong-covid-19-888455.ldo) ([Lao Động](https://laodong.vn))
-- [40 ngày cao điểm của Chương trình “75 nghìn sáng kiến vượt khó, phát triển&quot;](https://laodong.vn/ldld-long-an/40-ngay-cao-diem-cua-chuong-trinh-75-nghin-sang-kien-vuot-kho-phat-trien-888451.ldo) ([Lao Động](https://laodong.vn))
-- [CĐ KKT Đông Nam Nghệ An: Nhiều hoạt động thiết thực trong Tháng Công nhân](https://laodong.vn/cong-doan/cd-kkt-dong-nam-nghe-an-nhieu-hoat-dong-thiet-thuc-trong-thang-cong-nhan-888452.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam tiếp tục triển khai tiêm vắc xin AstraZeneca](https://tuoitre.vn/viet-nam-tiep-tuc-trien-khai-tiem-vac-xin-astrazeneca-20210312150551756.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nhà văn Hoàng Anh Tú: Thơ Nguyễn đang "dạy" các bố mẹ điều gì?](https://cafebiz.vn/nha-van-hoang-anh-tu-tho-nguyen-dang-day-cac-bo-me-dieu-gi-20210312153437264.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sức nóng lan tỏa từ lễ Kick-off dự án Elite Life](https://cafebiz.vn/suc-nong-lan-toa-tu-le-kick-off-du-an-elite-life-2021031215153088.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hé lộ lịch trình của tỉ phú Jack Ma trong nhiều tháng vắng bóng](https://laodong.vn/the-gioi/he-lo-lich-trinh-cua-ti-phu-jack-ma-trong-nhieu-thang-vang-bong-888416.ldo) ([Lao Động](https://laodong.vn))
-- [Tiếp tục xả mạnh quỹ bình ổn, giá xăng trong nước tăng bao nhiêu?](https://laodong.vn/thi-truong/tiep-tuc-xa-manh-quy-binh-on-gia-xang-trong-nuoc-tang-bao-nhieu-888265.ldo) ([Lao Động](https://laodong.vn))
+- [Thống đốc New York đối mặt áp lực từ chức vì cáo buộc quấy rối tình dục](https://laodong.vn/the-gioi/thong-doc-new-york-doi-mat-ap-luc-tu-chuc-vi-cao-buoc-quay-roi-tinh-duc-888433.ldo) ([Lao Động](https://laodong.vn))
+- [Hoàng Anh Gia Lai muốn hóa giải “ngựa ô” Bình Định](https://laodong.vn/video/hoang-anh-gia-lai-muon-hoa-giai-ngua-o-binh-dinh-888444.ldo) ([Lao Động](https://laodong.vn))
+- [Khởi động tuyến cao tốc Dầu Giây - Liên Khương](https://vnexpress.net/khoi-dong-tuyen-cao-toc-dau-giay-lien-khuong-4247490.html) ([VNExpress](https://vnexpress.net))
+- [VKSND: Bị cáo Đinh La Thăng vô trách nhiệm](https://cafebiz.vn/vksnd-bi-cao-dinh-la-thang-vo-trach-nhiem-20210312162052177.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội: Trả kết quả xét nghiệm COVID-19 tại chỗ cho nhân viên bến Mỹ Đình](https://laodong.vn/xa-hoi/ha-noi-tra-ket-qua-xet-nghiem-covid-19-tai-cho-cho-nhan-vien-ben-my-dinh-888446.ldo) ([Lao Động](https://laodong.vn))
+- [Thêm trường đại học ưu tiên tuyển thẳng thí sinh có chứng chỉ IELTS](https://laodong.vn/giao-duc/them-truong-dai-hoc-uu-tien-tuyen-thang-thi-sinh-co-chung-chi-ielts-888468.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội xét nghiệm nhanh COVID-19 cho 4.000 người nguy cơ cao](https://tuoitre.vn/ha-noi-xet-nghiem-nhanh-covid-19-cho-4-000-nguoi-nguy-co-cao-20210312155258496.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chùa Hương: Khách không đeo khẩu trang bị cấm lên thuyền, đò](https://laodong.vn/video/chua-huong-khach-khong-deo-khau-trang-bi-cam-len-thuyen-do-888445.ldo) ([Lao Động](https://laodong.vn))
+- [Giá xăng tăng thêm gần 800 đồng/lít từ 15h chiều nay 12/3](https://cafebiz.vn/gia-xang-tang-them-gan-800-dong-lit-tu-15h-chieu-nay-12-3-20210312161213475.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xây dựng không phép ngay 'khu đất vàng' Quy Nhơn, doanh nghiệp bị phạt 40 triệu đồng](https://tuoitre.vn/xay-dung-khong-phep-ngay-khu-dat-vang-quy-nhon-doanh-nghiep-bi-phat-40-trieu-dong-20210312135819036.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
