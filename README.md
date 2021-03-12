@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 26.97°C.
-- Air Visual is 114.
+- Air Visual is 113.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Đổ xô lắp lưới an toàn chung cư, coi chừng khiến cả gia đình gặp nguy hiểm](https://cafebiz.vn/do-xo-lap-luoi-an-toan-chung-cu-coi-chung-khien-ca-gia-dinh-gap-nguy-hiem-20210312110128494.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phúc Long lấn sân mảng co-working space, ra mắt mô hình vừa bán cà phê vừa làm việc chung](https://cafebiz.vn/phuc-long-lan-san-mang-co-working-space-ra-mat-mo-hinh-vua-ban-ca-phe-vua-lam-viec-chung-20210312094321003.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hiệu quả vaccine Pfizer-BioNtech trong thực tế cao hơn kết quả nghiên cứu](https://laodong.vn/the-gioi/hieu-qua-vaccine-pfizer-biontech-trong-thuc-te-cao-hon-ket-qua-nghien-cuu-888326.ldo) ([Lao Động](https://laodong.vn))
+- [3 phương pháp giúp trẻ học nhớ nhanh nhất](https://laodong.vn/gia-dinh-hon-nhan/3-phuong-phap-giup-tre-hoc-nho-nhanh-nhat-888320.ldo) ([Lao Động](https://laodong.vn))
 - [YouTuber Việt sẽ bị Google đánh thuế thu nhập lên tới 30%](https://cafebiz.vn/youtuber-viet-se-bi-google-danh-thue-thu-nhap-len-toi-30-20210312105125013.chn) ([CafeBiz](https://cafebiz.vn))
+- [Biến đổi khí hậu có thể &quot;kéo giãn&quot; mùa hè đến 6 tháng](https://laodong.vn/moi-truong/bien-doi-khi-hau-co-the-keo-gian-mua-he-den-6-thang-888026.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Cuối tuần, một số khu vực ở TP. Thủ Đức và 4 quận sẽ bị cắt nước](https://laodong.vn/ban-doc/tphcm-cuoi-tuan-mot-so-khu-vuc-o-tp-thu-duc-va-4-quan-se-bi-cat-nuoc-888332.ldo) ([Lao Động](https://laodong.vn))
 - [Thừa Thiên - Huế thí điểm dạy nữ công gia chánh trong trường học](https://laodong.vn/van-hoa-giai-tri/thua-thien-hue-thi-diem-day-nu-cong-gia-chanh-trong-truong-hoc-888330.ldo) ([Lao Động](https://laodong.vn))
 - [Sĩ quan Việt Nam được cử đi làm việc tại trụ sở Liên Hợp Quốc](https://vnexpress.net/si-quan-viet-nam-duoc-cu-di-lam-viec-tai-tru-so-lien-hop-quoc-4247357.html) ([VNExpress](https://vnexpress.net))
 - [155.000 tỷ đồng sắp chảy ra thị trường?](https://cafebiz.vn/155000-ty-dong-sap-chay-ra-thi-truong-20210312104515475.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khánh thành nhà máy điện mặt trời đầu tiên tại tỉnh Hậu Giang](https://laodong.vn/kinh-te/khanh-thanh-nha-may-dien-mat-troi-dau-tien-tai-tinh-hau-giang-888322.ldo) ([Lao Động](https://laodong.vn))
-- [Nhân viên tạp vụ nhiễm COVD-19 ở Hải Dương từng đến đám tang, đi chợ, lễ chùa](https://tuoitre.vn/nhan-vien-tap-vu-nhiem-covd-19-o-hai-duong-tung-den-dam-tang-di-cho-le-chua-20210312103118503.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bà Nguyễn Thị Hồng Nhung làm Chủ tịch LĐLĐ Thành phố Thủ Đức](https://laodong.vn/ldld-tphcm/ba-nguyen-thi-hong-nhung-lam-chu-tich-ldld-thanh-pho-thu-duc-888118.ldo) ([Lao Động](https://laodong.vn))
-- [Những y bác sĩ Đà Nẵng đầu tiên được tiêm vaccine COVID-19](https://laodong.vn/photo/nhung-y-bac-si-da-nang-dau-tien-duoc-tiem-vaccine-covid-19-888287.ldo) ([Lao Động](https://laodong.vn))
-- [Phó chủ tịch CenGroup Phạm Thanh Hưng: Một lượng lớn nhà đầu tư đang sẵn sàng vào thị trường bất động sản](https://cafebiz.vn/pho-chu-tich-cengroup-pham-thanh-hung-mot-luong-lon-nha-dau-tu-dang-san-sang-vao-thi-truong-bat-dong-san-20210312094219386.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cháy lớn kho xưởng lan sang dãy trọ, nhiều tài sản bị thiêu rụi](https://tuoitre.vn/chay-lon-kho-xuong-lan-sang-day-tro-nhieu-tai-san-bi-thieu-rui-20210312094509219.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Đến LSE, Oxford và Stanford rồi vỡ ra mình học tiếng Anh chưa... "tới" ](https://vietcetera.com/vn/den-lse-oxford-va-stanford-roi-vo-ra-minh-hoc-tieng-anh-sai-cach)
 - [CEO Ru9, Đặng Thuỳ Trang và 3 giá trị làm nên hạnh phúc và thành công](https://vietcetera.com/vn/ceo-ru9-dang-thuy-trang-va-3-gia-tri-lam-nen-hanh-phuc-va-thanh-cong)
 - [Tóm Lại Là: "Hú vía" trẻ không dùng điện thoại một mình](https://vietcetera.com/vn/tom-lai-la-hu-via-tre-khong-dung-dien-thoai-mot-minh)
 - [Câu chuyện về chiếc áo dài 48-tiếng-may của Kelly Marie Trần](https://vietcetera.com/vn/cau-chuyen-ve-chiec-ao-dai-48-tieng-may-cua-kelly-marie-tran)
@@ -105,7 +106,6 @@
 - [Sơn Đoàn: "Năm 20 tuổi, anh không biết nói "không", cũng không biết buông bỏ. Giờ thì khác..."](https://vietcetera.com/vn/son-doan-mot-chuyen-di-ve-nhung-ngay-20)
 - [5 Thương hiệu board game Việt Nam cho những ngày cai điện thoại](https://vietcetera.com/vn/5-thuong-hieu-board-game-viet-nam-cho-nhung-ngay-cai-dien-thoai)
 - [Vì sao ta xem lại phim cũ mà không bao giờ chán?](https://vietcetera.com/vn/vi-sao-ta-xem-lai-phim-cu-ma-khong-bao-gio-chan)
-- [Trịnh Hương Anh và tình yêu cho những điều nhỏ bé](https://vietcetera.com/vn/trinh-huong-anh-va-tinh-yeu-cho-nhung-dieu-nho-be)
 
 [Read More](https://vietcetera.com/)
 
