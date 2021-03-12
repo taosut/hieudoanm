@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 25.86°C.
-- Air Visual is 113.
+- Air Visual is 115.
 
 **WEATHER**
 
@@ -50,6 +50,7 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
@@ -62,7 +63,6 @@
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
-- [![ROG Phone 5](https://img.shields.io/static/v1?label=ROG%20Phone%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=ROG%20Phone%205)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [&quot;Phù thuỷ&quot; Troussier triệu tập 34 cầu thủ U18 Việt Nam](https://laodong.vn/bong-da/phu-thuy-troussier-trieu-tap-34-cau-thu-u18-viet-nam-888482.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam - Anh ký Biên bản ghi nhớ hợp tác chống kháng kháng sinh](https://laodong.vn/thoi-su/viet-nam-anh-ky-bien-ban-ghi-nho-hop-tac-chong-khang-khang-sinh-888516.ldo) ([Lao Động](https://laodong.vn))
-- [Vĩnh Long: Đoàn viên Công đoàn, người lao động hiến được 268 đơn vị máu](https://laodong.vn/cong-doan/vinh-long-doan-vien-cong-doan-nguoi-lao-dong-hien-duoc-268-don-vi-mau-888522.ldo) ([Lao Động](https://laodong.vn))
-- [Phấn đấu thực hiện khoảng 1.500 sáng kiến vượt khó phát triển](https://laodong.vn/ldld-an-giang/phan-dau-thuc-hien-khoang-1500-sang-kien-vuot-kho-phat-trien-888503.ldo) ([Lao Động](https://laodong.vn))
-- [Bến Tre: Họp báo thông tin tình hình cung cấp nước sạch trong mùa khô](https://laodong.vn/xa-hoi/ben-tre-hop-bao-thong-tin-tinh-hinh-cung-cap-nuoc-sach-trong-mua-kho-888517.ldo) ([Lao Động](https://laodong.vn))
-- [Khánh thành ký túc xá tại Học viện Chính trị quốc gia khu vực IV](https://tuoitre.vn/khanh-thanh-ky-tuc-xa-tai-hoc-vien-chinh-tri-quoc-gia-khu-vuc-iv-20210312164729982.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [YouTuber Thơ Nguyễn đã nộp khoảng 2 tỉ tiền thuế trong ba năm, tiếp tục rà soát](https://tuoitre.vn/youtuber-tho-nguyen-da-nop-khoang-2-ti-tien-thue-trong-ba-nam-tiep-tuc-ra-soat-20210312174732772.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sở Y tế Bình Thuận báo cáo vụ 'thần y' Võ Hoàng Yên](https://tuoitre.vn/so-y-te-binh-thuan-bao-cao-vu-than-y-vo-hoang-yen-20210312174813708.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Ủy ban kiểm tra Thành ủy TP Thủ Đức có 1 chủ nhiệm và 4 phó chủ nhiệm](https://tuoitre.vn/uy-ban-kiem-tra-thanh-uy-tp-thu-duc-co-1-chu-nhiem-va-4-pho-chu-nhiem-20210312174004692.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chủ tịch xã bị kỷ luật vì cho thuê đất trái thẩm quyền](https://vnexpress.net/chu-tich-xa-bi-ky-luat-vi-cho-thue-dat-trai-tham-quyen-4247708.html) ([VNExpress](https://vnexpress.net))
+- [Lấy cơ sở nào để giảm giá điện mặt trời mái nhà đến 30%?](https://cafebiz.vn/lay-co-so-nao-de-giam-gia-dien-mat-troi-mai-nha-den-30-20210312173205187.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ôtô chỉ được phép chạy tối đa 60km/h trên cầu Thanh Trì](https://laodong.vn/xa-hoi/oto-chi-duoc-phep-chay-toi-da-60kmh-tren-cau-thanh-tri-888535.ldo) ([Lao Động](https://laodong.vn))
+- [Lưu ý 4 kiểu người không nên ăn tỏi](https://laodong.vn/suc-khoe/luu-y-4-kieu-nguoi-khong-nen-an-toi-887859.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Nam: Ngành du lịch &quot;chuyển mình&quot; với những tín hiệu đáng mừng](https://laodong.vn/thi-truong/quang-nam-nganh-du-lich-chuyen-minh-voi-nhung-tin-hieu-dang-mung-888454.ldo) ([Lao Động](https://laodong.vn))
+- [Sáng mai (13.3), Thủ tướng chủ trì hội nghị lần 3 đánh giá Nghị quyết &quot;thuận thiên&quot;](https://laodong.vn/thoi-su/sang-mai-133-thu-tuong-chu-tri-hoi-nghi-lan-3-danh-gia-nghi-quyet-thuan-thien-888566.ldo) ([Lao Động](https://laodong.vn))
+- [15 ca mắc mới COVID-19, trong đó 13 ca nhập cảnh](https://laodong.vn/y-te/15-ca-mac-moi-covid-19-trong-do-13-ca-nhap-canh-888532.ldo) ([Lao Động](https://laodong.vn))
+- [Hạ thuỷ những con thuyền cuối cùng trước giờ đón khách ở Chùa Hương](https://laodong.vn/photo/ha-thuy-nhung-con-thuyen-cuoi-cung-truoc-gio-don-khach-o-chua-huong-888519.ldo) ([Lao Động](https://laodong.vn))
+- [Lý Sơn đề nghị VNPT ngăn chở tỏi ra đảo](https://vnexpress.net/ly-son-de-nghi-vnpt-ngan-cho-toi-ra-dao-4247714.html) ([VNExpress](https://vnexpress.net))
+- [Bộ Công Thương nói về việc giá xăng tăng liên tiếp](https://laodong.vn/video-thoi-su/bo-cong-thuong-noi-ve-viec-gia-xang-tang-lien-tiep-888545.ldo) ([Lao Động](https://laodong.vn))
+- [Một thi thể đang phân hủy trôi dạt vào bãi biển Bình Định](https://tuoitre.vn/mot-thi-the-dang-phan-huy-troi-dat-vao-bai-bien-binh-dinh-20210312183349176.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
