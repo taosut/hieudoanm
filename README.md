@@ -22,7 +22,7 @@
 - Current weather is scattered clouds.
 - Temperature is 25°C.
 - Feels Like 26.03°C.
-- Air Visual is 117.
+- Air Visual is 149.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bị cáo Đinh La Thăng xin cho cấp dưới khi nói lời sau cùng](https://laodong.vn/phap-luat/bi-cao-dinh-la-thang-xin-cho-cap-duoi-khi-noi-loi-sau-cung-888581.ldo) ([Lao Động](https://laodong.vn))
-- [Liên đoàn bóng đá UAE: “Tuyển Việt Nam sẽ được biệt đãi tại UAE&quot;](https://laodong.vn/bong-da/lien-doan-bong-da-uae-tuyen-viet-nam-se-duoc-biet-dai-tai-uae-888568.ldo) ([Lao Động](https://laodong.vn))
-- [Đồng Nai chi gần 6 tỉ đồng xét nghiệm COVID-19 miễn phí cho nhân viên y tế](https://tuoitre.vn/dong-nai-chi-gan-6-ti-dong-xet-nghiem-covid-19-mien-phi-cho-nhan-vien-y-te-20210312192044762.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đề xuất đầu tư đường sắt nhẹ Thủ Thiêm kết nối sân bay Long Thành](https://tuoitre.vn/de-xuat-dau-tu-duong-sat-nhe-thu-thiem-ket-noi-san-bay-long-thanh-20210312182015697.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [&quot;Đội tuyển Việt Nam không gặp bất lợi khi thi đấu ở UAE&quot;](https://laodong.vn/bong-da/doi-tuyen-viet-nam-khong-gap-bat-loi-khi-thi-dau-o-uae-888547.ldo) ([Lao Động](https://laodong.vn))
-- [Nguyễn Được: Từ cậu bé nghèo bán vé số trở thành cái tên sáng giá trong nghề nail](https://cafebiz.vn/nguyen-duoc-tu-cau-be-ngheo-ban-ve-so-tro-thanh-cai-ten-sang-gia-trong-nghe-nail-20210310203621546.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đại biểu Quốc hội Ksor H’Bơ Khăp không tái ứng cử khóa XV](https://tuoitre.vn/dai-bieu-quoc-hoi-ksor-hbo-khap-khong-tai-ung-cu-khoa-xv-20210312185920187.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thành ủy Thủ Đức được đề xuất đặt tại nơi mới](https://vnexpress.net/thanh-uy-thu-duc-duoc-de-xuat-dat-tai-noi-moi-4247716.html) ([VNExpress](https://vnexpress.net))
-- [Việt Nam sẽ 'xây dựng cơ chế phù hợp với hộ chiếu vaccine'](https://vnexpress.net/viet-nam-se-xay-dung-co-che-phu-hop-voi-ho-chieu-vaccine-4247741.html) ([VNExpress](https://vnexpress.net))
-- [Chiều 12/3, có 2 ca mắc COVID-19 tại Hải Dương và 13 ca nhập cảnh](https://cafebiz.vn/chieu-12-3-co-2-ca-mac-covid-19-tai-hai-duong-va-13-ca-nhap-canh-2021031219113026.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đại học Văn hóa Hà Nội cộng điểm ưu tiên IELTS khi xét học bạ](https://laodong.vn/giao-duc/dai-hoc-van-hoa-ha-noi-cong-diem-uu-tien-ielts-khi-xet-hoc-ba-888481.ldo) ([Lao Động](https://laodong.vn))
+- [Rầm rộ tin giả về việc một đại gia BĐS đầu tư 2 dự án lớn tại Quốc Oai, Hà Nội](https://cafebiz.vn/ram-ro-tin-gia-ve-viec-mot-dai-gia-bds-dau-tu-2-du-an-lon-tai-quoc-oai-ha-noi-20210312191421857.chn) ([CafeBiz](https://cafebiz.vn))
+- [Học viện Báo chí và Tuyên truyền tuyển thẳng thí sinh đạt giải quốc gia](https://laodong.vn/giao-duc/hoc-vien-bao-chi-va-tuyen-truyen-tuyen-thang-thi-sinh-dat-giai-quoc-gia-888582.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 13.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-133-888510.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất 24h: YouTuber Thơ Nguyễn đã nộp thuế hơn 2 tỉ đồng](https://laodong.vn/video/nong-nhat-24h-youtuber-tho-nguyen-da-nop-thue-hon-2-ti-dong-888567.ldo) ([Lao Động](https://laodong.vn))
+- [Trung Quốc bác tin phạt Alibaba của tỉ phú Jack Ma gần 1 tỉ USD](https://laodong.vn/the-gioi/trung-quoc-bac-tin-phat-alibaba-cua-ti-phu-jack-ma-gan-1-ti-usd-888527.ldo) ([Lao Động](https://laodong.vn))
+- [Cơ sở để giảm giá điện mặt trời mái nhà đến 30%](https://laodong.vn/video-thoi-su/co-so-de-giam-gia-dien-mat-troi-mai-nha-den-30-888596.ldo) ([Lao Động](https://laodong.vn))
+- [Giáo dục 24/7: Thí sinh cận thị được thi vào Học viện Cảnh sát](https://laodong.vn/video/giao-duc-247-thi-sinh-can-thi-duoc-thi-vao-hoc-vien-canh-sat-888438.ldo) ([Lao Động](https://laodong.vn))
+- ['Tất cả người tiêm vaccine Covid-19 ở Việt Nam sức khỏe ổn định'](https://vnexpress.net/tat-ca-nguoi-tiem-vaccine-covid-19-o-viet-nam-suc-khoe-on-dinh-4247759.html) ([VNExpress](https://vnexpress.net))
+- [Ông Phạm Minh Chính: Xử lý nghiêm cán bộ có động cơ sai trái, bè phái](http://vietnamnet.vn/vn/thoi-su/chinh-tri/ong-pham-minh-chinh-xu-ly-nghiem-can-bo-co-dong-co-sai-trai-be-phai-719273.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
