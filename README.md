@@ -21,8 +21,8 @@
 
 - Current weather is scattered clouds.
 - Temperature is 25°C.
-- Feels Like 26.09°C.
-- Air Visual is 113.
+- Feels Like 26.61°C.
+- Air Visual is 120.
 
 **WEATHER**
 
@@ -61,9 +61,9 @@
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
-- [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
+- [![Rose](https://img.shields.io/static/v1?label=Rose&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Rose)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Trong 3 năm, Youtuber Thơ Nguyễn đã nộp bao nhiêu tiền thuế thu nhập?](https://cafebiz.vn/trong-3-nam-youtuber-tho-nguyen-da-nop-bao-nhieu-tien-thue-thu-nhap-20210312203946367.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sau gần 2 năm rưỡi phụ trách Ban Điều hành BIDV, ông Lê Ngọc Lâm chính thức ngồi ghế CEO ngân hàng có tài sản lớn nhất Việt Nam](https://cafebiz.vn/sau-gan-2-nam-ruoi-phu-trach-ban-dieu-hanh-bidv-ong-le-ngoc-lam-chinh-thuc-ngoi-ghe-ceo-ngan-hang-co-tai-san-lon-nhat-viet-nam-20210312203030622.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quyền và nghĩa vụ gì người sử dụng đất nên biết](https://laodong.vn/bat-dong-san/quyen-va-nghia-vu-gi-nguoi-su-dung-dat-nen-biet-887253.ldo) ([Lao Động](https://laodong.vn))
+- [Những mẫu sedan hạng B mới ra mắt có giá lăn bánh ra sao?](https://laodong.vn/xe/nhung-mau-sedan-hang-b-moi-ra-mat-co-gia-lan-banh-ra-sao-888346.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Tiềm ẩn nguy cơ cháy nổ từ những kiot chứa hàng ở phố Gầm Cầu](https://laodong.vn/ban-doc/ha-noi-tiem-an-nguy-co-chay-no-tu-nhung-kiot-chua-hang-o-pho-gam-cau-888432.ldo) ([Lao Động](https://laodong.vn))
+- [Từ 13-3, xe khách tuyến TP.HCM đi Quảng Trị trở ra hoạt động ở Bến xe Miền Đông mới](https://tuoitre.vn/tu-13-3-xe-khach-tuyen-tp-hcm-di-quang-tri-tro-ra-hoat-dong-o-ben-xe-mien-dong-moi-20210312200215386.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [EVNHANOI ra mắt “Hệ sinh thái chăm sóc khách hàng”](https://laodong.vn/kinh-te/evnhanoi-ra-mat-he-sinh-thai-cham-soc-khach-hang-888560.ldo) ([Lao Động](https://laodong.vn))
 - [Đề xuất 6 dự án hơn 21.000 tỉ đồng kết nối giao thông TPHCM và Long An](https://laodong.vn/xa-hoi/de-xuat-6-du-an-hon-21000-ti-dong-ket-noi-giao-thong-tphcm-va-long-an-888591.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nam: Một lượng lớn hàng hóa nghi thuốc chữa bệnh giả bị thu giữ](https://laodong.vn/phap-luat/ha-nam-mot-luong-lon-hang-hoa-nghi-thuoc-chua-benh-gia-bi-thu-giu-888590.ldo) ([Lao Động](https://laodong.vn))
 - [Mobile Money có an toàn và bảo mật?](https://cafebiz.vn/mobile-money-co-an-toan-va-bao-mat-20210312192257409.chn) ([CafeBiz](https://cafebiz.vn))
-- [Huấn luyện viên Đức Thắng: “Đá với Hoàng Anh Gia Lai khó hơn gặp Sài Gòn&quot;](https://laodong.vn/bong-da/huan-luyen-vien-duc-thang-da-voi-hoang-anh-gia-lai-kho-hon-gap-sai-gon-888589.ldo) ([Lao Động](https://laodong.vn))
 - [Nghi tái dương tính COVID-19, Hải Dương yêu cầu F0 cách ly 21 ngày sau khi ra viện](https://tuoitre.vn/nghi-tai-duong-tinh-covid-19-hai-duong-yeu-cau-f0-cach-ly-21-ngay-sau-khi-ra-vien-20210312193826271.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Điểm sáng từ du lịch “thuận thiên”: Nói không với “bêtông hóa”](https://laodong.vn/xa-hoi/diem-sang-tu-du-lich-thuan-thien-noi-khong-voi-betong-hoa-888462.ldo) ([Lao Động](https://laodong.vn))
-- [Rầm rộ tin giả về việc một đại gia BĐS đầu tư 2 dự án lớn tại Quốc Oai, Hà Nội](https://cafebiz.vn/ram-ro-tin-gia-ve-viec-mot-dai-gia-bds-dau-tu-2-du-an-lon-tai-quoc-oai-ha-noi-20210312191421857.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 13.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-133-888510.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -133,12 +133,12 @@
 01. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 03. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-04. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
-05. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
+04. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
+05. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 06. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
 07. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
-08. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
-09. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+08. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+09. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
 10. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 
 [Read More](https://www.youtube.com/feed/trending)
