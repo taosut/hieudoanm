@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is scattered clouds.
-- Temperature is 25°C.
-- Feels Like 26.61°C.
-- Air Visual is 138.
+- Temperature is 24°C.
+- Feels Like 25.76°C.
+- Air Visual is 142.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bắt đối tượng cướp xe ôm của tài xế lớn tuổi vào ban đêm](https://laodong.vn/phap-luat/bat-doi-tuong-cuop-xe-om-cua-tai-xe-lon-tuoi-vao-ban-dem-888601.ldo) ([Lao Động](https://laodong.vn))
+- [Kinh tế 24h: Giá vàng rớt thảm; Giá điện mặt trời áp mái giảm sâu](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-rot-tham-gia-dien-mat-troi-ap-mai-giam-sau-888597.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương cách ly tại nhà 21 ngày với người hết mắc Covid-19](https://vnexpress.net/hai-duong-cach-ly-tai-nha-21-ngay-voi-nguoi-het-mac-covid-19-4247762.html) ([VNExpress](https://vnexpress.net))
+- [Xác định nguồn lây của 3 mẹ con người Hải Phòng mắc COVID-19 khi sang Úc](https://laodong.vn/y-te/xac-dinh-nguon-lay-cua-3-me-con-nguoi-hai-phong-mac-covid-19-khi-sang-uc-888600.ldo) ([Lao Động](https://laodong.vn))
+- [22 tuyến đón khách cố định ở bến xe Miền Đông mới từ 13/3](https://vnexpress.net/22-tuyen-don-khach-co-dinh-o-ben-xe-mien-dong-moi-tu-13-3-4247738.html) ([VNExpress](https://vnexpress.net))
+- [Tốc độ ôtô trên cầu Thanh Trì giảm còn 60km/h](https://vnexpress.net/toc-do-oto-tren-cau-thanh-tri-giam-con-60km-h-4247742.html) ([VNExpress](https://vnexpress.net))
 - [Đạo luật đa bang của Mỹ phá vỡ thế độc quyền kho ứng dụng Apple và Google](https://cafebiz.vn/dao-luat-da-bang-cua-my-pha-vo-the-doc-quyen-kho-ung-dung-apple-va-google-20210312193818959.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nóng nhất hôm nay: Thông tin về cuộc gặp Thủ tướng Suga và Tổng thống Biden](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-thong-tin-ve-cuoc-gap-thu-tuong-suga-va-tong-thong-biden-888588.ldo) ([Lao Động](https://laodong.vn))
 - [Loài côn trùng đặc hữu New Zealand đặt theo tên Thủ tướng Jacinda Ardern](https://laodong.vn/the-gioi/loai-con-trung-dac-huu-new-zealand-dat-theo-ten-thu-tuong-jacinda-ardern-888488.ldo) ([Lao Động](https://laodong.vn))
 - [Điểm danh 4 kiểu người không nên ăn khoai lang](https://laodong.vn/suc-khoe/diem-danh-4-kieu-nguoi-khong-nen-an-khoai-lang-888576.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ Ngoại giao có tân Thứ trưởng](https://vnexpress.net/bo-ngoai-giao-co-tan-thu-truong-4247765.html) ([VNExpress](https://vnexpress.net))
-- [Đà Nẵng: Ngôi nhà có sàn bê tông, trát bằng cát thô, vữa xi măng xuất hiện lạ lẫm trên báo](https://cafebiz.vn/da-nang-ngoi-nha-co-san-be-tong-trat-bang-cat-tho-vua-xi-mang-xuat-hien-la-lam-tren-bao-20210312193312444.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dùng dồn dập nhận tin nhắn ‘giả’ tên thương hiệu ngân hàng](https://tuoitre.vn/nguoi-dung-don-dap-nhan-tin-nhan-gia-ten-thuong-hieu-ngan-hang-2021031220125072.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Trong 3 năm, Youtuber Thơ Nguyễn đã nộp bao nhiêu tiền thuế thu nhập?](https://cafebiz.vn/trong-3-nam-youtuber-tho-nguyen-da-nop-bao-nhieu-tien-thue-thu-nhap-20210312203946367.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sau gần 2 năm rưỡi phụ trách Ban Điều hành BIDV, ông Lê Ngọc Lâm chính thức ngồi ghế CEO ngân hàng có tài sản lớn nhất Việt Nam](https://cafebiz.vn/sau-gan-2-nam-ruoi-phu-trach-ban-dieu-hanh-bidv-ong-le-ngoc-lam-chinh-thuc-ngoi-ghe-ceo-ngan-hang-co-tai-san-lon-nhat-viet-nam-20210312203030622.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quyền và nghĩa vụ gì người sử dụng đất nên biết](https://laodong.vn/bat-dong-san/quyen-va-nghia-vu-gi-nguoi-su-dung-dat-nen-biet-887253.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
