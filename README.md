@@ -21,8 +21,8 @@
 
 - Current weather is clear sky.
 - Temperature is 28°C.
-- Feels Like 27.47°C.
-- Air Visual is 113.
+- Feels Like 28.18°C.
+- Air Visual is 101.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chùa Hương ngày mở cửa trở lại: Giá dịch vụ được niêm yết, công khai](https://laodong.vn/thi-truong/chua-huong-ngay-mo-cua-tro-lai-gia-dich-vu-duoc-niem-yet-cong-khai-888324.ldo) ([Lao Động](https://laodong.vn))
+- [Sau khi chê Tesla 'không có hoạt động kinh doanh thực', chủ tịch Toyota ngầm cảnh báo Apple 'làm ô tô không dễ xơi'](https://cafebiz.vn/sau-khi-che-tesla-khong-co-hoat-dong-kinh-doanh-thuc-chu-tich-toyota-ngam-canh-bao-apple-lam-o-to-khong-de-xoi-20210312143248845.chn) ([CafeBiz](https://cafebiz.vn))
+- [KĐN vượt kế hoạch trồng cây trên công trình khí năm 2021](https://laodong.vn/thong-tin-doanh-nghiep/kdn-vuot-ke-hoach-trong-cay-tren-cong-trinh-khi-nam-2021-888240.ldo) ([Lao Động](https://laodong.vn))
 - [Kiên Giang: Xâm nhập mặn tăng cao, hơn 1.200ha lúa bị thiệt hại](https://laodong.vn/xa-hoi/kien-giang-xam-nhap-man-tang-cao-hon-1200ha-lua-bi-thiet-hai-888413.ldo) ([Lao Động](https://laodong.vn))
 - [Mạo danh nhà chùa, trục lợi bạc tỉ: Sẽ bị xử lý như thế nào?](https://laodong.vn/xa-hoi/mao-danh-nha-chua-truc-loi-bac-ti-se-bi-xu-ly-nhu-the-nao-887071.ldo) ([Lao Động](https://laodong.vn))
 - [40 cột điện nằm giữa đường](https://vnexpress.net/40-cot-dien-nam-giua-duong-4247498.html) ([VNExpress](https://vnexpress.net))
 - [10 xe ôtô bán chạy nhất tháng 2:  Nhiều xáo trộn, đa số ở mức dưới 1.000 xe](https://laodong.vn/xe/10-xe-oto-ban-chay-nhat-thang-2-nhieu-xao-tron-da-so-o-muc-duoi-1000-xe-888217.ldo) ([Lao Động](https://laodong.vn))
 - [Nhà đầu tư lại đua giá, Bitcoin áp sát đỉnh kỷ lục](https://cafebiz.vn/nha-dau-tu-lai-dua-gia-bitcoin-ap-sat-dinh-ky-luc-2021031214172268.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tư duy quyết định bạn đứng ở tầng lớp nào: 3 nguyên nhân khiến người giàu ngày ngày càng giàu, còn người nghèo thì "nghèo bền vững"](https://cafebiz.vn/tu-duy-quyet-dinh-ban-dung-o-tang-lop-nao-3-nguyen-nhan-khien-nguoi-giau-ngay-ngay-cang-giau-con-nguoi-ngheo-thi-ngheo-ben-vung-20210311115617538.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cứu sống trẻ sơ sinh vừa chào đời bị tràn khí trung thất](https://laodong.vn/suc-khoe/cuu-song-tre-so-sinh-vua-chao-doi-bi-tran-khi-trung-that-888401.ldo) ([Lao Động](https://laodong.vn))
 - [Vì sao các ông lớn địa ốc đổ về Long An?](https://cafebiz.vn/vi-sao-cac-ong-lon-dia-oc-do-ve-long-an-20210312141028392.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dân &quot;chen chân&quot; đi làm căn cước công dân, mức lệ phí cụ thể thế nào?](https://laodong.vn/phap-luat/nguoi-dan-chen-chan-di-lam-can-cuoc-cong-dan-muc-le-phi-cu-the-the-nao-888392.ldo) ([Lao Động](https://laodong.vn))
-- [Bất cập trong quy hoạch 3 loại rừng ở Điện Biên](https://laodong.vn/video/bat-cap-trong-quy-hoach-3-loai-rung-o-dien-bien-888005.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -116,8 +116,8 @@
 01. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
 02. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 03. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
-04. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
-05. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
+04. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
+05. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 06. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
 07. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
@@ -134,12 +134,12 @@
 02. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 03. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 04. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
-05. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
-06. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
+05. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
+06. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
 07. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
 08. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
-09. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-10. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
+09. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
+10. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
