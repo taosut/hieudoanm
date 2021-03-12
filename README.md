@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 26.41°C.
-- Air Visual is 118.
+- Feels Like 26.97°C.
+- Air Visual is 114.
 
 **WEATHER**
 
@@ -50,12 +50,13 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
-- [![Khánh Phương](https://img.shields.io/static/v1?label=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
@@ -66,7 +67,6 @@
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
-- [![UEFA Champions League](https://img.shields.io/static/v1?label=UEFA%20Champions%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UEFA%20Champions%20League)
 - [![Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20V%C4%83n%20N%C6%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Đạo diễn Lê Hoàng mách kỹ nghệ "săn" đàn ông: Con gái muốn có người yêu, cứ đi cà phê sang chảnh!](https://cafebiz.vn/dao-dien-le-hoang-mach-ky-nghe-san-dan-ong-con-gai-muon-co-nguoi-yeu-cu-di-ca-phe-sang-chanh-20210312102225937.chn) ([CafeBiz](https://cafebiz.vn))
+- [YouTuber Việt sẽ bị Google đánh thuế thu nhập lên tới 30%](https://cafebiz.vn/youtuber-viet-se-bi-google-danh-thue-thu-nhap-len-toi-30-20210312105125013.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thừa Thiên - Huế thí điểm dạy nữ công gia chánh trong trường học](https://laodong.vn/van-hoa-giai-tri/thua-thien-hue-thi-diem-day-nu-cong-gia-chanh-trong-truong-hoc-888330.ldo) ([Lao Động](https://laodong.vn))
+- [Sĩ quan Việt Nam được cử đi làm việc tại trụ sở Liên Hợp Quốc](https://vnexpress.net/si-quan-viet-nam-duoc-cu-di-lam-viec-tai-tru-so-lien-hop-quoc-4247357.html) ([VNExpress](https://vnexpress.net))
+- [155.000 tỷ đồng sắp chảy ra thị trường?](https://cafebiz.vn/155000-ty-dong-sap-chay-ra-thi-truong-20210312104515475.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khánh thành nhà máy điện mặt trời đầu tiên tại tỉnh Hậu Giang](https://laodong.vn/kinh-te/khanh-thanh-nha-may-dien-mat-troi-dau-tien-tai-tinh-hau-giang-888322.ldo) ([Lao Động](https://laodong.vn))
+- [Nhân viên tạp vụ nhiễm COVD-19 ở Hải Dương từng đến đám tang, đi chợ, lễ chùa](https://tuoitre.vn/nhan-vien-tap-vu-nhiem-covd-19-o-hai-duong-tung-den-dam-tang-di-cho-le-chua-20210312103118503.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bà Nguyễn Thị Hồng Nhung làm Chủ tịch LĐLĐ Thành phố Thủ Đức](https://laodong.vn/ldld-tphcm/ba-nguyen-thi-hong-nhung-lam-chu-tich-ldld-thanh-pho-thu-duc-888118.ldo) ([Lao Động](https://laodong.vn))
 - [Những y bác sĩ Đà Nẵng đầu tiên được tiêm vaccine COVID-19](https://laodong.vn/photo/nhung-y-bac-si-da-nang-dau-tien-duoc-tiem-vaccine-covid-19-888287.ldo) ([Lao Động](https://laodong.vn))
 - [Phó chủ tịch CenGroup Phạm Thanh Hưng: Một lượng lớn nhà đầu tư đang sẵn sàng vào thị trường bất động sản](https://cafebiz.vn/pho-chu-tich-cengroup-pham-thanh-hung-mot-luong-lon-nha-dau-tu-dang-san-sang-vao-thi-truong-bat-dong-san-20210312094219386.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cháy lớn kho xưởng lan sang dãy trọ, nhiều tài sản bị thiêu rụi](https://tuoitre.vn/chay-lon-kho-xuong-lan-sang-day-tro-nhieu-tai-san-bi-thieu-rui-20210312094509219.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Vietcombank cảnh báo hàng loạt thủ đoạn lừa đảo mới](https://laodong.vn/kinh-te/vietcombank-canh-bao-hang-loat-thu-doan-lua-dao-moi-888296.ldo) ([Lao Động](https://laodong.vn))
-- [Công dụng bất ngờ của hoa đậu biếc trong việc làm đẹp làn da, mái tóc](https://laodong.vn/dinh-duong-am-thuc/cong-dung-bat-ngo-cua-hoa-dau-biec-trong-viec-lam-dep-lan-da-mai-toc-888299.ldo) ([Lao Động](https://laodong.vn))
-- [Giới trẻ định nghĩa &quot;thế nào là một môi trường làm việc lý tưởng&quot;](https://laodong.vn/kinh-te/gioi-tre-dinh-nghia-the-nao-la-mot-moi-truong-lam-viec-ly-tuong-888286.ldo) ([Lao Động](https://laodong.vn))
-- [Hộ chiếu vắc xin sẽ là giải pháp 'phá băng' cho ngành du lịch Việt Nam trong thời gian tới?](https://cafebiz.vn/ho-chieu-vac-xin-se-la-giai-phap-pha-bang-cho-nganh-du-lich-viet-nam-trong-thoi-gian-toi-20210312102544838.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khám phá ngôi mộ Ai Cập cổ đại bí ẩn bằng trải nghiệm cực mới](https://laodong.vn/the-gioi/kham-pha-ngoi-mo-ai-cap-co-dai-bi-an-bang-trai-nghiem-cuc-moi-888313.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ tịch VCCI: 90% doanh nghiệp bị tác động nặng nề do Covid-19, số lượng rút khỏi thị trường đạt kỷ lục, vượt ngưỡng 100 ngàn](https://cafebiz.vn/chu-tich-vcci-90-doanh-nghiep-bi-tac-dong-nang-ne-do-covid-19-so-luong-rut-khoi-thi-truong-dat-ky-luc-vuot-nguong-100-ngan-20210312094318426.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -139,7 +139,7 @@
 07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
 08. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 09. [EM SAY RỒI - THƯƠNG VÕ | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=h4k1OMjLrUQ) - [THƯƠNG VÕ OFFICIAL](https://www.youtube.com/channel/UCSCSop9yGxDHz0kuyCKwUhQ)
-10. [BI LONG ĐẠI CA Tập 7 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=t_93XyujFLg) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+10. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
 
 [Read More](https://www.youtube.com/feed/trending)
 
