@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 25.34°C.
-- Air Visual is 132.
+- Feels Like 24.97°C.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -50,10 +50,10 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
-- [![Barca vs PSG](https://img.shields.io/static/v1?label=Barca%20vs%20PSG&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca%20vs%20PSG)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
+- [![Khánh Phương](https://img.shields.io/static/v1?label=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Kh%C3%A1nh%20Ph%C6%B0%C6%A1ng)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
@@ -61,12 +61,12 @@
 - [![Mobile Money](https://img.shields.io/static/v1?label=Mobile%20Money&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mobile%20Money)
 - [![ROG Phone 5](https://img.shields.io/static/v1?label=ROG%20Phone%205&message=google&color=red&style=flat-square)](https://www.google.com/search?q=ROG%20Phone%205)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
+- [![Sakura](https://img.shields.io/static/v1?label=Sakura&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sakura)
 - [![Selena Gomez](https://img.shields.io/static/v1?label=Selena%20Gomez&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Selena%20Gomez)
 - [![Sinh con một bề](https://img.shields.io/static/v1?label=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sinh%20con%20m%E1%BB%99t%20b%E1%BB%81)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![UEFA Champions League](https://img.shields.io/static/v1?label=UEFA%20Champions%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=UEFA%20Champions%20League)
-- [![Yoona](https://img.shields.io/static/v1?label=Yoona&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Yoona)
 - [![Đinh Văn Nơi](https://img.shields.io/static/v1?label=%C4%90inh%20V%C4%83n%20N%C6%A1i&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90inh%20V%C4%83n%20N%C6%A1i)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [V.League 2021 đón khán giả trở lại](https://laodong.vn/the-thao/vleague-2021-don-khan-gia-tro-lai-888180.ldo) ([Lao Động](https://laodong.vn))
-- [Dự án thuỷ lợi nghìn tỉ đồng ở Tây Nguyên: Di dân trong cảnh “nước đến chân mới nhảy”](https://laodong.vn/xa-hoi/du-an-thuy-loi-nghin-ti-dong-o-tay-nguyen-di-dan-trong-canh-nuoc-den-chan-moi-nhay-888173.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao người giàu ở Nhật Bản, bao gồm cả chủ tịch của UNIQLO cũng chỉ thích dùng xe hơi tầm trung? Câu trả lời bất ngờ!](https://cafebiz.vn/vi-sao-nguoi-giau-o-nhat-ban-bao-gom-ca-chu-tich-cua-uniqlo-cung-chi-thich-dung-xe-hoi-tam-trung-cau-tra-loi-bat-ngo-20210311195306789.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắc Ninh: Tạm giữ 6 đối tượng đưa người nước ngoài nhập cảnh trái phép](https://laodong.vn/phap-luat/bac-ninh-tam-giu-6-doi-tuong-dua-nguoi-nuoc-ngoai-nhap-canh-trai-phep-888264.ldo) ([Lao Động](https://laodong.vn))
-- [Kết luận sai phạm vụ xâm nhập căn cứ đặt chuyên cơ Air Force One](https://laodong.vn/the-gioi/ket-luan-sai-pham-vu-xam-nhap-can-cu-dat-chuyen-co-air-force-one-888266.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ Tài Chính giới thiệu Bộ trưởng Đinh Tiến Dũng ứng cử ĐBQH khoá XV](https://laodong.vn/thoi-su/bo-tai-chinh-gioi-thieu-bo-truong-dinh-tien-dung-ung-cu-dbqh-khoa-xv-888246.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Võ Hoàng Yên tuyên bố &quot;đã chữa câm cho 4.000&quot;, nhưng kết quả thế nào?](https://laodong.vn/ban-doc/ong-vo-hoang-yen-tuyen-bo-da-chua-cam-cho-4000-nhung-ket-qua-the-nao-888263.ldo) ([Lao Động](https://laodong.vn))
-- [Xu hướng đầu tư tiềm năng 2021: Nhà hàng Online phi truyền thống](https://cafebiz.vn/xu-huong-dau-tu-tiem-nang-2021-nha-hang-online-phi-truyen-thong-20210311200948003.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những lĩnh vực kinh doanh sử dụng mùi hương để tiếp thị và gia tăng trải nghiệm](https://cafebiz.vn/nhung-linh-vuc-kinh-doanh-su-dung-mui-huong-de-tiep-thi-va-gia-tang-trai-nghiem-20210311200930105.chn) ([CafeBiz](https://cafebiz.vn))
-- [“Bữa tiệc” có nhiều ca tử vong tại Kon Tum: Tập trung điều trị những bệnh nhân còn lại](https://laodong.vn/xa-hoi/bua-tiec-co-nhieu-ca-tu-vong-tai-kon-tum-tap-trung-dieu-tri-nhung-benh-nhan-con-lai-888154.ldo) ([Lao Động](https://laodong.vn))
+- [Xe tải bị lật trên đường HCM, 2 người tử vong](https://laodong.vn/giao-thong/xe-tai-bi-lat-tren-duong-hcm-2-nguoi-tu-vong-888277.ldo) ([Lao Động](https://laodong.vn))
+- [Ngày hội Hiến máu nhân đạo tại PV GAS](https://laodong.vn/thong-tin-doanh-nghiep/ngay-hoi-hien-mau-nhan-dao-tai-pv-gas-888237.ldo) ([Lao Động](https://laodong.vn))
+- [Xe ôtô kinh doanh vận tải nhưng không đăng ký bị phạt thế nào?](https://laodong.vn/xe/xe-oto-kinh-doanh-van-tai-nhung-khong-dang-ky-bi-phat-the-nao-888255.ldo) ([Lao Động](https://laodong.vn))
+- [Chi tiết gói cứu trợ khổng lồ trị giá 1.900 USD có sức mua cả thị trường tiền số của ông Biden](https://cafebiz.vn/chi-tiet-goi-cuu-tro-khong-lo-tri-gia-1900-usd-co-suc-mua-ca-thi-truong-tien-so-cua-ong-biden-20210312084347959.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quy đổi tờ tiền 1000 đồng để đánh bạc tiền tỷ](https://cafebiz.vn/quy-doi-to-tien-1000-dong-de-danh-bac-tien-ty-20210312085712295.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Biden chỉ thị tiêm vaccine cho toàn bộ người lớn trước tháng 5](https://laodong.vn/the-gioi/ong-biden-chi-thi-tiem-vaccine-cho-toan-bo-nguoi-lon-truoc-thang-5-888269.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng: Tạm giữ đối tượng bán ma túy, chứa chấp con nghiện tại nhà](https://laodong.vn/phap-luat/hai-phong-tam-giu-doi-tuong-ban-ma-tuy-chua-chap-con-nghien-tai-nha-888268.ldo) ([Lao Động](https://laodong.vn))
+- [Những ngôi nhà "kì dị" ở Hà Nội: Nhà hẳn... 4 mặt tiền, nhà thì siêu mỏng siêu nhỏ](https://cafebiz.vn/nhung-ngoi-nha-ki-di-o-ha-noi-nha-han-4-mat-tien-nha-thi-sieu-mong-sieu-nho-20210312085134854.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hàng loạt nhà hàng tên tuổi đóng cửa vì COVID-19, ngay cả công ty số 1 Golden Gate cũng đang khốn đốn đi vay phục vụ hoạt động kinh doanh](https://cafebiz.vn/hang-loat-nha-hang-ten-tuoi-dong-cua-vi-covid-19-ngay-ca-cong-ty-so-1-golden-gate-cung-dang-khon-don-di-vay-phuc-vu-hoat-dong-kinh-doanh-20210312082715891.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những tỷ phú sở hữu tài sản từ 100 tỷ USD làm giàu như thế nào?](https://cafebiz.vn/nhung-ty-phu-so-huu-tai-san-tu-100-ty-usd-lam-giau-nhu-the-nao-20210312084628206.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
