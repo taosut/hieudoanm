@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
+- Current weather is broken clouds.
 - Temperature is 28°C.
-- Feels Like 26.6°C.
-- Air Visual is 103.
+- Feels Like 26.74°C.
+- Air Visual is 94.
 
 **WEATHER**
 
@@ -52,7 +52,7 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
 - [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
-- [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
+- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Thống đốc New York đối mặt áp lực từ chức vì cáo buộc quấy rối tình dục](https://laodong.vn/the-gioi/thong-doc-new-york-doi-mat-ap-luc-tu-chuc-vi-cao-buoc-quay-roi-tinh-duc-888433.ldo) ([Lao Động](https://laodong.vn))
-- [Hoàng Anh Gia Lai muốn hóa giải “ngựa ô” Bình Định](https://laodong.vn/video/hoang-anh-gia-lai-muon-hoa-giai-ngua-o-binh-dinh-888444.ldo) ([Lao Động](https://laodong.vn))
-- [Khởi động tuyến cao tốc Dầu Giây - Liên Khương](https://vnexpress.net/khoi-dong-tuyen-cao-toc-dau-giay-lien-khuong-4247490.html) ([VNExpress](https://vnexpress.net))
-- [VKSND: Bị cáo Đinh La Thăng vô trách nhiệm](https://cafebiz.vn/vksnd-bi-cao-dinh-la-thang-vo-trach-nhiem-20210312162052177.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội: Trả kết quả xét nghiệm COVID-19 tại chỗ cho nhân viên bến Mỹ Đình](https://laodong.vn/xa-hoi/ha-noi-tra-ket-qua-xet-nghiem-covid-19-tai-cho-cho-nhan-vien-ben-my-dinh-888446.ldo) ([Lao Động](https://laodong.vn))
-- [Thêm trường đại học ưu tiên tuyển thẳng thí sinh có chứng chỉ IELTS](https://laodong.vn/giao-duc/them-truong-dai-hoc-uu-tien-tuyen-thang-thi-sinh-co-chung-chi-ielts-888468.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội xét nghiệm nhanh COVID-19 cho 4.000 người nguy cơ cao](https://tuoitre.vn/ha-noi-xet-nghiem-nhanh-covid-19-cho-4-000-nguoi-nguy-co-cao-20210312155258496.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chùa Hương: Khách không đeo khẩu trang bị cấm lên thuyền, đò](https://laodong.vn/video/chua-huong-khach-khong-deo-khau-trang-bi-cam-len-thuyen-do-888445.ldo) ([Lao Động](https://laodong.vn))
-- [Giá xăng tăng thêm gần 800 đồng/lít từ 15h chiều nay 12/3](https://cafebiz.vn/gia-xang-tang-them-gan-800-dong-lit-tu-15h-chieu-nay-12-3-20210312161213475.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xây dựng không phép ngay 'khu đất vàng' Quy Nhơn, doanh nghiệp bị phạt 40 triệu đồng](https://tuoitre.vn/xay-dung-khong-phep-ngay-khu-dat-vang-quy-nhon-doanh-nghiep-bi-phat-40-trieu-dong-20210312135819036.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hà Nội: Xét nghiệm sàng lọc COVID-19 cho nhân viên bến xe Mỹ Đình](https://laodong.vn/photo/ha-noi-xet-nghiem-sang-loc-covid-19-cho-nhan-vien-ben-xe-my-dinh-888457.ldo) ([Lao Động](https://laodong.vn))
+- [Kinh tế trưởng World Bank tại Việt Nam: Để hỗ trợ trực tiếp đối tượng bị ảnh hưởng bởi Covid-19, Mobile Money sẽ là một giải pháp đáng chú ý](https://cafebiz.vn/kinh-te-truong-world-bank-tai-viet-nam-de-ho-tro-truc-tiep-doi-tuong-bi-anh-huong-boi-covid-19-mobile-money-se-la-mot-giai-phap-dang-chu-y-20210312170136905.chn) ([CafeBiz](https://cafebiz.vn))
+- [Báo động tình trạng cháy cây hành lang cao tốc Cầu Giẽ – Ninh Bình](https://laodong.vn/video/bao-dong-tinh-trang-chay-cay-hanh-lang-cao-toc-cau-gie--ninh-binh-888344.ldo) ([Lao Động](https://laodong.vn))
+- [Trường hợp được thanh toán trực tiếp chi phí KCB bảo hiểm y tế](https://laodong.vn/ban-doc/truong-hop-duoc-thanh-toan-truc-tiep-chi-phi-kcb-bao-hiem-y-te-888425.ldo) ([Lao Động](https://laodong.vn))
+- [YouTuber Thơ Nguyễn đã nộp thuế hơn 2 tỉ đồng ở Bình Dương](https://laodong.vn/kinh-te/youtuber-tho-nguyen-da-nop-thue-hon-2-ti-dong-o-binh-duong-888474.ldo) ([Lao Động](https://laodong.vn))
+- [Luôn bị chê tơi bời về phong cách "làm lố", nhưng TVC mới của bột giặt Aba vừa cán mốc hơn 2 triệu view Youtube chỉ sau 1 ngày](https://cafebiz.vn/du-luon-bi-che-toi-boi-ve-phong-cach-quang-cao-lam-lo-va-le-the-tvc-moi-cua-bot-giat-aba-vua-can-moc-hon-2-trieu-view-youtube-chi-sau-1-ngay-20210312164013083.chn) ([CafeBiz](https://cafebiz.vn))
+- [Một số nước dừng vaccine COVID-19 AstraZenneca, Việt Nam có dừng tiêm?](https://laodong.vn/y-te/mot-so-nuoc-dung-vaccine-covid-19-astrazenneca-viet-nam-co-dung-tiem-888490.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Tĩnh có tân Chủ tịch UBND thành phố](http://vietnamnet.vn/vn/thoi-su/chinh-tri/ha-tinh-co-tan-chu-tich-ubnd-thanh-pho-719150.html) ([VietNamNet](https://vietnamnet.vn))
+- [Bộ Y tế thông tin về sự cố sau tiêm vaccine COVID-19](https://laodong.vn/y-te/bo-y-te-thong-tin-ve-su-co-sau-tiem-vaccine-covid-19-888487.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang dỡ bỏ chốt phòng chống dịch với Hải Dương, Quảng Ninh](https://tuoitre.vn/bac-giang-do-bo-chot-phong-chong-dich-voi-hai-duong-quang-ninh-20210312160918683.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,8 @@
 
 **VIETCETERA**
 
+- [Người thân của người trầm cảm cũng có thể là nạn nhân](https://vietcetera.com/vn/nguoi-than-cua-nguoi-tram-cam-cung-co-the-la-nan-nhan)
+- [KOL Việt đang làm gì để có được sự tự chủ trong sáng tạo? ](https://vietcetera.com/vn/kol-viet-dang-lam-gi-de-co-duoc-su-tu-chu-trong-sang-tao)
 - [Đính chính 4 hiểu lầm thường gặp về kombucha](https://vietcetera.com/vn/dinh-chinh-4-loi-don-noi-tieng-ve-kombucha)
 - [Đến LSE, Oxford và Stanford rồi vỡ ra mình học tiếng Anh chưa... "tới" ](https://vietcetera.com/vn/den-lse-oxford-va-stanford-roi-vo-ra-minh-hoc-tieng-anh-sai-cach)
 - [CEO Ru9, Đặng Thuỳ Trang và 3 giá trị làm nên hạnh phúc và thành công](https://vietcetera.com/vn/ceo-ru9-dang-thuy-trang-va-3-gia-tri-lam-nen-hanh-phuc-va-thanh-cong)
@@ -104,8 +106,6 @@
 - [Chữ Với Nghĩa: Chằm Zn là gì mà Gen Z thuộc lòng?](https://vietcetera.com/vn/chu-voi-nghia-cham-zn-la-gi-ma-gen-z-thuoc-long)
 - [SoundCloud - Cứu tinh của nghệ sĩ indie?](https://vietcetera.com/vn/soundcloud-cuu-tinh-cua-nghe-si-indie)
 - ["Như đang rơi tự do xuống vực, và có 500 vì sao rớt xuống cùng mình."](https://vietcetera.com/vn/du-co-lam-gi-di-nua-bao-boc-quanh-anh-van-la-cam-giac-minh-thieu)
-- [Sơn Đoàn: "Năm 20 tuổi, anh không biết nói "không", cũng không biết buông bỏ. Giờ thì khác..."](https://vietcetera.com/vn/son-doan-mot-chuyen-di-ve-nhung-ngay-20)
-- [5 Thương hiệu board game Việt Nam cho những ngày cai điện thoại](https://vietcetera.com/vn/5-thuong-hieu-board-game-viet-nam-cho-nhung-ngay-cai-dien-thoai)
 
 [Read More](https://vietcetera.com/)
 
@@ -122,7 +122,7 @@
 07. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 09. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-10. [CÀNG YÊU SÂU CÀNG NHỚ LÂU - NGUYÊN HÀ | NGUYỄN MINH CƯỜNG'S MELANCHOLY](https://www.youtube.com/watch?v=P2ZORWGTCZc) - [Nguyễn Minh Cường](https://www.youtube.com/channel/UChi9IcbxMM0iYSMGQ1AIyhg)
+10. [Miley Cyrus - Angels Like You (Official Video)](https://www.youtube.com/watch?v=Y0ORhLyJWuc) - [MileyCyrusVEVO](https://www.youtube.com/channel/UCdI8evszfZvyAl2UVCypkTA)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
