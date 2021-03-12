@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
+- Current weather is scattered clouds.
 - Temperature is 26°C.
-- Feels Like 27.83°C.
-- Air Visual is 109.
+- Feels Like 26.67°C.
+- Air Visual is 111.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bản tin 1 phút 12.3: Bộ Y tế ra công văn yêu cầu khẩn vụ ông Võ Hoàng Yên](https://laodong.vn/video/ban-tin-1-phut-123-bo-y-te-ra-cong-van-yeu-cau-khan-vu-ong-vo-hoang-yen-888339.ldo) ([Lao Động](https://laodong.vn))
+- [Chanathip báo tin vui, Thái Lan &quot;thở phào nhẹ nhõm&quot;](https://laodong.vn/bong-da/chanathip-bao-tin-vui-thai-lan-tho-phao-nhe-nhom-888372.ldo) ([Lao Động](https://laodong.vn))
+- [Sáp nhập Cao đẳng Sư phạm Ninh Thuận vào Đại học Nông Lâm TPHCM](https://laodong.vn/giao-duc/sap-nhap-cao-dang-su-pham-ninh-thuan-vao-dai-hoc-nong-lam-tphcm-888378.ldo) ([Lao Động](https://laodong.vn))
+- [Tuyển sinh 2021: Học viện Cảnh sát nhân dân tuyển 530 chỉ tiêu](https://laodong.vn/giao-duc/tuyen-sinh-2021-hoc-vien-canh-sat-nhan-dan-tuyen-530-chi-tieu-888359.ldo) ([Lao Động](https://laodong.vn))
+- [Nghệ An chính thức bỏ môn thi thứ 4 trong kỳ thi tuyển sinh lớp 10](https://laodong.vn/giao-duc/nghe-an-chinh-thuc-bo-mon-thi-thu-4-trong-ky-thi-tuyen-sinh-lop-10-888367.ldo) ([Lao Động](https://laodong.vn))
 - ['Hà Nội sẽ không dồn công trình vào hai bờ sông Hồng'](https://vnexpress.net/ha-noi-se-khong-don-cong-trinh-vao-hai-bo-song-hong-4247340.html) ([VNExpress](https://vnexpress.net))
+- [Trao quyết định của Chủ tịch nước cho sỹ quan làm việc tại trụ sở Liên hợp quốc](http://vietnamnet.vn/vn/thoi-su/chinh-tri/trao-quyet-dinh-cua-chu-tich-nuoc-cho-sy-quan-lam-viec-tai-tru-so-lien-hop-quoc-719126.html) ([VietNamNet](https://vietnamnet.vn))
 - [Cơ quan Thuế đang kiểm tra chấp hành thuế của Youtuber Thơ Nguyễn](https://cafebiz.vn/co-quan-thue-dang-kiem-tra-chap-hanh-thue-cua-youtuber-tho-nguyen-20210312114855455.chn) ([CafeBiz](https://cafebiz.vn))
 - [100 nhân viên y tế đầu tiên ở Khánh Hòa được tiêm vaccine COVID-19](https://laodong.vn/photo/100-nhan-vien-y-te-dau-tien-o-khanh-hoa-duoc-tiem-vaccine-covid-19-888312.ldo) ([Lao Động](https://laodong.vn))
-- [Cơ sở của NASA có thể làm nơi cư trú cho trẻ nhập cư Mỹ](https://laodong.vn/the-gioi/co-so-cua-nasa-co-the-lam-noi-cu-tru-cho-tre-nhap-cu-my-888352.ldo) ([Lao Động](https://laodong.vn))
-- [Nhật Bản thông báo cuộc gặp trực tiếp Thủ tướng Suga và Tổng thống Biden](https://laodong.vn/the-gioi/nhat-ban-thong-bao-cuoc-gap-truc-tiep-thu-tuong-suga-va-tong-thong-biden-888355.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Nhiều hộ dân vẫn &quot;bám víu&quot; trong những chung cư chờ sập](https://laodong.vn/xa-hoi/ha-noi-nhieu-ho-dan-van-bam-viu-trong-nhung-chung-cu-cho-sap-888231.ldo) ([Lao Động](https://laodong.vn))
 - [Tuyển sinh 2021: Chọn ngành để không bị thất nghiệp](https://laodong.vn/giao-duc/tuyen-sinh-2021-chon-nganh-de-khong-bi-that-nghiep-888291.ldo) ([Lao Động](https://laodong.vn))
-- [Kiểm tra xe cũ nát, nếu không vi phạm, CSGT trả giấy tờ, cảm ơn người dân](https://tuoitre.vn/kiem-tra-xe-cu-nat-neu-khong-vi-pham-csgt-tra-giay-to-cam-on-nguoi-dan-20210312104258771.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Xe vi phạm tốc độ 299 km/h trên Đại lộ Thăng Long: siêu mô tô giá 1 tỷ đồng](https://cafebiz.vn/xe-vi-pham-toc-do-299-km-h-tren-dai-lo-thang-long-sieu-mo-to-gia-1-ty-dong-20210312112633759.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hỏa hoạn thiêu rụi 21 phòng trọ ở ngoại ô Sài Gòn](http://vietnamnet.vn/vn/thoi-su/hoa-hoan-thieu-rui-21-phong-tro-o-ngoai-o-sai-gon-719110.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
