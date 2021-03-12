@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Cùng lập cú đúp thành tích, BTS vượt hẳn Blackpink, TWICE, Red Velvet](https://laodong.vn/giai-tri/cung-lap-cu-dup-thanh-tich-bts-vuot-han-blackpink-twice-red-velvet-888518.ldo) ([Lao Động](https://laodong.vn))
+- [Trung Quốc: Thiếu phụ sốc vì đi khám mắt cá chân phát hiện ra giới tính nam](https://laodong.vn/the-gioi/trung-quoc-thieu-phu-soc-vi-di-kham-mat-ca-chan-phat-hien-ra-gioi-tinh-nam-888512.ldo) ([Lao Động](https://laodong.vn))
+- [Phát hiện một thi thể đang phân hủy trôi dạt vào bờ biển Bình Định](https://laodong.vn/phap-luat/phat-hien-mot-thi-the-dang-phan-huy-troi-dat-vao-bo-bien-binh-dinh-888511.ldo) ([Lao Động](https://laodong.vn))
+- [Triển khai kế hoạch phát triển đoàn viên, thành lập Công đoàn cơ sở](https://laodong.vn/cong-doan/trien-khai-ke-hoach-phat-trien-doan-vien-thanh-lap-cong-doan-co-so-888504.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Tĩnh từng “trải thảm đỏ” đón ông Võ Hoàng Yên ra sao?](https://laodong.vn/ban-doc/ha-tinh-tung-trai-tham-do-don-ong-vo-hoang-yen-ra-sao-888479.ldo) ([Lao Động](https://laodong.vn))
 - [Chủ tịch xã bị kỷ luật vì cho thuê đất trái thẩm quyền](https://vnexpress.net/chu-tich-xa-bi-ky-luat-vi-cho-thue-dat-trai-tham-quyen-4247708.html) ([VNExpress](https://vnexpress.net))
-- [Tọa đàm trực tuyến về hoạt động Tháng Công nhân năm 2021](https://laodong.vn/cong-doan/toa-dam-truc-tuyen-ve-hoat-dong-thang-cong-nhan-nam-2021-888508.ldo) ([Lao Động](https://laodong.vn))
 - [Xét nghiệm ngẫu nhiên cho người dân Hà Nội](https://vnexpress.net/xet-nghiem-ngau-nhien-cho-nguoi-dan-ha-noi-4247684.html) ([VNExpress](https://vnexpress.net))
-- [Phân viện thú y Miền Trung ký kết bản ghi nhớ thực hiện 75 nghìn sáng kiến](https://laodong.vn/cong-doan/phan-vien-thu-y-mien-trung-ky-ket-ban-ghi-nho-thuc-hien-75-nghin-sang-kien-888459.ldo) ([Lao Động](https://laodong.vn))
 - [60 triệu liều vaccine COVID-19 tại Việt Nam sẽ về Việt Nam khi nào?](https://laodong.vn/infographic/60-trieu-lieu-vaccine-covid-19-tai-viet-nam-se-ve-viet-nam-khi-nao-886851.ldo) ([Lao Động](https://laodong.vn))
-- [Australia nỗ lực chống lại thuế carbon của EU](https://laodong.vn/the-gioi/australia-no-luc-chong-lai-thue-carbon-cua-eu-888484.ldo) ([Lao Động](https://laodong.vn))
 - [Naturenz Gold nâng tầm dược liệu giải độc gan bằng thành tựu khoa học mới](https://cafebiz.vn/naturenz-gold-nang-tam-duoc-lieu-giai-doc-gan-bang-thanh-tuu-khoa-hoc-moi-20210312165103577.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ngoại hạng Anh cuối tuần: Tâm điểm  Derby London](https://laodong.vn/the-thao/ngoai-hang-anh-cuoi-tuan-tam-diem-derby-london-888181.ldo) ([Lao Động](https://laodong.vn))
 - [Sân bay thứ 2 cho Vùng Thủ đô: chọn Tiên Lãng hay Ứng Hoà?](https://cafebiz.vn/san-bay-thu-2-cho-vung-thu-do-chon-tien-lang-hay-ung-hoa-20210312172433827.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: 22 tuyến xe dừng đón khách ở bến xe Miền Đông cũ từ ngày mai](https://laodong.vn/xa-hoi/tphcm-22-tuyen-xe-dung-don-khach-o-ben-xe-mien-dong-cu-tu-ngay-mai-888489.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
