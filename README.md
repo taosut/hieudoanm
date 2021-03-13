@@ -21,8 +21,8 @@
 
 - Current weather is clear sky.
 - Temperature is 23°C.
-- Feels Like 25.34°C.
-- Air Visual is 153.
+- Feels Like 24.97°C.
+- Air Visual is 154.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Các thành viên Hoàng gia Anh kiếm tiền thế nào?](https://cafebiz.vn/cac-thanh-vien-hoang-gia-anh-kiem-tien-the-nao-20210313192125837.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bruno mờ nhạt, Văn Đại tỏa sáng ngày &quot;đóng thế&quot; Quang Hải](https://laodong.vn/photo/bruno-mo-nhat-van-dai-toa-sang-ngay-dong-the-quang-hai-888823.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Định thoải mái chơi bóng ném trước trận gặp Hoàng Anh Gia Lai](https://laodong.vn/photo/binh-dinh-thoai-mai-choi-bong-nem-truoc-tran-gap-hoang-anh-gia-lai-888812.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất hôm nay: &quot;Bộ tứ&quot; ra thông điệp tại cuộc họp thượng đỉnh đầu tiên](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bo-tu-ra-thong-diep-tai-cuoc-hop-thuong-dinh-dau-tien-888811.ldo) ([Lao Động](https://laodong.vn))
 - [Bí quyết trị rụng tóc bằng dầu dừa](https://laodong.vn/suc-khoe/bi-quyet-tri-rung-toc-bang-dau-dua-888205.ldo) ([Lao Động](https://laodong.vn))
 - [Tiểu thương thu tiền triệu mỗi ngày nhờ bán nước cam vắt](https://laodong.vn/kinh-te/tieu-thuong-thu-tien-trieu-moi-ngay-nho-ban-nuoc-cam-vat-888788.ldo) ([Lao Động](https://laodong.vn))
-- [Tiền vệ Hùng Dũng: &quot;Ngoại binh Hà Nội cần thêm thời gian để hoà nhập&quot;](https://laodong.vn/bong-da/tien-ve-hung-dung-ngoai-binh-ha-noi-can-them-thoi-gian-de-hoa-nhap-888827.ldo) ([Lao Động](https://laodong.vn))
-- [Lên kế hoạch &quot;như mơ&quot;, U22 Indonesia quyết giành vàng tại SEA Games 31](https://laodong.vn/bong-da/len-ke-hoach-nhu-mo-u22-indonesia-quyet-gianh-vang-tai-sea-games-31-888779.ldo) ([Lao Động](https://laodong.vn))
 - [Vì sao con số gần 20.000 người Việt Nam có tài sản ròng từ 1 triệu USD trở lên là thấp hơn nhiều so với thực tế?](https://cafebiz.vn/vi-sao-con-so-gan-20000-nguoi-viet-nam-co-tai-san-rong-tu-1-trieu-usd-tro-len-la-thap-hon-nhieu-so-voi-thuc-te-20210313204632486.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ai đã chi hơn 69 triệu USD cho 1 bức tranh ảo?](https://cafebiz.vn/ai-da-chi-hon-69-trieu-usd-cho-1-buc-tranh-ao-20210313194111332.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắt giữ lượng lớn thuốc đông y gia truyền nghi giả](https://cafebiz.vn/bat-giu-luong-lon-thuoc-dong-y-gia-truyen-nghi-gia-20210313192422265.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ông Park dự khán, trận Hà Nội - Hải Phòng phòng dịch nghiêm đón khán giả](https://laodong.vn/photo/ong-park-du-khan-tran-ha-noi-hai-phong-phong-dich-nghiem-don-khan-gia-888808.ldo) ([Lao Động](https://laodong.vn))
-- [Hơn 30.000 thiết bị Internet đang có nguy cơ bị hacker tấn công](https://cafebiz.vn/hon-30000-thiet-bi-internet-dang-co-nguy-co-bi-hacker-tan-cong-20210313191730562.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
