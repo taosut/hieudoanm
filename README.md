@@ -21,8 +21,8 @@
 
 - Current weather is clear sky.
 - Temperature is 23°C.
-- Feels Like 25.34°C.
-- Air Visual is 149.
+- Feels Like 25.23°C.
+- Air Visual is 157.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [HLV Chu Đình Nghiêm: &quot;Nếu Hải Phòng ghi bàn trước, Hà Nội sẽ rất khó đá&quot;](https://laodong.vn/bong-da/hlv-chu-dinh-nghiem-neu-hai-phong-ghi-ban-truoc-ha-noi-se-rat-kho-da-888834.ldo) ([Lao Động](https://laodong.vn))
+- [Trung Quốc tăng cường thúc đẩy tình hữu nghị với Iraq](https://laodong.vn/the-gioi/trung-quoc-tang-cuong-thuc-day-tinh-huu-nghi-voi-iraq-888830.ldo) ([Lao Động](https://laodong.vn))
+- [Tình bạn Phi Nhung - Mạnh Quỳnh sau hơn 20 năm: &quot;Chúng tôi vẫn là tri kỉ&quot;](https://laodong.vn/van-hoa/tinh-ban-phi-nhung-manh-quynh-sau-hon-20-nam-chung-toi-van-la-tri-ki-888832.ldo) ([Lao Động](https://laodong.vn))
+- [Trẻ mầm non ở Hải Dương tiếp tục nghỉ học sau ngày 17.3](https://laodong.vn/giao-duc/tre-mam-non-o-hai-duong-tiep-tuc-nghi-hoc-sau-ngay-173-888841.ldo) ([Lao Động](https://laodong.vn))
+- [Mã chứng khoán công nghệ sắp chi cổ tức lên tới 20%](https://laodong.vn/kinh-te/ma-chung-khoan-cong-nghe-sap-chi-co-tuc-len-toi-20-888837.ldo) ([Lao Động](https://laodong.vn))
+- [Mendy chơi xuất sắc, Chelsea hòa không bàn thắng trước Leeds](https://laodong.vn/bong-da-quoc-te/mendy-choi-xuat-sac-chelsea-hoa-khong-ban-thang-truoc-leeds-888836.ldo) ([Lao Động](https://laodong.vn))
+- [Thai phụ ngất lịm bên con đuối nước](https://vnexpress.net/thai-phu-ngat-lim-ben-con-duoi-nuoc-4248115.html) ([VNExpress](https://vnexpress.net))
 - [Chứng khoán mãi không vượt nổi 1200 điểm, nhà đầu tư nên làm gì để có lãi?](https://laodong.vn/kinh-te/chung-khoan-mai-khong-vuot-noi-1200-diem-nha-dau-tu-nen-lam-gi-de-co-lai-888835.ldo) ([Lao Động](https://laodong.vn))
 - [Các thành viên Hoàng gia Anh kiếm tiền thế nào?](https://cafebiz.vn/cac-thanh-vien-hoang-gia-anh-kiem-tien-the-nao-20210313192125837.chn) ([CafeBiz](https://cafebiz.vn))
-- [9 điều có thể chưa biết về thiết kế Tử Cấm Thành ở Trung Quốc](https://laodong.vn/the-gioi/9-dieu-co-the-chua-biet-ve-thiet-ke-tu-cam-thanh-o-trung-quoc-888133.ldo) ([Lao Động](https://laodong.vn))
 - [Bruno mờ nhạt, Văn Đại tỏa sáng ngày &quot;đóng thế&quot; Quang Hải](https://laodong.vn/photo/bruno-mo-nhat-van-dai-toa-sang-ngay-dong-the-quang-hai-888823.ldo) ([Lao Động](https://laodong.vn))
 - [Bình Định thoải mái chơi bóng ném trước trận gặp Hoàng Anh Gia Lai](https://laodong.vn/photo/binh-dinh-thoai-mai-choi-bong-nem-truoc-tran-gap-hoang-anh-gia-lai-888812.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất hôm nay: &quot;Bộ tứ&quot; ra thông điệp tại cuộc họp thượng đỉnh đầu tiên](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bo-tu-ra-thong-diep-tai-cuoc-hop-thuong-dinh-dau-tien-888811.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao con số gần 20.000 người Việt Nam có tài sản ròng từ 1 triệu USD trở lên là thấp hơn nhiều so với thực tế?](https://cafebiz.vn/vi-sao-con-so-gan-20000-nguoi-viet-nam-co-tai-san-rong-tu-1-trieu-usd-tro-len-la-thap-hon-nhieu-so-voi-thuc-te-20210313204632486.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ai đã chi hơn 69 triệu USD cho 1 bức tranh ảo?](https://cafebiz.vn/ai-da-chi-hon-69-trieu-usd-cho-1-buc-tranh-ao-20210313194111332.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt giữ lượng lớn thuốc đông y gia truyền nghi giả](https://cafebiz.vn/bat-giu-luong-lon-thuoc-dong-y-gia-truyen-nghi-gia-20210313192422265.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -120,8 +120,8 @@
 05. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 06. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 07. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
-08. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
-09. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+08. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+09. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
 10. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
@@ -133,8 +133,8 @@
 01. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 02. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 03. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
-04. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
-05. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
+04. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
+05. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 06. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
 08. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
