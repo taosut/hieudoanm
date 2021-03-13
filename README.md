@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Ông trùm Ấn Độ lặng lẽ đánh bại cả Elon Musk lẫn tỷ phú giàu nhất châu Á](https://cafebiz.vn/ong-trum-an-do-lang-le-danh-bai-ca-elon-musk-lan-ty-phu-giau-nhat-chau-a-20210313095618845.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trải nghiệm 2.000km, Minh 'Nhựa' âm thầm rao bán BMW X3 giá 2,5 tỷ đồng](https://cafebiz.vn/trai-nghiem-2000km-minh-nhua-am-tham-rao-ban-bmw-x3-gia-25-ty-dong-20210313095538767.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đề xuất chuyển sân bay Tân Sơn Nhất ra Củ Chi, xây dựng sân bay nhỏ ở Cần Giờ, Thủ Đức](https://cafebiz.vn/de-xuat-chuyen-san-bay-tan-son-nhat-ra-cu-chi-xay-dung-san-bay-nho-o-can-gio-thu-duc-20210313095459471.chn) ([CafeBiz](https://cafebiz.vn))
+- [Các dịch vụ karaoke, quán bar tại Ninh Bình mở cửa trở lại từ ngày 14.3](https://laodong.vn/xa-hoi/cac-dich-vu-karaoke-quan-bar-tai-ninh-binh-mo-cua-tro-lai-tu-ngay-143-888647.ldo) ([Lao Động](https://laodong.vn))
+- [Nghị quyết 120: Biến thách thức, đe dọa thành trạng thái “bình thường mới”](https://laodong.vn/xa-hoi/nghi-quyet-120-bien-thach-thuc-de-doa-thanh-trang-thai-binh-thuong-moi-888657.ldo) ([Lao Động](https://laodong.vn))
+- [Từ Nghị quyết “thuận thiên”: Cuộc chuyển mình mạnh mẽ trên đất “chín rồng”](https://laodong.vn/xa-hoi/tu-nghi-quyet-thuan-thien-cuoc-chuyen-minh-manh-me-tren-dat-chin-rong-888636.ldo) ([Lao Động](https://laodong.vn))
+- [Italia siết chặt hạn chế ngừa COVID-19, phong tỏa cả nước dịp lễ Phục sinh](https://laodong.vn/the-gioi/italia-siet-chat-han-che-ngua-covid-19-phong-toa-ca-nuoc-dip-le-phuc-sinh-888645.ldo) ([Lao Động](https://laodong.vn))
 - [Kiatisak mong tuyển Việt Nam, Thái Lan cùng đi tiếp tại vòng loại World Cup](https://laodong.vn/bong-da/kiatisak-mong-tuyen-viet-nam-thai-lan-cung-di-tiep-tai-vong-loai-world-cup-888640.ldo) ([Lao Động](https://laodong.vn))
-- [Quy hoạch phân khu đô thị sông Hồng: Hàng nghìn hộ dân có phải di dời?](https://laodong.vn/xa-hoi/quy-hoach-phan-khu-do-thi-song-hong-hang-nghin-ho-dan-co-phai-di-doi-888564.ldo) ([Lao Động](https://laodong.vn))
 - [TPHCM duy trì nắng nóng diện rộng với mức nhiệt 37 độ C](https://laodong.vn/moi-truong/tphcm-duy-tri-nang-nong-dien-rong-voi-muc-nhiet-37-do-c-888654.ldo) ([Lao Động](https://laodong.vn))
 - [Công an TP Hà Nội phát hiện 15 tấn sách in lậu tại một căn nhà ở Hà Đông](https://cafebiz.vn/cong-an-tp-ha-noi-phat-hien-15-tan-sach-in-lau-tai-mot-can-nha-o-ha-dong-2021031309344423.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mùa đánh bắt sứa biển](https://vnexpress.net/mua-danh-bat-sua-bien-4247827.html) ([VNExpress](https://vnexpress.net))
-- [Hải Phòng: Đâm xe trực diện ôtô, hai thiếu niên 16 tuổi tử vong thương tâm](https://laodong.vn/xa-hoi/hai-phong-dam-xe-truc-dien-oto-hai-thieu-nien-16-tuoi-tu-vong-thuong-tam-888653.ldo) ([Lao Động](https://laodong.vn))
-- [Vietravel Airlines chính thức bán vé qua hệ thống 40 phòng vé toàn quốc, đã có 5 đường bay thường lệ](https://cafebiz.vn/vietravel-airlines-chinh-thuc-ban-ve-qua-he-thong-40-phong-ve-toan-quoc-da-co-5-duong-bay-thuong-le-20210312155557827.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hàng trăm người dân thực hiện khai báo y tế, chờ vào lễ Chùa Hương trong ngày đầu mở cửa trở lại](https://cafebiz.vn/hang-tram-nguoi-dan-thuc-hien-khai-bao-y-te-cho-vao-le-chua-huong-trong-ngay-dau-mo-cua-tro-lai-20210313093328925.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thời hạn nộp tiền sử dụng đất khi được cấp sổ đỏ là bao lâu?](https://laodong.vn/bat-dong-san/thoi-han-nop-tien-su-dung-dat-khi-duoc-cap-so-do-la-bao-lau-888399.ldo) ([Lao Động](https://laodong.vn))
-- ['Cao tốc TP.HCM - Cần Thơ sẽ hoàn thành trong nhiệm kỳ  này'](https://tuoitre.vn/cao-toc-tp-hcm-can-tho-se-hoan-thanh-trong-nhiem-ky-nay-20210313091331668.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
