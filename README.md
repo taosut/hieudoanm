@@ -21,8 +21,8 @@
 
 - Current weather is clear sky.
 - Temperature is 23°C.
-- Feels Like 24.97°C.
-- Air Visual is 154.
+- Feels Like 25.34°C.
+- Air Visual is 149.
 
 **WEATHER**
 
