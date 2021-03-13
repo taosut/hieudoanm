@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 24°C.
-- Feels Like 27.2°C.
-- Air Visual is 153.
+- Feels Like 26.84°C.
+- Air Visual is 162.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nhóm nhạc nam Kpop hot nhất tháng 3: BTS lần thứ 34 lên top đầu?](https://laodong.vn/giai-tri/nhom-nhac-nam-kpop-hot-nhat-thang-3-bts-lan-thu-34-len-top-dau-888782.ldo) ([Lao Động](https://laodong.vn))
-- [Bệnh viện 150 tỉ đồng chưa hoạt động vì hệ thống PCCC chưa hoàn thiện](https://laodong.vn/ban-doc/benh-vien-150-ti-dong-chua-hoat-dong-vi-he-thong-pccc-chua-hoan-thien-888778.ldo) ([Lao Động](https://laodong.vn))
-- [Hơn 200 công nhân ngừng việc liên quan tiền làm thêm giờ, suất ăn ca](https://laodong.vn/cong-doan/hon-200-cong-nhan-ngung-viec-lien-quan-tien-lam-them-gio-suat-an-ca-888733.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang: Bắt giữ một phụ nữ mua bán trái phép chất ma túy trên Quốc lộ](https://laodong.vn/phap-luat/bac-giang-bat-giu-mot-phu-nu-mua-ban-trai-phep-chat-ma-tuy-tren-quoc-lo-888773.ldo) ([Lao Động](https://laodong.vn))
-- [1.670 gói giống lúa suýt nhập lậu thành công vào nội địa](https://laodong.vn/phap-luat/1670-goi-giong-lua-suyt-nhap-lau-thanh-cong-vao-noi-dia-888470.ldo) ([Lao Động](https://laodong.vn))
+- [Dựng mô hình đảo Gạc Ma và “64 ngôi sao bất tử” để giáo dục lòng yêu nước](https://laodong.vn/xa-hoi/dung-mo-hinh-dao-gac-ma-va-64-ngoi-sao-bat-tu-de-giao-duc-long-yeu-nuoc-888761.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Bạn muốn hẹn hò&quot;: Trái ngược chuyện nữ tài xế nam tính và chàng trai tỉ mỉ](https://laodong.vn/gia-dinh-hon-nhan/ban-muon-hen-ho-trai-nguoc-chuyen-nu-tai-xe-nam-tinh-va-chang-trai-ti-mi-888791.ldo) ([Lao Động](https://laodong.vn))
+- [LĐLĐ Thanh Hoá: Ký kết thực hiện Chương trình 75 nghìn sáng kiến](https://laodong.vn/cong-doan/ldld-thanh-hoa-ky-ket-thuc-hien-chuong-trinh-75-nghin-sang-kien-888411.ldo) ([Lao Động](https://laodong.vn))
+- [Vương quốc Anh: Chọn ngày tưởng nhớ nạn nhân COVID-19](https://laodong.vn/the-gioi/vuong-quoc-anh-chon-ngay-tuong-nho-nan-nhan-covid-19-888797.ldo) ([Lao Động](https://laodong.vn))
+- [Đợt đầu gói giải cứu 1,9 nghìn tỉ USD bắt đầu chuyển đến người dân Mỹ](https://laodong.vn/the-gioi/dot-dau-goi-giai-cuu-19-nghin-ti-usd-bat-dau-chuyen-den-nguoi-dan-my-888786.ldo) ([Lao Động](https://laodong.vn))
+- [Nghị quyết 120: Thông điệp “8G” của Thủ tướng vì sự phát triển của ĐBSCL](https://laodong.vn/thoi-su/nghi-quyet-120-thong-diep-8g-cua-thu-tuong-vi-su-phat-trien-cua-dbscl-888772.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều 13-3, có 3 ca mắc COVID-19 ở Bà Rịa- Vũng Tàu và Hải Dương](https://tuoitre.vn/chieu-13-3-co-3-ca-mac-covid-19-o-ba-ria-vung-tau-va-hai-duong-20210312061133459.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bí quyết tăng nhanh doanh thu cho người bán hàng online: Sức mạnh của livestream](https://cafebiz.vn/bi-quyet-tang-nhanh-doanh-thu-cho-nguoi-ban-hang-online-suc-manh-cua-livestream-20210313134547402.chn) ([CafeBiz](https://cafebiz.vn))
 - ['Tui bán bánh ướt lời được 5 chục, tui dành ra 2 chục mua rau củ của Hải Dương'](https://tuoitre.vn/tui-ban-banh-uot-loi-duoc-5-chuc-tui-danh-ra-2-chuc-mua-rau-cu-cua-hai-duong-20210313160720447.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Vì sao dân sales chi tiền cho xe hơi và quần áo nhiều hơn các giáo sư đại học dù họ có thu nhập tương đương nhau?](https://cafebiz.vn/vi-sao-cac-luat-su-dan-sales-chi-tien-cho-xe-hoi-va-quan-ao-nhieu-hon-cac-giao-su-dai-hoc-du-ho-co-thu-nhap-tuong-duong-nhau-2021031311041795.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cập nhật danh sách trường Đại học tuyển sinh qua xét học bạ THPT](https://laodong.vn/giao-duc/cap-nhat-danh-sach-truong-dai-hoc-tuyen-sinh-qua-xet-hoc-ba-thpt-888760.ldo) ([Lao Động](https://laodong.vn))
-- [Anh hùng thầm lặng của nước Mỹ trong đại dịch COVID-19 là một nhà khoa học dữ liệu mới 26 tuổi](https://cafebiz.vn/anh-hung-tham-lang-cua-nuoc-my-trong-dai-dich-covid-19-la-mot-nha-khoa-hoc-du-lieu-moi-26-tuoi-20210313114337711.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -134,12 +134,12 @@
 02. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 03. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
 04. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
-05. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-06. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
-07. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
-08. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
-09. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
-10. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
+05. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
+06. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
+08. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
+09. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
+10. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
 
 [Read More](https://www.youtube.com/feed/trending)
 
