@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 24°C.
 - Feels Like 26.35°C.
-- Air Visual is 110.
+- Air Visual is 115.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [ĐBSCL tăng trưởng ấn tượng sau khi có nghị quyết thuận thiên của Chính phủ](http://vietnamnet.vn/vn/thoi-su/chinh-tri/dbscl-tang-truong-an-tuong-sau-khi-co-nghi-quyet-thuan-thien-cua-chinh-phu-719365.html) ([VietNamNet](https://vietnamnet.vn))
+- [Những mẫu xe ế ẩm, chỉ bán được dưới 10 chiếc trong tháng 2.2021](https://laodong.vn/xe/nhung-mau-xe-e-am-chi-ban-duoc-duoi-10-chiec-trong-thang-22021-888650.ldo) ([Lao Động](https://laodong.vn))
+- [Vàng có tuần tăng giá mạnh nhất 7 tuần bất chấp nhà đầu tư "nhòm ngó" các kênh đầu tư khác](https://cafebiz.vn/vang-co-tuan-tang-gia-manh-nhat-7-tuan-bat-chap-nha-dau-tu-nhom-ngo-cac-kenh-dau-tu-khac-20210313122504193.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tông thẳng vào đầu xe tải, nam thanh niên tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/tong-thang-vao-dau-xe-tai-nam-thanh-nien-tu-vong-719377.html) ([VietNamNet](https://vietnamnet.vn))
+- [Kết nhầm bạn vừa tốn thời gian, vừa mất tiền bạc, tâm sức: 8 dấu hiệu chứng tỏ bạn đang có một người BẠN ĐỂU](https://cafebiz.vn/ket-nham-ban-vua-ton-thoi-gian-vua-mat-tien-bac-tam-suc-8-dau-hieu-chung-to-ban-dang-co-mot-nguoi-ban-deu-2021031312212155.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lễ tưởng niệm các chiến sĩ Gạc Ma: 'Các anh như mãi còn đây'](https://tuoitre.vn/le-tuong-niem-cac-chien-si-gac-ma-cac-anh-nhu-mai-con-day-20210313105906793.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Detox giảm cân và những lầm tưởng tai hại](https://laodong.vn/suc-khoe/detox-giam-can-va-nhung-lam-tuong-tai-hai-888699.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang: Gần 100 người  tham gia chữa cháy cho xưởng chế biến gỗ](https://laodong.vn/xa-hoi/bac-giang-gan-100-nguoi-tham-gia-chua-chay-cho-xuong-che-bien-go-888692.ldo) ([Lao Động](https://laodong.vn))
+- [Cựu binh làm mô hình tàu tưởng niệm Gạc Ma](https://vnexpress.net/cuu-binh-lam-mo-hinh-tau-tuong-niem-gac-ma-4247917.html) ([VNExpress](https://vnexpress.net))
 - [ĐBSCL khó đón 'đại bàng' nếu không đột phá về giao thông, nguồn nhân lực và chính sách ưu đãi](https://tuoitre.vn/dbscl-kho-don-dai-bang-neu-khong-dot-pha-ve-giao-thong-nguon-nhan-luc-va-chinh-sach-uu-dai-20210313081614627.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hé lộ người bí ẩn mua tranh ghép kỹ thuật số với giá kỷ lục 69,3 triệu USD](https://laodong.vn/the-gioi/he-lo-nguoi-bi-an-mua-tranh-ghep-ky-thuat-so-voi-gia-ky-luc-693-trieu-usd-888684.ldo) ([Lao Động](https://laodong.vn))
-- [Cơ sở thẩm mỹ không phép núp bóng cắt uốn tóc, gội đầu](https://tuoitre.vn/co-so-tham-my-khong-phep-nup-bong-cat-uon-toc-goi-dau-20210313101157297.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Vừa mở cửa 5 tiếng, chùa Hương đã đón 1,6 vạn du khách](https://laodong.vn/photo/vua-mo-cua-5-tieng-chua-huong-da-don-16-van-du-khach-888665.ldo) ([Lao Động](https://laodong.vn))
-- [Tin văn hoá trong tuần: Đúng ngày công chiếu, &quot;Bố già&quot; cán mốc 150 tỉ đồng](https://laodong.vn/giai-tri/tin-van-hoa-trong-tuan-dung-ngay-cong-chieu-bo-gia-can-moc-150-ti-dong-888241.ldo) ([Lao Động](https://laodong.vn))
-- [Độc nhất vô nhị: "Bố trẻ" dành 40 ngày làm siêu xe Bugatti Centodieci bằng gỗ tặng con trai](https://cafebiz.vn/doc-nhat-vo-nhi-bo-tre-danh-40-ngay-lam-sieu-xe-bugatti-centodieci-bang-go-tang-con-trai-20210313112856405.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phim “Minari” của đạo diễn Hàn Quốc gặp  sự chỉ trích dù chưa phát hành](https://laodong.vn/giai-tri/phim-minari-cua-dao-dien-han-quoc-gap-su-chi-trich-du-chua-phat-hanh-888614.ldo) ([Lao Động](https://laodong.vn))
-- [Xe container bốc cháy trên cao tốc](https://vnexpress.net/xe-container-boc-chay-tren-cao-toc-4247921.html) ([VNExpress](https://vnexpress.net))
-- [Elijah Wood bị đánh giá có bước thụt lùi trong diễn xuất](https://laodong.vn/giai-tri/elijah-wood-bi-danh-gia-co-buoc-thut-lui-trong-dien-xuat-888617.ldo) ([Lao Động](https://laodong.vn))
-- [Dạy nữ công gia chánh trong trường học ở Huế: Nam sinh có được học?](https://laodong.vn/ban-doc/day-nu-cong-gia-chanh-trong-truong-hoc-o-hue-nam-sinh-co-duoc-hoc-888685.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
