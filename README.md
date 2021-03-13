@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Những yêu cầu siêu khắt khe về trang phục của Hoàng gia Anh: Ai bảo hoàng tộc là sướng nào?](https://cafebiz.vn/nhung-yeu-cau-sieu-khat-khe-ve-trang-phuc-cua-hoang-gia-anh-ai-bao-hoang-toc-la-suong-nao-20210313113728206.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những trường hợp ngừng sử dụng hóa đơn điện tử](https://laodong.vn/kinh-te/nhung-truong-hop-ngung-su-dung-hoa-don-dien-tu-888741.ldo) ([Lao Động](https://laodong.vn))
-- [Tính năng mã QR, chip điện tử trên căn cước mới](https://vnexpress.net/tinh-nang-ma-qr-chip-dien-tu-tren-can-cuoc-moi-4247942.html) ([VNExpress](https://vnexpress.net))
-- [Xây dựng 3 “Ngôi nhà 100 đồng” cho 3 quân nhân có hoàn cảnh khó khăn](https://laodong.vn/xa-hoi/xay-dung-3-ngoi-nha-100-dong-cho-3-quan-nhan-co-hoan-canh-kho-khan-888748.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ não người có 4 màu vàng - lam - lục - đỏ: Biết rõ màu nổi trội của mình - bạn  tự tin làm mọi việc, biết màu của người khác - bạn chi phối họ tốt hơn!](https://cafebiz.vn/bo-nao-nguoi-co-4-mau-vang-lam-luc-do-biet-ro-mau-noi-troi-cua-minh-ban-tu-tin-lam-moi-viec-biet-mau-cua-nguoi-khac-ban-chi-phoi-ho-tot-hon-20210308193747804.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cần Thơ: Phát triển du lịch sinh thái gắn liền với bảo vệ môi trường](https://laodong.vn/xa-hoi/can-tho-phat-trien-du-lich-sinh-thai-gan-lien-voi-bao-ve-moi-truong-888652.ldo) ([Lao Động](https://laodong.vn))
-- [EasyEdu ra mắt Nền tảng Quản trị Doanh nghiệp Giáo dục – Đào tạo](https://cafebiz.vn/easyedu-ra-mat-nen-tang-quan-tri-doanh-nghiep-giao-duc-dao-tao-20210313104222339.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lãi suất liên ngân hàng lùi về mức thấp nhất 1 tháng qua](https://laodong.vn/kinh-te/lai-suat-lien-ngan-hang-lui-ve-muc-thap-nhat-1-thang-qua-888744.ldo) ([Lao Động](https://laodong.vn))
-- [Kỷ luật thêm nhiều cán bộ liên can sai phạm tại Trường cao đẳng Y tế Khánh Hòa](https://tuoitre.vn/ky-luat-them-nhieu-can-bo-lien-can-sai-pham-tai-truong-cao-dang-y-te-khanh-hoa-2021031315055612.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nữ sáng lập startup bán thịt thực vật ở tuổi 50: Theo đuổi lối sống thuần chay vì muốn bảo vệ môi trường và lòng tự hào dân tộc](https://cafebiz.vn/nu-sang-lap-startup-ban-thit-thuc-vat-o-tuoi-50-theo-duoi-loi-song-thuan-chay-vi-muon-bao-ve-moi-truong-va-long-tu-hao-dan-toc-20210312223938487.chn) ([CafeBiz](https://cafebiz.vn))
+
 
 [Read More](docs/news/README.md)
 
