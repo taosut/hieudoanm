@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
-- Temperature is 25°C.
-- Feels Like 26.75°C.
-- Air Visual is 137.
+- Current weather is broken clouds.
+- Temperature is 24°C.
+- Feels Like 25.73°C.
+- Air Visual is 146.
 
 **WEATHER**
 
@@ -50,7 +50,8 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
-- [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
+- [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
+- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Joe Biden](https://img.shields.io/static/v1?label=Joe%20Biden&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joe%20Biden)
@@ -58,15 +59,14 @@
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
-- [![Lịch thi đấu V-League 2021](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League%202021)
-- [![M.U](https://img.shields.io/static/v1?label=M.U&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M.U)
+- [![Lịch thi đấu v League 2021](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20v%20League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20v%20League%202021)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
+- [![V-League](https://img.shields.io/static/v1?label=V-League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V-League)
 - [![Đào Bá Lộc](https://img.shields.io/static/v1?label=%C4%90%C3%A0o%20B%C3%A1%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C3%A0o%20B%C3%A1%20L%E1%BB%99c)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Những yêu cầu siêu khắt khe về trang phục của Hoàng gia Anh: Ai bảo hoàng tộc là sướng nào?](https://cafebiz.vn/nhung-yeu-cau-sieu-khat-khe-ve-trang-phuc-cua-hoang-gia-anh-ai-bao-hoang-toc-la-suong-nao-20210313113728206.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những trường hợp ngừng sử dụng hóa đơn điện tử](https://laodong.vn/kinh-te/nhung-truong-hop-ngung-su-dung-hoa-don-dien-tu-888741.ldo) ([Lao Động](https://laodong.vn))
+- [Tính năng mã QR, chip điện tử trên căn cước mới](https://vnexpress.net/tinh-nang-ma-qr-chip-dien-tu-tren-can-cuoc-moi-4247942.html) ([VNExpress](https://vnexpress.net))
+- [Xây dựng 3 “Ngôi nhà 100 đồng” cho 3 quân nhân có hoàn cảnh khó khăn](https://laodong.vn/xa-hoi/xay-dung-3-ngoi-nha-100-dong-cho-3-quan-nhan-co-hoan-canh-kho-khan-888748.ldo) ([Lao Động](https://laodong.vn))
 - [Bộ não người có 4 màu vàng - lam - lục - đỏ: Biết rõ màu nổi trội của mình - bạn  tự tin làm mọi việc, biết màu của người khác - bạn chi phối họ tốt hơn!](https://cafebiz.vn/bo-nao-nguoi-co-4-mau-vang-lam-luc-do-biet-ro-mau-noi-troi-cua-minh-ban-tu-tin-lam-moi-viec-biet-mau-cua-nguoi-khac-ban-chi-phoi-ho-tot-hon-20210308193747804.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cần Thơ: Phát triển du lịch sinh thái gắn liền với bảo vệ môi trường](https://laodong.vn/xa-hoi/can-tho-phat-trien-du-lich-sinh-thai-gan-lien-voi-bao-ve-moi-truong-888652.ldo) ([Lao Động](https://laodong.vn))
 - [EasyEdu ra mắt Nền tảng Quản trị Doanh nghiệp Giáo dục – Đào tạo](https://cafebiz.vn/easyedu-ra-mat-nen-tang-quan-tri-doanh-nghiep-giao-duc-dao-tao-20210313104222339.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lãi suất liên ngân hàng lùi về mức thấp nhất 1 tháng qua](https://laodong.vn/kinh-te/lai-suat-lien-ngan-hang-lui-ve-muc-thap-nhat-1-thang-qua-888744.ldo) ([Lao Động](https://laodong.vn))
-- [Kỷ luật thêm nhiều cán bộ liên can sai phạm tại Trường Cao đẳng Y tế Khánh Hòa](https://tuoitre.vn/ky-luat-them-nhieu-can-bo-lien-can-sai-pham-tai-truong-cao-dang-y-te-khanh-hoa-2021031315055612.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Kỷ luật thêm nhiều cán bộ liên can sai phạm tại Trường cao đẳng Y tế Khánh Hòa](https://tuoitre.vn/ky-luat-them-nhieu-can-bo-lien-can-sai-pham-tai-truong-cao-dang-y-te-khanh-hoa-2021031315055612.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nữ sáng lập startup bán thịt thực vật ở tuổi 50: Theo đuổi lối sống thuần chay vì muốn bảo vệ môi trường và lòng tự hào dân tộc](https://cafebiz.vn/nu-sang-lap-startup-ban-thit-thuc-vat-o-tuoi-50-theo-duoi-loi-song-thuan-chay-vi-muon-bao-ve-moi-truong-va-long-tu-hao-dan-toc-20210312223938487.chn) ([CafeBiz](https://cafebiz.vn))
-- [An Giang: Phát hiện nhiều bếp từ vô chủ ven sông Hậu](https://laodong.vn/phap-luat/an-giang-phat-hien-nhieu-bep-tu-vo-chu-ven-song-hau-888743.ldo) ([Lao Động](https://laodong.vn))
-- [Rửa tay, quét mã QR trước khi vào đền chùa ngày đầu tháng 2 âm lịch](https://laodong.vn/video-thoi-su/rua-tay-quet-ma-qr-truoc-khi-vao-den-chua-ngay-dau-thang-2-am-lich-888713.ldo) ([Lao Động](https://laodong.vn))
-- [Người dân đổ về phố đi bộ Hồ Gươm ngày đầu mở cửa trở lại](https://cafebiz.vn/nguoi-dan-do-ve-pho-di-bo-ho-guom-ngay-dau-mo-cua-tro-lai-20210313123625644.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tuyển sinh 2021: Học viện Tài chính tuyển 4.000 sinh viên đại học chính quy](https://laodong.vn/giao-duc/tuyen-sinh-2021-hoc-vien-tai-chinh-tuyen-4000-sinh-vien-dai-hoc-chinh-quy-888738.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
