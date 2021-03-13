@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 25.5°C.
-- Air Visual is 96.
+- Temperature is 25°C.
+- Feels Like 26.97°C.
+- Air Visual is 104.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cổ phiếu tăng trưởng 'thất sủng', lĩnh vực công nghệ trồi sụt như tàu lượn siêu tốc và quay trở lại thời kỳ biến động như hồi đại dịch](https://cafebiz.vn/co-phieu-tang-truong-that-sung-linh-vuc-cong-nghe-troi-sut-nhu-tau-luon-sieu-toc-va-quay-tro-lai-thoi-ky-bien-dong-nhu-hoi-dai-dich-20210313110306589.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những thay đổi quan trọng trong gói cứu trợ khổng lồ mới của ông Biden](https://cafebiz.vn/nhung-thay-doi-quan-trong-trong-goi-cuu-tro-khong-lo-moi-cua-ong-biden-20210312101452908.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trận Than Quảng Ninh – TPHCM sẽ đón 2.500 khán giả](https://laodong.vn/bong-da/tran-than-quang-ninh--tphcm-se-don-2500-khan-gia-888674.ldo) ([Lao Động](https://laodong.vn))
-- [Một công nhân tử vong trong công trình xây dựng](https://laodong.vn/xa-hoi/mot-cong-nhan-tu-vong-trong-cong-trinh-xay-dung-888673.ldo) ([Lao Động](https://laodong.vn))
-- [Học cách tiết kiệm tiền tỉ bằng việc ăn trưa chỉ với dứa và khoai lang: Chuyên gia nói bạn sẽ "gánh đủ"!](https://cafebiz.vn/hoc-cach-tiet-kiem-tien-ti-bang-viec-an-trua-chi-voi-dua-va-khoai-lang-chuyen-gia-noi-ban-se-ganh-du-20210313105408472.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tạp chí Hoa Kỳ: Không một nước nào với quy mô tương đương đạt mức tăng chỉ số tự do kinh tế như Việt Nam!](https://cafebiz.vn/tap-chi-hoa-ky-khong-mot-nuoc-nao-voi-quy-mo-tuong-duong-dat-muc-tang-chi-so-tu-do-kinh-te-nhu-viet-nam-20210313105224927.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bitcoin quay đầu giảm ngay khi áp sát mức đỉnh kỉ lục](https://laodong.vn/kinh-te/bitcoin-quay-dau-giam-ngay-khi-ap-sat-muc-dinh-ki-luc-888648.ldo) ([Lao Động](https://laodong.vn))
-- [Nhà báo chỉ trích Meghan trên sóng truyền hình rồi đùng đùng bỏ đi khiến nhà đài mất trắng 6000 tỷ đồng còn người hâm mộ cầu xin: "Anh ơi ở lại"](https://cafebiz.vn/nha-bao-chi-trich-meghan-tren-song-truyen-hinh-roi-dung-dung-bo-di-khien-nha-dai-mat-trang-6000-ty-dong-con-nguoi-ham-mo-cau-xin-anh-oi-o-lai-20210313105023635.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người đẹp cầm đầu đường dây mua bán 2.800 viên thuốc lắc sa lưới](https://laodong.vn/phap-luat/nguoi-dep-cam-dau-duong-day-mua-ban-2800-vien-thuoc-lac-sa-luoi-888678.ldo) ([Lao Động](https://laodong.vn))
-- [Brazil vượt Ấn Độ thành nước có số ca COVID-19 cao thứ 2 thế giới](https://laodong.vn/the-gioi/brazil-vuot-an-do-thanh-nuoc-co-so-ca-covid-19-cao-thu-2-the-gioi-888663.ldo) ([Lao Động](https://laodong.vn))
+- [Phim “Minari” của đạo diễn Hàn Quốc gặp  sự chỉ trích dù chưa phát hành](https://laodong.vn/giai-tri/phim-minari-cua-dao-dien-han-quoc-gap-su-chi-trich-du-chua-phat-hanh-888614.ldo) ([Lao Động](https://laodong.vn))
+- [Xe container bốc cháy trên cao tốc](https://vnexpress.net/xe-container-boc-chay-tren-cao-toc-4247921.html) ([VNExpress](https://vnexpress.net))
+- [Elijah Wood bị đánh giá có bước thụt lùi trong diễn xuất](https://laodong.vn/giai-tri/elijah-wood-bi-danh-gia-co-buoc-thut-lui-trong-dien-xuat-888617.ldo) ([Lao Động](https://laodong.vn))
+- [Dạy nữ công gia chánh trong trường học ở Huế: Nam sinh có được học?](https://laodong.vn/ban-doc/day-nu-cong-gia-chanh-trong-truong-hoc-o-hue-nam-sinh-co-duoc-hoc-888685.ldo) ([Lao Động](https://laodong.vn))
+- [“Mẫu số chung” của những người đàn ông tốt](https://laodong.vn/tham-thi/mau-so-chung-cua-nhung-nguoi-dan-ong-tot-888483.ldo) ([Lao Động](https://laodong.vn))
+- [Phát hiện thi thể công nhân chết cạnh công trình xây dựng ở Hà Tĩnh](http://vietnamnet.vn/vn/thoi-su/phat-hien-thi-the-cong-nhan-chet-canh-cong-trinh-xay-dung-o-ha-tinh-719369.html) ([VietNamNet](https://vietnamnet.vn))
+- [Giá đất “tăng nhiệt” nhờ đồ án quy hoạch đô thị sông Hồng](https://laodong.vn/bat-dong-san/gia-dat-tang-nhiet-nho-do-an-quy-hoach-do-thi-song-hong-888628.ldo) ([Lao Động](https://laodong.vn))
+- [Ảnh: Đi lễ chùa Hương đầu năm, nhiều người dân "quên" đeo khẩu trang dù BTC liên tục dùng loa nhắc nhở](https://cafebiz.vn/anh-di-le-chua-huong-dau-nam-nhieu-nguoi-dan-quen-deo-khau-trang-du-btc-lien-tuc-dung-loa-nhac-nho-20210313112322888.chn) ([CafeBiz](https://cafebiz.vn))
+- [Rose' (BlackPink) diện đầm siêu thực của Công Trí trong MV đầu tay](https://cafebiz.vn/rose-blackpink-dien-dam-sieu-thuc-cua-cong-tri-trong-mv-dau-tay-20210313112412142.chn) ([CafeBiz](https://cafebiz.vn))
+- [Gia thế "khủng" của Trang Pháp: Ông ngoại là Đại sứ lão thành, bố là giáo sư ngoại ngữ, mẹ là nhà ngoại giao có tiếng](https://cafebiz.vn/gia-the-khung-cua-trang-phap-ong-ngoai-la-dai-su-lao-thanh-bo-la-giao-su-ngoai-ngu-me-la-nha-ngoai-giao-co-tieng-20210313105003209.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
