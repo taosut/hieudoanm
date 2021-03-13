@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 24°C.
 - Feels Like 27.07°C.
-- Air Visual is 114.
+- Air Visual is 123.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Mê Liên Quân Mobile, làm thế nào để trở thành một game thủ chuyên nghiệp?](https://cafebiz.vn/title-me-lien-quan-mobile-lam-the-nao-de-tro-thanh-mot-game-thu-chuyen-nghiep-20210313112241379.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vì sao nhân viên phục vụ bàn lại được trả cao hơn người phụ bếp tại các nhà hàng lớn?](https://cafebiz.vn/vi-sao-nhan-vien-phuc-vu-ban-lai-duoc-tra-cao-hon-nguoi-phu-bep-tai-cac-nha-hang-lon-20210313104849141.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vạn người &quot;chen chân&quot; đội lễ, dâng sớ tại phủ Tây Hồ mùng 1 tháng 2 âm lịch](https://laodong.vn/photo/van-nguoi-chen-chan-doi-le-dang-so-tai-phu-tay-ho-mung-1-thang-2-am-lich-888718.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyển đổi nội dung giáo dục trực tuyến sang GDPT mới nên tiến hành thế nào](https://laodong.vn/giao-duc/chuyen-doi-noi-dung-giao-duc-truc-tuyen-sang-gdpt-moi-nen-tien-hanh-the-nao-888669.ldo) ([Lao Động](https://laodong.vn))
+- [Ứng dụng công nghệ thông tin của ngành Hải quan có bước nhảy vọt](https://laodong.vn/kinh-te/ung-dung-cong-nghe-thong-tin-cua-nganh-hai-quan-co-buoc-nhay-vot-888693.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng: '8G' để phát triển Đồng bằng sông Cửu Long](https://tuoitre.vn/thu-tuong-8g-de-phat-trien-dong-bang-song-cuu-long-20210313121459116.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tổng LĐLĐ VN dâng hương, tưởng nhớ 64 chiến sĩ Gạc Ma](https://laodong.vn/cong-doan/tong-ldld-vn-dang-huong-tuong-nho-64-chien-si-gac-ma-888688.ldo) ([Lao Động](https://laodong.vn))
+- [Chức danh nghề nghiệp giáo viên: Đừng tạo ra &quot;cuộc đua&quot; bằng cấp](https://laodong.vn/su-kien-binh-luan/chuc-danh-nghe-nghiep-giao-vien-dung-tao-ra-cuoc-dua-bang-cap-888672.ldo) ([Lao Động](https://laodong.vn))
 - [Man United tái gia nhập cuộc đua giành Haaland: Cái khó chưa ló cái khôn](https://laodong.vn/bong-da-quoc-te/man-united-tai-gia-nhap-cuoc-dua-gianh-haaland-cai-kho-chua-lo-cai-khon-888708.ldo) ([Lao Động](https://laodong.vn))
-- [Tại sao Indonesia của Shin Tae-yong là thử thách lớn cho tuyển Việt Nam?](https://laodong.vn/bong-da/tai-sao-indonesia-cua-shin-tae-yong-la-thu-thach-lon-cho-tuyen-viet-nam-888426.ldo) ([Lao Động](https://laodong.vn))
-- [Đồ án quy hoạch sông Hồng qua các thời kỳ](https://vnexpress.net/do-an-quy-hoach-song-hong-qua-cac-thoi-ky-4247888.html) ([VNExpress](https://vnexpress.net))
-- [Đồng Nai chấp thuận 2,3ha đất xây dựng thiết chế công đoàn cho công nhân](https://laodong.vn/cong-doan/dong-nai-chap-thuan-23ha-dat-xay-dung-thiet-che-cong-doan-cho-cong-nhan-888681.ldo) ([Lao Động](https://laodong.vn))
-- [Tiền đạo Takasaki: “Công Phượng hay nhưng khó nói về đẳng cấp V.League”](https://laodong.vn/bong-da/tien-dao-takasaki-cong-phuong-hay-nhung-kho-noi-ve-dang-cap-vleague-888660.ldo) ([Lao Động](https://laodong.vn))
-- [Điều chỉnh quy hoạch cụm tháp Chăm ngàn năm tuổi ở Bình Định](https://laodong.vn/van-hoa/dieu-chinh-quy-hoach-cum-thap-cham-ngan-nam-tuoi-o-binh-dinh-888709.ldo) ([Lao Động](https://laodong.vn))
-- [Cần gần 200.000 tỷ đồng phát triển giao thông miền Tây](https://vnexpress.net/can-gan-200-000-ty-dong-phat-trien-giao-thong-mien-tay-4247958.html) ([VNExpress](https://vnexpress.net))
-- [Bản tin 1 phút: Dòng người xuyên đêm đổ về đi lễ chùa Hương ngày mùng 1](https://laodong.vn/video-thoi-su/ban-tin-1-phut-dong-nguoi-xuyen-dem-do-ve-di-le-chua-huong-ngay-mung-1-888649.ldo) ([Lao Động](https://laodong.vn))
-- [ĐBSCL tăng trưởng ấn tượng sau khi có nghị quyết thuận thiên của Chính phủ](http://vietnamnet.vn/vn/thoi-su/chinh-tri/dbscl-tang-truong-an-tuong-sau-khi-co-nghi-quyet-thuan-thien-cua-chinh-phu-719365.html) ([VietNamNet](https://vietnamnet.vn))
-- [Vàng có tuần tăng giá mạnh nhất 7 tuần bất chấp nhà đầu tư "nhòm ngó" các kênh đầu tư khác](https://cafebiz.vn/vang-co-tuan-tang-gia-manh-nhat-7-tuan-bat-chap-nha-dau-tu-nhom-ngo-cac-kenh-dau-tu-khac-20210313122504193.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quy hoạch đô thị sông Hồng qua các thời kỳ](https://vnexpress.net/quy-hoach-do-thi-song-hong-qua-cac-thoi-ky-4247888.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
