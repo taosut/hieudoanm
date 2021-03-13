@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Du khách vô tư mở chiếu bạc trên đò, "sát phạt" công khai khi đi lễ chùa Hương](https://cafebiz.vn/du-khach-vo-tu-mo-chieu-bac-tren-do-sat-phat-cong-khai-khi-di-le-chua-huong-20210313114447896.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trưởng phòng luật công ty đa quốc gia mức lương khủng, 40 tuổi thôi việc "cố chấp" làm nông dân toàn thời gian: Nữ nhân yếu đuối cho ai xem, hãy sống quyết liệt lên!](https://cafebiz.vn/truong-phong-luat-cong-ty-da-quoc-gia-muc-luong-khung-40-tuoi-thoi-viec-co-chap-lam-nong-dan-toan-thoi-gian-nu-nhan-yeu-duoi-cho-ai-xem-hay-song-quyet-liet-len-20210313114203828.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khởi công Đền thờ Liệt sĩ hơn 100 tỉ đồng tại Chiến trường Điện Biên Phủ](https://laodong.vn/xa-hoi/khoi-cong-den-tho-liet-si-hon-100-ti-dong-tai-chien-truong-dien-bien-phu-888707.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng chỉ đạo bổ sung nội hàm &quot;8G&quot; vào Nghị quyết 120](https://laodong.vn/thoi-su/thu-tuong-chi-dao-bo-sung-noi-ham-8g-vao-nghi-quyet-120-888721.ldo) ([Lao Động](https://laodong.vn))
+- [Mê Liên Quân Mobile, làm thế nào để trở thành một game thủ chuyên nghiệp?](https://cafebiz.vn/title-me-lien-quan-mobile-lam-the-nao-de-tro-thanh-mot-game-thu-chuyen-nghiep-20210313112241379.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vì sao nhân viên phục vụ bàn lại được trả cao hơn người phụ bếp tại các nhà hàng lớn?](https://cafebiz.vn/vi-sao-nhan-vien-phuc-vu-ban-lai-duoc-tra-cao-hon-nguoi-phu-bep-tai-cac-nha-hang-lon-20210313104849141.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vạn người &quot;chen chân&quot; đội lễ, dâng sớ tại phủ Tây Hồ mùng 1 tháng 2 âm lịch](https://laodong.vn/photo/van-nguoi-chen-chan-doi-le-dang-so-tai-phu-tay-ho-mung-1-thang-2-am-lich-888718.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyển đổi nội dung giáo dục trực tuyến sang GDPT mới nên tiến hành thế nào](https://laodong.vn/giao-duc/chuyen-doi-noi-dung-giao-duc-truc-tuyen-sang-gdpt-moi-nen-tien-hanh-the-nao-888669.ldo) ([Lao Động](https://laodong.vn))
+- [Ứng dụng công nghệ thông tin của ngành Hải quan có bước nhảy vọt](https://laodong.vn/kinh-te/ung-dung-cong-nghe-thong-tin-cua-nganh-hai-quan-co-buoc-nhay-vot-888693.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng: '8G' để phát triển Đồng bằng sông Cửu Long](https://tuoitre.vn/thu-tuong-8g-de-phat-trien-dong-bang-song-cuu-long-20210313121459116.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
