@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 23°C.
-- Feels Like 24.51°C.
-- Air Visual is 91.
+- Temperature is 24°C.
+- Feels Like 25.99°C.
+- Air Visual is 82.
 
 **WEATHER**
 
@@ -51,7 +51,8 @@
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
-- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
+- [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
+- [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Joe Biden](https://img.shields.io/static/v1?label=Joe%20Biden&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joe%20Biden)
@@ -59,15 +60,14 @@
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
-- [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
+- [![Midu](https://img.shields.io/static/v1?label=Midu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Midu)
+- [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
-- [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [7 kỹ năng phỏng vấn xuất sắc từ tỷ phú Oprah Winfrey](https://cafebiz.vn/7-ky-nang-phong-van-xuat-sac-tu-ty-phu-oprah-winfrey-20210313090221549.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tây Ninh: Hỗ trợ xây dựng gần 10 Mái ấm công đoàn cho đoàn viên trong quý 1](https://laodong.vn/cong-doan/tay-ninh-ho-tro-xay-dung-gan-10-mai-am-cong-doan-cho-doan-vien-trong-quy-1-888642.ldo) ([Lao Động](https://laodong.vn))
-- [CEO Ant Group bất ngờ từ chức](https://cafebiz.vn/ceo-ant-group-bat-ngo-tu-chuc-20210313085600494.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Tô Duy Lâm thôi làm Giám đốc Ngân hàng Nhà nước chi nhánh TP HCM](https://cafebiz.vn/ong-to-duy-lam-thoi-lam-giam-doc-ngan-hang-nha-nuoc-chi-nhanh-tp-hcm-20210313085356086.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Tô Duy Lâm thôi làm Giám đốc Ngân hàng Nhà nước chi nhánh TP HCM](https://cafebiz.vn/ong-to-duy-lam-thoi-lam-giam-doc-ngan-hang-nha-nuoc-chi-nhanh-tp-hcm-20210313085116749.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trong 3 năm, Youtuber Thơ Nguyễn đã nộp bao nhiêu tiền thuế thu nhập?](https://cafebiz.vn/trong-3-nam-youtuber-tho-nguyen-da-nop-bao-nhieu-tien-thue-thu-nhap-20210313084934499.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nàng công chúa Disney gốc Việt đang gây bão Hollywood được lấy cảm hứng từ Hai Bà Trưng của Việt Nam](https://cafebiz.vn/nang-cong-chua-disney-goc-viet-dang-gay-bao-hollywood-duoc-lay-cam-hung-tu-hai-ba-trung-cua-viet-nam-2021031308483187.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kiatisuk làm điều "chưa từng thấy" với Công Phượng, Xuân Trường, HAGL liệu sẽ "khác xưa"?](https://cafebiz.vn/kiatisuk-lam-dieu-chua-tung-thay-voi-cong-phuong-xuan-truong-hagl-lieu-se-khac-xua-20210313084456688.chn) ([CafeBiz](https://cafebiz.vn))
-- [CCCD, CMT còn thời hạn có bắt buộc phải đổi sang thẻ gắn chip?](https://cafebiz.vn/cccd-cmt-con-thoi-han-co-bat-buoc-phai-doi-sang-the-gan-chip-20210313084440393.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bộ GDĐT giải đáp về chế độ chính sách đối với giáo viên mầm non](https://laodong.vn/ban-doc/bo-gddt-giai-dap-ve-che-do-chinh-sach-doi-voi-giao-vien-mam-non-888638.ldo) ([Lao Động](https://laodong.vn))
+- [Kiatisak mong tuyển Việt Nam, Thái Lan cùng đi tiếp tại vòng loại World Cup](https://laodong.vn/bong-da/kiatisak-mong-tuyen-viet-nam-thai-lan-cung-di-tiep-tai-vong-loai-world-cup-888640.ldo) ([Lao Động](https://laodong.vn))
+- [Quy hoạch phân khu đô thị sông Hồng: Hàng nghìn hộ dân có phải di dời?](https://laodong.vn/xa-hoi/quy-hoach-phan-khu-do-thi-song-hong-hang-nghin-ho-dan-co-phai-di-doi-888564.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM duy trì nắng nóng diện rộng với mức nhiệt 37 độ C](https://laodong.vn/moi-truong/tphcm-duy-tri-nang-nong-dien-rong-voi-muc-nhiet-37-do-c-888654.ldo) ([Lao Động](https://laodong.vn))
+- [Công an TP Hà Nội phát hiện 15 tấn sách in lậu tại một căn nhà ở Hà Đông](https://cafebiz.vn/cong-an-tp-ha-noi-phat-hien-15-tan-sach-in-lau-tai-mot-can-nha-o-ha-dong-2021031309344423.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mùa đánh bắt sứa biển](https://vnexpress.net/mua-danh-bat-sua-bien-4247827.html) ([VNExpress](https://vnexpress.net))
+- [Hải Phòng: Đâm xe trực diện ôtô, hai thiếu niên 16 tuổi tử vong thương tâm](https://laodong.vn/xa-hoi/hai-phong-dam-xe-truc-dien-oto-hai-thieu-nien-16-tuoi-tu-vong-thuong-tam-888653.ldo) ([Lao Động](https://laodong.vn))
+- [Vietravel Airlines chính thức bán vé qua hệ thống 40 phòng vé toàn quốc, đã có 5 đường bay thường lệ](https://cafebiz.vn/vietravel-airlines-chinh-thuc-ban-ve-qua-he-thong-40-phong-ve-toan-quoc-da-co-5-duong-bay-thuong-le-20210312155557827.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hàng trăm người dân thực hiện khai báo y tế, chờ vào lễ Chùa Hương trong ngày đầu mở cửa trở lại](https://cafebiz.vn/hang-tram-nguoi-dan-thuc-hien-khai-bao-y-te-cho-vao-le-chua-huong-trong-ngay-dau-mo-cua-tro-lai-20210313093328925.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thời hạn nộp tiền sử dụng đất khi được cấp sổ đỏ là bao lâu?](https://laodong.vn/bat-dong-san/thoi-han-nop-tien-su-dung-dat-khi-duoc-cap-so-do-la-bao-lau-888399.ldo) ([Lao Động](https://laodong.vn))
+- ['Cao tốc TP.HCM - Cần Thơ sẽ hoàn thành trong nhiệm kỳ  này'](https://tuoitre.vn/cao-toc-tp-hcm-can-tho-se-hoan-thanh-trong-nhiem-ky-nay-20210313091331668.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -137,9 +137,9 @@
 05. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
 06. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
-08. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
-09. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
-10. [Bệnh nhân của "thần y" Võ Hoàng Yên phải kêu cứu, xin thuốc Bác Ba Trầu](https://www.youtube.com/watch?v=a1RYbDGQ-n0) - [Lê thân thiện](https://www.youtube.com/channel/UC8UjpFpFqbVJoe65IJUaryQ)
+08. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
+09. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
+10. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 
 [Read More](https://www.youtube.com/feed/trending)
 
