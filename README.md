@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 24°C.
 - Feels Like 26.35°C.
-- Air Visual is 115.
+- Air Visual is 134.
 
 **WEATHER**
 
@@ -75,10 +75,10 @@
 
 **NEWS**
 
-- [ĐBSCL tăng trưởng ấn tượng sau khi có nghị quyết thuận thiên của Chính phủ](http://vietnamnet.vn/vn/thoi-su/chinh-tri/dbscl-tang-truong-an-tuong-sau-khi-co-nghi-quyet-thuan-thien-cua-chinh-phu-719365.html) ([VietNamNet](https://vietnamnet.vn))
+- [Thợ ảnh bị hành hung vì nhắc nhở 2 thanh niên dùng gậy đập hoa gạo](https://laodong.vn/phap-luat/tho-anh-bi-hanh-hung-vi-nhac-nho-2-thanh-nien-dung-gay-dap-hoa-gao-888689.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút: Dòng người xuyên đêm đổ về đi lễ chùa Hương ngày mùng 1](https://laodong.vn/video-thoi-su/ban-tin-1-phut-dong-nguoi-xuyen-dem-do-ve-di-le-chua-huong-ngay-mung-1-888649.ldo) ([Lao Động](https://laodong.vn))
 - [Những mẫu xe ế ẩm, chỉ bán được dưới 10 chiếc trong tháng 2.2021](https://laodong.vn/xe/nhung-mau-xe-e-am-chi-ban-duoc-duoi-10-chiec-trong-thang-22021-888650.ldo) ([Lao Động](https://laodong.vn))
 - [Vàng có tuần tăng giá mạnh nhất 7 tuần bất chấp nhà đầu tư "nhòm ngó" các kênh đầu tư khác](https://cafebiz.vn/vang-co-tuan-tang-gia-manh-nhat-7-tuan-bat-chap-nha-dau-tu-nhom-ngo-cac-kenh-dau-tu-khac-20210313122504193.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tông thẳng vào đầu xe tải, nam thanh niên tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/tong-thang-vao-dau-xe-tai-nam-thanh-nien-tu-vong-719377.html) ([VietNamNet](https://vietnamnet.vn))
 - [Kết nhầm bạn vừa tốn thời gian, vừa mất tiền bạc, tâm sức: 8 dấu hiệu chứng tỏ bạn đang có một người BẠN ĐỂU](https://cafebiz.vn/ket-nham-ban-vua-ton-thoi-gian-vua-mat-tien-bac-tam-suc-8-dau-hieu-chung-to-ban-dang-co-mot-nguoi-ban-deu-2021031312212155.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lễ tưởng niệm các chiến sĩ Gạc Ma: 'Các anh như mãi còn đây'](https://tuoitre.vn/le-tuong-niem-cac-chien-si-gac-ma-cac-anh-nhu-mai-con-day-20210313105906793.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Detox giảm cân và những lầm tưởng tai hại](https://laodong.vn/suc-khoe/detox-giam-can-va-nhung-lam-tuong-tai-hai-888699.ldo) ([Lao Động](https://laodong.vn))
