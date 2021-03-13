@@ -75,12 +75,12 @@
 
 **NEWS**
 
+- [Nhóm nhạc nam Kpop hot nhất tháng 3: BTS lần thứ 34 lên top đầu?](https://laodong.vn/giai-tri/nhom-nhac-nam-kpop-hot-nhat-thang-3-bts-lan-thu-34-len-top-dau-888782.ldo) ([Lao Động](https://laodong.vn))
+- [Bệnh viện 150 tỉ đồng chưa hoạt động vì hệ thống PCCC chưa hoàn thiện](https://laodong.vn/ban-doc/benh-vien-150-ti-dong-chua-hoat-dong-vi-he-thong-pccc-chua-hoan-thien-888778.ldo) ([Lao Động](https://laodong.vn))
 - [Hơn 200 công nhân ngừng việc liên quan tiền làm thêm giờ, suất ăn ca](https://laodong.vn/cong-doan/hon-200-cong-nhan-ngung-viec-lien-quan-tien-lam-them-gio-suat-an-ca-888733.ldo) ([Lao Động](https://laodong.vn))
 - [Bắc Giang: Bắt giữ một phụ nữ mua bán trái phép chất ma túy trên Quốc lộ](https://laodong.vn/phap-luat/bac-giang-bat-giu-mot-phu-nu-mua-ban-trai-phep-chat-ma-tuy-tren-quoc-lo-888773.ldo) ([Lao Động](https://laodong.vn))
 - [1.670 gói giống lúa suýt nhập lậu thành công vào nội địa](https://laodong.vn/phap-luat/1670-goi-giong-lua-suyt-nhap-lau-thanh-cong-vao-noi-dia-888470.ldo) ([Lao Động](https://laodong.vn))
 - [Bí quyết tăng nhanh doanh thu cho người bán hàng online: Sức mạnh của livestream](https://cafebiz.vn/bi-quyet-tang-nhanh-doanh-thu-cho-nguoi-ban-hang-online-suc-manh-cua-livestream-20210313134547402.chn) ([CafeBiz](https://cafebiz.vn))
-- [Philippines phát hiện ca COVID-19 đầu tiên nhiễm biến thể Brazil](https://laodong.vn/the-gioi/philippines-phat-hien-ca-covid-19-dau-tien-nhiem-bien-the-brazil-888771.ldo) ([Lao Động](https://laodong.vn))
-- [Bình Định phát động gia phong trào “Lao động sáng tạo” 2021](https://laodong.vn/cong-doan/binh-dinh-phat-dong-gia-phong-trao-lao-dong-sang-tao-2021-888776.ldo) ([Lao Động](https://laodong.vn))
 - ['Tui bán bánh ướt lời được 5 chục, tui dành ra 2 chục mua rau củ của Hải Dương'](https://tuoitre.vn/tui-ban-banh-uot-loi-duoc-5-chuc-tui-danh-ra-2-chuc-mua-rau-cu-cua-hai-duong-20210313160720447.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Vì sao dân sales chi tiền cho xe hơi và quần áo nhiều hơn các giáo sư đại học dù họ có thu nhập tương đương nhau?](https://cafebiz.vn/vi-sao-cac-luat-su-dan-sales-chi-tien-cho-xe-hoi-va-quan-ao-nhieu-hon-cac-giao-su-dai-hoc-du-ho-co-thu-nhap-tuong-duong-nhau-2021031311041795.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cập nhật danh sách trường Đại học tuyển sinh qua xét học bạ THPT](https://laodong.vn/giao-duc/cap-nhat-danh-sach-truong-dai-hoc-tuyen-sinh-qua-xet-hoc-ba-thpt-888760.ldo) ([Lao Động](https://laodong.vn))
