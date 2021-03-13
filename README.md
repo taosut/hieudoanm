@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 25.5°C.
-- Air Visual is 95.
+- Air Visual is 96.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Cổ phiếu tăng trưởng 'thất sủng', lĩnh vực công nghệ trồi sụt như tàu lượn siêu tốc và quay trở lại thời kỳ biến động như hồi đại dịch](https://cafebiz.vn/co-phieu-tang-truong-that-sung-linh-vuc-cong-nghe-troi-sut-nhu-tau-luon-sieu-toc-va-quay-tro-lai-thoi-ky-bien-dong-nhu-hoi-dai-dich-20210313110306589.chn) ([CafeBiz](https://cafebiz.vn))
+- [Những thay đổi quan trọng trong gói cứu trợ khổng lồ mới của ông Biden](https://cafebiz.vn/nhung-thay-doi-quan-trong-trong-goi-cuu-tro-khong-lo-moi-cua-ong-biden-20210312101452908.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trận Than Quảng Ninh – TPHCM sẽ đón 2.500 khán giả](https://laodong.vn/bong-da/tran-than-quang-ninh--tphcm-se-don-2500-khan-gia-888674.ldo) ([Lao Động](https://laodong.vn))
+- [Một công nhân tử vong trong công trình xây dựng](https://laodong.vn/xa-hoi/mot-cong-nhan-tu-vong-trong-cong-trinh-xay-dung-888673.ldo) ([Lao Động](https://laodong.vn))
+- [Học cách tiết kiệm tiền tỉ bằng việc ăn trưa chỉ với dứa và khoai lang: Chuyên gia nói bạn sẽ "gánh đủ"!](https://cafebiz.vn/hoc-cach-tiet-kiem-tien-ti-bang-viec-an-trua-chi-voi-dua-va-khoai-lang-chuyen-gia-noi-ban-se-ganh-du-20210313105408472.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tạp chí Hoa Kỳ: Không một nước nào với quy mô tương đương đạt mức tăng chỉ số tự do kinh tế như Việt Nam!](https://cafebiz.vn/tap-chi-hoa-ky-khong-mot-nuoc-nao-voi-quy-mo-tuong-duong-dat-muc-tang-chi-so-tu-do-kinh-te-nhu-viet-nam-20210313105224927.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bitcoin quay đầu giảm ngay khi áp sát mức đỉnh kỉ lục](https://laodong.vn/kinh-te/bitcoin-quay-dau-giam-ngay-khi-ap-sat-muc-dinh-ki-luc-888648.ldo) ([Lao Động](https://laodong.vn))
 - [Nhà báo chỉ trích Meghan trên sóng truyền hình rồi đùng đùng bỏ đi khiến nhà đài mất trắng 6000 tỷ đồng còn người hâm mộ cầu xin: "Anh ơi ở lại"](https://cafebiz.vn/nha-bao-chi-trich-meghan-tren-song-truyen-hinh-roi-dung-dung-bo-di-khien-nha-dai-mat-trang-6000-ty-dong-con-nguoi-ham-mo-cau-xin-anh-oi-o-lai-20210313105023635.chn) ([CafeBiz](https://cafebiz.vn))
 - [Người đẹp cầm đầu đường dây mua bán 2.800 viên thuốc lắc sa lưới](https://laodong.vn/phap-luat/nguoi-dep-cam-dau-duong-day-mua-ban-2800-vien-thuoc-lac-sa-luoi-888678.ldo) ([Lao Động](https://laodong.vn))
 - [Brazil vượt Ấn Độ thành nước có số ca COVID-19 cao thứ 2 thế giới](https://laodong.vn/the-gioi/brazil-vuot-an-do-thanh-nuoc-co-so-ca-covid-19-cao-thu-2-the-gioi-888663.ldo) ([Lao Động](https://laodong.vn))
-- [CEO Gamuda Land: Người dân Việt Nam có tài sản tích luỹ dưới dạng vàng, ngoại tệ đang chuyển hoá sang bất động sản](https://cafebiz.vn/ceo-gamuda-land-nguoi-dan-viet-nam-co-tai-san-tich-luy-duoi-dang-vang-ngoai-te-dang-chuyen-hoa-sang-bat-dong-san-20210313104624475.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phát hiện hàng nghìn lọ thuốc đông y nghi làm giả](https://laodong.vn/thi-truong/phat-hien-hang-nghin-lo-thuoc-dong-y-nghi-lam-gia-888683.ldo) ([Lao Động](https://laodong.vn))
-- [Dịch COVID-19 kéo dài, Hải Dương nhờ Bộ đánh giá có phải do lây nhiễm chéo?](https://tuoitre.vn/dich-covid-19-keo-dai-hai-duong-nho-bo-danh-gia-co-phai-do-lay-nhiem-cheo-20210313090831089.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Điện Biên: Trên đường về 2 học sinh bị đuối nước thương tâm](https://laodong.vn/xa-hoi/dien-bien-tren-duong-ve-2-hoc-sinh-bi-duoi-nuoc-thuong-tam-888676.ldo) ([Lao Động](https://laodong.vn))
-- [Đáng sợ với "đẳng cấp" làm hàng nhái Trung Quốc: Túi LV giả có chip NFC chống hàng giả, dù túi thật không hề có](https://cafebiz.vn/dang-so-voi-dang-cap-lam-hang-nhai-trung-quoc-tui-lv-gia-co-chip-nfc-chong-hang-gia-du-tui-that-khong-he-co-20210313103437558.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vợ ông Dũng "lò vôi" chia sẻ đoạn tin nhắn được cho là của Võ Hoàng Yên nói đang buồn chán, định cạo đầu và đã chuẩn bị cách để chết](https://cafebiz.vn/vo-ong-dung-lo-voi-chia-se-doan-tin-nhan-duoc-cho-la-cua-vo-hoang-yen-noi-dang-buon-chan-dinh-cao-dau-va-da-chuan-bi-cach-de-chet-20210313103259707.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá vàng và ngoại tệ 13.3: Vàng đảo chiều giảm, USD tăng](https://laodong.vn/video/gia-vang-va-ngoai-te-133-vang-dao-chieu-giam-usd-tang-888644.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
