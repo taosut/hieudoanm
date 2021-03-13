@@ -50,8 +50,7 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
-- [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
-- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
+- [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Joe Biden](https://img.shields.io/static/v1?label=Joe%20Biden&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joe%20Biden)
@@ -59,6 +58,8 @@
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
+- [![Lịch thi đấu V-League 2021](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League%202021)
+- [![M.U](https://img.shields.io/static/v1?label=M.U&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M.U)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
@@ -66,7 +67,6 @@
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
-- [![V-League](https://img.shields.io/static/v1?label=V-League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V-League)
 - [![Đào Bá Lộc](https://img.shields.io/static/v1?label=%C4%90%C3%A0o%20B%C3%A1%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C3%A0o%20B%C3%A1%20L%E1%BB%99c)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Du khách tấp nập ngày chùa Hương mở cửa trở lại](https://vnexpress.net/du-khach-tap-nap-ngay-chua-huong-mo-cua-tro-lai-4247953.html) ([VNExpress](https://vnexpress.net))
-- [Hà Nội: "Khốn khổ" vì mua chung cư cao cấp 5 năm chưa được làm hộ khẩu, cư dân mang ô tô dán băng rôn diễu phố phản đối chủ đầu tư](https://cafebiz.vn/ha-noi-khon-kho-vi-mua-chung-cu-cao-cap-5-nam-chua-duoc-lam-ho-khau-cu-dan-mang-o-to-dan-bang-ron-dieu-pho-phan-doi-chu-dau-tu-20210313115106799.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hàng vạn người tới lễ, Phủ Tây Hồ sử dụng hết 100l nước sát khuẩn](https://laodong.vn/xa-hoi/hang-van-nguoi-toi-le-phu-tay-ho-su-dung-het-100l-nuoc-sat-khuan-888710.ldo) ([Lao Động](https://laodong.vn))
-- [Gương mặt trẻ Thủ đô tiêu biểu nhỏ tuổi nhất muốn trở thành nhà vật lý](https://laodong.vn/xa-hoi/guong-mat-tre-thu-do-tieu-bieu-nho-tuoi-nhat-muon-tro-thanh-nha-vat-ly-888659.ldo) ([Lao Động](https://laodong.vn))
-- [Nghệ An-Hà Tĩnh: Chuẩn bị chính thức thông xe cầu Cửa Hội](https://laodong.vn/xa-hoi/nghe-an-ha-tinh-chuan-bi-chinh-thuc-thong-xe-cau-cua-hoi-888735.ldo) ([Lao Động](https://laodong.vn))
-- [Chứng khoán: 1 tuần thất vọng và hi vọng, vẫn còn thiếu động lực vượt](https://laodong.vn/kinh-te/chung-khoan-1-tuan-that-vong-va-hi-vong-van-con-thieu-dong-luc-vuot-888726.ldo) ([Lao Động](https://laodong.vn))
-- [Huyền thoại Stoichkov chê Griezmann: &quot;Barcelona như đá 10 người&quot;](https://laodong.vn/bong-da-quoc-te/huyen-thoai-stoichkov-che-griezmann-barcelona-nhu-da-10-nguoi-888727.ldo) ([Lao Động](https://laodong.vn))
-- [12 quy tắc xã hội mà bạn cần học hỏi: Quyết định nửa phần đời sau của bạn có an ổn hay không!](https://cafebiz.vn/12-quy-tac-xa-hoi-ma-ban-can-hoc-hoi-quyet-dinh-nua-phan-doi-sau-cua-ban-co-an-on-hay-khong-20210311123156529.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người miền Tây làm công nhân ở Bình Dương: 'Đời ly hương buồn trăm chiều buồn'](https://tuoitre.vn/nguoi-mien-tay-lam-cong-nhan-o-binh-duong-doi-ly-huong-buon-tram-chieu-buon-20210313084047819.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [TPHCM: Nắng nóng gay gắt, người dân dùng mọi cách để tránh nắng](https://laodong.vn/photo/tphcm-nang-nong-gay-gat-nguoi-dan-dung-moi-cach-de-tranh-nang-888720.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
