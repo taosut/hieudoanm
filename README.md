@@ -22,7 +22,7 @@
 - Current weather is clear sky.
 - Temperature is 24°C.
 - Feels Like 26.71°C.
-- Air Visual is 154.
+- Air Visual is 145.
 
 **WEATHER**
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Bắt giữ lượng lớn thuốc đông y gia truyền nghi giả](https://cafebiz.vn/bat-giu-luong-lon-thuoc-dong-y-gia-truyen-nghi-gia-20210313192422265.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Park dự khán, trận Hà Nội - Hải Phòng phòng dịch nghiêm đón khán giả](https://laodong.vn/photo/ong-park-du-khan-tran-ha-noi-hai-phong-phong-dich-nghiem-don-khan-gia-888808.ldo) ([Lao Động](https://laodong.vn))
 - [Hơn 30.000 thiết bị Internet đang có nguy cơ bị hacker tấn công](https://cafebiz.vn/hon-30000-thiet-bi-internet-dang-co-nguy-co-bi-hacker-tan-cong-20210313191730562.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nội có 3 điểm đầu tiên ở V.League 2021](https://laodong.vn/bong-da/ha-noi-co-3-diem-dau-tien-o-vleague-2021-888818.ldo) ([Lao Động](https://laodong.vn))
 - [Hướng dương ngược nắng: Cần một cái kết có hậu để xoa dịu lòng khán giả?](https://laodong.vn/van-hoa/huong-duong-nguoc-nang-can-mot-cai-ket-co-hau-de-xoa-diu-long-khan-gia-888816.ldo) ([Lao Động](https://laodong.vn))
@@ -82,9 +84,7 @@
 - [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 14.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-143-888520.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất 24h: Giới chuyên gia dự báo về giá vàng trong thời gian sắp tới](https://laodong.vn/video-thoi-su/nong-nhat-24h-gioi-chuyen-gia-du-bao-ve-gia-vang-trong-thoi-gian-sap-toi-888805.ldo) ([Lao Động](https://laodong.vn))
 - [Ảnh: Du khách đi lễ chùa Hương ngang nhiên mở "sới bạc" trên thuyền](https://cafebiz.vn/anh-du-khach-di-le-chua-huong-ngang-nhien-mo-soi-bac-tren-thuyen-20210313190406149.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phát hiện hơn 3.000 thỏi son môi, kem trắng da… bị làm giả](https://laodong.vn/phap-luat/phat-hien-hon-3000-thoi-son-moi-kem-trang-da-bi-lam-gia-888820.ldo) ([Lao Động](https://laodong.vn))
 - [Cựu nhân viên tiết lộ lý do Facebook "sợ" Apple đến vậy](https://cafebiz.vn/cuu-nhan-vien-tiet-lo-ly-do-facebook-so-apple-den-vay-20210313190540094.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo dục 24/7: Dự kiến ngày 7 và 8.7 sẽ thi tốt nghiệp THPT](https://laodong.vn/video-thoi-su/giao-duc-247-du-kien-ngay-7-va-87-se-thi-tot-nghiep-thpt-888801.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
