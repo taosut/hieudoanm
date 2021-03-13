@@ -50,11 +50,11 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![Brave Girl](https://img.shields.io/static/v1?label=Brave%20Girl&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Brave%20Girl)
 - [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
 - [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
-- [![Joe Biden](https://img.shields.io/static/v1?label=Joe%20Biden&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joe%20Biden)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
@@ -66,7 +66,7 @@
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
-- [![Thủ môn Bùi Tiến Dũng](https://img.shields.io/static/v1?label=Th%E1%BB%A7%20m%C3%B4n%20B%C3%B9i%20Ti%E1%BA%BFn%20D%C5%A9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BB%A7%20m%C3%B4n%20B%C3%B9i%20Ti%E1%BA%BFn%20D%C5%A9ng)
+- [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![XSMN thứ 7](https://img.shields.io/static/v1?label=XSMN%20th%E1%BB%A9%207&message=google&color=red&style=flat-square)](https://www.google.com/search?q=XSMN%20th%E1%BB%A9%207)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [HLV Chu Đình Nghiêm: &quot;Nếu Hải Phòng ghi bàn trước, Hà Nội sẽ rất khó đá&quot;](https://laodong.vn/bong-da/hlv-chu-dinh-nghiem-neu-hai-phong-ghi-ban-truoc-ha-noi-se-rat-kho-da-888834.ldo) ([Lao Động](https://laodong.vn))
+- [Chứng khoán mãi không vượt nổi 1200 điểm, nhà đầu tư nên làm gì để có lãi?](https://laodong.vn/kinh-te/chung-khoan-mai-khong-vuot-noi-1200-diem-nha-dau-tu-nen-lam-gi-de-co-lai-888835.ldo) ([Lao Động](https://laodong.vn))
 - [Các thành viên Hoàng gia Anh kiếm tiền thế nào?](https://cafebiz.vn/cac-thanh-vien-hoang-gia-anh-kiem-tien-the-nao-20210313192125837.chn) ([CafeBiz](https://cafebiz.vn))
+- [9 điều có thể chưa biết về thiết kế Tử Cấm Thành ở Trung Quốc](https://laodong.vn/the-gioi/9-dieu-co-the-chua-biet-ve-thiet-ke-tu-cam-thanh-o-trung-quoc-888133.ldo) ([Lao Động](https://laodong.vn))
 - [Bruno mờ nhạt, Văn Đại tỏa sáng ngày &quot;đóng thế&quot; Quang Hải](https://laodong.vn/photo/bruno-mo-nhat-van-dai-toa-sang-ngay-dong-the-quang-hai-888823.ldo) ([Lao Động](https://laodong.vn))
 - [Bình Định thoải mái chơi bóng ném trước trận gặp Hoàng Anh Gia Lai](https://laodong.vn/photo/binh-dinh-thoai-mai-choi-bong-nem-truoc-tran-gap-hoang-anh-gia-lai-888812.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất hôm nay: &quot;Bộ tứ&quot; ra thông điệp tại cuộc họp thượng đỉnh đầu tiên](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bo-tu-ra-thong-diep-tai-cuoc-hop-thuong-dinh-dau-tien-888811.ldo) ([Lao Động](https://laodong.vn))
-- [Bí quyết trị rụng tóc bằng dầu dừa](https://laodong.vn/suc-khoe/bi-quyet-tri-rung-toc-bang-dau-dua-888205.ldo) ([Lao Động](https://laodong.vn))
-- [Tiểu thương thu tiền triệu mỗi ngày nhờ bán nước cam vắt](https://laodong.vn/kinh-te/tieu-thuong-thu-tien-trieu-moi-ngay-nho-ban-nuoc-cam-vat-888788.ldo) ([Lao Động](https://laodong.vn))
 - [Vì sao con số gần 20.000 người Việt Nam có tài sản ròng từ 1 triệu USD trở lên là thấp hơn nhiều so với thực tế?](https://cafebiz.vn/vi-sao-con-so-gan-20000-nguoi-viet-nam-co-tai-san-rong-tu-1-trieu-usd-tro-len-la-thap-hon-nhieu-so-voi-thuc-te-20210313204632486.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ai đã chi hơn 69 triệu USD cho 1 bức tranh ảo?](https://cafebiz.vn/ai-da-chi-hon-69-trieu-usd-cho-1-buc-tranh-ao-20210313194111332.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắt giữ lượng lớn thuốc đông y gia truyền nghi giả](https://cafebiz.vn/bat-giu-luong-lon-thuoc-dong-y-gia-truyen-nghi-gia-20210313192422265.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Park dự khán, trận Hà Nội - Hải Phòng phòng dịch nghiêm đón khán giả](https://laodong.vn/photo/ong-park-du-khan-tran-ha-noi-hai-phong-phong-dich-nghiem-don-khan-gia-888808.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
