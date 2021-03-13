@@ -48,11 +48,11 @@
 
 **GOOGLE TRENDS**
 
+- [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
-- [![CBR1000RR](https://img.shields.io/static/v1?label=CBR1000RR&message=google&color=red&style=flat-square)](https://www.google.com/search?q=CBR1000RR)
+- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
-- [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
-- [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
+- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Joe Biden](https://img.shields.io/static/v1?label=Joe%20Biden&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joe%20Biden)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chiều 13/3, thêm 3 ca mắc COVID-19 mới](https://cafebiz.vn/chieu-13-3-them-3-ca-mac-covid-19-moi-2021031319004738.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nữ chính trị gia người Anh đề xuất cấm đàn ông ra đường sau 18h tối](https://cafebiz.vn/nu-chinh-tri-gia-nguoi-anh-de-xuat-cam-dan-ong-ra-duong-sau-18h-toi-20210313153352198.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tân cử nhân thất nghiệp: Bấu víu vào việc làm thời vụ để kiếm sống](https://laodong.vn/xa-hoi/tan-cu-nhan-that-nghiep-bau-viu-vao-viec-lam-thoi-vu-de-kiem-song-888777.ldo) ([Lao Động](https://laodong.vn))
+- [Ca bệnh nâng tầm y học Việt Nam](https://laodong.vn/suc-khoe/ca-benh-nang-tam-y-hoc-viet-nam-888142.ldo) ([Lao Động](https://laodong.vn))
+- [500 triệu đồng, nên mua Mitsubishi Attrage Premium hay Kia Soluto Luxury?](https://laodong.vn/xe/500-trieu-dong-nen-mua-mitsubishi-attrage-premium-hay-kia-soluto-luxury-888435.ldo) ([Lao Động](https://laodong.vn))
+- [Khám phá văn phòng làm việc nghệ thuật trong phim “Hướng dương ngược nắng&quot;](https://laodong.vn/bat-dong-san/kham-pha-van-phong-lam-viec-nghe-thuat-trong-phim-huong-duong-nguoc-nang-888717.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tục tách sổ đỏ và những lệ phí cần nộp](https://laodong.vn/bat-dong-san/thu-tuc-tach-so-do-va-nhung-le-phi-can-nop-888768.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng: 'Chú trọng 8 vấn đề lớn phát triển miền Tây'](https://vnexpress.net/thu-tuong-chu-trong-8-van-de-lon-phat-trien-mien-tay-4248012.html) ([VNExpress](https://vnexpress.net))
 - [Quang Hải không thi đấu, ông Park Hang-seo dự khán trận Hải Phòng - Hà Nội](https://laodong.vn/bong-da/quang-hai-khong-thi-dau-ong-park-hang-seo-du-khan-tran-hai-phong-ha-noi-888793.ldo) ([Lao Động](https://laodong.vn))
-- [Kinh tế 24h: Giá vàng &quot;hồi sinh&quot;; Giá Bitcoin đột ngột bốc hơi](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-hoi-sinh-gia-bitcoin-dot-ngot-boc-hoi-888796.ldo) ([Lao Động](https://laodong.vn))
-- [ĐH Quốc gia Hà Nội công bố chỉ tiêu tuyển sinh của các trường thành viên](https://laodong.vn/giao-duc/dh-quoc-gia-ha-noi-cong-bo-chi-tieu-tuyen-sinh-cua-cac-truong-thanh-vien-888795.ldo) ([Lao Động](https://laodong.vn))
-- [Ghi nhận 3 ca mắc COVID-19, trong đó có 2 công nhân Công ty Poyun](https://laodong.vn/y-te/ghi-nhan-3-ca-mac-covid-19-trong-do-co-2-cong-nhan-cong-ty-poyun-888781.ldo) ([Lao Động](https://laodong.vn))
-- [Dựng mô hình đảo Gạc Ma và “64 ngôi sao bất tử” để giáo dục lòng yêu nước](https://laodong.vn/xa-hoi/dung-mo-hinh-dao-gac-ma-va-64-ngoi-sao-bat-tu-de-giao-duc-long-yeu-nuoc-888761.ldo) ([Lao Động](https://laodong.vn))
 - [Nghị quyết 120: Thông điệp “8G” của Thủ tướng vì sự phát triển của ĐBSCL](https://laodong.vn/thoi-su/nghi-quyet-120-thong-diep-8g-cua-thu-tuong-vi-su-phat-trien-cua-dbscl-888772.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều 13-3, có 3 ca mắc COVID-19 ở Bà Rịa - Vũng Tàu và Hải Dương](https://tuoitre.vn/chieu-13-3-co-3-ca-mac-covid-19-o-ba-ria-vung-tau-va-hai-duong-20210312061133459.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bí quyết tăng nhanh doanh thu cho người bán hàng online: Sức mạnh của livestream](https://cafebiz.vn/bi-quyet-tang-nhanh-doanh-thu-cho-nguoi-ban-hang-online-suc-manh-cua-livestream-20210313134547402.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Tui bán bánh ướt lời được 5 chục, tui dành ra 2 chục mua rau củ của Hải Dương'](https://tuoitre.vn/tui-ban-banh-uot-loi-duoc-5-chuc-tui-danh-ra-2-chuc-mua-rau-cu-cua-hai-duong-20210313160720447.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Vì sao dân sales chi tiền cho xe hơi và quần áo nhiều hơn các giáo sư đại học dù họ có thu nhập tương đương nhau?](https://cafebiz.vn/vi-sao-cac-luat-su-dan-sales-chi-tien-cho-xe-hoi-va-quan-ao-nhieu-hon-cac-giao-su-dai-hoc-du-ho-co-thu-nhap-tuong-duong-nhau-2021031311041795.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
