@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 25.99°C.
-- Air Visual is 82.
+- Feels Like 26.35°C.
+- Air Visual is 93.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Ông trùm Ấn Độ lặng lẽ đánh bại cả Elon Musk lẫn tỷ phú giàu nhất châu Á](https://cafebiz.vn/ong-trum-an-do-lang-le-danh-bai-ca-elon-musk-lan-ty-phu-giau-nhat-chau-a-20210313095618845.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trải nghiệm 2.000km, Minh 'Nhựa' âm thầm rao bán BMW X3 giá 2,5 tỷ đồng](https://cafebiz.vn/trai-nghiem-2000km-minh-nhua-am-tham-rao-ban-bmw-x3-gia-25-ty-dong-20210313095538767.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đề xuất chuyển sân bay Tân Sơn Nhất ra Củ Chi, xây dựng sân bay nhỏ ở Cần Giờ, Thủ Đức](https://cafebiz.vn/de-xuat-chuyen-san-bay-tan-son-nhat-ra-cu-chi-xay-dung-san-bay-nho-o-can-gio-thu-duc-20210313095459471.chn) ([CafeBiz](https://cafebiz.vn))
-- [Các dịch vụ karaoke, quán bar tại Ninh Bình mở cửa trở lại từ ngày 14.3](https://laodong.vn/xa-hoi/cac-dich-vu-karaoke-quan-bar-tai-ninh-binh-mo-cua-tro-lai-tu-ngay-143-888647.ldo) ([Lao Động](https://laodong.vn))
-- [Nghị quyết 120: Biến thách thức, đe dọa thành trạng thái “bình thường mới”](https://laodong.vn/xa-hoi/nghi-quyet-120-bien-thach-thuc-de-doa-thanh-trang-thai-binh-thuong-moi-888657.ldo) ([Lao Động](https://laodong.vn))
-- [Từ Nghị quyết “thuận thiên”: Cuộc chuyển mình mạnh mẽ trên đất “chín rồng”](https://laodong.vn/xa-hoi/tu-nghi-quyet-thuan-thien-cuoc-chuyen-minh-manh-me-tren-dat-chin-rong-888636.ldo) ([Lao Động](https://laodong.vn))
-- [Italia siết chặt hạn chế ngừa COVID-19, phong tỏa cả nước dịp lễ Phục sinh](https://laodong.vn/the-gioi/italia-siet-chat-han-che-ngua-covid-19-phong-toa-ca-nuoc-dip-le-phuc-sinh-888645.ldo) ([Lao Động](https://laodong.vn))
-- [Kiatisak mong tuyển Việt Nam, Thái Lan cùng đi tiếp tại vòng loại World Cup](https://laodong.vn/bong-da/kiatisak-mong-tuyen-viet-nam-thai-lan-cung-di-tiep-tai-vong-loai-world-cup-888640.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM duy trì nắng nóng diện rộng với mức nhiệt 37 độ C](https://laodong.vn/moi-truong/tphcm-duy-tri-nang-nong-dien-rong-voi-muc-nhiet-37-do-c-888654.ldo) ([Lao Động](https://laodong.vn))
-- [Công an TP Hà Nội phát hiện 15 tấn sách in lậu tại một căn nhà ở Hà Đông](https://cafebiz.vn/cong-an-tp-ha-noi-phat-hien-15-tan-sach-in-lau-tai-mot-can-nha-o-ha-dong-2021031309344423.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vợ ông Dũng "lò vôi" chia sẻ đoạn tin nhắn được cho là của Võ Hoàng Yên nói đang buồn chán, định cạo đầu và đã chuẩn bị cách để chết](https://cafebiz.vn/vo-ong-dung-lo-voi-chia-se-doan-tin-nhan-duoc-cho-la-cua-vo-hoang-yen-noi-dang-buon-chan-dinh-cao-dau-va-da-chuan-bi-cach-de-chet-20210313103259707.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá vàng và ngoại tệ 13.3: Vàng đảo chiều giảm, USD tăng](https://laodong.vn/video/gia-vang-va-ngoai-te-133-vang-dao-chieu-giam-usd-tang-888644.ldo) ([Lao Động](https://laodong.vn))
+- ["Bà trùm hoa hậu" Thuý Nga – TGĐ Elite Việt Nam: "Các cô gái Việt dễ nhìn hơn các nước láng giềng, nhưng hiếm thấy nhan sắc nổi bật vì các em đang tự triệt tiêu cá tính của mình"](https://cafebiz.vn/ba-trum-hoa-hau-thuy-nga-tgd-elite-viet-nam-cac-co-gai-viet-de-nhin-hon-cac-nuoc-lang-gieng-nhung-hiem-thay-nhan-sac-noi-bat-vi-cac-em-dang-tu-triet-tieu-ca-tinh-cua-minh-20210313010731531.chn) ([CafeBiz](https://cafebiz.vn))
+- [Méo mó lãi suất cho vay mua nhà](https://cafebiz.vn/meo-mo-lai-suat-cho-vay-mua-nha-20210313102901031.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người dân TP.HCM có thể chịu cái nóng tới 39 độ C](https://tuoitre.vn/nguoi-dan-tp-hcm-co-the-chiu-cai-nong-toi-39-do-c-20210313095727339.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Công trường đường đi bộ dọc sông Hương](https://vnexpress.net/cong-truong-duong-di-bo-doc-song-huong-4247083.html) ([VNExpress](https://vnexpress.net))
+- [4 tư duy hơn người của những người thành công khi tuổi đời còn rất trẻ: Trứng hôm nay đừng để ngày mai mới đẻ](https://cafebiz.vn/4-tu-duy-hon-nguoi-cua-nhung-nguoi-thanh-cong-khi-tuoi-doi-con-rat-tre-trung-hom-nay-dung-de-ngay-mai-moi-de-20210311193905479.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thăng hạng giáo viên THPT hạng I: Vướng mắc, không phù hợp thực tế](https://laodong.vn/ban-doc/thang-hang-giao-vien-thpt-hang-i-vuong-mac-khong-phu-hop-thuc-te-888658.ldo) ([Lao Động](https://laodong.vn))
+- [Thanh niên công nhân “Chung tay xây dựng Thành phố Thủ Đức”](https://laodong.vn/cong-doan/thanh-nien-cong-nhan-chung-tay-xay-dung-thanh-pho-thu-duc-888615.ldo) ([Lao Động](https://laodong.vn))
+- [Hạ Long miễn phí xét nghiệm, cách ly cho học sinh, gia đình từ Hải Dương ra](https://laodong.vn/xa-hoi/ha-long-mien-phi-xet-nghiem-cach-ly-cho-hoc-sinh-gia-dinh-tu-hai-duong-ra-888655.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
