@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 24°C.
-- Feels Like 27.07°C.
-- Air Visual is 123.
+- Feels Like 26.71°C.
+- Air Visual is 134.
 
 **WEATHER**
 
@@ -50,17 +50,17 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
-- [![CBR1000RR](https://img.shields.io/static/v1?label=CBR1000RR&message=google&color=red&style=flat-square)](https://www.google.com/search?q=CBR1000RR)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Joe Biden](https://img.shields.io/static/v1?label=Joe%20Biden&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joe%20Biden)
+- [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Mê Liên Quân Mobile, làm thế nào để trở thành một game thủ chuyên nghiệp?](https://cafebiz.vn/title-me-lien-quan-mobile-lam-the-nao-de-tro-thanh-mot-game-thu-chuyen-nghiep-20210313112241379.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vì sao nhân viên phục vụ bàn lại được trả cao hơn người phụ bếp tại các nhà hàng lớn?](https://cafebiz.vn/vi-sao-nhan-vien-phuc-vu-ban-lai-duoc-tra-cao-hon-nguoi-phu-bep-tai-cac-nha-hang-lon-20210313104849141.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vạn người &quot;chen chân&quot; đội lễ, dâng sớ tại phủ Tây Hồ mùng 1 tháng 2 âm lịch](https://laodong.vn/photo/van-nguoi-chen-chan-doi-le-dang-so-tai-phu-tay-ho-mung-1-thang-2-am-lich-888718.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyển đổi nội dung giáo dục trực tuyến sang GDPT mới nên tiến hành thế nào](https://laodong.vn/giao-duc/chuyen-doi-noi-dung-giao-duc-truc-tuyen-sang-gdpt-moi-nen-tien-hanh-the-nao-888669.ldo) ([Lao Động](https://laodong.vn))
-- [Ứng dụng công nghệ thông tin của ngành Hải quan có bước nhảy vọt](https://laodong.vn/kinh-te/ung-dung-cong-nghe-thong-tin-cua-nganh-hai-quan-co-buoc-nhay-vot-888693.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng: '8G' để phát triển Đồng bằng sông Cửu Long](https://tuoitre.vn/thu-tuong-8g-de-phat-trien-dong-bang-song-cuu-long-20210313121459116.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tổng LĐLĐ VN dâng hương, tưởng nhớ 64 chiến sĩ Gạc Ma](https://laodong.vn/cong-doan/tong-ldld-vn-dang-huong-tuong-nho-64-chien-si-gac-ma-888688.ldo) ([Lao Động](https://laodong.vn))
-- [Chức danh nghề nghiệp giáo viên: Đừng tạo ra &quot;cuộc đua&quot; bằng cấp](https://laodong.vn/su-kien-binh-luan/chuc-danh-nghe-nghiep-giao-vien-dung-tao-ra-cuoc-dua-bang-cap-888672.ldo) ([Lao Động](https://laodong.vn))
-- [Man United tái gia nhập cuộc đua giành Haaland: Cái khó chưa ló cái khôn](https://laodong.vn/bong-da-quoc-te/man-united-tai-gia-nhap-cuoc-dua-gianh-haaland-cai-kho-chua-lo-cai-khon-888708.ldo) ([Lao Động](https://laodong.vn))
-- [Quy hoạch đô thị sông Hồng qua các thời kỳ](https://vnexpress.net/quy-hoach-do-thi-song-hong-qua-cac-thoi-ky-4247888.html) ([VNExpress](https://vnexpress.net))
+
 
 [Read More](docs/news/README.md)
 
