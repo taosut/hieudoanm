@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 24°C.
 - Feels Like 27.07°C.
-- Air Visual is 153.
+- Air Visual is 154.
 
 **WEATHER**
 
@@ -49,10 +49,9 @@
 **GOOGLE TRENDS**
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
-- [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
-- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![CBR1000RR](https://img.shields.io/static/v1?label=CBR1000RR&message=google&color=red&style=flat-square)](https://www.google.com/search?q=CBR1000RR)
 - [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
-- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
+- [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Joe Biden](https://img.shields.io/static/v1?label=Joe%20Biden&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joe%20Biden)
@@ -68,6 +67,7 @@
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
+- [![Thủ môn Bùi Tiến Dũng](https://img.shields.io/static/v1?label=Th%E1%BB%A7%20m%C3%B4n%20B%C3%B9i%20Ti%E1%BA%BFn%20D%C5%A9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BB%A7%20m%C3%B4n%20B%C3%B9i%20Ti%E1%BA%BFn%20D%C5%A9ng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Xiaomi thắng kiện Bộ Quốc phòng Mỹ](https://cafebiz.vn/xiaomi-thang-kien-bo-quoc-phong-my-20210313191436521.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ảnh: Du khách đi lễ chùa Hương ngang nhiên mở "sới bạc" trên thuyền](https://cafebiz.vn/anh-du-khach-di-le-chua-huong-ngang-nhien-mo-soi-bac-tren-thuyen-20210313190406149.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phát hiện hơn 3.000 thỏi son môi, kem trắng da… bị làm giả](https://laodong.vn/phap-luat/phat-hien-hon-3000-thoi-son-moi-kem-trang-da-bi-lam-gia-888820.ldo) ([Lao Động](https://laodong.vn))
+- [Cựu nhân viên tiết lộ lý do Facebook "sợ" Apple đến vậy](https://cafebiz.vn/cuu-nhan-vien-tiet-lo-ly-do-facebook-so-apple-den-vay-20210313190540094.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giáo dục 24/7: Dự kiến ngày 7 và 8.7 sẽ thi tốt nghiệp THPT](https://laodong.vn/video-thoi-su/giao-duc-247-du-kien-ngay-7-va-87-se-thi-tot-nghiep-thpt-888801.ldo) ([Lao Động](https://laodong.vn))
 - [Tiên trách kỉ vì lòng tham,  2,5 tỉ đồng không cánh mà bay theo kẻ lừa đảo](https://laodong.vn/ban-doc/tien-trach-ki-vi-long-tham-25-ti-dong-khong-canh-ma-bay-theo-ke-lua-dao-888754.ldo) ([Lao Động](https://laodong.vn))
 - [New Zealand tưởng niệm 2 năm cuộc thảm sát ở nhà thờ Hồi giáo](https://laodong.vn/the-gioi/new-zealand-tuong-niem-2-nam-cuoc-tham-sat-o-nha-tho-hoi-giao-888783.ldo) ([Lao Động](https://laodong.vn))
 - [Toàn cảnh vụ mạo danh nhà chùa, trục lợi bạc tỉ bằng bán vật phẩm tâm linh](https://laodong.vn/video/toan-canh-vu-mao-danh-nha-chua-truc-loi-bac-ti-bang-ban-vat-pham-tam-linh-888579.ldo) ([Lao Động](https://laodong.vn))
 - [Thắng nhọc Hà Tĩnh, Đà Nẵng duy trì mạch trận toàn thắng](https://laodong.vn/bong-da/thang-nhoc-ha-tinh-da-nang-duy-tri-mach-tran-toan-thang-888807.ldo) ([Lao Động](https://laodong.vn))
 - [Toàn cảnh cuộc phỏng vấn bom tấn của nhà Sussex đẩy Hoàng gia Anh rơi vào khủng hoảng nghiêm trọng](https://cafebiz.vn/toan-canh-cuoc-phong-van-bom-tan-cua-nha-sussex-day-hoang-gia-anh-roi-vao-khung-hoang-nghiem-trong-20210313190732235.chn) ([CafeBiz](https://cafebiz.vn))
-- [AFC đề cử Quang Hải vào danh sách tiền vệ hay nhất lịch sử AFC Cup](https://laodong.vn/bong-da/afc-de-cu-quang-hai-vao-danh-sach-tien-ve-hay-nhat-lich-su-afc-cup-888785.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều 13/3, thêm 3 ca mắc COVID-19 mới](https://cafebiz.vn/chieu-13-3-them-3-ca-mac-covid-19-moi-2021031319004738.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nữ chính trị gia người Anh đề xuất cấm đàn ông ra đường sau 18h tối](https://cafebiz.vn/nu-chinh-tri-gia-nguoi-anh-de-xuat-cam-dan-ong-ra-duong-sau-18h-toi-20210313153352198.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tân cử nhân thất nghiệp: Bấu víu vào việc làm thời vụ để kiếm sống](https://laodong.vn/xa-hoi/tan-cu-nhan-that-nghiep-bau-viu-vao-viec-lam-thoi-vu-de-kiem-song-888777.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Thuận Nguyễn: “Hãnh diện là một fashionisto U70 hiếm hoi trên thế giới!” ](https://vietcetera.com/vn/thuan-nguyen-hanh-dien-la-mot-fashionisto-u70-hiem-hoi-tren-the-gioi)
 - [Sự lây lan của "dịch bệnh" tự tử](https://vietcetera.com/vn/su-lay-lan-cua-dich-benh-tu-tu)
 - [Chế độ ăn Keto: Hiệu quả giảm cân đến mức nào và liệu có đáng thử?](https://vietcetera.com/vn/che-do-an-keto-hieu-qua-giam-can-den-muc-nao-va-lieu-co-dang-thu)
 - [6 Tiệm cà phê để bạn khám phá Đà Lạt](https://vietcetera.com/vn/6-tiem-ca-phe-da-lat-de-ban-kham-pha)
@@ -105,7 +106,6 @@
 - [Đã đến lúc cho những trải nghiệm mới tại Singapore](https://vietcetera.com/vn/da-den-luc-cho-nhung-cau-chuyen-trai-nghiem-moi-tai-singapore)
 - [4 Game giải đố vừa "hack não" vừa mãn nhãn](https://vietcetera.com/vn/4-game-giai-do-vua-hack-nao-vua-man-nhan)
 - [Người thân của người trầm cảm cũng có thể là nạn nhân](https://vietcetera.com/vn/nguoi-than-cua-nguoi-tram-cam-cung-co-the-la-nan-nhan)
-- [KOL Việt đang làm gì để có được sự tự chủ trong sáng tạo? ](https://vietcetera.com/vn/kol-viet-dang-lam-gi-de-co-duoc-su-tu-chu-trong-sang-tao)
 
 [Read More](https://vietcetera.com/)
 
