@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 24°C.
-- Feels Like 26.71°C.
-- Air Visual is 155.
+- Feels Like 27.56°C.
+- Air Visual is 157.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Làng Cựu - Vàng son một thuở](https://laodong.vn/lao-dong-cuoi-tuan/lang-cuu-vang-son-mot-thuo-888045.ldo) ([Lao Động](https://laodong.vn))
-- [Đội tuyển cử tạ hướng tới Thế vận hội Olympic Tokyo 2021](https://laodong.vn/the-thao/doi-tuyen-cu-ta-huong-toi-the-van-hoi-olympic-tokyo-2021-888084.ldo) ([Lao Động](https://laodong.vn))
+- [1.670 gói giống lúa suýt nhập lậu thành công vào nội địa](https://laodong.vn/phap-luat/1670-goi-giong-lua-suyt-nhap-lau-thanh-cong-vao-noi-dia-888470.ldo) ([Lao Động](https://laodong.vn))
+- [Bí quyết tăng nhanh doanh thu cho người bán hàng online: Sức mạnh của livestream](https://cafebiz.vn/bi-quyet-tang-nhanh-doanh-thu-cho-nguoi-ban-hang-online-suc-manh-cua-livestream-20210313134547402.chn) ([CafeBiz](https://cafebiz.vn))
+- [Philippines phát hiện ca COVID-19 đầu tiên nhiễm biến thể Brazil](https://laodong.vn/the-gioi/philippines-phat-hien-ca-covid-19-dau-tien-nhiem-bien-the-brazil-888771.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Định phát động gia phong trào “Lao động sáng tạo” 2021](https://laodong.vn/cong-doan/binh-dinh-phat-dong-gia-phong-trao-lao-dong-sang-tao-2021-888776.ldo) ([Lao Động](https://laodong.vn))
+- [Iker Casillas và Sara ly hôn: Lời chia tay sau những cơn bạo bệnh](https://laodong.vn/bong-da-quoc-te/iker-casillas-va-sara-ly-hon-loi-chia-tay-sau-nhung-con-bao-benh-888775.ldo) ([Lao Động](https://laodong.vn))
+- [Công an tỉnh An Giang khen thưởng 2 &quot;Hiệp sĩ đường phố&quot;](https://laodong.vn/phap-luat/cong-an-tinh-an-giang-khen-thuong-2-hiep-si-duong-pho-888769.ldo) ([Lao Động](https://laodong.vn))
+- ['Tui bán bánh ướt lời được 5 chục, tui dành ra 2 chục mua rau củ của Hải Dương'](https://tuoitre.vn/tui-ban-banh-uot-loi-duoc-5-chuc-tui-danh-ra-2-chuc-mua-rau-cu-cua-hai-duong-20210313160720447.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Vì sao dân sales chi tiền cho xe hơi và quần áo nhiều hơn các giáo sư đại học dù họ có thu nhập tương đương nhau?](https://cafebiz.vn/vi-sao-cac-luat-su-dan-sales-chi-tien-cho-xe-hoi-va-quan-ao-nhieu-hon-cac-giao-su-dai-hoc-du-ho-co-thu-nhap-tuong-duong-nhau-2021031311041795.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cây di sản cổ nhất tỉnh Long An đang được “giải cứu”](https://laodong.vn/ban-doc/cay-di-san-co-nhat-tinh-long-an-dang-duoc-giai-cuu-888756.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ đầu tư dự án biến mất, nhiều người khổ vì &quot;dự án ma&quot;](https://laodong.vn/ban-doc/chu-dau-tu-du-an-bien-mat-nhieu-nguoi-kho-vi-du-an-ma-888755.ldo) ([Lao Động](https://laodong.vn))
-- [Xuất khẩu thủy sản sang Đài Loan bứt tốc trong bối cảnh COVID-19](https://laodong.vn/kinh-te/xuat-khau-thuy-san-sang-dai-loan-but-toc-trong-boi-canh-covid-19-888766.ldo) ([Lao Động](https://laodong.vn))
 - [Cập nhật danh sách trường Đại học tuyển sinh qua xét học bạ THPT](https://laodong.vn/giao-duc/cap-nhat-danh-sach-truong-dai-hoc-tuyen-sinh-qua-xet-hoc-ba-thpt-888760.ldo) ([Lao Động](https://laodong.vn))
 - [Anh hùng thầm lặng của nước Mỹ trong đại dịch COVID-19 là một nhà khoa học dữ liệu mới 26 tuổi](https://cafebiz.vn/anh-hung-tham-lang-cua-nuoc-my-trong-dai-dich-covid-19-la-mot-nha-khoa-hoc-du-lieu-moi-26-tuoi-20210313114337711.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dâng hương tưởng nhớ 64 chiến sĩ Gạc Ma](https://vnexpress.net/dang-huong-tuong-nho-64-chien-si-gac-ma-4248008.html) ([VNExpress](https://vnexpress.net))
-- [Vì sao Ấn Độ Dương nóng lên bất thường lại gây lũ lụt trên sông Dương Tử?](https://laodong.vn/the-gioi/vi-sao-an-do-duong-nong-len-bat-thuong-lai-gay-lu-lut-tren-song-duong-tu-888690.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
