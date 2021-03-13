@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 24°C.
-- Feels Like 26.35°C.
-- Air Visual is 134.
+- Feels Like 27.07°C.
+- Air Visual is 114.
 
 **WEATHER**
 
@@ -52,7 +52,6 @@
 - [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
 - [![CBR1000RR](https://img.shields.io/static/v1?label=CBR1000RR&message=google&color=red&style=flat-square)](https://www.google.com/search?q=CBR1000RR)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
-- [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
@@ -60,7 +59,8 @@
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
-- [![Midu](https://img.shields.io/static/v1?label=Midu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Midu)
+- [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Thợ ảnh bị hành hung vì nhắc nhở 2 thanh niên dùng gậy đập hoa gạo](https://laodong.vn/phap-luat/tho-anh-bi-hanh-hung-vi-nhac-nho-2-thanh-nien-dung-gay-dap-hoa-gao-888689.ldo) ([Lao Động](https://laodong.vn))
+- [Man United tái gia nhập cuộc đua giành Haaland: Cái khó chưa ló cái khôn](https://laodong.vn/bong-da-quoc-te/man-united-tai-gia-nhap-cuoc-dua-gianh-haaland-cai-kho-chua-lo-cai-khon-888708.ldo) ([Lao Động](https://laodong.vn))
+- [Tại sao Indonesia của Shin Tae-yong là thử thách lớn cho tuyển Việt Nam?](https://laodong.vn/bong-da/tai-sao-indonesia-cua-shin-tae-yong-la-thu-thach-lon-cho-tuyen-viet-nam-888426.ldo) ([Lao Động](https://laodong.vn))
+- [Đồ án quy hoạch sông Hồng qua các thời kỳ](https://vnexpress.net/do-an-quy-hoach-song-hong-qua-cac-thoi-ky-4247888.html) ([VNExpress](https://vnexpress.net))
+- [Đồng Nai chấp thuận 2,3ha đất xây dựng thiết chế công đoàn cho công nhân](https://laodong.vn/cong-doan/dong-nai-chap-thuan-23ha-dat-xay-dung-thiet-che-cong-doan-cho-cong-nhan-888681.ldo) ([Lao Động](https://laodong.vn))
+- [Tiền đạo Takasaki: “Công Phượng hay nhưng khó nói về đẳng cấp V.League”](https://laodong.vn/bong-da/tien-dao-takasaki-cong-phuong-hay-nhung-kho-noi-ve-dang-cap-vleague-888660.ldo) ([Lao Động](https://laodong.vn))
+- [Điều chỉnh quy hoạch cụm tháp Chăm ngàn năm tuổi ở Bình Định](https://laodong.vn/van-hoa/dieu-chinh-quy-hoach-cum-thap-cham-ngan-nam-tuoi-o-binh-dinh-888709.ldo) ([Lao Động](https://laodong.vn))
+- [Cần gần 200.000 tỷ đồng phát triển giao thông miền Tây](https://vnexpress.net/can-gan-200-000-ty-dong-phat-trien-giao-thong-mien-tay-4247958.html) ([VNExpress](https://vnexpress.net))
 - [Bản tin 1 phút: Dòng người xuyên đêm đổ về đi lễ chùa Hương ngày mùng 1](https://laodong.vn/video-thoi-su/ban-tin-1-phut-dong-nguoi-xuyen-dem-do-ve-di-le-chua-huong-ngay-mung-1-888649.ldo) ([Lao Động](https://laodong.vn))
-- [Những mẫu xe ế ẩm, chỉ bán được dưới 10 chiếc trong tháng 2.2021](https://laodong.vn/xe/nhung-mau-xe-e-am-chi-ban-duoc-duoi-10-chiec-trong-thang-22021-888650.ldo) ([Lao Động](https://laodong.vn))
+- [ĐBSCL tăng trưởng ấn tượng sau khi có nghị quyết thuận thiên của Chính phủ](http://vietnamnet.vn/vn/thoi-su/chinh-tri/dbscl-tang-truong-an-tuong-sau-khi-co-nghi-quyet-thuan-thien-cua-chinh-phu-719365.html) ([VietNamNet](https://vietnamnet.vn))
 - [Vàng có tuần tăng giá mạnh nhất 7 tuần bất chấp nhà đầu tư "nhòm ngó" các kênh đầu tư khác](https://cafebiz.vn/vang-co-tuan-tang-gia-manh-nhat-7-tuan-bat-chap-nha-dau-tu-nhom-ngo-cac-kenh-dau-tu-khac-20210313122504193.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kết nhầm bạn vừa tốn thời gian, vừa mất tiền bạc, tâm sức: 8 dấu hiệu chứng tỏ bạn đang có một người BẠN ĐỂU](https://cafebiz.vn/ket-nham-ban-vua-ton-thoi-gian-vua-mat-tien-bac-tam-suc-8-dau-hieu-chung-to-ban-dang-co-mot-nguoi-ban-deu-2021031312212155.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lễ tưởng niệm các chiến sĩ Gạc Ma: 'Các anh như mãi còn đây'](https://tuoitre.vn/le-tuong-niem-cac-chien-si-gac-ma-cac-anh-nhu-mai-con-day-20210313105906793.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Detox giảm cân và những lầm tưởng tai hại](https://laodong.vn/suc-khoe/detox-giam-can-va-nhung-lam-tuong-tai-hai-888699.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang: Gần 100 người  tham gia chữa cháy cho xưởng chế biến gỗ](https://laodong.vn/xa-hoi/bac-giang-gan-100-nguoi-tham-gia-chua-chay-cho-xuong-che-bien-go-888692.ldo) ([Lao Động](https://laodong.vn))
-- [Cựu binh làm mô hình tàu tưởng niệm Gạc Ma](https://vnexpress.net/cuu-binh-lam-mo-hinh-tau-tuong-niem-gac-ma-4247917.html) ([VNExpress](https://vnexpress.net))
-- [ĐBSCL khó đón 'đại bàng' nếu không đột phá về giao thông, nguồn nhân lực và chính sách ưu đãi](https://tuoitre.vn/dbscl-kho-don-dai-bang-neu-khong-dot-pha-ve-giao-thong-nguon-nhan-luc-va-chinh-sach-uu-dai-20210313081614627.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Mối quan hệ lành mạnh: Sự dung hòa giữa giá trị cá nhân và xúc cảm](https://vietcetera.com/vn/moi-quan-he-lanh-manh-su-dung-hoa-giua-gia-tri-ca-nhan-va-xuc-cam)
 - [Chữ Với Nghĩa: Phanh xích lô là gì mà không thắng?](https://vietcetera.com/vn/chu-voi-nghia-phanh-xich-lo)
 - [Bóc Term: Sharent là gì? "Khoe con" bao nhiêu là đủ?](https://vietcetera.com/vn/boc-term-sharent-la-gi-khoe-con-bao-nhieu-la-du)
 - [Đã đến lúc cho những trải nghiệm mới tại Singapore](https://vietcetera.com/vn/da-den-luc-cho-nhung-cau-chuyen-trai-nghiem-moi-tai-singapore)
@@ -105,7 +106,6 @@
 - [Đính chính 4 hiểu lầm thường gặp về kombucha](https://vietcetera.com/vn/dinh-chinh-4-loi-don-noi-tieng-ve-kombucha)
 - [Đến LSE, Oxford và Stanford rồi vỡ ra mình học tiếng Anh chưa... "tới" ](https://vietcetera.com/vn/den-lse-oxford-va-stanford-roi-vo-ra-minh-hoc-tieng-anh-sai-cach)
 - [CEO Ru9, Đặng Thuỳ Trang và 3 giá trị làm nên hạnh phúc và thành công](https://vietcetera.com/vn/ceo-ru9-dang-thuy-trang-va-3-gia-tri-lam-nen-hanh-phuc-va-thanh-cong)
-- [Tóm Lại Là: "Hú vía" trẻ không dùng điện thoại một mình](https://vietcetera.com/vn/tom-lai-la-hu-via-tre-khong-dung-dien-thoai-mot-minh)
 
 [Read More](https://vietcetera.com/)
 
