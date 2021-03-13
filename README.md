@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 24.97°C.
-- Air Visual is 101.
+- Feels Like 24.51°C.
+- Air Visual is 91.
 
 **WEATHER**
 
@@ -51,17 +51,17 @@
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
-- [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
-- [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
+- [![Joe Biden](https://img.shields.io/static/v1?label=Joe%20Biden&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joe%20Biden)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
+- [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
-- [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- ['Kỳ tích' nông nghiệp Nhật Bản: Biến vùng đất ngập mặn, không thể trồng trọt thành nơi sản xuất ra những quả dâu tây đắt nhất thế giới](https://cafebiz.vn/ky-tich-nong-nghiep-nhat-ban-bien-vung-dat-ngap-man-khong-the-trong-trot-thanh-noi-san-xuat-ra-nhung-qua-dau-tay-dat-nhat-the-gioi-20210312141406647.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trao tiền bạn đọc ủng hộ tới  các cảnh đời](https://laodong.vn/tam-long-vang/trao-tien-ban-doc-ung-ho-toi-cac-canh-doi-888552.ldo) ([Lao Động](https://laodong.vn))
-- [Cố tình tháo dỡ hộ lan trên cao tốc là phá hoại tài sản quốc gia](https://laodong.vn/xa-hoi/co-tinh-thao-do-ho-lan-tren-cao-toc-la-pha-hoai-tai-san-quoc-gia-888551.ldo) ([Lao Động](https://laodong.vn))
-- [Vietnam Airlines và Ngân hàng Quân đội ký kết thỏa thuận hợp tác toàn diện](https://cafebiz.vn/vietnam-airlines-va-ngan-hang-quan-doi-ky-ket-thoa-thuan-hop-tac-toan-dien-20210312190608955.chn) ([CafeBiz](https://cafebiz.vn))
-- [SENTECHS - “Đón sóng” số hóa trường học - phải bắt đầu từ đâu để đạt hiệu quả cao?](https://cafebiz.vn/sentechs-don-song-so-hoa-truong-hoc-phai-bat-dau-tu-dau-de-dat-hieu-qua-cao-20210312165149251.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kaizen - “vắc-xin” hiệu nghiệm với doanh nghiệp Việt thời Covid](https://cafebiz.vn/kaizen-vac-xin-hieu-nghiem-voi-doanh-nghiep-viet-thoi-covid-20210312113540011.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bác sĩ chỉ cách lựa chọn quần áo chống nắng nóng, tia UV ở TPHCM](https://laodong.vn/video/bac-si-chi-cach-lua-chon-quan-ao-chong-nang-nong-tia-uv-o-tphcm-888514.ldo) ([Lao Động](https://laodong.vn))
-- [Bị đóng thiếu bảo hiểm xã hội, phải làm thế nào?](https://laodong.vn/tu-van-phap-luat/bi-dong-thieu-bao-hiem-xa-hoi-phai-lam-the-nao-887376.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Sữa học đường Bến Tre” được cả thầy, trò, phụ huynh nhiệt tình hưởng ứng](https://laodong.vn/suc-khoe/sua-hoc-duong-ben-tre-duoc-ca-thay-tro-phu-huynh-nhiet-tinh-huong-ung-888461.ldo) ([Lao Động](https://laodong.vn))
-- [Dậy từ 3h sáng đi lễ Chùa Hương trong ngày đầu mở cửa đón khách](https://laodong.vn/video-thoi-su/day-tu-3h-sang-di-le-chua-huong-trong-ngay-dau-mo-cua-don-khach-888629.ldo) ([Lao Động](https://laodong.vn))
+- [7 kỹ năng phỏng vấn xuất sắc từ tỷ phú Oprah Winfrey](https://cafebiz.vn/7-ky-nang-phong-van-xuat-sac-tu-ty-phu-oprah-winfrey-20210313090221549.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tây Ninh: Hỗ trợ xây dựng gần 10 Mái ấm công đoàn cho đoàn viên trong quý 1](https://laodong.vn/cong-doan/tay-ninh-ho-tro-xay-dung-gan-10-mai-am-cong-doan-cho-doan-vien-trong-quy-1-888642.ldo) ([Lao Động](https://laodong.vn))
+- [CEO Ant Group bất ngờ từ chức](https://cafebiz.vn/ceo-ant-group-bat-ngo-tu-chuc-20210313085600494.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Tô Duy Lâm thôi làm Giám đốc Ngân hàng Nhà nước chi nhánh TP HCM](https://cafebiz.vn/ong-to-duy-lam-thoi-lam-giam-doc-ngan-hang-nha-nuoc-chi-nhanh-tp-hcm-20210313085356086.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Tô Duy Lâm thôi làm Giám đốc Ngân hàng Nhà nước chi nhánh TP HCM](https://cafebiz.vn/ong-to-duy-lam-thoi-lam-giam-doc-ngan-hang-nha-nuoc-chi-nhanh-tp-hcm-20210313085116749.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trong 3 năm, Youtuber Thơ Nguyễn đã nộp bao nhiêu tiền thuế thu nhập?](https://cafebiz.vn/trong-3-nam-youtuber-tho-nguyen-da-nop-bao-nhieu-tien-thue-thu-nhap-20210313084934499.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nàng công chúa Disney gốc Việt đang gây bão Hollywood được lấy cảm hứng từ Hai Bà Trưng của Việt Nam](https://cafebiz.vn/nang-cong-chua-disney-goc-viet-dang-gay-bao-hollywood-duoc-lay-cam-hung-tu-hai-ba-trung-cua-viet-nam-2021031308483187.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kiatisuk làm điều "chưa từng thấy" với Công Phượng, Xuân Trường, HAGL liệu sẽ "khác xưa"?](https://cafebiz.vn/kiatisuk-lam-dieu-chua-tung-thay-voi-cong-phuong-xuan-truong-hagl-lieu-se-khac-xua-20210313084456688.chn) ([CafeBiz](https://cafebiz.vn))
+- [CCCD, CMT còn thời hạn có bắt buộc phải đổi sang thẻ gắn chip?](https://cafebiz.vn/cccd-cmt-con-thoi-han-co-bat-buoc-phai-doi-sang-the-gan-chip-20210313084440393.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bộ GDĐT giải đáp về chế độ chính sách đối với giáo viên mầm non](https://laodong.vn/ban-doc/bo-gddt-giai-dap-ve-che-do-chinh-sach-doi-voi-giao-vien-mam-non-888638.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
