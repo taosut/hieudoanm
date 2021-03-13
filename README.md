@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 25°C.
-- Feels Like 28.05°C.
-- Air Visual is 125.
+- Feels Like 27.69°C.
+- Air Visual is 131.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Du khách tấp nập ngày chùa Hương mở cửa trở lại](https://vnexpress.net/du-khach-tap-nap-ngay-chua-huong-mo-cua-tro-lai-4247953.html) ([VNExpress](https://vnexpress.net))
+- [Hà Nội: "Khốn khổ" vì mua chung cư cao cấp 5 năm chưa được làm hộ khẩu, cư dân mang ô tô dán băng rôn diễu phố phản đối chủ đầu tư](https://cafebiz.vn/ha-noi-khon-kho-vi-mua-chung-cu-cao-cap-5-nam-chua-duoc-lam-ho-khau-cu-dan-mang-o-to-dan-bang-ron-dieu-pho-phan-doi-chu-dau-tu-20210313115106799.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hàng vạn người tới lễ, Phủ Tây Hồ sử dụng hết 100l nước sát khuẩn](https://laodong.vn/xa-hoi/hang-van-nguoi-toi-le-phu-tay-ho-su-dung-het-100l-nuoc-sat-khuan-888710.ldo) ([Lao Động](https://laodong.vn))
 - [Gương mặt trẻ Thủ đô tiêu biểu nhỏ tuổi nhất muốn trở thành nhà vật lý](https://laodong.vn/xa-hoi/guong-mat-tre-thu-do-tieu-bieu-nho-tuoi-nhat-muon-tro-thanh-nha-vat-ly-888659.ldo) ([Lao Động](https://laodong.vn))
 - [Nghệ An-Hà Tĩnh: Chuẩn bị chính thức thông xe cầu Cửa Hội](https://laodong.vn/xa-hoi/nghe-an-ha-tinh-chuan-bi-chinh-thuc-thong-xe-cau-cua-hoi-888735.ldo) ([Lao Động](https://laodong.vn))
 - [Chứng khoán: 1 tuần thất vọng và hi vọng, vẫn còn thiếu động lực vượt](https://laodong.vn/kinh-te/chung-khoan-1-tuan-that-vong-va-hi-vong-van-con-thieu-dong-luc-vuot-888726.ldo) ([Lao Động](https://laodong.vn))
 - [Huyền thoại Stoichkov chê Griezmann: &quot;Barcelona như đá 10 người&quot;](https://laodong.vn/bong-da-quoc-te/huyen-thoai-stoichkov-che-griezmann-barcelona-nhu-da-10-nguoi-888727.ldo) ([Lao Động](https://laodong.vn))
 - [12 quy tắc xã hội mà bạn cần học hỏi: Quyết định nửa phần đời sau của bạn có an ổn hay không!](https://cafebiz.vn/12-quy-tac-xa-hoi-ma-ban-can-hoc-hoi-quyet-dinh-nua-phan-doi-sau-cua-ban-co-an-on-hay-khong-20210311123156529.chn) ([CafeBiz](https://cafebiz.vn))
-- [Truy tìm tài xế xe Honda SH tông người phụ nữ rồi bỏ đi](https://laodong.vn/phap-luat/truy-tim-tai-xe-xe-honda-sh-tong-nguoi-phu-nu-roi-bo-di-888732.ldo) ([Lao Động](https://laodong.vn))
+- [Người miền Tây làm công nhân ở Bình Dương: 'Đời ly hương buồn trăm chiều buồn'](https://tuoitre.vn/nguoi-mien-tay-lam-cong-nhan-o-binh-duong-doi-ly-huong-buon-tram-chieu-buon-20210313084047819.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [TPHCM: Nắng nóng gay gắt, người dân dùng mọi cách để tránh nắng](https://laodong.vn/photo/tphcm-nang-nong-gay-gat-nguoi-dan-dung-moi-cach-de-tranh-nang-888720.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt nhóm đối tượng “soi cầu” lô đề trên YouTube, chiếm đoạt tiền của hàng ngàn người](https://cafebiz.vn/bat-nhom-doi-tuong-soi-cau-lo-de-tren-youtube-chiem-doat-tien-cua-hang-ngan-nguoi-20210313114707713.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hàn xì gây cháy nhà 4 tầng khiến hai người mắc kẹt](https://tuoitre.vn/han-xi-gay-chay-nha-4-tang-khien-hai-nguoi-mac-ket-20210313132531192.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [3 học sinh trốn bố mẹ đi tắm sông, 2 em chết đuối](https://tuoitre.vn/3-hoc-sinh-tron-bo-me-di-tam-song-2-em-chet-duoi-20210313131234555.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [6 Tiệm cà phê để bạn khám phá Đà Lạt](https://vietcetera.com/vn/6-tiem-ca-phe-da-lat-de-ban-kham-pha)
 - [Mối quan hệ lành mạnh: Sự dung hòa giữa giá trị cá nhân và xúc cảm](https://vietcetera.com/vn/moi-quan-he-lanh-manh-su-dung-hoa-giua-gia-tri-ca-nhan-va-xuc-cam)
 - [Chữ Với Nghĩa: Phanh xích lô là gì mà không thắng?](https://vietcetera.com/vn/chu-voi-nghia-phanh-xich-lo)
 - [Bóc Term: Sharent là gì? "Khoe con" bao nhiêu là đủ?](https://vietcetera.com/vn/boc-term-sharent-la-gi-khoe-con-bao-nhieu-la-du)
@@ -105,7 +106,6 @@
 - [KOL Việt đang làm gì để có được sự tự chủ trong sáng tạo? ](https://vietcetera.com/vn/kol-viet-dang-lam-gi-de-co-duoc-su-tu-chu-trong-sang-tao)
 - [Đính chính 4 hiểu lầm thường gặp về kombucha](https://vietcetera.com/vn/dinh-chinh-4-loi-don-noi-tieng-ve-kombucha)
 - [Đến LSE, Oxford và Stanford rồi vỡ ra mình học tiếng Anh chưa... "tới" ](https://vietcetera.com/vn/den-lse-oxford-va-stanford-roi-vo-ra-minh-hoc-tieng-anh-sai-cach)
-- [CEO Ru9, Đặng Thuỳ Trang và 3 giá trị làm nên hạnh phúc và thành công](https://vietcetera.com/vn/ceo-ru9-dang-thuy-trang-va-3-gia-tri-lam-nen-hanh-phuc-va-thanh-cong)
 
 [Read More](https://vietcetera.com/)
 
@@ -122,7 +122,7 @@
 07. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 08. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
 09. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-10. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+10. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -139,7 +139,7 @@
 07. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 08. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
 09. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
-10. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+10. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
 
 [Read More](https://www.youtube.com/feed/trending)
 
