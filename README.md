@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 24°C.
-- Feels Like 27.56°C.
-- Air Visual is 157.
+- Feels Like 27.2°C.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -48,10 +48,11 @@
 
 **GOOGLE TRENDS**
 
-- [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
+- [![CBR1000RR](https://img.shields.io/static/v1?label=CBR1000RR&message=google&color=red&style=flat-square)](https://www.google.com/search?q=CBR1000RR)
+- [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
-- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
+- [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Joe Biden](https://img.shields.io/static/v1?label=Joe%20Biden&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joe%20Biden)
@@ -59,7 +60,7 @@
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
-- [![Lịch thi đấu V-League 2021](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League%202021)
+- [![Lịch thi đấu v League 2021](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20v%20League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20v%20League%202021)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
@@ -67,7 +68,6 @@
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
-- [![Đào Bá Lộc](https://img.shields.io/static/v1?label=%C4%90%C3%A0o%20B%C3%A1%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C3%A0o%20B%C3%A1%20L%E1%BB%99c)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,12 +75,12 @@
 
 **NEWS**
 
+- [Hơn 200 công nhân ngừng việc liên quan tiền làm thêm giờ, suất ăn ca](https://laodong.vn/cong-doan/hon-200-cong-nhan-ngung-viec-lien-quan-tien-lam-them-gio-suat-an-ca-888733.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang: Bắt giữ một phụ nữ mua bán trái phép chất ma túy trên Quốc lộ](https://laodong.vn/phap-luat/bac-giang-bat-giu-mot-phu-nu-mua-ban-trai-phep-chat-ma-tuy-tren-quoc-lo-888773.ldo) ([Lao Động](https://laodong.vn))
 - [1.670 gói giống lúa suýt nhập lậu thành công vào nội địa](https://laodong.vn/phap-luat/1670-goi-giong-lua-suyt-nhap-lau-thanh-cong-vao-noi-dia-888470.ldo) ([Lao Động](https://laodong.vn))
 - [Bí quyết tăng nhanh doanh thu cho người bán hàng online: Sức mạnh của livestream](https://cafebiz.vn/bi-quyet-tang-nhanh-doanh-thu-cho-nguoi-ban-hang-online-suc-manh-cua-livestream-20210313134547402.chn) ([CafeBiz](https://cafebiz.vn))
 - [Philippines phát hiện ca COVID-19 đầu tiên nhiễm biến thể Brazil](https://laodong.vn/the-gioi/philippines-phat-hien-ca-covid-19-dau-tien-nhiem-bien-the-brazil-888771.ldo) ([Lao Động](https://laodong.vn))
 - [Bình Định phát động gia phong trào “Lao động sáng tạo” 2021](https://laodong.vn/cong-doan/binh-dinh-phat-dong-gia-phong-trao-lao-dong-sang-tao-2021-888776.ldo) ([Lao Động](https://laodong.vn))
-- [Iker Casillas và Sara ly hôn: Lời chia tay sau những cơn bạo bệnh](https://laodong.vn/bong-da-quoc-te/iker-casillas-va-sara-ly-hon-loi-chia-tay-sau-nhung-con-bao-benh-888775.ldo) ([Lao Động](https://laodong.vn))
-- [Công an tỉnh An Giang khen thưởng 2 &quot;Hiệp sĩ đường phố&quot;](https://laodong.vn/phap-luat/cong-an-tinh-an-giang-khen-thuong-2-hiep-si-duong-pho-888769.ldo) ([Lao Động](https://laodong.vn))
 - ['Tui bán bánh ướt lời được 5 chục, tui dành ra 2 chục mua rau củ của Hải Dương'](https://tuoitre.vn/tui-ban-banh-uot-loi-duoc-5-chuc-tui-danh-ra-2-chuc-mua-rau-cu-cua-hai-duong-20210313160720447.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Vì sao dân sales chi tiền cho xe hơi và quần áo nhiều hơn các giáo sư đại học dù họ có thu nhập tương đương nhau?](https://cafebiz.vn/vi-sao-cac-luat-su-dan-sales-chi-tien-cho-xe-hoi-va-quan-ao-nhieu-hon-cac-giao-su-dai-hoc-du-ho-co-thu-nhap-tuong-duong-nhau-2021031311041795.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cập nhật danh sách trường Đại học tuyển sinh qua xét học bạ THPT](https://laodong.vn/giao-duc/cap-nhat-danh-sach-truong-dai-hoc-tuyen-sinh-qua-xet-hoc-ba-thpt-888760.ldo) ([Lao Động](https://laodong.vn))
