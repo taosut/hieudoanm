@@ -19,17 +19,17 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is broken clouds.
 - Temperature is 23°C.
-- Feels Like 24.25°C.
-- Air Visual is 137.
+- Feels Like 24.97°C.
+- Air Visual is 101.
 
 **WEATHER**
 
-- Date: 2021/03/12
-- Lunar: 2021/01/29
+- Date: 2021/03/13
+- Lunar: 2021/02/01
 - Tiet Khi: Đại tuyết.
-- năm canh tý tháng kỷ sửu ngày đinh sửu.
+- năm canh tý tháng kỷ sửu ngày canh thìn.
 
 **NPM**
 
@@ -50,18 +50,18 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
-- [![CBR1000RR](https://img.shields.io/static/v1?label=CBR1000RR&message=google&color=red&style=flat-square)](https://www.google.com/search?q=CBR1000RR)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
+- [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
+- [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
-- [![Joe Biden](https://img.shields.io/static/v1?label=Joe%20Biden&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joe%20Biden)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
+- [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Lịch thi đấu V-League 2021](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League%202021)
-- [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
-- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
+- [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [3 đội bóng tại V.League 2021 được xin ưu tiên tiêm vaccine COVID-19](https://laodong.vn/video/3-doi-bong-tai-vleague-2021-duoc-xin-uu-tien-tiem-vaccine-covid-19-888465.ldo) ([Lao Động](https://laodong.vn))
-- [Sự thật về chuyên môn khám, trị bệnh của ông Võ Hoàng Yên](http://vietnamnet.vn/vn/thoi-su/su-that-ve-chuyen-mon-kham-tri-benh-cua-ong-vo-hoang-yen-719292.html) ([VietNamNet](https://vietnamnet.vn))
-- [Hai mẹ con mắc COVID-19 khi sang Úc: Nguồn lây không phải từ Việt Nam](https://tuoitre.vn/hai-me-con-mac-covid-19-khi-sang-uc-nguon-lay-khong-phai-tu-viet-nam-2021031222021589.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hà Nội: Phố đi bộ Hồ Gươm vắng vẻ trong ngày đầu mở cửa trở lại](https://laodong.vn/xa-hoi/ha-noi-pho-di-bo-ho-guom-vang-ve-trong-ngay-dau-mo-cua-tro-lai-888602.ldo) ([Lao Động](https://laodong.vn))
-- [Thêm một dự án điện mặt trời về tay BB Group](https://cafebiz.vn/them-mot-du-an-dien-mat-troi-ve-tay-bb-group-20210312210146833.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Dương: 7 bệnh nhân COVID-19 tái dương tính sau khi xuất viện](https://laodong.vn/xa-hoi/hai-duong-7-benh-nhan-covid-19-tai-duong-tinh-sau-khi-xuat-vien-888606.ldo) ([Lao Động](https://laodong.vn))
-- [Phó Ban Quản lý Khu kinh tế Hà Tĩnh làm Chủ tịch huyện Thạch Hà](https://laodong.vn/thoi-su/pho-ban-quan-ly-khu-kinh-te-ha-tinh-lam-chu-tich-huyen-thach-ha-888604.ldo) ([Lao Động](https://laodong.vn))
-- [Alibaba có thể bị phạt tới 1 tỷ USD vì kinh doanh độc quyền](https://cafebiz.vn/alibaba-co-the-bi-phat-toi-1-ty-usd-vi-kinh-doanh-doc-quyen-20210312203500416.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thành phố Thủ Đức: Đề xuất thay đổi trụ sở làm việc của nhiều cơ quan](https://laodong.vn/xa-hoi/thanh-pho-thu-duc-de-xuat-thay-doi-tru-so-lam-viec-cua-nhieu-co-quan-888603.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương cách ly tại nhà 21 ngày với người hết mắc Covid-19](https://vnexpress.net/hai-duong-cach-ly-tai-nha-21-ngay-voi-nguoi-het-mac-covid-19-4247762.html) ([VNExpress](https://vnexpress.net))
+- ['Kỳ tích' nông nghiệp Nhật Bản: Biến vùng đất ngập mặn, không thể trồng trọt thành nơi sản xuất ra những quả dâu tây đắt nhất thế giới](https://cafebiz.vn/ky-tich-nong-nghiep-nhat-ban-bien-vung-dat-ngap-man-khong-the-trong-trot-thanh-noi-san-xuat-ra-nhung-qua-dau-tay-dat-nhat-the-gioi-20210312141406647.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trao tiền bạn đọc ủng hộ tới  các cảnh đời](https://laodong.vn/tam-long-vang/trao-tien-ban-doc-ung-ho-toi-cac-canh-doi-888552.ldo) ([Lao Động](https://laodong.vn))
+- [Cố tình tháo dỡ hộ lan trên cao tốc là phá hoại tài sản quốc gia](https://laodong.vn/xa-hoi/co-tinh-thao-do-ho-lan-tren-cao-toc-la-pha-hoai-tai-san-quoc-gia-888551.ldo) ([Lao Động](https://laodong.vn))
+- [Vietnam Airlines và Ngân hàng Quân đội ký kết thỏa thuận hợp tác toàn diện](https://cafebiz.vn/vietnam-airlines-va-ngan-hang-quan-doi-ky-ket-thoa-thuan-hop-tac-toan-dien-20210312190608955.chn) ([CafeBiz](https://cafebiz.vn))
+- [SENTECHS - “Đón sóng” số hóa trường học - phải bắt đầu từ đâu để đạt hiệu quả cao?](https://cafebiz.vn/sentechs-don-song-so-hoa-truong-hoc-phai-bat-dau-tu-dau-de-dat-hieu-qua-cao-20210312165149251.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kaizen - “vắc-xin” hiệu nghiệm với doanh nghiệp Việt thời Covid](https://cafebiz.vn/kaizen-vac-xin-hieu-nghiem-voi-doanh-nghiep-viet-thoi-covid-20210312113540011.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bác sĩ chỉ cách lựa chọn quần áo chống nắng nóng, tia UV ở TPHCM](https://laodong.vn/video/bac-si-chi-cach-lua-chon-quan-ao-chong-nang-nong-tia-uv-o-tphcm-888514.ldo) ([Lao Động](https://laodong.vn))
+- [Bị đóng thiếu bảo hiểm xã hội, phải làm thế nào?](https://laodong.vn/tu-van-phap-luat/bi-dong-thieu-bao-hiem-xa-hoi-phai-lam-the-nao-887376.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Sữa học đường Bến Tre” được cả thầy, trò, phụ huynh nhiệt tình hưởng ứng](https://laodong.vn/suc-khoe/sua-hoc-duong-ben-tre-duoc-ca-thay-tro-phu-huynh-nhiet-tinh-huong-ung-888461.ldo) ([Lao Động](https://laodong.vn))
+- [Dậy từ 3h sáng đi lễ Chùa Hương trong ngày đầu mở cửa đón khách](https://laodong.vn/video-thoi-su/day-tu-3h-sang-di-le-chua-huong-trong-ngay-dau-mo-cua-don-khach-888629.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -113,16 +113,16 @@
 
 **MUSIC TRENDS**
 
-01. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
-02. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-03. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
-04. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
-05. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
-06. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
-07. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-08. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-09. [Như Quỳnh - Thành Phố Sương Mù (Official Music Video)](https://www.youtube.com/watch?v=GQEeJEWVv0Q) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-10. [Miley Cyrus - Angels Like You (Official Video)](https://www.youtube.com/watch?v=Y0ORhLyJWuc) - [MileyCyrusVEVO](https://www.youtube.com/channel/UCdI8evszfZvyAl2UVCypkTA)
+01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+02. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
+03. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
+04. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
+05. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
+06. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
+07. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
+08. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
+09. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+10. [Blue Side by j-hope](https://www.youtube.com/watch?v=OZD_EU_hMUQ) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
