@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 24°C.
-- Feels Like 26.35°C.
-- Air Visual is 156.
+- Feels Like 27.07°C.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Giáo dục 24/7: Dự kiến ngày 7 và 8.7 sẽ thi tốt nghiệp THPT](https://laodong.vn/video-thoi-su/giao-duc-247-du-kien-ngay-7-va-87-se-thi-tot-nghiep-thpt-888801.ldo) ([Lao Động](https://laodong.vn))
+- [Tiên trách kỉ vì lòng tham,  2,5 tỉ đồng không cánh mà bay theo kẻ lừa đảo](https://laodong.vn/ban-doc/tien-trach-ki-vi-long-tham-25-ti-dong-khong-canh-ma-bay-theo-ke-lua-dao-888754.ldo) ([Lao Động](https://laodong.vn))
+- [New Zealand tưởng niệm 2 năm cuộc thảm sát ở nhà thờ Hồi giáo](https://laodong.vn/the-gioi/new-zealand-tuong-niem-2-nam-cuoc-tham-sat-o-nha-tho-hoi-giao-888783.ldo) ([Lao Động](https://laodong.vn))
+- [Toàn cảnh vụ mạo danh nhà chùa, trục lợi bạc tỉ bằng bán vật phẩm tâm linh](https://laodong.vn/video/toan-canh-vu-mao-danh-nha-chua-truc-loi-bac-ti-bang-ban-vat-pham-tam-linh-888579.ldo) ([Lao Động](https://laodong.vn))
+- [Thắng nhọc Hà Tĩnh, Đà Nẵng duy trì mạch trận toàn thắng](https://laodong.vn/bong-da/thang-nhoc-ha-tinh-da-nang-duy-tri-mach-tran-toan-thang-888807.ldo) ([Lao Động](https://laodong.vn))
+- [Toàn cảnh cuộc phỏng vấn bom tấn của nhà Sussex đẩy Hoàng gia Anh rơi vào khủng hoảng nghiêm trọng](https://cafebiz.vn/toan-canh-cuoc-phong-van-bom-tan-cua-nha-sussex-day-hoang-gia-anh-roi-vao-khung-hoang-nghiem-trong-20210313190732235.chn) ([CafeBiz](https://cafebiz.vn))
+- [AFC đề cử Quang Hải vào danh sách tiền vệ hay nhất lịch sử AFC Cup](https://laodong.vn/bong-da/afc-de-cu-quang-hai-vao-danh-sach-tien-ve-hay-nhat-lich-su-afc-cup-888785.ldo) ([Lao Động](https://laodong.vn))
 - [Chiều 13/3, thêm 3 ca mắc COVID-19 mới](https://cafebiz.vn/chieu-13-3-them-3-ca-mac-covid-19-moi-2021031319004738.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nữ chính trị gia người Anh đề xuất cấm đàn ông ra đường sau 18h tối](https://cafebiz.vn/nu-chinh-tri-gia-nguoi-anh-de-xuat-cam-dan-ong-ra-duong-sau-18h-toi-20210313153352198.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tân cử nhân thất nghiệp: Bấu víu vào việc làm thời vụ để kiếm sống](https://laodong.vn/xa-hoi/tan-cu-nhan-that-nghiep-bau-viu-vao-viec-lam-thoi-vu-de-kiem-song-888777.ldo) ([Lao Động](https://laodong.vn))
-- [Ca bệnh nâng tầm y học Việt Nam](https://laodong.vn/suc-khoe/ca-benh-nang-tam-y-hoc-viet-nam-888142.ldo) ([Lao Động](https://laodong.vn))
-- [500 triệu đồng, nên mua Mitsubishi Attrage Premium hay Kia Soluto Luxury?](https://laodong.vn/xe/500-trieu-dong-nen-mua-mitsubishi-attrage-premium-hay-kia-soluto-luxury-888435.ldo) ([Lao Động](https://laodong.vn))
-- [Khám phá văn phòng làm việc nghệ thuật trong phim “Hướng dương ngược nắng&quot;](https://laodong.vn/bat-dong-san/kham-pha-van-phong-lam-viec-nghe-thuat-trong-phim-huong-duong-nguoc-nang-888717.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tục tách sổ đỏ và những lệ phí cần nộp](https://laodong.vn/bat-dong-san/thu-tuc-tach-so-do-va-nhung-le-phi-can-nop-888768.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng: 'Chú trọng 8 vấn đề lớn phát triển miền Tây'](https://vnexpress.net/thu-tuong-chu-trong-8-van-de-lon-phat-trien-mien-tay-4248012.html) ([VNExpress](https://vnexpress.net))
-- [Quang Hải không thi đấu, ông Park Hang-seo dự khán trận Hải Phòng - Hà Nội](https://laodong.vn/bong-da/quang-hai-khong-thi-dau-ong-park-hang-seo-du-khan-tran-hai-phong-ha-noi-888793.ldo) ([Lao Động](https://laodong.vn))
-- [Nghị quyết 120: Thông điệp “8G” của Thủ tướng vì sự phát triển của ĐBSCL](https://laodong.vn/thoi-su/nghi-quyet-120-thong-diep-8g-cua-thu-tuong-vi-su-phat-trien-cua-dbscl-888772.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
