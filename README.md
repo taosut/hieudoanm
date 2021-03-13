@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is clear sky.
-- Temperature is 24°C.
-- Feels Like 26.71°C.
-- Air Visual is 145.
+- Temperature is 23°C.
+- Feels Like 25.34°C.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -49,7 +49,7 @@
 **GOOGLE TRENDS**
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
-- [![CBR1000RR](https://img.shields.io/static/v1?label=CBR1000RR&message=google&color=red&style=flat-square)](https://www.google.com/search?q=CBR1000RR)
+- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
 - [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
@@ -59,7 +59,6 @@
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
-- [![Lịch thi đấu v League 2021](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20v%20League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20v%20League%202021)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
@@ -68,6 +67,7 @@
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thủ môn Bùi Tiến Dũng](https://img.shields.io/static/v1?label=Th%E1%BB%A7%20m%C3%B4n%20B%C3%B9i%20Ti%E1%BA%BFn%20D%C5%A9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BB%A7%20m%C3%B4n%20B%C3%B9i%20Ti%E1%BA%BFn%20D%C5%A9ng)
+- [![XSMN thứ 7](https://img.shields.io/static/v1?label=XSMN%20th%E1%BB%A9%207&message=google&color=red&style=flat-square)](https://www.google.com/search?q=XSMN%20th%E1%BB%A9%207)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nóng nhất hôm nay: &quot;Bộ tứ&quot; ra thông điệp tại cuộc họp thượng đỉnh đầu tiên](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bo-tu-ra-thong-diep-tai-cuoc-hop-thuong-dinh-dau-tien-888811.ldo) ([Lao Động](https://laodong.vn))
+- [Bí quyết trị rụng tóc bằng dầu dừa](https://laodong.vn/suc-khoe/bi-quyet-tri-rung-toc-bang-dau-dua-888205.ldo) ([Lao Động](https://laodong.vn))
+- [Tiểu thương thu tiền triệu mỗi ngày nhờ bán nước cam vắt](https://laodong.vn/kinh-te/tieu-thuong-thu-tien-trieu-moi-ngay-nho-ban-nuoc-cam-vat-888788.ldo) ([Lao Động](https://laodong.vn))
+- [Tiền vệ Hùng Dũng: &quot;Ngoại binh Hà Nội cần thêm thời gian để hoà nhập&quot;](https://laodong.vn/bong-da/tien-ve-hung-dung-ngoai-binh-ha-noi-can-them-thoi-gian-de-hoa-nhap-888827.ldo) ([Lao Động](https://laodong.vn))
+- [Lên kế hoạch &quot;như mơ&quot;, U22 Indonesia quyết giành vàng tại SEA Games 31](https://laodong.vn/bong-da/len-ke-hoach-nhu-mo-u22-indonesia-quyet-gianh-vang-tai-sea-games-31-888779.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao con số gần 20.000 người Việt Nam có tài sản ròng từ 1 triệu USD trở lên là thấp hơn nhiều so với thực tế?](https://cafebiz.vn/vi-sao-con-so-gan-20000-nguoi-viet-nam-co-tai-san-rong-tu-1-trieu-usd-tro-len-la-thap-hon-nhieu-so-voi-thuc-te-20210313204632486.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ai đã chi hơn 69 triệu USD cho 1 bức tranh ảo?](https://cafebiz.vn/ai-da-chi-hon-69-trieu-usd-cho-1-buc-tranh-ao-20210313194111332.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắt giữ lượng lớn thuốc đông y gia truyền nghi giả](https://cafebiz.vn/bat-giu-luong-lon-thuoc-dong-y-gia-truyen-nghi-gia-20210313192422265.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ông Park dự khán, trận Hà Nội - Hải Phòng phòng dịch nghiêm đón khán giả](https://laodong.vn/photo/ong-park-du-khan-tran-ha-noi-hai-phong-phong-dich-nghiem-don-khan-gia-888808.ldo) ([Lao Động](https://laodong.vn))
 - [Hơn 30.000 thiết bị Internet đang có nguy cơ bị hacker tấn công](https://cafebiz.vn/hon-30000-thiet-bi-internet-dang-co-nguy-co-bi-hacker-tan-cong-20210313191730562.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội có 3 điểm đầu tiên ở V.League 2021](https://laodong.vn/bong-da/ha-noi-co-3-diem-dau-tien-o-vleague-2021-888818.ldo) ([Lao Động](https://laodong.vn))
-- [Hướng dương ngược nắng: Cần một cái kết có hậu để xoa dịu lòng khán giả?](https://laodong.vn/van-hoa/huong-duong-nguoc-nang-can-mot-cai-ket-co-hau-de-xoa-diu-long-khan-gia-888816.ldo) ([Lao Động](https://laodong.vn))
-- [Xiaomi thắng kiện Bộ Quốc phòng Mỹ](https://cafebiz.vn/xiaomi-thang-kien-bo-quoc-phong-my-20210313191436521.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 14.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-143-888520.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: Giới chuyên gia dự báo về giá vàng trong thời gian sắp tới](https://laodong.vn/video-thoi-su/nong-nhat-24h-gioi-chuyen-gia-du-bao-ve-gia-vang-trong-thoi-gian-sap-toi-888805.ldo) ([Lao Động](https://laodong.vn))
-- [Ảnh: Du khách đi lễ chùa Hương ngang nhiên mở "sới bạc" trên thuyền](https://cafebiz.vn/anh-du-khach-di-le-chua-huong-ngang-nhien-mo-soi-bac-tren-thuyen-20210313190406149.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cựu nhân viên tiết lộ lý do Facebook "sợ" Apple đến vậy](https://cafebiz.vn/cuu-nhan-vien-tiet-lo-ly-do-facebook-so-apple-den-vay-20210313190540094.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
