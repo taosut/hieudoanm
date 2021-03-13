@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 26.35°C.
-- Air Visual is 93.
+- Feels Like 25.5°C.
+- Air Visual is 95.
 
 **WEATHER**
 
@@ -49,10 +49,9 @@
 **GOOGLE TRENDS**
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
-- [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
+- [![Aston Villa](https://img.shields.io/static/v1?label=Aston%20Villa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Aston%20Villa)
 - [![De Gea](https://img.shields.io/static/v1?label=De%20Gea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=De%20Gea)
-- [![Europa League](https://img.shields.io/static/v1?label=Europa%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League)
-- [![Giá xăng dầu](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u)
+- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Joe Biden](https://img.shields.io/static/v1?label=Joe%20Biden&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Joe%20Biden)
@@ -60,9 +59,10 @@
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
+- [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Midu](https://img.shields.io/static/v1?label=Midu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Midu)
-- [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
 - [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nhà báo chỉ trích Meghan trên sóng truyền hình rồi đùng đùng bỏ đi khiến nhà đài mất trắng 6000 tỷ đồng còn người hâm mộ cầu xin: "Anh ơi ở lại"](https://cafebiz.vn/nha-bao-chi-trich-meghan-tren-song-truyen-hinh-roi-dung-dung-bo-di-khien-nha-dai-mat-trang-6000-ty-dong-con-nguoi-ham-mo-cau-xin-anh-oi-o-lai-20210313105023635.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người đẹp cầm đầu đường dây mua bán 2.800 viên thuốc lắc sa lưới](https://laodong.vn/phap-luat/nguoi-dep-cam-dau-duong-day-mua-ban-2800-vien-thuoc-lac-sa-luoi-888678.ldo) ([Lao Động](https://laodong.vn))
+- [Brazil vượt Ấn Độ thành nước có số ca COVID-19 cao thứ 2 thế giới](https://laodong.vn/the-gioi/brazil-vuot-an-do-thanh-nuoc-co-so-ca-covid-19-cao-thu-2-the-gioi-888663.ldo) ([Lao Động](https://laodong.vn))
+- [CEO Gamuda Land: Người dân Việt Nam có tài sản tích luỹ dưới dạng vàng, ngoại tệ đang chuyển hoá sang bất động sản](https://cafebiz.vn/ceo-gamuda-land-nguoi-dan-viet-nam-co-tai-san-tich-luy-duoi-dang-vang-ngoai-te-dang-chuyen-hoa-sang-bat-dong-san-20210313104624475.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phát hiện hàng nghìn lọ thuốc đông y nghi làm giả](https://laodong.vn/thi-truong/phat-hien-hang-nghin-lo-thuoc-dong-y-nghi-lam-gia-888683.ldo) ([Lao Động](https://laodong.vn))
+- [Dịch COVID-19 kéo dài, Hải Dương nhờ Bộ đánh giá có phải do lây nhiễm chéo?](https://tuoitre.vn/dich-covid-19-keo-dai-hai-duong-nho-bo-danh-gia-co-phai-do-lay-nhiem-cheo-20210313090831089.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Điện Biên: Trên đường về 2 học sinh bị đuối nước thương tâm](https://laodong.vn/xa-hoi/dien-bien-tren-duong-ve-2-hoc-sinh-bi-duoi-nuoc-thuong-tam-888676.ldo) ([Lao Động](https://laodong.vn))
+- [Đáng sợ với "đẳng cấp" làm hàng nhái Trung Quốc: Túi LV giả có chip NFC chống hàng giả, dù túi thật không hề có](https://cafebiz.vn/dang-so-voi-dang-cap-lam-hang-nhai-trung-quoc-tui-lv-gia-co-chip-nfc-chong-hang-gia-du-tui-that-khong-he-co-20210313103437558.chn) ([CafeBiz](https://cafebiz.vn))
 - [Vợ ông Dũng "lò vôi" chia sẻ đoạn tin nhắn được cho là của Võ Hoàng Yên nói đang buồn chán, định cạo đầu và đã chuẩn bị cách để chết](https://cafebiz.vn/vo-ong-dung-lo-voi-chia-se-doan-tin-nhan-duoc-cho-la-cua-vo-hoang-yen-noi-dang-buon-chan-dinh-cao-dau-va-da-chuan-bi-cach-de-chet-20210313103259707.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giá vàng và ngoại tệ 13.3: Vàng đảo chiều giảm, USD tăng](https://laodong.vn/video/gia-vang-va-ngoai-te-133-vang-dao-chieu-giam-usd-tang-888644.ldo) ([Lao Động](https://laodong.vn))
-- ["Bà trùm hoa hậu" Thuý Nga – TGĐ Elite Việt Nam: "Các cô gái Việt dễ nhìn hơn các nước láng giềng, nhưng hiếm thấy nhan sắc nổi bật vì các em đang tự triệt tiêu cá tính của mình"](https://cafebiz.vn/ba-trum-hoa-hau-thuy-nga-tgd-elite-viet-nam-cac-co-gai-viet-de-nhin-hon-cac-nuoc-lang-gieng-nhung-hiem-thay-nhan-sac-noi-bat-vi-cac-em-dang-tu-triet-tieu-ca-tinh-cua-minh-20210313010731531.chn) ([CafeBiz](https://cafebiz.vn))
-- [Méo mó lãi suất cho vay mua nhà](https://cafebiz.vn/meo-mo-lai-suat-cho-vay-mua-nha-20210313102901031.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dân TP.HCM có thể chịu cái nóng tới 39 độ C](https://tuoitre.vn/nguoi-dan-tp-hcm-co-the-chiu-cai-nong-toi-39-do-c-20210313095727339.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Công trường đường đi bộ dọc sông Hương](https://vnexpress.net/cong-truong-duong-di-bo-doc-song-huong-4247083.html) ([VNExpress](https://vnexpress.net))
-- [4 tư duy hơn người của những người thành công khi tuổi đời còn rất trẻ: Trứng hôm nay đừng để ngày mai mới đẻ](https://cafebiz.vn/4-tu-duy-hon-nguoi-cua-nhung-nguoi-thanh-cong-khi-tuoi-doi-con-rat-tre-trung-hom-nay-dung-de-ngay-mai-moi-de-20210311193905479.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thăng hạng giáo viên THPT hạng I: Vướng mắc, không phù hợp thực tế](https://laodong.vn/ban-doc/thang-hang-giao-vien-thpt-hang-i-vuong-mac-khong-phu-hop-thuc-te-888658.ldo) ([Lao Động](https://laodong.vn))
-- [Thanh niên công nhân “Chung tay xây dựng Thành phố Thủ Đức”](https://laodong.vn/cong-doan/thanh-nien-cong-nhan-chung-tay-xay-dung-thanh-pho-thu-duc-888615.ldo) ([Lao Động](https://laodong.vn))
-- [Hạ Long miễn phí xét nghiệm, cách ly cho học sinh, gia đình từ Hải Dương ra](https://laodong.vn/xa-hoi/ha-long-mien-phi-xet-nghiem-cach-ly-cho-hoc-sinh-gia-dinh-tu-hai-duong-ra-888655.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,16 +96,16 @@
 
 **VIETCETERA**
 
+- [Chữ Với Nghĩa: Phanh xích lô là gì mà không thắng?](https://vietcetera.com/vn/chu-voi-nghia-phanh-xich-lo)
+- [Bóc Term: Sharent là gì? "Khoe con" bao nhiêu là đủ?](https://vietcetera.com/vn/boc-term-sharent-la-gi-khoe-con-bao-nhieu-la-du)
+- [Đã đến lúc cho những trải nghiệm mới tại Singapore](https://vietcetera.com/vn/da-den-luc-cho-nhung-cau-chuyen-trai-nghiem-moi-tai-singapore)
+- [4 Game giải đố vừa "hack não" vừa mãn nhãn](https://vietcetera.com/vn/4-game-giai-do-vua-hack-nao-vua-man-nhan)
 - [Người thân của người trầm cảm cũng có thể là nạn nhân](https://vietcetera.com/vn/nguoi-than-cua-nguoi-tram-cam-cung-co-the-la-nan-nhan)
 - [KOL Việt đang làm gì để có được sự tự chủ trong sáng tạo? ](https://vietcetera.com/vn/kol-viet-dang-lam-gi-de-co-duoc-su-tu-chu-trong-sang-tao)
 - [Đính chính 4 hiểu lầm thường gặp về kombucha](https://vietcetera.com/vn/dinh-chinh-4-loi-don-noi-tieng-ve-kombucha)
 - [Đến LSE, Oxford và Stanford rồi vỡ ra mình học tiếng Anh chưa... "tới" ](https://vietcetera.com/vn/den-lse-oxford-va-stanford-roi-vo-ra-minh-hoc-tieng-anh-sai-cach)
 - [CEO Ru9, Đặng Thuỳ Trang và 3 giá trị làm nên hạnh phúc và thành công](https://vietcetera.com/vn/ceo-ru9-dang-thuy-trang-va-3-gia-tri-lam-nen-hanh-phuc-va-thanh-cong)
 - [Tóm Lại Là: "Hú vía" trẻ không dùng điện thoại một mình](https://vietcetera.com/vn/tom-lai-la-hu-via-tre-khong-dung-dien-thoai-mot-minh)
-- [Câu chuyện về chiếc áo dài 48-tiếng-may của Kelly Marie Trần](https://vietcetera.com/vn/cau-chuyen-ve-chiec-ao-dai-48-tieng-may-cua-kelly-marie-tran)
-- [Chữ Với Nghĩa: Chằm Zn là gì mà Gen Z thuộc lòng?](https://vietcetera.com/vn/chu-voi-nghia-cham-zn-la-gi-ma-gen-z-thuoc-long)
-- [SoundCloud - Cứu tinh của nghệ sĩ indie?](https://vietcetera.com/vn/soundcloud-cuu-tinh-cua-nghe-si-indie)
-- ["Như đang rơi tự do xuống vực, và có 500 vì sao rớt xuống cùng mình."](https://vietcetera.com/vn/du-co-lam-gi-di-nua-bao-boc-quanh-anh-van-la-cam-giac-minh-thieu)
 
 [Read More](https://vietcetera.com/)
 
@@ -136,8 +136,8 @@
 04. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 05. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
 06. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
-07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
-08. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
+07. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
+08. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
 09. [Kỳ bí người phụ nữ trang điểm “lạ”, xài tiền trăm triệu, hát cũng rất hay](https://www.youtube.com/watch?v=vZ9q8rxxulk) - [KHƯƠNG DỪA CHANNEL](https://www.youtube.com/channel/UCF3zCyOModLIKG1C9mg4hsQ)
 10. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 
