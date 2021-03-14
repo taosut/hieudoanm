@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is clear sky.
-- Temperature is 24°C.
-- Feels Like 24.42°C.
-- Air Visual is 115.
+- Temperature is 23°C.
+- Feels Like 23.79°C.
+- Air Visual is 97.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Thủ môn Bình Dương &quot;tặng qùa&quot;, Viettel thắng trận đầu tiên ở V.League 2021](https://laodong.vn/bong-da/thu-mon-binh-duong-tang-qua-viettel-thang-tran-dau-tien-o-vleague-2021-889052.ldo) ([Lao Động](https://laodong.vn))
+- [5 vạn người đổ về chùa Tam Chúc, tỉnh Hà Nam phải tìm giải pháp](https://tuoitre.vn/5-van-nguoi-do-ve-chua-tam-chuc-tinh-ha-nam-phai-tim-giai-phap-20210314210122759.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nghiêm Xuân Tú xuất sắc, Hải Huy hay, Than Quảng Ninh đánh bại TP.HCM 2-0](https://laodong.vn/bong-da/nghiem-xuan-tu-xuat-sac-hai-huy-hay-than-quang-ninh-danh-bai-tphcm-2-0-889061.ldo) ([Lao Động](https://laodong.vn))
+- [Giá thức ăn chăn nuôi tăng mạnh khiến nông dân gặp khó](https://cafebiz.vn/gia-thuc-an-chan-nuoi-tang-manh-khien-nong-dan-gap-kho-20210314205418167.chn) ([CafeBiz](https://cafebiz.vn))
+- [9 vật dụng quen thuộc trong gia đình cực kỳ độc hại nếu sử dụng sai cách](https://cafebiz.vn/9-vat-dung-quen-thuoc-trong-gia-dinh-cuc-ky-doc-hai-neu-su-dung-sai-cach-20210314205659435.chn) ([CafeBiz](https://cafebiz.vn))
+- [Adidas tiết lộ kế hoạch 5 năm đầy tham vọng](https://cafebiz.vn/adidas-tiet-lo-ke-hoach-5-nam-day-tham-vong-20210314202125256.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cảnh báo &quot;lạnh gáy&quot;: IS lập nhóm tinh nhuệ tấn công phương Tây](https://laodong.vn/the-gioi/canh-bao-lanh-gay-is-lap-nhom-tinh-nhue-tan-cong-phuong-tay-888985.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất hôm nay: Thông tin về kho vàng bạc kinh ngạc ở Israel](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-thong-tin-ve-kho-vang-bac-kinh-ngac-o-israel-889022.ldo) ([Lao Động](https://laodong.vn))
 - [11 nhà đầu tư vĩ đại nhất lịch sử nhân loại](https://cafebiz.vn/11-nha-dau-tu-vi-dai-nhat-lich-su-nhan-loai-2021031418421576.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chùa Tam Chúc chật kín du khách](https://vnexpress.net/chua-tam-chuc-chat-kin-du-khach-4248332.html) ([VNExpress](https://vnexpress.net))
-- [20 tuổi sống như Tào Tháo, 40 tuổi học hỏi Tư Mã Ý và 60 tuổi theo gương Lưu Bị](https://cafebiz.vn/20-tuoi-song-nhu-tao-thao-40-tuoi-hoc-hoi-tu-ma-y-va-60-tuoi-theo-guong-luu-bi-20210314204154158.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuyến bay từ TP HCM đi Côn Đảo phải quay về vì máy bay có khói](https://cafebiz.vn/chuyen-bay-tu-tp-hcm-di-con-dao-phai-quay-ve-vi-may-bay-co-khoi-20210314184009884.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bầu Đức &quot;vẫn chưa sướng lắm” dù Hoàng Anh Gia Lai thắng](https://laodong.vn/bong-da/bau-duc-van-chua-suong-lam-du-hoang-anh-gia-lai-thang-889051.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Kiatisak mang lại nhiều nét mới, Hoàng Anh Gia Lai biết toan tính hơn&quot;](https://laodong.vn/bong-da/kiatisak-mang-lai-nhieu-net-moi-hoang-anh-gia-lai-biet-toan-tinh-hon-889050.ldo) ([Lao Động](https://laodong.vn))
-- [Lắp cửa van thép 200 tấn đầu tiên cho cống thủy lợi 'khủng' nhất miền Tây](https://tuoitre.vn/lap-cua-van-thep-200-tan-dau-tien-cho-cong-thuy-loi-khung-nhat-mien-tay-20210314193623449.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Kiatisak tiết lộ lý do hoán đổi cặp đôi Công Phượng – Văn Toàn](https://laodong.vn/bong-da/kiatisak-tiet-lo-ly-do-hoan-doi-cap-doi-cong-phuong--van-toan-889049.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
