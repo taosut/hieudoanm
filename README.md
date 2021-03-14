@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 25.25°C.
-- Air Visual is 118.
+- Air Visual is 112.
 
 **WEATHER**
 
@@ -75,14 +75,14 @@
 
 **NEWS**
 
+- [Khám phá khu vườn rộng 500m2 nhiều cây trái Việt ở Mỹ của danh ca Hương Lan](https://laodong.vn/bat-dong-san/kham-pha-khu-vuon-rong-500m2-nhieu-cay-trai-viet-o-my-cua-danh-ca-huong-lan-888917.ldo) ([Lao Động](https://laodong.vn))
+- [Trường hợp nào không phải mang giấy tờ gì khi làm căn cước công dân?](https://laodong.vn/phap-luat/truong-hop-nao-khong-phai-mang-giay-to-gi-khi-lam-can-cuoc-cong-dan-888925.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ bé 3 tuổi ở Quảng Trị tử vong tại bệnh viện: Sở Y tế vào cuộc tìm hiểu](https://laodong.vn/ban-doc/vu-be-3-tuoi-o-quang-tri-tu-vong-tai-benh-vien-so-y-te-vao-cuoc-tim-hieu-888919.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang: Xử lý nhóm học sinh chạy xe tốc độ cao, lạng lách, đánh võng](https://laodong.vn/phap-luat/bac-giang-xu-ly-nhom-hoc-sinh-chay-xe-toc-do-cao-lang-lach-danh-vong-888887.ldo) ([Lao Động](https://laodong.vn))
+- [Mẹo nhỏ giúp dân văn phòng giảm cân nhanh chóng tại nơi làm việc](https://laodong.vn/lam-dep/meo-nho-giup-dan-van-phong-giam-can-nhanh-chong-tai-noi-lam-viec-888866.ldo) ([Lao Động](https://laodong.vn))
 - [Thanh niên Bắc Kạn trồng rau, trồng nấm...thu hàng trăm triệu đồng mỗi năm](https://cafebiz.vn/thanh-nien-bac-kan-trong-rau-trong-namthu-hang-tram-trieu-dong-moi-nam-20210314091907796.chn) ([CafeBiz](https://cafebiz.vn))
 - [Người Sài Gòn chống tia cực tím ngày nắng nóng](https://vnexpress.net/nguoi-sai-gon-chong-tia-cuc-tim-ngay-nang-nong-4247704.html) ([VNExpress](https://vnexpress.net))
 - [Cuộc sống xa hoa của tiểu thư "phú nhị đại" Trung Quốc: Phô trương tài sản, thể hiện khí chất quý tộc, khắp người đều toát lên "mùi tiền"](https://cafebiz.vn/cuoc-song-xa-hoa-cua-tieu-thu-phu-nhi-dai-trung-quoc-pho-truong-tai-san-the-hien-khi-chat-quy-toc-khap-nguoi-deu-toat-len-mui-tien-20210314091723319.chn) ([CafeBiz](https://cafebiz.vn))
-- [BR-VT: LĐLĐ huyện Đức Linh phát động “Ký kết giao ước thi đua năm 2021”](https://laodong.vn/cong-doan-toan-quoc/br-vt-ldld-huyen-duc-linh-phat-dong-ky-ket-giao-uoc-thi-dua-nam-2021-888913.ldo) ([Lao Động](https://laodong.vn))
-- [Bà Rịa Vũng Tàu: Tư vấn nghề cho 600 học viên đang điều trị tại cơ sở](https://laodong.vn/cong-doan-toan-quoc/ba-ria-vung-tau-tu-van-nghe-cho-600-hoc-vien-dang-dieu-tri-tai-co-so-888912.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng Nguyễn Xuân Phúc dự lễ thông xe cầu Cửa Hội bắc qua sông Lam](https://laodong.vn/thoi-su/thu-tuong-nguyen-xuan-phuc-du-le-thong-xe-cau-cua-hoi-bac-qua-song-lam-888876.ldo) ([Lao Động](https://laodong.vn))
-- [Giáo viên hạng II không được chủ trì sinh hoạt chuyên môn của trường?](https://laodong.vn/ban-doc/giao-vien-hang-ii-khong-duoc-chu-tri-sinh-hoat-chuyen-mon-cua-truong-888909.ldo) ([Lao Động](https://laodong.vn))
-- [2 lãnh đạo Ban Tuyên giáo Trung ương được giới thiệu ứng cử ĐBQH khoá XV](https://laodong.vn/thoi-su/2-lanh-dao-ban-tuyen-giao-trung-uong-duoc-gioi-thieu-ung-cu-dbqh-khoa-xv-888902.ldo) ([Lao Động](https://laodong.vn))
 - [Cơn sốt đất nền vùng ven TP. Vinh và những chiêu trò thổi giá](https://cafebiz.vn/con-sot-dat-nen-vung-ven-tp-vinh-va-nhung-chieu-tro-thoi-gia-20210314091425641.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tổng hợp cam kết đi vào ‘lòng đất’ của dân bán xe: Tai nạn biến dạng vẫn khoe 'không đâm đụng, bao check hãng'](https://cafebiz.vn/tong-hop-cam-ket-di-vao-long-dat-cua-dan-ban-xe-tai-nan-bien-dang-van-khoe-khong-dam-dung-bao-check-hang-20210314090100478.chn) ([CafeBiz](https://cafebiz.vn))
 
