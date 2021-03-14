@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is clear sky.
-- Temperature is 25°C.
-- Feels Like 25.31°C.
-- Air Visual is 119.
+- Temperature is 24°C.
+- Feels Like 24.42°C.
+- Air Visual is 115.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Doanh nghiệp trồng cao su đón tin vui đầu năm: Xuất khẩu và giá bán cùng tăng mạnh](https://cafebiz.vn/doanh-nghiep-trong-cao-su-don-tin-vui-dau-nam-xuat-khau-va-gia-ban-cung-tang-manh-20210314174610113.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bầu Đức xuống sân chúc mừng chiến thắng của Hoàng Anh Gia Lai](https://laodong.vn/photo/bau-duc-xuong-san-chuc-mung-chien-thang-cua-hoang-anh-gia-lai-889019.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin dự báo thời tiết mới nhất đêm nay và ngày mai 15.3](https://laodong.vn/video/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-153-888523.ldo) ([Lao Động](https://laodong.vn))
+- [Xe ôtô quá hạn đăng kiểm bị phạt như thế nào?](https://laodong.vn/xe/xe-oto-qua-han-dang-kiem-bi-phat-nhu-the-nao-888838.ldo) ([Lao Động](https://laodong.vn))
+- [Cách tính lương hưu khi tham gia bảo hiểm xã hội](https://laodong.vn/ban-doc/cach-tinh-luong-huu-khi-tham-gia-bao-hiem-xa-hoi-888966.ldo) ([Lao Động](https://laodong.vn))
+- [Hoàng Anh Gia Lai vật vã giành 3 điểm trước tân binh Bình Định](https://laodong.vn/photo/hoang-anh-gia-lai-vat-va-gianh-3-diem-truoc-tan-binh-binh-dinh-889039.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất 24h: Nổ súng truy bắt tàu cá chở dầu lậu trên biển](https://laodong.vn/video/nong-nhat-24h-no-sung-truy-bat-tau-ca-cho-dau-lau-tren-bien-889038.ldo) ([Lao Động](https://laodong.vn))
 - ['Biển người' chen chân đi lễ chùa Tam Chúc ngày cuối tuần](https://cafebiz.vn/bien-nguoi-chen-chan-di-le-chua-tam-chuc-ngay-cuoi-tuan-20210314174401499.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nhà đầu tư lại mơ giá dầu sắp lên 100 USD/thùng](https://cafebiz.vn/nha-dau-tu-lai-mo-gia-dau-sap-len-100-usd-thung-20210314173159769.chn) ([CafeBiz](https://cafebiz.vn))
-- [Báo Mỹ gọi máy bay Su-27 của Nga là &quot;cơn ác mộng tồi tệ nhất của NATO&quot;](https://laodong.vn/the-gioi/bao-my-goi-may-bay-su-27-cua-nga-la-con-ac-mong-toi-te-nhat-cua-nato-889008.ldo) ([Lao Động](https://laodong.vn))
-- [Văn Toàn xuất sắc, Hoàng Anh Gia Lai toát mồ hôi lấy 3 điểm trước Bình Định](https://laodong.vn/bong-da/van-toan-xuat-sac-hoang-anh-gia-lai-toat-mo-hoi-lay-3-diem-truoc-binh-dinh-889006.ldo) ([Lao Động](https://laodong.vn))
-- [Tổ chức giải báo chí về xây dựng Đảng, xây dựng người Hà Nội thanh lịch](https://laodong.vn/thoi-su/to-chuc-giai-bao-chi-ve-xay-dung-dang-xay-dung-nguoi-ha-noi-thanh-lich-889031.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ đội Biên phòng nổ súng bắt tàu chở dầu ‘lậu’](https://vnexpress.net/bo-doi-bien-phong-no-sung-bat-tau-cho-dau-lau-4248326.html) ([VNExpress](https://vnexpress.net))
-- [Hơn chục ngân hàng thay đổi biểu lãi suất, gửi tiết kiệm ngân hàng nào lúc này để có lãi cao nhất?](https://cafebiz.vn/hon-chuc-ngan-hang-thay-doi-bieu-lai-suat-gui-tiet-kiem-ngan-hang-nao-luc-nay-de-co-lai-cao-nhat-20210314172425076.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cần Thơ dự tính chi gần 30 tỉ đồng diệt chuột](https://cafebiz.vn/can-tho-du-tinh-chi-gan-30-ti-dong-diet-chuot-20210314132426698.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thi Lịch sử vào lớp 10: Người lo lắng, người vui mừng](https://laodong.vn/giao-duc/thi-lich-su-vao-lop-10-nguoi-lo-lang-nguoi-vui-mung-888979.ldo) ([Lao Động](https://laodong.vn))
-- [Nhà nước hỗ trợ gì khi thu hồi đất nhưng không đủ điều kiện bồi thường](https://laodong.vn/bat-dong-san/nha-nuoc-ho-tro-gi-khi-thu-hoi-dat-nhung-khong-du-dieu-kien-boi-thuong-889005.ldo) ([Lao Động](https://laodong.vn))
+- [Giáo dục 24/7: Bộ môn nữ công gia chánh giảng dạy ở Huế có gì đặc biệt?](https://laodong.vn/video/giao-duc-247-bo-mon-nu-cong-gia-chanh-giang-day-o-hue-co-gi-dac-biet-888996.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
