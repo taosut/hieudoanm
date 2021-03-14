@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 26.58°C.
-- Air Visual is 119.
+- Air Visual is 117.
 
 **WEATHER**
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Thanh tra vào cuộc vụ biệt thự đồ sộ xây không phép ở Lâm Đồng](https://cafebiz.vn/thanh-tra-vao-cuoc-vu-biet-thu-do-so-xay-khong-phep-o-lam-dong-20210314105109089.chn) ([CafeBiz](https://cafebiz.vn))
+- [Truy đuổi 40 phút trên biển, nổ súng bắt tàu chở 3.000 lít dầu 'lậu'](https://tuoitre.vn/truy-duoi-40-phut-tren-bien-no-sung-bat-tau-cho-3-000-lit-dau-lau-20210314171621882.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Đất lưu không có được cấp sổ đỏ không?](https://laodong.vn/bat-dong-san/dat-luu-khong-co-duoc-cap-so-do-khong-888742.ldo) ([Lao Động](https://laodong.vn))
 - [3 nam diễn viên Hoa ngữ được kỳ vọng trở lại trong năm 2021](https://laodong.vn/giai-tri/3-nam-dien-vien-hoa-ngu-duoc-ky-vong-tro-lai-trong-nam-2021-888908.ldo) ([Lao Động](https://laodong.vn))
 - [Lợn nhập khẩu trốn cách ly kiểm dịch: Vi phạm tội buôn bán hàng cấm](https://laodong.vn/ban-doc/lon-nhap-khau-tron-cach-ly-kiem-dich-vi-pham-toi-buon-ban-hang-cam-888990.ldo) ([Lao Động](https://laodong.vn))
@@ -83,8 +85,6 @@
 - [Man United sắp trọng thưởng Solskjaer dù chưa có danh hiệu nào](https://laodong.vn/bong-da-quoc-te/man-united-sap-trong-thuong-solskjaer-du-chua-co-danh-hieu-nao-888986.ldo) ([Lao Động](https://laodong.vn))
 - [Thi vào lớp 10: Lý do học sinh lo lắng khi Lịch sử là môn thi thứ 4](https://laodong.vn/giao-duc/thi-vao-lop-10-ly-do-hoc-sinh-lo-lang-khi-lich-su-la-mon-thi-thu-4-888893.ldo) ([Lao Động](https://laodong.vn))
 - [Các 'ông lớn' LG, Foxconn, Samsung đã giải quyết việc làm cho bao nhiêu lao động Việt Nam?](https://cafebiz.vn/cac-ong-lon-lg-foxconn-samsung-da-giai-quyet-viec-lam-cho-bao-nhieu-lao-dong-viet-nam-20210314110932613.chn) ([CafeBiz](https://cafebiz.vn))
-- [3 loại quả giá rẻ được mệnh danh là "vua của huyết áp", vừa điều hòa huyết áp lại giúp bảo vệ mạch máu vượt trội, tiếc là nhiều người vẫn bỏ phí](https://cafebiz.vn/3-loai-qua-gia-re-duoc-menh-danh-la-vua-cua-huyet-ap-vua-dieu-hoa-huyet-ap-lai-giup-bao-ve-mach-mau-vuot-troi-tiec-la-nhieu-nguoi-van-bo-phi-20210314153811218.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bình Phước lại bắt được nhóm người Trung Quốc nhập cảnh trái phép](https://tuoitre.vn/binh-phuoc-lai-bat-duoc-nhom-nguoi-trung-quoc-nhap-canh-trai-phep-2021031416440238.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
