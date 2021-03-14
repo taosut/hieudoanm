@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 23°C.
-- Feels Like 25.23°C.
-- Air Visual is 126.
+- Current weather is broken clouds.
+- Temperature is 24°C.
+- Feels Like 24.65°C.
+- Air Visual is 106.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Đánh sập hầm vàng chỉ là giải pháp đầu ngọn](https://laodong.vn/ban-doc/danh-sap-ham-vang-chi-la-giai-phap-dau-ngon-888870.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao người Nhật bắt đầu tẩy chay tạp chí người lớn, ngành kinh doanh từng tạo ra doanh thu gần 5 tỷ USD mỗi năm?](https://cafebiz.vn/ly-do-nguoi-nhat-bat-dau-tay-chay-tap-chi-nguoi-lon-nganh-kinh-doanh-tung-tao-ra-doanh-thu-gan-5-ty-usd-moi-nam-20210313122745941.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Võ Hoàng Yên tuyên bố: "Mỗi năm tôi chữa cho hơn 4.000 người câm biết nói", thực tế ra sao?](https://cafebiz.vn/ong-vo-hoang-yen-tuyen-bo-moi-nam-toi-chua-cho-hon-4000-nguoi-cam-biet-noi-thuc-te-ra-sao-20210314073044564.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chữ 'G' thứ 8](https://tuoitre.vn/chu-g-thu-8-20210314075517302.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Giới khảo cổ bất ngờ tìm thấy kho vàng bạc kinh ngạc ở Israel](https://laodong.vn/the-gioi/gioi-khao-co-bat-ngo-tim-thay-kho-vang-bac-kinh-ngac-o-israel-888854.ldo) ([Lao Động](https://laodong.vn))
-- [Thách thức biến 74 triệu người ủng hộ thành khách hàng của ông Trump](https://cafebiz.vn/thach-thuc-bien-74-trieu-nguoi-ung-ho-thanh-khach-hang-cua-ong-trump-20210311145446177.chn) ([CafeBiz](https://cafebiz.vn))
-- [TS. Phạm Thế Anh: “Hạ lãi suất đang khiến dòng tiền đổ vào các kênh đầu cơ tài sản”](https://cafebiz.vn/ts-pham-the-anh-ha-lai-suat-dang-khien-dong-tien-do-vao-cac-kenh-dau-co-tai-san-20210314075435015.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hé lộ kiến trúc ấn tượng bên trong nhà ga ngầm Ba Son của tuyến Metro số 1](https://cafebiz.vn/he-lo-kien-truc-an-tuong-ben-trong-nha-ga-ngam-ba-son-cua-tuyen-metro-so-1-20210314072932939.chn) ([CafeBiz](https://cafebiz.vn))
-- [TPHCM: Chỉ số tia UV đạt ngưỡng báo động đỏ, trời oi nóng](https://laodong.vn/moi-truong/tphcm-chi-so-tia-uv-dat-nguong-bao-dong-do-troi-oi-nong-888863.ldo) ([Lao Động](https://laodong.vn))
-- [Trăm nghìn cánh diều tung bay đầy thơ mộng trên bầu trời thành thị](https://laodong.vn/video-kham-pha/tram-nghin-canh-dieu-tung-bay-day-tho-mong-tren-bau-troi-thanh-thi-888521.ldo) ([Lao Động](https://laodong.vn))
+- [Đại tá Đinh Văn Nơi nói các nhóm tội phạm không chỉ muốn dùng tiền "điều" ông đi, mà còn dùng thủ đoạn nguy hiểm đe dọa](https://cafebiz.vn/dai-ta-dinh-van-noi-noi-cac-nhom-toi-pham-khong-chi-muon-dung-tien-dieu-ong-di-ma-con-dung-thu-doan-nguy-hiem-de-doa-20210314080845501.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bức xúc vấn nạn lấn chiếm cổng bệnh viện](https://laodong.vn/ban-doc/buc-xuc-van-nan-lan-chiem-cong-benh-vien-888784.ldo) ([Lao Động](https://laodong.vn))
+- [Soi bò khô siêu rẻ 170k/kg bán đầy ngoài chợ dưới kính hiển vi, phát hiện thứ nguyên liệu bất ngờ khiến nhiều người khiếp sợ](https://cafebiz.vn/soi-bo-kho-sieu-re-170k-kg-ban-day-ngoai-cho-duoi-kinh-hien-vi-phat-hien-thu-nguyen-lieu-bat-ngo-khien-nhieu-nguoi-khiep-so-20210314080217921.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chăm sóc sức khỏe sinh sản - cả 2 giới cần phải quan tâm](https://laodong.vn/cong-doan/cham-soc-suc-khoe-sinh-san-ca-2-gioi-can-phai-quan-tam-888877.ldo) ([Lao Động](https://laodong.vn))
+- [Sẽ hủy kết quả đăng ký cư trú nếu nội dung cam đoan không đúng sự thật](https://laodong.vn/thoi-su/se-huy-ket-qua-dang-ky-cu-tru-neu-noi-dung-cam-doan-khong-dung-su-that-888880.ldo) ([Lao Động](https://laodong.vn))
+- [Mỹ cố gắng tiếp cận, Triều Tiên chưa hồi đáp](https://laodong.vn/the-gioi/my-co-gang-tiep-can-trieu-tien-chua-hoi-dap-888878.ldo) ([Lao Động](https://laodong.vn))
+- [Phát động tham gia Chương trình “75 nghìn sáng kiến, vượt khó, phát triển&quot;](https://laodong.vn/cd-xay-dung/phat-dong-tham-gia-chuong-trinh-75-nghin-sang-kien-vuot-kho-phat-trien-888855.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyện thật như đùa: Dân Mỹ rủ nhau quyên góp giúp vợ chồng Meghan mua nhà sau màn than khổ bị cắt tài chính, Harry có thực sự "nghèo" đến như vậy?](https://cafebiz.vn/chuyen-that-nhu-dua-dan-my-ru-nhau-quyen-gop-giup-vo-chong-meghan-mua-nha-sau-man-than-kho-bi-cat-tai-chinh-harry-co-thuc-su-ngheo-den-nhu-vay-20210314080054445.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dự án đường vành đai ở TP.HCM, Hà Nội: Khi nào 'hồi sinh'?](https://tuoitre.vn/du-an-duong-vanh-dai-o-tp-hcm-ha-noi-khi-nao-hoi-sinh-20210314082752059.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tức giận không đáng sợ, cứ im ỉm im ỉm mới đáng sợ hơn cả: KÌM NÉN là thứ thuốc độc hại sức khỏe nhất](https://cafebiz.vn/tuc-gian-khong-dang-so-cu-im-im-im-im-moi-dang-so-hon-ca-kim-nen-la-thu-thuoc-doc-hai-suc-khoe-nhat-20210313211443818.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
