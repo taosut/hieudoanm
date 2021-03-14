@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
+- Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 24.71°C.
-- Air Visual is 115.
+- Feels Like 26.58°C.
+- Air Visual is 119.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Đất lưu không có được cấp sổ đỏ không?](https://laodong.vn/bat-dong-san/dat-luu-khong-co-duoc-cap-so-do-khong-888742.ldo) ([Lao Động](https://laodong.vn))
+- [3 nam diễn viên Hoa ngữ được kỳ vọng trở lại trong năm 2021](https://laodong.vn/giai-tri/3-nam-dien-vien-hoa-ngu-duoc-ky-vong-tro-lai-trong-nam-2021-888908.ldo) ([Lao Động](https://laodong.vn))
+- [Lợn nhập khẩu trốn cách ly kiểm dịch: Vi phạm tội buôn bán hàng cấm](https://laodong.vn/ban-doc/lon-nhap-khau-tron-cach-ly-kiem-dich-vi-pham-toi-buon-ban-hang-cam-888990.ldo) ([Lao Động](https://laodong.vn))
+- [8 tướng, tá Công an được điều động, luân chuyển trong tuần](https://laodong.vn/thoi-su/8-tuong-ta-cong-an-duoc-dieu-dong-luan-chuyen-trong-tuan-888995.ldo) ([Lao Động](https://laodong.vn))
+- [Thư ký Hội đồng An ninh Nga sẽ thăm Việt Nam](https://laodong.vn/the-gioi/thu-ky-hoi-dong-an-ninh-nga-se-tham-viet-nam-888994.ldo) ([Lao Động](https://laodong.vn))
+- [Man United sắp trọng thưởng Solskjaer dù chưa có danh hiệu nào](https://laodong.vn/bong-da-quoc-te/man-united-sap-trong-thuong-solskjaer-du-chua-co-danh-hieu-nao-888986.ldo) ([Lao Động](https://laodong.vn))
 - [Thi vào lớp 10: Lý do học sinh lo lắng khi Lịch sử là môn thi thứ 4](https://laodong.vn/giao-duc/thi-vao-lop-10-ly-do-hoc-sinh-lo-lang-khi-lich-su-la-mon-thi-thu-4-888893.ldo) ([Lao Động](https://laodong.vn))
-- [Australia tiếp tục phát hiện ca mắc COVID-19 trong cộng đồng](https://laodong.vn/the-gioi/australia-tiep-tuc-phat-hien-ca-mac-covid-19-trong-cong-dong-888981.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Trọng tài phải trau dồi luật, đi bắt phủi, bắt không công cũng được&quot;](https://laodong.vn/bong-da/trong-tai-phai-trau-doi-luat-di-bat-phui-bat-khong-cong-cung-duoc-888989.ldo) ([Lao Động](https://laodong.vn))
 - [Các 'ông lớn' LG, Foxconn, Samsung đã giải quyết việc làm cho bao nhiêu lao động Việt Nam?](https://cafebiz.vn/cac-ong-lon-lg-foxconn-samsung-da-giai-quyet-viec-lam-cho-bao-nhieu-lao-dong-viet-nam-20210314110932613.chn) ([CafeBiz](https://cafebiz.vn))
-- [LĐLĐ Đà Nẵng: Phát động thi đua năm 2021 với mục tiêu ổn định việc làm](https://laodong.vn/cong-doan/ldld-da-nang-phat-dong-thi-dua-nam-2021-voi-muc-tieu-on-dinh-viec-lam-888997.ldo) ([Lao Động](https://laodong.vn))
-- [Điều tra cái chết có dấu hiệu bất thường của nam thanh niên](https://laodong.vn/xa-hoi/dieu-tra-cai-chet-co-dau-hieu-bat-thuong-cua-nam-thanh-nien-888984.ldo) ([Lao Động](https://laodong.vn))
 - [3 loại quả giá rẻ được mệnh danh là "vua của huyết áp", vừa điều hòa huyết áp lại giúp bảo vệ mạch máu vượt trội, tiếc là nhiều người vẫn bỏ phí](https://cafebiz.vn/3-loai-qua-gia-re-duoc-menh-danh-la-vua-cua-huyet-ap-vua-dieu-hoa-huyet-ap-lai-giup-bao-ve-mach-mau-vuot-troi-tiec-la-nhieu-nguoi-van-bo-phi-20210314153811218.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bình Phước lại bắt được nhóm người Trung Quốc nhập cảnh trái phép](https://tuoitre.vn/binh-phuoc-lai-bat-duoc-nhom-nguoi-trung-quoc-nhap-canh-trai-phep-2021031416440238.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nga sắp phát triển thành công thuốc chống tình trạng kháng kháng sinh](https://laodong.vn/the-gioi/nga-sap-phat-trien-thanh-cong-thuoc-chong-tinh-trang-khang-khang-sinh-888972.ldo) ([Lao Động](https://laodong.vn))
-- [Australia chấn động với hàng loạt quỷ Tasmania chết bí ẩn](https://laodong.vn/the-gioi/australia-chan-dong-voi-hang-loat-quy-tasmania-chet-bi-an-888975.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
