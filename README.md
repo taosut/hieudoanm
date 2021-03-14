@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 22°C.
-- Feels Like 24.58°C.
-- Air Visual is 116.
+- Temperature is 23°C.
+- Feels Like 25.23°C.
+- Air Visual is 126.
 
 **WEATHER**
 
@@ -57,7 +57,6 @@
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
-- [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
@@ -66,6 +65,7 @@
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
+- [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![Thủ môn Bùi Tiến Dũng](https://img.shields.io/static/v1?label=Th%E1%BB%A7%20m%C3%B4n%20B%C3%B9i%20Ti%E1%BA%BFn%20D%C5%A9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BB%A7%20m%C3%B4n%20B%C3%B9i%20Ti%E1%BA%BFn%20D%C5%A9ng)
 - [![Đào Bá Lộc](https://img.shields.io/static/v1?label=%C4%90%C3%A0o%20B%C3%A1%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C3%A0o%20B%C3%A1%20L%E1%BB%99c)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cách sống của người tinh khôn: Uống rượu 3 phần say, ăn cơm 7 phần no, đối đãi 8 phần vừa đủ](https://cafebiz.vn/cach-song-cua-nguoi-tinh-khon-uong-ruou-3-phan-say-an-com-7-phan-no-doi-dai-8-phan-vua-du-20210313212233289.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xe máy, ôtô không tham gia bảo hiểm bắt buộc tai nạn có được hỗ trợ đền bù?](https://laodong.vn/xe/xe-may-oto-khong-tham-gia-bao-hiem-bat-buoc-tai-nan-co-duoc-ho-tro-den-bu-888845.ldo) ([Lao Động](https://laodong.vn))
-- [Bỏ thai để không sinh con thứ ba, không được hưởng bảo hiểm y tế](https://laodong.vn/ban-doc/bo-thai-de-khong-sinh-con-thu-ba-khong-duoc-huong-bao-hiem-y-te-888230.ldo) ([Lao Động](https://laodong.vn))
-- [Sau gần 2 ngày mở tài khoản, ông Đoàn Ngọc Hải nhận hơn 2,4 tỷ đồng giúp người nghèo](https://cafebiz.vn/sau-gan-2-ngay-mo-tai-khoan-ong-doan-ngoc-hai-nhan-hon-24-ty-dong-giup-nguoi-ngheo-20210314072841295.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phát động hưởng ứng Chương trình &quot;Trồng mới và chăm sóc 1 tỉ cây xanh&quot;](https://laodong.vn/cong-doan/phat-dong-huong-ung-chuong-trinh-trong-moi-va-cham-soc-1-ti-cay-xanh-888612.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều kênh YouTube cá nhân &quot;quên&quot; đóng thuế: Truy thu từ &quot;đầu nguồn&quot;](https://laodong.vn/kinh-te/nhieu-kenh-youtube-ca-nhan-quen-dong-thue-truy-thu-tu-dau-nguon-888534.ldo) ([Lao Động](https://laodong.vn))
-- [Chân dung 5 doanh nhân ứng cử đại biểu Quốc hội, HĐND ở TP.HCM](https://cafebiz.vn/chan-dung-5-doanh-nhan-ung-cu-dai-bieu-quoc-hoi-hdnd-o-tphcm-20210314072654179.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sinh ba con một lần, hưởng chế độ dưỡng sức sau thai sản thế nào?](https://laodong.vn/tu-van-phap-luat/sinh-ba-con-mot-lan-huong-che-do-duong-suc-sau-thai-san-the-nao-888070.ldo) ([Lao Động](https://laodong.vn))
-- [Xuất hiện 'Học viện Hoàng gia' Việt Nam được đầu tư 333 tỷ, kiến trúc lăm le 'vượt mặt' các trường top](https://cafebiz.vn/xuat-hien-hoc-vien-hoang-gia-viet-nam-duoc-dau-tu-333-ty-kien-truc-lam-le-vuot-mat-cac-truong-top-20210314072352522.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Võ Hoàng Yên lên tiếng về cáo buộc của đại gia Dũng "lò vôi": "Tôi làm ông lão chèo đò, không được mang ơn, còn mắc oán"](https://cafebiz.vn/ong-vo-hoang-yen-len-tieng-ve-cao-buoc-cua-dai-gia-dung-lo-voi-toi-lam-ong-lao-cheo-do-khong-duoc-mang-on-con-mac-oan-20210314072246027.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đánh sập hầm vàng chỉ là giải pháp đầu ngọn](https://laodong.vn/ban-doc/danh-sap-ham-vang-chi-la-giai-phap-dau-ngon-888870.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao người Nhật bắt đầu tẩy chay tạp chí người lớn, ngành kinh doanh từng tạo ra doanh thu gần 5 tỷ USD mỗi năm?](https://cafebiz.vn/ly-do-nguoi-nhat-bat-dau-tay-chay-tap-chi-nguoi-lon-nganh-kinh-doanh-tung-tao-ra-doanh-thu-gan-5-ty-usd-moi-nam-20210313122745941.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Võ Hoàng Yên tuyên bố: "Mỗi năm tôi chữa cho hơn 4.000 người câm biết nói", thực tế ra sao?](https://cafebiz.vn/ong-vo-hoang-yen-tuyen-bo-moi-nam-toi-chua-cho-hon-4000-nguoi-cam-biet-noi-thuc-te-ra-sao-20210314073044564.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chữ 'G' thứ 8](https://tuoitre.vn/chu-g-thu-8-20210314075517302.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Giới khảo cổ bất ngờ tìm thấy kho vàng bạc kinh ngạc ở Israel](https://laodong.vn/the-gioi/gioi-khao-co-bat-ngo-tim-thay-kho-vang-bac-kinh-ngac-o-israel-888854.ldo) ([Lao Động](https://laodong.vn))
+- [Thách thức biến 74 triệu người ủng hộ thành khách hàng của ông Trump](https://cafebiz.vn/thach-thuc-bien-74-trieu-nguoi-ung-ho-thanh-khach-hang-cua-ong-trump-20210311145446177.chn) ([CafeBiz](https://cafebiz.vn))
+- [TS. Phạm Thế Anh: “Hạ lãi suất đang khiến dòng tiền đổ vào các kênh đầu cơ tài sản”](https://cafebiz.vn/ts-pham-the-anh-ha-lai-suat-dang-khien-dong-tien-do-vao-cac-kenh-dau-co-tai-san-20210314075435015.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hé lộ kiến trúc ấn tượng bên trong nhà ga ngầm Ba Son của tuyến Metro số 1](https://cafebiz.vn/he-lo-kien-truc-an-tuong-ben-trong-nha-ga-ngam-ba-son-cua-tuyen-metro-so-1-20210314072932939.chn) ([CafeBiz](https://cafebiz.vn))
+- [TPHCM: Chỉ số tia UV đạt ngưỡng báo động đỏ, trời oi nóng](https://laodong.vn/moi-truong/tphcm-chi-so-tia-uv-dat-nguong-bao-dong-do-troi-oi-nong-888863.ldo) ([Lao Động](https://laodong.vn))
+- [Trăm nghìn cánh diều tung bay đầy thơ mộng trên bầu trời thành thị](https://laodong.vn/video-kham-pha/tram-nghin-canh-dieu-tung-bay-day-tho-mong-tren-bau-troi-thanh-thi-888521.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
