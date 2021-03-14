@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 25.92°C.
-- Air Visual is 107.
+- Temperature is 26°C.
+- Feels Like 26.14°C.
+- Air Visual is 129.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [HLV Đức Thắng: Cầu thủ Hoàng Anh Gia Lai đang ở độ chín của sự nghiệp](https://laodong.vn/video/hlv-duc-thang-cau-thu-hoang-anh-gia-lai-dang-o-do-chin-cua-su-nghiep-888946.ldo) ([Lao Động](https://laodong.vn))
+- [Nỗi buồn từ cơn sốt nhà giá 1 euro ở Italy](https://cafebiz.vn/noi-buon-tu-con-sot-nha-gia-1-euro-o-italy-2021031412344489.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dự báo thời tiết 7 ngày tới: Bắc Bộ chuyển nắng, bức xạ tia UV rất cao](https://laodong.vn/infographic/du-bao-thoi-tiet-7-ngay-toi-bac-bo-chuyen-nang-buc-xa-tia-uv-rat-cao-888934.ldo) ([Lao Động](https://laodong.vn))
+- [Công chứng vi bằng có giá trị pháp lý không?](https://laodong.vn/bat-dong-san/cong-chung-vi-bang-co-gia-tri-phap-ly-khong-888679.ldo) ([Lao Động](https://laodong.vn))
+- [Dàn xế hộp giá gần chục tỉ được chồng tặng Trịnh Kim Chi có gì đặc biệt?](https://laodong.vn/xe/dan-xe-hop-gia-gan-chuc-ti-duoc-chong-tang-trinh-kim-chi-co-gi-dac-biet-888948.ldo) ([Lao Động](https://laodong.vn))
+- [Bài thi mẫu Đánh giá năng lực chính thức của Đại học Quốc gia Hà Nội](https://laodong.vn/giao-duc/bai-thi-mau-danh-gia-nang-luc-chinh-thuc-cua-dai-hoc-quoc-gia-ha-noi-887940.ldo) ([Lao Động](https://laodong.vn))
+- [Khởi động chương trình trồng một tỷ cây xanh](https://vnexpress.net/khoi-dong-chuong-trinh-trong-mot-ty-cay-xanh-4248239.html) ([VNExpress](https://vnexpress.net))
 - [ACV sẽ khởi công nhà ga T3 Tân Sơn Nhất trong tháng 10/2021](https://cafebiz.vn/acv-se-khoi-cong-nha-ga-t3-tan-son-nhat-trong-thang-10-2021-20210314123229844.chn) ([CafeBiz](https://cafebiz.vn))
 - ["Con thích một chiếc ipad hơn một con chó" - câu nói của một đứa trẻ thế hệ Alpha khiến nhiều cha mẹ phải giật mình](https://cafebiz.vn/con-thich-mot-chiec-ipad-hon-mot-con-cho-cau-noi-cua-mot-dua-tre-the-he-alpha-khien-nhieu-cha-me-phai-giat-minh-20210314105508913.chn) ([CafeBiz](https://cafebiz.vn))
 - [Phụ nữ thông minh, nửa đời sau sống không phải dựa vào đàn ông, mà dựa vào ba thứ này](https://cafebiz.vn/phu-nu-thong-minh-nua-doi-sau-song-khong-phai-dua-vao-dan-ong-ma-dua-vao-ba-thu-nay-20210314065042372.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tướng cắt băng thông xe cầu Cửa Hội nối Nghệ An - Hà Tĩnh](https://tuoitre.vn/thu-tuong-cat-bang-thong-xe-cau-cua-hoi-noi-hai-tinh-nghe-an-ha-tinh-20210314121238796.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thay đổi hệ số các môn thi vào lớp 10 tại TPHCM: Giáo viên đồng tình](https://laodong.vn/giao-duc/thay-doi-he-so-cac-mon-thi-vao-lop-10-tai-tphcm-giao-vien-dong-tinh-888901.ldo) ([Lao Động](https://laodong.vn))
-- [Cuộc chiến mới giữa Cung điện và Meghan Markle liên quan đến lùm xùm bắt nạt nhân viên: "Kẻ tám lạng người nửa cân", không ai nhường ai](https://cafebiz.vn/cuoc-chien-moi-giua-cung-dien-va-meghan-markle-lien-quan-den-lum-xum-bat-nat-nhan-vien-ke-tam-lang-nguoi-nua-can-khong-ai-nhuong-ai-20210314105333118.chn) ([CafeBiz](https://cafebiz.vn))
-- [Liên tiếp những vụ nữ sinh bị đánh: Còn nhiều dạng bạo lực học đường khác](https://laodong.vn/ban-doc/lien-tiep-nhung-vu-nu-sinh-bi-danh-con-nhieu-dang-bao-luc-hoc-duong-khac-888949.ldo) ([Lao Động](https://laodong.vn))
-- [Bình Định “trải thảm” đón nhà đầu tư Hàn Quốc](https://laodong.vn/kinh-te/binh-dinh-trai-tham-don-nha-dau-tu-han-quoc-888943.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương xử phạt 5 trường hợp trốn cách ly y tế để đi làm](https://laodong.vn/phap-luat/hai-duong-xu-phat-5-truong-hop-tron-cach-ly-y-te-de-di-lam-888945.ldo) ([Lao Động](https://laodong.vn))
-- [Xóm ngụ cư bãi giữa sông Hồng làm đủ nghề để mưu sinh qua mùa dịch](https://laodong.vn/cong-doan/xom-ngu-cu-bai-giua-song-hong-lam-du-nghe-de-muu-sinh-qua-mua-dich-888938.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
