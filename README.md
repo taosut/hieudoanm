@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is overcast clouds.
-- Temperature is 26°C.
-- Feels Like 26.14°C.
-- Air Visual is 119.
+- Current weather is few clouds.
+- Temperature is 27°C.
+- Feels Like 26.81°C.
+- Air Visual is 137.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cung Tuấn có đi lại &quot;vết xe đổ&quot; một thời của Tiêu Chiến, Vương Nhất Bác?](https://laodong.vn/giai-tri/cung-tuan-co-di-lai-vet-xe-do-mot-thoi-cua-tieu-chien-vuong-nhat-bac-888953.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiều đoàn thể, thân nhân dâng hương tưởng niệm 64 liệt sĩ Gạc Ma](https://laodong.vn/xa-hoi/nhieu-doan-the-than-nhan-dang-huong-tuong-niem-64-liet-si-gac-ma-888936.ldo) ([Lao Động](https://laodong.vn))
+- [Thông xe cầu Cửa Hội](https://vnexpress.net/thong-xe-cau-cua-hoi-4248250.html) ([VNExpress](https://vnexpress.net))
+- [Lương của giáo viên các cấp thay đổi ra sao từ 20.3?](https://laodong.vn/giao-duc/luong-cua-giao-vien-cac-cap-thay-doi-ra-sao-tu-203-888964.ldo) ([Lao Động](https://laodong.vn))
+- [Những món đồ nên thay thường xuyên trong nhà bếp](https://laodong.vn/gia-dinh-hon-nhan/nhung-mon-do-nen-thay-thuong-xuyen-trong-nha-bep-888960.ldo) ([Lao Động](https://laodong.vn))
+- [Khai báo tạm trú, tạm vắng theo quy định mới: Những điều cần biết](https://laodong.vn/ban-doc/khai-bao-tam-tru-tam-vang-theo-quy-dinh-moi-nhung-dieu-can-biet-888922.ldo) ([Lao Động](https://laodong.vn))
+- [2 trọng tài VFF không vượt qua phần thi thể lực](https://laodong.vn/bong-da/2-trong-tai-vff-khong-vuot-qua-phan-thi-the-luc-888958.ldo) ([Lao Động](https://laodong.vn))
+- [Hé lộ thiết kế ô tô mới của Vinfast: SUV cỡ đại có 2 bản điện và xăng, hệ thống trợ lái thông minh, chạy quãng đường 500 km/lần sạc?](https://cafebiz.vn/he-lo-thiet-ke-o-to-moi-cua-vinfast-suv-co-dai-co-2-ban-dien-va-xang-he-thong-tro-lai-thong-minh-chay-quang-duong-500-km-lan-sac-20210314132157475.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thú chơi "xế hộp" của cầu thủ Việt](https://cafebiz.vn/thu-choi-xe-hop-cua-cau-thu-viet-2021031414363841.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thêm Grab muốn niêm yết tại Mỹ thông qua SPAC, vì đâu mô hình này đột nhiên thành kênh đầu tư thời thượng?](https://cafebiz.vn/them-grab-muon-niem-yet-tai-my-thong-qua-spac-vi-dau-mo-hinh-nay-dot-nhien-thanh-kenh-dau-tu-thoi-thuong-20210314132032678.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xong cách ly ở Hải Dương, vừa về quê thì nhận được kết quả dương tính](https://laodong.vn/xa-hoi/xong-cach-ly-o-hai-duong-vua-ve-que-thi-nhan-duoc-ket-qua-duong-tinh-888952.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Ông Võ Hoàng Yên mà chữa được bệnh câm, nước ta đã có giải Nobel Y học&quot;](https://laodong.vn/ban-doc/ong-vo-hoang-yen-ma-chua-duoc-benh-cam-nuoc-ta-da-co-giai-nobel-y-hoc-888931.ldo) ([Lao Động](https://laodong.vn))
 - [Nỗi buồn từ cơn sốt nhà giá 1 euro ở Italy](https://cafebiz.vn/noi-buon-tu-con-sot-nha-gia-1-euro-o-italy-20210314111039255.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tâm lý lo lắng sẽ “chậm chân" khiến giới đầu tư có quyết định vội vàng xuống tiền tại những nơi sốt đất](https://cafebiz.vn/tam-ly-lo-lang-se-cham-chan-khien-gioi-dau-tu-co-quyet-dinh-voi-vang-xuong-tien-tai-nhung-noi-sot-dat-20210314123930434.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bất cứ ai cũng đều là nghệ nhân hạnh phúc của chính mình: Càng đơn giản, vạn sự càng như ý](https://cafebiz.vn/bat-cu-ai-cung-deu-la-nghe-nhan-hanh-phuc-cua-chinh-minh-cang-don-gian-van-su-cang-nhu-y-20210309171303468.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lô đất &quot;vàng&quot; khiến nữ đại gia Dương Thị Bạch Diệp phải hầu tòa](https://laodong.vn/photo/lo-dat-vang-khien-nu-dai-gia-duong-thi-bach-diep-phai-hau-toa-888864.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyên gia thế giới dự báo giá vàng tuần tới trước thời điểm quan trọng](https://laodong.vn/the-gioi/chuyen-gia-the-gioi-du-bao-gia-vang-tuan-toi-truoc-thoi-diem-quan-trong-888923.ldo) ([Lao Động](https://laodong.vn))
-- [HLV Đức Thắng: Cầu thủ Hoàng Anh Gia Lai đang ở độ chín của sự nghiệp](https://laodong.vn/video/hlv-duc-thang-cau-thu-hoang-anh-gia-lai-dang-o-do-chin-cua-su-nghiep-888946.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -130,8 +130,8 @@
 
 **YOUTUBE TRENDS**
 
-01. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-02. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+02. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 03. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
 04. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
 05. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
@@ -139,7 +139,7 @@
 07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
 08. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
 09. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
-10. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
+10. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
 
 [Read More](https://www.youtube.com/feed/trending)
 
