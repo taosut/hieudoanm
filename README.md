@@ -22,7 +22,7 @@
 - Current weather is clear sky.
 - Temperature is 24°C.
 - Feels Like 24.77°C.
-- Air Visual is 115.
+- Air Visual is 117.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [20 tuổi sống như Tào Tháo, 40 tuổi học hỏi Tư Mã Ý và 60 tuổi theo gương Lưu Bị](https://cafebiz.vn/20-tuoi-song-nhu-tao-thao-40-tuoi-hoc-hoi-tu-ma-y-va-60-tuoi-theo-guong-luu-bi-20210314204154158.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuyến bay từ TP HCM đi Côn Đảo phải quay về vì máy bay có khói](https://cafebiz.vn/chuyen-bay-tu-tp-hcm-di-con-dao-phai-quay-ve-vi-may-bay-co-khoi-20210314184009884.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bầu Đức &quot;vẫn chưa sướng lắm” dù Hoàng Anh Gia Lai thắng](https://laodong.vn/bong-da/bau-duc-van-chua-suong-lam-du-hoang-anh-gia-lai-thang-889051.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Kiatisak mang lại nhiều nét mới, Hoàng Anh Gia Lai biết toan tính hơn&quot;](https://laodong.vn/bong-da/kiatisak-mang-lai-nhieu-net-moi-hoang-anh-gia-lai-biet-toan-tinh-hon-889050.ldo) ([Lao Động](https://laodong.vn))
 - [Lắp cửa van thép 200 tấn đầu tiên cho cống thủy lợi 'khủng' nhất miền Tây](https://tuoitre.vn/lap-cua-van-thep-200-tan-dau-tien-cho-cong-thuy-loi-khung-nhat-mien-tay-20210314193623449.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Kiatisak tiết lộ lý do hoán đổi cặp đôi Công Phượng – Văn Toàn](https://laodong.vn/bong-da/kiatisak-tiet-lo-ly-do-hoan-doi-cap-doi-cong-phuong--van-toan-889049.ldo) ([Lao Động](https://laodong.vn))
 - [Tín ngưỡng thờ Mẫu ở Nam Định: Trước và sau khi ghi danh tầm nhân loại](https://laodong.vn/lao-dong-cuoi-tuan/tin-nguong-tho-mau-o-nam-dinh-truoc-va-sau-khi-ghi-danh-tam-nhan-loai-887841.ldo) ([Lao Động](https://laodong.vn))
 - [Bảo tồn &quot;thần dược biển&quot; hải sâm](https://laodong.vn/lao-dong-cuoi-tuan/bao-ton-than-duoc-bien-hai-sam-887771.ldo) ([Lao Động](https://laodong.vn))
-- [Độc đáo Lễ Tết rừng của người Mông Nà Hẩu, Yên Bái](https://laodong.vn/xa-hoi/doc-dao-le-tet-rung-cua-nguoi-mong-na-hau-yen-bai-888526.ldo) ([Lao Động](https://laodong.vn))
-- [Kinh tế 24h: Người mua vàng lỗ nặng; Giá Bitcoin tăng sốc, phá mọi kỷ lục](https://laodong.vn/thi-truong/kinh-te-24h-nguoi-mua-vang-lo-nang-gia-bitcoin-tang-soc-pha-moi-ky-luc-889046.ldo) ([Lao Động](https://laodong.vn))
 - [Hệ thống cao tốc hứa hẹn thay đổi diện mạo Đồng bằng sông Cửu Long](https://cafebiz.vn/he-thong-cao-toc-hua-hen-thay-doi-dien-mao-dong-bang-song-cuu-long-20210314181012644.chn) ([CafeBiz](https://cafebiz.vn))
 - [Quảng Ngãi chặn ‘thần y’ Võ Hoàng Yên về chữa bệnh cho người dân](https://tuoitre.vn/quang-ngai-chan-than-y-vo-hoang-yen-ve-chua-benh-cho-nguoi-dan-20210314195208012.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Doanh nghiệp trồng cao su đón tin vui đầu năm: Xuất khẩu và giá bán cùng tăng mạnh](https://cafebiz.vn/doanh-nghiep-trong-cao-su-don-tin-vui-dau-nam-xuat-khau-va-gia-ban-cung-tang-manh-20210314174610113.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bầu Đức xuống sân chúc mừng chiến thắng của Hoàng Anh Gia Lai](https://laodong.vn/photo/bau-duc-xuong-san-chuc-mung-chien-thang-cua-hoang-anh-gia-lai-889019.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
