@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 24.89°C.
-- Air Visual is 107.
+- Feels Like 25.25°C.
+- Air Visual is 118.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Chỉ kinh doanh online trên các sàn thương mại điện tử, liệu có phải nước đi tốt để tăng trưởng doanh thu](https://cafebiz.vn/chi-kinh-doanh-online-tren-cac-san-thuong-mai-dien-tu-lieu-co-phai-nuoc-di-tot-de-tang-truong-doanh-thu-20210313134606105.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mê ly ngắm toà nhà kính xoắn ốc nơi làm việc của tỉ phú thế giới Jeff Bezos](https://laodong.vn/bat-dong-san/me-ly-ngam-toa-nha-kinh-xoan-oc-noi-lam-viec-cua-ti-phu-the-gioi-jeff-bezos-888831.ldo) ([Lao Động](https://laodong.vn))
-- [Thông tin mới nhất về số người được tiêm vaccine COVID-19 tại Việt Nam](https://laodong.vn/infographic/thong-tin-moi-nhat-ve-so-nguoi-duoc-tiem-vaccine-covid-19-tai-viet-nam-888814.ldo) ([Lao Động](https://laodong.vn))
-- [Vĩnh Phúc: Khởi tố 2 thanh niên 17 tuổi tông xe gãy chân, tay chiến sĩ CSGT](https://laodong.vn/phap-luat/vinh-phuc-khoi-to-2-thanh-nien-17-tuoi-tong-xe-gay-chan-tay-chien-si-csgt-888907.ldo) ([Lao Động](https://laodong.vn))
-- [Phong tỏa nhà nữ công nhân dương tính với nCoV](https://vnexpress.net/phong-toa-nha-nu-cong-nhan-duong-tinh-voi-ncov-4248207.html) ([VNExpress](https://vnexpress.net))
-- [Cần gần 200.000 tỷ đồng phát triển giao thông miền Tây trong 5 năm tới](https://cafebiz.vn/can-gan-200000-ty-dong-phat-trien-giao-thong-mien-tay-trong-5-nam-toi-20210314085701905.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bố già của Trấn Thành: Tiến sát 200 tỉ đồng và các kỉ lục nhờ chạm cảm xúc?](https://laodong.vn/van-hoa/bo-gia-cua-tran-thanh-tien-sat-200-ti-dong-va-cac-ki-luc-nho-cham-cam-xuc-888903.ldo) ([Lao Động](https://laodong.vn))
-- [Cao tốc ngàn tỉ nợ dân tiền giải tỏa đền bù, chính quyền mải miết đi đòi nợ](https://laodong.vn/ban-doc/cao-toc-ngan-ti-no-dan-tien-giai-toa-den-bu-chinh-quyen-mai-miet-di-doi-no-888859.ldo) ([Lao Động](https://laodong.vn))
-- [Mổ xẻ phong cách đầu tư trái ngược hoàn toàn của Warren Buffett và ‘thần tượng mới trên Phố Wall' Cathie Wood](https://cafebiz.vn/mo-xe-phong-cach-dau-tu-trai-nguoc-hoan-toan-cua-warren-buffett-va-than-tuong-moi-tren-pho-wall-cathie-wood-20210314085917197.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cù lao Bạch Đằng đẹp như tranh ở Bình Dương sẽ thành làng thông minh](https://laodong.vn/xa-hoi/cu-lao-bach-dang-dep-nhu-tranh-o-binh-duong-se-thanh-lang-thong-minh-888849.ldo) ([Lao Động](https://laodong.vn))
+- [Thanh niên Bắc Kạn trồng rau, trồng nấm...thu hàng trăm triệu đồng mỗi năm](https://cafebiz.vn/thanh-nien-bac-kan-trong-rau-trong-namthu-hang-tram-trieu-dong-moi-nam-20210314091907796.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người Sài Gòn chống tia cực tím ngày nắng nóng](https://vnexpress.net/nguoi-sai-gon-chong-tia-cuc-tim-ngay-nang-nong-4247704.html) ([VNExpress](https://vnexpress.net))
+- [Cuộc sống xa hoa của tiểu thư "phú nhị đại" Trung Quốc: Phô trương tài sản, thể hiện khí chất quý tộc, khắp người đều toát lên "mùi tiền"](https://cafebiz.vn/cuoc-song-xa-hoa-cua-tieu-thu-phu-nhi-dai-trung-quoc-pho-truong-tai-san-the-hien-khi-chat-quy-toc-khap-nguoi-deu-toat-len-mui-tien-20210314091723319.chn) ([CafeBiz](https://cafebiz.vn))
+- [BR-VT: LĐLĐ huyện Đức Linh phát động “Ký kết giao ước thi đua năm 2021”](https://laodong.vn/cong-doan-toan-quoc/br-vt-ldld-huyen-duc-linh-phat-dong-ky-ket-giao-uoc-thi-dua-nam-2021-888913.ldo) ([Lao Động](https://laodong.vn))
+- [Bà Rịa Vũng Tàu: Tư vấn nghề cho 600 học viên đang điều trị tại cơ sở](https://laodong.vn/cong-doan-toan-quoc/ba-ria-vung-tau-tu-van-nghe-cho-600-hoc-vien-dang-dieu-tri-tai-co-so-888912.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng Nguyễn Xuân Phúc dự lễ thông xe cầu Cửa Hội bắc qua sông Lam](https://laodong.vn/thoi-su/thu-tuong-nguyen-xuan-phuc-du-le-thong-xe-cau-cua-hoi-bac-qua-song-lam-888876.ldo) ([Lao Động](https://laodong.vn))
+- [Giáo viên hạng II không được chủ trì sinh hoạt chuyên môn của trường?](https://laodong.vn/ban-doc/giao-vien-hang-ii-khong-duoc-chu-tri-sinh-hoat-chuyen-mon-cua-truong-888909.ldo) ([Lao Động](https://laodong.vn))
+- [2 lãnh đạo Ban Tuyên giáo Trung ương được giới thiệu ứng cử ĐBQH khoá XV](https://laodong.vn/thoi-su/2-lanh-dao-ban-tuyen-giao-trung-uong-duoc-gioi-thieu-ung-cu-dbqh-khoa-xv-888902.ldo) ([Lao Động](https://laodong.vn))
+- [Cơn sốt đất nền vùng ven TP. Vinh và những chiêu trò thổi giá](https://cafebiz.vn/con-sot-dat-nen-vung-ven-tp-vinh-va-nhung-chieu-tro-thoi-gia-20210314091425641.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tổng hợp cam kết đi vào ‘lòng đất’ của dân bán xe: Tai nạn biến dạng vẫn khoe 'không đâm đụng, bao check hãng'](https://cafebiz.vn/tong-hop-cam-ket-di-vao-long-dat-cua-dan-ban-xe-tai-nan-bien-dang-van-khoe-khong-dam-dung-bao-check-hang-20210314090100478.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
