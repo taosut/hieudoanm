@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 25.78°C.
-- Air Visual is 113.
+- Temperature is 25°C.
+- Feels Like 25.19°C.
+- Air Visual is 100.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tình người thời COVID-19 ở Hải Dương](https://laodong.vn/lao-dong-cuoi-tuan/tinh-nguoi-thoi-covid-19-o-hai-duong-887768.ldo) ([Lao Động](https://laodong.vn))
+- [Rộ tin Tổng thống bảo dân cầu Chúa để chữa Covid-19 đang thở máy trong viện VIP vì mắc Covid-19](https://cafebiz.vn/ro-tin-tong-thong-bao-dan-cau-chua-de-chua-covid-19-dang-tho-may-trong-vien-vip-vi-mac-covid-19-20210314105245125.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hoài Linh, Việt Hương, Trấn Thành và sao Việt gây sốt phòng vé phim Việt](https://laodong.vn/photo/hoai-linh-viet-huong-tran-thanh-va-sao-viet-gay-sot-phong-ve-phim-viet-888933.ldo) ([Lao Động](https://laodong.vn))
+- [Những loại mùi hương giúp tăng khả năng tập trung](https://laodong.vn/suc-khoe/nhung-loai-mui-huong-giup-tang-kha-nang-tap-trung-887993.ldo) ([Lao Động](https://laodong.vn))
+- [Điện Biên: Sập tường công trường đang thi công, một người tử vong](https://laodong.vn/xa-hoi/dien-bien-sap-tuong-cong-truong-dang-thi-cong-mot-nguoi-tu-vong-888941.ldo) ([Lao Động](https://laodong.vn))
+- [Các trường hợp đi khám chữa bệnh được BHYT thanh toán với mức tối đa](https://laodong.vn/y-te/cac-truong-hop-di-kham-chua-benh-duoc-bhyt-thanh-toan-voi-muc-toi-da-888927.ldo) ([Lao Động](https://laodong.vn))
+- [7 năm MH370 mất tích và những thảm họa hàng không khủng khiếp](https://laodong.vn/lao-dong-cuoi-tuan/7-nam-mh370-mat-tich-va-nhung-tham-hoa-hang-khong-khung-khiep-888083.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút: Khắp nước Mỹ mưa bão kéo theo lốc xoáy nguy hiểm](https://laodong.vn/video/ban-tin-1-phut-khap-nuoc-my-mua-bao-keo-theo-loc-xoay-nguy-hiem-888916.ldo) ([Lao Động](https://laodong.vn))
 - [Tiết lộ 7 sự thật trong lịch sử về Hoàng gia Anh](https://cafebiz.vn/tiet-lo-7-su-that-trong-lich-su-ve-hoang-gia-anh-20210314092008361.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hỗn loạn trong hoạt động phân phối vaccine COVID-19 toàn cầu](https://laodong.vn/lao-dong-cuoi-tuan/hon-loan-trong-hoat-dong-phan-phoi-vaccine-covid-19-toan-cau-888053.ldo) ([Lao Động](https://laodong.vn))
 - [Vừa hết cách ly về nhà sau 8 lần âm tính, nữ công nhân lại bị đón đi vì dương tính COVID-19](https://tuoitre.vn/vua-het-cach-ly-ve-nha-sau-8-lan-am-tinh-nu-cong-nhan-lai-bi-don-di-vi-duong-tinh-covid-19-20210314120422555.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thanh xuân của Công Phượng, Tuấn Anh và lời nhắn gửi của Đức Thắng](https://laodong.vn/bong-da/thanh-xuan-cua-cong-phuong-tuan-anh-va-loi-nhan-gui-cua-duc-thang-888924.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Bố già&quot; của Trấn Thành và những &quot;hạt sạn&quot; đáng tiếc](https://laodong.vn/giai-tri/bo-gia-cua-tran-thanh-va-nhung-hat-san-dang-tiec-888918.ldo) ([Lao Động](https://laodong.vn))
-- [Nhận định Arsenal - Tottenham: Quyết giành vé Cúp Châu Âu](https://laodong.vn/bong-da-quoc-te/nhan-dinh-arsenal-tottenham-quyet-gianh-ve-cup-chau-au-888895.ldo) ([Lao Động](https://laodong.vn))
-- [PGS.TS Phạm Cẩm Phương: Một số thói quen, cách ăn uống của người Việt làm tăng nguy cơ "kích hoạt" gen ung thư](https://cafebiz.vn/pgsts-pham-cam-phuong-mot-so-thoi-quen-cach-an-uong-cua-nguoi-viet-lam-tang-nguy-co-kich-hoat-gen-ung-thu-20210314105644018.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khám phá khu vườn rộng 500m2 nhiều cây trái Việt ở Mỹ của danh ca Hương Lan](https://laodong.vn/bat-dong-san/kham-pha-khu-vuon-rong-500m2-nhieu-cay-trai-viet-o-my-cua-danh-ca-huong-lan-888917.ldo) ([Lao Động](https://laodong.vn))
-- [Thanh niên Bắc Kạn trồng rau, trồng nấm...thu hàng trăm triệu đồng mỗi năm](https://cafebiz.vn/thanh-nien-bac-kan-trong-rau-trong-namthu-hang-tram-trieu-dong-moi-nam-20210314091907796.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Self-concept: Lời giải cho câu hỏi "Tôi là ai" theo tâm lý học](https://vietcetera.com/vn/self-concept-loi-giai-cho-cau-hoi-toi-la-ai-theo-tam-ly-hoc)
 - [5 Phim kinh dị đáng sợ hơn ngày thứ Hai](https://vietcetera.com/vn/5-phim-kinh-di-dang-so-hon-ngay-thu-hai)
 - [Thuận Nguyễn: “Hãnh diện là một fashionisto U70 hiếm hoi trên thế giới!” ](https://vietcetera.com/vn/thuan-nguyen-hanh-dien-la-mot-fashionisto-u70-hiem-hoi-tren-the-gioi)
 - [Sự lây lan của "dịch bệnh" tự tử](https://vietcetera.com/vn/su-lay-lan-cua-dich-benh-tu-tu)
@@ -105,7 +106,6 @@
 - [Chữ Với Nghĩa: Phanh xích lô là gì mà không thắng?](https://vietcetera.com/vn/chu-voi-nghia-phanh-xich-lo)
 - [Bóc Term: Sharent là gì? "Khoe con" bao nhiêu là đủ?](https://vietcetera.com/vn/boc-term-sharent-la-gi-khoe-con-bao-nhieu-la-du)
 - [Đã đến lúc cho những trải nghiệm mới tại Singapore](https://vietcetera.com/vn/da-den-luc-cho-nhung-cau-chuyen-trai-nghiem-moi-tai-singapore)
-- [4 Game giải đố vừa "hack não" vừa mãn nhãn](https://vietcetera.com/vn/4-game-giai-do-vua-hack-nao-vua-man-nhan)
 
 [Read More](https://vietcetera.com/)
 
