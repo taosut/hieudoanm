@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 25.19°C.
-- Air Visual is 100.
+- Feels Like 25.92°C.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Rộ tin Tổng thống bảo dân cầu Chúa để chữa Covid-19 đang thở máy trong viện VIP vì mắc Covid-19](https://cafebiz.vn/ro-tin-tong-thong-bao-dan-cau-chua-de-chua-covid-19-dang-tho-may-trong-vien-vip-vi-mac-covid-19-20210314105245125.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hoài Linh, Việt Hương, Trấn Thành và sao Việt gây sốt phòng vé phim Việt](https://laodong.vn/photo/hoai-linh-viet-huong-tran-thanh-va-sao-viet-gay-sot-phong-ve-phim-viet-888933.ldo) ([Lao Động](https://laodong.vn))
-- [Những loại mùi hương giúp tăng khả năng tập trung](https://laodong.vn/suc-khoe/nhung-loai-mui-huong-giup-tang-kha-nang-tap-trung-887993.ldo) ([Lao Động](https://laodong.vn))
-- [Điện Biên: Sập tường công trường đang thi công, một người tử vong](https://laodong.vn/xa-hoi/dien-bien-sap-tuong-cong-truong-dang-thi-cong-mot-nguoi-tu-vong-888941.ldo) ([Lao Động](https://laodong.vn))
-- [Các trường hợp đi khám chữa bệnh được BHYT thanh toán với mức tối đa](https://laodong.vn/y-te/cac-truong-hop-di-kham-chua-benh-duoc-bhyt-thanh-toan-voi-muc-toi-da-888927.ldo) ([Lao Động](https://laodong.vn))
-- [7 năm MH370 mất tích và những thảm họa hàng không khủng khiếp](https://laodong.vn/lao-dong-cuoi-tuan/7-nam-mh370-mat-tich-va-nhung-tham-hoa-hang-khong-khung-khiep-888083.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút: Khắp nước Mỹ mưa bão kéo theo lốc xoáy nguy hiểm](https://laodong.vn/video/ban-tin-1-phut-khap-nuoc-my-mua-bao-keo-theo-loc-xoay-nguy-hiem-888916.ldo) ([Lao Động](https://laodong.vn))
-- [Tiết lộ 7 sự thật trong lịch sử về Hoàng gia Anh](https://cafebiz.vn/tiet-lo-7-su-that-trong-lich-su-ve-hoang-gia-anh-20210314092008361.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hỗn loạn trong hoạt động phân phối vaccine COVID-19 toàn cầu](https://laodong.vn/lao-dong-cuoi-tuan/hon-loan-trong-hoat-dong-phan-phoi-vaccine-covid-19-toan-cau-888053.ldo) ([Lao Động](https://laodong.vn))
-- [Vừa hết cách ly về nhà sau 8 lần âm tính, nữ công nhân lại bị đón đi vì dương tính COVID-19](https://tuoitre.vn/vua-het-cach-ly-ve-nha-sau-8-lan-am-tinh-nu-cong-nhan-lai-bi-don-di-vi-duong-tinh-covid-19-20210314120422555.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [ACV sẽ khởi công nhà ga T3 Tân Sơn Nhất trong tháng 10/2021](https://cafebiz.vn/acv-se-khoi-cong-nha-ga-t3-tan-son-nhat-trong-thang-10-2021-20210314123229844.chn) ([CafeBiz](https://cafebiz.vn))
+- ["Con thích một chiếc ipad hơn một con chó" - câu nói của một đứa trẻ thế hệ Alpha khiến nhiều cha mẹ phải giật mình](https://cafebiz.vn/con-thich-mot-chiec-ipad-hon-mot-con-cho-cau-noi-cua-mot-dua-tre-the-he-alpha-khien-nhieu-cha-me-phai-giat-minh-20210314105508913.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phụ nữ thông minh, nửa đời sau sống không phải dựa vào đàn ông, mà dựa vào ba thứ này](https://cafebiz.vn/phu-nu-thong-minh-nua-doi-sau-song-khong-phai-dua-vao-dan-ong-ma-dua-vao-ba-thu-nay-20210314065042372.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tướng cắt băng thông xe cầu Cửa Hội nối Nghệ An - Hà Tĩnh](https://tuoitre.vn/thu-tuong-cat-bang-thong-xe-cau-cua-hoi-noi-hai-tinh-nghe-an-ha-tinh-20210314121238796.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thay đổi hệ số các môn thi vào lớp 10 tại TPHCM: Giáo viên đồng tình](https://laodong.vn/giao-duc/thay-doi-he-so-cac-mon-thi-vao-lop-10-tai-tphcm-giao-vien-dong-tinh-888901.ldo) ([Lao Động](https://laodong.vn))
+- [Cuộc chiến mới giữa Cung điện và Meghan Markle liên quan đến lùm xùm bắt nạt nhân viên: "Kẻ tám lạng người nửa cân", không ai nhường ai](https://cafebiz.vn/cuoc-chien-moi-giua-cung-dien-va-meghan-markle-lien-quan-den-lum-xum-bat-nat-nhan-vien-ke-tam-lang-nguoi-nua-can-khong-ai-nhuong-ai-20210314105333118.chn) ([CafeBiz](https://cafebiz.vn))
+- [Liên tiếp những vụ nữ sinh bị đánh: Còn nhiều dạng bạo lực học đường khác](https://laodong.vn/ban-doc/lien-tiep-nhung-vu-nu-sinh-bi-danh-con-nhieu-dang-bao-luc-hoc-duong-khac-888949.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Định “trải thảm” đón nhà đầu tư Hàn Quốc](https://laodong.vn/kinh-te/binh-dinh-trai-tham-don-nha-dau-tu-han-quoc-888943.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương xử phạt 5 trường hợp trốn cách ly y tế để đi làm](https://laodong.vn/phap-luat/hai-duong-xu-phat-5-truong-hop-tron-cach-ly-y-te-de-di-lam-888945.ldo) ([Lao Động](https://laodong.vn))
+- [Xóm ngụ cư bãi giữa sông Hồng làm đủ nghề để mưu sinh qua mùa dịch](https://laodong.vn/cong-doan/xom-ngu-cu-bai-giua-song-hong-lam-du-nghe-de-muu-sinh-qua-mua-dich-888938.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
