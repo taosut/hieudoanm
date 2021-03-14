@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chỉ kinh doanh online trên các sàn thương mại điện tử, liệu có phải nước đi tốt để tăng trưởng doanh thu](https://cafebiz.vn/chi-kinh-doanh-online-tren-cac-san-thuong-mai-dien-tu-lieu-co-phai-nuoc-di-tot-de-tang-truong-doanh-thu-20210313134606105.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mê ly ngắm toà nhà kính xoắn ốc nơi làm việc của tỉ phú thế giới Jeff Bezos](https://laodong.vn/bat-dong-san/me-ly-ngam-toa-nha-kinh-xoan-oc-noi-lam-viec-cua-ti-phu-the-gioi-jeff-bezos-888831.ldo) ([Lao Động](https://laodong.vn))
+- [Thông tin mới nhất về số người được tiêm vaccine COVID-19 tại Việt Nam](https://laodong.vn/infographic/thong-tin-moi-nhat-ve-so-nguoi-duoc-tiem-vaccine-covid-19-tai-viet-nam-888814.ldo) ([Lao Động](https://laodong.vn))
+- [Vĩnh Phúc: Khởi tố 2 thanh niên 17 tuổi tông xe gãy chân, tay chiến sĩ CSGT](https://laodong.vn/phap-luat/vinh-phuc-khoi-to-2-thanh-nien-17-tuoi-tong-xe-gay-chan-tay-chien-si-csgt-888907.ldo) ([Lao Động](https://laodong.vn))
+- [Phong tỏa nhà nữ công nhân dương tính với nCoV](https://vnexpress.net/phong-toa-nha-nu-cong-nhan-duong-tinh-voi-ncov-4248207.html) ([VNExpress](https://vnexpress.net))
+- [Cần gần 200.000 tỷ đồng phát triển giao thông miền Tây trong 5 năm tới](https://cafebiz.vn/can-gan-200000-ty-dong-phat-trien-giao-thong-mien-tay-trong-5-nam-toi-20210314085701905.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bố già của Trấn Thành: Tiến sát 200 tỉ đồng và các kỉ lục nhờ chạm cảm xúc?](https://laodong.vn/van-hoa/bo-gia-cua-tran-thanh-tien-sat-200-ti-dong-va-cac-ki-luc-nho-cham-cam-xuc-888903.ldo) ([Lao Động](https://laodong.vn))
+- [Cao tốc ngàn tỉ nợ dân tiền giải tỏa đền bù, chính quyền mải miết đi đòi nợ](https://laodong.vn/ban-doc/cao-toc-ngan-ti-no-dan-tien-giai-toa-den-bu-chinh-quyen-mai-miet-di-doi-no-888859.ldo) ([Lao Động](https://laodong.vn))
 - [Mổ xẻ phong cách đầu tư trái ngược hoàn toàn của Warren Buffett và ‘thần tượng mới trên Phố Wall' Cathie Wood](https://cafebiz.vn/mo-xe-phong-cach-dau-tu-trai-nguoc-hoan-toan-cua-warren-buffett-va-than-tuong-moi-tren-pho-wall-cathie-wood-20210314085917197.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ăn gì tốt cho người huyết áp thấp?](https://laodong.vn/suc-khoe/an-gi-tot-cho-nguoi-huyet-ap-thap-888714.ldo) ([Lao Động](https://laodong.vn))
 - [Cù lao Bạch Đằng đẹp như tranh ở Bình Dương sẽ thành làng thông minh](https://laodong.vn/xa-hoi/cu-lao-bach-dang-dep-nhu-tranh-o-binh-duong-se-thanh-lang-thong-minh-888849.ldo) ([Lao Động](https://laodong.vn))
-- [Đầu tư lướt 'sóng' - Người khó mua đất, kẻ gánh nợ](https://cafebiz.vn/dau-tu-luot-song-nguoi-kho-mua-dat-ke-ganh-no-20210314090745738.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xe ô tô chưa có biển số muốn lưu thông thì phải làm gì?](https://laodong.vn/xe/xe-o-to-chua-co-bien-so-muon-luu-thong-thi-phai-lam-gi-888794.ldo) ([Lao Động](https://laodong.vn))
-- [Nam thanh niên tử vong sau cú va chạm với xe đầu kéo trên Quốc lộ 6](https://laodong.vn/xa-hoi/nam-thanh-nien-tu-vong-sau-cu-va-cham-voi-xe-dau-keo-tren-quoc-lo-6-888904.ldo) ([Lao Động](https://laodong.vn))
-- [Đại gia Dũng lò vôi kể về những tình tiết "ngờ vực" ông Võ Hoàng Yên](https://cafebiz.vn/dai-gia-dung-lo-voi-ke-ve-nhung-tinh-tiet-ngo-vuc-ong-vo-hoang-yen-20210314085305852.chn) ([CafeBiz](https://cafebiz.vn))
-- [Anh hùng thầm lặng của nước Mỹ trong đại dịch COVID-19 là một nhà khoa học dữ liệu mới 26 tuổi](https://cafebiz.vn/anh-hung-tham-lang-cua-nuoc-my-trong-dai-dich-covid-19-la-mot-nha-khoa-hoc-du-lieu-moi-26-tuoi-20210314080653591.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đến Công Phượng cũng phải đi mua vé xem trận Hoàng Anh Gia Lai - Bình Định](https://laodong.vn/photo/den-cong-phuong-cung-phai-di-mua-ve-xem-tran-hoang-anh-gia-lai-binh-dinh-888882.ldo) ([Lao Động](https://laodong.vn))
-- [Nghiên cứu chứng minh: Nhà được dọn càng sạch sẽ, chủ nhân càng dễ giàu có, thành công](https://cafebiz.vn/nghien-cuu-chung-minh-nha-duoc-don-cang-sach-se-chu-nhan-cang-de-giau-co-thanh-cong-20210313210838917.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
