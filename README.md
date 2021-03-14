@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 25.86°C.
-- Air Visual is 107.
+- Current weather is clear sky.
+- Temperature is 25°C.
+- Feels Like 25.31°C.
+- Air Visual is 119.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- ['Biển người' chen chân đi lễ chùa Tam Chúc ngày cuối tuần](https://cafebiz.vn/bien-nguoi-chen-chan-di-le-chua-tam-chuc-ngay-cuoi-tuan-20210314174401499.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhà đầu tư lại mơ giá dầu sắp lên 100 USD/thùng](https://cafebiz.vn/nha-dau-tu-lai-mo-gia-dau-sap-len-100-usd-thung-20210314173159769.chn) ([CafeBiz](https://cafebiz.vn))
+- [Báo Mỹ gọi máy bay Su-27 của Nga là &quot;cơn ác mộng tồi tệ nhất của NATO&quot;](https://laodong.vn/the-gioi/bao-my-goi-may-bay-su-27-cua-nga-la-con-ac-mong-toi-te-nhat-cua-nato-889008.ldo) ([Lao Động](https://laodong.vn))
+- [Văn Toàn xuất sắc, Hoàng Anh Gia Lai toát mồ hôi lấy 3 điểm trước Bình Định](https://laodong.vn/bong-da/van-toan-xuat-sac-hoang-anh-gia-lai-toat-mo-hoi-lay-3-diem-truoc-binh-dinh-889006.ldo) ([Lao Động](https://laodong.vn))
+- [Tổ chức giải báo chí về xây dựng Đảng, xây dựng người Hà Nội thanh lịch](https://laodong.vn/thoi-su/to-chuc-giai-bao-chi-ve-xay-dung-dang-xay-dung-nguoi-ha-noi-thanh-lich-889031.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ đội Biên phòng nổ súng bắt tàu chở dầu ‘lậu’](https://vnexpress.net/bo-doi-bien-phong-no-sung-bat-tau-cho-dau-lau-4248326.html) ([VNExpress](https://vnexpress.net))
+- [Hơn chục ngân hàng thay đổi biểu lãi suất, gửi tiết kiệm ngân hàng nào lúc này để có lãi cao nhất?](https://cafebiz.vn/hon-chuc-ngan-hang-thay-doi-bieu-lai-suat-gui-tiet-kiem-ngan-hang-nao-luc-nay-de-co-lai-cao-nhat-20210314172425076.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cần Thơ dự tính chi gần 30 tỉ đồng diệt chuột](https://cafebiz.vn/can-tho-du-tinh-chi-gan-30-ti-dong-diet-chuot-20210314132426698.chn) ([CafeBiz](https://cafebiz.vn))
-- [Một đơn vị tặng 15 tấn nông sản Hải Dương cho người dân Nam Định](https://laodong.vn/xa-hoi/mot-don-vi-tang-15-tan-nong-san-hai-duong-cho-nguoi-dan-nam-dinh-889040.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều 14-3: Thêm 1 ca mắc COVID-19 mới nhập cảnh TP.HCM, cứu sống 2 bệnh nhân nặng nhất](https://tuoitre.vn/chieu-14-3-them-1-ca-mac-covid-19-moi-nhap-canh-tp-hcm-cuu-song-2-benh-nhan-nang-nhat-20210314181621064.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chiều 14/3, TP Hồ Chí Minh có 1 ca mắc COVID-19 là chuyên gia nhập cảnh](https://cafebiz.vn/chieu-14-3-tp-ho-chi-minh-co-1-ca-mac-covid-19-la-chuyen-gia-nhap-canh-20210314181137724.chn) ([CafeBiz](https://cafebiz.vn))
-- [&quot;Bố già&quot; của Trấn Thành lập kỷ lục doanh thu 200 tỷ](https://laodong.vn/van-hoa-giai-tri/bo-gia-cua-tran-thanh-lap-ky-luc-doanh-thu-200-ty-889023.ldo) ([Lao Động](https://laodong.vn))
-- [Doanh thu phim Bố Già vượt 200 tỷ đồng, chính thức trở thành phim Việt ăn khách nhất từ trước đến nay](https://cafebiz.vn/doanh-thu-phim-bo-gia-vuot-200-ty-dong-chinh-thuc-tro-thanh-phim-viet-an-khach-nhat-tu-truoc-den-nay-20210314180703928.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Dương: Bắt tên trộm có 5 tiền án, tiền sự tội trộm cắp](https://laodong.vn/phap-luat/hai-duong-bat-ten-trom-co-5-tien-an-tien-su-toi-trom-cap-888993.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều 14.3, ghi nhận 1 ca mắc mới COVID-19 nhập cảnh](https://laodong.vn/y-te/chieu-143-ghi-nhan-1-ca-mac-moi-covid-19-nhap-canh-888259.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ đội Biên phòng nổ súng truy bắt tàu chở 3.000 lít dầu lậu trên biển](https://laodong.vn/phap-luat/bo-doi-bien-phong-no-sung-truy-bat-tau-cho-3000-lit-dau-lau-tren-bien-888988.ldo) ([Lao Động](https://laodong.vn))
-- [Thanh tra vào cuộc vụ biệt thự đồ sộ xây không phép ở Lâm Đồng](https://cafebiz.vn/thanh-tra-vao-cuoc-vu-biet-thu-do-so-xay-khong-phep-o-lam-dong-20210314105109089.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thi Lịch sử vào lớp 10: Người lo lắng, người vui mừng](https://laodong.vn/giao-duc/thi-lich-su-vao-lop-10-nguoi-lo-lang-nguoi-vui-mung-888979.ldo) ([Lao Động](https://laodong.vn))
+- [Nhà nước hỗ trợ gì khi thu hồi đất nhưng không đủ điều kiện bồi thường](https://laodong.vn/bat-dong-san/nha-nuoc-ho-tro-gi-khi-thu-hoi-dat-nhung-khong-du-dieu-kien-boi-thuong-889005.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [3 bài học tình yêu đến từ bữa cơm nhà](https://vietcetera.com/vn/3-bai-hoc-ve-tinh-thuong-tu-bua-com-nha)
 - [Cơ chế nào giúp ta thức dậy trước báo thức?](https://vietcetera.com/vn/co-che-nao-giup-ta-thuc-day-truoc-bao-thuc)
 - [Self-concept: Lời giải cho câu hỏi "Tôi là ai" theo tâm lý học](https://vietcetera.com/vn/self-concept-loi-giai-cho-cau-hoi-toi-la-ai-theo-tam-ly-hoc)
 - [5 Phim kinh dị đáng sợ hơn ngày thứ Hai](https://vietcetera.com/vn/5-phim-kinh-di-dang-so-hon-ngay-thu-hai)
@@ -105,7 +106,6 @@
 - [6 Tiệm cà phê để bạn khám phá Đà Lạt](https://vietcetera.com/vn/6-tiem-ca-phe-da-lat-de-ban-kham-pha)
 - [Mối quan hệ lành mạnh: Sự dung hòa giữa giá trị cá nhân và xúc cảm](https://vietcetera.com/vn/moi-quan-he-lanh-manh-su-dung-hoa-giua-gia-tri-ca-nhan-va-xuc-cam)
 - [Chữ Với Nghĩa: Phanh xích lô là gì mà không thắng?](https://vietcetera.com/vn/chu-voi-nghia-phanh-xich-lo)
-- [Bóc Term: Sharent là gì? "Khoe con" bao nhiêu là đủ?](https://vietcetera.com/vn/boc-term-sharent-la-gi-khoe-con-bao-nhieu-la-du)
 
 [Read More](https://vietcetera.com/)
 
@@ -115,8 +115,8 @@
 
 01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 02. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
-03. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-04. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+03. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+04. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 05. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 06. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
 07. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
