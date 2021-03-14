@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is broken clouds.
 - Temperature is 27°C.
-- Feels Like 27.17°C.
-- Air Visual is 116.
+- Feels Like 26.45°C.
+- Air Visual is 110.
 
 **WEATHER**
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Có giá lên tới gần 60 triệu đồng cho 4 ngày 3 đêm, tour Sơn Đoòng trong năm 2021 đã kín chỗ](https://cafebiz.vn/co-gia-len-toi-gan-60-trieu-dong-cho-4-ngay-3-dem-tour-son-doong-trong-nam-2021-da-kin-cho-20210314113351228.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tuần mới, con giáp nào được thần tài chấm số đỏ, làm gì cũng hái ra tiền?](https://cafebiz.vn/tuan-moi-con-giap-nao-duoc-than-tai-cham-so-do-lam-gi-cung-hai-ra-tien-20210313114714213.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắt cá bằng miệng, nam thanh niên suýt chết](https://laodong.vn/suc-khoe/bat-ca-bang-mieng-nam-thanh-nien-suyt-chet-888959.ldo) ([Lao Động](https://laodong.vn))
 - [Hoàng đế Trung Hoa duy nhất trong lịch sử bị sét đánh chết là ai?](https://cafebiz.vn/hoang-de-trung-hoa-duy-nhat-trong-lich-su-bi-set-danh-chet-la-ai-20210314145638719.chn) ([CafeBiz](https://cafebiz.vn))
@@ -84,7 +85,6 @@
 - [Đề nghị khẩn trương xử lý tang vật là 412 lóng, khúc gỗ thông 3 lá](https://laodong.vn/xa-hoi/de-nghi-khan-truong-xu-ly-tang-vat-la-412-long-khuc-go-thong-3-la-888969.ldo) ([Lao Động](https://laodong.vn))
 - [Xem trực tiếp Viettel vs Bình Dương tại V.League 2021 ở kênh nào?](https://laodong.vn/bong-da/xem-truc-tiep-viettel-vs-binh-duong-tai-vleague-2021-o-kenh-nao-888962.ldo) ([Lao Động](https://laodong.vn))
 - [Giả thuyết mới &quot;bật mí&quot; bí ẩn xây kim tự tháp Ai Cập](https://laodong.vn/the-gioi/gia-thuyet-moi-bat-mi-bi-an-xay-kim-tu-thap-ai-cap-888965.ldo) ([Lao Động](https://laodong.vn))
-- [Sinh ra nghèo khó nhưng mãi chưa giàu là do bạn kém cỏi, còn tỷ phú này khẳng định, sản nghiệp của ông từ túp lều tranh mà ra](https://cafebiz.vn/sinh-ra-ngheo-kho-nhung-mai-chua-giau-la-do-ban-kem-coi-con-ty-phu-nay-khang-dinh-san-nghiep-cua-ong-tu-tup-leu-tranh-ma-ra-20210314143446032.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -138,8 +138,8 @@
 06. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
 08. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
-09. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
-10. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
+09. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
+10. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 
 [Read More](https://www.youtube.com/feed/trending)
 
