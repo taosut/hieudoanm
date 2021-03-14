@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 25.25°C.
-- Air Visual is 112.
+- Temperature is 26°C.
+- Feels Like 25.78°C.
+- Air Visual is 113.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tình người thời COVID-19 ở Hải Dương](https://laodong.vn/lao-dong-cuoi-tuan/tinh-nguoi-thoi-covid-19-o-hai-duong-887768.ldo) ([Lao Động](https://laodong.vn))
+- [Tiết lộ 7 sự thật trong lịch sử về Hoàng gia Anh](https://cafebiz.vn/tiet-lo-7-su-that-trong-lich-su-ve-hoang-gia-anh-20210314092008361.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hỗn loạn trong hoạt động phân phối vaccine COVID-19 toàn cầu](https://laodong.vn/lao-dong-cuoi-tuan/hon-loan-trong-hoat-dong-phan-phoi-vaccine-covid-19-toan-cau-888053.ldo) ([Lao Động](https://laodong.vn))
+- [Vừa hết cách ly về nhà sau 8 lần âm tính, nữ công nhân lại bị đón đi vì dương tính COVID-19](https://tuoitre.vn/vua-het-cach-ly-ve-nha-sau-8-lan-am-tinh-nu-cong-nhan-lai-bi-don-di-vi-duong-tinh-covid-19-20210314120422555.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thanh xuân của Công Phượng, Tuấn Anh và lời nhắn gửi của Đức Thắng](https://laodong.vn/bong-da/thanh-xuan-cua-cong-phuong-tuan-anh-va-loi-nhan-gui-cua-duc-thang-888924.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Bố già&quot; của Trấn Thành và những &quot;hạt sạn&quot; đáng tiếc](https://laodong.vn/giai-tri/bo-gia-cua-tran-thanh-va-nhung-hat-san-dang-tiec-888918.ldo) ([Lao Động](https://laodong.vn))
+- [Nhận định Arsenal - Tottenham: Quyết giành vé Cúp Châu Âu](https://laodong.vn/bong-da-quoc-te/nhan-dinh-arsenal-tottenham-quyet-gianh-ve-cup-chau-au-888895.ldo) ([Lao Động](https://laodong.vn))
+- [PGS.TS Phạm Cẩm Phương: Một số thói quen, cách ăn uống của người Việt làm tăng nguy cơ "kích hoạt" gen ung thư](https://cafebiz.vn/pgsts-pham-cam-phuong-mot-so-thoi-quen-cach-an-uong-cua-nguoi-viet-lam-tang-nguy-co-kich-hoat-gen-ung-thu-20210314105644018.chn) ([CafeBiz](https://cafebiz.vn))
 - [Khám phá khu vườn rộng 500m2 nhiều cây trái Việt ở Mỹ của danh ca Hương Lan](https://laodong.vn/bat-dong-san/kham-pha-khu-vuon-rong-500m2-nhieu-cay-trai-viet-o-my-cua-danh-ca-huong-lan-888917.ldo) ([Lao Động](https://laodong.vn))
-- [Trường hợp nào không phải mang giấy tờ gì khi làm căn cước công dân?](https://laodong.vn/phap-luat/truong-hop-nao-khong-phai-mang-giay-to-gi-khi-lam-can-cuoc-cong-dan-888925.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ bé 3 tuổi ở Quảng Trị tử vong tại bệnh viện: Sở Y tế vào cuộc tìm hiểu](https://laodong.vn/ban-doc/vu-be-3-tuoi-o-quang-tri-tu-vong-tai-benh-vien-so-y-te-vao-cuoc-tim-hieu-888919.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang: Xử lý nhóm học sinh chạy xe tốc độ cao, lạng lách, đánh võng](https://laodong.vn/phap-luat/bac-giang-xu-ly-nhom-hoc-sinh-chay-xe-toc-do-cao-lang-lach-danh-vong-888887.ldo) ([Lao Động](https://laodong.vn))
-- [Mẹo nhỏ giúp dân văn phòng giảm cân nhanh chóng tại nơi làm việc](https://laodong.vn/lam-dep/meo-nho-giup-dan-van-phong-giam-can-nhanh-chong-tai-noi-lam-viec-888866.ldo) ([Lao Động](https://laodong.vn))
 - [Thanh niên Bắc Kạn trồng rau, trồng nấm...thu hàng trăm triệu đồng mỗi năm](https://cafebiz.vn/thanh-nien-bac-kan-trong-rau-trong-namthu-hang-tram-trieu-dong-moi-nam-20210314091907796.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người Sài Gòn chống tia cực tím ngày nắng nóng](https://vnexpress.net/nguoi-sai-gon-chong-tia-cuc-tim-ngay-nang-nong-4247704.html) ([VNExpress](https://vnexpress.net))
-- [Cuộc sống xa hoa của tiểu thư "phú nhị đại" Trung Quốc: Phô trương tài sản, thể hiện khí chất quý tộc, khắp người đều toát lên "mùi tiền"](https://cafebiz.vn/cuoc-song-xa-hoa-cua-tieu-thu-phu-nhi-dai-trung-quoc-pho-truong-tai-san-the-hien-khi-chat-quy-toc-khap-nguoi-deu-toat-len-mui-tien-20210314091723319.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cơn sốt đất nền vùng ven TP. Vinh và những chiêu trò thổi giá](https://cafebiz.vn/con-sot-dat-nen-vung-ven-tp-vinh-va-nhung-chieu-tro-thoi-gia-20210314091425641.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tổng hợp cam kết đi vào ‘lòng đất’ của dân bán xe: Tai nạn biến dạng vẫn khoe 'không đâm đụng, bao check hãng'](https://cafebiz.vn/tong-hop-cam-ket-di-vao-long-dat-cua-dan-ban-xe-tai-nan-bien-dang-van-khoe-khong-dam-dung-bao-check-hang-20210314090100478.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
