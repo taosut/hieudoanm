@@ -21,8 +21,8 @@
 
 - Current weather is clear sky.
 - Temperature is 23°C.
-- Feels Like 23.79°C.
-- Air Visual is 97.
+- Feels Like 24.97°C.
+- Air Visual is 136.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Thua Viettel, huấn luyện viên Phan Thanh Hùng vẫn khen ngợi học trò](https://laodong.vn/bong-da/thua-viettel-huan-luyen-vien-phan-thanh-hung-van-khen-ngoi-hoc-tro-889068.ldo) ([Lao Động](https://laodong.vn))
+- [Phát hiện kho chứa hàng ngàn mỹ phẩm giả các nhãn hiệu nổi tiếng](https://cafebiz.vn/phat-hien-kho-chua-hang-ngan-my-pham-gia-cac-nhan-hieu-noi-tieng-20210314223028906.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chile  &quot;vô địch&quot; tiêm vaccine COVID-19 ở Mỹ Latinh](https://laodong.vn/the-gioi/chile-vo-dich-tiem-vaccine-covid-19-o-my-latinh-889064.ldo) ([Lao Động](https://laodong.vn))
+- [16 người ở TP HCM tự ứng cử đại biểu Quốc hội](https://vnexpress.net/16-nguoi-o-tp-hcm-tu-ung-cu-dai-bieu-quoc-hoi-4248368.html) ([VNExpress](https://vnexpress.net))
 - [Thủ môn Bình Dương &quot;tặng qùa&quot;, Viettel thắng trận đầu tiên ở V.League 2021](https://laodong.vn/bong-da/thu-mon-binh-duong-tang-qua-viettel-thang-tran-dau-tien-o-vleague-2021-889052.ldo) ([Lao Động](https://laodong.vn))
 - [5 vạn người đổ về chùa Tam Chúc, tỉnh Hà Nam phải tìm giải pháp](https://tuoitre.vn/5-van-nguoi-do-ve-chua-tam-chuc-tinh-ha-nam-phai-tim-giai-phap-20210314210122759.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nghiêm Xuân Tú xuất sắc, Hải Huy hay, Than Quảng Ninh đánh bại TP.HCM 2-0](https://laodong.vn/bong-da/nghiem-xuan-tu-xuat-sac-hai-huy-hay-than-quang-ninh-danh-bai-tphcm-2-0-889061.ldo) ([Lao Động](https://laodong.vn))
 - [Giá thức ăn chăn nuôi tăng mạnh khiến nông dân gặp khó](https://cafebiz.vn/gia-thuc-an-chan-nuoi-tang-manh-khien-nong-dan-gap-kho-20210314205418167.chn) ([CafeBiz](https://cafebiz.vn))
 - [9 vật dụng quen thuộc trong gia đình cực kỳ độc hại nếu sử dụng sai cách](https://cafebiz.vn/9-vat-dung-quen-thuoc-trong-gia-dinh-cuc-ky-doc-hai-neu-su-dung-sai-cach-20210314205659435.chn) ([CafeBiz](https://cafebiz.vn))
 - [Adidas tiết lộ kế hoạch 5 năm đầy tham vọng](https://cafebiz.vn/adidas-tiet-lo-ke-hoach-5-nam-day-tham-vong-20210314202125256.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cảnh báo &quot;lạnh gáy&quot;: IS lập nhóm tinh nhuệ tấn công phương Tây](https://laodong.vn/the-gioi/canh-bao-lanh-gay-is-lap-nhom-tinh-nhue-tan-cong-phuong-tay-888985.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất hôm nay: Thông tin về kho vàng bạc kinh ngạc ở Israel](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-thong-tin-ve-kho-vang-bac-kinh-ngac-o-israel-889022.ldo) ([Lao Động](https://laodong.vn))
-- [11 nhà đầu tư vĩ đại nhất lịch sử nhân loại](https://cafebiz.vn/11-nha-dau-tu-vi-dai-nhat-lich-su-nhan-loai-2021031418421576.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chùa Tam Chúc chật kín du khách](https://vnexpress.net/chua-tam-chuc-chat-kin-du-khach-4248332.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
@@ -117,10 +117,10 @@
 02. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
 03. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 04. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-05. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
-06. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
+05. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+06. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 07. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
-08. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+08. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
 09. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 10. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
 
@@ -137,8 +137,8 @@
 05. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 06. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
-08. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
-09. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
+08. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
+09. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
 10. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 
 [Read More](https://www.youtube.com/feed/trending)
