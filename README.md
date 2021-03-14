@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 27°C.
-- Feels Like 26.45°C.
-- Air Visual is 111.
+- Feels Like 26.09°C.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Giá hồ tiêu tăng sốc, thương lái vẫn tiếp tục găm hàng chờ mức giá &quot;đỉnh&quot;](https://laodong.vn/kinh-te/gia-ho-tieu-tang-soc-thuong-lai-van-tiep-tuc-gam-hang-cho-muc-gia-dinh-888976.ldo) ([Lao Động](https://laodong.vn))
+- [Trường THPT Chuyên Khoa học Tự nhiên lùi lịch thi vào lớp 10](https://laodong.vn/giao-duc/truong-thpt-chuyen-khoa-hoc-tu-nhien-lui-lich-thi-vao-lop-10-888991.ldo) ([Lao Động](https://laodong.vn))
+- [3 loại quả giá rẻ được mệnh danh là "vua của huyết áp", vừa điều hòa huyết áp lại giúp bảo vệ mạch máu vượt trội, tiếc là nhiều người vẫn bỏ phí](https://cafebiz.vn/3-loai-qua-gia-re-duoc-menh-danh-la-vua-cua-huyet-ap-vua-dieu-hoa-huyet-ap-lai-giup-bao-ve-mach-mau-vuot-troi-tiec-la-nhieu-nguoi-van-bo-phi-20210314153811218.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bình Phước lại bắt được nhóm người Trung Quốc nhập cảnh trái phép](https://tuoitre.vn/binh-phuoc-lai-bat-duoc-nhom-nguoi-trung-quoc-nhap-canh-trai-phep-2021031416440238.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nga sắp phát triển thành công thuốc chống tình trạng kháng kháng sinh](https://laodong.vn/the-gioi/nga-sap-phat-trien-thanh-cong-thuoc-chong-tinh-trang-khang-khang-sinh-888972.ldo) ([Lao Động](https://laodong.vn))
+- [Singapore - Australia triển khai “bong bóng du lịch hàng không”](https://laodong.vn/the-gioi/singapore-australia-trien-khai-bong-bong-du-lich-hang-khong-888971.ldo) ([Lao Động](https://laodong.vn))
+- [Klopp thừa nhận Van Dijk có thể bỏ lỡ cả EURO 2020](https://laodong.vn/bong-da-quoc-te/klopp-thua-nhan-van-dijk-co-the-bo-lo-ca-euro-2020-888977.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Tuyến metro số 2 &quot;chạy nước rút&quot; giải phóng mặt bằng](https://laodong.vn/xa-hoi/tphcm-tuyen-metro-so-2-chay-nuoc-rut-giai-phong-mat-bang-888968.ldo) ([Lao Động](https://laodong.vn))
+- [Australia chấn động với hàng loạt quỷ Tasmania chết bí ẩn](https://laodong.vn/the-gioi/australia-chan-dong-voi-hang-loat-quy-tasmania-chet-bi-an-888975.ldo) ([Lao Động](https://laodong.vn))
 - [2 học sinh lớp 5 đạp xe 140km "trốn" nhà từ Thái Bình vào Thanh Hoá và câu chuyện xúc động phía sau](https://cafebiz.vn/2-hoc-sinh-lop-5-dap-xe-140km-tron-nha-tu-thai-binh-vao-thanh-hoa-va-cau-chuyen-xuc-dong-phia-sau-20210314155928141.chn) ([CafeBiz](https://cafebiz.vn))
-- [Muốn trồng cọ dọc cao tốc, tỉnh Phú Thọ phải đáp ứng hàng loạt yêu cầu](https://laodong.vn/xa-hoi/muon-trong-co-doc-cao-toc-tinh-phu-tho-phai-dap-ung-hang-loat-yeu-cau-888978.ldo) ([Lao Động](https://laodong.vn))
 - [Nhặt được 922 triệu đồng, cậu bé đem trả nhưng người đánh rơi không nhận vì "nhà tôi không thiếu tiền, nhặt được thì cứ tiêu đi"](https://cafebiz.vn/nhat-duoc-922-trieu-dong-cau-be-dem-tra-nhung-nguoi-danh-roi-khong-nhan-vi-nha-toi-khong-thieu-tien-nhat-duoc-thi-cu-tieu-di-20210314161616361.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hoàng gia Anh tuyên bố mở cuộc điều tra Meghan Markle không nhân nhượng, tiếp tục “hiệp đấu” mới khiến tình hình thêm căng thẳng](https://cafebiz.vn/hoang-gia-anh-tuyen-bo-mo-cuoc-dieu-tra-meghan-markle-khong-nhan-nhuong-tiep-tuc-hiep-dau-moi-khien-tinh-hinh-them-cang-thang-20210314161015673.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mãnh tướng bí ẩn mạnh hơn Trương Phi, suýt giết Mã Siêu, Tào Tháo bội phục](https://cafebiz.vn/manh-tuong-bi-an-manh-hon-truong-phi-suyt-giet-ma-sieu-tao-thao-boi-phuc-20210314145855821.chn) ([CafeBiz](https://cafebiz.vn))
-- [LĐLĐ TP. Huế: Hàng trăm đoàn viên ra quân &quot;Ngày Chủ nhật xanh&quot;](https://laodong.vn/cong-doan/ldld-tp-hue-hang-tram-doan-vien-ra-quan-ngay-chu-nhat-xanh-888973.ldo) ([Lao Động](https://laodong.vn))
-- [Trường miền núi dựng bảng ghi thông tin, hình ảnh 64 liệt sĩ Gạc Ma giữa sân trường](https://tuoitre.vn/truong-mien-nui-dung-bang-ghi-thong-tin-hinh-anh-64-liet-si-gac-ma-giua-san-truong-20210314151408241.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Có giá lên tới gần 60 triệu đồng cho 4 ngày 3 đêm, tour Sơn Đoòng trong năm 2021 đã kín chỗ](https://cafebiz.vn/co-gia-len-toi-gan-60-trieu-dong-cho-4-ngay-3-dem-tour-son-doong-trong-nam-2021-da-kin-cho-20210314113351228.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tuần mới, con giáp nào được thần tài chấm số đỏ, làm gì cũng hái ra tiền?](https://cafebiz.vn/tuan-moi-con-giap-nao-duoc-than-tai-cham-so-do-lam-gi-cung-hai-ra-tien-20210313114714213.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Cơ chế nào giúp ta thức dậy trước báo thức?](https://vietcetera.com/vn/co-che-nao-giup-ta-thuc-day-truoc-bao-thuc)
 - [Self-concept: Lời giải cho câu hỏi "Tôi là ai" theo tâm lý học](https://vietcetera.com/vn/self-concept-loi-giai-cho-cau-hoi-toi-la-ai-theo-tam-ly-hoc)
 - [5 Phim kinh dị đáng sợ hơn ngày thứ Hai](https://vietcetera.com/vn/5-phim-kinh-di-dang-so-hon-ngay-thu-hai)
 - [Thuận Nguyễn: “Hãnh diện là một fashionisto U70 hiếm hoi trên thế giới!” ](https://vietcetera.com/vn/thuan-nguyen-hanh-dien-la-mot-fashionisto-u70-hiem-hoi-tren-the-gioi)
@@ -105,7 +106,6 @@
 - [Mối quan hệ lành mạnh: Sự dung hòa giữa giá trị cá nhân và xúc cảm](https://vietcetera.com/vn/moi-quan-he-lanh-manh-su-dung-hoa-giua-gia-tri-ca-nhan-va-xuc-cam)
 - [Chữ Với Nghĩa: Phanh xích lô là gì mà không thắng?](https://vietcetera.com/vn/chu-voi-nghia-phanh-xich-lo)
 - [Bóc Term: Sharent là gì? "Khoe con" bao nhiêu là đủ?](https://vietcetera.com/vn/boc-term-sharent-la-gi-khoe-con-bao-nhieu-la-du)
-- [Đã đến lúc cho những trải nghiệm mới tại Singapore](https://vietcetera.com/vn/da-den-luc-cho-nhung-cau-chuyen-trai-nghiem-moi-tai-singapore)
 
 [Read More](https://vietcetera.com/)
 
@@ -118,10 +118,10 @@
 03. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 04. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 05. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
-06. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
-07. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
-08. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
-09. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+06. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
+07. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
+08. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+09. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 10. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
