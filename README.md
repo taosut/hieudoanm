@@ -52,6 +52,7 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Brave Girl](https://img.shields.io/static/v1?label=Brave%20Girl&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Brave%20Girl)
 - [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
+- [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
@@ -67,7 +68,6 @@
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
 - [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
 - [![Thủ môn Bùi Tiến Dũng](https://img.shields.io/static/v1?label=Th%E1%BB%A7%20m%C3%B4n%20B%C3%B9i%20Ti%E1%BA%BFn%20D%C5%A9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BB%A7%20m%C3%B4n%20B%C3%B9i%20Ti%E1%BA%BFn%20D%C5%A9ng)
-- [![Đào Bá Lộc](https://img.shields.io/static/v1?label=%C4%90%C3%A0o%20B%C3%A1%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C3%A0o%20B%C3%A1%20L%E1%BB%99c)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Ứng dụng Robinhood tạo cơn sốt chứng khoán mùa đại dịch: Liệu có còn “cướp của người giàu chia cho người nghèo”](https://cafebiz.vn/ung-dung-robinhood-tao-con-sot-chung-khoan-mua-dai-dich-lieu-co-con-cuop-cua-nguoi-giau-chia-cho-nguoi-ngheo-20210314075523568.chn) ([CafeBiz](https://cafebiz.vn))
+- [Huế sẽ thí điểm kinh tế "vỉa hè" trong tháng 4/2021](https://cafebiz.vn/hue-se-thi-diem-kinh-te-via-he-trong-thang-4-2021-202103140807481.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trường Cao đẳng Đường sắt thu nhập bình quân trên 9 triệu đồng](https://laodong.vn/cd-duong-sat/truong-cao-dang-duong-sat-thu-nhap-binh-quan-tren-9-trieu-dong-888881.ldo) ([Lao Động](https://laodong.vn))
+- [Chống dịch COVID-19 hiệu quả vẫn đảm bảo hoạt động sản xuất kinh doanh](https://laodong.vn/cd-hang-hai/chong-dich-covid-19-hieu-qua-van-dam-bao-hoat-dong-san-xuat-kinh-doanh-888888.ldo) ([Lao Động](https://laodong.vn))
+- ['Chỉ mong trước khi chết sẽ thấy cầu Long Kiểng'](https://tuoitre.vn/chi-mong-truoc-khi-chet-se-thay-cau-long-kieng-20210313213514071.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Giá vàng hôm nay 14.3: Vàng bất động, người mua lỗ nặng sau 1 tuần](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-143-vang-bat-dong-nguoi-mua-lo-nang-sau-1-tuan-888871.ldo) ([Lao Động](https://laodong.vn))
+- [Người Hà Nội thích thú chụp ảnh bên con đường hoa ban bung nở rực rỡ](https://laodong.vn/photo/nguoi-ha-noi-thich-thu-chup-anh-ben-con-duong-hoa-ban-bung-no-ruc-ro-888792.ldo) ([Lao Động](https://laodong.vn))
 - [Đại tá Đinh Văn Nơi nói các nhóm tội phạm không chỉ muốn dùng tiền "điều" ông đi, mà còn dùng thủ đoạn nguy hiểm đe dọa](https://cafebiz.vn/dai-ta-dinh-van-noi-noi-cac-nhom-toi-pham-khong-chi-muon-dung-tien-dieu-ong-di-ma-con-dung-thu-doan-nguy-hiem-de-doa-20210314080845501.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bức xúc vấn nạn lấn chiếm cổng bệnh viện](https://laodong.vn/ban-doc/buc-xuc-van-nan-lan-chiem-cong-benh-vien-888784.ldo) ([Lao Động](https://laodong.vn))
 - [Soi bò khô siêu rẻ 170k/kg bán đầy ngoài chợ dưới kính hiển vi, phát hiện thứ nguyên liệu bất ngờ khiến nhiều người khiếp sợ](https://cafebiz.vn/soi-bo-kho-sieu-re-170k-kg-ban-day-ngoai-cho-duoi-kinh-hien-vi-phat-hien-thu-nguyen-lieu-bat-ngo-khien-nhieu-nguoi-khiep-so-20210314080217921.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chăm sóc sức khỏe sinh sản - cả 2 giới cần phải quan tâm](https://laodong.vn/cong-doan/cham-soc-suc-khoe-sinh-san-ca-2-gioi-can-phai-quan-tam-888877.ldo) ([Lao Động](https://laodong.vn))
-- [Sẽ hủy kết quả đăng ký cư trú nếu nội dung cam đoan không đúng sự thật](https://laodong.vn/thoi-su/se-huy-ket-qua-dang-ky-cu-tru-neu-noi-dung-cam-doan-khong-dung-su-that-888880.ldo) ([Lao Động](https://laodong.vn))
-- [Mỹ cố gắng tiếp cận, Triều Tiên chưa hồi đáp](https://laodong.vn/the-gioi/my-co-gang-tiep-can-trieu-tien-chua-hoi-dap-888878.ldo) ([Lao Động](https://laodong.vn))
-- [Phát động tham gia Chương trình “75 nghìn sáng kiến, vượt khó, phát triển&quot;](https://laodong.vn/cd-xay-dung/phat-dong-tham-gia-chuong-trinh-75-nghin-sang-kien-vuot-kho-phat-trien-888855.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyện thật như đùa: Dân Mỹ rủ nhau quyên góp giúp vợ chồng Meghan mua nhà sau màn than khổ bị cắt tài chính, Harry có thực sự "nghèo" đến như vậy?](https://cafebiz.vn/chuyen-that-nhu-dua-dan-my-ru-nhau-quyen-gop-giup-vo-chong-meghan-mua-nha-sau-man-than-kho-bi-cat-tai-chinh-harry-co-thuc-su-ngheo-den-nhu-vay-20210314080054445.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dự án đường vành đai ở TP.HCM, Hà Nội: Khi nào 'hồi sinh'?](https://tuoitre.vn/du-an-duong-vanh-dai-o-tp-hcm-ha-noi-khi-nao-hoi-sinh-20210314082752059.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tức giận không đáng sợ, cứ im ỉm im ỉm mới đáng sợ hơn cả: KÌM NÉN là thứ thuốc độc hại sức khỏe nhất](https://cafebiz.vn/tuc-gian-khong-dang-so-cu-im-im-im-im-moi-dang-so-hon-ca-kim-nen-la-thu-thuoc-doc-hai-suc-khoe-nhat-20210313211443818.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
