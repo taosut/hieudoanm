@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Sinh ra nghèo khó nhưng mãi chưa giàu là do bạn kém cỏi, còn tỷ phú này khẳng định, sản nghiệp của ông từ túp lều tranh mà ra](https://cafebiz.vn/sinh-ra-ngheo-kho-nhung-mai-chua-giau-la-do-ban-kem-coi-con-ty-phu-nay-khang-dinh-san-nghiep-cua-ong-tu-tup-leu-tranh-ma-ra-20210314143446032.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dựng mô hình tàu HQ-604, tưởng niệm 64 liệt sĩ hi sinh bảo vệ Gạc Ma](https://laodong.vn/xa-hoi/dung-mo-hinh-tau-hq-604-tuong-niem-64-liet-si-hi-sinh-bao-ve-gac-ma-888956.ldo) ([Lao Động](https://laodong.vn))
+- [Oraph Winfrey dùng hàng tỷ đô để “mua hạnh phúc” như thế nào? Mua máy bay riêng để khỏi bị làm phiền, đầu tư 1 vườn cây vì “giá quả bơ quá đắt”](https://cafebiz.vn/oraph-winfrey-dung-hang-ty-do-de-mua-hanh-phuc-nhu-the-nao-mua-may-bay-rieng-de-khoi-bi-lam-phien-dau-tu-1-vuon-cay-vi-gia-qua-bo-qua-dat-20210314143247502.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nhiều đoàn thể, thân nhân dâng hương tưởng niệm 64 liệt sĩ Gạc Ma](https://laodong.vn/xa-hoi/nhieu-doan-the-than-nhan-dang-huong-tuong-niem-64-liet-si-gac-ma-888936.ldo) ([Lao Động](https://laodong.vn))
 - [Thông xe cầu Cửa Hội](https://vnexpress.net/thong-xe-cau-cua-hoi-4248250.html) ([VNExpress](https://vnexpress.net))
 - [Lương của giáo viên các cấp thay đổi ra sao từ 20.3?](https://laodong.vn/giao-duc/luong-cua-giao-vien-cac-cap-thay-doi-ra-sao-tu-203-888964.ldo) ([Lao Động](https://laodong.vn))
 - [Những món đồ nên thay thường xuyên trong nhà bếp](https://laodong.vn/gia-dinh-hon-nhan/nhung-mon-do-nen-thay-thuong-xuyen-trong-nha-bep-888960.ldo) ([Lao Động](https://laodong.vn))
 - [Khai báo tạm trú, tạm vắng theo quy định mới: Những điều cần biết](https://laodong.vn/ban-doc/khai-bao-tam-tru-tam-vang-theo-quy-dinh-moi-nhung-dieu-can-biet-888922.ldo) ([Lao Động](https://laodong.vn))
-- [2 trọng tài VFF không vượt qua phần thi thể lực](https://laodong.vn/bong-da/2-trong-tai-vff-khong-vuot-qua-phan-thi-the-luc-888958.ldo) ([Lao Động](https://laodong.vn))
 - [Hé lộ thiết kế ô tô mới của Vinfast: SUV cỡ đại có 2 bản điện và xăng, hệ thống trợ lái thông minh, chạy quãng đường 500 km/lần sạc?](https://cafebiz.vn/he-lo-thiet-ke-o-to-moi-cua-vinfast-suv-co-dai-co-2-ban-dien-va-xang-he-thong-tro-lai-thong-minh-chay-quang-duong-500-km-lan-sac-20210314132157475.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thú chơi "xế hộp" của cầu thủ Việt](https://cafebiz.vn/thu-choi-xe-hop-cua-cau-thu-viet-2021031414363841.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thêm Grab muốn niêm yết tại Mỹ thông qua SPAC, vì đâu mô hình này đột nhiên thành kênh đầu tư thời thượng?](https://cafebiz.vn/them-grab-muon-niem-yet-tai-my-thong-qua-spac-vi-dau-mo-hinh-nay-dot-nhien-thanh-kenh-dau-tu-thoi-thuong-20210314132032678.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nỗi buồn từ cơn sốt nhà giá 1 euro ở Italy](https://cafebiz.vn/noi-buon-tu-con-sot-nha-gia-1-euro-o-italy-20210314111039255.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
