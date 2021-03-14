@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 26.58°C.
-- Air Visual is 119.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Một đơn vị tặng 15 tấn nông sản Hải Dương cho người dân Nam Định](https://laodong.vn/xa-hoi/mot-don-vi-tang-15-tan-nong-san-hai-duong-cho-nguoi-dan-nam-dinh-889040.ldo) ([Lao Động](https://laodong.vn))
 - [Chiều 14-3: Thêm 1 ca mắc COVID-19 mới nhập cảnh TP.HCM, cứu sống 2 bệnh nhân nặng nhất](https://tuoitre.vn/chieu-14-3-them-1-ca-mac-covid-19-moi-nhap-canh-tp-hcm-cuu-song-2-benh-nhan-nang-nhat-20210314181621064.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chiều 14/3, TP Hồ Chí Minh có 1 ca mắc COVID-19 là chuyên gia nhập cảnh](https://cafebiz.vn/chieu-14-3-tp-ho-chi-minh-co-1-ca-mac-covid-19-la-chuyen-gia-nhap-canh-20210314181137724.chn) ([CafeBiz](https://cafebiz.vn))
 - [&quot;Bố già&quot; của Trấn Thành lập kỷ lục doanh thu 200 tỷ](https://laodong.vn/van-hoa-giai-tri/bo-gia-cua-tran-thanh-lap-ky-luc-doanh-thu-200-ty-889023.ldo) ([Lao Động](https://laodong.vn))
@@ -84,7 +85,6 @@
 - [Bộ đội Biên phòng nổ súng truy bắt tàu chở 3.000 lít dầu lậu trên biển](https://laodong.vn/phap-luat/bo-doi-bien-phong-no-sung-truy-bat-tau-cho-3000-lit-dau-lau-tren-bien-888988.ldo) ([Lao Động](https://laodong.vn))
 - [Thanh tra vào cuộc vụ biệt thự đồ sộ xây không phép ở Lâm Đồng](https://cafebiz.vn/thanh-tra-vao-cuoc-vu-biet-thu-do-so-xay-khong-phep-o-lam-dong-20210314105109089.chn) ([CafeBiz](https://cafebiz.vn))
 - [Truy đuổi 40 phút trên biển, nổ súng bắt tàu chở 3.000 lít dầu 'lậu'](https://tuoitre.vn/truy-duoi-40-phut-tren-bien-no-sung-bat-tau-cho-3-000-lit-dau-lau-20210314171621882.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đất lưu không có được cấp sổ đỏ không?](https://laodong.vn/bat-dong-san/dat-luu-khong-co-duoc-cap-so-do-khong-888742.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
