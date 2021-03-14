@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 24.65°C.
-- Air Visual is 106.
+- Feels Like 23.53°C.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Anh hùng thầm lặng của nước Mỹ trong đại dịch COVID-19 là một nhà khoa học dữ liệu mới 26 tuổi](https://cafebiz.vn/anh-hung-tham-lang-cua-nuoc-my-trong-dai-dich-covid-19-la-mot-nha-khoa-hoc-du-lieu-moi-26-tuoi-20210314080653591.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đến Công Phượng cũng phải đi mua vé xem trận Hoàng Anh Gia Lai - Bình Định](https://laodong.vn/photo/den-cong-phuong-cung-phai-di-mua-ve-xem-tran-hoang-anh-gia-lai-binh-dinh-888882.ldo) ([Lao Động](https://laodong.vn))
+- [Nghiên cứu chứng minh: Nhà được dọn càng sạch sẽ, chủ nhân càng dễ giàu có, thành công](https://cafebiz.vn/nghien-cuu-chung-minh-nha-duoc-don-cang-sach-se-chu-nhan-cang-de-giau-co-thanh-cong-20210313210838917.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bạc Liêu: Tiếp nhận, cách ly 375 công dân về từ Hàn Quốc](https://laodong.vn/xa-hoi/bac-lieu-tiep-nhan-cach-ly-375-cong-dan-ve-tu-han-quoc-888894.ldo) ([Lao Động](https://laodong.vn))
+- [Đây là nguồn năng lượng dồi dào tới mức chỉ 2% cũng đủ cung cấp cho 2.000 nước Mỹ](https://cafebiz.vn/day-la-nguon-nang-luong-doi-dao-toi-muc-chi-2-cung-du-cung-cap-cho-2000-nuoc-my-20210314080419153.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tin sốc thứ hai trong vòng 1 tuần với Laporta ở Barcelona](https://laodong.vn/bong-da-quoc-te/tin-soc-thu-hai-trong-vong-1-tuan-voi-laporta-o-barcelona-888879.ldo) ([Lao Động](https://laodong.vn))
+- [Thời tiết khắc nghiệt khắp nước Mỹ, lốc xoáy nguy hiểm lật đổ xe cộ](https://laodong.vn/the-gioi/thoi-tiet-khac-nghiet-khap-nuoc-my-loc-xoay-nguy-hiem-lat-do-xe-co-888890.ldo) ([Lao Động](https://laodong.vn))
+- [Italia đặt mục tiêu tiêm chủng ít nhất 80% dân số tới cuối tháng 9](https://laodong.vn/the-gioi/italia-dat-muc-tieu-tiem-chung-it-nhat-80-dan-so-toi-cuoi-thang-9-888865.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Nam sẽ 'đánh sập' hầm vàng lậu dưới lòng đất Vườn quốc gia Sông Thanh](https://tuoitre.vn/quang-nam-se-danh-sap-ham-vang-lau-duoi-long-dat-vuon-quoc-gia-song-thanh-20210314083813674.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Ứng dụng Robinhood tạo cơn sốt chứng khoán mùa đại dịch: Liệu có còn “cướp của người giàu chia cho người nghèo”](https://cafebiz.vn/ung-dung-robinhood-tao-con-sot-chung-khoan-mua-dai-dich-lieu-co-con-cuop-cua-nguoi-giau-chia-cho-nguoi-ngheo-20210314075523568.chn) ([CafeBiz](https://cafebiz.vn))
-- [Huế sẽ thí điểm kinh tế "vỉa hè" trong tháng 4/2021](https://cafebiz.vn/hue-se-thi-diem-kinh-te-via-he-trong-thang-4-2021-202103140807481.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trường Cao đẳng Đường sắt thu nhập bình quân trên 9 triệu đồng](https://laodong.vn/cd-duong-sat/truong-cao-dang-duong-sat-thu-nhap-binh-quan-tren-9-trieu-dong-888881.ldo) ([Lao Động](https://laodong.vn))
-- [Chống dịch COVID-19 hiệu quả vẫn đảm bảo hoạt động sản xuất kinh doanh](https://laodong.vn/cd-hang-hai/chong-dich-covid-19-hieu-qua-van-dam-bao-hoat-dong-san-xuat-kinh-doanh-888888.ldo) ([Lao Động](https://laodong.vn))
-- ['Chỉ mong trước khi chết sẽ thấy cầu Long Kiểng'](https://tuoitre.vn/chi-mong-truoc-khi-chet-se-thay-cau-long-kieng-20210313213514071.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Giá vàng hôm nay 14.3: Vàng bất động, người mua lỗ nặng sau 1 tuần](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-143-vang-bat-dong-nguoi-mua-lo-nang-sau-1-tuan-888871.ldo) ([Lao Động](https://laodong.vn))
-- [Người Hà Nội thích thú chụp ảnh bên con đường hoa ban bung nở rực rỡ](https://laodong.vn/photo/nguoi-ha-noi-thich-thu-chup-anh-ben-con-duong-hoa-ban-bung-no-ruc-ro-888792.ldo) ([Lao Động](https://laodong.vn))
-- [Đại tá Đinh Văn Nơi nói các nhóm tội phạm không chỉ muốn dùng tiền "điều" ông đi, mà còn dùng thủ đoạn nguy hiểm đe dọa](https://cafebiz.vn/dai-ta-dinh-van-noi-noi-cac-nhom-toi-pham-khong-chi-muon-dung-tien-dieu-ong-di-ma-con-dung-thu-doan-nguy-hiem-de-doa-20210314080845501.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bức xúc vấn nạn lấn chiếm cổng bệnh viện](https://laodong.vn/ban-doc/buc-xuc-van-nan-lan-chiem-cong-benh-vien-888784.ldo) ([Lao Động](https://laodong.vn))
-- [Soi bò khô siêu rẻ 170k/kg bán đầy ngoài chợ dưới kính hiển vi, phát hiện thứ nguyên liệu bất ngờ khiến nhiều người khiếp sợ](https://cafebiz.vn/soi-bo-kho-sieu-re-170k-kg-ban-day-ngoai-cho-duoi-kinh-hien-vi-phat-hien-thu-nguyen-lieu-bat-ngo-khien-nhieu-nguoi-khiep-so-20210314080217921.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
