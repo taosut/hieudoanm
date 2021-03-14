@@ -20,8 +20,8 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 23.53°C.
+- Temperature is 25°C.
+- Feels Like 24.89°C.
 - Air Visual is 107.
 
 **WEATHER**
@@ -52,12 +52,12 @@
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Brave Girl](https://img.shields.io/static/v1?label=Brave%20Girl&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Brave%20Girl)
 - [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
-- [![Dortmund](https://img.shields.io/static/v1?label=Dortmund&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Dortmund)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
 - [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
+- [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Man City vs Southampton](https://img.shields.io/static/v1?label=Man%20City%20vs%20Southampton&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City%20vs%20Southampton)
 - [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Mổ xẻ phong cách đầu tư trái ngược hoàn toàn của Warren Buffett và ‘thần tượng mới trên Phố Wall' Cathie Wood](https://cafebiz.vn/mo-xe-phong-cach-dau-tu-trai-nguoc-hoan-toan-cua-warren-buffett-va-than-tuong-moi-tren-pho-wall-cathie-wood-20210314085917197.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ăn gì tốt cho người huyết áp thấp?](https://laodong.vn/suc-khoe/an-gi-tot-cho-nguoi-huyet-ap-thap-888714.ldo) ([Lao Động](https://laodong.vn))
+- [Cù lao Bạch Đằng đẹp như tranh ở Bình Dương sẽ thành làng thông minh](https://laodong.vn/xa-hoi/cu-lao-bach-dang-dep-nhu-tranh-o-binh-duong-se-thanh-lang-thong-minh-888849.ldo) ([Lao Động](https://laodong.vn))
+- [Đầu tư lướt 'sóng' - Người khó mua đất, kẻ gánh nợ](https://cafebiz.vn/dau-tu-luot-song-nguoi-kho-mua-dat-ke-ganh-no-20210314090745738.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xe ô tô chưa có biển số muốn lưu thông thì phải làm gì?](https://laodong.vn/xe/xe-o-to-chua-co-bien-so-muon-luu-thong-thi-phai-lam-gi-888794.ldo) ([Lao Động](https://laodong.vn))
+- [Nam thanh niên tử vong sau cú va chạm với xe đầu kéo trên Quốc lộ 6](https://laodong.vn/xa-hoi/nam-thanh-nien-tu-vong-sau-cu-va-cham-voi-xe-dau-keo-tren-quoc-lo-6-888904.ldo) ([Lao Động](https://laodong.vn))
+- [Đại gia Dũng lò vôi kể về những tình tiết "ngờ vực" ông Võ Hoàng Yên](https://cafebiz.vn/dai-gia-dung-lo-voi-ke-ve-nhung-tinh-tiet-ngo-vuc-ong-vo-hoang-yen-20210314085305852.chn) ([CafeBiz](https://cafebiz.vn))
 - [Anh hùng thầm lặng của nước Mỹ trong đại dịch COVID-19 là một nhà khoa học dữ liệu mới 26 tuổi](https://cafebiz.vn/anh-hung-tham-lang-cua-nuoc-my-trong-dai-dich-covid-19-la-mot-nha-khoa-hoc-du-lieu-moi-26-tuoi-20210314080653591.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đến Công Phượng cũng phải đi mua vé xem trận Hoàng Anh Gia Lai - Bình Định](https://laodong.vn/photo/den-cong-phuong-cung-phai-di-mua-ve-xem-tran-hoang-anh-gia-lai-binh-dinh-888882.ldo) ([Lao Động](https://laodong.vn))
 - [Nghiên cứu chứng minh: Nhà được dọn càng sạch sẽ, chủ nhân càng dễ giàu có, thành công](https://cafebiz.vn/nghien-cuu-chung-minh-nha-duoc-don-cang-sach-se-chu-nhan-cang-de-giau-co-thanh-cong-20210313210838917.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bạc Liêu: Tiếp nhận, cách ly 375 công dân về từ Hàn Quốc](https://laodong.vn/xa-hoi/bac-lieu-tiep-nhan-cach-ly-375-cong-dan-ve-tu-han-quoc-888894.ldo) ([Lao Động](https://laodong.vn))
-- [Đây là nguồn năng lượng dồi dào tới mức chỉ 2% cũng đủ cung cấp cho 2.000 nước Mỹ](https://cafebiz.vn/day-la-nguon-nang-luong-doi-dao-toi-muc-chi-2-cung-du-cung-cap-cho-2000-nuoc-my-20210314080419153.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tin sốc thứ hai trong vòng 1 tuần với Laporta ở Barcelona](https://laodong.vn/bong-da-quoc-te/tin-soc-thu-hai-trong-vong-1-tuan-voi-laporta-o-barcelona-888879.ldo) ([Lao Động](https://laodong.vn))
-- [Thời tiết khắc nghiệt khắp nước Mỹ, lốc xoáy nguy hiểm lật đổ xe cộ](https://laodong.vn/the-gioi/thoi-tiet-khac-nghiet-khap-nuoc-my-loc-xoay-nguy-hiem-lat-do-xe-co-888890.ldo) ([Lao Động](https://laodong.vn))
-- [Italia đặt mục tiêu tiêm chủng ít nhất 80% dân số tới cuối tháng 9](https://laodong.vn/the-gioi/italia-dat-muc-tieu-tiem-chung-it-nhat-80-dan-so-toi-cuoi-thang-9-888865.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Nam sẽ 'đánh sập' hầm vàng lậu dưới lòng đất Vườn quốc gia Sông Thanh](https://tuoitre.vn/quang-nam-se-danh-sap-ham-vang-lau-duoi-long-dat-vuon-quoc-gia-song-thanh-20210314083813674.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Ứng dụng Robinhood tạo cơn sốt chứng khoán mùa đại dịch: Liệu có còn “cướp của người giàu chia cho người nghèo”](https://cafebiz.vn/ung-dung-robinhood-tao-con-sot-chung-khoan-mua-dai-dich-lieu-co-con-cuop-cua-nguoi-giau-chia-cho-nguoi-ngheo-20210314075523568.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -137,8 +137,8 @@
 05. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 06. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
-08. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
-09. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
+08. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
+09. [#20 Thầy trò Trường Giang, Chi Dân đi "thỉnh kinh" nào ngờ té nhào vào BỂ MUỐI | MAPLVB Mùa 3](https://www.youtube.com/watch?v=vXSGsMHSXqA) - [Trường Giang](https://www.youtube.com/channel/UCpdBEsgVIcWbrwWuemjnxXg)
 10. [FAPtv Cơm Nguội : Tập 247 - Dậy Thì Sao ?](https://www.youtube.com/watch?v=rVoo2Fk1HA8) - [FAP TV](https://www.youtube.com/channel/UC0jDoh3tVXCaqJ6oTve8ebA)
 
 [Read More](https://www.youtube.com/feed/trending)
