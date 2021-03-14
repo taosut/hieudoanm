@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Có giá lên tới gần 60 triệu đồng cho 4 ngày 3 đêm, tour Sơn Đoòng trong năm 2021 đã kín chỗ](https://cafebiz.vn/co-gia-len-toi-gan-60-trieu-dong-cho-4-ngay-3-dem-tour-son-doong-trong-nam-2021-da-kin-cho-20210314113351228.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tuần mới, con giáp nào được thần tài chấm số đỏ, làm gì cũng hái ra tiền?](https://cafebiz.vn/tuan-moi-con-giap-nao-duoc-than-tai-cham-so-do-lam-gi-cung-hai-ra-tien-20210313114714213.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt cá bằng miệng, nam thanh niên suýt chết](https://laodong.vn/suc-khoe/bat-ca-bang-mieng-nam-thanh-nien-suyt-chet-888959.ldo) ([Lao Động](https://laodong.vn))
-- [Hoàng đế Trung Hoa duy nhất trong lịch sử bị sét đánh chết là ai?](https://cafebiz.vn/hoang-de-trung-hoa-duy-nhat-trong-lich-su-bi-set-danh-chet-la-ai-20210314145638719.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thêm một khoản đầu tư đình đám ngành tài chính dính bê bối, SoftBank sắp mất trắng 2 tỷ USD vốn đầu tư](https://cafebiz.vn/them-mot-khoan-dau-tu-dinh-dam-nganh-tai-chinh-dinh-be-boi-softbank-sap-mat-trang-2-ty-usd-von-dau-tu-20210314132803039.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vốn cho thực hiện Quy hoạch Điện VIII: Khó khả thi?](https://laodong.vn/lao-dong-cuoi-tuan/von-cho-thuc-hien-quy-hoach-dien-viii-kho-kha-thi-888089.ldo) ([Lao Động](https://laodong.vn))
-- [Đảng của bà Merkel đối mặt thất bại trước khi Đức chọn thủ tướng mới](https://laodong.vn/the-gioi/dang-cua-ba-merkel-doi-mat-that-bai-truoc-khi-duc-chon-thu-tuong-moi-888970.ldo) ([Lao Động](https://laodong.vn))
-- [Đề nghị khẩn trương xử lý tang vật là 412 lóng, khúc gỗ thông 3 lá](https://laodong.vn/xa-hoi/de-nghi-khan-truong-xu-ly-tang-vat-la-412-long-khuc-go-thong-3-la-888969.ldo) ([Lao Động](https://laodong.vn))
-- [Xem trực tiếp Viettel vs Bình Dương tại V.League 2021 ở kênh nào?](https://laodong.vn/bong-da/xem-truc-tiep-viettel-vs-binh-duong-tai-vleague-2021-o-kenh-nao-888962.ldo) ([Lao Động](https://laodong.vn))
-- [Giả thuyết mới &quot;bật mí&quot; bí ẩn xây kim tự tháp Ai Cập](https://laodong.vn/the-gioi/gia-thuyet-moi-bat-mi-bi-an-xay-kim-tu-thap-ai-cap-888965.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
