@@ -21,8 +21,8 @@
 
 - Current weather is clear sky.
 - Temperature is 24°C.
-- Feels Like 24.77°C.
-- Air Visual is 117.
+- Feels Like 24.42°C.
+- Air Visual is 115.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Cảnh báo &quot;lạnh gáy&quot;: IS lập nhóm tinh nhuệ tấn công phương Tây](https://laodong.vn/the-gioi/canh-bao-lanh-gay-is-lap-nhom-tinh-nhue-tan-cong-phuong-tay-888985.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất hôm nay: Thông tin về kho vàng bạc kinh ngạc ở Israel](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-thong-tin-ve-kho-vang-bac-kinh-ngac-o-israel-889022.ldo) ([Lao Động](https://laodong.vn))
+- [11 nhà đầu tư vĩ đại nhất lịch sử nhân loại](https://cafebiz.vn/11-nha-dau-tu-vi-dai-nhat-lich-su-nhan-loai-2021031418421576.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chùa Tam Chúc chật kín du khách](https://vnexpress.net/chua-tam-chuc-chat-kin-du-khach-4248332.html) ([VNExpress](https://vnexpress.net))
 - [20 tuổi sống như Tào Tháo, 40 tuổi học hỏi Tư Mã Ý và 60 tuổi theo gương Lưu Bị](https://cafebiz.vn/20-tuoi-song-nhu-tao-thao-40-tuoi-hoc-hoi-tu-ma-y-va-60-tuoi-theo-guong-luu-bi-20210314204154158.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chuyến bay từ TP HCM đi Côn Đảo phải quay về vì máy bay có khói](https://cafebiz.vn/chuyen-bay-tu-tp-hcm-di-con-dao-phai-quay-ve-vi-may-bay-co-khoi-20210314184009884.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bầu Đức &quot;vẫn chưa sướng lắm” dù Hoàng Anh Gia Lai thắng](https://laodong.vn/bong-da/bau-duc-van-chua-suong-lam-du-hoang-anh-gia-lai-thang-889051.ldo) ([Lao Động](https://laodong.vn))
 - [&quot;Kiatisak mang lại nhiều nét mới, Hoàng Anh Gia Lai biết toan tính hơn&quot;](https://laodong.vn/bong-da/kiatisak-mang-lai-nhieu-net-moi-hoang-anh-gia-lai-biet-toan-tinh-hon-889050.ldo) ([Lao Động](https://laodong.vn))
 - [Lắp cửa van thép 200 tấn đầu tiên cho cống thủy lợi 'khủng' nhất miền Tây](https://tuoitre.vn/lap-cua-van-thep-200-tan-dau-tien-cho-cong-thuy-loi-khung-nhat-mien-tay-20210314193623449.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Kiatisak tiết lộ lý do hoán đổi cặp đôi Công Phượng – Văn Toàn](https://laodong.vn/bong-da/kiatisak-tiet-lo-ly-do-hoan-doi-cap-doi-cong-phuong--van-toan-889049.ldo) ([Lao Động](https://laodong.vn))
-- [Tín ngưỡng thờ Mẫu ở Nam Định: Trước và sau khi ghi danh tầm nhân loại](https://laodong.vn/lao-dong-cuoi-tuan/tin-nguong-tho-mau-o-nam-dinh-truoc-va-sau-khi-ghi-danh-tam-nhan-loai-887841.ldo) ([Lao Động](https://laodong.vn))
-- [Bảo tồn &quot;thần dược biển&quot; hải sâm](https://laodong.vn/lao-dong-cuoi-tuan/bao-ton-than-duoc-bien-hai-sam-887771.ldo) ([Lao Động](https://laodong.vn))
-- [Hệ thống cao tốc hứa hẹn thay đổi diện mạo Đồng bằng sông Cửu Long](https://cafebiz.vn/he-thong-cao-toc-hua-hen-thay-doi-dien-mao-dong-bang-song-cuu-long-20210314181012644.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quảng Ngãi chặn ‘thần y’ Võ Hoàng Yên về chữa bệnh cho người dân](https://tuoitre.vn/quang-ngai-chan-than-y-vo-hoang-yen-ve-chua-benh-cho-nguoi-dan-20210314195208012.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
