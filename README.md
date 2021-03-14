@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 26.58°C.
-- Air Visual is 117.
+- Air Visual is 119.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chiều 14-3: Thêm 1 ca mắc COVID-19 mới nhập cảnh TP.HCM, cứu sống 2 bệnh nhân nặng nhất](https://tuoitre.vn/chieu-14-3-them-1-ca-mac-covid-19-moi-nhap-canh-tp-hcm-cuu-song-2-benh-nhan-nang-nhat-20210314181621064.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chiều 14/3, TP Hồ Chí Minh có 1 ca mắc COVID-19 là chuyên gia nhập cảnh](https://cafebiz.vn/chieu-14-3-tp-ho-chi-minh-co-1-ca-mac-covid-19-la-chuyen-gia-nhap-canh-20210314181137724.chn) ([CafeBiz](https://cafebiz.vn))
+- [&quot;Bố già&quot; của Trấn Thành lập kỷ lục doanh thu 200 tỷ](https://laodong.vn/van-hoa-giai-tri/bo-gia-cua-tran-thanh-lap-ky-luc-doanh-thu-200-ty-889023.ldo) ([Lao Động](https://laodong.vn))
+- [Doanh thu phim Bố Già vượt 200 tỷ đồng, chính thức trở thành phim Việt ăn khách nhất từ trước đến nay](https://cafebiz.vn/doanh-thu-phim-bo-gia-vuot-200-ty-dong-chinh-thuc-tro-thanh-phim-viet-an-khach-nhat-tu-truoc-den-nay-20210314180703928.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Dương: Bắt tên trộm có 5 tiền án, tiền sự tội trộm cắp](https://laodong.vn/phap-luat/hai-duong-bat-ten-trom-co-5-tien-an-tien-su-toi-trom-cap-888993.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều 14.3, ghi nhận 1 ca mắc mới COVID-19 nhập cảnh](https://laodong.vn/y-te/chieu-143-ghi-nhan-1-ca-mac-moi-covid-19-nhap-canh-888259.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ đội Biên phòng nổ súng truy bắt tàu chở 3.000 lít dầu lậu trên biển](https://laodong.vn/phap-luat/bo-doi-bien-phong-no-sung-truy-bat-tau-cho-3000-lit-dau-lau-tren-bien-888988.ldo) ([Lao Động](https://laodong.vn))
 - [Thanh tra vào cuộc vụ biệt thự đồ sộ xây không phép ở Lâm Đồng](https://cafebiz.vn/thanh-tra-vao-cuoc-vu-biet-thu-do-so-xay-khong-phep-o-lam-dong-20210314105109089.chn) ([CafeBiz](https://cafebiz.vn))
 - [Truy đuổi 40 phút trên biển, nổ súng bắt tàu chở 3.000 lít dầu 'lậu'](https://tuoitre.vn/truy-duoi-40-phut-tren-bien-no-sung-bat-tau-cho-3-000-lit-dau-lau-20210314171621882.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Đất lưu không có được cấp sổ đỏ không?](https://laodong.vn/bat-dong-san/dat-luu-khong-co-duoc-cap-so-do-khong-888742.ldo) ([Lao Động](https://laodong.vn))
-- [3 nam diễn viên Hoa ngữ được kỳ vọng trở lại trong năm 2021](https://laodong.vn/giai-tri/3-nam-dien-vien-hoa-ngu-duoc-ky-vong-tro-lai-trong-nam-2021-888908.ldo) ([Lao Động](https://laodong.vn))
-- [Lợn nhập khẩu trốn cách ly kiểm dịch: Vi phạm tội buôn bán hàng cấm](https://laodong.vn/ban-doc/lon-nhap-khau-tron-cach-ly-kiem-dich-vi-pham-toi-buon-ban-hang-cam-888990.ldo) ([Lao Động](https://laodong.vn))
-- [8 tướng, tá Công an được điều động, luân chuyển trong tuần](https://laodong.vn/thoi-su/8-tuong-ta-cong-an-duoc-dieu-dong-luan-chuyen-trong-tuan-888995.ldo) ([Lao Động](https://laodong.vn))
-- [Thư ký Hội đồng An ninh Nga sẽ thăm Việt Nam](https://laodong.vn/the-gioi/thu-ky-hoi-dong-an-ninh-nga-se-tham-viet-nam-888994.ldo) ([Lao Động](https://laodong.vn))
-- [Man United sắp trọng thưởng Solskjaer dù chưa có danh hiệu nào](https://laodong.vn/bong-da-quoc-te/man-united-sap-trong-thuong-solskjaer-du-chua-co-danh-hieu-nao-888986.ldo) ([Lao Động](https://laodong.vn))
-- [Thi vào lớp 10: Lý do học sinh lo lắng khi Lịch sử là môn thi thứ 4](https://laodong.vn/giao-duc/thi-vao-lop-10-ly-do-hoc-sinh-lo-lang-khi-lich-su-la-mon-thi-thu-4-888893.ldo) ([Lao Động](https://laodong.vn))
-- [Các 'ông lớn' LG, Foxconn, Samsung đã giải quyết việc làm cho bao nhiêu lao động Việt Nam?](https://cafebiz.vn/cac-ong-lon-lg-foxconn-samsung-da-giai-quyet-viec-lam-cho-bao-nhieu-lao-dong-viet-nam-20210314110932613.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -117,8 +117,8 @@
 02. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
 03. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 04. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-05. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
-06. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
+05. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
+06. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
 07. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 08. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 09. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
