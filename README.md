@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
+- Current weather is scattered clouds.
 - Temperature is 27°C.
-- Feels Like 26.81°C.
-- Air Visual is 137.
+- Feels Like 27.17°C.
+- Air Visual is 116.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tuần mới, con giáp nào được thần tài chấm số đỏ, làm gì cũng hái ra tiền?](https://cafebiz.vn/tuan-moi-con-giap-nao-duoc-than-tai-cham-so-do-lam-gi-cung-hai-ra-tien-20210313114714213.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắt cá bằng miệng, nam thanh niên suýt chết](https://laodong.vn/suc-khoe/bat-ca-bang-mieng-nam-thanh-nien-suyt-chet-888959.ldo) ([Lao Động](https://laodong.vn))
+- [Hoàng đế Trung Hoa duy nhất trong lịch sử bị sét đánh chết là ai?](https://cafebiz.vn/hoang-de-trung-hoa-duy-nhat-trong-lich-su-bi-set-danh-chet-la-ai-20210314145638719.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thêm một khoản đầu tư đình đám ngành tài chính dính bê bối, SoftBank sắp mất trắng 2 tỷ USD vốn đầu tư](https://cafebiz.vn/them-mot-khoan-dau-tu-dinh-dam-nganh-tai-chinh-dinh-be-boi-softbank-sap-mat-trang-2-ty-usd-von-dau-tu-20210314132803039.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vốn cho thực hiện Quy hoạch Điện VIII: Khó khả thi?](https://laodong.vn/lao-dong-cuoi-tuan/von-cho-thuc-hien-quy-hoach-dien-viii-kho-kha-thi-888089.ldo) ([Lao Động](https://laodong.vn))
+- [Đảng của bà Merkel đối mặt thất bại trước khi Đức chọn thủ tướng mới](https://laodong.vn/the-gioi/dang-cua-ba-merkel-doi-mat-that-bai-truoc-khi-duc-chon-thu-tuong-moi-888970.ldo) ([Lao Động](https://laodong.vn))
+- [Đề nghị khẩn trương xử lý tang vật là 412 lóng, khúc gỗ thông 3 lá](https://laodong.vn/xa-hoi/de-nghi-khan-truong-xu-ly-tang-vat-la-412-long-khuc-go-thong-3-la-888969.ldo) ([Lao Động](https://laodong.vn))
+- [Xem trực tiếp Viettel vs Bình Dương tại V.League 2021 ở kênh nào?](https://laodong.vn/bong-da/xem-truc-tiep-viettel-vs-binh-duong-tai-vleague-2021-o-kenh-nao-888962.ldo) ([Lao Động](https://laodong.vn))
+- [Giả thuyết mới &quot;bật mí&quot; bí ẩn xây kim tự tháp Ai Cập](https://laodong.vn/the-gioi/gia-thuyet-moi-bat-mi-bi-an-xay-kim-tu-thap-ai-cap-888965.ldo) ([Lao Động](https://laodong.vn))
 - [Sinh ra nghèo khó nhưng mãi chưa giàu là do bạn kém cỏi, còn tỷ phú này khẳng định, sản nghiệp của ông từ túp lều tranh mà ra](https://cafebiz.vn/sinh-ra-ngheo-kho-nhung-mai-chua-giau-la-do-ban-kem-coi-con-ty-phu-nay-khang-dinh-san-nghiep-cua-ong-tu-tup-leu-tranh-ma-ra-20210314143446032.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dựng mô hình tàu HQ-604, tưởng niệm 64 liệt sĩ hi sinh bảo vệ Gạc Ma](https://laodong.vn/xa-hoi/dung-mo-hinh-tau-hq-604-tuong-niem-64-liet-si-hi-sinh-bao-ve-gac-ma-888956.ldo) ([Lao Động](https://laodong.vn))
-- [Oraph Winfrey dùng hàng tỷ đô để “mua hạnh phúc” như thế nào? Mua máy bay riêng để khỏi bị làm phiền, đầu tư 1 vườn cây vì “giá quả bơ quá đắt”](https://cafebiz.vn/oraph-winfrey-dung-hang-ty-do-de-mua-hanh-phuc-nhu-the-nao-mua-may-bay-rieng-de-khoi-bi-lam-phien-dau-tu-1-vuon-cay-vi-gia-qua-bo-qua-dat-20210314143247502.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhiều đoàn thể, thân nhân dâng hương tưởng niệm 64 liệt sĩ Gạc Ma](https://laodong.vn/xa-hoi/nhieu-doan-the-than-nhan-dang-huong-tuong-niem-64-liet-si-gac-ma-888936.ldo) ([Lao Động](https://laodong.vn))
-- [Thông xe cầu Cửa Hội](https://vnexpress.net/thong-xe-cau-cua-hoi-4248250.html) ([VNExpress](https://vnexpress.net))
-- [Lương của giáo viên các cấp thay đổi ra sao từ 20.3?](https://laodong.vn/giao-duc/luong-cua-giao-vien-cac-cap-thay-doi-ra-sao-tu-203-888964.ldo) ([Lao Động](https://laodong.vn))
-- [Những món đồ nên thay thường xuyên trong nhà bếp](https://laodong.vn/gia-dinh-hon-nhan/nhung-mon-do-nen-thay-thuong-xuyen-trong-nha-bep-888960.ldo) ([Lao Động](https://laodong.vn))
-- [Khai báo tạm trú, tạm vắng theo quy định mới: Những điều cần biết](https://laodong.vn/ban-doc/khai-bao-tam-tru-tam-vang-theo-quy-dinh-moi-nhung-dieu-can-biet-888922.ldo) ([Lao Động](https://laodong.vn))
-- [Hé lộ thiết kế ô tô mới của Vinfast: SUV cỡ đại có 2 bản điện và xăng, hệ thống trợ lái thông minh, chạy quãng đường 500 km/lần sạc?](https://cafebiz.vn/he-lo-thiet-ke-o-to-moi-cua-vinfast-suv-co-dai-co-2-ban-dien-va-xang-he-thong-tro-lai-thong-minh-chay-quang-duong-500-km-lan-sac-20210314132157475.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thú chơi "xế hộp" của cầu thủ Việt](https://cafebiz.vn/thu-choi-xe-hop-cua-cau-thu-viet-2021031414363841.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
