@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
-- Temperature is 27°C.
-- Feels Like 26.09°C.
-- Air Visual is 105.
+- Current weather is few clouds.
+- Temperature is 26°C.
+- Feels Like 24.71°C.
+- Air Visual is 115.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Trường THPT Chuyên Khoa học Tự nhiên lùi lịch thi vào lớp 10](https://laodong.vn/giao-duc/truong-thpt-chuyen-khoa-hoc-tu-nhien-lui-lich-thi-vao-lop-10-888991.ldo) ([Lao Động](https://laodong.vn))
+- [Thi vào lớp 10: Lý do học sinh lo lắng khi Lịch sử là môn thi thứ 4](https://laodong.vn/giao-duc/thi-vao-lop-10-ly-do-hoc-sinh-lo-lang-khi-lich-su-la-mon-thi-thu-4-888893.ldo) ([Lao Động](https://laodong.vn))
+- [Australia tiếp tục phát hiện ca mắc COVID-19 trong cộng đồng](https://laodong.vn/the-gioi/australia-tiep-tuc-phat-hien-ca-mac-covid-19-trong-cong-dong-888981.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Trọng tài phải trau dồi luật, đi bắt phủi, bắt không công cũng được&quot;](https://laodong.vn/bong-da/trong-tai-phai-trau-doi-luat-di-bat-phui-bat-khong-cong-cung-duoc-888989.ldo) ([Lao Động](https://laodong.vn))
+- [Các 'ông lớn' LG, Foxconn, Samsung đã giải quyết việc làm cho bao nhiêu lao động Việt Nam?](https://cafebiz.vn/cac-ong-lon-lg-foxconn-samsung-da-giai-quyet-viec-lam-cho-bao-nhieu-lao-dong-viet-nam-20210314110932613.chn) ([CafeBiz](https://cafebiz.vn))
+- [LĐLĐ Đà Nẵng: Phát động thi đua năm 2021 với mục tiêu ổn định việc làm](https://laodong.vn/cong-doan/ldld-da-nang-phat-dong-thi-dua-nam-2021-voi-muc-tieu-on-dinh-viec-lam-888997.ldo) ([Lao Động](https://laodong.vn))
+- [Điều tra cái chết có dấu hiệu bất thường của nam thanh niên](https://laodong.vn/xa-hoi/dieu-tra-cai-chet-co-dau-hieu-bat-thuong-cua-nam-thanh-nien-888984.ldo) ([Lao Động](https://laodong.vn))
 - [3 loại quả giá rẻ được mệnh danh là "vua của huyết áp", vừa điều hòa huyết áp lại giúp bảo vệ mạch máu vượt trội, tiếc là nhiều người vẫn bỏ phí](https://cafebiz.vn/3-loai-qua-gia-re-duoc-menh-danh-la-vua-cua-huyet-ap-vua-dieu-hoa-huyet-ap-lai-giup-bao-ve-mach-mau-vuot-troi-tiec-la-nhieu-nguoi-van-bo-phi-20210314153811218.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bình Phước lại bắt được nhóm người Trung Quốc nhập cảnh trái phép](https://tuoitre.vn/binh-phuoc-lai-bat-duoc-nhom-nguoi-trung-quoc-nhap-canh-trai-phep-2021031416440238.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nga sắp phát triển thành công thuốc chống tình trạng kháng kháng sinh](https://laodong.vn/the-gioi/nga-sap-phat-trien-thanh-cong-thuoc-chong-tinh-trang-khang-khang-sinh-888972.ldo) ([Lao Động](https://laodong.vn))
-- [Singapore - Australia triển khai “bong bóng du lịch hàng không”](https://laodong.vn/the-gioi/singapore-australia-trien-khai-bong-bong-du-lich-hang-khong-888971.ldo) ([Lao Động](https://laodong.vn))
-- [Klopp thừa nhận Van Dijk có thể bỏ lỡ cả EURO 2020](https://laodong.vn/bong-da-quoc-te/klopp-thua-nhan-van-dijk-co-the-bo-lo-ca-euro-2020-888977.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Tuyến metro số 2 &quot;chạy nước rút&quot; giải phóng mặt bằng](https://laodong.vn/xa-hoi/tphcm-tuyen-metro-so-2-chay-nuoc-rut-giai-phong-mat-bang-888968.ldo) ([Lao Động](https://laodong.vn))
 - [Australia chấn động với hàng loạt quỷ Tasmania chết bí ẩn](https://laodong.vn/the-gioi/australia-chan-dong-voi-hang-loat-quy-tasmania-chet-bi-an-888975.ldo) ([Lao Động](https://laodong.vn))
-- [2 học sinh lớp 5 đạp xe 140km "trốn" nhà từ Thái Bình vào Thanh Hoá và câu chuyện xúc động phía sau](https://cafebiz.vn/2-hoc-sinh-lop-5-dap-xe-140km-tron-nha-tu-thai-binh-vao-thanh-hoa-va-cau-chuyen-xuc-dong-phia-sau-20210314155928141.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhặt được 922 triệu đồng, cậu bé đem trả nhưng người đánh rơi không nhận vì "nhà tôi không thiếu tiền, nhặt được thì cứ tiêu đi"](https://cafebiz.vn/nhat-duoc-922-trieu-dong-cau-be-dem-tra-nhung-nguoi-danh-roi-khong-nhan-vi-nha-toi-khong-thieu-tien-nhat-duoc-thi-cu-tieu-di-20210314161616361.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
