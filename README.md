@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 27°C.
 - Feels Like 26.45°C.
-- Air Visual is 110.
+- Air Visual is 111.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Giá hồ tiêu tăng sốc, thương lái vẫn tiếp tục găm hàng chờ mức giá &quot;đỉnh&quot;](https://laodong.vn/kinh-te/gia-ho-tieu-tang-soc-thuong-lai-van-tiep-tuc-gam-hang-cho-muc-gia-dinh-888976.ldo) ([Lao Động](https://laodong.vn))
+- [2 học sinh lớp 5 đạp xe 140km "trốn" nhà từ Thái Bình vào Thanh Hoá và câu chuyện xúc động phía sau](https://cafebiz.vn/2-hoc-sinh-lop-5-dap-xe-140km-tron-nha-tu-thai-binh-vao-thanh-hoa-va-cau-chuyen-xuc-dong-phia-sau-20210314155928141.chn) ([CafeBiz](https://cafebiz.vn))
+- [Muốn trồng cọ dọc cao tốc, tỉnh Phú Thọ phải đáp ứng hàng loạt yêu cầu](https://laodong.vn/xa-hoi/muon-trong-co-doc-cao-toc-tinh-phu-tho-phai-dap-ung-hang-loat-yeu-cau-888978.ldo) ([Lao Động](https://laodong.vn))
+- [Nhặt được 922 triệu đồng, cậu bé đem trả nhưng người đánh rơi không nhận vì "nhà tôi không thiếu tiền, nhặt được thì cứ tiêu đi"](https://cafebiz.vn/nhat-duoc-922-trieu-dong-cau-be-dem-tra-nhung-nguoi-danh-roi-khong-nhan-vi-nha-toi-khong-thieu-tien-nhat-duoc-thi-cu-tieu-di-20210314161616361.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hoàng gia Anh tuyên bố mở cuộc điều tra Meghan Markle không nhân nhượng, tiếp tục “hiệp đấu” mới khiến tình hình thêm căng thẳng](https://cafebiz.vn/hoang-gia-anh-tuyen-bo-mo-cuoc-dieu-tra-meghan-markle-khong-nhan-nhuong-tiep-tuc-hiep-dau-moi-khien-tinh-hinh-them-cang-thang-20210314161015673.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mãnh tướng bí ẩn mạnh hơn Trương Phi, suýt giết Mã Siêu, Tào Tháo bội phục](https://cafebiz.vn/manh-tuong-bi-an-manh-hon-truong-phi-suyt-giet-ma-sieu-tao-thao-boi-phuc-20210314145855821.chn) ([CafeBiz](https://cafebiz.vn))
+- [LĐLĐ TP. Huế: Hàng trăm đoàn viên ra quân &quot;Ngày Chủ nhật xanh&quot;](https://laodong.vn/cong-doan/ldld-tp-hue-hang-tram-doan-vien-ra-quan-ngay-chu-nhat-xanh-888973.ldo) ([Lao Động](https://laodong.vn))
+- [Trường miền núi dựng bảng ghi thông tin, hình ảnh 64 liệt sĩ Gạc Ma giữa sân trường](https://tuoitre.vn/truong-mien-nui-dung-bang-ghi-thong-tin-hinh-anh-64-liet-si-gac-ma-giua-san-truong-20210314151408241.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Có giá lên tới gần 60 triệu đồng cho 4 ngày 3 đêm, tour Sơn Đoòng trong năm 2021 đã kín chỗ](https://cafebiz.vn/co-gia-len-toi-gan-60-trieu-dong-cho-4-ngay-3-dem-tour-son-doong-trong-nam-2021-da-kin-cho-20210314113351228.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tuần mới, con giáp nào được thần tài chấm số đỏ, làm gì cũng hái ra tiền?](https://cafebiz.vn/tuan-moi-con-giap-nao-duoc-than-tai-cham-so-do-lam-gi-cung-hai-ra-tien-20210313114714213.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
