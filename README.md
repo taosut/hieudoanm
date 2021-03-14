@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is overcast clouds.
 - Temperature is 26°C.
 - Feels Like 26.14°C.
-- Air Visual is 120.
+- Air Visual is 119.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Cung Tuấn có đi lại &quot;vết xe đổ&quot; một thời của Tiêu Chiến, Vương Nhất Bác?](https://laodong.vn/giai-tri/cung-tuan-co-di-lai-vet-xe-do-mot-thoi-cua-tieu-chien-vuong-nhat-bac-888953.ldo) ([Lao Động](https://laodong.vn))
+- [Thêm Grab muốn niêm yết tại Mỹ thông qua SPAC, vì đâu mô hình này đột nhiên thành kênh đầu tư thời thượng?](https://cafebiz.vn/them-grab-muon-niem-yet-tai-my-thong-qua-spac-vi-dau-mo-hinh-nay-dot-nhien-thanh-kenh-dau-tu-thoi-thuong-20210314132032678.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xong cách ly ở Hải Dương, vừa về quê thì nhận được kết quả dương tính](https://laodong.vn/xa-hoi/xong-cach-ly-o-hai-duong-vua-ve-que-thi-nhan-duoc-ket-qua-duong-tinh-888952.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Ông Võ Hoàng Yên mà chữa được bệnh câm, nước ta đã có giải Nobel Y học&quot;](https://laodong.vn/ban-doc/ong-vo-hoang-yen-ma-chua-duoc-benh-cam-nuoc-ta-da-co-giai-nobel-y-hoc-888931.ldo) ([Lao Động](https://laodong.vn))
+- [Nỗi buồn từ cơn sốt nhà giá 1 euro ở Italy](https://cafebiz.vn/noi-buon-tu-con-sot-nha-gia-1-euro-o-italy-20210314111039255.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tâm lý lo lắng sẽ “chậm chân" khiến giới đầu tư có quyết định vội vàng xuống tiền tại những nơi sốt đất](https://cafebiz.vn/tam-ly-lo-lang-se-cham-chan-khien-gioi-dau-tu-co-quyet-dinh-voi-vang-xuong-tien-tai-nhung-noi-sot-dat-20210314123930434.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bất cứ ai cũng đều là nghệ nhân hạnh phúc của chính mình: Càng đơn giản, vạn sự càng như ý](https://cafebiz.vn/bat-cu-ai-cung-deu-la-nghe-nhan-hanh-phuc-cua-chinh-minh-cang-don-gian-van-su-cang-nhu-y-20210309171303468.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lô đất &quot;vàng&quot; khiến nữ đại gia Dương Thị Bạch Diệp phải hầu tòa](https://laodong.vn/photo/lo-dat-vang-khien-nu-dai-gia-duong-thi-bach-diep-phai-hau-toa-888864.ldo) ([Lao Động](https://laodong.vn))
 - [Chuyên gia thế giới dự báo giá vàng tuần tới trước thời điểm quan trọng](https://laodong.vn/the-gioi/chuyen-gia-the-gioi-du-bao-gia-vang-tuan-toi-truoc-thoi-diem-quan-trong-888923.ldo) ([Lao Động](https://laodong.vn))
 - [HLV Đức Thắng: Cầu thủ Hoàng Anh Gia Lai đang ở độ chín của sự nghiệp](https://laodong.vn/video/hlv-duc-thang-cau-thu-hoang-anh-gia-lai-dang-o-do-chin-cua-su-nghiep-888946.ldo) ([Lao Động](https://laodong.vn))
-- [Nỗi buồn từ cơn sốt nhà giá 1 euro ở Italy](https://cafebiz.vn/noi-buon-tu-con-sot-nha-gia-1-euro-o-italy-2021031412344489.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dự báo thời tiết 7 ngày tới: Bắc Bộ chuyển nắng, bức xạ tia UV rất cao](https://laodong.vn/infographic/du-bao-thoi-tiet-7-ngay-toi-bac-bo-chuyen-nang-buc-xa-tia-uv-rat-cao-888934.ldo) ([Lao Động](https://laodong.vn))
-- [Công chứng vi bằng có giá trị pháp lý không?](https://laodong.vn/bat-dong-san/cong-chung-vi-bang-co-gia-tri-phap-ly-khong-888679.ldo) ([Lao Động](https://laodong.vn))
-- [Khởi động chương trình trồng một tỷ cây xanh](https://vnexpress.net/khoi-dong-chuong-trinh-trong-mot-ty-cay-xanh-4248239.html) ([VNExpress](https://vnexpress.net))
-- [ACV sẽ khởi công nhà ga T3 Tân Sơn Nhất trong tháng 10/2021](https://cafebiz.vn/acv-se-khoi-cong-nha-ga-t3-tan-son-nhat-trong-thang-10-2021-20210314123229844.chn) ([CafeBiz](https://cafebiz.vn))
-- ["Con thích một chiếc ipad hơn một con chó" - câu nói của một đứa trẻ thế hệ Alpha khiến nhiều cha mẹ phải giật mình](https://cafebiz.vn/con-thich-mot-chiec-ipad-hon-mot-con-cho-cau-noi-cua-mot-dua-tre-the-he-alpha-khien-nhieu-cha-me-phai-giat-minh-20210314105508913.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
