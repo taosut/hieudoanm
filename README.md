@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [TP.HCM đã nhận 16 hồ sơ tự ứng đại biểu Quốc hội, 13 hồ sơ tự ứng cử đại biểu HĐND](https://tuoitre.vn/tp-hcm-da-nhan-16-ho-so-tu-ung-dai-bieu-quoc-hoi-13-ho-so-tu-ung-cu-dai-bieu-hdnd-20210314221217708.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Cô gái Vĩnh Long ho, sốt, kết quả xét nghiệm âm tính COVID-19](https://tuoitre.vn/co-gai-vinh-long-ho-sot-ket-qua-xet-nghiem-am-tinh-covid-19-20210314210936223.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thua Viettel, huấn luyện viên Phan Thanh Hùng vẫn khen ngợi học trò](https://laodong.vn/bong-da/thua-viettel-huan-luyen-vien-phan-thanh-hung-van-khen-ngoi-hoc-tro-889068.ldo) ([Lao Động](https://laodong.vn))
 - [Phát hiện kho chứa hàng ngàn mỹ phẩm giả các nhãn hiệu nổi tiếng](https://cafebiz.vn/phat-hien-kho-chua-hang-ngan-my-pham-gia-cac-nhan-hieu-noi-tieng-20210314223028906.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chile  &quot;vô địch&quot; tiêm vaccine COVID-19 ở Mỹ Latinh](https://laodong.vn/the-gioi/chile-vo-dich-tiem-vaccine-covid-19-o-my-latinh-889064.ldo) ([Lao Động](https://laodong.vn))
@@ -83,8 +85,6 @@
 - [5 vạn người đổ về chùa Tam Chúc, tỉnh Hà Nam phải tìm giải pháp](https://tuoitre.vn/5-van-nguoi-do-ve-chua-tam-chuc-tinh-ha-nam-phai-tim-giai-phap-20210314210122759.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nghiêm Xuân Tú xuất sắc, Hải Huy hay, Than Quảng Ninh đánh bại TP.HCM 2-0](https://laodong.vn/bong-da/nghiem-xuan-tu-xuat-sac-hai-huy-hay-than-quang-ninh-danh-bai-tphcm-2-0-889061.ldo) ([Lao Động](https://laodong.vn))
 - [Giá thức ăn chăn nuôi tăng mạnh khiến nông dân gặp khó](https://cafebiz.vn/gia-thuc-an-chan-nuoi-tang-manh-khien-nong-dan-gap-kho-20210314205418167.chn) ([CafeBiz](https://cafebiz.vn))
-- [9 vật dụng quen thuộc trong gia đình cực kỳ độc hại nếu sử dụng sai cách](https://cafebiz.vn/9-vat-dung-quen-thuoc-trong-gia-dinh-cuc-ky-doc-hai-neu-su-dung-sai-cach-20210314205659435.chn) ([CafeBiz](https://cafebiz.vn))
-- [Adidas tiết lộ kế hoạch 5 năm đầy tham vọng](https://cafebiz.vn/adidas-tiet-lo-ke-hoach-5-nam-day-tham-vong-20210314202125256.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
