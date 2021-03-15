@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bắc Kạn xây dựng chính quyền điện tử](https://vnexpress.net/bac-kan-xay-dung-chinh-quyen-dien-tu-4248873.html) ([VNExpress](https://vnexpress.net))
+- [Vụ phá rừng ở xã Suối Tân: Cây gỗ bị chặt hạ trên phạm vi hơn 7.000m2](https://laodong.vn/xa-hoi/vu-pha-rung-o-xa-suoi-tan-cay-go-bi-chat-ha-tren-pham-vi-hon-7000m2-889340.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Ninh: Phạt tù 2 đối tượng chống đối lực lượng phòng dịch](https://laodong.vn/phap-luat/quang-ninh-phat-tu-2-doi-tuong-chong-doi-luc-luong-phong-dich-889356.ldo) ([Lao Động](https://laodong.vn))
+- [Khởi tố giám đốc doanh nghiệp &quot;chạy điều chuyển” Giám đốc Công an An Giang](https://laodong.vn/phap-luat/khoi-to-giam-doc-doanh-nghiep-chay-dieu-chuyen-giam-doc-cong-an-an-giang-889365.ldo) ([Lao Động](https://laodong.vn))
+- [Quy trình bầu Chủ tịch Nước, Thủ tướng, Chủ tịch Quốc hội như thế nào?](https://laodong.vn/thoi-su/quy-trinh-bau-chu-tich-nuoc-thu-tuong-chu-tich-quoc-hoi-nhu-the-nao-889364.ldo) ([Lao Động](https://laodong.vn))
 - [Bị cáo Dương Thị Bạch Diệp trả lời quanh co trước tòa](https://laodong.vn/phap-luat/bi-cao-duong-thi-bach-diep-tra-loi-quanh-co-truoc-toa-889338.ldo) ([Lao Động](https://laodong.vn))
 - [Techcombank lại gặp lỗi không thể truy cập, vẫn là "Bad Request 100400" đầy ám ảnh của những ngày cận Tết](https://cafebiz.vn/techcombank-lai-gap-loi-khong-the-truy-cap-van-la-bad-request-100400-day-am-anh-cua-nhung-ngay-can-tet-20210315174628807.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dữ liệu của Trung Quốc tác động mạnh đến giá vàng](https://laodong.vn/the-gioi/du-lieu-cua-trung-quoc-tac-dong-manh-den-gia-vang-889361.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ Công Thương: Cắt giảm năng lượng tái tạo là tình huống bắt buộc](https://laodong.vn/kinh-te/bo-cong-thuong-cat-giam-nang-luong-tai-tao-la-tinh-huong-bat-buoc-889358.ldo) ([Lao Động](https://laodong.vn))
 - [Cơ quan thuộc Chính phủ phải kiểm toán nội bộ](https://laodong.vn/kinh-te/co-quan-thuoc-chinh-phu-phai-kiem-toan-noi-bo-889357.ldo) ([Lao Động](https://laodong.vn))
 - [Lập phương án phân luồng khách đến chùa Tam Chúc](https://vnexpress.net/lap-phuong-an-phan-luong-khach-den-chua-tam-chuc-4248621.html) ([VNExpress](https://vnexpress.net))
 - [Jack Ma "ngã ngựa", Elon Musk thành "siêu anh hùng" với người Trung Quốc](https://cafebiz.vn/jack-ma-nga-ngua-elon-musk-thanh-sieu-anh-hung-voi-nguoi-trung-quoc-20210315164453015.chn) ([CafeBiz](https://cafebiz.vn))
-- [Singapore và Australia tính mở "bong bóng du lịch" hàng không](https://cafebiz.vn/singapore-va-australia-tinh-mo-bong-bong-du-lich-hang-khong-20210315164701042.chn) ([CafeBiz](https://cafebiz.vn))
-- [CEO Nguyễn Mạnh Toàn : Cứ làm nhiệt tình, người khác sẽ ghi nhận](https://cafebiz.vn/ceo-nguyen-manh-toan-cu-lam-nhiet-tinh-nguoi-khac-se-ghi-nhan-20210315160819345.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mua sắm ở kênh online như tại cửa hàng truyền thống: Lời khuyên nào cho doanh nghiệp](https://cafebiz.vn/mua-sam-o-kenh-online-nhu-tai-cua-hang-truyen-thong-loi-khuyen-nao-cho-doanh-nghiep-20210315121127784.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
