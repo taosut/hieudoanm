@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 25.31°C.
-- Air Visual is 106.
+- Feels Like 24.53°C.
+- Air Visual is 99.
 
 **WEATHER**
 
@@ -49,6 +49,7 @@
 **GOOGLE TRENDS**
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
+- [![BTS Grammy 2021](https://img.shields.io/static/v1?label=BTS%20Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=BTS%20Grammy%202021)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
 - [![Chua Tam truc](https://img.shields.io/static/v1?label=Chua%20Tam%20truc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chua%20Tam%20truc)
 - [![Di Maria](https://img.shields.io/static/v1?label=Di%20Maria&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%20Maria)
@@ -61,11 +62,10 @@
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Lee Nguyễn](https://img.shields.io/static/v1?label=Lee%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Nguy%E1%BB%85n)
 - [![Leicester City](https://img.shields.io/static/v1?label=Leicester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester%20City)
-- [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
 - [![Lý Nhã Kỳ](https://img.shields.io/static/v1?label=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
-- [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
+- [![Ngô Thiến](https://img.shields.io/static/v1?label=Ng%C3%B4%20Thi%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20Thi%E1%BA%BFn)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Vietnamairlines](https://img.shields.io/static/v1?label=Vietnamairlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietnamairlines)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nếu tối nay bạn định thức xuyên đêm làm việc, hãy nghe thử lời khuyên của Elon Musk](https://cafebiz.vn/neu-toi-nay-ban-dinh-thuc-xuyen-dem-lam-viec-hay-nghe-thu-loi-khuyen-cua-elon-musk-20210315165704909.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nóng nhất 24h: Thơ Nguyễn nói gì trong buổi làm việc với cơ quan chức năng?](https://laodong.vn/video-thoi-su/nong-nhat-24h-tho-nguyen-noi-gi-trong-buoi-lam-viec-voi-co-quan-chuc-nang-889379.ldo) ([Lao Động](https://laodong.vn))
+- [Mẹ chồng có thấu hiểu nỗi áp lực làm việc nhà của nàng dâu?](https://laodong.vn/chuyen-nha-minh/me-chong-co-thau-hieu-noi-ap-luc-lam-viec-nha-cua-nang-dau-889140.ldo) ([Lao Động](https://laodong.vn))
+- [Tin bóng đá tối 15.3: Man United muốn tái ngộ Ronaldo](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-153-man-united-muon-tai-ngo-ronaldo-889304.ldo) ([Lao Động](https://laodong.vn))
+- [Nhà sáng lập nền tảng quản lý tài chính hướng dẫn bạn cách lập kế hoạch chi tiêu và xem xét ngân sách hợp lý trong vòng 1 năm](https://cafebiz.vn/nha-sang-lap-nen-tang-quan-ly-tai-chinh-huong-dan-ban-cach-lap-ke-hoach-chi-tieu-va-xem-xet-ngan-sach-hop-ly-trong-vong-1-nam-20210315194939149.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội: Hàng loạt &quot;ma men&quot; bị xử phạt vì vi phạm nồng độ cồn](https://laodong.vn/photo/ha-noi-hang-loat-ma-men-bi-xu-phat-vi-vi-pham-nong-do-con-889385.ldo) ([Lao Động](https://laodong.vn))
+- [Trường ĐH Hutech đề nghị công an vào cuộc điều tra một clip nhạy cảm](https://laodong.vn/giao-duc/truong-dh-hutech-de-nghi-cong-an-vao-cuoc-dieu-tra-mot-clip-nhay-cam-889407.ldo) ([Lao Động](https://laodong.vn))
+- [Tự ứng cử đại biểu Quốc hội: Hải Phòng có 1, Hải Dương 3](https://tuoitre.vn/tu-ung-cu-dai-bieu-quoc-hoi-hai-phong-co-1-hai-duong-3-20210315190935129.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Giáo dục 24/7: Nguyên tắc ôn thi nằm lòng cho kỳ thi vào lớp 10](https://laodong.vn/video/giao-duc-247-nguyen-tac-on-thi-nam-long-cho-ky-thi-vao-lop-10-889275.ldo) ([Lao Động](https://laodong.vn))
 - [Đặt bút vẽ một chiếc cây, mỗi người cho ra một tác phẩm riêng: Bạn có biết tác phẩm của người hướng nội khác người hướng ngoại ở điểm nào không?](https://cafebiz.vn/dat-but-ve-mot-chiec-cay-moi-nguoi-cho-ra-mot-tac-pham-rieng-ban-co-biet-tac-pham-cua-nguoi-huong-noi-khac-nguoi-huong-ngoai-o-diem-nao-khong-20210315194343543.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ăn đúng cách để sữa chua phát huy tác dụng](https://cafebiz.vn/an-dung-cach-de-sua-chua-phat-huy-tac-dung-20210315164039023.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hé lộ nguyên nhân tên cướp tấn công ngân hàng ở Phúc Thọ, Hà Nội](https://laodong.vn/phap-luat/he-lo-nguyen-nhan-ten-cuop-tan-cong-ngan-hang-o-phuc-tho-ha-noi-889418.ldo) ([Lao Động](https://laodong.vn))
-- [Hướng dẫn cách ghi thông tin các loại đất trong sổ đỏ](https://laodong.vn/bat-dong-san/huong-dan-cach-ghi-thong-tin-cac-loai-dat-trong-so-do-889343.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam có thêm 3 ca mắc COVID-19 mới, được cách ly sau nhập cảnh](https://cafebiz.vn/viet-nam-co-them-3-ca-mac-covid-19-moi-duoc-cach-ly-sau-nhap-canh-20210315192052694.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ngồi xuống và nhìn vào tổng quan khuôn mặt, chúng tôi sẽ tiết lộ vào thời điểm nào thì bạn sẽ giàu có phú quý?](https://cafebiz.vn/ngoi-xuong-va-nhin-vao-tong-quan-khuon-mat-chung-toi-se-tiet-lo-vao-thoi-diem-nao-thi-ban-se-giau-co-phu-quy-20210315191626902.chn) ([CafeBiz](https://cafebiz.vn))
-- [Zidane khó nghĩ trước trận Real Madrid tái đấu Atalanta](https://laodong.vn/bong-da-quoc-te/zidane-kho-nghi-truoc-tran-real-madrid-tai-dau-atalanta-889401.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang: Tiêu hủy hàng nghìn sản phẩm hàng hóa vi phạm pháp luật](https://laodong.vn/phap-luat/bac-giang-tieu-huy-hang-nghin-san-pham-hang-hoa-vi-pham-phap-luat-889376.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM có 54 hồ sơ ứng cử đại biểu Quốc hội](https://laodong.vn/thoi-su/tphcm-co-54-ho-so-ung-cu-dai-bieu-quoc-hoi-889370.ldo) ([Lao Động](https://laodong.vn))
-- [Chạy xe máy vào làn ô tô, người đàn ông bị xe container cuốn vào gầm tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/chay-xe-may-vao-lan-o-to-nguoi-dan-ong-bi-xe-container-cuon-vao-gam-tu-vong-719842.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
