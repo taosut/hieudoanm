@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 24.53°C.
-- Air Visual is 99.
+- Feels Like 25.31°C.
+- Air Visual is 103.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nếu tối nay bạn định thức xuyên đêm làm việc, hãy nghe thử lời khuyên của Elon Musk](https://cafebiz.vn/neu-toi-nay-ban-dinh-thuc-xuyen-dem-lam-viec-hay-nghe-thu-loi-khuyen-cua-elon-musk-20210315165704909.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nóng nhất 24h: Thơ Nguyễn nói gì trong buổi làm việc với cơ quan chức năng?](https://laodong.vn/video-thoi-su/nong-nhat-24h-tho-nguyen-noi-gi-trong-buoi-lam-viec-voi-co-quan-chuc-nang-889379.ldo) ([Lao Động](https://laodong.vn))
-- [Mẹ chồng có thấu hiểu nỗi áp lực làm việc nhà của nàng dâu?](https://laodong.vn/chuyen-nha-minh/me-chong-co-thau-hieu-noi-ap-luc-lam-viec-nha-cua-nang-dau-889140.ldo) ([Lao Động](https://laodong.vn))
-- [Tin bóng đá tối 15.3: Man United muốn tái ngộ Ronaldo](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-153-man-united-muon-tai-ngo-ronaldo-889304.ldo) ([Lao Động](https://laodong.vn))
-- [Nhà sáng lập nền tảng quản lý tài chính hướng dẫn bạn cách lập kế hoạch chi tiêu và xem xét ngân sách hợp lý trong vòng 1 năm](https://cafebiz.vn/nha-sang-lap-nen-tang-quan-ly-tai-chinh-huong-dan-ban-cach-lap-ke-hoach-chi-tieu-va-xem-xet-ngan-sach-hop-ly-trong-vong-1-nam-20210315194939149.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội: Hàng loạt &quot;ma men&quot; bị xử phạt vì vi phạm nồng độ cồn](https://laodong.vn/photo/ha-noi-hang-loat-ma-men-bi-xu-phat-vi-vi-pham-nong-do-con-889385.ldo) ([Lao Động](https://laodong.vn))
-- [Trường ĐH Hutech đề nghị công an vào cuộc điều tra một clip nhạy cảm](https://laodong.vn/giao-duc/truong-dh-hutech-de-nghi-cong-an-vao-cuoc-dieu-tra-mot-clip-nhay-cam-889407.ldo) ([Lao Động](https://laodong.vn))
-- [Tự ứng cử đại biểu Quốc hội: Hải Phòng có 1, Hải Dương 3](https://tuoitre.vn/tu-ung-cu-dai-bieu-quoc-hoi-hai-phong-co-1-hai-duong-3-20210315190935129.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Giáo dục 24/7: Nguyên tắc ôn thi nằm lòng cho kỳ thi vào lớp 10](https://laodong.vn/video/giao-duc-247-nguyen-tac-on-thi-nam-long-cho-ky-thi-vao-lop-10-889275.ldo) ([Lao Động](https://laodong.vn))
-- [Đặt bút vẽ một chiếc cây, mỗi người cho ra một tác phẩm riêng: Bạn có biết tác phẩm của người hướng nội khác người hướng ngoại ở điểm nào không?](https://cafebiz.vn/dat-but-ve-mot-chiec-cay-moi-nguoi-cho-ra-mot-tac-pham-rieng-ban-co-biet-tac-pham-cua-nguoi-huong-noi-khac-nguoi-huong-ngoai-o-diem-nao-khong-20210315194343543.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tài xế công nghệ tông khách đến chết sau cãi vã gây rúng động Trung Quốc](https://laodong.vn/the-gioi/tai-xe-cong-nghe-tong-khach-den-chet-sau-cai-va-gay-rung-dong-trung-quoc-889427.ldo) ([Lao Động](https://laodong.vn))
+- [Từ Hi Thái hậu tuẫn táng 100 đứa trẻ vô tội cùng mình vì... sợ ma](https://cafebiz.vn/tu-hi-thai-hau-tuan-tang-100-dua-tre-vo-toi-cung-minh-vi-so-ma-20210315162458216.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tính đường dài, Real Madrid không thiết tha với Ronaldo](https://laodong.vn/bong-da-quoc-te/tinh-duong-dai-real-madrid-khong-thiet-tha-voi-ronaldo-889425.ldo) ([Lao Động](https://laodong.vn))
+- [Kinh tế 24h: Giá vàng bất ngờ tăng; Nhiều cổ đông chứng khoán bị xử phạt](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-bat-ngo-tang-nhieu-co-dong-chung-khoan-bi-xu-phat-889412.ldo) ([Lao Động](https://laodong.vn))
+- [Ly kỳ âm mưu đánh bom tỉ phú Ấn Độ giàu nhất Châu Á](https://laodong.vn/the-gioi/ly-ky-am-muu-danh-bom-ti-phu-an-do-giau-nhat-chau-a-889384.ldo) ([Lao Động](https://laodong.vn))
+- [Gia Cát Lượng vừa qua đời, Lưu Thiện liền sai người đi kiểm tra tài sản: Kết quả khiến hậu chủ Thục Hán đập bàn tức giận](https://cafebiz.vn/gia-cat-luong-vua-qua-doi-luu-thien-lien-sai-nguoi-di-kiem-tra-tai-san-ket-qua-khien-hau-chu-thuc-han-dap-ban-tuc-gian-20210315162101583.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hóc Môn, Bình Chánh, Nhà Bè dự kiến thành quận trước 2025](https://vnexpress.net/hoc-mon-binh-chanh-nha-be-du-kien-thanh-quan-truoc-2025-4248920.html) ([VNExpress](https://vnexpress.net))
+- [Thể thao 7 ngày: Thực hư việc HLV Park Hang-seo nhập tịch Việt Nam](https://laodong.vn/video-the-thao/the-thao-7-ngay-thuc-hu-viec-hlv-park-hang-seo-nhap-tich-viet-nam-889303.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Ngãi: Chợ đêm Sông Trà sắp bị dừng vì chỉ là... phố nhậu](https://tuoitre.vn/quang-ngai-cho-dem-song-tra-sap-bi-dung-vi-chi-la-pho-nhau-20210315190238165.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thủ tướng: Nhà nước đầu tư cao tốc không nhằm thu lợi nhuận](https://vnexpress.net/thu-tuong-nha-nuoc-dau-tu-cao-toc-khong-nham-thu-loi-nhuan-4248921.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
