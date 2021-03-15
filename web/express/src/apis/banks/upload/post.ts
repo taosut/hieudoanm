@@ -6,7 +6,7 @@ import Tesseract from 'tesseract.js';
 import imagemin from 'imagemin';
 import imageminMozjpeg from 'imagemin-mozjpeg';
 
-const banks = [
+const banks: Array<any> = [
   { names: ['abbank'] },
   { names: ['acb'], prefixes: ['20', '24'] },
   { names: ['agribank', 'agri'], prefixes: ['130', '490', '318'], length: 13 },

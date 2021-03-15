@@ -47,7 +47,9 @@
               "css-element-queries",
               "jquery",
               "typed-function",
-              "socket.io-client"
+              "socket.io-client",
+              "lodash",
+              "tesseract.js"
             ],
             "outputPath": "../express/dist/web",
             "index": "src/index.html",

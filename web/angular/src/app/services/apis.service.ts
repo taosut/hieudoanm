@@ -276,7 +276,7 @@ export class ApisService {
     return await this.httpService.get(url);
   }
 
-  public upload(file: File): Promise<any> {
+  public uploadBankImage(file: File): Promise<any> {
     const { base } = this;
     const formData: FormData = new FormData();
     formData.append("file", file);
