@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is few clouds.
-- Temperature is 26°C.
-- Feels Like 25.86°C.
-- Air Visual is 99.
+- Current weather is scattered clouds.
+- Temperature is 25°C.
+- Feels Like 24.53°C.
+- Air Visual is 96.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bắc Kạn xây dựng chính quyền điện tử](https://vnexpress.net/bac-kan-xay-dung-chinh-quyen-dien-tu-4248873.html) ([VNExpress](https://vnexpress.net))
-- [Vụ phá rừng ở xã Suối Tân: Cây gỗ bị chặt hạ trên phạm vi hơn 7.000m2](https://laodong.vn/xa-hoi/vu-pha-rung-o-xa-suoi-tan-cay-go-bi-chat-ha-tren-pham-vi-hon-7000m2-889340.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Ninh: Phạt tù 2 đối tượng chống đối lực lượng phòng dịch](https://laodong.vn/phap-luat/quang-ninh-phat-tu-2-doi-tuong-chong-doi-luc-luong-phong-dich-889356.ldo) ([Lao Động](https://laodong.vn))
-- [Khởi tố giám đốc doanh nghiệp &quot;chạy điều chuyển” Giám đốc Công an An Giang](https://laodong.vn/phap-luat/khoi-to-giam-doc-doanh-nghiep-chay-dieu-chuyen-giam-doc-cong-an-an-giang-889365.ldo) ([Lao Động](https://laodong.vn))
-- [Quy trình bầu Chủ tịch Nước, Thủ tướng, Chủ tịch Quốc hội như thế nào?](https://laodong.vn/thoi-su/quy-trinh-bau-chu-tich-nuoc-thu-tuong-chu-tich-quoc-hoi-nhu-the-nao-889364.ldo) ([Lao Động](https://laodong.vn))
-- [Bị cáo Dương Thị Bạch Diệp trả lời quanh co trước tòa](https://laodong.vn/phap-luat/bi-cao-duong-thi-bach-diep-tra-loi-quanh-co-truoc-toa-889338.ldo) ([Lao Động](https://laodong.vn))
-- [Techcombank lại gặp lỗi không thể truy cập, vẫn là "Bad Request 100400" đầy ám ảnh của những ngày cận Tết](https://cafebiz.vn/techcombank-lai-gap-loi-khong-the-truy-cap-van-la-bad-request-100400-day-am-anh-cua-nhung-ngay-can-tet-20210315174628807.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cơ quan thuộc Chính phủ phải kiểm toán nội bộ](https://laodong.vn/kinh-te/co-quan-thuoc-chinh-phu-phai-kiem-toan-noi-bo-889357.ldo) ([Lao Động](https://laodong.vn))
-- [Lập phương án phân luồng khách đến chùa Tam Chúc](https://vnexpress.net/lap-phuong-an-phan-luong-khach-den-chua-tam-chuc-4248621.html) ([VNExpress](https://vnexpress.net))
-- [Jack Ma "ngã ngựa", Elon Musk thành "siêu anh hùng" với người Trung Quốc](https://cafebiz.vn/jack-ma-nga-ngua-elon-musk-thanh-sieu-anh-hung-voi-nguoi-trung-quoc-20210315164453015.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thường trực Ban Bí thư Võ Văn Thưởng gặp mặt lãnh đạo tỉnh Đồng Nai](https://laodong.vn/thoi-su/thuong-truc-ban-bi-thu-vo-van-thuong-gap-mat-lanh-dao-tinh-dong-nai-889362.ldo) ([Lao Động](https://laodong.vn))
+- [Thường trực Chính phủ họp về các cảng trên sông Sài Gòn, Ba Son](https://tuoitre.vn/thuong-truc-chinh-phu-hop-ve-cac-cang-tren-song-sai-gon-ba-son-20210315181510966.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thị xã Kiến Tường nói bán một phần đất trường THPT là do 'không cập nhật'](https://tuoitre.vn/thi-xa-kien-tuong-noi-ban-mot-phan-dat-truong-thpt-la-do-khong-cap-nhat-20210315174714233.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Phát hiện hơn 600 tài xế vi phạm nồng độ cồn](https://vnexpress.net/phat-hien-hon-600-tai-xe-vi-pham-nong-do-con-4248471.html) ([VNExpress](https://vnexpress.net))
+- [Ghi nhận 3 ca mắc COVID-19 mới, 29 bệnh nhân được công bố khỏi bệnh](https://laodong.vn/y-te/ghi-nhan-3-ca-mac-covid-19-moi-29-benh-nhan-duoc-cong-bo-khoi-benh-889063.ldo) ([Lao Động](https://laodong.vn))
+- [Cử tri muốn Bộ GDĐT làm rõ quy định cho học sinh dùng điện thoại trong lớp](https://laodong.vn/thoi-su/cu-tri-muon-bo-gddt-lam-ro-quy-dinh-cho-hoc-sinh-dung-dien-thoai-trong-lop-889360.ldo) ([Lao Động](https://laodong.vn))
+- [Đắk Lắk: Khách hàng cùng ngành điện tiết giảm phụ tải trong mùa khô](https://laodong.vn/ban-doc/dak-lak-khach-hang-cung-nganh-dien-tiet-giam-phu-tai-trong-mua-kho-889337.ldo) ([Lao Động](https://laodong.vn))
+- [Viettel đặt mục tiêu có 165 sáng kiến đăng ký mới trong vòng 40 ngày](https://laodong.vn/cong-doan/viettel-dat-muc-tieu-co-165-sang-kien-dang-ky-moi-trong-vong-40-ngay-889243.ldo) ([Lao Động](https://laodong.vn))
+- [Thanh Hóa có 2 người tự ứng cử ĐBQH là giám đốc doanh nghiệp và dược sĩ](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/thanh-hoa-co-2-nguoi-tu-ung-cu-dbqh-la-giam-doc-doanh-nghiep-va-duoc-si-719827.html) ([VietNamNet](https://vietnamnet.vn))
+- [Vụ chìm tàu chở bụi than: Thùng chứa kín, không ảnh hưởng môi trường biển](https://laodong.vn/xa-hoi/vu-chim-tau-cho-bui-than-thung-chua-kin-khong-anh-huong-moi-truong-bien-889366.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
