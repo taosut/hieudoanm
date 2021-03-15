@@ -1,5 +1,8 @@
 # News
 
+- [Bị cáo Dương Thị Bạch Diệp trả lời quanh co trước tòa](https://laodong.vn/phap-luat/bi-cao-duong-thi-bach-diep-tra-loi-quanh-co-truoc-toa-889338.ldo) ([Lao Động](https://laodong.vn))
+- [Techcombank lại gặp lỗi không thể truy cập, vẫn là "Bad Request 100400" đầy ám ảnh của những ngày cận Tết](https://cafebiz.vn/techcombank-lai-gap-loi-khong-the-truy-cap-van-la-bad-request-100400-day-am-anh-cua-nhung-ngay-can-tet-20210315174628807.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dữ liệu của Trung Quốc tác động mạnh đến giá vàng](https://laodong.vn/the-gioi/du-lieu-cua-trung-quoc-tac-dong-manh-den-gia-vang-889361.ldo) ([Lao Động](https://laodong.vn))
 - [Bộ Công Thương: Cắt giảm năng lượng tái tạo là tình huống bắt buộc](https://laodong.vn/kinh-te/bo-cong-thuong-cat-giam-nang-luong-tai-tao-la-tinh-huong-bat-buoc-889358.ldo) ([Lao Động](https://laodong.vn))
 - [Cơ quan thuộc Chính phủ phải kiểm toán nội bộ](https://laodong.vn/kinh-te/co-quan-thuoc-chinh-phu-phai-kiem-toan-noi-bo-889357.ldo) ([Lao Động](https://laodong.vn))
 - [Lập phương án phân luồng khách đến chùa Tam Chúc](https://vnexpress.net/lap-phuong-an-phan-luong-khach-den-chua-tam-chuc-4248621.html) ([VNExpress](https://vnexpress.net))
@@ -9,8 +12,7 @@
 - [Mua sắm ở kênh online như tại cửa hàng truyền thống: Lời khuyên nào cho doanh nghiệp](https://cafebiz.vn/mua-sam-o-kenh-online-nhu-tai-cua-hang-truyen-thong-loi-khuyen-nao-cho-doanh-nghiep-20210315121127784.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tây Ban Nha thử nghiệm tuần làm việc 4 ngày](https://laodong.vn/the-gioi/tay-ban-nha-thu-nghiem-tuan-lam-viec-4-ngay-889347.ldo) ([Lao Động](https://laodong.vn))
 - [Xôn xao hình ảnh lớp học trở thành tỷ phú tương lai: Cả trăm người tay cầm chai nước, co quắp 1 chân, cùng hô vang khẩu hiệu quyết tâm làm giàu](https://cafebiz.vn/xon-xao-hinh-anh-lop-hoc-tro-thanh-ty-phu-tuong-lai-ca-tram-nguoi-tay-cam-chai-nuoc-co-quap-1-chan-cung-ho-vang-khau-hieu-quyet-tam-lam-giau-20210315172828917.chn) ([CafeBiz](https://cafebiz.vn))
-- [70 hộ dân ở Quảng Nam gặp khó khăn vì cầu treo bị cuốn trôi](https://laodong.vn/ban-doc/70-ho-dan-o-quang-nam-gap-kho-khan-vi-cau-treo-bi-cuon-troi-889311.ldo) ([Lao Động](https://laodong.vn))
-- [Yên Bái: Ra quân xử lý vi phạm nồng độ cồn, ma túy](https://laodong.vn/xa-hoi/yen-bai-ra-quan-xu-ly-vi-pham-nong-do-con-ma-tuy-889350.ldo) ([Lao Động](https://laodong.vn))
+- [Thơ Nguyễn 'xin vía' lên làm việc với công an, kêu mệt rồi xin về](https://tuoitre.vn/tho-nguyen-xin-via-len-lam-viec-voi-cong-an-keu-met-roi-xin-ve-20210315171027019.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chuyên gia chỉ rõ tác dụng phụ thường gặp sau tiêm vaccine COVID-19](https://laodong.vn/video-thoi-su/chuyen-gia-chi-ro-tac-dung-phu-thuong-gap-sau-tiem-vaccine-covid-19-889305.ldo) ([Lao Động](https://laodong.vn))
 - [Uống 1 lon bia do nể bạn, lái xe bị phạt 7 triệu đồng](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/uong-1-lon-bia-do-ne-ba-n-lai-xe-bi-phat-7-trieu-dong-719809.html) ([VietNamNet](https://vietnamnet.vn))
 - [YouTuber Thơ Nguyễn làm việc với cơ quan chức năng về video gây xôn xao](https://laodong.vn/xa-hoi/youtuber-tho-nguyen-lam-viec-voi-co-quan-chuc-nang-ve-video-gay-xon-xao-889277.ldo) ([Lao Động](https://laodong.vn))
@@ -55,7 +57,6 @@
 - [Stroopwafels Max & Alex chính thức nhận đối tác mở đại lý, nhà phân phối trên toàn quốc](https://cafebiz.vn/stroopwafels-max-alex-chinh-thuc-nhan-doi-tac-mo-dai-ly-nha-phan-phoi-tren-toan-quoc-20210315121058905.chn) ([CafeBiz](https://cafebiz.vn))
 - [Gặp những người đầu tiên tiêm thử nghiệm vaccine COVID-19 COVIVAX](https://laodong.vn/video-thoi-su/gap-nhung-nguoi-dau-tien-tiem-thu-nghiem-vaccine-covid-19-covivax-889226.ldo) ([Lao Động](https://laodong.vn))
 - [Khủng hoảng tuổi 32 thấm thía: Một, sợ bị cắt giảm lương - Hai, sợ thất nghiệp - Ba, sợ bệnh tật](https://cafebiz.vn/khung-hoang-tuoi-32-tham-thia-mot-so-bi-cat-giam-luong-hai-so-that-nghiep-ba-so-benh-tat-20210315145349177.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chùm ảnh: Bão cát phủ mịt trời Trung Quốc, Mông Cổ](https://laodong.vn/the-gioi/chum-anh-bao-cat-phu-mit-troi-trung-quoc-mong-co-889264.ldo) ([Lao Động](https://laodong.vn))
 - [Nam thanh niên ở TP Vũng Tàu 'vừa nằm vừa lái xe' bị phạt 7 triệu đồng](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/nam-thanh-nien-o-tp-vung-tau-vua-nam-vua-lai-xe-bi-phat-7-trieu-dong-719765.html) ([VietNamNet](https://vietnamnet.vn))
 - [Bị Mỹ triệt hạ mảng smartphone, Huawei tìm cơ hội trong ngành ô tô, khai mỏ](https://cafebiz.vn/bi-my-triet-ha-mang-smartphone-huawei-tim-co-hoi-trong-nganh-o-to-khai-mo-20210315140323541.chn) ([CafeBiz](https://cafebiz.vn))
 - [9 giống mèo hay gây rắc rối nhất cho chủ nhân nhiều người không biết](https://laodong.vn/photo/9-giong-meo-hay-gay-rac-roi-nhat-cho-chu-nhan-nhieu-nguoi-khong-biet-889070.ldo) ([Lao Động](https://laodong.vn))
@@ -99,4 +100,3 @@
 - [VAMA: Doanh số THACO AUTO gần 5.800 xe, chiếm 44,6% thị phần](https://laodong.vn/thong-tin-doanh-nghiep/vama-doanh-so-thaco-auto-gan-5800-xe-chiem-446-thi-phan-889135.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội xây Cung Thiếu nhi mới hơn 1.300 tỷ đồng](http://vietnamnet.vn/vn/thoi-su/ha-noi-xay-cung-thieu-nhi-moi-hon-1-300-ty-dong-719717.html) ([VietNamNet](https://vietnamnet.vn))
 - [Chuyển nghề giáo viên sang kinh doanh mặt hàng trẻ em, mẹ bỉm 8X thu hàng trăm triệu/tháng với số vốn 400 triệu](https://cafebiz.vn/chuyen-nghe-giao-vien-sang-kinh-doanh-mat-hang-tre-em-me-bim-8x-thu-hang-tram-trieu-thang-voi-so-von-400-trieu-20210315114539035.chn) ([CafeBiz](https://cafebiz.vn))
-- [Một lần kể hết của TikToker đình đám Kiên Review: Suýt mất bàn tay vì đam mê "tìm sự thật phía sau mọi quảng cáo", để không còn ai bị lừa khi mua hàng online](https://cafebiz.vn/mot-lan-ke-het-cua-tiktoker-dinh-dam-kien-review-suyt-mat-ban-tay-vi-dam-me-tim-su-that-phia-sau-moi-quang-cao-de-khong-con-ai-bi-lua-khi-mua-hang-online-2021031511394428.chn) ([CafeBiz](https://cafebiz.vn))

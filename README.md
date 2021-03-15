@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is few clouds.
 - Temperature is 26°C.
-- Feels Like 26.67°C.
-- Air Visual is 103.
+- Feels Like 25.86°C.
+- Air Visual is 99.
 
 **WEATHER**
 
@@ -50,6 +50,7 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
+- [![Brave Girl](https://img.shields.io/static/v1?label=Brave%20Girl&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Brave%20Girl)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Grammy 2021](https://img.shields.io/static/v1?label=Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Grammy%202021)
@@ -67,7 +68,6 @@
 - [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
-- [![XSHCM](https://img.shields.io/static/v1?label=XSHCM&message=google&color=red&style=flat-square)](https://www.google.com/search?q=XSHCM)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,6 +75,9 @@
 
 **NEWS**
 
+- [Bị cáo Dương Thị Bạch Diệp trả lời quanh co trước tòa](https://laodong.vn/phap-luat/bi-cao-duong-thi-bach-diep-tra-loi-quanh-co-truoc-toa-889338.ldo) ([Lao Động](https://laodong.vn))
+- [Techcombank lại gặp lỗi không thể truy cập, vẫn là "Bad Request 100400" đầy ám ảnh của những ngày cận Tết](https://cafebiz.vn/techcombank-lai-gap-loi-khong-the-truy-cap-van-la-bad-request-100400-day-am-anh-cua-nhung-ngay-can-tet-20210315174628807.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dữ liệu của Trung Quốc tác động mạnh đến giá vàng](https://laodong.vn/the-gioi/du-lieu-cua-trung-quoc-tac-dong-manh-den-gia-vang-889361.ldo) ([Lao Động](https://laodong.vn))
 - [Bộ Công Thương: Cắt giảm năng lượng tái tạo là tình huống bắt buộc](https://laodong.vn/kinh-te/bo-cong-thuong-cat-giam-nang-luong-tai-tao-la-tinh-huong-bat-buoc-889358.ldo) ([Lao Động](https://laodong.vn))
 - [Cơ quan thuộc Chính phủ phải kiểm toán nội bộ](https://laodong.vn/kinh-te/co-quan-thuoc-chinh-phu-phai-kiem-toan-noi-bo-889357.ldo) ([Lao Động](https://laodong.vn))
 - [Lập phương án phân luồng khách đến chùa Tam Chúc](https://vnexpress.net/lap-phuong-an-phan-luong-khach-den-chua-tam-chuc-4248621.html) ([VNExpress](https://vnexpress.net))
@@ -82,9 +85,6 @@
 - [Singapore và Australia tính mở "bong bóng du lịch" hàng không](https://cafebiz.vn/singapore-va-australia-tinh-mo-bong-bong-du-lich-hang-khong-20210315164701042.chn) ([CafeBiz](https://cafebiz.vn))
 - [CEO Nguyễn Mạnh Toàn : Cứ làm nhiệt tình, người khác sẽ ghi nhận](https://cafebiz.vn/ceo-nguyen-manh-toan-cu-lam-nhiet-tinh-nguoi-khac-se-ghi-nhan-20210315160819345.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mua sắm ở kênh online như tại cửa hàng truyền thống: Lời khuyên nào cho doanh nghiệp](https://cafebiz.vn/mua-sam-o-kenh-online-nhu-tai-cua-hang-truyen-thong-loi-khuyen-nao-cho-doanh-nghiep-20210315121127784.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tây Ban Nha thử nghiệm tuần làm việc 4 ngày](https://laodong.vn/the-gioi/tay-ban-nha-thu-nghiem-tuan-lam-viec-4-ngay-889347.ldo) ([Lao Động](https://laodong.vn))
-- [Xôn xao hình ảnh lớp học trở thành tỷ phú tương lai: Cả trăm người tay cầm chai nước, co quắp 1 chân, cùng hô vang khẩu hiệu quyết tâm làm giàu](https://cafebiz.vn/xon-xao-hinh-anh-lop-hoc-tro-thanh-ty-phu-tuong-lai-ca-tram-nguoi-tay-cam-chai-nuoc-co-quap-1-chan-cung-ho-vang-khau-hieu-quyet-tam-lam-giau-20210315172828917.chn) ([CafeBiz](https://cafebiz.vn))
-- [70 hộ dân ở Quảng Nam gặp khó khăn vì cầu treo bị cuốn trôi](https://laodong.vn/ban-doc/70-ho-dan-o-quang-nam-gap-kho-khan-vi-cau-treo-bi-cuon-troi-889311.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
