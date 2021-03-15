@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 24.53°C.
-- Air Visual is 84.
+- Feels Like 24.89°C.
+- Air Visual is 87.
 
 **WEATHER**
 
@@ -49,25 +49,25 @@
 **GOOGLE TRENDS**
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
-- [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
-- [![Brave Girl](https://img.shields.io/static/v1?label=Brave%20Girl&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Brave%20Girl)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
+- [![Chua Tam truc](https://img.shields.io/static/v1?label=Chua%20Tam%20truc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chua%20Tam%20truc)
+- [![Di Maria](https://img.shields.io/static/v1?label=Di%20Maria&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%20Maria)
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Grammy 2021](https://img.shields.io/static/v1?label=Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Grammy%202021)
 - [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
-- [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
+- [![Hoàng Anh Gia Lai](https://img.shields.io/static/v1?label=Ho%C3%A0ng%20Anh%20Gia%20Lai&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ho%C3%A0ng%20Anh%20Gia%20Lai)
 - [![Hướng dương ngược nắng tập 40](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
-- [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
+- [![Lee Nguyễn](https://img.shields.io/static/v1?label=Lee%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Nguy%E1%BB%85n)
 - [![Leicester City](https://img.shields.io/static/v1?label=Leicester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester%20City)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
 - [![Lý Nhã Kỳ](https://img.shields.io/static/v1?label=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
-- [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
+- [![Vietnamairlines](https://img.shields.io/static/v1?label=Vietnamairlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietnamairlines)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,14 +75,14 @@
 
 **NEWS**
 
+- [Bùi Hoàng Việt Anh muốn học và rút kinh nghiệm để lớn hơn](https://laodong.vn/bong-da/bui-hoang-viet-anh-muon-hoc-va-rut-kinh-nghiem-de-lon-hon-889368.ldo) ([Lao Động](https://laodong.vn))
+- [Thường trực Chính phủ họp về vấn đề di dời các cảng trên sông Sài Gòn](https://laodong.vn/thoi-su/thuong-truc-chinh-phu-hop-ve-van-de-di-doi-cac-cang-tren-song-sai-gon-889400.ldo) ([Lao Động](https://laodong.vn))
 - [Hàng loạt cổ đông bị xử phạt trong lĩnh vực chứng khoán](https://laodong.vn/kinh-te/hang-loat-co-dong-bi-xu-phat-trong-linh-vuc-chung-khoan-889335.ldo) ([Lao Động](https://laodong.vn))
 - [EVN: Hệ luỵ từ tỉ trọng nguồn năng lượng tái tạo tăng cao?](https://laodong.vn/kinh-te/evn-he-luy-tu-ti-trong-nguon-nang-luong-tai-tao-tang-cao-889378.ldo) ([Lao Động](https://laodong.vn))
 - [Thường trực Ban Bí thư Võ Văn Thưởng gặp mặt lãnh đạo tỉnh Đồng Nai](https://laodong.vn/thoi-su/thuong-truc-ban-bi-thu-vo-van-thuong-gap-mat-lanh-dao-tinh-dong-nai-889362.ldo) ([Lao Động](https://laodong.vn))
 - [Thường trực Chính phủ họp về các cảng trên sông Sài Gòn, Ba Son](https://tuoitre.vn/thuong-truc-chinh-phu-hop-ve-cac-cang-tren-song-sai-gon-ba-son-20210315181510966.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thị xã Kiến Tường nói bán một phần đất trường THPT là do 'không cập nhật'](https://tuoitre.vn/thi-xa-kien-tuong-noi-ban-mot-phan-dat-truong-thpt-la-do-khong-cap-nhat-20210315174714233.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Phát hiện hơn 600 tài xế vi phạm nồng độ cồn](https://vnexpress.net/phat-hien-hon-600-tai-xe-vi-pham-nong-do-con-4248471.html) ([VNExpress](https://vnexpress.net))
-- [Ghi nhận 3 ca mắc COVID-19 mới, 29 bệnh nhân được công bố khỏi bệnh](https://laodong.vn/y-te/ghi-nhan-3-ca-mac-covid-19-moi-29-benh-nhan-duoc-cong-bo-khoi-benh-889063.ldo) ([Lao Động](https://laodong.vn))
-- [Cử tri muốn Bộ GDĐT làm rõ quy định cho học sinh dùng điện thoại trong lớp](https://laodong.vn/thoi-su/cu-tri-muon-bo-gddt-lam-ro-quy-dinh-cho-hoc-sinh-dung-dien-thoai-trong-lop-889360.ldo) ([Lao Động](https://laodong.vn))
 - [Thanh Hóa có 2 người tự ứng cử ĐBQH là giám đốc doanh nghiệp và dược sĩ](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/thanh-hoa-co-2-nguoi-tu-ung-cu-dbqh-la-giam-doc-doanh-nghiep-va-duoc-si-719827.html) ([VietNamNet](https://vietnamnet.vn))
 - [Vụ chìm tàu chở bụi than: Thùng chứa kín, không ảnh hưởng môi trường biển](https://laodong.vn/xa-hoi/vu-chim-tau-cho-bui-than-thung-chua-kin-khong-anh-huong-moi-truong-bien-889366.ldo) ([Lao Động](https://laodong.vn))
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Bí quyết giúp founder giảm "CPU" khi gọi vốn thời Covid-19](https://vietcetera.com/vn/bi-quyet-goi-von-nhanh-cho-startup-thoi-covid-19)
 - [Thuỳ Cốm — Hoạ sĩ của những bức hoạ khiến bạn mỉm cười](https://vietcetera.com/vn/thuy-com-hoa-si-cua-nhung-buc-hoa-khien-ban-mim-cuoi)
 - [Nền tảng kết nối các nhà bán buôn và bán lẻ Kilo: Gọi vốn thành công vòng hạt giống](https://vietcetera.com/vn/nen-tang-ket-noi-cac-nha-ban-buon-va-ban-le-kilo-goi-von-thanh-cong-vong-hat-giong)
 - [Paysan Breton: Vị bơ nước Pháp trên bàn ăn Việt](https://vietcetera.com/vn/paysan-breton-vi-bo-nuoc-phap-tren-ban-an-viet)
@@ -105,7 +106,6 @@
 - [Cơ chế nào giúp ta thức dậy trước báo thức?](https://vietcetera.com/vn/co-che-nao-giup-ta-thuc-day-truoc-bao-thuc)
 - [Self-concept: Lời giải cho câu hỏi "Tôi là ai" theo tâm lý học](https://vietcetera.com/vn/self-concept-loi-giai-cho-cau-hoi-toi-la-ai-theo-tam-ly-hoc)
 - [5 Phim kinh dị đáng sợ hơn ngày thứ Hai](https://vietcetera.com/vn/5-phim-kinh-di-dang-so-hon-ngay-thu-hai)
-- [Thuận Nguyễn: “Hãnh diện là một fashionisto U70 hiếm hoi trên thế giới!” ](https://vietcetera.com/vn/thuan-nguyen-hanh-dien-la-mot-fashionisto-u70-hiem-hoi-tren-the-gioi)
 
 [Read More](https://vietcetera.com/)
 
