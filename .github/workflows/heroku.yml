@@ -23,14 +23,8 @@ jobs:
           node-version: "14.15.4"
       - name: Set up Yarn
         uses: borales/actions-yarn@v2.0.0
-      - name: App - Build Express
-        working-directory: ./web/express
-        run: yarn install && yarn build
-      - name: App - Build Angular
-        working-directory: ./web/angular
-        run: yarn install && yarn build
       - name: Heroku - Login to Container registry
-        working-directory: ./web/express
+        working-directory: ./web
         env:
           HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
         run: heroku container:login
