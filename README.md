@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 25.31°C.
-- Air Visual is 103.
+- Feels Like 24.95°C.
+- Air Visual is 98.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Màu sắc hoàn hảo cho từng căn phòng theo chuyên gia tâm lý học có thể bạn chưa biết](https://cafebiz.vn/mau-sac-hoan-hao-cho-tung-can-phong-theo-chuyen-gia-tam-ly-hoc-co-the-ban-chua-biet-2021031516563547.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hóc Môn, Bình Chánh, Nhà Bè thành quận trước năm 2025?](https://tuoitre.vn/hoc-mon-binh-chanh-nha-be-thanh-quan-truoc-nam-2025-20210315201513521.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hà Nam: Giám đốc Công an tỉnh kiểm tra đảm bảo an ninh tại Chùa Tam Chúc](https://laodong.vn/xa-hoi/ha-nam-giam-doc-cong-an-tinh-kiem-tra-dam-bao-an-ninh-tai-chua-tam-chuc-889417.ldo) ([Lao Động](https://laodong.vn))
+- [Văn Toàn bị lật cổ chân sau chiến thắng của Hoàng Anh Gia Lai](https://laodong.vn/bong-da/van-toan-bi-lat-co-chan-sau-chien-thang-cua-hoang-anh-gia-lai-889432.ldo) ([Lao Động](https://laodong.vn))
 - [Tài xế công nghệ tông khách đến chết sau cãi vã gây rúng động Trung Quốc](https://laodong.vn/the-gioi/tai-xe-cong-nghe-tong-khach-den-chet-sau-cai-va-gay-rung-dong-trung-quoc-889427.ldo) ([Lao Động](https://laodong.vn))
 - [Từ Hi Thái hậu tuẫn táng 100 đứa trẻ vô tội cùng mình vì... sợ ma](https://cafebiz.vn/tu-hi-thai-hau-tuan-tang-100-dua-tre-vo-toi-cung-minh-vi-so-ma-20210315162458216.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tính đường dài, Real Madrid không thiết tha với Ronaldo](https://laodong.vn/bong-da-quoc-te/tinh-duong-dai-real-madrid-khong-thiet-tha-voi-ronaldo-889425.ldo) ([Lao Động](https://laodong.vn))
 - [Kinh tế 24h: Giá vàng bất ngờ tăng; Nhiều cổ đông chứng khoán bị xử phạt](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-bat-ngo-tang-nhieu-co-dong-chung-khoan-bi-xu-phat-889412.ldo) ([Lao Động](https://laodong.vn))
-- [Ly kỳ âm mưu đánh bom tỉ phú Ấn Độ giàu nhất Châu Á](https://laodong.vn/the-gioi/ly-ky-am-muu-danh-bom-ti-phu-an-do-giau-nhat-chau-a-889384.ldo) ([Lao Động](https://laodong.vn))
 - [Gia Cát Lượng vừa qua đời, Lưu Thiện liền sai người đi kiểm tra tài sản: Kết quả khiến hậu chủ Thục Hán đập bàn tức giận](https://cafebiz.vn/gia-cat-luong-vua-qua-doi-luu-thien-lien-sai-nguoi-di-kiem-tra-tai-san-ket-qua-khien-hau-chu-thuc-han-dap-ban-tuc-gian-20210315162101583.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hóc Môn, Bình Chánh, Nhà Bè dự kiến thành quận trước 2025](https://vnexpress.net/hoc-mon-binh-chanh-nha-be-du-kien-thanh-quan-truoc-2025-4248920.html) ([VNExpress](https://vnexpress.net))
-- [Thể thao 7 ngày: Thực hư việc HLV Park Hang-seo nhập tịch Việt Nam](https://laodong.vn/video-the-thao/the-thao-7-ngay-thuc-hu-viec-hlv-park-hang-seo-nhap-tich-viet-nam-889303.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Ngãi: Chợ đêm Sông Trà sắp bị dừng vì chỉ là... phố nhậu](https://tuoitre.vn/quang-ngai-cho-dem-song-tra-sap-bi-dung-vi-chi-la-pho-nhau-20210315190238165.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thủ tướng: Nhà nước đầu tư cao tốc không nhằm thu lợi nhuận](https://vnexpress.net/thu-tuong-nha-nuoc-dau-tu-cao-toc-khong-nham-thu-loi-nhuan-4248921.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
@@ -119,8 +119,8 @@
 04. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 05. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 06. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
-07. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
-08. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
+07. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
+08. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 09. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 10. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
 
@@ -134,8 +134,8 @@
 02. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 03. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
 04. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
-05. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-06. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
+05. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
+06. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
 08. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
 09. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)

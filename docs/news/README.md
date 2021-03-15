@@ -1,10 +1,13 @@
 # News
 
+- [Màu sắc hoàn hảo cho từng căn phòng theo chuyên gia tâm lý học có thể bạn chưa biết](https://cafebiz.vn/mau-sac-hoan-hao-cho-tung-can-phong-theo-chuyen-gia-tam-ly-hoc-co-the-ban-chua-biet-2021031516563547.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hóc Môn, Bình Chánh, Nhà Bè thành quận trước năm 2025?](https://tuoitre.vn/hoc-mon-binh-chanh-nha-be-thanh-quan-truoc-nam-2025-20210315201513521.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hà Nam: Giám đốc Công an tỉnh kiểm tra đảm bảo an ninh tại Chùa Tam Chúc](https://laodong.vn/xa-hoi/ha-nam-giam-doc-cong-an-tinh-kiem-tra-dam-bao-an-ninh-tai-chua-tam-chuc-889417.ldo) ([Lao Động](https://laodong.vn))
+- [Văn Toàn bị lật cổ chân sau chiến thắng của Hoàng Anh Gia Lai](https://laodong.vn/bong-da/van-toan-bi-lat-co-chan-sau-chien-thang-cua-hoang-anh-gia-lai-889432.ldo) ([Lao Động](https://laodong.vn))
 - [Tài xế công nghệ tông khách đến chết sau cãi vã gây rúng động Trung Quốc](https://laodong.vn/the-gioi/tai-xe-cong-nghe-tong-khach-den-chet-sau-cai-va-gay-rung-dong-trung-quoc-889427.ldo) ([Lao Động](https://laodong.vn))
 - [Từ Hi Thái hậu tuẫn táng 100 đứa trẻ vô tội cùng mình vì... sợ ma](https://cafebiz.vn/tu-hi-thai-hau-tuan-tang-100-dua-tre-vo-toi-cung-minh-vi-so-ma-20210315162458216.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tính đường dài, Real Madrid không thiết tha với Ronaldo](https://laodong.vn/bong-da-quoc-te/tinh-duong-dai-real-madrid-khong-thiet-tha-voi-ronaldo-889425.ldo) ([Lao Động](https://laodong.vn))
 - [Kinh tế 24h: Giá vàng bất ngờ tăng; Nhiều cổ đông chứng khoán bị xử phạt](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-bat-ngo-tang-nhieu-co-dong-chung-khoan-bi-xu-phat-889412.ldo) ([Lao Động](https://laodong.vn))
-- [Ly kỳ âm mưu đánh bom tỉ phú Ấn Độ giàu nhất Châu Á](https://laodong.vn/the-gioi/ly-ky-am-muu-danh-bom-ti-phu-an-do-giau-nhat-chau-a-889384.ldo) ([Lao Động](https://laodong.vn))
 - [Gia Cát Lượng vừa qua đời, Lưu Thiện liền sai người đi kiểm tra tài sản: Kết quả khiến hậu chủ Thục Hán đập bàn tức giận](https://cafebiz.vn/gia-cat-luong-vua-qua-doi-luu-thien-lien-sai-nguoi-di-kiem-tra-tai-san-ket-qua-khien-hau-chu-thuc-han-dap-ban-tuc-gian-20210315162101583.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hóc Môn, Bình Chánh, Nhà Bè dự kiến thành quận trước 2025](https://vnexpress.net/hoc-mon-binh-chanh-nha-be-du-kien-thanh-quan-truoc-2025-4248920.html) ([VNExpress](https://vnexpress.net))
 - [Thể thao 7 ngày: Thực hư việc HLV Park Hang-seo nhập tịch Việt Nam](https://laodong.vn/video-the-thao/the-thao-7-ngay-thuc-hu-viec-hlv-park-hang-seo-nhap-tich-viet-nam-889303.ldo) ([Lao Động](https://laodong.vn))
@@ -97,6 +100,3 @@
 - [Làm 5 công việc một lúc, doanh nhân 9X tậu Mercedes: Mua xe không tốn, nuôi xe mới tốn](https://cafebiz.vn/lam-5-cong-viec-mot-luc-doanh-nhan-9x-tau-mercedes-mua-xe-khong-ton-nuoi-xe-moi-ton-20210315140925934.chn) ([CafeBiz](https://cafebiz.vn))
 - [12 trang trại bò sữa 4.0 của Vinamilk dùng năng lượng mặt trời](https://laodong.vn/thong-tin-doanh-nghiep/12-trang-trai-bo-sua-40-cua-vinamilk-dung-nang-luong-mat-troi-889180.ldo) ([Lao Động](https://laodong.vn))
 - [Vì sao thẻ căn cước công dân mới được cấp 'xuyên đêm'?](https://vnexpress.net/vi-sao-the-can-cuoc-cong-dan-moi-duoc-cap-xuyen-dem-4248299.html) ([VNExpress](https://vnexpress.net))
-- [Đài Loan thúc các công ty ở Myanmar 'treo cờ Đài Loan' để tránh bị tấn công nhầm](https://tuoitre.vn/dai-loan-thuc-cac-cong-ty-o-myanmar-treo-co-dai-loan-de-tranh-bi-tan-cong-nham-20210315124312932.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cổ phiếu gã khổng lồ công nghệ Nhật Bản tăng 20% sau tin bán cổ phần cho Walmart, Tencent](https://cafebiz.vn/co-phieu-ga-khong-lo-cong-nghe-nhat-ban-tang-20-sau-tin-ban-co-phan-cho-walmart-tencent-2021031513494729.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lắp cửa van hơn 200 tấn cho cống ngăn mặn](https://vnexpress.net/lap-cua-van-hon-200-tan-cho-cong-ngan-man-4248646.html) ([VNExpress](https://vnexpress.net))
