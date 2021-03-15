@@ -1,20 +1,26 @@
-import { Injectable } from '@angular/core';
-import { Store } from '@ngrx/store';
+import { Injectable } from "@angular/core";
+import { HttpClient, HttpRequest, HttpEvent } from "@angular/common/http";
+import { Store } from "@ngrx/store";
+import { Observable } from "rxjs";
 
-import { environment } from '../../environments/environment';
-import { AppState } from '../app.state';
-import { HttpService } from './http.service';
+import { environment } from "../../environments/environment";
+import { AppState } from "../app.state";
+import { HttpService } from "./http.service";
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: "root",
 })
 export class ApisService {
   private base: string = environment.baseAPI;
-  private token: string = '';
+  private token: string = "";
 
-  constructor(private store: Store<AppState>, private httpService: HttpService) {
+  constructor(
+    private http: HttpClient,
+    private store: Store<AppState>,
+    private httpService: HttpService
+  ) {
     this.store
-      .select(state => state.authentication.token)
+      .select((state) => state.authentication.token)
       .subscribe((token: string) => {
         this.token = token;
       });
@@ -41,7 +47,11 @@ export class ApisService {
     return await this.httpService.post(url, body);
   }
 
-  public async signUp(email: string, phoneNumber: string, password: string): Promise<any> {
+  public async signUp(
+    email: string,
+    phoneNumber: string,
+    password: string
+  ): Promise<any> {
     const { base } = this;
     const body = { email, phoneNumber, password };
     const url: string = `${base}/x/auth/sign-up`;
@@ -150,16 +160,32 @@ export class ApisService {
     return await this.httpService.post(url, { query }, token);
   }
 
-  public async pay(email: string, amount: number, description: string): Promise<any> {
+  public async pay(
+    email: string,
+    amount: number,
+    description: string
+  ): Promise<any> {
     const { base, token } = this;
     const url: string = `${base}/x/apps/pay`;
-    return await this.httpService.post(url, { email, amount, description }, token);
+    return await this.httpService.post(
+      url,
+      { email, amount, description },
+      token
+    );
   }
 
-  public async sendRequest(email: string, amount: number, description: string): Promise<any> {
+  public async sendRequest(
+    email: string,
+    amount: number,
+    description: string
+  ): Promise<any> {
     const { base, token } = this;
     const url: string = `${base}/x/apps/request/send`;
-    return await this.httpService.post(url, { email, amount, description }, token);
+    return await this.httpService.post(
+      url,
+      { email, amount, description },
+      token
+    );
   }
 
   public async confirmTransferRequest(transactionId: string): Promise<any> {
@@ -198,7 +224,7 @@ export class ApisService {
     return await this.httpService.post(url, { id: contactId }, token);
   }
 
-  public async getMe(username: string = ''): Promise<any> {
+  public async getMe(username: string = ""): Promise<any> {
     const { base, token } = this;
     const url: string = `${base}/x/apps/me?username=${username}`;
     return await this.httpService.get(url, token);
@@ -240,9 +266,26 @@ export class ApisService {
     return await this.httpService.get(url);
   }
 
-  public async getStockHistory(symbol: string, from: number, to: number): Promise<any> {
+  public async getStockHistory(
+    symbol: string,
+    from: number,
+    to: number
+  ): Promise<any> {
     const { base } = this;
     const url: string = `${base}/finance/history?symbol=${symbol}&from=${from}&to=${to}`;
     return await this.httpService.get(url);
+  }
+
+  public upload(file: File): Observable<HttpEvent<any>> {
+    const { base } = this;
+    const formData: FormData = new FormData();
+    formData.append("file", file);
+
+    const req = new HttpRequest("POST", `${base}/banks/upload`, formData, {
+      reportProgress: true,
+      responseType: "json",
+    });
+
+    return this.http.request(req);
   }
 }

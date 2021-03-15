@@ -145,6 +145,39 @@ const banks: Array<IRoute> = [
       },
       400: { description: '', schema: {} }
     }
+  },
+  {
+    public: false,
+    path: `${prefix}/upload`,
+    method: `POST`,
+    tags: ['Banks'],
+    summary: 'Upload Image',
+    description: '',
+    request: {
+      query: [],
+      body: []
+    },
+    middlewares: ['upload'],
+    responses: {
+      200: {
+        description: '',
+        schema: {
+          type: 'object',
+          properties: {
+            message: { type: 'string' }
+          }
+        }
+      },
+      400: {
+        description: '',
+        schema: {
+          type: 'object',
+          properties: {
+            message: { type: 'string' }
+          }
+        }
+      }
+    }
   }
 ];
 

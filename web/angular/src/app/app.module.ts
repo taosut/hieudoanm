@@ -73,6 +73,7 @@ import { ListNotificationsComponent } from './widgets/list-notifications/list-no
 // Toast
 import { ToastNotificationsComponent } from './widgets/toast-notifications/toast-notifications.component';
 import { CardMeComponent } from './widgets/card-me/card-me.component';
+import { AppsCameraComponent } from './pages/apps-camera/apps-camera.component';
 
 @NgModule({
   declarations: [
@@ -133,7 +134,8 @@ import { CardMeComponent } from './widgets/card-me/card-me.component';
     ListNotificationsComponent,
     // Toasts
     ToastNotificationsComponent,
-    CardMeComponent
+    CardMeComponent,
+    AppsCameraComponent
   ],
   entryComponents: [ToastComponent],
   imports: [
