@@ -75,12 +75,13 @@ export default async (req: any, res: Response): Promise<Response<any>> => {
       destination: 'compressed-images',
       plugins: [imageminMozjpeg({ quality: 50 })]
     });
+    console.log('image', image);
     const { destinationPath = '' } = image;
     images.push({ path: destinationPath });
   }
   console.log('images', images);
 
-  const [image] = images;
+  const [image = {}] = images;
   console.log('image', image);
   if (!image) {
     return res.json({ message: 'NO FILE', banksInfos: [] });
@@ -120,15 +121,18 @@ const getBanksInfos = (text: string): Array<Record<string, any>> => {
     .filter((line: string) => line);
   console.log(lines);
   const bankAccountNumbers: Array<string> = lines
-    .map((line: string) => line.replace(/\D/g, ''))
-    .filter((line: string) => !isNaN(parseInt(line, 10)));
+    .map((line: string) => line.replace(/\D/g, '').trim())
+    .filter((line: string) => !isNaN(parseInt(line, 10)))
+    .filter((line: string) => line.length > 8);
   const bankNames: Array<string> = lines
-    .filter((line: string) => {
-      const [name = ''] = banks.filter((bank: any) => {
+    .map((line: string) => {
+      const filterBanks = banks.filter((bank: any) => {
         const { name = '' } = bank;
         return line.includes(name);
       });
-      return name;
+      const [first = { name: '' }] = filterBanks;
+      const { name = '' } = first;
+      return name.toLowerCase();
     })
     .filter((name: string) => name);
   console.log('bankAccountNumbers', bankAccountNumbers);
