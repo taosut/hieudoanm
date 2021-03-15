@@ -37,7 +37,7 @@ WORKDIR /var/server/express
 COPY express /var/server/express
 COPY express/package.json /var/server/express/package.json
 # Install Server
-RUN yarn install
+RUN yarn install --production=false
 # List all files in express
 RUN ls /var/server/express
 # Build Server
@@ -48,7 +48,7 @@ WORKDIR /var/server/angular
 COPY angular /var/server/angular
 COPY angular/package.json /var/server/angular/package.json
 # Install Web
-RUN yarn install
+RUN yarn install --production=false
 # List all files in angular
 RUN ls /var/server/angular
 # Build Web
