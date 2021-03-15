@@ -39,6 +39,8 @@
     "graphql-compose": "^7.24.2",
     "graphql-compose-mongoose": "^9.0.0",
     "helmet": "^4.4.1",
+    "imagemin": "^7.0.1",
+    "imagemin-mozjpeg": "^9.0.0",
     "js-yaml": "^4.0.0",
     "json2csv": "^5.0.5",
     "jsonwebtoken": "^8.5.1",
