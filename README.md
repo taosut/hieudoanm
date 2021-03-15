@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Đánh thuế cho căn nhà số 2: Công cụ siết chặt đầu cơ bất động sản dưới góc nhìn chuyên gia](https://cafebiz.vn/danh-thue-cho-can-nha-so-2-cong-cu-siet-chat-dau-co-bat-dong-san-duoi-goc-nhin-chuyen-gia-20210315100025794.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lao động tự do chật vật mưu sinh vì dịch COVID-19](https://laodong.vn/cong-doan/lao-dong-tu-do-chat-vat-muu-sinh-vi-dich-covid-19-889014.ldo) ([Lao Động](https://laodong.vn))
+- [Áp lực COVID-19 ngày càng tăng, Pháp nỗ lực tránh nguy cơ phong tỏa](https://laodong.vn/the-gioi/ap-luc-covid-19-ngay-cang-tang-phap-no-luc-tranh-nguy-co-phong-toa-889094.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM cần xã hội hóa để tăng 450ha công viên cây xanh trong 10 năm tới](https://laodong.vn/xa-hoi/tphcm-can-xa-hoi-hoa-de-tang-450ha-cong-vien-cay-xanh-trong-10-nam-toi-889018.ldo) ([Lao Động](https://laodong.vn))
+- [Giá vàng và ngoại tệ 15.3: Vàng được kỳ vọng, USD tiếp đà tăng](https://laodong.vn/video/gia-vang-va-ngoai-te-153-vang-duoc-ky-vong-usd-tiep-da-tang-889124.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam ứng phó thành công làn sóng COVID-19 thứ ba nhờ đồng thuận](https://laodong.vn/the-gioi/viet-nam-ung-pho-thanh-cong-lan-song-covid-19-thu-ba-nho-dong-thuan-889016.ldo) ([Lao Động](https://laodong.vn))
+- [‘11 kỳ họp Quốc hội diễn ra dân chủ, công khai, chất lượng’](https://tuoitre.vn/11-ky-hop-quoc-hoi-dien-ra-dan-chu-cong-khai-chat-luong-20210315091310569.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [30 người tại Hà Nội tự ứng cử đại biểu Quốc hội khóa XV](https://tuoitre.vn/30-nguoi-tai-ha-noi-tu-ung-cu-dai-bieu-quoc-hoi-khoa-xv-20210315085831419.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Người anh bí ẩn của diễn viên Lý Hùng từ bỏ các vị trí cao nhất tại công ty BĐS do mình sáng lập, "con đẻ" giờ thuộc về ai?](https://cafebiz.vn/nguoi-anh-bi-an-cua-dien-vien-ly-hung-tu-bo-cac-vi-tri-cao-nhat-tai-cong-ty-bds-do-minh-sang-lap-con-de-gio-thuoc-ve-ai-20210315093857548.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chứng khoán: Có nên rót tiền vào nhóm cổ phiếu hóa chất?](https://laodong.vn/kinh-te/chung-khoan-co-nen-rot-tien-vao-nhom-co-phieu-hoa-chat-889126.ldo) ([Lao Động](https://laodong.vn))
 - [[ẢNH] Nghìn người Sài Gòn đua diều trong chiều lộng gió, trẻ nhỏ hò hét khi thấy diều khổng lồ, kỳ quái 'cất cánh'](https://cafebiz.vn/anh-nghin-nguoi-sai-gon-dua-dieu-trong-chieu-long-gio-tre-nho-ho-het-khi-thay-dieu-khong-lo-ky-quai-cat-canh-20210315093232125.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thắng giải tại Pháp, Medvedev chiếm ngôi số 2 của Nadal](https://laodong.vn/the-thao/thang-giai-tai-phap-medvedev-chiem-ngoi-so-2-cua-nadal-889122.ldo) ([Lao Động](https://laodong.vn))
-- [Phát hiện 24 virus trên dơi chưa từng biết ở Trung Quốc](https://laodong.vn/the-gioi/phat-hien-24-virus-tren-doi-chua-tung-biet-o-trung-quoc-889120.ldo) ([Lao Động](https://laodong.vn))
-- [Kiên trong “Hướng dương ngược nắng”: Cái giá của việc trả thù](https://laodong.vn/giai-tri/kien-trong-huong-duong-nguoc-nang-cai-gia-cua-viec-tra-thu-889054.ldo) ([Lao Động](https://laodong.vn))
-- [Đang sản xuất Tivi, ông chủ Asanzo bỗng đầu tư trại bò 2.000 tỷ, sắp ra mắt phân bón Ba Con Bò cạnh tranh với Ba Con Cò](https://cafebiz.vn/dang-san-xuat-tivi-ong-chu-asanzo-bong-dau-tu-trai-bo-2000-ty-sap-ra-mat-phan-bon-ba-con-bo-canh-tranh-voi-ba-con-co-202103150926296.chn) ([CafeBiz](https://cafebiz.vn))
-- [Việt Nam ghi nhận người đầu tiên sốc phản vệ độ 3 sau tiêm vaccine Covid-19, đã được xử trí kịp thời](https://cafebiz.vn/viet-nam-ghi-nhan-nguoi-dau-tien-soc-phan-ve-do-3-sau-tiem-vaccine-covid-19-da-duoc-xu-tri-kip-thoi-20210315092503369.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tiêm thử nghiệm vaccine COVID-19 thứ 2 của Việt Nam trên 6 tình nguyện viên](https://laodong.vn/y-te/tiem-thu-nghiem-vaccine-covid-19-thu-2-cua-viet-nam-tren-6-tinh-nguyen-vien-889118.ldo) ([Lao Động](https://laodong.vn))
-- [Máu và hoa](https://tuoitre.vn/mau-va-hoa-20210315071117321.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,8 +96,9 @@
 
 **VIETCETERA**
 
+- [Mẹo trò chuyện để biến "quan tâm" thành "quan hệ" : Chia sẻ từ những nữ thành viên Tinder Việt Nam](https://vietcetera.com/vn/thanh-vien-tinder-viet-nam-bat-mi-cach-tro-chuyen-cung-phai-nu-khi-ket-ban-truc-tuyen)
 - ["Con anh tên Trần Mai Ninh, vì anh họ Trần, bả họ Mai..."](https://vietcetera.com/vn/con-anh-ten-tran-mai-ninh-vi-anh-ho-tran-ba-ho-mai)
-- [3 bài học tình yêu đến từ bữa cơm nhà](https://vietcetera.com/vn/3-bai-hoc-ve-tinh-thuong-tu-bua-com-nha)
+- [3 Bài học tình yêu đến từ bữa cơm nhà](https://vietcetera.com/vn/3-bai-hoc-ve-tinh-thuong-tu-bua-com-nha)
 - [Cơ chế nào giúp ta thức dậy trước báo thức?](https://vietcetera.com/vn/co-che-nao-giup-ta-thuc-day-truoc-bao-thuc)
 - [Self-concept: Lời giải cho câu hỏi "Tôi là ai" theo tâm lý học](https://vietcetera.com/vn/self-concept-loi-giai-cho-cau-hoi-toi-la-ai-theo-tam-ly-hoc)
 - [5 Phim kinh dị đáng sợ hơn ngày thứ Hai](https://vietcetera.com/vn/5-phim-kinh-di-dang-so-hon-ngay-thu-hai)
@@ -105,7 +106,6 @@
 - [Sự lây lan của "dịch bệnh" tự tử](https://vietcetera.com/vn/su-lay-lan-cua-dich-benh-tu-tu)
 - [Chế độ ăn Keto: Hiệu quả giảm cân đến mức nào và liệu có đáng thử?](https://vietcetera.com/vn/che-do-an-keto-hieu-qua-giam-can-den-muc-nao-va-lieu-co-dang-thu)
 - [6 Tiệm cà phê để bạn khám phá Đà Lạt](https://vietcetera.com/vn/6-tiem-ca-phe-da-lat-de-ban-kham-pha)
-- [Mối quan hệ lành mạnh: Sự dung hòa giữa giá trị cá nhân và xúc cảm](https://vietcetera.com/vn/moi-quan-he-lanh-manh-su-dung-hoa-giua-gia-tri-ca-nhan-va-xuc-cam)
 
 [Read More](https://vietcetera.com/)
 
