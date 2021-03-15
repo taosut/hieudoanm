@@ -25,6 +25,8 @@ RUN echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/so
 RUN apt-get update -y
 RUN apt-get install yarn -y
 RUN yarn --version
+# Install TypeScript
+RUN yarn global add typescript
 # Create WORKDIR
 RUN mkdir -p /var/server/app
 RUN mkdir -p /var/server/express
