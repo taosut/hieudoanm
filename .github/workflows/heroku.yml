@@ -23,12 +23,12 @@ jobs:
           HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
         run: heroku container:login
       - name: Heroku - Build and push
-        working-directory: ./web/express
+        working-directory: ./web
         env:
           HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
         run: heroku container:push web --app vietnamdb
       - name: Heroku - Release
-        working-directory: ./web/express
+        working-directory: ./web
         env:
           HEROKU_API_KEY: ${{ secrets.HEROKU_API_KEY }}
         run: heroku container:release web --app vietnamdb
