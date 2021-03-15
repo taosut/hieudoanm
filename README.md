@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 26.61°C.
-- Air Visual is 107.
+- Feels Like 26.25°C.
+- Air Visual is 132.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chìm tàu hàng chở 2.500 tấn bụi than ở vùng biển Mũi Né](https://laodong.vn/xa-hoi/chim-tau-hang-cho-2500-tan-bui-than-o-vung-bien-mui-ne-889127.ldo) ([Lao Động](https://laodong.vn))
+- [30 năm đầu nuôi dưỡng thói quen, 30 năm sau thu hoạch quả ngọt: 25 thói quen đời người nên rèn luyện](https://cafebiz.vn/30-nam-dau-nuoi-duong-thoi-quen-30-nam-sau-thu-hoach-qua-ngot-25-thoi-quen-doi-nguoi-nen-ren-luyen-20210311194445408.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tư duy trong chọn lựa sự nghiệp - bạn đã có chưa?](https://cafebiz.vn/tu-duy-trong-chon-lua-su-nghiep-ban-da-co-chua-20210315101656388.chn) ([CafeBiz](https://cafebiz.vn))
+- [Công nhân lao động Việt Trì tích cực hiến máu cứu người](https://laodong.vn/ldld-phu-tho/cong-nhan-lao-dong-viet-tri-tich-cuc-hien-mau-cuu-nguoi-889150.ldo) ([Lao Động](https://laodong.vn))
+- [Tuyển sinh đại học 2021: Một số điểm mới được đề xuất](https://laodong.vn/giao-duc/tuyen-sinh-dai-hoc-2021-mot-so-diem-moi-duoc-de-xuat-889129.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng: Đã phá dỡ bức tường trường cấp 2 bị nứt nghiêng](https://laodong.vn/ban-doc/hai-phong-da-pha-do-buc-tuong-truong-cap-2-bi-nut-nghieng-889128.ldo) ([Lao Động](https://laodong.vn))
+- [Xem hat-trick siêu đẳng của Ronaldo vào lưới Cagliari](https://laodong.vn/video-the-thao/xem-hat-trick-sieu-dang-cua-ronaldo-vao-luoi-cagliari-889111.ldo) ([Lao Động](https://laodong.vn))
+- ['Mổ xẻ' chiếc đồng hồ đắt nhất thế giới: Phiên bản độc nhất vô nhị, sở hữu 'sương sương' 6 bằng sáng chế, giá 714 tỉ](https://cafebiz.vn/mo-xe-chiec-dong-ho-dat-nhat-the-gioi-phien-ban-doc-nhat-vo-nhi-so-huu-suong-suong-6-bang-sang-che-gia-714-ti-20210315100535202.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đánh thuế cho căn nhà số 2: Công cụ siết chặt đầu cơ bất động sản dưới góc nhìn chuyên gia](https://cafebiz.vn/danh-thue-cho-can-nha-so-2-cong-cu-siet-chat-dau-co-bat-dong-san-duoi-goc-nhin-chuyen-gia-20210315100025794.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lao động tự do chật vật mưu sinh vì dịch COVID-19](https://laodong.vn/cong-doan/lao-dong-tu-do-chat-vat-muu-sinh-vi-dich-covid-19-889014.ldo) ([Lao Động](https://laodong.vn))
-- [Áp lực COVID-19 ngày càng tăng, Pháp nỗ lực tránh nguy cơ phong tỏa](https://laodong.vn/the-gioi/ap-luc-covid-19-ngay-cang-tang-phap-no-luc-tranh-nguy-co-phong-toa-889094.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM cần xã hội hóa để tăng 450ha công viên cây xanh trong 10 năm tới](https://laodong.vn/xa-hoi/tphcm-can-xa-hoi-hoa-de-tang-450ha-cong-vien-cay-xanh-trong-10-nam-toi-889018.ldo) ([Lao Động](https://laodong.vn))
 - [Giá vàng và ngoại tệ 15.3: Vàng được kỳ vọng, USD tiếp đà tăng](https://laodong.vn/video/gia-vang-va-ngoai-te-153-vang-duoc-ky-vong-usd-tiep-da-tang-889124.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam ứng phó thành công làn sóng COVID-19 thứ ba nhờ đồng thuận](https://laodong.vn/the-gioi/viet-nam-ung-pho-thanh-cong-lan-song-covid-19-thu-ba-nho-dong-thuan-889016.ldo) ([Lao Động](https://laodong.vn))
-- [‘11 kỳ họp Quốc hội diễn ra dân chủ, công khai, chất lượng’](https://tuoitre.vn/11-ky-hop-quoc-hoi-dien-ra-dan-chu-cong-khai-chat-luong-20210315091310569.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [30 người tại Hà Nội tự ứng cử đại biểu Quốc hội khóa XV](https://tuoitre.vn/30-nguoi-tai-ha-noi-tu-ung-cu-dai-bieu-quoc-hoi-khoa-xv-20210315085831419.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Người anh bí ẩn của diễn viên Lý Hùng từ bỏ các vị trí cao nhất tại công ty BĐS do mình sáng lập, "con đẻ" giờ thuộc về ai?](https://cafebiz.vn/nguoi-anh-bi-an-cua-dien-vien-ly-hung-tu-bo-cac-vi-tri-cao-nhat-tai-cong-ty-bds-do-minh-sang-lap-con-de-gio-thuoc-ve-ai-20210315093857548.chn) ([CafeBiz](https://cafebiz.vn))
-- [[ẢNH] Nghìn người Sài Gòn đua diều trong chiều lộng gió, trẻ nhỏ hò hét khi thấy diều khổng lồ, kỳ quái 'cất cánh'](https://cafebiz.vn/anh-nghin-nguoi-sai-gon-dua-dieu-trong-chieu-long-gio-tre-nho-ho-het-khi-thay-dieu-khong-lo-ky-quai-cat-canh-20210315093232125.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
