@@ -26,7 +26,7 @@ RUN apt-get update -y
 RUN apt-get install yarn -y
 RUN yarn --version
 # Install TypeScript
-RUN yarn global add typescript
+RUN yarn global add typescript @angular/cli
 # Create WORKDIR
 RUN mkdir -p /var/server/app
 RUN mkdir -p /var/server/express
