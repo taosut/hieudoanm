@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 24.95°C.
-- Air Visual is 98.
+- Air Visual is 103.
 
 **WEATHER**
 
@@ -61,12 +61,12 @@
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Lee Nguyễn](https://img.shields.io/static/v1?label=Lee%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Nguy%E1%BB%85n)
+- [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![Leicester City](https://img.shields.io/static/v1?label=Leicester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester%20City)
 - [![Lý Nhã Kỳ](https://img.shields.io/static/v1?label=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3)
+- [![Lịch thi đấu V-League](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
-- [![Ngô Thiến](https://img.shields.io/static/v1?label=Ng%C3%B4%20Thi%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20Thi%E1%BA%BFn)
-- [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Vietnamairlines](https://img.shields.io/static/v1?label=Vietnamairlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietnamairlines)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Ông Võ Hoàng Yên xác nhận được ông Dũng "lò vôi" cho 54 tỷ đồng: "Cho đứa trẻ ngậm cục kẹo, rồi móc kẹo ra có hay không"](https://cafebiz.vn/ong-vo-hoang-yen-xac-nhan-duoc-ong-dung-lo-voi-cho-54-ty-dong-cho-dua-tre-ngam-cuc-keo-roi-moc-keo-ra-co-hay-khong-20210315210824141.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vĩnh Phúc: Biệt thự trái phép vẫn mọc lên, cán bộ nói &quot;mọi thứ vẫn tốt&quot;](https://laodong.vn/bat-dong-san/vinh-phuc-biet-thu-trai-phep-van-moc-len-can-bo-noi-moi-thu-van-tot-888421.ldo) ([Lao Động](https://laodong.vn))
+- [Đồng loạt ra quân xử lý vi phạm về nồng độ cồn và ma túy](https://laodong.vn/phap-luat/dong-loat-ra-quan-xu-ly-vi-pham-ve-nong-do-con-va-ma-tuy-889437.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất hôm nay: Bão cát &quot;tấn công&quot; nhiều khu vực của Trung Quốc](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bao-cat-tan-cong-nhieu-khu-vuc-cua-trung-quoc-889397.ldo) ([Lao Động](https://laodong.vn))
+- [Căn nhà gói ghém bình yên với tiếng sóng biển vỗ về ở làng chài cách thành phố Nha Trang 15km](https://cafebiz.vn/can-nha-goi-ghem-binh-yen-voi-tieng-song-bien-vo-ve-o-lang-chai-cach-thanh-pho-nha-trang-15km-20210315165347814.chn) ([CafeBiz](https://cafebiz.vn))
 - [Màu sắc hoàn hảo cho từng căn phòng theo chuyên gia tâm lý học có thể bạn chưa biết](https://cafebiz.vn/mau-sac-hoan-hao-cho-tung-can-phong-theo-chuyen-gia-tam-ly-hoc-co-the-ban-chua-biet-2021031516563547.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hóc Môn, Bình Chánh, Nhà Bè thành quận trước năm 2025?](https://tuoitre.vn/hoc-mon-binh-chanh-nha-be-thanh-quan-truoc-nam-2025-20210315201513521.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hà Nam: Giám đốc Công an tỉnh kiểm tra đảm bảo an ninh tại Chùa Tam Chúc](https://laodong.vn/xa-hoi/ha-nam-giam-doc-cong-an-tinh-kiem-tra-dam-bao-an-ninh-tai-chua-tam-chuc-889417.ldo) ([Lao Động](https://laodong.vn))
 - [Văn Toàn bị lật cổ chân sau chiến thắng của Hoàng Anh Gia Lai](https://laodong.vn/bong-da/van-toan-bi-lat-co-chan-sau-chien-thang-cua-hoang-anh-gia-lai-889432.ldo) ([Lao Động](https://laodong.vn))
-- [Tài xế công nghệ tông khách đến chết sau cãi vã gây rúng động Trung Quốc](https://laodong.vn/the-gioi/tai-xe-cong-nghe-tong-khach-den-chet-sau-cai-va-gay-rung-dong-trung-quoc-889427.ldo) ([Lao Động](https://laodong.vn))
 - [Từ Hi Thái hậu tuẫn táng 100 đứa trẻ vô tội cùng mình vì... sợ ma](https://cafebiz.vn/tu-hi-thai-hau-tuan-tang-100-dua-tre-vo-toi-cung-minh-vi-so-ma-20210315162458216.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tính đường dài, Real Madrid không thiết tha với Ronaldo](https://laodong.vn/bong-da-quoc-te/tinh-duong-dai-real-madrid-khong-thiet-tha-voi-ronaldo-889425.ldo) ([Lao Động](https://laodong.vn))
-- [Kinh tế 24h: Giá vàng bất ngờ tăng; Nhiều cổ đông chứng khoán bị xử phạt](https://laodong.vn/thi-truong/kinh-te-24h-gia-vang-bat-ngo-tang-nhieu-co-dong-chung-khoan-bi-xu-phat-889412.ldo) ([Lao Động](https://laodong.vn))
-- [Gia Cát Lượng vừa qua đời, Lưu Thiện liền sai người đi kiểm tra tài sản: Kết quả khiến hậu chủ Thục Hán đập bàn tức giận](https://cafebiz.vn/gia-cat-luong-vua-qua-doi-luu-thien-lien-sai-nguoi-di-kiem-tra-tai-san-ket-qua-khien-hau-chu-thuc-han-dap-ban-tuc-gian-20210315162101583.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hóc Môn, Bình Chánh, Nhà Bè dự kiến thành quận trước 2025](https://vnexpress.net/hoc-mon-binh-chanh-nha-be-du-kien-thanh-quan-truoc-2025-4248920.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
