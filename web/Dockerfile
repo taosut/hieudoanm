@@ -54,11 +54,11 @@ WORKDIR /var/server/express
 # List all files in express
 RUN ls -la /var/server/express
 # Copy contents of `dist` folder to `app`
-COPY /var/server/express/dist /var/server/app
+RUN cp -a /var/server/express/dist/. /var/server/app/
 # Copy package.json
-COPY /var/server/express/package.json /var/server/app/package.json
+RUN cp /var/server/express/package.json /var/server/app/package.json
 # Copy yarn.lock
-COPY /var/server/express/yarn.lock /var/server/app/yarn.lock
+RUN cp /var/server/express/yarn.lock /var/server/app/yarn.lock
 # Set WORKDIR to app
 WORKDIR /var/server/app
 # Install node-gyp
