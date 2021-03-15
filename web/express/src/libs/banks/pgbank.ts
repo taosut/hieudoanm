@@ -15,7 +15,7 @@ export default class PGBank extends Base {
       fetch(url, { method: 'POST' })
         .then(res => res.text())
         .then((body: string) => {
-          const $: cheerio.Root = cheerio.load(body);
+          const $: any = cheerio.load(body);
           const rates = $('table#ctl00_HolderBody_ExchangeRate1_grdSumary_DXMainTable tbody tr')
             .get()
             .map(item => {

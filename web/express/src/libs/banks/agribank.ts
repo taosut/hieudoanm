@@ -13,7 +13,7 @@ export default class Agribank extends Base {
       fetch(url)
         .then(res => res.text())
         .then((body: string) => {
-          const $: cheerio.Root = cheerio.load(body);
+          const $: any = cheerio.load(body);
           const rates = $('table.table.table-bordered.table-striped tbody tr')
             .get()
             .map(item => {

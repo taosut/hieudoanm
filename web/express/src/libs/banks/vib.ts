@@ -13,7 +13,7 @@ export default class VIB extends Base {
       fetch(url)
         .then(res => res.text())
         .then((body: string) => {
-          const $: cheerio.Root = cheerio.load(body);
+          const $: any = cheerio.load(body);
           const rates: Array<any> = $('table.table.table-border.vib-v2-table-exchange tbody tr')
             .get()
             .map(item => {

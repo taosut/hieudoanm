@@ -28,7 +28,7 @@ export default class ACB extends Base {
       fetch(url, { timeout, method: 'POST' })
         .then(res => res.text())
         .then((body: string) => {
-          const $: cheerio.Root = cheerio.load(body);
+          const $: any = cheerio.load(body);
           const rates = $('.wrap-content-search-big table tr')
             .get()
             .map(item => {

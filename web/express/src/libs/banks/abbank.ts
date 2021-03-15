@@ -13,7 +13,7 @@ export default class ABBank extends Base {
       fetch(url)
         .then(res => res.text())
         .then((body: string) => {
-          const $: cheerio.Root = cheerio.load(body);
+          const $: any = cheerio.load(body);
           const rows = $('.dynamic-content table tbody tr').get();
           const rates1: Array<any> = self.processCase1(rows, $);
           const rates2: Array<any> = self.processCase1(rows, $);
@@ -26,7 +26,7 @@ export default class ABBank extends Base {
         });
     });
   }
-  private processCase1(rows: Array<any>, $: cheerio.Root): Array<any> {
+  private processCase1(rows: Array<any>, $: any): Array<any> {
     const { codes } = this;
     const rates: Array<any> = rows
       .map(item => {
@@ -55,7 +55,7 @@ export default class ABBank extends Base {
     return rates;
   }
 
-  private processCase2(rows: Array<any>, $: cheerio.Root): Array<any> {
+  private processCase2(rows: Array<any>, $: any): Array<any> {
     const { codes } = this;
     const rates: Array<any> = rows
       .map(item => {

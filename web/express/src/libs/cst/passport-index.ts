@@ -10,7 +10,7 @@ export default class PassportIndex {
       fetch(url)
         .then(res => res.text())
         .then((body: string) => {
-          const $: cheerio.Root = cheerio.load(body);
+          const $: any = cheerio.load(body);
           const visas = $('table#psprt-dashboard-table tbody tr')
             .get()
             .map(row => {

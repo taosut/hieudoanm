@@ -11,7 +11,7 @@ export default class Techcombank {
       fetch(url)
         .then(res => res.text())
         .then((body: string) => {
-          const $: cheerio.Root = cheerio.load(body);
+          const $: any = cheerio.load(body);
           const allRates = $('.table-responsive table tbody tr')
             .get()
             .map(item => {

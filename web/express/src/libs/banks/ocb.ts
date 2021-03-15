@@ -19,7 +19,7 @@ export default class OCB extends Base {
       fetch(url)
         .then(res => res.text())
         .then((body: string) => {
-          const $: cheerio.Root = cheerio.load(body);
+          const $: any = cheerio.load(body);
           const rates = $('.content-table table tbody tr')
             .get()
             .map(item => {

@@ -12,11 +12,11 @@ export default class Vietinbank extends Base {
       fetch(url)
         .then(res => res.text())
         .then((body: string) => {
-          const $: cheerio.Root = cheerio.load(body);
+          const $: any = cheerio.load(body);
           const rates: Array<any> = $('table#hor-ex-b tbody tr')
             .get()
             .map(item => {
-              const $item: cheerio.Cheerio = $(item);
+              const $item: any = $(item);
               const code: string = $item.find('td:nth-child(1)').text().trim() || '';
               const regex: RegExp = /[&#,-]/g;
               const buyCash: number =
