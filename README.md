@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 26.25°C.
-- Air Visual is 132.
+- Feels Like 25.31°C.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Chìm tàu hàng chở 2.500 tấn bụi than ở vùng biển Mũi Né](https://laodong.vn/xa-hoi/chim-tau-hang-cho-2500-tan-bui-than-o-vung-bien-mui-ne-889127.ldo) ([Lao Động](https://laodong.vn))
-- [30 năm đầu nuôi dưỡng thói quen, 30 năm sau thu hoạch quả ngọt: 25 thói quen đời người nên rèn luyện](https://cafebiz.vn/30-nam-dau-nuoi-duong-thoi-quen-30-nam-sau-thu-hoach-qua-ngot-25-thoi-quen-doi-nguoi-nen-ren-luyen-20210311194445408.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tư duy trong chọn lựa sự nghiệp - bạn đã có chưa?](https://cafebiz.vn/tu-duy-trong-chon-lua-su-nghiep-ban-da-co-chua-20210315101656388.chn) ([CafeBiz](https://cafebiz.vn))
-- [Công nhân lao động Việt Trì tích cực hiến máu cứu người](https://laodong.vn/ldld-phu-tho/cong-nhan-lao-dong-viet-tri-tich-cuc-hien-mau-cuu-nguoi-889150.ldo) ([Lao Động](https://laodong.vn))
-- [Tuyển sinh đại học 2021: Một số điểm mới được đề xuất](https://laodong.vn/giao-duc/tuyen-sinh-dai-hoc-2021-mot-so-diem-moi-duoc-de-xuat-889129.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng: Đã phá dỡ bức tường trường cấp 2 bị nứt nghiêng](https://laodong.vn/ban-doc/hai-phong-da-pha-do-buc-tuong-truong-cap-2-bi-nut-nghieng-889128.ldo) ([Lao Động](https://laodong.vn))
-- [Xem hat-trick siêu đẳng của Ronaldo vào lưới Cagliari](https://laodong.vn/video-the-thao/xem-hat-trick-sieu-dang-cua-ronaldo-vao-luoi-cagliari-889111.ldo) ([Lao Động](https://laodong.vn))
-- ['Mổ xẻ' chiếc đồng hồ đắt nhất thế giới: Phiên bản độc nhất vô nhị, sở hữu 'sương sương' 6 bằng sáng chế, giá 714 tỉ](https://cafebiz.vn/mo-xe-chiec-dong-ho-dat-nhat-the-gioi-phien-ban-doc-nhat-vo-nhi-so-huu-suong-suong-6-bang-sang-che-gia-714-ti-20210315100535202.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đánh thuế cho căn nhà số 2: Công cụ siết chặt đầu cơ bất động sản dưới góc nhìn chuyên gia](https://cafebiz.vn/danh-thue-cho-can-nha-so-2-cong-cu-siet-chat-dau-co-bat-dong-san-duoi-goc-nhin-chuyen-gia-20210315100025794.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá vàng và ngoại tệ 15.3: Vàng được kỳ vọng, USD tiếp đà tăng](https://laodong.vn/video/gia-vang-va-ngoai-te-153-vang-duoc-ky-vong-usd-tiep-da-tang-889124.ldo) ([Lao Động](https://laodong.vn))
+- [Chiến lược định giá thiên tài đằng sau những con số 99k, 199k, 299k... trong các cửa hàng, siêu thị](https://cafebiz.vn/chien-luoc-dinh-gia-thien-tai-dang-sau-nhung-con-so-99k-199k-299k-trong-cac-cua-hang-sieu-thi-20210315093548465.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắc Giang: Truy tìm lái xe máy gây tai nạn chết người rồi bỏ chạy](https://laodong.vn/phap-luat/bac-giang-truy-tim-lai-xe-may-gay-tai-nan-chet-nguoi-roi-bo-chay-889147.ldo) ([Lao Động](https://laodong.vn))
+- [Lập báo cáo tiền khả thi mở rộng cao tốc TP HCM - Long Thành](https://vnexpress.net/lap-bao-cao-tien-kha-thi-mo-rong-cao-toc-tp-hcm-long-thanh-4248494.html) ([VNExpress](https://vnexpress.net))
+- [Cuộc đổ bộ của các ‘ông lớn’ vào đại ngàn Tây Nguyên](https://cafebiz.vn/cuoc-do-bo-cua-cac-ong-lon-vao-dai-ngan-tay-nguyen-20210315104555003.chn) ([CafeBiz](https://cafebiz.vn))
+- [Du lịch Việt sôi động hậu Covic-19: Khách "bung lụa" đặt tour sau thời gian "kìm nén" ở nhà chống dịch, đổ dồn vào dịp lễ 30/4-1/5](https://cafebiz.vn/du-lich-viet-soi-dong-hau-covic-19-khach-bung-lua-dat-tour-sau-thoi-gian-kim-nen-o-nha-chong-dich-do-don-vao-dip-le-30-4-1-5-20210315104121405.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bão cát tấn công, Bắc Kinh quay cuồng trong lớp bụi dày đặc](https://laodong.vn/the-gioi/bao-cat-tan-cong-bac-kinh-quay-cuong-trong-lop-bui-day-dac-889149.ldo) ([Lao Động](https://laodong.vn))
+- [Những cây phong thuỷ "trợ lực" giúp 12 con giáp làm ăn phát tài phát lộc, tiền vào như nước](https://cafebiz.vn/nhung-cay-phong-thuy-tro-luc-giup-12-con-giap-lam-an-phat-tai-phat-loc-tien-vao-nhu-nuoc-20210315032040355.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Dương phạt hơn 3 tỷ đồng vi phạm về phòng, chống dịch](https://cafebiz.vn/hai-duong-phat-hon-3-ty-dong-vi-pham-ve-phong-chong-dich-2021031510431444.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tiền lãi đầu tư vào Bitcoin của Elon Musk đủ giúp Tesla xây một nhà máy mới](https://cafebiz.vn/tien-lai-dau-tu-vao-bitcoin-cua-elon-musk-du-giup-tesla-xay-mot-nha-may-moi-20210315104248343.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hơn 20.000 kiến nghị của cử tri đã được theo dõi, đôn đốc giải quyết](https://laodong.vn/thoi-su/hon-20000-kien-nghi-cua-cu-tri-da-duoc-theo-doi-don-doc-giai-quyet-889141.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
