@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 25.95°C.
-- Air Visual is 97.
+- Temperature is 25°C.
+- Feels Like 24.89°C.
+- Air Visual is 93.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [12 trang trại bò sữa 4.0 của Vinamilk dùng năng lượng mặt trời](https://laodong.vn/thong-tin-doanh-nghiep/12-trang-trai-bo-sua-40-cua-vinamilk-dung-nang-luong-mat-troi-889180.ldo) ([Lao Động](https://laodong.vn))
-- [Mua chung cư bao lâu thì được cấp sổ hồng?](https://laodong.vn/tu-van-phap-luat/mua-chung-cu-bao-lau-thi-duoc-cap-so-hong-888285.ldo) ([Lao Động](https://laodong.vn))
-- [Khi nào bị chấm dứt hưởng trợ cấp thất nghiệp?](https://laodong.vn/tu-van-phap-luat/khi-nao-bi-cham-dut-huong-tro-cap-that-nghiep-888471.ldo) ([Lao Động](https://laodong.vn))
-- [Mua đất của bố mẹ có phải nộp lệ phí trước bạ?](https://laodong.vn/bat-dong-san/mua-dat-cua-bo-me-co-phai-nop-le-phi-truoc-ba-888983.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyển từ đất phi nông nghiệp sang đất ở phải nộp phí gì?](https://laodong.vn/bat-dong-san/chuyen-tu-dat-phi-nong-nghiep-sang-dat-o-phai-nop-phi-gi-888987.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao thẻ căn cước công dân mới được cấp 'xuyên đêm'?](https://vnexpress.net/vi-sao-the-can-cuoc-cong-dan-moi-duoc-cap-xuyen-dem-4248299.html) ([VNExpress](https://vnexpress.net))
-- [Đài Loan thúc các công ty ở Myanmar 'treo cờ Đài Loan' để tránh bị tấn công nhầm](https://tuoitre.vn/dai-loan-thuc-cac-cong-ty-o-myanmar-treo-co-dai-loan-de-tranh-bi-tan-cong-nham-20210315124312932.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cổ phiếu gã khổng lồ công nghệ Nhật Bản tăng 20% sau tin bán cổ phần cho Walmart, Tencent](https://cafebiz.vn/co-phieu-ga-khong-lo-cong-nghe-nhat-ban-tang-20-sau-tin-ban-co-phan-cho-walmart-tencent-2021031513494729.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trấn Thành - Tuấn Trần: Bộ đôi góp phần làm nên 11 kỉ lục của &quot;Bố già&quot;](https://laodong.vn/photo/tran-thanh-tuan-tran-bo-doi-gop-phan-lam-nen-11-ki-luc-cua-bo-gia-889215.ldo) ([Lao Động](https://laodong.vn))
-- [Lắp cửa van hơn 200 tấn cho cống ngăn mặn](https://vnexpress.net/lap-cua-van-hon-200-tan-cho-cong-ngan-man-4248646.html) ([VNExpress](https://vnexpress.net))
+- [Top 5 địa điểm chụp ảnh hoa gạo đẹp nhất tại Hà Nội](https://laodong.vn/ban-doc/top-5-dia-diem-chup-anh-hoa-gao-dep-nhat-tai-ha-noi-889170.ldo) ([Lao Động](https://laodong.vn))
+- [Khai thác hiệu quả không gian ngầm đô thị TP.Hồ Chí Minh](https://laodong.vn/kinh-te/khai-thac-hieu-qua-khong-gian-ngam-do-thi-tpho-chi-minh-889025.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ phá rừng ở xã Suối Tân: UBND tỉnh Khánh Hòa yêu cầu kiểm tra, xử lý](https://laodong.vn/ban-doc/vu-pha-rung-o-xa-suoi-tan-ubnd-tinh-khanh-hoa-yeu-cau-kiem-tra-xu-ly-889223.ldo) ([Lao Động](https://laodong.vn))
+- [Đứt cáp cần cẩu, hai người chết](https://vnexpress.net/dut-cap-can-cau-hai-nguoi-chet-4248724.html) ([VNExpress](https://vnexpress.net))
+- [Bầu Đức lên kế hoạch đặc biệt kỷ niệm 20 năm làm bóng đá](https://laodong.vn/bong-da/bau-duc-len-ke-hoach-dac-biet-ky-niem-20-nam-lam-bong-da-889237.ldo) ([Lao Động](https://laodong.vn))
+- [Dù “thua cuộc”, BTS vẫn được đánh giá cao tại Grammy](https://laodong.vn/giai-tri/du-thua-cuoc-bts-van-duoc-danh-gia-cao-tai-grammy-889235.ldo) ([Lao Động](https://laodong.vn))
+- [Phạt nặng lái xe uống rượu, sử dụng ma túy tái phạm qua cơ sở dữ liệu quốc gia](https://tuoitre.vn/phat-nang-lai-xe-uong-ruou-su-dung-ma-tuy-tai-pham-qua-co-so-du-lieu-quoc-gia-20210315132302935.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hộ khẩu tỉnh khác, có được làm căn cước công dân tại Hà Nội không?](https://cafebiz.vn/ho-khau-tinh-khac-co-duoc-lam-can-cuoc-cong-dan-tai-ha-noi-khong-20210315141343283.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bitcoin lại lập đỉnh mới, vì sao Warren Buffett vẫn kiên quyết nói 'Không'?](https://cafebiz.vn/bitcoin-lai-lap-dinh-moi-vi-sao-warren-buffett-van-kien-quyet-noi-khong-2021031514002665.chn) ([CafeBiz](https://cafebiz.vn))
+- [Làm 5 công việc một lúc, doanh nhân 9X tậu Mercedes: Mua xe không tốn, nuôi xe mới tốn](https://cafebiz.vn/lam-5-cong-viec-mot-luc-doanh-nhan-9x-tau-mercedes-mua-xe-khong-ton-nuoi-xe-moi-ton-20210315140925934.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Nền tảng kết nối các nhà bán buôn và bán lẻ Kilo: Gọi vốn thành công vòng hạt giống](https://vietcetera.com/vn/nen-tang-ket-noi-cac-nha-ban-buon-va-ban-le-kilo-goi-von-thanh-cong-vong-hat-giong)
 - [Paysan Breton: Vị bơ nước Pháp trên bàn ăn Việt](https://vietcetera.com/vn/paysan-breton-vi-bo-nuoc-phap-tren-ban-an-viet)
 - [Mẹo trò chuyện để biến "quan tâm" thành "quan hệ" : Chia sẻ từ những nữ thành viên Tinder Việt Nam](https://vietcetera.com/vn/thanh-vien-tinder-viet-nam-bat-mi-cach-tro-chuyen-cung-phai-nu-khi-ket-ban-truc-tuyen)
 - ["Con anh tên Trần Mai Ninh, vì anh họ Trần, bả họ Mai..."](https://vietcetera.com/vn/con-anh-ten-tran-mai-ninh-vi-anh-ho-tran-ba-ho-mai)
@@ -105,7 +106,6 @@
 - [5 Phim kinh dị đáng sợ hơn ngày thứ Hai](https://vietcetera.com/vn/5-phim-kinh-di-dang-so-hon-ngay-thu-hai)
 - [Thuận Nguyễn: “Hãnh diện là một fashionisto U70 hiếm hoi trên thế giới!” ](https://vietcetera.com/vn/thuan-nguyen-hanh-dien-la-mot-fashionisto-u70-hiem-hoi-tren-the-gioi)
 - [Tự tử có lan rộng được không?](https://vietcetera.com/vn/su-lay-lan-cua-dich-benh-tu-tu)
-- [Chế độ ăn Keto: Hiệu quả giảm cân đến mức nào và liệu có đáng thử?](https://vietcetera.com/vn/che-do-an-keto-hieu-qua-giam-can-den-muc-nao-va-lieu-co-dang-thu)
 
 [Read More](https://vietcetera.com/)
 
