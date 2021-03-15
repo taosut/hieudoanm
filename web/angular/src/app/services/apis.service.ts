@@ -276,16 +276,10 @@ export class ApisService {
     return await this.httpService.get(url);
   }
 
-  public upload(file: File): Observable<HttpEvent<any>> {
+  public upload(file: File): Promise<any> {
     const { base } = this;
     const formData: FormData = new FormData();
     formData.append("file", file);
-
-    const req = new HttpRequest("POST", `${base}/banks/upload`, formData, {
-      reportProgress: true,
-      responseType: "json",
-    });
-
-    return this.http.request(req);
+    return this.httpService.post(`${base}/banks/upload`, formData);
   }
 }

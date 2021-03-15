@@ -7,58 +7,41 @@ import imagemin from 'imagemin';
 import imageminMozjpeg from 'imagemin-mozjpeg';
 
 const banks = [
-  {
-    name: 'vietcombank',
-    prefixes: ['007', '004', '0491', '001'],
-    length: 13
-  },
-  {
-    name: 'sacombank',
-    prefixes: ['020', '5611', '0400', '1234'],
-    length: 12
-  },
-  {
-    name: 'vietinbank',
-    prefixes: ['10'],
-    length: 12
-  },
-  {
-    name: 'agribank',
-    prefixes: ['130', '490', '318'],
-    length: 13
-  },
-  {
-    name: 'techcombank',
-    prefixes: ['102', '196', '140', '191', '1903'],
-    length: 14
-  },
-  {
-    name: 'bidv',
-    prefixes: ['581', '125', '601', '213'],
-    length: 14
-  },
-  {
-    name: 'mb',
-    prefixes: ['068', '0801', '0050'],
-    length: 13
-  },
-  {
-    name: 'vib',
-    prefixes: ['601', '025'],
-    length: 15
-  },
-  {
-    name: 'acb',
-    prefixes: ['20', '24']
-  },
-  {
-    name: 'vpbank',
-    prefixes: ['15']
-  },
-  {
-    name: 'tpbank',
-    prefixes: ['020']
-  }
+  { names: ['abbank'] },
+  { names: ['acb'], prefixes: ['20', '24'] },
+  { names: ['agribank', 'agri'], prefixes: ['130', '490', '318'], length: 13 },
+  { names: ['baovietbank', 'bvb'] },
+  { names: ['bidv'], prefixes: ['581', '125', '601', '213'], length: 14 },
+  { names: ['cbbank', 'cb'] },
+  { names: ['dongabank'] },
+  { names: ['eximbank'] },
+  { names: ['gpbank', 'gpb'] },
+  { names: ['hdbank', 'hdb'] },
+  { names: ['kienlongbank'] },
+  { names: ['lienvietpostbank', 'lpb'] },
+  { names: ['mbbank', 'mb'], prefixes: ['068', '0801', '0050'], length: 13 },
+  { names: ['msb'] },
+  { names: ['namabank'] },
+  { names: ['ncb'] },
+  { names: ['ocb'] },
+  { names: ['oceanbank'] },
+  { names: ['pgbank'] },
+  { names: ['pvcombank'] },
+  { names: ['sacombank'], prefixes: ['020', '5611', '0400', '1234'], length: 12 },
+  { names: ['saigonbank'] },
+  { names: ['scb'] },
+  { names: ['seabank'] },
+  { names: ['shb'] },
+  { names: ['techcombank'], prefixes: ['102', '196', '140', '191', '1903'], length: 14 },
+  { names: ['tpbank'], prefixes: ['020'] },
+  { names: ['uob'] },
+  { names: ['vib'], prefixes: ['601', '025'], length: 15 },
+  { names: ['vietabank'] },
+  { names: ['vietbank'] },
+  { names: ['vietcapitalbank'] },
+  { names: ['vietcombank', 'vcb'], prefixes: ['007', '004', '0491', '001'], length: 13 },
+  { names: ['vietinbank'], prefixes: ['10'], length: 12 },
+  { names: ['vpbank'], prefixes: ['15'] }
 ];
 
 export default async (req: any, res: Response): Promise<Response<any>> => {
@@ -134,11 +117,12 @@ const getBanksInfos = (text: string): Array<Record<string, any>> => {
   const bankNames: Array<string> = lines
     .map((line: string) => {
       const filterBanks = banks.filter((bank: any) => {
-        const { name = '' } = bank;
-        return line.includes(name);
+        const { names = [] } = bank;
+        return names.some((name: string) => line.includes(name));
       });
-      const [first = { name: '' }] = filterBanks;
-      const { name = '' } = first;
+      const [first = { names: [] }] = filterBanks;
+      const { names = [] } = first;
+      const [name = ''] = names;
       return name.toLowerCase();
     })
     .filter((name: string) => name);

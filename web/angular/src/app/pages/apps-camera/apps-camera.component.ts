@@ -36,7 +36,7 @@ export class AppsCameraComponent implements OnInit {
     this.isMobile = this.utilsService.detectMobileAndTablet();
   }
 
-  public upload(event: any): void {
+  public async upload(event: any): Promise<void> {
     const self = this;
     const file = event.target.files.item(0);
     const { name = "" } = file;
@@ -44,22 +44,9 @@ export class AppsCameraComponent implements OnInit {
     console.log(file);
     self.loading = true;
     self.banksInfos = [];
-    console.log("loading", self.loading);
-    this.apisService.upload(file).subscribe(
-      (event: any) => {
-        console.log("event", event);
-        const { body = {} } = event;
-        if (!_.isEmpty(body)) {
-          const { banksInfos = [] } = body;
-          self.banksInfos = banksInfos;
-          self.loading = false;
-        }
-      },
-      (error) => {
-        self.loading = false;
-        console.error(error);
-      }
-    );
+    const { banksInfos = [] } = await this.apisService.upload(file);
+    self.loading = false;
+    self.banksInfos = banksInfos;
   }
 
   public copyToClipboard(text: string): void {
