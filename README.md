@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Ông Donald Trump bất ngờ thăm thuộc cấp cũ](https://laodong.vn/the-gioi/ong-donald-trump-bat-ngo-tham-thuoc-cap-cu-889241.ldo) ([Lao Động](https://laodong.vn))
-- [Giải cứu nông sản Hải Dương: Đoàn viên ở Quảng Trị bán 5 tấn ổi trong 1 giờ](https://laodong.vn/xa-hoi/giai-cuu-nong-san-hai-duong-doan-vien-o-quang-tri-ban-5-tan-oi-trong-1-gio-889155.ldo) ([Lao Động](https://laodong.vn))
+- [Đảo tím mộng mơ hút khách du lịch ở Hàn Quốc](https://laodong.vn/the-gioi/dao-tim-mong-mo-hut-khach-du-lich-o-han-quoc-889251.ldo) ([Lao Động](https://laodong.vn))
+- [Bị Mỹ triệt hạ mảng smartphone, Huawei tìm cơ hội trong ngành ô tô, khai mỏ](https://cafebiz.vn/bi-my-triet-ha-mang-smartphone-huawei-tim-co-hoi-trong-nganh-o-to-khai-mo-20210315140323541.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hải Phòng: Va chạm xe đầu kéo, một thanh niên tử vong tại chỗ](https://laodong.vn/giao-thong/hai-phong-va-cham-xe-dau-keo-mot-thanh-nien-tu-vong-tai-cho-889230.ldo) ([Lao Động](https://laodong.vn))
+- [9 giống mèo hay gây rắc rối nhất cho chủ nhân nhiều người không biết](https://laodong.vn/photo/9-giong-meo-hay-gay-rac-roi-nhat-cho-chu-nhan-nhieu-nguoi-khong-biet-889070.ldo) ([Lao Động](https://laodong.vn))
+- [Quan niệm &quot;ăn đầu tôm giúp thông minh&quot;: Sai lầm nghiêm trọng cần loại bỏ](https://laodong.vn/suc-khoe/quan-niem-an-dau-tom-giup-thong-minh-sai-lam-nghiem-trong-can-loai-bo-889092.ldo) ([Lao Động](https://laodong.vn))
+- [21 trận không được hưởng 11m, VAR và trọng tài đang “dìm” Real Madrid?](https://laodong.vn/bong-da-quoc-te/21-tran-khong-duoc-huong-11m-var-va-trong-tai-dang-dim-real-madrid-889174.ldo) ([Lao Động](https://laodong.vn))
+- [Thương vụ đổ bể mới của SoftBank: Greensill Capital đã vay gần 100 triệu euro từ ngân hàng liên quan ngay trước khi sụp đổ](https://cafebiz.vn/thuong-vu-do-be-moi-cua-softbank-greensill-capital-da-vay-gan-100-trieu-euro-tu-ngan-hang-lien-quan-ngay-truoc-khi-sup-do-20210315145809271.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vĩnh Phúc: Loạt biệt thự đua nhau mọc trái phép trên đất rừng](https://laodong.vn/bat-dong-san/vinh-phuc-loat-biet-thu-dua-nhau-moc-trai-phep-tren-dat-rung-888308.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng: Bắt tại trận người đàn ông mang theo vật nghi súng, mìn cướp ngân hàng ở Hà Nội](https://cafebiz.vn/nong-bat-tai-tran-nguoi-dan-ong-mang-theo-vat-nghi-sung-min-cuop-ngan-hang-o-ha-noi-20210315145631086.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bảng xếp hạng vòng 3 V.League: SHB Đà Nẵng nối dài mạch thắng](https://laodong.vn/infographic/bang-xep-hang-vong-3-vleague-shb-da-nang-noi-dai-mach-thang-889130.ldo) ([Lao Động](https://laodong.vn))
-- [Bà Nguyễn Thị Thanh Thủy làm Phó chánh thanh tra TP.HCM](https://tuoitre.vn/ba-nguyen-thi-thanh-thuy-la-pho-chanh-thanh-tra-tp-hcm-20210315142611152.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [TP. Hạ Long cho xe đón học sinh “mắc kẹt” ở vùng dịch Hải Dương](https://laodong.vn/xa-hoi/tp-ha-long-cho-xe-don-hoc-sinh-mac-ket-o-vung-dich-hai-duong-889249.ldo) ([Lao Động](https://laodong.vn))
-- [Khống chế tại chỗ tên cướp ngân hàng ở ngoại thành Hà Nội](https://laodong.vn/phap-luat/khong-che-tai-cho-ten-cuop-ngan-hang-o-ngoai-thanh-ha-noi-889238.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ phá rừng ở xã Suối Tân: UBND tỉnh Khánh Hòa yêu cầu kiểm tra, xử lý](https://laodong.vn/ban-doc/vu-pha-rung-o-xa-suoi-tan-ubnd-tinh-khanh-hoa-yeu-cau-kiem-tra-xu-ly-889223.ldo) ([Lao Động](https://laodong.vn))
-- [Đứt cáp cần cẩu, hai người chết](https://vnexpress.net/dut-cap-can-cau-hai-nguoi-chet-4248724.html) ([VNExpress](https://vnexpress.net))
-- [Phạt nặng lái xe uống rượu, sử dụng ma túy tái phạm qua cơ sở dữ liệu quốc gia](https://tuoitre.vn/phat-nang-lai-xe-uong-ruou-su-dung-ma-tuy-tai-pham-qua-co-so-du-lieu-quoc-gia-20210315132302935.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hộ khẩu tỉnh khác, có được làm căn cước công dân tại Hà Nội không?](https://cafebiz.vn/ho-khau-tinh-khac-co-duoc-lam-can-cuoc-cong-dan-tai-ha-noi-khong-20210315141343283.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
