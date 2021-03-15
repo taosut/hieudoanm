@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 24.91°C.
-- Air Visual is 91.
+- Air Visual is 109.
 
 **WEATHER**
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [5 huyện ngoại thành ở TPHCM sẽ lên quận trong 10 năm tới](https://laodong.vn/xa-hoi/5-huyen-ngoai-thanh-o-tphcm-se-len-quan-trong-10-nam-toi-889452.ldo) ([Lao Động](https://laodong.vn))
+- [Mức án cho Đinh La Thăng và các đồng phạm trong vụ Ethanol Phú Thọ](https://laodong.vn/infographic/muc-an-cho-dinh-la-thang-va-cac-dong-pham-trong-vu-ethanol-phu-tho-889330.ldo) ([Lao Động](https://laodong.vn))
 - [Cháy lớn ở cửa hàng nội thất](https://vnexpress.net/chay-lon-o-cua-hang-noi-that-4248929.html) ([VNExpress](https://vnexpress.net))
 - [Chủ tịch Tổng LĐLĐVN: Viettel là điểm sáng về phong trào lao động sáng tạo](https://laodong.vn/video/chu-tich-tong-ldldvn-viettel-la-diem-sang-ve-phong-trao-lao-dong-sang-tao-889419.ldo) ([Lao Động](https://laodong.vn))
 - [Nỗi ám ảnh khi mang căn bệnh mở mắt ra là nhà cửa lộn ngược: Đang có xu hướng gia tăng, ai cũng có thể mắc](https://cafebiz.vn/noi-am-anh-khi-mang-can-benh-mo-mat-ra-la-nha-cua-lon-nguoc-dang-co-xu-huong-gia-tang-ai-cung-co-the-mac-20210315162906151.chn) ([CafeBiz](https://cafebiz.vn))
@@ -83,8 +85,6 @@
 - [Tháo gỡ khó khăn, bảo đảm tiến độ 12 công trình tổ chức SEA Games 31](https://laodong.vn/thoi-su/thao-go-kho-khan-bao-dam-tien-do-12-cong-trinh-to-chuc-sea-games-31-889447.ldo) ([Lao Động](https://laodong.vn))
 - [Làm việc với Sở TT&TT, YouTuber Thơ Nguyễn có biểu hiện không tốt về sức khỏe và tâm lý](https://cafebiz.vn/lam-viec-voi-so-tttt-youtuber-tho-nguyen-co-bieu-hien-khong-tot-ve-suc-khoe-va-tam-ly-20210315211956773.chn) ([CafeBiz](https://cafebiz.vn))
 - [Khởi tố đối tượng cầm đầu trong vụ chi 20 tỉ để "đẩy" Giám đốc Công an An Giang đi nơi khác](https://cafebiz.vn/khoi-to-doi-tuong-cam-dau-trong-vu-chi-20-ti-de-day-giam-doc-cong-an-an-giang-di-noi-khac-20210315211946288.chn) ([CafeBiz](https://cafebiz.vn))
-- [SGK tích hợp Lịch sử và Địa lí lớp 6: Không nặng về thuộc con số, sự kiện](https://laodong.vn/giao-duc/sgk-tich-hop-lich-su-va-dia-li-lop-6-khong-nang-ve-thuoc-con-so-su-kien-887990.ldo) ([Lao Động](https://laodong.vn))
-- [Đệ nhất cao thủ bí ẩn trong "Thủy hử", Lư Tuấn Nghĩa gặp ông phải quỳ, Lâm Xung và Võ Tòng không dám giao đấu](https://cafebiz.vn/de-nhat-cao-thu-bi-an-trong-thuy-hu-lu-tuan-nghia-gap-ong-phai-quy-lam-xung-va-vo-tong-khong-dam-giao-dau-20210315161744553.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
