@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 25.86°C.
-- Air Visual is 105.
+- Feels Like 25.95°C.
+- Air Visual is 119.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Sau 3 năm săn đón và chấp nhận trả giá cao để sở hữu cổ phần, quỹ ngoại đã mất kiên nhẫn với FPT Retail?](https://cafebiz.vn/sau-3-nam-san-don-va-chap-nhan-tra-gia-cao-de-so-huu-co-phan-quy-ngoai-da-mat-kien-nhan-voi-fpt-retail-20210315133309526.chn) ([CafeBiz](https://cafebiz.vn))
-- [CLB Đông Á Thanh Hoá đóng góp số cầu thủ kỷ lục cho đội tuyển U18 quốc gia](https://laodong.vn/the-thao/clb-dong-a-thanh-hoa-dong-gop-so-cau-thu-ky-luc-cho-doi-tuyen-u18-quoc-gia-889194.ldo) ([Lao Động](https://laodong.vn))
-- [YouTuber Thơ Nguyễn: Tiền và quyền lực “tấn công” bằng triệu fan](https://laodong.vn/ban-doc/youtuber-tho-nguyen-tien-va-quyen-luc-tan-cong-bang-trieu-fan-889218.ldo) ([Lao Động](https://laodong.vn))
-- [Mỹ đối mặt khủng hoảng nhập cư chưa từng có](https://laodong.vn/the-gioi/my-doi-mat-khung-hoang-nhap-cu-chua-tung-co-889175.ldo) ([Lao Động](https://laodong.vn))
-- [Quốc hội dự kiến bầu tân Thủ tướng ngày 5/4](https://vnexpress.net/quoc-hoi-du-kien-bau-tan-thu-tuong-ngay-5-4-4248684.html) ([VNExpress](https://vnexpress.net))
-- [Kiện toàn chức danh Chủ tịch Nước, Thủ tướng, Chủ tịch Quốc hội ở kỳ họp 11](https://laodong.vn/thoi-su/kien-toan-chuc-danh-chu-tich-nuoc-thu-tuong-chu-tich-quoc-hoi-o-ky-hop-11-889214.ldo) ([Lao Động](https://laodong.vn))
-- [Hưởng ứng phong trào &quot;Ngày chủ nhật xanh&quot; và &quot;Mai vàng trước ngõ&quot;](https://laodong.vn/cong-doan/huong-ung-phong-trao-ngay-chu-nhat-xanh-va-mai-vang-truoc-ngo-889216.ldo) ([Lao Động](https://laodong.vn))
-- [World Bank: Nhập khẩu từ Trung Quốc tăng gấp đôi, Việt Nam xuất hiện thâm hụt thương mại lần đầu trong 10 tháng](https://cafebiz.vn/world-bank-nhap-khau-tu-trung-quoc-tang-gap-doi-viet-nam-xuat-hien-tham-hut-thuong-mai-lan-dau-trong-10-thang-20210315111929331.chn) ([CafeBiz](https://cafebiz.vn))
-- [Yêu cầu PVN báo cáo về đề xuất với ông Nguyễn Vũ Trường Sơn](https://tuoitre.vn/yeu-cau-pvn-bao-cao-ve-de-xuat-voi-ong-nguyen-vu-truong-son-202103151208342.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chủ nhiệm Uỷ ban Đối ngoại Nguyễn Văn Giàu nói về 2 “món nợ” đối với dân](https://laodong.vn/thoi-su/chu-nhiem-uy-ban-doi-ngoai-nguyen-van-giau-noi-ve-2-mon-no-doi-voi-dan-889188.ldo) ([Lao Động](https://laodong.vn))
+- [Cổ phiếu gã khổng lồ công nghệ Nhật Bản tăng 20% sau tin bán cổ phần cho Walmart, Tencent](https://cafebiz.vn/co-phieu-ga-khong-lo-cong-nghe-nhat-ban-tang-20-sau-tin-ban-co-phan-cho-walmart-tencent-2021031513494729.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trấn Thành - Tuấn Trần: Bộ đôi góp phần làm nên 11 kỉ lục của &quot;Bố già&quot;](https://laodong.vn/photo/tran-thanh-tuan-tran-bo-doi-gop-phan-lam-nen-11-ki-luc-cua-bo-gia-889215.ldo) ([Lao Động](https://laodong.vn))
+- [Lắp cửa van hơn 200 tấn cho cống ngăn mặn](https://vnexpress.net/lap-cua-van-hon-200-tan-cho-cong-ngan-man-4248646.html) ([VNExpress](https://vnexpress.net))
+- [Mũi thử nghiệm đầu tiên của vắc xin Covivac Việt Nam: Mỹ đánh giá cao khả năng ngăn ngừa biến chủng Anh, Nam Phi](https://cafebiz.vn/mui-thu-nghiem-dau-tien-cua-vac-xin-covivac-viet-nam-my-danh-gia-cao-kha-nang-ngan-ngua-bien-chung-anh-nam-phi-20210315134605083.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xáo trộn tại Goldman Sachs: CEO công khai đi nghỉ bằng phi cơ của công ty bất chấp chỉ trích, nhân sự cấp cao ồ ạt rời đi trong thời gian ngắn](https://cafebiz.vn/xao-tron-tai-goldman-sachs-ceo-cong-khai-di-nghi-bang-phi-co-cua-cong-ty-bat-chap-chi-trich-nhan-su-cap-cao-o-at-roi-di-trong-thoi-gian-ngan-20210315134444378.chn) ([CafeBiz](https://cafebiz.vn))
+- [1 mũi xong luôn: Cơn sốt tiêm vắc xin Johnson & Johnson khiến quan chức y tế bất ngờ](https://cafebiz.vn/1-mui-xong-luon-con-sot-tiem-vac-xin-johnson-johnson-khien-quan-chuc-y-te-bat-ngo-20210315134248093.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lễ hội Hoa Lư: Dừng tổ chức lễ khai mạc, không tổ chức phần hội](https://laodong.vn/van-hoa-giai-tri/le-hoi-hoa-lu-dung-to-chuc-le-khai-mac-khong-to-chuc-phan-hoi-889222.ldo) ([Lao Động](https://laodong.vn))
+- [Có 90 mã chứng khoán trên HOSE bị cắt margin](https://laodong.vn/kinh-te/co-90-ma-chung-khoan-tren-hose-bi-cat-margin-889228.ldo) ([Lao Động](https://laodong.vn))
+- [Lạ lùng cảnh "se duyên" cho bưởi đặc sản ở Hà Tĩnh](https://cafebiz.vn/la-lung-canh-se-duyen-cho-buoi-dac-san-o-ha-tinh-20210315134009139.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá dầu tăng nóng có thể khiến lạm phát vượt “trần”](https://laodong.vn/thi-truong/gia-dau-tang-nong-co-the-khien-lam-phat-vuot-tran-889026.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
