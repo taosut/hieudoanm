@@ -1,5 +1,6 @@
 'use strict';
 
+import _ from 'lodash';
 import { Request, Response } from 'express';
 import Tesseract from 'tesseract.js';
 import imagemin from 'imagemin';
@@ -101,7 +102,7 @@ export default async (req: any, res: Response): Promise<Response<any>> => {
 const getTextFromImage = async (path: string): Promise<string> => {
   return new Promise(resolve => {
     Tesseract.recognize(path, 'eng', {
-      logger: (message: string) => console.log(message)
+      logger: (message: string) => console.log('message', message)
     })
       .then(({ data: { text } }) => {
         return resolve(text);
@@ -114,14 +115,20 @@ const getTextFromImage = async (path: string): Promise<string> => {
 };
 
 const getBanksInfos = (text: string): Array<Record<string, any>> => {
-  console.log(text);
+  console.log('text', text);
   const lines: Array<string> = text
     .split('\n')
     .map((line: string) => line.trim().toLowerCase())
     .filter((line: string) => line);
-  console.log(lines);
-  const bankAccountNumbers: Array<string> = lines
-    .map((line: string) => line.replace(/\D/g, '').trim())
+  console.log('lines', lines);
+  const allNumbers: Array<Array<string>> = lines.map((line: string) => {
+    const numbers = line
+      .replace(/\D/g, ' ')
+      .split('  ')
+      .map((number: string) => number.trim());
+    return numbers;
+  });
+  const bankNumbers = _.flattenDeep(allNumbers)
     .filter((line: string) => !isNaN(parseInt(line, 10)))
     .filter((line: string) => line.length > 8);
   const bankNames: Array<string> = lines
@@ -135,13 +142,13 @@ const getBanksInfos = (text: string): Array<Record<string, any>> => {
       return name.toLowerCase();
     })
     .filter((name: string) => name);
-  console.log('bankAccountNumbers', bankAccountNumbers);
+  console.log('bankNumbers', bankNumbers);
   console.log('bankNames', bankNames);
-  const length: number = bankAccountNumbers.length;
+  const length: number = bankNumbers.length;
   const banksInfos = [];
   for (let i = 0; i < length; i++) {
     const name: string = bankNames[i] || '';
-    const number: string = bankAccountNumbers[i] || '';
+    const number: string = bankNumbers[i] || '';
     if (!name || !number) continue;
     banksInfos.push({ name, number });
   }

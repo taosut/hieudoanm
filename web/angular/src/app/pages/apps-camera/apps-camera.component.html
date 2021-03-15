@@ -9,9 +9,12 @@
         capture="capture"
         (change)="upload($event)"
       />
-      <label class="custom-file-label" for="customFile">Choose file</label>
+      <label class="custom-file-label" for="customFile">{{ filename }}</label>
     </div>
   </div>
+  <ng-container *ngIf="loading">
+    <app-spinner></app-spinner>
+  </ng-container>
   <ng-container *ngIf="banksInfos.length">
     <div class="card">
       <div class="card-body">
@@ -24,7 +27,24 @@
                 <div class="text-uppercase">{{ banksInfo.name }}</div>
                 <div>{{ banksInfo.number }}</div>
               </span>
-              <button class="btn btn-primary text-uppercase">OPEN</button>
+              <ng-container *ngIf="isMobile">
+                <button
+                  class="btn text-uppercase"
+                  [ngClass]="button"
+                  (click)="copyToClipboard(banksInfo.number)"
+                >
+                  OPEN
+                </button>
+              </ng-container>
+              <ng-container *ngIf="!isMobile">
+                <button
+                  class="btn text-uppercase"
+                  [ngClass]="button"
+                  (click)="copyToClipboard(banksInfo.number)"
+                >
+                  COPY
+                </button>
+              </ng-container>
             </li>
           </ng-container>
         </ul>
