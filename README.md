@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Hải Phòng: Làm rõ việc trụ trì chùa Trung Hành vẩy hương vào người phật tử](https://laodong.vn/ban-doc/hai-phong-lam-ro-viec-tru-tri-chua-trung-hanh-vay-huong-vao-nguoi-phat-tu-889254.ldo) ([Lao Động](https://laodong.vn))
 - [Tự ý đập xây không phép trong khu trụ sở các hội của tỉnh Khánh Hòa](https://tuoitre.vn/tu-y-dap-xay-khong-phep-trong-khu-tru-so-cac-hoi-cua-tinh-khanh-hoa-20210315211046053.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Triệt phá thêm ổ nhóm chuyên 'làm luật' ở vùng biển Cẩm Phả](https://tuoitre.vn/triet-pha-them-o-nhom-chuyen-lam-luat-o-vung-bien-cam-pha-20210315220726026.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [TP.HCM khoan lỗ lắp cảm biến để quản lý thu phí đậu xe](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/tp-hcm-khoan-lo-lap-cam-bien-de-quan-ly-thu-phi-dau-xe-719865.html) ([VietNamNet](https://vietnamnet.vn))
@@ -84,7 +85,6 @@
 - [Chủ tịch Tổng LĐLĐVN: Viettel là điểm sáng về phong trào lao động sáng tạo](https://laodong.vn/video/chu-tich-tong-ldldvn-viettel-la-diem-sang-ve-phong-trao-lao-dong-sang-tao-889419.ldo) ([Lao Động](https://laodong.vn))
 - [Nỗi ám ảnh khi mang căn bệnh mở mắt ra là nhà cửa lộn ngược: Đang có xu hướng gia tăng, ai cũng có thể mắc](https://cafebiz.vn/noi-am-anh-khi-mang-can-benh-mo-mat-ra-la-nha-cua-lon-nguoc-dang-co-xu-huong-gia-tang-ai-cung-co-the-mac-20210315162906151.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bộ Văn hoá ra văn bản nhắc nhở sau cảnh chen lấn tại chùa Tam Chúc](https://laodong.vn/van-hoa-giai-tri/bo-van-hoa-ra-van-ban-nhac-nho-sau-canh-chen-lan-tai-chua-tam-chuc-889434.ldo) ([Lao Động](https://laodong.vn))
-- [Nữ giáo viên dạy tiếng Anh hết lòng vì sự nghiệp trồng người](https://cafebiz.vn/nu-giao-vien-day-tieng-anh-het-long-vi-su-nghiep-trong-nguoi-20210315190058895.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
