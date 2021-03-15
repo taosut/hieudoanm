@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 25.31°C.
-- Air Visual is 113.
+- Feels Like 25.67°C.
+- Air Visual is 124.
 
 **WEATHER**
 
@@ -52,18 +52,18 @@
 - [![Brave Girl](https://img.shields.io/static/v1?label=Brave%20Girl&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Brave%20Girl)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
+- [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hướng dương ngược nắng tập 40](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
-- [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
 - [![Lịch thi đấu V-League](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
-- [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Hà Nội: Tiếp nhận 72 hồ sơ ứng cử Đại biểu Quốc khội khóa XV](https://laodong.vn/thoi-su/ha-noi-tiep-nhan-72-ho-so-ung-cu-dai-bieu-quoc-khoi-khoa-xv-889162.ldo) ([Lao Động](https://laodong.vn))
-- [Tổng Thư ký Quốc hội: Quốc hội đã đi đến cùng các vấn đề được giám sát](https://laodong.vn/thoi-su/tong-thu-ky-quoc-hoi-quoc-hoi-da-di-den-cung-cac-van-de-duoc-giam-sat-889159.ldo) ([Lao Động](https://laodong.vn))
-- [Điều kiện chuyển từ đất nông nghiệp sang đất ở năm 2021](https://laodong.vn/bat-dong-san/dieu-kien-chuyen-tu-dat-nong-nghiep-sang-dat-o-nam-2021-889002.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng “thắp sáng” kinh tế đêm, khai thác lợi thế du lịch đang “ngủ quên&quot;](https://laodong.vn/kinh-te/da-nang-thap-sang-kinh-te-dem-khai-thac-loi-the-du-lich-dang-ngu-quen-889030.ldo) ([Lao Động](https://laodong.vn))
-- [Dán decal trang trí ôtô có bị xử phạt không?](https://laodong.vn/xe/dan-decal-trang-tri-oto-co-bi-xu-phat-khong-889041.ldo) ([Lao Động](https://laodong.vn))
-- [Bảng xếp hạng vòng 25 Bundesliga: Bayern hơn Leipzig 4 điểm](https://laodong.vn/infographic/bang-xep-hang-vong-25-bundesliga-bayern-hon-leipzig-4-diem-889107.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội xây cung thiếu nhi mới hơn 1.300 tỷ đồng](https://vnexpress.net/ha-noi-xay-cung-thieu-nhi-moi-hon-1-300-ty-dong-4248560.html) ([VNExpress](https://vnexpress.net))
-- [Tôi ứng cử để đóng góp cho đất nước](https://tuoitre.vn/toi-ung-cu-de-dong-gop-cho-dat-nuoc-20210315073350657.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chiến lược định giá thiên tài đằng sau những con số 99k, 199k, 299k... trong các cửa hàng, siêu thị](https://cafebiz.vn/chien-luoc-dinh-gia-thien-tai-dang-sau-nhung-con-so-99k-199k-299k-trong-cac-cua-hang-sieu-thi-20210315093548465.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lập báo cáo tiền khả thi mở rộng cao tốc TP HCM - Long Thành](https://vnexpress.net/lap-bao-cao-tien-kha-thi-mo-rong-cao-toc-tp-hcm-long-thanh-4248494.html) ([VNExpress](https://vnexpress.net))
+- [Một lần kể hết của TikToker đình đám Kiên Review: Suýt mất bàn tay vì đam mê "tìm sự thật phía sau mọi quảng cáo", để không còn ai bị lừa khi mua hàng online](https://cafebiz.vn/mot-lan-ke-het-cua-tiktoker-dinh-dam-kien-review-suyt-mat-ban-tay-vi-dam-me-tim-su-that-phia-sau-moi-quang-cao-de-khong-con-ai-bi-lua-khi-mua-hang-online-2021031511394428.chn) ([CafeBiz](https://cafebiz.vn))
+- [40 tỉ đồng bảo hiểm cho người tình nguyện tiêm vắc xin COVID-19 'made in Việt Nam'](https://tuoitre.vn/40-ti-dong-bao-hiem-cho-nguoi-tinh-nguyen-tiem-vac-xin-covid-19-made-in-viet-nam-20210315112650787.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Có được giữ tài sản của người vay tiền để siết nợ?](https://laodong.vn/kinh-te/co-duoc-giu-tai-san-cua-nguoi-vay-tien-de-siet-no-889153.ldo) ([Lao Động](https://laodong.vn))
+- [Nghệ An: Một người đàn ông tử vong do bị cột gỗ đè gãy cổ](https://laodong.vn/xa-hoi/nghe-an-mot-nguoi-dan-ong-tu-vong-do-bi-cot-go-de-gay-co-889151.ldo) ([Lao Động](https://laodong.vn))
+- [Từ &quot;Bố già&quot; của Trấn Thành, nhìn lại câu chuyện phim Việt doanh thu trăm tỉ](https://laodong.vn/van-hoa/tu-bo-gia-cua-tran-thanh-nhin-lai-cau-chuyen-phim-viet-doanh-thu-tram-ti-889171.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao tìm chủ mới 1 tháng, Ninh Thuận đã... hủy kế hoạch đấu thầu nhà máy điện gió 3.100 tỷ?](https://cafebiz.vn/vi-sao-tim-chu-moi-1-thang-ninh-thuan-da-huy-ke-hoach-dau-thau-nha-may-dien-gio-3100-ty-20210315113029363.chn) ([CafeBiz](https://cafebiz.vn))
+- [Từ đoạn code 7 dòng, 2 anh em người Ireland tạo ra công ty trị giá gần 100 tỷ USD](https://cafebiz.vn/tu-doan-code-7-dong-2-anh-em-nguoi-ireland-tao-ra-cong-ty-tri-gia-gan-100-ty-usd-20210315113024663.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ba hành khách định mang súng bút, roi điện, bình xịt hơi cay lên máy bay](https://tuoitre.vn/ba-hanh-khach-dinh-mang-sung-but-roi-dien-binh-xit-hoi-cay-len-may-bay-20210315110108009.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Các cơ quan chức năng huyện đùn đẩy trách nhiệm](https://laodong.vn/ban-doc/cac-co-quan-chuc-nang-huyen-dun-day-trach-nhiem-889020.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ tổng thống Syria bị điều tra, đối diện nguy cơ mất quốc tịch Anh](https://tuoitre.vn/vo-tong-thong-syria-bi-dieu-tra-doi-dien-nguy-co-mat-quoc-tich-anh-20210315100325952.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -98,7 +98,7 @@
 
 - [Mẹo trò chuyện để biến "quan tâm" thành "quan hệ" : Chia sẻ từ những nữ thành viên Tinder Việt Nam](https://vietcetera.com/vn/thanh-vien-tinder-viet-nam-bat-mi-cach-tro-chuyen-cung-phai-nu-khi-ket-ban-truc-tuyen)
 - ["Con anh tên Trần Mai Ninh, vì anh họ Trần, bả họ Mai..."](https://vietcetera.com/vn/con-anh-ten-tran-mai-ninh-vi-anh-ho-tran-ba-ho-mai)
-- [3 Bài học tình yêu đến từ bữa cơm nhà](https://vietcetera.com/vn/3-bai-hoc-ve-tinh-thuong-tu-bua-com-nha)
+- [Vị ngon thật thà từ tình yêu thương](https://vietcetera.com/vn/vi-ngon-that-tha-tu-tinh-yeu-thuong)
 - [Cơ chế nào giúp ta thức dậy trước báo thức?](https://vietcetera.com/vn/co-che-nao-giup-ta-thuc-day-truoc-bao-thuc)
 - [Self-concept: Lời giải cho câu hỏi "Tôi là ai" theo tâm lý học](https://vietcetera.com/vn/self-concept-loi-giai-cho-cau-hoi-toi-la-ai-theo-tam-ly-hoc)
 - [5 Phim kinh dị đáng sợ hơn ngày thứ Hai](https://vietcetera.com/vn/5-phim-kinh-di-dang-so-hon-ngay-thu-hai)
