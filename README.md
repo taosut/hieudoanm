@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 26.23°C.
-- Air Visual is 84.
+- Air Visual is 102.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bắt 2 đối tượng rải tờ rơi, cho vay nặng lãi](https://laodong.vn/phap-luat/bat-2-doi-tuong-rai-to-roi-cho-vay-nang-lai-889210.ldo) ([Lao Động](https://laodong.vn))
+- [Hưởng ứng phong trào &quot;Ngày chủ nhật xanh&quot; và &quot;Mai vàng trước ngõ&quot;](https://laodong.vn/cong-doan/huong-ung-phong-trao-ngay-chu-nhat-xanh-va-mai-vang-truoc-ngo-889216.ldo) ([Lao Động](https://laodong.vn))
+- [Giáo viên THCS hạng III phải học chứng chỉ bồi dưỡng từ 20.3 không?](https://laodong.vn/ban-doc/giao-vien-thcs-hang-iii-phai-hoc-chung-chi-boi-duong-tu-203-khong-889213.ldo) ([Lao Động](https://laodong.vn))
+- [Những trường hợp vi phạm về hôn nhân, gia đình sẽ bị khai trừ khỏi Đảng](https://laodong.vn/gia-dinh-hon-nhan/nhung-truong-hop-vi-pham-ve-hon-nhan-gia-dinh-se-bi-khai-tru-khoi-dang-889205.ldo) ([Lao Động](https://laodong.vn))
+- [4 giải thưởng danh giá nhất của Grammy 2021 đã có chủ nhân](https://laodong.vn/giai-tri/4-giai-thuong-danh-gia-nhat-cua-grammy-2021-da-co-chu-nhan-889219.ldo) ([Lao Động](https://laodong.vn))
+- [Thời gian xét công nhận tiêu chuẩn chức danh giáo sư, phó giáo sư năm 2021](https://laodong.vn/giao-duc/thoi-gian-xet-cong-nhan-tieu-chuan-chuc-danh-giao-su-pho-giao-su-nam-2021-889208.ldo) ([Lao Động](https://laodong.vn))
+- [World Bank: Nhập khẩu từ Trung Quốc tăng gấp đôi, Việt Nam xuất hiện thâm hụt thương mại lần đầu trong 10 tháng](https://cafebiz.vn/world-bank-nhap-khau-tu-trung-quoc-tang-gap-doi-viet-nam-xuat-hien-tham-hut-thuong-mai-lan-dau-trong-10-thang-20210315111929331.chn) ([CafeBiz](https://cafebiz.vn))
+- [Yêu cầu PVN báo cáo về đề xuất với ông Nguyễn Vũ Trường Sơn](https://tuoitre.vn/yeu-cau-pvn-bao-cao-ve-de-xuat-voi-ong-nguyen-vu-truong-son-202103151208342.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chủ nhiệm Uỷ ban Đối ngoại Nguyễn Văn Giàu nói về 2 “món nợ” đối với dân](https://laodong.vn/thoi-su/chu-nhiem-uy-ban-doi-ngoai-nguyen-van-giau-noi-ve-2-mon-no-doi-voi-dan-889188.ldo) ([Lao Động](https://laodong.vn))
+- [Đứt cáp cần cẩu công trình nhà xưởng Ford Bình Phước, 2 công nhân tử vong](https://tuoitre.vn/dut-cap-can-cau-cong-trinh-nha-xuong-ford-binh-phuoc-2-cong-nhan-tu-vong-20210315122941962.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hình ảnh ngày đầu xét xử Dương Thị Bạch Diệp, Nguyễn Thành Tài](https://laodong.vn/photo/hinh-anh-ngay-dau-xet-xu-duong-thi-bach-diep-nguyen-thanh-tai-889125.ldo) ([Lao Động](https://laodong.vn))
-- [Xét xử Dương Thị Bạch Diệp: Đề nghị triệu tập thêm nhiều cá nhân, tổ chức](https://laodong.vn/phap-luat/xet-xu-duong-thi-bach-diep-de-nghi-trieu-tap-them-nhieu-ca-nhan-to-chuc-889173.ldo) ([Lao Động](https://laodong.vn))
-- [Chính thức tiêm thử nghiệm vaccine COVID-19 thứ 2 của Việt Nam](https://laodong.vn/photo/chinh-thuc-tiem-thu-nghiem-vaccine-covid-19-thu-2-cua-viet-nam-889203.ldo) ([Lao Động](https://laodong.vn))
-- [Xuất khẩu vũ khí của Nga và Trung Quốc sụt giảm](https://laodong.vn/the-gioi/xuat-khau-vu-khi-cua-nga-va-trung-quoc-sut-giam-889202.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút: Bắt đầu tiêm thử nghiệm vaccine COVID-19 thứ 2 của Việt Nam](https://laodong.vn/video-thoi-su/ban-tin-1-phut-bat-dau-tiem-thu-nghiem-vaccine-covid-19-thu-2-cua-viet-nam-889132.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ trưởng TN-MT nói về sự cố chìm tàu chở xỉ tro bay nhiệt điện Vĩnh Tân](http://vietnamnet.vn/vn/thoi-su/bo-truong-tn-mt-noi-ve-su-co-chim-tau-cho-xi-tro-bay-nhiet-dien-vinh-tan-719727.html) ([VietNamNet](https://vietnamnet.vn))
-- [Bắt đầu xét xử Dương Thị Bạch Diệp, Nguyễn Thành Tài](https://laodong.vn/video/bat-dau-xet-xu-duong-thi-bach-diep-nguyen-thanh-tai-889161.ldo) ([Lao Động](https://laodong.vn))
-- [Sở Văn hóa Hà Nam làm việc với chùa Tam Chúc vì 5 vạn dân chen chúc đến chùa](https://tuoitre.vn/so-van-hoa-ha-nam-lam-viec-voi-chua-tam-chuc-vi-5-van-dan-chen-chuc-den-chua-20210315111339014.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chưa có hiện tượng rò rỉ tro bay, tràn dầu trong vụ tàu chìm ở biển Mũi Né](https://tuoitre.vn/chua-co-hien-tuong-ro-ri-tro-bay-tran-dau-trong-vu-tau-chim-o-bien-mui-ne-20210315120535665.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
