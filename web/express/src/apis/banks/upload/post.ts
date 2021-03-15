@@ -71,7 +71,7 @@ export default async (req: any, res: Response): Promise<Response<any>> => {
       images.push({ path });
       continue;
     }
-    const image = await imagemin([path], {
+    const [image = {}] = await imagemin([path], {
       destination: 'compressed-images',
       plugins: [imageminMozjpeg({ quality: 50 })]
     });
