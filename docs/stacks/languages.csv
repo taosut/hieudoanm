@@ -203,7 +203,7 @@
 "Ren'Py","#ff7f7f",".rpy"
 "Ring","#2D54CB",".ring"
 "Rouge","#cc0088",".rg"
-"Ruby","#701516",".rb,.builder,.eye,.fcgi,.gemspec,.god,.jbuilder,.mspec,.pluginspec,.podspec,.rabl,.rake,.rbi,.rbuild,.rbw,.rbx,.ru,.ruby,.spec,.thor,.watchr"
+"Ruby","#701516",".rb,.builder,.eye,.fcgi,.gemspec,.god,.jbuilder,.mspec,.pluginspec,.podspec,.prawn,.rabl,.rake,.rbi,.rbuild,.rbw,.rbx,.ru,.ruby,.spec,.thor,.watchr"
 "Rust","#dea584",".rs,.rs.in"
 "SAS","#B34936",".sas"
 "SQF","#3F3F3F",".sqf,.hqf"

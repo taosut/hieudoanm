@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is scattered clouds.
 - Temperature is 26°C.
-- Feels Like 25.86°C.
-- Air Visual is 102.
+- Feels Like 26.23°C.
+- Air Visual is 131.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Những người ưu tú thường không thích kết hôn, vì: Đàn bà nhìn túi tiền, đàn ông nhìn diện mạo...](https://cafebiz.vn/nhung-nguoi-uu-tu-thuong-khong-thich-ket-hon-vi-dan-ba-nhin-tui-tien-dan-ong-nhin-dien-mao-20210315152957303.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xiaomi tạm thoát nạn ở Mỹ](https://cafebiz.vn/xiaomi-tam-thoat-nan-o-my-20210315140806194.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Phòng dự kiến khởi công Dự án xây dựng chung cư Vạn Mỹ vào tháng 9.2021](https://laodong.vn/bat-dong-san/hai-phong-du-kien-khoi-cong-du-an-xay-dung-chung-cu-van-my-vao-thang-92021-889291.ldo) ([Lao Động](https://laodong.vn))
-- [Hàng loạt vụ học sinh đánh nhau hội đồng: Rất báo động về bạo lực học đường](https://laodong.vn/giao-duc/hang-loat-vu-hoc-sinh-danh-nhau-hoi-dong-rat-bao-dong-ve-bao-luc-hoc-duong-889285.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ xe cũ nát: Biết không an toàn nhưng vẫn đặt cược tính mạng để mưu sinh](https://laodong.vn/video-thoi-su/chu-xe-cu-nat-biet-khong-an-toan-nhung-van-dat-cuoc-tinh-mang-de-muu-sinh-889211.ldo) ([Lao Động](https://laodong.vn))
-- [Hoà Bình: Các Công đoàn ngành ký giao ước thi đua 2021](https://laodong.vn/ldld-hoa-binh/hoa-binh-cac-cong-doan-nganh-ky-giao-uoc-thi-dua-2021-889297.ldo) ([Lao Động](https://laodong.vn))
-- [Vượt qua COVID-19, trái thanh long Long An trước cơ hội tiến xa](https://laodong.vn/kinh-te/vuot-qua-covid-19-trai-thanh-long-long-an-truoc-co-hoi-tien-xa-889288.ldo) ([Lao Động](https://laodong.vn))
-- [Những người được ưu tiên làm thẻ CCCD mới trước ngày 1.7](https://laodong.vn/infographic/nhung-nguoi-duoc-uu-tien-lam-the-cccd-moi-truoc-ngay-17-889157.ldo) ([Lao Động](https://laodong.vn))
-- [Ấn Độ đề xuất cấm và phạt hình sự với nhà đầu tư tiền ảo](https://cafebiz.vn/an-do-de-xuat-cam-va-phat-hinh-su-voi-nha-dau-tu-tien-ao-20210315140540111.chn) ([CafeBiz](https://cafebiz.vn))
-- [Stroopwafels Max & Alex chính thức nhận đối tác mở đại lý, nhà phân phối trên toàn quốc](https://cafebiz.vn/stroopwafels-max-alex-chinh-thuc-nhan-doi-tac-mo-dai-ly-nha-phan-phoi-tren-toan-quoc-20210315121058905.chn) ([CafeBiz](https://cafebiz.vn))
+
 
 [Read More](docs/news/README.md)
 
