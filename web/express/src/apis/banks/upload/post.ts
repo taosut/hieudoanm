@@ -68,14 +68,15 @@ export default async (req: any, res: Response): Promise<Response<any>> => {
   for (const file of files) {
     const { path = '', size = 0 } = file;
     if (!path || size < 1000000) {
-      images.push(file);
+      images.push({ path });
       continue;
     }
     const image = await imagemin([path], {
       destination: 'compressed-images',
       plugins: [imageminMozjpeg({ quality: 50 })]
     });
-    images.push(image);
+    const { destinationPath = '' } = image;
+    images.push({ path: destinationPath });
   }
   console.log('images', images);
 
