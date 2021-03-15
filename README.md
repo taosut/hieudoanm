@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is scattered clouds.
 - Temperature is 25°C.
-- Feels Like 24.89°C.
-- Air Visual is 93.
+- Feels Like 24.53°C.
+- Air Visual is 92.
 
 **WEATHER**
 
@@ -57,11 +57,11 @@
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hướng dương ngược nắng tập 40](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
+- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Leicester City](https://img.shields.io/static/v1?label=Leicester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester%20City)
-- [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
-- [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
+- [![Lý Nhã Kỳ](https://img.shields.io/static/v1?label=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Top 5 địa điểm chụp ảnh hoa gạo đẹp nhất tại Hà Nội](https://laodong.vn/ban-doc/top-5-dia-diem-chup-anh-hoa-gao-dep-nhat-tai-ha-noi-889170.ldo) ([Lao Động](https://laodong.vn))
-- [Khai thác hiệu quả không gian ngầm đô thị TP.Hồ Chí Minh](https://laodong.vn/kinh-te/khai-thac-hieu-qua-khong-gian-ngam-do-thi-tpho-chi-minh-889025.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Donald Trump bất ngờ thăm thuộc cấp cũ](https://laodong.vn/the-gioi/ong-donald-trump-bat-ngo-tham-thuoc-cap-cu-889241.ldo) ([Lao Động](https://laodong.vn))
+- [Giải cứu nông sản Hải Dương: Đoàn viên ở Quảng Trị bán 5 tấn ổi trong 1 giờ](https://laodong.vn/xa-hoi/giai-cuu-nong-san-hai-duong-doan-vien-o-quang-tri-ban-5-tan-oi-trong-1-gio-889155.ldo) ([Lao Động](https://laodong.vn))
+- [Bảng xếp hạng vòng 3 V.League: SHB Đà Nẵng nối dài mạch thắng](https://laodong.vn/infographic/bang-xep-hang-vong-3-vleague-shb-da-nang-noi-dai-mach-thang-889130.ldo) ([Lao Động](https://laodong.vn))
+- [Bà Nguyễn Thị Thanh Thủy làm Phó chánh thanh tra TP.HCM](https://tuoitre.vn/ba-nguyen-thi-thanh-thuy-la-pho-chanh-thanh-tra-tp-hcm-20210315142611152.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [TP. Hạ Long cho xe đón học sinh “mắc kẹt” ở vùng dịch Hải Dương](https://laodong.vn/xa-hoi/tp-ha-long-cho-xe-don-hoc-sinh-mac-ket-o-vung-dich-hai-duong-889249.ldo) ([Lao Động](https://laodong.vn))
+- [Khống chế tại chỗ tên cướp ngân hàng ở ngoại thành Hà Nội](https://laodong.vn/phap-luat/khong-che-tai-cho-ten-cuop-ngan-hang-o-ngoai-thanh-ha-noi-889238.ldo) ([Lao Động](https://laodong.vn))
 - [Vụ phá rừng ở xã Suối Tân: UBND tỉnh Khánh Hòa yêu cầu kiểm tra, xử lý](https://laodong.vn/ban-doc/vu-pha-rung-o-xa-suoi-tan-ubnd-tinh-khanh-hoa-yeu-cau-kiem-tra-xu-ly-889223.ldo) ([Lao Động](https://laodong.vn))
 - [Đứt cáp cần cẩu, hai người chết](https://vnexpress.net/dut-cap-can-cau-hai-nguoi-chet-4248724.html) ([VNExpress](https://vnexpress.net))
-- [Bầu Đức lên kế hoạch đặc biệt kỷ niệm 20 năm làm bóng đá](https://laodong.vn/bong-da/bau-duc-len-ke-hoach-dac-biet-ky-niem-20-nam-lam-bong-da-889237.ldo) ([Lao Động](https://laodong.vn))
-- [Dù “thua cuộc”, BTS vẫn được đánh giá cao tại Grammy](https://laodong.vn/giai-tri/du-thua-cuoc-bts-van-duoc-danh-gia-cao-tai-grammy-889235.ldo) ([Lao Động](https://laodong.vn))
 - [Phạt nặng lái xe uống rượu, sử dụng ma túy tái phạm qua cơ sở dữ liệu quốc gia](https://tuoitre.vn/phat-nang-lai-xe-uong-ruou-su-dung-ma-tuy-tai-pham-qua-co-so-du-lieu-quoc-gia-20210315132302935.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Hộ khẩu tỉnh khác, có được làm căn cước công dân tại Hà Nội không?](https://cafebiz.vn/ho-khau-tinh-khac-co-duoc-lam-can-cuoc-cong-dan-tai-ha-noi-khong-20210315141343283.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bitcoin lại lập đỉnh mới, vì sao Warren Buffett vẫn kiên quyết nói 'Không'?](https://cafebiz.vn/bitcoin-lai-lap-dinh-moi-vi-sao-warren-buffett-van-kien-quyet-noi-khong-2021031514002665.chn) ([CafeBiz](https://cafebiz.vn))
-- [Làm 5 công việc một lúc, doanh nhân 9X tậu Mercedes: Mua xe không tốn, nuôi xe mới tốn](https://cafebiz.vn/lam-5-cong-viec-mot-luc-doanh-nhan-9x-tau-mercedes-mua-xe-khong-ton-nuoi-xe-moi-ton-20210315140925934.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Thuỳ Cốm — Hoạ sĩ của những bức hoạ khiến bạn mỉm cười](https://vietcetera.com/vn/thuy-com-hoa-si-cua-nhung-buc-hoa-khien-ban-mim-cuoi)
 - [Nền tảng kết nối các nhà bán buôn và bán lẻ Kilo: Gọi vốn thành công vòng hạt giống](https://vietcetera.com/vn/nen-tang-ket-noi-cac-nha-ban-buon-va-ban-le-kilo-goi-von-thanh-cong-vong-hat-giong)
 - [Paysan Breton: Vị bơ nước Pháp trên bàn ăn Việt](https://vietcetera.com/vn/paysan-breton-vi-bo-nuoc-phap-tren-ban-an-viet)
 - [Mẹo trò chuyện để biến "quan tâm" thành "quan hệ" : Chia sẻ từ những nữ thành viên Tinder Việt Nam](https://vietcetera.com/vn/thanh-vien-tinder-viet-nam-bat-mi-cach-tro-chuyen-cung-phai-nu-khi-ket-ban-truc-tuyen)
@@ -105,7 +106,6 @@
 - [Self-concept: Lời giải cho câu hỏi "Tôi là ai" theo tâm lý học](https://vietcetera.com/vn/self-concept-loi-giai-cho-cau-hoi-toi-la-ai-theo-tam-ly-hoc)
 - [5 Phim kinh dị đáng sợ hơn ngày thứ Hai](https://vietcetera.com/vn/5-phim-kinh-di-dang-so-hon-ngay-thu-hai)
 - [Thuận Nguyễn: “Hãnh diện là một fashionisto U70 hiếm hoi trên thế giới!” ](https://vietcetera.com/vn/thuan-nguyen-hanh-dien-la-mot-fashionisto-u70-hiem-hoi-tren-the-gioi)
-- [Tự tử có lan rộng được không?](https://vietcetera.com/vn/su-lay-lan-cua-dich-benh-tu-tu)
 
 [Read More](https://vietcetera.com/)
 
@@ -118,8 +118,8 @@
 03. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 04. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 05. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-06. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
-07. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
+06. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
+07. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 09. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
 10. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
