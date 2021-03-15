@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 25.31°C.
-- Air Visual is 105.
+- Air Visual is 113.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hà Nội: Tiếp nhận 72 hồ sơ ứng cử Đại biểu Quốc khội khóa XV](https://laodong.vn/thoi-su/ha-noi-tiep-nhan-72-ho-so-ung-cu-dai-bieu-quoc-khoi-khoa-xv-889162.ldo) ([Lao Động](https://laodong.vn))
+- [Tổng Thư ký Quốc hội: Quốc hội đã đi đến cùng các vấn đề được giám sát](https://laodong.vn/thoi-su/tong-thu-ky-quoc-hoi-quoc-hoi-da-di-den-cung-cac-van-de-duoc-giam-sat-889159.ldo) ([Lao Động](https://laodong.vn))
+- [Điều kiện chuyển từ đất nông nghiệp sang đất ở năm 2021](https://laodong.vn/bat-dong-san/dieu-kien-chuyen-tu-dat-nong-nghiep-sang-dat-o-nam-2021-889002.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng “thắp sáng” kinh tế đêm, khai thác lợi thế du lịch đang “ngủ quên&quot;](https://laodong.vn/kinh-te/da-nang-thap-sang-kinh-te-dem-khai-thac-loi-the-du-lich-dang-ngu-quen-889030.ldo) ([Lao Động](https://laodong.vn))
+- [Dán decal trang trí ôtô có bị xử phạt không?](https://laodong.vn/xe/dan-decal-trang-tri-oto-co-bi-xu-phat-khong-889041.ldo) ([Lao Động](https://laodong.vn))
+- [Bảng xếp hạng vòng 25 Bundesliga: Bayern hơn Leipzig 4 điểm](https://laodong.vn/infographic/bang-xep-hang-vong-25-bundesliga-bayern-hon-leipzig-4-diem-889107.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội xây cung thiếu nhi mới hơn 1.300 tỷ đồng](https://vnexpress.net/ha-noi-xay-cung-thieu-nhi-moi-hon-1-300-ty-dong-4248560.html) ([VNExpress](https://vnexpress.net))
+- [Tôi ứng cử để đóng góp cho đất nước](https://tuoitre.vn/toi-ung-cu-de-dong-gop-cho-dat-nuoc-20210315073350657.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chiến lược định giá thiên tài đằng sau những con số 99k, 199k, 299k... trong các cửa hàng, siêu thị](https://cafebiz.vn/chien-luoc-dinh-gia-thien-tai-dang-sau-nhung-con-so-99k-199k-299k-trong-cac-cua-hang-sieu-thi-20210315093548465.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắc Giang: Truy tìm lái xe máy gây tai nạn chết người rồi bỏ chạy](https://laodong.vn/phap-luat/bac-giang-truy-tim-lai-xe-may-gay-tai-nan-chet-nguoi-roi-bo-chay-889147.ldo) ([Lao Động](https://laodong.vn))
 - [Lập báo cáo tiền khả thi mở rộng cao tốc TP HCM - Long Thành](https://vnexpress.net/lap-bao-cao-tien-kha-thi-mo-rong-cao-toc-tp-hcm-long-thanh-4248494.html) ([VNExpress](https://vnexpress.net))
-- [Cuộc đổ bộ của các ‘ông lớn’ vào đại ngàn Tây Nguyên](https://cafebiz.vn/cuoc-do-bo-cua-cac-ong-lon-vao-dai-ngan-tay-nguyen-20210315104555003.chn) ([CafeBiz](https://cafebiz.vn))
-- [Du lịch Việt sôi động hậu Covic-19: Khách "bung lụa" đặt tour sau thời gian "kìm nén" ở nhà chống dịch, đổ dồn vào dịp lễ 30/4-1/5](https://cafebiz.vn/du-lich-viet-soi-dong-hau-covic-19-khach-bung-lua-dat-tour-sau-thoi-gian-kim-nen-o-nha-chong-dich-do-don-vao-dip-le-30-4-1-5-20210315104121405.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bão cát tấn công, Bắc Kinh quay cuồng trong lớp bụi dày đặc](https://laodong.vn/the-gioi/bao-cat-tan-cong-bac-kinh-quay-cuong-trong-lop-bui-day-dac-889149.ldo) ([Lao Động](https://laodong.vn))
-- [Những cây phong thuỷ "trợ lực" giúp 12 con giáp làm ăn phát tài phát lộc, tiền vào như nước](https://cafebiz.vn/nhung-cay-phong-thuy-tro-luc-giup-12-con-giap-lam-an-phat-tai-phat-loc-tien-vao-nhu-nuoc-20210315032040355.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hải Dương phạt hơn 3 tỷ đồng vi phạm về phòng, chống dịch](https://cafebiz.vn/hai-duong-phat-hon-3-ty-dong-vi-pham-ve-phong-chong-dich-2021031510431444.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tiền lãi đầu tư vào Bitcoin của Elon Musk đủ giúp Tesla xây một nhà máy mới](https://cafebiz.vn/tien-lai-dau-tu-vao-bitcoin-cua-elon-musk-du-giup-tesla-xay-mot-nha-may-moi-20210315104248343.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hơn 20.000 kiến nghị của cử tri đã được theo dõi, đôn đốc giải quyết](https://laodong.vn/thoi-su/hon-20000-kien-nghi-cua-cu-tri-da-duoc-theo-doi-don-doc-giai-quyet-889141.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
