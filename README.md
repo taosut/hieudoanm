@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 25.15°C.
-- Air Visual is 116.
+- Feels Like 26.23°C.
+- Air Visual is 84.
 
 **WEATHER**
 
@@ -51,19 +51,19 @@
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Brave Girl](https://img.shields.io/static/v1?label=Brave%20Girl&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Brave%20Girl)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
-- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hướng dương ngược nắng tập 40](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
+- [![Lady Gaga](https://img.shields.io/static/v1?label=Lady%20Gaga&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lady%20Gaga)
 - [![Lazio](https://img.shields.io/static/v1?label=Lazio&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lazio)
 - [![Liverpool](https://img.shields.io/static/v1?label=Liverpool&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Liverpool)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
-- [![Lịch thi đấu V-League](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League)
 - [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
 - [![Môn thi thứ 4 vào lớp 10 năm 2021](https://img.shields.io/static/v1?label=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=M%C3%B4n%20thi%20th%E1%BB%A9%204%20v%C3%A0o%20l%E1%BB%9Bp%2010%20n%C4%83m%202021)
+- [![Roger Federer](https://img.shields.io/static/v1?label=Roger%20Federer&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Roger%20Federer)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nghệ An tuyển thẳng thí sinh có chứng chỉ Tiếng Anh quốc tế vào lớp 10](https://laodong.vn/giao-duc/nghe-an-tuyen-thang-thi-sinh-co-chung-chi-tieng-anh-quoc-te-vao-lop-10-889200.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt 2 đối tượng rải tờ rơi, cho vay nặng lãi](https://laodong.vn/phap-luat/bat-2-doi-tuong-rai-to-roi-cho-vay-nang-lai-889210.ldo) ([Lao Động](https://laodong.vn))
+- [Hình ảnh ngày đầu xét xử Dương Thị Bạch Diệp, Nguyễn Thành Tài](https://laodong.vn/photo/hinh-anh-ngay-dau-xet-xu-duong-thi-bach-diep-nguyen-thanh-tai-889125.ldo) ([Lao Động](https://laodong.vn))
+- [Xét xử Dương Thị Bạch Diệp: Đề nghị triệu tập thêm nhiều cá nhân, tổ chức](https://laodong.vn/phap-luat/xet-xu-duong-thi-bach-diep-de-nghi-trieu-tap-them-nhieu-ca-nhan-to-chuc-889173.ldo) ([Lao Động](https://laodong.vn))
+- [Chính thức tiêm thử nghiệm vaccine COVID-19 thứ 2 của Việt Nam](https://laodong.vn/photo/chinh-thuc-tiem-thu-nghiem-vaccine-covid-19-thu-2-cua-viet-nam-889203.ldo) ([Lao Động](https://laodong.vn))
+- [Xuất khẩu vũ khí của Nga và Trung Quốc sụt giảm](https://laodong.vn/the-gioi/xuat-khau-vu-khi-cua-nga-va-trung-quoc-sut-giam-889202.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút: Bắt đầu tiêm thử nghiệm vaccine COVID-19 thứ 2 của Việt Nam](https://laodong.vn/video-thoi-su/ban-tin-1-phut-bat-dau-tiem-thu-nghiem-vaccine-covid-19-thu-2-cua-viet-nam-889132.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ trưởng TN-MT nói về sự cố chìm tàu chở xỉ tro bay nhiệt điện Vĩnh Tân](http://vietnamnet.vn/vn/thoi-su/bo-truong-tn-mt-noi-ve-su-co-chim-tau-cho-xi-tro-bay-nhiet-dien-vinh-tan-719727.html) ([VietNamNet](https://vietnamnet.vn))
 - [Bắt đầu xét xử Dương Thị Bạch Diệp, Nguyễn Thành Tài](https://laodong.vn/video/bat-dau-xet-xu-duong-thi-bach-diep-nguyen-thanh-tai-889161.ldo) ([Lao Động](https://laodong.vn))
 - [Sở Văn hóa Hà Nam làm việc với chùa Tam Chúc vì 5 vạn dân chen chúc đến chùa](https://tuoitre.vn/so-van-hoa-ha-nam-lam-viec-voi-chua-tam-chuc-vi-5-van-dan-chen-chuc-den-chua-20210315111339014.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chưa có hiện tượng rò rỉ tro bay, tràn dầu trong vụ tàu chìm ở biển Mũi Né](https://tuoitre.vn/chua-co-hien-tuong-ro-ri-tro-bay-tran-dau-trong-vu-tau-chim-o-bien-mui-ne-20210315120535665.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hoãn phiên xử phúc thẩm vụ giết người đổ bê tông ở Bình Dương](https://laodong.vn/phap-luat/hoan-phien-xu-phuc-tham-vu-giet-nguoi-do-be-tong-o-binh-duong-889114.ldo) ([Lao Động](https://laodong.vn))
-- [4 nguyên nhân sơ bộ gây ra sự cố rơi gối dầm cầu tuyến metro số 1](https://laodong.vn/xa-hoi/4-nguyen-nhan-so-bo-gay-ra-su-co-roi-goi-dam-cau-tuyen-metro-so-1-889199.ldo) ([Lao Động](https://laodong.vn))
-- [Hành tăm rớt giá mạnh, nông dân Nghệ An như ngồi trên đống lửa](https://laodong.vn/kinh-te/hanh-tam-rot-gia-manh-nong-dan-nghe-an-nhu-ngoi-tren-dong-lua-889067.ldo) ([Lao Động](https://laodong.vn))
-- [Bà mẹ quê trong "Ẩm thực mẹ làm": Sinh con ở tuổi 32, không cần có đàn ông bên cạnh, cả đời chỉ 3 lần bước chân khỏi làng](https://cafebiz.vn/ba-me-que-trong-am-thuc-me-lam-sinh-con-o-tuoi-32-khong-can-co-dan-ong-ben-canh-ca-doi-chi-3-lan-buoc-chan-khoi-lang-20210315120145464.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ ngày 31-3 đến 5-4, sẽ bầu Chủ tịch nước, Thủ tướng Chính phủ, Chủ tịch Quốc hội](https://tuoitre.vn/tu-ngay-31-3-den-5-4-se-bau-chu-tich-nuoc-thu-tuong-chinh-phu-chu-tich-quoc-hoi-2021031511553697.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Rơi móc cáp cần cẩu, 2 công nhân ở Bình Phước thiệt mạng](http://vietnamnet.vn/vn/thoi-su/roi-moc-cap-can-cau-2-cong-nhan-o-binh-phuoc-thiet-mang-719723.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -104,7 +104,7 @@
 - [Self-concept: Lời giải cho câu hỏi "Tôi là ai" theo tâm lý học](https://vietcetera.com/vn/self-concept-loi-giai-cho-cau-hoi-toi-la-ai-theo-tam-ly-hoc)
 - [5 Phim kinh dị đáng sợ hơn ngày thứ Hai](https://vietcetera.com/vn/5-phim-kinh-di-dang-so-hon-ngay-thu-hai)
 - [Thuận Nguyễn: “Hãnh diện là một fashionisto U70 hiếm hoi trên thế giới!” ](https://vietcetera.com/vn/thuan-nguyen-hanh-dien-la-mot-fashionisto-u70-hiem-hoi-tren-the-gioi)
-- [Tự tử có "lây" được không?](https://vietcetera.com/vn/su-lay-lan-cua-dich-benh-tu-tu)
+- [Tự tử có lan rộng được không?](https://vietcetera.com/vn/su-lay-lan-cua-dich-benh-tu-tu)
 - [Chế độ ăn Keto: Hiệu quả giảm cân đến mức nào và liệu có đáng thử?](https://vietcetera.com/vn/che-do-an-keto-hieu-qua-giam-can-den-muc-nao-va-lieu-co-dang-thu)
 
 [Read More](https://vietcetera.com/)
