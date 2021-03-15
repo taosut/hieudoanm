@@ -21,7 +21,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 25.95°C.
+- Feels Like 25.15°C.
 - Air Visual is 116.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [CSGT TP HCM ra quân xử phạt xe cũ nát](https://vnexpress.net/csgt-tp-hcm-ra-quan-xu-phat-xe-cu-nat-4248566.html) ([VNExpress](https://vnexpress.net))
-- [Ủy viên Thường vụ Quốc hội chia sẻ 'hai món nợ với cử tri'](https://vnexpress.net/uy-vien-thuong-vu-quoc-hoi-chia-se-hai-mon-no-voi-cu-tri-4248559.html) ([VNExpress](https://vnexpress.net))
-- [Cựu Tổng thống Donald Trump bất ngờ đưa ra lời nhận xét thẳng thừng về Meghan Markle trước loạt drama Hoàng gia hiện tại](https://cafebiz.vn/cuu-tong-thong-donald-trump-bat-ngo-dua-ra-loi-nhan-xet-thang-thung-ve-meghan-markle-truoc-loat-drama-hoang-gia-hien-tai-20210315115838129.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kim Tae Hee trở lại, tham gia đóng MV &quot;I Like You&quot;](https://laodong.vn/giai-tri/kim-tae-hee-tro-lai-tham-gia-dong-mv-i-like-you-889190.ldo) ([Lao Động](https://laodong.vn))
-- [Khởi động tuyến cao tốc Dầu Giây – Liên Khương, bất động sản nơi này hưởng lợi](https://cafebiz.vn/khoi-dong-tuyen-cao-toc-dau-giay-lien-khuong-bat-dong-san-noi-nay-huong-loi-20210315104217083.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội: Khởi công dự án xây dựng Cung Thiếu nhi Hà Nội hơn 1.300 tỉ đồng](https://laodong.vn/xa-hoi/ha-noi-khoi-cong-du-an-xay-dung-cung-thieu-nhi-ha-noi-hon-1300-ti-dong-889189.ldo) ([Lao Động](https://laodong.vn))
-- [VAMA: Doanh số THACO AUTO gần 5.800 xe, chiếm 44,6% thị phần](https://laodong.vn/thong-tin-doanh-nghiep/vama-doanh-so-thaco-auto-gan-5800-xe-chiem-446-thi-phan-889135.ldo) ([Lao Động](https://laodong.vn))
-- [Đứt móc cáp cần cẩu làm 2 người chết, 1 người bị thương](https://laodong.vn/xa-hoi/dut-moc-cap-can-cau-lam-2-nguoi-chet-1-nguoi-bi-thuong-889193.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyển nghề giáo viên sang kinh doanh mặt hàng trẻ em, mẹ bỉm 8X thu hàng trăm triệu/tháng với số vốn 400 triệu](https://cafebiz.vn/chuyen-nghe-giao-vien-sang-kinh-doanh-mat-hang-tre-em-me-bim-8x-thu-hang-tram-trieu-thang-voi-so-von-400-trieu-20210315114539035.chn) ([CafeBiz](https://cafebiz.vn))
-- [SHB dự kiến chia 20,5% cổ tức, 10% cho năm 2019 và 10,5% cho năm 2020](https://laodong.vn/kinh-te/shb-du-kien-chia-205-co-tuc-10-cho-nam-2019-va-105-cho-nam-2020-889172.ldo) ([Lao Động](https://laodong.vn))
+- [Nghệ An tuyển thẳng thí sinh có chứng chỉ Tiếng Anh quốc tế vào lớp 10](https://laodong.vn/giao-duc/nghe-an-tuyen-thang-thi-sinh-co-chung-chi-tieng-anh-quoc-te-vao-lop-10-889200.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt đầu xét xử Dương Thị Bạch Diệp, Nguyễn Thành Tài](https://laodong.vn/video/bat-dau-xet-xu-duong-thi-bach-diep-nguyen-thanh-tai-889161.ldo) ([Lao Động](https://laodong.vn))
+- [Sở Văn hóa Hà Nam làm việc với chùa Tam Chúc vì 5 vạn dân chen chúc đến chùa](https://tuoitre.vn/so-van-hoa-ha-nam-lam-viec-voi-chua-tam-chuc-vi-5-van-dan-chen-chuc-den-chua-20210315111339014.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chưa có hiện tượng rò rỉ tro bay, tràn dầu trong vụ tàu chìm ở biển Mũi Né](https://tuoitre.vn/chua-co-hien-tuong-ro-ri-tro-bay-tran-dau-trong-vu-tau-chim-o-bien-mui-ne-20210315120535665.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hoãn phiên xử phúc thẩm vụ giết người đổ bê tông ở Bình Dương](https://laodong.vn/phap-luat/hoan-phien-xu-phuc-tham-vu-giet-nguoi-do-be-tong-o-binh-duong-889114.ldo) ([Lao Động](https://laodong.vn))
+- [4 nguyên nhân sơ bộ gây ra sự cố rơi gối dầm cầu tuyến metro số 1](https://laodong.vn/xa-hoi/4-nguyen-nhan-so-bo-gay-ra-su-co-roi-goi-dam-cau-tuyen-metro-so-1-889199.ldo) ([Lao Động](https://laodong.vn))
+- [Hành tăm rớt giá mạnh, nông dân Nghệ An như ngồi trên đống lửa](https://laodong.vn/kinh-te/hanh-tam-rot-gia-manh-nong-dan-nghe-an-nhu-ngoi-tren-dong-lua-889067.ldo) ([Lao Động](https://laodong.vn))
+- [Bà mẹ quê trong "Ẩm thực mẹ làm": Sinh con ở tuổi 32, không cần có đàn ông bên cạnh, cả đời chỉ 3 lần bước chân khỏi làng](https://cafebiz.vn/ba-me-que-trong-am-thuc-me-lam-sinh-con-o-tuoi-32-khong-can-co-dan-ong-ben-canh-ca-doi-chi-3-lan-buoc-chan-khoi-lang-20210315120145464.chn) ([CafeBiz](https://cafebiz.vn))
+- [Từ ngày 31-3 đến 5-4, sẽ bầu Chủ tịch nước, Thủ tướng Chính phủ, Chủ tịch Quốc hội](https://tuoitre.vn/tu-ngay-31-3-den-5-4-se-bau-chu-tich-nuoc-thu-tuong-chinh-phu-chu-tich-quoc-hoi-2021031511553697.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Rơi móc cáp cần cẩu, 2 công nhân ở Bình Phước thiệt mạng](http://vietnamnet.vn/vn/thoi-su/roi-moc-cap-can-cau-2-cong-nhan-o-binh-phuoc-thiet-mang-719723.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Paysan Breton: Vị bơ nước Pháp trên bàn ăn Việt](https://vietcetera.com/vn/paysan-breton-vi-bo-nuoc-phap-tren-ban-an-viet)
 - [Mẹo trò chuyện để biến "quan tâm" thành "quan hệ" : Chia sẻ từ những nữ thành viên Tinder Việt Nam](https://vietcetera.com/vn/thanh-vien-tinder-viet-nam-bat-mi-cach-tro-chuyen-cung-phai-nu-khi-ket-ban-truc-tuyen)
 - ["Con anh tên Trần Mai Ninh, vì anh họ Trần, bả họ Mai..."](https://vietcetera.com/vn/con-anh-ten-tran-mai-ninh-vi-anh-ho-tran-ba-ho-mai)
 - [Vị ngon thật thà từ tình yêu thương](https://vietcetera.com/vn/vi-ngon-that-tha-tu-tinh-yeu-thuong)
@@ -103,9 +104,8 @@
 - [Self-concept: Lời giải cho câu hỏi "Tôi là ai" theo tâm lý học](https://vietcetera.com/vn/self-concept-loi-giai-cho-cau-hoi-toi-la-ai-theo-tam-ly-hoc)
 - [5 Phim kinh dị đáng sợ hơn ngày thứ Hai](https://vietcetera.com/vn/5-phim-kinh-di-dang-so-hon-ngay-thu-hai)
 - [Thuận Nguyễn: “Hãnh diện là một fashionisto U70 hiếm hoi trên thế giới!” ](https://vietcetera.com/vn/thuan-nguyen-hanh-dien-la-mot-fashionisto-u70-hiem-hoi-tren-the-gioi)
-- [Sự lây lan của "dịch bệnh" tự tử](https://vietcetera.com/vn/su-lay-lan-cua-dich-benh-tu-tu)
+- [Tự tử có "lây" được không?](https://vietcetera.com/vn/su-lay-lan-cua-dich-benh-tu-tu)
 - [Chế độ ăn Keto: Hiệu quả giảm cân đến mức nào và liệu có đáng thử?](https://vietcetera.com/vn/che-do-an-keto-hieu-qua-giam-can-den-muc-nao-va-lieu-co-dang-thu)
-- [6 Tiệm cà phê để bạn khám phá Đà Lạt](https://vietcetera.com/vn/6-tiem-ca-phe-da-lat-de-ban-kham-pha)
 
 [Read More](https://vietcetera.com/)
 
