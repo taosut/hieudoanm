@@ -36,31 +36,29 @@ WORKDIR /var/server/express
 # COPY ALL to express
 COPY express /var/server/express
 COPY express/package.json /var/server/express/package.json
-# Install Server
-RUN yarn install --production=false
+# Install && Build Server
+RUN yarn install --production=false && yarn build
 # List all files in express
-RUN ls /var/server/express
-# Build Server
-RUN yarn build
+RUN ls -la /var/server/express
 # Set WORKDIR to angular
 WORKDIR /var/server/angular
 # COPY ALL to angular
 COPY angular /var/server/angular
 COPY angular/package.json /var/server/angular/package.json
 # Install Web
-RUN yarn install --production=false
+RUN yarn install --production=false && yarn build
 # List all files in angular
-RUN ls /var/server/angular
-# Build Web
-RUN yarn build
+RUN ls -la /var/server/angular
 # Set WORKDIR to express
 WORKDIR /var/server/express
+# List all files in express
+RUN ls -la /var/server/express
 # Copy contents of `dist` folder to `app`
-COPY dist /var/server/app
+COPY /var/server/express/dist /var/server/app
 # Copy package.json
-COPY package.json /var/server/app/package.json
+COPY /var/server/express/package.json /var/server/app/package.json
 # Copy yarn.lock
-COPY yarn.lock /var/server/app/yarn.lock
+COPY /var/server/express/yarn.lock /var/server/app/yarn.lock
 # Set WORKDIR to app
 WORKDIR /var/server/app
 # Install node-gyp
@@ -68,7 +66,7 @@ RUN apt-get install -y node-gyp
 # Install dependencies (if any) in package.json
 RUN yarn install --ignore-engines
 # List all files
-RUN ls /var/server/app
+RUN ls -la /var/server/app
 # Expose port from container so host can access $PORT
 EXPOSE $PORT
 # start the app on load
