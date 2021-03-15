@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 25.95°C.
-- Air Visual is 119.
+- Air Visual is 97.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [12 trang trại bò sữa 4.0 của Vinamilk dùng năng lượng mặt trời](https://laodong.vn/thong-tin-doanh-nghiep/12-trang-trai-bo-sua-40-cua-vinamilk-dung-nang-luong-mat-troi-889180.ldo) ([Lao Động](https://laodong.vn))
+- [Mua chung cư bao lâu thì được cấp sổ hồng?](https://laodong.vn/tu-van-phap-luat/mua-chung-cu-bao-lau-thi-duoc-cap-so-hong-888285.ldo) ([Lao Động](https://laodong.vn))
+- [Khi nào bị chấm dứt hưởng trợ cấp thất nghiệp?](https://laodong.vn/tu-van-phap-luat/khi-nao-bi-cham-dut-huong-tro-cap-that-nghiep-888471.ldo) ([Lao Động](https://laodong.vn))
+- [Mua đất của bố mẹ có phải nộp lệ phí trước bạ?](https://laodong.vn/bat-dong-san/mua-dat-cua-bo-me-co-phai-nop-le-phi-truoc-ba-888983.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyển từ đất phi nông nghiệp sang đất ở phải nộp phí gì?](https://laodong.vn/bat-dong-san/chuyen-tu-dat-phi-nong-nghiep-sang-dat-o-phai-nop-phi-gi-888987.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao thẻ căn cước công dân mới được cấp 'xuyên đêm'?](https://vnexpress.net/vi-sao-the-can-cuoc-cong-dan-moi-duoc-cap-xuyen-dem-4248299.html) ([VNExpress](https://vnexpress.net))
+- [Đài Loan thúc các công ty ở Myanmar 'treo cờ Đài Loan' để tránh bị tấn công nhầm](https://tuoitre.vn/dai-loan-thuc-cac-cong-ty-o-myanmar-treo-co-dai-loan-de-tranh-bi-tan-cong-nham-20210315124312932.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Cổ phiếu gã khổng lồ công nghệ Nhật Bản tăng 20% sau tin bán cổ phần cho Walmart, Tencent](https://cafebiz.vn/co-phieu-ga-khong-lo-cong-nghe-nhat-ban-tang-20-sau-tin-ban-co-phan-cho-walmart-tencent-2021031513494729.chn) ([CafeBiz](https://cafebiz.vn))
 - [Trấn Thành - Tuấn Trần: Bộ đôi góp phần làm nên 11 kỉ lục của &quot;Bố già&quot;](https://laodong.vn/photo/tran-thanh-tuan-tran-bo-doi-gop-phan-lam-nen-11-ki-luc-cua-bo-gia-889215.ldo) ([Lao Động](https://laodong.vn))
 - [Lắp cửa van hơn 200 tấn cho cống ngăn mặn](https://vnexpress.net/lap-cua-van-hon-200-tan-cho-cong-ngan-man-4248646.html) ([VNExpress](https://vnexpress.net))
-- [Mũi thử nghiệm đầu tiên của vắc xin Covivac Việt Nam: Mỹ đánh giá cao khả năng ngăn ngừa biến chủng Anh, Nam Phi](https://cafebiz.vn/mui-thu-nghiem-dau-tien-cua-vac-xin-covivac-viet-nam-my-danh-gia-cao-kha-nang-ngan-ngua-bien-chung-anh-nam-phi-20210315134605083.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xáo trộn tại Goldman Sachs: CEO công khai đi nghỉ bằng phi cơ của công ty bất chấp chỉ trích, nhân sự cấp cao ồ ạt rời đi trong thời gian ngắn](https://cafebiz.vn/xao-tron-tai-goldman-sachs-ceo-cong-khai-di-nghi-bang-phi-co-cua-cong-ty-bat-chap-chi-trich-nhan-su-cap-cao-o-at-roi-di-trong-thoi-gian-ngan-20210315134444378.chn) ([CafeBiz](https://cafebiz.vn))
-- [1 mũi xong luôn: Cơn sốt tiêm vắc xin Johnson & Johnson khiến quan chức y tế bất ngờ](https://cafebiz.vn/1-mui-xong-luon-con-sot-tiem-vac-xin-johnson-johnson-khien-quan-chuc-y-te-bat-ngo-20210315134248093.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lễ hội Hoa Lư: Dừng tổ chức lễ khai mạc, không tổ chức phần hội](https://laodong.vn/van-hoa-giai-tri/le-hoi-hoa-lu-dung-to-chuc-le-khai-mac-khong-to-chuc-phan-hoi-889222.ldo) ([Lao Động](https://laodong.vn))
-- [Có 90 mã chứng khoán trên HOSE bị cắt margin](https://laodong.vn/kinh-te/co-90-ma-chung-khoan-tren-hose-bi-cat-margin-889228.ldo) ([Lao Động](https://laodong.vn))
-- [Lạ lùng cảnh "se duyên" cho bưởi đặc sản ở Hà Tĩnh](https://cafebiz.vn/la-lung-canh-se-duyen-cho-buoi-dac-san-o-ha-tinh-20210315134009139.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá dầu tăng nóng có thể khiến lạm phát vượt “trần”](https://laodong.vn/thi-truong/gia-dau-tang-nong-co-the-khien-lam-phat-vuot-tran-889026.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
