@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 25.67°C.
-- Air Visual is 124.
+- Temperature is 26°C.
+- Feels Like 25.95°C.
+- Air Visual is 116.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Một lần kể hết của TikToker đình đám Kiên Review: Suýt mất bàn tay vì đam mê "tìm sự thật phía sau mọi quảng cáo", để không còn ai bị lừa khi mua hàng online](https://cafebiz.vn/mot-lan-ke-het-cua-tiktoker-dinh-dam-kien-review-suyt-mat-ban-tay-vi-dam-me-tim-su-that-phia-sau-moi-quang-cao-de-khong-con-ai-bi-lua-khi-mua-hang-online-2021031511394428.chn) ([CafeBiz](https://cafebiz.vn))
-- [40 tỉ đồng bảo hiểm cho người tình nguyện tiêm vắc xin COVID-19 'made in Việt Nam'](https://tuoitre.vn/40-ti-dong-bao-hiem-cho-nguoi-tinh-nguyen-tiem-vac-xin-covid-19-made-in-viet-nam-20210315112650787.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Có được giữ tài sản của người vay tiền để siết nợ?](https://laodong.vn/kinh-te/co-duoc-giu-tai-san-cua-nguoi-vay-tien-de-siet-no-889153.ldo) ([Lao Động](https://laodong.vn))
-- [Nghệ An: Một người đàn ông tử vong do bị cột gỗ đè gãy cổ](https://laodong.vn/xa-hoi/nghe-an-mot-nguoi-dan-ong-tu-vong-do-bi-cot-go-de-gay-co-889151.ldo) ([Lao Động](https://laodong.vn))
-- [Từ &quot;Bố già&quot; của Trấn Thành, nhìn lại câu chuyện phim Việt doanh thu trăm tỉ](https://laodong.vn/van-hoa/tu-bo-gia-cua-tran-thanh-nhin-lai-cau-chuyen-phim-viet-doanh-thu-tram-ti-889171.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao tìm chủ mới 1 tháng, Ninh Thuận đã... hủy kế hoạch đấu thầu nhà máy điện gió 3.100 tỷ?](https://cafebiz.vn/vi-sao-tim-chu-moi-1-thang-ninh-thuan-da-huy-ke-hoach-dau-thau-nha-may-dien-gio-3100-ty-20210315113029363.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ đoạn code 7 dòng, 2 anh em người Ireland tạo ra công ty trị giá gần 100 tỷ USD](https://cafebiz.vn/tu-doan-code-7-dong-2-anh-em-nguoi-ireland-tao-ra-cong-ty-tri-gia-gan-100-ty-usd-20210315113024663.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ba hành khách định mang súng bút, roi điện, bình xịt hơi cay lên máy bay](https://tuoitre.vn/ba-hanh-khach-dinh-mang-sung-but-roi-dien-binh-xit-hoi-cay-len-may-bay-20210315110108009.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Các cơ quan chức năng huyện đùn đẩy trách nhiệm](https://laodong.vn/ban-doc/cac-co-quan-chuc-nang-huyen-dun-day-trach-nhiem-889020.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ tổng thống Syria bị điều tra, đối diện nguy cơ mất quốc tịch Anh](https://tuoitre.vn/vo-tong-thong-syria-bi-dieu-tra-doi-dien-nguy-co-mat-quoc-tich-anh-20210315100325952.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [CSGT TP HCM ra quân xử phạt xe cũ nát](https://vnexpress.net/csgt-tp-hcm-ra-quan-xu-phat-xe-cu-nat-4248566.html) ([VNExpress](https://vnexpress.net))
+- [Ủy viên Thường vụ Quốc hội chia sẻ 'hai món nợ với cử tri'](https://vnexpress.net/uy-vien-thuong-vu-quoc-hoi-chia-se-hai-mon-no-voi-cu-tri-4248559.html) ([VNExpress](https://vnexpress.net))
+- [Cựu Tổng thống Donald Trump bất ngờ đưa ra lời nhận xét thẳng thừng về Meghan Markle trước loạt drama Hoàng gia hiện tại](https://cafebiz.vn/cuu-tong-thong-donald-trump-bat-ngo-dua-ra-loi-nhan-xet-thang-thung-ve-meghan-markle-truoc-loat-drama-hoang-gia-hien-tai-20210315115838129.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kim Tae Hee trở lại, tham gia đóng MV &quot;I Like You&quot;](https://laodong.vn/giai-tri/kim-tae-hee-tro-lai-tham-gia-dong-mv-i-like-you-889190.ldo) ([Lao Động](https://laodong.vn))
+- [Khởi động tuyến cao tốc Dầu Giây – Liên Khương, bất động sản nơi này hưởng lợi](https://cafebiz.vn/khoi-dong-tuyen-cao-toc-dau-giay-lien-khuong-bat-dong-san-noi-nay-huong-loi-20210315104217083.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội: Khởi công dự án xây dựng Cung Thiếu nhi Hà Nội hơn 1.300 tỉ đồng](https://laodong.vn/xa-hoi/ha-noi-khoi-cong-du-an-xay-dung-cung-thieu-nhi-ha-noi-hon-1300-ti-dong-889189.ldo) ([Lao Động](https://laodong.vn))
+- [VAMA: Doanh số THACO AUTO gần 5.800 xe, chiếm 44,6% thị phần](https://laodong.vn/thong-tin-doanh-nghiep/vama-doanh-so-thaco-auto-gan-5800-xe-chiem-446-thi-phan-889135.ldo) ([Lao Động](https://laodong.vn))
+- [Đứt móc cáp cần cẩu làm 2 người chết, 1 người bị thương](https://laodong.vn/xa-hoi/dut-moc-cap-can-cau-lam-2-nguoi-chet-1-nguoi-bi-thuong-889193.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyển nghề giáo viên sang kinh doanh mặt hàng trẻ em, mẹ bỉm 8X thu hàng trăm triệu/tháng với số vốn 400 triệu](https://cafebiz.vn/chuyen-nghe-giao-vien-sang-kinh-doanh-mat-hang-tre-em-me-bim-8x-thu-hang-tram-trieu-thang-voi-so-von-400-trieu-20210315114539035.chn) ([CafeBiz](https://cafebiz.vn))
+- [SHB dự kiến chia 20,5% cổ tức, 10% cho năm 2019 và 10,5% cho năm 2020](https://laodong.vn/kinh-te/shb-du-kien-chia-205-co-tuc-10-cho-nam-2019-va-105-cho-nam-2020-889172.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -119,9 +119,9 @@
 04. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 05. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 06. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
-07. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
-08. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
-09. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
+07. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
+08. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
+09. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
 10. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
