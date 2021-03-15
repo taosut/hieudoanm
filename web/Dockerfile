@@ -29,12 +29,16 @@ RUN yarn --version
 RUN mkdir -p /var/server/app
 RUN mkdir -p /var/server/express
 RUN mkdir -p /var/server/angular
-# Set WORKDIR
+# Set WORKDIR to express
 WORKDIR /var/server/express
+# COPY ALL to express
+COPY express /var/server/express
 # Build Server
 RUN yarn install && yarn build
-# Set WORKDIR
+# Set WORKDIR to angular
 WORKDIR /var/server/angular
+# COPY ALL to angular
+COPY angular /var/server/angular
 # Build Web
 RUN yarn install && yarn build
 # Set WORKDIR to express
