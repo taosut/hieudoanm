@@ -20,8 +20,8 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 24.95°C.
+- Temperature is 24°C.
+- Feels Like 24.42°C.
 - Air Visual is 103.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nữ giáo viên dạy tiếng Anh hết lòng vì sự nghiệp trồng người](https://cafebiz.vn/nu-giao-vien-day-tieng-anh-het-long-vi-su-nghiep-trong-nguoi-20210315190058895.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tháo gỡ khó khăn, bảo đảm tiến độ 12 công trình tổ chức SEA Games 31](https://laodong.vn/thoi-su/thao-go-kho-khan-bao-dam-tien-do-12-cong-trinh-to-chuc-sea-games-31-889447.ldo) ([Lao Động](https://laodong.vn))
+- [Làm việc với Sở TT&TT, YouTuber Thơ Nguyễn có biểu hiện không tốt về sức khỏe và tâm lý](https://cafebiz.vn/lam-viec-voi-so-tttt-youtuber-tho-nguyen-co-bieu-hien-khong-tot-ve-suc-khoe-va-tam-ly-20210315211956773.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khởi tố đối tượng cầm đầu trong vụ chi 20 tỉ để "đẩy" Giám đốc Công an An Giang đi nơi khác](https://cafebiz.vn/khoi-to-doi-tuong-cam-dau-trong-vu-chi-20-ti-de-day-giam-doc-cong-an-an-giang-di-noi-khac-20210315211946288.chn) ([CafeBiz](https://cafebiz.vn))
+- [SGK tích hợp Lịch sử và Địa lí lớp 6: Không nặng về thuộc con số, sự kiện](https://laodong.vn/giao-duc/sgk-tich-hop-lich-su-va-dia-li-lop-6-khong-nang-ve-thuoc-con-so-su-kien-887990.ldo) ([Lao Động](https://laodong.vn))
+- [Đệ nhất cao thủ bí ẩn trong "Thủy hử", Lư Tuấn Nghĩa gặp ông phải quỳ, Lâm Xung và Võ Tòng không dám giao đấu](https://cafebiz.vn/de-nhat-cao-thu-bi-an-trong-thuy-hu-lu-tuan-nghia-gap-ong-phai-quy-lam-xung-va-vo-tong-khong-dam-giao-dau-20210315161744553.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phó Trụ trì chùa Tam Chúc nói về việc "biển người" đến chùa: Lượng người quá lớn nên chùa bị động, không trở tay kịp](https://cafebiz.vn/pho-tru-tri-chua-tam-chuc-noi-ve-viec-bien-nguoi-den-chua-luong-nguoi-qua-lon-nen-chua-bi-dong-khong-tro-tay-kip-20210315211604034.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ông Võ Hoàng Yên xác nhận được ông Dũng "lò vôi" cho 54 tỷ đồng: "Cho đứa trẻ ngậm cục kẹo, rồi móc kẹo ra có hay không"](https://cafebiz.vn/ong-vo-hoang-yen-xac-nhan-duoc-ong-dung-lo-voi-cho-54-ty-dong-cho-dua-tre-ngam-cuc-keo-roi-moc-keo-ra-co-hay-khong-20210315210824141.chn) ([CafeBiz](https://cafebiz.vn))
 - [Vĩnh Phúc: Biệt thự trái phép vẫn mọc lên, cán bộ nói &quot;mọi thứ vẫn tốt&quot;](https://laodong.vn/bat-dong-san/vinh-phuc-biet-thu-trai-phep-van-moc-len-can-bo-noi-moi-thu-van-tot-888421.ldo) ([Lao Động](https://laodong.vn))
-- [Đồng loạt ra quân xử lý vi phạm về nồng độ cồn và ma túy](https://laodong.vn/phap-luat/dong-loat-ra-quan-xu-ly-vi-pham-ve-nong-do-con-va-ma-tuy-889437.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất hôm nay: Bão cát &quot;tấn công&quot; nhiều khu vực của Trung Quốc](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-bao-cat-tan-cong-nhieu-khu-vuc-cua-trung-quoc-889397.ldo) ([Lao Động](https://laodong.vn))
-- [Căn nhà gói ghém bình yên với tiếng sóng biển vỗ về ở làng chài cách thành phố Nha Trang 15km](https://cafebiz.vn/can-nha-goi-ghem-binh-yen-voi-tieng-song-bien-vo-ve-o-lang-chai-cach-thanh-pho-nha-trang-15km-20210315165347814.chn) ([CafeBiz](https://cafebiz.vn))
-- [Màu sắc hoàn hảo cho từng căn phòng theo chuyên gia tâm lý học có thể bạn chưa biết](https://cafebiz.vn/mau-sac-hoan-hao-cho-tung-can-phong-theo-chuyen-gia-tam-ly-hoc-co-the-ban-chua-biet-2021031516563547.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hóc Môn, Bình Chánh, Nhà Bè thành quận trước năm 2025?](https://tuoitre.vn/hoc-mon-binh-chanh-nha-be-thanh-quan-truoc-nam-2025-20210315201513521.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hà Nam: Giám đốc Công an tỉnh kiểm tra đảm bảo an ninh tại Chùa Tam Chúc](https://laodong.vn/xa-hoi/ha-nam-giam-doc-cong-an-tinh-kiem-tra-dam-bao-an-ninh-tai-chua-tam-chuc-889417.ldo) ([Lao Động](https://laodong.vn))
-- [Văn Toàn bị lật cổ chân sau chiến thắng của Hoàng Anh Gia Lai](https://laodong.vn/bong-da/van-toan-bi-lat-co-chan-sau-chien-thang-cua-hoang-anh-gia-lai-889432.ldo) ([Lao Động](https://laodong.vn))
-- [Từ Hi Thái hậu tuẫn táng 100 đứa trẻ vô tội cùng mình vì... sợ ma](https://cafebiz.vn/tu-hi-thai-hau-tuan-tang-100-dua-tre-vo-toi-cung-minh-vi-so-ma-20210315162458216.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sau tiếng nổ, cửa hàng đồ cũ ở Sài Gòn bốc cháy ngùn ngụt](http://vietnamnet.vn/vn/thoi-su/sau-tieng-no-cua-hang-do-cu-o-sai-gon-boc-chay-ngun-ngut-719856.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
