@@ -3,8 +3,7 @@ name: Heroku Deploy
 on:
   push:
     paths:
-      - "web/angular/**"
-      - "web/express/**"
+      - "web/**"
       - ".github/workflows/heroku.yml"
     branches:
       - master
