@@ -22,7 +22,7 @@
 - Current weather is scattered clouds.
 - Temperature is 25°C.
 - Feels Like 24.53°C.
-- Air Visual is 96.
+- Air Visual is 84.
 
 **WEATHER**
 
@@ -75,14 +75,14 @@
 
 **NEWS**
 
+- [Hàng loạt cổ đông bị xử phạt trong lĩnh vực chứng khoán](https://laodong.vn/kinh-te/hang-loat-co-dong-bi-xu-phat-trong-linh-vuc-chung-khoan-889335.ldo) ([Lao Động](https://laodong.vn))
+- [EVN: Hệ luỵ từ tỉ trọng nguồn năng lượng tái tạo tăng cao?](https://laodong.vn/kinh-te/evn-he-luy-tu-ti-trong-nguon-nang-luong-tai-tao-tang-cao-889378.ldo) ([Lao Động](https://laodong.vn))
 - [Thường trực Ban Bí thư Võ Văn Thưởng gặp mặt lãnh đạo tỉnh Đồng Nai](https://laodong.vn/thoi-su/thuong-truc-ban-bi-thu-vo-van-thuong-gap-mat-lanh-dao-tinh-dong-nai-889362.ldo) ([Lao Động](https://laodong.vn))
 - [Thường trực Chính phủ họp về các cảng trên sông Sài Gòn, Ba Son](https://tuoitre.vn/thuong-truc-chinh-phu-hop-ve-cac-cang-tren-song-sai-gon-ba-son-20210315181510966.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thị xã Kiến Tường nói bán một phần đất trường THPT là do 'không cập nhật'](https://tuoitre.vn/thi-xa-kien-tuong-noi-ban-mot-phan-dat-truong-thpt-la-do-khong-cap-nhat-20210315174714233.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Phát hiện hơn 600 tài xế vi phạm nồng độ cồn](https://vnexpress.net/phat-hien-hon-600-tai-xe-vi-pham-nong-do-con-4248471.html) ([VNExpress](https://vnexpress.net))
 - [Ghi nhận 3 ca mắc COVID-19 mới, 29 bệnh nhân được công bố khỏi bệnh](https://laodong.vn/y-te/ghi-nhan-3-ca-mac-covid-19-moi-29-benh-nhan-duoc-cong-bo-khoi-benh-889063.ldo) ([Lao Động](https://laodong.vn))
 - [Cử tri muốn Bộ GDĐT làm rõ quy định cho học sinh dùng điện thoại trong lớp](https://laodong.vn/thoi-su/cu-tri-muon-bo-gddt-lam-ro-quy-dinh-cho-hoc-sinh-dung-dien-thoai-trong-lop-889360.ldo) ([Lao Động](https://laodong.vn))
-- [Đắk Lắk: Khách hàng cùng ngành điện tiết giảm phụ tải trong mùa khô](https://laodong.vn/ban-doc/dak-lak-khach-hang-cung-nganh-dien-tiet-giam-phu-tai-trong-mua-kho-889337.ldo) ([Lao Động](https://laodong.vn))
-- [Viettel đặt mục tiêu có 165 sáng kiến đăng ký mới trong vòng 40 ngày](https://laodong.vn/cong-doan/viettel-dat-muc-tieu-co-165-sang-kien-dang-ky-moi-trong-vong-40-ngay-889243.ldo) ([Lao Động](https://laodong.vn))
 - [Thanh Hóa có 2 người tự ứng cử ĐBQH là giám đốc doanh nghiệp và dược sĩ](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/thanh-hoa-co-2-nguoi-tu-ung-cu-dbqh-la-giam-doc-doanh-nghiep-va-duoc-si-719827.html) ([VietNamNet](https://vietnamnet.vn))
 - [Vụ chìm tàu chở bụi than: Thùng chứa kín, không ảnh hưởng môi trường biển](https://laodong.vn/xa-hoi/vu-chim-tau-cho-bui-than-thung-chua-kin-khong-anh-huong-moi-truong-bien-889366.ldo) ([Lao Động](https://laodong.vn))
 
