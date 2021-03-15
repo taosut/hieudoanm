@@ -80,7 +80,7 @@ const startServer: Function = async () => {
 
   app.set('port', port);
   const server: http.Server = http.createServer(app);
-  server.timeout = 1000 * 60 * 6; // 6 minutes
+  server.timeout = 600000; // 10 minutes
   server
     .listen(port, async () => {
       const addr: string | AddressInfo = server.address();

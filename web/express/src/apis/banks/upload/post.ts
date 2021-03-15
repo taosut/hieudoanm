@@ -1,7 +1,7 @@
 'use strict';
 
 import _ from 'lodash';
-import { Request, Response } from 'express';
+import { Response } from 'express';
 import Tesseract from 'tesseract.js';
 import imagemin from 'imagemin';
 import imageminMozjpeg from 'imagemin-mozjpeg';
@@ -51,13 +51,15 @@ export default async (req: any, res: Response): Promise<Response<any>> => {
   const images = [];
   for (const file of files) {
     const { path = '', size = 0 } = file;
-    if (!path || size < 1000000) {
+    if (!path || size < 10000) {
       images.push({ path });
       continue;
     }
+    const quality: number = 10000 / size;
+    console.log('quality', quality);
     const [image = {}] = await imagemin([path], {
       destination: 'compressed-images',
-      plugins: [imageminMozjpeg({ quality: 50 })]
+      plugins: [imageminMozjpeg({ quality })]
     });
     console.log('image', image);
     const { destinationPath = '' } = image;
