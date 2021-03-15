@@ -19,17 +19,17 @@
 
 **CALENDAR**
 
-- Current weather is clear sky.
-- Temperature is 23°C.
-- Feels Like 24.62°C.
-- Air Visual is 110.
+- Current weather is mist.
+- Temperature is 22°C.
+- Feels Like 22.94°C.
+- Air Visual is 111.
 
 **WEATHER**
 
-- Date: 2021/03/14
-- Lunar: 2021/02/02
+- Date: 2021/03/15
+- Lunar: 2021/02/03
 - Tiet Khi: Đông chí.
-- năm canh tý tháng kỷ sửu ngày tân tỵ.
+- năm canh tý tháng kỷ sửu ngày nhâm ngọ.
 
 **NPM**
 
@@ -51,6 +51,7 @@
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Barca](https://img.shields.io/static/v1?label=Barca&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Barca)
 - [![Brave Girl](https://img.shields.io/static/v1?label=Brave%20Girl&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Brave%20Girl)
+- [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
 - [![Chi Bảo](https://img.shields.io/static/v1?label=Chi%20B%E1%BA%A3o&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chi%20B%E1%BA%A3o)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
 - [![Hải Phòng](https://img.shields.io/static/v1?label=H%E1%BA%A3i%20Ph%C3%B2ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%E1%BA%A3i%20Ph%C3%B2ng)
@@ -66,8 +67,7 @@
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Tho nguyen](https://img.shields.io/static/v1?label=Tho%20nguyen&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tho%20nguyen)
 - [![Thuận Nguyễn](https://img.shields.io/static/v1?label=Thu%E1%BA%ADn%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thu%E1%BA%ADn%20Nguy%E1%BB%85n)
-- [![Thơ Nguyễn](https://img.shields.io/static/v1?label=Th%C6%A1%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%C6%A1%20Nguy%E1%BB%85n)
-- [![Thủ môn Bùi Tiến Dũng](https://img.shields.io/static/v1?label=Th%E1%BB%A7%20m%C3%B4n%20B%C3%B9i%20Ti%E1%BA%BFn%20D%C5%A9ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Th%E1%BB%A7%20m%C3%B4n%20B%C3%B9i%20Ti%E1%BA%BFn%20D%C5%A9ng)
+- [![XSHCM](https://img.shields.io/static/v1?label=XSHCM&message=google&color=red&style=flat-square)](https://www.google.com/search?q=XSHCM)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [TP.HCM đã nhận 16 hồ sơ tự ứng đại biểu Quốc hội, 13 hồ sơ tự ứng cử đại biểu HĐND](https://tuoitre.vn/tp-hcm-da-nhan-16-ho-so-tu-ung-dai-bieu-quoc-hoi-13-ho-so-tu-ung-cu-dai-bieu-hdnd-20210314221217708.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cô gái Vĩnh Long ho, sốt, kết quả xét nghiệm âm tính COVID-19](https://tuoitre.vn/co-gai-vinh-long-ho-sot-ket-qua-xet-nghiem-am-tinh-covid-19-20210314210936223.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thua Viettel, huấn luyện viên Phan Thanh Hùng vẫn khen ngợi học trò](https://laodong.vn/bong-da/thua-viettel-huan-luyen-vien-phan-thanh-hung-van-khen-ngoi-hoc-tro-889068.ldo) ([Lao Động](https://laodong.vn))
-- [Phát hiện kho chứa hàng ngàn mỹ phẩm giả các nhãn hiệu nổi tiếng](https://cafebiz.vn/phat-hien-kho-chua-hang-ngan-my-pham-gia-cac-nhan-hieu-noi-tieng-20210314223028906.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chile  &quot;vô địch&quot; tiêm vaccine COVID-19 ở Mỹ Latinh](https://laodong.vn/the-gioi/chile-vo-dich-tiem-vaccine-covid-19-o-my-latinh-889064.ldo) ([Lao Động](https://laodong.vn))
-- [16 người ở TP HCM tự ứng cử đại biểu Quốc hội](https://vnexpress.net/16-nguoi-o-tp-hcm-tu-ung-cu-dai-bieu-quoc-hoi-4248368.html) ([VNExpress](https://vnexpress.net))
-- [Thủ môn Bình Dương &quot;tặng qùa&quot;, Viettel thắng trận đầu tiên ở V.League 2021](https://laodong.vn/bong-da/thu-mon-binh-duong-tang-qua-viettel-thang-tran-dau-tien-o-vleague-2021-889052.ldo) ([Lao Động](https://laodong.vn))
-- [5 vạn người đổ về chùa Tam Chúc, tỉnh Hà Nam phải tìm giải pháp](https://tuoitre.vn/5-van-nguoi-do-ve-chua-tam-chuc-tinh-ha-nam-phai-tim-giai-phap-20210314210122759.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nghiêm Xuân Tú xuất sắc, Hải Huy hay, Than Quảng Ninh đánh bại TP.HCM 2-0](https://laodong.vn/bong-da/nghiem-xuan-tu-xuat-sac-hai-huy-hay-than-quang-ninh-danh-bai-tphcm-2-0-889061.ldo) ([Lao Động](https://laodong.vn))
-- [Giá thức ăn chăn nuôi tăng mạnh khiến nông dân gặp khó](https://cafebiz.vn/gia-thuc-an-chan-nuoi-tang-manh-khien-nong-dan-gap-kho-20210314205418167.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nam Bộ tiếp tục nắng gắt vào buổi trưa](https://laodong.vn/moi-truong/nam-bo-tiep-tuc-nang-gat-vao-buoi-trua-889103.ldo) ([Lao Động](https://laodong.vn))
+- [Công thức rèn luyện kỹ năng đẳng cấp của những người giỏi nhất hành tinh: Rèn luyện chuyên sâu x 10.000 giờ](https://cafebiz.vn/cong-thuc-ren-luyen-ky-nang-dang-cap-cua-nhung-nguoi-gioi-nhat-hanh-tinh-ren-luyen-chuyen-sau-x-10000-gio-20210310160107575.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người câm, điếc được "thần y" Võ Hoàng Yên chữa bệnh giờ ra sao?](https://cafebiz.vn/nguoi-cam-diec-duoc-than-y-vo-hoang-yen-chua-benh-gio-ra-sao-20210315081337211.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cuộc đua của Blackpink, BTS: Liên tiếp những kỉ lục, giải thưởng](https://laodong.vn/giai-tri/cuoc-dua-cua-blackpink-bts-lien-tiep-nhung-ki-luc-giai-thuong-889081.ldo) ([Lao Động](https://laodong.vn))
+- [Hôm nay (15/3), Việt Nam thử nghiệm lâm sàng vaccine phòng COVID-19 thứ 2](https://cafebiz.vn/hom-nay-15-3-viet-nam-thu-nghiem-lam-sang-vaccine-phong-covid-19-thu-2-2021031508112777.chn) ([CafeBiz](https://cafebiz.vn))
+- [Loay hoay giữ rừng Điện Biên](https://laodong.vn/xa-hoi/loay-hoay-giu-rung-dien-bien-889021.ldo) ([Lao Động](https://laodong.vn))
+- [3 xu hướng dẫn dắt sự bùng nổ của công nghệ thông tin trong 2021](https://cafebiz.vn/3-xu-huong-dan-dat-su-bung-no-cua-cong-nghe-thong-tin-trong-2021-20210314193013346.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xu thế thời đại AI và nhà tiên phong trong việc áp dụng AI vào mạng không dây](https://cafebiz.vn/xu-the-thoi-dai-ai-va-nha-tien-phong-trong-viec-ap-dung-ai-vao-mang-khong-day-20210313112211343.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sau &quot;Bố già&quot; của Trấn Thành, điện ảnh Việt kì vọng vào 11 tác phẩm mới](https://laodong.vn/van-hoa/sau-bo-gia-cua-tran-thanh-dien-anh-viet-ki-vong-vao-11-tac-pham-moi-889083.ldo) ([Lao Động](https://laodong.vn))
+- [Hai em tâm thần, chị cả bị ung thư  phải “chống đỡ” cả  gia đình](https://laodong.vn/tam-long-vang/hai-em-tam-than-chi-ca-bi-ung-thu-phai-chong-do-ca-gia-dinh-889024.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- ["Con anh tên Trần Mai Ninh, vì anh họ Trần, bả họ Mai..."](https://vietcetera.com/vn/con-anh-ten-tran-mai-ninh-vi-anh-ho-tran-ba-ho-mai)
 - [3 bài học tình yêu đến từ bữa cơm nhà](https://vietcetera.com/vn/3-bai-hoc-ve-tinh-thuong-tu-bua-com-nha)
 - [Cơ chế nào giúp ta thức dậy trước báo thức?](https://vietcetera.com/vn/co-che-nao-giup-ta-thuc-day-truoc-bao-thuc)
 - [Self-concept: Lời giải cho câu hỏi "Tôi là ai" theo tâm lý học](https://vietcetera.com/vn/self-concept-loi-giai-cho-cau-hoi-toi-la-ai-theo-tam-ly-hoc)
@@ -105,7 +106,6 @@
 - [Chế độ ăn Keto: Hiệu quả giảm cân đến mức nào và liệu có đáng thử?](https://vietcetera.com/vn/che-do-an-keto-hieu-qua-giam-can-den-muc-nao-va-lieu-co-dang-thu)
 - [6 Tiệm cà phê để bạn khám phá Đà Lạt](https://vietcetera.com/vn/6-tiem-ca-phe-da-lat-de-ban-kham-pha)
 - [Mối quan hệ lành mạnh: Sự dung hòa giữa giá trị cá nhân và xúc cảm](https://vietcetera.com/vn/moi-quan-he-lanh-manh-su-dung-hoa-giua-gia-tri-ca-nhan-va-xuc-cam)
-- [Chữ Với Nghĩa: Phanh xích lô là gì mà không thắng?](https://vietcetera.com/vn/chu-voi-nghia-phanh-xich-lo)
 
 [Read More](https://vietcetera.com/)
 
@@ -121,8 +121,8 @@
 06. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 07. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
 08. [QUAY LẠI LẠI YÊU - NGÔ KIẾN HUY x VƯƠNG ANH TÚ | Official Music Video](https://www.youtube.com/watch?v=93WhpRfkkBk) - [Ngô Kiến Huy](https://www.youtube.com/channel/UCNN7Q7sx5lsivqDf22I7Itw)
-09. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
-10. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
+09. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
+10. [iKON - ‘왜왜왜 (Why Why Why)’ M/V](https://www.youtube.com/watch?v=DslHQto2V7I) - [iKON](https://www.youtube.com/channel/UCWxCyZibDIWIrGIgP25mbfw)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
