@@ -35,12 +35,18 @@ RUN mkdir -p /var/server/angular
 WORKDIR /var/server/express
 # COPY ALL to express
 COPY express /var/server/express
+COPY express/package.json /var/server/express/package.json
+# List all files in express
+RUN ls /var/server/express
 # Build Server
 RUN yarn install && yarn build
 # Set WORKDIR to angular
 WORKDIR /var/server/angular
 # COPY ALL to angular
 COPY angular /var/server/angular
+COPY angular/package.json /var/server/angular/package.json
+# List all files in angular
+RUN ls /var/server/angular
 # Build Web
 RUN yarn install && yarn build
 # Set WORKDIR to express
