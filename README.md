@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 24.89°C.
-- Air Visual is 87.
+- Feels Like 25.31°C.
+- Air Visual is 106.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bùi Hoàng Việt Anh muốn học và rút kinh nghiệm để lớn hơn](https://laodong.vn/bong-da/bui-hoang-viet-anh-muon-hoc-va-rut-kinh-nghiem-de-lon-hon-889368.ldo) ([Lao Động](https://laodong.vn))
-- [Thường trực Chính phủ họp về vấn đề di dời các cảng trên sông Sài Gòn](https://laodong.vn/thoi-su/thuong-truc-chinh-phu-hop-ve-van-de-di-doi-cac-cang-tren-song-sai-gon-889400.ldo) ([Lao Động](https://laodong.vn))
-- [Hàng loạt cổ đông bị xử phạt trong lĩnh vực chứng khoán](https://laodong.vn/kinh-te/hang-loat-co-dong-bi-xu-phat-trong-linh-vuc-chung-khoan-889335.ldo) ([Lao Động](https://laodong.vn))
-- [EVN: Hệ luỵ từ tỉ trọng nguồn năng lượng tái tạo tăng cao?](https://laodong.vn/kinh-te/evn-he-luy-tu-ti-trong-nguon-nang-luong-tai-tao-tang-cao-889378.ldo) ([Lao Động](https://laodong.vn))
-- [Thường trực Ban Bí thư Võ Văn Thưởng gặp mặt lãnh đạo tỉnh Đồng Nai](https://laodong.vn/thoi-su/thuong-truc-ban-bi-thu-vo-van-thuong-gap-mat-lanh-dao-tinh-dong-nai-889362.ldo) ([Lao Động](https://laodong.vn))
-- [Thường trực Chính phủ họp về các cảng trên sông Sài Gòn, Ba Son](https://tuoitre.vn/thuong-truc-chinh-phu-hop-ve-cac-cang-tren-song-sai-gon-ba-son-20210315181510966.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thị xã Kiến Tường nói bán một phần đất trường THPT là do 'không cập nhật'](https://tuoitre.vn/thi-xa-kien-tuong-noi-ban-mot-phan-dat-truong-thpt-la-do-khong-cap-nhat-20210315174714233.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Phát hiện hơn 600 tài xế vi phạm nồng độ cồn](https://vnexpress.net/phat-hien-hon-600-tai-xe-vi-pham-nong-do-con-4248471.html) ([VNExpress](https://vnexpress.net))
-- [Thanh Hóa có 2 người tự ứng cử ĐBQH là giám đốc doanh nghiệp và dược sĩ](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/thanh-hoa-co-2-nguoi-tu-ung-cu-dbqh-la-giam-doc-doanh-nghiep-va-duoc-si-719827.html) ([VietNamNet](https://vietnamnet.vn))
-- [Vụ chìm tàu chở bụi than: Thùng chứa kín, không ảnh hưởng môi trường biển](https://laodong.vn/xa-hoi/vu-chim-tau-cho-bui-than-thung-chua-kin-khong-anh-huong-moi-truong-bien-889366.ldo) ([Lao Động](https://laodong.vn))
+- [Đặt bút vẽ một chiếc cây, mỗi người cho ra một tác phẩm riêng: Bạn có biết tác phẩm của người hướng nội khác người hướng ngoại ở điểm nào không?](https://cafebiz.vn/dat-but-ve-mot-chiec-cay-moi-nguoi-cho-ra-mot-tac-pham-rieng-ban-co-biet-tac-pham-cua-nguoi-huong-noi-khac-nguoi-huong-ngoai-o-diem-nao-khong-20210315194343543.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ăn đúng cách để sữa chua phát huy tác dụng](https://cafebiz.vn/an-dung-cach-de-sua-chua-phat-huy-tac-dung-20210315164039023.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hé lộ nguyên nhân tên cướp tấn công ngân hàng ở Phúc Thọ, Hà Nội](https://laodong.vn/phap-luat/he-lo-nguyen-nhan-ten-cuop-tan-cong-ngan-hang-o-phuc-tho-ha-noi-889418.ldo) ([Lao Động](https://laodong.vn))
+- [Hướng dẫn cách ghi thông tin các loại đất trong sổ đỏ](https://laodong.vn/bat-dong-san/huong-dan-cach-ghi-thong-tin-cac-loai-dat-trong-so-do-889343.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam có thêm 3 ca mắc COVID-19 mới, được cách ly sau nhập cảnh](https://cafebiz.vn/viet-nam-co-them-3-ca-mac-covid-19-moi-duoc-cach-ly-sau-nhap-canh-20210315192052694.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ngồi xuống và nhìn vào tổng quan khuôn mặt, chúng tôi sẽ tiết lộ vào thời điểm nào thì bạn sẽ giàu có phú quý?](https://cafebiz.vn/ngoi-xuong-va-nhin-vao-tong-quan-khuon-mat-chung-toi-se-tiet-lo-vao-thoi-diem-nao-thi-ban-se-giau-co-phu-quy-20210315191626902.chn) ([CafeBiz](https://cafebiz.vn))
+- [Zidane khó nghĩ trước trận Real Madrid tái đấu Atalanta](https://laodong.vn/bong-da-quoc-te/zidane-kho-nghi-truoc-tran-real-madrid-tai-dau-atalanta-889401.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang: Tiêu hủy hàng nghìn sản phẩm hàng hóa vi phạm pháp luật](https://laodong.vn/phap-luat/bac-giang-tieu-huy-hang-nghin-san-pham-hang-hoa-vi-pham-phap-luat-889376.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM có 54 hồ sơ ứng cử đại biểu Quốc hội](https://laodong.vn/thoi-su/tphcm-co-54-ho-so-ung-cu-dai-bieu-quoc-hoi-889370.ldo) ([Lao Động](https://laodong.vn))
+- [Chạy xe máy vào làn ô tô, người đàn ông bị xe container cuốn vào gầm tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/chay-xe-may-vao-lan-o-to-nguoi-dan-ong-bi-xe-container-cuon-vao-gam-tu-vong-719842.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
