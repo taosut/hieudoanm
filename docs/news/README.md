@@ -1,10 +1,11 @@
 # News
 
+- [Hoà Bình: Các Công đoàn ngành ký giao ước thi đua 2021](https://laodong.vn/ldld-hoa-binh/hoa-binh-cac-cong-doan-nganh-ky-giao-uoc-thi-dua-2021-889297.ldo) ([Lao Động](https://laodong.vn))
+- [Vượt qua COVID-19, trái thanh long Long An trước cơ hội tiến xa](https://laodong.vn/kinh-te/vuot-qua-covid-19-trai-thanh-long-long-an-truoc-co-hoi-tien-xa-889288.ldo) ([Lao Động](https://laodong.vn))
+- [LĐLĐ Đà Nẵng: Tập huấn các biện pháp phòng, chống lây nhiễm COVID-19](https://laodong.vn/cong-doan/ldld-da-nang-tap-huan-cac-bien-phap-phong-chong-lay-nhiem-covid-19-889293.ldo) ([Lao Động](https://laodong.vn))
+- [Những mẹo hay giúp chụp màn hình trên máy tính Windows dễ dàng](https://laodong.vn/cong-nghe/nhung-meo-hay-giup-chup-man-hinh-tren-may-tinh-windows-de-dang-889265.ldo) ([Lao Động](https://laodong.vn))
+- [Facebook sẽ gán nhãn tất cả bài đăng về vaccine COVID-19](https://laodong.vn/the-gioi/facebook-se-gan-nhan-tat-ca-bai-dang-ve-vaccine-covid-19-889269.ldo) ([Lao Động](https://laodong.vn))
 - [Những người được ưu tiên làm thẻ CCCD mới trước ngày 1.7](https://laodong.vn/infographic/nhung-nguoi-duoc-uu-tien-lam-the-cccd-moi-truoc-ngay-17-889157.ldo) ([Lao Động](https://laodong.vn))
-- [Môi đóng cục vì tiêm silicon, bác sĩ phải phẫu thuật nhiều lần](https://laodong.vn/suc-khoe/moi-dong-cuc-vi-tiem-silicon-bac-si-phai-phau-thuat-nhieu-lan-889225.ldo) ([Lao Động](https://laodong.vn))
-- [Khen thưởng gần 350 tập thể, cá nhân “Giỏi việc nước - Đảm việc nhà”](https://laodong.vn/ldld-tphcm/khen-thuong-gan-350-tap-the-ca-nhan-gioi-viec-nuoc-dam-viec-nha-889279.ldo) ([Lao Động](https://laodong.vn))
-- [Hơn 176 tỉ đồng hỗ trợ người lao động bị ảnh hưởng do COVID-19](https://laodong.vn/cong-doan/hon-176-ti-dong-ho-tro-nguoi-lao-dong-bi-anh-huong-do-covid-19-889282.ldo) ([Lao Động](https://laodong.vn))
-- [CDC Hà Nội công bố kết quả xét nghiệm sàng lọc COVID-19 tại 3 quận, huyện](https://laodong.vn/y-te/cdc-ha-noi-cong-bo-ket-qua-xet-nghiem-sang-loc-covid-19-tai-3-quan-huyen-889270.ldo) ([Lao Động](https://laodong.vn))
 - [Ấn Độ đề xuất cấm và phạt hình sự với nhà đầu tư tiền ảo](https://cafebiz.vn/an-do-de-xuat-cam-va-phat-hinh-su-voi-nha-dau-tu-tien-ao-20210315140540111.chn) ([CafeBiz](https://cafebiz.vn))
 - [Stroopwafels Max & Alex chính thức nhận đối tác mở đại lý, nhà phân phối trên toàn quốc](https://cafebiz.vn/stroopwafels-max-alex-chinh-thuc-nhan-doi-tac-mo-dai-ly-nha-phan-phoi-tren-toan-quoc-20210315121058905.chn) ([CafeBiz](https://cafebiz.vn))
 - [&quot;Trận chiến Điện Biên Phủ&quot; - kiệt tác tranh tường lớn bậc nhất thế giới](https://laodong.vn/xa-hoi/tran-chien-dien-bien-phu-kiet-tac-tranh-tuong-lon-bac-nhat-the-gioi-888740.ldo) ([Lao Động](https://laodong.vn))
@@ -99,4 +100,3 @@
 - [Đang sản xuất Tivi, ông chủ Asanzo bỗng đầu tư trại bò 2.000 tỷ đồng, sắp ra mắt phân bón Ba Con Bò cạnh tranh với Ba Con Cò](https://cafebiz.vn/dang-san-xuat-tivi-ong-chu-asanzo-bong-dau-tu-trai-bo-2000-ty-sap-ra-mat-phan-bon-ba-con-bo-canh-tranh-voi-ba-con-co-202103150926296.chn) ([CafeBiz](https://cafebiz.vn))
 - [Việt Nam ghi nhận người đầu tiên sốc phản vệ độ 3 sau tiêm vaccine Covid-19, đã được xử trí kịp thời](https://cafebiz.vn/viet-nam-ghi-nhan-nguoi-dau-tien-soc-phan-ve-do-3-sau-tiem-vaccine-covid-19-da-duoc-xu-tri-kip-thoi-20210315092503369.chn) ([CafeBiz](https://cafebiz.vn))
 - [Máu và hoa](https://tuoitre.vn/mau-va-hoa-20210315071117321.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Kỳ vọng thành ""Sapa thứ hai" cùng với phát triển hạ tầng giao thông, vùng đất này đang trở thành mối quan tâm mới của giới đầu tư địa ốc](https://cafebiz.vn/ky-vong-thanh-sapa-thu-hai-cung-voi-phat-trien-ha-tang-giao-thong-vung-dat-nay-dang-tro-thanh-moi-quan-tam-moi-cua-gioi-dau-tu-dia-oc-20210315091943375.chn) ([CafeBiz](https://cafebiz.vn))
