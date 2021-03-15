@@ -2,6 +2,9 @@
 
 import { Request, Response } from 'express';
 import Tesseract from 'tesseract.js';
+import imagemin from 'imagemin';
+import imageminMozjpeg from 'imagemin-mozjpeg';
+
 const banks = [
   {
     name: 'vietcombank',
@@ -59,13 +62,29 @@ const banks = [
 
 export default async (req: any, res: Response): Promise<Response<any>> => {
   const files = req.files;
-  const [file] = files;
   console.log('files', files);
-  if (!file) {
+
+  const images = [];
+  for (const file of files) {
+    const { path = '', size = 0 } = file;
+    if (!path || size < 1000000) {
+      images.push(file);
+      continue;
+    }
+    const image = await imagemin([path], {
+      destination: 'compressed-images',
+      plugins: [imageminMozjpeg({ quality: 50 })]
+    });
+    images.push(image);
+  }
+  console.log('images', images);
+
+  const [image] = images;
+  console.log('image', image);
+  if (!image) {
     return res.json({ message: 'NO FILE', banksInfos: [] });
   }
-  console.log('file', file);
-  const { path = '' } = file;
+  const { path = '' } = image;
   if (!path) {
     return res.json({ message: 'NO PATH', banksInfos: [] });
   }
