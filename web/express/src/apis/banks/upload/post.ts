@@ -55,7 +55,7 @@ export default async (req: any, res: Response): Promise<Response<any>> => {
       images.push({ path });
       continue;
     }
-    const quality: number = 10000 / size;
+    const quality: number = (10000 / size) * 100;
     console.log('quality', quality);
     const [image = {}] = await imagemin([path], {
       destination: 'compressed-images',
