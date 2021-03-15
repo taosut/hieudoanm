@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Triệt phá thêm ổ nhóm chuyên 'làm luật' ở vùng biển Cẩm Phả](https://tuoitre.vn/triet-pha-them-o-nhom-chuyen-lam-luat-o-vung-bien-cam-pha-20210315220726026.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [TP.HCM khoan lỗ lắp cảm biến để quản lý thu phí đậu xe](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/tp-hcm-khoan-lo-lap-cam-bien-de-quan-ly-thu-phi-dau-xe-719865.html) ([VietNamNet](https://vietnamnet.vn))
 - [5 huyện ngoại thành ở TPHCM sẽ lên quận trong 10 năm tới](https://laodong.vn/xa-hoi/5-huyen-ngoai-thanh-o-tphcm-se-len-quan-trong-10-nam-toi-889452.ldo) ([Lao Động](https://laodong.vn))
 - [Mức án cho Đinh La Thăng và các đồng phạm trong vụ Ethanol Phú Thọ](https://laodong.vn/infographic/muc-an-cho-dinh-la-thang-va-cac-dong-pham-trong-vu-ethanol-phu-tho-889330.ldo) ([Lao Động](https://laodong.vn))
 - [Cháy lớn ở cửa hàng nội thất](https://vnexpress.net/chay-lon-o-cua-hang-noi-that-4248929.html) ([VNExpress](https://vnexpress.net))
@@ -83,8 +85,6 @@
 - [Bộ Văn hoá ra văn bản nhắc nhở sau cảnh chen lấn tại chùa Tam Chúc](https://laodong.vn/van-hoa-giai-tri/bo-van-hoa-ra-van-ban-nhac-nho-sau-canh-chen-lan-tai-chua-tam-chuc-889434.ldo) ([Lao Động](https://laodong.vn))
 - [Nữ giáo viên dạy tiếng Anh hết lòng vì sự nghiệp trồng người](https://cafebiz.vn/nu-giao-vien-day-tieng-anh-het-long-vi-su-nghiep-trong-nguoi-20210315190058895.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tháo gỡ khó khăn, bảo đảm tiến độ 12 công trình tổ chức SEA Games 31](https://laodong.vn/thoi-su/thao-go-kho-khan-bao-dam-tien-do-12-cong-trinh-to-chuc-sea-games-31-889447.ldo) ([Lao Động](https://laodong.vn))
-- [Làm việc với Sở TT&TT, YouTuber Thơ Nguyễn có biểu hiện không tốt về sức khỏe và tâm lý](https://cafebiz.vn/lam-viec-voi-so-tttt-youtuber-tho-nguyen-co-bieu-hien-khong-tot-ve-suc-khoe-va-tam-ly-20210315211956773.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khởi tố đối tượng cầm đầu trong vụ chi 20 tỉ để "đẩy" Giám đốc Công an An Giang đi nơi khác](https://cafebiz.vn/khoi-to-doi-tuong-cam-dau-trong-vu-chi-20-ti-de-day-giam-doc-cong-an-an-giang-di-noi-khac-20210315211946288.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
