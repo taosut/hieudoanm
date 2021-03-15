@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 24.91°C.
-- Air Visual is 109.
+- Feels Like 25.27°C.
+- Air Visual is 102.
 
 **WEATHER**
 
@@ -49,15 +49,16 @@
 **GOOGLE TRENDS**
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
-- [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![BTS Grammy 2021](https://img.shields.io/static/v1?label=BTS%20Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=BTS%20Grammy%202021)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
+- [![Chua Tam truc](https://img.shields.io/static/v1?label=Chua%20Tam%20truc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chua%20Tam%20truc)
 - [![Di Maria](https://img.shields.io/static/v1?label=Di%20Maria&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%20Maria)
+- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Grammy 2021](https://img.shields.io/static/v1?label=Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Grammy%202021)
 - [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
 - [![Hoàng Anh Gia Lai](https://img.shields.io/static/v1?label=Ho%C3%A0ng%20Anh%20Gia%20Lai&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ho%C3%A0ng%20Anh%20Gia%20Lai)
 - [![Hướng dương ngược nắng tập 40](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040)
-- [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
+- [![Inter Milan](https://img.shields.io/static/v1?label=Inter%20Milan&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter%20Milan)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Lee Jong Suk](https://img.shields.io/static/v1?label=Lee%20Jong%20Suk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Jong%20Suk)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
@@ -67,7 +68,6 @@
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
-- [![Vietnamairlines](https://img.shields.io/static/v1?label=Vietnamairlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietnamairlines)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Tự ý đập xây không phép trong khu trụ sở các hội của tỉnh Khánh Hòa](https://tuoitre.vn/tu-y-dap-xay-khong-phep-trong-khu-tru-so-cac-hoi-cua-tinh-khanh-hoa-20210315211046053.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Triệt phá thêm ổ nhóm chuyên 'làm luật' ở vùng biển Cẩm Phả](https://tuoitre.vn/triet-pha-them-o-nhom-chuyen-lam-luat-o-vung-bien-cam-pha-20210315220726026.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [TP.HCM khoan lỗ lắp cảm biến để quản lý thu phí đậu xe](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/tp-hcm-khoan-lo-lap-cam-bien-de-quan-ly-thu-phi-dau-xe-719865.html) ([VietNamNet](https://vietnamnet.vn))
 - [5 huyện ngoại thành ở TPHCM sẽ lên quận trong 10 năm tới](https://laodong.vn/xa-hoi/5-huyen-ngoai-thanh-o-tphcm-se-len-quan-trong-10-nam-toi-889452.ldo) ([Lao Động](https://laodong.vn))
@@ -84,7 +85,6 @@
 - [Nỗi ám ảnh khi mang căn bệnh mở mắt ra là nhà cửa lộn ngược: Đang có xu hướng gia tăng, ai cũng có thể mắc](https://cafebiz.vn/noi-am-anh-khi-mang-can-benh-mo-mat-ra-la-nha-cua-lon-nguoc-dang-co-xu-huong-gia-tang-ai-cung-co-the-mac-20210315162906151.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bộ Văn hoá ra văn bản nhắc nhở sau cảnh chen lấn tại chùa Tam Chúc](https://laodong.vn/van-hoa-giai-tri/bo-van-hoa-ra-van-ban-nhac-nho-sau-canh-chen-lan-tai-chua-tam-chuc-889434.ldo) ([Lao Động](https://laodong.vn))
 - [Nữ giáo viên dạy tiếng Anh hết lòng vì sự nghiệp trồng người](https://cafebiz.vn/nu-giao-vien-day-tieng-anh-het-long-vi-su-nghiep-trong-nguoi-20210315190058895.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tháo gỡ khó khăn, bảo đảm tiến độ 12 công trình tổ chức SEA Games 31](https://laodong.vn/thoi-su/thao-go-kho-khan-bao-dam-tien-do-12-cong-trinh-to-chuc-sea-games-31-889447.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
