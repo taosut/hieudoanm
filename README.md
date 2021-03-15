@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 26.23°C.
-- Air Visual is 131.
+- Feels Like 26.67°C.
+- Air Visual is 103.
 
 **WEATHER**
 
@@ -49,8 +49,9 @@
 **GOOGLE TRENDS**
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
-- [![Arsenal vs Tottenham](https://img.shields.io/static/v1?label=Arsenal%20vs%20Tottenham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal%20vs%20Tottenham)
-- [![Brave Girl](https://img.shields.io/static/v1?label=Brave%20Girl&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Brave%20Girl)
+- [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
+- [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
+- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Grammy 2021](https://img.shields.io/static/v1?label=Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Grammy%202021)
 - [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
 - [![Hòa Minzy](https://img.shields.io/static/v1?label=H%C3%B2a%20Minzy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C3%B2a%20Minzy)
@@ -61,7 +62,6 @@
 - [![Leicester City](https://img.shields.io/static/v1?label=Leicester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester%20City)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
 - [![Lý Nhã Kỳ](https://img.shields.io/static/v1?label=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3)
-- [![MU](https://img.shields.io/static/v1?label=MU&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Bộ Công Thương: Cắt giảm năng lượng tái tạo là tình huống bắt buộc](https://laodong.vn/kinh-te/bo-cong-thuong-cat-giam-nang-luong-tai-tao-la-tinh-huong-bat-buoc-889358.ldo) ([Lao Động](https://laodong.vn))
+- [Cơ quan thuộc Chính phủ phải kiểm toán nội bộ](https://laodong.vn/kinh-te/co-quan-thuoc-chinh-phu-phai-kiem-toan-noi-bo-889357.ldo) ([Lao Động](https://laodong.vn))
+- [Lập phương án phân luồng khách đến chùa Tam Chúc](https://vnexpress.net/lap-phuong-an-phan-luong-khach-den-chua-tam-chuc-4248621.html) ([VNExpress](https://vnexpress.net))
+- [Jack Ma "ngã ngựa", Elon Musk thành "siêu anh hùng" với người Trung Quốc](https://cafebiz.vn/jack-ma-nga-ngua-elon-musk-thanh-sieu-anh-hung-voi-nguoi-trung-quoc-20210315164453015.chn) ([CafeBiz](https://cafebiz.vn))
+- [Singapore và Australia tính mở "bong bóng du lịch" hàng không](https://cafebiz.vn/singapore-va-australia-tinh-mo-bong-bong-du-lich-hang-khong-20210315164701042.chn) ([CafeBiz](https://cafebiz.vn))
+- [CEO Nguyễn Mạnh Toàn : Cứ làm nhiệt tình, người khác sẽ ghi nhận](https://cafebiz.vn/ceo-nguyen-manh-toan-cu-lam-nhiet-tinh-nguoi-khac-se-ghi-nhan-20210315160819345.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mua sắm ở kênh online như tại cửa hàng truyền thống: Lời khuyên nào cho doanh nghiệp](https://cafebiz.vn/mua-sam-o-kenh-online-nhu-tai-cua-hang-truyen-thong-loi-khuyen-nao-cho-doanh-nghiep-20210315121127784.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tây Ban Nha thử nghiệm tuần làm việc 4 ngày](https://laodong.vn/the-gioi/tay-ban-nha-thu-nghiem-tuan-lam-viec-4-ngay-889347.ldo) ([Lao Động](https://laodong.vn))
+- [Xôn xao hình ảnh lớp học trở thành tỷ phú tương lai: Cả trăm người tay cầm chai nước, co quắp 1 chân, cùng hô vang khẩu hiệu quyết tâm làm giàu](https://cafebiz.vn/xon-xao-hinh-anh-lop-hoc-tro-thanh-ty-phu-tuong-lai-ca-tram-nguoi-tay-cam-chai-nuoc-co-quap-1-chan-cung-ho-vang-khau-hieu-quyet-tam-lam-giau-20210315172828917.chn) ([CafeBiz](https://cafebiz.vn))
+- [70 hộ dân ở Quảng Nam gặp khó khăn vì cầu treo bị cuốn trôi](https://laodong.vn/ban-doc/70-ho-dan-o-quang-nam-gap-kho-khan-vi-cau-treo-bi-cuon-troi-889311.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -124,13 +133,13 @@
 01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 02. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 03. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
-04. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
-05. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
-06. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-07. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
-08. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
-09. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
-10. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+04. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
+05. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+06. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
+07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
+08. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
+09. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+10. [Hồ Núi Cốc - tai nạn 23 diễn viên và nhà Bác Giáp](https://www.youtube.com/watch?v=yneAHBokSD4) - [Challenge Me - Hãy Thách Thức Tôi](https://www.youtube.com/channel/UCkG3QIDOyl6HF7EYudJ3JJg)
 
 [Read More](https://www.youtube.com/feed/trending)
 
