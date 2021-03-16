@@ -237,7 +237,7 @@ class Banks extends React.Component<Props, State> {
                 id="customFile"
                 accept="image/*"
                 capture="capture"
-                onChange={this.processFiles}
+                onChange={this.uploadBankImage}
               />
               <label className="custom-file-label" htmlFor="customFile">
                 {filename}
