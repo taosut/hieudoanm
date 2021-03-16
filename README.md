@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 26.35°C.
-- Air Visual is 96.
+- Feels Like 25.04°C.
+- Air Visual is 97.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Mỹ loại bỏ thiết bị viễn thông xuất xứ Trung Quốc](https://cafebiz.vn/my-loai-bo-thiet-bi-vien-thong-xuat-xu-trung-quoc-20210316184004211.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đắk Nông: Cháu bé 3 tháng tuổi bị bỏ rơi trước nhà dân](https://laodong.vn/xa-hoi/dak-nong-chau-be-3-thang-tuoi-bi-bo-roi-truoc-nha-dan-889769.ldo) ([Lao Động](https://laodong.vn))
 - ["Ơ, mình vào đây làm gì nhỉ": Tại sao bước qua một ô cửa có thể khiến bạn bị đãng trí?](https://cafebiz.vn/o-minh-vao-day-lam-gi-nhi-tai-sao-buoc-qua-mot-o-cua-co-the-khien-ban-bi-dang-tri-20210316210324542.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đá Phong Thủy Quý Thảo và mong muốn lan tỏa giá trị tới khách hàng](https://cafebiz.vn/da-phong-thuy-quy-thao-va-mong-muon-lan-toa-gia-tri-toi-khach-hang-20210316171002525.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giải mã bóng ma bí ẩn ám ảnh người Mỹ 300 năm qua](https://laodong.vn/the-gioi/giai-ma-bong-ma-bi-an-am-anh-nguoi-my-300-nam-qua-889782.ldo) ([Lao Động](https://laodong.vn))
 - [Bốn tàu Metro Số 1 sắp về TP HCM](https://vnexpress.net/bon-tau-metro-so-1-sap-ve-tp-hcm-4249449.html) ([VNExpress](https://vnexpress.net))
 - [Phụ huynh căng thẳng tìm lò luyện thi cho con vào lớp 10](https://laodong.vn/giao-duc/phu-huynh-cang-thang-tim-lo-luyen-thi-cho-con-vao-lop-10-889627.ldo) ([Lao Động](https://laodong.vn))
 - [Quảng Ngãi: Ký kết chương trình “75 nghìn sáng kiến, vượt khó, phát triển”](https://laodong.vn/cong-doan/quang-ngai-ky-ket-chuong-trinh-75-nghin-sang-kien-vuot-kho-phat-trien-889773.ldo) ([Lao Động](https://laodong.vn))
 - [Thế giới đang phụ thuộc vào chíp Đài Loan như thế nào?](https://cafebiz.vn/the-gioi-dang-phu-thuoc-vao-chip-dai-loan-nhu-the-nao-20210316202009012.chn) ([CafeBiz](https://cafebiz.vn))
 - [Rửa mũi nhầm bằng cồn 90 độ, bé 5 tháng tuổi bị bỏng niêm mạc: BS gửi lời cảnh báo cho tất cả các bố mẹ](https://cafebiz.vn/rua-mui-nham-bang-con-90-do-be-5-thang-tuoi-bi-bong-niem-mac-bs-gui-loi-canh-bao-cho-tat-ca-cac-bo-me-20210316190928488.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quảng Nam: Gần 12 nghìn vị trí việc làm cần tuyển lao động](https://laodong.vn/cong-doan/quang-nam-gan-12-nghin-vi-tri-viec-lam-can-tuyen-lao-dong-889760.ldo) ([Lao Động](https://laodong.vn))
-- [Khánh Hòa: &quot;Giải cứu&quot; gần 40 tấn bưởi da xanh cho người dân miền núi](https://laodong.vn/xa-hoi/khanh-hoa-giai-cuu-gan-40-tan-buoi-da-xanh-cho-nguoi-dan-mien-nui-889751.ldo) ([Lao Động](https://laodong.vn))
-- [Chứng khoán: Tăng giảm đan xen, nhìn từng cổ phiếu tìm cơ hội lợi nhuận](https://laodong.vn/kinh-te/chung-khoan-tang-giam-dan-xen-nhin-tung-co-phieu-tim-co-hoi-loi-nhuan-889841.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
