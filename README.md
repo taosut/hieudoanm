@@ -19,7 +19,7 @@
 
 **CALENDAR**
 
-- Current weather is overcast clouds.
+- Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 25.63°C.
 - Air Visual is 111.
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Vì sao Stripe vượt qua SpaceX để trở thành 'kỳ lân công nghệ' lớn thứ 3 thế giới?](https://cafebiz.vn/vi-sao-stripe-vuot-qua-spacex-de-tro-thanh-ky-lan-cong-nghe-lon-thu-3-the-gioi-20210316183840474.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cô gái mang của hồi môn của bà nội đến chương trình thẩm định: Giống hệt món đồ quý trong lăng mộ Từ Hi Thái hậu](https://cafebiz.vn/co-gai-mang-cua-hoi-mon-cua-ba-noi-den-chuong-trinh-tham-dinh-giong-het-mon-do-quy-trong-lang-mo-tu-hi-thai-hau-20210316190340759.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội Watabe &quot;rơi&quot; chiến thắng trong ngày khai mạc U19 nữ Quốc gia 2021](https://laodong.vn/bong-da/ha-noi-watabe-roi-chien-thang-trong-ngay-khai-mac-u19-nu-quoc-gia-2021-889830.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Ninh: 11 đối tượng sát phạt trên sới bạc bị Công an tóm gọn](https://laodong.vn/phap-luat/quang-ninh-11-doi-tuong-sat-phat-tren-soi-bac-bi-cong-an-tom-gon-889804.ldo) ([Lao Động](https://laodong.vn))
+- [Mới phá kỷ lục hồi tuần trước, Bitcoin lại "rơi thẳng đứng"](https://cafebiz.vn/moi-pha-ky-luc-hoi-tuan-truoc-bitcoin-lai-roi-thang-dung-20210316184948036.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hơn 90 người ngộ độc thực phẩm ở Lai Châu](https://vnexpress.net/hon-90-nguoi-ngo-doc-thuc-pham-o-lai-chau-4249443.html) ([VNExpress](https://vnexpress.net))
+- [Nối lại việc tìm kiếm nạn nhân ở thủy điện Rào Trăng 3](https://laodong.vn/xa-hoi/noi-lai-viec-tim-kiem-nan-nhan-o-thuy-dien-rao-trang-3-889834.ldo) ([Lao Động](https://laodong.vn))
+- [Đổi thẻ bảo hiểm y tế mới 'không phát sinh chi phí'](https://vnexpress.net/doi-the-bao-hiem-y-te-moi-khong-phat-sinh-chi-phi-4249450.html) ([VNExpress](https://vnexpress.net))
+- [WHO lên tiếng việc sử dụng hộ chiếu vaccine điện tử](https://laodong.vn/the-gioi/who-len-tieng-viec-su-dung-ho-chieu-vaccine-dien-tu-889823.ldo) ([Lao Động](https://laodong.vn))
+- [Nam Anh - Nam Em có đủ lực để thi Hoa hậu Hoàn vũ 2021 sau ồn ào?](https://laodong.vn/giai-tri/nam-anh-nam-em-co-du-luc-de-thi-hoa-hau-hoan-vu-2021-sau-on-ao-889835.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
