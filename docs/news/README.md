@@ -1,5 +1,6 @@
 # News
 
+- [Sau chăn lợn, Huawei sẽ "nuôi cá và trồng thêm rau"](https://cafebiz.vn/sau-chan-lon-huawei-se-nuoi-ca-va-trong-them-rau-2021031620232832.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mỹ loại bỏ thiết bị viễn thông xuất xứ Trung Quốc](https://cafebiz.vn/my-loai-bo-thiet-bi-vien-thong-xuat-xu-trung-quoc-20210316184004211.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đắk Nông: Cháu bé 3 tháng tuổi bị bỏ rơi trước nhà dân](https://laodong.vn/xa-hoi/dak-nong-chau-be-3-thang-tuoi-bi-bo-roi-truoc-nha-dan-889769.ldo) ([Lao Động](https://laodong.vn))
 - ["Ơ, mình vào đây làm gì nhỉ": Tại sao bước qua một ô cửa có thể khiến bạn bị đãng trí?](https://cafebiz.vn/o-minh-vao-day-lam-gi-nhi-tai-sao-buoc-qua-mot-o-cua-co-the-khien-ban-bi-dang-tri-20210316210324542.chn) ([CafeBiz](https://cafebiz.vn))
@@ -93,10 +94,9 @@
 - [Ông Đinh Anh Huân làm gì để chiêu mộ ông Ngô Nguyên Kha về làm CEO mảng thời trang ở Seedcom?](https://cafebiz.vn/ong-dinh-anh-huan-lam-gi-de-chieu-mo-ong-ngo-nguyen-kha-roi-vingroup-ve-lam-ceo-mang-thoi-trang-o-seedcom-20210316112352303.chn) ([CafeBiz](https://cafebiz.vn))
 - [Người nghèo chèo thuyền, người giàu sắm cánh buồm: Hiểu được điều này, bạn sẽ tìm được cách kiếm được nhiều tiền hơn](https://cafebiz.vn/nguoi-ngheo-cheo-thuyen-nguoi-giau-sam-canh-buom-hieu-duoc-dieu-nay-ban-se-tim-duoc-cach-kiem-duoc-nhieu-tien-hon-20210316150535104.chn) ([CafeBiz](https://cafebiz.vn))
 - [Ghi dấu ấn với nhà tuyển dụng bằng thư cảm ơn như thế nào cho ấn tượng mạnh?](https://cafebiz.vn/ghi-dau-an-voi-nha-tuyen-dung-bang-thu-cam-on-nhu-the-nao-cho-an-tuong-manh-20210316150534634.chn) ([CafeBiz](https://cafebiz.vn))
-- [Condotel sắp thoái trào?](https://cafebiz.vn/condotel-sap-thoai-trao-20210316150243893.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cảm xúc của các chiến sĩ &quot;mũ nồi xanh&quot; đầu tiên được tiêm vaccine COVID-19](https://laodong.vn/video/cam-xuc-cua-cac-chien-si-mu-noi-xanh-dau-tien-duoc-tiem-vaccine-covid-19-889642.ldo) ([Lao Động](https://laodong.vn))
-- [TP.HCM: Hàng trăm xe cũ nát, xe tự chế bị xử phạt](http://vietnamnet.vn/vn/thoi-su/tp-hcm-hang-tram-xe-cu-nat-xe-tu-che-bi-xu-phat-719995.html) ([VietNamNet](https://vietnamnet.vn))
-- [Máy đo huyết áp đeo cổ tay Aktiia đã đạt chuẩn CE Mark để bán tại Châu Âu, FDA đang phê duyệt](https://tinhte.vn/thread/may-do-huyet-ap-deo-co-tay-aktiia-da-dat-chuan-ce-mark-de-ban-tai-chau-au-fda-dang-phe-duyet.3294133/) ([Tinh Tế](https://tinhte.vn))
+- [Xiaomi Black Shark 4 sẽ ra mắt vào 23/3 tới](https://tinhte.vn/thread/xiaomi-black-shark-4-se-ra-mat-vao-23-3-toi.3294303/) ([Tinh Tế](https://tinhte.vn))
 - [5 điều cần lưu ý khi sử dụng laptop công ty cấp](https://tinhte.vn/thread/5-dieu-can-luu-y-khi-su-dung-laptop-cong-ty-cap.3292106/) ([Tinh Tế](https://tinhte.vn))
-- [Qualcomm sẽ ra mắt CPU tùy biến cho laptop vào năm sau với hiệu năng hứa hẹn cực mạnh?](https://tinhte.vn/thread/qualcomm-se-ra-mat-cpu-tuy-bien-cho-laptop-vao-nam-sau-voi-hieu-nang-hua-hen-cuc-manh.3294392/) ([Tinh Tế](https://tinhte.vn))
+- [Condotel sắp thoái trào?](https://cafebiz.vn/condotel-sap-thoai-trao-20210316150243893.chn) ([CafeBiz](https://cafebiz.vn))
+- [[Podcast] Trò chuyện xung quanh dòng Galaxy A 2021 và những gì rò rỉ trước thềm Unpacked](https://tinhte.vn/thread/podcast-tro-chuyen-xung-quanh-dong-galaxy-a-2021-va-nhung-gi-ro-ri-truoc-them-unpacked.3294445/) ([Tinh Tế](https://tinhte.vn))
 - [Trải nghiệm Zalo PC: Công cụ hỗ trợ trao đổi, thảo luận từ xa hiệu quả](https://tinhte.vn/thread/trai-nghiem-zalo-pc-cong-cu-ho-tro-trao-doi-thao-luan-tu-xa-hieu-qua.3283182/) ([Tinh Tế](https://tinhte.vn))
+- [Những mẫu xe dưới 100 triệu có ABS 2 kênh đang bán tại Việt Nam](https://tinhte.vn/thread/nhung-mau-xe-duoi-100-trieu-co-abs-2-kenh-dang-ban-tai-viet-nam.3293642/) ([Tinh Tế](https://tinhte.vn))

@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Sau chăn lợn, Huawei sẽ "nuôi cá và trồng thêm rau"](https://cafebiz.vn/sau-chan-lon-huawei-se-nuoi-ca-va-trong-them-rau-2021031620232832.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mỹ loại bỏ thiết bị viễn thông xuất xứ Trung Quốc](https://cafebiz.vn/my-loai-bo-thiet-bi-vien-thong-xuat-xu-trung-quoc-20210316184004211.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đắk Nông: Cháu bé 3 tháng tuổi bị bỏ rơi trước nhà dân](https://laodong.vn/xa-hoi/dak-nong-chau-be-3-thang-tuoi-bi-bo-roi-truoc-nha-dan-889769.ldo) ([Lao Động](https://laodong.vn))
 - ["Ơ, mình vào đây làm gì nhỉ": Tại sao bước qua một ô cửa có thể khiến bạn bị đãng trí?](https://cafebiz.vn/o-minh-vao-day-lam-gi-nhi-tai-sao-buoc-qua-mot-o-cua-co-the-khien-ban-bi-dang-tri-20210316210324542.chn) ([CafeBiz](https://cafebiz.vn))
@@ -84,7 +85,6 @@
 - [Phụ huynh căng thẳng tìm lò luyện thi cho con vào lớp 10](https://laodong.vn/giao-duc/phu-huynh-cang-thang-tim-lo-luyen-thi-cho-con-vao-lop-10-889627.ldo) ([Lao Động](https://laodong.vn))
 - [Quảng Ngãi: Ký kết chương trình “75 nghìn sáng kiến, vượt khó, phát triển”](https://laodong.vn/cong-doan/quang-ngai-ky-ket-chuong-trinh-75-nghin-sang-kien-vuot-kho-phat-trien-889773.ldo) ([Lao Động](https://laodong.vn))
 - [Thế giới đang phụ thuộc vào chíp Đài Loan như thế nào?](https://cafebiz.vn/the-gioi-dang-phu-thuoc-vao-chip-dai-loan-nhu-the-nao-20210316202009012.chn) ([CafeBiz](https://cafebiz.vn))
-- [Rửa mũi nhầm bằng cồn 90 độ, bé 5 tháng tuổi bị bỏng niêm mạc: BS gửi lời cảnh báo cho tất cả các bố mẹ](https://cafebiz.vn/rua-mui-nham-bang-con-90-do-be-5-thang-tuoi-bi-bong-niem-mac-bs-gui-loi-canh-bao-cho-tat-ca-cac-bo-me-20210316190928488.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
