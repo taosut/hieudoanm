@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 22°C.
-- Feels Like 24.54°C.
-- Air Visual is 91.
+- Temperature is 23°C.
+- Feels Like 26.45°C.
+- Air Visual is 112.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tương ớt Chin-su ghi dấu ấn trong triển lãm thực phẩm và đồ uống quốc tế tại Nhật](https://cafebiz.vn/tuong-ot-chin-su-ghi-dau-an-trong-trien-lam-thuc-pham-va-do-uong-quoc-te-tai-nhat-20210315190015978.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tướng chủ trì Hội nghị trực tuyến tổng kết 5 năm Tổ công tác](https://laodong.vn/thoi-su/thu-tuong-chu-tri-hoi-nghi-truc-tuyen-tong-ket-5-nam-to-cong-tac-889550.ldo) ([Lao Động](https://laodong.vn))
-- [Xây 'chui', bán hơn 200 biệt thự không phép xong mới đi hỏi thủ tục](https://cafebiz.vn/xay-chui-ban-hon-200-biet-thu-khong-phep-xong-moi-di-hoi-thu-tuc-20210316095615302.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thực hiện miễn, giảm tiền sử dụng đất dựa trên nguyên tắc nào?](https://laodong.vn/bat-dong-san/thuc-hien-mien-giam-tien-su-dung-dat-dua-tren-nguyen-tac-nao-889339.ldo) ([Lao Động](https://laodong.vn))
-- [Báo cáo Thống đốc Ngân hàng vụ nhân viên VIB chiếm dụng tiền khách hàng](https://laodong.vn/phap-luat/bao-cao-thong-doc-ngan-hang-vu-nhan-vien-vib-chiem-dung-tien-khach-hang-889522.ldo) ([Lao Động](https://laodong.vn))
-- [Triều Tiên lần đầu lên tiếng về chính quyền ông Biden](https://laodong.vn/the-gioi/trieu-tien-lan-dau-len-tieng-ve-chinh-quyen-ong-biden-889526.ldo) ([Lao Động](https://laodong.vn))
-- [Lo người đông như chùa Tam Chúc, Bạc Liêu siết quy định dịp Thanh minh](https://laodong.vn/xa-hoi/lo-nguoi-dong-nhu-chua-tam-chuc-bac-lieu-siet-quy-dinh-dip-thanh-minh-889506.ldo) ([Lao Động](https://laodong.vn))
-- [Real Madrid: 300 triệu Euro chỉ mua nổi... 35 bàn thắng](https://laodong.vn/bong-da-quoc-te/real-madrid-300-trieu-euro-chi-mua-noi-35-ban-thang-889531.ldo) ([Lao Động](https://laodong.vn))
-- [Xét xử vụ thuê khách sạn đón nhiều người Trung Quốc ở ‘chui’, lập nhóm chat trốn công an](https://tuoitre.vn/xet-xu-vu-thue-khach-san-don-nhieu-nguoi-trung-quoc-o-chui-lap-nhom-chat-tron-cong-an-20210316092604505.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Xe khách tông đuôi xe đầu kéo, 21 người nhập viện](https://vnexpress.net/xe-khach-tong-duoi-xe-dau-keo-21-nguoi-nhap-vien-4249025.html) ([VNExpress](https://vnexpress.net))
+- [Trung Quốc trấn áp cát tặc trên sông Dương Tử](https://laodong.vn/the-gioi/trung-quoc-tran-ap-cat-tac-tren-song-duong-tu-889557.ldo) ([Lao Động](https://laodong.vn))
+- [Giật mình thấy con nói giọng búp bê, chui gầm ô tô do bắt chước video Youtube](https://cafebiz.vn/giat-minh-thay-con-noi-giong-bup-be-chui-gam-o-to-do-bat-chuoc-video-youtube-20210316103057801.chn) ([CafeBiz](https://cafebiz.vn))
+- [Truy thu thuế 10.000 kênh YouTube: Phải có nền tảng công nghệ  và nhân lực chất lượng cao](https://laodong.vn/kinh-te/truy-thu-thue-10000-kenh-youtube-phai-co-nen-tang-cong-nghe-va-nhan-luc-chat-luong-cao-889399.ldo) ([Lao Động](https://laodong.vn))
+- [Bất ngờ với công dụng giảm cân từ hoa đậu biếc](https://laodong.vn/lam-dep/bat-ngo-voi-cong-dung-giam-can-tu-hoa-dau-biec-889278.ldo) ([Lao Động](https://laodong.vn))
+- [Alibaba.com cam kết hỗ trợ 10.000 doanh nghiệp Việt](https://laodong.vn/doanh-nghiep-doanh-nhan/alibabacom-cam-ket-ho-tro-10000-doanh-nghiep-viet-889566.ldo) ([Lao Động](https://laodong.vn))
+- [Hình ảnh những chiến sĩ &quot;mũ nồi xanh&quot; đầu tiên tiêm vaccine COVID-19](https://laodong.vn/photo/hinh-anh-nhung-chien-si-mu-noi-xanh-dau-tien-tiem-vaccine-covid-19-889523.ldo) ([Lao Động](https://laodong.vn))
+- [Quyên góp từ thiện 1,8 tỷ USD nhưng lại để con trai "phú nhị đại" làm công nhân: Cách dạy con nghiêm khắc của ông vua ngành kính Trung Quốc, không phải cha mẹ nào cũng dám "xuống tay"](https://cafebiz.vn/quyen-gop-tu-thien-18-ty-usd-nhung-lai-de-con-trai-phu-nhi-dai-lam-cong-nhan-cach-day-con-nghiem-khac-cua-ong-vua-nganh-kinh-trung-quoc-khong-phai-cha-me-nao-cung-dam-xuong-tay-20210316102642072.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá vàng và ngoại tệ 16.3: Vàng thế giới tăng nhẹ, USD vẫn giữ đà đi lên](https://laodong.vn/video/gia-vang-va-ngoai-te-163-vang-the-gioi-tang-nhe-usd-van-giu-da-di-len-889517.ldo) ([Lao Động](https://laodong.vn))
+- [Bà Dương Thị Bạch Diệp: Từ nữ đại gia bất động sản đến vòng lao lý](https://laodong.vn/video/ba-duong-thi-bach-diep-tu-nu-dai-gia-bat-dong-san-den-vong-lao-ly-889352.ldo) ([Lao Động](https://laodong.vn))
+- [Gần một năm về xã, công an chính quy bắt giữ hơn 32.000 đối tượng vi phạm](http://vietnamnet.vn/vn/thoi-su/chinh-tri/gan-mot-nam-ve-xa-cong-an-chinh-quy-bat-giu-hon-32-000-doi-tuong-vi-pham-719938.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
