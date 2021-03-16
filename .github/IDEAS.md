@@ -19,7 +19,7 @@ Ideas for [LinkedIn Post](https://www.linkedin.com/feed) and [BizFly Cloud Tech 
 - cli (command line interface)
 - docs
 - examples
-- functions (serverless)
+- f
 - github
 - h
 - images
