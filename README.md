@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 25.76°C.
-- Air Visual is 100.
+- Feels Like 25.04°C.
+- Air Visual is 109.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tiêm vaccine COVID-19 tại Long An sau 5 ngày: Không ghi nhận biến chứng](https://laodong.vn/xa-hoi/tiem-vaccine-covid-19-tai-long-an-sau-5-ngay-khong-ghi-nhan-bien-chung-889747.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ ông Dũng “lò vôi” mong kết thúc lùm xùm để trở lại công việc thường ngày](https://laodong.vn/xa-hoi/vo-ong-dung-lo-voi-mong-ket-thuc-lum-xum-de-tro-lai-cong-viec-thuong-ngay-889685.ldo) ([Lao Động](https://laodong.vn))
-- [Mọi sáng kiến đều đáng quý](https://laodong.vn/cong-doan/moi-sang-kien-deu-dang-quy-889711.ldo) ([Lao Động](https://laodong.vn))
-- [Cập nhật: Nam Định và 11 tỉnh, thành công bố môn thi, lịch thi lớp 10](https://laodong.vn/giao-duc/cap-nhat-nam-dinh-va-11-tinh-thanh-cong-bo-mon-thi-lich-thi-lop-10-889177.ldo) ([Lao Động](https://laodong.vn))
-- [Cổ phiếu của Viglacera Từ Sơn bị hủy niêm yết do thua lỗ kéo dài](https://laodong.vn/kinh-te/co-phieu-cua-viglacera-tu-son-bi-huy-niem-yet-do-thua-lo-keo-dai-889715.ldo) ([Lao Động](https://laodong.vn))
-- [Bạc Liêu cho phép người thân vào khu cách ly chăm sóc 26 trẻ về từ Hàn Quốc](https://tuoitre.vn/bac-lieu-cho-phep-nguoi-than-vao-khu-cach-ly-cham-soc-26-tre-ve-tu-han-quoc-2021031617074286.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [YouTuber Thơ Nguyễn bị phạt 7,5 triệu đồng](https://vnexpress.net/youtuber-tho-nguyen-bi-phat-7-5-trieu-dong-4249407.html) ([VNExpress](https://vnexpress.net))
-- [Giáng chức cục trưởng Cục thi hành án dân sự TP.HCM xuống cục phó](https://tuoitre.vn/giang-chuc-cuc-truong-cuc-thi-hanh-an-dan-su-tp-hcm-xuong-cuc-pho-20210316171618517.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Lãnh đạo TP.HCM thăm công viên phần mềm Quang Trung](https://tuoitre.vn/lanh-dao-tphcm-tham-cong-vien-phan-mem-quang-trung-20210316172444125.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Ban quản lý đường sắt đô thị TP HCM bị phê bình](https://vnexpress.net/ban-quan-ly-duong-sat-do-thi-tp-hcm-bi-phe-binh-4249219.html) ([VNExpress](https://vnexpress.net))
+- [TP HCM phạt 200 tài xế vi phạm nồng độ cồn](https://vnexpress.net/tp-hcm-phat-200-tai-xe-vi-pham-nong-do-con-4248955.html) ([VNExpress](https://vnexpress.net))
+- [BIDV khen thưởng lực lượng công an, bộ đội, bảo vệ tham gia bắt cướp](https://laodong.vn/kinh-te/bidv-khen-thuong-luc-luong-cong-an-bo-doi-bao-ve-tham-gia-bat-cuop-889721.ldo) ([Lao Động](https://laodong.vn))
+- [Dịch vụ ngân hàng số thế hệ mới của BIDV sắp lộ diện](https://laodong.vn/kinh-te/dich-vu-ngan-hang-so-the-he-moi-cua-bidv-sap-lo-dien-889728.ldo) ([Lao Động](https://laodong.vn))
+- [HLV Troussier: &quot;Tôi coi huấn luyện viên ở các câu lạc bộ là trợ lý&quot;](https://laodong.vn/bong-da/hlv-troussier-toi-coi-huan-luyen-vien-o-cac-cau-lac-bo-la-tro-ly-889724.ldo) ([Lao Động](https://laodong.vn))
+- ["Tạm biệt các em": YouTuber Thơ Nguyễn bị xử phạt 7,5 triệu đồng sau clip dùng búp bê kumathong xin vía học giỏi cho các em nhỏ](https://cafebiz.vn/tam-biet-cac-em-youtuber-tho-nguyen-bi-xu-phat-75-trieu-dong-sau-clip-dung-bup-be-kumathong-xin-via-hoc-gioi-cho-cac-em-nho-20210316182717352.chn) ([CafeBiz](https://cafebiz.vn))
+- [APCI2020: Vì một nền hành chính minh bạch, không “chi phí gầm bàn&quot;](https://laodong.vn/kinh-te/apci2020-vi-mot-nen-hanh-chinh-minh-bach-khong-chi-phi-gam-ban-889752.ldo) ([Lao Động](https://laodong.vn))
+- [Chiều 16-3, thêm 1 bệnh nhân COVID-19 mới tại Hải Dương](https://tuoitre.vn/chieu-16-3-them-1-benh-nhan-covid-19-moi-tai-hai-duong-20210316181314293.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Công nhân tập huấn sơ cấp cứu cho đồng nghiệp phòng khi xảy ra tai nạn](https://laodong.vn/ldld-binh-phuoc/cong-nhan-tap-huan-so-cap-cuu-cho-dong-nghiep-phong-khi-xay-ra-tai-nan-889756.ldo) ([Lao Động](https://laodong.vn))
+- [Hành khách bỏ quên hơn 300 triệu đồng trên máy bay](https://vnexpress.net/hanh-khach-bo-quen-hon-300-trieu-dong-tren-may-bay-4249435.html) ([VNExpress](https://vnexpress.net))
+- [8.100m2 đất vàng Cung Thiếu nhi sẽ làm gì? Giao cho ai?](https://laodong.vn/su-kien-binh-luan/8100m2-dat-vang-cung-thieu-nhi-se-lam-gi-giao-cho-ai-889507.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -136,8 +136,8 @@
 04. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
 05. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 06. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
-07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
-08. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+07. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+08. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
 09. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 10. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
 
