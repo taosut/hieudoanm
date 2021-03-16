@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 23°C.
 - Feels Like 25.53°C.
-- Air Visual is 122.
+- Air Visual is 116.
 
 **WEATHER**
 
@@ -51,7 +51,9 @@
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![BTS Grammy 2021](https://img.shields.io/static/v1?label=BTS%20Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=BTS%20Grammy%202021)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
+- [![Chua Tam truc](https://img.shields.io/static/v1?label=Chua%20Tam%20truc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chua%20Tam%20truc)
 - [![Di Maria](https://img.shields.io/static/v1?label=Di%20Maria&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%20Maria)
+- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Grammy 2021](https://img.shields.io/static/v1?label=Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Grammy%202021)
 - [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
 - [![Hoàng Anh Gia Lai](https://img.shields.io/static/v1?label=Ho%C3%A0ng%20Anh%20Gia%20Lai&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ho%C3%A0ng%20Anh%20Gia%20Lai)
@@ -64,9 +66,7 @@
 - [![Lý Nhã Kỳ](https://img.shields.io/static/v1?label=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
-- [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
-- [![Ngô Thiến](https://img.shields.io/static/v1?label=Ng%C3%B4%20Thi%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20Thi%E1%BA%BFn)
-- [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
+- [![Trương Vũ Kiếm](https://img.shields.io/static/v1?label=Tr%C6%B0%C6%A1ng%20V%C5%A9%20Ki%E1%BA%BFm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%C6%B0%C6%A1ng%20V%C5%A9%20Ki%E1%BA%BFm)
 - [![Vietnamairlines](https://img.shields.io/static/v1?label=Vietnamairlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietnamairlines)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cà Mau: Có một trường hợp tự ứng cử ĐBQH, HĐND](https://laodong.vn/thoi-su/ca-mau-co-mot-truong-hop-tu-ung-cu-dbqh-hdnd-889575.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng: 1 người tự ứng cử Đại biểu Quốc hội và HĐND thành phố](https://laodong.vn/thoi-su/da-nang-1-nguoi-tu-ung-cu-dai-bieu-quoc-hoi-va-hdnd-thanh-pho-889601.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương: Học sinh nhiều địa phương vẫn chưa đi học sau ngày 18.3](https://laodong.vn/giao-duc/hai-duong-hoc-sinh-nhieu-dia-phuong-van-chua-di-hoc-sau-ngay-183-889605.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Giang: Bắt giữ 100kg thuốc bảo vệ thực vật và tân dược nghi nhập lậu](https://laodong.vn/kinh-te/ha-giang-bat-giu-100kg-thuoc-bao-ve-thuc-vat-va-tan-duoc-nghi-nhap-lau-889588.ldo) ([Lao Động](https://laodong.vn))
+- [Nâng cao kỹ năng truyền thông cho cán bộ công đoàn cơ sở](https://laodong.vn/cong-doan/nang-cao-ky-nang-truyen-thong-cho-can-bo-cong-doan-co-so-889521.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng Thái Lan tiêm vaccine của AstraZeneca, đánh tan nghi ngại](https://laodong.vn/the-gioi/thu-tuong-thai-lan-tiem-vaccine-cua-astrazeneca-danh-tan-nghi-ngai-889612.ldo) ([Lao Động](https://laodong.vn))
+- [Tài xế vi phạm nồng độ cồn còn đấm thượng uý cảnh sát giao thông](https://laodong.vn/phap-luat/tai-xe-vi-pham-nong-do-con-con-dam-thuong-uy-canh-sat-giao-thong-889614.ldo) ([Lao Động](https://laodong.vn))
+- [Hơn 65 triệu cổ phiếu đầu tiên chuẩn bị chuyển nhà từ HOSE sang HNX](https://laodong.vn/kinh-te/hon-65-trieu-co-phieu-dau-tien-chuan-bi-chuyen-nha-tu-hose-sang-hnx-889609.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Ngãi sẽ dừng chợ đêm sông Trà Khúc](https://vnexpress.net/quang-ngai-se-dung-cho-dem-song-tra-khuc-4248935.html) ([VNExpress](https://vnexpress.net))
+- [Bạc Liêu: Xin vào khu cách ly tập trung để chăm sóc con nhỏ](https://laodong.vn/ban-doc/bac-lieu-xin-vao-khu-cach-ly-tap-trung-de-cham-soc-con-nho-889548.ldo) ([Lao Động](https://laodong.vn))
+- [Bà Tân, Quỳnh Trần JP, mẹ quê trong "ẩm thực mẹ làm" - 3 bà mẹ youtuber hot nhất Việt Nam có thu nhâp khủng cỡ nào?](https://cafebiz.vn/ba-tan-quynh-tran-jp-me-que-trong-am-thuc-me-lam-3-ba-me-youtuber-hot-nhat-viet-nam-co-thu-nhap-khung-co-nao-20210315135823265.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phê bình nghiêm khắc lãnh đạo Ban quản lý đường sắt đô thị TP.HCM giai đoạn 2018-2019](https://tuoitre.vn/phe-binh-nghiem-khac-lanh-dao-ban-quan-ly-duong-sat-do-thi-tp-hcm-giai-doan-2018-2019-20210316105043286.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Đại gia Dũng lò vôi: Ông Võ Hoàng Yên "luôn tìm cách moi tiền của tôi", tượng phật nói 580 triệu, tôi mua chỉ 16 triệu đồng...](https://cafebiz.vn/dai-gia-dung-lo-voi-ong-vo-hoang-yen-luon-tim-cach-moi-tien-cua-toi-tuong-phat-noi-580-trieu-toi-mua-chi-16-trieu-dong-20210316112854656.chn) ([CafeBiz](https://cafebiz.vn))
-- [Liên Hợp Quốc kêu gọi thúc đẩy sự bình đẳng giới đối với phụ nữ](https://laodong.vn/the-gioi/lien-hop-quoc-keu-goi-thuc-day-su-binh-dang-gioi-doi-voi-phu-nu-889585.ldo) ([Lao Động](https://laodong.vn))
 - [Từ năm 2022, thu nhập dưới 2 triệu đồng/tháng ở thành phố là hộ nghèo](https://cafebiz.vn/tu-nam-2022-thu-nhap-duoi-2-trieu-dong-thang-o-thanh-pho-la-ho-ngheo-20210316112613594.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cựu đệ nhất phu nhân Mỹ Michelle Obama đưa ra lời khuyên cho vợ chồng Meghan Markle chỉ bằng 1 câu nói thâm thúy](https://cafebiz.vn/cuu-de-nhat-phu-nhan-my-michelle-obama-dua-ra-loi-khuyen-cho-vo-chong-meghan-markle-chi-bang-1-cau-noi-tham-thuy-20210316111811399.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tại sao đầu đũa dùng 1 lần lại khắc rãnh tròn?](https://cafebiz.vn/tai-sao-dau-dua-dung-1-lan-lai-khac-ranh-tron-20210316110818507.chn) ([CafeBiz](https://cafebiz.vn))
-- [“Sốt đất” ở Bắc Giang, thận trọng với những nơi “nhảy giá” từng ngày](https://cafebiz.vn/sot-dat-o-bac-giang-than-trong-voi-nhung-noi-nhay-gia-tung-ngay-20210316111720601.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
