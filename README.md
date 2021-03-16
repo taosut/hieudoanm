@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 25.04°C.
-- Air Visual is 97.
+- Feels Like 24.68°C.
+- Air Visual is 108.
 
 **WEATHER**
 
@@ -61,8 +61,8 @@
 - [![Lee Jong Suk](https://img.shields.io/static/v1?label=Lee%20Jong%20Suk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Jong%20Suk)
 - [![Lee Nguyễn](https://img.shields.io/static/v1?label=Lee%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Nguy%E1%BB%85n)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
-- [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
 - [![Lý Nhã Kỳ](https://img.shields.io/static/v1?label=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3)
+- [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
 - [![Ngô Thiến](https://img.shields.io/static/v1?label=Ng%C3%B4%20Thi%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20Thi%E1%BA%BFn)
@@ -75,6 +75,9 @@
 
 **NEWS**
 
+- [Cụ bà bán của hồi môn vì quá nghèo nhưng không ngờ giá trị thực lại gấp 40 lần, chân tướng khiến ai cũng "mất hồn mất vía"](https://cafebiz.vn/cu-ba-ban-cua-hoi-mon-vi-qua-ngheo-nhung-khong-ngo-gia-tri-thuc-lai-gap-40-lan-chan-tuong-khien-ai-cung-mat-hon-mat-via-2021031621124732.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đội quân của Tư Mã Ý xuất hiện 1 lão tướng, Gia Cát Lượng vừa nghe tin đã ngẩng mặt lên than trời: "Mệnh ta đến đây đã tận!"](https://cafebiz.vn/doi-quan-cua-tu-ma-y-xuat-hien-1-lao-tuong-gia-cat-luong-vua-nghe-tin-da-ngang-mat-len-than-troi-menh-ta-den-day-da-tan-20210316210838672.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thấy 5 điềm lành này xuất hiện trong nhà, gia chủ làm ăn vượng phát, tài lộc vô biên](https://cafebiz.vn/thay-5-diem-lanh-nay-xuat-hien-trong-nha-gia-chu-lam-an-vuong-phat-tai-loc-vo-bien-20210316210608051.chn) ([CafeBiz](https://cafebiz.vn))
 - [Sau chăn lợn, Huawei sẽ "nuôi cá và trồng thêm rau"](https://cafebiz.vn/sau-chan-lon-huawei-se-nuoi-ca-va-trong-them-rau-2021031620232832.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mỹ loại bỏ thiết bị viễn thông xuất xứ Trung Quốc](https://cafebiz.vn/my-loai-bo-thiet-bi-vien-thong-xuat-xu-trung-quoc-20210316184004211.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đắk Nông: Cháu bé 3 tháng tuổi bị bỏ rơi trước nhà dân](https://laodong.vn/xa-hoi/dak-nong-chau-be-3-thang-tuoi-bi-bo-roi-truoc-nha-dan-889769.ldo) ([Lao Động](https://laodong.vn))
@@ -82,9 +85,6 @@
 - [Đá Phong Thủy Quý Thảo và mong muốn lan tỏa giá trị tới khách hàng](https://cafebiz.vn/da-phong-thuy-quy-thao-va-mong-muon-lan-toa-gia-tri-toi-khach-hang-20210316171002525.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giải mã bóng ma bí ẩn ám ảnh người Mỹ 300 năm qua](https://laodong.vn/the-gioi/giai-ma-bong-ma-bi-an-am-anh-nguoi-my-300-nam-qua-889782.ldo) ([Lao Động](https://laodong.vn))
 - [Bốn tàu Metro Số 1 sắp về TP HCM](https://vnexpress.net/bon-tau-metro-so-1-sap-ve-tp-hcm-4249449.html) ([VNExpress](https://vnexpress.net))
-- [Phụ huynh căng thẳng tìm lò luyện thi cho con vào lớp 10](https://laodong.vn/giao-duc/phu-huynh-cang-thang-tim-lo-luyen-thi-cho-con-vao-lop-10-889627.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Ngãi: Ký kết chương trình “75 nghìn sáng kiến, vượt khó, phát triển”](https://laodong.vn/cong-doan/quang-ngai-ky-ket-chuong-trinh-75-nghin-sang-kien-vuot-kho-phat-trien-889773.ldo) ([Lao Động](https://laodong.vn))
-- [Thế giới đang phụ thuộc vào chíp Đài Loan như thế nào?](https://cafebiz.vn/the-gioi-dang-phu-thuoc-vao-chip-dai-loan-nhu-the-nao-20210316202009012.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
