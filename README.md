@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 26.45°C.
-- Air Visual is 112.
+- Feels Like 25.53°C.
+- Air Visual is 80.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Trung Quốc trấn áp cát tặc trên sông Dương Tử](https://laodong.vn/the-gioi/trung-quoc-tran-ap-cat-tac-tren-song-duong-tu-889557.ldo) ([Lao Động](https://laodong.vn))
+- [Tin bóng đá ngày 16.3: Zidane muốn tái ngộ Ronaldo](https://laodong.vn/bong-da-quoc-te/tin-bong-da-ngay-163-zidane-muon-tai-ngo-ronaldo-889562.ldo) ([Lao Động](https://laodong.vn))
+- [Thẻ BHYT mẫu cũ còn thời hạn sử dụng, tiếp tục được dùng để khám chữa bệnh](https://laodong.vn/xa-hoi/the-bhyt-mau-cu-con-thoi-han-su-dung-tiep-tuc-duoc-dung-de-kham-chua-benh-889576.ldo) ([Lao Động](https://laodong.vn))
+- [100% công nhân Seidensticker Hải Phòng đi làm trở lại](https://laodong.vn/cong-doan/100-cong-nhan-seidensticker-hai-phong-di-lam-tro-lai-889571.ldo) ([Lao Động](https://laodong.vn))
+- [Tiến sĩ Mỹ tiết lộ 'công thức vàng' để tính tuổi thọ: Hãy tính xem bạn có thể sống bao lâu?](https://cafebiz.vn/tien-si-my-tiet-lo-cong-thuc-vang-de-tinh-tuoi-tho-hay-tinh-xem-ban-co-the-song-bao-lau-20210316102924801.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thắng lớn với sữa bột cho trẻ thấp còi, NutiFood tổng tiến công mảng sữa tươi: Sữa hàm lượng đạm và béo cao ngang sữa ngoại, xây thành phố giả lập cho trẻ em](https://cafebiz.vn/thang-lon-voi-sua-bot-cho-tre-thap-coi-nutifood-tong-tien-cong-mang-sua-tuoi-sua-ham-luong-dam-va-beo-cao-ngang-sua-ngoai-xay-thanh-pho-gia-lap-cho-tre-em-20210315171348564.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bảng lương của giáo viên có bằng thạc sĩ từ 20.3.2021](https://laodong.vn/giao-duc/bang-luong-cua-giao-vien-co-bang-thac-si-tu-2032021-889574.ldo) ([Lao Động](https://laodong.vn))
+- [Bảng xếp hạng vòng 28 Ngoại hạng Anh: Man City băng băng về đích](https://laodong.vn/infographic/bang-xep-hang-vong-28-ngoai-hang-anh-man-city-bang-bang-ve-dich-889569.ldo) ([Lao Động](https://laodong.vn))
+- [Gạo Điện Biên &quot;xịn&quot; khó bán, doanh nghiệp loay hoay tìm lối ra](https://laodong.vn/video/gao-dien-bien-xin-kho-ban-doanh-nghiep-loay-hoay-tim-loi-ra-888961.ldo) ([Lao Động](https://laodong.vn))
 - [Giật mình thấy con nói giọng búp bê, chui gầm ô tô do bắt chước video Youtube](https://cafebiz.vn/giat-minh-thay-con-noi-giong-bup-be-chui-gam-o-to-do-bat-chuoc-video-youtube-20210316103057801.chn) ([CafeBiz](https://cafebiz.vn))
 - [Truy thu thuế 10.000 kênh YouTube: Phải có nền tảng công nghệ  và nhân lực chất lượng cao](https://laodong.vn/kinh-te/truy-thu-thue-10000-kenh-youtube-phai-co-nen-tang-cong-nghe-va-nhan-luc-chat-luong-cao-889399.ldo) ([Lao Động](https://laodong.vn))
-- [Bất ngờ với công dụng giảm cân từ hoa đậu biếc](https://laodong.vn/lam-dep/bat-ngo-voi-cong-dung-giam-can-tu-hoa-dau-biec-889278.ldo) ([Lao Động](https://laodong.vn))
-- [Alibaba.com cam kết hỗ trợ 10.000 doanh nghiệp Việt](https://laodong.vn/doanh-nghiep-doanh-nhan/alibabacom-cam-ket-ho-tro-10000-doanh-nghiep-viet-889566.ldo) ([Lao Động](https://laodong.vn))
-- [Hình ảnh những chiến sĩ &quot;mũ nồi xanh&quot; đầu tiên tiêm vaccine COVID-19](https://laodong.vn/photo/hinh-anh-nhung-chien-si-mu-noi-xanh-dau-tien-tiem-vaccine-covid-19-889523.ldo) ([Lao Động](https://laodong.vn))
-- [Quyên góp từ thiện 1,8 tỷ USD nhưng lại để con trai "phú nhị đại" làm công nhân: Cách dạy con nghiêm khắc của ông vua ngành kính Trung Quốc, không phải cha mẹ nào cũng dám "xuống tay"](https://cafebiz.vn/quyen-gop-tu-thien-18-ty-usd-nhung-lai-de-con-trai-phu-nhi-dai-lam-cong-nhan-cach-day-con-nghiem-khac-cua-ong-vua-nganh-kinh-trung-quoc-khong-phai-cha-me-nao-cung-dam-xuong-tay-20210316102642072.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá vàng và ngoại tệ 16.3: Vàng thế giới tăng nhẹ, USD vẫn giữ đà đi lên](https://laodong.vn/video/gia-vang-va-ngoai-te-163-vang-the-gioi-tang-nhe-usd-van-giu-da-di-len-889517.ldo) ([Lao Động](https://laodong.vn))
-- [Bà Dương Thị Bạch Diệp: Từ nữ đại gia bất động sản đến vòng lao lý](https://laodong.vn/video/ba-duong-thi-bach-diep-tu-nu-dai-gia-bat-dong-san-den-vong-lao-ly-889352.ldo) ([Lao Động](https://laodong.vn))
-- [Gần một năm về xã, công an chính quy bắt giữ hơn 32.000 đối tượng vi phạm](http://vietnamnet.vn/vn/thoi-su/chinh-tri/gan-mot-nam-ve-xa-cong-an-chinh-quy-bat-giu-hon-32-000-doi-tuong-vi-pham-719938.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
