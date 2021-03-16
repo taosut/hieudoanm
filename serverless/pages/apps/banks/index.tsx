@@ -97,20 +97,26 @@ class Banks extends React.Component<Props, State> {
   }
 
   public async processFiles(event: any): Promise<void> {
-    const files = event.target.files;
+    try {
+      const files = event.target.files;
 
-    console.log('files', files);
+      console.log('files', files);
 
-    const [file = {}] = files;
-    console.log('file', file);
-    if (!file) {
-      return alert('NO FILE');
+      const [file = {}] = files;
+      console.log('file', file);
+      if (!file) {
+        return alert('NO FILE');
+      }
+
+      this.setState({ loading: true });
+      const text: string = await this.getTextFromImage(file);
+      const banksInfos = await this.getBanksInfos(text);
+      this.setState({ banksInfos, loading: false });
+    } catch (error) {
+      const errorMessage: string = error.stack;
+      this.setState({ banksInfos: [], loading: false });
+      alert(errorMessage);
     }
-
-    this.setState({ loading: true });
-    const text: string = await this.getTextFromImage(file);
-    const banksInfos = await this.getBanksInfos(text);
-    this.setState({ banksInfos, loading: false });
   }
 
   private async getTextFromImage(file: File): Promise<string> {
