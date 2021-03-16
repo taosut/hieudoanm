@@ -61,24 +61,29 @@ const apiRoute = nextConnect({
 apiRoute.use(upload.any());
 
 apiRoute.post(async (req: any, res: any) => {
-  const files = req.files;
-  console.log('files', files);
+  try {
+    const files = req.files;
+    console.log('files', files);
 
-  const [file = {}] = files;
-  console.log('file', file);
-  if (!file) {
-    return res.json({ message: 'NO FILE', banksInfos: [] });
+    const [file = {}] = files;
+    console.log('file', file);
+    if (!file) {
+      return res.json({ message: 'NO FILE', banksInfos: [] });
+    }
+    const { path = '' } = file;
+    if (!path) {
+      return res.json({ message: 'NO PATH', banksInfos: [] });
+    }
+
+    const text: string = await getTextFromImage(path);
+
+    const banksInfos = await getBanksInfos(text);
+
+    return res.json({ message: 'OK', banksInfos });
+  } catch (error) {
+    console.error(error);
+    return res.json({ error });
   }
-  const { path = '' } = file;
-  if (!path) {
-    return res.json({ message: 'NO PATH', banksInfos: [] });
-  }
-
-  const text: string = await getTextFromImage(path);
-
-  const banksInfos = await getBanksInfos(text);
-
-  return res.json({ message: 'OK', banksInfos });
 });
 
 export default apiRoute;
