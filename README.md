@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 23°C.
-- Feels Like 25.36°C.
-- Air Visual is 132.
+- Temperature is 24°C.
+- Feels Like 26.71°C.
+- Air Visual is 130.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tỷ giá ngoại tệ 16.3: USD bật tăng, ngóng chờ tín hiệu từ FED](https://laodong.vn/kinh-te/ty-gia-ngoai-te-163-usd-bat-tang-ngong-cho-tin-hieu-tu-fed-889631.ldo) ([Lao Động](https://laodong.vn))
+- [1.000 liều vaccine Sputnik V đầu tiên- là quà tặng của Nga, đã đến Việt Nam](https://laodong.vn/y-te/1000-lieu-vaccine-sputnik-v-dau-tien-la-qua-tang-cua-nga-da-den-viet-nam-889625.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút 16.3: Hình ảnh cầu Thanh Trì ngày đầu giảm tốc độ tối đa](https://laodong.vn/video-thoi-su/ban-tin-1-phut-163-hinh-anh-cau-thanh-tri-ngay-dau-giam-toc-do-toi-da-889603.ldo) ([Lao Động](https://laodong.vn))
+- [Phát hiện thi thể cô gái trôi dạt trên biển Vũng Tàu](http://vietnamnet.vn/vn/thoi-su/phat-hien-thi-the-co-gai-troi-dat-tren-bien-vung-tau-719991.html) ([VietNamNet](https://vietnamnet.vn))
+- [Đưa Viện nghiên cứu tiên tiến và đổi mới sáng tạo TP.HCM vào hoạt động năm 2021](https://tuoitre.vn/dua-vien-nghien-cuu-tien-tien-va-doi-moi-sang-tao-tp-hcm-vao-hoat-dong-nam-2021-20210316114052358.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [YouTuber Thơ Nguyễn: Nhận lỗi cần trung thực chứ không cần cực đoan!](https://laodong.vn/ban-doc/youtuber-tho-nguyen-nhan-loi-can-trung-thuc-chu-khong-can-cuc-doan-889604.ldo) ([Lao Động](https://laodong.vn))
 - [Nghệ An: Doanh nghiệp đề nghị hạ giá nước sạch, Sở Tài chính nói gì?](https://laodong.vn/ban-doc/nghe-an-doanh-nghiep-de-nghi-ha-gia-nuoc-sach-so-tai-chinh-noi-gi-889512.ldo) ([Lao Động](https://laodong.vn))
+- [Đi lễ đền gặp tai nạn: ‘Đang ngủ, chúng tôi choáng váng’](https://tuoitre.vn/di-le-den-gap-tai-nan-dang-ngu-chung-toi-choang-vang-20210316111025014.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Người đàn ông tử vong sau khi 'bay' xuống sông vì tông trúng cột mốc ven đường](https://tuoitre.vn/nguoi-dan-ong-tu-vong-sau-khi-bay-xuong-song-vi-tong-trung-cot-moc-ven-duong-20210316105610215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tai nạn thảm khốc ở Nghệ An: Các nạn nhân đi lễ đền ông Hoàng Mười](https://laodong.vn/xa-hoi/tai-nan-tham-khoc-o-nghe-an-cac-nan-nhan-di-le-den-ong-hoang-muoi-889630.ldo) ([Lao Động](https://laodong.vn))
 - [Cán bộ chiến sĩ mũ nồi xanh được tiêm vắc xin COVID-19](https://tuoitre.vn/can-bo-chien-si-mu-noi-xanh-duoc-tiem-vac-xin-covid-19-2021031609553037.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- ['Lướt sóng' thất bại, nhà đầu tư Trung Quốc nháo nhào thanh lý báu vật gia truyền, nhẫn đính hôn để bù lỗ](https://cafebiz.vn/luot-song-that-bai-nha-dau-tu-trung-quoc-nhao-nhao-thanh-ly-bau-vat-gia-truyen-nhan-dinh-hon-de-bu-lo-20210316112109975.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bà Dương Thị Bạch Diệp phủ nhận cáo trạng, nghi ngờ hồ sơ giả mạo](https://tuoitre.vn/ba-duong-thi-bach-diep-phu-nhan-cao-trang-nghi-ngo-ho-so-gia-mao-20210316105750308.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nâng cao kỹ năng truyền thông cho cán bộ công đoàn cơ sở](https://laodong.vn/cong-doan/nang-cao-ky-nang-truyen-thong-cho-can-bo-cong-doan-co-so-889521.ldo) ([Lao Động](https://laodong.vn))
-- [Thơ Nguyễn xin lỗi, ẩn hết video, tắt nút kiếm tiền, úp mở sẽ trở lại ‘hoàn thiện hơn’](https://tuoitre.vn/tho-nguyen-xin-loi-an-het-video-tat-nut-kiem-tien-up-mo-se-tro-lai-hoan-thien-hon-20210316112649243.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
