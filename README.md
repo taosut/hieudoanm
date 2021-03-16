@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 23°C.
-- Feels Like 25.53°C.
-- Air Visual is 116.
+- Feels Like 25.36°C.
+- Air Visual is 132.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bản tin 1 phút 16.3: Hình ảnh cầu Thanh Trì ngày đầu giảm tốc độ tối đa](https://laodong.vn/video-thoi-su/ban-tin-1-phut-163-hinh-anh-cau-thanh-tri-ngay-dau-giam-toc-do-toi-da-889603.ldo) ([Lao Động](https://laodong.vn))
+- [YouTuber Thơ Nguyễn: Nhận lỗi cần trung thực chứ không cần cực đoan!](https://laodong.vn/ban-doc/youtuber-tho-nguyen-nhan-loi-can-trung-thuc-chu-khong-can-cuc-doan-889604.ldo) ([Lao Động](https://laodong.vn))
+- [Nghệ An: Doanh nghiệp đề nghị hạ giá nước sạch, Sở Tài chính nói gì?](https://laodong.vn/ban-doc/nghe-an-doanh-nghiep-de-nghi-ha-gia-nuoc-sach-so-tai-chinh-noi-gi-889512.ldo) ([Lao Động](https://laodong.vn))
+- [Người đàn ông tử vong sau khi 'bay' xuống sông vì tông trúng cột mốc ven đường](https://tuoitre.vn/nguoi-dan-ong-tu-vong-sau-khi-bay-xuong-song-vi-tong-trung-cot-moc-ven-duong-20210316105610215.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tai nạn thảm khốc ở Nghệ An: Các nạn nhân đi lễ đền ông Hoàng Mười](https://laodong.vn/xa-hoi/tai-nan-tham-khoc-o-nghe-an-cac-nan-nhan-di-le-den-ong-hoang-muoi-889630.ldo) ([Lao Động](https://laodong.vn))
+- [Cán bộ chiến sĩ mũ nồi xanh được tiêm vắc xin COVID-19](https://tuoitre.vn/can-bo-chien-si-mu-noi-xanh-duoc-tiem-vac-xin-covid-19-2021031609553037.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- ['Lướt sóng' thất bại, nhà đầu tư Trung Quốc nháo nhào thanh lý báu vật gia truyền, nhẫn đính hôn để bù lỗ](https://cafebiz.vn/luot-song-that-bai-nha-dau-tu-trung-quoc-nhao-nhao-thanh-ly-bau-vat-gia-truyen-nhan-dinh-hon-de-bu-lo-20210316112109975.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bà Dương Thị Bạch Diệp phủ nhận cáo trạng, nghi ngờ hồ sơ giả mạo](https://tuoitre.vn/ba-duong-thi-bach-diep-phu-nhan-cao-trang-nghi-ngo-ho-so-gia-mao-20210316105750308.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nâng cao kỹ năng truyền thông cho cán bộ công đoàn cơ sở](https://laodong.vn/cong-doan/nang-cao-ky-nang-truyen-thong-cho-can-bo-cong-doan-co-so-889521.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng Thái Lan tiêm vaccine của AstraZeneca, đánh tan nghi ngại](https://laodong.vn/the-gioi/thu-tuong-thai-lan-tiem-vaccine-cua-astrazeneca-danh-tan-nghi-ngai-889612.ldo) ([Lao Động](https://laodong.vn))
-- [Tài xế vi phạm nồng độ cồn còn đấm thượng uý cảnh sát giao thông](https://laodong.vn/phap-luat/tai-xe-vi-pham-nong-do-con-con-dam-thuong-uy-canh-sat-giao-thong-889614.ldo) ([Lao Động](https://laodong.vn))
-- [Hơn 65 triệu cổ phiếu đầu tiên chuẩn bị chuyển nhà từ HOSE sang HNX](https://laodong.vn/kinh-te/hon-65-trieu-co-phieu-dau-tien-chuan-bi-chuyen-nha-tu-hose-sang-hnx-889609.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Ngãi sẽ dừng chợ đêm sông Trà Khúc](https://vnexpress.net/quang-ngai-se-dung-cho-dem-song-tra-khuc-4248935.html) ([VNExpress](https://vnexpress.net))
-- [Bạc Liêu: Xin vào khu cách ly tập trung để chăm sóc con nhỏ](https://laodong.vn/ban-doc/bac-lieu-xin-vao-khu-cach-ly-tap-trung-de-cham-soc-con-nho-889548.ldo) ([Lao Động](https://laodong.vn))
-- [Bà Tân, Quỳnh Trần JP, mẹ quê trong "ẩm thực mẹ làm" - 3 bà mẹ youtuber hot nhất Việt Nam có thu nhâp khủng cỡ nào?](https://cafebiz.vn/ba-tan-quynh-tran-jp-me-que-trong-am-thuc-me-lam-3-ba-me-youtuber-hot-nhat-viet-nam-co-thu-nhap-khung-co-nao-20210315135823265.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phê bình nghiêm khắc lãnh đạo Ban quản lý đường sắt đô thị TP.HCM giai đoạn 2018-2019](https://tuoitre.vn/phe-binh-nghiem-khac-lanh-dao-ban-quan-ly-duong-sat-do-thi-tp-hcm-giai-doan-2018-2019-20210316105043286.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đại gia Dũng lò vôi: Ông Võ Hoàng Yên "luôn tìm cách moi tiền của tôi", tượng phật nói 580 triệu, tôi mua chỉ 16 triệu đồng...](https://cafebiz.vn/dai-gia-dung-lo-voi-ong-vo-hoang-yen-luon-tim-cach-moi-tien-cua-toi-tuong-phat-noi-580-trieu-toi-mua-chi-16-trieu-dong-20210316112854656.chn) ([CafeBiz](https://cafebiz.vn))
-- [Từ năm 2022, thu nhập dưới 2 triệu đồng/tháng ở thành phố là hộ nghèo](https://cafebiz.vn/tu-nam-2022-thu-nhap-duoi-2-trieu-dong-thang-o-thanh-pho-la-ho-ngheo-20210316112613594.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thơ Nguyễn xin lỗi, ẩn hết video, tắt nút kiếm tiền, úp mở sẽ trở lại ‘hoàn thiện hơn’](https://tuoitre.vn/tho-nguyen-xin-loi-an-het-video-tat-nut-kiem-tien-up-mo-se-tro-lai-hoan-thien-hon-20210316112649243.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
