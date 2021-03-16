@@ -4,8 +4,8 @@
 <p align="center">
   <a href="https://vietnamdb.herokuapp.com/api">APIs</a> -
   <a href="https://vietnamdb.herokuapp.com/docs">Docs</a> -
-  <a href="https://github.com/vietnamdb/vietnamdb/tree/master/docs">CSV</a> -
-  <a href="https://github.com/vietnamdb/vietnamdb/tree/master/docs/stacks">Stacks</a>
+  <a href="https://github.com/hieudoanm/hieudoanm/tree/master/docs">CSV</a> -
+  <a href="https://github.com/hieudoanm/hieudoanm/tree/master/docs/stacks">Stacks</a>
 </p>
 <p align="center"> 
   Visitor count<br><br>
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Nguyên nhân vụ hỗn chiến khiến nam thanh niên tử vong ở Nam Định](https://laodong.vn/phap-luat/nguyen-nhan-vu-hon-chien-khien-nam-thanh-nien-tu-vong-o-nam-dinh-889783.ldo) ([Lao Động](https://laodong.vn))
-- [Phát huy vai trò Công đoàn trong xây dựng văn hoá đơn vị](https://laodong.vn/cach-lam-hay-tu-co-so/phat-huy-vai-tro-cong-doan-trong-xay-dung-van-hoa-don-vi-889792.ldo) ([Lao Động](https://laodong.vn))
-- [Không thể tìm khách mời, Copa America 2021 sẽ tiến hành với 10 đội](https://laodong.vn/bong-da-quoc-te/khong-the-tim-khach-moi-copa-america-2021-se-tien-hanh-voi-10-doi-889774.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ tịch UBND TP.HCM Nguyễn Thành Phong đi kiểm tra metro số 1](https://tuoitre.vn/chu-tich-ubnd-tp-hcm-nguyen-thanh-phong-di-kiem-tra-metro-so-1-20210316173847813.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [200 tài xế vi phạm nồng độ cồn ở TP HCM](https://vnexpress.net/200-tai-xe-vi-pham-nong-do-con-o-tp-hcm-4248955.html) ([VNExpress](https://vnexpress.net))
-- [BIDV khen thưởng lực lượng công an, bộ đội, bảo vệ tham gia bắt cướp](https://laodong.vn/kinh-te/bidv-khen-thuong-luc-luong-cong-an-bo-doi-bao-ve-tham-gia-bat-cuop-889721.ldo) ([Lao Động](https://laodong.vn))
-- [Dịch vụ ngân hàng số thế hệ mới của BIDV sắp lộ diện](https://laodong.vn/kinh-te/dich-vu-ngan-hang-so-the-he-moi-cua-bidv-sap-lo-dien-889728.ldo) ([Lao Động](https://laodong.vn))
-- ["Tạm biệt các em": YouTuber Thơ Nguyễn bị xử phạt 7,5 triệu đồng sau clip dùng búp bê kumathong xin vía học giỏi cho các em nhỏ](https://cafebiz.vn/tam-biet-cac-em-youtuber-tho-nguyen-bi-xu-phat-75-trieu-dong-sau-clip-dung-bup-be-kumathong-xin-via-hoc-gioi-cho-cac-em-nho-20210316182717352.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chiều 16-3, thêm 1 bệnh nhân COVID-19 mới tại Hải Dương](https://tuoitre.vn/chieu-16-3-them-1-benh-nhan-covid-19-moi-tai-hai-duong-20210316181314293.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hành khách bỏ quên hơn 300 triệu đồng trên máy bay](https://vnexpress.net/hanh-khach-bo-quen-hon-300-trieu-dong-tren-may-bay-4249435.html) ([VNExpress](https://vnexpress.net))
+
 
 [Read More](docs/news/README.md)
 
