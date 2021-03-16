@@ -1,6 +1,4 @@
 import { Component, OnInit } from "@angular/core";
-import { IconDefinition } from "@fortawesome/fontawesome-common-types";
-import { faCamera } from "@fortawesome/free-solid-svg-icons";
 import { Store } from "@ngrx/store";
 import * as _ from "lodash";
 import * as Tesseract from "tesseract.js";
@@ -64,7 +62,6 @@ const banks: Array<any> = [
   styleUrls: ["./apps-camera.component.scss"],
 })
 export class AppsCameraComponent implements OnInit {
-  public faCamera: IconDefinition = faCamera;
   public banksInfos: Array<any> = [];
   public loading: boolean = false;
   public filename: string = "Choose File";
@@ -87,7 +84,7 @@ export class AppsCameraComponent implements OnInit {
     this.isMobile = this.utilsService.detectMobileAndTablet();
   }
 
-  public async processFiles(event: any) {
+  public async processFiles(event: any): Promise<void> {
     const files = event.target.files;
 
     console.log("files", files);
