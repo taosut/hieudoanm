@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 24°C.
-- Feels Like 26.71°C.
-- Air Visual is 130.
+- Feels Like 27.07°C.
+- Air Visual is 139.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Dương Thị Bạch Diệp: &quot;Tôi muốn trả lại giấy tờ nhà đất 185 Hai Bà Trưng&quot;](https://laodong.vn/phap-luat/duong-thi-bach-diep-toi-muon-tra-lai-giay-to-nha-dat-185-hai-ba-trung-889633.ldo) ([Lao Động](https://laodong.vn))
-- [Cà rốt ăn sống hay chín sẽ tốt hơn?](https://laodong.vn/dinh-duong-am-thuc/ca-rot-an-song-hay-chin-se-tot-hon-889477.ldo) ([Lao Động](https://laodong.vn))
-- [Khỉ không tự đại náo, hay tấn công người](https://laodong.vn/ban-doc/khi-khong-tu-dai-nao-hay-tan-cong-nguoi-889564.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng Nhật Bản đổi lịch tiêm vaccine COVID-19 để chuẩn bị gặp ông Biden](https://laodong.vn/the-gioi/thu-tuong-nhat-ban-doi-lich-tiem-vaccine-covid-19-de-chuan-bi-gap-ong-biden-889620.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Loạt điểm bán xăng tự phát &quot;mọc&quot; quanh cây xăng đang tu sửa](https://laodong.vn/kinh-te/ha-noi-loat-diem-ban-xang-tu-phat-moc-quanh-cay-xang-dang-tu-sua-889572.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Vaccine COVID-19 là lá chắn để chúng tôi lên đường sang Nam Sudan&quot;](https://laodong.vn/y-te/vaccine-covid-19-la-la-chan-de-chung-toi-len-duong-sang-nam-sudan-889610.ldo) ([Lao Động](https://laodong.vn))
-- [VFF khó đáp ứng yêu cầu của ông Park Hang-seo](https://laodong.vn/bong-da/vff-kho-dap-ung-yeu-cau-cua-ong-park-hang-seo-889602.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút 16.3: Hình ảnh cầu Thanh Trì ngày đầu giảm tốc độ tối đa](https://laodong.vn/video-thoi-su/ban-tin-1-phut-163-hinh-anh-cau-thanh-tri-ngay-dau-giam-toc-do-toi-da-889603.ldo) ([Lao Động](https://laodong.vn))
-- [Phát hiện thi thể cô gái trôi dạt trên biển Vũng Tàu](http://vietnamnet.vn/vn/thoi-su/phat-hien-thi-the-co-gai-troi-dat-tren-bien-vung-tau-719991.html) ([VietNamNet](https://vietnamnet.vn))
-- [Đưa Viện nghiên cứu tiên tiến và đổi mới sáng tạo TP.HCM vào hoạt động năm 2021](https://tuoitre.vn/dua-vien-nghien-cuu-tien-tien-va-doi-moi-sang-tao-tp-hcm-vao-hoat-dong-nam-2021-20210316114052358.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Quy hoạch phân khu đô thị sông Hồng: Hàng loạt cây cầu được xây ở đâu?](https://cafebiz.vn/quy-hoach-phan-khu-do-thi-song-hong-hang-loat-cay-cau-duoc-xay-o-dau-20210316133707287.chn) ([CafeBiz](https://cafebiz.vn))
+- [Lãi suất ngân hàng xuống thấp, nhiều Công ty chứng khoán “tranh thủ” huy động nguồn từ nhà đầu tư](https://cafebiz.vn/lai-suat-ngan-hang-xuong-thap-nhieu-cong-ty-chung-khoan-tranh-thu-huy-dong-nguon-tu-nha-dau-tu-20210316133132557.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hướng dương ngược nắng: Hấp dẫn nhờ tranh cãi và mâu thuẫn?](https://laodong.vn/van-hoa/huong-duong-nguoc-nang-hap-dan-nho-tranh-cai-va-mau-thuan-888618.ldo) ([Lao Động](https://laodong.vn))
+- [Menard – Thương hiệu mỹ phẩm mang khát vọng vươn ra khỏi “Lãnh địa làm đẹp”](https://cafebiz.vn/menard-thuong-hieu-my-pham-mang-khat-vong-vuon-ra-khoi-lanh-dia-lam-dep-2021031610521745.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dược phẩm CPC1 Hà Nội tăng trưởng mạnh mẽ vì thực hiện “nhiệm vụ kép” hiệu quả](https://cafebiz.vn/duoc-pham-cpc1-ha-noi-tang-truong-manh-me-vi-thuc-hien-nhiem-vu-kep-hieu-qua-20210315164318028.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuyện tình cổ tích của cô gái mắc bệnh ung thư và đám hỏi vắng mặt chú rể](https://laodong.vn/chuyen-nha-minh/chuyen-tinh-co-tich-cua-co-gai-mac-benh-ung-thu-va-dam-hoi-vang-mat-chu-re-889463.ldo) ([Lao Động](https://laodong.vn))
+- [Ký kết ghi nhớ thực hiện chương trình 75 nghìn sáng kiến tại Hà Nam](https://laodong.vn/ldld-ha-nam/ky-ket-ghi-nho-thuc-hien-chuong-trinh-75-nghin-sang-kien-tai-ha-nam-889644.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao ông Đinh La Thăng &quot;thêm án&quot; mà vẫn chịu tổng cộng 30 năm tù giam?](https://laodong.vn/phap-luat/vi-sao-ong-dinh-la-thang-them-an-ma-van-chiu-tong-cong-30-nam-tu-giam-889647.ldo) ([Lao Động](https://laodong.vn))
+- [Nghĩ thông, nhìn thấu, tâm mở: 6 từ làm định vị cuộc đời người phú quý](https://cafebiz.vn/nghi-thong-nhin-thau-tam-mo-6-tu-lam-dinh-vi-cuoc-doi-nguoi-phu-quy-20210316103014386.chn) ([CafeBiz](https://cafebiz.vn))
+- [Học sinh được hỗ trợ học tập miễn phí nhờ duy trì việc dạy học trực tuyến](https://laodong.vn/giao-duc/hoc-sinh-duoc-ho-tro-hoc-tap-mien-phi-nho-duy-tri-viec-day-hoc-truc-tuyen-886265.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -118,8 +118,8 @@
 03. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 04. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 05. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
-06. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-07. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
+06. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
+07. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 09. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
 10. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
