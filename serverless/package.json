@@ -10,7 +10,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "ngrok": "ngrok http 3000"
   },
   "dependencies": {
     "axios": "^0.21.1",

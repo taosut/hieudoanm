@@ -17,7 +17,6 @@ class Navbar extends React.Component<Props> {
     const { theme } = this.props;
 
     const navItems = [
-      { link: '/apps/banks', text: 'Banks' },
       { link: '/apps/dev-to', text: 'DevTo' },
       { link: '/apps/github', text: 'GitHub' },
       { link: '/apps/usa', text: 'USA' }
