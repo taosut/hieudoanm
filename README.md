@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 27.13°C.
-- Air Visual is 91.
+- Air Visual is 106.
 
 **WEATHER**
 
@@ -49,6 +49,7 @@
 **GOOGLE TRENDS**
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
+- [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![BTS Grammy 2021](https://img.shields.io/static/v1?label=BTS%20Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=BTS%20Grammy%202021)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
 - [![Chua Tam truc](https://img.shields.io/static/v1?label=Chua%20Tam%20truc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chua%20Tam%20truc)
@@ -58,16 +59,15 @@
 - [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
 - [![Hướng dương ngược nắng tập 40](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
-- [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
 - [![Lee Jong Suk](https://img.shields.io/static/v1?label=Lee%20Jong%20Suk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Jong%20Suk)
-- [![Lee Nguyễn](https://img.shields.io/static/v1?label=Lee%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Nguy%E1%BB%85n)
-- [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
+- [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
 - [![Lý Nhã Kỳ](https://img.shields.io/static/v1?label=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3)
-- [![Lịch thi đấu V-League](https://img.shields.io/static/v1?label=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%E1%BB%8Bch%20thi%20%C4%91%E1%BA%A5u%20V-League)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
+- [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
 - [![Ngô Thiến](https://img.shields.io/static/v1?label=Ng%C3%B4%20Thi%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20Thi%E1%BA%BFn)
 - [![Park Seo Joon](https://img.shields.io/static/v1?label=Park%20Seo%20Joon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Park%20Seo%20Joon)
+- [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Ngành năng lượng mặt trời Mỹ dự kiến tăng gấp 4 lần vào năm 2030](https://laodong.vn/the-gioi/nganh-nang-luong-mat-troi-my-du-kien-tang-gap-4-lan-vao-nam-2030-889624.ldo) ([Lao Động](https://laodong.vn))
-- [Người "vô hình" ở Hà Nội được cấp giấy khai sinh sau 30 năm](https://cafebiz.vn/nguoi-vo-hinh-o-ha-noi-duoc-cap-giay-khai-sinh-sau-30-nam-2021031614394421.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tướng yêu cầu không để nợ đọng nhiệm vụ](https://laodong.vn/thoi-su/thu-tuong-yeu-cau-khong-de-no-dong-nhiem-vu-889667.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Park Hang-seo &quot;soi giò&quot; cầu thủ trận Bình Định – Đà Nẵng](https://laodong.vn/bong-da/ong-park-hang-seo-soi-gio-cau-thu-tran-binh-dinh--da-nang-889655.ldo) ([Lao Động](https://laodong.vn))
-- [Chiến lược marketing biến 'người tối cổ' sống trong hang, lập công ty trên 1 tờ giấy ăn thành triệu phú sở hữu 50 triệu USD](https://cafebiz.vn/chien-luoc-marketing-bien-nguoi-toi-co-song-trong-hang-lap-cong-ty-tren-1-to-giay-an-thanh-trieu-phu-so-huu-50-trieu-usd-20210316112717229.chn) ([CafeBiz](https://cafebiz.vn))
-- [FPT đặt kế hoạch lãi 6.210 tỷ đồng năm 2021](https://cafebiz.vn/fpt-dat-ke-hoach-lai-6210-ty-dong-nam-2021-20210316143515091.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chăm lo đời sống tinh thần cho người lao động](https://laodong.vn/cong-doan/cham-lo-doi-song-tinh-than-cho-nguoi-lao-dong-889637.ldo) ([Lao Động](https://laodong.vn))
-- [Cảnh báo nguy hiểm từ thói quen tự ý mua thuốc uống để chữa bệnh](https://laodong.vn/suc-khoe/canh-bao-nguy-hiem-tu-thoi-quen-tu-y-mua-thuoc-uong-de-chua-benh-889439.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Bỏng mắt&quot; ngắm Á hậu Ngọc Thảo, Kiều Loan diện bikini quyến rũ](https://laodong.vn/photo/bong-mat-ngam-a-hau-ngoc-thao-kieu-loan-dien-bikini-quyen-ru-889623.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng: Không được ‘bắn chỉ thiên’, phải chỉ rõ địa chỉ gây khó doanh nghiệp](https://tuoitre.vn/thu-tuong-khong-duoc-ban-chi-thien-phai-chi-ro-dia-chi-gay-kho-doanh-nghiep-20210316124435087.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+
 
 [Read More](docs/news/README.md)
 
