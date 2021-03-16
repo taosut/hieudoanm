@@ -22,7 +22,7 @@
 - Current weather is overcast clouds.
 - Temperature is 24°C.
 - Feels Like 24.91°C.
-- Air Visual is 84.
+- Air Visual is 106.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Chiều 16/3, có 1 ca mắc COVID-19 ở Hải Dương, thêm 43 bệnh nhân khỏi bệnh](https://cafebiz.vn/chieu-16-3-co-1-ca-mac-covid-19-o-hai-duong-them-43-benh-nhan-khoi-benh-20210316182941831.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phú Thọ: Thực nghiệm hiện trường vụ con giết cha vì thường xuyên bị đánh](https://laodong.vn/phap-luat/phu-tho-thuc-nghiem-hien-truong-vu-con-giet-cha-vi-thuong-xuyen-bi-danh-889781.ldo) ([Lao Động](https://laodong.vn))
+- [Thầy Park muốn tổ chức hội chẩn cho Văn Hậu](https://laodong.vn/bong-da/thay-park-muon-to-chuc-hoi-chan-cho-van-hau-889810.ldo) ([Lao Động](https://laodong.vn))
+- [Các xe khách liên tỉnh hoạt động trở lại từ 0h ngày 16.3](https://laodong.vn/xa-hoi/cac-xe-khach-lien-tinh-hoat-dong-tro-lai-tu-0h-ngay-163-889701.ldo) ([Lao Động](https://laodong.vn))
+- [Á hậu Thuỵ Vân lên tiếng về tin đồn được ưu ái tại VTV](https://laodong.vn/giai-tri/a-hau-thuy-van-len-tieng-ve-tin-don-duoc-uu-ai-tai-vtv-889741.ldo) ([Lao Động](https://laodong.vn))
+- [Chủ tịch Hà Nội kiểm tra công tác bầu cử đại biểu Quốc hội tại quận Đống Đa](https://laodong.vn/thoi-su/chu-tich-ha-noi-kiem-tra-cong-tac-bau-cu-dai-bieu-quoc-hoi-tai-quan-dong-da-889787.ldo) ([Lao Động](https://laodong.vn))
+- [Nhận phạt 7,5 triệu, Youtuber Thơ Nguyễn xin lỗi chức năng, em nhỏ và dân mạng](https://tuoitre.vn/nhan-phat-7-5-trieu-youtuber-tho-nguyen-xin-loi-chuc-nang-em-nho-va-dan-mang-20210316181229939.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Chủ tịch UBND TP.HCM Nguyễn Thành Phong đi kiểm tra metro số 1](https://tuoitre.vn/chu-tich-ubnd-tp-hcm-nguyen-thanh-phong-di-kiem-tra-metro-so-1-20210316173847813.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [200 tài xế vi phạm nồng độ cồn ở TP HCM](https://vnexpress.net/200-tai-xe-vi-pham-nong-do-con-o-tp-hcm-4248955.html) ([VNExpress](https://vnexpress.net))
+- ["Tạm biệt các em": YouTuber Thơ Nguyễn bị xử phạt 7,5 triệu đồng sau clip dùng búp bê kumathong xin vía học giỏi cho các em nhỏ](https://cafebiz.vn/tam-biet-cac-em-youtuber-tho-nguyen-bi-xu-phat-75-trieu-dong-sau-clip-dung-bup-be-kumathong-xin-via-hoc-gioi-cho-cac-em-nho-20210316182717352.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -87,6 +96,8 @@
 
 **VIETCETERA**
 
+- [Tóm Lại Là: Người đồng tính thì không được ban phước?](https://vietcetera.com/vn/tom-lai-la-nguoi-dong-tinh-thi-khong-duoc-ban-phuoc)
+- [Mua hàng hiệu cũ là một kiểu thông minh mới](https://vietcetera.com/vn/mua-hang-hieu-cu-la-mot-kieu-thong-minh-moi)
 - [Những điều LinkedIn không nói với bạn](https://vietcetera.com/vn/nhung-dieu-linkedin-khong-noi-voi-ban)
 - [Bình Bồng Bột: 5 Điều bạn cần nhớ nếu muốn trở thành dịch giả](https://vietcetera.com/vn/binh-bong-bot-5-dieu-ban-can-nho-neu-muon-tro-thanh-dich-gia)
 - [Chloé Zhao: Hẹn gặp lại trên đoạn đường phía trước!](https://vietcetera.com/vn/chloezhao-hen-gap-lai-tren-doan-duong-phia-truoc)
@@ -95,8 +106,6 @@
 - ["Mình biết gì về tình yêu?"](https://vietcetera.com/vn/minh-biet-gi-ve-tinh-yeu)
 - [Bí quyết giúp founder giảm "CPU" khi gọi vốn thời Covid-19](https://vietcetera.com/vn/bi-quyet-goi-von-nhanh-cho-startup-thoi-covid-19)
 - [Thuỳ Cốm — Hoạ sĩ của những bức hoạ khiến bạn mỉm cười](https://vietcetera.com/vn/thuy-com-hoa-si-cua-nhung-buc-hoa-khien-ban-mim-cuoi)
-- [Nền tảng kết nối các nhà bán buôn và bán lẻ Kilo: Gọi vốn thành công vòng hạt giống](https://vietcetera.com/vn/nen-tang-ket-noi-cac-nha-ban-buon-va-ban-le-kilo-goi-von-thanh-cong-vong-hat-giong)
-- [Paysan Breton: Vị bơ nước Pháp trên bàn ăn Việt](https://vietcetera.com/vn/paysan-breton-vi-bo-nuoc-phap-tren-ban-an-viet)
 
 [Read More](https://vietcetera.com/)
 
