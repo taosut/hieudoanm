@@ -1,5 +1,6 @@
 # News
 
+- [Tesla gây sốc khi đổi chức danh Giám đốc tài chính thành "Bậc thầy tiền ảo"](https://cafebiz.vn/tesla-gay-soc-khi-doi-chuc-danh-giam-doc-tai-chinh-thanh-bac-thay-tien-ao-20210316134112336.chn) ([CafeBiz](https://cafebiz.vn))
 - [Quy hoạch phân khu đô thị sông Hồng: Hàng loạt cây cầu được xây ở đâu?](https://cafebiz.vn/quy-hoach-phan-khu-do-thi-song-hong-hang-loat-cay-cau-duoc-xay-o-dau-20210316133707287.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lãi suất ngân hàng xuống thấp, nhiều Công ty chứng khoán “tranh thủ” huy động nguồn từ nhà đầu tư](https://cafebiz.vn/lai-suat-ngan-hang-xuong-thap-nhieu-cong-ty-chung-khoan-tranh-thu-huy-dong-nguon-tu-nha-dau-tu-20210316133132557.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hướng dương ngược nắng: Hấp dẫn nhờ tranh cãi và mâu thuẫn?](https://laodong.vn/van-hoa/huong-duong-nguoc-nang-hap-dan-nho-tranh-cai-va-mau-thuan-888618.ldo) ([Lao Động](https://laodong.vn))
@@ -99,4 +100,3 @@
 - [Xe khách đối đầu xe tải, 3 người chết](https://vnexpress.net/xe-khach-doi-dau-xe-tai-3-nguoi-chet-4248997.html) ([VNExpress](https://vnexpress.net))
 - [Thơ Nguyễn quyết định tắt kiếm tiền trên các kênh YouTube, ẩn toàn bộ video và gửi lời xin lỗi phụ huynh cùng các em nhỏ](https://cafebiz.vn/tho-nguyen-quyet-dinh-tat-kiem-tien-tren-cac-kenh-youtube-an-toan-bo-video-va-gui-loi-xin-loi-phu-huynh-cung-cac-em-nho-20210316082611244.chn) ([CafeBiz](https://cafebiz.vn))
 - [Xe chở đoàn đi lễ chùa đâm xe đầu kéo, 1 người chết, hơn 20 người nhập viện](https://tuoitre.vn/xe-cho-doan-di-le-chua-dam-xe-dau-keo-1-nguoi-chet-hon-20-nguoi-nhap-vien-20210316081045103.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [9X giành được tiền thưởng ngất ngưởng từ Alibaba: Ép bản thân kỉ luật bao nhiêu, bạn xuất chúng bấy nhiêu!](https://cafebiz.vn/9x-gianh-duoc-tien-thuong-ngat-nguong-tu-alibaba-ep-ban-than-ki-luat-bao-nhieu-ban-xuat-chung-bay-nhieu-20210315211601049.chn) ([CafeBiz](https://cafebiz.vn))
