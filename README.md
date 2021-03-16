@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 24°C.
-- Feels Like 27.07°C.
-- Air Visual is 111.
+- Feels Like 26.71°C.
+- Air Visual is 114.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [770 bàn thắng, siêu kỷ lục vượt Pele của Ronaldo được ghi như thế nào?](https://laodong.vn/infographic/770-ban-thang-sieu-ky-luc-vuot-pele-cua-ronaldo-duoc-ghi-nhu-the-nao-889320.ldo) ([Lao Động](https://laodong.vn))
-- [Kinh doanh nhỏ thì phải nộp những thuế gì?](https://laodong.vn/tu-van-phap-luat/kinh-doanh-nho-thi-phai-nop-nhung-thue-gi-888345.ldo) ([Lao Động](https://laodong.vn))
-- [Thanh tra dự án ngàn tỷ chậm tiến độ tại Đà Nẵng](https://laodong.vn/xa-hoi/thanh-tra-du-an-ngan-ty-cham-tien-do-tai-da-nang-889656.ldo) ([Lao Động](https://laodong.vn))
-- [Thi trực tuyến “Tìm hiểu pháp luật về bầu cử ĐBQH và đại biểu HĐND”](https://laodong.vn/thoi-su/thi-truc-tuyen-tim-hieu-phap-luat-ve-bau-cu-dbqh-va-dai-bieu-hdnd-889660.ldo) ([Lao Động](https://laodong.vn))
-- [Xác minh nhà xe gặp tai nạn thảm khốc tại Nghệ An](https://laodong.vn/xa-hoi/xac-minh-nha-xe-gap-tai-nan-tham-khoc-tai-nghe-an-889638.ldo) ([Lao Động](https://laodong.vn))
-- [Tesla gây sốc khi đổi chức danh Giám đốc tài chính thành "Bậc thầy tiền ảo"](https://cafebiz.vn/tesla-gay-soc-khi-doi-chuc-danh-giam-doc-tai-chinh-thanh-bac-thay-tien-ao-20210316134112336.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quy hoạch phân khu đô thị sông Hồng: Hàng loạt cây cầu được xây ở đâu?](https://cafebiz.vn/quy-hoach-phan-khu-do-thi-song-hong-hang-loat-cay-cau-duoc-xay-o-dau-20210316133707287.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lãi suất ngân hàng xuống thấp, nhiều Công ty chứng khoán “tranh thủ” huy động nguồn từ nhà đầu tư](https://cafebiz.vn/lai-suat-ngan-hang-xuong-thap-nhieu-cong-ty-chung-khoan-tranh-thu-huy-dong-nguon-tu-nha-dau-tu-20210316133132557.chn) ([CafeBiz](https://cafebiz.vn))
-- [Menard – Thương hiệu mỹ phẩm mang khát vọng vươn ra khỏi “Lãnh địa làm đẹp”](https://cafebiz.vn/menard-thuong-hieu-my-pham-mang-khat-vong-vuon-ra-khoi-lanh-dia-lam-dep-2021031610521745.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dược phẩm CPC1 Hà Nội tăng trưởng mạnh mẽ vì thực hiện “nhiệm vụ kép” hiệu quả](https://cafebiz.vn/duoc-pham-cpc1-ha-noi-tang-truong-manh-me-vi-thuc-hien-nhiem-vu-kep-hieu-qua-20210315164318028.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vợ đại gia Dũng “lò vôi” bất ngờ tố cáo ông Võ Hoàng Yên "ôm" giấy tờ nhà cùng đệ tử bỏ trốn sau buổi đối chất](https://cafebiz.vn/vo-dai-gia-dung-lo-voi-bat-ngo-to-cao-ong-vo-hoang-yen-om-giay-to-nha-cung-de-tu-bo-tron-sau-buoi-doi-chat-2021031614273955.chn) ([CafeBiz](https://cafebiz.vn))
+- [&quot;Đại chiến&quot; Fury - Josua kỳ vọng kiếm được 500 triệu bảng Anh](https://laodong.vn/the-thao/dai-chien-fury-josua-ky-vong-kiem-duoc-500-trieu-bang-anh-889617.ldo) ([Lao Động](https://laodong.vn))
+- [Gói cứu trợ 1.900 tỷ USD và "canh bạc" lớn của Tổng thống Joe Biden](https://cafebiz.vn/goi-cuu-tro-1900-ty-usd-va-canh-bac-lon-cua-tong-thong-joe-biden-20210316142604608.chn) ([CafeBiz](https://cafebiz.vn))
+- [Top vua phá lưới La Liga 2020/21: Messi rực sáng, &quot;cắt đuôi&quot; Suarez](https://laodong.vn/photo/top-vua-pha-luoi-la-liga-202021-messi-ruc-sang-cat-duoi-suarez-889608.ldo) ([Lao Động](https://laodong.vn))
+- [Tư duy, ý tưởng là tiêu chí để ông Troussier chọn đội hình U18 Việt Nam](https://laodong.vn/bong-da/tu-duy-y-tuong-la-tieu-chi-de-ong-troussier-chon-doi-hinh-u18-viet-nam-889653.ldo) ([Lao Động](https://laodong.vn))
+- [Top chiếc giày vàng Châu Âu: Ronaldo gọi, Messi trả lời](https://laodong.vn/photo/top-chiec-giay-vang-chau-au-ronaldo-goi-messi-tra-loi-889593.ldo) ([Lao Động](https://laodong.vn))
+- [Lao xe máy xuống vực tại "khúc cua tử thần", người đàn ông tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/lao-xe-may-xuong-vuc-tai-khuc-cua-tu-than-nguoi-dan-ong-tu-vong-720005.html) ([VietNamNet](https://vietnamnet.vn))
+- [Bảng xếp hạng vòng 27 La Liga: Barca kém Atletico 4 điểm](https://laodong.vn/infographic/bang-xep-hang-vong-27-la-liga-barca-kem-atletico-4-diem-889579.ldo) ([Lao Động](https://laodong.vn))
+- [Người mẹ sinh 14 đứa con ở Hà Nội, 4 đứa vướng vào lao lý: “Cuộc đời này tôi chưa thấy ai khổ như mình”](https://cafebiz.vn/nguoi-me-sinh-14-dua-con-o-ha-noi-4-dua-vuong-vao-lao-ly-cuoc-doi-nay-toi-chua-thay-ai-kho-nhu-minh-20210316142402436.chn) ([CafeBiz](https://cafebiz.vn))
+- [Các địa điểm làm căn cước công dân gắn chip tại Hà Nội](https://laodong.vn/infographic/cac-dia-diem-lam-can-cuoc-cong-dan-gan-chip-tai-ha-noi-888428.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
