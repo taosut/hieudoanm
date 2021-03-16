@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 23°C.
 - Feels Like 25.53°C.
-- Air Visual is 80.
+- Air Visual is 112.
 
 **WEATHER**
 
@@ -51,11 +51,10 @@
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![BTS Grammy 2021](https://img.shields.io/static/v1?label=BTS%20Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=BTS%20Grammy%202021)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
-- [![Chua Tam truc](https://img.shields.io/static/v1?label=Chua%20Tam%20truc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chua%20Tam%20truc)
 - [![Di Maria](https://img.shields.io/static/v1?label=Di%20Maria&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%20Maria)
-- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Grammy 2021](https://img.shields.io/static/v1?label=Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Grammy%202021)
 - [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
+- [![Hoàng Anh Gia Lai](https://img.shields.io/static/v1?label=Ho%C3%A0ng%20Anh%20Gia%20Lai&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ho%C3%A0ng%20Anh%20Gia%20Lai)
 - [![Hướng dương ngược nắng tập 40](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Juventus](https://img.shields.io/static/v1?label=Juventus&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Juventus)
@@ -66,6 +65,7 @@
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
+- [![Ngô Thiến](https://img.shields.io/static/v1?label=Ng%C3%B4%20Thi%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20Thi%E1%BA%BFn)
 - [![Rosé](https://img.shields.io/static/v1?label=Ros%C3%A9&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ros%C3%A9)
 - [![Vietnamairlines](https://img.shields.io/static/v1?label=Vietnamairlines&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Vietnamairlines)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Jack Ma tiếp tục lĩnh đòn từ Chính phủ Trung Quốc: Bị ép bán các tài sản truyền thông](https://cafebiz.vn/jack-ma-tiep-tuc-linh-don-tu-chinh-phu-trung-quoc-bi-ep-ban-cac-tai-san-truyen-thong-20210316104555652.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xạ thủ Trần Quốc Cường là hy vọng của bắn súng Việt Nam giành vé dự Olympic](https://laodong.vn/the-thao/xa-thu-tran-quoc-cuong-la-hy-vong-cua-ban-sung-viet-nam-gianh-ve-du-olympic-889567.ldo) ([Lao Động](https://laodong.vn))
+- [Vận rủi vẫn đeo bám Google](https://cafebiz.vn/van-rui-van-deo-bam-google-20210316090810918.chn) ([CafeBiz](https://cafebiz.vn))
+- [Góc tối đằng sau gã khổng lồ nghìn tỷ USD Amazon: Shipper làm việc 14 giờ mỗi ngày, phải đi tiểu vào chai vì sợ giao hàng muộn, kiếm 15 USD/giờ](https://cafebiz.vn/goc-toi-dang-sau-ga-khong-lo-nghin-ty-usd-amazon-shipper-lam-viec-14-gio-moi-ngay-phai-di-tieu-vao-chai-vi-so-giao-hang-muon-kiem-15-usd-gio-20210316105937746.chn) ([CafeBiz](https://cafebiz.vn))
+- [2 nữ trợ lý trọng tài nữ đủ tiêu chuẩn thể lực điều hành giải nam](https://laodong.vn/bong-da/2-nu-tro-ly-trong-tai-nu-du-tieu-chuan-the-luc-dieu-hanh-giai-nam-889553.ldo) ([Lao Động](https://laodong.vn))
+- [Từng là điểm yếu lớn nhất, lĩnh vực này sẽ giúp Việt Nam tăng trưởng bền vững trong dài hạn](https://cafebiz.vn/tung-la-diem-yeu-lon-nhat-linh-vuc-nay-se-giup-viet-nam-tang-truong-ben-vung-trong-dai-han-20210316105729183.chn) ([CafeBiz](https://cafebiz.vn))
+- [“Vincenzo” của Song Joong Ki bất ngờ bị tẩy chay](https://laodong.vn/giai-tri/vincenzo-cua-song-joong-ki-bat-ngo-bi-tay-chay-889578.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Tràn lan sạp hàng hoa quả tự phát lấn chiếm lề đường Ngọc Hồi](https://laodong.vn/ban-doc/ha-noi-tran-lan-sap-hang-hoa-qua-tu-phat-lan-chiem-le-duong-ngoc-hoi-889426.ldo) ([Lao Động](https://laodong.vn))
 - [Tin bóng đá ngày 16.3: Zidane muốn tái ngộ Ronaldo](https://laodong.vn/bong-da-quoc-te/tin-bong-da-ngay-163-zidane-muon-tai-ngo-ronaldo-889562.ldo) ([Lao Động](https://laodong.vn))
-- [Thẻ BHYT mẫu cũ còn thời hạn sử dụng, tiếp tục được dùng để khám chữa bệnh](https://laodong.vn/xa-hoi/the-bhyt-mau-cu-con-thoi-han-su-dung-tiep-tuc-duoc-dung-de-kham-chua-benh-889576.ldo) ([Lao Động](https://laodong.vn))
-- [100% công nhân Seidensticker Hải Phòng đi làm trở lại](https://laodong.vn/cong-doan/100-cong-nhan-seidensticker-hai-phong-di-lam-tro-lai-889571.ldo) ([Lao Động](https://laodong.vn))
-- [Tiến sĩ Mỹ tiết lộ 'công thức vàng' để tính tuổi thọ: Hãy tính xem bạn có thể sống bao lâu?](https://cafebiz.vn/tien-si-my-tiet-lo-cong-thuc-vang-de-tinh-tuoi-tho-hay-tinh-xem-ban-co-the-song-bao-lau-20210316102924801.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thắng lớn với sữa bột cho trẻ thấp còi, NutiFood tổng tiến công mảng sữa tươi: Sữa hàm lượng đạm và béo cao ngang sữa ngoại, xây thành phố giả lập cho trẻ em](https://cafebiz.vn/thang-lon-voi-sua-bot-cho-tre-thap-coi-nutifood-tong-tien-cong-mang-sua-tuoi-sua-ham-luong-dam-va-beo-cao-ngang-sua-ngoai-xay-thanh-pho-gia-lap-cho-tre-em-20210315171348564.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bảng lương của giáo viên có bằng thạc sĩ từ 20.3.2021](https://laodong.vn/giao-duc/bang-luong-cua-giao-vien-co-bang-thac-si-tu-2032021-889574.ldo) ([Lao Động](https://laodong.vn))
-- [Bảng xếp hạng vòng 28 Ngoại hạng Anh: Man City băng băng về đích](https://laodong.vn/infographic/bang-xep-hang-vong-28-ngoai-hang-anh-man-city-bang-bang-ve-dich-889569.ldo) ([Lao Động](https://laodong.vn))
-- [Gạo Điện Biên &quot;xịn&quot; khó bán, doanh nghiệp loay hoay tìm lối ra](https://laodong.vn/video/gao-dien-bien-xin-kho-ban-doanh-nghiep-loay-hoay-tim-loi-ra-888961.ldo) ([Lao Động](https://laodong.vn))
-- [Giật mình thấy con nói giọng búp bê, chui gầm ô tô do bắt chước video Youtube](https://cafebiz.vn/giat-minh-thay-con-noi-giong-bup-be-chui-gam-o-to-do-bat-chuoc-video-youtube-20210316103057801.chn) ([CafeBiz](https://cafebiz.vn))
-- [Truy thu thuế 10.000 kênh YouTube: Phải có nền tảng công nghệ  và nhân lực chất lượng cao](https://laodong.vn/kinh-te/truy-thu-thue-10000-kenh-youtube-phai-co-nen-tang-cong-nghe-va-nhan-luc-chat-luong-cao-889399.ldo) ([Lao Động](https://laodong.vn))
+- [Xác cá voi nặng 4 tấn trôi dạt vào bờ biển Quảng Nam](https://tuoitre.vn/xac-ca-voi-nang-4-tan-troi-dat-vao-bo-bien-quang-nam-20210316092019274.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
