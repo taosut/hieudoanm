@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 24°C.
-- Feels Like 26.71°C.
-- Air Visual is 114.
+- Current weather is broken clouds.
+- Temperature is 25°C.
+- Feels Like 27.13°C.
+- Air Visual is 91.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Vợ đại gia Dũng “lò vôi” bất ngờ tố cáo ông Võ Hoàng Yên "ôm" giấy tờ nhà cùng đệ tử bỏ trốn sau buổi đối chất](https://cafebiz.vn/vo-dai-gia-dung-lo-voi-bat-ngo-to-cao-ong-vo-hoang-yen-om-giay-to-nha-cung-de-tu-bo-tron-sau-buoi-doi-chat-2021031614273955.chn) ([CafeBiz](https://cafebiz.vn))
-- [&quot;Đại chiến&quot; Fury - Josua kỳ vọng kiếm được 500 triệu bảng Anh](https://laodong.vn/the-thao/dai-chien-fury-josua-ky-vong-kiem-duoc-500-trieu-bang-anh-889617.ldo) ([Lao Động](https://laodong.vn))
-- [Gói cứu trợ 1.900 tỷ USD và "canh bạc" lớn của Tổng thống Joe Biden](https://cafebiz.vn/goi-cuu-tro-1900-ty-usd-va-canh-bac-lon-cua-tong-thong-joe-biden-20210316142604608.chn) ([CafeBiz](https://cafebiz.vn))
-- [Top vua phá lưới La Liga 2020/21: Messi rực sáng, &quot;cắt đuôi&quot; Suarez](https://laodong.vn/photo/top-vua-pha-luoi-la-liga-202021-messi-ruc-sang-cat-duoi-suarez-889608.ldo) ([Lao Động](https://laodong.vn))
-- [Tư duy, ý tưởng là tiêu chí để ông Troussier chọn đội hình U18 Việt Nam](https://laodong.vn/bong-da/tu-duy-y-tuong-la-tieu-chi-de-ong-troussier-chon-doi-hinh-u18-viet-nam-889653.ldo) ([Lao Động](https://laodong.vn))
-- [Top chiếc giày vàng Châu Âu: Ronaldo gọi, Messi trả lời](https://laodong.vn/photo/top-chiec-giay-vang-chau-au-ronaldo-goi-messi-tra-loi-889593.ldo) ([Lao Động](https://laodong.vn))
-- [Lao xe máy xuống vực tại "khúc cua tử thần", người đàn ông tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/lao-xe-may-xuong-vuc-tai-khuc-cua-tu-than-nguoi-dan-ong-tu-vong-720005.html) ([VietNamNet](https://vietnamnet.vn))
-- [Bảng xếp hạng vòng 27 La Liga: Barca kém Atletico 4 điểm](https://laodong.vn/infographic/bang-xep-hang-vong-27-la-liga-barca-kem-atletico-4-diem-889579.ldo) ([Lao Động](https://laodong.vn))
-- [Người mẹ sinh 14 đứa con ở Hà Nội, 4 đứa vướng vào lao lý: “Cuộc đời này tôi chưa thấy ai khổ như mình”](https://cafebiz.vn/nguoi-me-sinh-14-dua-con-o-ha-noi-4-dua-vuong-vao-lao-ly-cuoc-doi-nay-toi-chua-thay-ai-kho-nhu-minh-20210316142402436.chn) ([CafeBiz](https://cafebiz.vn))
-- [Các địa điểm làm căn cước công dân gắn chip tại Hà Nội](https://laodong.vn/infographic/cac-dia-diem-lam-can-cuoc-cong-dan-gan-chip-tai-ha-noi-888428.ldo) ([Lao Động](https://laodong.vn))
+- [Ngành năng lượng mặt trời Mỹ dự kiến tăng gấp 4 lần vào năm 2030](https://laodong.vn/the-gioi/nganh-nang-luong-mat-troi-my-du-kien-tang-gap-4-lan-vao-nam-2030-889624.ldo) ([Lao Động](https://laodong.vn))
+- [Người "vô hình" ở Hà Nội được cấp giấy khai sinh sau 30 năm](https://cafebiz.vn/nguoi-vo-hinh-o-ha-noi-duoc-cap-giay-khai-sinh-sau-30-nam-2021031614394421.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tướng yêu cầu không để nợ đọng nhiệm vụ](https://laodong.vn/thoi-su/thu-tuong-yeu-cau-khong-de-no-dong-nhiem-vu-889667.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Park Hang-seo &quot;soi giò&quot; cầu thủ trận Bình Định – Đà Nẵng](https://laodong.vn/bong-da/ong-park-hang-seo-soi-gio-cau-thu-tran-binh-dinh--da-nang-889655.ldo) ([Lao Động](https://laodong.vn))
+- [Chiến lược marketing biến 'người tối cổ' sống trong hang, lập công ty trên 1 tờ giấy ăn thành triệu phú sở hữu 50 triệu USD](https://cafebiz.vn/chien-luoc-marketing-bien-nguoi-toi-co-song-trong-hang-lap-cong-ty-tren-1-to-giay-an-thanh-trieu-phu-so-huu-50-trieu-usd-20210316112717229.chn) ([CafeBiz](https://cafebiz.vn))
+- [FPT đặt kế hoạch lãi 6.210 tỷ đồng năm 2021](https://cafebiz.vn/fpt-dat-ke-hoach-lai-6210-ty-dong-nam-2021-20210316143515091.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chăm lo đời sống tinh thần cho người lao động](https://laodong.vn/cong-doan/cham-lo-doi-song-tinh-than-cho-nguoi-lao-dong-889637.ldo) ([Lao Động](https://laodong.vn))
+- [Cảnh báo nguy hiểm từ thói quen tự ý mua thuốc uống để chữa bệnh](https://laodong.vn/suc-khoe/canh-bao-nguy-hiem-tu-thoi-quen-tu-y-mua-thuoc-uong-de-chua-benh-889439.ldo) ([Lao Động](https://laodong.vn))
+- [&quot;Bỏng mắt&quot; ngắm Á hậu Ngọc Thảo, Kiều Loan diện bikini quyến rũ](https://laodong.vn/photo/bong-mat-ngam-a-hau-ngoc-thao-kieu-loan-dien-bikini-quyen-ru-889623.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng: Không được ‘bắn chỉ thiên’, phải chỉ rõ địa chỉ gây khó doanh nghiệp](https://tuoitre.vn/thu-tuong-khong-duoc-ban-chi-thien-phai-chi-ro-dia-chi-gay-kho-doanh-nghiep-20210316124435087.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Bình Bồng Bột: 5 Điều bạn cần nhớ nếu muốn trở thành dịch giả](https://vietcetera.com/vn/binh-bong-bot-5-dieu-ban-can-nho-neu-muon-tro-thanh-dich-gia)
 - [Chloé Zhao: Hẹn gặp lại trên đoạn đường phía trước!](https://vietcetera.com/vn/chloezhao-hen-gap-lai-tren-doan-duong-phia-truoc)
 - [Mua bao cao su: Tại sao lại ngượng?](https://vietcetera.com/vn/mua-bao-cao-su-tai-sao-lai-nguong)
 - [Không Quan Tâm: Tham nhũng không chừa Grammy ra](https://vietcetera.com/vn/khong-quan-tam-tham-nhung-khong-chua-grammy-ra)
@@ -105,7 +106,6 @@
 - [Nền tảng kết nối các nhà bán buôn và bán lẻ Kilo: Gọi vốn thành công vòng hạt giống](https://vietcetera.com/vn/nen-tang-ket-noi-cac-nha-ban-buon-va-ban-le-kilo-goi-von-thanh-cong-vong-hat-giong)
 - [Paysan Breton: Vị bơ nước Pháp trên bàn ăn Việt](https://vietcetera.com/vn/paysan-breton-vi-bo-nuoc-phap-tren-ban-an-viet)
 - [Mẹo trò chuyện để biến "quan tâm" thành "quan hệ" : Chia sẻ từ những nữ thành viên Tinder Việt Nam](https://vietcetera.com/vn/thanh-vien-tinder-viet-nam-bat-mi-cach-tro-chuyen-cung-phai-nu-khi-ket-ban-truc-tuyen)
-- ["Con anh tên Trần Mai Ninh, vì anh họ Trần, bả họ Mai..."](https://vietcetera.com/vn/con-anh-ten-tran-mai-ninh-vi-anh-ho-tran-ba-ho-mai)
 
 [Read More](https://vietcetera.com/)
 
@@ -137,8 +137,8 @@
 05. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 06. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
 07. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
-08. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-09. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+08. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+09. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 10. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
 
 [Read More](https://www.youtube.com/feed/trending)
