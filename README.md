@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 25.63°C.
-- Air Visual is 80.
+- Air Visual is 125.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tỷ phú Elon Musk cũng nhảy vào cơn sốt NFT, đang rao bán một bản nhạc điện tử về NFT](https://cafebiz.vn/ty-phu-elon-musk-cung-nhay-vao-con-sot-nft-dang-rao-ban-mot-ban-nhac-dien-tu-ve-nft-20210316134546621.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắc Kinh cấp visa cho người đã tiêm vaccine COVID-19 Trung Quốc](https://laodong.vn/the-gioi/bac-kinh-cap-visa-cho-nguoi-da-tiem-vaccine-covid-19-trung-quoc-889683.ldo) ([Lao Động](https://laodong.vn))
+- [Truy sát chủ nợ giữa phố, gây thương tích 51%](https://laodong.vn/phap-luat/truy-sat-chu-no-giua-pho-gay-thuong-tich-51-889702.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất chi 6.000 tỷ đồng đào tạo lại lao động](https://vnexpress.net/de-xuat-chi-6-000-ty-dong-dao-tao-lai-lao-dong-4249239.html) ([VNExpress](https://vnexpress.net))
+- [Đẩy nhanh tiến độ Nhà ga T2 - Cảng hàng không Quốc tế Phú Bài](https://laodong.vn/kinh-te/day-nhanh-tien-do-nha-ga-t2-cang-hang-khong-quoc-te-phu-bai-889700.ldo) ([Lao Động](https://laodong.vn))
+- [Đổi CCCD gắn chip, các thông tin trên giấy tờ pháp lý sẽ thay đổi ra sao?](https://laodong.vn/video/doi-cccd-gan-chip-cac-thong-tin-tren-giay-to-phap-ly-se-thay-doi-ra-sao-889546.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ ông Dũng "lò vôi" tuyên bố từ chối nhận lại hơn 200 tỷ tố bị Võ Hoàng Yên lừa đảo: "Có lấy lại tôi cũng mang đi làm từ thiện, tôi nhường lại cho những ai bị ông Yên lừa"](https://cafebiz.vn/vo-ong-dung-lo-voi-tuyen-bo-tu-choi-nhan-lai-hon-200-ty-to-bi-vo-hoang-yen-lua-dao-co-lay-lai-toi-cung-mang-di-lam-tu-thien-toi-nhuong-lai-cho-nhung-ai-bi-ong-yen-lua-20210316155235257.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bí thư thứ nhất Trung ương Đoàn đối thoại trực tuyến với thanh niên](https://laodong.vn/xa-hoi/bi-thu-thu-nhat-trung-uong-doan-doi-thoai-truc-tuyen-voi-thanh-nien-889668.ldo) ([Lao Động](https://laodong.vn))
 - [Từng giàu nhất châu Á, vị tỷ phú này mất hơn 30 tỷ USD trong chưa đầy 6 năm, chật vật để 'cứu' đế chế đang nợ chồng chất](https://cafebiz.vn/tung-giau-nhat-chau-a-vi-ty-phu-nay-mat-hon-30-ty-usd-trong-chua-day-6-nam-chat-vat-de-cuu-de-che-dang-no-chong-chat-20210316151534367.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phó Thủ tướng Phạm Bình Minh điện đàm với Bộ trưởng Ngoại giao Cuba](https://laodong.vn/thoi-su/pho-thu-tuong-pham-binh-minh-dien-dam-voi-bo-truong-ngoai-giao-cuba-889691.ldo) ([Lao Động](https://laodong.vn))
 - [Độc đáo tục "đánh kẻ tiểu nhân" lưu dấu trăm năm theo chân người Hoa ở Sài Gòn: "Nam đạp 7 cái, nữ đạp 9 cái sẽ tiêu hết những điều xui xẻo, diệt được kẻ muốn hại mình"!?](https://cafebiz.vn/doc-dao-tuc-danh-ke-tieu-nhan-luu-dau-tram-nam-theo-chan-nguoi-hoa-o-sai-gon-nam-dap-7-cai-nu-dap-9-cai-se-tieu-het-nhung-dieu-xui-xeo-diet-duoc-ke-muon-hai-minh-20210316154306114.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xe đi vào vòng xuyến có cần bật đèn xi nhan không?](https://laodong.vn/xe/xe-di-vao-vong-xuyen-co-can-bat-den-xi-nhan-khong-889646.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều thuyền viên Việt Nam mắc kẹt ở nước ngoài](https://vnexpress.net/nhieu-thuyen-vien-viet-nam-mac-ket-o-nuoc-ngoai-4249058.html) ([VNExpress](https://vnexpress.net))
-- [Phê duyệt điều chỉnh quy hoạch chung Đà Nẵng](https://vnexpress.net/phe-duyet-dieu-chinh-quy-hoach-chung-da-nang-4249214.html) ([VNExpress](https://vnexpress.net))
-- [Facebook ký thỏa thuận tin tức với ông lớn truyền thông Úc](https://cafebiz.vn/facebook-ky-thoa-thuan-tin-tuc-voi-ong-lon-truyen-thong-uc-20210316134307726.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hoà Minzy giàu có ở tuổi 26: Đại gia BĐS ngầm, tặng bố mẹ biệt thự 5 tầng, hạnh phúc bên chồng đại gia, khẳng định "kiếm tiền như nước, độc lập tài chính"...](https://cafebiz.vn/hoa-minzy-giau-co-o-tuoi-26-dai-gia-bds-ngam-tang-bo-me-biet-thu-5-tang-hanh-phuc-ben-chong-dai-gia-khang-dinh-kiem-tien-nhu-nuoc-doc-lap-tai-chinh-20210316133155195.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội: Chờ cả tiếng xe vẫn chỉ có 6 khách dù đã bỏ giãn cách](https://laodong.vn/photo/ha-noi-cho-ca-tieng-xe-van-chi-co-6-khach-du-da-bo-gian-cach-889676.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Những điều LinkedIn không nói với bạn](https://vietcetera.com/vn/nhung-dieu-linkedin-khong-noi-voi-ban)
 - [Bình Bồng Bột: 5 Điều bạn cần nhớ nếu muốn trở thành dịch giả](https://vietcetera.com/vn/binh-bong-bot-5-dieu-ban-can-nho-neu-muon-tro-thanh-dich-gia)
 - [Chloé Zhao: Hẹn gặp lại trên đoạn đường phía trước!](https://vietcetera.com/vn/chloezhao-hen-gap-lai-tren-doan-duong-phia-truoc)
 - [Mua bao cao su: Tại sao lại ngượng?](https://vietcetera.com/vn/mua-bao-cao-su-tai-sao-lai-nguong)
@@ -105,7 +106,6 @@
 - [Thuỳ Cốm — Hoạ sĩ của những bức hoạ khiến bạn mỉm cười](https://vietcetera.com/vn/thuy-com-hoa-si-cua-nhung-buc-hoa-khien-ban-mim-cuoi)
 - [Nền tảng kết nối các nhà bán buôn và bán lẻ Kilo: Gọi vốn thành công vòng hạt giống](https://vietcetera.com/vn/nen-tang-ket-noi-cac-nha-ban-buon-va-ban-le-kilo-goi-von-thanh-cong-vong-hat-giong)
 - [Paysan Breton: Vị bơ nước Pháp trên bàn ăn Việt](https://vietcetera.com/vn/paysan-breton-vi-bo-nuoc-phap-tren-ban-an-viet)
-- [Mẹo trò chuyện để biến "quan tâm" thành "quan hệ" : Chia sẻ từ những nữ thành viên Tinder Việt Nam](https://vietcetera.com/vn/thanh-vien-tinder-viet-nam-bat-mi-cach-tro-chuyen-cung-phai-nu-khi-ket-ban-truc-tuyen)
 
 [Read More](https://vietcetera.com/)
 
