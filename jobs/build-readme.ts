@@ -10,7 +10,7 @@ import { addZero, getTime } from './libs';
 const vietcetera: Vietcetera = new Vietcetera();
 const city: string = 'Hanoi';
 
-const masterRepo: string = `https://github.com/vietnamdb/vietnamdb/tree/master`;
+const masterRepo: string = `https://github.com/hieudoanm/hieudoanm/tree/master`;
 
 export const getNewsArticles = async (): Promise<string> => {
   console.log('Build README - getNewsArticles()');

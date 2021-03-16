@@ -4,7 +4,7 @@
   "description": "Vietnam Node APIs Client/Wrapper",
   "main": "./build/src/index.js",
   "types": "./build/src/index.d.ts",
-  "homepage": "https://github.com/vietnamdb/vietnamdb.github.io",
+  "homepage": "https://github.com/hieudoanm/hieudoanm",
   "author": "Hieu Doan <hieumdoan@gmail.com>",
   "license": "MIT",
   "private": false,

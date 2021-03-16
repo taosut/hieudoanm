@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Node",
   "main": "build/app.js",
-  "repository": "https://github.com/vietnamdb/vietnamdb.github.io",
+  "repository": "https://github.com/hieudoanm/hieudoanm",
   "author": "HIEU <hieumdoan@gmail.com>",
   "license": "MIT",
   "private": true,

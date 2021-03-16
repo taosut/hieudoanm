@@ -6,7 +6,7 @@
   "author": "NAM <vietnamdb29@gmail.com>",
   "license": "MIT",
   "private": true,
-  "repository": "https://github.com/vietnamdb/vietnamdb.git",
+  "repository": "https://github.com/hieudoanm/hieudoanm.git",
   "scripts": {
     "start": "node sync.js",
     "sync": "ts-node sync.ts",

@@ -4,7 +4,7 @@
   "description": "HelpScout Docs API Client",
   "main": "./build/src/index.js",
   "types": "./build/src/index.d.ts",
-  "homepage": "https://github.com/vietnamdb/vietnamdb.github.io",
+  "homepage": "https://github.com/hieudoanm/hieudoanm",
   "license": "MIT",
   "author": "Hieu Doan <hieumdoan@gmail.com>",
   "private": false,
