@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 23°C.
 - Feels Like 25.53°C.
-- Air Visual is 112.
+- Air Visual is 122.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Jack Ma tiếp tục lĩnh đòn từ Chính phủ Trung Quốc: Bị ép bán các tài sản truyền thông](https://cafebiz.vn/jack-ma-tiep-tuc-linh-don-tu-chinh-phu-trung-quoc-bi-ep-ban-cac-tai-san-truyen-thong-20210316104555652.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xạ thủ Trần Quốc Cường là hy vọng của bắn súng Việt Nam giành vé dự Olympic](https://laodong.vn/the-thao/xa-thu-tran-quoc-cuong-la-hy-vong-cua-ban-sung-viet-nam-gianh-ve-du-olympic-889567.ldo) ([Lao Động](https://laodong.vn))
-- [Vận rủi vẫn đeo bám Google](https://cafebiz.vn/van-rui-van-deo-bam-google-20210316090810918.chn) ([CafeBiz](https://cafebiz.vn))
-- [Góc tối đằng sau gã khổng lồ nghìn tỷ USD Amazon: Shipper làm việc 14 giờ mỗi ngày, phải đi tiểu vào chai vì sợ giao hàng muộn, kiếm 15 USD/giờ](https://cafebiz.vn/goc-toi-dang-sau-ga-khong-lo-nghin-ty-usd-amazon-shipper-lam-viec-14-gio-moi-ngay-phai-di-tieu-vao-chai-vi-so-giao-hang-muon-kiem-15-usd-gio-20210316105937746.chn) ([CafeBiz](https://cafebiz.vn))
-- [2 nữ trợ lý trọng tài nữ đủ tiêu chuẩn thể lực điều hành giải nam](https://laodong.vn/bong-da/2-nu-tro-ly-trong-tai-nu-du-tieu-chuan-the-luc-dieu-hanh-giai-nam-889553.ldo) ([Lao Động](https://laodong.vn))
-- [Từng là điểm yếu lớn nhất, lĩnh vực này sẽ giúp Việt Nam tăng trưởng bền vững trong dài hạn](https://cafebiz.vn/tung-la-diem-yeu-lon-nhat-linh-vuc-nay-se-giup-viet-nam-tang-truong-ben-vung-trong-dai-han-20210316105729183.chn) ([CafeBiz](https://cafebiz.vn))
-- [“Vincenzo” của Song Joong Ki bất ngờ bị tẩy chay](https://laodong.vn/giai-tri/vincenzo-cua-song-joong-ki-bat-ngo-bi-tay-chay-889578.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Tràn lan sạp hàng hoa quả tự phát lấn chiếm lề đường Ngọc Hồi](https://laodong.vn/ban-doc/ha-noi-tran-lan-sap-hang-hoa-qua-tu-phat-lan-chiem-le-duong-ngoc-hoi-889426.ldo) ([Lao Động](https://laodong.vn))
-- [Tin bóng đá ngày 16.3: Zidane muốn tái ngộ Ronaldo](https://laodong.vn/bong-da-quoc-te/tin-bong-da-ngay-163-zidane-muon-tai-ngo-ronaldo-889562.ldo) ([Lao Động](https://laodong.vn))
-- [Xác cá voi nặng 4 tấn trôi dạt vào bờ biển Quảng Nam](https://tuoitre.vn/xac-ca-voi-nang-4-tan-troi-dat-vao-bo-bien-quang-nam-20210316092019274.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Cà Mau: Có một trường hợp tự ứng cử ĐBQH, HĐND](https://laodong.vn/thoi-su/ca-mau-co-mot-truong-hop-tu-ung-cu-dbqh-hdnd-889575.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng: 1 người tự ứng cử Đại biểu Quốc hội và HĐND thành phố](https://laodong.vn/thoi-su/da-nang-1-nguoi-tu-ung-cu-dai-bieu-quoc-hoi-va-hdnd-thanh-pho-889601.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương: Học sinh nhiều địa phương vẫn chưa đi học sau ngày 18.3](https://laodong.vn/giao-duc/hai-duong-hoc-sinh-nhieu-dia-phuong-van-chua-di-hoc-sau-ngay-183-889605.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Giang: Bắt giữ 100kg thuốc bảo vệ thực vật và tân dược nghi nhập lậu](https://laodong.vn/kinh-te/ha-giang-bat-giu-100kg-thuoc-bao-ve-thuc-vat-va-tan-duoc-nghi-nhap-lau-889588.ldo) ([Lao Động](https://laodong.vn))
+- [Đại gia Dũng lò vôi: Ông Võ Hoàng Yên "luôn tìm cách moi tiền của tôi", tượng phật nói 580 triệu, tôi mua chỉ 16 triệu đồng...](https://cafebiz.vn/dai-gia-dung-lo-voi-ong-vo-hoang-yen-luon-tim-cach-moi-tien-cua-toi-tuong-phat-noi-580-trieu-toi-mua-chi-16-trieu-dong-20210316112854656.chn) ([CafeBiz](https://cafebiz.vn))
+- [Liên Hợp Quốc kêu gọi thúc đẩy sự bình đẳng giới đối với phụ nữ](https://laodong.vn/the-gioi/lien-hop-quoc-keu-goi-thuc-day-su-binh-dang-gioi-doi-voi-phu-nu-889585.ldo) ([Lao Động](https://laodong.vn))
+- [Từ năm 2022, thu nhập dưới 2 triệu đồng/tháng ở thành phố là hộ nghèo](https://cafebiz.vn/tu-nam-2022-thu-nhap-duoi-2-trieu-dong-thang-o-thanh-pho-la-ho-ngheo-20210316112613594.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cựu đệ nhất phu nhân Mỹ Michelle Obama đưa ra lời khuyên cho vợ chồng Meghan Markle chỉ bằng 1 câu nói thâm thúy](https://cafebiz.vn/cuu-de-nhat-phu-nhan-my-michelle-obama-dua-ra-loi-khuyen-cho-vo-chong-meghan-markle-chi-bang-1-cau-noi-tham-thuy-20210316111811399.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tại sao đầu đũa dùng 1 lần lại khắc rãnh tròn?](https://cafebiz.vn/tai-sao-dau-dua-dung-1-lan-lai-khac-ranh-tron-20210316110818507.chn) ([CafeBiz](https://cafebiz.vn))
+- [“Sốt đất” ở Bắc Giang, thận trọng với những nơi “nhảy giá” từng ngày](https://cafebiz.vn/sot-dat-o-bac-giang-than-trong-voi-nhung-noi-nhay-gia-tung-ngay-20210316111720601.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
