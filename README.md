@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is scattered clouds.
 - Temperature is 24°C.
-- Feels Like 26.12°C.
-- Air Visual is 95.
+- Feels Like 26.35°C.
+- Air Visual is 96.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Ferrari F430 Scuderia từng của doanh nhân Hải Phòng lộ diện sau hơn 3 tháng nằm showroom](https://cafebiz.vn/ferrari-f430-scuderia-tung-cua-doanh-nhan-hai-phong-lo-dien-sau-hon-3-thang-nam-showroom-20210316190708401.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thợ đào tiền ảo Việt Nam lại khiến cộng đồng quốc tế bất ngờ với màn ngâm trâu cày trong dầu khoáng](https://cafebiz.vn/tho-dao-tien-ao-viet-nam-lai-khien-cong-dong-quoc-te-bat-ngo-voi-man-ngam-trau-cay-trong-dau-khoang-20210316184410256.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nhận tiền cứu trợ kinh tế, người Mỹ sẽ "ném" sạch vào Bitcoin và chứng khoán?](https://cafebiz.vn/nhan-tien-cuu-tro-kinh-te-nguoi-my-se-nem-sach-vao-bitcoin-va-chung-khoan-20210316185122596.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vì sao Stripe vượt qua SpaceX để trở thành 'kỳ lân công nghệ' lớn thứ 3 thế giới?](https://cafebiz.vn/vi-sao-stripe-vuot-qua-spacex-de-tro-thanh-ky-lan-cong-nghe-lon-thu-3-the-gioi-20210316183840474.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cô gái mang của hồi môn của bà nội đến chương trình thẩm định: Giống hệt món đồ quý trong lăng mộ Từ Hi Thái hậu](https://cafebiz.vn/co-gai-mang-cua-hoi-mon-cua-ba-noi-den-chuong-trinh-tham-dinh-giong-het-mon-do-quy-trong-lang-mo-tu-hi-thai-hau-20210316190340759.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội Watabe &quot;rơi&quot; chiến thắng trong ngày khai mạc U19 nữ Quốc gia 2021](https://laodong.vn/bong-da/ha-noi-watabe-roi-chien-thang-trong-ngay-khai-mac-u19-nu-quoc-gia-2021-889830.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Ninh: 11 đối tượng sát phạt trên sới bạc bị Công an tóm gọn](https://laodong.vn/phap-luat/quang-ninh-11-doi-tuong-sat-phat-tren-soi-bac-bi-cong-an-tom-gon-889804.ldo) ([Lao Động](https://laodong.vn))
-- [Mới phá kỷ lục hồi tuần trước, Bitcoin lại "rơi thẳng đứng"](https://cafebiz.vn/moi-pha-ky-luc-hoi-tuan-truoc-bitcoin-lai-roi-thang-dung-20210316184948036.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hơn 90 người ngộ độc thực phẩm ở Lai Châu](https://vnexpress.net/hon-90-nguoi-ngo-doc-thuc-pham-o-lai-chau-4249443.html) ([VNExpress](https://vnexpress.net))
-- [Nối lại việc tìm kiếm nạn nhân ở thủy điện Rào Trăng 3](https://laodong.vn/xa-hoi/noi-lai-viec-tim-kiem-nan-nhan-o-thuy-dien-rao-trang-3-889834.ldo) ([Lao Động](https://laodong.vn))
+- ["Ơ, mình vào đây làm gì nhỉ": Tại sao bước qua một ô cửa có thể khiến bạn bị đãng trí?](https://cafebiz.vn/o-minh-vao-day-lam-gi-nhi-tai-sao-buoc-qua-mot-o-cua-co-the-khien-ban-bi-dang-tri-20210316210324542.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đá Phong Thủy Quý Thảo và mong muốn lan tỏa giá trị tới khách hàng](https://cafebiz.vn/da-phong-thuy-quy-thao-va-mong-muon-lan-toa-gia-tri-toi-khach-hang-20210316171002525.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bốn tàu Metro Số 1 sắp về TP HCM](https://vnexpress.net/bon-tau-metro-so-1-sap-ve-tp-hcm-4249449.html) ([VNExpress](https://vnexpress.net))
+- [Phụ huynh căng thẳng tìm lò luyện thi cho con vào lớp 10](https://laodong.vn/giao-duc/phu-huynh-cang-thang-tim-lo-luyen-thi-cho-con-vao-lop-10-889627.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Ngãi: Ký kết chương trình “75 nghìn sáng kiến, vượt khó, phát triển”](https://laodong.vn/cong-doan/quang-ngai-ky-ket-chuong-trinh-75-nghin-sang-kien-vuot-kho-phat-trien-889773.ldo) ([Lao Động](https://laodong.vn))
+- [Thế giới đang phụ thuộc vào chíp Đài Loan như thế nào?](https://cafebiz.vn/the-gioi-dang-phu-thuoc-vao-chip-dai-loan-nhu-the-nao-20210316202009012.chn) ([CafeBiz](https://cafebiz.vn))
+- [Rửa mũi nhầm bằng cồn 90 độ, bé 5 tháng tuổi bị bỏng niêm mạc: BS gửi lời cảnh báo cho tất cả các bố mẹ](https://cafebiz.vn/rua-mui-nham-bang-con-90-do-be-5-thang-tuoi-bi-bong-niem-mac-bs-gui-loi-canh-bao-cho-tat-ca-cac-bo-me-20210316190928488.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quảng Nam: Gần 12 nghìn vị trí việc làm cần tuyển lao động](https://laodong.vn/cong-doan/quang-nam-gan-12-nghin-vi-tri-viec-lam-can-tuyen-lao-dong-889760.ldo) ([Lao Động](https://laodong.vn))
+- [Khánh Hòa: &quot;Giải cứu&quot; gần 40 tấn bưởi da xanh cho người dân miền núi](https://laodong.vn/xa-hoi/khanh-hoa-giai-cuu-gan-40-tan-buoi-da-xanh-cho-nguoi-dan-mien-nui-889751.ldo) ([Lao Động](https://laodong.vn))
+- [Chứng khoán: Tăng giảm đan xen, nhìn từng cổ phiếu tìm cơ hội lợi nhuận](https://laodong.vn/kinh-te/chung-khoan-tang-giam-dan-xen-nhin-tung-co-phieu-tim-co-hoi-loi-nhuan-889841.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -120,8 +120,8 @@
 05. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
 06. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
 07. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-08. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
-09. [PBN 56 | Phượng Liên & Phi Nhung - Tân cổ "Con Gái Của Mẹ"](https://www.youtube.com/watch?v=7nd29Lme-bo) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+08. [PBN 56 | Phượng Liên & Phi Nhung - Tân cổ "Con Gái Của Mẹ"](https://www.youtube.com/watch?v=7nd29Lme-bo) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+09. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 10. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
