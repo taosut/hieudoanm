@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 27.13°C.
-- Air Visual is 106.
+- Temperature is 24°C.
+- Feels Like 25.76°C.
+- Air Visual is 125.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Facebook ký thỏa thuận tin tức với ông lớn truyền thông Úc](https://cafebiz.vn/facebook-ky-thoa-thuan-tin-tuc-voi-ong-lon-truyen-thong-uc-20210316134307726.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hoà Minzy giàu có ở tuổi 26: Đại gia BĐS ngầm, tặng bố mẹ biệt thự 5 tầng, hạnh phúc bên chồng đại gia, khẳng định "kiếm tiền như nước, độc lập tài chính"...](https://cafebiz.vn/hoa-minzy-giau-co-o-tuoi-26-dai-gia-bds-ngam-tang-bo-me-biet-thu-5-tang-hanh-phuc-ben-chong-dai-gia-khang-dinh-kiem-tien-nhu-nuoc-doc-lap-tai-chinh-20210316133155195.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội: Chờ cả tiếng xe vẫn chỉ có 6 khách dù đã bỏ giãn cách](https://laodong.vn/photo/ha-noi-cho-ca-tieng-xe-van-chi-co-6-khach-du-da-bo-gian-cach-889676.ldo) ([Lao Động](https://laodong.vn))
+- [Acecook Việt Nam đồng hành cùng Nghệ sỹ Hoài Linh trao yêu thương cho hàng trăm trẻ em nghèo Điện Biên](https://cafebiz.vn/acecook-viet-nam-dong-hanh-cung-nghe-sy-hoai-linh-trao-yeu-thuong-cho-hang-tram-tre-em-ngheo-dien-bien-20210316152701914.chn) ([CafeBiz](https://cafebiz.vn))
+- [Diễn Châu (Nghệ An): &quot;Kỳ tích&quot; Công đoàn &quot;giải cứu&quot; hàng nghìn tấn bắp cải](https://laodong.vn/cong-doan/dien-chau-nghe-an-ky-tich-cong-doan-giai-cuu-hang-nghin-tan-bap-cai-889696.ldo) ([Lao Động](https://laodong.vn))
+- [Nghe tin Hà Nội sắp có Cung thiếu nhi mới, chỉ biết bồi hồi vì bầu trời tuổi thơ ở 36 Lý Thái Tổ mãi xa](https://cafebiz.vn/nghe-tin-ha-noi-sap-co-cung-thieu-nhi-moi-chi-biet-boi-hoi-vi-bau-troi-tuoi-tho-o-36-ly-thai-to-mai-xa-2021031615284999.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vụ bữa tiệc “Tết chuồng trâu” có nhiều người chết: Đã tìm được độc tố](https://laodong.vn/xa-hoi/vu-bua-tiec-tet-chuong-trau-co-nhieu-nguoi-chet-da-tim-duoc-doc-to-889688.ldo) ([Lao Động](https://laodong.vn))
+- [Bà Phương Hằng - vợ Dũng lò vôi đi Rolls-Royce 30 tỷ cùng đoàn hộ tống xuất hiện đầy căng thẳng tại buổi gặp gỡ báo chí, khẳng định: "Tôi nói đây là lần cuối vì tôi muốn nghỉ ngơi!"](https://cafebiz.vn/ba-phuong-hang-vo-dung-lo-voi-di-rolls-royce-30-ty-cung-doan-ho-tong-xuat-hien-day-cang-thang-tai-buoi-gap-go-bao-chi-khang-dinh-toi-noi-day-la-lan-cuoi-vi-toi-muon-nghi-ngoi-20210316152505452.chn) ([CafeBiz](https://cafebiz.vn))
+- [Danh sách trường đại học tuyển thẳng thí sinh có chứng chỉ IELTS](https://laodong.vn/giao-duc/danh-sach-truong-dai-hoc-tuyen-thang-thi-sinh-co-chung-chi-ielts-889274.ldo) ([Lao Động](https://laodong.vn))
+- [40 nghìn tấn thịt đông lạnh nhập khẩu an toàn, âm tính với virus SARS-CoV-2](https://laodong.vn/kinh-te/40-nghin-tan-thit-dong-lanh-nhap-khau-an-toan-am-tinh-voi-virus-sars-cov-2-889613.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
