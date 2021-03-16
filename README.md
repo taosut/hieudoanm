@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 25.76°C.
-- Air Visual is 125.
+- Feels Like 25.63°C.
+- Air Visual is 80.
 
 **WEATHER**
 
@@ -49,9 +49,9 @@
 **GOOGLE TRENDS**
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
-- [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![BTS Grammy 2021](https://img.shields.io/static/v1?label=BTS%20Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=BTS%20Grammy%202021)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
+- [![Bảng xếp hạng V-League 2021](https://img.shields.io/static/v1?label=B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng%20V-League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng%20V-League%202021)
 - [![Chua Tam truc](https://img.shields.io/static/v1?label=Chua%20Tam%20truc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chua%20Tam%20truc)
 - [![Di Maria](https://img.shields.io/static/v1?label=Di%20Maria&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%20Maria)
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
@@ -60,7 +60,7 @@
 - [![Hướng dương ngược nắng tập 40](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Lee Jong Suk](https://img.shields.io/static/v1?label=Lee%20Jong%20Suk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Jong%20Suk)
-- [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
+- [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![Lý Nhã Kỳ](https://img.shields.io/static/v1?label=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bí thư thứ nhất Trung ương Đoàn đối thoại trực tuyến với thanh niên](https://laodong.vn/xa-hoi/bi-thu-thu-nhat-trung-uong-doan-doi-thoai-truc-tuyen-voi-thanh-nien-889668.ldo) ([Lao Động](https://laodong.vn))
+- [Từng giàu nhất châu Á, vị tỷ phú này mất hơn 30 tỷ USD trong chưa đầy 6 năm, chật vật để 'cứu' đế chế đang nợ chồng chất](https://cafebiz.vn/tung-giau-nhat-chau-a-vi-ty-phu-nay-mat-hon-30-ty-usd-trong-chua-day-6-nam-chat-vat-de-cuu-de-che-dang-no-chong-chat-20210316151534367.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phó Thủ tướng Phạm Bình Minh điện đàm với Bộ trưởng Ngoại giao Cuba](https://laodong.vn/thoi-su/pho-thu-tuong-pham-binh-minh-dien-dam-voi-bo-truong-ngoai-giao-cuba-889691.ldo) ([Lao Động](https://laodong.vn))
+- [Độc đáo tục "đánh kẻ tiểu nhân" lưu dấu trăm năm theo chân người Hoa ở Sài Gòn: "Nam đạp 7 cái, nữ đạp 9 cái sẽ tiêu hết những điều xui xẻo, diệt được kẻ muốn hại mình"!?](https://cafebiz.vn/doc-dao-tuc-danh-ke-tieu-nhan-luu-dau-tram-nam-theo-chan-nguoi-hoa-o-sai-gon-nam-dap-7-cai-nu-dap-9-cai-se-tieu-het-nhung-dieu-xui-xeo-diet-duoc-ke-muon-hai-minh-20210316154306114.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xe đi vào vòng xuyến có cần bật đèn xi nhan không?](https://laodong.vn/xe/xe-di-vao-vong-xuyen-co-can-bat-den-xi-nhan-khong-889646.ldo) ([Lao Động](https://laodong.vn))
+- [Nhiều thuyền viên Việt Nam mắc kẹt ở nước ngoài](https://vnexpress.net/nhieu-thuyen-vien-viet-nam-mac-ket-o-nuoc-ngoai-4249058.html) ([VNExpress](https://vnexpress.net))
+- [Phê duyệt điều chỉnh quy hoạch chung Đà Nẵng](https://vnexpress.net/phe-duyet-dieu-chinh-quy-hoach-chung-da-nang-4249214.html) ([VNExpress](https://vnexpress.net))
 - [Facebook ký thỏa thuận tin tức với ông lớn truyền thông Úc](https://cafebiz.vn/facebook-ky-thoa-thuan-tin-tuc-voi-ong-lon-truyen-thong-uc-20210316134307726.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hoà Minzy giàu có ở tuổi 26: Đại gia BĐS ngầm, tặng bố mẹ biệt thự 5 tầng, hạnh phúc bên chồng đại gia, khẳng định "kiếm tiền như nước, độc lập tài chính"...](https://cafebiz.vn/hoa-minzy-giau-co-o-tuoi-26-dai-gia-bds-ngam-tang-bo-me-biet-thu-5-tang-hanh-phuc-ben-chong-dai-gia-khang-dinh-kiem-tien-nhu-nuoc-doc-lap-tai-chinh-20210316133155195.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nội: Chờ cả tiếng xe vẫn chỉ có 6 khách dù đã bỏ giãn cách](https://laodong.vn/photo/ha-noi-cho-ca-tieng-xe-van-chi-co-6-khach-du-da-bo-gian-cach-889676.ldo) ([Lao Động](https://laodong.vn))
-- [Acecook Việt Nam đồng hành cùng Nghệ sỹ Hoài Linh trao yêu thương cho hàng trăm trẻ em nghèo Điện Biên](https://cafebiz.vn/acecook-viet-nam-dong-hanh-cung-nghe-sy-hoai-linh-trao-yeu-thuong-cho-hang-tram-tre-em-ngheo-dien-bien-20210316152701914.chn) ([CafeBiz](https://cafebiz.vn))
-- [Diễn Châu (Nghệ An): &quot;Kỳ tích&quot; Công đoàn &quot;giải cứu&quot; hàng nghìn tấn bắp cải](https://laodong.vn/cong-doan/dien-chau-nghe-an-ky-tich-cong-doan-giai-cuu-hang-nghin-tan-bap-cai-889696.ldo) ([Lao Động](https://laodong.vn))
-- [Nghe tin Hà Nội sắp có Cung thiếu nhi mới, chỉ biết bồi hồi vì bầu trời tuổi thơ ở 36 Lý Thái Tổ mãi xa](https://cafebiz.vn/nghe-tin-ha-noi-sap-co-cung-thieu-nhi-moi-chi-biet-boi-hoi-vi-bau-troi-tuoi-tho-o-36-ly-thai-to-mai-xa-2021031615284999.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vụ bữa tiệc “Tết chuồng trâu” có nhiều người chết: Đã tìm được độc tố](https://laodong.vn/xa-hoi/vu-bua-tiec-tet-chuong-trau-co-nhieu-nguoi-chet-da-tim-duoc-doc-to-889688.ldo) ([Lao Động](https://laodong.vn))
-- [Bà Phương Hằng - vợ Dũng lò vôi đi Rolls-Royce 30 tỷ cùng đoàn hộ tống xuất hiện đầy căng thẳng tại buổi gặp gỡ báo chí, khẳng định: "Tôi nói đây là lần cuối vì tôi muốn nghỉ ngơi!"](https://cafebiz.vn/ba-phuong-hang-vo-dung-lo-voi-di-rolls-royce-30-ty-cung-doan-ho-tong-xuat-hien-day-cang-thang-tai-buoi-gap-go-bao-chi-khang-dinh-toi-noi-day-la-lan-cuoi-vi-toi-muon-nghi-ngoi-20210316152505452.chn) ([CafeBiz](https://cafebiz.vn))
-- [Danh sách trường đại học tuyển thẳng thí sinh có chứng chỉ IELTS](https://laodong.vn/giao-duc/danh-sach-truong-dai-hoc-tuyen-thang-thi-sinh-co-chung-chi-ielts-889274.ldo) ([Lao Động](https://laodong.vn))
-- [40 nghìn tấn thịt đông lạnh nhập khẩu an toàn, âm tính với virus SARS-CoV-2](https://laodong.vn/kinh-te/40-nghin-tan-thit-dong-lanh-nhap-khau-an-toan-am-tinh-voi-virus-sars-cov-2-889613.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -114,15 +114,15 @@
 **MUSIC TRENDS**
 
 01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
-02. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
-03. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+02. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+03. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
 04. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 05. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
 06. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
 07. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
 09. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
-10. [ANH LÀM GÌ SAI - CHÂU KHẢI PHONG | OFFICIAL MUSIC VIDEO](https://www.youtube.com/watch?v=1KHmzzUMnTc) - [Châu Khải Phong](https://www.youtube.com/channel/UCoISHZnrIOn4SunyqjrRt4w)
+10. [PBN 56 | Phượng Liên & Phi Nhung - Tân cổ "Con Gái Của Mẹ"](https://www.youtube.com/watch?v=7nd29Lme-bo) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
