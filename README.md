@@ -20,8 +20,8 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 24°C.
-- Feels Like 25.99°C.
+- Temperature is 23°C.
+- Feels Like 24.45°C.
 - Air Visual is 118.
 
 **WEATHER**
@@ -51,7 +51,6 @@
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![BTS Grammy 2021](https://img.shields.io/static/v1?label=BTS%20Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=BTS%20Grammy%202021)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
-- [![Bảng xếp hạng V-League 2021](https://img.shields.io/static/v1?label=B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng%20V-League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng%20V-League%202021)
 - [![Chua Tam truc](https://img.shields.io/static/v1?label=Chua%20Tam%20truc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chua%20Tam%20truc)
 - [![Di Maria](https://img.shields.io/static/v1?label=Di%20Maria&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%20Maria)
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
@@ -61,6 +60,7 @@
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Lee Jong Suk](https://img.shields.io/static/v1?label=Lee%20Jong%20Suk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Jong%20Suk)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
+- [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
 - [![Lý Nhã Kỳ](https://img.shields.io/static/v1?label=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hải Phòng tập trung xây dựng Thủy Nguyên thành thành phố văn minh, hiện đại](https://laodong.vn/thoi-su/hai-phong-tap-trung-xay-dung-thuy-nguyen-thanh-thanh-pho-van-minh-hien-dai-889726.ldo) ([Lao Động](https://laodong.vn))
+- [Người Việt dễ dàng mua những chiếc ô tô giá rẻ nhất thế giới, sự thật có “mặn mà”?](https://cafebiz.vn/nguoi-viet-de-dang-mua-nhung-chiec-o-to-gia-re-nhat-the-gioi-su-that-co-man-ma-20210316152924389.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo viên THCS đã hết tập sự, được hưởng hệ số lương 2,34 hay 2,1?](https://laodong.vn/ban-doc/giao-vien-thcs-da-het-tap-su-duoc-huong-he-so-luong-234-hay-21-889594.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ ông Dũng "lò vôi": Muốn có bao nhiêu đời chồng không khó, lấy được chồng tử tế mới khó!](https://cafebiz.vn/vo-ong-dung-lo-voi-muon-co-bao-nhieu-doi-chong-khong-kho-lay-duoc-chong-tu-te-moi-kho-20210316165202964.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tin bóng đá tối 16.3: Hủy diệt Huesca, sao Barca buông lời kiêu ngạo](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-163-huy-diet-huesca-sao-barca-buong-loi-kieu-ngao-889714.ldo) ([Lao Động](https://laodong.vn))
+- [Rosé (Blackpink) lập kỷ lục với 500.000 bản đặt cho album mới](https://laodong.vn/giai-tri/rose-blackpink-lap-ky-luc-voi-500000-ban-dat-cho-album-moi-889589.ldo) ([Lao Động](https://laodong.vn))
+- [Nghệ An: Không có người tự ứng cử đại biểu Quốc hội khóa mới](https://laodong.vn/thoi-su/nghe-an-khong-co-nguoi-tu-ung-cu-dai-bieu-quoc-hoi-khoa-moi-889725.ldo) ([Lao Động](https://laodong.vn))
 - [Việt Nam nằm trong top các nước có giá Internet rẻ nhất thế giới](https://cafebiz.vn/viet-nam-nam-trong-top-cac-nuoc-co-gia-internet-re-nhat-the-gioi-20210316134732239.chn) ([CafeBiz](https://cafebiz.vn))
-- [Không khí lạnh sắp tràn về, miền Bắc trở mưa dông gió rét diện rộng](https://laodong.vn/moi-truong/khong-khi-lanh-sap-tran-ve-mien-bac-tro-mua-dong-gio-ret-dien-rong-889707.ldo) ([Lao Động](https://laodong.vn))
-- [Hãng truyền thông lớn đầu tiên ở Australia ký thỏa thuận với Facebook](https://laodong.vn/the-gioi/hang-truyen-thong-lon-dau-tien-o-australia-ky-thoa-thuan-voi-facebook-889686.ldo) ([Lao Động](https://laodong.vn))
 - [Một năm “cai” Google của tôi - Lời trần tình của một nhà báo freelance](https://cafebiz.vn/mot-nam-cai-google-cua-toi-loi-tran-tinh-cua-mot-nha-bao-freelance-20210316162706081.chn) ([CafeBiz](https://cafebiz.vn))
 - ["Khổ" như vợ chồng Meghan: Trang gây quỹ được dân Mỹ lập ra để giúp đỡ đã "bay màu"sau khi thu về... 2,5 triệu đồng, biệt thự còn bị trộm đột nhập](https://cafebiz.vn/kho-nhu-vo-chong-meghan-trang-gay-quy-duoc-dan-my-lap-ra-de-giup-do-da-bay-mausau-khi-thu-ve-25-trieu-dong-biet-thu-con-bi-trom-dot-nhap-20210316162209736.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cầu Thanh Trì ùn tắc trong ngày đầu hạ tốc độ xuống 60km/h](https://cafebiz.vn/cau-thanh-tri-un-tac-trong-ngay-dau-ha-toc-do-xuong-60km-h-20210316162010.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trao giải cuộc thi ảnh “Nét đẹp Công đoàn và người lao động&quot;](https://laodong.vn/cong-doan/trao-giai-cuoc-thi-anh-net-dep-cong-doan-va-nguoi-lao-dong-889536.ldo) ([Lao Động](https://laodong.vn))
-- [Xử lý nghiêm thanh, thiếu niên vi phạm an toàn giao thông](https://laodong.vn/giao-thong/xu-ly-nghiem-thanh-thieu-nien-vi-pham-an-toan-giao-thong-889708.ldo) ([Lao Động](https://laodong.vn))
-- [Điện Biên: Tiêu hủy gần 400 cây thuốc phiện trồng xen kẽ vườn rau](https://laodong.vn/phap-luat/dien-bien-tieu-huy-gan-400-cay-thuoc-phien-trong-xen-ke-vuon-rau-889672.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng: Tổ công tác không phải cấp trên của bộ, ngành, địa phương](http://vietnamnet.vn/vn/thoi-su/chinh-tri/thu-tuong-to-cong-tac-khong-phai-cap-tren-cua-bo-nganh-dia-phuong-720017.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
@@ -121,8 +121,8 @@
 06. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
 07. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 08. [Justin Bieber - Hold On](https://www.youtube.com/watch?v=LWeiydKl0mU) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
-09. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
-10. [PBN 56 | Phượng Liên & Phi Nhung - Tân cổ "Con Gái Của Mẹ"](https://www.youtube.com/watch?v=7nd29Lme-bo) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+09. [PBN 56 | Phượng Liên & Phi Nhung - Tân cổ "Con Gái Của Mẹ"](https://www.youtube.com/watch?v=7nd29Lme-bo) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
+10. [Doja Cat - Streets (Official Video)](https://www.youtube.com/watch?v=jJdlgKzVsnI) - [dojacatVEVO](https://www.youtube.com/channel/UCpTaAz_BxtkUB1qc8JTU_7g)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
