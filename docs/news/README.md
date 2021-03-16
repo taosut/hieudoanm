@@ -1,5 +1,8 @@
 # News
 
+- [Ferrari F430 Scuderia từng của doanh nhân Hải Phòng lộ diện sau hơn 3 tháng nằm showroom](https://cafebiz.vn/ferrari-f430-scuderia-tung-cua-doanh-nhan-hai-phong-lo-dien-sau-hon-3-thang-nam-showroom-20210316190708401.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thợ đào tiền ảo Việt Nam lại khiến cộng đồng quốc tế bất ngờ với màn ngâm trâu cày trong dầu khoáng](https://cafebiz.vn/tho-dao-tien-ao-viet-nam-lai-khien-cong-dong-quoc-te-bat-ngo-voi-man-ngam-trau-cay-trong-dau-khoang-20210316184410256.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhận tiền cứu trợ kinh tế, người Mỹ sẽ "ném" sạch vào Bitcoin và chứng khoán?](https://cafebiz.vn/nhan-tien-cuu-tro-kinh-te-nguoi-my-se-nem-sach-vao-bitcoin-va-chung-khoan-20210316185122596.chn) ([CafeBiz](https://cafebiz.vn))
 - [Vì sao Stripe vượt qua SpaceX để trở thành 'kỳ lân công nghệ' lớn thứ 3 thế giới?](https://cafebiz.vn/vi-sao-stripe-vuot-qua-spacex-de-tro-thanh-ky-lan-cong-nghe-lon-thu-3-the-gioi-20210316183840474.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cô gái mang của hồi môn của bà nội đến chương trình thẩm định: Giống hệt món đồ quý trong lăng mộ Từ Hi Thái hậu](https://cafebiz.vn/co-gai-mang-cua-hoi-mon-cua-ba-noi-den-chuong-trinh-tham-dinh-giong-het-mon-do-quy-trong-lang-mo-tu-hi-thai-hau-20210316190340759.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nội Watabe &quot;rơi&quot; chiến thắng trong ngày khai mạc U19 nữ Quốc gia 2021](https://laodong.vn/bong-da/ha-noi-watabe-roi-chien-thang-trong-ngay-khai-mac-u19-nu-quoc-gia-2021-889830.ldo) ([Lao Động](https://laodong.vn))
@@ -97,6 +100,3 @@
 - [Vợ đại gia Dũng “lò vôi” bất ngờ tố cáo ông Võ Hoàng Yên "ôm" giấy tờ nhà cùng đệ tử bỏ trốn sau buổi đối chất](https://cafebiz.vn/vo-dai-gia-dung-lo-voi-bat-ngo-to-cao-ong-vo-hoang-yen-om-giay-to-nha-cung-de-tu-bo-tron-sau-buoi-doi-chat-2021031614273955.chn) ([CafeBiz](https://cafebiz.vn))
 - [Gói cứu trợ 1.900 tỷ USD và "canh bạc" lớn của Tổng thống Joe Biden](https://cafebiz.vn/goi-cuu-tro-1900-ty-usd-va-canh-bac-lon-cua-tong-thong-joe-biden-20210316142604608.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lao xe máy xuống vực, người đàn ông bị tai nạn giao thông tử vong](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/lao-xe-may-xuong-vuc-nguoi-dan-ong-bi-tai-nan-giao-thong-tu-vong-720005.html) ([VietNamNet](https://vietnamnet.vn))
-- [Người mẹ sinh 14 đứa con ở Hà Nội, 4 đứa vướng vào lao lý: “Cuộc đời này tôi chưa thấy ai khổ như mình”](https://cafebiz.vn/nguoi-me-sinh-14-dua-con-o-ha-noi-4-dua-vuong-vao-lao-ly-cuoc-doi-nay-toi-chua-thay-ai-kho-nhu-minh-20210316142402436.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội: Cấp tài khoản giao dịch thuế điện tử cho các cá nhân](https://cafebiz.vn/ha-noi-cap-tai-khoan-giao-dich-thue-dien-tu-cho-cac-ca-nhan-20210316142400274.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sự thực 'Thần y' Võ Hoàng Yên ra tay chữa bệnh tại Quảng Ngãi](https://cafebiz.vn/su-thuc-than-y-vo-hoang-yen-ra-tay-chua-benh-tai-quang-ngai-20210316142213694.chn) ([CafeBiz](https://cafebiz.vn))

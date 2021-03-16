@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 26.12°C.
-- Air Visual is 91.
+- Air Visual is 95.
 
 **WEATHER**
 
@@ -51,18 +51,18 @@
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![BTS Grammy 2021](https://img.shields.io/static/v1?label=BTS%20Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=BTS%20Grammy%202021)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
+- [![Chua Tam truc](https://img.shields.io/static/v1?label=Chua%20Tam%20truc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chua%20Tam%20truc)
 - [![Di Maria](https://img.shields.io/static/v1?label=Di%20Maria&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%20Maria)
 - [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Grammy 2021](https://img.shields.io/static/v1?label=Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Grammy%202021)
 - [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
+- [![Hoa Vinh](https://img.shields.io/static/v1?label=Hoa%20Vinh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20Vinh)
 - [![Hướng dương ngược nắng tập 40](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040)
-- [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Lee Jong Suk](https://img.shields.io/static/v1?label=Lee%20Jong%20Suk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Jong%20Suk)
 - [![Lee Nguyễn](https://img.shields.io/static/v1?label=Lee%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Nguy%E1%BB%85n)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
-- [![Lâm Tâm Như](https://img.shields.io/static/v1?label=L%C3%A2m%20T%C3%A2m%20Nh%C6%B0&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%A2m%20T%C3%A2m%20Nh%C6%B0)
+- [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
 - [![Lý Nhã Kỳ](https://img.shields.io/static/v1?label=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3)
-- [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
 - [![Ngô Thiến](https://img.shields.io/static/v1?label=Ng%C3%B4%20Thi%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20Thi%E1%BA%BFn)
@@ -75,6 +75,9 @@
 
 **NEWS**
 
+- [Ferrari F430 Scuderia từng của doanh nhân Hải Phòng lộ diện sau hơn 3 tháng nằm showroom](https://cafebiz.vn/ferrari-f430-scuderia-tung-cua-doanh-nhan-hai-phong-lo-dien-sau-hon-3-thang-nam-showroom-20210316190708401.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thợ đào tiền ảo Việt Nam lại khiến cộng đồng quốc tế bất ngờ với màn ngâm trâu cày trong dầu khoáng](https://cafebiz.vn/tho-dao-tien-ao-viet-nam-lai-khien-cong-dong-quoc-te-bat-ngo-voi-man-ngam-trau-cay-trong-dau-khoang-20210316184410256.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhận tiền cứu trợ kinh tế, người Mỹ sẽ "ném" sạch vào Bitcoin và chứng khoán?](https://cafebiz.vn/nhan-tien-cuu-tro-kinh-te-nguoi-my-se-nem-sach-vao-bitcoin-va-chung-khoan-20210316185122596.chn) ([CafeBiz](https://cafebiz.vn))
 - [Vì sao Stripe vượt qua SpaceX để trở thành 'kỳ lân công nghệ' lớn thứ 3 thế giới?](https://cafebiz.vn/vi-sao-stripe-vuot-qua-spacex-de-tro-thanh-ky-lan-cong-nghe-lon-thu-3-the-gioi-20210316183840474.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cô gái mang của hồi môn của bà nội đến chương trình thẩm định: Giống hệt món đồ quý trong lăng mộ Từ Hi Thái hậu](https://cafebiz.vn/co-gai-mang-cua-hoi-mon-cua-ba-noi-den-chuong-trinh-tham-dinh-giong-het-mon-do-quy-trong-lang-mo-tu-hi-thai-hau-20210316190340759.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nội Watabe &quot;rơi&quot; chiến thắng trong ngày khai mạc U19 nữ Quốc gia 2021](https://laodong.vn/bong-da/ha-noi-watabe-roi-chien-thang-trong-ngay-khai-mac-u19-nu-quoc-gia-2021-889830.ldo) ([Lao Động](https://laodong.vn))
@@ -82,9 +85,6 @@
 - [Mới phá kỷ lục hồi tuần trước, Bitcoin lại "rơi thẳng đứng"](https://cafebiz.vn/moi-pha-ky-luc-hoi-tuan-truoc-bitcoin-lai-roi-thang-dung-20210316184948036.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hơn 90 người ngộ độc thực phẩm ở Lai Châu](https://vnexpress.net/hon-90-nguoi-ngo-doc-thuc-pham-o-lai-chau-4249443.html) ([VNExpress](https://vnexpress.net))
 - [Nối lại việc tìm kiếm nạn nhân ở thủy điện Rào Trăng 3](https://laodong.vn/xa-hoi/noi-lai-viec-tim-kiem-nan-nhan-o-thuy-dien-rao-trang-3-889834.ldo) ([Lao Động](https://laodong.vn))
-- [Đổi thẻ bảo hiểm y tế mới 'không phát sinh chi phí'](https://vnexpress.net/doi-the-bao-hiem-y-te-moi-khong-phat-sinh-chi-phi-4249450.html) ([VNExpress](https://vnexpress.net))
-- [WHO lên tiếng việc sử dụng hộ chiếu vaccine điện tử](https://laodong.vn/the-gioi/who-len-tieng-viec-su-dung-ho-chieu-vaccine-dien-tu-889823.ldo) ([Lao Động](https://laodong.vn))
-- [Nam Anh - Nam Em có đủ lực để thi Hoa hậu Hoàn vũ 2021 sau ồn ào?](https://laodong.vn/giai-tri/nam-anh-nam-em-co-du-luc-de-thi-hoa-hau-hoan-vu-2021-sau-on-ao-889835.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
