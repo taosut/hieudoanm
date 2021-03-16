@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 23°C.
 - Feels Like 24.45°C.
-- Air Visual is 118.
+- Air Visual is 126.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Hải Phòng tập trung xây dựng Thủy Nguyên thành thành phố văn minh, hiện đại](https://laodong.vn/thoi-su/hai-phong-tap-trung-xay-dung-thuy-nguyen-thanh-thanh-pho-van-minh-hien-dai-889726.ldo) ([Lao Động](https://laodong.vn))
-- [Người Việt dễ dàng mua những chiếc ô tô giá rẻ nhất thế giới, sự thật có “mặn mà”?](https://cafebiz.vn/nguoi-viet-de-dang-mua-nhung-chiec-o-to-gia-re-nhat-the-gioi-su-that-co-man-ma-20210316152924389.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo viên THCS đã hết tập sự, được hưởng hệ số lương 2,34 hay 2,1?](https://laodong.vn/ban-doc/giao-vien-thcs-da-het-tap-su-duoc-huong-he-so-luong-234-hay-21-889594.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ ông Dũng "lò vôi": Muốn có bao nhiêu đời chồng không khó, lấy được chồng tử tế mới khó!](https://cafebiz.vn/vo-ong-dung-lo-voi-muon-co-bao-nhieu-doi-chong-khong-kho-lay-duoc-chong-tu-te-moi-kho-20210316165202964.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tin bóng đá tối 16.3: Hủy diệt Huesca, sao Barca buông lời kiêu ngạo](https://laodong.vn/bong-da-quoc-te/tin-bong-da-toi-163-huy-diet-huesca-sao-barca-buong-loi-kieu-ngao-889714.ldo) ([Lao Động](https://laodong.vn))
-- [Rosé (Blackpink) lập kỷ lục với 500.000 bản đặt cho album mới](https://laodong.vn/giai-tri/rose-blackpink-lap-ky-luc-voi-500000-ban-dat-cho-album-moi-889589.ldo) ([Lao Động](https://laodong.vn))
-- [Nghệ An: Không có người tự ứng cử đại biểu Quốc hội khóa mới](https://laodong.vn/thoi-su/nghe-an-khong-co-nguoi-tu-ung-cu-dai-bieu-quoc-hoi-khoa-moi-889725.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam nằm trong top các nước có giá Internet rẻ nhất thế giới](https://cafebiz.vn/viet-nam-nam-trong-top-cac-nuoc-co-gia-internet-re-nhat-the-gioi-20210316134732239.chn) ([CafeBiz](https://cafebiz.vn))
-- [Một năm “cai” Google của tôi - Lời trần tình của một nhà báo freelance](https://cafebiz.vn/mot-nam-cai-google-cua-toi-loi-tran-tinh-cua-mot-nha-bao-freelance-20210316162706081.chn) ([CafeBiz](https://cafebiz.vn))
-- ["Khổ" như vợ chồng Meghan: Trang gây quỹ được dân Mỹ lập ra để giúp đỡ đã "bay màu"sau khi thu về... 2,5 triệu đồng, biệt thự còn bị trộm đột nhập](https://cafebiz.vn/kho-nhu-vo-chong-meghan-trang-gay-quy-duoc-dan-my-lap-ra-de-giup-do-da-bay-mausau-khi-thu-ve-25-trieu-dong-biet-thu-con-bi-trom-dot-nhap-20210316162209736.chn) ([CafeBiz](https://cafebiz.vn))
+
 
 [Read More](docs/news/README.md)
 
