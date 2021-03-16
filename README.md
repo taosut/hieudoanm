@@ -59,9 +59,9 @@
 - [![Hướng dương ngược nắng tập 40](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Lee Jong Suk](https://img.shields.io/static/v1?label=Lee%20Jong%20Suk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Jong%20Suk)
+- [![Lee Nguyễn](https://img.shields.io/static/v1?label=Lee%20Nguy%E1%BB%85n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Nguy%E1%BB%85n)
 - [![Leicester](https://img.shields.io/static/v1?label=Leicester&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Leicester)
 - [![Love Alarm](https://img.shields.io/static/v1?label=Love%20Alarm&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Love%20Alarm)
-- [![Lý Nhã Kỳ](https://img.shields.io/static/v1?label=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Minh Lộc](https://img.shields.io/static/v1?label=Minh%20L%E1%BB%99c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minh%20L%E1%BB%99c)
 - [![Mu](https://img.shields.io/static/v1?label=Mu&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mu)
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Tiêm vaccine COVID-19 tại Long An sau 5 ngày: Không ghi nhận biến chứng](https://laodong.vn/xa-hoi/tiem-vaccine-covid-19-tai-long-an-sau-5-ngay-khong-ghi-nhan-bien-chung-889747.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ ông Dũng “lò vôi” mong kết thúc lùm xùm để trở lại công việc thường ngày](https://laodong.vn/xa-hoi/vo-ong-dung-lo-voi-mong-ket-thuc-lum-xum-de-tro-lai-cong-viec-thuong-ngay-889685.ldo) ([Lao Động](https://laodong.vn))
+- [Mọi sáng kiến đều đáng quý](https://laodong.vn/cong-doan/moi-sang-kien-deu-dang-quy-889711.ldo) ([Lao Động](https://laodong.vn))
+- [Cập nhật: Nam Định và 11 tỉnh, thành công bố môn thi, lịch thi lớp 10](https://laodong.vn/giao-duc/cap-nhat-nam-dinh-va-11-tinh-thanh-cong-bo-mon-thi-lich-thi-lop-10-889177.ldo) ([Lao Động](https://laodong.vn))
+- [Cổ phiếu của Viglacera Từ Sơn bị hủy niêm yết do thua lỗ kéo dài](https://laodong.vn/kinh-te/co-phieu-cua-viglacera-tu-son-bi-huy-niem-yet-do-thua-lo-keo-dai-889715.ldo) ([Lao Động](https://laodong.vn))
+- [Bạc Liêu cho phép người thân vào khu cách ly chăm sóc 26 trẻ về từ Hàn Quốc](https://tuoitre.vn/bac-lieu-cho-phep-nguoi-than-vao-khu-cach-ly-cham-soc-26-tre-ve-tu-han-quoc-2021031617074286.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [YouTuber Thơ Nguyễn bị phạt 7,5 triệu đồng](https://vnexpress.net/youtuber-tho-nguyen-bi-phat-7-5-trieu-dong-4249407.html) ([VNExpress](https://vnexpress.net))
+- [Giáng chức cục trưởng Cục thi hành án dân sự TP.HCM xuống cục phó](https://tuoitre.vn/giang-chuc-cuc-truong-cuc-thi-hanh-an-dan-su-tp-hcm-xuong-cuc-pho-20210316171618517.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Lãnh đạo TP.HCM thăm công viên phần mềm Quang Trung](https://tuoitre.vn/lanh-dao-tphcm-tham-cong-vien-phan-mem-quang-trung-20210316172444125.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ban quản lý đường sắt đô thị TP HCM bị phê bình](https://vnexpress.net/ban-quan-ly-duong-sat-do-thi-tp-hcm-bi-phe-binh-4249219.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
