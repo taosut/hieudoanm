@@ -95,6 +95,8 @@ export class AppsCameraComponent implements OnInit {
       return alert("NO FILE");
     }
 
+    const { name } = file;
+    this.filename = name;
     this.loading = true;
     const text: string = await this.getTextFromImage(file);
     this.banksInfos = await this.getBanksInfos(text);
