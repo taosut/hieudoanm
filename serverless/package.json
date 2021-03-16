@@ -13,6 +13,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "axios": "^0.21.1",
     "bootstrap": "^4.6.0",
     "date-fns": "^2.19.0",
     "gray-matter": "^4.0.2",
@@ -20,7 +21,9 @@
     "js-yaml": "^4.0.0",
     "lodash": "^4.17.21",
     "md5": "^2.3.0",
+    "multer": "^1.4.2",
     "next": "10.0.8",
+    "next-connect": "^0.10.0",
     "node-fetch": "^2.6.1",
     "popper.js": "^1.16.1",
     "react": "17.0.1",

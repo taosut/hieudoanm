@@ -4,6 +4,7 @@ import Head from 'next/head';
 import Container from 'react-bootstrap/Container';
 import Tesseract from 'tesseract.js';
 import _ from 'lodash';
+import axios from 'axios';
 
 interface Props {}
 
@@ -77,6 +78,7 @@ class Banks extends React.Component<Props, State> {
       isMobile: false
     };
 
+    this.uploadBankImage = this.uploadBankImage.bind(this);
     this.processFiles = this.processFiles.bind(this);
     this.getTextFromImage = this.getTextFromImage.bind(this);
     this.getBanksInfos = this.getBanksInfos.bind(this);
@@ -113,9 +115,7 @@ class Banks extends React.Component<Props, State> {
 
   private async getTextFromImage(file: File): Promise<string> {
     return new Promise(resolve => {
-      Tesseract.recognize(file, 'eng', {
-        logger: process => console.log('process', process)
-      })
+      Tesseract.recognize(file, 'eng', {})
         .then(({ data: { text } }) => {
           return resolve(text);
         })
@@ -193,6 +193,27 @@ class Banks extends React.Component<Props, State> {
     document.body.removeChild(textArea);
   }
 
+  public async uploadBankImage(event: any): Promise<void> {
+    const file = event.target.files.item(0);
+    const { name = '' } = file;
+    this.setState({ filename: name });
+    console.log(file);
+    this.setState({ loading: true, banksInfos: [] });
+    const formData = new FormData();
+    formData.append('file', file);
+    const config = {
+      headers: { 'content-type': 'multipart/form-data' },
+      onUploadProgress: event => {
+        console.log(`Current progress:`, Math.round((event.loaded * 100) / event.total));
+      }
+    };
+    const response = await axios.post('/api/banks', formData, config);
+    const { data = {} } = response;
+    const { banksInfos = [] } = data;
+
+    this.setState({ loading: false, banksInfos });
+  }
+
   render() {
     const { filename = '', loading = false, banksInfos = [], isMobile = false } = this.state;
 
@@ -210,7 +231,7 @@ class Banks extends React.Component<Props, State> {
                 id="customFile"
                 accept="image/*"
                 capture="capture"
-                onChange={this.processFiles}
+                onChange={this.uploadBankImage}
               />
               <label className="custom-file-label" htmlFor="customFile">
                 {filename}
