@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is mist.
 - Temperature is 24°C.
-- Feels Like 25.63°C.
-- Air Visual is 125.
+- Feels Like 25.99°C.
+- Air Visual is 118.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tỷ phú Elon Musk cũng nhảy vào cơn sốt NFT, đang rao bán một bản nhạc điện tử về NFT](https://cafebiz.vn/ty-phu-elon-musk-cung-nhay-vao-con-sot-nft-dang-rao-ban-mot-ban-nhac-dien-tu-ve-nft-20210316134546621.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắc Kinh cấp visa cho người đã tiêm vaccine COVID-19 Trung Quốc](https://laodong.vn/the-gioi/bac-kinh-cap-visa-cho-nguoi-da-tiem-vaccine-covid-19-trung-quoc-889683.ldo) ([Lao Động](https://laodong.vn))
-- [Truy sát chủ nợ giữa phố, gây thương tích 51%](https://laodong.vn/phap-luat/truy-sat-chu-no-giua-pho-gay-thuong-tich-51-889702.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất chi 6.000 tỷ đồng đào tạo lại lao động](https://vnexpress.net/de-xuat-chi-6-000-ty-dong-dao-tao-lai-lao-dong-4249239.html) ([VNExpress](https://vnexpress.net))
-- [Đẩy nhanh tiến độ Nhà ga T2 - Cảng hàng không Quốc tế Phú Bài](https://laodong.vn/kinh-te/day-nhanh-tien-do-nha-ga-t2-cang-hang-khong-quoc-te-phu-bai-889700.ldo) ([Lao Động](https://laodong.vn))
-- [Đổi CCCD gắn chip, các thông tin trên giấy tờ pháp lý sẽ thay đổi ra sao?](https://laodong.vn/video/doi-cccd-gan-chip-cac-thong-tin-tren-giay-to-phap-ly-se-thay-doi-ra-sao-889546.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ ông Dũng "lò vôi" tuyên bố từ chối nhận lại hơn 200 tỷ tố bị Võ Hoàng Yên lừa đảo: "Có lấy lại tôi cũng mang đi làm từ thiện, tôi nhường lại cho những ai bị ông Yên lừa"](https://cafebiz.vn/vo-ong-dung-lo-voi-tuyen-bo-tu-choi-nhan-lai-hon-200-ty-to-bi-vo-hoang-yen-lua-dao-co-lay-lai-toi-cung-mang-di-lam-tu-thien-toi-nhuong-lai-cho-nhung-ai-bi-ong-yen-lua-20210316155235257.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bí thư thứ nhất Trung ương Đoàn đối thoại trực tuyến với thanh niên](https://laodong.vn/xa-hoi/bi-thu-thu-nhat-trung-uong-doan-doi-thoai-truc-tuyen-voi-thanh-nien-889668.ldo) ([Lao Động](https://laodong.vn))
-- [Từng giàu nhất châu Á, vị tỷ phú này mất hơn 30 tỷ USD trong chưa đầy 6 năm, chật vật để 'cứu' đế chế đang nợ chồng chất](https://cafebiz.vn/tung-giau-nhat-chau-a-vi-ty-phu-nay-mat-hon-30-ty-usd-trong-chua-day-6-nam-chat-vat-de-cuu-de-che-dang-no-chong-chat-20210316151534367.chn) ([CafeBiz](https://cafebiz.vn))
-- [Độc đáo tục "đánh kẻ tiểu nhân" lưu dấu trăm năm theo chân người Hoa ở Sài Gòn: "Nam đạp 7 cái, nữ đạp 9 cái sẽ tiêu hết những điều xui xẻo, diệt được kẻ muốn hại mình"!?](https://cafebiz.vn/doc-dao-tuc-danh-ke-tieu-nhan-luu-dau-tram-nam-theo-chan-nguoi-hoa-o-sai-gon-nam-dap-7-cai-nu-dap-9-cai-se-tieu-het-nhung-dieu-xui-xeo-diet-duoc-ke-muon-hai-minh-20210316154306114.chn) ([CafeBiz](https://cafebiz.vn))
+- [Việt Nam nằm trong top các nước có giá Internet rẻ nhất thế giới](https://cafebiz.vn/viet-nam-nam-trong-top-cac-nuoc-co-gia-internet-re-nhat-the-gioi-20210316134732239.chn) ([CafeBiz](https://cafebiz.vn))
+- [Không khí lạnh sắp tràn về, miền Bắc trở mưa dông gió rét diện rộng](https://laodong.vn/moi-truong/khong-khi-lanh-sap-tran-ve-mien-bac-tro-mua-dong-gio-ret-dien-rong-889707.ldo) ([Lao Động](https://laodong.vn))
+- [Hãng truyền thông lớn đầu tiên ở Australia ký thỏa thuận với Facebook](https://laodong.vn/the-gioi/hang-truyen-thong-lon-dau-tien-o-australia-ky-thoa-thuan-voi-facebook-889686.ldo) ([Lao Động](https://laodong.vn))
+- [Một năm “cai” Google của tôi - Lời trần tình của một nhà báo freelance](https://cafebiz.vn/mot-nam-cai-google-cua-toi-loi-tran-tinh-cua-mot-nha-bao-freelance-20210316162706081.chn) ([CafeBiz](https://cafebiz.vn))
+- ["Khổ" như vợ chồng Meghan: Trang gây quỹ được dân Mỹ lập ra để giúp đỡ đã "bay màu"sau khi thu về... 2,5 triệu đồng, biệt thự còn bị trộm đột nhập](https://cafebiz.vn/kho-nhu-vo-chong-meghan-trang-gay-quy-duoc-dan-my-lap-ra-de-giup-do-da-bay-mausau-khi-thu-ve-25-trieu-dong-biet-thu-con-bi-trom-dot-nhap-20210316162209736.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cầu Thanh Trì ùn tắc trong ngày đầu hạ tốc độ xuống 60km/h](https://cafebiz.vn/cau-thanh-tri-un-tac-trong-ngay-dau-ha-toc-do-xuong-60km-h-20210316162010.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trao giải cuộc thi ảnh “Nét đẹp Công đoàn và người lao động&quot;](https://laodong.vn/cong-doan/trao-giai-cuoc-thi-anh-net-dep-cong-doan-va-nguoi-lao-dong-889536.ldo) ([Lao Động](https://laodong.vn))
+- [Xử lý nghiêm thanh, thiếu niên vi phạm an toàn giao thông](https://laodong.vn/giao-thong/xu-ly-nghiem-thanh-thieu-nien-vi-pham-an-toan-giao-thong-889708.ldo) ([Lao Động](https://laodong.vn))
+- [Điện Biên: Tiêu hủy gần 400 cây thuốc phiện trồng xen kẽ vườn rau](https://laodong.vn/phap-luat/dien-bien-tieu-huy-gan-400-cay-thuoc-phien-trong-xen-ke-vuon-rau-889672.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng: Tổ công tác không phải cấp trên của bộ, ngành, địa phương](http://vietnamnet.vn/vn/thoi-su/chinh-tri/thu-tuong-to-cong-tac-khong-phai-cap-tren-cua-bo-nganh-dia-phuong-720017.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
