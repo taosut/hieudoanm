@@ -41,13 +41,7 @@ const banks: Array<any> = [
   { names: ['vpbank'], prefixes: ['15'] }
 ];
 
-const upload = multer({
-  limits: { fileSize: 100000000, files: 1 },
-  storage: multer.diskStorage({
-    destination: './public/uploads',
-    filename: (req, file, cb) => cb(null, file.originalname)
-  })
-});
+const upload = multer({ dest: '/tmp/uploads/', limits: { fileSize: 100000000, files: 1 } });
 
 const apiRoute = nextConnect({
   onError(error, req, res: any) {
