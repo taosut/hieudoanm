@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 25.69°C.
-- Air Visual is 108.
+- Temperature is 26°C.
+- Feels Like 27.38°C.
+- Air Visual is 116.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nghịch lý: Mỹ &quot;tặng quà&quot; cho Trung Quốc 60 tỉ USD](https://laodong.vn/the-gioi/nghich-ly-my-tang-qua-cho-trung-quoc-60-ti-usd-889985.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao kết thúc một tình bạn còn đau khổ hơn kết thúc một tình yêu?](https://laodong.vn/chuyen-nha-minh/vi-sao-ket-thuc-mot-tinh-ban-con-dau-kho-hon-ket-thuc-mot-tinh-yeu-889555.ldo) ([Lao Động](https://laodong.vn))
-- [Đại dương cổ có thể ẩn sâu dưới bề mặt sao Hỏa](https://laodong.vn/the-gioi/dai-duong-co-co-the-an-sau-duoi-be-mat-sao-hoa-889887.ldo) ([Lao Động](https://laodong.vn))
-- [Diệu Nhi hứa hẹn khả năng diễn xuất trong &quot;Bẫy ngọt ngào&quot;](https://laodong.vn/giai-tri/dieu-nhi-hua-hen-kha-nang-dien-xuat-trong-bay-ngot-ngao-889978.ldo) ([Lao Động](https://laodong.vn))
-- [Ninh Bình: Có 10 người ứng cử đại biểu Quốc hội khóa XV](https://laodong.vn/thoi-su/ninh-binh-co-10-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xv-889987.ldo) ([Lao Động](https://laodong.vn))
+- [Loạt lỗ hổng pháp luật trong vụ giao 7.000m2 đất khu công nghiệp Hòa Khánh](https://laodong.vn/ban-doc/loat-lo-hong-phap-luat-trong-vu-giao-7000m2-dat-khu-cong-nghiep-hoa-khanh-889651.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút 17.3: Số tiền ông Đinh La Thăng phải bồi thường sau 4 đại án](https://laodong.vn/video-thoi-su/ban-tin-1-phut-173-so-tien-ong-dinh-la-thang-phai-boi-thuong-sau-4-dai-an-889979.ldo) ([Lao Động](https://laodong.vn))
+- [Iran triển khai làm giàu uranium bằng loại máy ly tâm tiên tiến](https://laodong.vn/the-gioi/iran-trien-khai-lam-giau-uranium-bang-loai-may-ly-tam-tien-tien-889960.ldo) ([Lao Động](https://laodong.vn))
+- [Cần Thơ: 2 người tự ứng cử đại biểu HĐND thành phố nhiệm kỳ 2021-2026](https://laodong.vn/thoi-su/can-tho-2-nguoi-tu-ung-cu-dai-bieu-hdnd-thanh-pho-nhiem-ky-2021-2026-889991.ldo) ([Lao Động](https://laodong.vn))
+- [Kiểm tra trách nhiệm quản lý đất đai ở 26 tỉnh thành](https://tuoitre.vn/kiem-tra-trach-nhiem-quan-ly-nha-nuoc-ve-dat-dai-26-tinh-tp-20210317110413924.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nhà Trắng công bố họp báo chính thức đầu tiên của Tổng thống Biden](https://laodong.vn/the-gioi/nha-trang-cong-bo-hop-bao-chinh-thuc-dau-tien-cua-tong-thong-biden-889952.ldo) ([Lao Động](https://laodong.vn))
+- [Xe chuyên dùng chở quan tài bốc cháy ngùn ngụt giữa trung tâm Đà Nẵng](http://vietnamnet.vn/vn/thoi-su/xe-chuyen-dung-cho-quan-tai-boc-chay-ngun-ngut-giua-trung-tam-da-nang-720230.html) ([VietNamNet](https://vietnamnet.vn))
+- [Thanh niên tử vong ở TP.HCM, tài xế lái ô tô bỏ chạy khỏi hiện trường](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/thanh-nien-tu-vong-o-tp-hcm-tai-xe-lai-o-to-bo-chay-khoi-hien-truong-720234.html) ([VietNamNet](https://vietnamnet.vn))
 - [Xét xử Dương Thị Bạch Diệp: Phiên tòa tạm dừng 5 ngày vì lý do bất ngờ](https://laodong.vn/phap-luat/xet-xu-duong-thi-bach-diep-phien-toa-tam-dung-5-ngay-vi-ly-do-bat-ngo-889976.ldo) ([Lao Động](https://laodong.vn))
 - [Gắn kết, thu hút doanh nghiệp và “xây tổ đón đại bàng”](https://laodong.vn/thoi-su/gan-ket-thu-hut-doanh-nghiep-va-xay-to-don-dai-bang-889827.ldo) ([Lao Động](https://laodong.vn))
-- [Không nên chậm trễ gói hỗ trợ 6.000 tỉ đồng đào tạo lại lao động](https://laodong.vn/cong-doan/khong-nen-cham-tre-goi-ho-tro-6000-ti-dong-dao-tao-lai-lao-dong-889806.ldo) ([Lao Động](https://laodong.vn))
-- [Nha Trang đóng cửa chợ Đầm cũ từ 31-3](https://tuoitre.vn/nha-trang-dong-cua-cho-dam-cu-tu-31-3-20210317110921448.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hai Đại tá trẻ Vũ Hồng Văn và Đinh Văn Nơi: Thành công từ nguồn tin của dân](https://laodong.vn/phap-luat/hai-dai-ta-tre-vu-hong-van-va-dinh-van-noi-thanh-cong-tu-nguon-tin-cua-dan-889802.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
