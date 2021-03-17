@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 26.83°C.
-- Air Visual is 108.
+- Temperature is 25°C.
+- Feels Like 26.41°C.
+- Air Visual is 99.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Trồng rau giữa sa mạc, start-up gọi vốn thành công 60 triệu USD](https://cafebiz.vn/trong-rau-giua-sa-mac-start-up-goi-von-thanh-cong-60-trieu-usd-2021031715510864.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quảng Bình: Trạm bê tông không phép hoạt động trên 10.000m2 đất rừng](https://laodong.vn/ban-doc/quang-binh-tram-be-tong-khong-phep-hoat-dong-tren-10000m2-dat-rung-890052.ldo) ([Lao Động](https://laodong.vn))
+- [Từ 1.7, thêm đối tượng hưởng trợ cấp xã hội hàng tháng](https://laodong.vn/cong-doan/tu-17-them-doi-tuong-huong-tro-cap-xa-hoi-hang-thang-890055.ldo) ([Lao Động](https://laodong.vn))
+- [Thế giới cấp tập tăng dự trữ giữa biến động giá vàng](https://laodong.vn/the-gioi/the-gioi-cap-tap-tang-du-tru-giua-bien-dong-gia-vang-890070.ldo) ([Lao Động](https://laodong.vn))
+- [Chủ tịch Ủy ban bầu cử TP Cần Thơ: 'Không ông nào lót đường cho ông nào'](https://tuoitre.vn/chu-tich-uy-ban-bau-cu-tp-can-tho-khong-ong-nao-lot-duong-cho-ong-nao-20210317152440913.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bình Dương: Khống chế vụ hỏa hoạn ở vựa phế liệu sát khu dân cư](https://laodong.vn/xa-hoi/binh-duong-khong-che-vu-hoa-hoan-o-vua-phe-lieu-sat-khu-dan-cu-890061.ldo) ([Lao Động](https://laodong.vn))
+- [Mới đầu mùa khô, điện tiêu thụ tại TP.HCM đã tăng vượt 2020](https://tuoitre.vn/moi-dau-mua-kho-dien-tieu-thu-tai-tp-hcm-da-tang-vuot-2020-20210317150214433.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Cựu đại úy quân đội lĩnh án 14 năm tù vì lừa đảo “chạy” trường](https://laodong.vn/phap-luat/cuu-dai-uy-quan-doi-linh-an-14-nam-tu-vi-lua-dao-chay-truong-890065.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Park Hang-seo thấy gì từ màn trình diễn của học trò tại V.League?](https://laodong.vn/bong-da/ong-park-hang-seo-thay-gi-tu-man-trinh-dien-cua-hoc-tro-tai-vleague-890039.ldo) ([Lao Động](https://laodong.vn))
 - [CEO Trần Thị Hương: “Thay đổi tư duy để thay đổi cuộc đời”](https://cafebiz.vn/ceo-tran-thi-huong-thay-doi-tu-duy-de-thay-doi-cuoc-doi-20210317152519579.chn) ([CafeBiz](https://cafebiz.vn))
 - [Wikipedia sắp không còn miễn phí như trước](https://cafebiz.vn/wikipedia-sap-khong-con-mien-phi-nhu-truoc-20210317134314644.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ôtô bốc cháy giữa phố](https://vnexpress.net/oto-boc-chay-giua-pho-4249753.html) ([VNExpress](https://vnexpress.net))
-- [Người đàn ông có siêu kháng thể diệt được virus SARS-CoV-2  dù pha loãng máu tới 10.000 lần](https://cafebiz.vn/nguoi-dan-ong-co-sieu-khang-the-diet-duoc-virus-sars-cov-2-du-pha-loang-mau-toi-10000-lan-20210317152035136.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hai anh em đỗ đại học tốp 1 châu Á, báo chí kéo đến nhà phỏng vấn rầm rộ, bà mẹ nói đúng 1 câu mà ai cũng gật gù tâm đắc](https://cafebiz.vn/hai-anh-em-do-dai-hoc-top-1-chau-a-bao-chi-keo-den-nha-phong-van-ram-ro-ba-me-noi-dung-1-cau-ma-ai-cung-gat-gu-tam-dac-20210317152758284.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khánh thành tượng đài nhà thơ Nga Pushkin tại Hà Nội](https://laodong.vn/the-gioi/khanh-thanh-tuong-dai-nha-tho-nga-pushkin-tai-ha-noi-890049.ldo) ([Lao Động](https://laodong.vn))
-- [LĐLĐ tỉnh Bình Dương triển khai Nghị quyết Đại hội Đảng các cấp](https://laodong.vn/ldld-binh-duong/ldld-tinh-binh-duong-trien-khai-nghi-quyet-dai-hoi-dang-cac-cap-890046.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -120,8 +120,8 @@
 05. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 06. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
 07. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
-08. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-09. [Billie Eilish - everything i wanted (Live From The 63rd GRAMMYs®/2021)](https://www.youtube.com/watch?v=aVAKT9UxJMI) - [BillieEilishVEVO](https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg)
+08. [Billie Eilish - everything i wanted (Live From The 63rd GRAMMYs®/2021)](https://www.youtube.com/watch?v=aVAKT9UxJMI) - [BillieEilishVEVO](https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg)
+09. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
 10. [PBN 56 | Phượng Liên & Phi Nhung - Tân cổ "Con Gái Của Mẹ"](https://www.youtube.com/watch?v=7nd29Lme-bo) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
