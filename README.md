@@ -19,17 +19,17 @@
 
 **CALENDAR**
 
-- Current weather is undefined.
-- Temperature is 0°C.
-- Feels Like 0°C.
-- Air Visual is 0.
+- Current weather is broken clouds.
+- Temperature is 24°C.
+- Feels Like 27.07°C.
+- Air Visual is 144.
 
 **WEATHER**
 
 - Date: 2021/03/17
-- Lunar: 0/00/00
-- Tiet Khi: Lập xuân.
-- năm tân sửu tháng tân mão ngày giáp tý.
+- Lunar: 2021/02/05
+- Tiet Khi: Đông chí.
+- năm canh tý tháng kỷ sửu ngày giáp thân.
 
 **NPM**
 
@@ -48,7 +48,26 @@
 
 **GOOGLE TRENDS**
 
-
+- [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
+- [![Căn cước công dân gắn chip](https://img.shields.io/static/v1?label=C%C4%83n%20c%C6%B0%E1%BB%9Bc%20c%C3%B4ng%20d%C3%A2n%20g%E1%BA%AFn%20chip&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C4%83n%20c%C6%B0%E1%BB%9Bc%20c%C3%B4ng%20d%C3%A2n%20g%E1%BA%AFn%20chip)
+- [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
+- [![Grammy 2021](https://img.shields.io/static/v1?label=Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Grammy%202021)
+- [![Gọi Rồng Online](https://img.shields.io/static/v1?label=G%E1%BB%8Di%20R%E1%BB%93ng%20Online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G%E1%BB%8Di%20R%E1%BB%93ng%20Online)
+- [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
+- [![Hoa Vinh](https://img.shields.io/static/v1?label=Hoa%20Vinh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20Vinh)
+- [![Hướng dương ngược nắng tập 40](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040)
+- [![Hướng dương ngược nắng tập 41](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2041&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2041)
+- [![Kỳ Duyên](https://img.shields.io/static/v1?label=K%E1%BB%B3%20Duy%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=K%E1%BB%B3%20Duy%C3%AAn)
+- [![Lee Jong Suk](https://img.shields.io/static/v1?label=Lee%20Jong%20Suk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Jong%20Suk)
+- [![Lý Dịch Phong](https://img.shields.io/static/v1?label=L%C3%BD%20D%E1%BB%8Bch%20Phong&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20D%E1%BB%8Bch%20Phong)
+- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Minari](https://img.shields.io/static/v1?label=Minari&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minari)
+- [![NSND Lan Hương](https://img.shields.io/static/v1?label=NSND%20Lan%20H%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Lan%20H%C6%B0%C6%A1ng)
+- [![Ngô Thiến](https://img.shields.io/static/v1?label=Ng%C3%B4%20Thi%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20Thi%E1%BA%BFn)
+- [![Park Seo Joon](https://img.shields.io/static/v1?label=Park%20Seo%20Joon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Park%20Seo%20Joon)
+- [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
+- [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
+- [![iPhone 13](https://img.shields.io/static/v1?label=iPhone%2013&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iPhone%2013)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -56,7 +75,16 @@
 
 **NEWS**
 
-
+- [Vĩnh Phúc: Đã sai phạm còn lộng hành, uy hiếp cán bộ xã](https://laodong.vn/bat-dong-san/vinh-phuc-da-sai-pham-con-long-hanh-uy-hiep-can-bo-xa-890098.ldo) ([Lao Động](https://laodong.vn))
+- [Điện Biên họp báo cung cấp thông tin vụ phá rừng Lao Động phản ánh](https://laodong.vn/ban-doc/dien-bien-hop-bao-cung-cap-thong-tin-vu-pha-rung-lao-dong-phan-anh-890191.ldo) ([Lao Động](https://laodong.vn))
+- [Pháp phát hiện biến chủng SARS-CoV-2 mới có khả năng “qua mặt” xét nghiệm PCR](https://cafebiz.vn/phap-phat-hien-bien-chung-sars-cov-2-moi-co-kha-nang-qua-mat-xet-nghiem-pcr-20210317183919931.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 18.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-183-890125.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất 24h: Bị cáo Đinh La Thăng sẽ phải bồi thường 830 tỉ đồng ra sao?](https://laodong.vn/video/nong-nhat-24h-bi-cao-dinh-la-thang-se-phai-boi-thuong-830-ti-dong-ra-sao-889995.ldo) ([Lao Động](https://laodong.vn))
+- [Những công dụng tuyệt vời của việc ngâm chân bằng nước muối gừng](https://laodong.vn/suc-khoe/nhung-cong-dung-tuyet-voi-cua-viec-ngam-chan-bang-nuoc-muoi-gung-889855.ldo) ([Lao Động](https://laodong.vn))
+- [Tại sao độ cao của đỉnh Everest liên tục thay đổi?](https://laodong.vn/the-gioi/tai-sao-do-cao-cua-dinh-everest-lien-tuc-thay-doi-890045.ldo) ([Lao Động](https://laodong.vn))
+- [Toyota - "Thiên đường dưới hạ giới": Đắm mình trong thiên nhiên kỳ vĩ và văn hoá bản địa độc đáo!](https://cafebiz.vn/toyota-thien-duong-duoi-ha-gioi-dam-minh-trong-thien-nhien-ky-vi-va-van-hoa-ban-dia-doc-dao-20210317182954224.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vợ ông Dũng "lò vôi" bất ngờ tuyên bố đóng Facebook để được bình an: "Tôi còn công việc, các con và tử tế với bản thân mình nữa"](https://cafebiz.vn/vo-ong-dung-lo-voi-bat-ngo-tuyen-bo-dong-facebook-de-duoc-binh-an-toi-con-cong-viec-cac-con-va-tu-te-voi-ban-than-minh-nua-2021031719500907.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bộ GD-ĐT đưa tiếng Hàn thành môn thi tốt nghiệp và xét tuyển đại học](https://cafebiz.vn/bo-gd-dt-dua-tieng-han-thanh-mon-thi-tot-nghiep-va-xet-tuyen-dai-hoc-20210317183758253.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -85,7 +113,16 @@
 
 **MUSIC TRENDS**
 
-
+01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+02. [Dua Lipa - Levitating ft. DaBaby / Don't Start Now (Live at the GRAMMYs 2021)](https://www.youtube.com/watch?v=vFWv44Z4Jhk) - [Dua Lipa](https://www.youtube.com/channel/UC-J-KZfRV8c13fOCkhXdLiQ)
+03. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+04. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
+05. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
+06. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
+07. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
+08. [Billie Eilish - everything i wanted (Live From The 63rd GRAMMYs®/2021)](https://www.youtube.com/watch?v=aVAKT9UxJMI) - [BillieEilishVEVO](https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg)
+09. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
+10. [PBN 56 | Phượng Liên & Phi Nhung - Tân cổ "Con Gái Của Mẹ"](https://www.youtube.com/watch?v=7nd29Lme-bo) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -93,7 +130,16 @@
 
 **YOUTUBE TRENDS**
 
-
+01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+02. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
+03. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+04. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
+05. [TẠM BIỆT...](https://www.youtube.com/watch?v=5djwsYBZ7ys) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
+06. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
+07. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
+08. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+09. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
+10. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 
 [Read More](https://www.youtube.com/feed/trending)
 
