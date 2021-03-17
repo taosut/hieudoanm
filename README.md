@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 25.4°C.
-- Air Visual is 98.
+- Feels Like 26.12°C.
+- Air Visual is 85.
 
 **WEATHER**
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Lễ bốc thăm vòng tứ kết Champions League 2020-21 có gì đặc biệt?](https://laodong.vn/bong-da-quoc-te/le-boc-tham-vong-tu-ket-champions-league-2020-21-co-gi-dac-biet-889908.ldo) ([Lao Động](https://laodong.vn))
+- [Trải nghiệm lần đầu tiêm vaccine COVID-19 của tiến sĩ người Việt tại Mỹ](https://laodong.vn/suc-khoe/trai-nghiem-lan-dau-tiem-vaccine-covid-19-cua-tien-si-nguoi-viet-tai-my-889929.ldo) ([Lao Động](https://laodong.vn))
+- [Anh hướng tới tăng cường ảnh hưởng ở Ấn Độ - Thái Bình Dương](https://laodong.vn/the-gioi/anh-huong-toi-tang-cuong-anh-huong-o-an-do-thai-binh-duong-889915.ldo) ([Lao Động](https://laodong.vn))
+- [Thiêng liêng những “sơn tự” giữa mây ngàn](https://laodong.vn/bat-dong-san/thieng-lieng-nhung-son-tu-giua-may-ngan-889921.ldo) ([Lao Động](https://laodong.vn))
+- [Uống rượu ngâm cây anh túc, tài xế bị phát hiện dương tính với ma túy](https://laodong.vn/phap-luat/uong-ruou-ngam-cay-anh-tuc-tai-xe-bi-phat-hien-duong-tinh-voi-ma-tuy-889933.ldo) ([Lao Động](https://laodong.vn))
+- [Cháy kho hàng gia dụng giữa khu dân cư](https://vnexpress.net/chay-kho-hang-gia-dung-giua-khu-dan-cu-4249643.html) ([VNExpress](https://vnexpress.net))
+- [Nguy cơ bùng phát dịch vẫn luôn thường trực ở Việt Nam](https://tuoitre.vn/nguy-co-bung-phat-dich-van-luon-thuong-truc-o-viet-nam-20210317101308555.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thủ tướng chủ trì họp trực tuyến toàn quốc về Covid-19](http://vietnamnet.vn/vn/thoi-su/chinh-tri/thu-tuong-chu-tri-hop-truc-tuyen-toan-quoc-ve-covid-19-720188.html) ([VietNamNet](https://vietnamnet.vn))
+- [Giá vàng và ngoại tệ 17.3: Vàng tiếp tục giữ &quot;phong độ&quot; ở mức cao](https://laodong.vn/video/gia-vang-va-ngoai-te-173-vang-tiep-tuc-giu-phong-do-o-muc-cao-889926.ldo) ([Lao Động](https://laodong.vn))
+- [Vì sao Bí thư Nguyễn Văn Nên không ứng cử đại biểu Quốc hội?](https://tuoitre.vn/vi-sao-bi-thu-nguyen-van-nen-khong-ung-cu-dai-bieu-quoc-hoi-2021031709431892.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -112,8 +121,8 @@
 06. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
 07. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
 08. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
-09. [PBN 56 | Phượng Liên & Phi Nhung - Tân cổ "Con Gái Của Mẹ"](https://www.youtube.com/watch?v=7nd29Lme-bo) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
-10. [Billie Eilish - everything i wanted (Live From The 63rd GRAMMYs®/2021)](https://www.youtube.com/watch?v=aVAKT9UxJMI) - [BillieEilishVEVO](https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg)
+09. [Billie Eilish - everything i wanted (Live From The 63rd GRAMMYs®/2021)](https://www.youtube.com/watch?v=aVAKT9UxJMI) - [BillieEilishVEVO](https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg)
+10. [PBN 56 | Phượng Liên & Phi Nhung - Tân cổ "Con Gái Của Mẹ"](https://www.youtube.com/watch?v=7nd29Lme-bo) - [Thuy Nga](https://www.youtube.com/channel/UC7nMrW3baKp0dA5Tz9ulVYQ)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
