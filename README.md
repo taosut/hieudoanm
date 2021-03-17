@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 24°C.
-- Feels Like 27.07°C.
-- Air Visual is 144.
+- Temperature is 25°C.
+- Feels Like 27.29°C.
+- Air Visual is 142.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Vĩnh Phúc: Đã sai phạm còn lộng hành, uy hiếp cán bộ xã](https://laodong.vn/bat-dong-san/vinh-phuc-da-sai-pham-con-long-hanh-uy-hiep-can-bo-xa-890098.ldo) ([Lao Động](https://laodong.vn))
-- [Điện Biên họp báo cung cấp thông tin vụ phá rừng Lao Động phản ánh](https://laodong.vn/ban-doc/dien-bien-hop-bao-cung-cap-thong-tin-vu-pha-rung-lao-dong-phan-anh-890191.ldo) ([Lao Động](https://laodong.vn))
+- [Tìm thấy thứ này trong cung của Lưu Thiện, tướng Tào Ngụy vừa nhìn đã biết Gia Cát Lượng có sống cũng chẳng cứu nổi nước Thục](https://cafebiz.vn/tim-thay-thu-nay-trong-cung-cua-luu-thien-tuong-tao-nguy-vua-nhin-da-biet-gia-cat-luong-co-song-cung-chang-cuu-noi-nuoc-thuc-20210317195933058.chn) ([CafeBiz](https://cafebiz.vn))
+- [Truy bắt đối tượng nghi nổ súng, mìn tự chế vào tiệm vàng ở Hải Phòng](https://laodong.vn/phap-luat/truy-bat-doi-tuong-nghi-no-sung-min-tu-che-vao-tiem-vang-o-hai-phong-890204.ldo) ([Lao Động](https://laodong.vn))
+- [Nguyên Chủ tịch Hà Nội Nguyên Đức Chung tiếp tục bị khởi tố](https://laodong.vn/phap-luat/nguyen-chu-tich-ha-noi-nguyen-duc-chung-tiep-tuc-bi-khoi-to-890203.ldo) ([Lao Động](https://laodong.vn))
+- [Trí tuệ nhân tạo sẽ gây nhiều tổn hại đến ngành công nghiệp hàng chục tỷ USD của Philippines](https://cafebiz.vn/tri-tue-nhan-tao-se-gay-nhieu-ton-hai-den-nganh-cong-nghiep-hang-chuc-ty-usd-cua-philippines-20210317184753707.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tướng Nguyễn Xuân Phúc cảm ơn Nga tặng Việt Nam vaccine Sputnik V](https://laodong.vn/thoi-su/thu-tuong-nguyen-xuan-phuc-cam-on-nga-tang-viet-nam-vaccine-sputnik-v-890197.ldo) ([Lao Động](https://laodong.vn))
+- [Mánh khóe "khôn lỏi" của những tay trộm ô tô vặt: Chui xuống gầm xe để trộm thiết bị chứa 2 thứ đắt hơn vàng](https://cafebiz.vn/manh-khoe-khon-loi-cua-nhung-tay-trom-o-to-vat-chui-xuong-gam-xe-de-trom-thiet-bi-chua-2-thu-dat-hon-vang-20210317201231946.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội: Đề xuất tái lập thành phố Sơn Tây](https://cafebiz.vn/ha-noi-de-xuat-tai-lap-thanh-pho-son-tay-20210317184444587.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo dục 24/7: Lưu ý về chức danh nghề nghiệp của giáo viên các cấp từ 20.3](https://laodong.vn/video/giao-duc-247-luu-y-ve-chuc-danh-nghe-nghiep-cua-giao-vien-cac-cap-tu-203-890193.ldo) ([Lao Động](https://laodong.vn))
+- [Huấn luyện viên Petrovic làm gì trước trận đấu với câu lạc bộ Hà Nội?](https://laodong.vn/photo/huan-luyen-vien-petrovic-lam-gi-truoc-tran-dau-voi-cau-lac-bo-ha-noi-890167.ldo) ([Lao Động](https://laodong.vn))
 - [Pháp phát hiện biến chủng SARS-CoV-2 mới có khả năng “qua mặt” xét nghiệm PCR](https://cafebiz.vn/phap-phat-hien-bien-chung-sars-cov-2-moi-co-kha-nang-qua-mat-xet-nghiem-pcr-20210317183919931.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 18.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-183-890125.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: Bị cáo Đinh La Thăng sẽ phải bồi thường 830 tỉ đồng ra sao?](https://laodong.vn/video/nong-nhat-24h-bi-cao-dinh-la-thang-se-phai-boi-thuong-830-ti-dong-ra-sao-889995.ldo) ([Lao Động](https://laodong.vn))
-- [Những công dụng tuyệt vời của việc ngâm chân bằng nước muối gừng](https://laodong.vn/suc-khoe/nhung-cong-dung-tuyet-voi-cua-viec-ngam-chan-bang-nuoc-muoi-gung-889855.ldo) ([Lao Động](https://laodong.vn))
-- [Tại sao độ cao của đỉnh Everest liên tục thay đổi?](https://laodong.vn/the-gioi/tai-sao-do-cao-cua-dinh-everest-lien-tuc-thay-doi-890045.ldo) ([Lao Động](https://laodong.vn))
-- [Toyota - "Thiên đường dưới hạ giới": Đắm mình trong thiên nhiên kỳ vĩ và văn hoá bản địa độc đáo!](https://cafebiz.vn/toyota-thien-duong-duoi-ha-gioi-dam-minh-trong-thien-nhien-ky-vi-va-van-hoa-ban-dia-doc-dao-20210317182954224.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vợ ông Dũng "lò vôi" bất ngờ tuyên bố đóng Facebook để được bình an: "Tôi còn công việc, các con và tử tế với bản thân mình nữa"](https://cafebiz.vn/vo-ong-dung-lo-voi-bat-ngo-tuyen-bo-dong-facebook-de-duoc-binh-an-toi-con-cong-viec-cac-con-va-tu-te-voi-ban-than-minh-nua-2021031719500907.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bộ GD-ĐT đưa tiếng Hàn thành môn thi tốt nghiệp và xét tuyển đại học](https://cafebiz.vn/bo-gd-dt-dua-tieng-han-thanh-mon-thi-tot-nghiep-va-xet-tuyen-dai-hoc-20210317183758253.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
