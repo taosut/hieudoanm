@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 27.74°C.
-- Air Visual is 113.
+- Feels Like 26.11°C.
+- Air Visual is 102.
 
 **WEATHER**
 
@@ -75,6 +75,8 @@
 
 **NEWS**
 
+- [Thua lỗ chứng khoán, nhà đầu tư Trung Quốc phải rao bán nhẫn đính hôn, đồng hồ gia truyền](https://cafebiz.vn/thua-lo-chung-khoan-nha-dau-tu-trung-quoc-phai-rao-ban-nhan-dinh-hon-dong-ho-gia-truyen-20210317144004358.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tích hợp nhiều dữ liệu, mất CCCD gắn chip có mất dữ liệu cá nhân?](https://laodong.vn/video/tich-hop-nhieu-du-lieu-mat-cccd-gan-chip-co-mat-du-lieu-ca-nhan-889746.ldo) ([Lao Động](https://laodong.vn))
 - [Mức độ trung thành của người dùng iPhone đạt mức cao nhất trong lịch sử](https://cafebiz.vn/muc-do-trung-thanh-cua-nguoi-dung-iphone-dat-muc-cao-nhat-trong-lich-su-20210317134641347.chn) ([CafeBiz](https://cafebiz.vn))
 - [Dân vùng hạn mặn được cấp nước ngọt miễn phí](https://vnexpress.net/dan-vung-han-man-duoc-cap-nuoc-ngot-mien-phi-4249796.html) ([VNExpress](https://vnexpress.net))
 - [Hàng loạt ngân hàng lên tiếng cảnh báo về chiêu trò lừa đảo qua tin nhắn](https://cafebiz.vn/hang-loat-ngan-hang-len-tieng-canh-bao-ve-chieu-tro-lua-dao-qua-tin-nhan-20210317142557166.chn) ([CafeBiz](https://cafebiz.vn))
@@ -83,8 +85,6 @@
 - [&quot;Yêu&quot; bạn gái nhỏ, thanh niên lĩnh án 2 năm tù](https://laodong.vn/phap-luat/yeu-ban-gai-nho-thanh-nien-linh-an-2-nam-tu-889941.ldo) ([Lao Động](https://laodong.vn))
 - [London rực lửa](https://laodong.vn/the-thao/london-ruc-lua-889811.ldo) ([Lao Động](https://laodong.vn))
 - [Các bước đổi thẻ CMND sang thẻ CCCD gắn chíp](https://laodong.vn/infographic/cac-buoc-doi-the-cmnd-sang-the-cccd-gan-chip-889534.ldo) ([Lao Động](https://laodong.vn))
-- [Công Phượng và sự cảm thông từ Kiatisak](https://laodong.vn/the-thao/cong-phuong-va-su-cam-thong-tu-kiatisak-889820.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ các nữ sinh đánh nhau, nhiều em hùa theo: Kỷ luật 15 học sinh liên quan](https://laodong.vn/giao-duc/vu-cac-nu-sinh-danh-nhau-nhieu-em-hua-theo-ky-luat-15-hoc-sinh-lien-quan-890015.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
