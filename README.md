@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 26.12°C.
-- Air Visual is 97.
+- Air Visual is 117.
 
 **WEATHER**
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Clip nguyên văn đoạn chia sẻ của Trấn Thành về phim Bố Già: "Càng nhiều người đi xem đồng nghĩa với việc càng nhiều người có vấn đề tâm lý"](https://cafebiz.vn/clip-nguyen-van-doan-chia-se-cua-tran-thanh-ve-phim-bo-gia-cang-nhieu-nguoi-di-xem-dong-nghia-voi-viec-cang-nhieu-nguoi-co-van-de-tam-ly-20210317230615459.chn) ([CafeBiz](https://cafebiz.vn))
 - [EU đề xuất cho phép dân của họ đi du lịch trên toàn khối vào mùa hè tới đây](https://laodong.vn/the-gioi/eu-de-xuat-cho-phep-dan-cua-ho-di-du-lich-tren-toan-khoi-vao-mua-he-toi-day-890212.ldo) ([Lao Động](https://laodong.vn))
 - [Sư thầy phải đi giáo dưỡng vì xua đuổi người dân](https://vnexpress.net/su-thay-phai-di-giao-duong-vi-xua-duoi-nguoi-dan-4250045.html) ([VNExpress](https://vnexpress.net))
 - [Hải Dương: Gần 5.000 lao động nước ngoài hoàn thành cách ly](https://laodong.vn/cong-doan/hai-duong-gan-5000-lao-dong-nuoc-ngoai-hoan-thanh-cach-ly-890222.ldo) ([Lao Động](https://laodong.vn))
@@ -84,7 +85,6 @@
 - [Đường sắt Cát Linh - Hà Đông: Nói thẳng khi nào chạy, không lôi thôi nữa!](https://laodong.vn/su-kien-binh-luan/duong-sat-cat-linh-ha-dong-noi-thang-khi-nao-chay-khong-loi-thoi-nua-889912.ldo) ([Lao Động](https://laodong.vn))
 - [Không chỉ Trấn Thành là nạn nhân của &quot;cắt cúp&quot; phát ngôn](https://laodong.vn/su-kien-binh-luan/khong-chi-tran-thanh-la-nan-nhan-cua-cat-cup-phat-ngon-890133.ldo) ([Lao Động](https://laodong.vn))
 - [Nhìn qua tưởng khu du lịch nhưng hóa ra là... một trường đại học của Việt Nam: Toàn lâu đài trắng như bên trời Âu, bên trong có công viên giải trí hoàng tráng](https://cafebiz.vn/nhin-qua-tuong-khu-du-lich-nhung-hoa-ra-la-mot-truong-dai-hoc-cua-viet-nam-toan-lau-dai-trang-nhu-ben-troi-au-ben-trong-co-cong-vien-giai-tri-hoang-trang-20210317212649433.chn) ([CafeBiz](https://cafebiz.vn))
-- [9 lãnh đạo xã dùng bằng giả](https://vnexpress.net/9-lanh-dao-xa-dung-bang-gia-4250027.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
