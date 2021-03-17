@@ -1,5 +1,6 @@
 # News
 
+- [Thí điểm xây dựng mô hình công an phường kiểu mẫu](https://vnexpress.net/thi-diem-xay-dung-mo-hinh-cong-an-phuong-kieu-mau-4249960.html) ([VNExpress](https://vnexpress.net))
 - [Đà Nẵng ký tiếp văn bản: Mở nhạc, hát karaoke làm ồn trong khu dân cư sẽ bị phạt](https://tuoitre.vn/da-nang-ky-tiep-van-ban-mo-nhac-hat-karaoke-lam-on-trong-khu-dan-cu-se-bi-phat-20210317171824115.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [TPHCM: Hai bến &quot;xe dù&quot; hoạt động rầm rộ ngay trước bến xe Miền Đông](https://laodong.vn/ban-doc/tphcm-hai-ben-xe-du-hoat-dong-ram-ro-ngay-truoc-ben-xe-mien-dong-890074.ldo) ([Lao Động](https://laodong.vn))
 - [Từ "bước đi đầu gấu" tới "lợi dụng thiên thời", bộ tứ siêu đẳng Amazon, Apple, Google, Facebook đã chớp thời cơ từ đại dịch, thu về nguồn lợi khổng lồ như thế nào?](https://cafebiz.vn/tu-buoc-di-dau-gau-toi-loi-dung-thien-thoi-bo-tu-sieu-dang-amazon-apple-google-facebook-da-chop-thoi-co-tu-dai-dich-thu-ve-nguon-loi-khong-lo-nhu-the-nao-20210317174432337.chn) ([CafeBiz](https://cafebiz.vn))
@@ -11,7 +12,6 @@
 - [Thu được phí bản quyền 5G từ Apple, Samsung, Huawei có thể kiếm cả tỷ USD mà không cần làm điện thoại](https://cafebiz.vn/thu-duoc-phi-ban-quyen-5g-tu-apple-samsung-huawei-co-the-kiem-ca-ty-usd-ma-khong-can-lam-dien-thoai-20210317163210101.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chuyển nhà Kiến Vàng - Chia sẻ kinh nghiệm chuyển nhà trọn gói nhanh chóng](https://cafebiz.vn/chuyen-nha-kien-vang-chia-se-kinh-nghiem-chuyen-nha-tron-goi-nhanh-chong-2021031715254527.chn) ([CafeBiz](https://cafebiz.vn))
 - [Terraform đã có mặt tại Việt Nam, DevOps như “hổ mọc thêm cánh”](https://cafebiz.vn/terraform-da-co-mat-tai-viet-nam-devops-nhu-ho-moc-them-canh-20210316171114279.chn) ([CafeBiz](https://cafebiz.vn))
-- [Va chạm với xe tải tại ngã tư, nam thanh niên tử vong dưới bánh xe](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/va-cham-voi-xe-tai-tai-nga-tu-nam-thanh-nien-tu-vong-duoi-banh-xe-720357.html) ([VietNamNet](https://vietnamnet.vn))
 - [Sở Y tế TPHCM thông tin về 3 người bị phản ứng sau tiêm vaccine COVID-19](https://laodong.vn/y-te/so-y-te-tphcm-thong-tin-ve-3-nguoi-bi-phan-ung-sau-tiem-vaccine-covid-19-890100.ldo) ([Lao Động](https://laodong.vn))
 - [Cán bộ biên phòng từng là đặc nhiệm phòng chống ma túy nghi... buôn ma túy](https://tuoitre.vn/can-bo-bien-phong-tung-la-dac-nhiem-phong-chong-ma-tuy-nghi-buon-ma-tuy-20210317162439329.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Xe container cán chết người ở nút giao thông hầm chui An Sương](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/xe-container-can-chet-nguoi-o-nut-giao-thong-ham-chui-an-suong-720353.html) ([VietNamNet](https://vietnamnet.vn))
@@ -36,6 +36,7 @@
 - [TP HCM cần theo mô hình đô thị cao tầng, nhiều mảng xanh](https://vnexpress.net/tp-hcm-can-theo-mo-hinh-do-thi-cao-tang-nhieu-mang-xanh-4249873.html) ([VNExpress](https://vnexpress.net))
 - [Phân hữu cơ Ba Con Bò ra mắt, chủ tịch Asanzo: "Tỉnh nào có trang trại của chúng tôi, nông dân xung quanh chắc chắn sẽ giàu"](https://cafebiz.vn/phan-huu-co-ba-con-bo-ra-mat-chu-tich-asanzo-tinh-nao-co-trang-trai-cua-chung-toi-nong-dan-xung-quanh-chac-chan-se-giau-2021031715575117.chn) ([CafeBiz](https://cafebiz.vn))
 - [Doanh nghiệp phải chi nhiều nhất cho thủ tục hành chính nào?](https://tuoitre.vn/doanh-nghiep-phai-chi-nhieu-nhat-cho-thu-tuc-hanh-chinh-nao-20210317153005662.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Quân nhân biên phòng bị bắt để điều tra tội mua bán trái phép chất ma túy](https://laodong.vn/phap-luat/quan-nhan-bien-phong-bi-bat-de-dieu-tra-toi-mua-ban-trai-phep-chat-ma-tuy-890060.ldo) ([Lao Động](https://laodong.vn))
 - [Trồng rau giữa sa mạc, start-up gọi vốn thành công 60 triệu USD](https://cafebiz.vn/trong-rau-giua-sa-mac-start-up-goi-von-thanh-cong-60-trieu-usd-2021031715510864.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thế giới cấp tập tăng dự trữ giữa biến động giá vàng](https://laodong.vn/the-gioi/the-gioi-cap-tap-tang-du-tru-giua-bien-dong-gia-vang-890070.ldo) ([Lao Động](https://laodong.vn))
 - [Chủ tịch Ủy ban bầu cử TP Cần Thơ: 'Không ông nào lót đường cho ông nào'](https://tuoitre.vn/chu-tich-uy-ban-bau-cu-tp-can-tho-khong-ong-nao-lot-duong-cho-ong-nao-20210317152440913.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -47,6 +48,7 @@
 - [Ôtô bốc cháy giữa phố](https://vnexpress.net/oto-boc-chay-giua-pho-4249753.html) ([VNExpress](https://vnexpress.net))
 - [Người đàn ông có siêu kháng thể diệt được virus SARS-CoV-2  dù pha loãng máu tới 10.000 lần](https://cafebiz.vn/nguoi-dan-ong-co-sieu-khang-the-diet-duoc-virus-sars-cov-2-du-pha-loang-mau-toi-10000-lan-20210317152035136.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hai anh em đỗ đại học tốp 1 châu Á, báo chí kéo đến nhà phỏng vấn rầm rộ, bà mẹ nói đúng 1 câu mà ai cũng gật gù tâm đắc](https://cafebiz.vn/hai-anh-em-do-dai-hoc-top-1-chau-a-bao-chi-keo-den-nha-phong-van-ram-ro-ba-me-noi-dung-1-cau-ma-ai-cung-gat-gu-tam-dac-20210317152758284.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tục hành chính nào khiến doanh nghiệp tốn nhiều tiền nhất?](http://vietnamnet.vn/vn/thoi-su/chinh-tri/thu-tuc-hanh-chinh-nao-khien-doanh-nghiep-ton-nhieu-tien-nhat-720289.html) ([VietNamNet](https://vietnamnet.vn))
 - [Nhà thơ Trần Đăng Khoa bay từ Hà Nội vào Bình Dương khuyên vợ chồng ông Dũng ‘lò vôi’](https://cafebiz.vn/nha-tho-tran-dang-khoa-bay-tu-ha-noi-vao-binh-duong-khuyen-vo-chong-ong-dung-lo-voi-20210317152322032.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tin thiếu tướng quân đội Hoa Kỳ, cán bộ công an rởm, 2 người phụ nữ mất gần 2 tỷ đồng](https://cafebiz.vn/tin-thieu-tuong-quan-doi-hoa-ky-can-bo-cong-an-rom-2-nguoi-phu-nu-mat-gan-2-ty-dong-20210317152200837.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắt giam nguyên Giám đốc Sở Y tế tỉnh Sơn La](https://cafebiz.vn/bat-giam-nguyen-giam-doc-so-y-te-tinh-son-la-20210317151754115.chn) ([CafeBiz](https://cafebiz.vn))
@@ -77,7 +79,6 @@
 - [Con trai riêng của Huy Khánh 16 tuổi đã cao vượt bố, học trường quốc tế hơn nửa tỷ, sở hữu bất động sản nhưng gây chú ý về cách xài tiền](https://cafebiz.vn/con-trai-rieng-cua-huy-khanh-16-tuoi-da-cao-vuot-bo-hoc-truong-quoc-te-hon-nua-ty-so-huu-bat-dong-san-nhung-gay-chu-y-ve-cach-xai-tien-20210317142017398.chn) ([CafeBiz](https://cafebiz.vn))
 - [Vụ các nữ sinh đánh nhau, nhiều em hùa theo: Kỷ luật 15 học sinh liên quan](https://laodong.vn/giao-duc/vu-cac-nu-sinh-danh-nhau-nhieu-em-hua-theo-ky-luat-15-hoc-sinh-lien-quan-890015.ldo) ([Lao Động](https://laodong.vn))
 - [Vẫn thi công rầm rộ sau khi làm nứt hàng loạt nhà dân](https://tuoitre.vn/van-tiep-tuc-thi-cong-ram-ro-sau-khi-lam-nut-hang-loat-nha-dan-2021031713043041.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hà Nội đã tiêm 2.000 mũi vaccine COVID-19 cho các cán bộ, nhân viên y tế](https://laodong.vn/xa-hoi/ha-noi-da-tiem-2000-mui-vaccine-covid-19-cho-cac-can-bo-nhan-vien-y-te-890016.ldo) ([Lao Động](https://laodong.vn))
 - [Từ "Bố già" của Trấn Thành đến chuyện chăm con ở Phần Lan, nơi cha dành nhiều thời gian chăm con hơn mẹ, được trợ cấp để ở nhà chăm trẻ tới năm 3 tuổi](https://cafebiz.vn/suong-nhu-de-con-o-phan-lan-bo-me-duoc-nghi-co-luong-toi-3-nam-sau-sinh-khi-di-lam-lai-chinh-phu-tro-cap-gan-8-trieu-dong-phi-cham-con-20210317110054231.chn) ([CafeBiz](https://cafebiz.vn))
 - [Khách hàng vay ngân hàng mua nhà dự án, chưa được bàn giao chủ đầu tư đã bị khởi tố hình sự, ABBank xử lý thế nào?](https://cafebiz.vn/khach-hang-vay-ngan-hang-mua-nha-du-an-chua-duoc-ban-giao-chu-dau-tu-da-bi-khoi-to-hinh-su-abbank-xu-ly-the-nao-20210317120347419.chn) ([CafeBiz](https://cafebiz.vn))
 - [Phát hiện biến thể COVID-19 mới có khả năng ‘vượt mặt’ xét nghiệm](https://cafebiz.vn/phat-hien-bien-the-covid-19-moi-co-kha-nang-vuot-mat-xet-nghiem-20210317135412912.chn) ([CafeBiz](https://cafebiz.vn))
@@ -99,4 +100,3 @@
 - [Xe chuyên dùng chở quan tài bốc cháy ngùn ngụt giữa trung tâm Đà Nẵng](http://vietnamnet.vn/vn/thoi-su/xe-chuyen-dung-cho-quan-tai-boc-chay-ngun-ngut-giua-trung-tam-da-nang-720230.html) ([VietNamNet](https://vietnamnet.vn))
 - [Thanh niên tử vong ở TP.HCM, tài xế lái ô tô bỏ chạy khỏi hiện trường](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/thanh-nien-tu-vong-o-tp-hcm-tai-xe-lai-o-to-bo-chay-khoi-hien-truong-720234.html) ([VietNamNet](https://vietnamnet.vn))
 - [Nha Trang đóng cửa chợ Đầm cũ từ 31-3](https://tuoitre.vn/nha-trang-dong-cua-cho-dam-cu-tu-31-3-20210317110921448.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Rộng lượng hơn Apple, Google sẽ cắt giảm mức phí hoa hồng của Play Store xuống còn 15% với mọi nhà phát triển](https://cafebiz.vn/rong-luong-hon-apple-google-se-cat-giam-muc-phi-hoa-hong-cua-play-store-xuong-con-15-voi-moi-nha-phat-trien-20210317090750344.chn) ([CafeBiz](https://cafebiz.vn))

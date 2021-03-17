@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [Thí điểm xây dựng mô hình công an phường kiểu mẫu](https://vnexpress.net/thi-diem-xay-dung-mo-hinh-cong-an-phuong-kieu-mau-4249960.html) ([VNExpress](https://vnexpress.net))
 - [Đà Nẵng ký tiếp văn bản: Mở nhạc, hát karaoke làm ồn trong khu dân cư sẽ bị phạt](https://tuoitre.vn/da-nang-ky-tiep-van-ban-mo-nhac-hat-karaoke-lam-on-trong-khu-dan-cu-se-bi-phat-20210317171824115.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [TPHCM: Hai bến &quot;xe dù&quot; hoạt động rầm rộ ngay trước bến xe Miền Đông](https://laodong.vn/ban-doc/tphcm-hai-ben-xe-du-hoat-dong-ram-ro-ngay-truoc-ben-xe-mien-dong-890074.ldo) ([Lao Động](https://laodong.vn))
 - [Từ "bước đi đầu gấu" tới "lợi dụng thiên thời", bộ tứ siêu đẳng Amazon, Apple, Google, Facebook đã chớp thời cơ từ đại dịch, thu về nguồn lợi khổng lồ như thế nào?](https://cafebiz.vn/tu-buoc-di-dau-gau-toi-loi-dung-thien-thoi-bo-tu-sieu-dang-amazon-apple-google-facebook-da-chop-thoi-co-tu-dai-dich-thu-ve-nguon-loi-khong-lo-nhu-the-nao-20210317174432337.chn) ([CafeBiz](https://cafebiz.vn))
@@ -84,7 +85,6 @@
 - [Quy hoạch điện VIII: Đề xuất cắt giảm năng lượng tái tạo](https://laodong.vn/thi-truong/quy-hoach-dien-viii-de-xuat-cat-giam-nang-luong-tai-tao-890129.ldo) ([Lao Động](https://laodong.vn))
 - [Bổ sung tiếng Hàn vào danh mục các môn ngoại ngữ thi tốt nghiệp THPT 2021](https://laodong.vn/giao-duc/bo-sung-tieng-han-vao-danh-muc-cac-mon-ngoai-ngu-thi-tot-nghiep-thpt-2021-890108.ldo) ([Lao Động](https://laodong.vn))
 - [Thu được phí bản quyền 5G từ Apple, Samsung, Huawei có thể kiếm cả tỷ USD mà không cần làm điện thoại](https://cafebiz.vn/thu-duoc-phi-ban-quyen-5g-tu-apple-samsung-huawei-co-the-kiem-ca-ty-usd-ma-khong-can-lam-dien-thoai-20210317163210101.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuyển nhà Kiến Vàng - Chia sẻ kinh nghiệm chuyển nhà trọn gói nhanh chóng](https://cafebiz.vn/chuyen-nha-kien-vang-chia-se-kinh-nghiem-chuyen-nha-tron-goi-nhanh-chong-2021031715254527.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
