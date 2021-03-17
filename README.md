@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 26.11°C.
-- Air Visual is 102.
+- Air Visual is 104.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Thua lỗ chứng khoán, nhà đầu tư Trung Quốc phải rao bán nhẫn đính hôn, đồng hồ gia truyền](https://cafebiz.vn/thua-lo-chung-khoan-nha-dau-tu-trung-quoc-phai-rao-ban-nhan-dinh-hon-dong-ho-gia-truyen-20210317144004358.chn) ([CafeBiz](https://cafebiz.vn))
+- [NSND Thu Hà và những nữ nghệ sĩ &quot;gừng càng già càng cay&quot; trên màn ảnh Việt](https://laodong.vn/photo/nsnd-thu-ha-va-nhung-nu-nghe-si-gung-cang-gia-cang-cay-tren-man-anh-viet-889956.ldo) ([Lao Động](https://laodong.vn))
+- [Một chương trình đặc biệt về năng lượng sắp được lên sóng](https://laodong.vn/thong-tin-doanh-nghiep/mot-chuong-trinh-dac-biet-ve-nang-luong-sap-duoc-len-song-889980.ldo) ([Lao Động](https://laodong.vn))
+- [5 câu chuyện về ngày chưa nổi tiếng của Blackpink khiến fan bất ngờ](https://laodong.vn/giai-tri/5-cau-chuyen-ve-ngay-chua-noi-tieng-cua-blackpink-khien-fan-bat-ngo-889766.ldo) ([Lao Động](https://laodong.vn))
+- [Những lưu ý về chức danh nghề nghiệp của giáo viên các cấp từ 20.3](https://laodong.vn/giao-duc/nhung-luu-y-ve-chuc-danh-nghe-nghiep-cua-giao-vien-cac-cap-tu-203-890009.ldo) ([Lao Động](https://laodong.vn))
+- [Điện Biên: Mang theo 9 bánh heroin, 2 thanh niên bị bắt giữ](https://laodong.vn/phap-luat/dien-bien-mang-theo-9-banh-heroin-2-thanh-nien-bi-bat-giu-890040.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng: Quân đội băng rừng đặt thuốc nổ, phá hủy 29 hầm vàng trái phép](https://laodong.vn/photo/da-nang-quan-doi-bang-rung-dat-thuoc-no-pha-huy-29-ham-vang-trai-phep-890007.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Cầu Thủ Thiêm 2 lùi thời gian hoàn thành sang giữa năm 2022](https://laodong.vn/xa-hoi/tphcm-cau-thu-thiem-2-lui-thoi-gian-hoan-thanh-sang-giua-nam-2022-889964.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng yêu cầu nghiên cứu 'hộ chiếu vaccine Covid-19'](https://vnexpress.net/thu-tuong-yeu-cau-nghien-cuu-ho-chieu-vaccine-covid-19-4249830.html) ([VNExpress](https://vnexpress.net))
+- [Việt Nam tiếp tục tiêm vắc xin AstraZeneca](https://tuoitre.vn/viet-nam-tiep-tuc-tiem-vac-xin-astrazeneca-20210317142816337.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tích hợp nhiều dữ liệu, mất CCCD gắn chip có mất dữ liệu cá nhân?](https://laodong.vn/video/tich-hop-nhieu-du-lieu-mat-cccd-gan-chip-co-mat-du-lieu-ca-nhan-889746.ldo) ([Lao Động](https://laodong.vn))
-- [Mức độ trung thành của người dùng iPhone đạt mức cao nhất trong lịch sử](https://cafebiz.vn/muc-do-trung-thanh-cua-nguoi-dung-iphone-dat-muc-cao-nhat-trong-lich-su-20210317134641347.chn) ([CafeBiz](https://cafebiz.vn))
-- [Dân vùng hạn mặn được cấp nước ngọt miễn phí](https://vnexpress.net/dan-vung-han-man-duoc-cap-nuoc-ngot-mien-phi-4249796.html) ([VNExpress](https://vnexpress.net))
-- [Hàng loạt ngân hàng lên tiếng cảnh báo về chiêu trò lừa đảo qua tin nhắn](https://cafebiz.vn/hang-loat-ngan-hang-len-tieng-canh-bao-ve-chieu-tro-lua-dao-qua-tin-nhan-20210317142557166.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bình Định: Đang tuần tra, phát hiện đối tượng tàng trữ ma túy](https://laodong.vn/phap-luat/binh-dinh-dang-tuan-tra-phat-hien-doi-tuong-tang-tru-ma-tuy-890020.ldo) ([Lao Động](https://laodong.vn))
-- [Con trai riêng của Huy Khánh 16 tuổi đã cao vượt bố, học trường quốc tế hơn nửa tỷ, sở hữu bất động sản nhưng gây chú ý về cách xài tiền](https://cafebiz.vn/con-trai-rieng-cua-huy-khanh-16-tuoi-da-cao-vuot-bo-hoc-truong-quoc-te-hon-nua-ty-so-huu-bat-dong-san-nhung-gay-chu-y-ve-cach-xai-tien-20210317142017398.chn) ([CafeBiz](https://cafebiz.vn))
-- [&quot;Yêu&quot; bạn gái nhỏ, thanh niên lĩnh án 2 năm tù](https://laodong.vn/phap-luat/yeu-ban-gai-nho-thanh-nien-linh-an-2-nam-tu-889941.ldo) ([Lao Động](https://laodong.vn))
-- [London rực lửa](https://laodong.vn/the-thao/london-ruc-lua-889811.ldo) ([Lao Động](https://laodong.vn))
-- [Các bước đổi thẻ CMND sang thẻ CCCD gắn chíp](https://laodong.vn/infographic/cac-buoc-doi-the-cmnd-sang-the-cccd-gan-chip-889534.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
