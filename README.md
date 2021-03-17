@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 27.03°C.
-- Air Visual is 107.
+- Air Visual is 110.
 
 **WEATHER**
 
@@ -49,6 +49,7 @@
 **GOOGLE TRENDS**
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
+- [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
 - [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
 - [![Grammy 2021](https://img.shields.io/static/v1?label=Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Grammy%202021)
 - [![Gọi Rồng Online](https://img.shields.io/static/v1?label=G%E1%BB%8Di%20R%E1%BB%93ng%20Online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G%E1%BB%8Di%20R%E1%BB%93ng%20Online)
@@ -59,7 +60,6 @@
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Kỳ Duyên](https://img.shields.io/static/v1?label=K%E1%BB%B3%20Duy%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=K%E1%BB%B3%20Duy%C3%AAn)
 - [![Lee Jong Suk](https://img.shields.io/static/v1?label=Lee%20Jong%20Suk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Jong%20Suk)
-- [![Lý Dịch Phong](https://img.shields.io/static/v1?label=L%C3%BD%20D%E1%BB%8Bch%20Phong&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20D%E1%BB%8Bch%20Phong)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Minari](https://img.shields.io/static/v1?label=Minari&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minari)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Quả đào và 8 lợi ích sức khoẻ mà ít ai ngờ tới](https://laodong.vn/dinh-duong-am-thuc/qua-dao-va-8-loi-ich-suc-khoe-ma-it-ai-ngo-toi-889913.ldo) ([Lao Động](https://laodong.vn))
+- [Israel phát hiện thêm về cuộn kinh thánh cổ niên đại gần 2.000 năm](https://laodong.vn/the-gioi/israel-phat-hien-them-ve-cuon-kinh-thanh-co-nien-dai-gan-2000-nam-889934.ldo) ([Lao Động](https://laodong.vn))
+- [Giá dầu thế giới bất ngờ giảm nhiệt](https://laodong.vn/kinh-te/gia-dau-the-gioi-bat-ngo-giam-nhiet-889967.ldo) ([Lao Động](https://laodong.vn))
+- [Nắng nóng ở TPHCM: Băn khoăn về cách tránh nắng, bảo vệ da hiệu quả](https://laodong.vn/ban-doc/nang-nong-o-tphcm-ban-khoan-ve-cach-tranh-nang-bao-ve-da-hieu-qua-889959.ldo) ([Lao Động](https://laodong.vn))
 - [Loạt lỗ hổng pháp luật trong vụ giao 7.000m2 đất khu công nghiệp Hòa Khánh](https://laodong.vn/ban-doc/loat-lo-hong-phap-luat-trong-vu-giao-7000m2-dat-khu-cong-nghiep-hoa-khanh-889651.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút 17.3: Số tiền ông Đinh La Thăng phải bồi thường sau 4 đại án](https://laodong.vn/video-thoi-su/ban-tin-1-phut-173-so-tien-ong-dinh-la-thang-phai-boi-thuong-sau-4-dai-an-889979.ldo) ([Lao Động](https://laodong.vn))
-- [Iran triển khai làm giàu uranium bằng loại máy ly tâm tiên tiến](https://laodong.vn/the-gioi/iran-trien-khai-lam-giau-uranium-bang-loai-may-ly-tam-tien-tien-889960.ldo) ([Lao Động](https://laodong.vn))
-- [Cần Thơ: 2 người tự ứng cử đại biểu HĐND thành phố nhiệm kỳ 2021-2026](https://laodong.vn/thoi-su/can-tho-2-nguoi-tu-ung-cu-dai-bieu-hdnd-thanh-pho-nhiem-ky-2021-2026-889991.ldo) ([Lao Động](https://laodong.vn))
 - [Kiểm tra trách nhiệm quản lý đất đai ở 26 tỉnh thành](https://tuoitre.vn/kiem-tra-trach-nhiem-quan-ly-nha-nuoc-ve-dat-dai-26-tinh-tp-20210317110413924.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nhà Trắng công bố họp báo chính thức đầu tiên của Tổng thống Biden](https://laodong.vn/the-gioi/nha-trang-cong-bo-hop-bao-chinh-thuc-dau-tien-cua-tong-thong-biden-889952.ldo) ([Lao Động](https://laodong.vn))
 - [Xe chuyên dùng chở quan tài bốc cháy ngùn ngụt giữa trung tâm Đà Nẵng](http://vietnamnet.vn/vn/thoi-su/xe-chuyen-dung-cho-quan-tai-boc-chay-ngun-ngut-giua-trung-tam-da-nang-720230.html) ([VietNamNet](https://vietnamnet.vn))
 - [Thanh niên tử vong ở TP.HCM, tài xế lái ô tô bỏ chạy khỏi hiện trường](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/thanh-nien-tu-vong-o-tp-hcm-tai-xe-lai-o-to-bo-chay-khoi-hien-truong-720234.html) ([VietNamNet](https://vietnamnet.vn))
 - [Xét xử Dương Thị Bạch Diệp: Phiên tòa tạm dừng 5 ngày vì lý do bất ngờ](https://laodong.vn/phap-luat/xet-xu-duong-thi-bach-diep-phien-toa-tam-dung-5-ngay-vi-ly-do-bat-ngo-889976.ldo) ([Lao Động](https://laodong.vn))
-- [Gắn kết, thu hút doanh nghiệp và “xây tổ đón đại bàng”](https://laodong.vn/thoi-su/gan-ket-thu-hut-doanh-nghiep-va-xay-to-don-dai-bang-889827.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
