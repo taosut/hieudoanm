@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 26.41°C.
-- Air Visual is 123.
+- Feels Like 26.77°C.
+- Air Visual is 147.
 
 **WEATHER**
 
@@ -50,7 +50,6 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
-- [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
 - [![Grammy 2021](https://img.shields.io/static/v1?label=Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Grammy%202021)
 - [![Gọi Rồng Online](https://img.shields.io/static/v1?label=G%E1%BB%8Di%20R%E1%BB%93ng%20Online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G%E1%BB%8Di%20R%E1%BB%93ng%20Online)
 - [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
@@ -60,6 +59,7 @@
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Kỳ Duyên](https://img.shields.io/static/v1?label=K%E1%BB%B3%20Duy%C3%AAn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=K%E1%BB%B3%20Duy%C3%AAn)
 - [![Lee Jong Suk](https://img.shields.io/static/v1?label=Lee%20Jong%20Suk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Jong%20Suk)
+- [![Lý Dịch Phong](https://img.shields.io/static/v1?label=L%C3%BD%20D%E1%BB%8Bch%20Phong&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20D%E1%BB%8Bch%20Phong)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Minari](https://img.shields.io/static/v1?label=Minari&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minari)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Citroen Ami đầu tiên về Việt Nam: Xe điện đô thị thiết kế lạ, 2 chỗ, giá quy đổi hơn 150 triệu đồng](https://cafebiz.vn/citroen-ami-dau-tien-ve-viet-nam-xe-dien-do-thi-thiet-ke-la-2-cho-gia-quy-doi-hon-150-trieu-dong-20210317162411375.chn) ([CafeBiz](https://cafebiz.vn))
-- [YouTube Việt quá độc hại: Loạt kênh "triệu sub" nội dung ngược đãi động vật đến mức ghê rợn, cổ vũ bạo lực mà trẻ em có khả năng mắc bẫy](https://cafebiz.vn/youtube-viet-qua-doc-hai-loat-kenh-trieu-sub-noi-dung-nguoc-dai-dong-vat-den-muc-ghe-ron-co-vu-bao-luc-ma-tre-em-co-kha-nang-mac-bay-20210317163051541.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đại tá Đinh Văn Nơi là người phát ngôn chính thức của Công an tỉnh An Giang](https://laodong.vn/xa-hoi/dai-ta-dinh-van-noi-la-nguoi-phat-ngon-chinh-thuc-cua-cong-an-tinh-an-giang-890089.ldo) ([Lao Động](https://laodong.vn))
-- [Ba vùng đô thị đặc trưng trong quy hoạch Đà Nẵng](https://vnexpress.net/ba-vung-do-thi-dac-trung-trong-quy-hoach-da-nang-4249880.html) ([VNExpress](https://vnexpress.net))
-- ["Ôm" hơn 200 tỉ đồng rồi tuyên bố... vỡ nợ](https://cafebiz.vn/om-hon-200-ti-dong-roi-tuyen-bo-vo-no-20210317162715106.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tướng chỉ đạo xử lý thông tin báo chí nêu về cầu Thanh Trì](https://laodong.vn/thoi-su/thu-tuong-chi-dao-xu-ly-thong-tin-bao-chi-neu-ve-cau-thanh-tri-890087.ldo) ([Lao Động](https://laodong.vn))
-- [TP HCM cần theo mô hình đô thị cao tầng, nhiều mảng xanh](https://vnexpress.net/tp-hcm-can-theo-mo-hinh-do-thi-cao-tang-nhieu-mang-xanh-4249873.html) ([VNExpress](https://vnexpress.net))
-- [Phát hiện tài xế ô tô con dương tính với ma tuý](https://laodong.vn/phap-luat/phat-hien-tai-xe-o-to-con-duong-tinh-voi-ma-tuy-890054.ldo) ([Lao Động](https://laodong.vn))
-- [Chelsea - Atletico: Chờ Tuchel tìm cách &quot;thông nòng&quot; các tiền đạo](https://laodong.vn/bong-da-quoc-te/chelsea-atletico-cho-tuchel-tim-cach-thong-nong-cac-tien-dao-890038.ldo) ([Lao Động](https://laodong.vn))
-- [Trấn Thành &quot;Bố già&quot; lên tiếng về phát ngôn tranh cãi](https://laodong.vn/van-hoa/tran-thanh-bo-gia-len-tieng-ve-phat-ngon-tranh-cai-890069.ldo) ([Lao Động](https://laodong.vn))
+- [Tiếp nhận thiết bị phần cứng hệ thống thông tin báo cáo Chính phủ từ Nhật Bản](https://laodong.vn/thoi-su/tiep-nhan-thiet-bi-phan-cung-he-thong-thong-tin-bao-cao-chinh-phu-tu-nhat-ban-890111.ldo) ([Lao Động](https://laodong.vn))
+- [Thu được phí bản quyền 5G từ Apple, Samsung, Huawei có thể kiếm cả tỷ USD mà không cần làm điện thoại](https://cafebiz.vn/thu-duoc-phi-ban-quyen-5g-tu-apple-samsung-huawei-co-the-kiem-ca-ty-usd-ma-khong-can-lam-dien-thoai-20210317163210101.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuyển nhà Kiến Vàng - Chia sẻ kinh nghiệm chuyển nhà trọn gói nhanh chóng](https://cafebiz.vn/chuyen-nha-kien-vang-chia-se-kinh-nghiem-chuyen-nha-tron-goi-nhanh-chong-2021031715254527.chn) ([CafeBiz](https://cafebiz.vn))
+- [Terraform đã có mặt tại Việt Nam, DevOps như “hổ mọc thêm cánh”](https://cafebiz.vn/terraform-da-co-mat-tai-viet-nam-devops-nhu-ho-moc-them-canh-20210316171114279.chn) ([CafeBiz](https://cafebiz.vn))
+- [Va chạm với xe tải tại ngã tư, nam thanh niên tử vong dưới bánh xe](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/va-cham-voi-xe-tai-tai-nga-tu-nam-thanh-nien-tu-vong-duoi-banh-xe-720357.html) ([VietNamNet](https://vietnamnet.vn))
+- [Bắt đối tượng mang ma túy và vũ khí nóng sang biên giới Việt Nam](https://laodong.vn/phap-luat/bat-doi-tuong-mang-ma-tuy-va-vu-khi-nong-sang-bien-gioi-viet-nam-890084.ldo) ([Lao Động](https://laodong.vn))
+- [Italia thừa nhận dừng vaccine AstraZeneca là động thái chính trị](https://laodong.vn/the-gioi/italia-thua-nhan-dung-vaccine-astrazeneca-la-dong-thai-chinh-tri-890113.ldo) ([Lao Động](https://laodong.vn))
+- [Trung tướng Nguyễn Việt Thành sắp hoàn thành ý nguyện xã quê hết hộ nghèo](https://laodong.vn/xa-hoi/trung-tuong-nguyen-viet-thanh-sap-hoan-thanh-y-nguyen-xa-que-het-ho-ngheo-890104.ldo) ([Lao Động](https://laodong.vn))
+- [Sở Y tế TPHCM thông tin về 3 người bị phản ứng sau tiêm vaccine COVID-19](https://laodong.vn/y-te/so-y-te-tphcm-thong-tin-ve-3-nguoi-bi-phan-ung-sau-tiem-vaccine-covid-19-890100.ldo) ([Lao Động](https://laodong.vn))
+- [Cán bộ biên phòng từng là đặc nhiệm phòng chống ma túy nghi... buôn ma túy](https://tuoitre.vn/can-bo-bien-phong-tung-la-dac-nhiem-phong-chong-ma-tuy-nghi-buon-ma-tuy-20210317162439329.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Lifestyle Platform - Mua mọi thứ, ăn mọi món trong một cửa hàng vài chục mét vuông.](https://vietcetera.com/vn/lifestyle-platform-mua-moi-thu-an-moi-mon-trong-mot-cua-hang-vai-chuc-met-vuong)
 - [Mua hàng sale có đồng nghĩa với tiết kiệm?](https://vietcetera.com/vn/mua-hang-sale-co-dong-nghia-voi-tiet-kiem)
 - [Tóm Lại Là: Người đồng tính thì không được "ban phước"?](https://vietcetera.com/vn/tom-lai-la-nguoi-dong-tinh-thi-khong-duoc-ban-phuoc)
 - ["Điều ngu ngốc nhất, nhân danh tình yêu, mà bạn từng làm là gì?"](https://vietcetera.com/vn/sau-7-nam-yeu-nhau-minh-nhan-ra-moi-quan-he-cua-tui-minh-hoi-lech-lac)
@@ -105,7 +106,6 @@
 - [Chloé Zhao: Hẹn gặp lại trên đoạn đường phía trước!](https://vietcetera.com/vn/chloezhao-hen-gap-lai-tren-doan-duong-phia-truoc)
 - [Mua bao cao su: Tại sao lại ngượng?](https://vietcetera.com/vn/mua-bao-cao-su-tai-sao-lai-nguong)
 - [Không Quan Tâm: Tham nhũng không chừa Grammy ra](https://vietcetera.com/vn/khong-quan-tam-tham-nhung-khong-chua-grammy-ra)
-- ["Mình biết gì về tình yêu?"](https://vietcetera.com/vn/minh-biet-gi-ve-tinh-yeu)
 
 [Read More](https://vietcetera.com/)
 
@@ -114,8 +114,8 @@
 **MUSIC TRENDS**
 
 01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
-02. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-03. [Dua Lipa - Levitating ft. DaBaby / Don't Start Now (Live at the GRAMMYs 2021)](https://www.youtube.com/watch?v=vFWv44Z4Jhk) - [Dua Lipa](https://www.youtube.com/channel/UC-J-KZfRV8c13fOCkhXdLiQ)
+02. [Dua Lipa - Levitating ft. DaBaby / Don't Start Now (Live at the GRAMMYs 2021)](https://www.youtube.com/watch?v=vFWv44Z4Jhk) - [Dua Lipa](https://www.youtube.com/channel/UC-J-KZfRV8c13fOCkhXdLiQ)
+03. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 04. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
 05. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 06. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
