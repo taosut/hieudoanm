@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
+- Current weather is mist.
 - Temperature is 25°C.
-- Feels Like 27.13°C.
-- Air Visual is 113.
+- Feels Like 27.29°C.
+- Air Visual is 128.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chiều 17/3, Việt Nam có thêm 7 ca mắc COVID-19 mới](https://cafebiz.vn/chieu-17-3-viet-nam-co-them-7-ca-mac-covid-19-moi-20210317182833303.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xe con có được lưu thông trên làn đường xe khách không?](https://laodong.vn/xe/xe-con-co-duoc-luu-thong-tren-lan-duong-xe-khach-khong-889949.ldo) ([Lao Động](https://laodong.vn))
+- [Cách tính thuế thu nhập cá nhân khi chuyển nhượng bất động sản](https://laodong.vn/bat-dong-san/cach-tinh-thue-thu-nhap-ca-nhan-khi-chuyen-nhuong-bat-dong-san-890118.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội nhất trí danh sách 72 người ứng cử đại biểu Quốc hội khóa XV](https://laodong.vn/thoi-su/ha-noi-nhat-tri-danh-sach-72-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xv-890145.ldo) ([Lao Động](https://laodong.vn))
+- [Chuyển đổi số sang thẻ căn cước gắn chip: Thiết thực, tiện ích cho dân](https://laodong.vn/ban-doc/chuyen-doi-so-sang-the-can-cuoc-gan-chip-thiet-thuc-tien-ich-cho-dan-890062.ldo) ([Lao Động](https://laodong.vn))
+- [Công bố 7 ca mắc COVID-19 mới, 2 ca là F1 ghi nhận tại Hải Dương](https://laodong.vn/y-te/cong-bo-7-ca-mac-covid-19-moi-2-ca-la-f1-ghi-nhan-tai-hai-duong-889065.ldo) ([Lao Động](https://laodong.vn))
+- [Nhà hàng, quán ăn, cà phê ở Hải Dương chưa được phục vụ tại chỗ](https://tuoitre.vn/nha-hang-quan-an-ca-phe-o-hai-duong-chua-duoc-phuc-vu-tai-cho-20210317174716267.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thí điểm xây dựng mô hình công an phường kiểu mẫu](https://vnexpress.net/thi-diem-xay-dung-mo-hinh-cong-an-phuong-kieu-mau-4249960.html) ([VNExpress](https://vnexpress.net))
 - [Đà Nẵng ký tiếp văn bản: Mở nhạc, hát karaoke làm ồn trong khu dân cư sẽ bị phạt](https://tuoitre.vn/da-nang-ky-tiep-van-ban-mo-nhac-hat-karaoke-lam-on-trong-khu-dan-cu-se-bi-phat-20210317171824115.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [TPHCM: Hai bến &quot;xe dù&quot; hoạt động rầm rộ ngay trước bến xe Miền Đông](https://laodong.vn/ban-doc/tphcm-hai-ben-xe-du-hoat-dong-ram-ro-ngay-truoc-ben-xe-mien-dong-890074.ldo) ([Lao Động](https://laodong.vn))
 - [Từ "bước đi đầu gấu" tới "lợi dụng thiên thời", bộ tứ siêu đẳng Amazon, Apple, Google, Facebook đã chớp thời cơ từ đại dịch, thu về nguồn lợi khổng lồ như thế nào?](https://cafebiz.vn/tu-buoc-di-dau-gau-toi-loi-dung-thien-thoi-bo-tu-sieu-dang-amazon-apple-google-facebook-da-chop-thoi-co-tu-dai-dich-thu-ve-nguon-loi-khong-lo-nhu-the-nao-20210317174432337.chn) ([CafeBiz](https://cafebiz.vn))
-- [An Giang: Ngăn chặn 2 hộ gia đình nhập cảnh trái phép](https://laodong.vn/xa-hoi/an-giang-ngan-chan-2-ho-gia-dinh-nhap-canh-trai-phep-890128.ldo) ([Lao Động](https://laodong.vn))
-- [Cán bộ y tế Bệnh viện Phụ sản Hà Nội được tiêm vaccine ngừa COVID-19](https://laodong.vn/y-te/can-bo-y-te-benh-vien-phu-san-ha-noi-duoc-tiem-vaccine-ngua-covid-19-890126.ldo) ([Lao Động](https://laodong.vn))
-- [Nha Trang đóng cửa chợ Đầm từ ngày 31/3](https://vnexpress.net/nha-trang-dong-cua-cho-dam-tu-ngay-31-3-4249914.html) ([VNExpress](https://vnexpress.net))
-- [Quy hoạch điện VIII: Đề xuất cắt giảm năng lượng tái tạo](https://laodong.vn/thi-truong/quy-hoach-dien-viii-de-xuat-cat-giam-nang-luong-tai-tao-890129.ldo) ([Lao Động](https://laodong.vn))
-- [Bổ sung tiếng Hàn vào danh mục các môn ngoại ngữ thi tốt nghiệp THPT 2021](https://laodong.vn/giao-duc/bo-sung-tieng-han-vao-danh-muc-cac-mon-ngoai-ngu-thi-tot-nghiep-thpt-2021-890108.ldo) ([Lao Động](https://laodong.vn))
-- [Thu được phí bản quyền 5G từ Apple, Samsung, Huawei có thể kiếm cả tỷ USD mà không cần làm điện thoại](https://cafebiz.vn/thu-duoc-phi-ban-quyen-5g-tu-apple-samsung-huawei-co-the-kiem-ca-ty-usd-ma-khong-can-lam-dien-thoai-20210317163210101.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Vì sao ta không thể tự cù lét mình?](https://vietcetera.com/vn/vi-sao-ta-khong-the-tu-cu-let-minh)
 - [Lifestyle Platform - Mua mọi thứ, ăn mọi món trong một cửa hàng vài chục mét vuông.](https://vietcetera.com/vn/lifestyle-platform-mua-moi-thu-an-moi-mon-trong-mot-cua-hang-vai-chuc-met-vuong)
 - [Mua hàng sale có đồng nghĩa với tiết kiệm?](https://vietcetera.com/vn/mua-hang-sale-co-dong-nghia-voi-tiet-kiem)
 - [Tóm Lại Là: Người đồng tính thì không được "ban phước"?](https://vietcetera.com/vn/tom-lai-la-nguoi-dong-tinh-thi-khong-duoc-ban-phuoc)
@@ -105,7 +106,6 @@
 - [Bình Bồng Bột: 5 Điều bạn cần nhớ nếu muốn trở thành dịch giả](https://vietcetera.com/vn/binh-bong-bot-5-dieu-ban-can-nho-neu-muon-tro-thanh-dich-gia)
 - [Chloé Zhao: Hẹn gặp lại trên đoạn đường phía trước!](https://vietcetera.com/vn/chloezhao-hen-gap-lai-tren-doan-duong-phia-truoc)
 - [Mua bao cao su: Tại sao lại ngượng?](https://vietcetera.com/vn/mua-bao-cao-su-tai-sao-lai-nguong)
-- [Không Quan Tâm: Tham nhũng không chừa Grammy ra](https://vietcetera.com/vn/khong-quan-tam-tham-nhung-khong-chua-grammy-ra)
 
 [Read More](https://vietcetera.com/)
 
