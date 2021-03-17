@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 27.03°C.
-- Air Visual is 117.
+- Temperature is 27°C.
+- Feels Like 27.13°C.
+- Air Visual is 107.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Vì sao Ngọc Trinh chấp nhận "cắn răng" chịu đau để diện giày cao gót?](https://cafebiz.vn/vi-sao-ngoc-trinh-chap-nhan-can-rang-chiu-dau-de-dien-giay-cao-got-20210317102915697.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bạn đã biết bí quyết bảo vệ họng cho cả gia đình?](https://cafebiz.vn/ban-da-biet-bi-quyet-bao-ve-hong-cho-ca-gia-dinh-20210317101319137.chn) ([CafeBiz](https://cafebiz.vn))
-- [Điện gió đang chạy đua theo… gió](https://laodong.vn/kinh-te/dien-gio-dang-chay-dua-theo-gio-889911.ldo) ([Lao Động](https://laodong.vn))
-- [Chặn 2 gia đình Việt kiều vượt sông Tiền về nước giữa khuya](https://tuoitre.vn/chan-2-gia-dinh-viet-kieu-vuot-song-tien-ve-nuoc-giua-khuya-20210317130021133.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bị cáo Đinh La Thăng sẽ phải bồi thường 830 tỉ đồng như thế nào?](https://laodong.vn/phap-luat/bi-cao-dinh-la-thang-se-phai-boi-thuong-830-ti-dong-nhu-the-nao-889999.ldo) ([Lao Động](https://laodong.vn))
-- [BTS vượt mặt Blackpink, xác lập kỷ lục Guinness mới](https://laodong.vn/giai-tri/bts-vuot-mat-blackpink-xac-lap-ky-luc-guinness-moi-889944.ldo) ([Lao Động](https://laodong.vn))
-- [Danh sách các trường ĐH công bố tuyển sinh qua xét học bạ THPT](https://laodong.vn/giao-duc/danh-sach-cac-truong-dh-cong-bo-tuyen-sinh-qua-xet-hoc-ba-thpt-889975.ldo) ([Lao Động](https://laodong.vn))
-- [Con người khi đến một độ tuổi nhất định, phải vứt bỏ 4 thứ: Quán rượu vô nghĩa, người không yêu mình, người thân khinh thường mình và những người bạn giả dối](https://cafebiz.vn/con-nguoi-khi-den-mot-do-tuoi-nhat-dinh-phai-vut-bo-4-thu-quan-ruou-vo-nghia-nguoi-khong-yeu-minh-nguoi-than-khinh-thuong-minh-va-nhung-nguoi-ban-gia-doi-20210316121257458.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quả đào và 8 lợi ích sức khoẻ mà ít ai ngờ tới](https://laodong.vn/dinh-duong-am-thuc/qua-dao-va-8-loi-ich-suc-khoe-ma-it-ai-ngo-toi-889913.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút 17.3: Số tiền ông Đinh La Thăng phải bồi thường sau 4 đại án](https://laodong.vn/video-thoi-su/ban-tin-1-phut-173-so-tien-ong-dinh-la-thang-phai-boi-thuong-sau-4-dai-an-889979.ldo) ([Lao Động](https://laodong.vn))
+- [Khách hàng vay ngân hàng mua nhà dự án, chưa được bàn giao chủ đầu tư đã bị khởi tố hình sự, ABBank xử lý thế nào?](https://cafebiz.vn/khach-hang-vay-ngan-hang-mua-nha-du-an-chua-duoc-ban-giao-chu-dau-tu-da-bi-khoi-to-hinh-su-abbank-xu-ly-the-nao-20210317120347419.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phát hiện biến thể COVID-19 mới có khả năng ‘vượt mặt’ xét nghiệm](https://cafebiz.vn/phat-hien-bien-the-covid-19-moi-co-kha-nang-vuot-mat-xet-nghiem-20210317135412912.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nhiều học sinh đau bụng sau khi uống chai nước ngọt được phát miễn phí trước cổng trường](https://cafebiz.vn/nhieu-hoc-sinh-dau-bung-sau-khi-uong-chai-nuoc-ngot-duoc-phat-mien-phi-truoc-cong-truong-20210317135312077.chn) ([CafeBiz](https://cafebiz.vn))
+- ["LÀNG ĐẠI GIA" được bảo vệ chặt nhất Cần Thơ, toàn biệt phủ phong cách "không có gì ngoài đất", cổng trước đậu ô tô, cổng sau đậu vài du thuyền vẫn còn rộng](https://cafebiz.vn/lang-dai-gia-duoc-bao-ve-chat-nhat-can-tho-toan-biet-phu-phong-cach-khong-co-gi-ngoai-dat-cong-truoc-dau-o-to-cong-sau-dau-vai-du-thuyen-van-con-rong-20210317135238762.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chỉ 4 ngày lập tài khoản, ông Đoàn Ngọc Hải "chốt sổ" hơn 3,5 tỷ đồng tiền ủng hộ người nghèo](https://cafebiz.vn/chi-4-ngay-lap-tai-khoan-ong-doan-ngoc-hai-chot-so-hon-35-ty-dong-tien-ung-ho-nguoi-ngheo-20210317135201759.chn) ([CafeBiz](https://cafebiz.vn))
+- [Công an cảnh báo nguy cơ sập bẫy “bong bóng” giao dịch hoa lan đột biến](https://cafebiz.vn/cong-an-canh-bao-nguy-co-sap-bay-bong-bong-giao-dich-hoa-lan-dot-bien-20210317134919137.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nokia cắt giảm tới 10.000 việc làm để tiết kiệm chi phí](https://cafebiz.vn/nokia-cat-giam-toi-10000-viec-lam-de-tiet-kiem-chi-phi-20210317134833852.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giáo viên THPT hạng III, sắp tới sẽ được bổ nhiệm vào hạng nào?](https://laodong.vn/giao-duc/giao-vien-thpt-hang-iii-sap-toi-se-duoc-bo-nhiem-vao-hang-nao-889996.ldo) ([Lao Động](https://laodong.vn))
+- [Đại học Quốc gia Hà Nội đưa môn golf vào giảng dạy từ năm học 2021-2022 ​](https://cafebiz.vn/dai-hoc-quoc-gia-ha-noi-dua-mon-golf-vao-giang-day-tu-nam-hoc-2021-2022--20210317134245631.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ly hôn sau 5 năm chung sống, người vợ đòi 180 triệu bồi thường gây tranh cãi dữ dội: Không ngừng tăng trưởng giá trị cá nhân để đỡ phải tự định giá chính mình](https://cafebiz.vn/ly-hon-sau-5-nam-chung-song-nguoi-vo-doi-180-trieu-boi-thuong-gay-tranh-cai-du-doi-khong-ngung-tang-truong-gia-tri-ca-nhan-de-do-phai-tu-dinh-gia-chinh-minh-20210317115057479.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Mua hàng sale có đồng nghĩa với tiết kiệm?](https://vietcetera.com/vn/mua-hang-sale-co-dong-nghia-voi-tiet-kiem)
 - [Tóm Lại Là: Người đồng tính thì không được "ban phước"?](https://vietcetera.com/vn/tom-lai-la-nguoi-dong-tinh-thi-khong-duoc-ban-phuoc)
 - ["Điều ngu ngốc nhất, nhân danh tình yêu, mà bạn từng làm là gì?"](https://vietcetera.com/vn/sau-7-nam-yeu-nhau-minh-nhan-ra-moi-quan-he-cua-tui-minh-hoi-lech-lac)
 - [Mua hàng hiệu cũ là một kiểu thông minh mới](https://vietcetera.com/vn/mua-hang-hieu-cu-la-mot-kieu-thong-minh-moi)
@@ -105,7 +106,6 @@
 - [Mua bao cao su: Tại sao lại ngượng?](https://vietcetera.com/vn/mua-bao-cao-su-tai-sao-lai-nguong)
 - [Không Quan Tâm: Tham nhũng không chừa Grammy ra](https://vietcetera.com/vn/khong-quan-tam-tham-nhung-khong-chua-grammy-ra)
 - ["Mình biết gì về tình yêu?"](https://vietcetera.com/vn/minh-biet-gi-ve-tinh-yeu)
-- [Bí quyết giúp founder giảm "CPU" khi gọi vốn thời Covid-19](https://vietcetera.com/vn/bi-quyet-goi-von-nhanh-cho-startup-thoi-covid-19)
 
 [Read More](https://vietcetera.com/)
 
