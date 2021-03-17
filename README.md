@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 27.49°C.
-- Air Visual is 129.
+- Feels Like 27.13°C.
+- Air Visual is 127.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [9 lãnh đạo xã dùng bằng giả](https://vnexpress.net/9-lanh-dao-xa-dung-bang-gia-4250027.html) ([VNExpress](https://vnexpress.net))
+- [Bị chỉ trích "ăn bám" dựa hơi gia đình, vợ chồng Meghan Markle có động thái mới chứng minh cặp đôi không cần hỗ trợ tài chính](https://cafebiz.vn/bi-chi-trich-an-bam-dua-hoi-gia-dinh-vo-chong-meghan-markle-co-dong-thai-moi-chung-minh-cap-doi-khong-can-ho-tro-tai-chinh-20210317212257668.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Nguyễn Đức Chung liên quan ra sao trong vụ mua chế phẩm Redoxy-3C?](https://laodong.vn/phap-luat/ong-nguyen-duc-chung-lien-quan-ra-sao-trong-vu-mua-che-pham-redoxy-3c-890207.ldo) ([Lao Động](https://laodong.vn))
+- [An Giang: Mua bán ma túy, 03 người chia nhau 63 năm tù](https://laodong.vn/phap-luat/an-giang-mua-ban-ma-tuy-03-nguoi-chia-nhau-63-nam-tu-890209.ldo) ([Lao Động](https://laodong.vn))
+- [Hoa hậu, doanh nhân Phương Lê là ai mà bị người đẹp Lý Nhã Kỳ khuyên: Không nên "gắp lửa bỏ tay người", và "thọc gậy bánh xe"?](https://cafebiz.vn/hoa-hau-doanh-nhan-phuong-le-la-ai-ma-bi-nguoi-dep-ly-nha-ky-khuyen-khong-nen-gap-lua-bo-tay-nguoi-va-thoc-gay-banh-xe-20210317211959258.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vì sao ăn khoai lang tốt cho sức khỏe hơn khoai tây?](https://cafebiz.vn/vi-sao-an-khoai-lang-tot-cho-suc-khoe-hon-khoai-tay-20210317200546006.chn) ([CafeBiz](https://cafebiz.vn))
+- [Triệt phá kho hàng Hermes giả "lớn nhất miền Bắc" ở Nam Định: Huy động 10 xe tải để vận chuyển hàng vi phạm](https://cafebiz.vn/triet-pha-kho-hang-hermes-gia-lon-nhat-mien-bac-o-nam-dinh-huy-dong-10-xe-tai-de-van-chuyen-hang-vi-pham-20210317210738492.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắt nam công nhân nhận làm căn cước gắn chip điện tử giá 800.000 đồng](https://tuoitre.vn/bat-nam-cong-nhan-nhan-lam-can-cuoc-gan-chip-dien-tu-gia-800-000-dong-20210317202633098.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Khởi tố cựu Chủ tịch Hà Nội Nguyễn Đức Chung trong vụ mua RedOxy-3C](https://cafebiz.vn/khoi-to-cuu-chu-tich-ha-noi-nguyen-duc-chung-trong-vu-mua-redoxy-3c-2021031721010777.chn) ([CafeBiz](https://cafebiz.vn))
 - [Dấu hiệu "chỉ điểm" sớm ung thư thanh quản, đặc biệt ở độ tuổi trên 40 có hút thuốc uống rượu](https://cafebiz.vn/dau-hieu-chi-diem-som-ung-thu-thanh-quan-dac-biet-o-do-tuoi-tren-40-co-hut-thuoc-uong-ruou-20210317200802093.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hướng dương ngược nắng phần 2: Rối như mớ bòng bong!](https://laodong.vn/giai-tri/huong-duong-nguoc-nang-phan-2-roi-nhu-mo-bong-bong-890205.ldo) ([Lao Động](https://laodong.vn))
-- [Những dịch vụ nào được Hải Dương cho phép hoạt động trở lại từ 18.3?](https://laodong.vn/xa-hoi/nhung-dich-vu-nao-duoc-hai-duong-cho-phep-hoat-dong-tro-lai-tu-183-890210.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng yêu cầu nghiên cứu mở lại đường bay quốc tế, áp dụng "hộ chiếu vaccine"](https://cafebiz.vn/thu-tuong-yeu-cau-nghien-cuu-mo-lai-duong-bay-quoc-te-ap-dung-ho-chieu-vaccine-20210317205017353.chn) ([CafeBiz](https://cafebiz.vn))
-- [ASEAN-Australia sẵn sàng hỗ trợ Myanmar đối thoại, ổn định tình hình](https://laodong.vn/the-gioi/asean-australia-san-sang-ho-tro-myanmar-doi-thoai-on-dinh-tinh-hinh-890201.ldo) ([Lao Động](https://laodong.vn))
-- [Chứng khoán: Thêm một cơ hội tiến lên đỉnh, song đừng kì vọng quá nhiều](https://laodong.vn/kinh-te/chung-khoan-them-mot-co-hoi-tien-len-dinh-song-dung-ki-vong-qua-nhieu-890206.ldo) ([Lao Động](https://laodong.vn))
-- [HLV Shimoda: &quot;Lee Nguyễn sẽ không thể chơi tự do khi gặp Sài Gòn&quot;](https://laodong.vn/bong-da/hlv-shimoda-lee-nguyen-se-khong-the-choi-tu-do-khi-gap-sai-gon-890195.ldo) ([Lao Động](https://laodong.vn))
-- [Miền Bắc đón đợt không khí lạnh cuối tuần, Hà Nội 17 độ C](https://tuoitre.vn/mien-bac-don-dot-khong-khi-lanh-cuoi-tuan-ha-noi-17-do-c-20210317192030698.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tìm thấy thứ này trong cung của Lưu Thiện, tướng Tào Ngụy vừa nhìn đã biết Gia Cát Lượng có sống cũng chẳng cứu nổi nước Thục](https://cafebiz.vn/tim-thay-thu-nay-trong-cung-cua-luu-thien-tuong-tao-nguy-vua-nhin-da-biet-gia-cat-luong-co-song-cung-chang-cuu-noi-nuoc-thuc-20210317195933058.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -117,8 +117,8 @@
 02. [Dua Lipa - Levitating ft. DaBaby / Don't Start Now (Live at the GRAMMYs 2021)](https://www.youtube.com/watch?v=vFWv44Z4Jhk) - [Dua Lipa](https://www.youtube.com/channel/UC-J-KZfRV8c13fOCkhXdLiQ)
 03. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 04. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
-05. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
-06. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
+05. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
+06. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 07. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
 08. [Billie Eilish - everything i wanted (Live From The 63rd GRAMMYs®/2021)](https://www.youtube.com/watch?v=aVAKT9UxJMI) - [BillieEilishVEVO](https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg)
 09. [Tiếng Hát Ngọt Quá Đỗi Với Ca Khúc Thư Tình Em Gái - Thu Hường](https://www.youtube.com/watch?v=4RDOn6cZLPg) - [Giọng Ca Để Đời](https://www.youtube.com/channel/UCwZ2ZaFfTusqV_MGMHUnEsg)
@@ -139,7 +139,7 @@
 07. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
 08. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 09. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
-10. [BI LONG ĐẠI CA Tập 8 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=UXa992qrMv0) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+10. [PHÁP SƯ GANGSTER [TẬP 77] Sức Mạnh Pet Của Sans: Gaster Blaster](https://www.youtube.com/watch?v=3WtthIyNcfY) - [Thế Dũ Team](https://www.youtube.com/channel/UCpTYO-40VeiPwYVNPAH1gGg)
 
 [Read More](https://www.youtube.com/feed/trending)
 
