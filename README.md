@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 26.71°C.
-- Air Visual is 112.
+- Air Visual is 119.
 
 **WEATHER**
 
@@ -62,7 +62,7 @@
 - [![Lee Jong Suk](https://img.shields.io/static/v1?label=Lee%20Jong%20Suk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Jong%20Suk)
 - [![Lý Dịch Phong](https://img.shields.io/static/v1?label=L%C3%BD%20D%E1%BB%8Bch%20Phong&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20D%E1%BB%8Bch%20Phong)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
-- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Manchester City](https://img.shields.io/static/v1?label=Manchester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Manchester%20City)
 - [![Minari](https://img.shields.io/static/v1?label=Minari&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minari)
 - [![Ngô Thiến](https://img.shields.io/static/v1?label=Ng%C3%B4%20Thi%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20Thi%E1%BA%BFn)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Sẽ rút giấy phép phòng khám cố tình bán giấy nghỉ ốm, giấy khám sức khoẻ](https://laodong.vn/xa-hoi/se-rut-giay-phep-phong-kham-co-tinh-ban-giay-nghi-om-giay-kham-suc-khoe-890122.ldo) ([Lao Động](https://laodong.vn))
+- [Tránh bẫy thu nhập trung bình chưa xong, Trung Quốc còn đứng trước nguy cơ rơi vào bẫy thu nhập cao](https://cafebiz.vn/tranh-bay-thu-nhap-trung-binh-chua-xong-trung-quoc-con-dung-truoc-nguy-co-roi-vao-bay-thu-nhap-cao-20210317183004021.chn) ([CafeBiz](https://cafebiz.vn))
+- [6 mẹo giúp bạn dễ dàng quay lại giấc ngủ khi tỉnh giấc, mất ngủ giữa đêm](https://laodong.vn/suc-khoe/6-meo-giup-ban-de-dang-quay-lai-giac-ngu-khi-tinh-giac-mat-ngu-giua-dem-890105.ldo) ([Lao Động](https://laodong.vn))
+- [Sau 5 năm dẫn dắt Hà Nội, huấn luyện viên Chu Đình Nghiêm có gì?](https://laodong.vn/bong-da/sau-5-nam-dan-dat-ha-noi-huan-luyen-vien-chu-dinh-nghiem-co-gi-890075.ldo) ([Lao Động](https://laodong.vn))
+- [Kinh tế 24h: Giá gạo xuất khẩu bất ngờ tăng mạnh; Giá dầu hạ nhiệt](https://laodong.vn/thi-truong/kinh-te-24h-gia-gao-xuat-khau-bat-ngo-tang-manh-gia-dau-ha-nhiet-890159.ldo) ([Lao Động](https://laodong.vn))
+- [Chủ tịch xã cứu dân trong lũ được phong liệt sĩ](https://vnexpress.net/chu-tich-xa-cuu-dan-trong-lu-duoc-phong-liet-si-4250000.html) ([VNExpress](https://vnexpress.net))
+- [Xăng dầu lậu tung hoành: &quot;Chưa đủ điều kiện vẫn có cách để được cấp phép&quot;](https://laodong.vn/kinh-te/xang-dau-lau-tung-hoanh-chua-du-dieu-kien-van-co-cach-de-duoc-cap-phep-890109.ldo) ([Lao Động](https://laodong.vn))
 - [Đề xuất 'nới rộng' gói 6.000 tỷ đồng đào tạo lại lao động](https://vnexpress.net/de-xuat-noi-rong-goi-6-000-ty-dong-dao-tao-lai-lao-dong-4249962.html) ([VNExpress](https://vnexpress.net))
-- [6 bí quyết làm đẹp từ dầu ô liu của những người đẹp nổi tiếng thế giới](https://laodong.vn/suc-khoe/6-bi-quyet-lam-dep-tu-dau-o-liu-cua-nhung-nguoi-dep-noi-tieng-the-gioi-890107.ldo) ([Lao Động](https://laodong.vn))
-- [Tự ý thay đổi kết cấu xe, bị xử phạt thế nào?](https://laodong.vn/xe/tu-y-thay-doi-ket-cau-xe-bi-xu-phat-the-nao-890120.ldo) ([Lao Động](https://laodong.vn))
-- [Khởi tố kẻ đâm nữ công nhân ở Quảng Nam đến nguy kịch](https://laodong.vn/phap-luat/khoi-to-ke-dam-nu-cong-nhan-o-quang-nam-den-nguy-kich-890155.ldo) ([Lao Động](https://laodong.vn))
-- [Không thể loại bỏ điện than vì chắc chắn xây dựng, xúc tiến đầu tư tốt](https://laodong.vn/kinh-te/khong-the-loai-bo-dien-than-vi-chac-chan-xay-dung-xuc-tien-dau-tu-tot-890130.ldo) ([Lao Động](https://laodong.vn))
-- [Chiều 17-3: thêm 2 ca mắc COVID-19 mới ở Hải Dương, 5 ca nhập cảnh Khánh Hòa](https://tuoitre.vn/chieu-17-3-them-2-ca-mac-covid-19-moi-o-hai-duong-5-ca-nhap-canh-khanh-hoa-20210317180726537.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Hà Nội hiệp thương lần hai, nhất trí danh sách sơ bộ 72 ứng viên đại biểu Quốc hội](https://tuoitre.vn/ha-noi-hiep-thuong-lan-hai-nhat-tri-danh-sach-so-bo-72-ung-vien-dai-bieu-quoc-hoi-20210317172116972.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Chiều 17/3, Việt Nam có thêm 7 ca mắc COVID-19 mới](https://cafebiz.vn/chieu-17-3-viet-nam-co-them-7-ca-mac-covid-19-moi-20210317182833303.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xe con có được lưu thông trên làn đường xe khách không?](https://laodong.vn/xe/xe-con-co-duoc-luu-thong-tren-lan-duong-xe-khach-khong-889949.ldo) ([Lao Động](https://laodong.vn))
-- [Chuyển đổi số sang thẻ căn cước gắn chip: Thiết thực, tiện ích cho dân](https://laodong.vn/ban-doc/chuyen-doi-so-sang-the-can-cuoc-gan-chip-thiet-thuc-tien-ich-cho-dan-890062.ldo) ([Lao Động](https://laodong.vn))
-- [Điều chuyển sư thầy cầm nhang cháy xua đuổi người mặc áo dài đi lễ chùa](https://tuoitre.vn/dieu-chuyen-su-thay-cam-nhang-chay-xua-duoi-nguoi-mac-ao-dai-di-le-chua-20210317174927124.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Tóm lại là: Hộ chiếu vaccine COVID-19 bắt đầu thời kỳ bình thường mới?](https://vietcetera.com/vn/tom-lai-la-ho-chieu-vaccine-covid-thong-le-cua-thoi-binh-thuong-moi)
 - [Đạo diễn phim "Ròm" Trần Thanh Huy và dự án mới “11:00 pm”](https://vietcetera.com/vn/dao-dien-phim-rom-tran-thanh-huy-va-du-an-moi-11-gio)
 - [Vì sao ta không thể tự cù lét mình?](https://vietcetera.com/vn/vi-sao-ta-khong-the-tu-cu-let-minh)
 - [Lifestyle Platform - Mua mọi thứ, ăn mọi món trong một cửa hàng vài chục mét vuông.](https://vietcetera.com/vn/lifestyle-platform-mua-moi-thu-an-moi-mon-trong-mot-cua-hang-vai-chuc-met-vuong)
@@ -105,7 +106,6 @@
 - [Mua hàng hiệu cũ là một kiểu thông minh mới](https://vietcetera.com/vn/mua-hang-hieu-cu-la-mot-kieu-thong-minh-moi)
 - [Những điều LinkedIn không nói với bạn](https://vietcetera.com/vn/nhung-dieu-linkedin-khong-noi-voi-ban)
 - [Bình Bồng Bột: 5 Điều bạn cần nhớ nếu muốn trở thành dịch giả](https://vietcetera.com/vn/binh-bong-bot-5-dieu-ban-can-nho-neu-muon-tro-thanh-dich-gia)
-- [Chloé Zhao: Hẹn gặp lại trên đoạn đường phía trước!](https://vietcetera.com/vn/chloezhao-hen-gap-lai-tren-doan-duong-phia-truoc)
 
 [Read More](https://vietcetera.com/)
 
