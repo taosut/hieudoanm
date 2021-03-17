@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 26.41°C.
-- Air Visual is 99.
+- Air Visual is 111.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Điểm danh những loại trái cây không nên ăn khi trời nắng nóng](https://laodong.vn/dinh-duong-am-thuc/diem-danh-nhung-loai-trai-cay-khong-nen-an-khi-troi-nang-nong-889906.ldo) ([Lao Động](https://laodong.vn))
+- [Mách các bà nội trợ 5 mẹo bóc tỏi “nhanh như chớp” và dễ dàng](https://laodong.vn/chuyen-nha-minh/mach-cac-ba-noi-tro-5-meo-boc-toi-nhanh-nhu-chop-va-de-dang-889916.ldo) ([Lao Động](https://laodong.vn))
+- [Quy định về thông tuyến tỉnh khám, chữa bệnh bảo hiểm y tế](https://laodong.vn/ban-doc/quy-dinh-ve-thong-tuyen-tinh-kham-chua-benh-bao-hiem-y-te-890005.ldo) ([Lao Động](https://laodong.vn))
+- [Người không rõ ngày tháng sinh, làm căn cước công dân gắn chip ra sao?](https://laodong.vn/phap-luat/nguoi-khong-ro-ngay-thang-sinh-lam-can-cuoc-cong-dan-gan-chip-ra-sao-890072.ldo) ([Lao Động](https://laodong.vn))
+- [Doanh nghiệp phải chi nhiều nhất cho thủ tục hành chính nào?](https://tuoitre.vn/doanh-nghiep-phai-chi-nhieu-nhat-cho-thu-tuc-hanh-chinh-nao-20210317153005662.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Giám đốc Sở NNPTNT Thanh Hóa nghiêm cấm phát ngôn không chuẩn mực](https://laodong.vn/xa-hoi/giam-doc-so-nnptnt-thanh-hoa-nghiem-cam-phat-ngon-khong-chuan-muc-890058.ldo) ([Lao Động](https://laodong.vn))
 - [Trồng rau giữa sa mạc, start-up gọi vốn thành công 60 triệu USD](https://cafebiz.vn/trong-rau-giua-sa-mac-start-up-goi-von-thanh-cong-60-trieu-usd-2021031715510864.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quảng Bình: Trạm bê tông không phép hoạt động trên 10.000m2 đất rừng](https://laodong.vn/ban-doc/quang-binh-tram-be-tong-khong-phep-hoat-dong-tren-10000m2-dat-rung-890052.ldo) ([Lao Động](https://laodong.vn))
-- [Từ 1.7, thêm đối tượng hưởng trợ cấp xã hội hàng tháng](https://laodong.vn/cong-doan/tu-17-them-doi-tuong-huong-tro-cap-xa-hoi-hang-thang-890055.ldo) ([Lao Động](https://laodong.vn))
 - [Thế giới cấp tập tăng dự trữ giữa biến động giá vàng](https://laodong.vn/the-gioi/the-gioi-cap-tap-tang-du-tru-giua-bien-dong-gia-vang-890070.ldo) ([Lao Động](https://laodong.vn))
 - [Chủ tịch Ủy ban bầu cử TP Cần Thơ: 'Không ông nào lót đường cho ông nào'](https://tuoitre.vn/chu-tich-uy-ban-bau-cu-tp-can-tho-khong-ong-nao-lot-duong-cho-ong-nao-20210317152440913.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bình Dương: Khống chế vụ hỏa hoạn ở vựa phế liệu sát khu dân cư](https://laodong.vn/xa-hoi/binh-duong-khong-che-vu-hoa-hoan-o-vua-phe-lieu-sat-khu-dan-cu-890061.ldo) ([Lao Động](https://laodong.vn))
 - [Mới đầu mùa khô, điện tiêu thụ tại TP.HCM đã tăng vượt 2020](https://tuoitre.vn/moi-dau-mua-kho-dien-tieu-thu-tai-tp-hcm-da-tang-vuot-2020-20210317150214433.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Cựu đại úy quân đội lĩnh án 14 năm tù vì lừa đảo “chạy” trường](https://laodong.vn/phap-luat/cuu-dai-uy-quan-doi-linh-an-14-nam-tu-vi-lua-dao-chay-truong-890065.ldo) ([Lao Động](https://laodong.vn))
-- [CEO Trần Thị Hương: “Thay đổi tư duy để thay đổi cuộc đời”](https://cafebiz.vn/ceo-tran-thi-huong-thay-doi-tu-duy-de-thay-doi-cuoc-doi-20210317152519579.chn) ([CafeBiz](https://cafebiz.vn))
-- [Wikipedia sắp không còn miễn phí như trước](https://cafebiz.vn/wikipedia-sap-khong-con-mien-phi-nhu-truoc-20210317134314644.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
