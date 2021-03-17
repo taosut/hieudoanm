@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 26.41°C.
-- Air Visual is 111.
+- Air Visual is 123.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Điểm danh những loại trái cây không nên ăn khi trời nắng nóng](https://laodong.vn/dinh-duong-am-thuc/diem-danh-nhung-loai-trai-cay-khong-nen-an-khi-troi-nang-nong-889906.ldo) ([Lao Động](https://laodong.vn))
-- [Mách các bà nội trợ 5 mẹo bóc tỏi “nhanh như chớp” và dễ dàng](https://laodong.vn/chuyen-nha-minh/mach-cac-ba-noi-tro-5-meo-boc-toi-nhanh-nhu-chop-va-de-dang-889916.ldo) ([Lao Động](https://laodong.vn))
-- [Quy định về thông tuyến tỉnh khám, chữa bệnh bảo hiểm y tế](https://laodong.vn/ban-doc/quy-dinh-ve-thong-tuyen-tinh-kham-chua-benh-bao-hiem-y-te-890005.ldo) ([Lao Động](https://laodong.vn))
-- [Người không rõ ngày tháng sinh, làm căn cước công dân gắn chip ra sao?](https://laodong.vn/phap-luat/nguoi-khong-ro-ngay-thang-sinh-lam-can-cuoc-cong-dan-gan-chip-ra-sao-890072.ldo) ([Lao Động](https://laodong.vn))
-- [Doanh nghiệp phải chi nhiều nhất cho thủ tục hành chính nào?](https://tuoitre.vn/doanh-nghiep-phai-chi-nhieu-nhat-cho-thu-tuc-hanh-chinh-nao-20210317153005662.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Giám đốc Sở NNPTNT Thanh Hóa nghiêm cấm phát ngôn không chuẩn mực](https://laodong.vn/xa-hoi/giam-doc-so-nnptnt-thanh-hoa-nghiem-cam-phat-ngon-khong-chuan-muc-890058.ldo) ([Lao Động](https://laodong.vn))
-- [Trồng rau giữa sa mạc, start-up gọi vốn thành công 60 triệu USD](https://cafebiz.vn/trong-rau-giua-sa-mac-start-up-goi-von-thanh-cong-60-trieu-usd-2021031715510864.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thế giới cấp tập tăng dự trữ giữa biến động giá vàng](https://laodong.vn/the-gioi/the-gioi-cap-tap-tang-du-tru-giua-bien-dong-gia-vang-890070.ldo) ([Lao Động](https://laodong.vn))
-- [Chủ tịch Ủy ban bầu cử TP Cần Thơ: 'Không ông nào lót đường cho ông nào'](https://tuoitre.vn/chu-tich-uy-ban-bau-cu-tp-can-tho-khong-ong-nao-lot-duong-cho-ong-nao-20210317152440913.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Mới đầu mùa khô, điện tiêu thụ tại TP.HCM đã tăng vượt 2020](https://tuoitre.vn/moi-dau-mua-kho-dien-tieu-thu-tai-tp-hcm-da-tang-vuot-2020-20210317150214433.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Citroen Ami đầu tiên về Việt Nam: Xe điện đô thị thiết kế lạ, 2 chỗ, giá quy đổi hơn 150 triệu đồng](https://cafebiz.vn/citroen-ami-dau-tien-ve-viet-nam-xe-dien-do-thi-thiet-ke-la-2-cho-gia-quy-doi-hon-150-trieu-dong-20210317162411375.chn) ([CafeBiz](https://cafebiz.vn))
+- [YouTube Việt quá độc hại: Loạt kênh "triệu sub" nội dung ngược đãi động vật đến mức ghê rợn, cổ vũ bạo lực mà trẻ em có khả năng mắc bẫy](https://cafebiz.vn/youtube-viet-qua-doc-hai-loat-kenh-trieu-sub-noi-dung-nguoc-dai-dong-vat-den-muc-ghe-ron-co-vu-bao-luc-ma-tre-em-co-kha-nang-mac-bay-20210317163051541.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đại tá Đinh Văn Nơi là người phát ngôn chính thức của Công an tỉnh An Giang](https://laodong.vn/xa-hoi/dai-ta-dinh-van-noi-la-nguoi-phat-ngon-chinh-thuc-cua-cong-an-tinh-an-giang-890089.ldo) ([Lao Động](https://laodong.vn))
+- [Ba vùng đô thị đặc trưng trong quy hoạch Đà Nẵng](https://vnexpress.net/ba-vung-do-thi-dac-trung-trong-quy-hoach-da-nang-4249880.html) ([VNExpress](https://vnexpress.net))
+- ["Ôm" hơn 200 tỉ đồng rồi tuyên bố... vỡ nợ](https://cafebiz.vn/om-hon-200-ti-dong-roi-tuyen-bo-vo-no-20210317162715106.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thủ tướng chỉ đạo xử lý thông tin báo chí nêu về cầu Thanh Trì](https://laodong.vn/thoi-su/thu-tuong-chi-dao-xu-ly-thong-tin-bao-chi-neu-ve-cau-thanh-tri-890087.ldo) ([Lao Động](https://laodong.vn))
+- [TP HCM cần theo mô hình đô thị cao tầng, nhiều mảng xanh](https://vnexpress.net/tp-hcm-can-theo-mo-hinh-do-thi-cao-tang-nhieu-mang-xanh-4249873.html) ([VNExpress](https://vnexpress.net))
+- [Phát hiện tài xế ô tô con dương tính với ma tuý](https://laodong.vn/phap-luat/phat-hien-tai-xe-o-to-con-duong-tinh-voi-ma-tuy-890054.ldo) ([Lao Động](https://laodong.vn))
+- [Chelsea - Atletico: Chờ Tuchel tìm cách &quot;thông nòng&quot; các tiền đạo](https://laodong.vn/bong-da-quoc-te/chelsea-atletico-cho-tuchel-tim-cach-thong-nong-cac-tien-dao-890038.ldo) ([Lao Động](https://laodong.vn))
+- [Trấn Thành &quot;Bố già&quot; lên tiếng về phát ngôn tranh cãi](https://laodong.vn/van-hoa/tran-thanh-bo-gia-len-tieng-ve-phat-ngon-tranh-cai-890069.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
