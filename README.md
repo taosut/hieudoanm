@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 27.03°C.
-- Air Visual is 110.
+- Air Visual is 117.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Vì sao Ngọc Trinh chấp nhận "cắn răng" chịu đau để diện giày cao gót?](https://cafebiz.vn/vi-sao-ngoc-trinh-chap-nhan-can-rang-chiu-dau-de-dien-giay-cao-got-20210317102915697.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bạn đã biết bí quyết bảo vệ họng cho cả gia đình?](https://cafebiz.vn/ban-da-biet-bi-quyet-bao-ve-hong-cho-ca-gia-dinh-20210317101319137.chn) ([CafeBiz](https://cafebiz.vn))
+- [Điện gió đang chạy đua theo… gió](https://laodong.vn/kinh-te/dien-gio-dang-chay-dua-theo-gio-889911.ldo) ([Lao Động](https://laodong.vn))
+- [Chặn 2 gia đình Việt kiều vượt sông Tiền về nước giữa khuya](https://tuoitre.vn/chan-2-gia-dinh-viet-kieu-vuot-song-tien-ve-nuoc-giua-khuya-20210317130021133.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bị cáo Đinh La Thăng sẽ phải bồi thường 830 tỉ đồng như thế nào?](https://laodong.vn/phap-luat/bi-cao-dinh-la-thang-se-phai-boi-thuong-830-ti-dong-nhu-the-nao-889999.ldo) ([Lao Động](https://laodong.vn))
+- [BTS vượt mặt Blackpink, xác lập kỷ lục Guinness mới](https://laodong.vn/giai-tri/bts-vuot-mat-blackpink-xac-lap-ky-luc-guinness-moi-889944.ldo) ([Lao Động](https://laodong.vn))
+- [Danh sách các trường ĐH công bố tuyển sinh qua xét học bạ THPT](https://laodong.vn/giao-duc/danh-sach-cac-truong-dh-cong-bo-tuyen-sinh-qua-xet-hoc-ba-thpt-889975.ldo) ([Lao Động](https://laodong.vn))
+- [Con người khi đến một độ tuổi nhất định, phải vứt bỏ 4 thứ: Quán rượu vô nghĩa, người không yêu mình, người thân khinh thường mình và những người bạn giả dối](https://cafebiz.vn/con-nguoi-khi-den-mot-do-tuoi-nhat-dinh-phai-vut-bo-4-thu-quan-ruou-vo-nghia-nguoi-khong-yeu-minh-nguoi-than-khinh-thuong-minh-va-nhung-nguoi-ban-gia-doi-20210316121257458.chn) ([CafeBiz](https://cafebiz.vn))
 - [Quả đào và 8 lợi ích sức khoẻ mà ít ai ngờ tới](https://laodong.vn/dinh-duong-am-thuc/qua-dao-va-8-loi-ich-suc-khoe-ma-it-ai-ngo-toi-889913.ldo) ([Lao Động](https://laodong.vn))
-- [Israel phát hiện thêm về cuộn kinh thánh cổ niên đại gần 2.000 năm](https://laodong.vn/the-gioi/israel-phat-hien-them-ve-cuon-kinh-thanh-co-nien-dai-gan-2000-nam-889934.ldo) ([Lao Động](https://laodong.vn))
-- [Giá dầu thế giới bất ngờ giảm nhiệt](https://laodong.vn/kinh-te/gia-dau-the-gioi-bat-ngo-giam-nhiet-889967.ldo) ([Lao Động](https://laodong.vn))
-- [Nắng nóng ở TPHCM: Băn khoăn về cách tránh nắng, bảo vệ da hiệu quả](https://laodong.vn/ban-doc/nang-nong-o-tphcm-ban-khoan-ve-cach-tranh-nang-bao-ve-da-hieu-qua-889959.ldo) ([Lao Động](https://laodong.vn))
-- [Loạt lỗ hổng pháp luật trong vụ giao 7.000m2 đất khu công nghiệp Hòa Khánh](https://laodong.vn/ban-doc/loat-lo-hong-phap-luat-trong-vu-giao-7000m2-dat-khu-cong-nghiep-hoa-khanh-889651.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút 17.3: Số tiền ông Đinh La Thăng phải bồi thường sau 4 đại án](https://laodong.vn/video-thoi-su/ban-tin-1-phut-173-so-tien-ong-dinh-la-thang-phai-boi-thuong-sau-4-dai-an-889979.ldo) ([Lao Động](https://laodong.vn))
-- [Kiểm tra trách nhiệm quản lý đất đai ở 26 tỉnh thành](https://tuoitre.vn/kiem-tra-trach-nhiem-quan-ly-nha-nuoc-ve-dat-dai-26-tinh-tp-20210317110413924.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Xe chuyên dùng chở quan tài bốc cháy ngùn ngụt giữa trung tâm Đà Nẵng](http://vietnamnet.vn/vn/thoi-su/xe-chuyen-dung-cho-quan-tai-boc-chay-ngun-ngut-giua-trung-tam-da-nang-720230.html) ([VietNamNet](https://vietnamnet.vn))
-- [Thanh niên tử vong ở TP.HCM, tài xế lái ô tô bỏ chạy khỏi hiện trường](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/thanh-nien-tu-vong-o-tp-hcm-tai-xe-lai-o-to-bo-chay-khoi-hien-truong-720234.html) ([VietNamNet](https://vietnamnet.vn))
-- [Xét xử Dương Thị Bạch Diệp: Phiên tòa tạm dừng 5 ngày vì lý do bất ngờ](https://laodong.vn/phap-luat/xet-xu-duong-thi-bach-diep-phien-toa-tam-dung-5-ngay-vi-ly-do-bat-ngo-889976.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
