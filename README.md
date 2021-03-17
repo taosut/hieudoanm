@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 25.4°C.
-- Air Visual is 92.
+- Air Visual is 93.
 
 **WEATHER**
 
@@ -49,17 +49,17 @@
 **GOOGLE TRENDS**
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
-- [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
-- [![Di Maria](https://img.shields.io/static/v1?label=Di%20Maria&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%20Maria)
+- [![Chỉ thị 19](https://img.shields.io/static/v1?label=Ch%E1%BB%89%20th%E1%BB%8B%2019&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ch%E1%BB%89%20th%E1%BB%8B%2019)
 - [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
 - [![Grammy 2021](https://img.shields.io/static/v1?label=Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Grammy%202021)
+- [![Gọi Rồng Online](https://img.shields.io/static/v1?label=G%E1%BB%8Di%20R%E1%BB%93ng%20Online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G%E1%BB%8Di%20R%E1%BB%93ng%20Online)
 - [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
 - [![Hoa Vinh](https://img.shields.io/static/v1?label=Hoa%20Vinh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20Vinh)
 - [![Hướng dương ngược nắng tập 40](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2040)
 - [![Hướng dương ngược nắng tập 41](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2041&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2041)
 - [![Inter](https://img.shields.io/static/v1?label=Inter&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Inter)
 - [![Lee Jong Suk](https://img.shields.io/static/v1?label=Lee%20Jong%20Suk&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lee%20Jong%20Suk)
-- [![Lý Nhã Kỳ](https://img.shields.io/static/v1?label=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20Nh%C3%A3%20K%E1%BB%B3)
+- [![Lý Dịch Phong](https://img.shields.io/static/v1?label=L%C3%BD%20D%E1%BB%8Bch%20Phong&message=google&color=red&style=flat-square)](https://www.google.com/search?q=L%C3%BD%20D%E1%BB%8Bch%20Phong)
 - [![MU vs West Ham](https://img.shields.io/static/v1?label=MU%20vs%20West%20Ham&message=google&color=red&style=flat-square)](https://www.google.com/search?q=MU%20vs%20West%20Ham)
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Minari](https://img.shields.io/static/v1?label=Minari&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minari)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Giá vàng hôm nay 17.3: Diễn biến trái chiều, tương lai nào cho giá vàng?](https://laodong.vn/tien-te-dau-tu/gia-vang-hom-nay-173-dien-bien-trai-chieu-tuong-lai-nao-cho-gia-vang-889914.ldo) ([Lao Động](https://laodong.vn))
+- [Kiên Giang: Dự kiến xã đảo xa nhất bầu cử sớm 2 ngày](https://laodong.vn/thoi-su/kien-giang-du-kien-xa-dao-xa-nhat-bau-cu-som-2-ngay-889950.ldo) ([Lao Động](https://laodong.vn))
+- [Sóng gió lại ập đến với Jack Ma: Trình duyệt web của Alibaba đồng loạt bị gỡ khỏi các app store](https://cafebiz.vn/song-gio-lai-ap-den-voi-jack-ma-trinh-duyet-web-cua-alibaba-dong-loat-bi-go-khoi-cac-app-store-20210317105927409.chn) ([CafeBiz](https://cafebiz.vn))
+- [Về Việt Nam, những chiếc ô tô giá rẻ nhất thế giới bị "đánh bại" bởi VinFast Fadil](https://cafebiz.vn/ve-viet-nam-nhung-chiec-o-to-gia-re-nhat-the-gioi-bi-danh-bai-boi-vinfast-fadil-20210317085741105.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ứng dụng phần mềm văn phòng điện tử để doanh nghiệp chuyển đổi số thành công](https://cafebiz.vn/ung-dung-phan-mem-van-phong-dien-tu-de-doanh-nghiep-chuyen-doi-so-thanh-cong-20210316185905527.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chi tiết kế hoạch và lịch thi vào lớp 10 tại các tỉnh, thành phố năm 2021](https://laodong.vn/infographic/chi-tiet-ke-hoach-va-lich-thi-vao-lop-10-tai-cac-tinh-thanh-pho-nam-2021-889543.ldo) ([Lao Động](https://laodong.vn))
+- [Ukraina: Phẫn nộ mẹ đồng tình cho con gái 8 tuổi hẹn hò yêu đương](https://laodong.vn/the-gioi/ukraina-phan-no-me-dong-tinh-cho-con-gai-8-tuoi-hen-ho-yeu-duong-889925.ldo) ([Lao Động](https://laodong.vn))
+- [Một số mẹo nhỏ giúp bố mẹ dạy con làm bài tập về nhà hiệu quả](https://laodong.vn/chuyen-nha-minh/mot-so-meo-nho-giup-bo-me-day-con-lam-bai-tap-ve-nha-hieu-qua-887399.ldo) ([Lao Động](https://laodong.vn))
 - [NÓNG: Một trong hai ‘cha đẻ’ của vắc xin AstraZeneca tuyên bố tạm ngừng sử dụng vắc xin này](https://cafebiz.vn/nong-mot-trong-hai-cha-de-cua-vac-xin-astrazeneca-tuyen-bo-tam-ngung-su-dung-vac-xin-nay-20210317104846989.chn) ([CafeBiz](https://cafebiz.vn))
-- [Việt Nam đang đa dạng hóa nguồn cung vaccine Covid-19](https://vnexpress.net/viet-nam-dang-da-dang-hoa-nguon-cung-vaccine-covid-19-4249662.html) ([VNExpress](https://vnexpress.net))
-- [Hơn 1.000 người Iran thương vong khi ăn mừng lễ hội lửa](https://laodong.vn/the-gioi/hon-1000-nguoi-iran-thuong-vong-khi-an-mung-le-hoi-lua-889937.ldo) ([Lao Động](https://laodong.vn))
-- [Thí sinh chuyển giới &quot;đổ bộ&quot; Hoa hậu Hoàn vũ Việt Nam 2021](https://laodong.vn/giai-tri/thi-sinh-chuyen-gioi-do-bo-hoa-hau-hoan-vu-viet-nam-2021-889808.ldo) ([Lao Động](https://laodong.vn))
-- [3 nhà sáng lập CellphoneS: Buôn bán điện thoại khi còn là sinh viên ĐH Ngoại thương, trở thành “ông bầu” nâng đỡ hàng chục Youtuber đình đám](https://cafebiz.vn/3-nha-sang-lap-cellphones-buon-ban-dien-thoai-khi-con-la-sinh-vien-dh-ngoai-thuong-tro-thanh-ong-bau-nang-do-hang-chuc-youtuber-dinh-dam-20210316153919014.chn) ([CafeBiz](https://cafebiz.vn))
-- [Không hổ danh là những thiên tài, phong cách làm việc của Steve Jobs và Einstein cũng thật khác người: Điều khác biệt nằm gọn trong 1 thói quen duy nhất](https://cafebiz.vn/khong-ho-danh-la-nhung-thien-tai-phong-cach-lam-viec-cua-steve-jobs-va-einstein-cung-that-khac-nguoi-dieu-khac-biet-nam-gon-trong-1-thoi-quen-duy-nhat-2021031710332848.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hacker Trung Quốc cài được cả mã độc lên máy chủ Lầu Năm Góc như thế nào?](https://cafebiz.vn/hacker-trung-quoc-cai-duoc-ca-ma-doc-len-may-chu-lau-nam-goc-nhu-the-nao-20210317090055932.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lễ bốc thăm vòng tứ kết Champions League 2020-21 có gì đặc biệt?](https://laodong.vn/bong-da-quoc-te/le-boc-tham-vong-tu-ket-champions-league-2020-21-co-gi-dac-biet-889908.ldo) ([Lao Động](https://laodong.vn))
-- [Trải nghiệm lần đầu tiêm vaccine COVID-19 của tiến sĩ người Việt tại Mỹ](https://laodong.vn/suc-khoe/trai-nghiem-lan-dau-tiem-vaccine-covid-19-cua-tien-si-nguoi-viet-tai-my-889929.ldo) ([Lao Động](https://laodong.vn))
-- [Anh hướng tới tăng cường ảnh hưởng ở Ấn Độ - Thái Bình Dương](https://laodong.vn/the-gioi/anh-huong-toi-tang-cuong-anh-huong-o-an-do-thai-binh-duong-889915.ldo) ([Lao Động](https://laodong.vn))
+- [Việt Nam đa dạng hóa nguồn cung vaccine Covid-19](https://vnexpress.net/viet-nam-da-dang-hoa-nguon-cung-vaccine-covid-19-4249662.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
