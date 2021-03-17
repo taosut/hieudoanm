@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 27°C.
 - Feels Like 27.13°C.
-- Air Visual is 107.
+- Air Visual is 109.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Sướng như đẻ con ở Phần Lan: Bố mẹ được nghỉ có lương tới 3 năm sau sinh, khi đi làm lại chính phủ trợ cấp gần 8 triệu đồng phí chăm con](https://cafebiz.vn/suong-nhu-de-con-o-phan-lan-bo-me-duoc-nghi-co-luong-toi-3-nam-sau-sinh-khi-di-lam-lai-chinh-phu-tro-cap-gan-8-trieu-dong-phi-cham-con-20210317110054231.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hệ số lương của giáo viên trường mầm non công lập thế nào?](https://laodong.vn/tu-van-phap-luat/he-so-luong-cua-giao-vien-truong-mam-non-cong-lap-the-nao-889353.ldo) ([Lao Động](https://laodong.vn))
+- [Có bị trừ tiền chế độ thai sản vào tiền bảo hiểm xã hội một lần?](https://laodong.vn/ban-doc/co-bi-tru-tien-che-do-thai-san-vao-tien-bao-hiem-xa-hoi-mot-lan-889853.ldo) ([Lao Động](https://laodong.vn))
+- [Diễn viên Hồng Đăng chia sẻ bí quyết chăm, dạy con](https://laodong.vn/chuyen-nha-minh/dien-vien-hong-dang-chia-se-bi-quyet-cham-day-con-889907.ldo) ([Lao Động](https://laodong.vn))
+- [Kế hoạch bắt cóc &quot;người trong mộng&quot; của kẻ si tình thực hiện ra sao?](https://laodong.vn/phap-luat/ke-hoach-bat-coc-nguoi-trong-mong-cua-ke-si-tinh-thuc-hien-ra-sao-890010.ldo) ([Lao Động](https://laodong.vn))
 - [Khách hàng vay ngân hàng mua nhà dự án, chưa được bàn giao chủ đầu tư đã bị khởi tố hình sự, ABBank xử lý thế nào?](https://cafebiz.vn/khach-hang-vay-ngan-hang-mua-nha-du-an-chua-duoc-ban-giao-chu-dau-tu-da-bi-khoi-to-hinh-su-abbank-xu-ly-the-nao-20210317120347419.chn) ([CafeBiz](https://cafebiz.vn))
 - [Phát hiện biến thể COVID-19 mới có khả năng ‘vượt mặt’ xét nghiệm](https://cafebiz.vn/phat-hien-bien-the-covid-19-moi-co-kha-nang-vuot-mat-xet-nghiem-20210317135412912.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ông Biden nhắn nhủ khi làn sóng di cư vọt lên mức cao nhất trong 20 năm](https://laodong.vn/the-gioi/ong-biden-nhan-nhu-khi-lan-song-di-cu-vot-len-muc-cao-nhat-trong-20-nam-890003.ldo) ([Lao Động](https://laodong.vn))
 - [Nhiều học sinh đau bụng sau khi uống chai nước ngọt được phát miễn phí trước cổng trường](https://cafebiz.vn/nhieu-hoc-sinh-dau-bung-sau-khi-uong-chai-nuoc-ngot-duoc-phat-mien-phi-truoc-cong-truong-20210317135312077.chn) ([CafeBiz](https://cafebiz.vn))
 - ["LÀNG ĐẠI GIA" được bảo vệ chặt nhất Cần Thơ, toàn biệt phủ phong cách "không có gì ngoài đất", cổng trước đậu ô tô, cổng sau đậu vài du thuyền vẫn còn rộng](https://cafebiz.vn/lang-dai-gia-duoc-bao-ve-chat-nhat-can-tho-toan-biet-phu-phong-cach-khong-co-gi-ngoai-dat-cong-truoc-dau-o-to-cong-sau-dau-vai-du-thuyen-van-con-rong-20210317135238762.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chỉ 4 ngày lập tài khoản, ông Đoàn Ngọc Hải "chốt sổ" hơn 3,5 tỷ đồng tiền ủng hộ người nghèo](https://cafebiz.vn/chi-4-ngay-lap-tai-khoan-ong-doan-ngoc-hai-chot-so-hon-35-ty-dong-tien-ung-ho-nguoi-ngheo-20210317135201759.chn) ([CafeBiz](https://cafebiz.vn))
-- [Công an cảnh báo nguy cơ sập bẫy “bong bóng” giao dịch hoa lan đột biến](https://cafebiz.vn/cong-an-canh-bao-nguy-co-sap-bay-bong-bong-giao-dich-hoa-lan-dot-bien-20210317134919137.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nokia cắt giảm tới 10.000 việc làm để tiết kiệm chi phí](https://cafebiz.vn/nokia-cat-giam-toi-10000-viec-lam-de-tiet-kiem-chi-phi-20210317134833852.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giáo viên THPT hạng III, sắp tới sẽ được bổ nhiệm vào hạng nào?](https://laodong.vn/giao-duc/giao-vien-thpt-hang-iii-sap-toi-se-duoc-bo-nhiem-vao-hang-nao-889996.ldo) ([Lao Động](https://laodong.vn))
-- [Đại học Quốc gia Hà Nội đưa môn golf vào giảng dạy từ năm học 2021-2022 ​](https://cafebiz.vn/dai-hoc-quoc-gia-ha-noi-dua-mon-golf-vao-giang-day-tu-nam-hoc-2021-2022--20210317134245631.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ly hôn sau 5 năm chung sống, người vợ đòi 180 triệu bồi thường gây tranh cãi dữ dội: Không ngừng tăng trưởng giá trị cá nhân để đỡ phải tự định giá chính mình](https://cafebiz.vn/ly-hon-sau-5-nam-chung-song-nguoi-vo-doi-180-trieu-boi-thuong-gay-tranh-cai-du-doi-khong-ngung-tang-truong-gia-tri-ca-nhan-de-do-phai-tu-dinh-gia-chinh-minh-20210317115057479.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
