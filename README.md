@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 25.4°C.
-- Air Visual is 86.
+- Air Visual is 98.
 
 **WEATHER**
 
@@ -52,7 +52,6 @@
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
 - [![Di Maria](https://img.shields.io/static/v1?label=Di%20Maria&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Di%20Maria)
 - [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
-- [![Giá xăng dầu hôm nay](https://img.shields.io/static/v1?label=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Gi%C3%A1%20x%C4%83ng%20d%E1%BA%A7u%20h%C3%B4m%20nay)
 - [![Grammy 2021](https://img.shields.io/static/v1?label=Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Grammy%202021)
 - [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
 - [![Hoa Vinh](https://img.shields.io/static/v1?label=Hoa%20Vinh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Hoa%20Vinh)
@@ -68,6 +67,7 @@
 - [![Park Seo Joon](https://img.shields.io/static/v1?label=Park%20Seo%20Joon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Park%20Seo%20Joon)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
+- [![iPhone 13](https://img.shields.io/static/v1?label=iPhone%2013&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iPhone%2013)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Những người từng được 'thần y' Võ Hoàng Yên chữa bệnh nói gì?](https://cafebiz.vn/nhung-nguoi-tung-duoc-than-y-vo-hoang-yen-chua-benh-noi-gi-20210317091231051.chn) ([CafeBiz](https://cafebiz.vn))
-- [Concept iPhone 13 Pro này sẽ khiến bạn "ném" chiếc iPhone 12 đi mà không thương tiếc](https://cafebiz.vn/concept-iphone-13-pro-nay-se-khien-ban-nem-chiec-iphone-12-di-ma-khong-thuong-tiec-20210317094257293.chn) ([CafeBiz](https://cafebiz.vn))
-- [An Giang: Triệt xóa sòng bạc trong đêm ở khu vực miền núi](https://laodong.vn/phap-luat/an-giang-triet-xoa-song-bac-trong-dem-o-khu-vuc-mien-nui-889910.ldo) ([Lao Động](https://laodong.vn))
-- [Đường dây ma túy khủng từ Châu Âu về Việt Nam được giấu trong hộp thực phẩm chức năng](https://cafebiz.vn/duong-day-ma-tuy-khung-tu-chau-au-ve-viet-nam-duoc-giau-trong-hop-thuc-pham-chuc-nang-20210317093926872.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tuyên Quang: Công đoàn vận động đoàn viên tiêu thụ cam sành](https://laodong.vn/ldld-tuyen-quang/tuyen-quang-cong-doan-van-dong-doan-vien-tieu-thu-cam-sanh-889920.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ Xây dựng truy tìm nguyên nhân gây sốt đất khắp nơi](https://cafebiz.vn/bo-xay-dung-truy-tim-nguyen-nhan-gay-sot-dat-khap-noi-2021031709331323.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phải làm gì khi không được cấp giấy xác nhận chứng minh nhân dân cũ?](https://laodong.vn/ban-doc/phai-lam-gi-khi-khong-duoc-cap-giay-xac-nhan-chung-minh-nhan-dan-cu-889891.ldo) ([Lao Động](https://laodong.vn))
-- [Từ ngày 1- 4, sử dụng mẫu thẻ BHYT mới](https://cafebiz.vn/tu-ngay-1-4-su-dung-mau-the-bhyt-moi-20210317090224546.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nghiên cứu sửng sốt về khởi nguồn sự sống trên trái đất](https://laodong.vn/the-gioi/nghien-cuu-sung-sot-ve-khoi-nguon-su-song-tren-trai-dat-889899.ldo) ([Lao Động](https://laodong.vn))
-- [Trường quốc tế Đà Nẵng sa thải giảng viên bị tố tàng trữ hình ảnh khiêu dâm](https://laodong.vn/ban-doc/truong-quoc-te-da-nang-sa-thai-giang-vien-bi-to-tang-tru-hinh-anh-khieu-dam-889890.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
