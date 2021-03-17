@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 26.12°C.
-- Air Visual is 85.
+- Feels Like 25.4°C.
+- Air Visual is 92.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [NÓNG: Một trong hai ‘cha đẻ’ của vắc xin AstraZeneca tuyên bố tạm ngừng sử dụng vắc xin này](https://cafebiz.vn/nong-mot-trong-hai-cha-de-cua-vac-xin-astrazeneca-tuyen-bo-tam-ngung-su-dung-vac-xin-nay-20210317104846989.chn) ([CafeBiz](https://cafebiz.vn))
+- [Việt Nam đang đa dạng hóa nguồn cung vaccine Covid-19](https://vnexpress.net/viet-nam-dang-da-dang-hoa-nguon-cung-vaccine-covid-19-4249662.html) ([VNExpress](https://vnexpress.net))
+- [Hơn 1.000 người Iran thương vong khi ăn mừng lễ hội lửa](https://laodong.vn/the-gioi/hon-1000-nguoi-iran-thuong-vong-khi-an-mung-le-hoi-lua-889937.ldo) ([Lao Động](https://laodong.vn))
+- [Thí sinh chuyển giới &quot;đổ bộ&quot; Hoa hậu Hoàn vũ Việt Nam 2021](https://laodong.vn/giai-tri/thi-sinh-chuyen-gioi-do-bo-hoa-hau-hoan-vu-viet-nam-2021-889808.ldo) ([Lao Động](https://laodong.vn))
+- [3 nhà sáng lập CellphoneS: Buôn bán điện thoại khi còn là sinh viên ĐH Ngoại thương, trở thành “ông bầu” nâng đỡ hàng chục Youtuber đình đám](https://cafebiz.vn/3-nha-sang-lap-cellphones-buon-ban-dien-thoai-khi-con-la-sinh-vien-dh-ngoai-thuong-tro-thanh-ong-bau-nang-do-hang-chuc-youtuber-dinh-dam-20210316153919014.chn) ([CafeBiz](https://cafebiz.vn))
+- [Không hổ danh là những thiên tài, phong cách làm việc của Steve Jobs và Einstein cũng thật khác người: Điều khác biệt nằm gọn trong 1 thói quen duy nhất](https://cafebiz.vn/khong-ho-danh-la-nhung-thien-tai-phong-cach-lam-viec-cua-steve-jobs-va-einstein-cung-that-khac-nguoi-dieu-khac-biet-nam-gon-trong-1-thoi-quen-duy-nhat-2021031710332848.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hacker Trung Quốc cài được cả mã độc lên máy chủ Lầu Năm Góc như thế nào?](https://cafebiz.vn/hacker-trung-quoc-cai-duoc-ca-ma-doc-len-may-chu-lau-nam-goc-nhu-the-nao-20210317090055932.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lễ bốc thăm vòng tứ kết Champions League 2020-21 có gì đặc biệt?](https://laodong.vn/bong-da-quoc-te/le-boc-tham-vong-tu-ket-champions-league-2020-21-co-gi-dac-biet-889908.ldo) ([Lao Động](https://laodong.vn))
 - [Trải nghiệm lần đầu tiêm vaccine COVID-19 của tiến sĩ người Việt tại Mỹ](https://laodong.vn/suc-khoe/trai-nghiem-lan-dau-tiem-vaccine-covid-19-cua-tien-si-nguoi-viet-tai-my-889929.ldo) ([Lao Động](https://laodong.vn))
 - [Anh hướng tới tăng cường ảnh hưởng ở Ấn Độ - Thái Bình Dương](https://laodong.vn/the-gioi/anh-huong-toi-tang-cuong-anh-huong-o-an-do-thai-binh-duong-889915.ldo) ([Lao Động](https://laodong.vn))
-- [Thiêng liêng những “sơn tự” giữa mây ngàn](https://laodong.vn/bat-dong-san/thieng-lieng-nhung-son-tu-giua-may-ngan-889921.ldo) ([Lao Động](https://laodong.vn))
-- [Uống rượu ngâm cây anh túc, tài xế bị phát hiện dương tính với ma túy](https://laodong.vn/phap-luat/uong-ruou-ngam-cay-anh-tuc-tai-xe-bi-phat-hien-duong-tinh-voi-ma-tuy-889933.ldo) ([Lao Động](https://laodong.vn))
-- [Cháy kho hàng gia dụng giữa khu dân cư](https://vnexpress.net/chay-kho-hang-gia-dung-giua-khu-dan-cu-4249643.html) ([VNExpress](https://vnexpress.net))
-- [Nguy cơ bùng phát dịch vẫn luôn thường trực ở Việt Nam](https://tuoitre.vn/nguy-co-bung-phat-dich-van-luon-thuong-truc-o-viet-nam-20210317101308555.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thủ tướng chủ trì họp trực tuyến toàn quốc về Covid-19](http://vietnamnet.vn/vn/thoi-su/chinh-tri/thu-tuong-chu-tri-hop-truc-tuyen-toan-quoc-ve-covid-19-720188.html) ([VietNamNet](https://vietnamnet.vn))
-- [Giá vàng và ngoại tệ 17.3: Vàng tiếp tục giữ &quot;phong độ&quot; ở mức cao](https://laodong.vn/video/gia-vang-va-ngoai-te-173-vang-tiep-tuc-giu-phong-do-o-muc-cao-889926.ldo) ([Lao Động](https://laodong.vn))
-- [Vì sao Bí thư Nguyễn Văn Nên không ứng cử đại biểu Quốc hội?](https://tuoitre.vn/vi-sao-bi-thu-nguyen-van-nen-khong-ung-cu-dai-bieu-quoc-hoi-2021031709431892.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
