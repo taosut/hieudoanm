@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 26.11°C.
-- Air Visual is 104.
+- Feels Like 26.83°C.
+- Air Visual is 108.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [NSND Thu Hà và những nữ nghệ sĩ &quot;gừng càng già càng cay&quot; trên màn ảnh Việt](https://laodong.vn/photo/nsnd-thu-ha-va-nhung-nu-nghe-si-gung-cang-gia-cang-cay-tren-man-anh-viet-889956.ldo) ([Lao Động](https://laodong.vn))
-- [Một chương trình đặc biệt về năng lượng sắp được lên sóng](https://laodong.vn/thong-tin-doanh-nghiep/mot-chuong-trinh-dac-biet-ve-nang-luong-sap-duoc-len-song-889980.ldo) ([Lao Động](https://laodong.vn))
-- [5 câu chuyện về ngày chưa nổi tiếng của Blackpink khiến fan bất ngờ](https://laodong.vn/giai-tri/5-cau-chuyen-ve-ngay-chua-noi-tieng-cua-blackpink-khien-fan-bat-ngo-889766.ldo) ([Lao Động](https://laodong.vn))
-- [Những lưu ý về chức danh nghề nghiệp của giáo viên các cấp từ 20.3](https://laodong.vn/giao-duc/nhung-luu-y-ve-chuc-danh-nghe-nghiep-cua-giao-vien-cac-cap-tu-203-890009.ldo) ([Lao Động](https://laodong.vn))
-- [Điện Biên: Mang theo 9 bánh heroin, 2 thanh niên bị bắt giữ](https://laodong.vn/phap-luat/dien-bien-mang-theo-9-banh-heroin-2-thanh-nien-bi-bat-giu-890040.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng: Quân đội băng rừng đặt thuốc nổ, phá hủy 29 hầm vàng trái phép](https://laodong.vn/photo/da-nang-quan-doi-bang-rung-dat-thuoc-no-pha-huy-29-ham-vang-trai-phep-890007.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Cầu Thủ Thiêm 2 lùi thời gian hoàn thành sang giữa năm 2022](https://laodong.vn/xa-hoi/tphcm-cau-thu-thiem-2-lui-thoi-gian-hoan-thanh-sang-giua-nam-2022-889964.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng yêu cầu nghiên cứu 'hộ chiếu vaccine Covid-19'](https://vnexpress.net/thu-tuong-yeu-cau-nghien-cuu-ho-chieu-vaccine-covid-19-4249830.html) ([VNExpress](https://vnexpress.net))
-- [Việt Nam tiếp tục tiêm vắc xin AstraZeneca](https://tuoitre.vn/viet-nam-tiep-tuc-tiem-vac-xin-astrazeneca-20210317142816337.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tích hợp nhiều dữ liệu, mất CCCD gắn chip có mất dữ liệu cá nhân?](https://laodong.vn/video/tich-hop-nhieu-du-lieu-mat-cccd-gan-chip-co-mat-du-lieu-ca-nhan-889746.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Dương: Khống chế vụ hỏa hoạn ở vựa phế liệu sát khu dân cư](https://laodong.vn/xa-hoi/binh-duong-khong-che-vu-hoa-hoan-o-vua-phe-lieu-sat-khu-dan-cu-890061.ldo) ([Lao Động](https://laodong.vn))
+- [Cựu đại úy quân đội lĩnh án 14 năm tù vì lừa đảo “chạy” trường](https://laodong.vn/phap-luat/cuu-dai-uy-quan-doi-linh-an-14-nam-tu-vi-lua-dao-chay-truong-890065.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Park Hang-seo thấy gì từ màn trình diễn của học trò tại V.League?](https://laodong.vn/bong-da/ong-park-hang-seo-thay-gi-tu-man-trinh-dien-cua-hoc-tro-tai-vleague-890039.ldo) ([Lao Động](https://laodong.vn))
+- [CEO Trần Thị Hương: “Thay đổi tư duy để thay đổi cuộc đời”](https://cafebiz.vn/ceo-tran-thi-huong-thay-doi-tu-duy-de-thay-doi-cuoc-doi-20210317152519579.chn) ([CafeBiz](https://cafebiz.vn))
+- [Wikipedia sắp không còn miễn phí như trước](https://cafebiz.vn/wikipedia-sap-khong-con-mien-phi-nhu-truoc-20210317134314644.chn) ([CafeBiz](https://cafebiz.vn))
+- [Ôtô bốc cháy giữa phố](https://vnexpress.net/oto-boc-chay-giua-pho-4249753.html) ([VNExpress](https://vnexpress.net))
+- [Người đàn ông có siêu kháng thể diệt được virus SARS-CoV-2  dù pha loãng máu tới 10.000 lần](https://cafebiz.vn/nguoi-dan-ong-co-sieu-khang-the-diet-duoc-virus-sars-cov-2-du-pha-loang-mau-toi-10000-lan-20210317152035136.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hai anh em đỗ đại học tốp 1 châu Á, báo chí kéo đến nhà phỏng vấn rầm rộ, bà mẹ nói đúng 1 câu mà ai cũng gật gù tâm đắc](https://cafebiz.vn/hai-anh-em-do-dai-hoc-top-1-chau-a-bao-chi-keo-den-nha-phong-van-ram-ro-ba-me-noi-dung-1-cau-ma-ai-cung-gat-gu-tam-dac-20210317152758284.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khánh thành tượng đài nhà thơ Nga Pushkin tại Hà Nội](https://laodong.vn/the-gioi/khanh-thanh-tuong-dai-nha-tho-nga-pushkin-tai-ha-noi-890049.ldo) ([Lao Động](https://laodong.vn))
+- [LĐLĐ tỉnh Bình Dương triển khai Nghị quyết Đại hội Đảng các cấp](https://laodong.vn/ldld-binh-duong/ldld-tinh-binh-duong-trien-khai-nghi-quyet-dai-hoi-dang-cac-cap-890046.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
