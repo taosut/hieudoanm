@@ -1,12 +1,15 @@
 # News
 
+- [Khởi tố cựu Chủ tịch Hà Nội Nguyễn Đức Chung trong vụ mua RedOxy-3C](https://cafebiz.vn/khoi-to-cuu-chu-tich-ha-noi-nguyen-duc-chung-trong-vu-mua-redoxy-3c-2021031721010777.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dấu hiệu "chỉ điểm" sớm ung thư thanh quản, đặc biệt ở độ tuổi trên 40 có hút thuốc uống rượu](https://cafebiz.vn/dau-hieu-chi-diem-som-ung-thu-thanh-quan-dac-biet-o-do-tuoi-tren-40-co-hut-thuoc-uong-ruou-20210317200802093.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hướng dương ngược nắng phần 2: Rối như mớ bòng bong!](https://laodong.vn/giai-tri/huong-duong-nguoc-nang-phan-2-roi-nhu-mo-bong-bong-890205.ldo) ([Lao Động](https://laodong.vn))
+- [Những dịch vụ nào được Hải Dương cho phép hoạt động trở lại từ 18.3?](https://laodong.vn/xa-hoi/nhung-dich-vu-nao-duoc-hai-duong-cho-phep-hoat-dong-tro-lai-tu-183-890210.ldo) ([Lao Động](https://laodong.vn))
 - [Thủ tướng yêu cầu nghiên cứu mở lại đường bay quốc tế, áp dụng "hộ chiếu vaccine"](https://cafebiz.vn/thu-tuong-yeu-cau-nghien-cuu-mo-lai-duong-bay-quoc-te-ap-dung-ho-chieu-vaccine-20210317205017353.chn) ([CafeBiz](https://cafebiz.vn))
 - [ASEAN-Australia sẵn sàng hỗ trợ Myanmar đối thoại, ổn định tình hình](https://laodong.vn/the-gioi/asean-australia-san-sang-ho-tro-myanmar-doi-thoai-on-dinh-tinh-hinh-890201.ldo) ([Lao Động](https://laodong.vn))
 - [Chứng khoán: Thêm một cơ hội tiến lên đỉnh, song đừng kì vọng quá nhiều](https://laodong.vn/kinh-te/chung-khoan-them-mot-co-hoi-tien-len-dinh-song-dung-ki-vong-qua-nhieu-890206.ldo) ([Lao Động](https://laodong.vn))
 - [HLV Shimoda: &quot;Lee Nguyễn sẽ không thể chơi tự do khi gặp Sài Gòn&quot;](https://laodong.vn/bong-da/hlv-shimoda-lee-nguyen-se-khong-the-choi-tu-do-khi-gap-sai-gon-890195.ldo) ([Lao Động](https://laodong.vn))
 - [Miền Bắc đón đợt không khí lạnh cuối tuần, Hà Nội 17 độ C](https://tuoitre.vn/mien-bac-don-dot-khong-khi-lanh-cuoi-tuan-ha-noi-17-do-c-20210317192030698.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Tìm thấy thứ này trong cung của Lưu Thiện, tướng Tào Ngụy vừa nhìn đã biết Gia Cát Lượng có sống cũng chẳng cứu nổi nước Thục](https://cafebiz.vn/tim-thay-thu-nay-trong-cung-cua-luu-thien-tuong-tao-nguy-vua-nhin-da-biet-gia-cat-luong-co-song-cung-chang-cuu-noi-nuoc-thuc-20210317195933058.chn) ([CafeBiz](https://cafebiz.vn))
-- [Truy bắt đối tượng nghi nổ súng, mìn tự chế vào tiệm vàng ở Hải Phòng](https://laodong.vn/phap-luat/truy-bat-doi-tuong-nghi-no-sung-min-tu-che-vao-tiem-vang-o-hai-phong-890204.ldo) ([Lao Động](https://laodong.vn))
 - [Nguyên Chủ tịch Hà Nội Nguyên Đức Chung tiếp tục bị khởi tố](https://laodong.vn/phap-luat/nguyen-chu-tich-ha-noi-nguyen-duc-chung-tiep-tuc-bi-khoi-to-890203.ldo) ([Lao Động](https://laodong.vn))
 - [Trí tuệ nhân tạo sẽ gây nhiều tổn hại đến ngành công nghiệp hàng chục tỷ USD của Philippines](https://cafebiz.vn/tri-tue-nhan-tao-se-gay-nhieu-ton-hai-den-nganh-cong-nghiep-hang-chuc-ty-usd-cua-philippines-20210317184753707.chn) ([CafeBiz](https://cafebiz.vn))
 - [Mánh khóe "khôn lỏi" của những tay trộm ô tô vặt: Chui xuống gầm xe để trộm thiết bị chứa 2 thứ đắt hơn vàng](https://cafebiz.vn/manh-khoe-khon-loi-cua-nhung-tay-trom-o-to-vat-chui-xuong-gam-xe-de-trom-thiet-bi-chua-2-thu-dat-hon-vang-20210317201231946.chn) ([CafeBiz](https://cafebiz.vn))
@@ -97,6 +100,3 @@
 - [NSND Thu Hà và những nữ nghệ sĩ &quot;gừng càng già càng cay&quot; trên màn ảnh Việt](https://laodong.vn/photo/nsnd-thu-ha-va-nhung-nu-nghe-si-gung-cang-gia-cang-cay-tren-man-anh-viet-889956.ldo) ([Lao Động](https://laodong.vn))
 - [Một chương trình đặc biệt về năng lượng sắp được lên sóng](https://laodong.vn/thong-tin-doanh-nghiep/mot-chuong-trinh-dac-biet-ve-nang-luong-sap-duoc-len-song-889980.ldo) ([Lao Động](https://laodong.vn))
 - [Biên kịch Tiệc Trăng Máu nói về Bố Già: "Người Việt Nam yêu gia đình và thường là yêu sai cách"](https://cafebiz.vn/bien-kich-tiec-trang-mau-noi-ve-bo-gia-nguoi-viet-nam-yeu-gia-dinh-va-thuong-la-yeu-sai-cach-20210317145644287.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông chủ Asanzo đi bán bò liệu có "sớm nở tối tàn" như đàn bò của Bầu Đức?](https://cafebiz.vn/ong-chu-asanzo-di-ban-bo-lieu-co-som-no-toi-tan-nhu-dan-bo-cua-bau-duc-20210317111306457.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuỗi trà sữa Chamichi của nữ nhà văn Gào đã lặng lẽ đóng cửa hàng cuối cùng?](https://cafebiz.vn/chuoi-tra-sua-chamichi-cua-nu-nha-van-gao-da-lang-le-dong-cua-hang-cuoi-cung-20210317115428866.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thủ tướng yêu cầu nghiên cứu 'hộ chiếu vaccine Covid-19'](https://vnexpress.net/thu-tuong-yeu-cau-nghien-cuu-ho-chieu-vaccine-covid-19-4249830.html) ([VNExpress](https://vnexpress.net))
