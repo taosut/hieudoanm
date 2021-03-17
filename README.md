@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 26.77°C.
-- Air Visual is 147.
+- Feels Like 27.13°C.
+- Air Visual is 113.
 
 **WEATHER**
 
@@ -50,6 +50,7 @@
 
 - [![Arsenal](https://img.shields.io/static/v1?label=Arsenal&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Arsenal)
 - [![Bóng đá Việt Nam](https://img.shields.io/static/v1?label=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%C3%B3ng%20%C4%91%C3%A1%20Vi%E1%BB%87t%20Nam)
+- [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
 - [![Grammy 2021](https://img.shields.io/static/v1?label=Grammy%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Grammy%202021)
 - [![Gọi Rồng Online](https://img.shields.io/static/v1?label=G%E1%BB%8Di%20R%E1%BB%93ng%20Online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G%E1%BB%8Di%20R%E1%BB%93ng%20Online)
 - [![HAGL vs Bình Định](https://img.shields.io/static/v1?label=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=HAGL%20vs%20B%C3%ACnh%20%C4%90%E1%BB%8Bnh)
@@ -64,7 +65,6 @@
 - [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Minari](https://img.shields.io/static/v1?label=Minari&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minari)
 - [![Ngô Thiến](https://img.shields.io/static/v1?label=Ng%C3%B4%20Thi%E1%BA%BFn&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ng%C3%B4%20Thi%E1%BA%BFn)
-- [![Park Seo Joon](https://img.shields.io/static/v1?label=Park%20Seo%20Joon&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Park%20Seo%20Joon)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![iPhone 13](https://img.shields.io/static/v1?label=iPhone%2013&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iPhone%2013)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tiếp nhận thiết bị phần cứng hệ thống thông tin báo cáo Chính phủ từ Nhật Bản](https://laodong.vn/thoi-su/tiep-nhan-thiet-bi-phan-cung-he-thong-thong-tin-bao-cao-chinh-phu-tu-nhat-ban-890111.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng ký tiếp văn bản: Mở nhạc, hát karaoke làm ồn trong khu dân cư sẽ bị phạt](https://tuoitre.vn/da-nang-ky-tiep-van-ban-mo-nhac-hat-karaoke-lam-on-trong-khu-dan-cu-se-bi-phat-20210317171824115.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [TPHCM: Hai bến &quot;xe dù&quot; hoạt động rầm rộ ngay trước bến xe Miền Đông](https://laodong.vn/ban-doc/tphcm-hai-ben-xe-du-hoat-dong-ram-ro-ngay-truoc-ben-xe-mien-dong-890074.ldo) ([Lao Động](https://laodong.vn))
+- [Từ "bước đi đầu gấu" tới "lợi dụng thiên thời", bộ tứ siêu đẳng Amazon, Apple, Google, Facebook đã chớp thời cơ từ đại dịch, thu về nguồn lợi khổng lồ như thế nào?](https://cafebiz.vn/tu-buoc-di-dau-gau-toi-loi-dung-thien-thoi-bo-tu-sieu-dang-amazon-apple-google-facebook-da-chop-thoi-co-tu-dai-dich-thu-ve-nguon-loi-khong-lo-nhu-the-nao-20210317174432337.chn) ([CafeBiz](https://cafebiz.vn))
+- [An Giang: Ngăn chặn 2 hộ gia đình nhập cảnh trái phép](https://laodong.vn/xa-hoi/an-giang-ngan-chan-2-ho-gia-dinh-nhap-canh-trai-phep-890128.ldo) ([Lao Động](https://laodong.vn))
+- [Cán bộ y tế Bệnh viện Phụ sản Hà Nội được tiêm vaccine ngừa COVID-19](https://laodong.vn/y-te/can-bo-y-te-benh-vien-phu-san-ha-noi-duoc-tiem-vaccine-ngua-covid-19-890126.ldo) ([Lao Động](https://laodong.vn))
+- [Nha Trang đóng cửa chợ Đầm từ ngày 31/3](https://vnexpress.net/nha-trang-dong-cua-cho-dam-tu-ngay-31-3-4249914.html) ([VNExpress](https://vnexpress.net))
+- [Quy hoạch điện VIII: Đề xuất cắt giảm năng lượng tái tạo](https://laodong.vn/thi-truong/quy-hoach-dien-viii-de-xuat-cat-giam-nang-luong-tai-tao-890129.ldo) ([Lao Động](https://laodong.vn))
+- [Bổ sung tiếng Hàn vào danh mục các môn ngoại ngữ thi tốt nghiệp THPT 2021](https://laodong.vn/giao-duc/bo-sung-tieng-han-vao-danh-muc-cac-mon-ngoai-ngu-thi-tot-nghiep-thpt-2021-890108.ldo) ([Lao Động](https://laodong.vn))
 - [Thu được phí bản quyền 5G từ Apple, Samsung, Huawei có thể kiếm cả tỷ USD mà không cần làm điện thoại](https://cafebiz.vn/thu-duoc-phi-ban-quyen-5g-tu-apple-samsung-huawei-co-the-kiem-ca-ty-usd-ma-khong-can-lam-dien-thoai-20210317163210101.chn) ([CafeBiz](https://cafebiz.vn))
 - [Chuyển nhà Kiến Vàng - Chia sẻ kinh nghiệm chuyển nhà trọn gói nhanh chóng](https://cafebiz.vn/chuyen-nha-kien-vang-chia-se-kinh-nghiem-chuyen-nha-tron-goi-nhanh-chong-2021031715254527.chn) ([CafeBiz](https://cafebiz.vn))
-- [Terraform đã có mặt tại Việt Nam, DevOps như “hổ mọc thêm cánh”](https://cafebiz.vn/terraform-da-co-mat-tai-viet-nam-devops-nhu-ho-moc-them-canh-20210316171114279.chn) ([CafeBiz](https://cafebiz.vn))
-- [Va chạm với xe tải tại ngã tư, nam thanh niên tử vong dưới bánh xe](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/va-cham-voi-xe-tai-tai-nga-tu-nam-thanh-nien-tu-vong-duoi-banh-xe-720357.html) ([VietNamNet](https://vietnamnet.vn))
-- [Bắt đối tượng mang ma túy và vũ khí nóng sang biên giới Việt Nam](https://laodong.vn/phap-luat/bat-doi-tuong-mang-ma-tuy-va-vu-khi-nong-sang-bien-gioi-viet-nam-890084.ldo) ([Lao Động](https://laodong.vn))
-- [Italia thừa nhận dừng vaccine AstraZeneca là động thái chính trị](https://laodong.vn/the-gioi/italia-thua-nhan-dung-vaccine-astrazeneca-la-dong-thai-chinh-tri-890113.ldo) ([Lao Động](https://laodong.vn))
-- [Trung tướng Nguyễn Việt Thành sắp hoàn thành ý nguyện xã quê hết hộ nghèo](https://laodong.vn/xa-hoi/trung-tuong-nguyen-viet-thanh-sap-hoan-thanh-y-nguyen-xa-que-het-ho-ngheo-890104.ldo) ([Lao Động](https://laodong.vn))
-- [Sở Y tế TPHCM thông tin về 3 người bị phản ứng sau tiêm vaccine COVID-19](https://laodong.vn/y-te/so-y-te-tphcm-thong-tin-ve-3-nguoi-bi-phan-ung-sau-tiem-vaccine-covid-19-890100.ldo) ([Lao Động](https://laodong.vn))
-- [Cán bộ biên phòng từng là đặc nhiệm phòng chống ma túy nghi... buôn ma túy](https://tuoitre.vn/can-bo-bien-phong-tung-la-dac-nhiem-phong-chong-ma-tuy-nghi-buon-ma-tuy-20210317162439329.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
