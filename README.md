@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 27°C.
-- Feels Like 27.13°C.
-- Air Visual is 109.
+- Temperature is 26°C.
+- Feels Like 27.74°C.
+- Air Visual is 113.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Sướng như đẻ con ở Phần Lan: Bố mẹ được nghỉ có lương tới 3 năm sau sinh, khi đi làm lại chính phủ trợ cấp gần 8 triệu đồng phí chăm con](https://cafebiz.vn/suong-nhu-de-con-o-phan-lan-bo-me-duoc-nghi-co-luong-toi-3-nam-sau-sinh-khi-di-lam-lai-chinh-phu-tro-cap-gan-8-trieu-dong-phi-cham-con-20210317110054231.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hệ số lương của giáo viên trường mầm non công lập thế nào?](https://laodong.vn/tu-van-phap-luat/he-so-luong-cua-giao-vien-truong-mam-non-cong-lap-the-nao-889353.ldo) ([Lao Động](https://laodong.vn))
-- [Có bị trừ tiền chế độ thai sản vào tiền bảo hiểm xã hội một lần?](https://laodong.vn/ban-doc/co-bi-tru-tien-che-do-thai-san-vao-tien-bao-hiem-xa-hoi-mot-lan-889853.ldo) ([Lao Động](https://laodong.vn))
-- [Diễn viên Hồng Đăng chia sẻ bí quyết chăm, dạy con](https://laodong.vn/chuyen-nha-minh/dien-vien-hong-dang-chia-se-bi-quyet-cham-day-con-889907.ldo) ([Lao Động](https://laodong.vn))
-- [Kế hoạch bắt cóc &quot;người trong mộng&quot; của kẻ si tình thực hiện ra sao?](https://laodong.vn/phap-luat/ke-hoach-bat-coc-nguoi-trong-mong-cua-ke-si-tinh-thuc-hien-ra-sao-890010.ldo) ([Lao Động](https://laodong.vn))
-- [Khách hàng vay ngân hàng mua nhà dự án, chưa được bàn giao chủ đầu tư đã bị khởi tố hình sự, ABBank xử lý thế nào?](https://cafebiz.vn/khach-hang-vay-ngan-hang-mua-nha-du-an-chua-duoc-ban-giao-chu-dau-tu-da-bi-khoi-to-hinh-su-abbank-xu-ly-the-nao-20210317120347419.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phát hiện biến thể COVID-19 mới có khả năng ‘vượt mặt’ xét nghiệm](https://cafebiz.vn/phat-hien-bien-the-covid-19-moi-co-kha-nang-vuot-mat-xet-nghiem-20210317135412912.chn) ([CafeBiz](https://cafebiz.vn))
-- [Ông Biden nhắn nhủ khi làn sóng di cư vọt lên mức cao nhất trong 20 năm](https://laodong.vn/the-gioi/ong-biden-nhan-nhu-khi-lan-song-di-cu-vot-len-muc-cao-nhat-trong-20-nam-890003.ldo) ([Lao Động](https://laodong.vn))
-- [Nhiều học sinh đau bụng sau khi uống chai nước ngọt được phát miễn phí trước cổng trường](https://cafebiz.vn/nhieu-hoc-sinh-dau-bung-sau-khi-uong-chai-nuoc-ngot-duoc-phat-mien-phi-truoc-cong-truong-20210317135312077.chn) ([CafeBiz](https://cafebiz.vn))
-- ["LÀNG ĐẠI GIA" được bảo vệ chặt nhất Cần Thơ, toàn biệt phủ phong cách "không có gì ngoài đất", cổng trước đậu ô tô, cổng sau đậu vài du thuyền vẫn còn rộng](https://cafebiz.vn/lang-dai-gia-duoc-bao-ve-chat-nhat-can-tho-toan-biet-phu-phong-cach-khong-co-gi-ngoai-dat-cong-truoc-dau-o-to-cong-sau-dau-vai-du-thuyen-van-con-rong-20210317135238762.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mức độ trung thành của người dùng iPhone đạt mức cao nhất trong lịch sử](https://cafebiz.vn/muc-do-trung-thanh-cua-nguoi-dung-iphone-dat-muc-cao-nhat-trong-lich-su-20210317134641347.chn) ([CafeBiz](https://cafebiz.vn))
+- [Dân vùng hạn mặn được cấp nước ngọt miễn phí](https://vnexpress.net/dan-vung-han-man-duoc-cap-nuoc-ngot-mien-phi-4249796.html) ([VNExpress](https://vnexpress.net))
+- [Hàng loạt ngân hàng lên tiếng cảnh báo về chiêu trò lừa đảo qua tin nhắn](https://cafebiz.vn/hang-loat-ngan-hang-len-tieng-canh-bao-ve-chieu-tro-lua-dao-qua-tin-nhan-20210317142557166.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bình Định: Đang tuần tra, phát hiện đối tượng tàng trữ ma túy](https://laodong.vn/phap-luat/binh-dinh-dang-tuan-tra-phat-hien-doi-tuong-tang-tru-ma-tuy-890020.ldo) ([Lao Động](https://laodong.vn))
+- [Con trai riêng của Huy Khánh 16 tuổi đã cao vượt bố, học trường quốc tế hơn nửa tỷ, sở hữu bất động sản nhưng gây chú ý về cách xài tiền](https://cafebiz.vn/con-trai-rieng-cua-huy-khanh-16-tuoi-da-cao-vuot-bo-hoc-truong-quoc-te-hon-nua-ty-so-huu-bat-dong-san-nhung-gay-chu-y-ve-cach-xai-tien-20210317142017398.chn) ([CafeBiz](https://cafebiz.vn))
+- [&quot;Yêu&quot; bạn gái nhỏ, thanh niên lĩnh án 2 năm tù](https://laodong.vn/phap-luat/yeu-ban-gai-nho-thanh-nien-linh-an-2-nam-tu-889941.ldo) ([Lao Động](https://laodong.vn))
+- [London rực lửa](https://laodong.vn/the-thao/london-ruc-lua-889811.ldo) ([Lao Động](https://laodong.vn))
+- [Các bước đổi thẻ CMND sang thẻ CCCD gắn chíp](https://laodong.vn/infographic/cac-buoc-doi-the-cmnd-sang-the-cccd-gan-chip-889534.ldo) ([Lao Động](https://laodong.vn))
+- [Công Phượng và sự cảm thông từ Kiatisak](https://laodong.vn/the-thao/cong-phuong-va-su-cam-thong-tu-kiatisak-889820.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ các nữ sinh đánh nhau, nhiều em hùa theo: Kỷ luật 15 học sinh liên quan](https://laodong.vn/giao-duc/vu-cac-nu-sinh-danh-nhau-nhieu-em-hua-theo-ky-luat-15-hoc-sinh-lien-quan-890015.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
