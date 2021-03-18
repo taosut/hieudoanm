@@ -6,7 +6,7 @@
 import React from 'react';
 import { SafeAreaView, View, StyleSheet } from 'react-native';
 
-export default class VLeague extends React.Component {
+export default class Stock extends React.Component {
   render() {
     return (
       <SafeAreaView style={styles.safeAreaView}>

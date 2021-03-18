@@ -33,7 +33,7 @@ export default class Home extends React.Component<Props> {
       ],
       [
         { icon: faPassport, screen: 'visas', text: 'Visas' },
-        { icon: faFutbol, screen: 'vleague', text: 'VLeague' },
+        { icon: faFutbol, screen: 'vleaguetable', text: 'VLeague' },
         { icon: faCloudSunRain, screen: 'weather', text: 'Weather' },
       ],
     ];

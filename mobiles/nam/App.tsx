@@ -16,7 +16,8 @@ import {
   News,
   Stock,
   Visas,
-  VLeague,
+  VLeagueMatches,
+  VLeagueTable,
   Weather,
 } from './screens';
 
@@ -51,8 +52,11 @@ export default class App extends React.Component {
           <Stack.Screen name="visas" options={{ title: 'VISAS' }}>
             {props => <Visas {...props} />}
           </Stack.Screen>
-          <Stack.Screen name="vleague" options={{ title: 'VLEAGUE' }}>
-            {props => <VLeague {...props} />}
+          <Stack.Screen name="vleaguematches" options={{ title: 'VLEAGUE - MATCHES' }}>
+            {props => <VLeagueMatches {...props} />}
+          </Stack.Screen>
+          <Stack.Screen name="vleaguetable" options={{ title: 'VLEAGUE - TABLE' }}>
+            {props => <VLeagueTable {...props} />}
           </Stack.Screen>
           <Stack.Screen name="weather" options={{ title: 'WEATHER' }}>
             {props => <Weather {...props} />}

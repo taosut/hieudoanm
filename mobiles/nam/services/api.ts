@@ -7,13 +7,23 @@ export default class API {
     return data;
   }
 
-  public getLicensePlates(license: string = '') {
-    const licensePlates = this.fetch(`license-plates?license=${license}`);
+  public async getLicensePlates(license: string = ''): Promise<Array<Record<string, any>>> {
+    const licensePlates = await this.fetch(`license-plates?license=${license}`);
     return licensePlates;
   }
 
-  public getVisas() {
-    const visas = this.fetch('visas');
+  public async getVisas(): Promise<Array<Record<string, any>>> {
+    const visas = await this.fetch('visas');
     return visas;
+  }
+
+  public async getVLeagueTable(): Promise<Array<Record<string, any>>> {
+    const table = await this.fetch('culture/sports/vleague/table');
+    return table;
+  }
+
+  public async getWeather(city: string): Promise<Record<string, any>> {
+    const weather = await this.fetch(`weather?city=${city}`);
+    return weather;
   }
 }

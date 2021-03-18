@@ -6,7 +6,20 @@ import License from './License';
 import News from './News';
 import Stock from './Stock';
 import Visas from './Visas';
-import VLeague from './VLeague';
+import VLeagueMatches from './VLeagueMatches';
+import VLeagueTable from './VLeagueTable';
 import Weather from './Weather';
 
-export { Calendar, Eye, Forex, Home, License, News, Stock, Visas, VLeague, Weather };
+export {
+  Calendar,
+  Eye,
+  Forex,
+  Home,
+  License,
+  News,
+  Stock,
+  Visas,
+  VLeagueMatches,
+  VLeagueTable,
+  Weather,
+};

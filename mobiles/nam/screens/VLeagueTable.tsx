@@ -4,7 +4,7 @@
  */
 
 import React from 'react';
-import { SafeAreaView, View, StyleSheet, ActivityIndicator, ScrollView, Text } from 'react-native';
+import { SafeAreaView, View, StyleSheet, ActivityIndicator, Text, ScrollView } from 'react-native';
 
 import { colors } from '../constant';
 import { api } from '../services';
@@ -13,39 +13,30 @@ type Props = {};
 
 type State = {
   loading: boolean;
-  weatherByCities: Array<any>;
+  table: Array<any>;
 };
 
-export default class Weather extends React.Component<Props, State> {
+export default class VLeagueTable extends React.Component<Props, State> {
   constructor(props: Props) {
     super(props);
 
-    this.state = { loading: false, weatherByCities: [] };
+    this.state = { loading: false, table: [] };
 
-    this.getWeather = this.getWeather.bind(this);
+    this.getVLeagueTable = this.getVLeagueTable.bind(this);
   }
 
   async componentDidMount() {
-    await this.getWeather();
+    await this.getVLeagueTable();
   }
 
-  async getWeather() {
-    const cities: Array<string> = ['Hanoi', 'Ho Chi Minh City'];
-    const weatherByCities: Array<any> = [];
+  async getVLeagueTable() {
     this.setState({ loading: true });
-    for (const city of cities) {
-      const res = await api.getWeather(city);
-      const { name: _city = '', main: temperature = {}, weather = [] } = res;
-      const { temp = 0, feels_like = 0 } = temperature;
-      const [first = {}] = weather;
-      const { main = '', description = '' } = first;
-      weatherByCities.push({ city: _city, temp, feels_like, main, description });
-    }
-    this.setState({ loading: false, weatherByCities });
+    const table = await api.getVLeagueTable();
+    this.setState({ loading: false, table });
   }
 
   render() {
-    const { loading = false, weatherByCities = [] } = this.state;
+    const { loading = false, table = [] } = this.state;
 
     return (
       <SafeAreaView style={styles.safeAreaView}>
@@ -57,22 +48,22 @@ export default class Weather extends React.Component<Props, State> {
           )}
           {!loading && (
             <View>
-              {weatherByCities.length === 0 && (
+              {table.length === 0 && (
                 <View style={styles.noResults}>
                   <Text style={styles.noResultsText}>NO LICENSE PLATES</Text>
                 </View>
               )}
-              {weatherByCities.length > 0 && (
+              {table.length > 0 && (
                 <ScrollView>
-                  {weatherByCities.map((item: Record<string, any>, index: number) => {
-                    const { city, temp, feels_like, main, description } = item;
+                  {table.map((item: Record<string, any>, index: number) => {
+                    const { name, rank, point, played, win, draw, lost } = item;
                     return (
                       <View key={index} style={styles.item}>
                         <Text>
-                          {city} - {temp}°C ({feels_like}°C)
+                          {rank} - {name} - Point: {point}
                         </Text>
                         <Text>
-                          {main} ({description})
+                          Played: {played} (W{win} - D{draw} - L{lost})
                         </Text>
                       </View>
                     );
