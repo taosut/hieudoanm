@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 24°C.
-- Feels Like 27.07°C.
-- Air Visual is 101.
+- Feels Like 26.71°C.
+- Air Visual is 126.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [TMĐT Việt Nam bùng nổ mạnh mẽ: 5/10 sàn nội địa lọt top website có lượng truy cập nhiều nhất Đông Nam Á](https://cafebiz.vn/tmdt-viet-nam-bung-no-manh-me-5-10-san-noi-dia-lot-top-website-co-luong-truy-cap-nhieu-nhat-dong-nam-a-20210317145553243.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chuyên gia chỉ cách làm chủ cuộc phỏng vấn trực tuyến](https://laodong.vn/ban-doc/chuyen-gia-chi-cach-lam-chu-cuoc-phong-van-truc-tuyen-890041.ldo) ([Lao Động](https://laodong.vn))
-- [Đề nghị xử lý nghiêm việc Phòng khám khu vực số 5 tự ý thu các khoản thu](https://laodong.vn/xa-hoi/de-nghi-xu-ly-nghiem-viec-phong-kham-khu-vuc-so-5-tu-y-thu-cac-khoan-thu-890275.ldo) ([Lao Động](https://laodong.vn))
-- [Line cho kỹ sư Trung Quốc xem trái phép dữ liệu người dùng?](https://cafebiz.vn/line-cho-ky-su-trung-quoc-xem-trai-phep-du-lieu-nguoi-dung-20210318083921529.chn) ([CafeBiz](https://cafebiz.vn))
-- [An toàn dữ liệu, ổn định, vượt trội với cụm máy chủ cloud tiêu chuẩn quốc tế Uptime Tier III](https://cafebiz.vn/an-toan-du-lieu-on-dinh-vuot-troi-voi-cum-may-chu-cloud-tieu-chuan-quoc-te-uptime-tier-iii-2021031710134659.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những điều có thể bạn chưa biết về mụn nội tiết](https://laodong.vn/lam-dep/nhung-dieu-co-the-ban-chua-biet-ve-mun-noi-tiet-889990.ldo) ([Lao Động](https://laodong.vn))
-- [Hàng không đồng loạt tăng chuyến trên các đường bay nội địa](https://laodong.vn/xa-hoi/hang-khong-dong-loat-tang-chuyen-tren-cac-duong-bay-noi-dia-890273.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng khen các đơn vị tham gia phá 2 chuyên án thu giữ hơn 226kg ma tuý](https://laodong.vn/thoi-su/thu-tuong-khen-cac-don-vi-tham-gia-pha-2-chuyen-an-thu-giu-hon-226kg-ma-tuy-890274.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Hàng cây phong lá đỏ trơ trụi như củi khô](https://cafebiz.vn/ha-noi-hang-cay-phong-la-do-tro-trui-nhu-cui-kho-20210318095407333.chn) ([CafeBiz](https://cafebiz.vn))
-- [Những lần khởi nghiệp của tỷ phú Trần Bá Dương: Từ anh công nhân vét mỡ bò đến cơ ngơi ô tô - bất động sản - nông nghiệp khổng lồ](https://cafebiz.vn/ty-phu-tran-ba-duong-va-hanh-trinh-tu-mot-cong-nhan-vet-mo-bo-den-co-ngoi-o-to-bat-dong-san-nong-nghiep-khong-lo-20210315091311587.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đồng Tháp: Mô hình &quot;Tủ sách Công đoàn&quot; phát huy hiệu quả](https://laodong.vn/ldld-dong-thap/dong-thap-mo-hinh-tu-sach-cong-doan-phat-huy-hieu-qua-890308.ldo) ([Lao Động](https://laodong.vn))
+- [Thêm ứng dụng chung số phận Facebook, Google tại Trung Quốc?](https://cafebiz.vn/them-ung-dung-chung-so-phan-facebook-google-tai-trung-quoc-20210318084110965.chn) ([CafeBiz](https://cafebiz.vn))
+- [Muốn thu hồi, xử lý xe máy cũ nát phải có cơ chế, chính sách cụ thể](https://laodong.vn/xa-hoi/muon-thu-hoi-xu-ly-xe-may-cu-nat-phai-co-co-che-chinh-sach-cu-the-890148.ldo) ([Lao Động](https://laodong.vn))
+- [Cuối tuần miền Bắc đón mưa giông](https://vnexpress.net/cuoi-tuan-mien-bac-don-mua-giong-4250152.html) ([VNExpress](https://vnexpress.net))
+- [Giao dịch di động tại Việt Nam sẽ tăng gấp 4 lần trong giai đoạn 2021-2025](https://cafebiz.vn/giao-dich-di-dong-tai-viet-nam-se-tang-gap-4-lan-trong-giai-doan-2021-2025-20210317183304459.chn) ([CafeBiz](https://cafebiz.vn))
+- [5 ôtô tông liên hoàn trên quốc lộ 51](https://vnexpress.net/5-oto-tong-lien-hoan-tren-quoc-lo-51-4250205.html) ([VNExpress](https://vnexpress.net))
+- [Jack Ma bị hậu bối vượt mặt, sở hữu sàn thương mại điện tử có lượng người dùng lớn hơn cả Alibaba dù mới thành lập 5 năm](https://cafebiz.vn/jack-ma-bi-hau-boi-vuot-mat-so-huu-san-thuong-mai-dien-tu-co-luong-nguoi-dung-lon-hon-ca-alibaba-du-moi-thanh-lap-5-nam-20210318101550219.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nuôi mẹ già cùng 2 chị tâm thần, người cha ngã quỵ khi con trai 10 tháng mắc bệnh nguy hiểm: Bán hết ruộng vẫn không đủ tiền cứu chữa!](https://cafebiz.vn/nuoi-me-gia-cung-2-chi-tam-than-nguoi-cha-nga-quy-khi-con-trai-10-thang-mac-benh-nguy-hiem-ban-het-ruong-van-khong-du-tien-cuu-chua-2021031810141606.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cả nước sơ bộ có 1.161 người ứng cử đại biểu Quốc hội khoá XV](https://laodong.vn/thoi-su/ca-nuoc-so-bo-co-1161-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xv-890270.ldo) ([Lao Động](https://laodong.vn))
+- [Giới thiệu ông Phạm Minh Chính ứng cử Quốc hội khối Chính phủ](https://vnexpress.net/gioi-thieu-ong-pham-minh-chinh-ung-cu-quoc-hoi-khoi-chinh-phu-4250202.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
