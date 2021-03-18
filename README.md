@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 26.93°C.
-- Air Visual is 121.
+- Temperature is 24°C.
+- Feels Like 25.4°C.
+- Air Visual is 95.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Hàng tiết luộc "không mùa" đắt khách quanh năm đông cũng như hè, bí quyết là đôi tay kiên trì đun 2 lửa khiến miếng tiết mềm như nhung tan ngay trong miệng](https://cafebiz.vn/hang-tiet-luoc-khong-mua-dat-khach-quanh-nam-dong-cung-nhu-he-bi-quyet-la-doi-tay-kien-tri-dun-2-lua-khien-mieng-tiet-mem-nhu-nhung-tan-ngay-trong-mieng-20210318204656535.chn) ([CafeBiz](https://cafebiz.vn))
+- [Quốc y Đại sư 84 tuổi có khí lực khỏe hơn người trẻ: Tôi đã kiên trì làm việc này trong nhiều thập kỷ](https://cafebiz.vn/quoc-y-dai-su-84-tuoi-co-khi-luc-khoe-hon-nguoi-tre-toi-da-kien-tri-lam-viec-nay-trong-nhieu-thap-ky-20210318170554268.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xem Ốc Thanh Vân nuôi dạy con mà phát ham: Con gái làm điều chỉ 1% thế giới làm được, có ước mơ siêu lạ, con trai tốt nghiệp mầm non sớm trước tuổi](https://cafebiz.vn/xem-oc-thanh-van-nuoi-day-con-ma-phat-ham-con-gai-lam-dieu-chi-1-the-gioi-lam-duoc-co-uoc-mo-sieu-la-con-trai-tot-nghiep-mam-non-som-truoc-tuoi-20210318204447306.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trục vớt tàu chở 1.500 tấn bụi than chìm ở biển Mũi Né trong vòng 20 ngày](https://tuoitre.vn/truc-vot-tau-cho-1500-tan-bui-than-chim-o-bien-mui-ne-trong-vong-20-ngay-20210318202452676.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [3 học sinh nhập viện cấp cứu sau khi thổi bong bóng trước cổng trường](https://laodong.vn/xa-hoi/3-hoc-sinh-nhap-vien-cap-cuu-sau-khi-thoi-bong-bong-truoc-cong-truong-890608.ldo) ([Lao Động](https://laodong.vn))
+- [Từ ngày 1-4: Thu phí đường bộ trạm BOT Xa lộ Hà Nội](https://tuoitre.vn/tu-ngay-1-4-thu-phi-duong-bo-tram-bot-xa-lo-ha-noi-20210318195649723.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Bí thư Khánh Hòa rút ứng cử đại biểu Quốc hội theo diện tỉnh giới thiệu](https://tuoitre.vn/bi-thu-khanh-hoa-rut-ung-cu-dai-bieu-quoc-hoi-theo-dien-tinh-gioi-thieu-2021031820042642.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Aubameyang cần bỏ thói ham vui nếu muốn tồn tại ở Arsenal](https://laodong.vn/bong-da-quoc-te/aubameyang-can-bo-thoi-ham-vui-neu-muon-ton-tai-o-arsenal-890577.ldo) ([Lao Động](https://laodong.vn))
 - [Cải cách hành chính phải làm cho đất nước hùng mạnh](https://laodong.vn/thoi-su/cai-cach-hanh-chinh-phai-lam-cho-dat-nuoc-hung-manh-890600.ldo) ([Lao Động](https://laodong.vn))
 - ["Cô gái vàng" Yoga VN tiết lộ thời điểm "thần thánh" nên tập Yoga, 5 giải pháp để làm mới thân và tâm](https://cafebiz.vn/co-gai-vang-yoga-vn-tiet-lo-thoi-diem-than-thanh-nen-tap-yoga-5-giai-phap-de-lam-moi-than-va-tam-20210318170437401.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hai đại gia đứng sau màn giao dịch lan đột biến đầy nghi vấn, trị giá 250 tỷ là ai?](https://cafebiz.vn/hai-dai-gia-dung-sau-man-giao-dich-lan-dot-bien-day-nghi-van-tri-gia-250-ty-la-ai-20210318194149356.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cận cảnh những &quot;điểm đen&quot; bói toán tại chợ đêm Sa Pa](https://laodong.vn/xa-hoi/can-canh-nhung-diem-den-boi-toan-tai-cho-dem-sa-pa-890428.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng tiếp Hội Phát triển hợp tác kinh tế Việt Nam-ASEAN](https://laodong.vn/thoi-su/thu-tuong-tiep-hoi-phat-trien-hop-tac-kinh-te-viet-nam-asean-890590.ldo) ([Lao Động](https://laodong.vn))
-- [Kho Hermès giả "khủng nhất miền Bắc" The Queen Shop hoạt động mạnh thế nào trước khi bị triệt phá?](https://cafebiz.vn/kho-hermes-gia-khung-nhat-mien-bac-the-queen-shop-hoat-dong-manh-the-nao-truoc-khi-bi-triet-pha-20210318172437439.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội nghiên cứu bỏ ga ngầm gần Hồ Gươm](https://vnexpress.net/ha-noi-nghien-cuu-bo-ga-ngam-gan-ho-guom-4250595.html) ([VNExpress](https://vnexpress.net))
-- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 19.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-193-890307.ldo) ([Lao Động](https://laodong.vn))
-- [Nóng nhất 24h: Giá vàng trong nước bất ngờ giảm mạnh](https://laodong.vn/video/nong-nhat-24h-gia-vang-trong-nuoc-bat-ngo-giam-manh-890402.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 

@@ -1,6 +1,6 @@
 "rank","name","point","played","win","draw","lost","goal","goalAgainst","goalDifference"
 1,"Da Nang",9,3,3,0,0,3,0,3
-2,"Ha Noi",6,4,2,0,2,5,6,-1
+2,"Ha Noi",6,4,2,0,2,6,6,0
 3,"Binh Duong",6,3,2,0,1,4,4,0
 4,"Saigon",6,3,2,0,1,2,1,1
 5,"Than Quang Ninh",6,4,2,0,2,4,3,1
@@ -8,8 +8,8 @@
 7,"Hai Phong",6,3,2,0,1,4,4,0
 8,"Binh Dinh",4,3,1,1,1,3,3,0
 9,"Song Lam Nghe An",4,4,1,1,2,3,4,-1
-10,"Thanh Hoa",4,4,1,1,2,4,3,1
-11,"Viettel",4,3,1,1,1,3,2,1
+10,"Viettel",4,3,1,1,1,3,2,1
+11,"Thanh Hoa",4,4,1,1,2,4,4,0
 12,"Nam Dinh",3,3,1,0,2,5,6,-1
 13,"Ho Chi Minh City",3,3,1,0,2,2,3,-1
 14,"Hong Linh Ha Tinh",0,3,0,0,3,1,5,-4
