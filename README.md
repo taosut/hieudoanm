@@ -21,7 +21,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 26.21°C.
+- Feels Like 26.93°C.
 - Air Visual is 121.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Aubameyang cần bỏ thói ham vui nếu muốn tồn tại ở Arsenal](https://laodong.vn/bong-da-quoc-te/aubameyang-can-bo-thoi-ham-vui-neu-muon-ton-tai-o-arsenal-890577.ldo) ([Lao Động](https://laodong.vn))
+- [Cải cách hành chính phải làm cho đất nước hùng mạnh](https://laodong.vn/thoi-su/cai-cach-hanh-chinh-phai-lam-cho-dat-nuoc-hung-manh-890600.ldo) ([Lao Động](https://laodong.vn))
+- ["Cô gái vàng" Yoga VN tiết lộ thời điểm "thần thánh" nên tập Yoga, 5 giải pháp để làm mới thân và tâm](https://cafebiz.vn/co-gai-vang-yoga-vn-tiet-lo-thoi-diem-than-thanh-nen-tap-yoga-5-giai-phap-de-lam-moi-than-va-tam-20210318170437401.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hai đại gia đứng sau màn giao dịch lan đột biến đầy nghi vấn, trị giá 250 tỷ là ai?](https://cafebiz.vn/hai-dai-gia-dung-sau-man-giao-dich-lan-dot-bien-day-nghi-van-tri-gia-250-ty-la-ai-20210318194149356.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cận cảnh những &quot;điểm đen&quot; bói toán tại chợ đêm Sa Pa](https://laodong.vn/xa-hoi/can-canh-nhung-diem-den-boi-toan-tai-cho-dem-sa-pa-890428.ldo) ([Lao Động](https://laodong.vn))
 - [Thủ tướng tiếp Hội Phát triển hợp tác kinh tế Việt Nam-ASEAN](https://laodong.vn/thoi-su/thu-tuong-tiep-hoi-phat-trien-hop-tac-kinh-te-viet-nam-asean-890590.ldo) ([Lao Động](https://laodong.vn))
 - [Kho Hermès giả "khủng nhất miền Bắc" The Queen Shop hoạt động mạnh thế nào trước khi bị triệt phá?](https://cafebiz.vn/kho-hermes-gia-khung-nhat-mien-bac-the-queen-shop-hoat-dong-manh-the-nao-truoc-khi-bi-triet-pha-20210318172437439.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nội nghiên cứu bỏ ga ngầm gần Hồ Gươm](https://vnexpress.net/ha-noi-nghien-cuu-bo-ga-ngam-gan-ho-guom-4250595.html) ([VNExpress](https://vnexpress.net))
 - [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 19.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-193-890307.ldo) ([Lao Động](https://laodong.vn))
 - [Nóng nhất 24h: Giá vàng trong nước bất ngờ giảm mạnh](https://laodong.vn/video/nong-nhat-24h-gia-vang-trong-nuoc-bat-ngo-giam-manh-890402.ldo) ([Lao Động](https://laodong.vn))
-- [Dẹp loạn &quot;thần y&quot; online tự xưng: Khó xử lý vì &quot;nhờn thuốc&quot;](https://laodong.vn/xa-hoi/dep-loan-than-y-online-tu-xung-kho-xu-ly-vi-nhon-thuoc-889648.ldo) ([Lao Động](https://laodong.vn))
-- [Bí quyết làm món sườn nướng thảo mộc đơn giản, hấp dẫn](https://laodong.vn/dinh-duong-am-thuc/bi-quyet-lam-mon-suon-nuong-thao-moc-don-gian-hap-dan-890407.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội sử dụng chế phẩm Redoxy-3C như thế nào?](https://vnexpress.net/ha-noi-su-dung-che-pham-redoxy-3c-nhu-the-nao-4250052.html) ([VNExpress](https://vnexpress.net))
-- [Xây sân bay quá gần nhau 'sẽ không hiệu quả'](https://vnexpress.net/xay-san-bay-qua-gan-nhau-se-khong-hieu-qua-4249929.html) ([VNExpress](https://vnexpress.net))
-- [Hà Nội xem xét thêm phương án bỏ ga ngầm C9 cạnh Hồ Gươm](https://cafebiz.vn/ha-noi-xem-xet-them-phuong-an-bo-ga-ngam-c9-canh-ho-guom-20210318172016304.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
