@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 25.04°C.
-- Air Visual is 95.
+- Air Visual is 105.
 
 **WEATHER**
 
@@ -75,6 +75,7 @@
 
 **NEWS**
 
+- [7 thói quen xấu nếu bạn không biết tránh thì ngày dẫu dài 48h cũng không thể thành công](https://cafebiz.vn/7-thoi-quen-xau-neu-ban-khong-biet-tranh-thi-ngay-dau-dai-48h-cung-khong-the-thanh-cong-20210316140020544.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tại sao giới siêu giàu lại hay mua xe sang mà họ hiếm khi lái?](https://cafebiz.vn/tai-sao-gioi-sieu-giau-lai-hay-mua-xe-sang-ma-ho-hiem-khi-lai-20210316133146486.chn) ([CafeBiz](https://cafebiz.vn))
 - [Văn Toàn lo lắng phong độ sân khách của Hoàng Anh Gia Lai](https://laodong.vn/bong-da/van-toan-lo-lang-phong-do-san-khach-cua-hoang-anh-gia-lai-890607.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội thắng Thanh Hoá trong trận đấu có 5 bàn thắng](https://laodong.vn/bong-da/ha-noi-thang-thanh-hoa-trong-tran-dau-co-5-ban-thang-890606.ldo) ([Lao Động](https://laodong.vn))
@@ -84,7 +85,6 @@
 - [Thương hiệu Yeezy của Kanye West được định giá hơn 3 tỷ USD](https://cafebiz.vn/thuong-hieu-yeezy-cua-kanye-west-duoc-dinh-gia-hon-3-ty-usd-2021031816342386.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hiện tượng Thơ Nguyễn, Hưng Vlog và ngành công nghiệp 'thổi view' YouTube](https://cafebiz.vn/hien-tuong-tho-nguyen-hung-vlog-va-nganh-cong-nghiep-thoi-view-youtube-20210318195010916.chn) ([CafeBiz](https://cafebiz.vn))
 - [3 đứa trẻ thuộc cung Hoàng đạo sau vô cùng thông minh, lanh lợi và có nhiều mối quan hệ tốt đẹp trong cuộc đời](https://cafebiz.vn/3-dua-tre-thuoc-cung-hoang-dao-sau-vo-cung-thong-minh-lanh-loi-va-co-nhieu-moi-quan-he-tot-dep-trong-cuoc-doi-20210318171216455.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cho phép thành lập 2 trung tâm kiểm định chất lượng giáo dục tư thục](https://laodong.vn/giao-duc/cho-phep-thanh-lap-2-trung-tam-kiem-dinh-chat-luong-giao-duc-tu-thuc-890610.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 

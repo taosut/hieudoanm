@@ -1,5 +1,6 @@
 # News
 
+- [7 thói quen xấu nếu bạn không biết tránh thì ngày dẫu dài 48h cũng không thể thành công](https://cafebiz.vn/7-thoi-quen-xau-neu-ban-khong-biet-tranh-thi-ngay-dau-dai-48h-cung-khong-the-thanh-cong-20210316140020544.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tại sao giới siêu giàu lại hay mua xe sang mà họ hiếm khi lái?](https://cafebiz.vn/tai-sao-gioi-sieu-giau-lai-hay-mua-xe-sang-ma-ho-hiem-khi-lai-20210316133146486.chn) ([CafeBiz](https://cafebiz.vn))
 - [Văn Toàn lo lắng phong độ sân khách của Hoàng Anh Gia Lai](https://laodong.vn/bong-da/van-toan-lo-lang-phong-do-san-khach-cua-hoang-anh-gia-lai-890607.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội thắng Thanh Hoá trong trận đấu có 5 bàn thắng](https://laodong.vn/bong-da/ha-noi-thang-thanh-hoa-trong-tran-dau-co-5-ban-thang-890606.ldo) ([Lao Động](https://laodong.vn))
@@ -95,8 +96,7 @@
 - [Lắp đặt hệ thống chữa cháy hiện đại tự động ở đường hầm sông Sài Gòn](https://tuoitre.vn/lap-dat-he-thong-chua-chay-hien-dai-tu-dong-o-duong-ham-song-sai-gon-20210318143233938.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Được trả cả triệu USD cho một dòng tweet, nhưng Elon Musk bất ngờ từ chối bán, lý do khiến mọi người bất ngờ](https://cafebiz.vn/duoc-tra-ca-trieu-usd-cho-mot-dong-tweet-nhung-elon-musk-bat-ngo-tu-choi-ban-ly-do-khien-moi-nguoi-bat-ngo-20210318135858011.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đà Nẵng chiếm 3/5 vị trí đầu tiên trong BXH địa điểm có các phong cách ẩm thực khác nhau được ưa chuộng nhất của du khách đến Việt Nam](https://cafebiz.vn/da-nang-chiem-3-5-vi-tri-dau-tien-trong-bxh-dia-diem-co-cac-phong-cach-am-thuc-khac-nhau-duoc-ua-chuong-nhat-cua-du-khach-den-viet-nam-20210317180945982.chn) ([CafeBiz](https://cafebiz.vn))
-- [Một người dân làm nghề buôn bán ở Quảng Nam tự ứng cử đại biểu Quốc hội](https://tuoitre.vn/mot-nguoi-dan-lam-nghe-buon-ban-o-quang-nam-tu-ung-cu-dai-bieu-quoc-hoi-20210318150510753.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sự thật về "cung điện" hoành tráng đến nghẹt thở, độc nhất vô nhị ở miền Tây](https://cafebiz.vn/su-that-ve-cung-dien-hoanh-trang-den-nghet-tho-doc-nhat-vo-nhi-o-mien-tay-20210318144632451.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mình thấy cảm biến hồng ngoại trên điện thoại khá hữu ích, anh em thì sao?](https://tinhte.vn/thread/minh-thay-cam-bien-hong-ngoai-tren-dien-thoai-kha-huu-ich-anh-em-thi-sao.3294903/) ([Tinh Tế](https://tinhte.vn))
+- [[QC] Dễ dàng sở hữu chiếc SUV 7 chỗ XL7 trong tháng 3 chỉ với 73,5 triệu đồng thanh toán trước](https://tinhte.vn/thread/qc-de-dang-so-huu-chiec-suv-7-cho-xl7-trong-thang-3-chi-voi-73-5-trieu-dong-thanh-toan-truoc.3295604/) ([Tinh Tế](https://tinhte.vn))
+- [Review Leather Sleeve - bao da cho iPhone không giành cho người nghèo?](https://tinhte.vn/thread/review-leather-sleeve-bao-da-cho-iphone-khong-gianh-cho-nguoi-ngheo.3295398/) ([Tinh Tế](https://tinhte.vn))
 - [Mình vừa chuyển từ iPhone 12 Pro Max xuống iPhone 12 mini](https://tinhte.vn/thread/minh-vua-chuyen-tu-iphone-12-pro-max-xuong-iphone-12-mini.3295573/) ([Tinh Tế](https://tinhte.vn))
-- [Cận cảnh Galaxy A52/ A52 5G và A72 2021 - "Món quà" smartphone tầm trung của Samsung năm nay](https://tinhte.vn/thread/can-canh-galaxy-a52-a52-5g-va-a72-2021-mon-qua-smartphone-tam-trung-cua-samsung-nam-nay.3295507/) ([Tinh Tế](https://tinhte.vn))
+- [Một người dân làm nghề buôn bán ở Quảng Nam tự ứng cử đại biểu Quốc hội](https://tuoitre.vn/mot-nguoi-dan-lam-nghe-buon-ban-o-quang-nam-tu-ung-cu-dai-bieu-quoc-hoi-20210318150510753.htm) ([Tuổi Trẻ](https://tuoitre.vn))
