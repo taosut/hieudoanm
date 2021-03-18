@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 29.02°C.
-- Air Visual is 110.
+- Feels Like 27.74°C.
+- Air Visual is 128.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [12 siêu thị MM Mega Market sắp lắp pin mặt trời mái nhà, tự chủ 30% nhu cầu sử dụng điện](https://cafebiz.vn/12-sieu-thi-mm-mega-market-sap-lap-pin-mat-troi-mai-nha-tu-chu-30-nhu-cau-su-dung-dien-20210318160124951.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chỉ đạo xử lý trạm trộn bêtông không phép trên đất rừng tại Quảng Bình](https://laodong.vn/ban-doc/chi-dao-xu-ly-tram-tron-betong-khong-phep-tren-dat-rung-tai-quang-binh-890449.ldo) ([Lao Động](https://laodong.vn))
-- [7 lợi ích tuyệt vời từ quả dứa nhiều người không biết](https://laodong.vn/dinh-duong-am-thuc/7-loi-ich-tuyet-voi-tu-qua-dua-nhieu-nguoi-khong-biet-890437.ldo) ([Lao Động](https://laodong.vn))
-- [Tuyển sinh 2021: Dự kiến thí sinh được điều chỉnh nguyện vọng tối đa 3 lần](https://laodong.vn/giao-duc/tuyen-sinh-2021-du-kien-thi-sinh-duoc-dieu-chinh-nguyen-vong-toi-da-3-lan-890417.ldo) ([Lao Động](https://laodong.vn))
-- [Cán bộ hội phụ nữ đón niềm vui từ &quot;Mái ấm tình thương&quot;](https://laodong.vn/cong-doan/can-bo-hoi-phu-nu-don-niem-vui-tu-mai-am-tinh-thuong-890442.ldo) ([Lao Động](https://laodong.vn))
-- [Ai Cập  sắp chuyển sang thủ đô mới hoành tráng](https://laodong.vn/the-gioi/ai-cap-sap-chuyen-sang-thu-do-moi-hoanh-trang-890438.ldo) ([Lao Động](https://laodong.vn))
-- [Việt Nam liên tục hút vốn từ Foxconn, LG... vào chế biến chế tạo, lương của nhân sự trong các ngành này có thể lên tới hơn 100 triệu/tháng](https://cafebiz.vn/viet-nam-lien-tuc-hut-von-tu-foxconn-lg-vao-che-bien-che-tao-luong-cua-nhan-su-trong-cac-nganh-nay-co-the-len-toi-hon-100-trieu-thang-20210318155243755.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nam Em - Nam Anh: Có vực dậy sau những thăng trầm?](https://laodong.vn/photo/nam-em-nam-anh-co-vuc-day-sau-nhung-thang-tram-890418.ldo) ([Lao Động](https://laodong.vn))
-- [Khai thác đất trái phép tại Vĩnh Phúc: Lòng vòng trách nhiệm quản lý](https://laodong.vn/bat-dong-san/khai-thac-dat-trai-phep-tai-vinh-phuc-long-vong-trach-nhiem-quan-ly-889501.ldo) ([Lao Động](https://laodong.vn))
-- [Hai xe buýt chèn nhau như phim trên quốc lộ, người đi đường ‘khiếp vía’](https://tuoitre.vn/hai-xe-buyt-chen-nhau-nhu-phim-tren-quoc-lo-nguoi-di-duong-khiep-via-20210318151822536.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+
 
 [Read More](docs/news/README.md)
 
