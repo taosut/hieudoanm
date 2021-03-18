@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 28.46°C.
-- Air Visual is 97.
+- Air Visual is 91.
 
 **WEATHER**
 
@@ -63,7 +63,7 @@
 - [![Phạm Nhật Vượng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
-- [![Trấn Thành](https://img.shields.io/static/v1?label=Tr%E1%BA%A5n%20Th%C3%A0nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A5n%20Th%C3%A0nh)
+- [![Torino](https://img.shields.io/static/v1?label=Torino&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Torino)
 - [![VTV3 trực tiếp](https://img.shields.io/static/v1?label=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp)
 - [![Vương Đình Huệ](https://img.shields.io/static/v1?label=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87)
 - [![iPhone 13](https://img.shields.io/static/v1?label=iPhone%2013&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iPhone%2013)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Vé máy bay dịp nghỉ lễ 30/4 tăng nhiệt](https://cafebiz.vn/ve-may-bay-dip-nghi-le-30-4-tang-nhiet-20210318171150323.chn) ([CafeBiz](https://cafebiz.vn))
+- [Tiết kiệm hơn 6.300 tỉ nhờ cắt giảm, đơn giản hóa thủ tục hành chính](https://laodong.vn/thoi-su/tiet-kiem-hon-6300-ti-nho-cat-giam-don-gian-hoa-thu-tuc-hanh-chinh-890532.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Xe lưu động đầu tiên phục vụ việc cấp CCCD gắn chip](https://laodong.vn/photo/tphcm-xe-luu-dong-dau-tien-phuc-vu-viec-cap-cccd-gan-chip-890476.ldo) ([Lao Động](https://laodong.vn))
+- [Làm thế nào để sử dụng Mobile Money?](https://laodong.vn/kinh-te/lam-the-nao-de-su-dung-mobile-money-890545.ldo) ([Lao Động](https://laodong.vn))
+- [Thi đấu chói sáng, Lingard &quot;sáng cửa&quot; trở lại tuyển Anh](https://laodong.vn/bong-da-quoc-te/thi-dau-choi-sang-lingard-sang-cua-tro-lai-tuyen-anh-890528.ldo) ([Lao Động](https://laodong.vn))
+- [Công an TP.HCM triển khai 2 xe lưu động làm căn cước công dân](https://tuoitre.vn/cong-an-tp-hcm-trien-khai-2-xe-luu-dong-lam-can-cuoc-cong-dan-20210318180931772.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Triển khai điều lệ Công đoàn, điểm mới của Luật Công chức, Viên chức](https://laodong.vn/cong-doan/trien-khai-dieu-le-cong-doan-diem-moi-cua-luat-cong-chuc-vien-chuc-890517.ldo) ([Lao Động](https://laodong.vn))
-- [Suy ngẫm về bài học cuộc sống từ những quốc gia hạnh phúc nhất thế giới](https://laodong.vn/chuyen-nha-minh/suy-ngam-ve-bai-hoc-cuoc-song-tu-nhung-quoc-gia-hanh-phuc-nhat-the-gioi-890396.ldo) ([Lao Động](https://laodong.vn))
-- [Báo Lao Động tuyển dụng](https://laodong.vn/xa-hoi/bao-lao-dong-tuyen-dung-890565.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nội nhất trí danh sách sơ bộ 188 ứng viên đại biểu HĐND thành phố](https://tuoitre.vn/ha-noi-nhat-tri-danh-sach-so-bo-188-ung-vien-dai-bieu-hdnd-thanh-pho-2021031817584677.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nghiên cứu cơ sở khoa học quy hoạch mạng lưới cơ sở giáo dục đại học](https://laodong.vn/giao-duc/nghien-cuu-co-so-khoa-hoc-quy-hoach-mang-luoi-co-so-giao-duc-dai-hoc-890558.ldo) ([Lao Động](https://laodong.vn))
-- [Thượng toạ Thích Nguyên Bình về trụ trì quản lý chùa Trung Hành từ 20.3](https://laodong.vn/ban-doc/thuong-toa-thich-nguyen-binh-ve-tru-tri-quan-ly-chua-trung-hanh-tu-203-890524.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương: Bị lừa bay mất 120 triệu vì click vào link &quot;Zalopay&quot; giả](https://laodong.vn/phap-luat/hai-duong-bi-lua-bay-mat-120-trieu-vi-click-vao-link-zalopay-gia-889848.ldo) ([Lao Động](https://laodong.vn))
-- [Diện mạo cầu ngói 245 tuổi sau trùng tu](https://vnexpress.net/dien-mao-cau-ngoi-245-tuoi-sau-trung-tu-4250344.html) ([VNExpress](https://vnexpress.net))
-- [Thanh tra toàn diện dự án bến thuyền du lịch Vũng Tàu Marina](https://tuoitre.vn/thanh-tra-toan-dien-du-an-ben-thuyen-du-lich-vung-tau-marina-20210318174043292.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Giám đốc lâm trường lấn chiếm đất rừng vẫn được bổ nhiệm lại](https://tuoitre.vn/giam-doc-lam-truong-lan-chiem-dat-rung-van-duoc-bo-nhiem-lai-20210318180057957.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
