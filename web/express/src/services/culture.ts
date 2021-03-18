@@ -42,7 +42,47 @@ export default class CultureService {
     return clubs;
   }
 
-  public async getVLeague(): Promise<any> {
-    return liveScore.getVLeague();
+  public async getVLeagueTable(): Promise<Array<Record<string, any>>> {
+    const { leagueTable = [] } = await liveScore.getVLeague();
+    return leagueTable;
+  }
+
+  public async getVLeagueMatches(query: Record<string, any>): Promise<Array<Record<string, any>>> {
+    const { roundNo = 0, team = '' } = query;
+    const { matches = [] } = await liveScore.getVLeague();
+    const filteredMatches: Array<any> = matches.filter((match: Record<string, any>) => {
+      const { round, homeTeam, awayTeam } = match;
+      const roundFlag: boolean = roundNo ? roundNo === round : true;
+      const homeTeamFlag: boolean = team
+        ? homeTeam.toString().toLowerCase().includes(team.toLowerCase())
+        : true;
+      const awayTeamFlag: boolean = team
+        ? awayTeam.toString().toLowerCase().includes(team.toLowerCase())
+        : true;
+      return roundFlag && (homeTeamFlag || awayTeamFlag);
+    });
+    return filteredMatches;
+  }
+
+  private filterMatches(matches: Array<Record<string, any>>, query: Record<string, any>) {
+    const { roundNo = 0, team = '' } = query;
+    const filteredMatches: Array<any> = matches.filter((match: Record<string, any>) => {
+      const { round, homeTeam, awayTeam } = match;
+      const roundFlag: boolean = roundNo ? roundNo === round : true;
+      const homeTeamFlag: boolean = team
+        ? homeTeam.toString().toLowerCase().includes(team.toLowerCase())
+        : true;
+      const awayTeamFlag: boolean = team
+        ? awayTeam.toString().toLowerCase().includes(team.toLowerCase())
+        : true;
+      return roundFlag && (homeTeamFlag || awayTeamFlag);
+    });
+    return filteredMatches;
+  }
+
+  public async getVLeague(query: Record<string, any>): Promise<Record<string, any>> {
+    const { matches = [], leagueTable = [] } = await liveScore.getVLeague();
+    const filteredMatches: Array<any> = this.filterMatches(matches, query);
+    return { matches: filteredMatches, leagueTable };
   }
 }

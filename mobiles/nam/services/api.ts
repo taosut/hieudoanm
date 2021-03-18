@@ -11,4 +11,9 @@ export default class API {
     const licensePlates = this.fetch(`license-plates?license=${license}`);
     return licensePlates;
   }
+
+  public getVisas() {
+    const visas = this.fetch('visas');
+    return visas;
+  }
 }

@@ -7,7 +7,18 @@ import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createStackNavigator } from '@react-navigation/stack';
 
-import { Eye, Forex, Home, License, Stock } from './screens';
+import {
+  Calendar,
+  Eye,
+  Forex,
+  Home,
+  License,
+  News,
+  Stock,
+  Visas,
+  VLeague,
+  Weather,
+} from './screens';
 
 const Stack = createStackNavigator();
 
@@ -19,8 +30,8 @@ export default class App extends React.Component {
           <Stack.Screen name="home" options={{ title: 'NAM' }}>
             {props => <Home {...props} />}
           </Stack.Screen>
-          <Stack.Screen name="license" options={{ title: 'LICENSE' }}>
-            {props => <License {...props} />}
+          <Stack.Screen name="calendar" options={{ title: 'CALENDAR' }}>
+            {props => <Calendar {...props} />}
           </Stack.Screen>
           <Stack.Screen name="eye" options={{ title: 'EYE' }}>
             {props => <Eye {...props} />}
@@ -28,8 +39,23 @@ export default class App extends React.Component {
           <Stack.Screen name="forex" options={{ title: 'FOREX' }}>
             {props => <Forex {...props} />}
           </Stack.Screen>
+          <Stack.Screen name="license" options={{ title: 'LICENSE' }}>
+            {props => <License {...props} />}
+          </Stack.Screen>
+          <Stack.Screen name="news" options={{ title: 'NEWS' }}>
+            {props => <News {...props} />}
+          </Stack.Screen>
           <Stack.Screen name="stock" options={{ title: 'STOCK' }}>
             {props => <Stock {...props} />}
+          </Stack.Screen>
+          <Stack.Screen name="visas" options={{ title: 'VISAS' }}>
+            {props => <Visas {...props} />}
+          </Stack.Screen>
+          <Stack.Screen name="vleague" options={{ title: 'VLEAGUE' }}>
+            {props => <VLeague {...props} />}
+          </Stack.Screen>
+          <Stack.Screen name="weather" options={{ title: 'WEATHER' }}>
+            {props => <Weather {...props} />}
           </Stack.Screen>
         </Stack.Navigator>
       </NavigationContainer>

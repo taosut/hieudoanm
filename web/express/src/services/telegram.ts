@@ -145,7 +145,7 @@ export default class TelegramService {
   }
 
   private async getVLeagueTable(chatId: number) {
-    const vleague = await this.cultureService.getVLeague();
+    const vleague = await this.cultureService.getVLeague({ round: 0, team: '' });
     const { leagueTable = [] } = vleague;
     const message: string = leagueTable
       .map(item => {

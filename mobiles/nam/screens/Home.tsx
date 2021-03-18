@@ -1,7 +1,17 @@
 import React from 'react';
 import { SafeAreaView, View, StyleSheet, Text, TouchableWithoutFeedback } from 'react-native';
 import { FontAwesomeIcon } from '@fortawesome/react-native-fontawesome';
-import { faEye, faDollarSign, faChartLine, faCar } from '@fortawesome/free-solid-svg-icons';
+import {
+  faEye,
+  faDollarSign,
+  faChartLine,
+  faCar,
+  faCalendar,
+  faFutbol,
+  faNewspaper,
+  faCloudSunRain,
+  faPassport,
+} from '@fortawesome/free-solid-svg-icons';
 
 type Props = {
   navigation: any;
@@ -12,12 +22,19 @@ export default class Home extends React.Component<Props> {
     const { navigation } = this.props;
     const rows = [
       [
+        { icon: faCalendar, screen: 'calendar', text: 'Calendar' },
         { icon: faEye, screen: 'eye', text: 'Eye' },
-        { icon: faCar, screen: 'license', text: 'License' },
+        { icon: faDollarSign, screen: 'forex', text: 'Forex' },
       ],
       [
-        { icon: faDollarSign, screen: 'forex', text: 'Forex' },
+        { icon: faCar, screen: 'license', text: 'License' },
+        { icon: faNewspaper, screen: 'news', text: 'News' },
         { icon: faChartLine, screen: 'stock', text: 'Stock' },
+      ],
+      [
+        { icon: faPassport, screen: 'visas', text: 'Visas' },
+        { icon: faFutbol, screen: 'vleague', text: 'VLeague' },
+        { icon: faCloudSunRain, screen: 'weather', text: 'Weather' },
       ],
     ];
 
@@ -33,7 +50,7 @@ export default class Home extends React.Component<Props> {
                     return (
                       <View key={index} style={styles.cell}>
                         <TouchableWithoutFeedback onPress={() => navigation.navigate(screen)}>
-                          <View>
+                          <View style={styles.button}>
                             <FontAwesomeIcon style={styles.icon} icon={icon} size={50} />
                             <Text style={styles.text}>{text}</Text>
                           </View>
@@ -72,6 +89,10 @@ const styles = StyleSheet.create({
     flex: 1,
     borderWidth: 0.5,
     borderColor: '#343a40',
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  button: {
     justifyContent: 'center',
     alignItems: 'center',
   },

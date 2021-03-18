@@ -340,6 +340,83 @@ const sports: Array<IRoute> = [
       },
       400: { description: '', schema: {} }
     }
+  },
+  {
+    public: true,
+    tags: ['Culture, Sports and Tourism'],
+    summary: 'Get VLeague Matches',
+    description: '',
+    method: 'GET',
+    request: {
+      query: [],
+      body: []
+    },
+    path: `${prefix}/sports/vleague/matches`,
+    middlewares: [],
+    responses: {
+      200: {
+        description: '',
+        schema: {
+          type: 'array',
+          items: {
+            type: 'object',
+            properties: {
+              round: { type: 'number' },
+              status: { type: 'string' },
+              dateTime: { type: 'string' },
+              homeTeam: { type: 'string' },
+              awayTeam: { type: 'string' },
+              homeScore: { type: 'number' },
+              awayScore: { type: 'number' },
+              year: { type: 'number' },
+              month: { type: 'number' },
+              date: { type: 'number' },
+              hours: { type: 'number' },
+              minutes: { type: 'number' },
+              seconds: { type: 'number' }
+            }
+          }
+        }
+      },
+      400: { description: '', schema: {} }
+    }
+  },
+  {
+    public: true,
+    tags: ['Culture, Sports and Tourism'],
+    summary: 'Get VLeague Table',
+    description: '',
+    method: 'GET',
+    request: {
+      query: [],
+      body: []
+    },
+    path: `${prefix}/sports/vleague/table`,
+    middlewares: [],
+    responses: {
+      200: {
+        description: '',
+        schema: {
+          type: 'array',
+          items: {
+            type: 'object',
+            properties: {
+              rank: { type: 'number' },
+              name: { type: 'string' },
+              point: { type: 'number' },
+              played: { type: 'number' },
+              win: { type: 'number' },
+              draw: { type: 'number' },
+              lost: { type: 'number' },
+              goal: { type: 'number' },
+              goalAgainst: { type: 'number' },
+              goalDifference: { type: 'number' }
+            }
+          }
+        }
+      },
+      400: { description: '', schema: {} }
+    }
   }
 ];
 

@@ -21,54 +21,51 @@ type Props = {};
 
 type State = {
   loading: boolean;
-  licensePlates: Array<any>;
-  filterLicensePlates: Array<any>;
+  visas: Array<any>;
+  filterVisas: Array<any>;
 };
 
-export default class License extends React.Component<Props, State> {
+export default class Stock extends React.Component<Props, State> {
   constructor(props: Props) {
     super(props);
 
-    this.state = { loading: false, licensePlates: [], filterLicensePlates: [] };
+    this.state = { loading: false, visas: [], filterVisas: [] };
 
-    this.getLicensePlates = this.getLicensePlates.bind(this);
+    this.getVisas = this.getVisas.bind(this);
     this.filter = this.filter.bind(this);
   }
 
   async componentDidMount() {
-    await this.getLicensePlates();
+    await this.getVisas();
   }
 
   filter(query: string) {
-    const { licensePlates = [] } = this.state;
-    const filterLicensePlates = licensePlates.filter((plate: any) => {
-      const { license = '' } = plate;
-      const flag: boolean = query
-        ? license.toString().toLowerCase().includes(query.toLowerCase())
+    const { visas = [] } = this.state;
+    const filterVisas = visas.filter((visa: any) => {
+      const { country = '', requirement } = visa;
+      const countryFlag: boolean = query
+        ? country.toString().toLowerCase().includes(query.toLowerCase())
         : true;
-      return flag;
+      const requirementFlag: boolean = query
+        ? requirement.toString().toLowerCase().includes(query.toLowerCase())
+        : true;
+      return countryFlag || requirementFlag;
     });
-    this.setState({ filterLicensePlates });
+    this.setState({ filterVisas });
   }
 
-  async getLicensePlates() {
+  async getVisas() {
     this.setState({ loading: true });
-    const licensePlates = await api.getLicensePlates();
-    this.setState({ loading: false, licensePlates, filterLicensePlates: licensePlates });
+    const visas = await api.getVisas();
+    this.setState({ loading: false, visas, filterVisas: visas });
   }
 
   render() {
-    const { loading = false, filterLicensePlates = [] } = this.state;
+    const { loading = false, filterVisas = [] } = this.state;
     return (
       <SafeAreaView style={styles.safeAreaView}>
         <View style={styles.inputContainer}>
-          <TextInput
-            style={styles.input}
-            maxLength={2}
-            placeholder="License"
-            onChangeText={this.filter}
-            editable
-          />
+          <TextInput style={styles.input} placeholder="Query" onChangeText={this.filter} editable />
         </View>
         <View style={styles.listContainer}>
           {loading && (
@@ -78,21 +75,19 @@ export default class License extends React.Component<Props, State> {
           )}
           {!loading && (
             <View>
-              {filterLicensePlates.length === 0 && (
+              {filterVisas.length === 0 && (
                 <View style={styles.noResults}>
-                  <Text style={styles.noResultsText}>NO LICENSE PLATES</Text>
+                  <Text style={styles.noResultsText}>NO RESULTS</Text>
                 </View>
               )}
-              {filterLicensePlates.length > 0 && (
+              {filterVisas.length > 0 && (
                 <ScrollView>
-                  {filterLicensePlates.map((plate, index) => {
-                    const { license = '', definition = '', type = '' } = plate;
+                  {filterVisas.map((visa, index) => {
+                    const { country = '', requirement = '' } = visa;
                     return (
                       <View key={index} style={styles.item}>
-                        <Text>
-                          {license} - {definition}
-                        </Text>
-                        <Text>{type}</Text>
+                        <Text>{country}</Text>
+                        <Text>{requirement}</Text>
                       </View>
                     );
                   })}
