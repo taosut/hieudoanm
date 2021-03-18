@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 28.29°C.
-- Air Visual is 113.
+- Feels Like 29.02°C.
+- Air Visual is 114.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Khánh thành trạm phát sóng FM tự động trên đỉnh núi Quế (Quảng Nam)](https://laodong.vn/xa-hoi/khanh-thanh-tram-phat-song-fm-tu-dong-tren-dinh-nui-que-quang-nam-890375.ldo) ([Lao Động](https://laodong.vn))
-- [Bình Định hoàn thành tiếp nhận 343 công dân về từ Nhật Bản](https://laodong.vn/xa-hoi/binh-dinh-hoan-thanh-tiep-nhan-343-cong-dan-ve-tu-nhat-ban-890420.ldo) ([Lao Động](https://laodong.vn))
-- [Được trả cả triệu USD cho một dòng tweet, nhưng Elon Musk bất ngờ từ chối bán, lý do khiến mọi người bất ngờ](https://cafebiz.vn/duoc-tra-ca-trieu-usd-cho-mot-dong-tweet-nhung-elon-musk-bat-ngo-tu-choi-ban-ly-do-khien-moi-nguoi-bat-ngo-20210318135858011.chn) ([CafeBiz](https://cafebiz.vn))
-- [Huấn luyện viên đội Sài Gòn quyết &quot;trói chân&quot; Lee Nguyễn](https://laodong.vn/video/huan-luyen-vien-doi-sai-gon-quyet-troi-chan-lee-nguyen-890344.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng chiếm 3/5 vị trí đầu tiên trong BXH địa điểm có các phong cách ẩm thực khác nhau được ưa chuộng nhất của du khách đến Việt Nam](https://cafebiz.vn/da-nang-chiem-3-5-vi-tri-dau-tien-trong-bxh-dia-diem-co-cac-phong-cach-am-thuc-khac-nhau-duoc-ua-chuong-nhat-cua-du-khach-den-viet-nam-20210317180945982.chn) ([CafeBiz](https://cafebiz.vn))
-- [NASA công bố âm thanh chân thật từ chuyến di chuyển đầu tiên trên sao Hỏa](https://laodong.vn/the-gioi/nasa-cong-bo-am-thanh-chan-that-tu-chuyen-di-chuyen-dau-tien-tren-sao-hoa-890398.ldo) ([Lao Động](https://laodong.vn))
-- [Bình Dương: Chậm tái lập mặt đường sau thi công tiềm ẩn tai nạn giao thông](https://laodong.vn/ban-doc/binh-duong-cham-tai-lap-mat-duong-sau-thi-cong-tiem-an-tai-nan-giao-thong-890339.ldo) ([Lao Động](https://laodong.vn))
-- [5 năm Hà Nội sử dụng chế phẩm Redoxy-3C](https://vnexpress.net/5-nam-ha-noi-su-dung-che-pham-redoxy-3c-4250052.html) ([VNExpress](https://vnexpress.net))
-- [Chuyên gia tiêm chủng nói gì về phản ứng nặng sau tiêm vaccine Astrazeneca?](https://laodong.vn/video-thoi-su/chuyen-gia-tiem-chung-noi-gi-ve-phan-ung-nang-sau-tiem-vaccine-astrazeneca-890383.ldo) ([Lao Động](https://laodong.vn))
-- [Sự thật về "cung điện" hoành tráng đến nghẹt thở, độc nhất vô nhị ở miền Tây](https://cafebiz.vn/su-that-ve-cung-dien-hoanh-trang-den-nghet-tho-doc-nhat-vo-nhi-o-mien-tay-20210318144632451.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chuyện lạ: Công ty Nhật Bản cho nhân viên nghỉ có lương để giải sầu khi thần tượng kết hôn](https://cafebiz.vn/chuyen-la-cong-ty-nhat-ban-cho-nhan-vien-nghi-co-luong-de-giai-sau-khi-than-tuong-ket-hon-20210318153356519.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sự thiếu hụt chip toàn cầu ảnh hưởng tới tất cả các nhà sản xuất smartphone, trừ Apple](https://cafebiz.vn/su-thieu-hut-chip-toan-cau-anh-huong-toi-tat-ca-cac-nha-san-xuat-smartphone-tru-apple-20210318140036322.chn) ([CafeBiz](https://cafebiz.vn))
+- [Rời bỏ sự tự do cùng thu nhập 40-50 triệu/tháng, game thủ 27 tuổi “gác kiếm” nối nghiệp gia đình, trở thành chủ nhà may com-lê danh tiếng ở TPHCM](https://cafebiz.vn/roi-bo-su-tu-do-cung-thu-nhap-40-50-trieu-thang-game-thu-27-tuoi-gac-kiem-noi-nghiep-gia-dinh-tro-thanh-chu-nha-may-com-le-danh-tieng-o-tphcm-20210318151430454.chn) ([CafeBiz](https://cafebiz.vn))
+- [Công an TPHCM đã tiếp nhận hơn 200.000 hồ sơ căn cước công dân có gắn chíp](https://laodong.vn/xa-hoi/cong-an-tphcm-da-tiep-nhan-hon-200000-ho-so-can-cuoc-cong-dan-co-gan-chip-890416.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ mang bầu ứng cứu chồng đánh đuổi nhóm trộm giữa ban ngày](https://laodong.vn/phap-luat/vo-mang-bau-ung-cuu-chong-danh-duoi-nhom-trom-giua-ban-ngay-890411.ldo) ([Lao Động](https://laodong.vn))
+- [Sự thẳng thắn của Lee Nguyễn và điểm hạn chế của đội TPHCM](https://laodong.vn/bong-da/su-thang-than-cua-lee-nguyen-va-diem-han-che-cua-doi-tphcm-890279.ldo) ([Lao Động](https://laodong.vn))
+- [Diễn đàn đối thoại &quot;Đảng với thanh niên - Thanh niên với Đảng&quot;](https://laodong.vn/ldld-son-la/dien-dan-doi-thoai-dang-voi-thanh-nien-thanh-nien-voi-dang-890423.ldo) ([Lao Động](https://laodong.vn))
+- [Đại hội cổ đông 'kỳ lạ' của Samsung: Số người tham dự giảm 1 nửa, Phó chủ tịch vắng mặt vì đang ngồi tù, người biểu tình phản đối rầm rộ ngay phía ngoài](https://cafebiz.vn/dai-hoi-co-dong-ky-la-cua-samsung-so-nguoi-tham-du-giam-1-nua-pho-chu-tich-vang-mat-vi-dang-ngoi-tu-nguoi-bieu-tinh-phan-doi-ram-ro-ngay-phia-ngoai-20210318152046625.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thời hạn chứng chỉ chức danh ngoại ngữ của giáo viên](https://laodong.vn/giao-duc/thoi-han-chung-chi-chuc-danh-ngoai-ngu-cua-giao-vien-890410.ldo) ([Lao Động](https://laodong.vn))
+- [Đề xuất đầu tư cao tốc TP HCM - Chơn Thành 36.000 tỷ đồng](https://vnexpress.net/de-xuat-dau-tu-cao-toc-tp-hcm-chon-thanh-36-000-ty-dong-4250442.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
