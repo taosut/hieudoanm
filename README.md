@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Người bệnh hài lòng hơn với dịch vụ y tế nhờ cải thiện thủ tục hành chính](https://laodong.vn/xa-hoi/nguoi-benh-hai-long-hon-voi-dich-vu-y-te-nho-cai-thien-thu-tuc-hanh-chinh-890515.ldo) ([Lao Động](https://laodong.vn))
+- [Chi tiết lịch thi vào lớp 10 năm học 2021-2022 ở Hà Nội](https://laodong.vn/infographic/chi-tiet-lich-thi-vao-lop-10-nam-hoc-2021-2022-o-ha-noi-889306.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt đàn em của Dũng &quot;Trọc&quot; Hà Đông đang lẩn trốn truy nã](https://laodong.vn/phap-luat/bat-dan-em-cua-dung-troc-ha-dong-dang-lan-tron-truy-na-890493.ldo) ([Lao Động](https://laodong.vn))
 - [YouTuber Việt đối mặt với việc thu thuế từ Google?](https://laodong.vn/kinh-te/youtuber-viet-doi-mat-voi-viec-thu-thue-tu-google-890440.ldo) ([Lao Động](https://laodong.vn))
 - [APEC thống nhất cần duy trì kích thích tài khóa để ứng phó COVID-19](https://laodong.vn/kinh-te/apec-thong-nhat-can-duy-tri-kich-thich-tai-khoa-de-ung-pho-covid-19-890513.ldo) ([Lao Động](https://laodong.vn))
-- [Lai Châu: Vận chuyển gấu con, lĩnh án 3 năm tù](https://laodong.vn/xa-hoi/lai-chau-van-chuyen-gau-con-linh-an-3-nam-tu-890508.ldo) ([Lao Động](https://laodong.vn))
 - [Huế: Hàng ngàn hecta sắn có nguy cơ mất trắng vì bệnh khảm lá](https://laodong.vn/ban-doc/hue-hang-ngan-hecta-san-co-nguy-co-mat-trang-vi-benh-kham-la-890472.ldo) ([Lao Động](https://laodong.vn))
-- [Khâu thu hồi tài sản tham nhũng phải làm tốt hơn nữa](https://laodong.vn/thoi-su/khau-thu-hoi-tai-san-tham-nhung-phai-lam-tot-hon-nua-890506.ldo) ([Lao Động](https://laodong.vn))
 - [Công an khẳng định căn cước gắn chip không có chức năng định vị](https://tuoitre.vn/cong-an-khang-dinh-can-cuoc-gan-chip-khong-co-chuc-nang-dinh-vi-20210318164214584.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Dẹp loạn &quot;thần y&quot; online tự xưng: Cận cảnh quy trình khám bệnh thần tốc](https://laodong.vn/xa-hoi/dep-loan-than-y-online-tu-xung-can-canh-quy-trinh-kham-benh-than-toc-888502.ldo) ([Lao Động](https://laodong.vn))
 - [Nổi tiếng cứng rắn, nhưng Apple đang phải nhún nhường trước quy định của nước Nga](https://cafebiz.vn/noi-tieng-cung-ran-nhung-apple-dang-phai-nhun-nhuong-truoc-quy-dinh-cua-nuoc-nga-20210318160958346.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cơ hội mua xe hơi Suzuki không còn xa vời với chương trình ưu đãi lãi suất vay từ VPBank](https://cafebiz.vn/co-hoi-mua-xe-hoi-suzuki-khong-con-xa-voi-voi-chuong-trinh-uu-dai-lai-suat-vay-tu-vpbank-20210318165756871.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bổ sung một số vụ án vào diện Ban Chỉ đạo trung ương chống tham nhũng chỉ đạo](https://tuoitre.vn/bo-sung-mot-so-vu-an-vao-dien-ban-chi-dao-trung-uong-chong-tham-nhung-chi-dao-20210318172230169.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
