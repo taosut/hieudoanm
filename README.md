@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 28.46°C.
-- Air Visual is 106.
+- Air Visual is 111.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Người bệnh hài lòng hơn với dịch vụ y tế nhờ cải thiện thủ tục hành chính](https://laodong.vn/xa-hoi/nguoi-benh-hai-long-hon-voi-dich-vu-y-te-nho-cai-thien-thu-tuc-hanh-chinh-890515.ldo) ([Lao Động](https://laodong.vn))
-- [Chi tiết lịch thi vào lớp 10 năm học 2021-2022 ở Hà Nội](https://laodong.vn/infographic/chi-tiet-lich-thi-vao-lop-10-nam-hoc-2021-2022-o-ha-noi-889306.ldo) ([Lao Động](https://laodong.vn))
-- [Bắt đàn em của Dũng &quot;Trọc&quot; Hà Đông đang lẩn trốn truy nã](https://laodong.vn/phap-luat/bat-dan-em-cua-dung-troc-ha-dong-dang-lan-tron-truy-na-890493.ldo) ([Lao Động](https://laodong.vn))
-- [YouTuber Việt đối mặt với việc thu thuế từ Google?](https://laodong.vn/kinh-te/youtuber-viet-doi-mat-voi-viec-thu-thue-tu-google-890440.ldo) ([Lao Động](https://laodong.vn))
-- [APEC thống nhất cần duy trì kích thích tài khóa để ứng phó COVID-19](https://laodong.vn/kinh-te/apec-thong-nhat-can-duy-tri-kich-thich-tai-khoa-de-ung-pho-covid-19-890513.ldo) ([Lao Động](https://laodong.vn))
-- [Huế: Hàng ngàn hecta sắn có nguy cơ mất trắng vì bệnh khảm lá](https://laodong.vn/ban-doc/hue-hang-ngan-hecta-san-co-nguy-co-mat-trang-vi-benh-kham-la-890472.ldo) ([Lao Động](https://laodong.vn))
-- [Công an khẳng định căn cước gắn chip không có chức năng định vị](https://tuoitre.vn/cong-an-khang-dinh-can-cuoc-gan-chip-khong-co-chuc-nang-dinh-vi-20210318164214584.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Dẹp loạn &quot;thần y&quot; online tự xưng: Cận cảnh quy trình khám bệnh thần tốc](https://laodong.vn/xa-hoi/dep-loan-than-y-online-tu-xung-can-canh-quy-trinh-kham-benh-than-toc-888502.ldo) ([Lao Động](https://laodong.vn))
-- [Nổi tiếng cứng rắn, nhưng Apple đang phải nhún nhường trước quy định của nước Nga](https://cafebiz.vn/noi-tieng-cung-ran-nhung-apple-dang-phai-nhun-nhuong-truoc-quy-dinh-cua-nuoc-nga-20210318160958346.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cơ hội mua xe hơi Suzuki không còn xa vời với chương trình ưu đãi lãi suất vay từ VPBank](https://cafebiz.vn/co-hoi-mua-xe-hoi-suzuki-khong-con-xa-voi-voi-chuong-trinh-uu-dai-lai-suat-vay-tu-vpbank-20210318165756871.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thượng toạ Thích Nguyên Bình về trụ trì quản lý chùa Trung Hành từ 20.3](https://laodong.vn/ban-doc/thuong-toa-thich-nguyen-binh-ve-tru-tri-quan-ly-chua-trung-hanh-tu-203-890524.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Tĩnh, Cao Bằng, Vũng Tàu và 12 tỉnh công bố lịch thi lớp 10](https://laodong.vn/giao-duc/ha-tinh-cao-bang-vung-tau-va-12-tinh-cong-bo-lich-thi-lop-10-890536.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương: Bị lừa bay mất 120 triệu vì click vào link &quot;Zalopay&quot; giả](https://laodong.vn/phap-luat/hai-duong-bi-lua-bay-mat-120-trieu-vi-click-vao-link-zalopay-gia-889848.ldo) ([Lao Động](https://laodong.vn))
+- [Diện mạo cầu ngói 245 tuổi sau trùng tu](https://vnexpress.net/dien-mao-cau-ngoi-245-tuoi-sau-trung-tu-4250344.html) ([VNExpress](https://vnexpress.net))
+- [Thanh tra toàn diện dự án bến thuyền du lịch Vũng Tàu Marina](https://tuoitre.vn/thanh-tra-toan-dien-du-an-ben-thuyen-du-lich-vung-tau-marina-20210318174043292.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Giám đốc lâm trường lấn chiếm đất rừng vẫn được bổ nhiệm lại](https://tuoitre.vn/giam-doc-lam-truong-lan-chiem-dat-rung-van-duoc-bo-nhiem-lai-20210318180057957.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tìm người bị hại trong vụ bắt giữ Giám đốc công ty nhà đất Đồng Nai](https://laodong.vn/phap-luat/tim-nguoi-bi-hai-trong-vu-bat-giu-giam-doc-cong-ty-nha-dat-dong-nai-890553.ldo) ([Lao Động](https://laodong.vn))
+- [Thành phố ở Indonesia đứng trước nguy cơ sẽ bị xóa sổ trong 15 năm tới](https://laodong.vn/the-gioi/thanh-pho-o-indonesia-dung-truoc-nguy-co-se-bi-xoa-so-trong-15-nam-toi-890516.ldo) ([Lao Động](https://laodong.vn))
+- [Xe buýt ngáng đường nhau sau va chạm](https://vnexpress.net/xe-buyt-ngang-duong-nhau-sau-va-cham-4250460.html) ([VNExpress](https://vnexpress.net))
+- [Chiều 18-3: Thêm 3 ca mắc COVID-19 mới, Khánh Hòa đảm bảo đủ tiền mua vắc xin](https://tuoitre.vn/chieu-18-3-them-3-ca-mac-covid-19-moi-khanh-hoa-dam-bao-du-tien-mua-vac-xin-20210315180345372.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [4 Cách để bảo vệ chất xám của mình trên nền tảng internet](https://vietcetera.com/vn/4-cach-de-bao-ve-chat-xam-cua-minh-tren-nen-tang-internet)
 - ["Sài Gòn - Đà Lạt là thấy không bền rồi, huống gì Mỹ - Việt Nam!"](https://vietcetera.com/vn/sai-gon-da-lat-la-thay-khong-ben-roi-huong-gi-my-viet-nam)
 - [Tóm Lại Là: Hộ chiếu vaccine COVID-19 bắt đầu thời kỳ bình thường mới?](https://vietcetera.com/vn/tom-lai-la-ho-chieu-vaccine-covid-thong-le-cua-thoi-binh-thuong-moi)
 - [Đạo diễn phim "Ròm" Trần Thanh Huy và dự án mới “11:00 pm”](https://vietcetera.com/vn/dao-dien-phim-rom-tran-thanh-huy-va-du-an-moi-11-gio)
@@ -105,7 +106,6 @@
 - [Tóm Lại Là: Người đồng tính thì không được "ban phước"?](https://vietcetera.com/vn/tom-lai-la-nguoi-dong-tinh-thi-khong-duoc-ban-phuoc)
 - ["Điều ngu ngốc nhất, nhân danh tình yêu, mà bạn từng làm là gì?"](https://vietcetera.com/vn/sau-7-nam-yeu-nhau-minh-nhan-ra-moi-quan-he-cua-tui-minh-hoi-lech-lac)
 - [Mua hàng hiệu cũ là một kiểu thông minh mới](https://vietcetera.com/vn/mua-hang-hieu-cu-la-mot-kieu-thong-minh-moi)
-- [Những điều LinkedIn không nói với bạn](https://vietcetera.com/vn/nhung-dieu-linkedin-khong-noi-voi-ban)
 
 [Read More](https://vietcetera.com/)
 
@@ -133,8 +133,8 @@
 01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 02. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
 03. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-04. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
-05. [TẠM BIỆT...](https://www.youtube.com/watch?v=5djwsYBZ7ys) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
+04. [TẠM BIỆT...](https://www.youtube.com/watch?v=5djwsYBZ7ys) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
+05. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
 06. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 07. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
 08. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
