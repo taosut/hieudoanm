@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 27.38°C.
-- Air Visual is 126.
+- Air Visual is 132.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Tài xế Uber được công nhận là nhân viên chính thức tại Anh](https://cafebiz.vn/tai-xe-uber-duoc-cong-nhan-la-nhan-vien-chinh-thuc-tai-anh-20210318135654264.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đánh bom xe buýt ở Afghanistan, 3 người chết nhiều người bị thương](https://laodong.vn/the-gioi/danh-bom-xe-buyt-o-afghanistan-3-nguoi-chet-nhieu-nguoi-bi-thuong-890373.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Tổ chức SEA Games 31 cần có phương án phòng, chống dịch COVID-19](https://laodong.vn/xa-hoi/ha-noi-to-chuc-sea-games-31-can-co-phuong-an-phong-chong-dich-covid-19-890386.ldo) ([Lao Động](https://laodong.vn))
+- [77 người tự ứng cử đại biểu Quốc hội khóa mới](https://vnexpress.net/77-nguoi-tu-ung-cu-dai-bieu-quoc-hoi-khoa-moi-4250346.html) ([VNExpress](https://vnexpress.net))
+- [Tổng Bí thư, Chủ tịch Nước được giới thiệu ứng cử ĐBQH khóa XV ở khối Đảng](https://laodong.vn/thoi-su/tong-bi-thu-chu-tich-nuoc-duoc-gioi-thieu-ung-cu-dbqh-khoa-xv-o-khoi-dang-890384.ldo) ([Lao Động](https://laodong.vn))
+- [Tuấn Trần &quot;Bố già&quot;, Kaity Nguyễn, Trúc Anh: 3 sao trẻ được kì vọng](https://laodong.vn/photo/tuan-tran-bo-gia-kaity-nguyen-truc-anh-3-sao-tre-duoc-ki-vong-890096.ldo) ([Lao Động](https://laodong.vn))
+- [Những điểm ưu việt của mẫu thẻ Bảo hiểm y tế mới áp dụng từ 1.4.2021](https://laodong.vn/infographic/nhung-diem-uu-viet-cua-mau-the-bao-hiem-y-te-moi-ap-dung-tu-142021-890345.ldo) ([Lao Động](https://laodong.vn))
+- [Khi nào được tạm đình chỉ công việc của người lao động?](https://laodong.vn/tu-van-phap-luat/khi-nao-duoc-tam-dinh-chi-cong-viec-cua-nguoi-lao-dong-889731.ldo) ([Lao Động](https://laodong.vn))
+- [Các tỷ phú giàu nhất thế giới gặp gỡ “một nửa” của mình thế nào: Toàn những câu chuyện như ngôn tình, đỉnh nhất vẫn là ông chủ Facebook](https://cafebiz.vn/cac-ty-phu-giau-nhat-the-gioi-gap-go-mot-nua-cua-minh-the-nao-toan-nhung-cau-chuyen-nhu-ngon-tinh-dinh-nhat-van-la-ong-chu-facebook-20210318135718304.chn) ([CafeBiz](https://cafebiz.vn))
 - [Không mua nhà, cặp vợ chồng kỹ sư công nghệ thông tin trở nên giàu có với khối tài sản 23 tỷ đồng, nghỉ hưu sớm khi chỉ mới 30 tuổi](https://cafebiz.vn/khong-mua-nha-cap-vo-chong-ky-su-cong-nghe-thong-tin-tro-nen-giau-co-voi-khoi-tai-san-23-ty-dong-nghi-huu-som-khi-chi-moi-30-tuoi-20210318135434301.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vụ đế chế 7 tỷ USD sụp đổ trong vài ngày: Gia đình nhà sáng lập kịp bán 200 triệu USD cổ phần trước khi công ty 'ngã gục'](https://cafebiz.vn/vu-de-che-7-ty-usd-sup-do-trong-vai-ngay-gia-dinh-nha-sang-lap-kip-ban-200-trieu-usd-co-phan-truoc-khi-cong-ty-nga-guc-20210318134045626.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thiếu niên 17 tuổi phải cắt cụt tay do tự chế pháo](https://laodong.vn/suc-khoe/thieu-nien-17-tuoi-phai-cat-cut-tay-do-tu-che-phao-890391.ldo) ([Lao Động](https://laodong.vn))
-- [Bí kíp đạt 8 điểm môn Lịch sử thi vào lớp 10](https://laodong.vn/video/bi-kip-dat-8-diem-mon-lich-su-thi-vao-lop-10-890187.ldo) ([Lao Động](https://laodong.vn))
-- [FLC muốn đầu tư 7 dự án tại Thái Nguyên, tổng diện tích hơn 3.000ha](https://cafebiz.vn/flc-muon-dau-tu-7-du-an-tai-thai-nguyen-tong-dien-tich-hon-3000ha-20210318134034253.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giờ cây cổ thụ cũng... đi lạc, và sau vợ thì là tại chị vợ tôi](https://laodong.vn/su-kien-binh-luan/gio-cay-co-thu-cung-di-lac-va-sau-vo-thi-la-tai-chi-vo-toi-890340.ldo) ([Lao Động](https://laodong.vn))
-- [Bản thân cha mẹ không có thói quen tốt, con rất khó nên người](https://cafebiz.vn/ban-than-cha-me-khong-co-thoi-quen-tot-con-rat-kho-nen-nguoi-20210318123727608.chn) ([CafeBiz](https://cafebiz.vn))
-- [&quot;Sai sót về tư tưởng, các trọng tài sẽ tự loại mình khỏi hàng ngũ&quot;](https://laodong.vn/bong-da/sai-sot-ve-tu-tuong-cac-trong-tai-se-tu-loai-minh-khoi-hang-ngu-890343.ldo) ([Lao Động](https://laodong.vn))
-- [VRB được Moody’s đánh giá có triển vọng ổn định](https://cafebiz.vn/vrb-duoc-moodys-danh-gia-co-trien-vong-on-dinh-20210318120353693.chn) ([CafeBiz](https://cafebiz.vn))
-- [OKXE quyết tâm đem lại sự an toàn trong kỷ nguyên “kinh doanh trực tuyến”](https://cafebiz.vn/okxe-quyet-tam-dem-lai-su-an-toan-trong-ky-nguyen-kinh-doanh-truc-tuyen-20210318100347435.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
