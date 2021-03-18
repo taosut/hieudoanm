@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is mist.
-- Temperature is 24°C.
-- Feels Like 26.35°C.
-- Air Visual is 118.
+- Temperature is 25°C.
+- Feels Like 27.29°C.
+- Air Visual is 99.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Sử dụng 28 công ty 'ma' để mua bán 50.000 hóa đơn GTGT](https://cafebiz.vn/su-dung-28-cong-ty-ma-de-mua-ban-50000-hoa-don-gtgt-20210318110339574.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mục tiêu xuất khẩu gỗ và lâm sản Việt Nam đạt 14 tỉ USD trong năm 2021](https://cafebiz.vn/muc-tieu-xuat-khau-go-va-lam-san-viet-nam-dat-14-ti-usd-trong-nam-2021-2021031720235492.chn) ([CafeBiz](https://cafebiz.vn))
-- [Kia lần đầu bán vượt Toyota tại Việt Nam dù Vios, Camry và Innova thi nhau 'gánh' doanh số](https://cafebiz.vn/kia-lan-dau-ban-vuot-toyota-tai-viet-nam-du-vios-camry-va-innova-thi-nhau-ganh-doanh-so-20210318085132969.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bất động sản Xanh – Lựa chọn tất yếu của thời đại](https://cafebiz.vn/bat-dong-san-xanh-lua-chon-tat-yeu-cua-thoi-dai-20210317163804633.chn) ([CafeBiz](https://cafebiz.vn))
-- [10 trường hợp thu hồi đất nhưng không bồi thường tài sản](https://laodong.vn/bat-dong-san/10-truong-hop-thu-hoi-dat-nhung-khong-boi-thuong-tai-san-889465.ldo) ([Lao Động](https://laodong.vn))
-- [Những dự án độc đáo, đáp ứng nhu cầu thật của khách hàng](https://laodong.vn/bat-dong-san/nhung-du-an-doc-dao-dap-ung-nhu-cau-that-cua-khach-hang-890277.ldo) ([Lao Động](https://laodong.vn))
-- [Chính quyền Tổng thống Joe Biden bị 18 tiểu bang Mỹ khởi kiện](https://laodong.vn/the-gioi/chinh-quyen-tong-thong-joe-biden-bi-18-tieu-bang-my-khoi-kien-890266.ldo) ([Lao Động](https://laodong.vn))
-- [D-Aqua: Tuyệt phẩm căn hộ view sông tiện nghi tại trung tâm Sài Gòn](https://laodong.vn/bat-dong-san/d-aqua-tuyet-pham-can-ho-view-song-tien-nghi-tai-trung-tam-sai-gon-890261.ldo) ([Lao Động](https://laodong.vn))
-- [Quảng Nam: Xe tải đang lưu thông trên quốc lộ 1A bất ngờ bốc cháy dữ dội](https://laodong.vn/xa-hoi/quang-nam-xe-tai-dang-luu-thong-tren-quoc-lo-1a-bat-ngo-boc-chay-du-doi-890318.ldo) ([Lao Động](https://laodong.vn))
-- [Đội phản ứng nhanh Đà Nẵng tạm giữ 2 loa mở nhạc ồn ào sau 22h](https://tuoitre.vn/doi-phan-ung-nhanh-da-nang-tam-giu-2-loa-mo-nhac-on-ao-sau-22h-20210318101729597.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tay trắng bỏ phố về nhà lập nghiệp, "gái quê" thành lập công ty riêng, doanh thu 5,1 tỷ đồng/năm](https://cafebiz.vn/tay-trang-bo-pho-ve-nha-lap-nghiep-gai-que-thanh-lap-cong-ty-rieng-doanh-thu-51-ty-dong-nam-2021031811310527.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bà Rịa-Vũng Tàu triển khai tiêm vaccine COVID-19](https://laodong.vn/xa-hoi/ba-ria-vung-tau-trien-khai-tiem-vaccine-covid-19-890336.ldo) ([Lao Động](https://laodong.vn))
+- [GS Phan Thanh Sơn Nam sai sót khi nghiên cứu: Đại học Bách Khoa nói gì?](https://laodong.vn/giao-duc/gs-phan-thanh-son-nam-sai-sot-khi-nghien-cuu-dai-hoc-bach-khoa-noi-gi-890283.ldo) ([Lao Động](https://laodong.vn))
+- ["Gương mặt vàng" của làng phim phía Bắc: Hôn nhân viên mãn, cuộc sống giàu sang, mê chơi golf và được các nhãn từ ô tô tới bất động sản "tin dùng"](https://cafebiz.vn/guong-mat-vang-cua-lang-phim-phia-bac-hon-nhan-vien-man-cuoc-song-giau-sang-me-choi-golf-va-duoc-cac-nhan-tu-o-to-toi-bat-dong-san-tin-dung-20210318113026312.chn) ([CafeBiz](https://cafebiz.vn))
+- [Triều Tiên nêu điều kiện để nhận liên lạc từ Mỹ](https://laodong.vn/the-gioi/trieu-tien-neu-dieu-kien-de-nhan-lien-lac-tu-my-890264.ldo) ([Lao Động](https://laodong.vn))
+- [Đất Đông Anh tăng giá chóng mặt với quy hoạch phân khu đô thị sông Hồng](https://cafebiz.vn/dat-dong-anh-tang-gia-chong-mat-voi-quy-hoach-phan-khu-do-thi-song-hong-2021031811261558.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bếp Cụ Nho làm chuỗi xe đẩy bán xôi vỉa hè tại Sài Gòn: Chi phí nhượng quyền 18 triệu đồng, đã có 39 điểm bán, là đối tác với Viejet Air, FPT...](https://cafebiz.vn/bep-cu-nho-lam-chuoi-xe-day-ban-xoi-via-he-tai-sai-gon-chi-phi-nhuong-quyen-18-trieu-dong-da-co-39-diem-ban-la-doi-tac-voi-viejet-air-fpt-20210318104935138.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xe đầu kéo tông liên hoàn, 5 ô tô hư hỏng](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/xe-dau-keo-tong-lien-hoan-5-o-to-hu-hong-720532.html) ([VietNamNet](https://vietnamnet.vn))
+- [‘Giáo sư’ Wenger muốn World Cup và EURO tổ chức 2 năm một lần](https://laodong.vn/bong-da-quoc-te/giao-su-wenger-muon-world-cup-va-euro-to-chuc-2-nam-mot-lan-890309.ldo) ([Lao Động](https://laodong.vn))
+- [Hơn 2700 tân binh Hải Dương nhập ngũ](https://vnexpress.net/hon-2700-tan-binh-hai-duong-nhap-ngu-4250167.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
