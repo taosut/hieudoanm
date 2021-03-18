@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 25°C.
-- Feels Like 26.93°C.
-- Air Visual is 125.
+- Temperature is 26°C.
+- Feels Like 27.38°C.
+- Air Visual is 126.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bản thân cha mẹ không có thói quen tốt, con rất khó nên người:](https://cafebiz.vn/ban-than-cha-me-khong-co-thoi-quen-tot-con-rat-kho-nen-nguoi-20210318123727608.chn) ([CafeBiz](https://cafebiz.vn))
+- [Không mua nhà, cặp vợ chồng kỹ sư công nghệ thông tin trở nên giàu có với khối tài sản 23 tỷ đồng, nghỉ hưu sớm khi chỉ mới 30 tuổi](https://cafebiz.vn/khong-mua-nha-cap-vo-chong-ky-su-cong-nghe-thong-tin-tro-nen-giau-co-voi-khoi-tai-san-23-ty-dong-nghi-huu-som-khi-chi-moi-30-tuoi-20210318135434301.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vụ đế chế 7 tỷ USD sụp đổ trong vài ngày: Gia đình nhà sáng lập kịp bán 200 triệu USD cổ phần trước khi công ty 'ngã gục'](https://cafebiz.vn/vu-de-che-7-ty-usd-sup-do-trong-vai-ngay-gia-dinh-nha-sang-lap-kip-ban-200-trieu-usd-co-phan-truoc-khi-cong-ty-nga-guc-20210318134045626.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thiếu niên 17 tuổi phải cắt cụt tay do tự chế pháo](https://laodong.vn/suc-khoe/thieu-nien-17-tuoi-phai-cat-cut-tay-do-tu-che-phao-890391.ldo) ([Lao Động](https://laodong.vn))
+- [Bí kíp đạt 8 điểm môn Lịch sử thi vào lớp 10](https://laodong.vn/video/bi-kip-dat-8-diem-mon-lich-su-thi-vao-lop-10-890187.ldo) ([Lao Động](https://laodong.vn))
+- [FLC muốn đầu tư 7 dự án tại Thái Nguyên, tổng diện tích hơn 3.000ha](https://cafebiz.vn/flc-muon-dau-tu-7-du-an-tai-thai-nguyen-tong-dien-tich-hon-3000ha-20210318134034253.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giờ cây cổ thụ cũng... đi lạc, và sau vợ thì là tại chị vợ tôi](https://laodong.vn/su-kien-binh-luan/gio-cay-co-thu-cung-di-lac-va-sau-vo-thi-la-tai-chi-vo-toi-890340.ldo) ([Lao Động](https://laodong.vn))
+- [Bản thân cha mẹ không có thói quen tốt, con rất khó nên người](https://cafebiz.vn/ban-than-cha-me-khong-co-thoi-quen-tot-con-rat-kho-nen-nguoi-20210318123727608.chn) ([CafeBiz](https://cafebiz.vn))
 - [&quot;Sai sót về tư tưởng, các trọng tài sẽ tự loại mình khỏi hàng ngũ&quot;](https://laodong.vn/bong-da/sai-sot-ve-tu-tuong-cac-trong-tai-se-tu-loai-minh-khoi-hang-ngu-890343.ldo) ([Lao Động](https://laodong.vn))
 - [VRB được Moody’s đánh giá có triển vọng ổn định](https://cafebiz.vn/vrb-duoc-moodys-danh-gia-co-trien-vong-on-dinh-20210318120353693.chn) ([CafeBiz](https://cafebiz.vn))
 - [OKXE quyết tâm đem lại sự an toàn trong kỷ nguyên “kinh doanh trực tuyến”](https://cafebiz.vn/okxe-quyet-tam-dem-lai-su-an-toan-trong-ky-nguyen-kinh-doanh-truc-tuyen-20210318100347435.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sân khấu Lệ Ngọc và điểm sáng của sân khấu kịch Việt Nam](https://laodong.vn/van-hoa-giai-tri/san-khau-le-ngoc-va-diem-sang-cua-san-khau-kich-viet-nam-890179.ldo) ([Lao Động](https://laodong.vn))
-- [Chi đoàn mạnh ở vùng khó khăn](https://laodong.vn/cong-doan/chi-doan-manh-o-vung-kho-khan-890380.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Phòng quy định quản lý tạm trú lao động tại các khu công nghiệp](https://laodong.vn/cong-doan/hai-phong-quy-dinh-quan-ly-tam-tru-lao-dong-tai-cac-khu-cong-nghiep-890366.ldo) ([Lao Động](https://laodong.vn))
-- [Bắc Giang đính chính tin tiêm vắc xin COVID-19 giá 240.000 đồng/2 liều](https://tuoitre.vn/bac-giang-dinh-chinh-tin-tiem-vac-xin-covid-19-gia-240-000-dong-2-lieu-20210318123457221.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Các cánh giảm cân đơn giản bằng gừng](https://laodong.vn/dinh-duong-am-thuc/cac-canh-giam-can-don-gian-bang-gung-890381.ldo) ([Lao Động](https://laodong.vn))
-- [Trung Quốc tăng cường kiểm soát tài nguyên quan trọng toàn cầu](https://laodong.vn/the-gioi/trung-quoc-tang-cuong-kiem-soat-tai-nguyen-quan-trong-toan-cau-890347.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
