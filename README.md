@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 25°C.
-- Feels Like 27.29°C.
-- Air Visual is 99.
+- Feels Like 27.65°C.
+- Air Visual is 104.
 
 **WEATHER**
 
@@ -55,7 +55,7 @@
 - [![Gọi Rồng Online](https://img.shields.io/static/v1?label=G%E1%BB%8Di%20R%E1%BB%93ng%20Online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G%E1%BB%8Di%20R%E1%BB%93ng%20Online)
 - [![Justice League](https://img.shields.io/static/v1?label=Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justice%20League)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
-- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
+- [![Manchester City](https://img.shields.io/static/v1?label=Manchester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Manchester%20City)
 - [![Minari](https://img.shields.io/static/v1?label=Minari&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minari)
 - [![NASA](https://img.shields.io/static/v1?label=NASA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NASA)
 - [![NSND Lan Hương](https://img.shields.io/static/v1?label=NSND%20Lan%20H%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Lan%20H%C6%B0%C6%A1ng)
@@ -63,11 +63,11 @@
 - [![Phạm Nhật Vượng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
-- [![Sevilla](https://img.shields.io/static/v1?label=Sevilla&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sevilla)
 - [![Torino](https://img.shields.io/static/v1?label=Torino&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Torino)
 - [![Trấn Thành](https://img.shields.io/static/v1?label=Tr%E1%BA%A5n%20Th%C3%A0nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A5n%20Th%C3%A0nh)
 - [![VTV3 trực tiếp](https://img.shields.io/static/v1?label=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp)
 - [![iPhone 13](https://img.shields.io/static/v1?label=iPhone%2013&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iPhone%2013)
+- [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Chợ tự phát &quot;nhếch nhác&quot; bắc qua sông Tô Lịch, ngang nhiên phớt lờ biển cấm](https://laodong.vn/photo/cho-tu-phat-nhech-nhac-bac-qua-song-to-lich-ngang-nhien-phot-lo-bien-cam-890316.ldo) ([Lao Động](https://laodong.vn))
+- ['Số lượng sân bay ở Việt Nam sẽ được nghiên cứu kỹ lưỡng'](https://vnexpress.net/so-luong-san-bay-o-viet-nam-se-duoc-nghien-cuu-ky-luong-4249929.html) ([VNExpress](https://vnexpress.net))
+- [Ông Nguyễn Thiện Nhân được giới thiệu ứng cử đại biểu Quốc hội](https://vnexpress.net/ong-nguyen-thien-nhan-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-4250321.html) ([VNExpress](https://vnexpress.net))
+- [Điện Biên khởi tiêm vaccine COVID-19 đầu tiên cho 80 người](https://laodong.vn/video/dien-bien-khoi-tiem-vaccine-covid-19-dau-tien-cho-80-nguoi-890288.ldo) ([Lao Động](https://laodong.vn))
+- [Chuột chết trong chai nước và bài học xử lý khủng hoảng nhớ đời của Pepsi: Thắng kiện ngoạn mục nhưng bị khách hàng quay lưng vì ‘viên đạn bạc’](https://cafebiz.vn/chuot-chet-trong-chai-nuoc-va-bai-hoc-xu-ly-khung-hoang-nho-doi-cua-pepsi-thang-kien-ngoan-muc-nhung-bi-khach-hang-quay-lung-vi-vien-dan-bac-20210318113951489.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phạt 'kịch khung' công ty hoạt động 'chui', công nhân 'tháo chạy' khi thấy kiểm tra phòng dịch](https://tuoitre.vn/phat-kich-khung-cong-ty-hoat-dong-chui-cong-nhan-thao-chay-khi-thay-kiem-tra-phong-dich-20210318110804654.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [4 bài học quý giá mà người lớn nên học từ trẻ nhỏ](https://laodong.vn/chuyen-nha-minh/4-bai-hoc-quy-gia-ma-nguoi-lon-nen-hoc-tu-tre-nho-890013.ldo) ([Lao Động](https://laodong.vn))
+- [Vụ để mất 457 ha rừng: Xác định khối lượng gỗ, trữ lượng lâm sản thiệt hại](https://laodong.vn/xa-hoi/vu-de-mat-457-ha-rung-xac-dinh-khoi-luong-go-tru-luong-lam-san-thiet-hai-890330.ldo) ([Lao Động](https://laodong.vn))
 - [Tay trắng bỏ phố về nhà lập nghiệp, "gái quê" thành lập công ty riêng, doanh thu 5,1 tỷ đồng/năm](https://cafebiz.vn/tay-trang-bo-pho-ve-nha-lap-nghiep-gai-que-thanh-lap-cong-ty-rieng-doanh-thu-51-ty-dong-nam-2021031811310527.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bà Rịa-Vũng Tàu triển khai tiêm vaccine COVID-19](https://laodong.vn/xa-hoi/ba-ria-vung-tau-trien-khai-tiem-vaccine-covid-19-890336.ldo) ([Lao Động](https://laodong.vn))
-- [GS Phan Thanh Sơn Nam sai sót khi nghiên cứu: Đại học Bách Khoa nói gì?](https://laodong.vn/giao-duc/gs-phan-thanh-son-nam-sai-sot-khi-nghien-cuu-dai-hoc-bach-khoa-noi-gi-890283.ldo) ([Lao Động](https://laodong.vn))
-- ["Gương mặt vàng" của làng phim phía Bắc: Hôn nhân viên mãn, cuộc sống giàu sang, mê chơi golf và được các nhãn từ ô tô tới bất động sản "tin dùng"](https://cafebiz.vn/guong-mat-vang-cua-lang-phim-phia-bac-hon-nhan-vien-man-cuoc-song-giau-sang-me-choi-golf-va-duoc-cac-nhan-tu-o-to-toi-bat-dong-san-tin-dung-20210318113026312.chn) ([CafeBiz](https://cafebiz.vn))
-- [Triều Tiên nêu điều kiện để nhận liên lạc từ Mỹ](https://laodong.vn/the-gioi/trieu-tien-neu-dieu-kien-de-nhan-lien-lac-tu-my-890264.ldo) ([Lao Động](https://laodong.vn))
-- [Đất Đông Anh tăng giá chóng mặt với quy hoạch phân khu đô thị sông Hồng](https://cafebiz.vn/dat-dong-anh-tang-gia-chong-mat-voi-quy-hoach-phan-khu-do-thi-song-hong-2021031811261558.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bếp Cụ Nho làm chuỗi xe đẩy bán xôi vỉa hè tại Sài Gòn: Chi phí nhượng quyền 18 triệu đồng, đã có 39 điểm bán, là đối tác với Viejet Air, FPT...](https://cafebiz.vn/bep-cu-nho-lam-chuoi-xe-day-ban-xoi-via-he-tai-sai-gon-chi-phi-nhuong-quyen-18-trieu-dong-da-co-39-diem-ban-la-doi-tac-voi-viejet-air-fpt-20210318104935138.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xe đầu kéo tông liên hoàn, 5 ô tô hư hỏng](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/xe-dau-keo-tong-lien-hoan-5-o-to-hu-hong-720532.html) ([VietNamNet](https://vietnamnet.vn))
-- [‘Giáo sư’ Wenger muốn World Cup và EURO tổ chức 2 năm một lần](https://laodong.vn/bong-da-quoc-te/giao-su-wenger-muon-world-cup-va-euro-to-chuc-2-nam-mot-lan-890309.ldo) ([Lao Động](https://laodong.vn))
-- [Hơn 2700 tân binh Hải Dương nhập ngũ](https://vnexpress.net/hon-2700-tan-binh-hai-duong-nhap-ngu-4250167.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
@@ -120,8 +120,8 @@
 05. [ROSÉ - GONE (Lyrics)](https://www.youtube.com/watch?v=9iBxbf2fjgw) - [Vibe Music](https://www.youtube.com/channel/UChO8h2G8UjOVc081rgYU8XQ)
 06. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
 07. [Billie Eilish - everything i wanted (Live From The 63rd GRAMMYs®/2021)](https://www.youtube.com/watch?v=aVAKT9UxJMI) - [BillieEilishVEVO](https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg)
-08. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
-09. [SUPER JUNIOR 슈퍼주니어 'House Party' MV](https://www.youtube.com/watch?v=BtJMOVKjhUo) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
+08. [SUPER JUNIOR 슈퍼주니어 'House Party' MV](https://www.youtube.com/watch?v=BtJMOVKjhUo) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
+09. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
 10. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
