@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 28.46°C.
-- Air Visual is 91.
+- Temperature is 25°C.
+- Feels Like 26.21°C.
+- Air Visual is 114.
 
 **WEATHER**
 
@@ -75,16 +75,7 @@
 
 **NEWS**
 
-- [Vé máy bay dịp nghỉ lễ 30/4 tăng nhiệt](https://cafebiz.vn/ve-may-bay-dip-nghi-le-30-4-tang-nhiet-20210318171150323.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tiết kiệm hơn 6.300 tỉ nhờ cắt giảm, đơn giản hóa thủ tục hành chính](https://laodong.vn/thoi-su/tiet-kiem-hon-6300-ti-nho-cat-giam-don-gian-hoa-thu-tuc-hanh-chinh-890532.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Xe lưu động đầu tiên phục vụ việc cấp CCCD gắn chip](https://laodong.vn/photo/tphcm-xe-luu-dong-dau-tien-phuc-vu-viec-cap-cccd-gan-chip-890476.ldo) ([Lao Động](https://laodong.vn))
-- [Làm thế nào để sử dụng Mobile Money?](https://laodong.vn/kinh-te/lam-the-nao-de-su-dung-mobile-money-890545.ldo) ([Lao Động](https://laodong.vn))
-- [Thi đấu chói sáng, Lingard &quot;sáng cửa&quot; trở lại tuyển Anh](https://laodong.vn/bong-da-quoc-te/thi-dau-choi-sang-lingard-sang-cua-tro-lai-tuyen-anh-890528.ldo) ([Lao Động](https://laodong.vn))
-- [Công an TP.HCM triển khai 2 xe lưu động làm căn cước công dân](https://tuoitre.vn/cong-an-tp-hcm-trien-khai-2-xe-luu-dong-lam-can-cuoc-cong-dan-20210318180931772.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Triển khai điều lệ Công đoàn, điểm mới của Luật Công chức, Viên chức](https://laodong.vn/cong-doan/trien-khai-dieu-le-cong-doan-diem-moi-cua-luat-cong-chuc-vien-chuc-890517.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội nhất trí danh sách sơ bộ 188 ứng viên đại biểu HĐND thành phố](https://tuoitre.vn/ha-noi-nhat-tri-danh-sach-so-bo-188-ung-vien-dai-bieu-hdnd-thanh-pho-2021031817584677.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nghiên cứu cơ sở khoa học quy hoạch mạng lưới cơ sở giáo dục đại học](https://laodong.vn/giao-duc/nghien-cuu-co-so-khoa-hoc-quy-hoach-mang-luoi-co-so-giao-duc-dai-hoc-890558.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương: Bị lừa bay mất 120 triệu vì click vào link &quot;Zalopay&quot; giả](https://laodong.vn/phap-luat/hai-duong-bi-lua-bay-mat-120-trieu-vi-click-vao-link-zalopay-gia-889848.ldo) ([Lao Động](https://laodong.vn))
+
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +87,7 @@
 
 **VIETCETERA**
 
+- [Tóm Lại Là: Tưởng là dùng dịch vụ stream nhưng hoá ra truyền hình cáp?](https://vietcetera.com/vn/tom-lai-la-su-chuyen-minh-cua-cac-dich-vu-streaming-tu-disney-toi-netflix)
 - [4 Cách để bảo vệ chất xám của mình trên nền tảng internet](https://vietcetera.com/vn/4-cach-de-bao-ve-chat-xam-cua-minh-tren-nen-tang-internet)
 - ["Sài Gòn - Đà Lạt là thấy không bền rồi, huống gì Mỹ - Việt Nam!"](https://vietcetera.com/vn/sai-gon-da-lat-la-thay-khong-ben-roi-huong-gi-my-viet-nam)
 - [Tóm Lại Là: Hộ chiếu vaccine COVID-19 bắt đầu thời kỳ bình thường mới?](https://vietcetera.com/vn/tom-lai-la-ho-chieu-vaccine-covid-thong-le-cua-thoi-binh-thuong-moi)
@@ -105,7 +97,6 @@
 - [Mua hàng sale có đồng nghĩa với tiết kiệm?](https://vietcetera.com/vn/mua-hang-sale-co-dong-nghia-voi-tiet-kiem)
 - [Tóm Lại Là: Người đồng tính thì không được "ban phước"?](https://vietcetera.com/vn/tom-lai-la-nguoi-dong-tinh-thi-khong-duoc-ban-phuoc)
 - ["Điều ngu ngốc nhất, nhân danh tình yêu, mà bạn từng làm là gì?"](https://vietcetera.com/vn/sau-7-nam-yeu-nhau-minh-nhan-ra-moi-quan-he-cua-tui-minh-hoi-lech-lac)
-- [Mua hàng hiệu cũ là một kiểu thông minh mới](https://vietcetera.com/vn/mua-hang-hieu-cu-la-mot-kieu-thong-minh-moi)
 
 [Read More](https://vietcetera.com/)
 
