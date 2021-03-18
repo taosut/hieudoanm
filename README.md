@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 25°C.
-- Feels Like 27.65°C.
-- Air Visual is 104.
+- Feels Like 27.29°C.
+- Air Visual is 125.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [“Chi phí dưới gầm bàn” vẫn tồn tại, có nhiều biến tướng](https://laodong.vn/kinh-te/chi-phi-duoi-gam-ban-van-ton-tai-co-nhieu-bien-tuong-890153.ldo) ([Lao Động](https://laodong.vn))
+- [Bản tin 1 phút 18.3: Xác định nghi phạm vụ nổ tiệm vàng Hải Phòng](https://laodong.vn/video-thoi-su/ban-tin-1-phut-183-xac-dinh-nghi-pham-vu-no-tiem-vang-hai-phong-890315.ldo) ([Lao Động](https://laodong.vn))
+- [“Độc cô cầu bại” Nguyễn Văn Hùng lại mở đường với MMA](https://laodong.vn/the-thao/doc-co-cau-bai-nguyen-van-hung-lai-mo-duong-voi-mma-890181.ldo) ([Lao Động](https://laodong.vn))
+- [Miễn phí học nghề 100% cho người lao động bị mất việc vì dịch COVID-19](https://laodong.vn/ldld-tphcm/mien-phi-hoc-nghe-100-cho-nguoi-lao-dong-bi-mat-viec-vi-dich-covid-19-890363.ldo) ([Lao Động](https://laodong.vn))
+- [TPHCM: Ông Nguyễn Thiện Nhân được giới thiệu ứng cử đại biểu Quốc hội](https://laodong.vn/thoi-su/tphcm-ong-nguyen-thien-nhan-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-890360.ldo) ([Lao Động](https://laodong.vn))
+- [Tạm giữ hai người Trung Quốc trốn khỏi khu cách ly](https://vnexpress.net/tam-giu-hai-nguoi-trung-quoc-tron-khoi-khu-cach-ly-4250305.html) ([VNExpress](https://vnexpress.net))
 - [Chợ tự phát &quot;nhếch nhác&quot; bắc qua sông Tô Lịch, ngang nhiên phớt lờ biển cấm](https://laodong.vn/photo/cho-tu-phat-nhech-nhac-bac-qua-song-to-lich-ngang-nhien-phot-lo-bien-cam-890316.ldo) ([Lao Động](https://laodong.vn))
 - ['Số lượng sân bay ở Việt Nam sẽ được nghiên cứu kỹ lưỡng'](https://vnexpress.net/so-luong-san-bay-o-viet-nam-se-duoc-nghien-cuu-ky-luong-4249929.html) ([VNExpress](https://vnexpress.net))
-- [Ông Nguyễn Thiện Nhân được giới thiệu ứng cử đại biểu Quốc hội](https://vnexpress.net/ong-nguyen-thien-nhan-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-4250321.html) ([VNExpress](https://vnexpress.net))
+- [Ông Nguyễn Thiện Nhân ứng cử đại biểu Quốc hội ở lĩnh vực khoa học](https://vnexpress.net/ong-nguyen-thien-nhan-ung-cu-dai-bieu-quoc-hoi-o-linh-vuc-khoa-hoc-4250321.html) ([VNExpress](https://vnexpress.net))
 - [Điện Biên khởi tiêm vaccine COVID-19 đầu tiên cho 80 người](https://laodong.vn/video/dien-bien-khoi-tiem-vaccine-covid-19-dau-tien-cho-80-nguoi-890288.ldo) ([Lao Động](https://laodong.vn))
-- [Chuột chết trong chai nước và bài học xử lý khủng hoảng nhớ đời của Pepsi: Thắng kiện ngoạn mục nhưng bị khách hàng quay lưng vì ‘viên đạn bạc’](https://cafebiz.vn/chuot-chet-trong-chai-nuoc-va-bai-hoc-xu-ly-khung-hoang-nho-doi-cua-pepsi-thang-kien-ngoan-muc-nhung-bi-khach-hang-quay-lung-vi-vien-dan-bac-20210318113951489.chn) ([CafeBiz](https://cafebiz.vn))
-- [Phạt 'kịch khung' công ty hoạt động 'chui', công nhân 'tháo chạy' khi thấy kiểm tra phòng dịch](https://tuoitre.vn/phat-kich-khung-cong-ty-hoat-dong-chui-cong-nhan-thao-chay-khi-thay-kiem-tra-phong-dich-20210318110804654.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [4 bài học quý giá mà người lớn nên học từ trẻ nhỏ](https://laodong.vn/chuyen-nha-minh/4-bai-hoc-quy-gia-ma-nguoi-lon-nen-hoc-tu-tre-nho-890013.ldo) ([Lao Động](https://laodong.vn))
-- [Vụ để mất 457 ha rừng: Xác định khối lượng gỗ, trữ lượng lâm sản thiệt hại](https://laodong.vn/xa-hoi/vu-de-mat-457-ha-rung-xac-dinh-khoi-luong-go-tru-luong-lam-san-thiet-hai-890330.ldo) ([Lao Động](https://laodong.vn))
-- [Tay trắng bỏ phố về nhà lập nghiệp, "gái quê" thành lập công ty riêng, doanh thu 5,1 tỷ đồng/năm](https://cafebiz.vn/tay-trang-bo-pho-ve-nha-lap-nghiep-gai-que-thanh-lap-cong-ty-rieng-doanh-thu-51-ty-dong-nam-2021031811310527.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bà Rịa-Vũng Tàu triển khai tiêm vaccine COVID-19](https://laodong.vn/xa-hoi/ba-ria-vung-tau-trien-khai-tiem-vaccine-covid-19-890336.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
