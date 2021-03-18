@@ -1,9 +1,15 @@
 import fetch from 'node-fetch';
 
 export default class API {
-  private async fetch(endpoint: string): Promise<any> {
+  private async fetch(
+    endpoint: string,
+    method: string = 'GET',
+    body: Record<string, any> = {},
+  ): Promise<any> {
     const url: string = `https://vietnamdb.herokuapp.com/api/${endpoint}`;
-    const data: any = await fetch(url).then((res: any) => res.json());
+    const bodyData: string = JSON.stringify(body);
+    const options = method.toUpperCase() === 'GET' ? { method } : { method, body: bodyData };
+    const data: any = await fetch(url, options).then((res: any) => res.json());
     return data;
   }
 
@@ -25,5 +31,15 @@ export default class API {
   public async getWeather(city: string): Promise<Record<string, any>> {
     const weather = await this.fetch(`weather?city=${city}`);
     return weather;
+  }
+
+  public async convertSolarToLunar(
+    date: number,
+    month: number,
+    year: number,
+  ): Promise<Record<string, any>> {
+    const res = await this.fetch('culture/calendar/solar2lunar', 'POST', { date, month, year });
+    console.log('res', res);
+    return res;
   }
 }
