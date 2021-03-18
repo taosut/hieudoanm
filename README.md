@@ -49,24 +49,24 @@
 **GOOGLE TRENDS**
 
 - [![Bayern Munich](https://img.shields.io/static/v1?label=Bayern%20Munich&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern%20Munich)
+- [![Bảng xếp hạng V-League 2021](https://img.shields.io/static/v1?label=B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng%20V-League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=B%E1%BA%A3ng%20x%E1%BA%BFp%20h%E1%BA%A1ng%20V-League%202021)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
 - [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
 - [![Gọi Rồng Online](https://img.shields.io/static/v1?label=G%E1%BB%8Di%20R%E1%BB%93ng%20Online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G%E1%BB%8Di%20R%E1%BB%93ng%20Online)
 - [![Hướng dương ngược nắng tập 42](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2042&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2042)
 - [![Justice League](https://img.shields.io/static/v1?label=Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justice%20League)
-- [![Liên Quân Mobile](https://img.shields.io/static/v1?label=Li%C3%AAn%20Qu%C3%A2n%20Mobile&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Li%C3%AAn%20Qu%C3%A2n%20Mobile)
+- [![Liên Quân](https://img.shields.io/static/v1?label=Li%C3%AAn%20Qu%C3%A2n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Li%C3%AAn%20Qu%C3%A2n)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
-- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Nguyễn Đức Chung](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung)
+- [![Noo Phước Thịnh](https://img.shields.io/static/v1?label=Noo%20Ph%C6%B0%E1%BB%9Bc%20Th%E1%BB%8Bnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Noo%20Ph%C6%B0%E1%BB%9Bc%20Th%E1%BB%8Bnh)
 - [![Phạm Minh Chính](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh)
 - [![Phạm Nhật Vượng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
+- [![Sevilla](https://img.shields.io/static/v1?label=Sevilla&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sevilla)
 - [![Torino](https://img.shields.io/static/v1?label=Torino&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Torino)
-- [![V-League 2021](https://img.shields.io/static/v1?label=V-League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V-League%202021)
-- [![VTV3 Trực tiếp](https://img.shields.io/static/v1?label=VTV3%20Tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20Tr%E1%BB%B1c%20ti%E1%BA%BFp)
+- [![V-League](https://img.shields.io/static/v1?label=V-League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V-League)
 - [![Vương Đình Huệ](https://img.shields.io/static/v1?label=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87)
-- [![iPhone 13](https://img.shields.io/static/v1?label=iPhone%2013&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iPhone%2013)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Nhân sự khối cơ quan Trung ương ứng cử Quốc hội](https://vnexpress.net/nhan-su-khoi-co-quan-trung-uong-ung-cu-quoc-hoi-4250403.html) ([VNExpress](https://vnexpress.net))
+- [Sủng ái nhầm 1 người, tin nhầm 1 người, chọn sai 1 người, Càn Long khiến Thanh triều về sau lao đao, không thể ngóc đầu](https://cafebiz.vn/sung-ai-nham-1-nguoi-tin-nham-1-nguoi-chon-sai-1-nguoi-can-long-khien-thanh-trieu-ve-sau-lao-dao-khong-the-ngoc-dau-20210318170238624.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nóng nhất hôm nay: Lý do 18 tiểu bang Mỹ khởi kiện Chính quyền ông Biden](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-ly-do-18-tieu-bang-my-khoi-kien-chinh-quyen-ong-biden-890551.ldo) ([Lao Động](https://laodong.vn))
+- [Ca COVID-19 Hải Dương mới xuất viện bị phạt vì ra ngoài khi đang cách ly](https://laodong.vn/y-te/ca-covid-19-hai-duong-moi-xuat-vien-bi-phat-vi-ra-ngoai-khi-dang-cach-ly-890611.ldo) ([Lao Động](https://laodong.vn))
+- [Chỉ số phát tài của 12 con giáp năm 2021: Người đã giàu lại càng giàu nhờ thần tài phù trợ, người khó khăn vào đầu năm nhưng cuối năm cải thiện](https://cafebiz.vn/chi-so-phat-tai-cua-12-con-giap-nam-2021-nguoi-da-giau-lai-cang-giau-nho-than-tai-phu-tro-nguoi-kho-khan-vao-dau-nam-nhung-cuoi-nam-cai-thien-20210318171041958.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hàng tiết luộc "không mùa" đắt khách quanh năm đông cũng như hè, bí quyết là đôi tay kiên trì đun 2 lửa khiến miếng tiết mềm như nhung tan ngay trong miệng](https://cafebiz.vn/hang-tiet-luoc-khong-mua-dat-khach-quanh-nam-dong-cung-nhu-he-bi-quyet-la-doi-tay-kien-tri-dun-2-lua-khien-mieng-tiet-mem-nhu-nhung-tan-ngay-trong-mieng-20210318204656535.chn) ([CafeBiz](https://cafebiz.vn))
 - [Quốc y Đại sư 84 tuổi có khí lực khỏe hơn người trẻ: Tôi đã kiên trì làm việc này trong nhiều thập kỷ](https://cafebiz.vn/quoc-y-dai-su-84-tuoi-co-khi-luc-khoe-hon-nguoi-tre-toi-da-kien-tri-lam-viec-nay-trong-nhieu-thap-ky-20210318170554268.chn) ([CafeBiz](https://cafebiz.vn))
 - [Xem Ốc Thanh Vân nuôi dạy con mà phát ham: Con gái làm điều chỉ 1% thế giới làm được, có ước mơ siêu lạ, con trai tốt nghiệp mầm non sớm trước tuổi](https://cafebiz.vn/xem-oc-thanh-van-nuoi-day-con-ma-phat-ham-con-gai-lam-dieu-chi-1-the-gioi-lam-duoc-co-uoc-mo-sieu-la-con-trai-tot-nghiep-mam-non-som-truoc-tuoi-20210318204447306.chn) ([CafeBiz](https://cafebiz.vn))
 - [Trục vớt tàu chở 1.500 tấn bụi than chìm ở biển Mũi Né trong vòng 20 ngày](https://tuoitre.vn/truc-vot-tau-cho-1500-tan-bui-than-chim-o-bien-mui-ne-trong-vong-20-ngay-20210318202452676.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [3 học sinh nhập viện cấp cứu sau khi thổi bong bóng trước cổng trường](https://laodong.vn/xa-hoi/3-hoc-sinh-nhap-vien-cap-cuu-sau-khi-thoi-bong-bong-truoc-cong-truong-890608.ldo) ([Lao Động](https://laodong.vn))
-- [Từ ngày 1-4: Thu phí đường bộ trạm BOT Xa lộ Hà Nội](https://tuoitre.vn/tu-ngay-1-4-thu-phi-duong-bo-tram-bot-xa-lo-ha-noi-20210318195649723.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Bí thư Khánh Hòa rút ứng cử đại biểu Quốc hội theo diện tỉnh giới thiệu](https://tuoitre.vn/bi-thu-khanh-hoa-rut-ung-cu-dai-bieu-quoc-hoi-theo-dien-tinh-gioi-thieu-2021031820042642.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Aubameyang cần bỏ thói ham vui nếu muốn tồn tại ở Arsenal](https://laodong.vn/bong-da-quoc-te/aubameyang-can-bo-thoi-ham-vui-neu-muon-ton-tai-o-arsenal-890577.ldo) ([Lao Động](https://laodong.vn))
-- [Cải cách hành chính phải làm cho đất nước hùng mạnh](https://laodong.vn/thoi-su/cai-cach-hanh-chinh-phai-lam-cho-dat-nuoc-hung-manh-890600.ldo) ([Lao Động](https://laodong.vn))
-- ["Cô gái vàng" Yoga VN tiết lộ thời điểm "thần thánh" nên tập Yoga, 5 giải pháp để làm mới thân và tâm](https://cafebiz.vn/co-gai-vang-yoga-vn-tiet-lo-thoi-diem-than-thanh-nen-tap-yoga-5-giai-phap-de-lam-moi-than-va-tam-20210318170437401.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
