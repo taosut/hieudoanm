@@ -1,11 +1,11 @@
 "province_id","province","district_id","name","code","type","support_type"
 202,"Hồ Chí Minh",3709,"Thành Phố Thủ Đức","",2,3
 281,,3707,"Test district","",2,2
-246,"Cao Bằng",3703,"Huyện Testing","",3,3
-246,"Cao Bằng",3702,"Huyện Ly Kỳ","",1,3
+246,"Cao Bằng",3703,"Huyện Testing","",3,0
+246,"Cao Bằng",3702,"Huyện Ly Kỳ","",1,0
 275,,3701,"New District","",3,1
-202,"Hồ Chí Minh",3696,"Quận không xác định","",2,1
-246,"Cao Bằng",3695,"Quách Huyện","",3,3
+202,"Hồ Chí Minh",3696,"Quận không xác định","",2,0
+246,"Cao Bằng",3695,"Quách Huyện","",3,0
 246,"Cao Bằng",3694,"Huyện Quảng Hòa","3694",1,3
 201,"Hà Nội",3450,"Quận Vật Tư HN","VT1359",1,3
 202,"Hồ Chí Minh",3449,"Quận Vật Tư HCM","VT1358",1,3
@@ -589,7 +589,7 @@
 204,"Đồng Nai",1704,"Huyện Xuân Lộc","4807",3,3
 201,"Hà Nội",1703,"Huyện Gia Lâm","1A12",3,3
 204,"Đồng Nai",1702,"Huyện Cẩm Mỹ","4811",3,3
-206,"Bà Rịa - Vũng Tàu",1701,"Thị Xã Phú Mỹ","5206",2,3
+206,"Bà Rịa - Vũng Tàu",1701,"Thị Xã Phú Mỹ","5206",2,0
 204,"Đồng Nai",1700,"Huyện Định Quán","4804",3,3
 206,"Bà Rịa - Vũng Tàu",1699,"Huyện Xuyên Mộc","5203",3,3
 223,"Thừa Thiên - Huế",1698,"Thị xã Hương Thủy","3306",2,3
@@ -658,7 +658,7 @@
 243,"Quảng Nam",1631,"Thành phố Tam Kỳ","3401",1,3
 242,"Quảng Ngãi",1630,"Thành phố Quảng Ngãi","3501",1,3
 243,"Quảng Nam",1629,"Quảng Nam","",1,3
-242,"Quảng Ngãi",1628,"Quảng Ngãi","",1,3
+242,"Quảng Ngãi",1628,"Quảng Ngãi","",1,0
 241,"Đắk Nông",1627,"Thị xã Gia Nghĩa","6301",1,3
 240,"Tây Ninh",1626,"Thành phố Tây Ninh","4601",1,3
 239,"Bình Phước",1625,"Thị xã Đồng Xoài","4301",1,3

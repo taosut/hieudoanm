@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 25°C.
-- Feels Like 27.29°C.
-- Air Visual is 113.
+- Feels Like 26.93°C.
+- Air Visual is 125.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cực "mặn": 6 sản phẩm hài hước lấy cảm hứng từ ông Donald Trump, hàng Việt cũng góp mặt](https://cafebiz.vn/cuc-man-6-san-pham-hai-huoc-lay-cam-hung-tu-ong-donald-trump-hang-viet-cung-gop-mat-20210318113323545.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bình Dương bắt đầu tiêm vaccine COVID-19 cho lực lượng tuyến đầu chống dịch](https://laodong.vn/xa-hoi/binh-duong-bat-dau-tiem-vaccine-covid-19-cho-luc-luong-tuyen-dau-chong-dich-890361.ldo) ([Lao Động](https://laodong.vn))
-- [Ông Vương Đình Huệ được giới thiệu ứng cử ĐBQH khoá XV ở khối Quốc hội](https://laodong.vn/thoi-su/ong-vuong-dinh-hue-duoc-gioi-thieu-ung-cu-dbqh-khoa-xv-o-khoi-quoc-hoi-890369.ldo) ([Lao Động](https://laodong.vn))
-- [Phạt tiền nếu quá hạn đăng ký thường trú cho trẻ mới sinh](https://laodong.vn/xa-hoi/phat-tien-neu-qua-han-dang-ky-thuong-tru-cho-tre-moi-sinh-889704.ldo) ([Lao Động](https://laodong.vn))
-- [Hiểu đúng về vaccine COVID-19 AstraZenneca](https://laodong.vn/y-te/hieu-dung-ve-vaccine-covid-19-astrazenneca-890358.ldo) ([Lao Động](https://laodong.vn))
-- [Trung Quốc chuẩn bị xét xử hai người Canada nghi làm gián điệp](https://laodong.vn/the-gioi/trung-quoc-chuan-bi-xet-xu-hai-nguoi-canada-nghi-lam-gian-diep-890332.ldo) ([Lao Động](https://laodong.vn))
-- [“Chi phí dưới gầm bàn” vẫn tồn tại, có nhiều biến tướng](https://laodong.vn/kinh-te/chi-phi-duoi-gam-ban-van-ton-tai-co-nhieu-bien-tuong-890153.ldo) ([Lao Động](https://laodong.vn))
-- [Bản tin 1 phút 18.3: Xác định nghi phạm vụ nổ tiệm vàng Hải Phòng](https://laodong.vn/video-thoi-su/ban-tin-1-phut-183-xac-dinh-nghi-pham-vu-no-tiem-vang-hai-phong-890315.ldo) ([Lao Động](https://laodong.vn))
-- [Tạm giữ hai người Trung Quốc trốn khỏi khu cách ly](https://vnexpress.net/tam-giu-hai-nguoi-trung-quoc-tron-khoi-khu-cach-ly-4250305.html) ([VNExpress](https://vnexpress.net))
-- [Đại tướng Lương Cường: Làm tốt quy hoạch, bồi dưỡng thanh niên quân đội](http://vietnamnet.vn/vn/thoi-su/chinh-tri/dai-tuong-luong-cuong-lam-tot-quy-hoach-boi-duong-thanh-nien-quan-doi-720530.html) ([VietNamNet](https://vietnamnet.vn))
+- [Bản thân cha mẹ không có thói quen tốt, con rất khó nên người:](https://cafebiz.vn/ban-than-cha-me-khong-co-thoi-quen-tot-con-rat-kho-nen-nguoi-20210318123727608.chn) ([CafeBiz](https://cafebiz.vn))
+- [&quot;Sai sót về tư tưởng, các trọng tài sẽ tự loại mình khỏi hàng ngũ&quot;](https://laodong.vn/bong-da/sai-sot-ve-tu-tuong-cac-trong-tai-se-tu-loai-minh-khoi-hang-ngu-890343.ldo) ([Lao Động](https://laodong.vn))
+- [VRB được Moody’s đánh giá có triển vọng ổn định](https://cafebiz.vn/vrb-duoc-moodys-danh-gia-co-trien-vong-on-dinh-20210318120353693.chn) ([CafeBiz](https://cafebiz.vn))
+- [OKXE quyết tâm đem lại sự an toàn trong kỷ nguyên “kinh doanh trực tuyến”](https://cafebiz.vn/okxe-quyet-tam-dem-lai-su-an-toan-trong-ky-nguyen-kinh-doanh-truc-tuyen-20210318100347435.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sân khấu Lệ Ngọc và điểm sáng của sân khấu kịch Việt Nam](https://laodong.vn/van-hoa-giai-tri/san-khau-le-ngoc-va-diem-sang-cua-san-khau-kich-viet-nam-890179.ldo) ([Lao Động](https://laodong.vn))
+- [Chi đoàn mạnh ở vùng khó khăn](https://laodong.vn/cong-doan/chi-doan-manh-o-vung-kho-khan-890380.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Phòng quy định quản lý tạm trú lao động tại các khu công nghiệp](https://laodong.vn/cong-doan/hai-phong-quy-dinh-quan-ly-tam-tru-lao-dong-tai-cac-khu-cong-nghiep-890366.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Giang đính chính tin tiêm vắc xin COVID-19 giá 240.000 đồng/2 liều](https://tuoitre.vn/bac-giang-dinh-chinh-tin-tiem-vac-xin-covid-19-gia-240-000-dong-2-lieu-20210318123457221.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Các cánh giảm cân đơn giản bằng gừng](https://laodong.vn/dinh-duong-am-thuc/cac-canh-giam-can-don-gian-bang-gung-890381.ldo) ([Lao Động](https://laodong.vn))
+- [Trung Quốc tăng cường kiểm soát tài nguyên quan trọng toàn cầu](https://laodong.vn/the-gioi/trung-quoc-tang-cuong-kiem-soat-tai-nguyen-quan-trong-toan-cau-890347.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
