@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is scattered clouds.
+- Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 28.11°C.
-- Air Visual is 108.
+- Feels Like 28.46°C.
+- Air Visual is 106.
 
 **WEATHER**
 
@@ -57,14 +57,14 @@
 - [![Justice League](https://img.shields.io/static/v1?label=Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justice%20League)
 - [![Liên Quân Mobile](https://img.shields.io/static/v1?label=Li%C3%AAn%20Qu%C3%A2n%20Mobile&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Li%C3%AAn%20Qu%C3%A2n%20Mobile)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
+- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Nguyễn Đức Chung](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung)
 - [![Phạm Minh Chính](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh)
 - [![Phạm Nhật Vượng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
-- [![Torino](https://img.shields.io/static/v1?label=Torino&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Torino)
 - [![Trấn Thành](https://img.shields.io/static/v1?label=Tr%E1%BA%A5n%20Th%C3%A0nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A5n%20Th%C3%A0nh)
-- [![VTV3 Trực tiếp](https://img.shields.io/static/v1?label=VTV3%20Tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20Tr%E1%BB%B1c%20ti%E1%BA%BFp)
+- [![VTV3 trực tiếp](https://img.shields.io/static/v1?label=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp)
 - [![Vương Đình Huệ](https://img.shields.io/static/v1?label=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87)
 - [![iPhone 13](https://img.shields.io/static/v1?label=iPhone%2013&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iPhone%2013)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [YouTuber Việt đối mặt với việc thu thuế từ Google?](https://laodong.vn/kinh-te/youtuber-viet-doi-mat-voi-viec-thu-thue-tu-google-890440.ldo) ([Lao Động](https://laodong.vn))
+- [APEC thống nhất cần duy trì kích thích tài khóa để ứng phó COVID-19](https://laodong.vn/kinh-te/apec-thong-nhat-can-duy-tri-kich-thich-tai-khoa-de-ung-pho-covid-19-890513.ldo) ([Lao Động](https://laodong.vn))
+- [Lai Châu: Vận chuyển gấu con, lĩnh án 3 năm tù](https://laodong.vn/xa-hoi/lai-chau-van-chuyen-gau-con-linh-an-3-nam-tu-890508.ldo) ([Lao Động](https://laodong.vn))
+- [Huế: Hàng ngàn hecta sắn có nguy cơ mất trắng vì bệnh khảm lá](https://laodong.vn/ban-doc/hue-hang-ngan-hecta-san-co-nguy-co-mat-trang-vi-benh-kham-la-890472.ldo) ([Lao Động](https://laodong.vn))
+- [Khâu thu hồi tài sản tham nhũng phải làm tốt hơn nữa](https://laodong.vn/thoi-su/khau-thu-hoi-tai-san-tham-nhung-phai-lam-tot-hon-nua-890506.ldo) ([Lao Động](https://laodong.vn))
+- [Công an khẳng định căn cước gắn chip không có chức năng định vị](https://tuoitre.vn/cong-an-khang-dinh-can-cuoc-gan-chip-khong-co-chuc-nang-dinh-vi-20210318164214584.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Dẹp loạn &quot;thần y&quot; online tự xưng: Cận cảnh quy trình khám bệnh thần tốc](https://laodong.vn/xa-hoi/dep-loan-than-y-online-tu-xung-can-canh-quy-trinh-kham-benh-than-toc-888502.ldo) ([Lao Động](https://laodong.vn))
+- [Nổi tiếng cứng rắn, nhưng Apple đang phải nhún nhường trước quy định của nước Nga](https://cafebiz.vn/noi-tieng-cung-ran-nhung-apple-dang-phai-nhun-nhuong-truoc-quy-dinh-cua-nuoc-nga-20210318160958346.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cơ hội mua xe hơi Suzuki không còn xa vời với chương trình ưu đãi lãi suất vay từ VPBank](https://cafebiz.vn/co-hoi-mua-xe-hoi-suzuki-khong-con-xa-voi-voi-chuong-trinh-uu-dai-lai-suat-vay-tu-vpbank-20210318165756871.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bổ sung một số vụ án vào diện Ban Chỉ đạo trung ương chống tham nhũng chỉ đạo](https://tuoitre.vn/bo-sung-mot-so-vu-an-vao-dien-ban-chi-dao-trung-uong-chong-tham-nhung-chi-dao-20210318172230169.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
