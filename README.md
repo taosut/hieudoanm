@@ -21,7 +21,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 24°C.
-- Feels Like 25.4°C.
+- Feels Like 25.04°C.
 - Air Visual is 95.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Nhân sự khối cơ quan Trung ương ứng cử Quốc hội](https://vnexpress.net/nhan-su-khoi-co-quan-trung-uong-ung-cu-quoc-hoi-4250403.html) ([VNExpress](https://vnexpress.net))
-- [Sủng ái nhầm 1 người, tin nhầm 1 người, chọn sai 1 người, Càn Long khiến Thanh triều về sau lao đao, không thể ngóc đầu](https://cafebiz.vn/sung-ai-nham-1-nguoi-tin-nham-1-nguoi-chon-sai-1-nguoi-can-long-khien-thanh-trieu-ve-sau-lao-dao-khong-the-ngoc-dau-20210318170238624.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nóng nhất hôm nay: Lý do 18 tiểu bang Mỹ khởi kiện Chính quyền ông Biden](https://laodong.vn/video-the-gioi/nong-nhat-hom-nay-ly-do-18-tieu-bang-my-khoi-kien-chinh-quyen-ong-biden-890551.ldo) ([Lao Động](https://laodong.vn))
-- [Ca COVID-19 Hải Dương mới xuất viện bị phạt vì ra ngoài khi đang cách ly](https://laodong.vn/y-te/ca-covid-19-hai-duong-moi-xuat-vien-bi-phat-vi-ra-ngoai-khi-dang-cach-ly-890611.ldo) ([Lao Động](https://laodong.vn))
-- [Chỉ số phát tài của 12 con giáp năm 2021: Người đã giàu lại càng giàu nhờ thần tài phù trợ, người khó khăn vào đầu năm nhưng cuối năm cải thiện](https://cafebiz.vn/chi-so-phat-tai-cua-12-con-giap-nam-2021-nguoi-da-giau-lai-cang-giau-nho-than-tai-phu-tro-nguoi-kho-khan-vao-dau-nam-nhung-cuoi-nam-cai-thien-20210318171041958.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hàng tiết luộc "không mùa" đắt khách quanh năm đông cũng như hè, bí quyết là đôi tay kiên trì đun 2 lửa khiến miếng tiết mềm như nhung tan ngay trong miệng](https://cafebiz.vn/hang-tiet-luoc-khong-mua-dat-khach-quanh-nam-dong-cung-nhu-he-bi-quyet-la-doi-tay-kien-tri-dun-2-lua-khien-mieng-tiet-mem-nhu-nhung-tan-ngay-trong-mieng-20210318204656535.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quốc y Đại sư 84 tuổi có khí lực khỏe hơn người trẻ: Tôi đã kiên trì làm việc này trong nhiều thập kỷ](https://cafebiz.vn/quoc-y-dai-su-84-tuoi-co-khi-luc-khoe-hon-nguoi-tre-toi-da-kien-tri-lam-viec-nay-trong-nhieu-thap-ky-20210318170554268.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xem Ốc Thanh Vân nuôi dạy con mà phát ham: Con gái làm điều chỉ 1% thế giới làm được, có ước mơ siêu lạ, con trai tốt nghiệp mầm non sớm trước tuổi](https://cafebiz.vn/xem-oc-thanh-van-nuoi-day-con-ma-phat-ham-con-gai-lam-dieu-chi-1-the-gioi-lam-duoc-co-uoc-mo-sieu-la-con-trai-tot-nghiep-mam-non-som-truoc-tuoi-20210318204447306.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trục vớt tàu chở 1.500 tấn bụi than chìm ở biển Mũi Né trong vòng 20 ngày](https://tuoitre.vn/truc-vot-tau-cho-1500-tan-bui-than-chim-o-bien-mui-ne-trong-vong-20-ngay-20210318202452676.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [3 học sinh nhập viện cấp cứu sau khi thổi bong bóng trước cổng trường](https://laodong.vn/xa-hoi/3-hoc-sinh-nhap-vien-cap-cuu-sau-khi-thoi-bong-bong-truoc-cong-truong-890608.ldo) ([Lao Động](https://laodong.vn))
+- [Tại sao giới siêu giàu lại hay mua xe sang mà họ hiếm khi lái?](https://cafebiz.vn/tai-sao-gioi-sieu-giau-lai-hay-mua-xe-sang-ma-ho-hiem-khi-lai-20210316133146486.chn) ([CafeBiz](https://cafebiz.vn))
+- [Văn Toàn lo lắng phong độ sân khách của Hoàng Anh Gia Lai](https://laodong.vn/bong-da/van-toan-lo-lang-phong-do-san-khach-cua-hoang-anh-gia-lai-890607.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội thắng Thanh Hoá trong trận đấu có 5 bàn thắng](https://laodong.vn/bong-da/ha-noi-thang-thanh-hoa-trong-tran-dau-co-5-ban-thang-890606.ldo) ([Lao Động](https://laodong.vn))
+- [Sở GDĐT TP.Hải Phòng chỉ đạo sau vụ 2 nhóm nữ sinh đánh nhau &quot;hội đồng&quot;](https://laodong.vn/giao-duc/so-gddt-tphai-phong-chi-dao-sau-vu-2-nhom-nu-sinh-danh-nhau-hoi-dong-890615.ldo) ([Lao Động](https://laodong.vn))
+- [Nam điều dưỡng mắc COVID-19 ở Hải Phòng tái dương tính SARS-CoV-2](https://laodong.vn/xa-hoi/nam-dieu-duong-mac-covid-19-o-hai-phong-tai-duong-tinh-sars-cov-2-890609.ldo) ([Lao Động](https://laodong.vn))
+- [Bí thư Vũng Tàu nhận khuyết điểm 'không tuyên truyền' vụ cưa hàng cây cổ thụ](https://tuoitre.vn/bi-thu-vung-tau-nhan-khuyet-diem-khong-tuyen-truyen-vu-cua-hang-cay-co-thu-20210318203222384.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thương hiệu Yeezy của Kanye West được định giá hơn 3 tỷ USD](https://cafebiz.vn/thuong-hieu-yeezy-cua-kanye-west-duoc-dinh-gia-hon-3-ty-usd-2021031816342386.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hiện tượng Thơ Nguyễn, Hưng Vlog và ngành công nghiệp 'thổi view' YouTube](https://cafebiz.vn/hien-tuong-tho-nguyen-hung-vlog-va-nganh-cong-nghiep-thoi-view-youtube-20210318195010916.chn) ([CafeBiz](https://cafebiz.vn))
+- [3 đứa trẻ thuộc cung Hoàng đạo sau vô cùng thông minh, lanh lợi và có nhiều mối quan hệ tốt đẹp trong cuộc đời](https://cafebiz.vn/3-dua-tre-thuoc-cung-hoang-dao-sau-vo-cung-thong-minh-lanh-loi-va-co-nhieu-moi-quan-he-tot-dep-trong-cuoc-doi-20210318171216455.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cho phép thành lập 2 trung tâm kiểm định chất lượng giáo dục tư thục](https://laodong.vn/giao-duc/cho-phep-thanh-lap-2-trung-tam-kiem-dinh-chat-luong-giao-duc-tu-thuc-890610.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
