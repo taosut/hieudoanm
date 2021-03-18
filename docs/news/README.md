@@ -1,9 +1,12 @@
 # News
 
+- [Cực "mặn": 6 sản phẩm hài hước lấy cảm hứng từ ông Donald Trump, hàng Việt cũng góp mặt](https://cafebiz.vn/cuc-man-6-san-pham-hai-huoc-lay-cam-hung-tu-ong-donald-trump-hang-viet-cung-gop-mat-20210318113323545.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bình Dương bắt đầu tiêm vaccine COVID-19 cho lực lượng tuyến đầu chống dịch](https://laodong.vn/xa-hoi/binh-duong-bat-dau-tiem-vaccine-covid-19-cho-luc-luong-tuyen-dau-chong-dich-890361.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Vương Đình Huệ được giới thiệu ứng cử ĐBQH khoá XV ở khối Quốc hội](https://laodong.vn/thoi-su/ong-vuong-dinh-hue-duoc-gioi-thieu-ung-cu-dbqh-khoa-xv-o-khoi-quoc-hoi-890369.ldo) ([Lao Động](https://laodong.vn))
 - [Phạt tiền nếu quá hạn đăng ký thường trú cho trẻ mới sinh](https://laodong.vn/xa-hoi/phat-tien-neu-qua-han-dang-ky-thuong-tru-cho-tre-moi-sinh-889704.ldo) ([Lao Động](https://laodong.vn))
 - [Hiểu đúng về vaccine COVID-19 AstraZenneca](https://laodong.vn/y-te/hieu-dung-ve-vaccine-covid-19-astrazenneca-890358.ldo) ([Lao Động](https://laodong.vn))
+- [Cháy dữ dội quán ăn BBQ ở khu nhà giàu Thảo Điền sau tiếng nổ rất lớn](http://vietnamnet.vn/vn/thoi-su/chay-du-doi-quan-an-bbq-o-khu-nha-giau-thao-dien-sau-tieng-no-rat-lon-720554.html) ([VietNamNet](https://vietnamnet.vn))
 - [Trung Quốc chuẩn bị xét xử hai người Canada nghi làm gián điệp](https://laodong.vn/the-gioi/trung-quoc-chuan-bi-xet-xu-hai-nguoi-canada-nghi-lam-gian-diep-890332.ldo) ([Lao Động](https://laodong.vn))
-- [Hoàng Anh Gia Lai của bầu Đức tiếp tục bán thêm 80 triệu cổ phiếu HNG](https://laodong.vn/kinh-te/hoang-anh-gia-lai-cua-bau-duc-tiep-tuc-ban-them-80-trieu-co-phieu-hng-890365.ldo) ([Lao Động](https://laodong.vn))
 - [“Chi phí dưới gầm bàn” vẫn tồn tại, có nhiều biến tướng](https://laodong.vn/kinh-te/chi-phi-duoi-gam-ban-van-ton-tai-co-nhieu-bien-tuong-890153.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút 18.3: Xác định nghi phạm vụ nổ tiệm vàng Hải Phòng](https://laodong.vn/video-thoi-su/ban-tin-1-phut-183-xac-dinh-nghi-pham-vu-no-tiem-vang-hai-phong-890315.ldo) ([Lao Động](https://laodong.vn))
 - [Tạm giữ hai người Trung Quốc trốn khỏi khu cách ly](https://vnexpress.net/tam-giu-hai-nguoi-trung-quoc-tron-khoi-khu-cach-ly-4250305.html) ([VNExpress](https://vnexpress.net))
@@ -58,7 +61,6 @@
 - [TP.HCM có 15 đại biểu tái cử đại biểu Quốc hội khóa XV](https://tuoitre.vn/tp-hcm-co-15-dai-bieu-tai-cu-dai-bieu-quoc-hoi-khoa-xv-20210318092329307.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Từ “Hà Nội không vội được đâu” đến “Hà Nội không vội không xong”](https://cafebiz.vn/tu-ha-noi-khong-voi-duoc-dau-den-ha-noi-khong-voi-khong-xong-2021031809441902.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giá vàng và ngoại tệ 18.3: Vàng bật tăng sốc, USD khó lường](https://laodong.vn/video-thoi-su/gia-vang-va-ngoai-te-183-vang-bat-tang-soc-usd-kho-luong-890268.ldo) ([Lao Động](https://laodong.vn))
-- [Trung ương "nhường" 2 suất ĐBQH cho ngành y tế của Hà Nội, TP.HCM](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/trung-uong-nhuong-2-suat-dbqh-cho-nganh-y-te-cua-ha-noi-tp-hcm-720440.html) ([VietNamNet](https://vietnamnet.vn))
 - [Vingroup đầu tư 66.000 tỷ đồng phát triển "siêu quần thể không ngủ" quy mô 1.000ha, sở hữu hàng nghìn khu vui chơi giải trí hoạt động 24/7 thâu đêm suốt sáng](https://cafebiz.vn/vingroup-dau-tu-66000-ty-dong-phat-trien-sieu-quan-the-khong-ngu-quy-mo-1000ha-so-huu-hang-nghin-khu-vui-choi-giai-tri-hoat-dong-24-7-thau-dem-suot-sang-20210318091047068.chn) ([CafeBiz](https://cafebiz.vn))
 - [6 bãi sông Hồng được quy hoạch thành khu đô thị mới](https://vnexpress.net/6-bai-song-hong-duoc-quy-hoach-thanh-khu-do-thi-moi-4250038.html) ([VNExpress](https://vnexpress.net))
 - [Cuộc "thanh trừng" các ông lớn công nghệ Trung Quốc](https://cafebiz.vn/cuoc-thanh-trung-cac-ong-lon-cong-nghe-trung-quoc-20210318084530424.chn) ([CafeBiz](https://cafebiz.vn))
@@ -98,5 +100,3 @@
 - [Người giàu dạy con khác biệt như thế nào?](https://cafebiz.vn/nguoi-giau-day-con-khac-biet-nhu-the-nao-2021031715071666.chn) ([CafeBiz](https://cafebiz.vn))
 - [Gặp người hơn nửa thế kỷ đam mê với tranh truyền thần ở Cần Thơ](https://laodong.vn/video/gap-nguoi-hon-nua-the-ky-dam-me-voi-tranh-truyen-than-o-can-tho-889263.ldo) ([Lao Động](https://laodong.vn))
 - [So sánh thời gian thăng hạng của giáo viên các cấp từ ngày 20.3](https://laodong.vn/infographic/so-sanh-thoi-gian-thang-hang-cua-giao-vien-cac-cap-tu-ngay-203-889784.ldo) ([Lao Động](https://laodong.vn))
-- [Nhan nhản học sinh &quot;vượt luật&quot; đi xe máy đến trường, không đội mũ bảo hiểm](https://laodong.vn/photo/nhan-nhan-hoc-sinh-vuot-luat-di-xe-may-den-truong-khong-doi-mu-bao-hiem-890182.ldo) ([Lao Động](https://laodong.vn))
-- [&quot;Bố già&quot; vẫn sốt vé sau 10 ngày công chiếu, đặt trước 2 ngày mới được xem](https://laodong.vn/photo/bo-gia-van-sot-ve-sau-10-ngay-cong-chieu-dat-truoc-2-ngay-moi-duoc-xem-890200.ldo) ([Lao Động](https://laodong.vn))

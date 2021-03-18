@@ -53,13 +53,13 @@
 - [![Căn cước công dân gắn chip](https://img.shields.io/static/v1?label=C%C4%83n%20c%C6%B0%E1%BB%9Bc%20c%C3%B4ng%20d%C3%A2n%20g%E1%BA%AFn%20chip&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C4%83n%20c%C6%B0%E1%BB%9Bc%20c%C3%B4ng%20d%C3%A2n%20g%E1%BA%AFn%20chip)
 - [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
 - [![Gọi Rồng Online](https://img.shields.io/static/v1?label=G%E1%BB%8Di%20R%E1%BB%93ng%20Online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G%E1%BB%8Di%20R%E1%BB%93ng%20Online)
+- [![Hướng dương ngược nắng tập 42](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2042&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2042)
 - [![Justice League](https://img.shields.io/static/v1?label=Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justice%20League)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
-- [![Manchester City](https://img.shields.io/static/v1?label=Manchester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Manchester%20City)
 - [![Minari](https://img.shields.io/static/v1?label=Minari&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minari)
-- [![NASA](https://img.shields.io/static/v1?label=NASA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NASA)
 - [![NSND Lan Hương](https://img.shields.io/static/v1?label=NSND%20Lan%20H%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Lan%20H%C6%B0%C6%A1ng)
 - [![Nguyễn Đức Chung](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung)
+- [![Phạm Minh Chính](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh)
 - [![Phạm Nhật Vượng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Cực "mặn": 6 sản phẩm hài hước lấy cảm hứng từ ông Donald Trump, hàng Việt cũng góp mặt](https://cafebiz.vn/cuc-man-6-san-pham-hai-huoc-lay-cam-hung-tu-ong-donald-trump-hang-viet-cung-gop-mat-20210318113323545.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bình Dương bắt đầu tiêm vaccine COVID-19 cho lực lượng tuyến đầu chống dịch](https://laodong.vn/xa-hoi/binh-duong-bat-dau-tiem-vaccine-covid-19-cho-luc-luong-tuyen-dau-chong-dich-890361.ldo) ([Lao Động](https://laodong.vn))
+- [Ông Vương Đình Huệ được giới thiệu ứng cử ĐBQH khoá XV ở khối Quốc hội](https://laodong.vn/thoi-su/ong-vuong-dinh-hue-duoc-gioi-thieu-ung-cu-dbqh-khoa-xv-o-khoi-quoc-hoi-890369.ldo) ([Lao Động](https://laodong.vn))
 - [Phạt tiền nếu quá hạn đăng ký thường trú cho trẻ mới sinh](https://laodong.vn/xa-hoi/phat-tien-neu-qua-han-dang-ky-thuong-tru-cho-tre-moi-sinh-889704.ldo) ([Lao Động](https://laodong.vn))
 - [Hiểu đúng về vaccine COVID-19 AstraZenneca](https://laodong.vn/y-te/hieu-dung-ve-vaccine-covid-19-astrazenneca-890358.ldo) ([Lao Động](https://laodong.vn))
 - [Trung Quốc chuẩn bị xét xử hai người Canada nghi làm gián điệp](https://laodong.vn/the-gioi/trung-quoc-chuan-bi-xet-xu-hai-nguoi-canada-nghi-lam-gian-diep-890332.ldo) ([Lao Động](https://laodong.vn))
-- [Hoàng Anh Gia Lai của bầu Đức tiếp tục bán thêm 80 triệu cổ phiếu HNG](https://laodong.vn/kinh-te/hoang-anh-gia-lai-cua-bau-duc-tiep-tuc-ban-them-80-trieu-co-phieu-hng-890365.ldo) ([Lao Động](https://laodong.vn))
 - [“Chi phí dưới gầm bàn” vẫn tồn tại, có nhiều biến tướng](https://laodong.vn/kinh-te/chi-phi-duoi-gam-ban-van-ton-tai-co-nhieu-bien-tuong-890153.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút 18.3: Xác định nghi phạm vụ nổ tiệm vàng Hải Phòng](https://laodong.vn/video-thoi-su/ban-tin-1-phut-183-xac-dinh-nghi-pham-vu-no-tiem-vang-hai-phong-890315.ldo) ([Lao Động](https://laodong.vn))
 - [Tạm giữ hai người Trung Quốc trốn khỏi khu cách ly](https://vnexpress.net/tam-giu-hai-nguoi-trung-quoc-tron-khoi-khu-cach-ly-4250305.html) ([VNExpress](https://vnexpress.net))
-- [Chợ tự phát &quot;nhếch nhác&quot; bắc qua sông Tô Lịch, ngang nhiên phớt lờ biển cấm](https://laodong.vn/photo/cho-tu-phat-nhech-nhac-bac-qua-song-to-lich-ngang-nhien-phot-lo-bien-cam-890316.ldo) ([Lao Động](https://laodong.vn))
-- ['Số lượng sân bay ở Việt Nam sẽ được nghiên cứu kỹ lưỡng'](https://vnexpress.net/so-luong-san-bay-o-viet-nam-se-duoc-nghien-cuu-ky-luong-4249929.html) ([VNExpress](https://vnexpress.net))
-- [Ông Nguyễn Thiện Nhân ứng cử đại biểu Quốc hội ở lĩnh vực khoa học](https://vnexpress.net/ong-nguyen-thien-nhan-ung-cu-dai-bieu-quoc-hoi-o-linh-vuc-khoa-hoc-4250321.html) ([VNExpress](https://vnexpress.net))
+- [Đại tướng Lương Cường: Làm tốt quy hoạch, bồi dưỡng thanh niên quân đội](http://vietnamnet.vn/vn/thoi-su/chinh-tri/dai-tuong-luong-cuong-lam-tot-quy-hoach-boi-duong-thanh-nien-quan-doi-720530.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
