@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 24°C.
 - Feels Like 26.35°C.
-- Air Visual is 117.
+- Air Visual is 118.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [71,7 % người lao động cho hay giữ được việc làm hiện tại là rất quan trọng](https://laodong.vn/cong-doan/717--nguoi-lao-dong-cho-hay-giu-duoc-viec-lam-hien-tai-la-rat-quan-trong-890303.ldo) ([Lao Động](https://laodong.vn))
-- [Đất rừng sản xuất có được chuyển nhượng hay không?](https://laodong.vn/bat-dong-san/dat-rung-san-xuat-co-duoc-chuyen-nhuong-hay-khong-889197.ldo) ([Lao Động](https://laodong.vn))
-- [Vẽ dự án đầu tư &quot;ma&quot;, Tổng giám đốc Khanh Group lừa hơn 80 tỉ đồng](https://laodong.vn/phap-luat/ve-du-an-dau-tu-ma-tong-giam-doc-khanh-group-lua-hon-80-ti-dong-890282.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương: Công nhân Công ty Poyun Việt Nam đi làm trở lại từ sáng 18.3](https://laodong.vn/cong-doan/hai-duong-cong-nhan-cong-ty-poyun-viet-nam-di-lam-tro-lai-tu-sang-183-890305.ldo) ([Lao Động](https://laodong.vn))
-- [Chi tiết thủ tục đổi chứng minh nhân dân sang căn cước công dân gắn chip](https://laodong.vn/phap-luat/chi-tiet-thu-tuc-doi-chung-minh-nhan-dan-sang-can-cuoc-cong-dan-gan-chip-890297.ldo) ([Lao Động](https://laodong.vn))
-- [Thêm ứng dụng chung số phận Facebook, Google tại Trung Quốc?](https://cafebiz.vn/them-ung-dung-chung-so-phan-facebook-google-tai-trung-quoc-20210318084110965.chn) ([CafeBiz](https://cafebiz.vn))
-- [Muốn thu hồi, xử lý xe máy cũ nát phải có cơ chế, chính sách cụ thể](https://laodong.vn/xa-hoi/muon-thu-hoi-xu-ly-xe-may-cu-nat-phai-co-co-che-chinh-sach-cu-the-890148.ldo) ([Lao Động](https://laodong.vn))
-- [Cuối tuần miền Bắc đón mưa giông](https://vnexpress.net/cuoi-tuan-mien-bac-don-mua-giong-4250152.html) ([VNExpress](https://vnexpress.net))
-- [TP.HCM thông qua danh sách sơ bộ 51 hồ sơ ứng cử ĐBQH](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/tp-hcm-thong-qua-danh-sach-so-bo-51-ho-so-ung-cu-dbqh-720473.html) ([VietNamNet](https://vietnamnet.vn))
-- [Giao dịch di động tại Việt Nam sẽ tăng gấp 4 lần trong giai đoạn 2021-2025](https://cafebiz.vn/giao-dich-di-dong-tai-viet-nam-se-tang-gap-4-lan-trong-giai-doan-2021-2025-20210317183304459.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sử dụng 28 công ty 'ma' để mua bán 50.000 hóa đơn GTGT](https://cafebiz.vn/su-dung-28-cong-ty-ma-de-mua-ban-50000-hoa-don-gtgt-20210318110339574.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mục tiêu xuất khẩu gỗ và lâm sản Việt Nam đạt 14 tỉ USD trong năm 2021](https://cafebiz.vn/muc-tieu-xuat-khau-go-va-lam-san-viet-nam-dat-14-ti-usd-trong-nam-2021-2021031720235492.chn) ([CafeBiz](https://cafebiz.vn))
+- [Kia lần đầu bán vượt Toyota tại Việt Nam dù Vios, Camry và Innova thi nhau 'gánh' doanh số](https://cafebiz.vn/kia-lan-dau-ban-vuot-toyota-tai-viet-nam-du-vios-camry-va-innova-thi-nhau-ganh-doanh-so-20210318085132969.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bất động sản Xanh – Lựa chọn tất yếu của thời đại](https://cafebiz.vn/bat-dong-san-xanh-lua-chon-tat-yeu-cua-thoi-dai-20210317163804633.chn) ([CafeBiz](https://cafebiz.vn))
+- [10 trường hợp thu hồi đất nhưng không bồi thường tài sản](https://laodong.vn/bat-dong-san/10-truong-hop-thu-hoi-dat-nhung-khong-boi-thuong-tai-san-889465.ldo) ([Lao Động](https://laodong.vn))
+- [Những dự án độc đáo, đáp ứng nhu cầu thật của khách hàng](https://laodong.vn/bat-dong-san/nhung-du-an-doc-dao-dap-ung-nhu-cau-that-cua-khach-hang-890277.ldo) ([Lao Động](https://laodong.vn))
+- [Chính quyền Tổng thống Joe Biden bị 18 tiểu bang Mỹ khởi kiện](https://laodong.vn/the-gioi/chinh-quyen-tong-thong-joe-biden-bi-18-tieu-bang-my-khoi-kien-890266.ldo) ([Lao Động](https://laodong.vn))
+- [D-Aqua: Tuyệt phẩm căn hộ view sông tiện nghi tại trung tâm Sài Gòn](https://laodong.vn/bat-dong-san/d-aqua-tuyet-pham-can-ho-view-song-tien-nghi-tai-trung-tam-sai-gon-890261.ldo) ([Lao Động](https://laodong.vn))
+- [Quảng Nam: Xe tải đang lưu thông trên quốc lộ 1A bất ngờ bốc cháy dữ dội](https://laodong.vn/xa-hoi/quang-nam-xe-tai-dang-luu-thong-tren-quoc-lo-1a-bat-ngo-boc-chay-du-doi-890318.ldo) ([Lao Động](https://laodong.vn))
+- [Đội phản ứng nhanh Đà Nẵng tạm giữ 2 loa mở nhạc ồn ào sau 22h](https://tuoitre.vn/doi-phan-ung-nhanh-da-nang-tam-giu-2-loa-mo-nhac-on-ao-sau-22h-20210318101729597.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
