@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 27.38°C.
-- Air Visual is 132.
+- Feels Like 28.66°C.
+- Air Visual is 125.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tài xế Uber được công nhận là nhân viên chính thức tại Anh](https://cafebiz.vn/tai-xe-uber-duoc-cong-nhan-la-nhan-vien-chinh-thuc-tai-anh-20210318135654264.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đánh bom xe buýt ở Afghanistan, 3 người chết nhiều người bị thương](https://laodong.vn/the-gioi/danh-bom-xe-buyt-o-afghanistan-3-nguoi-chet-nhieu-nguoi-bi-thuong-890373.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội: Tổ chức SEA Games 31 cần có phương án phòng, chống dịch COVID-19](https://laodong.vn/xa-hoi/ha-noi-to-chuc-sea-games-31-can-co-phuong-an-phong-chong-dich-covid-19-890386.ldo) ([Lao Động](https://laodong.vn))
-- [77 người tự ứng cử đại biểu Quốc hội khóa mới](https://vnexpress.net/77-nguoi-tu-ung-cu-dai-bieu-quoc-hoi-khoa-moi-4250346.html) ([VNExpress](https://vnexpress.net))
-- [Tổng Bí thư, Chủ tịch Nước được giới thiệu ứng cử ĐBQH khóa XV ở khối Đảng](https://laodong.vn/thoi-su/tong-bi-thu-chu-tich-nuoc-duoc-gioi-thieu-ung-cu-dbqh-khoa-xv-o-khoi-dang-890384.ldo) ([Lao Động](https://laodong.vn))
-- [Tuấn Trần &quot;Bố già&quot;, Kaity Nguyễn, Trúc Anh: 3 sao trẻ được kì vọng](https://laodong.vn/photo/tuan-tran-bo-gia-kaity-nguyen-truc-anh-3-sao-tre-duoc-ki-vong-890096.ldo) ([Lao Động](https://laodong.vn))
-- [Những điểm ưu việt của mẫu thẻ Bảo hiểm y tế mới áp dụng từ 1.4.2021](https://laodong.vn/infographic/nhung-diem-uu-viet-cua-mau-the-bao-hiem-y-te-moi-ap-dung-tu-142021-890345.ldo) ([Lao Động](https://laodong.vn))
-- [Khi nào được tạm đình chỉ công việc của người lao động?](https://laodong.vn/tu-van-phap-luat/khi-nao-duoc-tam-dinh-chi-cong-viec-cua-nguoi-lao-dong-889731.ldo) ([Lao Động](https://laodong.vn))
-- [Các tỷ phú giàu nhất thế giới gặp gỡ “một nửa” của mình thế nào: Toàn những câu chuyện như ngôn tình, đỉnh nhất vẫn là ông chủ Facebook](https://cafebiz.vn/cac-ty-phu-giau-nhat-the-gioi-gap-go-mot-nua-cua-minh-the-nao-toan-nhung-cau-chuyen-nhu-ngon-tinh-dinh-nhat-van-la-ong-chu-facebook-20210318135718304.chn) ([CafeBiz](https://cafebiz.vn))
-- [Không mua nhà, cặp vợ chồng kỹ sư công nghệ thông tin trở nên giàu có với khối tài sản 23 tỷ đồng, nghỉ hưu sớm khi chỉ mới 30 tuổi](https://cafebiz.vn/khong-mua-nha-cap-vo-chong-ky-su-cong-nghe-thong-tin-tro-nen-giau-co-voi-khoi-tai-san-23-ty-dong-nghi-huu-som-khi-chi-moi-30-tuoi-20210318135434301.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hơn cả Bitcoin, NFT đang khiến thế giới "phát cuồng" thế nào?](https://cafebiz.vn/hon-ca-bitcoin-nft-dang-khien-the-gioi-phat-cuong-the-nao-20210318135520217.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vì sao "hot girl" là chủ tiệm spa kiêm đại lý bán ma túy số lượng lớn bị đưa vào tầm ngắm?](https://cafebiz.vn/vi-sao-hot-girl-la-chu-tiem-spa-kiem-dai-ly-ban-ma-tuy-so-luong-lon-bi-dua-vao-tam-ngam-20210318143100045.chn) ([CafeBiz](https://cafebiz.vn))
+- [Học viện Ngân hàng công bố phương án tuyển sinh 2021](https://laodong.vn/giao-duc/hoc-vien-ngan-hang-cong-bo-phuong-an-tuyen-sinh-2021-890403.ldo) ([Lao Động](https://laodong.vn))
+- [Cầu thủ U18 Việt Nam được thầy Troussier rèn đến 23h00 đêm](https://laodong.vn/bong-da/cau-thu-u18-viet-nam-duoc-thay-troussier-ren-den-23h00-dem-890368.ldo) ([Lao Động](https://laodong.vn))
+- [Sợ mất Hazard hết mùa, Real Madrid ngăn cản phẫu thuật](https://laodong.vn/bong-da-quoc-te/so-mat-hazard-het-mua-real-madrid-ngan-can-phau-thuat-890382.ldo) ([Lao Động](https://laodong.vn))
+- [Các resort sang chảnh bậc nhất Việt Nam bước vào cuộc đua đại hạ giá: Giảm trên 50% tiền phòng, giá “sương sương” chưa tới 10 triệu đồng/đêm](https://cafebiz.vn/cac-resort-sang-chanh-bac-nhat-viet-nam-buoc-vao-cuoc-dua-dai-ha-gia-giam-tren-50-tien-phong-gia-suong-suong-chua-toi-10-trieu-dong-dem-20210318112411392.chn) ([CafeBiz](https://cafebiz.vn))
+- [10 năm trước, tôi ước trở thành một nhân viên văn phòng, 10 năm sau, tôi biết mình mãi mãi mãi chỉ là kẻ làm thuê: Chí hướng định tầm nhìn, tư duy định số mệnh!](https://cafebiz.vn/10-nam-truoc-toi-uoc-tro-thanh-mot-nhan-vien-van-phong-10-nam-sau-toi-biet-minh-mai-mai-mai-chi-la-ke-lam-thue-chi-huong-dinh-tam-nhin-tu-duy-dinh-so-menh-20210318134008424.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cận cảnh cây cầu luôn luôn tắc ở ngay cửa ngõ Thủ đô](https://laodong.vn/photo/can-canh-cay-cau-luon-luon-tac-o-ngay-cua-ngo-thu-do-890341.ldo) ([Lao Động](https://laodong.vn))
+- [Hơn 400m đường Vũ Trọng Phụng: Thi công gần 3 năm vẫn ì ạch, ngổn ngang](https://laodong.vn/photo/hon-400m-duong-vu-trong-phung-thi-cong-gan-3-nam-van-i-ach-ngon-ngang-890374.ldo) ([Lao Động](https://laodong.vn))
+- [Dạy con làm việc nhà và trả lương, ông bố Hà Nội giúp con đầu tư, tiết kiệm được… gần 70 triệu đồng](https://cafebiz.vn/day-con-lam-viec-nha-va-tra-luong-ong-bo-ha-noi-giup-con-dau-tu-tiet-kiem-duoc-gan-70-trieu-dong-20210318140643276.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
