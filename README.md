@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 28.46°C.
-- Air Visual is 111.
+- Air Visual is 97.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Triển khai điều lệ Công đoàn, điểm mới của Luật Công chức, Viên chức](https://laodong.vn/cong-doan/trien-khai-dieu-le-cong-doan-diem-moi-cua-luat-cong-chuc-vien-chuc-890517.ldo) ([Lao Động](https://laodong.vn))
+- [Suy ngẫm về bài học cuộc sống từ những quốc gia hạnh phúc nhất thế giới](https://laodong.vn/chuyen-nha-minh/suy-ngam-ve-bai-hoc-cuoc-song-tu-nhung-quoc-gia-hanh-phuc-nhat-the-gioi-890396.ldo) ([Lao Động](https://laodong.vn))
+- [Báo Lao Động tuyển dụng](https://laodong.vn/xa-hoi/bao-lao-dong-tuyen-dung-890565.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội nhất trí danh sách sơ bộ 188 ứng viên đại biểu HĐND thành phố](https://tuoitre.vn/ha-noi-nhat-tri-danh-sach-so-bo-188-ung-vien-dai-bieu-hdnd-thanh-pho-2021031817584677.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nghiên cứu cơ sở khoa học quy hoạch mạng lưới cơ sở giáo dục đại học](https://laodong.vn/giao-duc/nghien-cuu-co-so-khoa-hoc-quy-hoach-mang-luoi-co-so-giao-duc-dai-hoc-890558.ldo) ([Lao Động](https://laodong.vn))
 - [Thượng toạ Thích Nguyên Bình về trụ trì quản lý chùa Trung Hành từ 20.3](https://laodong.vn/ban-doc/thuong-toa-thich-nguyen-binh-ve-tru-tri-quan-ly-chua-trung-hanh-tu-203-890524.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Tĩnh, Cao Bằng, Vũng Tàu và 12 tỉnh công bố lịch thi lớp 10](https://laodong.vn/giao-duc/ha-tinh-cao-bang-vung-tau-va-12-tinh-cong-bo-lich-thi-lop-10-890536.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Dương: Bị lừa bay mất 120 triệu vì click vào link &quot;Zalopay&quot; giả](https://laodong.vn/phap-luat/hai-duong-bi-lua-bay-mat-120-trieu-vi-click-vao-link-zalopay-gia-889848.ldo) ([Lao Động](https://laodong.vn))
 - [Diện mạo cầu ngói 245 tuổi sau trùng tu](https://vnexpress.net/dien-mao-cau-ngoi-245-tuoi-sau-trung-tu-4250344.html) ([VNExpress](https://vnexpress.net))
 - [Thanh tra toàn diện dự án bến thuyền du lịch Vũng Tàu Marina](https://tuoitre.vn/thanh-tra-toan-dien-du-an-ben-thuyen-du-lich-vung-tau-marina-20210318174043292.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Giám đốc lâm trường lấn chiếm đất rừng vẫn được bổ nhiệm lại](https://tuoitre.vn/giam-doc-lam-truong-lan-chiem-dat-rung-van-duoc-bo-nhiem-lai-20210318180057957.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Tìm người bị hại trong vụ bắt giữ Giám đốc công ty nhà đất Đồng Nai](https://laodong.vn/phap-luat/tim-nguoi-bi-hai-trong-vu-bat-giu-giam-doc-cong-ty-nha-dat-dong-nai-890553.ldo) ([Lao Động](https://laodong.vn))
-- [Thành phố ở Indonesia đứng trước nguy cơ sẽ bị xóa sổ trong 15 năm tới](https://laodong.vn/the-gioi/thanh-pho-o-indonesia-dung-truoc-nguy-co-se-bi-xoa-so-trong-15-nam-toi-890516.ldo) ([Lao Động](https://laodong.vn))
-- [Xe buýt ngáng đường nhau sau va chạm](https://vnexpress.net/xe-buyt-ngang-duong-nhau-sau-va-cham-4250460.html) ([VNExpress](https://vnexpress.net))
-- [Chiều 18-3: Thêm 3 ca mắc COVID-19 mới, Khánh Hòa đảm bảo đủ tiền mua vắc xin](https://tuoitre.vn/chieu-18-3-them-3-ca-mac-covid-19-moi-khanh-hoa-dam-bao-du-tien-mua-vac-xin-20210315180345372.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
