@@ -21,7 +21,7 @@
 
 - Current weather is broken clouds.
 - Temperature is 26°C.
-- Feels Like 28.66°C.
+- Feels Like 28.29°C.
 - Air Visual is 113.
 
 **WEATHER**
@@ -56,7 +56,6 @@
 - [![Hướng dương ngược nắng tập 42](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2042&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2042)
 - [![Justice League](https://img.shields.io/static/v1?label=Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justice%20League)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
-- [![Minari](https://img.shields.io/static/v1?label=Minari&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minari)
 - [![NSND Lan Hương](https://img.shields.io/static/v1?label=NSND%20Lan%20H%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Lan%20H%C6%B0%C6%A1ng)
 - [![Nguyễn Đức Chung](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung)
 - [![Phạm Minh Chính](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh)
@@ -65,7 +64,8 @@
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Torino](https://img.shields.io/static/v1?label=Torino&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Torino)
 - [![Trấn Thành](https://img.shields.io/static/v1?label=Tr%E1%BA%A5n%20Th%C3%A0nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A5n%20Th%C3%A0nh)
-- [![VTV3 trực tiếp](https://img.shields.io/static/v1?label=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp)
+- [![VTV3 Trực tiếp](https://img.shields.io/static/v1?label=VTV3%20Tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20Tr%E1%BB%B1c%20ti%E1%BA%BFp)
+- [![Vương Đình Huệ](https://img.shields.io/static/v1?label=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87)
 - [![iPhone 13](https://img.shields.io/static/v1?label=iPhone%2013&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iPhone%2013)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Khánh thành trạm phát sóng FM tự động trên đỉnh núi Quế (Quảng Nam)](https://laodong.vn/xa-hoi/khanh-thanh-tram-phat-song-fm-tu-dong-tren-dinh-nui-que-quang-nam-890375.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Định hoàn thành tiếp nhận 343 công dân về từ Nhật Bản](https://laodong.vn/xa-hoi/binh-dinh-hoan-thanh-tiep-nhan-343-cong-dan-ve-tu-nhat-ban-890420.ldo) ([Lao Động](https://laodong.vn))
+- [Được trả cả triệu USD cho một dòng tweet, nhưng Elon Musk bất ngờ từ chối bán, lý do khiến mọi người bất ngờ](https://cafebiz.vn/duoc-tra-ca-trieu-usd-cho-mot-dong-tweet-nhung-elon-musk-bat-ngo-tu-choi-ban-ly-do-khien-moi-nguoi-bat-ngo-20210318135858011.chn) ([CafeBiz](https://cafebiz.vn))
+- [Huấn luyện viên đội Sài Gòn quyết &quot;trói chân&quot; Lee Nguyễn](https://laodong.vn/video/huan-luyen-vien-doi-sai-gon-quyet-troi-chan-lee-nguyen-890344.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng chiếm 3/5 vị trí đầu tiên trong BXH địa điểm có các phong cách ẩm thực khác nhau được ưa chuộng nhất của du khách đến Việt Nam](https://cafebiz.vn/da-nang-chiem-3-5-vi-tri-dau-tien-trong-bxh-dia-diem-co-cac-phong-cach-am-thuc-khac-nhau-duoc-ua-chuong-nhat-cua-du-khach-den-viet-nam-20210317180945982.chn) ([CafeBiz](https://cafebiz.vn))
+- [NASA công bố âm thanh chân thật từ chuyến di chuyển đầu tiên trên sao Hỏa](https://laodong.vn/the-gioi/nasa-cong-bo-am-thanh-chan-that-tu-chuyen-di-chuyen-dau-tien-tren-sao-hoa-890398.ldo) ([Lao Động](https://laodong.vn))
+- [Bình Dương: Chậm tái lập mặt đường sau thi công tiềm ẩn tai nạn giao thông](https://laodong.vn/ban-doc/binh-duong-cham-tai-lap-mat-duong-sau-thi-cong-tiem-an-tai-nan-giao-thong-890339.ldo) ([Lao Động](https://laodong.vn))
+- [5 năm Hà Nội sử dụng chế phẩm Redoxy-3C](https://vnexpress.net/5-nam-ha-noi-su-dung-che-pham-redoxy-3c-4250052.html) ([VNExpress](https://vnexpress.net))
+- [Chuyên gia tiêm chủng nói gì về phản ứng nặng sau tiêm vaccine Astrazeneca?](https://laodong.vn/video-thoi-su/chuyen-gia-tiem-chung-noi-gi-ve-phan-ung-nang-sau-tiem-vaccine-astrazeneca-890383.ldo) ([Lao Động](https://laodong.vn))
+- [Sự thật về "cung điện" hoành tráng đến nghẹt thở, độc nhất vô nhị ở miền Tây](https://cafebiz.vn/su-that-ve-cung-dien-hoanh-trang-den-nghet-tho-doc-nhat-vo-nhi-o-mien-tay-20210318144632451.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
