@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 26.21°C.
-- Air Visual is 114.
+- Air Visual is 121.
 
 **WEATHER**
 
@@ -50,7 +50,6 @@
 
 - [![Bayern Munich](https://img.shields.io/static/v1?label=Bayern%20Munich&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern%20Munich)
 - [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Căn cước công dân gắn chip](https://img.shields.io/static/v1?label=C%C4%83n%20c%C6%B0%E1%BB%9Bc%20c%C3%B4ng%20d%C3%A2n%20g%E1%BA%AFn%20chip&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C4%83n%20c%C6%B0%E1%BB%9Bc%20c%C3%B4ng%20d%C3%A2n%20g%E1%BA%AFn%20chip)
 - [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
 - [![Gọi Rồng Online](https://img.shields.io/static/v1?label=G%E1%BB%8Di%20R%E1%BB%93ng%20Online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G%E1%BB%8Di%20R%E1%BB%93ng%20Online)
 - [![Hướng dương ngược nắng tập 42](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2042&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2042)
@@ -64,7 +63,8 @@
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
 - [![Torino](https://img.shields.io/static/v1?label=Torino&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Torino)
-- [![VTV3 trực tiếp](https://img.shields.io/static/v1?label=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp)
+- [![V-League 2021](https://img.shields.io/static/v1?label=V-League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V-League%202021)
+- [![VTV3 Trực tiếp](https://img.shields.io/static/v1?label=VTV3%20Tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20Tr%E1%BB%B1c%20ti%E1%BA%BFp)
 - [![Vương Đình Huệ](https://img.shields.io/static/v1?label=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87)
 - [![iPhone 13](https://img.shields.io/static/v1?label=iPhone%2013&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iPhone%2013)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
@@ -75,7 +75,16 @@
 
 **NEWS**
 
-
+- [Thủ tướng tiếp Hội Phát triển hợp tác kinh tế Việt Nam-ASEAN](https://laodong.vn/thoi-su/thu-tuong-tiep-hoi-phat-trien-hop-tac-kinh-te-viet-nam-asean-890590.ldo) ([Lao Động](https://laodong.vn))
+- [Kho Hermès giả "khủng nhất miền Bắc" The Queen Shop hoạt động mạnh thế nào trước khi bị triệt phá?](https://cafebiz.vn/kho-hermes-gia-khung-nhat-mien-bac-the-queen-shop-hoat-dong-manh-the-nao-truoc-khi-bi-triet-pha-20210318172437439.chn) ([CafeBiz](https://cafebiz.vn))
+- [Hà Nội nghiên cứu bỏ ga ngầm gần Hồ Gươm](https://vnexpress.net/ha-noi-nghien-cuu-bo-ga-ngam-gan-ho-guom-4250595.html) ([VNExpress](https://vnexpress.net))
+- [Bản tin Dự báo thời tiết mới nhất đêm nay và ngày mai 19.3](https://laodong.vn/video-thoi-su/ban-tin-du-bao-thoi-tiet-moi-nhat-dem-nay-va-ngay-mai-193-890307.ldo) ([Lao Động](https://laodong.vn))
+- [Nóng nhất 24h: Giá vàng trong nước bất ngờ giảm mạnh](https://laodong.vn/video/nong-nhat-24h-gia-vang-trong-nuoc-bat-ngo-giam-manh-890402.ldo) ([Lao Động](https://laodong.vn))
+- [Dẹp loạn &quot;thần y&quot; online tự xưng: Khó xử lý vì &quot;nhờn thuốc&quot;](https://laodong.vn/xa-hoi/dep-loan-than-y-online-tu-xung-kho-xu-ly-vi-nhon-thuoc-889648.ldo) ([Lao Động](https://laodong.vn))
+- [Bí quyết làm món sườn nướng thảo mộc đơn giản, hấp dẫn](https://laodong.vn/dinh-duong-am-thuc/bi-quyet-lam-mon-suon-nuong-thao-moc-don-gian-hap-dan-890407.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội sử dụng chế phẩm Redoxy-3C như thế nào?](https://vnexpress.net/ha-noi-su-dung-che-pham-redoxy-3c-nhu-the-nao-4250052.html) ([VNExpress](https://vnexpress.net))
+- [Xây sân bay quá gần nhau 'sẽ không hiệu quả'](https://vnexpress.net/xay-san-bay-qua-gan-nhau-se-khong-hieu-qua-4249929.html) ([VNExpress](https://vnexpress.net))
+- [Hà Nội xem xét thêm phương án bỏ ga ngầm C9 cạnh Hồ Gươm](https://cafebiz.vn/ha-noi-xem-xet-them-phuong-an-bo-ga-ngam-c9-canh-ho-guom-20210318172016304.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
