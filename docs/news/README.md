@@ -1,10 +1,11 @@
 # News
 
+- [Phạt tiền nếu quá hạn đăng ký thường trú cho trẻ mới sinh](https://laodong.vn/xa-hoi/phat-tien-neu-qua-han-dang-ky-thuong-tru-cho-tre-moi-sinh-889704.ldo) ([Lao Động](https://laodong.vn))
+- [Hiểu đúng về vaccine COVID-19 AstraZenneca](https://laodong.vn/y-te/hieu-dung-ve-vaccine-covid-19-astrazenneca-890358.ldo) ([Lao Động](https://laodong.vn))
+- [Trung Quốc chuẩn bị xét xử hai người Canada nghi làm gián điệp](https://laodong.vn/the-gioi/trung-quoc-chuan-bi-xet-xu-hai-nguoi-canada-nghi-lam-gian-diep-890332.ldo) ([Lao Động](https://laodong.vn))
+- [Hoàng Anh Gia Lai của bầu Đức tiếp tục bán thêm 80 triệu cổ phiếu HNG](https://laodong.vn/kinh-te/hoang-anh-gia-lai-cua-bau-duc-tiep-tuc-ban-them-80-trieu-co-phieu-hng-890365.ldo) ([Lao Động](https://laodong.vn))
 - [“Chi phí dưới gầm bàn” vẫn tồn tại, có nhiều biến tướng](https://laodong.vn/kinh-te/chi-phi-duoi-gam-ban-van-ton-tai-co-nhieu-bien-tuong-890153.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút 18.3: Xác định nghi phạm vụ nổ tiệm vàng Hải Phòng](https://laodong.vn/video-thoi-su/ban-tin-1-phut-183-xac-dinh-nghi-pham-vu-no-tiem-vang-hai-phong-890315.ldo) ([Lao Động](https://laodong.vn))
-- [“Độc cô cầu bại” Nguyễn Văn Hùng lại mở đường với MMA](https://laodong.vn/the-thao/doc-co-cau-bai-nguyen-van-hung-lai-mo-duong-voi-mma-890181.ldo) ([Lao Động](https://laodong.vn))
-- [Miễn phí học nghề 100% cho người lao động bị mất việc vì dịch COVID-19](https://laodong.vn/ldld-tphcm/mien-phi-hoc-nghe-100-cho-nguoi-lao-dong-bi-mat-viec-vi-dich-covid-19-890363.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Ông Nguyễn Thiện Nhân được giới thiệu ứng cử đại biểu Quốc hội](https://laodong.vn/thoi-su/tphcm-ong-nguyen-thien-nhan-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-890360.ldo) ([Lao Động](https://laodong.vn))
 - [Tạm giữ hai người Trung Quốc trốn khỏi khu cách ly](https://vnexpress.net/tam-giu-hai-nguoi-trung-quoc-tron-khoi-khu-cach-ly-4250305.html) ([VNExpress](https://vnexpress.net))
 - [Đại tướng Lương Cường: Làm tốt quy hoạch, bồi dưỡng thanh niên quân đội](http://vietnamnet.vn/vn/thoi-su/chinh-tri/dai-tuong-luong-cuong-lam-tot-quy-hoach-boi-duong-thanh-nien-quan-doi-720530.html) ([VietNamNet](https://vietnamnet.vn))
 - [Ai giới thiệu ông Nguyễn Thiện Nhân ứng cử ĐBQH khóa XV](http://vietnamnet.vn/vn/thoi-su/ai-gioi-thieu-ong-nguyen-thien-nhan-ung-cu-dbqh-khoa-xv-720525.html) ([VietNamNet](https://vietnamnet.vn))
@@ -99,4 +100,3 @@
 - [So sánh thời gian thăng hạng của giáo viên các cấp từ ngày 20.3](https://laodong.vn/infographic/so-sanh-thoi-gian-thang-hang-cua-giao-vien-cac-cap-tu-ngay-203-889784.ldo) ([Lao Động](https://laodong.vn))
 - [Nhan nhản học sinh &quot;vượt luật&quot; đi xe máy đến trường, không đội mũ bảo hiểm](https://laodong.vn/photo/nhan-nhan-hoc-sinh-vuot-luat-di-xe-may-den-truong-khong-doi-mu-bao-hiem-890182.ldo) ([Lao Động](https://laodong.vn))
 - [&quot;Bố già&quot; vẫn sốt vé sau 10 ngày công chiếu, đặt trước 2 ngày mới được xem](https://laodong.vn/photo/bo-gia-van-sot-ve-sau-10-ngay-cong-chieu-dat-truoc-2-ngay-moi-duoc-xem-890200.ldo) ([Lao Động](https://laodong.vn))
-- [5 sống lưng khủng long du khách không nên bỏ lỡ](https://cafebiz.vn/5-song-lung-khung-long-du-khach-khong-nen-bo-lo-20210317162821781.chn) ([CafeBiz](https://cafebiz.vn))

@@ -19,10 +19,10 @@
 
 **CALENDAR**
 
-- Current weather is mist.
+- Current weather is broken clouds.
 - Temperature is 25°C.
 - Feels Like 27.29°C.
-- Air Visual is 125.
+- Air Visual is 113.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Phạt tiền nếu quá hạn đăng ký thường trú cho trẻ mới sinh](https://laodong.vn/xa-hoi/phat-tien-neu-qua-han-dang-ky-thuong-tru-cho-tre-moi-sinh-889704.ldo) ([Lao Động](https://laodong.vn))
+- [Hiểu đúng về vaccine COVID-19 AstraZenneca](https://laodong.vn/y-te/hieu-dung-ve-vaccine-covid-19-astrazenneca-890358.ldo) ([Lao Động](https://laodong.vn))
+- [Trung Quốc chuẩn bị xét xử hai người Canada nghi làm gián điệp](https://laodong.vn/the-gioi/trung-quoc-chuan-bi-xet-xu-hai-nguoi-canada-nghi-lam-gian-diep-890332.ldo) ([Lao Động](https://laodong.vn))
+- [Hoàng Anh Gia Lai của bầu Đức tiếp tục bán thêm 80 triệu cổ phiếu HNG](https://laodong.vn/kinh-te/hoang-anh-gia-lai-cua-bau-duc-tiep-tuc-ban-them-80-trieu-co-phieu-hng-890365.ldo) ([Lao Động](https://laodong.vn))
 - [“Chi phí dưới gầm bàn” vẫn tồn tại, có nhiều biến tướng](https://laodong.vn/kinh-te/chi-phi-duoi-gam-ban-van-ton-tai-co-nhieu-bien-tuong-890153.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút 18.3: Xác định nghi phạm vụ nổ tiệm vàng Hải Phòng](https://laodong.vn/video-thoi-su/ban-tin-1-phut-183-xac-dinh-nghi-pham-vu-no-tiem-vang-hai-phong-890315.ldo) ([Lao Động](https://laodong.vn))
-- [“Độc cô cầu bại” Nguyễn Văn Hùng lại mở đường với MMA](https://laodong.vn/the-thao/doc-co-cau-bai-nguyen-van-hung-lai-mo-duong-voi-mma-890181.ldo) ([Lao Động](https://laodong.vn))
-- [Miễn phí học nghề 100% cho người lao động bị mất việc vì dịch COVID-19](https://laodong.vn/ldld-tphcm/mien-phi-hoc-nghe-100-cho-nguoi-lao-dong-bi-mat-viec-vi-dich-covid-19-890363.ldo) ([Lao Động](https://laodong.vn))
-- [TPHCM: Ông Nguyễn Thiện Nhân được giới thiệu ứng cử đại biểu Quốc hội](https://laodong.vn/thoi-su/tphcm-ong-nguyen-thien-nhan-duoc-gioi-thieu-ung-cu-dai-bieu-quoc-hoi-890360.ldo) ([Lao Động](https://laodong.vn))
 - [Tạm giữ hai người Trung Quốc trốn khỏi khu cách ly](https://vnexpress.net/tam-giu-hai-nguoi-trung-quoc-tron-khoi-khu-cach-ly-4250305.html) ([VNExpress](https://vnexpress.net))
 - [Chợ tự phát &quot;nhếch nhác&quot; bắc qua sông Tô Lịch, ngang nhiên phớt lờ biển cấm](https://laodong.vn/photo/cho-tu-phat-nhech-nhac-bac-qua-song-to-lich-ngang-nhien-phot-lo-bien-cam-890316.ldo) ([Lao Động](https://laodong.vn))
 - ['Số lượng sân bay ở Việt Nam sẽ được nghiên cứu kỹ lưỡng'](https://vnexpress.net/so-luong-san-bay-o-viet-nam-se-duoc-nghien-cuu-ky-luong-4249929.html) ([VNExpress](https://vnexpress.net))
 - [Ông Nguyễn Thiện Nhân ứng cử đại biểu Quốc hội ở lĩnh vực khoa học](https://vnexpress.net/ong-nguyen-thien-nhan-ung-cu-dai-bieu-quoc-hoi-o-linh-vuc-khoa-hoc-4250321.html) ([VNExpress](https://vnexpress.net))
-- [Điện Biên khởi tiêm vaccine COVID-19 đầu tiên cho 80 người](https://laodong.vn/video/dien-bien-khoi-tiem-vaccine-covid-19-dau-tien-cho-80-nguoi-890288.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
