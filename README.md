@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 24°C.
 - Feels Like 25.76°C.
-- Air Visual is 104.
+- Air Visual is 106.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Bruno lập cú đúp, Hà Nội chiến thắng 3-2 Thanh Hóa trên sân nhà](https://laodong.vn/photo/bruno-lap-cu-dup-ha-noi-chien-thang-3-2-thanh-hoa-tren-san-nha-890616.ldo) ([Lao Động](https://laodong.vn))
+- [Cụ bà khiến nam thanh niên nhập viện viện vì vô cớ đánh người](https://laodong.vn/the-gioi/cu-ba-khien-nam-thanh-nien-nhap-vien-vien-vi-vo-co-danh-nguoi-890612.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội: Giá đất Hải Bối tăng vọt, cò đất “ăn theo” sau thông tin quy hoạch](https://laodong.vn/bat-dong-san/ha-noi-gia-dat-hai-boi-tang-vot-co-dat-an-theo-sau-thong-tin-quy-hoach-890529.ldo) ([Lao Động](https://laodong.vn))
 - [4 cuốn sách thay đổi đời tôi, và có thể sẽ giúp bạn kiếm nhiều tiền hơn vào năm 2021](https://cafebiz.vn/4-cuon-sach-thay-doi-doi-toi-va-cod-the-se-giup-ban-kiem-nhieu-tien-hon-vao-nam-2021-20210316134029033.chn) ([CafeBiz](https://cafebiz.vn))
 - [2 vợ chồng ở Hải Dương 'hết bệnh về nhà' tái dương tính COVID-19](https://tuoitre.vn/2-vo-chong-o-hai-duong-het-benh-ve-nha-tai-duong-tinh-covid-19-20210318214556262.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Đề xuất tiêm vaccine Covid-19 cho người dân ở khu du lịch](https://vnexpress.net/de-xuat-tiem-vaccine-covid-19-cho-nguoi-dan-o-khu-du-lich-4250584.html) ([VNExpress](https://vnexpress.net))
 - [TPHCM: Trạm thu phí BOT Xa lộ Hà Nội dự kiến thu phí trở lại từ ngày 1.4](https://laodong.vn/kinh-te/tphcm-tram-thu-phi-bot-xa-lo-ha-noi-du-kien-thu-phi-tro-lai-tu-ngay-14-890617.ldo) ([Lao Động](https://laodong.vn))
 - [Trung Quốc triệu tập Alibaba và các tập đoàn công nghệ lớn](https://laodong.vn/the-gioi/trung-quoc-trieu-tap-alibaba-va-cac-tap-doan-cong-nghe-lon-890605.ldo) ([Lao Động](https://laodong.vn))
-- [Hải Dương: Phạt 60 triệu đồng 2 cơ sở chiếu phim tập trung đông người](https://laodong.vn/phap-luat/hai-duong-phat-60-trieu-dong-2-co-so-chieu-phim-tap-trung-dong-nguoi-890620.ldo) ([Lao Động](https://laodong.vn))
 - [7 thói quen xấu nếu bạn không biết tránh thì ngày dẫu dài 48h cũng không thể thành công](https://cafebiz.vn/7-thoi-quen-xau-neu-ban-khong-biet-tranh-thi-ngay-dau-dai-48h-cung-khong-the-thanh-cong-20210316140020544.chn) ([CafeBiz](https://cafebiz.vn))
 - [Tại sao giới siêu giàu lại hay mua xe sang mà họ hiếm khi lái?](https://cafebiz.vn/tai-sao-gioi-sieu-giau-lai-hay-mua-xe-sang-ma-ho-hiem-khi-lai-20210316133146486.chn) ([CafeBiz](https://cafebiz.vn))
-- [Văn Toàn lo lắng phong độ sân khách của Hoàng Anh Gia Lai](https://laodong.vn/bong-da/van-toan-lo-lang-phong-do-san-khach-cua-hoang-anh-gia-lai-890607.ldo) ([Lao Động](https://laodong.vn))
-- [Hà Nội thắng Thanh Hoá trong trận đấu có 5 bàn thắng](https://laodong.vn/bong-da/ha-noi-thang-thanh-hoa-trong-tran-dau-co-5-ban-thang-890606.ldo) ([Lao Động](https://laodong.vn))
+- [Nam điều dưỡng mắc COVID-19 ở Hải Phòng tái dương tính SARS-CoV-2](https://laodong.vn/xa-hoi/nam-dieu-duong-mac-covid-19-o-hai-phong-tai-duong-tinh-sars-cov-2-890609.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
