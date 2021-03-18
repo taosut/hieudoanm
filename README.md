@@ -21,8 +21,8 @@
 
 - Current weather is mist.
 - Temperature is 24°C.
-- Feels Like 26.71°C.
-- Air Visual is 126.
+- Feels Like 26.35°C.
+- Air Visual is 117.
 
 **WEATHER**
 
@@ -53,13 +53,13 @@
 - [![Căn cước công dân gắn chip](https://img.shields.io/static/v1?label=C%C4%83n%20c%C6%B0%E1%BB%9Bc%20c%C3%B4ng%20d%C3%A2n%20g%E1%BA%AFn%20chip&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C4%83n%20c%C6%B0%E1%BB%9Bc%20c%C3%B4ng%20d%C3%A2n%20g%E1%BA%AFn%20chip)
 - [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
 - [![Gọi Rồng Online](https://img.shields.io/static/v1?label=G%E1%BB%8Di%20R%E1%BB%93ng%20Online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G%E1%BB%8Di%20R%E1%BB%93ng%20Online)
-- [![Hướng dương ngược nắng tập 41](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2041&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2041)
 - [![Justice League](https://img.shields.io/static/v1?label=Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justice%20League)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
-- [![Manchester City](https://img.shields.io/static/v1?label=Manchester%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Manchester%20City)
+- [![Man City](https://img.shields.io/static/v1?label=Man%20City&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Man%20City)
 - [![Minari](https://img.shields.io/static/v1?label=Minari&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Minari)
 - [![NASA](https://img.shields.io/static/v1?label=NASA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NASA)
 - [![NSND Lan Hương](https://img.shields.io/static/v1?label=NSND%20Lan%20H%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Lan%20H%C6%B0%C6%A1ng)
+- [![Nguyễn Đức Chung](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung)
 - [![Phạm Nhật Vượng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng)
 - [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
 - [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Đồng Tháp: Mô hình &quot;Tủ sách Công đoàn&quot; phát huy hiệu quả](https://laodong.vn/ldld-dong-thap/dong-thap-mo-hinh-tu-sach-cong-doan-phat-huy-hieu-qua-890308.ldo) ([Lao Động](https://laodong.vn))
+- [71,7 % người lao động cho hay giữ được việc làm hiện tại là rất quan trọng](https://laodong.vn/cong-doan/717--nguoi-lao-dong-cho-hay-giu-duoc-viec-lam-hien-tai-la-rat-quan-trong-890303.ldo) ([Lao Động](https://laodong.vn))
+- [Đất rừng sản xuất có được chuyển nhượng hay không?](https://laodong.vn/bat-dong-san/dat-rung-san-xuat-co-duoc-chuyen-nhuong-hay-khong-889197.ldo) ([Lao Động](https://laodong.vn))
+- [Vẽ dự án đầu tư &quot;ma&quot;, Tổng giám đốc Khanh Group lừa hơn 80 tỉ đồng](https://laodong.vn/phap-luat/ve-du-an-dau-tu-ma-tong-giam-doc-khanh-group-lua-hon-80-ti-dong-890282.ldo) ([Lao Động](https://laodong.vn))
+- [Hải Dương: Công nhân Công ty Poyun Việt Nam đi làm trở lại từ sáng 18.3](https://laodong.vn/cong-doan/hai-duong-cong-nhan-cong-ty-poyun-viet-nam-di-lam-tro-lai-tu-sang-183-890305.ldo) ([Lao Động](https://laodong.vn))
+- [Chi tiết thủ tục đổi chứng minh nhân dân sang căn cước công dân gắn chip](https://laodong.vn/phap-luat/chi-tiet-thu-tuc-doi-chung-minh-nhan-dan-sang-can-cuoc-cong-dan-gan-chip-890297.ldo) ([Lao Động](https://laodong.vn))
 - [Thêm ứng dụng chung số phận Facebook, Google tại Trung Quốc?](https://cafebiz.vn/them-ung-dung-chung-so-phan-facebook-google-tai-trung-quoc-20210318084110965.chn) ([CafeBiz](https://cafebiz.vn))
 - [Muốn thu hồi, xử lý xe máy cũ nát phải có cơ chế, chính sách cụ thể](https://laodong.vn/xa-hoi/muon-thu-hoi-xu-ly-xe-may-cu-nat-phai-co-co-che-chinh-sach-cu-the-890148.ldo) ([Lao Động](https://laodong.vn))
 - [Cuối tuần miền Bắc đón mưa giông](https://vnexpress.net/cuoi-tuan-mien-bac-don-mua-giong-4250152.html) ([VNExpress](https://vnexpress.net))
+- [TP.HCM thông qua danh sách sơ bộ 51 hồ sơ ứng cử ĐBQH](http://vietnamnet.vn/vn/thoi-su/quoc-hoi/tp-hcm-thong-qua-danh-sach-so-bo-51-ho-so-ung-cu-dbqh-720473.html) ([VietNamNet](https://vietnamnet.vn))
 - [Giao dịch di động tại Việt Nam sẽ tăng gấp 4 lần trong giai đoạn 2021-2025](https://cafebiz.vn/giao-dich-di-dong-tai-viet-nam-se-tang-gap-4-lan-trong-giai-doan-2021-2025-20210317183304459.chn) ([CafeBiz](https://cafebiz.vn))
-- [5 ôtô tông liên hoàn trên quốc lộ 51](https://vnexpress.net/5-oto-tong-lien-hoan-tren-quoc-lo-51-4250205.html) ([VNExpress](https://vnexpress.net))
-- [Jack Ma bị hậu bối vượt mặt, sở hữu sàn thương mại điện tử có lượng người dùng lớn hơn cả Alibaba dù mới thành lập 5 năm](https://cafebiz.vn/jack-ma-bi-hau-boi-vuot-mat-so-huu-san-thuong-mai-dien-tu-co-luong-nguoi-dung-lon-hon-ca-alibaba-du-moi-thanh-lap-5-nam-20210318101550219.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nuôi mẹ già cùng 2 chị tâm thần, người cha ngã quỵ khi con trai 10 tháng mắc bệnh nguy hiểm: Bán hết ruộng vẫn không đủ tiền cứu chữa!](https://cafebiz.vn/nuoi-me-gia-cung-2-chi-tam-than-nguoi-cha-nga-quy-khi-con-trai-10-thang-mac-benh-nguy-hiem-ban-het-ruong-van-khong-du-tien-cuu-chua-2021031810141606.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cả nước sơ bộ có 1.161 người ứng cử đại biểu Quốc hội khoá XV](https://laodong.vn/thoi-su/ca-nuoc-so-bo-co-1161-nguoi-ung-cu-dai-bieu-quoc-hoi-khoa-xv-890270.ldo) ([Lao Động](https://laodong.vn))
-- [Giới thiệu ông Phạm Minh Chính ứng cử Quốc hội khối Chính phủ](https://vnexpress.net/gioi-thieu-ong-pham-minh-chinh-ung-cu-quoc-hoi-khoi-chinh-phu-4250202.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
