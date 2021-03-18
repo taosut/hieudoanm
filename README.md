@@ -19,17 +19,17 @@
 
 **CALENDAR**
 
-- Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 29.02°C.
-- Air Visual is 114.
+- Current weather is undefined.
+- Temperature is 0°C.
+- Feels Like 0°C.
+- Air Visual is 0.
 
 **WEATHER**
 
 - Date: 2021/03/18
-- Lunar: 2021/02/06
-- Tiet Khi: Đông chí.
-- năm canh tý tháng kỷ sửu ngày ất dậu.
+- Lunar: 0/00/00
+- Tiet Khi: Lập xuân.
+- năm tân sửu tháng tân mão ngày ất sửu.
 
 **NPM**
 
@@ -48,26 +48,7 @@
 
 **GOOGLE TRENDS**
 
-- [![Bayern Munich](https://img.shields.io/static/v1?label=Bayern%20Munich&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern%20Munich)
-- [![Chelsea](https://img.shields.io/static/v1?label=Chelsea&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Chelsea)
-- [![Căn cước công dân gắn chip](https://img.shields.io/static/v1?label=C%C4%83n%20c%C6%B0%E1%BB%9Bc%20c%C3%B4ng%20d%C3%A2n%20g%E1%BA%AFn%20chip&message=google&color=red&style=flat-square)](https://www.google.com/search?q=C%C4%83n%20c%C6%B0%E1%BB%9Bc%20c%C3%B4ng%20d%C3%A2n%20g%E1%BA%AFn%20chip)
-- [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
-- [![Gọi Rồng Online](https://img.shields.io/static/v1?label=G%E1%BB%8Di%20R%E1%BB%93ng%20Online&message=google&color=red&style=flat-square)](https://www.google.com/search?q=G%E1%BB%8Di%20R%E1%BB%93ng%20Online)
-- [![Hướng dương ngược nắng tập 42](https://img.shields.io/static/v1?label=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2042&message=google&color=red&style=flat-square)](https://www.google.com/search?q=H%C6%B0%E1%BB%9Bng%20d%C6%B0%C6%A1ng%20ng%C6%B0%E1%BB%A3c%20n%E1%BA%AFng%20t%E1%BA%ADp%2042)
-- [![Justice League](https://img.shields.io/static/v1?label=Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justice%20League)
-- [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
-- [![NSND Lan Hương](https://img.shields.io/static/v1?label=NSND%20Lan%20H%C6%B0%C6%A1ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=NSND%20Lan%20H%C6%B0%C6%A1ng)
-- [![Nguyễn Đức Chung](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung)
-- [![Phạm Minh Chính](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh)
-- [![Phạm Nhật Vượng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng)
-- [![Real Madrid](https://img.shields.io/static/v1?label=Real%20Madrid&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Real%20Madrid)
-- [![Redmi Note 10](https://img.shields.io/static/v1?label=Redmi%20Note%2010&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Redmi%20Note%2010)
-- [![Torino](https://img.shields.io/static/v1?label=Torino&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Torino)
-- [![Trấn Thành](https://img.shields.io/static/v1?label=Tr%E1%BA%A5n%20Th%C3%A0nh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Tr%E1%BA%A5n%20Th%C3%A0nh)
-- [![VTV3 Trực tiếp](https://img.shields.io/static/v1?label=VTV3%20Tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20Tr%E1%BB%B1c%20ti%E1%BA%BFp)
-- [![Vương Đình Huệ](https://img.shields.io/static/v1?label=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87)
-- [![iPhone 13](https://img.shields.io/static/v1?label=iPhone%2013&message=google&color=red&style=flat-square)](https://www.google.com/search?q=iPhone%2013)
-- [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
+
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +56,7 @@
 
 **NEWS**
 
-- [Chuyện lạ: Công ty Nhật Bản cho nhân viên nghỉ có lương để giải sầu khi thần tượng kết hôn](https://cafebiz.vn/chuyen-la-cong-ty-nhat-ban-cho-nhan-vien-nghi-co-luong-de-giai-sau-khi-than-tuong-ket-hon-20210318153356519.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sự thiếu hụt chip toàn cầu ảnh hưởng tới tất cả các nhà sản xuất smartphone, trừ Apple](https://cafebiz.vn/su-thieu-hut-chip-toan-cau-anh-huong-toi-tat-ca-cac-nha-san-xuat-smartphone-tru-apple-20210318140036322.chn) ([CafeBiz](https://cafebiz.vn))
-- [Rời bỏ sự tự do cùng thu nhập 40-50 triệu/tháng, game thủ 27 tuổi “gác kiếm” nối nghiệp gia đình, trở thành chủ nhà may com-lê danh tiếng ở TPHCM](https://cafebiz.vn/roi-bo-su-tu-do-cung-thu-nhap-40-50-trieu-thang-game-thu-27-tuoi-gac-kiem-noi-nghiep-gia-dinh-tro-thanh-chu-nha-may-com-le-danh-tieng-o-tphcm-20210318151430454.chn) ([CafeBiz](https://cafebiz.vn))
-- [Công an TPHCM đã tiếp nhận hơn 200.000 hồ sơ căn cước công dân có gắn chíp](https://laodong.vn/xa-hoi/cong-an-tphcm-da-tiep-nhan-hon-200000-ho-so-can-cuoc-cong-dan-co-gan-chip-890416.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ mang bầu ứng cứu chồng đánh đuổi nhóm trộm giữa ban ngày](https://laodong.vn/phap-luat/vo-mang-bau-ung-cuu-chong-danh-duoi-nhom-trom-giua-ban-ngay-890411.ldo) ([Lao Động](https://laodong.vn))
-- [Sự thẳng thắn của Lee Nguyễn và điểm hạn chế của đội TPHCM](https://laodong.vn/bong-da/su-thang-than-cua-lee-nguyen-va-diem-han-che-cua-doi-tphcm-890279.ldo) ([Lao Động](https://laodong.vn))
-- [Diễn đàn đối thoại &quot;Đảng với thanh niên - Thanh niên với Đảng&quot;](https://laodong.vn/ldld-son-la/dien-dan-doi-thoai-dang-voi-thanh-nien-thanh-nien-voi-dang-890423.ldo) ([Lao Động](https://laodong.vn))
-- [Đại hội cổ đông 'kỳ lạ' của Samsung: Số người tham dự giảm 1 nửa, Phó chủ tịch vắng mặt vì đang ngồi tù, người biểu tình phản đối rầm rộ ngay phía ngoài](https://cafebiz.vn/dai-hoi-co-dong-ky-la-cua-samsung-so-nguoi-tham-du-giam-1-nua-pho-chu-tich-vang-mat-vi-dang-ngoi-tu-nguoi-bieu-tinh-phan-doi-ram-ro-ngay-phia-ngoai-20210318152046625.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thời hạn chứng chỉ chức danh ngoại ngữ của giáo viên](https://laodong.vn/giao-duc/thoi-han-chung-chi-chuc-danh-ngoai-ngu-cua-giao-vien-890410.ldo) ([Lao Động](https://laodong.vn))
-- [Đề xuất đầu tư cao tốc TP HCM - Chơn Thành 36.000 tỷ đồng](https://vnexpress.net/de-xuat-dau-tu-cao-toc-tp-hcm-chon-thanh-36-000-ty-dong-4250442.html) ([VNExpress](https://vnexpress.net))
+
 
 [Read More](docs/news/README.md)
 
@@ -113,16 +85,7 @@
 
 **MUSIC TRENDS**
 
-01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
-02. [Dua Lipa - Levitating ft. DaBaby / Don't Start Now (Live at the GRAMMYs 2021)](https://www.youtube.com/watch?v=vFWv44Z4Jhk) - [Dua Lipa](https://www.youtube.com/channel/UC-J-KZfRV8c13fOCkhXdLiQ)
-03. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
-04. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
-05. [ROSÉ - GONE (Lyrics)](https://www.youtube.com/watch?v=9iBxbf2fjgw) - [Vibe Music](https://www.youtube.com/channel/UChO8h2G8UjOVc081rgYU8XQ)
-06. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
-07. [Billie Eilish - everything i wanted (Live From The 63rd GRAMMYs®/2021)](https://www.youtube.com/watch?v=aVAKT9UxJMI) - [BillieEilishVEVO](https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg)
-08. [SUPER JUNIOR 슈퍼주니어 'House Party' MV](https://www.youtube.com/watch?v=BtJMOVKjhUo) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
-09. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
-10. [LỜI XIN LỖI VỤNG VỀ - QUÂN A.P | OFFICIAL MV](https://www.youtube.com/watch?v=LhTwcqI71n0) - [Quân A.P Official](https://www.youtube.com/channel/UCXKnIgvBwPV6G-uT7gBXhcA)
+
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -130,16 +93,7 @@
 
 **YOUTUBE TRENDS**
 
-01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
-02. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
-03. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
-04. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
-05. [TẠM BIỆT...](https://www.youtube.com/watch?v=5djwsYBZ7ys) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
-06. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
-07. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
-08. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
-09. [Quan Võ Cũng Phải Rớt Đài Bởi 1 Thanh Niên Nhà Quê | Phim Mới 2021](https://www.youtube.com/watch?v=FlwUpa42bBg) - [MỌT PHIM HAY](https://www.youtube.com/channel/UCwA1tWFLrkJpZRiwG_P68Gg)
-10. [YÊN TÂM ĐI LÍNH, NGƯỜI YÊU MÀY Ở NHÀ TAO LO | PHIM TÌNH CẢM THANH XUÂN GÃY SCHOOL](https://www.youtube.com/watch?v=7dZgf6_f0-A) - [GÃY SCHOOL](https://www.youtube.com/channel/UCgPMNspYfOQlezMbnjh1Irg)
+
 
 [Read More](https://www.youtube.com/feed/trending)
 
