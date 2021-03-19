@@ -17,20 +17,6 @@
 
 <table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
-**CALENDAR**
-
-- Current weather is broken clouds.
-- Temperature is 27°C.
-- Feels Like 27.72°C.
-- Air Visual is 84.
-
-**WEATHER**
-
-- Date: 2021/03/19
-- Lunar: 2021/02/07
-- Tiet Khi: Đông chí.
-- năm canh tý tháng kỷ sửu ngày bính tuất.
-
 **NPM**
 
 - [![download](https://img.shields.io/npm/dm/giaohangnhanh.svg?style=flat-square&label=giaohangnhanh&color=red)](https://www.npmjs.com/package/giaohangnhanh)
@@ -46,35 +32,11 @@
 
 </td><td valign="top" width="33%">
 
-**GOOGLE TRENDS**
-
-- [![Bayern Munich](https://img.shields.io/static/v1?label=Bayern%20Munich&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern%20Munich)
-- [![Billie Eilish](https://img.shields.io/static/v1?label=Billie%20Eilish&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Billie%20Eilish)
-- [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
-- [![Europa](https://img.shields.io/static/v1?label=Europa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa)
-- [![Galaxy A52](https://img.shields.io/static/v1?label=Galaxy%20A52&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Galaxy%20A52)
-- [![Justice League](https://img.shields.io/static/v1?label=Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justice%20League)
-- [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
-- [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
-- [![Nguyễn Xuân Phúc](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Xu%C3%A2n%20Ph%C3%BAc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Xu%C3%A2n%20Ph%C3%BAc)
-- [![Nguyễn Đức Chung](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung)
-- [![Phạm Minh Chính](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh)
-- [![Phạm Nhật Vượng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng)
-- [![Rắn chàm quạp](https://img.shields.io/static/v1?label=R%E1%BA%AFn%20ch%C3%A0m%20qu%E1%BA%A1p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=R%E1%BA%AFn%20ch%C3%A0m%20qu%E1%BA%A1p)
-- [![SLNA](https://img.shields.io/static/v1?label=SLNA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=SLNA)
-- [![Thiên hạ hữu tình nhân](https://img.shields.io/static/v1?label=Thi%C3%AAn%20h%E1%BA%A1%20h%E1%BB%AFu%20t%C3%ACnh%20nh%C3%A2n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thi%C3%AAn%20h%E1%BA%A1%20h%E1%BB%AFu%20t%C3%ACnh%20nh%C3%A2n)
-- [![V-League](https://img.shields.io/static/v1?label=V-League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V-League)
-- [![VTV3 trực tiếp](https://img.shields.io/static/v1?label=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp)
-- [![Vương Đình Huệ](https://img.shields.io/static/v1?label=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87)
-- [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
-- [![Đánh giá năng lực](https://img.shields.io/static/v1?label=%C4%90%C3%A1nh%20gi%C3%A1%20n%C4%83ng%20l%E1%BB%B1c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C3%A1nh%20gi%C3%A1%20n%C4%83ng%20l%E1%BB%B1c)
-
-[Read More](https://trends.google.com/trends/?geo=VN)
-
-</td><td valign="top" width="33%">
-
 **NEWS**
 
+- [Sẵn sàng hạ tầng kỹ thuật cho 'hộ chiếu vaccine' từ tháng 4](https://vnexpress.net/san-sang-ha-tang-ky-thuat-cho-ho-chieu-vaccine-tu-thang-4-4250928.html) ([VNExpress](https://vnexpress.net))
+- [Bình Dương: Tai nạn giao thông làm 2 công nhân xây dựng tử vong](https://laodong.vn/xa-hoi/binh-duong-tai-nan-giao-thong-lam-2-cong-nhan-xay-dung-tu-vong-890778.ldo) ([Lao Động](https://laodong.vn))
+- [Tiếng Hàn trở thành môn thi tốt nghiệp THPT: Học sinh, giáo viên nói gì?](https://laodong.vn/video/tieng-han-tro-thanh-mon-thi-tot-nghiep-thpt-hoc-sinh-giao-vien-noi-gi-890773.ldo) ([Lao Động](https://laodong.vn))
 - [Một thanh niên nghi rơi từ tầng 2 khu cách ly xuống đất tử vong](https://laodong.vn/xa-hoi/mot-thanh-nien-nghi-roi-tu-tang-2-khu-cach-ly-xuong-dat-tu-vong-890784.ldo) ([Lao Động](https://laodong.vn))
 - [Trong khi Jack Ma bị vùi dập vì "vạ miệng", người đàn ông này có thể là tấm gương cho giới hạn phát ngôn ở Trung Quốc](https://cafebiz.vn/trong-khi-jack-ma-bi-vui-dap-vi-va-mieng-nguoi-dan-ong-nay-co-the-la-tam-guong-cho-gioi-han-phat-ngon-o-trung-quoc-20210319133640048.chn) ([CafeBiz](https://cafebiz.vn))
 - [Có một thứ độc hại kinh khủng, còn hơn cả hít khói thuốc với cả thể chất và tinh thần nhưng nhiều người vẫn âm thầm chịu đựng: SẾP TỒI](https://cafebiz.vn/co-mot-thu-doc-hai-kinh-khung-con-hon-ca-hit-khoi-thuoc-voi-ca-the-chat-va-tinh-than-nhung-nhieu-nguoi-van-am-tham-chiu-dung-sep-toi-20210319141608607.chn) ([CafeBiz](https://cafebiz.vn))
@@ -82,32 +44,8 @@
 - [PVcomBank đồng hành cùng sinh viên nghèo](https://laodong.vn/kinh-te/pvcombank-dong-hanh-cung-sinh-vien-ngheo-890728.ldo) ([Lao Động](https://laodong.vn))
 - [Cách đăng ký thẻ bảo hiểm y tế cho con](https://laodong.vn/ban-doc/cach-dang-ky-the-bao-hiem-y-te-cho-con-890771.ldo) ([Lao Động](https://laodong.vn))
 - [Apple cảnh cáo 'ngầm' các nhà phát triển Trung Quốc](https://cafebiz.vn/apple-canh-cao-ngam-cac-nha-phat-trien-trung-quoc-20210319134550032.chn) ([CafeBiz](https://cafebiz.vn))
-- [Công bố kết quả sơ bộ thử nghiệm vaccine mới của Trung Quốc tại Chile](https://laodong.vn/the-gioi/cong-bo-ket-qua-so-bo-thu-nghiem-vaccine-moi-cua-trung-quoc-tai-chile-890761.ldo) ([Lao Động](https://laodong.vn))
-- [Tàu Cát Linh - Hà Đông trước ngày bàn giao về Hà Nội](https://vnexpress.net/tau-cat-linh-ha-dong-truoc-ngay-ban-giao-ve-ha-noi-4250897.html) ([VNExpress](https://vnexpress.net))
-- [Cách đàn ông xử lý hiệu quả mâu thuẫn giữa vợ và gia đình nhà chồng](https://laodong.vn/chuyen-nha-minh/cach-dan-ong-xu-ly-hieu-qua-mau-thuan-giua-vo-va-gia-dinh-nha-chong-890731.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
-
-</td></tr></tbody></table>
-
-<h2 align="center">TODAY</h2>
-
-<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
-
-**VIETCETERA**
-
-- [Bóc Term: Vtuber là gì mà PewDiePie cũng muốn dấn thân?](https://vietcetera.com/vn/boc-term-vtuber-la-gi-ma-pewdiepie-cung-muon-dan-than)
-- [Lời khuyên để bạn tìm được nửa kia hoàn hảo](https://vietcetera.com/vn/loi-khuyen-de-ban-tim-duoc-nua-kia-hoan-hao)
-- [Tóm Lại Là: Tưởng là dùng dịch vụ stream nhưng hoá ra truyền hình cáp?](https://vietcetera.com/vn/tom-lai-la-su-chuyen-minh-cua-cac-dich-vu-streaming-tu-disney-toi-netflix)
-- [4 Cách để bảo vệ chất xám của mình trên nền tảng internet](https://vietcetera.com/vn/4-cach-de-bao-ve-chat-xam-cua-minh-tren-nen-tang-internet)
-- ["Sài Gòn - Đà Lạt là thấy không bền rồi, huống gì Mỹ - Việt Nam!"](https://vietcetera.com/vn/sai-gon-da-lat-la-thay-khong-ben-roi-huong-gi-my-viet-nam)
-- [Tóm Lại Là: Hộ chiếu vaccine COVID-19 bắt đầu thời kỳ bình thường mới?](https://vietcetera.com/vn/tom-lai-la-ho-chieu-vaccine-covid-thong-le-cua-thoi-binh-thuong-moi)
-- [Đạo diễn phim "Ròm" Trần Thanh Huy và dự án mới “11:00 pm”](https://vietcetera.com/vn/dao-dien-phim-rom-tran-thanh-huy-va-du-an-moi-11-gio)
-- [Vì sao ta không thể tự cù lét mình?](https://vietcetera.com/vn/vi-sao-ta-khong-the-tu-cu-let-minh)
-- [Lifestyle Platform - Mua mọi thứ, ăn mọi món trong một cửa hàng vài chục mét vuông.](https://vietcetera.com/vn/lifestyle-platform-mua-moi-thu-an-moi-mon-trong-mot-cua-hang-vai-chuc-met-vuong)
-- [Mua hàng sale có đồng nghĩa với tiết kiệm?](https://vietcetera.com/vn/mua-hang-sale-co-dong-nghia-voi-tiet-kiem)
-
-[Read More](https://vietcetera.com/)
 
 </td><td valign="top" width="33%">
 
@@ -126,7 +64,11 @@
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
-</td><td valign="top" width="33%">
+</td></tr></tbody></table>
+
+<h2 align="center">TODAY</h2>
+
+<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
 
 **YOUTUBE TRENDS**
 
@@ -142,5 +84,9 @@
 10. [YÊN TÂM ĐI LÍNH, NGƯỜI YÊU MÀY Ở NHÀ TAO LO | PHIM TÌNH CẢM THANH XUÂN GÃY SCHOOL](https://www.youtube.com/watch?v=7dZgf6_f0-A) - [GÃY SCHOOL](https://www.youtube.com/channel/UCgPMNspYfOQlezMbnjh1Irg)
 
 [Read More](https://www.youtube.com/feed/trending)
+
+</td><td valign="top" width="33%">
+
+</td><td valign="top" width="33%">
 
 </td></tr></tbody></table>

@@ -37,7 +37,8 @@
     "remark-html": "^13.0.1",
     "request": "^2.88.2",
     "sass": "^1.32.8",
-    "tesseract.js": "^2.1.4"
+    "tesseract.js": "^2.1.4",
+    "vietcetera": "^1.0.0"
   },
   "devDependencies": {
     "@types/node": "^14.14.32",

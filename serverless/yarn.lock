@@ -4140,6 +4140,13 @@ vfile@^4.0.0:
     unist-util-stringify-position "^2.0.0"
     vfile-message "^2.0.0"
 
+vietcetera@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/vietcetera/-/vietcetera-1.0.0.tgz#3140ffba41fded2aa564f5e83d01a1e644932229"
+  integrity sha512-Hvbqk1jK7pfPmP4GAozOfIGEt2m/mIQ09JGCT8w2j5zY5687xgJpb/DkrkvI934d9RXEZa0mnPMBUQzX75W+Pg==
+  dependencies:
+    node-fetch "^2.6.1"
+
 vm-browserify@1.1.2, vm-browserify@^1.0.1:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.2.tgz#78641c488b8e6ca91a75f511e7a3b32a86e5dda0"
