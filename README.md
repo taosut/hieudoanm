@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 27°C.
 - Feels Like 28.19°C.
-- Air Visual is 102.
+- Air Visual is 98.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Người mua ve chai nhặt được hơn một cây vàng](https://vnexpress.net/nguoi-mua-ve-chai-nhat-duoc-hon-mot-cay-vang-4250893.html) ([VNExpress](https://vnexpress.net))
-- [Cựu giảng viên đại học làm ăn thua lỗ, nợ nần đi buôn ma túy liên tỉnh](https://cafebiz.vn/cuu-giang-vien-dai-hoc-lam-an-thua-lo-no-nan-di-buon-ma-tuy-lien-tinh-20210319134844278.chn) ([CafeBiz](https://cafebiz.vn))
-- [4 công ty có trụ sở Hà Nội huy động 5.300 tỷ đồng mua dự án 9,6 hécta Quận 2 của Novaland](https://cafebiz.vn/4-cong-ty-co-tru-so-ha-noi-huy-dong-5300-ty-dong-mua-du-an-96-hecta-quan-2-cua-novaland-20210319134818243.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dân làng Tây Tựu phấn khởi vì giá hoa 'hồi sinh'](https://cafebiz.vn/nguoi-dan-lang-tay-tuu-phan-khoi-vi-gia-hoa-hoi-sinh-20210319134250387.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thêm 3 ca dương tính SARS-CoV-2 ở ổ dịch Kim Thành](https://cafebiz.vn/them-3-ca-duong-tinh-sars-cov-2-o-o-dich-kim-thanh-20210319134117177.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hà Nội sẵn sàng tiếp nhận đường sắt Cát Linh - Hà Đông](https://laodong.vn/xa-hoi/ha-noi-san-sang-tiep-nhan-duong-sat-cat-linh-ha-dong-890770.ldo) ([Lao Động](https://laodong.vn))
-- [Chọn laptop văn phòng, tham khảo ngay 3 mẫu máy vô cùng đáng mua tới từ Acer](https://cafebiz.vn/chon-laptop-van-phong-tham-khao-ngay-3-mau-may-vo-cung-dang-mua-toi-tu-acer-20210319113848717.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đáp ứng mọi nhu cầu di chuyển với XL7 chỉ từ 73,5 triệu đồng](https://cafebiz.vn/dap-ung-moi-nhu-cau-di-chuyen-voi-xl7-chi-tu-735-trieu-dong-20210319104154867.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nguy cơ cao dịch bệnh trên thủy sản, Bộ NNPTNT xây dựng kế hoạch phòng chống](https://laodong.vn/kinh-te/nguy-co-cao-dich-benh-tren-thuy-san-bo-nnptnt-xay-dung-ke-hoach-phong-chong-890768.ldo) ([Lao Động](https://laodong.vn))
-- [Thanh niên tử vong nghi do rơi từ tầng 2 khu cách ly y tế ở Hà Tĩnh](http://vietnamnet.vn/vn/thoi-su/thanh-nien-tu-vong-nghi-do-roi-tu-tang-2-khu-cach-ly-y-te-o-ha-tinh-720851.html) ([VietNamNet](https://vietnamnet.vn))
+- [Ông Lê Hoài Trung làm Trưởng ban Đối ngoại Trung ương](https://vnexpress.net/ong-le-hoai-trung-lam-truong-ban-doi-ngoai-trung-uong-4250890.html) ([VNExpress](https://vnexpress.net))
+- [Bà Mai Kiều Liên: Sau thương vụ GTNFoods - Vilico, trong vòng 5-10 năm tới Vinamilk sẽ không thực hiện M&A thêm](https://cafebiz.vn/ba-mai-kieu-lien-sau-thuong-vu-gtnfoods-vilico-trong-vong-5-10-nam-toi-vinamilk-se-khong-thuc-hien-ma-them-20210319140304407.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người dân TP.Thủ Đức trải nghiệm làm CCCD gắn chíp trên xe lưu động](https://laodong.vn/photo/nguoi-dan-tpthu-duc-trai-nghiem-lam-cccd-gan-chip-tren-xe-luu-dong-890743.ldo) ([Lao Động](https://laodong.vn))
+- [Tìm bị hại liên quan vụ vỡ hụi xảy ra vào năm 1995 ở Cần Thơ](https://cafebiz.vn/tim-bi-hai-lien-quan-vu-vo-hui-xay-ra-vao-nam-1995-o-can-tho-20210319134726864.chn) ([CafeBiz](https://cafebiz.vn))
+- [Học ngành Logistics: Cơ hội việc làm có tiềm năng?](https://laodong.vn/video-thoi-su/hoc-nganh-logistics-co-hoi-viec-lam-co-tiem-nang-890726.ldo) ([Lao Động](https://laodong.vn))
+- [Lý giải nguyên nhân những ca gặp phản ứng nặng sau tiêm vaccine COVID-19](https://laodong.vn/video-thoi-su/ly-giai-nguyen-nhan-nhung-ca-gap-phan-ung-nang-sau-tiem-vaccine-covid-19-890634.ldo) ([Lao Động](https://laodong.vn))
+- [Vợ cũ đi lấy chồng, ai được quyền nuôi con?](https://laodong.vn/tu-van-phap-luat/vo-cu-di-lay-chong-ai-duoc-quyen-nuoi-con-890446.ldo) ([Lao Động](https://laodong.vn))
+- [Bật mí xu hướng “chăm sóc sức khỏe cho người khỏe”](https://laodong.vn/suc-khoe/bat-mi-xu-huong-cham-soc-suc-khoe-cho-nguoi-khoe-890671.ldo) ([Lao Động](https://laodong.vn))
+- [6 phụ nữ gốc Á thiệt mạng trong vụ xả súng tại Mỹ làm dấy lên lo ngại](https://laodong.vn/the-gioi/6-phu-nu-goc-a-thiet-mang-trong-vu-xa-sung-tai-my-lam-day-len-lo-ngai-890724.ldo) ([Lao Động](https://laodong.vn))
+- [Ví điện tử Appota tung chiêu hút người dùng: Hợp tác với ngân hàng OCB, tặng ưu đãi lên tới 200k/người](https://cafebiz.vn/vi-dien-tu-appota-tung-chieu-hut-nguoi-dung-hop-tac-voi-ngan-hang-ocb-tang-uu-dai-len-toi-200k-nguoi-20210319103542537.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
