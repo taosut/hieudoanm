@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 27°C.
-- Feels Like 28.19°C.
-- Air Visual is 98.
+- Feels Like 27.72°C.
+- Air Visual is 101.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Ông Lê Hoài Trung làm Trưởng ban Đối ngoại Trung ương](https://vnexpress.net/ong-le-hoai-trung-lam-truong-ban-doi-ngoai-trung-uong-4250890.html) ([VNExpress](https://vnexpress.net))
-- [Bà Mai Kiều Liên: Sau thương vụ GTNFoods - Vilico, trong vòng 5-10 năm tới Vinamilk sẽ không thực hiện M&A thêm](https://cafebiz.vn/ba-mai-kieu-lien-sau-thuong-vu-gtnfoods-vilico-trong-vong-5-10-nam-toi-vinamilk-se-khong-thuc-hien-ma-them-20210319140304407.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dân TP.Thủ Đức trải nghiệm làm CCCD gắn chíp trên xe lưu động](https://laodong.vn/photo/nguoi-dan-tpthu-duc-trai-nghiem-lam-cccd-gan-chip-tren-xe-luu-dong-890743.ldo) ([Lao Động](https://laodong.vn))
-- [Tìm bị hại liên quan vụ vỡ hụi xảy ra vào năm 1995 ở Cần Thơ](https://cafebiz.vn/tim-bi-hai-lien-quan-vu-vo-hui-xay-ra-vao-nam-1995-o-can-tho-20210319134726864.chn) ([CafeBiz](https://cafebiz.vn))
-- [Học ngành Logistics: Cơ hội việc làm có tiềm năng?](https://laodong.vn/video-thoi-su/hoc-nganh-logistics-co-hoi-viec-lam-co-tiem-nang-890726.ldo) ([Lao Động](https://laodong.vn))
-- [Lý giải nguyên nhân những ca gặp phản ứng nặng sau tiêm vaccine COVID-19](https://laodong.vn/video-thoi-su/ly-giai-nguyen-nhan-nhung-ca-gap-phan-ung-nang-sau-tiem-vaccine-covid-19-890634.ldo) ([Lao Động](https://laodong.vn))
-- [Vợ cũ đi lấy chồng, ai được quyền nuôi con?](https://laodong.vn/tu-van-phap-luat/vo-cu-di-lay-chong-ai-duoc-quyen-nuoi-con-890446.ldo) ([Lao Động](https://laodong.vn))
-- [Bật mí xu hướng “chăm sóc sức khỏe cho người khỏe”](https://laodong.vn/suc-khoe/bat-mi-xu-huong-cham-soc-suc-khoe-cho-nguoi-khoe-890671.ldo) ([Lao Động](https://laodong.vn))
-- [6 phụ nữ gốc Á thiệt mạng trong vụ xả súng tại Mỹ làm dấy lên lo ngại](https://laodong.vn/the-gioi/6-phu-nu-goc-a-thiet-mang-trong-vu-xa-sung-tai-my-lam-day-len-lo-ngai-890724.ldo) ([Lao Động](https://laodong.vn))
-- [Ví điện tử Appota tung chiêu hút người dùng: Hợp tác với ngân hàng OCB, tặng ưu đãi lên tới 200k/người](https://cafebiz.vn/vi-dien-tu-appota-tung-chieu-hut-nguoi-dung-hop-tac-voi-ngan-hang-ocb-tang-uu-dai-len-toi-200k-nguoi-20210319103542537.chn) ([CafeBiz](https://cafebiz.vn))
+- [Có một thứ độc hại kinh khủng, còn hơn cả hít khói thuốc với cả thể chất và tinh thần nhưng nhiều người vẫn âm thầm chịu đựng: SẾP TỒI](https://cafebiz.vn/co-mot-thu-doc-hai-kinh-khung-con-hon-ca-hit-khoi-thuoc-voi-ca-the-chat-va-tinh-than-nhung-nhieu-nguoi-van-am-tham-chiu-dung-sep-toi-20210319141608607.chn) ([CafeBiz](https://cafebiz.vn))
+- [Bắt nữ quái 9x lừa bán vé máy bay "giải cứu" người mắc kẹt vì Covid-19 về nước](https://cafebiz.vn/bat-nu-quai-9x-lua-ban-ve-may-bay-giai-cuu-nguoi-mac-ket-vi-covid-19-ve-nuoc-20210319135109469.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cách đăng ký thẻ bảo hiểm y tế cho con](https://laodong.vn/ban-doc/cach-dang-ky-the-bao-hiem-y-te-cho-con-890771.ldo) ([Lao Động](https://laodong.vn))
+- [Apple cảnh cáo 'ngầm' các nhà phát triển Trung Quốc](https://cafebiz.vn/apple-canh-cao-ngam-cac-nha-phat-trien-trung-quoc-20210319134550032.chn) ([CafeBiz](https://cafebiz.vn))
+- [Công bố kết quả sơ bộ thử nghiệm vaccine mới của Trung Quốc tại Chile](https://laodong.vn/the-gioi/cong-bo-ket-qua-so-bo-thu-nghiem-vaccine-moi-cua-trung-quoc-tai-chile-890761.ldo) ([Lao Động](https://laodong.vn))
+- [Tàu Cát Linh - Hà Đông trước ngày bàn giao về Hà Nội](https://vnexpress.net/tau-cat-linh-ha-dong-truoc-ngay-ban-giao-ve-ha-noi-4250897.html) ([VNExpress](https://vnexpress.net))
+- [Cách đàn ông xử lý hiệu quả mâu thuẫn giữa vợ và gia đình nhà chồng](https://laodong.vn/chuyen-nha-minh/cach-dan-ong-xu-ly-hieu-qua-mau-thuan-giua-vo-va-gia-dinh-nha-chong-890731.ldo) ([Lao Động](https://laodong.vn))
+- [HSBC: Chứng khoán Việt Nam ngày càng đáng đầu tư](https://cafebiz.vn/hsbc-chung-khoan-viet-nam-ngay-cang-dang-dau-tu-20210319142031211.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mắc bệnh ung thư có phải án tử? “Biệt dược” nào để chữa bệnh ung thư?](https://laodong.vn/y-te/mac-benh-ung-thu-co-phai-an-tu-biet-duoc-nao-de-chua-benh-ung-thu-890767.ldo) ([Lao Động](https://laodong.vn))
+- [Trong talkshow về kinh doanh, tiến sỹ Lê Thẩm Dương chia sẻ "nhầm" một lý thuyết điển hình trong kinh tế?](https://cafebiz.vn/trong-talkshow-ve-kinh-doanh-tien-sy-le-tham-duong-chia-se-nham-mot-ly-thuyet-dien-hinh-trong-kinh-te-20210319110312176.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
