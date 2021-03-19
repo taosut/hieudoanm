@@ -34,16 +34,16 @@
 
 **NEWS**
 
+- [Clip &quot;cô giáo&quot; luyện chữ cầm thước đánh học sinh: Công an vào cuộc xác minh](https://laodong.vn/xa-hoi/clip-co-giao-luyen-chu-cam-thuoc-danh-hoc-sinh-cong-an-vao-cuoc-xac-minh-890794.ldo) ([Lao Động](https://laodong.vn))
+- [Hầm sông Sài Gòn lắp hệ thống chữa cháy 95 tỷ đồng](https://vnexpress.net/ham-song-sai-gon-lap-he-thong-chua-chay-95-ty-dong-4250911.html) ([VNExpress](https://vnexpress.net))
+- [Dùng kế "Gậy ông đập lưng ông", Apple cố tình tung tin giả để lật mặt người làm rò rỉ tin tức](https://cafebiz.vn/dung-ke-gay-ong-dap-lung-ong-apple-co-tinh-tung-tin-gia-de-lat-mat-nguoi-lam-ro-ri-tin-tuc-20210319135200059.chn) ([CafeBiz](https://cafebiz.vn))
+- [Trường Đại học Thủy lợi công bố phương thức tuyển sinh năm 2021](https://laodong.vn/giao-duc/truong-dai-hoc-thuy-loi-cong-bo-phuong-thuc-tuyen-sinh-nam-2021-890802.ldo) ([Lao Động](https://laodong.vn))
+- [Gợi ý 7 mẹo đơn giản hữu ích cho ngôi nhà luôn sạch sẽ](https://laodong.vn/chuyen-nha-minh/goi-y-7-meo-don-gian-huu-ich-cho-ngoi-nha-luon-sach-se-890461.ldo) ([Lao Động](https://laodong.vn))
+- [Vinhomes ra mắt sàn giao dịch thuê nhà trực tuyến](https://laodong.vn/bat-dong-san/vinhomes-ra-mat-san-giao-dich-thue-nha-truc-tuyen-890781.ldo) ([Lao Động](https://laodong.vn))
+- [Hỗ trợ đoàn viên Công đoàn sửa chữa nhà “Mái ấm Công đoàn”](https://laodong.vn/cong-doan/ho-tro-doan-vien-cong-doan-sua-chua-nha-mai-am-cong-doan-890717.ldo) ([Lao Động](https://laodong.vn))
+- [Đường sắt Cát Linh - Hà Đông: Hà Nội không chấp nhận bàn giao từng phần dự án](https://tuoitre.vn/duong-sat-cat-linh-ha-dong-ha-noi-khong-chap-nhan-ban-giao-tung-phan-du-an-20210319153615453.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Nàng út "cừu đen" Tiffany Trump: Xây dựng danh tiếng theo cách khác biệt, cực nổi tiếng trong dàn "rich kid" nhưng sớm đính hôn với tỷ phú 23 tuổi để đảm bảo tương lai](https://cafebiz.vn/nang-ut-cuu-den-tiffany-trump-xay-dung-danh-tieng-theo-cach-khac-biet-cuc-noi-tieng-trong-dan-rich-kid-nhung-som-dinh-hon-voi-ty-phu-23-tuoi-de-dam-bao-tuong-lai-20210319153845813.chn) ([CafeBiz](https://cafebiz.vn))
 - [Người hâm mộ giúp Quang Hải giành giải tiền vệ hay nhất lịch sử AFC Cup](https://laodong.vn/bong-da/nguoi-ham-mo-giup-quang-hai-gianh-giai-tien-ve-hay-nhat-lich-su-afc-cup-890788.ldo) ([Lao Động](https://laodong.vn))
-- [Bí quyết giúp Warren Buffett tăng trưởng tài sản ròng vượt 100 tỷ USD: Tưởng đơn giản nhưng có người cả đời không vượt qua "cái tôi" để làm được](https://cafebiz.vn/bi-quyet-giup-warren-buffett-tang-truong-tai-san-rong-vuot-100-ty-usd-tuong-don-gian-nhung-co-nguoi-ca-doi-khong-vuot-qua-cai-toi-de-lam-duoc-20210319153439817.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cây xăng &quot;uy hiếp&quot; an toàn đường sắt Cát Linh - Hà Đông sẽ bị dỡ bỏ](https://laodong.vn/video/cay-xang-uy-hiep-an-toan-duong-sat-cat-linh-ha-dong-se-bi-do-bo-890796.ldo) ([Lao Động](https://laodong.vn))
-- [Thái Lan, Indonesia chạy đua làm xe điện, Việt Nam liệu có 'bỏ lỡ'?](https://cafebiz.vn/thai-lan-indonesia-chay-dua-lam-xe-dien-viet-nam-lieu-co-bo-lo-20210319134422742.chn) ([CafeBiz](https://cafebiz.vn))
-- [Su’s Store - Khẳng định đẳng cấp phái đẹp](https://cafebiz.vn/sus-store-khang-dinh-dang-cap-phai-dep-20210319144359694.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đại học Ngoại thương tuyển sinh năm 2021: Bổ sung hình thức xét tuyển](https://laodong.vn/giao-duc/dai-hoc-ngoai-thuong-tuyen-sinh-nam-2021-bo-sung-hinh-thuc-xet-tuyen-890795.ldo) ([Lao Động](https://laodong.vn))
-- [40 km quy hoạch phân khu đô thị sông Hồng](https://vnexpress.net/40-km-quy-hoach-phan-khu-do-thi-song-hong-4250948.html) ([VNExpress](https://vnexpress.net))
-- [Công nhân có sáng kiến tiết kiệm 10.000 USD/tháng được thưởng 10 triệu đồng](https://laodong.vn/ldld-dong-nai/cong-nhan-co-sang-kien-tiet-kiem-10000-usdthang-duoc-thuong-10-trieu-dong-890729.ldo) ([Lao Động](https://laodong.vn))
-- [Thủ tướng yêu cầu có phương án sửa đổi chứng chỉ chức danh nghề nghiệp đối với giáo viên](https://laodong.vn/thoi-su/thu-tuong-yeu-cau-co-phuong-an-sua-doi-chung-chi-chuc-danh-nghe-nghiep-doi-voi-giao-vien-890791.ldo) ([Lao Động](https://laodong.vn))
-- [Phó phòng làm công tác thẩm định nhân sự phải kê khai tài sản hàng năm](http://vietnamnet.vn/vn/thoi-su/chong-tham-nhung/pho-phong-lam-cong-tac-tham-dinh-nhan-su-phai-ke-khai-tai-san-hang-nam-720710.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
