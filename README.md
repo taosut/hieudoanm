@@ -34,16 +34,16 @@
 
 **NEWS**
 
-- [Hơn 1.800 tỷ đồng xóa 5 ngã tư ùn tắc ở Cần Thơ](https://vnexpress.net/hon-1-800-ty-dong-xoa-5-nga-tu-un-tac-o-can-tho-4250892.html) ([VNExpress](https://vnexpress.net))
-- [Đảng ủy LĐLĐ tỉnh Đồng Tháp tổ chức học tập, quán triệt Nghị quyết của Đảng](https://laodong.vn/ldld-dong-thap/dang-uy-ldld-tinh-dong-thap-to-chuc-hoc-tap-quan-triet-nghi-quyet-cua-dang-890793.ldo) ([Lao Động](https://laodong.vn))
-- [Thị trường streaming toàn cầu vượt mốc 1 tỷ thuê bao](https://cafebiz.vn/thi-truong-streaming-toan-cau-vuot-moc-1-ty-thue-bao-20210319133923212.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khánh Hòa: Vận động nhân dân tham gia chương trình mua vaccine COVID-19](https://laodong.vn/xa-hoi/khanh-hoa-van-dong-nhan-dan-tham-gia-chuong-trinh-mua-vaccine-covid-19-890783.ldo) ([Lao Động](https://laodong.vn))
-- [Ban Cán sự đảng Bộ Xây dựng làm việc với Công đoàn Xây dựng Việt Nam](https://laodong.vn/cd-xay-dung/ban-can-su-dang-bo-xay-dung-lam-viec-voi-cong-doan-xay-dung-viet-nam-890777.ldo) ([Lao Động](https://laodong.vn))
-- [Liên tiếp phát hiện nhiều thùng tân dược vô chủ ven biên giới](https://laodong.vn/phap-luat/lien-tiep-phat-hien-nhieu-thung-tan-duoc-vo-chu-ven-bien-gioi-890787.ldo) ([Lao Động](https://laodong.vn))
-- [Cần Thơ: Tai nạn giao thông tăng, Chủ tịch Thành phố chỉ đạo rà soát](https://laodong.vn/giao-thong/can-tho-tai-nan-giao-thong-tang-chu-tich-thanh-pho-chi-dao-ra-soat-890668.ldo) ([Lao Động](https://laodong.vn))
-- [Hàng trăm 'quái xế' chặn cao tốc làm đường đua bạt mạng, người dân khiếp sợ](https://tuoitre.vn/hang-tram-quai-xe-chan-cao-toc-lam-duong-dua-bat-mang-nguoi-dan-khiep-so-20210319133836277.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Sẵn sàng hạ tầng kỹ thuật cho 'hộ chiếu vaccine' từ tháng 4](https://vnexpress.net/san-sang-ha-tang-ky-thuat-cho-ho-chieu-vaccine-tu-thang-4-4250928.html) ([VNExpress](https://vnexpress.net))
-- [Tiếng Hàn trở thành môn thi tốt nghiệp THPT: Học sinh, giáo viên nói gì?](https://laodong.vn/video/tieng-han-tro-thanh-mon-thi-tot-nghiep-thpt-hoc-sinh-giao-vien-noi-gi-890773.ldo) ([Lao Động](https://laodong.vn))
+- [Người hâm mộ giúp Quang Hải giành giải tiền vệ hay nhất lịch sử AFC Cup](https://laodong.vn/bong-da/nguoi-ham-mo-giup-quang-hai-gianh-giai-tien-ve-hay-nhat-lich-su-afc-cup-890788.ldo) ([Lao Động](https://laodong.vn))
+- [Bí quyết giúp Warren Buffett tăng trưởng tài sản ròng vượt 100 tỷ USD: Tưởng đơn giản nhưng có người cả đời không vượt qua "cái tôi" để làm được](https://cafebiz.vn/bi-quyet-giup-warren-buffett-tang-truong-tai-san-rong-vuot-100-ty-usd-tuong-don-gian-nhung-co-nguoi-ca-doi-khong-vuot-qua-cai-toi-de-lam-duoc-20210319153439817.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cây xăng &quot;uy hiếp&quot; an toàn đường sắt Cát Linh - Hà Đông sẽ bị dỡ bỏ](https://laodong.vn/video/cay-xang-uy-hiep-an-toan-duong-sat-cat-linh-ha-dong-se-bi-do-bo-890796.ldo) ([Lao Động](https://laodong.vn))
+- [Thái Lan, Indonesia chạy đua làm xe điện, Việt Nam liệu có 'bỏ lỡ'?](https://cafebiz.vn/thai-lan-indonesia-chay-dua-lam-xe-dien-viet-nam-lieu-co-bo-lo-20210319134422742.chn) ([CafeBiz](https://cafebiz.vn))
+- [Su’s Store - Khẳng định đẳng cấp phái đẹp](https://cafebiz.vn/sus-store-khang-dinh-dang-cap-phai-dep-20210319144359694.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đại học Ngoại thương tuyển sinh năm 2021: Bổ sung hình thức xét tuyển](https://laodong.vn/giao-duc/dai-hoc-ngoai-thuong-tuyen-sinh-nam-2021-bo-sung-hinh-thuc-xet-tuyen-890795.ldo) ([Lao Động](https://laodong.vn))
+- [40 km quy hoạch phân khu đô thị sông Hồng](https://vnexpress.net/40-km-quy-hoach-phan-khu-do-thi-song-hong-4250948.html) ([VNExpress](https://vnexpress.net))
+- [Công nhân có sáng kiến tiết kiệm 10.000 USD/tháng được thưởng 10 triệu đồng](https://laodong.vn/ldld-dong-nai/cong-nhan-co-sang-kien-tiet-kiem-10000-usdthang-duoc-thuong-10-trieu-dong-890729.ldo) ([Lao Động](https://laodong.vn))
+- [Thủ tướng yêu cầu có phương án sửa đổi chứng chỉ chức danh nghề nghiệp đối với giáo viên](https://laodong.vn/thoi-su/thu-tuong-yeu-cau-co-phuong-an-sua-doi-chung-chi-chuc-danh-nghe-nghiep-doi-voi-giao-vien-890791.ldo) ([Lao Động](https://laodong.vn))
+- [Phó phòng làm công tác thẩm định nhân sự phải kê khai tài sản hàng năm](http://vietnamnet.vn/vn/thoi-su/chong-tham-nhung/pho-phong-lam-cong-tac-tham-dinh-nhan-su-phai-ke-khai-tai-san-hang-nam-720710.html) ([VietNamNet](https://vietnamnet.vn))
 
 [Read More](docs/news/README.md)
 
