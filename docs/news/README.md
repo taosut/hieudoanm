@@ -1,13 +1,13 @@
 # News
 
+- [Tin văn hóa trong tuần: Yêu cầu chùa Tam Chúc chấp hành quy định 5K](https://laodong.vn/giai-tri/tin-van-hoa-trong-tuan-yeu-cau-chua-tam-chuc-chap-hanh-quy-dinh-5k-890433.ldo) ([Lao Động](https://laodong.vn))
+- [Bắc Ninh, Thừa Thiên-Huế, Khánh Hòa sẽ thành thành phố trực thuộc Trung ương](https://cafebiz.vn/bac-ninh-thua-thien-hue-khanh-hoa-se-thanh-thanh-pho-truc-thuoc-trung-uong-20210319164659384.chn) ([CafeBiz](https://cafebiz.vn))
+- [Phân khúc MPV: Chọn Mitsubishi Xpander hay Kia Rondo?](https://laodong.vn/xe/phan-khuc-mpv-chon-mitsubishi-xpander-hay-kia-rondo-889791.ldo) ([Lao Động](https://laodong.vn))
+- [Tung VNPT MSS, VNPT mang &quot;Hệ miễn dịch&quot; cho doanh nghiệp chuyển đổi số](https://laodong.vn/kinh-te/tung-vnpt-mss-vnpt-mang-he-mien-dich-cho-doanh-nghiep-chuyen-doi-so-890804.ldo) ([Lao Động](https://laodong.vn))
+- [Khởi tố đối tượng đưa người xuất cảnh trái phép](https://laodong.vn/phap-luat/khoi-to-doi-tuong-dua-nguoi-xuat-canh-trai-phep-890892.ldo) ([Lao Động](https://laodong.vn))
 - [Thượng tá biên phòng bị cảnh cáo vì nhà chứa hàng lậu](https://vnexpress.net/thuong-ta-bien-phong-bi-canh-cao-vi-nha-chua-hang-lau-4249771.html) ([VNExpress](https://vnexpress.net))
 - [Xe lưu động làm CCCD gắn chip: Tiện lợi, nắng mưa nơi nào cũng làm được](https://laodong.vn/video/xe-luu-dong-lam-cccd-gan-chip-tien-loi-nang-mua-noi-nao-cung-lam-duoc-890811.ldo) ([Lao Động](https://laodong.vn))
-- [Xăng dầu tăng liên tiếp, Quỹ bình ổn xăng dầu đang... &quot;đuối&quot;](https://laodong.vn/kinh-te/xang-dau-tang-lien-tiep-quy-binh-on-xang-dau-dang-duoi-890852.ldo) ([Lao Động](https://laodong.vn))
-- [Mỹ có thể tước giấy phép của 3 công ty viễn thông Trung Quốc](https://laodong.vn/the-gioi/my-co-the-tuoc-giay-phep-cua-3-cong-ty-vien-thong-trung-quoc-890861.ldo) ([Lao Động](https://laodong.vn))
 - [Dự báo hạn hán nghiêm trọng, Thủ tướng yêu cầu theo dõi nguồn nước sông Mekong](https://tuoitre.vn/du-bao-han-han-nghiem-trong-thu-tuong-yeu-cau-theo-doi-nguon-nuoc-song-mekong-20210319175913004.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Rosé - Blackpink lập nút vàng YouTube, sắp có thêm MV 100 triệu view](https://laodong.vn/giai-tri/rose-blackpink-lap-nut-vang-youtube-sap-co-them-mv-100-trieu-view-890887.ldo) ([Lao Động](https://laodong.vn))
-- [Bao vây bãi vàng “lậu”, nhiều đối tượng bỏ chạy vào rừng sâu](https://laodong.vn/phap-luat/bao-vay-bai-vang-lau-nhieu-doi-tuong-bo-chay-vao-rung-sau-890872.ldo) ([Lao Động](https://laodong.vn))
-- [Đại biểu cơ quan Trung ương ứng cử Quốc hội khóa XV](https://vnexpress.net/dai-bieu-co-quan-trung-uong-ung-cu-quoc-hoi-khoa-xv-4251126.html) ([VNExpress](https://vnexpress.net))
 - [Chiều 19-3: Thêm 1 bệnh nhân COVID-19 nhập cảnh từ Mỹ](https://tuoitre.vn/chieu-19-3-them-1-benh-nhan-covid-19-nhap-canh-tu-my-20210319181740092.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Bị phạt trên 1 tỉ đồng và tịch thu tàu cá vi phạm vùng biển nước ngoài nhiều lần](https://tuoitre.vn/bi-phat-tren-1-ti-dong-va-tich-thu-tau-ca-vi-pham-vung-bien-nuoc-ngoai-nhieu-lan-20210319172500843.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Vụ đào cống xả nước thải xuống hang ngầm: phạt doanh nghiệp hơn 1,2 tỉ đồng](https://tuoitre.vn/vu-dao-cong-xa-nuoc-thai-xuong-hang-ngam-phat-doanh-nghiep-hon-1-2-ti-dong-20210319170551826.htm) ([Tuổi Trẻ](https://tuoitre.vn))
