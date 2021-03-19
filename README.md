@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 28.29°C.
-- Air Visual is 109.
+- Air Visual is 91.
 
 **WEATHER**
 
@@ -54,17 +54,17 @@
 - [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
 - [![Europa](https://img.shields.io/static/v1?label=Europa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa)
 - [![Europa League 2021](https://img.shields.io/static/v1?label=Europa%20League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League%202021)
-- [![Galaxy A52](https://img.shields.io/static/v1?label=Galaxy%20A52&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Galaxy%20A52)
 - [![Justice League](https://img.shields.io/static/v1?label=Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justice%20League)
+- [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
 - [![Liên Quân](https://img.shields.io/static/v1?label=Li%C3%AAn%20Qu%C3%A2n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Li%C3%AAn%20Qu%C3%A2n)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
+- [![Nguyễn Xuân Phúc](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Xu%C3%A2n%20Ph%C3%BAc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Xu%C3%A2n%20Ph%C3%BAc)
 - [![Nguyễn Đức Chung](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung)
 - [![Phạm Minh Chính](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh)
 - [![Phạm Nhật Vượng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng)
-- [![SLNA](https://img.shields.io/static/v1?label=SLNA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=SLNA)
-- [![Sevilla](https://img.shields.io/static/v1?label=Sevilla&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Sevilla)
 - [![Thiên hạ hữu tình nhân](https://img.shields.io/static/v1?label=Thi%C3%AAn%20h%E1%BA%A1%20h%E1%BB%AFu%20t%C3%ACnh%20nh%C3%A2n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thi%C3%AAn%20h%E1%BA%A1%20h%E1%BB%AFu%20t%C3%ACnh%20nh%C3%A2n)
 - [![V-League](https://img.shields.io/static/v1?label=V-League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V-League)
+- [![V-League 2021](https://img.shields.io/static/v1?label=V-League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V-League%202021)
 - [![VTV3 trực tiếp](https://img.shields.io/static/v1?label=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp)
 - [![Vương Đình Huệ](https://img.shields.io/static/v1?label=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tác hại khi bổ sung vitamin C quá liều lượng nhiều người không biết](https://laodong.vn/dinh-duong-am-thuc/tac-hai-khi-bo-sung-vitamin-c-qua-lieu-luong-nhieu-nguoi-khong-biet-890509.ldo) ([Lao Động](https://laodong.vn))
-- [LĐLĐ tỉnh Thái Bình: Triển khai đề tài khoa học về nắm bắt dư luận CNVCLĐ](https://laodong.vn/cong-doan/ldld-tinh-thai-binh-trien-khai-de-tai-khoa-hoc-ve-nam-bat-du-luan-cnvcld-890684.ldo) ([Lao Động](https://laodong.vn))
-- [Biến thể COVID-19 lan rộng ở Pháp, Paris bị phong tỏa 1 tháng](https://laodong.vn/the-gioi/bien-the-covid-19-lan-rong-o-phap-paris-bi-phong-toa-1-thang-890663.ldo) ([Lao Động](https://laodong.vn))
+- [Tổ chức Hội thảo Chiến thắng Đường 9 - Nam Lào năm 1971](https://laodong.vn/xa-hoi/to-chuc-hoi-thao-chien-thang-duong-9-nam-lao-nam-1971-890689.ldo) ([Lao Động](https://laodong.vn))
+- [Hướng dẫn chuyển đổi BIDV Smartbanking thế hệ mới](https://laodong.vn/kinh-te/huong-dan-chuyen-doi-bidv-smartbanking-the-he-moi-890567.ldo) ([Lao Động](https://laodong.vn))
+- [Điện lực Đắk Nông phát động tiết kiệm điện trong mùa nắng nóng](https://laodong.vn/xa-hoi/dien-luc-dak-nong-phat-dong-tiet-kiem-dien-trong-mua-nang-nong-890660.ldo) ([Lao Động](https://laodong.vn))
+- [Khan hiếm nguồn cung, thị trường nhà phố Bình Dương tăng giá](https://laodong.vn/bat-dong-san/khan-hiem-nguon-cung-thi-truong-nha-pho-binh-duong-tang-gia-890658.ldo) ([Lao Động](https://laodong.vn))
+- [Đà Nẵng sẽ rà soát lý lịch tư pháp của toàn bộ lao động người nước ngoài](https://laodong.vn/xa-hoi/da-nang-se-ra-soat-ly-lich-tu-phap-cua-toan-bo-lao-dong-nguoi-nuoc-ngoai-890681.ldo) ([Lao Động](https://laodong.vn))
+- [Thế giới đầu tư vào hàng xa xỉ như thế nào?](https://cafebiz.vn/the-gioi-dau-tu-vao-hang-xa-xi-nhu-the-nao-20210319104217391.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cận cảnh tòa nhà 150 tỷ đồng, hình thù kỳ dị chưa từng có ở thủ phủ gốm Bát Tràng](https://cafebiz.vn/can-canh-toa-nha-150-ty-dong-hinh-thu-ky-di-chua-tung-co-o-thu-phu-gom-bat-trang-20210319104320675.chn) ([CafeBiz](https://cafebiz.vn))
+- ['Cỗ máy in tiền' bí mật giúp Mark Zuckerberg ngồi không mà vẫn giàu lên mỗi ngày](https://cafebiz.vn/co-may-in-tien-bi-mat-giup-mark-zuckerberg-ngoi-khong-ma-van-giau-len-moi-ngay-20210319103709648.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đánh giá, có giải pháp phù hợp về vật liệu thi công đường cao tốc Bắc - Nam](https://tuoitre.vn/danh-gia-co-giai-phap-phu-hop-ve-vat-lieu-thi-cong-duong-cao-toc-bac-nam-20210319103002137.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Soi VinFast Lux SA2.0 của Minh 'nhựa' với diện mạo được cá nhân hóa giống chiếc Mercedes-AMG G 63](https://cafebiz.vn/soi-vinfast-lux-sa20-cua-minh-nhua-voi-dien-mao-duoc-ca-nhan-hoa-giong-chiec-mercedes-amg-g-63-20210319091043705.chn) ([CafeBiz](https://cafebiz.vn))
-- ["Vua hàng hiệu" Johnathan Hạnh Nguyễn muốn xây thành phố sân bay tại Phú Quốc](https://cafebiz.vn/vua-hang-hieu-johnathan-hanh-nguyen-muon-xay-thanh-pho-san-bay-tai-phu-quoc-20210319102026487.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vĩnh Phúc: Thưởng giải phóng mặt bằng nhanh cho người sử dụng đất](https://laodong.vn/xa-hoi/vinh-phuc-thuong-giai-phong-mat-bang-nhanh-cho-nguoi-su-dung-dat-890688.ldo) ([Lao Động](https://laodong.vn))
-- [NASA thử nghiệm thành công tên lửa đưa con người trở lại mặt trăng](https://laodong.vn/the-gioi/nasa-thu-nghiem-thanh-cong-ten-lua-dua-con-nguoi-tro-lai-mat-trang-890664.ldo) ([Lao Động](https://laodong.vn))
-- [Bộ máy Nhà nước sẽ có nhiều gương mặt mới](https://tuoitre.vn/bo-may-nha-nuoc-se-co-nhieu-guong-mat-moi-20210319081311704.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thế giới thiếu nguyên liệu nhựa trầm trọng do Texas chìm trong giá rét](https://cafebiz.vn/the-gioi-thieu-nguyen-lieu-nhua-tram-trong-do-texas-chim-trong-gia-ret-20210319102350593.chn) ([CafeBiz](https://cafebiz.vn))
-- [Khả năng xuất hiện bão mạnh, phức tạp trên Biển Đông trong mùa bão năm nay](https://laodong.vn/moi-truong/kha-nang-xuat-hien-bao-manh-phuc-tap-tren-bien-dong-trong-mua-bao-nam-nay-890618.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
