@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 26°C.
 - Feels Like 28.29°C.
-- Air Visual is 91.
+- Air Visual is 95.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Tổ chức Hội thảo Chiến thắng Đường 9 - Nam Lào năm 1971](https://laodong.vn/xa-hoi/to-chuc-hoi-thao-chien-thang-duong-9-nam-lao-nam-1971-890689.ldo) ([Lao Động](https://laodong.vn))
-- [Hướng dẫn chuyển đổi BIDV Smartbanking thế hệ mới](https://laodong.vn/kinh-te/huong-dan-chuyen-doi-bidv-smartbanking-the-he-moi-890567.ldo) ([Lao Động](https://laodong.vn))
-- [Điện lực Đắk Nông phát động tiết kiệm điện trong mùa nắng nóng](https://laodong.vn/xa-hoi/dien-luc-dak-nong-phat-dong-tiet-kiem-dien-trong-mua-nang-nong-890660.ldo) ([Lao Động](https://laodong.vn))
-- [Khan hiếm nguồn cung, thị trường nhà phố Bình Dương tăng giá](https://laodong.vn/bat-dong-san/khan-hiem-nguon-cung-thi-truong-nha-pho-binh-duong-tang-gia-890658.ldo) ([Lao Động](https://laodong.vn))
-- [Đà Nẵng sẽ rà soát lý lịch tư pháp của toàn bộ lao động người nước ngoài](https://laodong.vn/xa-hoi/da-nang-se-ra-soat-ly-lich-tu-phap-cua-toan-bo-lao-dong-nguoi-nuoc-ngoai-890681.ldo) ([Lao Động](https://laodong.vn))
+- [Xem trực tiếp TPHCM vs Sài Gòn tại V.League 2021 ở kênh nào?](https://laodong.vn/bong-da/xem-truc-tiep-tphcm-vs-sai-gon-tai-vleague-2021-o-kenh-nao-890694.ldo) ([Lao Động](https://laodong.vn))
+- [4 “điểm chí mạng” sinh viên mới ra trường cần khắc phục nếu muốn tìm công việc mơ ước](https://cafebiz.vn/4-diem-chi-mang-sinh-vien-moi-ra-truong-can-khac-phuc-neu-muon-tim-cong-viec-mo-uoc-20210319100928015.chn) ([CafeBiz](https://cafebiz.vn))
+- [Sáng kiến mới của Singapore giúp du khách an tâm khi du lịch](https://cafebiz.vn/sang-kien-moi-cua-singapore-giup-du-khach-an-tam-khi-du-lich-20210318185400213.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thu hồi xe máy cũ nát: Trông chờ vào lộ trình bắt buộc xe máy đăng kiểm định kỳ](https://laodong.vn/xa-hoi/thu-hoi-xe-may-cu-nat-trong-cho-vao-lo-trinh-bat-buoc-xe-may-dang-kiem-dinh-ky-890560.ldo) ([Lao Động](https://laodong.vn))
+- [Cải cách hành chính Nhà nước giúp tiết kiệm mỗi năm hàng chục nghìn tỉ đồng](https://laodong.vn/thoi-su/cai-cach-hanh-chinh-nha-nuoc-giup-tiet-kiem-moi-nam-hang-chuc-nghin-ti-dong-890563.ldo) ([Lao Động](https://laodong.vn))
+- [Top SUV - Crossover bán chạy nhất: Hyundai Santa Fe và Kia Sorento trượt dốc](https://laodong.vn/xe/top-suv-crossover-ban-chay-nhat-hyundai-santa-fe-va-kia-sorento-truot-doc-890619.ldo) ([Lao Động](https://laodong.vn))
+- [Một cảnh sát tưởng đã chết trong sóng thần năm 2004 vẫn còn sống](https://laodong.vn/the-gioi/mot-canh-sat-tuong-da-chet-trong-song-than-nam-2004-van-con-song-890653.ldo) ([Lao Động](https://laodong.vn))
 - [Thế giới đầu tư vào hàng xa xỉ như thế nào?](https://cafebiz.vn/the-gioi-dau-tu-vao-hang-xa-xi-nhu-the-nao-20210319104217391.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cận cảnh tòa nhà 150 tỷ đồng, hình thù kỳ dị chưa từng có ở thủ phủ gốm Bát Tràng](https://cafebiz.vn/can-canh-toa-nha-150-ty-dong-hinh-thu-ky-di-chua-tung-co-o-thu-phu-gom-bat-trang-20210319104320675.chn) ([CafeBiz](https://cafebiz.vn))
 - ['Cỗ máy in tiền' bí mật giúp Mark Zuckerberg ngồi không mà vẫn giàu lên mỗi ngày](https://cafebiz.vn/co-may-in-tien-bi-mat-giup-mark-zuckerberg-ngoi-khong-ma-van-giau-len-moi-ngay-20210319103709648.chn) ([CafeBiz](https://cafebiz.vn))
-- [Đánh giá, có giải pháp phù hợp về vật liệu thi công đường cao tốc Bắc - Nam](https://tuoitre.vn/danh-gia-co-giai-phap-phu-hop-ve-vat-lieu-thi-cong-duong-cao-toc-bac-nam-20210319103002137.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Soi VinFast Lux SA2.0 của Minh 'nhựa' với diện mạo được cá nhân hóa giống chiếc Mercedes-AMG G 63](https://cafebiz.vn/soi-vinfast-lux-sa20-cua-minh-nhua-voi-dien-mao-duoc-ca-nhan-hoa-giong-chiec-mercedes-amg-g-63-20210319091043705.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
