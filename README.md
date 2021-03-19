@@ -35,8 +35,8 @@
 **MUSIC TRENDS**
 
 01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
-02. [Dua Lipa - Levitating ft. DaBaby / Don't Start Now (Live at the GRAMMYs 2021)](https://www.youtube.com/watch?v=vFWv44Z4Jhk) - [Dua Lipa](https://www.youtube.com/channel/UC-J-KZfRV8c13fOCkhXdLiQ)
-03. [ROSÉ - GONE (Lyrics)](https://www.youtube.com/watch?v=9iBxbf2fjgw) - [Vibe Music](https://www.youtube.com/channel/UChO8h2G8UjOVc081rgYU8XQ)
+02. [ROSÉ - GONE (Lyrics)](https://www.youtube.com/watch?v=9iBxbf2fjgw) - [Vibe Music](https://www.youtube.com/channel/UChO8h2G8UjOVc081rgYU8XQ)
+03. [Dua Lipa - Levitating ft. DaBaby / Don't Start Now (Live at the GRAMMYs 2021)](https://www.youtube.com/watch?v=vFWv44Z4Jhk) - [Dua Lipa](https://www.youtube.com/channel/UC-J-KZfRV8c13fOCkhXdLiQ)
 04. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 05. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
 06. [SUPER JUNIOR 슈퍼주니어 'House Party' MV](https://www.youtube.com/watch?v=BtJMOVKjhUo) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
