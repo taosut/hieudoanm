@@ -34,16 +34,16 @@
 
 **NEWS**
 
+- [Hơn 1.800 tỷ đồng xóa 5 ngã tư ùn tắc ở Cần Thơ](https://vnexpress.net/hon-1-800-ty-dong-xoa-5-nga-tu-un-tac-o-can-tho-4250892.html) ([VNExpress](https://vnexpress.net))
+- [Đảng ủy LĐLĐ tỉnh Đồng Tháp tổ chức học tập, quán triệt Nghị quyết của Đảng](https://laodong.vn/ldld-dong-thap/dang-uy-ldld-tinh-dong-thap-to-chuc-hoc-tap-quan-triet-nghi-quyet-cua-dang-890793.ldo) ([Lao Động](https://laodong.vn))
+- [Thị trường streaming toàn cầu vượt mốc 1 tỷ thuê bao](https://cafebiz.vn/thi-truong-streaming-toan-cau-vuot-moc-1-ty-thue-bao-20210319133923212.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khánh Hòa: Vận động nhân dân tham gia chương trình mua vaccine COVID-19](https://laodong.vn/xa-hoi/khanh-hoa-van-dong-nhan-dan-tham-gia-chuong-trinh-mua-vaccine-covid-19-890783.ldo) ([Lao Động](https://laodong.vn))
+- [Ban Cán sự đảng Bộ Xây dựng làm việc với Công đoàn Xây dựng Việt Nam](https://laodong.vn/cd-xay-dung/ban-can-su-dang-bo-xay-dung-lam-viec-voi-cong-doan-xay-dung-viet-nam-890777.ldo) ([Lao Động](https://laodong.vn))
+- [Liên tiếp phát hiện nhiều thùng tân dược vô chủ ven biên giới](https://laodong.vn/phap-luat/lien-tiep-phat-hien-nhieu-thung-tan-duoc-vo-chu-ven-bien-gioi-890787.ldo) ([Lao Động](https://laodong.vn))
+- [Cần Thơ: Tai nạn giao thông tăng, Chủ tịch Thành phố chỉ đạo rà soát](https://laodong.vn/giao-thong/can-tho-tai-nan-giao-thong-tang-chu-tich-thanh-pho-chi-dao-ra-soat-890668.ldo) ([Lao Động](https://laodong.vn))
+- [Hàng trăm 'quái xế' chặn cao tốc làm đường đua bạt mạng, người dân khiếp sợ](https://tuoitre.vn/hang-tram-quai-xe-chan-cao-toc-lam-duong-dua-bat-mang-nguoi-dan-khiep-so-20210319133836277.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Sẵn sàng hạ tầng kỹ thuật cho 'hộ chiếu vaccine' từ tháng 4](https://vnexpress.net/san-sang-ha-tang-ky-thuat-cho-ho-chieu-vaccine-tu-thang-4-4250928.html) ([VNExpress](https://vnexpress.net))
-- [Bình Dương: Tai nạn giao thông làm 2 công nhân xây dựng tử vong](https://laodong.vn/xa-hoi/binh-duong-tai-nan-giao-thong-lam-2-cong-nhan-xay-dung-tu-vong-890778.ldo) ([Lao Động](https://laodong.vn))
 - [Tiếng Hàn trở thành môn thi tốt nghiệp THPT: Học sinh, giáo viên nói gì?](https://laodong.vn/video/tieng-han-tro-thanh-mon-thi-tot-nghiep-thpt-hoc-sinh-giao-vien-noi-gi-890773.ldo) ([Lao Động](https://laodong.vn))
-- [Một thanh niên nghi rơi từ tầng 2 khu cách ly xuống đất tử vong](https://laodong.vn/xa-hoi/mot-thanh-nien-nghi-roi-tu-tang-2-khu-cach-ly-xuong-dat-tu-vong-890784.ldo) ([Lao Động](https://laodong.vn))
-- [Trong khi Jack Ma bị vùi dập vì "vạ miệng", người đàn ông này có thể là tấm gương cho giới hạn phát ngôn ở Trung Quốc](https://cafebiz.vn/trong-khi-jack-ma-bi-vui-dap-vi-va-mieng-nguoi-dan-ong-nay-co-the-la-tam-guong-cho-gioi-han-phat-ngon-o-trung-quoc-20210319133640048.chn) ([CafeBiz](https://cafebiz.vn))
-- [Có một thứ độc hại kinh khủng, còn hơn cả hít khói thuốc với cả thể chất và tinh thần nhưng nhiều người vẫn âm thầm chịu đựng: SẾP TỒI](https://cafebiz.vn/co-mot-thu-doc-hai-kinh-khung-con-hon-ca-hit-khoi-thuoc-voi-ca-the-chat-va-tinh-than-nhung-nhieu-nguoi-van-am-tham-chiu-dung-sep-toi-20210319141608607.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bắt nữ quái 9x lừa bán vé máy bay "giải cứu" người mắc kẹt vì Covid-19 về nước](https://cafebiz.vn/bat-nu-quai-9x-lua-ban-ve-may-bay-giai-cuu-nguoi-mac-ket-vi-covid-19-ve-nuoc-20210319135109469.chn) ([CafeBiz](https://cafebiz.vn))
-- [PVcomBank đồng hành cùng sinh viên nghèo](https://laodong.vn/kinh-te/pvcombank-dong-hanh-cung-sinh-vien-ngheo-890728.ldo) ([Lao Động](https://laodong.vn))
-- [Cách đăng ký thẻ bảo hiểm y tế cho con](https://laodong.vn/ban-doc/cach-dang-ky-the-bao-hiem-y-te-cho-con-890771.ldo) ([Lao Động](https://laodong.vn))
-- [Apple cảnh cáo 'ngầm' các nhà phát triển Trung Quốc](https://cafebiz.vn/apple-canh-cao-ngam-cac-nha-phat-trien-trung-quoc-20210319134550032.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
@@ -60,7 +60,7 @@
 07. [Jessi (제시) - '어떤X (What Type of X)' MV](https://www.youtube.com/watch?v=OEu1OWf8ezU) - [Jessi](https://www.youtube.com/channel/UCN2bQLTTvNPZWCWU5TYghKA)
 08. [Billie Eilish - everything i wanted (Live From The 63rd GRAMMYs®/2021)](https://www.youtube.com/watch?v=aVAKT9UxJMI) - [BillieEilishVEVO](https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg)
 09. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
-10. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
+10. [Imagine Dragons - Follow You (Official Music Video)](https://www.youtube.com/watch?v=k3zimSRKqNw) - [ImagineDragonsVEVO](https://www.youtube.com/channel/UCpx_k19S2vUutWUUM9qmXEg)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -79,9 +79,9 @@
 05. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
 06. [Juky San bất ngờ sau bức tường là anh Bo Đan Trường, song ca "Thiên hạ hữu tình nhân" cực hay](https://www.youtube.com/watch?v=3O1qpIC0mOQ) - [VieTalents](https://www.youtube.com/channel/UCBVSuk_f8ZCPIQ_KwXEGWFw)
 07. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
-08. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
-09. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
-10. [YÊN TÂM ĐI LÍNH, NGƯỜI YÊU MÀY Ở NHÀ TAO LO | PHIM TÌNH CẢM THANH XUÂN GÃY SCHOOL](https://www.youtube.com/watch?v=7dZgf6_f0-A) - [GÃY SCHOOL](https://www.youtube.com/channel/UCgPMNspYfOQlezMbnjh1Irg)
+08. [BI LONG ĐẠI CA Tập 10 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=IWpPqZpJDcI) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+09. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
+10. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 
 [Read More](https://www.youtube.com/feed/trending)
 
