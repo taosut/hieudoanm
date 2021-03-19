@@ -19,9 +19,9 @@
 
 **CALENDAR**
 
-- Current weather is mist.
-- Temperature is 25°C.
-- Feels Like 26.93°C.
+- Current weather is broken clouds.
+- Temperature is 26°C.
+- Feels Like 28.29°C.
 - Air Visual is 109.
 
 **WEATHER**
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Cuộc sống hiện tại của Lệ Rơi sau 7 năm "nổi như cồn": Từ nông dân trồng ổi trở thành hiện tượng gây "bão mạng" rồi lại trắng tay trở về quê nhà](https://cafebiz.vn/cuoc-song-hien-tai-cua-le-roi-sau-7-nam-noi-nhu-con-tu-nong-dan-trong-oi-tro-thanh-hien-tuong-gay-bao-mang-roi-lai-trang-tay-tro-ve-que-nha-20210319094726537.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xuất phát điểm bất ngờ của những 'ông lớn' công nghệ](https://cafebiz.vn/xuat-phat-diem-bat-ngo-cua-nhung-ong-lon-cong-nghe-20210319085739814.chn) ([CafeBiz](https://cafebiz.vn))
-- [Giá vàng và ngoại tệ 19.3: Áp lực lớn, giá vàng quay đầu giảm nhẹ](https://laodong.vn/video/gia-vang-va-ngoai-te-193-ap-luc-lon-gia-vang-quay-dau-giam-nhe-890675.ldo) ([Lao Động](https://laodong.vn))
-- [Bloomberg: Bamboo Airways niêm yết trong quý 3/2021, dự kiến vốn hóa 2,7 tỷ USD](https://cafebiz.vn/bloomberg-bamboo-airways-niem-yet-trong-quy-3-2021-du-kien-von-hoa-27-ty-usd-20210319095631145.chn) ([CafeBiz](https://cafebiz.vn))
-- [Chó ngoại nặng hơn 30kg tấn công, cụ bà 87 tuổi nguy kịch, phải cắt cụt bàn tay](https://tuoitre.vn/cho-ngoai-nang-hon-30kg-tan-cong-cu-ba-87-tuoi-nguy-kich-phai-cat-cut-ban-tay-20210319085657378.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Quay ngoắt 180 độ, CEO Mark Zuckerberg nói rằng tính năng bảo mật mới của iOS 14 sẽ mang lại lợi ích cho Facebook](https://cafebiz.vn/quay-ngoat-180-do-ceo-mark-zuckerberg-noi-rang-tinh-nang-bao-mat-moi-cua-ios-14-se-mang-lai-loi-ich-cho-facebook-2021031909071554.chn) ([CafeBiz](https://cafebiz.vn))
-- [MSB thu về 3.500 tỷ đồng phí trả trước từ thương vụ bancassurance với Prudential?](https://cafebiz.vn/msb-thu-ve-3500-ty-dong-phi-tra-truoc-tu-thuong-vu-bancassurance-voi-prudential-20210319093419617.chn) ([CafeBiz](https://cafebiz.vn))
-- [Lạ mắt với ngôi nhà toàn lỗ của chuyên gia gốm sứ tại Bát Tràng](https://cafebiz.vn/la-mat-voi-ngoi-nha-toan-lo-cua-chuyen-gia-gom-su-tai-bat-trang-20210319090950455.chn) ([CafeBiz](https://cafebiz.vn))
-- [Facebook tuyên bố đang xây dựng mạng xã hội dành riêng cho trẻ em](https://cafebiz.vn/facebook-tuyen-bo-dang-xay-dung-mang-xa-hoi-danh-rieng-cho-tre-em-20210319092249121.chn) ([CafeBiz](https://cafebiz.vn))
-- [Xe lưu động đến tận khu phố làm căn cước gắn chip cho dân](https://tuoitre.vn/xe-luu-dong-den-tan-khu-pho-lam-can-cuoc-gan-chip-cho-dan-20210318220913127.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Tác hại khi bổ sung vitamin C quá liều lượng nhiều người không biết](https://laodong.vn/dinh-duong-am-thuc/tac-hai-khi-bo-sung-vitamin-c-qua-lieu-luong-nhieu-nguoi-khong-biet-890509.ldo) ([Lao Động](https://laodong.vn))
+- [LĐLĐ tỉnh Thái Bình: Triển khai đề tài khoa học về nắm bắt dư luận CNVCLĐ](https://laodong.vn/cong-doan/ldld-tinh-thai-binh-trien-khai-de-tai-khoa-hoc-ve-nam-bat-du-luan-cnvcld-890684.ldo) ([Lao Động](https://laodong.vn))
+- [Biến thể COVID-19 lan rộng ở Pháp, Paris bị phong tỏa 1 tháng](https://laodong.vn/the-gioi/bien-the-covid-19-lan-rong-o-phap-paris-bi-phong-toa-1-thang-890663.ldo) ([Lao Động](https://laodong.vn))
+- [Soi VinFast Lux SA2.0 của Minh 'nhựa' với diện mạo được cá nhân hóa giống chiếc Mercedes-AMG G 63](https://cafebiz.vn/soi-vinfast-lux-sa20-cua-minh-nhua-voi-dien-mao-duoc-ca-nhan-hoa-giong-chiec-mercedes-amg-g-63-20210319091043705.chn) ([CafeBiz](https://cafebiz.vn))
+- ["Vua hàng hiệu" Johnathan Hạnh Nguyễn muốn xây thành phố sân bay tại Phú Quốc](https://cafebiz.vn/vua-hang-hieu-johnathan-hanh-nguyen-muon-xay-thanh-pho-san-bay-tai-phu-quoc-20210319102026487.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vĩnh Phúc: Thưởng giải phóng mặt bằng nhanh cho người sử dụng đất](https://laodong.vn/xa-hoi/vinh-phuc-thuong-giai-phong-mat-bang-nhanh-cho-nguoi-su-dung-dat-890688.ldo) ([Lao Động](https://laodong.vn))
+- [NASA thử nghiệm thành công tên lửa đưa con người trở lại mặt trăng](https://laodong.vn/the-gioi/nasa-thu-nghiem-thanh-cong-ten-lua-dua-con-nguoi-tro-lai-mat-trang-890664.ldo) ([Lao Động](https://laodong.vn))
+- [Bộ máy Nhà nước sẽ có nhiều gương mặt mới](https://tuoitre.vn/bo-may-nha-nuoc-se-co-nhieu-guong-mat-moi-20210319081311704.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thế giới thiếu nguyên liệu nhựa trầm trọng do Texas chìm trong giá rét](https://cafebiz.vn/the-gioi-thieu-nguyen-lieu-nhua-tram-trong-do-texas-chim-trong-gia-ret-20210319102350593.chn) ([CafeBiz](https://cafebiz.vn))
+- [Khả năng xuất hiện bão mạnh, phức tạp trên Biển Đông trong mùa bão năm nay](https://laodong.vn/moi-truong/kha-nang-xuat-hien-bao-manh-phuc-tap-tren-bien-dong-trong-mua-bao-nam-nay-890618.ldo) ([Lao Động](https://laodong.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Lời khuyên để bạn tìm được nửa kia hoàn hảo](https://vietcetera.com/vn/loi-khuyen-de-ban-tim-duoc-nua-kia-hoan-hao)
 - [Tóm Lại Là: Tưởng là dùng dịch vụ stream nhưng hoá ra truyền hình cáp?](https://vietcetera.com/vn/tom-lai-la-su-chuyen-minh-cua-cac-dich-vu-streaming-tu-disney-toi-netflix)
 - [4 Cách để bảo vệ chất xám của mình trên nền tảng internet](https://vietcetera.com/vn/4-cach-de-bao-ve-chat-xam-cua-minh-tren-nen-tang-internet)
 - ["Sài Gòn - Đà Lạt là thấy không bền rồi, huống gì Mỹ - Việt Nam!"](https://vietcetera.com/vn/sai-gon-da-lat-la-thay-khong-ben-roi-huong-gi-my-viet-nam)
@@ -105,7 +106,6 @@
 - [Lifestyle Platform - Mua mọi thứ, ăn mọi món trong một cửa hàng vài chục mét vuông.](https://vietcetera.com/vn/lifestyle-platform-mua-moi-thu-an-moi-mon-trong-mot-cua-hang-vai-chuc-met-vuong)
 - [Mua hàng sale có đồng nghĩa với tiết kiệm?](https://vietcetera.com/vn/mua-hang-sale-co-dong-nghia-voi-tiet-kiem)
 - [Tóm Lại Là: Người đồng tính thì không được "ban phước"?](https://vietcetera.com/vn/tom-lai-la-nguoi-dong-tinh-thi-khong-duoc-ban-phuoc)
-- ["Điều ngu ngốc nhất, nhân danh tình yêu, mà bạn từng làm là gì?"](https://vietcetera.com/vn/sau-7-nam-yeu-nhau-minh-nhan-ra-moi-quan-he-cua-tui-minh-hoi-lech-lac)
 
 [Read More](https://vietcetera.com/)
 
@@ -119,8 +119,8 @@
 04. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
 05. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
 06. [SUPER JUNIOR 슈퍼주니어 'House Party' MV](https://www.youtube.com/watch?v=BtJMOVKjhUo) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
-07. [Billie Eilish - everything i wanted (Live From The 63rd GRAMMYs®/2021)](https://www.youtube.com/watch?v=aVAKT9UxJMI) - [BillieEilishVEVO](https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg)
-08. [Jessi (제시) - '어떤X (What Type of X)' MV](https://www.youtube.com/watch?v=OEu1OWf8ezU) - [Jessi](https://www.youtube.com/channel/UCN2bQLTTvNPZWCWU5TYghKA)
+07. [Jessi (제시) - '어떤X (What Type of X)' MV](https://www.youtube.com/watch?v=OEu1OWf8ezU) - [Jessi](https://www.youtube.com/channel/UCN2bQLTTvNPZWCWU5TYghKA)
+08. [Billie Eilish - everything i wanted (Live From The 63rd GRAMMYs®/2021)](https://www.youtube.com/watch?v=aVAKT9UxJMI) - [BillieEilishVEVO](https://www.youtube.com/channel/UCDGmojLIoWpXok597xYo8cg)
 09. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
 10. [Giveon - Heartbreak Anniversary (Official Music Video)](https://www.youtube.com/watch?v=uWRlisQu4fo) - [GiveonVEVO](https://www.youtube.com/channel/UCa3ZoB87QoSaLM0qODmrMfA)
 
