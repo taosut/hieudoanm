@@ -22,7 +22,7 @@
 - Current weather is broken clouds.
 - Temperature is 27°C.
 - Feels Like 28.55°C.
-- Air Visual is 113.
+- Air Visual is 110.
 
 **WEATHER**
 
@@ -53,20 +53,20 @@
 - [![Billie Eilish](https://img.shields.io/static/v1?label=Billie%20Eilish&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Billie%20Eilish)
 - [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
 - [![Europa](https://img.shields.io/static/v1?label=Europa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa)
-- [![Europa League 2021](https://img.shields.io/static/v1?label=Europa%20League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League%202021)
 - [![Justice League](https://img.shields.io/static/v1?label=Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justice%20League)
 - [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
-- [![Liên Quân](https://img.shields.io/static/v1?label=Li%C3%AAn%20Qu%C3%A2n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Li%C3%AAn%20Qu%C3%A2n)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Nguyễn Xuân Phúc](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Xu%C3%A2n%20Ph%C3%BAc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Xu%C3%A2n%20Ph%C3%BAc)
 - [![Nguyễn Đức Chung](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung)
 - [![Phạm Minh Chính](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh)
 - [![Phạm Nhật Vượng](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Nh%E1%BA%ADt%20V%C6%B0%E1%BB%A3ng)
+- [![Rắn chàm quạp](https://img.shields.io/static/v1?label=R%E1%BA%AFn%20ch%C3%A0m%20qu%E1%BA%A1p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=R%E1%BA%AFn%20ch%C3%A0m%20qu%E1%BA%A1p)
+- [![SLNA](https://img.shields.io/static/v1?label=SLNA&message=google&color=red&style=flat-square)](https://www.google.com/search?q=SLNA)
 - [![Thiên hạ hữu tình nhân](https://img.shields.io/static/v1?label=Thi%C3%AAn%20h%E1%BA%A1%20h%E1%BB%AFu%20t%C3%ACnh%20nh%C3%A2n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Thi%C3%AAn%20h%E1%BA%A1%20h%E1%BB%AFu%20t%C3%ACnh%20nh%C3%A2n)
 - [![V-League](https://img.shields.io/static/v1?label=V-League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V-League)
-- [![V-League 2021](https://img.shields.io/static/v1?label=V-League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V-League%202021)
 - [![VTV3 trực tiếp](https://img.shields.io/static/v1?label=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp)
 - [![Vương Đình Huệ](https://img.shields.io/static/v1?label=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87)
+- [![Zack Snyder's Justice League](https://img.shields.io/static/v1?label=Zack%20Snyder's%20Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Zack%20Snyder's%20Justice%20League)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Áp thấp nóng suy yếu Nam Bộ giảm nhiệt, xuất hiện mưa trái mùa](https://laodong.vn/moi-truong/ap-thap-nong-suy-yeu-nam-bo-giam-nhiet-xuat-hien-mua-trai-mua-890749.ldo) ([Lao Động](https://laodong.vn))
-- [Trồng mới 10 triệu cây xanh để hiện thực hóa sáng kiến của Thủ tướng](http://vietnamnet.vn/vn/thoi-su/moi-truong/trong-moi-10-trieu-cay-xanh-de-hien-thuc-hoa-sang-kien-cua-thu-tuong-720764.html) ([VietNamNet](https://vietnamnet.vn))
-- [Vận tải hành khách tuyến Hải Phòng - Hải Dương được hoạt động trở lại](https://laodong.vn/giao-thong/van-tai-hanh-khach-tuyen-hai-phong-hai-duong-duoc-hoat-dong-tro-lai-890727.ldo) ([Lao Động](https://laodong.vn))
-- [Như Quỳnh muốn ra đi phải trả phí chuyển nhượng cho đội Vietinbank?](https://laodong.vn/the-thao/nhu-quynh-muon-ra-di-phai-tra-phi-chuyen-nhuong-cho-doi-vietinbank-890692.ldo) ([Lao Động](https://laodong.vn))
+- [Bắt giữ 350kg mực khô nghi nhập lậu từ Trung Quốc](https://laodong.vn/kinh-te/bat-giu-350kg-muc-kho-nghi-nhap-lau-tu-trung-quoc-890735.ldo) ([Lao Động](https://laodong.vn))
+- [Mexico bắt giữ lô vaccine COVID-19 Sputnik V giả](https://laodong.vn/the-gioi/mexico-bat-giu-lo-vaccine-covid-19-sputnik-v-gia-890741.ldo) ([Lao Động](https://laodong.vn))
+- [Sang nhượng mặt bằng kinh doanh cần những thủ tục gì?](https://laodong.vn/bat-dong-san/sang-nhuong-mat-bang-kinh-doanh-can-nhung-thu-tuc-gi-890691.ldo) ([Lao Động](https://laodong.vn))
+- [Thêm 3 địa phương dự kiến là thành phố trực thuộc Trung ương](https://vnexpress.net/them-3-dia-phuong-du-kien-la-thanh-pho-truc-thuoc-trung-uong-4249953.html) ([VNExpress](https://vnexpress.net))
+- [Được chứng kiến tái thả động vật hoang dã tại Rừng Quốc gia Cúc Phương](https://laodong.vn/moi-truong/duoc-chung-kien-tai-tha-dong-vat-hoang-da-tai-rung-quoc-gia-cuc-phuong-890750.ldo) ([Lao Động](https://laodong.vn))
+- [Khánh Hòa yêu cầu 3 cựu cán bộ trả lại nhà công vụ](https://laodong.vn/xa-hoi/khanh-hoa-yeu-cau-3-cuu-can-bo-tra-lai-nha-cong-vu-890737.ldo) ([Lao Động](https://laodong.vn))
+- [Sĩ quan giành huy chương vàng Army games được tuyên dương](https://vnexpress.net/si-quan-gianh-huy-chuong-vang-army-games-duoc-tuyen-duong-4250395.html) ([VNExpress](https://vnexpress.net))
+- [Lãng phí chứng chỉ ngoại ngữ: Dành cả thanh xuân để học lấy chứng chỉ](https://laodong.vn/xa-hoi/lang-phi-chung-chi-ngoai-ngu-danh-ca-thanh-xuan-de-hoc-lay-chung-chi-890562.ldo) ([Lao Động](https://laodong.vn))
+- [Thu phí xa lộ Hà Nội từ 1-4, giảm 50% mức thu cho cư dân hai bên đường](https://tuoitre.vn/thu-phi-xa-lo-ha-noi-tu-1-4-giam-50-muc-thu-cho-cu-dan-hai-ben-duong-20210319084335261.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Thành phố Phú Quốc có thêm 1 phó chủ tịch](https://tuoitre.vn/thanh-pho-phu-quoc-co-them-1-pho-chu-tich-20210319095616651.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thủ đoạn lừa bán vé máy bay &quot;giải cứu&quot; sinh viên Hàn Quốc về Việt Nam](https://laodong.vn/phap-luat/thu-doan-lua-ban-ve-may-bay-giai-cuu-sinh-vien-han-quoc-ve-viet-nam-890716.ldo) ([Lao Động](https://laodong.vn))
-- [Công bố mô hình phôi người hoàn chỉnh tạo ra trong phòng thí nghiệm](https://laodong.vn/the-gioi/cong-bo-mo-hinh-phoi-nguoi-hoan-chinh-tao-ra-trong-phong-thi-nghiem-890686.ldo) ([Lao Động](https://laodong.vn))
-- ["Chị Dậu trong tác phẩm "Tắt đèn" tên thật là gì?"](https://cafebiz.vn/chi-dau-trong-tac-pham-tat-den-ten-that-la-gi-20210319102717234.chn) ([CafeBiz](https://cafebiz.vn))
-- [Mẹ Thiên nhiên, chuyên gia thiết kế vĩ đại, có thể dạy con người tạo ra một thế giới hiệu quả hơn](https://cafebiz.vn/me-thien-nhien-chuyen-gia-thiet-ke-vi-dai-co-the-day-con-nguoi-tao-ra-mot-the-gioi-hieu-qua-hon-20210319104444634.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cơ sở thẩm mỹ trái phép khóa cửa ngăn đoàn kiểm tra, công an tới mới chịu mở](https://tuoitre.vn/co-so-tham-my-trai-phep-khoa-cua-ngan-doan-kiem-tra-cong-an-toi-moi-chiu-mo-20210319085036313.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
