@@ -1,5 +1,8 @@
 # News
 
+- [Sẵn sàng hạ tầng kỹ thuật cho 'hộ chiếu vaccine' từ tháng 4](https://vnexpress.net/san-sang-ha-tang-ky-thuat-cho-ho-chieu-vaccine-tu-thang-4-4250928.html) ([VNExpress](https://vnexpress.net))
+- [Bình Dương: Tai nạn giao thông làm 2 công nhân xây dựng tử vong](https://laodong.vn/xa-hoi/binh-duong-tai-nan-giao-thong-lam-2-cong-nhan-xay-dung-tu-vong-890778.ldo) ([Lao Động](https://laodong.vn))
+- [Tiếng Hàn trở thành môn thi tốt nghiệp THPT: Học sinh, giáo viên nói gì?](https://laodong.vn/video/tieng-han-tro-thanh-mon-thi-tot-nghiep-thpt-hoc-sinh-giao-vien-noi-gi-890773.ldo) ([Lao Động](https://laodong.vn))
 - [Một thanh niên nghi rơi từ tầng 2 khu cách ly xuống đất tử vong](https://laodong.vn/xa-hoi/mot-thanh-nien-nghi-roi-tu-tang-2-khu-cach-ly-xuong-dat-tu-vong-890784.ldo) ([Lao Động](https://laodong.vn))
 - [Trong khi Jack Ma bị vùi dập vì "vạ miệng", người đàn ông này có thể là tấm gương cho giới hạn phát ngôn ở Trung Quốc](https://cafebiz.vn/trong-khi-jack-ma-bi-vui-dap-vi-va-mieng-nguoi-dan-ong-nay-co-the-la-tam-guong-cho-gioi-han-phat-ngon-o-trung-quoc-20210319133640048.chn) ([CafeBiz](https://cafebiz.vn))
 - [Có một thứ độc hại kinh khủng, còn hơn cả hít khói thuốc với cả thể chất và tinh thần nhưng nhiều người vẫn âm thầm chịu đựng: SẾP TỒI](https://cafebiz.vn/co-mot-thu-doc-hai-kinh-khung-con-hon-ca-hit-khoi-thuoc-voi-ca-the-chat-va-tinh-than-nhung-nhieu-nguoi-van-am-tham-chiu-dung-sep-toi-20210319141608607.chn) ([CafeBiz](https://cafebiz.vn))
@@ -7,9 +10,7 @@
 - [PVcomBank đồng hành cùng sinh viên nghèo](https://laodong.vn/kinh-te/pvcombank-dong-hanh-cung-sinh-vien-ngheo-890728.ldo) ([Lao Động](https://laodong.vn))
 - [Cách đăng ký thẻ bảo hiểm y tế cho con](https://laodong.vn/ban-doc/cach-dang-ky-the-bao-hiem-y-te-cho-con-890771.ldo) ([Lao Động](https://laodong.vn))
 - [Apple cảnh cáo 'ngầm' các nhà phát triển Trung Quốc](https://cafebiz.vn/apple-canh-cao-ngam-cac-nha-phat-trien-trung-quoc-20210319134550032.chn) ([CafeBiz](https://cafebiz.vn))
-- [Công bố kết quả sơ bộ thử nghiệm vaccine mới của Trung Quốc tại Chile](https://laodong.vn/the-gioi/cong-bo-ket-qua-so-bo-thu-nghiem-vaccine-moi-cua-trung-quoc-tai-chile-890761.ldo) ([Lao Động](https://laodong.vn))
 - [Tàu Cát Linh - Hà Đông trước ngày bàn giao về Hà Nội](https://vnexpress.net/tau-cat-linh-ha-dong-truoc-ngay-ban-giao-ve-ha-noi-4250897.html) ([VNExpress](https://vnexpress.net))
-- [Cách đàn ông xử lý hiệu quả mâu thuẫn giữa vợ và gia đình nhà chồng](https://laodong.vn/chuyen-nha-minh/cach-dan-ong-xu-ly-hieu-qua-mau-thuan-giua-vo-va-gia-dinh-nha-chong-890731.ldo) ([Lao Động](https://laodong.vn))
 - [HSBC: Chứng khoán Việt Nam ngày càng đáng đầu tư](https://cafebiz.vn/hsbc-chung-khoan-viet-nam-ngay-cang-dang-dau-tu-20210319142031211.chn) ([CafeBiz](https://cafebiz.vn))
 - [Trong talkshow về kinh doanh, tiến sỹ Lê Thẩm Dương chia sẻ "nhầm" một lý thuyết điển hình trong kinh tế?](https://cafebiz.vn/trong-talkshow-ve-kinh-doanh-tien-sy-le-tham-duong-chia-se-nham-mot-ly-thuyet-dien-hinh-trong-kinh-te-20210319110312176.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thủ tướng yêu cầu Bộ GD-ĐT đề xuất phương án sửa đổi chứng chỉ chức danh nghề nghiệp](https://tuoitre.vn/thu-tuong-yeu-cau-bo-gd-dt-de-xuat-phuong-an-sua-doi-chung-chi-chuc-danh-nghe-nghiep-2021031914085778.htm) ([Tuổi Trẻ](https://tuoitre.vn))
@@ -96,7 +97,6 @@
 - [So với nam giới, phụ nữ có nguy cơ thương vong khi gặp tai nạn xe hơi cao hơn tới 73%](https://cafebiz.vn/so-voi-nam-gioi-phu-nu-co-nguy-co-thuong-vong-khi-gap-tai-nan-xe-hoi-cao-hon-toi-73-20210319085011275.chn) ([CafeBiz](https://cafebiz.vn))
 - [Miền Nam bớt nóng, vài nơi có mưa trái mùa](https://tuoitre.vn/mien-nam-bot-nong-vai-noi-co-mua-trai-mua-20210319074846786.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Nha khoa Phạm Hùng: Mang nụ cười đến cho mọi người](https://laodong.vn/thong-tin-doanh-nghiep/nha-khoa-pham-hung-mang-nu-cuoi-den-cho-moi-nguoi-890512.ldo) ([Lao Động](https://laodong.vn))
-- [Hardware Reserved Memory trên Windows là gì mà nó ăn nhiều RAM vậy?](https://tinhte.vn/thread/hardware-reserved-memory-tren-windows-la-gi-ma-no-an-nhieu-ram-vay.3294222/) ([Tinh Tế](https://tinhte.vn))
+- [Tình trạng thiếu hụt chip có thể ảnh hưởng tới cả iPhone](https://tinhte.vn/thread/tinh-trang-thieu-hut-chip-co-the-anh-huong-toi-ca-iphone.3295969/) ([Tinh Tế](https://tinhte.vn))
+- [Dân Đài Loan kéo nhau đi đổi tên thành "Cá Hồi" để được ăn miễn phí](https://tinhte.vn/thread/dan-dai-loan-keo-nhau-di-doi-ten-thanh-ca-hoi-de-duoc-an-mien-phi.3295541/) ([Tinh Tế](https://tinhte.vn))
 - [Tổng hợp deal khuyến mãi (19/03)](https://tinhte.vn/thread/tong-hop-deal-khuyen-mai-19-03.3296176/) ([Tinh Tế](https://tinhte.vn))
-- [Chuyển từ video sang ảnh GIF động trên iPhone cực dễ](https://tinhte.vn/thread/chuyen-tu-video-sang-anh-gif-dong-tren-iphone-cuc-de.3295934/) ([Tinh Tế](https://tinhte.vn))
-- [[Video] Cảnh tượng chiếc máy bay đè nát chiếc SUV khiến cậu bé 4 tuổi thiệt mạng](https://tinhte.vn/thread/video-canh-tuong-chiec-may-bay-de-nat-chiec-suv-khien-cau-be-4-tuoi-thiet-mang.3295802/) ([Tinh Tế](https://tinhte.vn))
