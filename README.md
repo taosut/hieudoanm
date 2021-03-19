@@ -48,12 +48,12 @@
 
 **GOOGLE TRENDS**
 
-- [![Bayern](https://img.shields.io/static/v1?label=Bayern&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern)
 - [![Bayern Munich](https://img.shields.io/static/v1?label=Bayern%20Munich&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Bayern%20Munich)
 - [![Billie Eilish](https://img.shields.io/static/v1?label=Billie%20Eilish&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Billie%20Eilish)
 - [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
 - [![Europa](https://img.shields.io/static/v1?label=Europa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa)
 - [![Justice League](https://img.shields.io/static/v1?label=Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justice%20League)
+- [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
 - [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Nguyễn Xuân Phúc](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Xu%C3%A2n%20Ph%C3%BAc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Xu%C3%A2n%20Ph%C3%BAc)
@@ -66,8 +66,8 @@
 - [![V-League](https://img.shields.io/static/v1?label=V-League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V-League)
 - [![VTV3 trực tiếp](https://img.shields.io/static/v1?label=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp&message=google&color=red&style=flat-square)](https://www.google.com/search?q=VTV3%20tr%E1%BB%B1c%20ti%E1%BA%BFp)
 - [![Vương Đình Huệ](https://img.shields.io/static/v1?label=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87&message=google&color=red&style=flat-square)](https://www.google.com/search?q=V%C6%B0%C6%A1ng%20%C4%90%C3%ACnh%20Hu%E1%BB%87)
-- [![Zack Snyder's Justice League](https://img.shields.io/static/v1?label=Zack%20Snyder's%20Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Zack%20Snyder's%20Justice%20League)
 - [![Đan Trường](https://img.shields.io/static/v1?label=%C4%90an%20Tr%C6%B0%E1%BB%9Dng&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90an%20Tr%C6%B0%E1%BB%9Dng)
+- [![Đánh giá năng lực](https://img.shields.io/static/v1?label=%C4%90%C3%A1nh%20gi%C3%A1%20n%C4%83ng%20l%E1%BB%B1c&message=google&color=red&style=flat-square)](https://www.google.com/search?q=%C4%90%C3%A1nh%20gi%C3%A1%20n%C4%83ng%20l%E1%BB%B1c)
 
 [Read More](https://trends.google.com/trends/?geo=VN)
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Trong khi “con cưng” Six Senses kinh doanh không mấy khả quan, tập đoàn IHG vẫn ồ ạt mở thêm resort sang chảnh ở Việt Nam](https://cafebiz.vn/trong-khi-con-cung-six-senses-kinh-doanh-khong-may-kha-quan-tap-doan-ihg-van-o-at-mo-them-resort-sang-chanh-o-viet-nam-20210319104412576.chn) ([CafeBiz](https://cafebiz.vn))
+- [Vinhomes ra mắt nền tảng cho thuê BĐS trực tuyến, ngồi nhà cũng có thể chọn được căn hộ mà không phải qua môi giới](https://cafebiz.vn/vinhomes-ra-mat-nen-tang-cho-thue-bds-truc-tuyen-ngoi-nha-cung-co-the-chon-duoc-can-ho-ma-khong-phai-qua-moi-gioi-2021031911193867.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nam thanh niên bị thủng tim khi đang chẻ củi](https://laodong.vn/suc-khoe/nam-thanh-nien-bi-thung-tim-khi-dang-che-cui-890766.ldo) ([Lao Động](https://laodong.vn))
+- [Những mẫu xe ôtô 350 - 400 triệu thích hợp chạy taxi](https://laodong.vn/xe/nhung-mau-xe-oto-350-400-trieu-thich-hop-chay-taxi-890596.ldo) ([Lao Động](https://laodong.vn))
+- [Thua Than Quảng Ninh, TPHCM gửi văn bản chỉ ra 5 cái sai của  trọng tài](https://laodong.vn/bong-da/thua-than-quang-ninh-tphcm-gui-van-ban-chi-ra-5-cai-sai-cua-trong-tai-890738.ldo) ([Lao Động](https://laodong.vn))
+- [Vi phạm hợp đồng đặt cọc mua bán nhà đất, xử phạt như nào?](https://laodong.vn/bat-dong-san/vi-pham-hop-dong-dat-coc-mua-ban-nha-dat-xu-phat-nhu-nao-890000.ldo) ([Lao Động](https://laodong.vn))
 - [Ngày 22.3 sẽ nối lại tìm kiếm nạn nhân thủy điện ở Rào Trăng 3](https://laodong.vn/xa-hoi/ngay-223-se-noi-lai-tim-kiem-nan-nhan-thuy-dien-o-rao-trang-3-890762.ldo) ([Lao Động](https://laodong.vn))
-- [13 cảnh sát Mexico thiệt mạng do bị phục kích](https://laodong.vn/the-gioi/13-canh-sat-mexico-thiet-mang-do-bi-phuc-kich-890739.ldo) ([Lao Động](https://laodong.vn))
-- [“Phụ tá Bộ chỉ huy Quân cảnh tư pháp” của tổ chức phản động lãnh án tù](https://laodong.vn/phap-luat/phu-ta-bo-chi-huy-quan-canh-tu-phap-cua-to-chuc-phan-dong-lanh-an-tu-890747.ldo) ([Lao Động](https://laodong.vn))
-- [Đại sứ Mỹ cảm ơn Công an Hà Nội đã xử lý đối tượng quấy rối ở hồ Tây](http://vietnamnet.vn/vn/thoi-su/chinh-tri/dai-su-my-cam-on-cong-an-ha-noi-da-xu-ly-doi-tuong-quay-roi-o-ho-tay-720842.html) ([VietNamNet](https://vietnamnet.vn))
-- [Bé gái 2 tuổi tử vong bất thường sau khi đi học: Chủ cơ sở mầm non lên tếng](https://laodong.vn/giao-duc/be-gai-2-tuoi-tu-vong-bat-thuong-sau-khi-di-hoc-chu-co-so-mam-non-len-teng-890710.ldo) ([Lao Động](https://laodong.vn))
 - [Dân Sài Gòn 20 năm chờ cải tạo rạch Xuyên Tâm](https://vnexpress.net/dan-sai-gon-20-nam-cho-cai-tao-rach-xuyen-tam-4247516.html) ([VNExpress](https://vnexpress.net))
 - [Bản tin 1 phút 19.3: Người dân hào hứng làm CCCD gắn chip trên xe lưu động](https://laodong.vn/video/ban-tin-1-phut-193-nguoi-dan-hao-hung-lam-cccd-gan-chip-tren-xe-luu-dong-890708.ldo) ([Lao Động](https://laodong.vn))
-- [Nếu... lách luật, Ronaldo có thể về Real Madrid mà không bị áp thuế cao](https://laodong.vn/bong-da-quoc-te/neu-lach-luat-ronaldo-co-the-ve-real-madrid-ma-khong-bi-ap-thue-cao-890699.ldo) ([Lao Động](https://laodong.vn))
 - [Người dân Phúc Thọ thích thú với con đường bích họa dài nhất Hà Nội](https://laodong.vn/xa-hoi/nguoi-dan-phuc-tho-thich-thu-voi-con-duong-bich-hoa-dai-nhat-ha-noi-890296.ldo) ([Lao Động](https://laodong.vn))
-- [Cá chết bất thường trên sông](https://vnexpress.net/ca-chet-bat-thuong-tren-song-4250850.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
