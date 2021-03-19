@@ -40,17 +40,19 @@ export default class LunarCalendar extends React.Component<Props, State> {
     const d = new Date();
     const year: number = d.getFullYear();
     const month: number = d.getMonth() + 1;
-    const date: number = d.getDate();
-    await this.convertSolarToLunar({ year, month, date });
+    const day: number = d.getDate();
+    await this.convertSolarToLunar({ year, month, day });
   }
 
   async convertSolarToLunar(date: any): Promise<void> {
-    const { date: solarDate = 0, month: solarMonth = 0, year: solarYear = 0 } = date;
+    const { day: solarDate = 0, month: solarMonth = 0, year: solarYear = 0 } = date;
     const {
       date: lunarDate = 0,
       month: lunarMonth = 0,
       year: lunarYear = 0,
     } = await api.convertSolarToLunar(solarDate, solarMonth, solarYear);
+    console.log('SOLAR', solarDate, solarMonth, solarYear);
+    console.log('LUNAR', lunarDate, lunarMonth, lunarYear);
     this.setState({ solarDate, solarMonth, solarYear, lunarDate, lunarMonth, lunarYear });
   }
 
@@ -76,7 +78,7 @@ export default class LunarCalendar extends React.Component<Props, State> {
               {utils.addZero(lunarDate)}
             </Text>
           </View>
-          <Calendar />
+          <Calendar onDayPress={day => this.convertSolarToLunar(day)} />
         </View>
       </SafeAreaView>
     );
