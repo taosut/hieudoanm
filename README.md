@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 28°C.
-- Feels Like 28.84°C.
-- Air Visual is 153.
+- Temperature is 27°C.
+- Feels Like 28.55°C.
+- Air Visual is 125.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Trong khi “con cưng” Six Senses kinh doanh không mấy khả quan, tập đoàn IHG vẫn ồ ạt mở thêm resort sang chảnh ở Việt Nam](https://cafebiz.vn/trong-khi-con-cung-six-senses-kinh-doanh-khong-may-kha-quan-tap-doan-ihg-van-o-at-mo-them-resort-sang-chanh-o-viet-nam-20210319104412576.chn) ([CafeBiz](https://cafebiz.vn))
-- [Vinhomes ra mắt nền tảng cho thuê BĐS trực tuyến, ngồi nhà cũng có thể chọn được căn hộ mà không phải qua môi giới](https://cafebiz.vn/vinhomes-ra-mat-nen-tang-cho-thue-bds-truc-tuyen-ngoi-nha-cung-co-the-chon-duoc-can-ho-ma-khong-phai-qua-moi-gioi-2021031911193867.chn) ([CafeBiz](https://cafebiz.vn))
-- [Nam thanh niên bị thủng tim khi đang chẻ củi](https://laodong.vn/suc-khoe/nam-thanh-nien-bi-thung-tim-khi-dang-che-cui-890766.ldo) ([Lao Động](https://laodong.vn))
-- [Những mẫu xe ôtô 350 - 400 triệu thích hợp chạy taxi](https://laodong.vn/xe/nhung-mau-xe-oto-350-400-trieu-thich-hop-chay-taxi-890596.ldo) ([Lao Động](https://laodong.vn))
-- [Thua Than Quảng Ninh, TPHCM gửi văn bản chỉ ra 5 cái sai của  trọng tài](https://laodong.vn/bong-da/thua-than-quang-ninh-tphcm-gui-van-ban-chi-ra-5-cai-sai-cua-trong-tai-890738.ldo) ([Lao Động](https://laodong.vn))
-- [Vi phạm hợp đồng đặt cọc mua bán nhà đất, xử phạt như nào?](https://laodong.vn/bat-dong-san/vi-pham-hop-dong-dat-coc-mua-ban-nha-dat-xu-phat-nhu-nao-890000.ldo) ([Lao Động](https://laodong.vn))
-- [Ngày 22.3 sẽ nối lại tìm kiếm nạn nhân thủy điện ở Rào Trăng 3](https://laodong.vn/xa-hoi/ngay-223-se-noi-lai-tim-kiem-nan-nhan-thuy-dien-o-rao-trang-3-890762.ldo) ([Lao Động](https://laodong.vn))
-- [Dân Sài Gòn 20 năm chờ cải tạo rạch Xuyên Tâm](https://vnexpress.net/dan-sai-gon-20-nam-cho-cai-tao-rach-xuyen-tam-4247516.html) ([VNExpress](https://vnexpress.net))
-- [Bản tin 1 phút 19.3: Người dân hào hứng làm CCCD gắn chip trên xe lưu động](https://laodong.vn/video/ban-tin-1-phut-193-nguoi-dan-hao-hung-lam-cccd-gan-chip-tren-xe-luu-dong-890708.ldo) ([Lao Động](https://laodong.vn))
-- [Người dân Phúc Thọ thích thú với con đường bích họa dài nhất Hà Nội](https://laodong.vn/xa-hoi/nguoi-dan-phuc-tho-thich-thu-voi-con-duong-bich-hoa-dai-nhat-ha-noi-890296.ldo) ([Lao Động](https://laodong.vn))
+- [Hà Nội sẵn sàng tiếp nhận đường sắt Cát Linh - Hà Đông](https://laodong.vn/xa-hoi/ha-noi-san-sang-tiep-nhan-duong-sat-cat-linh-ha-dong-890770.ldo) ([Lao Động](https://laodong.vn))
+- [Chọn laptop văn phòng, tham khảo ngay 3 mẫu máy vô cùng đáng mua tới từ Acer](https://cafebiz.vn/chon-laptop-van-phong-tham-khao-ngay-3-mau-may-vo-cung-dang-mua-toi-tu-acer-20210319113848717.chn) ([CafeBiz](https://cafebiz.vn))
+- [Đáp ứng mọi nhu cầu di chuyển với XL7 chỉ từ 73,5 triệu đồng](https://cafebiz.vn/dap-ung-moi-nhu-cau-di-chuyen-voi-xl7-chi-tu-735-trieu-dong-20210319104154867.chn) ([CafeBiz](https://cafebiz.vn))
+- [Nguy cơ cao dịch bệnh trên thủy sản, Bộ NNPTNT xây dựng kế hoạch phòng chống](https://laodong.vn/kinh-te/nguy-co-cao-dich-benh-tren-thuy-san-bo-nnptnt-xay-dung-ke-hoach-phong-chong-890768.ldo) ([Lao Động](https://laodong.vn))
+- [Thanh niên tử vong nghi do rơi từ tầng 2 khu cách ly y tế ở Hà Tĩnh](http://vietnamnet.vn/vn/thoi-su/thanh-nien-tu-vong-nghi-do-roi-tu-tang-2-khu-cach-ly-y-te-o-ha-tinh-720851.html) ([VietNamNet](https://vietnamnet.vn))
+- [Vì sao có quan niệm phân biệt môn chính - môn phụ?](https://laodong.vn/giao-duc/vi-sao-co-quan-niem-phan-biet-mon-chinh-mon-phu-890769.ldo) ([Lao Động](https://laodong.vn))
+- [Ba kiểu thái độ cần có để có cuộc sống an nhiên, nhàn hạ](https://cafebiz.vn/ba-kieu-thai-do-can-co-de-co-cuoc-song-an-nhien-nhan-ha-20210319131543985.chn) ([CafeBiz](https://cafebiz.vn))
+- [Va chạm với xe tải chở cát, người đàn ông bị cán tử vong](http://vietnamnet.vn/vn/thoi-su/va-cham-voi-xe-tai-cho-cat-nguoi-dan-ong-bi-can-tu-vong-720848.html) ([VietNamNet](https://vietnamnet.vn))
+- [Những mẫu xe ôtô giá rẻ, niêm yết chưa tới 400 triệu đồng](https://laodong.vn/xe/nhung-mau-xe-oto-gia-re-niem-yet-chua-toi-400-trieu-dong-890679.ldo) ([Lao Động](https://laodong.vn))
+- [Khánh Hòa tính chi 140 tỉ tiêm miễn phí vắc xin COVID-19 cho dân](https://tuoitre.vn/khanh-hoa-tinh-chi-140-ti-tiem-mien-phi-vac-xin-covid-19-cho-dan-20210319115613247.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
