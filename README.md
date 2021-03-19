@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 26°C.
-- Feels Like 28.29°C.
-- Air Visual is 95.
+- Temperature is 27°C.
+- Feels Like 28.55°C.
+- Air Visual is 113.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Xem trực tiếp TPHCM vs Sài Gòn tại V.League 2021 ở kênh nào?](https://laodong.vn/bong-da/xem-truc-tiep-tphcm-vs-sai-gon-tai-vleague-2021-o-kenh-nao-890694.ldo) ([Lao Động](https://laodong.vn))
-- [4 “điểm chí mạng” sinh viên mới ra trường cần khắc phục nếu muốn tìm công việc mơ ước](https://cafebiz.vn/4-diem-chi-mang-sinh-vien-moi-ra-truong-can-khac-phuc-neu-muon-tim-cong-viec-mo-uoc-20210319100928015.chn) ([CafeBiz](https://cafebiz.vn))
-- [Sáng kiến mới của Singapore giúp du khách an tâm khi du lịch](https://cafebiz.vn/sang-kien-moi-cua-singapore-giup-du-khach-an-tam-khi-du-lich-20210318185400213.chn) ([CafeBiz](https://cafebiz.vn))
-- [Thu hồi xe máy cũ nát: Trông chờ vào lộ trình bắt buộc xe máy đăng kiểm định kỳ](https://laodong.vn/xa-hoi/thu-hoi-xe-may-cu-nat-trong-cho-vao-lo-trinh-bat-buoc-xe-may-dang-kiem-dinh-ky-890560.ldo) ([Lao Động](https://laodong.vn))
-- [Cải cách hành chính Nhà nước giúp tiết kiệm mỗi năm hàng chục nghìn tỉ đồng](https://laodong.vn/thoi-su/cai-cach-hanh-chinh-nha-nuoc-giup-tiet-kiem-moi-nam-hang-chuc-nghin-ti-dong-890563.ldo) ([Lao Động](https://laodong.vn))
-- [Top SUV - Crossover bán chạy nhất: Hyundai Santa Fe và Kia Sorento trượt dốc](https://laodong.vn/xe/top-suv-crossover-ban-chay-nhat-hyundai-santa-fe-va-kia-sorento-truot-doc-890619.ldo) ([Lao Động](https://laodong.vn))
-- [Một cảnh sát tưởng đã chết trong sóng thần năm 2004 vẫn còn sống](https://laodong.vn/the-gioi/mot-canh-sat-tuong-da-chet-trong-song-than-nam-2004-van-con-song-890653.ldo) ([Lao Động](https://laodong.vn))
-- [Thế giới đầu tư vào hàng xa xỉ như thế nào?](https://cafebiz.vn/the-gioi-dau-tu-vao-hang-xa-xi-nhu-the-nao-20210319104217391.chn) ([CafeBiz](https://cafebiz.vn))
-- [Cận cảnh tòa nhà 150 tỷ đồng, hình thù kỳ dị chưa từng có ở thủ phủ gốm Bát Tràng](https://cafebiz.vn/can-canh-toa-nha-150-ty-dong-hinh-thu-ky-di-chua-tung-co-o-thu-phu-gom-bat-trang-20210319104320675.chn) ([CafeBiz](https://cafebiz.vn))
-- ['Cỗ máy in tiền' bí mật giúp Mark Zuckerberg ngồi không mà vẫn giàu lên mỗi ngày](https://cafebiz.vn/co-may-in-tien-bi-mat-giup-mark-zuckerberg-ngoi-khong-ma-van-giau-len-moi-ngay-20210319103709648.chn) ([CafeBiz](https://cafebiz.vn))
+- [Áp thấp nóng suy yếu Nam Bộ giảm nhiệt, xuất hiện mưa trái mùa](https://laodong.vn/moi-truong/ap-thap-nong-suy-yeu-nam-bo-giam-nhiet-xuat-hien-mua-trai-mua-890749.ldo) ([Lao Động](https://laodong.vn))
+- [Trồng mới 10 triệu cây xanh để hiện thực hóa sáng kiến của Thủ tướng](http://vietnamnet.vn/vn/thoi-su/moi-truong/trong-moi-10-trieu-cay-xanh-de-hien-thuc-hoa-sang-kien-cua-thu-tuong-720764.html) ([VietNamNet](https://vietnamnet.vn))
+- [Vận tải hành khách tuyến Hải Phòng - Hải Dương được hoạt động trở lại](https://laodong.vn/giao-thong/van-tai-hanh-khach-tuyen-hai-phong-hai-duong-duoc-hoat-dong-tro-lai-890727.ldo) ([Lao Động](https://laodong.vn))
+- [Như Quỳnh muốn ra đi phải trả phí chuyển nhượng cho đội Vietinbank?](https://laodong.vn/the-thao/nhu-quynh-muon-ra-di-phai-tra-phi-chuyen-nhuong-cho-doi-vietinbank-890692.ldo) ([Lao Động](https://laodong.vn))
+- [Thành phố Phú Quốc có thêm 1 phó chủ tịch](https://tuoitre.vn/thanh-pho-phu-quoc-co-them-1-pho-chu-tich-20210319095616651.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Thủ đoạn lừa bán vé máy bay &quot;giải cứu&quot; sinh viên Hàn Quốc về Việt Nam](https://laodong.vn/phap-luat/thu-doan-lua-ban-ve-may-bay-giai-cuu-sinh-vien-han-quoc-ve-viet-nam-890716.ldo) ([Lao Động](https://laodong.vn))
+- [Công bố mô hình phôi người hoàn chỉnh tạo ra trong phòng thí nghiệm](https://laodong.vn/the-gioi/cong-bo-mo-hinh-phoi-nguoi-hoan-chinh-tao-ra-trong-phong-thi-nghiem-890686.ldo) ([Lao Động](https://laodong.vn))
+- ["Chị Dậu trong tác phẩm "Tắt đèn" tên thật là gì?"](https://cafebiz.vn/chi-dau-trong-tac-pham-tat-den-ten-that-la-gi-20210319102717234.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mẹ Thiên nhiên, chuyên gia thiết kế vĩ đại, có thể dạy con người tạo ra một thế giới hiệu quả hơn](https://cafebiz.vn/me-thien-nhien-chuyen-gia-thiet-ke-vi-dai-co-the-day-con-nguoi-tao-ra-mot-the-gioi-hieu-qua-hon-20210319104444634.chn) ([CafeBiz](https://cafebiz.vn))
+- [Cơ sở thẩm mỹ trái phép khóa cửa ngăn đoàn kiểm tra, công an tới mới chịu mở](https://tuoitre.vn/co-so-tham-my-trai-phep-khoa-cua-ngan-doan-kiem-tra-cong-an-toi-moi-chiu-mo-20210319085036313.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
