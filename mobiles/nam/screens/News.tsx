@@ -40,13 +40,14 @@ export default class News extends React.Component<Props, State> {
     await this.getGoogleTrends();
   }
 
-  async getGoogleTrends() {
+  async getGoogleTrends(): Promise<void> {
     this.setState({ loading: true });
     const trends: Array<string> = await api.getGoogleTrends();
+    // await storage.setObject('trends', trends);
     this.setState({ loading: false, trends });
   }
 
-  async openBrowser(url: string) {
+  async openBrowser(url: string): Promise<void> {
     const supported: boolean = await Linking.canOpenURL(url);
     if (supported) {
       Linking.openURL(url);

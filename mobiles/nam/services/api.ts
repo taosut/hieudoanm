@@ -8,7 +8,9 @@ export default class API {
   ): Promise<any> {
     const url: string = `https://vietnamdb.herokuapp.com/api/${endpoint}`;
     const bodyData: string = JSON.stringify(body);
-    const options = method.toUpperCase() === 'GET' ? { method } : { method, body: bodyData };
+    const headers = { 'Content-Type': 'application/json' };
+    const options =
+      method.toUpperCase() === 'GET' ? { method, headers } : { method, headers, body: bodyData };
     return new Promise(resolve => {
       fetch(url, options)
         .then((res: any) => res.json())
@@ -55,5 +57,15 @@ export default class API {
     const res = (await this.fetch('news/trends')) || {};
     const { trends = [] } = res;
     return trends;
+  }
+
+  public async getBanksForexRates(): Promise<Array<Record<string, any>>> {
+    const rates = (await this.fetch('banks/forex/rates')) || [];
+    return rates;
+  }
+
+  public async getStockCompanies(): Promise<Array<Record<string, any>>> {
+    const companies: Array<Record<string, any>> = (await this.fetch('finance/companies')) || [];
+    return companies;
   }
 }
