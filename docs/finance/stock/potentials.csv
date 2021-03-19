@@ -1,22 +1,23 @@
 "symbol","name","industry","subsector","group","latest","start","latestDate","startDate","diffToMin","diffToMax","diff","min","minDate","median","average","max","maxDate","low","numberOfDates"
-"APH","Công ty Cổ phần Tập đoàn An Phát Holdings","Công nghiệp","Containers & Đóng gói","HOSE",49.5,51.49,"2021-03-18","2021-02-17",0.2,3.2,3.4,49.3,"2021-03-15",50.43,50.67,52.7,"2021-02-23",true,22
-"BMP","Công ty Cổ phần Nhựa Bình Minh","Công nghiệp","Vật liệu xây dựng & Nội thất","HOSE",61,62,"2021-03-18","2021-02-17",0,4.2,4.2,61,"2021-03-17",62.1,62.53,65.2,"2021-03-03",true,22
-"CAV","Công ty Cổ phần Dây cáp điện Việt Nam","Công nghiệp","Hàng điện & điện tử","HOSE",63.2,65.9,"2021-03-18","2021-02-17",0.2,2.8,3,63,"2021-03-17",64.1,64.38,66,"2021-02-19",true,22
-"CDN","Công ty Cổ phần Cảng Đà Nẵng","Công nghiệp","Kho bãi, hậu cần và bảo dưỡng","HNX",29,30.9,"2021-03-18","2021-02-17",0,3.3,3.3,29,"2021-03-17",30,30.3,32.3,"2021-02-19",true,22
-"CVT","Công ty Cổ phần CMC","Công nghiệp","Vật liệu xây dựng & Nội thất","HOSE",43.7,43.9,"2021-03-18","2021-02-17",0,4.5,4.5,43.7,"2021-03-18",45.8,46.03,48.2,"2021-03-08",true,20
-"GKM","Công ty Cổ phần Khang Minh Group","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",15.7,19.1,"2021-03-18","2021-02-17",0.1,3.4,3.5,15.6,"2021-03-15",16.2,16.46,19.1,"2021-02-17",true,22
-"GTN","Công ty Cổ phần GTNFOODS","Hàng Tiêu dùng","Nuôi trồng nông & hải sản","HOSE",24.1,25.25,"2021-03-18","2021-02-17",0.3,3.25,3.55,23.8,"2021-03-17",25.23,25.45,27.35,"2021-03-02",true,22
-"HHC","Công ty Cổ phần Bánh kẹo Hải Hà","Hàng Tiêu dùng","Thực phẩm","HNX",91,99.9,"2021-03-18","2021-02-19",0,8.9,8.9,91,"2021-03-18",95.45,95.45,99.9,"2021-02-19",true,2
-"HKT","Công ty Cổ phần Đầu tư Ego Việt Nam","Hàng Tiêu dùng","Đồ uống & giải khát","HNX",7.3,10,"2021-03-18","2021-02-17",0.4,2.7,3.1,6.9,"2021-03-16",7.9,8.26,10,"2021-02-17",true,19
-"HTP","Công ty Cổ phần In Sách Giáo Khoa Hòa Phát","Dịch vụ Tiêu dùng","Sách, ấn bản & sản phẩm văn hóa","HNX",16.5,19.2,"2021-03-18","2021-02-17",0.5,3,3.5,16,"2021-03-03",17.55,17.65,19.5,"2021-03-10",true,22
-"INN","Công ty Cổ phần Bao bì và In Nông nghiệp","Công nghiệp","Containers & Đóng gói","HNX",30.9,31.9,"2021-03-18","2021-02-17",0.4,3.1,3.5,30.5,"2021-03-12",31.9,31.72,34,"2021-03-04",true,22
-"NSC","Công ty Cổ phần Tập đoàn Giống cây trồng Việt Nam","Hàng Tiêu dùng","Nuôi trồng nông & hải sản","HOSE",75,74.7,"2021-03-18","2021-02-17",0.5,2.9,3.4,74.5,"2021-02-18",76.25,76.16,77.9,"2021-03-08",true,22
-"PHN","Công ty Cổ phần Pin Hà Nội","Công nghiệp","Hàng điện & điện tử","HNX",30.2,32.3,"2021-03-18","2021-02-17",0,5.3,5.3,30.2,"2021-03-18",33.7,33.42,35.5,"2021-03-08",true,18
-"REE","Công ty Cổ phần Cơ điện Lạnh","Công nghiệp","Máy công nghiệp","VN30",54.1,59.1,"2021-03-18","2021-02-17",0.2,5.5,5.7,53.9,"2021-03-16",56.2,56.2,59.6,"2021-02-18",true,22
-"RIC","Công ty Cổ phần Quốc Tế Hoàng Gia","Dịch vụ Tiêu dùng","Dịch vụ giải trí","HOSE",22.5,22.1,"2021-03-18","2021-02-17",0.4,23.65,24.05,22.1,"2021-02-17",31.53,32.3,46.15,"2021-03-04",true,22
+"APH","Công ty Cổ phần Tập đoàn An Phát Holdings","Công nghiệp","Containers & Đóng gói","HOSE",49.3,51.34,"2021-03-19","2021-02-18",0,3.4,3.4,49.3,"2021-03-15",50.41,50.57,52.7,"2021-02-23",true,22
+"BMP","Công ty Cổ phần Nhựa Bình Minh","Công nghiệp","Vật liệu xây dựng & Nội thất","HOSE",60.8,63,"2021-03-19","2021-02-18",0,4.4,4.4,60.8,"2021-03-19",62.1,62.47,65.2,"2021-03-03",true,22
+"CAV","Công ty Cổ phần Dây cáp điện Việt Nam","Công nghiệp","Hàng điện & điện tử","HOSE",63.5,65.6,"2021-03-19","2021-02-18",0.5,2.5,3,63,"2021-03-17",64.05,64.27,66,"2021-02-19",true,22
+"CDN","Công ty Cổ phần Cảng Đà Nẵng","Công nghiệp","Kho bãi, hậu cần và bảo dưỡng","HNX",28,32,"2021-03-19","2021-02-18",0,4.3,4.3,28,"2021-03-19",30,30.16,32.3,"2021-02-19",true,22
+"CJC","Công ty Cổ phần Cơ điện Miền Trung","Công nghiệp","Thiết bị điện","HNX",20.7,24,"2021-03-19","2021-02-18",0,3.3,3.3,20.7,"2021-03-19",22.9,22.53,24,"2021-02-18",true,3
+"DAT","Công ty cổ phần Đầu tư Du lịch và Phát triển Thủy sản","Hàng Tiêu dùng","Nuôi trồng nông & hải sản","HOSE",27.1,28.65,"2021-03-19","2021-02-18",0.1,3.2,3.3,27,"2021-02-24",28,28.1,30.3,"2021-03-08",true,21
+"HHC","Công ty Cổ phần Bánh kẹo Hải Hà","Hàng Tiêu dùng","Thực phẩm","HNX",91,99.9,"2021-03-19","2021-02-19",0,8.9,8.9,91,"2021-03-18",91,93.97,99.9,"2021-02-19",true,3
+"HKT","Công ty Cổ phần Đầu tư Ego Việt Nam","Hàng Tiêu dùng","Đồ uống & giải khát","HNX",7,10,"2021-03-19","2021-02-23",0.1,3,3.1,6.9,"2021-03-16",7.9,8.1,10,"2021-02-23",true,19
+"HTP","Công ty Cổ phần In Sách Giáo Khoa Hòa Phát","Dịch vụ Tiêu dùng","Sách, ấn bản & sản phẩm văn hóa","HNX",16.5,17.5,"2021-03-19","2021-02-18",0.5,3,3.5,16,"2021-03-03",17.5,17.52,19.5,"2021-03-10",true,22
+"IDC","Tổng Công ty IDICO - CTCP ","Tài chính","Bất động sản","HNX",37.5,41.8,"2021-03-19","2021-02-18",0.5,4.3,4.8,37,"2021-03-05",38.15,38.75,41.8,"2021-02-18",true,22
+"INN","Công ty Cổ phần Bao bì và In Nông nghiệp","Công nghiệp","Containers & Đóng gói","HNX",30.7,32,"2021-03-19","2021-02-18",0.2,3.3,3.5,30.5,"2021-03-12",31.9,31.66,34,"2021-03-04",true,22
+"MCP","Công ty Cổ phần In và Bao bì Mỹ Châu","Công nghiệp","Containers & Đóng gói","HOSE",25,29.45,"2021-03-19","2021-03-02",0,4.45,4.45,25,"2021-03-19",27.98,27.87,29.45,"2021-03-02",true,10
+"NSC","Công ty Cổ phần Tập đoàn Giống cây trồng Việt Nam","Hàng Tiêu dùng","Nuôi trồng nông & hải sản","HOSE",75,74.5,"2021-03-19","2021-02-18",0.5,2.9,3.4,74.5,"2021-02-18",76.25,76.18,77.9,"2021-03-08",true,22
+"NVL","Công ty Cổ phần Tập đoàn Đầu tư Địa ốc No Va","Tài chính","Bất động sản","VN30",79,81.5,"2021-03-19","2021-02-18",0,3.9,3.9,79,"2021-03-19",80.8,80.85,82.9,"2021-03-11",true,22
+"RIC","Công ty Cổ phần Quốc Tế Hoàng Gia","Dịch vụ Tiêu dùng","Dịch vụ giải trí","HOSE",20.95,23.6,"2021-03-19","2021-02-18",0,25.2,25.2,20.95,"2021-03-19",31.53,32.25,46.15,"2021-03-04",true,22
+"SDN","Công ty Cổ phần Sơn Đồng Nai","Công nghiệp","Vật liệu xây dựng & Nội thất","HNX",32,32,"2021-03-19","2021-02-22",0,3,3,32,"2021-02-22",33.9,33.38,35,"2021-03-15",true,10
 "SGH","Công ty Cổ phần Khách sạn Sài Gòn","Dịch vụ Tiêu dùng","Khách sạn","HNX",37,40.9,"2021-03-09","2021-02-22",0,3.9,3.9,37,"2021-03-09",38.95,38.95,40.9,"2021-02-22",true,2
-"SVI","Công ty Cổ phần Bao bì Biên Hòa","Công nghiệp","Containers & Đóng gói","HOSE",83.2,87.9,"2021-03-16","2021-02-17",0.2,6.6,6.8,83,"2021-02-24",85,86.02,89.8,"2021-03-02",true,14
-"VCG","Tổng Công ty Cổ phần Xuất nhập khẩu và Xây dựng Việt Nam","Công nghiệp","Xây dựng","HOSE",44,49.4,"2021-03-18","2021-02-17",0,5.7,5.7,44,"2021-03-18",47.65,47.75,49.7,"2021-02-18",true,22
-"VGC","Tổng Công ty Viglacera - Công ty Cổ phần","Công nghiệp","Vật liệu xây dựng & Nội thất","HOSE",34,34.95,"2021-03-18","2021-02-17",0.5,3.45,3.95,33.5,"2021-03-10",35.58,35.43,37.45,"2021-02-25",true,22
-"VSC","Công ty Cổ phần Container Việt Nam","Công nghiệp","Kho bãi, hậu cần và bảo dưỡng","HOSE",58.9,62,"2021-03-18","2021-02-17",0.2,4,4.2,58.7,"2021-03-15",60.4,60.42,62.9,"2021-03-01",true,22
-"VSM","Công ty Cổ phần Container Miền Trung","Công nghiệp","Kho bãi, hậu cần và bảo dưỡng","HNX",18,19,"2021-03-18","2021-02-22",0,3.2,3.2,18,"2021-03-18",19.5,19.63,21.2,"2021-03-09",true,8
+"VCB","Ngân hàng Thương mại Cổ phần Ngoại thương Việt Nam","Ngân hàng","Ngân hàng","VN30",94.2,102,"2021-03-19","2021-02-18",0,7.8,7.8,94.2,"2021-03-19",96.05,97.55,102,"2021-02-18",true,22
+"VGC","Tổng Công ty Viglacera - Công ty Cổ phần","Công nghiệp","Vật liệu xây dựng & Nội thất","HOSE",33.9,35.2,"2021-03-19","2021-02-18",0.4,3.55,3.95,33.5,"2021-03-10",35.58,35.39,37.45,"2021-02-25",true,22
+"VJC","Công ty Cổ phần Hàng không Vietjet","Dịch vụ Tiêu dùng","Hàng không","VN30",130.5,131.8,"2021-03-19","2021-02-18",0,7.2,7.2,130.5,"2021-03-19",135,134.63,137.7,"2021-03-02",true,22
+"VNT","Công ty Cổ phần Giao nhận Vận tải Ngoại Thương","Công nghiệp","Dịch vụ vận tải","HNX",66.1,72.3,"2021-03-19","2021-02-18",0,13.9,13.9,66.1,"2021-03-19",75.05,74.44,80,"2021-02-22",true,14
+"VSC","Công ty Cổ phần Container Việt Nam","Công nghiệp","Kho bãi, hậu cần và bảo dưỡng","HOSE",58,61.9,"2021-03-19","2021-02-18",0,4.9,4.9,58,"2021-03-19",60.35,60.24,62.9,"2021-03-01",true,22
