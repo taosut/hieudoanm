@@ -51,23 +51,26 @@ export default class BanksService {
     return banks.bankIds;
   }
 
-  public async getForexRates(): Promise<any> {
+  public async getForexRates(code: string = ''): Promise<any> {
     const self = this;
     const { bankIds = [] } = banks;
 
-    const docs: Array<any> = await self.getForexRatesFromDB(bankIds);
+    const docs: Array<any> = await self.getForexRatesFromDB(bankIds, code);
     const currencies = self.getCurrenciesFromDB(docs);
     const rates = self.processForexRates(currencies, docs);
 
     return rates;
   }
 
-  private async getForexRatesFromDB(bankIds: Array<string> = []): Promise<Array<any>> {
+  private async getForexRatesFromDB(
+    bankIds: Array<string> = [],
+    code: string = ''
+  ): Promise<Array<any>> {
     const self = this;
     return new Promise(resolve => {
       Promise.all(
         bankIds.map(async (id: string) => {
-          return await self.getForexRatesOfBankFromDB(id);
+          return await self.getForexRatesOfBankFromDB(id, code);
         })
       )
         .then(res => {
@@ -80,20 +83,32 @@ export default class BanksService {
     });
   }
 
-  private async getForexRatesOfBankFromDB(id: string): Promise<any> {
+  private async getForexRatesOfBankFromDB(id: string, code: string = ''): Promise<any> {
+    code = code.length === 3 ? code : '';
     const key: string = `forex-rates-${id}`;
     const cache: string = await redisClient.get(key);
     if (cache) {
       logger.info(`Get Forex Rates ${id} from Cache`);
-      const json = utils.parseJSON(cache, {});
+      const json = utils.parseJSON(cache, []);
       if (!_.isEmpty(json)) {
-        return json;
+        const { rates = [] } = json;
+        const filterRates = rates.filter(item => {
+          const { code: currencyCode = '' } = item;
+          return code ? currencyCode === code : true;
+        });
+        return Object.assign(json, { rates: filterRates });
       }
     }
     const doc = await dsBanksForexRate.findOne({ bank: id }, { sort: { timestamp: -1 } });
-    if (utils.isObjectEmpty(doc)) return {};
-    await redisClient.setex(key, JSON.stringify(doc), 60 * 60);
-    return doc;
+    if (_.isEmpty(doc)) return {};
+    const { rates = [] } = doc;
+    const filterRates = rates.filter(item => {
+      const { code: currencyCode = '' } = item;
+      return code ? currencyCode === code : true;
+    });
+    const updatedDoc = Object.assign(doc, { rates: filterRates });
+    await redisClient.setex(key, JSON.stringify(updatedDoc), 60 * 60);
+    return updatedDoc;
   }
 
   private getCurrenciesFromDB(docs: Array<any> = []) {

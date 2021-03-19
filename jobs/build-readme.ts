@@ -1,25 +1,11 @@
 'use strict';
 
 import fs from 'fs';
-import Vietcetera from 'vietcetera';
 import { youTube } from 'vnapis';
 
-import { syncNews } from './services/news';
 import { addZero } from './libs';
 
 const masterRepo: string = `https://github.com/hieudoanm/hieudoanm/tree/master`;
-
-export const getNewsArticles = async (): Promise<string> => {
-  console.log('Build README - getNewsArticles()');
-  const articles = await syncNews(10, false);
-  if (!articles.length) return '';
-  return articles
-    .map((article: any) => {
-      const { title, url, source, sourceURL } = article;
-      return `- [${title}](${url}) ([${source}](${sourceURL}))`;
-    })
-    .join('\n');
-};
 
 export const getYouTubeTrending = async (categoryId: number = 0): Promise<string> => {
   console.log(`Build README - getYouTubeTrending(${categoryId})`);
@@ -58,10 +44,10 @@ export const buildNPM = (): string => {
 
 const getAll = (): Promise<Record<string, any>> => {
   return new Promise(resolve => {
-    Promise.all([getYouTubeTrending(), getYouTubeTrending(10), getNewsArticles()])
+    Promise.all([getYouTubeTrending(), getYouTubeTrending(10)])
       .then(res => {
-        const [youTubeTrending = '', musicTrending = '', articles = ''] = res;
-        resolve({ youTubeTrending, musicTrending, articles });
+        const [youTubeTrending = '', musicTrending = ''] = res;
+        resolve({ youTubeTrending, musicTrending });
       })
       .catch(error => {
         console.error('error', error);
@@ -72,7 +58,7 @@ const getAll = (): Promise<Record<string, any>> => {
 
 export const buildREADME = async () => {
   console.time('GET ALL');
-  const { youTubeTrending = '', musicTrending = '', articles = '' } = await getAll();
+  const { youTubeTrending = '', musicTrending = '' } = await getAll();
   console.timeEnd('GET ALL');
   const npm: string = buildNPM();
 
@@ -103,35 +89,19 @@ ${npm}
 
 </td><td valign="top" width="33%">
 
-**NEWS**
-
-${articles}
-
-[Read More](docs/news/README.md)
-
-</td><td valign="top" width="33%">
-
 **MUSIC TRENDS**
 
 ${musicTrending}
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
-</td></tr></tbody></table>
-
-<h2 align="center">TODAY</h2>
-
-<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
+</td><td valign="top" width="33%">
 
 **YOUTUBE TRENDS**
 
 ${youTubeTrending}
 
 [Read More](https://www.youtube.com/feed/trending)
-
-</td><td valign="top" width="33%">
-
-</td><td valign="top" width="33%">
 
 </td></tr></tbody></table>
 `;

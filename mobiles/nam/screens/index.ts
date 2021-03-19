@@ -3,11 +3,12 @@ import Eye from './Eye';
 import Forex from './Forex';
 import Home from './Home';
 import License from './License';
-import News from './News';
+import NewsArticles from './news/Articles';
+import NewsTrends from './news/Trends';
 import Stock from './Stock';
 import Visas from './Visas';
-import VLeagueMatches from './VLeagueMatches';
-import VLeagueTable from './VLeagueTable';
+import VLeagueMatches from './vleague/Matches';
+import VLeagueTable from './vleague/Table';
 import Weather from './Weather';
 
 export {
@@ -16,7 +17,8 @@ export {
   Forex,
   Home,
   License,
-  News,
+  NewsArticles,
+  NewsTrends,
   Stock,
   Visas,
   VLeagueMatches,

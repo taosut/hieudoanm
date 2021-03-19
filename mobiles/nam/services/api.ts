@@ -23,22 +23,30 @@ export default class API {
   }
 
   public async getLicensePlates(license: string = ''): Promise<Array<Record<string, any>>> {
-    const licensePlates = await this.fetch(`license-plates?license=${license}`);
+    const endpoint: string = `license-plates?license=${license}`;
+    const licensePlates: Array<Record<string, any>> = await this.fetch(endpoint);
     return licensePlates;
   }
 
   public async getVisas(): Promise<Array<Record<string, any>>> {
-    const visas = await this.fetch('visas');
+    const visas: Array<Record<string, any>> = await this.fetch('visas');
     return visas;
   }
 
   public async getVLeagueTable(): Promise<Array<Record<string, any>>> {
-    const table = await this.fetch('culture/sports/vleague/table');
+    const table: Array<Record<string, any>> = await this.fetch('culture/sports/vleague/table');
     return table;
   }
 
+  public async getVLeagueMatches(team: string): Promise<Array<Record<string, any>>> {
+    const matches: Array<Record<string, any>> = await this.fetch(
+      `culture/sports/vleague/matches?team=${team}`,
+    );
+    return matches;
+  }
+
   public async getWeather(city: string): Promise<Record<string, any>> {
-    const weather = await this.fetch(`weather?city=${city}`);
+    const weather: Record<string, any> = await this.fetch(`weather?city=${city}`);
     return weather;
   }
 
@@ -53,15 +61,27 @@ export default class API {
     return lunar;
   }
 
-  public async getGoogleTrends(): Promise<Array<string>> {
+  public async getNewsTrends(): Promise<Array<string>> {
     const res = (await this.fetch('news/trends')) || {};
     const { trends = [] } = res;
     return trends;
   }
 
-  public async getBanksForexRates(): Promise<Array<Record<string, any>>> {
-    const rates = (await this.fetch('banks/forex/rates')) || [];
+  public async getNewsArticles(): Promise<Array<Record<string, any>>> {
+    const articles: Array<Record<string, any>> = (await this.fetch('news/articles')) || [];
+    return articles;
+  }
+
+  public async getBanksForexRates(currency: string = ''): Promise<Array<Record<string, any>>> {
+    const endpoint: string = `banks/forex/rates?code=${currency}`;
+    const rates: Array<Record<string, any>> = (await this.fetch(endpoint)) || [];
     return rates;
+  }
+
+  public async getBanksForexCurrencies(): Promise<Array<Record<string, any>>> {
+    const currencies: Array<Record<string, any>> =
+      (await this.fetch('banks/forex/currencies')) || [];
+    return currencies;
   }
 
   public async getStockCompanies(): Promise<Array<Record<string, any>>> {

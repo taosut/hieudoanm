@@ -6,58 +6,47 @@
 import React from 'react';
 import {
   SafeAreaView,
-  Linking,
   View,
   StyleSheet,
   ActivityIndicator,
-  Alert,
-  ScrollView,
   Text,
+  ScrollView,
   TouchableWithoutFeedback,
 } from 'react-native';
 
-import { colors } from '../constant';
-import { api } from '../services';
+import { colors } from '../../constant';
+import { api } from '../../services';
 
-type Props = {};
+type Props = { navigation: any };
 
 type State = {
   loading: boolean;
-  trends: Array<string>;
+  table: Array<any>;
 };
 
-export default class News extends React.Component<Props, State> {
+export default class VLeagueTable extends React.Component<Props, State> {
   constructor(props: Props) {
     super(props);
 
-    this.state = { loading: false, trends: [] };
+    this.state = { loading: false, table: [] };
 
-    this.getGoogleTrends = this.getGoogleTrends.bind(this);
-    this.openBrowser = this.openBrowser.bind(this);
+    this.getVLeagueTable = this.getVLeagueTable.bind(this);
   }
 
-  async componentDidMount(): Promise<void> {
-    await this.getGoogleTrends();
+  async componentDidMount() {
+    await this.getVLeagueTable();
   }
 
-  async getGoogleTrends(): Promise<void> {
+  async getVLeagueTable() {
     this.setState({ loading: true });
-    const trends: Array<string> = await api.getGoogleTrends();
-    // await storage.setObject('trends', trends);
-    this.setState({ loading: false, trends });
-  }
-
-  async openBrowser(url: string): Promise<void> {
-    const supported: boolean = await Linking.canOpenURL(url);
-    if (supported) {
-      Linking.openURL(url);
-    } else {
-      Alert.alert(`Don't know how to open this URL: ${url}`);
-    }
+    const table = await api.getVLeagueTable();
+    this.setState({ loading: false, table });
   }
 
   render() {
-    const { loading = false, trends = [] } = this.state;
+    const { loading = false, table = [] } = this.state;
+    const { navigation } = this.props;
+
     return (
       <SafeAreaView style={styles.safeAreaView}>
         <View style={styles.container}>
@@ -68,19 +57,27 @@ export default class News extends React.Component<Props, State> {
           )}
           {!loading && (
             <View>
-              {trends.length === 0 && (
+              {table.length === 0 && (
                 <View style={styles.noResults}>
                   <Text style={styles.noResultsText}>NO LICENSE PLATES</Text>
                 </View>
               )}
-              {trends.length > 0 && (
+              {table.length > 0 && (
                 <ScrollView>
-                  {trends.map((trend: string, index: number) => {
-                    const url: string = `https://www.google.com/search?q=${encodeURI(trend)}`;
+                  {table.map((item: Record<string, any>, index: number) => {
+                    const { name, rank, point, played, win, draw, lost } = item;
                     return (
                       <View key={index} style={styles.item}>
-                        <TouchableWithoutFeedback onPress={() => this.openBrowser(url)}>
-                          <Text>{trend}</Text>
+                        <TouchableWithoutFeedback
+                          onPress={() => navigation.navigate('vleaguematches', { team: name })}>
+                          <View>
+                            <Text>
+                              {rank} - {name} - Point: {point}
+                            </Text>
+                            <Text>
+                              Played: {played} (W{win} - D{draw} - L{lost})
+                            </Text>
+                          </View>
                         </TouchableWithoutFeedback>
                       </View>
                     );
@@ -117,7 +114,7 @@ const styles = StyleSheet.create({
   item: {
     color: colors.dark,
     backgroundColor: colors.white,
-    padding: 8,
+    padding: 16,
     borderBottomColor: colors.border,
     borderBottomWidth: 1,
   },

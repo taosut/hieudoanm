@@ -6,37 +6,40 @@
 import React from 'react';
 import { SafeAreaView, View, StyleSheet, ActivityIndicator, Text, ScrollView } from 'react-native';
 
-import { colors } from '../constant';
-import { api } from '../services';
+import { colors } from '../../constant';
+import { api } from '../../services';
 
-type Props = {};
+type Props = { navigation: any; route: any };
 
 type State = {
   loading: boolean;
-  table: Array<any>;
+  matches: Array<any>;
 };
 
-export default class VLeagueTable extends React.Component<Props, State> {
+export default class Stock extends React.Component<Props, State> {
   constructor(props: Props) {
     super(props);
 
-    this.state = { loading: false, table: [] };
+    this.state = { loading: false, matches: [] };
 
-    this.getVLeagueTable = this.getVLeagueTable.bind(this);
+    this.getVLeagueMatches = this.getVLeagueMatches.bind(this);
   }
 
   async componentDidMount() {
-    await this.getVLeagueTable();
+    const { route = {} } = this.props;
+    const { params = {} } = route;
+    const { team = '' } = params;
+    await this.getVLeagueMatches(team);
   }
 
-  async getVLeagueTable() {
+  async getVLeagueMatches(team: string) {
     this.setState({ loading: true });
-    const table = await api.getVLeagueTable();
-    this.setState({ loading: false, table });
+    const matches = await api.getVLeagueMatches(team);
+    this.setState({ loading: false, matches });
   }
 
   render() {
-    const { loading = false, table = [] } = this.state;
+    const { loading = false, matches = [] } = this.state;
 
     return (
       <SafeAreaView style={styles.safeAreaView}>
@@ -48,22 +51,33 @@ export default class VLeagueTable extends React.Component<Props, State> {
           )}
           {!loading && (
             <View>
-              {table.length === 0 && (
+              {matches.length === 0 && (
                 <View style={styles.noResults}>
-                  <Text style={styles.noResultsText}>NO LICENSE PLATES</Text>
+                  <Text style={styles.noResultsText}>NO MATCHES</Text>
                 </View>
               )}
-              {table.length > 0 && (
+              {matches.length > 0 && (
                 <ScrollView>
-                  {table.map((item: Record<string, any>, index: number) => {
-                    const { name, rank, point, played, win, draw, lost } = item;
+                  {matches.map((match: Record<string, any>, index: number) => {
+                    const {
+                      round,
+                      dateTime,
+                      status,
+                      homeTeam,
+                      awayTeam,
+                      homeScore,
+                      awayScore,
+                    } = match;
                     return (
                       <View key={index} style={styles.item}>
                         <Text>
-                          {rank} - {name} - Point: {point}
+                          {round} - {dateTime} ({status})
                         </Text>
                         <Text>
-                          Played: {played} (W{win} - D{draw} - L{lost})
+                          {homeTeam}: {homeScore}
+                        </Text>
+                        <Text>
+                          {awayTeam}: {awayScore}
                         </Text>
                       </View>
                     );
@@ -100,7 +114,7 @@ const styles = StyleSheet.create({
   item: {
     color: colors.dark,
     backgroundColor: colors.white,
-    padding: 8,
+    padding: 16,
     borderBottomColor: colors.border,
     borderBottomWidth: 1,
   },

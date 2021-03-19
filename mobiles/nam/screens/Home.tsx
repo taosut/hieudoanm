@@ -28,7 +28,7 @@ export default class Home extends React.Component<Props> {
       ],
       [
         { icon: faCar, screen: 'license', text: 'License' },
-        { icon: faNewspaper, screen: 'news', text: 'News' },
+        { icon: faNewspaper, screen: 'newstrends', text: 'News' },
         { icon: faChartLine, screen: 'stock', text: 'Stock' },
       ],
       [

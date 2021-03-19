@@ -13,7 +13,8 @@ import {
   Forex,
   Home,
   License,
-  News,
+  NewsArticles,
+  NewsTrends,
   Stock,
   Visas,
   VLeagueMatches,
@@ -43,8 +44,11 @@ export default class App extends React.Component {
           <Stack.Screen name="license" options={{ title: 'LICENSE' }}>
             {props => <License {...props} />}
           </Stack.Screen>
-          <Stack.Screen name="news" options={{ title: 'NEWS' }}>
-            {props => <News {...props} />}
+          <Stack.Screen name="newsarticles" options={{ title: 'NEWS - ARTICLES' }}>
+            {props => <NewsArticles {...props} />}
+          </Stack.Screen>
+          <Stack.Screen name="newstrends" options={{ title: 'NEWS - TRENDS' }}>
+            {props => <NewsTrends {...props} />}
           </Stack.Screen>
           <Stack.Screen name="stock" options={{ title: 'STOCK' }}>
             {props => <Stock {...props} />}

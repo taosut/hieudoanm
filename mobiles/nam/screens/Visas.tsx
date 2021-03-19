@@ -104,13 +104,13 @@ export default class Stock extends React.Component<Props, State> {
 const styles = StyleSheet.create({
   safeAreaView: {
     flex: 1,
+    backgroundColor: colors.white,
   },
   inputContainer: {
-    flex: 1,
     borderBottomColor: colors.border,
     borderBottomWidth: 0.5,
     backgroundColor: colors.white,
-    padding: 8,
+    padding: 16,
     justifyContent: 'center',
     alignItems: 'center',
   },
@@ -128,7 +128,6 @@ const styles = StyleSheet.create({
     padding: 16,
   },
   listContainer: {
-    flex: 19,
     backgroundColor: colors.white,
   },
   noResults: {
@@ -141,7 +140,7 @@ const styles = StyleSheet.create({
   item: {
     color: colors.dark,
     backgroundColor: colors.white,
-    padding: 8,
+    padding: 16,
     borderBottomColor: colors.border,
     borderBottomWidth: 1,
   },

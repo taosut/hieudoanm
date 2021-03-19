@@ -109,7 +109,7 @@ const styles = StyleSheet.create({
   item: {
     color: colors.dark,
     backgroundColor: colors.white,
-    padding: 8,
+    padding: 16,
     borderBottomColor: colors.border,
     borderBottomWidth: 1,
   },

@@ -32,23 +32,6 @@
 
 </td><td valign="top" width="33%">
 
-**NEWS**
-
-- [Clip &quot;cô giáo&quot; luyện chữ cầm thước đánh học sinh: Công an vào cuộc xác minh](https://laodong.vn/xa-hoi/clip-co-giao-luyen-chu-cam-thuoc-danh-hoc-sinh-cong-an-vao-cuoc-xac-minh-890794.ldo) ([Lao Động](https://laodong.vn))
-- [Hầm sông Sài Gòn lắp hệ thống chữa cháy 95 tỷ đồng](https://vnexpress.net/ham-song-sai-gon-lap-he-thong-chua-chay-95-ty-dong-4250911.html) ([VNExpress](https://vnexpress.net))
-- [Dùng kế "Gậy ông đập lưng ông", Apple cố tình tung tin giả để lật mặt người làm rò rỉ tin tức](https://cafebiz.vn/dung-ke-gay-ong-dap-lung-ong-apple-co-tinh-tung-tin-gia-de-lat-mat-nguoi-lam-ro-ri-tin-tuc-20210319135200059.chn) ([CafeBiz](https://cafebiz.vn))
-- [Trường Đại học Thủy lợi công bố phương thức tuyển sinh năm 2021](https://laodong.vn/giao-duc/truong-dai-hoc-thuy-loi-cong-bo-phuong-thuc-tuyen-sinh-nam-2021-890802.ldo) ([Lao Động](https://laodong.vn))
-- [Gợi ý 7 mẹo đơn giản hữu ích cho ngôi nhà luôn sạch sẽ](https://laodong.vn/chuyen-nha-minh/goi-y-7-meo-don-gian-huu-ich-cho-ngoi-nha-luon-sach-se-890461.ldo) ([Lao Động](https://laodong.vn))
-- [Vinhomes ra mắt sàn giao dịch thuê nhà trực tuyến](https://laodong.vn/bat-dong-san/vinhomes-ra-mat-san-giao-dich-thue-nha-truc-tuyen-890781.ldo) ([Lao Động](https://laodong.vn))
-- [Hỗ trợ đoàn viên Công đoàn sửa chữa nhà “Mái ấm Công đoàn”](https://laodong.vn/cong-doan/ho-tro-doan-vien-cong-doan-sua-chua-nha-mai-am-cong-doan-890717.ldo) ([Lao Động](https://laodong.vn))
-- [Đường sắt Cát Linh - Hà Đông: Hà Nội không chấp nhận bàn giao từng phần dự án](https://tuoitre.vn/duong-sat-cat-linh-ha-dong-ha-noi-khong-chap-nhan-ban-giao-tung-phan-du-an-20210319153615453.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Nàng út "cừu đen" Tiffany Trump: Xây dựng danh tiếng theo cách khác biệt, cực nổi tiếng trong dàn "rich kid" nhưng sớm đính hôn với tỷ phú 23 tuổi để đảm bảo tương lai](https://cafebiz.vn/nang-ut-cuu-den-tiffany-trump-xay-dung-danh-tieng-theo-cach-khac-biet-cuc-noi-tieng-trong-dan-rich-kid-nhung-som-dinh-hon-voi-ty-phu-23-tuoi-de-dam-bao-tuong-lai-20210319153845813.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người hâm mộ giúp Quang Hải giành giải tiền vệ hay nhất lịch sử AFC Cup](https://laodong.vn/bong-da/nguoi-ham-mo-giup-quang-hai-gianh-giai-tien-ve-hay-nhat-lich-su-afc-cup-890788.ldo) ([Lao Động](https://laodong.vn))
-
-[Read More](docs/news/README.md)
-
-</td><td valign="top" width="33%">
-
 **MUSIC TRENDS**
 
 01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
@@ -64,11 +47,7 @@
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
-</td></tr></tbody></table>
-
-<h2 align="center">TODAY</h2>
-
-<table style="width:100%"><tbody style="width:100%"><tr><td valign="top" width="33%">
+</td><td valign="top" width="33%">
 
 **YOUTUBE TRENDS**
 
@@ -78,15 +57,11 @@
 04. [TẠM BIỆT...](https://www.youtube.com/watch?v=5djwsYBZ7ys) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
 05. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
 06. [Juky San bất ngờ sau bức tường là anh Bo Đan Trường, song ca "Thiên hạ hữu tình nhân" cực hay](https://www.youtube.com/watch?v=3O1qpIC0mOQ) - [VieTalents](https://www.youtube.com/channel/UCBVSuk_f8ZCPIQ_KwXEGWFw)
-07. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
-08. [BI LONG ĐẠI CA Tập 10 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=IWpPqZpJDcI) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+07. [BI LONG ĐẠI CA Tập 10 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=IWpPqZpJDcI) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+08. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 09. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
 10. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 
 [Read More](https://www.youtube.com/feed/trending)
-
-</td><td valign="top" width="33%">
-
-</td><td valign="top" width="33%">
 
 </td></tr></tbody></table>
