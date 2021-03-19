@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 27°C.
-- Feels Like 28.55°C.
-- Air Visual is 125.
+- Feels Like 28.19°C.
+- Air Visual is 102.
 
 **WEATHER**
 
@@ -52,9 +52,9 @@
 - [![Billie Eilish](https://img.shields.io/static/v1?label=Billie%20Eilish&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Billie%20Eilish)
 - [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
 - [![Europa](https://img.shields.io/static/v1?label=Europa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa)
+- [![Galaxy A52](https://img.shields.io/static/v1?label=Galaxy%20A52&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Galaxy%20A52)
 - [![Justice League](https://img.shields.io/static/v1?label=Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justice%20League)
 - [![LMHT](https://img.shields.io/static/v1?label=LMHT&message=google&color=red&style=flat-square)](https://www.google.com/search?q=LMHT)
-- [![Lien minh](https://img.shields.io/static/v1?label=Lien%20minh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Lien%20minh)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Nguyễn Xuân Phúc](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20Xu%C3%A2n%20Ph%C3%BAc&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20Xu%C3%A2n%20Ph%C3%BAc)
 - [![Nguyễn Đức Chung](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Người mua ve chai nhặt được hơn một cây vàng](https://vnexpress.net/nguoi-mua-ve-chai-nhat-duoc-hon-mot-cay-vang-4250893.html) ([VNExpress](https://vnexpress.net))
+- [Cựu giảng viên đại học làm ăn thua lỗ, nợ nần đi buôn ma túy liên tỉnh](https://cafebiz.vn/cuu-giang-vien-dai-hoc-lam-an-thua-lo-no-nan-di-buon-ma-tuy-lien-tinh-20210319134844278.chn) ([CafeBiz](https://cafebiz.vn))
+- [4 công ty có trụ sở Hà Nội huy động 5.300 tỷ đồng mua dự án 9,6 hécta Quận 2 của Novaland](https://cafebiz.vn/4-cong-ty-co-tru-so-ha-noi-huy-dong-5300-ty-dong-mua-du-an-96-hecta-quan-2-cua-novaland-20210319134818243.chn) ([CafeBiz](https://cafebiz.vn))
+- [Người dân làng Tây Tựu phấn khởi vì giá hoa 'hồi sinh'](https://cafebiz.vn/nguoi-dan-lang-tay-tuu-phan-khoi-vi-gia-hoa-hoi-sinh-20210319134250387.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thêm 3 ca dương tính SARS-CoV-2 ở ổ dịch Kim Thành](https://cafebiz.vn/them-3-ca-duong-tinh-sars-cov-2-o-o-dich-kim-thanh-20210319134117177.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nội sẵn sàng tiếp nhận đường sắt Cát Linh - Hà Đông](https://laodong.vn/xa-hoi/ha-noi-san-sang-tiep-nhan-duong-sat-cat-linh-ha-dong-890770.ldo) ([Lao Động](https://laodong.vn))
 - [Chọn laptop văn phòng, tham khảo ngay 3 mẫu máy vô cùng đáng mua tới từ Acer](https://cafebiz.vn/chon-laptop-van-phong-tham-khao-ngay-3-mau-may-vo-cung-dang-mua-toi-tu-acer-20210319113848717.chn) ([CafeBiz](https://cafebiz.vn))
 - [Đáp ứng mọi nhu cầu di chuyển với XL7 chỉ từ 73,5 triệu đồng](https://cafebiz.vn/dap-ung-moi-nhu-cau-di-chuyen-voi-xl7-chi-tu-735-trieu-dong-20210319104154867.chn) ([CafeBiz](https://cafebiz.vn))
 - [Nguy cơ cao dịch bệnh trên thủy sản, Bộ NNPTNT xây dựng kế hoạch phòng chống](https://laodong.vn/kinh-te/nguy-co-cao-dich-benh-tren-thuy-san-bo-nnptnt-xay-dung-ke-hoach-phong-chong-890768.ldo) ([Lao Động](https://laodong.vn))
 - [Thanh niên tử vong nghi do rơi từ tầng 2 khu cách ly y tế ở Hà Tĩnh](http://vietnamnet.vn/vn/thoi-su/thanh-nien-tu-vong-nghi-do-roi-tu-tang-2-khu-cach-ly-y-te-o-ha-tinh-720851.html) ([VietNamNet](https://vietnamnet.vn))
-- [Vì sao có quan niệm phân biệt môn chính - môn phụ?](https://laodong.vn/giao-duc/vi-sao-co-quan-niem-phan-biet-mon-chinh-mon-phu-890769.ldo) ([Lao Động](https://laodong.vn))
-- [Ba kiểu thái độ cần có để có cuộc sống an nhiên, nhàn hạ](https://cafebiz.vn/ba-kieu-thai-do-can-co-de-co-cuoc-song-an-nhien-nhan-ha-20210319131543985.chn) ([CafeBiz](https://cafebiz.vn))
-- [Va chạm với xe tải chở cát, người đàn ông bị cán tử vong](http://vietnamnet.vn/vn/thoi-su/va-cham-voi-xe-tai-cho-cat-nguoi-dan-ong-bi-can-tu-vong-720848.html) ([VietNamNet](https://vietnamnet.vn))
-- [Những mẫu xe ôtô giá rẻ, niêm yết chưa tới 400 triệu đồng](https://laodong.vn/xe/nhung-mau-xe-oto-gia-re-niem-yet-chua-toi-400-trieu-dong-890679.ldo) ([Lao Động](https://laodong.vn))
-- [Khánh Hòa tính chi 140 tỉ tiêm miễn phí vắc xin COVID-19 cho dân](https://tuoitre.vn/khanh-hoa-tinh-chi-140-ti-tiem-mien-phi-vac-xin-covid-19-cho-dan-20210319115613247.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -139,7 +139,7 @@
 07. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 08. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
 09. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
-10. [BI LONG ĐẠI CA Tập 10 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=IWpPqZpJDcI) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+10. [YÊN TÂM ĐI LÍNH, NGƯỜI YÊU MÀY Ở NHÀ TAO LO | PHIM TÌNH CẢM THANH XUÂN GÃY SCHOOL](https://www.youtube.com/watch?v=7dZgf6_f0-A) - [GÃY SCHOOL](https://www.youtube.com/channel/UCgPMNspYfOQlezMbnjh1Irg)
 
 [Read More](https://www.youtube.com/feed/trending)
 
