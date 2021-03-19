@@ -22,7 +22,7 @@
 - Current weather is mist.
 - Temperature is 25°C.
 - Feels Like 26.93°C.
-- Air Visual is 91.
+- Air Visual is 109.
 
 **WEATHER**
 
@@ -54,9 +54,9 @@
 - [![Dương Thị Bạch Diệp](https://img.shields.io/static/v1?label=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p&message=google&color=red&style=flat-square)](https://www.google.com/search?q=D%C6%B0%C6%A1ng%20Th%E1%BB%8B%20B%E1%BA%A1ch%20Di%E1%BB%87p)
 - [![Europa](https://img.shields.io/static/v1?label=Europa&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa)
 - [![Europa League 2021](https://img.shields.io/static/v1?label=Europa%20League%202021&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Europa%20League%202021)
+- [![Galaxy A52](https://img.shields.io/static/v1?label=Galaxy%20A52&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Galaxy%20A52)
 - [![Justice League](https://img.shields.io/static/v1?label=Justice%20League&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Justice%20League)
 - [![Liên Quân](https://img.shields.io/static/v1?label=Li%C3%AAn%20Qu%C3%A2n&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Li%C3%AAn%20Qu%C3%A2n)
-- [![Liên Quân Mobile](https://img.shields.io/static/v1?label=Li%C3%AAn%20Qu%C3%A2n%20Mobile&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Li%C3%AAn%20Qu%C3%A2n%20Mobile)
 - [![Mai Phương Thúy](https://img.shields.io/static/v1?label=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Mai%20Ph%C6%B0%C6%A1ng%20Th%C3%BAy)
 - [![Nguyễn Đức Chung](https://img.shields.io/static/v1?label=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Nguy%E1%BB%85n%20%C4%90%E1%BB%A9c%20Chung)
 - [![Phạm Minh Chính](https://img.shields.io/static/v1?label=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh&message=google&color=red&style=flat-square)](https://www.google.com/search?q=Ph%E1%BA%A1m%20Minh%20Ch%C3%ADnh)
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Cuộc sống hiện tại của Lệ Rơi sau 7 năm "nổi như cồn": Từ nông dân trồng ổi trở thành hiện tượng gây "bão mạng" rồi lại trắng tay trở về quê nhà](https://cafebiz.vn/cuoc-song-hien-tai-cua-le-roi-sau-7-nam-noi-nhu-con-tu-nong-dan-trong-oi-tro-thanh-hien-tuong-gay-bao-mang-roi-lai-trang-tay-tro-ve-que-nha-20210319094726537.chn) ([CafeBiz](https://cafebiz.vn))
+- [Xuất phát điểm bất ngờ của những 'ông lớn' công nghệ](https://cafebiz.vn/xuat-phat-diem-bat-ngo-cua-nhung-ong-lon-cong-nghe-20210319085739814.chn) ([CafeBiz](https://cafebiz.vn))
+- [Giá vàng và ngoại tệ 19.3: Áp lực lớn, giá vàng quay đầu giảm nhẹ](https://laodong.vn/video/gia-vang-va-ngoai-te-193-ap-luc-lon-gia-vang-quay-dau-giam-nhe-890675.ldo) ([Lao Động](https://laodong.vn))
+- [Bloomberg: Bamboo Airways niêm yết trong quý 3/2021, dự kiến vốn hóa 2,7 tỷ USD](https://cafebiz.vn/bloomberg-bamboo-airways-niem-yet-trong-quy-3-2021-du-kien-von-hoa-27-ty-usd-20210319095631145.chn) ([CafeBiz](https://cafebiz.vn))
+- [Chó ngoại nặng hơn 30kg tấn công, cụ bà 87 tuổi nguy kịch, phải cắt cụt bàn tay](https://tuoitre.vn/cho-ngoai-nang-hon-30kg-tan-cong-cu-ba-87-tuoi-nguy-kich-phai-cat-cut-ban-tay-20210319085657378.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Quay ngoắt 180 độ, CEO Mark Zuckerberg nói rằng tính năng bảo mật mới của iOS 14 sẽ mang lại lợi ích cho Facebook](https://cafebiz.vn/quay-ngoat-180-do-ceo-mark-zuckerberg-noi-rang-tinh-nang-bao-mat-moi-cua-ios-14-se-mang-lai-loi-ich-cho-facebook-2021031909071554.chn) ([CafeBiz](https://cafebiz.vn))
 - [MSB thu về 3.500 tỷ đồng phí trả trước từ thương vụ bancassurance với Prudential?](https://cafebiz.vn/msb-thu-ve-3500-ty-dong-phi-tra-truoc-tu-thuong-vu-bancassurance-voi-prudential-20210319093419617.chn) ([CafeBiz](https://cafebiz.vn))
 - [Lạ mắt với ngôi nhà toàn lỗ của chuyên gia gốm sứ tại Bát Tràng](https://cafebiz.vn/la-mat-voi-ngoi-nha-toan-lo-cua-chuyen-gia-gom-su-tai-bat-trang-20210319090950455.chn) ([CafeBiz](https://cafebiz.vn))
 - [Facebook tuyên bố đang xây dựng mạng xã hội dành riêng cho trẻ em](https://cafebiz.vn/facebook-tuyen-bo-dang-xay-dung-mang-xa-hoi-danh-rieng-cho-tre-em-20210319092249121.chn) ([CafeBiz](https://cafebiz.vn))
 - [Xe lưu động đến tận khu phố làm căn cước gắn chip cho dân](https://tuoitre.vn/xe-luu-dong-den-tan-khu-pho-lam-can-cuoc-gan-chip-cho-dan-20210318220913127.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Chuyện lạ có thật: “Sếp ơi, em không muốn bị thăng chức!”](https://cafebiz.vn/chuyen-la-co-that-sep-oi-em-khong-muon-bi-thang-chuc-20210319091907566.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bí mật ẩn sau Facebook - “quốc gia” lớn nhất thế giới](https://cafebiz.vn/bi-mat-an-sau-facebook-quoc-gia-lon-nhat-the-gioi-20210319090540303.chn) ([CafeBiz](https://cafebiz.vn))
-- [3 thói quen ăn uống gây ung thư thực quản cực nhanh, tất cả đều nằm trong "danh sách đen" của WHO nhưng ít ai để ý](https://cafebiz.vn/3-thoi-quen-an-uong-gay-ung-thu-thuc-quan-cuc-nhanh-tat-ca-deu-nam-trong-danh-sach-den-cua-who-nhung-it-ai-de-y-20210319005946791.chn) ([CafeBiz](https://cafebiz.vn))
-- [Startup của 3 người bạn thân từ "Forbes under 30": Những người từng khởi nghiệp sẽ biết cách hỗ trợ nhau, cùng giải thách thức của thị trường BĐS!](https://cafebiz.vn/startup-cua-3-nguoi-ban-than-tu-forbes-under-30-nhung-nguoi-tung-khoi-nghiep-se-biet-cach-ho-tro-nhau-cung-giai-thach-thuc-cua-thi-truong-bds-20210319084153814.chn) ([CafeBiz](https://cafebiz.vn))
-- [Quán ăn đặt tên là "Hương vị nhà bên" nhưng nhìn nhà bên xong thì khách nào cũng muốn "thổ huyết"](https://cafebiz.vn/quan-an-dat-ten-la-huong-vi-nha-ben-nhung-nhin-nha-ben-xong-thi-khach-nao-cung-muon-tho-huyet-20210319090726798.chn) ([CafeBiz](https://cafebiz.vn))
 
 [Read More](docs/news/README.md)
 
