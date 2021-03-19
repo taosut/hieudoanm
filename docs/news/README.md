@@ -1,11 +1,14 @@
 # News
 
+- [TP HCM xử phạt hát karaoke gây ồn từ 30/6](https://vnexpress.net/tp-hcm-xu-phat-hat-karaoke-gay-on-tu-30-6-4251170.html) ([VNExpress](https://vnexpress.net))
+- [Bình Định nhận thưởng 1 tỉ  đồng sau trận thắng Đà Nẵng](https://laodong.vn/bong-da/binh-dinh-nhan-thuong-1-ti-dong-sau-tran-thang-da-nang-890923.ldo) ([Lao Động](https://laodong.vn))
+- [Khu vực bãi sông Hồng nào được đề xuất phát triển đô thị](https://cafebiz.vn/khu-vuc-bai-song-hong-nao-duoc-de-xuat-phat-trien-do-thi-20210319170916025.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thua trận thứ 3 liên tiếp, câu lạc bộ Nam Định lâm nguy](https://laodong.vn/bong-da/thua-tran-thu-3-lien-tiep-cau-lac-bo-nam-dinh-lam-nguy-890931.ldo) ([Lao Động](https://laodong.vn))
 - [Thời gian làm thẻ căn cước công dân trong bao lâu?](https://laodong.vn/ban-doc/thoi-gian-lam-the-can-cuoc-cong-dan-trong-bao-lau-890789.ldo) ([Lao Động](https://laodong.vn))
 - [Công đoàn tiếp sức nữ công nhân giành lại sự sống cho em trai](https://laodong.vn/ldld-binh-phuoc/cong-doan-tiep-suc-nu-cong-nhan-gianh-lai-su-song-cho-em-trai-890803.ldo) ([Lao Động](https://laodong.vn))
 - [Ông Phạm Minh Chính tiếp xúc cử tri thành phố Hạ Long](http://vietnamnet.vn/vn/thoi-su/chinh-tri/ong-pham-minh-chinh-tiep-xuc-cu-tri-thanh-pho-ha-long-720954.html) ([VietNamNet](https://vietnamnet.vn))
 - [Người đàn ông gần 20 năm canh giữ cửa ô cuối cùng của Hà Nội: Lương chẳng bao nhiêu, áp lực đủ điều nhưng "duyên nợ" là thứ đứng trên tiền bạc](https://cafebiz.vn/nguoi-dan-ong-gan-20-nam-canh-giu-cua-o-cuoi-cung-cua-ha-noi-luong-chang-bao-nhieu-ap-luc-du-dieu-nhung-duyen-no-la-thu-dung-tren-tien-bac-2021031917060067.chn) ([CafeBiz](https://cafebiz.vn))
 - [Quy hoạch sân bay, dự án và “bẫy” tăng giá đất](https://laodong.vn/bat-dong-san/quy-hoach-san-bay-du-an-va-bay-tang-gia-dat-890920.ldo) ([Lao Động](https://laodong.vn))
-- [An Giang: Có nhà bị phát hiện chứa hàng lậu, thượng tá bị cảnh cáo](https://laodong.vn/phap-luat/an-giang-co-nha-bi-phat-hien-chua-hang-lau-thuong-ta-bi-canh-cao-890914.ldo) ([Lao Động](https://laodong.vn))
 - [Hải Phòng cho phép các dịch vụ trở lại bình thường kể từ 0h ngày 20-3](https://tuoitre.vn/hai-phong-cho-phep-cac-dich-vu-tro-lai-binh-thuong-ke-tu-0h-ngay-20-3-20210319195720123.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [TP.HCM kiến nghị rà soát, điều chỉnh lại quy hoạch đường sắt TP.HCM - Cần Thơ](https://tuoitre.vn/tp-hcm-kien-nghi-ra-soat-dieu-chinh-lai-quy-hoach-duong-sat-tp-hcm-can-tho-20210319191322447.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Lái ô tô đi nhậu, năn nỉ suốt 30 phút để được "bỏ qua", nữ tài xế bị CSGT ở Sài Gòn phạt 35 triệu đồng](https://cafebiz.vn/lai-o-to-di-nhau-nan-ni-suot-30-phut-de-duoc-bo-qua-nu-tai-xe-bi-csgt-o-sai-gon-phat-35-trieu-dong-20210319170027981.chn) ([CafeBiz](https://cafebiz.vn))
@@ -97,6 +100,3 @@
 - [Trong khi Jack Ma bị vùi dập vì "vạ miệng", người đàn ông này có thể là tấm gương cho giới hạn phát ngôn ở Trung Quốc](https://cafebiz.vn/trong-khi-jack-ma-bi-vui-dap-vi-va-mieng-nguoi-dan-ong-nay-co-the-la-tam-guong-cho-gioi-han-phat-ngon-o-trung-quoc-20210319133640048.chn) ([CafeBiz](https://cafebiz.vn))
 - [Có một thứ độc hại kinh khủng, còn hơn cả hít khói thuốc với cả thể chất và tinh thần nhưng nhiều người vẫn âm thầm chịu đựng: SẾP TỒI](https://cafebiz.vn/co-mot-thu-doc-hai-kinh-khung-con-hon-ca-hit-khoi-thuoc-voi-ca-the-chat-va-tinh-than-nhung-nhieu-nguoi-van-am-tham-chiu-dung-sep-toi-20210319141608607.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bắt nữ quái 9x lừa bán vé máy bay "giải cứu" người mắc kẹt vì Covid-19 về nước](https://cafebiz.vn/bat-nu-quai-9x-lua-ban-ve-may-bay-giai-cuu-nguoi-mac-ket-vi-covid-19-ve-nuoc-20210319135109469.chn) ([CafeBiz](https://cafebiz.vn))
-- [Apple cảnh cáo 'ngầm' các nhà phát triển Trung Quốc](https://cafebiz.vn/apple-canh-cao-ngam-cac-nha-phat-trien-trung-quoc-20210319134550032.chn) ([CafeBiz](https://cafebiz.vn))
-- [Tàu Cát Linh - Hà Đông trước ngày bàn giao về Hà Nội](https://vnexpress.net/tau-cat-linh-ha-dong-truoc-ngay-ban-giao-ve-ha-noi-4250897.html) ([VNExpress](https://vnexpress.net))
-- [HSBC: Chứng khoán Việt Nam ngày càng đáng đầu tư](https://cafebiz.vn/hsbc-chung-khoan-viet-nam-ngay-cang-dang-dau-tu-20210319142031211.chn) ([CafeBiz](https://cafebiz.vn))
