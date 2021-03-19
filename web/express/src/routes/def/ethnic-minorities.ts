@@ -32,7 +32,10 @@ const ethnicMinorities: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];

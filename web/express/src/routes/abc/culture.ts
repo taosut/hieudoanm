@@ -33,7 +33,10 @@ const calendar: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -61,7 +64,10 @@ const calendar: Array<IRoute> = [
           date: { type: 'number' }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -78,7 +84,10 @@ const calendar: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: { type: 'array', items: { type: 'string' } } },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -95,7 +104,10 @@ const calendar: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: { type: 'array', items: { type: 'string' } } },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -116,7 +128,10 @@ const calendar: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: { type: 'object', properties: { canChi: 'string' } } },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -137,7 +152,10 @@ const calendar: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: { type: 'object', properties: { tietKhi: 'string' } } },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];
@@ -157,7 +175,10 @@ const history: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -191,7 +212,10 @@ const history: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];
@@ -223,7 +247,10 @@ const movies: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];
@@ -243,7 +270,10 @@ const sports: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -275,7 +305,10 @@ const sports: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -338,7 +371,10 @@ const sports: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -378,7 +414,10 @@ const sports: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -415,7 +454,10 @@ const sports: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];

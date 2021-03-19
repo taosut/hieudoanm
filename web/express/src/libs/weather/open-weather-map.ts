@@ -12,9 +12,7 @@ export default class OpenWeatherMap {
     this.appId = appId;
   }
 
-  getCurrentWeather(q: string): Promise<Record<string, any>> {
-    const { appId, base } = this;
-    const url = `${base}/weather?units=metric&q=${q}&appid=${appId}`;
+  private apiRequest(url: string): Promise<Record<string, any>> {
     return new Promise(resolve => {
       fetch(url)
         .then(res => res.json())
@@ -26,5 +24,18 @@ export default class OpenWeatherMap {
           resolve({ message: error.stack });
         });
     });
+  }
+
+  public async getCurrentWeather(q: string): Promise<Record<string, any>> {
+    const { appId, base } = this;
+    const url = `${base}/weather?units=metric&q=${q}&appid=${appId}`;
+    return await this.apiRequest(url);
+  }
+
+  public async getWeatherForecast(q: string, cnt: number = 16): Promise<Record<string, any>> {
+    const { appId, base } = this;
+    const url = `${base}/forecast?units=metric&q=${q}&appid=${appId}&cnt=${cnt}`;
+    console.log(url);
+    return await this.apiRequest(url);
   }
 }

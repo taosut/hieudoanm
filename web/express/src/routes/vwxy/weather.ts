@@ -86,7 +86,103 @@ const weather: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
+    }
+  },
+  {
+    public: true,
+    tags: ['Weather'],
+    summary: 'Get Weather Forecast',
+    description: '',
+    method: 'GET',
+    path: `${prefix}/forecast`,
+    middlewares: [],
+    request: {
+      query: [{ name: 'city', description: '', type: 'string', required: true }],
+      body: []
+    },
+    responses: {
+      200: {
+        description: '',
+        schema: {
+          type: 'object',
+          properties: {
+            cod: { type: 'string' },
+            message: { type: 'number' },
+            cnt: { type: 'number' },
+            list: {
+              type: 'array',
+              items: {
+                type: 'object',
+                properties: {
+                  dt: { type: 'string' },
+                  main: {
+                    type: 'object',
+                    properties: {
+                      temp: { type: 'number' },
+                      feels_like: { type: 'number' },
+                      temp_min: { type: 'number' },
+                      temp_max: { type: 'number' },
+                      pressure: { type: 'number' },
+                      sea_level: { type: 'number' },
+                      grnd_level: { type: 'number' },
+                      humidity: { type: 'number' },
+                      temp_kf: { type: 'number' }
+                    }
+                  },
+                  weather: {
+                    type: 'array',
+                    items: {
+                      type: 'object',
+                      properties: {
+                        id: { type: 'number' },
+                        main: { type: 'string' },
+                        description: { type: 'string' },
+                        icon: { type: 'string' }
+                      }
+                    }
+                  },
+                  clouds: { type: 'object', properties: { all: { type: 'number' } } },
+                  wind: {
+                    type: 'object',
+                    properties: { speed: { type: 'number' }, deg: { type: 'number' } }
+                  },
+                  visibility: { type: 'number' },
+                  pop: { type: 'number' },
+                  sys: { type: 'object', properties: { pod: { type: 'string' } } },
+                  dt_txt: { type: 'string' }
+                }
+              }
+            },
+            city: {
+              type: 'object',
+              properties: {
+                id: { type: 'number' },
+                name: { type: 'string' },
+                coord: {
+                  type: 'object',
+                  properties: {
+                    lat: { type: 'number' },
+                    lon: { type: 'number' }
+                  }
+                },
+                country: { type: 'string' },
+                population: { type: 'number' },
+                timezone: { type: 'number' },
+                sunrise: { type: 'number' },
+                sunset: { type: 'number' }
+              }
+            }
+          }
+        }
+      },
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -147,7 +243,10 @@ const weather: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -177,7 +276,10 @@ const weather: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];

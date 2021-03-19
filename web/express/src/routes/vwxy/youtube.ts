@@ -19,7 +19,10 @@ const youtube: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: 'Bad Request',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -58,7 +61,10 @@ const youtube: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: 'Bad Request',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -89,7 +95,10 @@ const youtube: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: 'Bad Request',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];

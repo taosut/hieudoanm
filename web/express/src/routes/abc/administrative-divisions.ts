@@ -26,7 +26,7 @@ const administrativeDivisions: Array<IRoute> = [
         }
       },
       400: {
-        description: '',
+        description: 'Bad Request',
         schema: {}
       }
     }
@@ -51,7 +51,13 @@ const administrativeDivisions: Array<IRoute> = [
           items: { type: 'string' }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: {
+          type: 'object',
+          properties: { message: { type: 'string' } }
+        }
+      }
     }
   },
   {
@@ -90,7 +96,10 @@ const administrativeDivisions: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -122,7 +131,10 @@ const administrativeDivisions: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -155,7 +167,10 @@ const administrativeDivisions: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -180,7 +195,10 @@ const administrativeDivisions: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -210,7 +228,10 @@ const administrativeDivisions: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];

@@ -19,7 +19,10 @@ const visas: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -48,7 +51,10 @@ const visas: Array<IRoute> = [
           }
         }
       },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];

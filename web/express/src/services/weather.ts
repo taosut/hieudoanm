@@ -11,6 +11,11 @@ export default class WeatherService {
     return weather;
   }
 
+  public async getWeatherForecast(city: string): Promise<Record<string, any>> {
+    const forecast: Record<string, any> = await openWeatherMap.getWeatherForecast(city);
+    return forecast;
+  }
+
   public getAirVisualCities(): Array<any> {
     return cities;
   }

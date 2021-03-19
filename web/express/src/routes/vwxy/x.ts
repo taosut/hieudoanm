@@ -22,7 +22,10 @@ const xAuth: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -43,7 +46,10 @@ const xAuth: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -60,7 +66,10 @@ const xAuth: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -80,7 +89,10 @@ const xAuth: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -97,7 +109,10 @@ const xAuth: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -114,7 +129,10 @@ const xAuth: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -131,7 +149,10 @@ const xAuth: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -148,7 +169,10 @@ const xAuth: Array<IRoute> = [
     middlewares: [],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];
@@ -173,7 +197,10 @@ const xAddresses: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -190,7 +217,10 @@ const xAddresses: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];
@@ -214,7 +244,10 @@ const xBanks: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -231,7 +264,10 @@ const xBanks: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];
@@ -251,7 +287,10 @@ const xContacts: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -268,7 +307,10 @@ const xContacts: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -285,7 +327,10 @@ const xContacts: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -302,7 +347,10 @@ const xContacts: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];
@@ -322,7 +370,10 @@ const xEmails: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -339,7 +390,10 @@ const xEmails: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -356,7 +410,10 @@ const xEmails: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];
@@ -376,7 +433,10 @@ const xPhoneNumbers: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -393,7 +453,10 @@ const xPhoneNumbers: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -410,7 +473,10 @@ const xPhoneNumbers: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];
@@ -430,7 +496,10 @@ const xProfile: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -447,7 +516,10 @@ const xProfile: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -464,7 +536,10 @@ const xProfile: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];
@@ -484,7 +559,10 @@ const xApps: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -501,7 +579,10 @@ const xApps: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -518,7 +599,10 @@ const xApps: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -535,7 +619,10 @@ const xApps: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -552,7 +639,10 @@ const xApps: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -569,7 +659,10 @@ const xApps: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -586,7 +679,10 @@ const xApps: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -603,7 +699,10 @@ const xApps: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -620,7 +719,10 @@ const xApps: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   },
   {
@@ -637,7 +739,10 @@ const xApps: Array<IRoute> = [
     middlewares: ['authentication/x-user'],
     responses: {
       200: { description: '', schema: {} },
-      400: { description: '', schema: {} }
+      400: {
+        description: '',
+        schema: { type: 'object', properties: { message: { type: 'string' } } }
+      }
     }
   }
 ];
