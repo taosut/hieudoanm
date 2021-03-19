@@ -1,5 +1,7 @@
 # News
 
+- [Hải Phòng dỡ chốt kiểm soát giáp ranh Hải Dương](https://vnexpress.net/hai-phong-do-chot-kiem-soat-giap-ranh-hai-duong-4251174.html) ([VNExpress](https://vnexpress.net))
+- [Một sinh viên Việt Nam tham gia cứu 2 em nhỏ Nga rơi xuống sông do băng vỡ](https://tuoitre.vn/mot-sinh-vien-viet-nam-tham-gia-cuu-2-em-nho-nga-roi-xuong-song-do-bang-vo-20210319213240285.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Sau tất cả, Nữ hoàng Anh vẫn không giận Harry, vợ chồng Công nương Kate tiếp tục lộ diện thách thức "cơn bão" nhà Sussex](https://cafebiz.vn/sau-tat-ca-nu-hoang-anh-van-khong-gian-harry-vo-chong-cong-nuong-kate-tiep-tuc-lo-dien-thach-thuc-con-bao-nha-sussex-20210319171927928.chn) ([CafeBiz](https://cafebiz.vn))
 - [Giày cao gót, dép sandal trở thành 'cỗ máy' mới tạo ra hàng tỷ USD cho giới siêu giàu](https://cafebiz.vn/giay-cao-got-dep-sandal-tro-thanh-co-may-moi-tao-ra-hang-ty-usd-cho-gioi-sieu-giau-20210319191720553.chn) ([CafeBiz](https://cafebiz.vn))
 - [Khoe ảnh gia đình đẹp ngất ngây nhân dịp con trai út tròn 1 tuổi, Hoàng hậu Bhutan lại khiến vạn người mê đắm bởi nhan sắc lên hương](https://cafebiz.vn/khoe-anh-gia-dinh-dep-ngat-ngay-nhan-dip-con-trai-ut-tron-1-tuoi-hoang-hau-bhutan-lai-khien-van-nguoi-me-dam-boi-nhan-sac-len-huong-20210319171323116.chn) ([CafeBiz](https://cafebiz.vn))
@@ -97,6 +99,4 @@
 - [Su’s Store - Khẳng định đẳng cấp phái đẹp](https://cafebiz.vn/sus-store-khang-dinh-dang-cap-phai-dep-20210319144359694.chn) ([CafeBiz](https://cafebiz.vn))
 - [40 km quy hoạch phân khu đô thị sông Hồng](https://vnexpress.net/40-km-quy-hoach-phan-khu-do-thi-song-hong-4250948.html) ([VNExpress](https://vnexpress.net))
 - [Thứ trưởng Ngoại giao Lê Hoài Trung giữ chức trưởng Ban Đối ngoại Trung ương](https://tuoitre.vn/thu-truong-ngoai-giao-le-hoai-trung-giu-chuc-truong-ban-doi-ngoai-trung-uong-20210319150348236.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Hơn 1.800 tỷ đồng xóa 5 điểm ùn tắc giao thông ở Cần Thơ](https://vnexpress.net/hon-1-800-ty-dong-xoa-5-diem-un-tac-giao-thong-o-can-tho-4250892.html) ([VNExpress](https://vnexpress.net))
-- [Thị trường streaming toàn cầu vượt mốc 1 tỷ thuê bao](https://cafebiz.vn/thi-truong-streaming-toan-cau-vuot-moc-1-ty-thue-bao-20210319133923212.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hàng trăm 'quái xế' chặn cao tốc làm đường đua bạt mạng, người dân khiếp sợ](https://tuoitre.vn/hang-tram-quai-xe-chan-cao-toc-lam-duong-dua-bat-mang-nguoi-dan-khiep-so-20210319133836277.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Biết thừa đây không phải máy lọc không khí nhưng mình vẫn thấy PS5 đáng mua vì những điều này](https://tinhte.vn/thread/biet-thua-day-khong-phai-may-loc-khong-khi-nhung-minh-van-thay-ps5-dang-mua-vi-nhung-dieu-nay.3295863/) ([Tinh Tế](https://tinhte.vn))
