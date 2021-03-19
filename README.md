@@ -20,9 +20,9 @@
 **CALENDAR**
 
 - Current weather is broken clouds.
-- Temperature is 27°C.
-- Feels Like 28.08°C.
-- Air Visual is 117.
+- Temperature is 28°C.
+- Feels Like 28.84°C.
+- Air Visual is 153.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
+- [Ngày 22.3 sẽ nối lại tìm kiếm nạn nhân thủy điện ở Rào Trăng 3](https://laodong.vn/xa-hoi/ngay-223-se-noi-lai-tim-kiem-nan-nhan-thuy-dien-o-rao-trang-3-890762.ldo) ([Lao Động](https://laodong.vn))
+- [13 cảnh sát Mexico thiệt mạng do bị phục kích](https://laodong.vn/the-gioi/13-canh-sat-mexico-thiet-mang-do-bi-phuc-kich-890739.ldo) ([Lao Động](https://laodong.vn))
+- [“Phụ tá Bộ chỉ huy Quân cảnh tư pháp” của tổ chức phản động lãnh án tù](https://laodong.vn/phap-luat/phu-ta-bo-chi-huy-quan-canh-tu-phap-cua-to-chuc-phan-dong-lanh-an-tu-890747.ldo) ([Lao Động](https://laodong.vn))
+- [Đại sứ Mỹ cảm ơn Công an Hà Nội đã xử lý đối tượng quấy rối ở hồ Tây](http://vietnamnet.vn/vn/thoi-su/chinh-tri/dai-su-my-cam-on-cong-an-ha-noi-da-xu-ly-doi-tuong-quay-roi-o-ho-tay-720842.html) ([VietNamNet](https://vietnamnet.vn))
 - [Bé gái 2 tuổi tử vong bất thường sau khi đi học: Chủ cơ sở mầm non lên tếng](https://laodong.vn/giao-duc/be-gai-2-tuoi-tu-vong-bat-thuong-sau-khi-di-hoc-chu-co-so-mam-non-len-teng-890710.ldo) ([Lao Động](https://laodong.vn))
 - [Dân Sài Gòn 20 năm chờ cải tạo rạch Xuyên Tâm](https://vnexpress.net/dan-sai-gon-20-nam-cho-cai-tao-rach-xuyen-tam-4247516.html) ([VNExpress](https://vnexpress.net))
 - [Bản tin 1 phút 19.3: Người dân hào hứng làm CCCD gắn chip trên xe lưu động](https://laodong.vn/video/ban-tin-1-phut-193-nguoi-dan-hao-hung-lam-cccd-gan-chip-tren-xe-luu-dong-890708.ldo) ([Lao Động](https://laodong.vn))
-- [Có gì bên trong &quot;bộ ba thần thánh&quot; sữa NuVi khiến trẻ em mê tít?](https://laodong.vn/suc-khoe/co-gi-ben-trong-bo-ba-than-thanh-sua-nuvi-khien-tre-em-me-tit-890723.ldo) ([Lao Động](https://laodong.vn))
 - [Nếu... lách luật, Ronaldo có thể về Real Madrid mà không bị áp thuế cao](https://laodong.vn/bong-da-quoc-te/neu-lach-luat-ronaldo-co-the-ve-real-madrid-ma-khong-bi-ap-thue-cao-890699.ldo) ([Lao Động](https://laodong.vn))
 - [Người dân Phúc Thọ thích thú với con đường bích họa dài nhất Hà Nội](https://laodong.vn/xa-hoi/nguoi-dan-phuc-tho-thich-thu-voi-con-duong-bich-hoa-dai-nhat-ha-noi-890296.ldo) ([Lao Động](https://laodong.vn))
 - [Cá chết bất thường trên sông](https://vnexpress.net/ca-chet-bat-thuong-tren-song-4250850.html) ([VNExpress](https://vnexpress.net))
-- [Thêm 3 địa phương dự kiến là thành phố trực thuộc Trung ương](https://vnexpress.net/them-3-dia-phuong-du-kien-la-thanh-pho-truc-thuoc-trung-uong-4249953.html) ([VNExpress](https://vnexpress.net))
-- [Khánh Hòa yêu cầu 3 cựu cán bộ trả lại nhà công vụ](https://laodong.vn/xa-hoi/khanh-hoa-yeu-cau-3-cuu-can-bo-tra-lai-nha-cong-vu-890737.ldo) ([Lao Động](https://laodong.vn))
-- [Sĩ quan giành huy chương vàng Army games được tuyên dương](https://vnexpress.net/si-quan-gianh-huy-chuong-vang-army-games-duoc-tuyen-duong-4250395.html) ([VNExpress](https://vnexpress.net))
 
 [Read More](docs/news/README.md)
 
@@ -135,8 +135,8 @@
 03. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
 04. [TẠM BIỆT...](https://www.youtube.com/watch?v=5djwsYBZ7ys) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
 05. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
-06. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
-07. [Juky San bất ngờ sau bức tường là anh Bo Đan Trường, song ca "Thiên hạ hữu tình nhân" cực hay](https://www.youtube.com/watch?v=3O1qpIC0mOQ) - [VieTalents](https://www.youtube.com/channel/UCBVSuk_f8ZCPIQ_KwXEGWFw)
+06. [Juky San bất ngờ sau bức tường là anh Bo Đan Trường, song ca "Thiên hạ hữu tình nhân" cực hay](https://www.youtube.com/watch?v=3O1qpIC0mOQ) - [VieTalents](https://www.youtube.com/channel/UCBVSuk_f8ZCPIQ_KwXEGWFw)
+07. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
 08. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
 09. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 10. [BI LONG ĐẠI CA Tập 10 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=IWpPqZpJDcI) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
