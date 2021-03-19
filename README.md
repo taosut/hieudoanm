@@ -21,8 +21,8 @@
 
 - Current weather is broken clouds.
 - Temperature is 27°C.
-- Feels Like 28.55°C.
-- Air Visual is 110.
+- Feels Like 28.08°C.
+- Air Visual is 117.
 
 **WEATHER**
 
@@ -75,16 +75,16 @@
 
 **NEWS**
 
-- [Bắt giữ 350kg mực khô nghi nhập lậu từ Trung Quốc](https://laodong.vn/kinh-te/bat-giu-350kg-muc-kho-nghi-nhap-lau-tu-trung-quoc-890735.ldo) ([Lao Động](https://laodong.vn))
-- [Mexico bắt giữ lô vaccine COVID-19 Sputnik V giả](https://laodong.vn/the-gioi/mexico-bat-giu-lo-vaccine-covid-19-sputnik-v-gia-890741.ldo) ([Lao Động](https://laodong.vn))
-- [Sang nhượng mặt bằng kinh doanh cần những thủ tục gì?](https://laodong.vn/bat-dong-san/sang-nhuong-mat-bang-kinh-doanh-can-nhung-thu-tuc-gi-890691.ldo) ([Lao Động](https://laodong.vn))
+- [Bé gái 2 tuổi tử vong bất thường sau khi đi học: Chủ cơ sở mầm non lên tếng](https://laodong.vn/giao-duc/be-gai-2-tuoi-tu-vong-bat-thuong-sau-khi-di-hoc-chu-co-so-mam-non-len-teng-890710.ldo) ([Lao Động](https://laodong.vn))
+- [Dân Sài Gòn 20 năm chờ cải tạo rạch Xuyên Tâm](https://vnexpress.net/dan-sai-gon-20-nam-cho-cai-tao-rach-xuyen-tam-4247516.html) ([VNExpress](https://vnexpress.net))
+- [Bản tin 1 phút 19.3: Người dân hào hứng làm CCCD gắn chip trên xe lưu động](https://laodong.vn/video/ban-tin-1-phut-193-nguoi-dan-hao-hung-lam-cccd-gan-chip-tren-xe-luu-dong-890708.ldo) ([Lao Động](https://laodong.vn))
+- [Có gì bên trong &quot;bộ ba thần thánh&quot; sữa NuVi khiến trẻ em mê tít?](https://laodong.vn/suc-khoe/co-gi-ben-trong-bo-ba-than-thanh-sua-nuvi-khien-tre-em-me-tit-890723.ldo) ([Lao Động](https://laodong.vn))
+- [Nếu... lách luật, Ronaldo có thể về Real Madrid mà không bị áp thuế cao](https://laodong.vn/bong-da-quoc-te/neu-lach-luat-ronaldo-co-the-ve-real-madrid-ma-khong-bi-ap-thue-cao-890699.ldo) ([Lao Động](https://laodong.vn))
+- [Người dân Phúc Thọ thích thú với con đường bích họa dài nhất Hà Nội](https://laodong.vn/xa-hoi/nguoi-dan-phuc-tho-thich-thu-voi-con-duong-bich-hoa-dai-nhat-ha-noi-890296.ldo) ([Lao Động](https://laodong.vn))
+- [Cá chết bất thường trên sông](https://vnexpress.net/ca-chet-bat-thuong-tren-song-4250850.html) ([VNExpress](https://vnexpress.net))
 - [Thêm 3 địa phương dự kiến là thành phố trực thuộc Trung ương](https://vnexpress.net/them-3-dia-phuong-du-kien-la-thanh-pho-truc-thuoc-trung-uong-4249953.html) ([VNExpress](https://vnexpress.net))
-- [Được chứng kiến tái thả động vật hoang dã tại Rừng Quốc gia Cúc Phương](https://laodong.vn/moi-truong/duoc-chung-kien-tai-tha-dong-vat-hoang-da-tai-rung-quoc-gia-cuc-phuong-890750.ldo) ([Lao Động](https://laodong.vn))
 - [Khánh Hòa yêu cầu 3 cựu cán bộ trả lại nhà công vụ](https://laodong.vn/xa-hoi/khanh-hoa-yeu-cau-3-cuu-can-bo-tra-lai-nha-cong-vu-890737.ldo) ([Lao Động](https://laodong.vn))
 - [Sĩ quan giành huy chương vàng Army games được tuyên dương](https://vnexpress.net/si-quan-gianh-huy-chuong-vang-army-games-duoc-tuyen-duong-4250395.html) ([VNExpress](https://vnexpress.net))
-- [Lãng phí chứng chỉ ngoại ngữ: Dành cả thanh xuân để học lấy chứng chỉ](https://laodong.vn/xa-hoi/lang-phi-chung-chi-ngoai-ngu-danh-ca-thanh-xuan-de-hoc-lay-chung-chi-890562.ldo) ([Lao Động](https://laodong.vn))
-- [Thu phí xa lộ Hà Nội từ 1-4, giảm 50% mức thu cho cư dân hai bên đường](https://tuoitre.vn/thu-phi-xa-lo-ha-noi-tu-1-4-giam-50-muc-thu-cho-cu-dan-hai-ben-duong-20210319084335261.htm) ([Tuổi Trẻ](https://tuoitre.vn))
-- [Thành phố Phú Quốc có thêm 1 phó chủ tịch](https://tuoitre.vn/thanh-pho-phu-quoc-co-them-1-pho-chu-tich-20210319095616651.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 
 [Read More](docs/news/README.md)
 
@@ -96,6 +96,7 @@
 
 **VIETCETERA**
 
+- [Bóc Term: Vtuber là gì mà PewDiePie cũng muốn dấn thân?](https://vietcetera.com/vn/boc-term-vtuber-la-gi-ma-pewdiepie-cung-muon-dan-than)
 - [Lời khuyên để bạn tìm được nửa kia hoàn hảo](https://vietcetera.com/vn/loi-khuyen-de-ban-tim-duoc-nua-kia-hoan-hao)
 - [Tóm Lại Là: Tưởng là dùng dịch vụ stream nhưng hoá ra truyền hình cáp?](https://vietcetera.com/vn/tom-lai-la-su-chuyen-minh-cua-cac-dich-vu-streaming-tu-disney-toi-netflix)
 - [4 Cách để bảo vệ chất xám của mình trên nền tảng internet](https://vietcetera.com/vn/4-cach-de-bao-ve-chat-xam-cua-minh-tren-nen-tang-internet)
@@ -105,7 +106,6 @@
 - [Vì sao ta không thể tự cù lét mình?](https://vietcetera.com/vn/vi-sao-ta-khong-the-tu-cu-let-minh)
 - [Lifestyle Platform - Mua mọi thứ, ăn mọi món trong một cửa hàng vài chục mét vuông.](https://vietcetera.com/vn/lifestyle-platform-mua-moi-thu-an-moi-mon-trong-mot-cua-hang-vai-chuc-met-vuong)
 - [Mua hàng sale có đồng nghĩa với tiết kiệm?](https://vietcetera.com/vn/mua-hang-sale-co-dong-nghia-voi-tiet-kiem)
-- [Tóm Lại Là: Người đồng tính thì không được "ban phước"?](https://vietcetera.com/vn/tom-lai-la-nguoi-dong-tinh-thi-khong-duoc-ban-phuoc)
 
 [Read More](https://vietcetera.com/)
 
