@@ -1,5 +1,8 @@
 # News
 
+- [Đâm xe vào biên phòng để trốn qua biên giới](https://vnexpress.net/dam-xe-vao-bien-phong-de-tron-qua-bien-gioi-4251361.html) ([VNExpress](https://vnexpress.net))
+- [Hơn 200 người bị nôn ói, đau bụng chưa rõ nguyên nhân](https://tuoitre.vn/hon-200-nguoi-bi-non-oi-dau-bung-chua-ro-nguyen-nhan-20210320094056278.htm) ([Tuổi Trẻ](https://tuoitre.vn))
+- [Ôtô ngoại ồ ạt về Việt Nam: Thêm cơ hội mua ôtô giá rẻ](https://laodong.vn/xe/oto-ngoai-o-at-ve-viet-nam-them-co-hoi-mua-oto-gia-re-891032.ldo) ([Lao Động](https://laodong.vn))
 - [Cập nhật các trường đại học tuyển thẳng thí sinh có chứng chỉ IELTS](https://laodong.vn/giao-duc/cap-nhat-cac-truong-dai-hoc-tuyen-thang-thi-sinh-co-chung-chi-ielts-891034.ldo) ([Lao Động](https://laodong.vn))
 - [Thủ tướng Chính phủ Nguyễn Xuân Phúc làm việc với tỉnh Bà Rịa – Vũng Tàu](https://laodong.vn/thoi-su/thu-tuong-chinh-phu-nguyen-xuan-phuc-lam-viec-voi-tinh-ba-ria--vung-tau-891029.ldo) ([Lao Động](https://laodong.vn))
 - [Nhà Trắng lên tiếng việc ông Biden vấp ngã 3 lần khi lên chuyên cơ](https://laodong.vn/the-gioi/nha-trang-len-tieng-viec-ong-biden-vap-nga-3-lan-khi-len-chuyen-co-891023.ldo) ([Lao Động](https://laodong.vn))
@@ -7,7 +10,6 @@
 - [Ai là nhà khoa học đầu tiên?](https://cafebiz.vn/ai-la-nha-khoa-hoc-dau-tien-2021032008571139.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hàng cây phong lá đỏ &quot;chết khô&quot; giữa Thủ đô](https://laodong.vn/xa-hoi/hang-cay-phong-la-do-chet-kho-giua-thu-do-891026.ldo) ([Lao Động](https://laodong.vn))
 - [‘Giọt nước tràn ly’ khiến shipper Amazon bỏ việc: Ngáp ngủ trên xe cũng bị camera AI theo dõi và báo cáo](https://cafebiz.vn/giot-nuoc-tran-ly-khien-shipper-amazon-bo-viec-ngap-ngu-tren-xe-cung-bi-camera-ai-theo-doi-va-bao-cao-2021032010485792.chn) ([CafeBiz](https://cafebiz.vn))
-- [Bình Dương: Thiếu nguồn cung, doanh nghiệp tuyển chéo lao động của nhau](https://laodong.vn/ldld-binh-duong/binh-duong-thieu-nguon-cung-doanh-nghiep-tuyen-cheo-lao-dong-cua-nhau-890954.ldo) ([Lao Động](https://laodong.vn))
 - [Khoản đầu tư ‘liều’ nhất trong danh mục của Masayoshi Son sắp cho trái ngọt?](https://cafebiz.vn/khoan-dau-tu-lieu-nhat-trong-danh-muc-cua-masayoshi-son-sap-cho-trai-ngot-20210320111901664.chn) ([CafeBiz](https://cafebiz.vn))
 - [Cá chết trắng sông ở Thanh Hóa](https://vnexpress.net/ca-chet-trang-song-o-thanh-hoa-4251335.html) ([VNExpress](https://vnexpress.net))
 - [Người Việt có thể mua xe Mercedes tiền tỷ qua mạng](https://cafebiz.vn/nguoi-viet-co-the-mua-xe-mercedes-tien-ty-qua-mang-20210320090342772.chn) ([CafeBiz](https://cafebiz.vn))
@@ -98,5 +100,3 @@
 - [Mặt bằng &quot;khu đất vàng&quot; Hà Nội ế ẩm, mòn mỏi chờ khách thuê](https://laodong.vn/photo/mat-bang-khu-dat-vang-ha-noi-e-am-mon-moi-cho-khach-thue-890786.ldo) ([Lao Động](https://laodong.vn))
 - [Kiến nghị tôn tạo Bảo tàng Mỹ thuật TP HCM](https://vnexpress.net/kien-nghi-ton-tao-bao-tang-my-thuat-tp-hcm-4251150.html) ([VNExpress](https://vnexpress.net))
 - [Mỏ sắt lớn nhất Đông Nam Á bỏ hoang](https://vnexpress.net/mo-sat-lon-nhat-dong-nam-a-bo-hoang-4250048.html) ([VNExpress](https://vnexpress.net))
-- [Dự báo thời tiết hôm nay 20/3: Miền Bắc ấm trước khi đón mưa rét](http://vietnamnet.vn/vn/thoi-su/du-bao-thoi-tiet-hom-nay-20-3-mien-bac-am-truoc-khi-don-mua-ret-720932.html) ([VietNamNet](https://vietnamnet.vn))
-- [Hà Tĩnh cấp nửa tỷ đồng và lần dứt áo ra đi của ông Võ Hoàng Yên](http://vietnamnet.vn/vn/thoi-su/ha-tinh-cap-nua-ty-dong-va-lan-dut-ao-ra-di-cua-ong-vo-hoang-yen-720868.html) ([VietNamNet](https://vietnamnet.vn))
