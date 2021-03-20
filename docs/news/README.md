@@ -1,10 +1,12 @@
 # News
 
+- [Người yêu không có, chó không nuôi: Giới trẻ Trung Quốc ngày càng ưa thích kiểu sống một mình](https://cafebiz.vn/nguoi-yeu-khong-co-cho-khong-nuoi-gioi-tre-trung-quoc-ngay-cang-ua-thich-kieu-song-mot-minh-20210319153225742.chn) ([CafeBiz](https://cafebiz.vn))
+- [Mạnh Quỳnh: Hơn 20 năm qua, tôi tôn trọng và luôn mong Phi Nhung hạnh phúc](https://laodong.vn/van-hoa/manh-quynh-hon-20-nam-qua-toi-ton-trong-va-luon-mong-phi-nhung-hanh-phuc-891036.ldo) ([Lao Động](https://laodong.vn))
+- [Cựu sao Man United &quot;kể tội&quot; Sir Alex và &quot;con thú&quot; Roy Keane](https://laodong.vn/the-thao/cuu-sao-man-united-ke-toi-sir-alex-va-con-thu-roy-keane-891041.ldo) ([Lao Động](https://laodong.vn))
 - [Hoa khôi  Đặng Trần Thủy Tiên: “Ung thư chỉ là thử thách trong cuộc đời&quot;](https://laodong.vn/xa-hoi/hoa-khoi-dang-tran-thuy-tien-ung-thu-chi-la-thu-thach-trong-cuoc-doi-890967.ldo) ([Lao Động](https://laodong.vn))
 - [Trường ĐH Ngoại ngữ công bố 3 phương thức xét tuyển năm 2021](https://laodong.vn/giao-duc/truong-dh-ngoai-ngu-cong-bo-3-phuong-thuc-xet-tuyen-nam-2021-891038.ldo) ([Lao Động](https://laodong.vn))
 - [ĐBSCL: Cần hơn 41.000 tỉ đồng ứng phó sạt lở](https://laodong.vn/xa-hoi/dbscl-can-hon-41000-ti-dong-ung-pho-sat-lo-891040.ldo) ([Lao Động](https://laodong.vn))
 - [Bản tin 1 phút: Một tỉnh từng tốn 200 triệu mời ông Võ Hoàng Yên chữa bệnh](https://laodong.vn/video/ban-tin-1-phut-mot-tinh-tung-ton-200-trieu-moi-ong-vo-hoang-yen-chua-benh-891025.ldo) ([Lao Động](https://laodong.vn))
-- [5 câu hỏi các ứng viên nên “có gan hỏi” khi phỏng vấn xin việc](https://laodong.vn/ban-doc/5-cau-hoi-cac-ung-vien-nen-co-gan-hoi-khi-phong-van-xin-viec-890048.ldo) ([Lao Động](https://laodong.vn))
 - [Hà Nam không còn đất để quy hoạch sân bay vùng Thủ đô](http://vietnamnet.vn/vn/thoi-su/an-toan-giao-thong/ha-nam-khong-con-dat-de-quy-hoach-san-bay-vung-thu-do-721077.html) ([VietNamNet](https://vietnamnet.vn))
 - [Thanh niên tử vong sau khi nhảy sông cứu bạn gái ở Hà Tĩnh](http://vietnamnet.vn/vn/thoi-su/thanh-nie-n-tu-vong-sau-khi-nha-y-so-ng-cu-u-ba-n-ga-i-o-ha-tinh-721070.html) ([VietNamNet](https://vietnamnet.vn))
 - [Đâm xe vào biên phòng để trốn qua biên giới](https://vnexpress.net/dam-xe-vao-bien-phong-de-tron-qua-bien-gioi-4251361.html) ([VNExpress](https://vnexpress.net))
@@ -90,7 +92,6 @@
 - [Báo cáo Hạnh phúc Thế giới: Phần Lan dẫn đầu, Việt Nam xếp thứ 79](https://cafebiz.vn/bao-cao-hanh-phuc-the-gioi-phan-lan-dan-dau-viet-nam-xep-thu-79-20210320074532067.chn) ([CafeBiz](https://cafebiz.vn))
 - [Thuê phòng trọ sinh viên để bán online hàng chục nghìn sản phẩm mỹ phẩm không rõ nguồn gốc](https://cafebiz.vn/thue-phong-tro-sinh-vien-de-ban-online-hang-chuc-nghin-san-pham-my-pham-khong-ro-nguon-goc-20210320074312088.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bà Mai Kiều Liên: "Đầu vào dự án chăn nuôi bò thịt của Vilico gần như bằng 0"](https://cafebiz.vn/ba-mai-kieu-lien-dau-vao-du-an-chan-nuoi-bo-thit-cua-vilico-gan-nhu-bang-0-20210320072231787.chn) ([CafeBiz](https://cafebiz.vn))
-- [Hiện tượng Thơ Nguyễn, Hưng Vlog và ngành công nghiệp 'thổi view' YouTube](https://cafebiz.vn/hien-tuong-tho-nguyen-hung-vlog-va-nganh-cong-nghiep-thoi-view-youtube-20210320073938345.chn) ([CafeBiz](https://cafebiz.vn))
 - [David Warren: Người được Google Doodle tôn vinh hôm nay là ai?](https://laodong.vn/the-gioi/david-warren-nguoi-duoc-google-doodle-ton-vinh-hom-nay-la-ai-890978.ldo) ([Lao Động](https://laodong.vn))
 - [17 năm sống 'chui' vì quy hoạch treo](https://vnexpress.net/17-nam-song-chui-vi-quy-hoach-treo-4250755.html) ([VNExpress](https://vnexpress.net))
 - [Những chân sút vĩ đại nhất trong lịch sử Champions League](https://laodong.vn/infographic/nhung-chan-sut-vi-dai-nhat-trong-lich-su-champions-league-889408.ldo) ([Lao Động](https://laodong.vn))
@@ -99,4 +100,3 @@
 - [CEO 9X với nền tảng công nghệ &quot;se duyên&quot; việc làm cho hàng triệu thanh niên](https://laodong.vn/video/ceo-9x-voi-nen-tang-cong-nghe-se-duyen-viec-lam-cho-hang-trieu-thanh-nien-890906.ldo) ([Lao Động](https://laodong.vn))
 - [Chuẩn bị tiêm vắc xin COVID-19 ở 44 tỉnh thành, sáng 20-3 không ca mới](https://tuoitre.vn/chuan-bi-tiem-vacxin-covid-19-o-44-tinh-thanh-sang-20-3-khong-ca-moi-20210320061358825.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Mặt bằng &quot;khu đất vàng&quot; Hà Nội ế ẩm, mòn mỏi chờ khách thuê](https://laodong.vn/photo/mat-bang-khu-dat-vang-ha-noi-e-am-mon-moi-cho-khach-thue-890786.ldo) ([Lao Động](https://laodong.vn))
-- [Kiến nghị tôn tạo Bảo tàng Mỹ thuật TP HCM](https://vnexpress.net/kien-nghi-ton-tao-bao-tang-my-thuat-tp-hcm-4251150.html) ([VNExpress](https://vnexpress.net))
