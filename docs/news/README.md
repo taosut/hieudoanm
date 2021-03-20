@@ -1,5 +1,7 @@
 # News
 
+- [Harry lần đầu lộ diện sau cuộc phỏng vấn bom tấn, bị mỉa mai bởi một chi tiết sai lầm tai hại trong khi Hoàng tử William xuất hiện nổi bật](https://cafebiz.vn/harry-lan-dau-lo-dien-sau-cuoc-phong-van-bom-tan-bi-mia-mai-boi-mot-chi-tiet-sai-lam-tai-hai-trong-khi-hoang-tu-william-xuat-hien-noi-bat-2021032011214237.chn) ([CafeBiz](https://cafebiz.vn))
+- [Thành đoàn Hà Nội đón nhận Huân chương Lao động hạng nhất](https://tuoitre.vn/thanh-doan-ha-noi-don-nhan-huan-chuong-lao-dong-hang-nhat-20210320111002906.htm) ([Tuổi Trẻ](https://tuoitre.vn))
 - [Trải nghiệm hành trình du lịch đầy cảm xúc đến từ 123 Travel](https://cafebiz.vn/trai-nghiem-hanh-trinh-du-lich-day-cam-xuc-den-tu-123-travel-20210320113325687.chn) ([CafeBiz](https://cafebiz.vn))
 - [Việt Nam tăng 4 bậc trong xếp hạng các nước hạnh phúc nhất thế giới, đứng đầu Đông Nam Á](https://cafebiz.vn/viet-nam-tang-4-bac-trong-xep-hang-cac-nuoc-hanh-phuc-nhat-the-gioi-dung-dau-dong-nam-a-20210320111107785.chn) ([CafeBiz](https://cafebiz.vn))
 - [Hà Nội: Chuyên gia đề xuất phân bố hợp lý hệ thống quan trắc để có hiệu quả](https://laodong.vn/moi-truong/ha-noi-chuyen-gia-de-xuat-phan-bo-hop-ly-he-thong-quan-trac-de-co-hieu-qua-890871.ldo) ([Lao Động](https://laodong.vn))
@@ -92,11 +94,9 @@
 - [Sáng nay (20/3), Việt Nam không có ca mắc COVID-19 mới, hơn 30.900 người đã tiêm vaccine](https://cafebiz.vn/sang-nay-20-3-viet-nam-khong-co-ca-mac-covid-19-moi-hon-30900-nguoi-da-tiem-vaccine-20210320075752591.chn) ([CafeBiz](https://cafebiz.vn))
 - [TPHCM cho phép karaoke, vũ trường, bar mở cửa trở lại](https://cafebiz.vn/tphcm-cho-phep-karaoke-vu-truong-bar-mo-cua-tro-lai-20210320075542888.chn) ([CafeBiz](https://cafebiz.vn))
 - [Bị Meghan Markle chỉ đích danh, Công nương Kate chấp nhận phá vỡ luật hoàng gia để đáp trả, quyết không để em dâu bóp méo sự thật](https://cafebiz.vn/bi-meghan-markle-chi-dich-danh-cong-nuong-kate-chap-nhan-pha-vo-luat-hoang-gia-de-dap-tra-quyet-khong-de-em-dau-bop-meo-su-that-2021032007511586.chn) ([CafeBiz](https://cafebiz.vn))
-- [Người dân thế giới tiết kiệm thế nào sau 'năm Covid-19 thứ nhất'](https://cafebiz.vn/nguoi-dan-the-gioi-tiet-kiem-the-nao-sau-nam-covid-19-thu-nhat-20210320074928887.chn) ([CafeBiz](https://cafebiz.vn))
 - [David Warren: Người được Google Doodle tôn vinh hôm nay là ai?](https://laodong.vn/the-gioi/david-warren-nguoi-duoc-google-doodle-ton-vinh-hom-nay-la-ai-890978.ldo) ([Lao Động](https://laodong.vn))
 - [17 năm sống 'chui' vì quy hoạch treo](https://vnexpress.net/17-nam-song-chui-vi-quy-hoach-treo-4250755.html) ([VNExpress](https://vnexpress.net))
 - [Những chân sút vĩ đại nhất trong lịch sử Champions League](https://laodong.vn/infographic/nhung-chan-sut-vi-dai-nhat-trong-lich-su-champions-league-889408.ldo) ([Lao Động](https://laodong.vn))
 - [Ngày Quốc tế Hạnh phúc: Hạnh phúc chỉ đơn giản là được ăn cơm cùng gia đình](https://laodong.vn/video/ngay-quoc-te-hanh-phuc-hanh-phuc-chi-don-gian-la-duoc-an-com-cung-gia-dinh-890029.ldo) ([Lao Động](https://laodong.vn))
 - [&quot;Bố già&quot; của Trấn Thành và những câu nói thấm thía về gia đình](https://laodong.vn/photo/bo-gia-cua-tran-thanh-va-nhung-cau-noi-tham-thia-ve-gia-dinh-890756.ldo) ([Lao Động](https://laodong.vn))
 - [CEO 9X với nền tảng công nghệ &quot;se duyên&quot; việc làm cho hàng triệu thanh niên](https://laodong.vn/video/ceo-9x-voi-nen-tang-cong-nghe-se-duyen-viec-lam-cho-hang-trieu-thanh-nien-890906.ldo) ([Lao Động](https://laodong.vn))
-- [Chuẩn bị tiêm vắc xin COVID-19 ở 44 tỉnh thành, sáng 20-3 không ca mới](https://tuoitre.vn/chuan-bi-tiem-vacxin-covid-19-o-44-tinh-thanh-sang-20-3-khong-ca-moi-20210320061358825.htm) ([Tuổi Trẻ](https://tuoitre.vn))
