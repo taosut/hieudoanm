@@ -55,7 +55,7 @@ export default class Forex extends React.Component<Props, State> {
     this.setState({ loading: true });
     const rates: Array<Record<string, any>> = await api.getBanksForexRates();
     const currencies: Array<string> = rates
-      .map(rate => rate.code || '')
+      .map((rate: any) => rate.code || '')
       .filter(code => code)
       .filter((code: string, index: number, array: Array<string>) => array.indexOf(code) === index)
       .sort();
@@ -74,6 +74,7 @@ export default class Forex extends React.Component<Props, State> {
             maxLength={3}
             placeholder="Currency"
             onChangeText={this.filter}
+            placeholderTextColor={colors.gray}
             editable
           />
         </View>
@@ -95,8 +96,9 @@ export default class Forex extends React.Component<Props, State> {
                   {filterCurrencies.map((currency: string, index: number) => {
                     return (
                       <TouchableWithoutFeedback
+                        key={index}
                         onPress={() => navigation.navigate('forexrates', { currency })}>
-                        <View key={index} style={styles.item}>
+                        <View style={styles.item}>
                           <Text>{currency}</Text>
                         </View>
                       </TouchableWithoutFeedback>

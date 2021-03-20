@@ -68,6 +68,7 @@ export default class Stock extends React.Component<Props, State> {
             maxLength={3}
             placeholder="Symbol"
             onChangeText={this.filter}
+            placeholderTextColor={colors.gray}
             editable
           />
         </View>

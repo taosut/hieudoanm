@@ -975,11 +975,6 @@
   dependencies:
     deep-assign "^3.0.0"
 
-"@react-native-community/cameraroll@^4.0.2":
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@react-native-community/cameraroll/-/cameraroll-4.0.2.tgz#5baac97f4a56f50b7307b08efcc1fe37acdec462"
-  integrity sha512-GtSZO6pqUzyZvaYidB5zH90o6Yb9YatapgiMQ+JVdbK4bDD74GdrNGDwyinDTzE5LkAQ90HDoAhVgV/uWt5OrQ==
-
 "@react-native-community/cli-debugger-ui@^5.0.1-alpha.1":
   version "5.0.1-alpha.1"
   resolved "https://registry.yarnpkg.com/@react-native-community/cli-debugger-ui/-/cli-debugger-ui-5.0.1-alpha.1.tgz#09a856ccd2954cf16eea59b14dd26ae66720e4e6"
@@ -5483,7 +5478,7 @@ prompts@^2.0.1, prompts@^2.4.0:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-prop-types@^15.5.10, prop-types@^15.7.2:
+prop-types@^15.5.10, prop-types@^15.6.2, prop-types@^15.7.2:
   version "15.7.2"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.7.2.tgz#52c41e75b8c87e72b9d9360e0206b99dcbffa6c5"
   integrity sha512-8QQikdH7//R2vurIJSutZ1smHYTcLpRWEOlHnzcWHmBYrOGUysKwSsrC89BCiFj3CbrfJ/nXFdJepOVrY1GCHQ==
@@ -5560,6 +5555,13 @@ react-native-calendars@^1.1254.0:
     prop-types "^15.5.10"
     react-native-swipe-gestures "^1.0.5"
     xdate "^0.8.0"
+
+react-native-camera@^3.43.0:
+  version "3.43.0"
+  resolved "https://registry.yarnpkg.com/react-native-camera/-/react-native-camera-3.43.0.tgz#12b8d2fadf008af252abb99c7d4a964bbf4cdbf0"
+  integrity sha512-I+04f5L+7Z6ZwUarw+79VePAB//VxidPVsv1Ec7+uuKv3rAkZ+8OBxtm1487OVrY6V3dMdl7BKByv4BIDUY1pQ==
+  dependencies:
+    prop-types "^15.6.2"
 
 react-native-codegen@^0.0.6:
   version "0.0.6"

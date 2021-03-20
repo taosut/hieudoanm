@@ -66,7 +66,13 @@ export default class Forex extends React.Component<Props, State> {
     return (
       <SafeAreaView style={styles.safeAreaView}>
         <View style={styles.inputContainer}>
-          <TextInput style={styles.input} placeholder="Bank" onChangeText={this.filter} editable />
+          <TextInput
+            style={styles.input}
+            placeholder="Bank"
+            onChangeText={this.filter}
+            placeholderTextColor={colors.gray}
+            editable
+          />
         </View>
         <View style={styles.container}>
           {loading && (

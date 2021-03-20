@@ -64,37 +64,45 @@ export default class Stock extends React.Component<Props, State> {
     const { loading = false, filterVisas = [] } = this.state;
     return (
       <SafeAreaView style={styles.safeAreaView}>
-        <View style={styles.inputContainer}>
-          <TextInput style={styles.input} placeholder="Query" onChangeText={this.filter} editable />
-        </View>
-        <View style={styles.listContainer}>
-          {loading && (
-            <View style={styles.loadingContainer}>
-              <ActivityIndicator />
-            </View>
-          )}
-          {!loading && (
-            <View>
-              {filterVisas.length === 0 && (
-                <View style={styles.noResults}>
-                  <Text style={styles.noResultsText}>NO RESULTS</Text>
-                </View>
-              )}
-              {filterVisas.length > 0 && (
-                <ScrollView>
-                  {filterVisas.map((visa, index) => {
-                    const { country = '', requirement = '' } = visa;
-                    return (
-                      <View key={index} style={styles.item}>
-                        <Text>{country}</Text>
-                        <Text>{requirement}</Text>
-                      </View>
-                    );
-                  })}
-                </ScrollView>
-              )}
-            </View>
-          )}
+        <View style={styles.container}>
+          <View style={styles.inputContainer}>
+            <TextInput
+              style={styles.input}
+              placeholder="Query"
+              onChangeText={this.filter}
+              placeholderTextColor={colors.gray}
+              editable
+            />
+          </View>
+          <View style={styles.listContainer}>
+            {loading && (
+              <View style={styles.loadingContainer}>
+                <ActivityIndicator />
+              </View>
+            )}
+            {!loading && (
+              <View>
+                {filterVisas.length === 0 && (
+                  <View style={styles.noResults}>
+                    <Text style={styles.noResultsText}>NO RESULTS</Text>
+                  </View>
+                )}
+                {filterVisas.length > 0 && (
+                  <ScrollView>
+                    {filterVisas.map((visa: any, index: number) => {
+                      const { country = '', requirement = '' } = visa;
+                      return (
+                        <View key={index} style={styles.item}>
+                          <Text>{country}</Text>
+                          <Text>{requirement}</Text>
+                        </View>
+                      );
+                    })}
+                  </ScrollView>
+                )}
+              </View>
+            )}
+          </View>
         </View>
       </SafeAreaView>
     );
@@ -106,7 +114,11 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: colors.white,
   },
+  container: {
+    flex: 1,
+  },
   inputContainer: {
+    flex: 1,
     borderBottomColor: colors.border,
     borderBottomWidth: 0.5,
     backgroundColor: colors.white,
@@ -124,11 +136,12 @@ const styles = StyleSheet.create({
     paddingLeft: 8,
     textAlign: 'center',
   },
+  listContainer: {
+    flex: 19,
+    backgroundColor: colors.white,
+  },
   loadingContainer: {
     padding: 16,
-  },
-  listContainer: {
-    backgroundColor: colors.white,
   },
   noResults: {
     padding: 16,

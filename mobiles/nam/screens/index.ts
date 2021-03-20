@@ -1,5 +1,7 @@
 import Calendar from './Calendar';
-import Eye from './Eye';
+// Eye
+import EyeCamera from './eye/Camera';
+import EyeImage from './eye/Image';
 // Forex
 import ForexCurrencies from './forex/Currencies';
 import ForexRates from './forex/Rates';
@@ -21,7 +23,8 @@ import WeatherForecast from './weather/Forecast';
 
 export {
   Calendar,
-  Eye,
+  EyeCamera,
+  EyeImage,
   ForexCurrencies,
   ForexRates,
   Home,

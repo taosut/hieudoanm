@@ -252,7 +252,13 @@ PODS:
     - React-jsi (= 0.64.0)
     - React-perflogger (= 0.64.0)
   - React-jsinspector (0.64.0)
-  - react-native-cameraroll (4.0.2):
+  - react-native-camera (3.43.0):
+    - React-Core
+    - react-native-camera/RCT (= 3.43.0)
+    - react-native-camera/RN (= 3.43.0)
+  - react-native-camera/RCT (3.43.0):
+    - React-Core
+  - react-native-camera/RN (3.43.0):
     - React-Core
   - react-native-safe-area-context (3.2.0):
     - React-Core
@@ -402,7 +408,7 @@ DEPENDENCIES:
   - React-jsi (from `../node_modules/react-native/ReactCommon/jsi`)
   - React-jsiexecutor (from `../node_modules/react-native/ReactCommon/jsiexecutor`)
   - React-jsinspector (from `../node_modules/react-native/ReactCommon/jsinspector`)
-  - "react-native-cameraroll (from `../node_modules/@react-native-community/cameraroll`)"
+  - react-native-camera (from `../node_modules/react-native-camera`)
   - react-native-safe-area-context (from `../node_modules/react-native-safe-area-context`)
   - React-perflogger (from `../node_modules/react-native/ReactCommon/reactperflogger`)
   - React-RCTActionSheet (from `../node_modules/react-native/Libraries/ActionSheetIOS`)
@@ -471,8 +477,8 @@ EXTERNAL SOURCES:
     :path: "../node_modules/react-native/ReactCommon/jsiexecutor"
   React-jsinspector:
     :path: "../node_modules/react-native/ReactCommon/jsinspector"
-  react-native-cameraroll:
-    :path: "../node_modules/@react-native-community/cameraroll"
+  react-native-camera:
+    :path: "../node_modules/react-native-camera"
   react-native-safe-area-context:
     :path: "../node_modules/react-native-safe-area-context"
   React-perflogger:
@@ -543,7 +549,7 @@ SPEC CHECKSUMS:
   React-jsi: 74341196d9547cbcbcfa4b3bbbf03af56431d5a1
   React-jsiexecutor: 06a9c77b56902ae7ffcdd7a4905f664adc5d237b
   React-jsinspector: 0ae35a37b20d5e031eb020a69cc5afdbd6406301
-  react-native-cameraroll: 1965db75c851b15e77a22ca0ac78e32af6b571ae
+  react-native-camera: f432fcf1b32b528bbf7c3543d3e3b1deb0c5b72a
   react-native-safe-area-context: f0906bf8bc9835ac9a9d3f97e8bde2a997d8da79
   React-perflogger: 9c547d8f06b9bf00cb447f2b75e8d7f19b7e02af
   React-RCTActionSheet: 3080b6e12e0e1a5b313c8c0050699b5c794a1b11
@@ -567,6 +573,6 @@ SPEC CHECKSUMS:
   Yoga: 8c8436d4171c87504c648ae23b1d81242bdf3bbf
   YogaKit: f782866e155069a2cca2517aafea43200b01fd5a
 
-PODFILE CHECKSUM: 6ea7bb0e0ee9bf3a6e8d3e707f7bd47a238d3493
+PODFILE CHECKSUM: 594696a75d2911d8e03d5f0371f09f2dc3e0d11a
 
 COCOAPODS: 1.10.1

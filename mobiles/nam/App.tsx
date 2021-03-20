@@ -9,7 +9,8 @@ import { createStackNavigator } from '@react-navigation/stack';
 
 import {
   Calendar,
-  Eye,
+  EyeCamera,
+  EyeImage,
   ForexCurrencies,
   ForexRates,
   Home,
@@ -37,8 +38,11 @@ export default class App extends React.Component {
           <Stack.Screen name="calendar" options={{ title: 'CALENDAR' }}>
             {props => <Calendar {...props} />}
           </Stack.Screen>
-          <Stack.Screen name="eye" options={{ title: 'EYE' }}>
-            {props => <Eye {...props} />}
+          <Stack.Screen name="eyecamera" options={{ title: 'EYE - CAMERA' }}>
+            {props => <EyeCamera {...props} />}
+          </Stack.Screen>
+          <Stack.Screen name="eyeimage" options={{ title: 'EYE - IMAGE' }}>
+            {props => <EyeImage {...props} />}
           </Stack.Screen>
           <Stack.Screen name="forexcurrencies" options={{ title: 'FOREX - CURRENCIES' }}>
             {props => <ForexCurrencies {...props} />}

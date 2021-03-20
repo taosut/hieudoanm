@@ -48,53 +48,55 @@ export default class Forecast extends React.Component<Props, State> {
       <SafeAreaView style={styles.safeAreaView}>
         <View style={styles.container}>
           {name.length > 0 && (
-            <View style={styles.city}>
+            <View style={styles.cityContainer}>
               <Text style={styles.title}>{name}</Text>
             </View>
           )}
-          {loading && (
-            <View style={styles.loadingContainer}>
-              <ActivityIndicator />
-            </View>
-          )}
-          {!loading && (
-            <View>
-              {list.length === 0 && (
-                <View style={styles.noResults}>
-                  <Text style={styles.noResultsText}>NO MATCHES</Text>
-                </View>
-              )}
-              {list.length > 0 && (
-                <ScrollView>
-                  {list.map((item: Record<string, any>, index: number) => {
-                    const { dt = 0, main: temperature = {}, weather = [] } = item;
-                    const { temp = 0, feels_like = 0 } = temperature;
-                    const [first = {}] = weather;
-                    const { main = '', description = '' } = first;
-                    const timestamp = dt * 1000 + 7 * 60 * 60 * 1000;
-                    const d = new Date(timestamp);
-                    const year = utils.addZero(d.getFullYear());
-                    const month = utils.addZero(d.getMonth() + 1);
-                    const date = utils.addZero(d.getDate());
-                    const hours = utils.addZero(d.getHours());
-                    const minutes = utils.addZero(d.getMinutes());
-                    const dt_txt = `${year}-${month}-${date} ${hours}:${minutes}`;
-                    return (
-                      <View key={index} style={styles.item}>
-                        <Text>{dt_txt}</Text>
-                        <Text>
-                          {temp}°C ({feels_like}°C)
-                        </Text>
-                        <Text>
-                          {main} ({description})
-                        </Text>
-                      </View>
-                    );
-                  })}
-                </ScrollView>
-              )}
-            </View>
-          )}
+          <View style={styles.listContainer}>
+            {loading && (
+              <View style={styles.loadingContainer}>
+                <ActivityIndicator />
+              </View>
+            )}
+            {!loading && (
+              <View>
+                {list.length === 0 && (
+                  <View style={styles.noResults}>
+                    <Text style={styles.noResultsText}>NO MATCHES</Text>
+                  </View>
+                )}
+                {list.length > 0 && (
+                  <ScrollView>
+                    {list.map((item: Record<string, any>, index: number) => {
+                      const { dt = 0, main: temperature = {}, weather = [] } = item;
+                      const { temp = 0, feels_like = 0 } = temperature;
+                      const [first = {}] = weather;
+                      const { main = '', description = '' } = first;
+                      const timestamp = dt * 1000 + 7 * 60 * 60 * 1000;
+                      const d = new Date(timestamp);
+                      const year = utils.addZero(d.getFullYear());
+                      const month = utils.addZero(d.getMonth() + 1);
+                      const date = utils.addZero(d.getDate());
+                      const hours = utils.addZero(d.getHours());
+                      const minutes = utils.addZero(d.getMinutes());
+                      const dt_txt = `${year}-${month}-${date} ${hours}:${minutes}`;
+                      return (
+                        <View key={index} style={styles.item}>
+                          <Text>{dt_txt}</Text>
+                          <Text>
+                            {temp}°C ({feels_like}°C)
+                          </Text>
+                          <Text>
+                            {main} ({description})
+                          </Text>
+                        </View>
+                      );
+                    })}
+                  </ScrollView>
+                )}
+              </View>
+            )}
+          </View>
         </View>
       </SafeAreaView>
     );
@@ -110,14 +112,21 @@ const styles = StyleSheet.create({
     flex: 1,
     flexDirection: 'column',
   },
-  city: {
+  cityContainer: {
+    flex: 1,
     padding: 16,
+    justifyContent: 'center',
+    alignItems: 'center',
     borderBottomColor: colors.border,
     borderBottomWidth: 1,
   },
   title: {
     textAlign: 'center',
     textTransform: 'uppercase',
+  },
+  listContainer: {
+    flex: 39,
+    backgroundColor: colors.white,
   },
   loadingContainer: {
     padding: 16,

@@ -12,6 +12,7 @@ import {
   faCloudSunRain,
   faPassport,
 } from '@fortawesome/free-solid-svg-icons';
+import { colors } from '../constant';
 
 type Props = {
   navigation: any;
@@ -23,7 +24,7 @@ export default class Home extends React.Component<Props> {
     const rows = [
       [
         { icon: faCalendar, screen: 'calendar', text: 'Calendar' },
-        { icon: faEye, screen: 'eye', text: 'Eye' },
+        { icon: faEye, screen: 'eyecamera', text: 'Eye' },
         { icon: faDollarSign, screen: 'forexcurrencies', text: 'Forex' },
       ],
       [
@@ -71,7 +72,7 @@ export default class Home extends React.Component<Props> {
 const styles = StyleSheet.create({
   safeAreaView: {
     flex: 1,
-    backgroundColor: '#fff',
+    backgroundColor: colors.white,
   },
   container: {
     flex: 1,
@@ -88,7 +89,7 @@ const styles = StyleSheet.create({
   cell: {
     flex: 1,
     borderWidth: 0.5,
-    borderColor: '#343a40',
+    borderColor: colors.border,
     justifyContent: 'center',
     alignItems: 'center',
   },
