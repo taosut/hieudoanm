@@ -34,7 +34,16 @@
 
 **MUSIC TRENDS**
 
-
+01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+02. [ROSÉ - GONE (Lyrics)](https://www.youtube.com/watch?v=9iBxbf2fjgw) - [Vibe Music](https://www.youtube.com/channel/UChO8h2G8UjOVc081rgYU8XQ)
+03. [Dua Lipa - Levitating ft. DaBaby / Don't Start Now (Live at the GRAMMYs 2021)](https://www.youtube.com/watch?v=vFWv44Z4Jhk) - [Dua Lipa](https://www.youtube.com/channel/UC-J-KZfRV8c13fOCkhXdLiQ)
+04. [Justin Bieber - Peaches ft. Daniel Caesar, Giveon](https://www.youtube.com/watch?v=tQ0yjYUFKAE) - [JustinBieberVEVO](https://www.youtube.com/channel/UCHkj014U2CQ2Nv0UZeYpE_A)
+05. [Jessi (제시) - '어떤X (What Type of X)' MV](https://www.youtube.com/watch?v=OEu1OWf8ezU) - [Jessi](https://www.youtube.com/channel/UCN2bQLTTvNPZWCWU5TYghKA)
+06. [BTS (방탄소년단) 'Dynamite' @ Music On A Mission | MusiCares](https://www.youtube.com/watch?v=ikgefER2O08) - [BANGTANTV](https://www.youtube.com/channel/UCLkAepWjdylmXSltofFvsYQ)
+07. [SUPER JUNIOR 슈퍼주니어 'House Party' MV](https://www.youtube.com/watch?v=BtJMOVKjhUo) - [SMTOWN](https://www.youtube.com/channel/UCEf_Bc-KVd7onSeifS3py9g)
+08. [Bruno Mars, Anderson .Paak, Silk Sonic - Leave the Door Open [Official Video]](https://www.youtube.com/watch?v=adLGHcj_fmA) - [Bruno Mars](https://www.youtube.com/channel/UCoUM-UJ7rirJYP8CQ0EIaHA)
+09. [Imagine Dragons - Follow You (Official Music Video)](https://www.youtube.com/watch?v=k3zimSRKqNw) - [ImagineDragonsVEVO](https://www.youtube.com/channel/UCpx_k19S2vUutWUUM9qmXEg)
+10. [Maroon 5 - Beautiful Mistakes ft. Megan Thee Stallion (Official Music Video)](https://www.youtube.com/watch?v=BSzSn-PRdtI) - [Maroon5VEVO](https://www.youtube.com/channel/UCN1hnUccO4FD5WfM7ithXaw)
 
 [Read More](https://www.youtube.com/feed/trending?bp=4gIuCggvbS8wNHJsZhIiUExGZ3F1TG5MNTlhbW42X05FZFc5TGswZDdXZWVST0Q2VA%3D%3D)
 
@@ -42,7 +51,16 @@
 
 **YOUTUBE TRENDS**
 
-
+01. [ROSÉ - 'On The Ground' M/V](https://www.youtube.com/watch?v=CKZvWhCqx1s) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
+02. [SAO CHA KHÔNG - PHAN MẠNH QUỲNH | OFFICIAL MV | OST BỐ GIÀ 2021](https://www.youtube.com/watch?v=TD7sBUigDIU) - [TRẤN THÀNH TOWN](https://www.youtube.com/channel/UCqL0-EknCK4m5pHrH79fOcw)
+03. [Juky San bất ngờ sau bức tường là anh Bo Đan Trường, song ca "Thiên hạ hữu tình nhân" cực hay](https://www.youtube.com/watch?v=3O1qpIC0mOQ) - [VieTalents](https://www.youtube.com/channel/UCBVSuk_f8ZCPIQ_KwXEGWFw)
+04. [TẠM BIỆT...](https://www.youtube.com/watch?v=5djwsYBZ7ys) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
+05. [Lời Giải Thích Từ Thơ Nguyễn Về Tin Đồn Nuôi Kumanthong](https://www.youtube.com/watch?v=m2yWFAavuaM) - [Thơ Nguyễn](https://www.youtube.com/channel/UCSJsjCiTl2lourZXnigVCoA)
+06. [XHTDRLX [Mashup] Ngày Chưa Giông Bão x Always Remember Us This Way | Hoà Minzy x Văn Mai Hương](https://www.youtube.com/watch?v=qiI4XNUoiyg) - [FOREST STUDIO](https://www.youtube.com/channel/UCTOWyiIkPEqyh_2O-ArJR5w)
+07. [BI LONG ĐẠI CA Tập 9 | Hứa Minh Đạt, Khả Như, Steven Nguyễn, Lợi Trần | Webdrama Yang Hồ 2021](https://www.youtube.com/watch?v=h1CGsS5iXgU) - [NhacPro Tube](https://www.youtube.com/channel/UCBZjBKNMZoFih4ubdiIDWLw)
+08. [Bạn Khỉ Tham Lam – Bài Học Phải Biết Chia Sẻ ❤ BIBI TV ❤](https://www.youtube.com/watch?v=MmlnSXqd6-E) - [BIBI TV](https://www.youtube.com/channel/UCFcBDfR_dtmllkpcoYH2Rmg)
+09. [YÊN TÂM ĐI LÍNH, NGƯỜI YÊU MÀY Ở NHÀ TAO LO | PHIM TÌNH CẢM THANH XUÂN GÃY SCHOOL](https://www.youtube.com/watch?v=7dZgf6_f0-A) - [GÃY SCHOOL](https://www.youtube.com/channel/UCgPMNspYfOQlezMbnjh1Irg)
+10. [ROSÉ - 'On The Ground' 0314 SBS Inkigayo](https://www.youtube.com/watch?v=Q88P1gpOJxA) - [BLACKPINK](https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A)
 
 [Read More](https://www.youtube.com/feed/trending)
 
