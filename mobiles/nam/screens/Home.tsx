@@ -24,12 +24,12 @@ export default class Home extends React.Component<Props> {
       [
         { icon: faCalendar, screen: 'calendar', text: 'Calendar' },
         { icon: faEye, screen: 'eye', text: 'Eye' },
-        { icon: faDollarSign, screen: 'forex', text: 'Forex' },
+        { icon: faDollarSign, screen: 'forexcurrencies', text: 'Forex' },
       ],
       [
         { icon: faCar, screen: 'license', text: 'License' },
         { icon: faNewspaper, screen: 'newstrends', text: 'News' },
-        { icon: faChartLine, screen: 'stock', text: 'Stock' },
+        { icon: faChartLine, screen: 'stockcompanies', text: 'Stock' },
       ],
       [
         { icon: faPassport, screen: 'visas', text: 'Visas' },

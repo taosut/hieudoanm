@@ -50,6 +50,20 @@ export default class API {
     return weather;
   }
 
+  public async getWeatherForecast(city: string): Promise<Record<string, any>> {
+    const forecast: Record<string, any> = await this.fetch(`weather/forecast?city=${city}`);
+    return forecast;
+  }
+
+  public async getAirVisual(city: string): Promise<number> {
+    const airVisual: Record<string, any> =
+      (await this.fetch(`weather/air-visual?city=${city}`)) || {};
+    const { current = {} } = airVisual;
+    const { pollution = {} } = current;
+    const { aqius = 0 } = pollution;
+    return aqius;
+  }
+
   public async convertSolarToLunar(
     date: number,
     month: number,

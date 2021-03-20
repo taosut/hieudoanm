@@ -4,67 +4,71 @@
  */
 
 import React from 'react';
-import { SafeAreaView, View, StyleSheet, ActivityIndicator, ScrollView, Text } from 'react-native';
-import { Picker } from '@react-native-picker/picker';
+import {
+  SafeAreaView,
+  View,
+  StyleSheet,
+  ActivityIndicator,
+  ScrollView,
+  Text,
+  TextInput,
+} from 'react-native';
 
-import { colors } from '../constant';
-import { api } from '../services';
+import { colors } from '../../constant';
+import { api, utils } from '../../services';
 
-type Props = {};
+type Props = { route: any };
 
 type State = {
   loading: boolean;
   rates: Array<any>;
-  currency: string;
-  currencies: Array<string>;
+  filterRates: Array<any>;
 };
 
 export default class Forex extends React.Component<Props, State> {
   constructor(props: Props) {
     super(props);
 
-    this.state = { loading: false, rates: [], currency: '', currencies: [] };
+    this.state = { loading: false, rates: [], filterRates: [] };
 
     this.getBanksForexRates = this.getBanksForexRates.bind(this);
-    this.setCurrency = this.setCurrency.bind(this);
+    this.filter = this.filter.bind(this);
   }
 
   async componentDidMount(): Promise<void> {
-    await this.getBanksForexRates();
-  }
-
-  async setCurrency(currency: string = ''): Promise<void> {
-    this.setState({ currency });
+    const { route = {} } = this.props;
+    const { params = {} } = route;
+    const { currency = '' } = params;
     await this.getBanksForexRates(currency);
   }
 
-  async getBanksForexRates(currency: string = '') {
+  filter(query: string) {
+    const { rates = [] } = this.state;
+    const filterRates = rates.filter((rate: any) => {
+      const { bank = '' } = rate;
+      const bankFlag: boolean = query
+        ? bank.toString().toLowerCase().includes(query.toLowerCase())
+        : true;
+      return bankFlag;
+    });
+    this.setState({ filterRates });
+  }
+
+  async getBanksForexRates(currency: string) {
     this.setState({ loading: true });
     const rates: Array<Record<string, any>> = await api.getBanksForexRates(currency);
-    const currencies: Array<string> = rates
-      .map(rate => rate.code || '')
-      .filter(code => code)
-      .filter((code: string, index: number, array: Array<string>) => array.indexOf(code) === index)
-      .sort();
-    this.setState({ loading: false, rates, currencies });
+    this.setState({ loading: false, rates, filterRates: rates });
   }
 
   render() {
-    const { loading = false, rates = [], currencies = [], currency = '' } = this.state;
+    const { loading = false, filterRates = [] } = this.state;
 
     return (
       <SafeAreaView style={styles.safeAreaView}>
+        <View style={styles.inputContainer}>
+          <TextInput style={styles.input} placeholder="Bank" onChangeText={this.filter} editable />
+        </View>
         <View style={styles.container}>
-          <View style={styles.selectContainer}>
-            <Picker
-              selectedValue={currency}
-              onValueChange={itemValue => this.setCurrency(itemValue)}>
-              <Picker.Item label="Currency" value="" />
-              {currencies.map((_currency: string, index: number) => (
-                <Picker.Item key={index} label={_currency} value={_currency} />
-              ))}
-            </Picker>
-          </View>
           {loading && (
             <View style={styles.loadingContainer}>
               <ActivityIndicator />
@@ -72,19 +76,19 @@ export default class Forex extends React.Component<Props, State> {
           )}
           {!loading && (
             <View>
-              {rates.length === 0 && (
+              {filterRates.length === 0 && (
                 <View style={styles.noResults}>
-                  <Text style={styles.noResultsText}>NO LICENSE PLATES</Text>
+                  <Text style={styles.noResultsText}>NO FOREX RATES</Text>
                 </View>
               )}
-              {rates.length > 0 && (
+              {filterRates.length > 0 && (
                 <ScrollView>
-                  {rates.map((rate: Record<string, any>, index: number) => {
+                  {filterRates.map((rate: Record<string, any>, index: number) => {
                     const { bank, code, buyCash, buyTransfer, sellCash, sellTransfer } = rate;
                     return (
                       <View key={index} style={styles.item}>
                         <Text>
-                          {bank} - {code}
+                          {utils.addZero(index + 1)} - {bank} - {code}
                         </Text>
                         <Text>
                           Buy: {buyCash}đ (Cash) - {buyTransfer}đ (Transfer)
@@ -109,6 +113,24 @@ const styles = StyleSheet.create({
   safeAreaView: {
     flex: 1,
     backgroundColor: '#fff',
+  },
+  inputContainer: {
+    borderBottomColor: colors.border,
+    borderBottomWidth: 0.5,
+    backgroundColor: colors.white,
+    padding: 16,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  input: {
+    backgroundColor: colors.white,
+    width: '100%',
+    height: 32,
+    borderColor: colors.border,
+    borderRadius: 8,
+    borderWidth: 1,
+    paddingLeft: 8,
+    textAlign: 'center',
   },
   container: {
     flex: 1,

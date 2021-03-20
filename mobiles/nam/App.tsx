@@ -10,16 +10,18 @@ import { createStackNavigator } from '@react-navigation/stack';
 import {
   Calendar,
   Eye,
-  Forex,
+  ForexCurrencies,
+  ForexRates,
   Home,
   License,
   NewsArticles,
   NewsTrends,
-  Stock,
+  StockCompanies,
   Visas,
   VLeagueMatches,
   VLeagueTable,
-  Weather,
+  WeatherAll,
+  WeatherForecast,
 } from './screens';
 
 const Stack = createStackNavigator();
@@ -38,8 +40,11 @@ export default class App extends React.Component {
           <Stack.Screen name="eye" options={{ title: 'EYE' }}>
             {props => <Eye {...props} />}
           </Stack.Screen>
-          <Stack.Screen name="forex" options={{ title: 'FOREX' }}>
-            {props => <Forex {...props} />}
+          <Stack.Screen name="forexcurrencies" options={{ title: 'FOREX - CURRENCIES' }}>
+            {props => <ForexCurrencies {...props} />}
+          </Stack.Screen>
+          <Stack.Screen name="forexrates" options={{ title: 'FOREX - RATES' }}>
+            {props => <ForexRates {...props} />}
           </Stack.Screen>
           <Stack.Screen name="license" options={{ title: 'LICENSE' }}>
             {props => <License {...props} />}
@@ -50,8 +55,8 @@ export default class App extends React.Component {
           <Stack.Screen name="newstrends" options={{ title: 'NEWS - TRENDS' }}>
             {props => <NewsTrends {...props} />}
           </Stack.Screen>
-          <Stack.Screen name="stock" options={{ title: 'STOCK' }}>
-            {props => <Stock {...props} />}
+          <Stack.Screen name="stockcompanies" options={{ title: 'STOCK - COMPANIES' }}>
+            {props => <StockCompanies {...props} />}
           </Stack.Screen>
           <Stack.Screen name="visas" options={{ title: 'VISAS' }}>
             {props => <Visas {...props} />}
@@ -63,7 +68,10 @@ export default class App extends React.Component {
             {props => <VLeagueTable {...props} />}
           </Stack.Screen>
           <Stack.Screen name="weather" options={{ title: 'WEATHER' }}>
-            {props => <Weather {...props} />}
+            {props => <WeatherAll {...props} />}
+          </Stack.Screen>
+          <Stack.Screen name="weatherforecast" options={{ title: 'WEATHER - FORECAST' }}>
+            {props => <WeatherForecast {...props} />}
           </Stack.Screen>
         </Stack.Navigator>
       </NavigationContainer>
