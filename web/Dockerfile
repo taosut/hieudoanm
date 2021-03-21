@@ -15,8 +15,11 @@ RUN wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key
     && echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list
 RUN apt-get update && apt-get install google-chrome-stable -y
 # Install Node.js
-RUN curl -sL https://deb.nodesource.com/setup_14.x | bash
-RUN apt-get install nodejs -y
+RUN curl -sL https://deb.nodesource.com/setup_14.x | bash -
+RUN cat /etc/apt/sources.list.d/nodesource.list
+RUN deb https://deb.nodesource.com/node_14.x focal main
+RUN deb-src https://deb.nodesource.com/node_14.x focal main
+RUN apt -y install nodejs
 RUN node -v
 RUN npm -v
 # Install yarn
@@ -38,8 +41,6 @@ COPY express /var/server/express
 COPY express/package.json /var/server/express/package.json
 # Install && Build Server
 RUN yarn install --production=false && yarn build
-# List all files in express
-RUN ls -la /var/server/express
 # Set WORKDIR to angular
 WORKDIR /var/server/angular
 # COPY ALL to angular
@@ -47,12 +48,8 @@ COPY angular /var/server/angular
 COPY angular/package.json /var/server/angular/package.json
 # Install Web
 RUN yarn install --production=false && yarn build
-# List all files in angular
-RUN ls -la /var/server/angular
 # Set WORKDIR to express
 WORKDIR /var/server/express
-# List all files in express
-RUN ls -la /var/server/express
 # Copy contents of `dist` folder to `app`
 RUN cp -a /var/server/express/dist/. /var/server/app/
 # Copy package.json
@@ -65,8 +62,6 @@ WORKDIR /var/server/app
 RUN apt-get install -y node-gyp
 # Install dependencies (if any) in package.json
 RUN yarn install --ignore-engines
-# List all files
-RUN ls -la /var/server/app
 # Expose port from container so host can access $PORT
 EXPOSE $PORT
 # start the app on load
