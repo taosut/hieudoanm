@@ -6,6 +6,8 @@ export {
   // Interfaces
   IAdministrativeDivisionsWard,
   IBanksForexRate,
+  IEventAttendant,
+  // Finance
   IFinanceStockHistoryData,
   IFinanceStockIndicator,
   IFinanceStockListedCompany,
@@ -15,6 +17,7 @@ export {
   // Models
   AdministrativeDivisionsWard,
   BanksForexRate,
+  EventAttendant,
   FinanceStockHistoryData,
   FinanceStockIndicator,
   FinanceStockListedCompany,

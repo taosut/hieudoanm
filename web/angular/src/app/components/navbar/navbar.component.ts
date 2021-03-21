@@ -15,6 +15,7 @@ import {
   faUserPlus,
   faCoins,
   faChartLine,
+  faQrcode,
 } from "@fortawesome/free-solid-svg-icons";
 import { Store } from "@ngrx/store";
 
@@ -56,6 +57,7 @@ export class NavbarComponent implements OnInit {
   public globalAppsNavItems: Array<NavItem> = [
     { link: "/camera", icon: faCamera, text: "Camera" },
     { link: "/forex", icon: faCoins, text: "Forex" },
+    { link: "/qrcodes", icon: faQrcode, text: "QR Codes" },
     { link: "/stock", icon: faChartLine, text: "Stock" },
   ];
 

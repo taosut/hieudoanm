@@ -11,6 +11,7 @@ import LicensePlatesService from './license-plates';
 import MusicService from './music';
 import NewsService from './news';
 import OpenAPIsService from './open-apis';
+import QRCodesService from './qr-codes';
 import TelegramService from './telegram';
 import USAService from './usa';
 import VisasService from './visas';
@@ -29,6 +30,7 @@ export const licensePlatesService: LicensePlatesService = new LicensePlatesServi
 export const musicService: MusicService = new MusicService();
 export const newsService: NewsService = new NewsService();
 export const openAPIsService: OpenAPIsService = new OpenAPIsService();
+export const qrCodesService: QRCodesService = new QRCodesService();
 export const telegramService: TelegramService = new TelegramService();
 export const usaService: USAService = new USAService();
 export const visasService: VisasService = new VisasService();

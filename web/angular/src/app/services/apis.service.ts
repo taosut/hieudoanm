@@ -276,6 +276,22 @@ export class ApisService {
     return await this.httpService.get(url);
   }
 
+  public async getQRCode(id: string): Promise<any> {
+    const { base } = this;
+    const url: string = `${base}/qrcodes?id=${id}`;
+    return await this.httpService.get(url);
+  }
+
+  public async createQRCode(
+    name: string,
+    email: string,
+    organization: string
+  ): Promise<any> {
+    const { base } = this;
+    const url: string = `${base}/qrcodes`;
+    return await this.httpService.post(url, { name, email, organization });
+  }
+
   public uploadBankImage(file: File): Promise<any> {
     const { base } = this;
     const formData: FormData = new FormData();

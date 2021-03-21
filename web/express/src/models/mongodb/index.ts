@@ -5,6 +5,7 @@ export {
   AdministrativeDivisionsWard
 } from './administrative-divisions-wards';
 export { IBanksForexRate, BanksForexRate } from './banks-forex-rate';
+export { IEventAttendant, EventAttendant } from './event-attendant';
 export {
   IFinanceStockListedCompany,
   FinanceStockListedCompany

@@ -5,6 +5,7 @@ import { MongooseService } from '../libs';
 import {
   AdministrativeDivisionsWard,
   BanksForexRate,
+  EventAttendant,
   FinanceStockListedCompany,
   FinanceStockHistoryData,
   FinanceStockIndicator,
@@ -16,6 +17,7 @@ import {
 export const dsAdministrativeDivisionsWard: MongooseService = new MongooseService(
   AdministrativeDivisionsWard
 );
+export const dsEventAttendant: MongooseService = new MongooseService(EventAttendant);
 export const dsBanksForexRate: MongooseService = new MongooseService(BanksForexRate);
 export const dsFinanceStockListedCompany: MongooseService = new MongooseService(
   FinanceStockListedCompany

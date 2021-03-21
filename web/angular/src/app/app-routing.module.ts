@@ -26,6 +26,10 @@ import { AppsWalletComponent } from "./pages/apps-wallet/apps-wallet.component";
 import { AppsSettingsComponent } from "./pages/apps-settings/apps-settings.component";
 import { AppsForexComponent } from "./pages/apps-forex/apps-forex.component";
 import { AppsStockComponent } from "./pages/apps-stock/apps-stock.component";
+// QR Codes
+import { AppsQrcodesComponent } from "./pages/apps-qrcodes/apps-qrcodes.component";
+import { AppsQrcodesFormComponent } from "./pages/apps-qrcodes-form/apps-qrcodes-form.component";
+import { AppsQrcodesInfoComponent } from "./pages/apps-qrcodes-info/apps-qrcodes-info.component";
 
 const routes: Routes = [
   { path: "", component: DocsHomeComponent },
@@ -39,6 +43,15 @@ const routes: Routes = [
   { path: "forex", component: AppsForexComponent },
   { path: "stock", component: AppsStockComponent },
   { path: "camera", component: AppsCameraComponent },
+  {
+    path: "qrcodes",
+    component: AppsQrcodesComponent,
+    children: [
+      { path: "form", component: AppsQrcodesFormComponent },
+      { path: "info", component: AppsQrcodesInfoComponent },
+      { path: "**", component: AppsQrcodesFormComponent },
+    ],
+  },
   {
     path: "me",
     canActivate: [AuthGuard],

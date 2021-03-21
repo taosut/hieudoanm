@@ -46,6 +46,7 @@ const serverOnError: any = (error: any = {}) => {
 
 const serveStatic = (app: express.Application) => {
   app.use(express.static('web'));
+  app.use(express.static('images'));
 
   if (NODE_ENV === 'production') {
     app.route('/').get((req, res) => {

@@ -1,0 +1,51 @@
+<div class="card">
+  <div class="card-body">
+    <form [formGroup]="qrForm" (ngSubmit)="createQRCode()">
+      <div class="form-group">
+        <label>Name</label>
+        <input
+          type="text"
+          name="name"
+          class="form-control"
+          placeholder="Name"
+          formControlName="name"
+          [disabled]="true"
+          required
+        />
+      </div>
+      <div class="form-group">
+        <label>Email</label>
+        <input
+          type="email"
+          name="email"
+          class="form-control"
+          placeholder="Email"
+          formControlName="email"
+          [disabled]="true"
+          required
+        />
+      </div>
+      <div class="form-group">
+        <label>Organization</label>
+        <input
+          type="text"
+          name="organization"
+          class="form-control"
+          placeholder="Organization"
+          formControlName="organization"
+          [disabled]="true"
+          required
+        />
+      </div>
+      <button
+        type="submit"
+        name="createQRCode"
+        class="btn w-100 text-uppercase"
+        [disabled]="qrForm.invalid"
+        [ngClass]="button"
+      >
+        Submit
+      </button>
+    </form>
+  </div>
+</div>

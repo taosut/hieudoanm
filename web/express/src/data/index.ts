@@ -3,6 +3,7 @@
 export {
   dsAdministrativeDivisionsWard,
   dsBanksForexRate,
+  dsEventAttendant,
   dsFinanceStockHistoryData,
   dsFinanceStockIndicator,
   dsFinanceStockListedCompany,

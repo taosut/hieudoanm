@@ -68,10 +68,9 @@ export const jwt: JWT = new JWT(SECRET_X_TOKEN);
 const BCRYPT_ROUNDS: number = parseInt(process.env.BCRYPT_ROUNDS || '6', 10) || 6;
 export const bcrypt: BCrypt = new BCrypt(BCRYPT_ROUNDS);
 
-const MAILER_SERVICE: string = process.env.MAILER_SERVICE || '';
 const MAILER_EMAIL: string = process.env.MAILER_EMAIL || '';
 const MAILER_PASSWORD: string = process.env.MAILER_PASSWORD || '';
-export const mailer: Mailer = new Mailer(MAILER_SERVICE, MAILER_EMAIL, MAILER_PASSWORD);
+export const mailer: Mailer = new Mailer(MAILER_EMAIL, MAILER_PASSWORD);
 
 const URL_BASE = process.env.URL_BASE || 'http://localhost:8080';
 export const socket: Socket = new Socket(URL_BASE);
