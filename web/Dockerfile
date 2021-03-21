@@ -19,7 +19,8 @@ RUN apt-get update && apt-get install google-chrome-stable -y
 # RUN bash nodesource_setup.sh
 # RUN deb https://deb.nodesource.com/node_14.x focal main
 # RUN deb-src https://deb.nodesource.com/node_14.x focal main
-RUN apt install nodejs -y
+RUN apt update
+RUN apt install npm nodejs -y
 RUN nodejs -v
 RUN npm -v
 # Install yarn
