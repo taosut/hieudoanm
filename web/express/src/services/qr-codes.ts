@@ -4,7 +4,7 @@ import QRCode from 'qrcode';
 import fs from 'fs';
 import path from 'path';
 
-import { utils, mailer } from '../libs';
+import { utils, nodeMailer, sendInBlue } from '../libs';
 
 import { dsEventAttendant } from '../data';
 
@@ -28,7 +28,7 @@ export default class QRCodesService {
     const { email = '' } = newAttendant;
     const subject: string = 'Test Subject';
     const content: string = `<img src="${url}">`;
-    const sendMailResponse = await mailer.sendMail([email], subject, content);
+    const sendMailResponse = await nodeMailer.sendMail([email], subject, content);
     console.log('sendMailResponse', sendMailResponse);
     return newAttendant;
   }

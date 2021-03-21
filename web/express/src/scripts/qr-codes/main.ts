@@ -3,7 +3,7 @@
 import QRCode from 'qrcode';
 import fs from 'fs';
 
-import { utils, mailer } from '../../libs';
+import { utils, nodeMailer } from '../../libs';
 
 const main = async () => {
   const id: string = utils.uuid();
@@ -18,7 +18,7 @@ const main = async () => {
   console.log('base64', base64);
   console.log(__dirname);
   await fs.writeFileSync(`./${id}.png`, Buffer.from(base64, 'base64'));
-  // const res = await mailer.sendMail([email], 'Test Subject', '');
+  // const res = await nodeMailer.sendMail([email], 'Test Subject', '');
   // console.log(res);
 };
 

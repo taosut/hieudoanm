@@ -22,7 +22,8 @@ import { AirVisual, OpenWeatherMap } from './weather';
 import ProPublica from './propublica';
 import YouTube from './youtube';
 import { RandomUser } from './tests';
-import Mailer from './mailer';
+import NodeMailer from './mail/node-mailer';
+import SendInBlue from './mail/send-in-blue';
 import { IPAPI, Socket, Statuses } from './system';
 
 import Vietcetera from 'vietcetera';
@@ -70,7 +71,11 @@ export const bcrypt: BCrypt = new BCrypt(BCRYPT_ROUNDS);
 
 const MAILER_EMAIL: string = process.env.MAILER_EMAIL || '';
 const MAILER_PASSWORD: string = process.env.MAILER_PASSWORD || '';
-export const mailer: Mailer = new Mailer(MAILER_EMAIL, MAILER_PASSWORD);
+export const nodeMailer: NodeMailer = new NodeMailer(MAILER_EMAIL, MAILER_PASSWORD);
+
+const SEND_IN_BLUE_EMAIL: string = process.env.SEND_IN_BLUE_EMAIL || '';
+const SEND_IN_BLUE_API_KEY: string = process.env.SEND_IN_BLUE_API_KEY || '';
+export const sendInBlue: SendInBlue = new SendInBlue(SEND_IN_BLUE_EMAIL, SEND_IN_BLUE_API_KEY);
 
 const URL_BASE = process.env.URL_BASE || 'http://localhost:8080';
 export const socket: Socket = new Socket(URL_BASE);

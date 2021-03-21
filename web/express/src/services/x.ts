@@ -3,7 +3,16 @@
 import _ from 'lodash';
 
 import { dsXUser, dsXTransaction, dsXContact } from '../data';
-import { bcrypt, jwt, utils, logger, esClient, mailer, googleAuth, facebookAuth } from '../libs';
+import {
+  bcrypt,
+  jwt,
+  utils,
+  logger,
+  esClient,
+  nodeMailer,
+  googleAuth,
+  facebookAuth
+} from '../libs';
 import { IXUser } from '../models';
 
 const URL_BASE: string = process.env.URL_BASE || '';
@@ -419,7 +428,7 @@ export default class XService {
   }
 
   private async sendMail(emails: Array<string>, subject: string, text: string): Promise<void> {
-    const sendMailResponse: any = await mailer.sendMail(emails, subject, text);
+    const sendMailResponse: any = await nodeMailer.sendMail(emails, subject, text);
     logger.info(`sendMail ${sendMailResponse}`);
   }
 
