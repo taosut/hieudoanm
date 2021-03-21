@@ -6,6 +6,7 @@ LABEL maintainer "HIEU <hieumdoan@gmail.com>"
 ARG CACHEBUST=1
 # Set NODE_ENV to production
 ENV NODE_ENV production
+ENV DEBIAN_FRONTEND=noninteractive
 # Install Google Chrome
 RUN apt-get update -y
 RUN apt-get upgrade -y
