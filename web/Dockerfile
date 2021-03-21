@@ -1,5 +1,5 @@
-# A ubuntu:trusty box
-FROM ubuntu:trusty
+# A ubuntu:focal box
+FROM ubuntu:focal
 # Who(m) to blame if nothing works
 LABEL maintainer "HIEU <hieumdoan@gmail.com>"
 # Clear cache
@@ -24,13 +24,13 @@ RUN apt install npm nodejs -y
 RUN nodejs -v
 RUN npm -v
 # Install yarn
-RUN curl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
-RUN echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
-RUN apt-get update -y
-RUN apt-get install yarn -y
-RUN yarn --version
+# RUN curl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
+# RUN echo "deb https://dl.yarnpkg.com/debian/ stable main" | sudo tee /etc/apt/sources.list.d/yarn.list
+# RUN apt-get update -y
+# RUN apt-get install yarn -y
+# RUN yarn --version
 # Install TypeScript
-RUN yarn global add typescript @angular/cli
+RUN npm install -g typescript @angular/cli
 # Create WORKDIR
 RUN mkdir -p /var/server/app
 RUN mkdir -p /var/server/express
@@ -41,28 +41,28 @@ WORKDIR /var/server/express
 COPY express /var/server/express
 COPY express/package.json /var/server/express/package.json
 # Install && Build Server
-RUN yarn install --production=false && yarn build
+RUN npm install --production=false && npm run build
 # Set WORKDIR to angular
 WORKDIR /var/server/angular
 # COPY ALL to angular
 COPY angular /var/server/angular
 COPY angular/package.json /var/server/angular/package.json
 # Install Web
-RUN yarn install --production=false && yarn build
+RUN npm install --production=false && npm run build
 # Set WORKDIR to express
 WORKDIR /var/server/express
 # Copy contents of `dist` folder to `app`
 RUN cp -a /var/server/express/dist/. /var/server/app/
 # Copy package.json
 RUN cp /var/server/express/package.json /var/server/app/package.json
-# Copy yarn.lock
-RUN cp /var/server/express/yarn.lock /var/server/app/yarn.lock
+# Copy package-lock.json
+RUN cp /var/server/express/package-lock.json /var/server/app/package-lock.json
 # Set WORKDIR to app
 WORKDIR /var/server/app
 # Install node-gyp
 RUN apt-get install -y node-gyp
 # Install dependencies (if any) in package.json
-RUN yarn install --ignore-engines
+RUN npm install --ignore-engines
 # Expose port from container so host can access $PORT
 EXPOSE $PORT
 # start the app on load
