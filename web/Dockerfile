@@ -15,12 +15,12 @@ RUN wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key
     && echo "deb http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list
 RUN apt-get update && apt-get install google-chrome-stable -y
 # Install Node.js
-RUN curl -sL https://deb.nodesource.com/setup_14.x -o nodesource_setup.sh
-RUN bash nodesource_setup.sh
+# RUN curl -sL https://deb.nodesource.com/setup_14.x -o nodesource_setup.sh
+# RUN bash nodesource_setup.sh
 # RUN deb https://deb.nodesource.com/node_14.x focal main
 # RUN deb-src https://deb.nodesource.com/node_14.x focal main
 RUN apt install nodejs -y
-RUN node -v
+RUN nodejs -v
 RUN npm -v
 # Install yarn
 RUN curl -sL https://dl.yarnpkg.com/debian/pubkey.gpg | sudo apt-key add -
